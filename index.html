@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" class="dark">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -80,22 +80,34 @@
             // --- Dark Mode Logic ---
             const toggle = document.getElementById('dark-mode-toggle');
             const html = document.documentElement;
-            if (localStorage.getItem('theme') === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
-                html.classList.add('dark');
-                toggle.checked = true;
-            } else {
-                html.classList.remove('dark');
-                toggle.checked = false;
-            }
-            toggle.addEventListener('change', () => {
-                if (toggle.checked) {
+
+            // Function to apply theme
+            const applyTheme = (theme) => {
+                if (theme === 'dark') {
                     html.classList.add('dark');
-                    localStorage.setItem('theme', 'dark');
+                    toggle.checked = true;
                 } else {
                     html.classList.remove('dark');
-                    localStorage.setItem('theme', 'light');
+                    toggle.checked = false;
                 }
+            };
+
+            // Set initial theme on page load
+            const savedTheme = localStorage.getItem('theme');
+            const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+            if (savedTheme) {
+                applyTheme(savedTheme);
+            } else {
+                applyTheme(prefersDark ? 'dark' : 'light');
+            }
+            
+            // Listen for toggle changes
+            toggle.addEventListener('change', () => {
+                const newTheme = toggle.checked ? 'dark' : 'light';
+                localStorage.setItem('theme', newTheme);
+                applyTheme(newTheme);
             });
+
 
             const showSkeletonLoader = (count = 12) => {
                 let skeletonHTML = '<div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">';
@@ -130,7 +142,10 @@
                 const today = new Date().toLocaleDateString('en-CA');
                 const yesterday = new Date(Date.now() - 86400000).toLocaleDateString('en-CA');
 
-                for (const date in groupedByDate) {
+                // Sort the dates so the newest appear first
+                const sortedDates = Object.keys(groupedByDate).sort((a, b) => new Date(b) - new Date(a));
+
+                for (const date of sortedDates) {
                     let dateLabel;
                     if (date === today) {
                         dateLabel = 'Today';
