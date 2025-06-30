@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Automated News Website By Suvojeet</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+        .card-hover:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+        }
+    </style>
+</head>
+<body class="bg-gray-100 dark:bg-gray-900 text-gray-800 dark:text-gray-200">
+
+    <!-- Header -->
+    <header class="bg-white dark:bg-gray-800 shadow-md">
+        <div class="container mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex items-center justify-between h-20">
+                <div class="flex items-center">
+                    <i class="fas fa-robot text-3xl text-indigo-600 dark:text-indigo-400"></i>
+                    <h1 class="text-xl sm:text-2xl font-bold ml-3">Automated News By Suvojeet</h1>
+                </div>
+                <div class="text-xs sm:text-sm text-gray-500 dark:text-gray-400 text-right">
+                    <p class="font-semibold">Last Updated:</p>
+                    <p id="last-updated">Loading...</p>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="container mx-auto px-4 sm:px-6 lg:px-8 py-8">
+        <h2 class="text-3xl font-bold mb-6 text-center">Latest Technology News</h2>
+        
+        <div id="loading-spinner" class="text-center">
+             <i class="fas fa-spinner fa-spin fa-3x text-indigo-500"></i>
+             <p class="mt-2">Fetching latest news for you...</p>
+        </div>
+
+        <div id="news-grid" class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+            <!-- News articles will be injected here by JavaScript -->
+        </div>
+        
+        <div id="error-message" class="hidden text-center text-red-500 bg-red-100 dark:bg-red-900 dark:text-red-300 p-4 rounded-lg">
+            <h3 class="font-bold">Oops! Something went wrong.</h3>
+            <p>Could not fetch the news articles. This might be because the daily news update hasn't run yet or there's an issue with the data source. Please check back later.</p>
+            <p class="text-sm mt-2">Error details will be in the browser console.</p>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-white dark:bg-gray-800 mt-12 py-6">
+        <div class="container mx-auto px-4 text-center text-gray-600 dark:text-gray-400">
+            <p>&copy; <span id="year"></span> Automated News Website By Suvojeet. All rights reserved.</p>
+            <p class="text-sm mt-1">Powered by GitHub Pages & Actions</p>
+        </div>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const newsGrid = document.getElementById('news-grid');
+            const loadingSpinner = document.getElementById('loading-spinner');
+            const errorMessage = document.getElementById('error-message');
+            const lastUpdatedElem = document.getElementById('last-updated');
+            document.getElementById('year').textContent = new Date().getFullYear();
+
+            const fetchNews = async () => {
+                try {
+                    // We add a cache-busting parameter to the URL to ensure we get the latest version
+                    const response = await fetch(`news.json?v=${new Date().getTime()}`);
+                    if (!response.ok) {
+                        throw new Error(`HTTP error! status: ${response.status}`);
+                    }
+                    const data = await response.json();
+                    
+                    loadingSpinner.style.display = 'none';
+                    
+                    if (!data.articles || data.articles.length === 0) {
+                        errorMessage.classList.remove('hidden');
+                        errorMessage.querySelector('p').textContent = 'No articles found. Please check back tomorrow for new updates!';
+                        return;
+                    }
+
+                    // Update last updated timestamp
+                    lastUpdatedElem.textContent = new Date(data.lastUpdatedAt).toLocaleString();
+
+                    // Populate news grid
+                    data.articles.forEach(article => {
+                        const articleCard = `
+                            <div class="bg-white dark:bg-gray-800 rounded-lg shadow-md overflow-hidden transition-all duration-300 card-hover">
+                                <a href="${article.url}" target="_blank" rel="noopener noreferrer">
+                                    <img src="${article.urlToImage}" alt="Article Image" class="w-full h-48 object-cover" onerror="this.onerror=null;this.src='https://placehold.co/600x400/374151/E5E7EB?text=Image+Not+Available';">
+                                    <div class="p-5">
+                                        <h3 class="text-lg font-bold mb-2 h-20 overflow-hidden">${article.title}</h3>
+                                        <p class="text-gray-600 dark:text-gray-400 text-sm mb-4 h-24 overflow-hidden">${article.description || 'No description available.'}</p>
+                                        <div class="flex justify-between items-center text-xs text-gray-500 dark:text-gray-500">
+                                            <span class="font-semibold truncate w-2/3">${article.source.name}</span>
+                                            <span>${new Date(article.publishedAt).toLocaleDateString()}</span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        `;
+                        newsGrid.innerHTML += articleCard;
+                    });
+
+                } catch (error) {
+                    console.error("Error fetching news:", error);
+                    loadingSpinner.style.display = 'none';
+                    errorMessage.classList.remove('hidden');
+                }
+            };
+
+            fetchNews();
+        });
+    </script>
+</body>
+</html>
+
