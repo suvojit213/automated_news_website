@@ -10,34 +10,39 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Orbitron:wght@700&display=swap" rel="stylesheet">
     <style>
-        body { font-family: 'Inter', sans-serif; transition: background-color 0.3s, color 0.3s; }
+        body { font-family: 'Inter', sans-serif; transition: background-color 0.3s, color 0.3s; scroll-behavior: smooth; }
         .brand-font { font-family: 'Orbitron', sans-serif; }
         @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
         .fade-in { animation: fadeIn 0.5s ease-out forwards; }
         @keyframes pulse { 50% { opacity: .5; } }
         .skeleton-pulse { animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite; }
-        .date-header {
-             position: sticky;
-             top: 80px; /* Height of the main header */
-             z-index: 10;
-        }
+        .date-header { position: sticky; top: 80px; z-index: 10; }
+        #back-to-top { transition: opacity 0.3s, transform 0.3s; }
+        /* For Webkit browsers like Chrome, Safari */
+        ::-webkit-scrollbar { width: 8px; }
+        ::-webkit-scrollbar-track { background: #f1f1f1; }
+        ::-webkit-scrollbar-thumb { background: #888; border-radius: 10px; }
+        ::-webkit-scrollbar-thumb:hover { background: #555; }
+        html.dark ::-webkit-scrollbar-track { background: #2d3748; }
+        html.dark ::-webkit-scrollbar-thumb { background: #718096; }
+        html.dark ::-webkit-scrollbar-thumb:hover { background: #a0aec0; }
     </style>
 </head>
 <body class="bg-gray-100 dark:bg-gray-900 text-gray-900 dark:text-gray-100">
 
     <!-- Header -->
-    <header class="bg-white/70 dark:bg-gray-800/70 backdrop-blur-lg shadow-lg sticky top-0 z-50">
+    <header class="bg-white/80 dark:bg-gray-800/80 backdrop-blur-lg shadow-lg sticky top-0 z-40">
         <div class="container mx-auto px-4 sm:px-6 lg:px-8">
             <div class="flex items-center justify-between h-20">
-                <div class="flex items-center space-x-4">
-                    <i class="fas fa-rocket text-4xl text-transparent bg-clip-text bg-gradient-to-r from-indigo-500 to-purple-500"></i>
+                <div class="flex items-center space-x-3 sm:space-x-4">
+                    <i class="fas fa-rocket text-3xl sm:text-4xl text-transparent bg-clip-text bg-gradient-to-r from-indigo-500 to-purple-500"></i>
                     <div>
-                        <h1 class="brand-font text-xl sm:text-2xl font-bold text-gray-800 dark:text-white">SUVOJEET</h1>
-                        <p class="text-xs text-gray-500 dark:text-gray-400 -mt-1">Automated  News Archive</p>
+                        <h1 class="brand-font text-lg sm:text-2xl font-bold text-gray-800 dark:text-white">SUVOJEET</h1>
+                        <p class="text-xs text-gray-500 dark:text-gray-400 -mt-1">Technology News Hub</p>
                     </div>
                 </div>
-                <div class="flex items-center space-x-4">
-                     <div class="text-xs text-right hidden sm:block">
+                <div class="flex items-center space-x-2 sm:space-x-4">
+                     <div class="text-xs text-right hidden md:block">
                         <p class="font-semibold text-gray-600 dark:text-gray-300">Last Updated:</p>
                         <p id="last-updated" class="text-gray-500 dark:text-gray-400">Loading...</p>
                     </div>
@@ -54,86 +59,77 @@
         </div>
     </header>
 
+    <!-- Search Bar -->
+    <div class="bg-gray-100 dark:bg-gray-900 sticky top-20 z-30 py-4 px-4 shadow-md">
+        <div class="container mx-auto">
+            <div class="relative">
+                <span class="absolute inset-y-0 left-0 flex items-center pl-3">
+                    <i class="fas fa-search text-gray-400"></i>
+                </span>
+                <input type="text" id="search-input" placeholder="Search articles by title..." class="w-full pl-10 pr-4 py-2 border border-gray-300 dark:border-gray-600 rounded-full bg-white dark:bg-gray-700 text-gray-900 dark:text-gray-200 focus:outline-none focus:ring-2 focus:ring-indigo-500">
+            </div>
+        </div>
+    </div>
+
     <!-- Main Content -->
     <main id="main-content" class="container mx-auto px-4 sm:px-6 lg:px-8 py-8">
-        <!-- News will be injected here by JS -->
+        <!-- News yahan JS se aayegi -->
     </main>
 
+    <!-- Back to Top Button -->
+    <button id="back-to-top" class="fixed bottom-5 right-5 w-12 h-12 bg-indigo-600 text-white rounded-full shadow-lg flex items-center justify-center opacity-0 transform translate-y-4 hover:bg-indigo-700 focus:outline-none">
+        <i class="fas fa-arrow-up"></i>
+    </button>
+    
     <!-- Footer -->
     <footer class="bg-white dark:bg-gray-800 mt-16 py-6 border-t border-gray-200 dark:border-gray-700">
         <div class="container mx-auto px-4 text-center text-gray-500 dark:text-gray-400">
-            <p>&copy; <span id="year"></span> Automated News Website by Suvojeet. All Rights Reserved.</p>
-            <p class="text-sm mt-2">
-                <a href="https://github.com/suvojit213/automated-news-website" target="_blank" rel="noopener noreferrer" class="hover:text-indigo-500 transition-colors">
-                    <i class="fab fa-github"></i> View on GitHub
-                </a>
-            </p>
+            <p>&copy; <span id="year"></span> Automated News Hub by Suvojeet. All Rights Reserved.</p>
         </div>
     </footer>
 
     <script>
         document.addEventListener('DOMContentLoaded', () => {
+            // Element selections
             const mainContent = document.getElementById('main-content');
             const lastUpdatedElem = document.getElementById('last-updated');
+            const toggle = document.getElementById('dark-mode-toggle');
+            const html = document.documentElement;
+            const searchInput = document.getElementById('search-input');
+            const backToTopButton = document.getElementById('back-to-top');
+            
             document.getElementById('year').textContent = new Date().getFullYear();
             
             // --- Dark Mode Logic ---
-            const toggle = document.getElementById('dark-mode-toggle');
-            const html = document.documentElement;
-
-            // Function to apply theme
             const applyTheme = (theme) => {
-                if (theme === 'dark') {
-                    html.classList.add('dark');
-                    toggle.checked = true;
-                } else {
-                    html.classList.remove('dark');
-                    toggle.checked = false;
-                }
+                html.classList.toggle('dark', theme === 'dark');
+                toggle.checked = theme === 'dark';
             };
-
-            // Set initial theme on page load
-            const savedTheme = localStorage.getItem('theme');
-            const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-            if (savedTheme) {
-                applyTheme(savedTheme);
-            } else {
-                applyTheme(prefersDark ? 'dark' : 'light');
-            }
-            
-            // Listen for toggle changes
+            const savedTheme = localStorage.getItem('theme') || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+            applyTheme(savedTheme);
             toggle.addEventListener('change', () => {
                 const newTheme = toggle.checked ? 'dark' : 'light';
                 localStorage.setItem('theme', newTheme);
                 applyTheme(newTheme);
             });
 
-
+            // --- Skeleton Loader ---
             const showSkeletonLoader = (count = 12) => {
-                let skeletonHTML = '<div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">';
+                let skeletonHTML = '<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">';
                 for (let i = 0; i < count; i++) {
-                    skeletonHTML += `
-                        <div class="bg-white dark:bg-gray-800 rounded-lg shadow-md overflow-hidden skeleton-pulse">
+                    skeletonHTML += `<div class="bg-white dark:bg-gray-800 rounded-lg shadow-md overflow-hidden skeleton-pulse">
                             <div class="w-full h-48 bg-gray-300 dark:bg-gray-700"></div>
-                            <div class="p-5 space-y-4">
-                                <div class="h-6 bg-gray-300 dark:bg-gray-700 rounded w-3/4"></div>
-                                <div class="space-y-2">
-                                    <div class="h-4 bg-gray-300 dark:bg-gray-700 rounded"></div>
-                                    <div class="h-4 bg-gray-300 dark:bg-gray-700 rounded w-5/6"></div>
-                                </div>
-                            </div>
-                        </div>`;
+                            <div class="p-5 space-y-4"><div class="h-6 bg-gray-300 dark:bg-gray-700 rounded w-3/4"></div><div class="space-y-2"><div class="h-4 bg-gray-300 dark:bg-gray-700 rounded"></div><div class="h-4 bg-gray-300 dark:bg-gray-700 rounded w-5/6"></div></div></div></div>`;
                 }
                 skeletonHTML += '</div>';
                 mainContent.innerHTML = skeletonHTML;
             };
 
+            // --- Display News ---
             const displayGroupedNews = (articles) => {
                 const groupedByDate = articles.reduce((acc, article) => {
-                    const date = new Date(article.publishedAt).toLocaleDateString('en-CA'); // YYYY-MM-DD format
-                    if (!acc[date]) {
-                        acc[date] = [];
-                    }
+                    const date = new Date(article.publishedAt).toLocaleDateString('en-CA');
+                    if (!acc[date]) acc[date] = [];
                     acc[date].push(article);
                     return acc;
                 }, {});
@@ -141,78 +137,90 @@
                 let contentHTML = '';
                 const today = new Date().toLocaleDateString('en-CA');
                 const yesterday = new Date(Date.now() - 86400000).toLocaleDateString('en-CA');
-
-                // Sort the dates so the newest appear first
                 const sortedDates = Object.keys(groupedByDate).sort((a, b) => new Date(b) - new Date(a));
 
                 for (const date of sortedDates) {
-                    let dateLabel;
-                    if (date === today) {
-                        dateLabel = 'Today';
-                    } else if (date === yesterday) {
-                        dateLabel = 'Yesterday';
-                    } else {
-                        dateLabel = new Date(date).toLocaleDateString('en-US', {
-                            weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'
-                        });
-                    }
-
-                    contentHTML += `
+                    let dateLabel = date === today ? 'Today' : (date === yesterday ? 'Yesterday' : new Date(date).toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' }));
+                    const articlesForDate = groupedByDate[date];
+                    
+                    contentHTML += `<div class="date-group" data-date="${date}">
                         <div class="date-header bg-gray-100/80 dark:bg-gray-900/80 backdrop-blur-sm py-3 mb-6">
                             <h2 class="text-2xl font-bold text-gray-800 dark:text-gray-200">${dateLabel}</h2>
                             <div class="w-20 h-1 bg-indigo-500 rounded-full mt-2"></div>
                         </div>
-                        <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 mb-12">
-                    `;
+                        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">`;
                     
-                    groupedByDate[date].forEach(article => {
-                         contentHTML += `
-                            <div class="bg-white dark:bg-gray-800 rounded-lg shadow-lg overflow-hidden transition-transform duration-300 hover:scale-105 fade-in">
+                    articlesForDate.forEach(article => {
+                         contentHTML += `<div class="article-card bg-white dark:bg-gray-800 rounded-lg shadow-lg overflow-hidden transition-transform duration-300 hover:scale-105 fade-in" data-title="${article.title.toLowerCase()}">
                                 <a href="${article.url}" target="_blank" rel="noopener noreferrer" class="flex flex-col h-full">
-                                    <img src="${article.urlToImage}" alt="Article Image" class="w-full h-48 object-cover" onerror="this.onerror=null;this.src='https://placehold.co/600x400/374151/E5E7EB?text=Image+Not+Found';">
+                                    <img src="${article.urlToImage}" alt="Article Image" class="w-full h-48 object-cover" loading="lazy" onerror="this.onerror=null;this.src='https://placehold.co/600x400/374151/E5E7EB?text=Image+Not+Found';">
                                     <div class="p-5 flex flex-col flex-grow">
-                                        <h3 class="text-lg font-bold mb-2 flex-grow">${article.title}</h3>
-                                        <div class="flex justify-between items-center text-xs mt-4">
-                                            <span class="font-semibold text-indigo-500 dark:text-indigo-400 truncate w-2/3">${article.source.name}</span>
-                                            <span class="text-gray-500 dark:text-gray-500">${new Date(article.publishedAt).toLocaleDateString()}</span>
-                                        </div>
+                                        <span class="text-xs font-semibold text-indigo-500 dark:text-indigo-400 mb-2">${article.source.name || 'Unknown Source'}</span>
+                                        <h3 class="text-md font-bold mb-2 flex-grow">${article.title}</h3>
+                                        <p class="text-gray-500 dark:text-gray-500 text-xs mt-auto">${new Date(article.publishedAt).toLocaleDateString()}</p>
                                     </div>
                                 </a>
-                            </div>
-                        `;
+                            </div>`;
                     });
-
-                    contentHTML += '</div>';
+                    contentHTML += '</div></div>';
                 }
                 mainContent.innerHTML = contentHTML;
             }
             
+            // --- Fetch News Initial Load ---
             const fetchNews = async () => {
                 showSkeletonLoader();
                 try {
-                    const response = await fetch(`news.json?v=${new Date().getTime()}`);
+                    const response = await fetch(`./news.json?v=${new Date().getTime()}`);
                     if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
                     const data = await response.json();
-                    
-                    if (!data.articles || data.articles.length === 0) {
-                         throw new Error("No articles found in news.json");
-                    }
-                    
+                    if (!data.articles || data.articles.length === 0) throw new Error("No articles in news.json");
                     lastUpdatedElem.textContent = new Date(data.lastUpdatedAt).toLocaleString();
                     displayGroupedNews(data.articles);
-
                 } catch (error) {
-                    console.error("Error fetching or processing news:", error);
-                    mainContent.innerHTML = `
-                        <div class="max-w-md mx-auto bg-red-100 dark:bg-red-900/50 border-l-4 border-red-500 text-red-700 dark:text-red-300 p-6 rounded-lg shadow-md">
-                           <p class="font-bold">Oops! Could not load the news archive.</p>
-                           <p class="text-sm mt-2">The news file might be generating for the first time. Please wait a few minutes and refresh. The system will auto-try again later.</p>
-                        </div>`;
+                    console.error("Error fetching news:", error);
+                    mainContent.innerHTML = `<div class="text-center p-6 bg-red-100 dark:bg-red-900/50 rounded-lg"><p class="font-bold text-red-700 dark:text-red-300">Oops! Could not load news.</p><p class="text-sm mt-2">Please wait a few minutes and refresh.</p></div>`;
                 }
             };
+            
+            // --- Search Logic ---
+            searchInput.addEventListener('input', (e) => {
+                const searchTerm = e.target.value.toLowerCase();
+                const allDateGroups = document.querySelectorAll('.date-group');
 
+                allDateGroups.forEach(group => {
+                    const articlesInGroup = group.querySelectorAll('.article-card');
+                    let visibleArticlesInGroup = 0;
+                    articlesInGroup.forEach(card => {
+                        const title = card.dataset.title;
+                        if (title.includes(searchTerm)) {
+                            card.style.display = 'block';
+                            visibleArticlesInGroup++;
+                        } else {
+                            card.style.display = 'none';
+                        }
+                    });
+                    // Agar group mein koi article nahi dikh raha, to poore group ko hide kar do
+                    group.style.display = visibleArticlesInGroup > 0 ? 'block' : 'none';
+                });
+            });
+
+            // --- Back to Top Logic ---
+            window.addEventListener('scroll', () => {
+                if (window.scrollY > 300) {
+                    backToTopButton.classList.remove('opacity-0', 'translate-y-4');
+                } else {
+                    backToTopButton.classList.add('opacity-0', 'translate-y-4');
+                }
+            });
+            backToTopButton.addEventListener('click', () => {
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+            });
+
+            // Initial call to fetch news
             fetchNews();
         });
     </script>
 </body>
 </html>
+
