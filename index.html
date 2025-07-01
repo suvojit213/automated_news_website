@@ -170,8 +170,16 @@
                 </div>
             </div>
             <!-- Modal Footer -->
-            <div class="p-4 border-t border-gray-200 dark:border-gray-700 text-center">
+            <div class="p-4 border-t border-gray-200 dark:border-gray-700 text-center flex flex-wrap justify-center items-center gap-3">
                 <a id="modal-read-more" href="#" target="_blank" rel="noopener noreferrer" class="inline-flex items-center justify-center bg-indigo-600 text-white font-bold py-3 px-8 rounded-full hover:bg-indigo-700 transition-colors shadow-lg"><i class="fas fa-external-link-alt mr-2"></i> Read Full Story on Original Site</a>
+                
+                <!-- Share Buttons -->
+                <div class="flex items-center space-x-2">
+                    <button id="share-twitter" class="bg-blue-400 text-white p-3 rounded-full hover:bg-blue-500 transition-colors shadow-md" title="Share on Twitter"><i class="fab fa-twitter"></i></button>
+                    <button id="share-facebook" class="bg-blue-700 text-white p-3 rounded-full hover:bg-blue-800 transition-colors shadow-md" title="Share on Facebook"><i class="fab fa-facebook-f"></i></button>
+                    <button id="share-linkedin" class="bg-blue-800 text-white p-3 rounded-full hover:bg-blue-900 transition-colors shadow-md" title="Share on LinkedIn"><i class="fab fa-linkedin-in"></i></button>
+                    <button id="copy-link" class="bg-gray-500 text-white p-3 rounded-full hover:bg-gray-600 transition-colors shadow-md" title="Copy Link"><i class="fas fa-link"></i></button>
+                </div>
             </div>
         </div>
     </div>
@@ -190,6 +198,10 @@
         const sortBy = document.getElementById('sort-by');
         const modalBookmarkBtn = document.getElementById('modal-bookmark-btn');
         const loadMoreBtn = document.getElementById('load-more-btn');
+        const shareTwitterBtn = document.getElementById('share-twitter');
+        const shareFacebookBtn = document.getElementById('share-facebook');
+        const shareLinkedInBtn = document.getElementById('share-linkedin');
+        const copyLinkBtn = document.getElementById('copy-link');
         
         let allArticles = []; // Cache all articles for search and modal
         let displayedArticles = []; // Articles currently displayed after search/filter
@@ -242,6 +254,31 @@
             }
         };
 
+        // --- Share Logic ---
+        const shareArticle = (platform, url, title) => {
+            let shareUrl = '';
+            switch (platform) {
+                case 'twitter':
+                    shareUrl = `https://twitter.com/intent/tweet?url=${encodeURIComponent(url)}&text=${encodeURIComponent(title)}`;
+                    break;
+                case 'facebook':
+                    shareUrl = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(url)}`;
+                    break;
+                case 'linkedin':
+                    shareUrl = `https://www.linkedin.com/shareArticle?mini=true&url=${encodeURIComponent(url)}&title=${encodeURIComponent(title)}`;
+                    break;
+            }
+            window.open(shareUrl, '_blank');
+        };
+
+        const copyToClipboard = (text) => {
+            navigator.clipboard.writeText(text).then(() => {
+                alert('Link copied to clipboard!');
+            }).catch(err => {
+                console.error('Could not copy text: ', err);
+            });
+        };
+
         // --- Modal Logic ---
         const openModal = (article) => {
             document.getElementById('modal-source').textContent = article.source.name || 'Unknown Source';
@@ -254,6 +291,12 @@
             // Set bookmark state for modal button
             modalBookmarkBtn.onclick = () => toggleBookmark(article);
             updateBookmarkIcons(article.url);
+
+            // Set share button listeners
+            shareTwitterBtn.onclick = () => shareArticle('twitter', article.url, article.title);
+            shareFacebookBtn.onclick = () => shareArticle('facebook', article.url, article.title);
+            shareLinkedInBtn.onclick = () => shareArticle('linkedin', article.url, article.title);
+            copyLinkBtn.onclick = () => copyToClipboard(article.url);
 
             modal.classList.remove('hidden');
             document.body.classList.add('modal-open');
@@ -421,6 +464,3 @@
         fetchNews();
     });
     </script>
-    </script>
-</body>
-</html>
