@@ -127,6 +127,12 @@
             </div>
         </main>
         
+        <div class="text-center mt-8">
+            <button id="load-more-btn" class="bg-indigo-600 text-white font-bold py-3 px-8 rounded-full hover:bg-indigo-700 transition-colors shadow-lg focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-opacity-50 hidden">
+                Load More News
+            </button>
+        </div>
+
         <!-- Footer -->
         <footer class="bg-white dark:bg-gray-900 mt-16 py-8 border-t border-gray-200 dark:border-gray-800">
             <div class="container mx-auto px-4 text-center text-gray-600 dark:text-gray-400">
@@ -183,10 +189,13 @@
         const sourceFilter = document.getElementById('source-filter');
         const sortBy = document.getElementById('sort-by');
         const modalBookmarkBtn = document.getElementById('modal-bookmark-btn');
+        const loadMoreBtn = document.getElementById('load-more-btn');
         
         let allArticles = []; // Cache all articles for search and modal
         let displayedArticles = []; // Articles currently displayed after search/filter
         let bookmarkedArticles = JSON.parse(localStorage.getItem('bookmarkedArticles')) || {}; // {url: articleObject}
+        const articlesPerPage = 12; // Number of articles to display per page
+        let currentPage = 1;
 
         // --- Dark Mode ---
         const toggle = document.getElementById('dark-mode-toggle');
@@ -270,10 +279,15 @@
                     <p class="text-xl font-semibold">No results found.</p>
                     <p class="mt-2">Try adjusting your search or filters.</p>
                 </div>`;
+                loadMoreBtn.classList.add('hidden');
                 return;
             }
 
-            const grouped = articlesToDisplay.reduce((acc, article) => {
+            const startIndex = 0;
+            const endIndex = currentPage * articlesPerPage;
+            const articlesToShow = articlesToDisplay.slice(startIndex, endIndex);
+
+            const grouped = articlesToShow.reduce((acc, article) => {
                 const date = new Date(article.publishedAt).toLocaleDateString('en-CA');
                 if (!acc[date]) acc[date] = [];
                 acc[date].push(article);
@@ -322,9 +336,17 @@
                     if (articleToBookmark) toggleBookmark(articleToBookmark);
                 });
             });
+
+            // Show/hide load more button
+            if (endIndex < articlesToDisplay.length) {
+                loadMoreBtn.classList.remove('hidden');
+            } else {
+                loadMoreBtn.classList.add('hidden');
+            }
         };
 
         const applyFiltersAndSort = () => {
+            currentPage = 1; // Reset page when filters/sort change
             let filtered = allArticles;
 
             // Apply search filter
@@ -348,6 +370,11 @@
             }
 
             displayedArticles = filtered;
+            renderNews(displayedArticles);
+        };
+
+        const loadMoreArticles = () => {
+            currentPage++;
             renderNews(displayedArticles);
         };
 
@@ -381,6 +408,7 @@
         searchInput.addEventListener('input', applyFiltersAndSort);
         sourceFilter.addEventListener('change', applyFiltersAndSort);
         sortBy.addEventListener('change', applyFiltersAndSort);
+        loadMoreBtn.addEventListener('click', loadMoreArticles);
 
         // --- Back to Top ---
         window.addEventListener('scroll', () => {
