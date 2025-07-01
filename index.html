@@ -147,7 +147,12 @@
             <!-- Modal Header -->
             <div class="flex justify-between items-center p-4 border-b border-gray-200 dark:border-gray-700">
                 <h2 class="text-lg font-bold text-gray-800 dark:text-gray-200" id="modal-source">Source Name</h2>
-                <button id="close-modal" class="text-gray-500 hover:text-gray-900 dark:hover:text-white text-2xl leading-none">&times;</button>
+                <div class="flex items-center space-x-3">
+                    <button id="modal-bookmark-btn" class="text-gray-400 hover:text-indigo-500 transition-colors text-xl">
+                        <i class="far fa-bookmark"></i>
+                    </button>
+                    <button id="close-modal" class="text-gray-500 hover:text-gray-900 dark:hover:text-white text-2xl leading-none">&times;</button>
+                </div>
             </div>
             <!-- Modal Body -->
             <div class="flex-grow overflow-y-auto p-6">
@@ -177,9 +182,11 @@
         const skeletonLoader = document.getElementById('skeleton-loader');
         const sourceFilter = document.getElementById('source-filter');
         const sortBy = document.getElementById('sort-by');
+        const modalBookmarkBtn = document.getElementById('modal-bookmark-btn');
         
         let allArticles = []; // Cache all articles for search and modal
         let displayedArticles = []; // Articles currently displayed after search/filter
+        let bookmarkedArticles = JSON.parse(localStorage.getItem('bookmarkedArticles')) || {}; // {url: articleObject}
 
         // --- Dark Mode ---
         const toggle = document.getElementById('dark-mode-toggle');
@@ -195,6 +202,37 @@
             applyTheme(newTheme);
         });
         
+        // --- Bookmark Logic ---
+        const saveBookmarks = () => {
+            localStorage.setItem('bookmarkedArticles', JSON.stringify(bookmarkedArticles));
+        };
+
+        const isBookmarked = (url) => {
+            return !!bookmarkedArticles[url];
+        };
+
+        const toggleBookmark = (article) => {
+            if (isBookmarked(article.url)) {
+                delete bookmarkedArticles[article.url];
+            } else {
+                bookmarkedArticles[article.url] = article;
+            }
+            saveBookmarks();
+            updateBookmarkIcons(article.url);
+        };
+
+        const updateBookmarkIcons = (url) => {
+            const iconClass = isBookmarked(url) ? 'fas' : 'far';
+            document.querySelectorAll(`.bookmark-btn[data-url="${url}"] i`).forEach(icon => {
+                icon.classList.remove('fas', 'far');
+                icon.classList.add(iconClass);
+            });
+            if (modalBookmarkBtn) {
+                modalBookmarkBtn.querySelector('i').classList.remove('fas', 'far');
+                modalBookmarkBtn.querySelector('i').classList.add(iconClass);
+            }
+        };
+
         // --- Modal Logic ---
         const openModal = (article) => {
             document.getElementById('modal-source').textContent = article.source.name || 'Unknown Source';
@@ -203,6 +241,11 @@
             document.getElementById('modal-date').textContent = `Published on ${new Date(article.publishedAt).toLocaleDateString()}`;
             document.getElementById('modal-description').innerHTML = `<p>${article.description || "No description available. Click below to read the full story."}</p>`;
             document.getElementById('modal-read-more').href = article.url;
+            
+            // Set bookmark state for modal button
+            modalBookmarkBtn.onclick = () => toggleBookmark(article);
+            updateBookmarkIcons(article.url);
+
             modal.classList.remove('hidden');
             document.body.classList.add('modal-open');
             setTimeout(() => {
@@ -245,7 +288,12 @@
                         <div class="p-4 flex flex-col flex-grow">
                             <span class="text-xs font-semibold text-indigo-500 dark:text-indigo-400 mb-2">${article.source.name || 'Unknown'}</span>
                             <h3 class="text-md font-bold flex-grow">${article.title}</h3>
-                            <p class="text-gray-500 dark:text-gray-500 text-xs mt-3">${new Date(article.publishedAt).toLocaleDateString()}</p>
+                            <div class="flex justify-between items-center mt-3">
+                                <p class="text-gray-500 dark:text-gray-500 text-xs">${new Date(article.publishedAt).toLocaleDateString()}</p>
+                                <button class="bookmark-btn text-gray-400 hover:text-indigo-500 transition-colors" data-url="${article.url}">
+                                    <i class="${isBookmarked(article.url) ? 'fas' : 'far'} fa-bookmark"></i>
+                                </button>
+                            </div>
                         </div>
                     </div>`).join('');
                 
@@ -257,10 +305,21 @@
             
             // Add click listeners after cards are rendered
             document.querySelectorAll('.article-card').forEach(card => {
-                card.addEventListener('click', () => {
+                card.addEventListener('click', (e) => {
+                    // Prevent modal from opening if bookmark button is clicked
+                    if (e.target.closest('.bookmark-btn')) return;
                     const articleUrl = card.dataset.url;
                     const clickedArticle = allArticles.find(a => a.url === articleUrl);
                     if (clickedArticle) openModal(clickedArticle);
+                });
+            });
+
+            document.querySelectorAll('.bookmark-btn').forEach(button => {
+                button.addEventListener('click', (e) => {
+                    e.stopPropagation(); // Prevent card click event
+                    const articleUrl = button.dataset.url;
+                    const articleToBookmark = allArticles.find(a => a.url === articleUrl);
+                    if (articleToBookmark) toggleBookmark(articleToBookmark);
                 });
             });
         };
@@ -333,6 +392,7 @@
         document.getElementById('year').textContent = new Date().getFullYear();
         fetchNews();
     });
+    </script>
     </script>
 </body>
 </html>
