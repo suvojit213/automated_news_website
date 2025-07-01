@@ -64,6 +64,26 @@
             </div>
         </div>
 
+        <!-- Filter and Sort Bar -->
+        <div class="bg-white dark:bg-gray-900 py-3 px-4 shadow-sm border-b border-gray-200 dark:border-gray-800">
+            <div class="container mx-auto flex flex-col sm:flex-row justify-between items-center space-y-3 sm:space-y-0 sm:space-x-4">
+                <div class="flex items-center space-x-2 w-full sm:w-auto">
+                    <label for="source-filter" class="text-gray-600 dark:text-gray-300 text-sm">Source:</label>
+                    <select id="source-filter" class="form-select block w-full sm:w-auto rounded-md border-gray-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50 dark:bg-gray-700 dark:border-gray-600 dark:text-gray-200">
+                        <option value="all">All Sources</option>
+                        <!-- Options will be populated by JS -->
+                    </select>
+                </div>
+                <div class="flex items-center space-x-2 w-full sm:w-auto">
+                    <label for="sort-by" class="text-gray-600 dark:text-gray-300 text-sm">Sort By:</label>
+                    <select id="sort-by" class="form-select block w-full sm:w-auto rounded-md border-gray-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50 dark:bg-gray-700 dark:border-gray-600 dark:text-gray-200">
+                        <option value="publishedAt">Date</option>
+                        <option value="title">Title</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+
         <!-- Main Content -->
         <main id="main-content" class="container mx-auto px-4 sm:px-6 lg:px-8 py-8">
             <!-- News will be injected here -->
@@ -155,8 +175,11 @@
         const closeModalButton = document.getElementById('close-modal');
         const html = document.documentElement;
         const skeletonLoader = document.getElementById('skeleton-loader');
+        const sourceFilter = document.getElementById('source-filter');
+        const sortBy = document.getElementById('sort-by');
         
         let allArticles = []; // Cache all articles for search and modal
+        let displayedArticles = []; // Articles currently displayed after search/filter
 
         // --- Dark Mode ---
         const toggle = document.getElementById('dark-mode-toggle');
@@ -197,8 +220,8 @@
         modal.addEventListener('click', (e) => { if (e.target === modal) closeModal(); }); // Close on backdrop click
 
         // --- News Display Logic ---
-        const displayGroupedNews = (articles) => {
-            if (articles.length === 0) {
+        const renderNews = (articlesToDisplay) => {
+            if (articlesToDisplay.length === 0) {
                 mainContent.innerHTML = `<div class="text-center py-10 text-gray-500 dark:text-gray-400">
                     <i class="fas fa-box-open fa-4x mb-4"></i>
                     <p class="text-xl font-semibold">No results found.</p>
@@ -207,7 +230,7 @@
                 return;
             }
 
-            const grouped = articles.reduce((acc, article) => {
+            const grouped = articlesToDisplay.reduce((acc, article) => {
                 const date = new Date(article.publishedAt).toLocaleDateString('en-CA');
                 if (!acc[date]) acc[date] = [];
                 acc[date].push(article);
@@ -242,6 +265,33 @@
             });
         };
 
+        const applyFiltersAndSort = () => {
+            let filtered = allArticles;
+
+            // Apply search filter
+            const searchTerm = searchInput.value.toLowerCase();
+            if (searchTerm) {
+                filtered = filtered.filter(article => article.title.toLowerCase().includes(searchTerm));
+            }
+
+            // Apply source filter
+            const selectedSource = sourceFilter.value;
+            if (selectedSource !== 'all') {
+                filtered = filtered.filter(article => article.source.name === selectedSource);
+            }
+
+            // Apply sorting
+            const sortCriteria = sortBy.value;
+            if (sortCriteria === 'publishedAt') {
+                filtered.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
+            } else if (sortCriteria === 'title') {
+                filtered.sort((a, b) => a.title.localeCompare(b.title));
+            }
+
+            displayedArticles = filtered;
+            renderNews(displayedArticles);
+        };
+
         // --- Initial Data Fetch ---
         const fetchNews = async () => {
             skeletonLoader.classList.remove('hidden'); // Show skeleton
@@ -253,7 +303,13 @@
                 if (!data.articles?.length) throw new Error("No articles found");
                 allArticles = data.articles; // Cache articles
                 document.getElementById('last-updated').textContent = new Date(data.lastUpdatedAt).toLocaleString();
-                displayGroupedNews(allArticles);
+                
+                // Populate source filter
+                const sources = [...new Set(allArticles.map(article => article.source.name))].sort();
+                sourceFilter.innerHTML = '<option value="all">All Sources</option>' + 
+                                         sources.map(source => `<option value="${source}">${source}</option>`).join('');
+
+                applyFiltersAndSort();
             } catch (error) {
                 console.error("Error fetching news:", error);
                 mainContent.innerHTML = `<div class="text-center p-6 bg-red-100 dark:bg-red-900/50 rounded-lg"><p class="font-bold text-red-700 dark:text-red-300">Oops! Could not load news.</p><p class="text-gray-600 dark:text-gray-400 mt-2">Please check your internet connection or try again later.</p></div>`;
@@ -262,12 +318,10 @@
             }
         };
 
-        // --- Search ---
-        searchInput.addEventListener('input', (e) => {
-            const searchTerm = e.target.value.toLowerCase();
-            const filteredArticles = allArticles.filter(article => article.title.toLowerCase().includes(searchTerm));
-            displayGroupedNews(filteredArticles);
-        });
+        // --- Event Listeners ---
+        searchInput.addEventListener('input', applyFiltersAndSort);
+        sourceFilter.addEventListener('change', applyFiltersAndSort);
+        sortBy.addEventListener('change', applyFiltersAndSort);
 
         // --- Back to Top ---
         window.addEventListener('scroll', () => {
