@@ -1,6 +1,16 @@
 {
-    "lastUpdatedAt": "2025-07-01T23:14:53.429040Z",
+    "lastUpdatedAt": "2025-07-02T01:17:19.544088Z",
     "articles": [
+        {
+            "source": {
+                "name": "The Australian Financial Review",
+                "url": "https://www.afr.com"
+            },
+            "title": "‘Sign-on bonuses of $150m’: AI talent war heats up",
+            "url": "https://www.afr.com/technology/sign-on-bonuses-of-150m-ai-talent-war-heats-up-20250701-p5mbr1",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.1839%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_73/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/562bdc77ea6d4fb45bcf3abef827cee8d5655782",
+            "publishedAt": "2025-07-01T23:40:38Z"
+        },
         {
             "source": {
                 "name": "The Australian Financial Review",
@@ -60,6 +70,96 @@
             "url": "https://www.news-medical.net/news/20250630/ETRI-develops-innovative-technology-for-early-autism-screening-in-young-children.aspx",
             "urlToImage": "https://www.news-medical.net/image-handler/picture/2014/7/Autism-620x480.jpg",
             "publishedAt": "2025-07-01T02:33:00Z"
+        },
+        {
+            "source": {
+                "name": "techradar"
+            },
+            "title": "Mark Zuckerberg goes all-in on AI and might even beat Sam Altman and OpenAI to superintelligence",
+            "url": "https://www.techradar.com/computing/artificial-intelligence/mark-zuckerberg-goes-all-in-on-ai-and-might-even-beat-sam-altman-and-openai-to-superintelligence",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/bkYXBufpWCWi6eJzefBQnA.jpg",
+            "publishedAt": "2025-07-01 13:01:16"
+        },
+        {
+            "source": {
+                "name": "engadget"
+            },
+            "title": "The best Prime Day laptop deals on MacBooks, Chromebooks, Windows machines and more",
+            "url": "https://www.engadget.com/deals/the-best-prime-day-laptop-deals-on-macbooks-chromebooks-windows-machines-and-more-130057037.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/y3fvQFIkzCY2pS8heXDW0w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM2MA--/https://s.yimg.com/os/creatr-uploaded-images/2025-06/7a855270-5514-11f0-8bbd-89d148a47dc5",
+            "publishedAt": "2025-07-01 13:00:57"
+        },
+        {
+            "source": {
+                "name": "sfexaminer"
+            },
+            "title": "AI ‘reasoning’ models might not be doing that at all",
+            "url": "https://www.sfexaminer.com/news/technology/studies-ai-reasoning-models-short-on-reasoning-abilities/article_7c11b59b-2401-4b31-826f-b246bceb75b1.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/sfexaminer.com/content/tncms/assets/v3/editorial/c/0d/c0d3d9ab-4de9-4969-923f-5bb24bd9c631/6859de45b7ee9.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-07-01 13:00:00"
+        },
+        {
+            "source": {
+                "name": "techtarget"
+            },
+            "title": "Can AI predict natural disasters?",
+            "url": "https://www.techtarget.com/searchdisasterrecovery/tip/Can-AI-predict-natural-disasters",
+            "urlToImage": "https://www.techtarget.com/rms/onlineimages/disaster_recovery_g1210054360_searchsitetablet_520X173.jpg",
+            "publishedAt": "2025-07-01 12:46:39"
+        },
+        {
+            "source": {
+                "name": "theconversation"
+            },
+            "title": "The hidden cost of convenience: How your data pulls in hundreds of billions of dollars for app and social media companies",
+            "url": "https://theconversation.com/the-hidden-cost-of-convenience-how-your-data-pulls-in-hundreds-of-billions-of-dollars-for-app-and-social-media-companies-251698",
+            "urlToImage": "https://images.theconversation.com/files/672343/original/file-20250604-56-21yjiy.jpg?auto=format&fit=clip&ixlib=rb-4.1.0&q=45&rect=0%2C337%2C4897%2C2754&w=496",
+            "publishedAt": "2025-07-01 12:28:28"
+        },
+        {
+            "source": {
+                "name": "techradar"
+            },
+            "title": "No, Windows 11 PCs aren't 'up to 2.3x faster' than Windows 10 devices, as Microsoft suggests – here's why that's an outlandish claim",
+            "url": "https://www.techradar.com/computing/windows/no-windows-11-pcs-arent-up-to-2-3x-faster-than-windows-10-devices-as-microsoft-suggests-heres-why-thats-an-outlandish-claim",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/7EpEu8Xo2XadaegiM5zG6U.jpg",
+            "publishedAt": "2025-07-01 12:10:03"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Why Extracting Text From PDFs Still Feels Like a Hack–And the Legacy Design that Keeps AI Stuck",
+            "url": "https://hackernoon.com/why-extracting-text-from-pdfs-still-feels-like-a-hack-and-the-legacy-design-that-keeps-ai-stuck",
+            "urlToImage": "https://hackernoon.com/https://cdn.hackernoon.com/images/mpDOI8AQeYeu5cc9VGleWjM9xvB2-t2333dx.png",
+            "publishedAt": "2025-07-01 12:00:16"
+        },
+        {
+            "source": {
+                "name": "cnet"
+            },
+            "title": "Best Smart Speakers for 2025: From My Ears to Your Home",
+            "url": "https://www.cnet.com/home/smart-home/best-smart-speaker/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/c319a94730e6b54d7fea3bfb1e51aa365b1ec0a7/hub/2024/07/29/21cb15b2-fab3-4af8-9d28-6055ef0e0233/apple-homepod-mini-lifestyle-01.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-07-01 12:00:00"
+        },
+        {
+            "source": {
+                "name": "cision"
+            },
+            "title": "Cole Engineering Awarded $62M U.S. Army Production Contract for Next-Generation Stinger Training System",
+            "url": "https://www.prnewswire.com/news-releases/cole-engineering-awarded-62m-us-army-production-contract-for-next-generation-stinger-training-system-302494427.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2620925/CESI_logo_Logo.jpg?p=original",
+            "publishedAt": "2025-07-01 12:00:00"
+        },
+        {
+            "source": {
+                "name": "geeky_gadgets"
+            },
+            "title": "Unlock the Secrets of LangChain Agents and How AI is Redefining Problem Solving",
+            "url": "https://www.geeky-gadgets.com/langchain-agent-executor-framework/",
+            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/06/adaptive-ai-system-design-langchain.webp",
+            "publishedAt": "2025-07-01 11:45:01"
         },
         {
             "source": {
