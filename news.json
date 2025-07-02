@@ -1,6 +1,26 @@
 {
-    "lastUpdatedAt": "2025-07-02T12:32:51.753405Z",
+    "lastUpdatedAt": "2025-07-02T13:29:21.901009Z",
     "articles": [
+        {
+            "source": {
+                "name": "CNBC",
+                "url": "https://www.cnbc.com"
+            },
+            "title": "Amazon deploys its 1 millionth robot in a sign of more job automation",
+            "url": "https://www.cnbc.com/2025/07/02/amazon-deploys-its-1-millionth-robot-in-a-sign-of-more-job-automation.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108163994-1750871570308-gettyimages-2186507450-20090101241127-99-161772.jpeg?v=1751449535&w=1920&h=1080",
+            "publishedAt": "2025-07-02T09:51:07Z"
+        },
+        {
+            "source": {
+                "name": "Firstpost",
+                "url": "https://www.firstpost.com"
+            },
+            "title": "85% of tech firms store sensitive data in the Cloud, only 8% encrypt it properly",
+            "url": "https://www.firstpost.com/tech/85-of-tech-firms-store-sensitive-data-in-the-cloud-only-8-encrypt-it-properly-ws-e-13902337.html",
+            "urlToImage": "https://images.firstpost.com/uploads/2025/07/image-2025-07-8f984f0ed0d37d6b32ab03d024cc2c40-1200x675.jpg?im=FitAndFill=(1200,675)",
+            "publishedAt": "2025-07-02T09:50:12Z"
+        },
         {
             "source": {
                 "name": "ABC News",
@@ -10,6 +30,16 @@
             "url": "https://www.abc.net.au/news/2025-07-02/who-are-scattered-spider-hackers-qantas-data-breach/105485674",
             "urlToImage": "https://live-production.wcms.abc-cdn.net.au/1e64944bad593a84687d8ded446e574f?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=80&width=862&height=485&imformat=generic",
             "publishedAt": "2025-07-02T06:51:37Z"
+        },
+        {
+            "source": {
+                "name": "Analytics India Magazine",
+                "url": "https://analyticsindiamag.com"
+            },
+            "title": "The 2030s Will See Fortune 500 Dying Like Never Before, Warns Vinod Khosla",
+            "url": "https://analyticsindiamag.com/ai-news-updates/the-2030s-will-see-fortune-500-dying-like-never-before-warns-vinod-khosla/",
+            "urlToImage": "https://analyticsindiamag.com/wp-content/uploads/2024/04/Khosla.jpg",
+            "publishedAt": "2025-07-02T06:33:53Z"
         },
         {
             "source": {
@@ -30,6 +60,35 @@
             "url": "https://news.sky.com/story/smell-detectors-could-be-used-to-catch-drug-abuse-both-inside-and-outside-of-prison-13391235",
             "urlToImage": "https://e3.365dm.com/25/05/1600x900/skynews-police-car-police-tape_6916669.jpg?20250514222100",
             "publishedAt": "2025-07-02T04:00:00Z"
+        },
+        {
+            "source": {
+                "name": "Fortune",
+                "url": "https://fortune.com"
+            },
+            "title": "Managers are using AI to making high-stakes personnel decisions including promotions, raises and terminations",
+            "url": "https://fortune.com/2025/07/02/your-manager-might-be-asking-ai-whether-or-not-they-should-fire-you/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/07/GettyImages-1495183663-e1751410807590.jpg?resize=1200,600",
+            "publishedAt": "2025-07-02T04:00:00Z"
+        },
+        {
+            "source": {
+                "name": "Cable News Network",
+                "url": "https://edition.cnn.com"
+            },
+            "title": "US Senate votes to strike controversial AI regulation moratorium from Trump agenda bill",
+            "url": "https://edition.cnn.com/2025/07/01/tech/senate-strikes-ai-regulation-moratorium-agenda-bill",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2025-07-01t013807z-1757674530-rc2cdfay6s0t-rtrmadp-3-usa-congress-tax.JPG?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2025-07-02T04:00:00Z"
+        },
+        {
+            "source": {
+                "name": "newswise"
+            },
+            "title": "This Puzzle Game Shows Kids How They're Smarter Than AI",
+            "url": "https://www.newswise.com/articles/this-puzzle-game-shows-kids-how-they-re-smarter-than-ai/?sc=rssn",
+            "urlToImage": "https://www.newswise.com/legacy/image.php?height=334&image=%2Fimages%2Fuploads%2F2025%2F07%2F01%2F6864286d6c5fb_IMG4709.jpeg&width=502",
+            "publishedAt": "2025-07-02 00:46:56"
         },
         {
             "source": {
