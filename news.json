@@ -1,6 +1,16 @@
 {
-    "lastUpdatedAt": "2025-07-02T07:16:15.165345Z",
+    "lastUpdatedAt": "2025-07-02T08:21:58.682007Z",
     "articles": [
+        {
+            "source": {
+                "name": "ABC News",
+                "url": "https://www.abc.net.au"
+            },
+            "title": "What we know about Scattered Spider, the hacker group targeting airlines",
+            "url": "https://www.abc.net.au/news/2025-07-02/who-are-scattered-spider-hackers-qantas-data-breach/105485674",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/1e64944bad593a84687d8ded446e574f?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=80&width=862&height=485&imformat=generic",
+            "publishedAt": "2025-07-02T06:51:37Z"
+        },
         {
             "source": {
                 "name": "TechRadar",
@@ -90,6 +100,42 @@
             "url": "https://www.news-medical.net/news/20250630/ETRI-develops-innovative-technology-for-early-autism-screening-in-young-children.aspx",
             "urlToImage": "https://www.news-medical.net/image-handler/picture/2014/7/Autism-620x480.jpg",
             "publishedAt": "2025-07-01T02:33:00Z"
+        },
+        {
+            "source": {
+                "name": "theverge"
+            },
+            "title": "The GOP’s big spending bill could kill renewable energy projects",
+            "url": "https://www.theverge.com/news/696047/senate-republican-spending-bill-passage-renewable-wind-solar-energy",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK438_CLIMATE_CHANGE_E.jpg?crop=0%2C10.732984293194%2C100%2C78.534031413613&quality=90&strip=all&w=1200",
+            "publishedAt": "2025-07-01 20:03:51"
+        },
+        {
+            "source": {
+                "name": "phys"
+            },
+            "title": "New 'gene gun' design boosts efficiency of plant genetic modification",
+            "url": "https://phys.org/news/2025-07-gene-gun-boosts-efficiency-genetic.html",
+            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2025/invention-improves-gen.jpg",
+            "publishedAt": "2025-07-01 20:00:02"
+        },
+        {
+            "source": {
+                "name": "techradar"
+            },
+            "title": "Apple is reportedly looking to power Siri’s AI with OpenAI or Anthropic, here’s why I hope they do",
+            "url": "https://www.techradar.com/computing/artificial-intelligence/apple-is-reportedly-looking-to-power-siris-ai-with-openai-or-anthropic-heres-why-i-hope-they-do",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/5pJ6jfjPhPfKGJhfsfH3eg.jpg",
+            "publishedAt": "2025-07-01 20:00:00"
+        },
+        {
+            "source": {
+                "name": "genengnews"
+            },
+            "title": "The Impact of FDA’s Animal Use Shift on the Future of Preclinical Testing",
+            "url": "https://www.genengnews.com/topics/artificial-intelligence/the-impact-of-fdas-animal-use-shift-on-the-future-of-preclinical-testing/",
+            "urlToImage": "https://www.genengnews.com/wp-content/uploads/2025/07/POV-p17_GettyImages_1396801907_ScientistTransparentScreen-e1751398046719-696x643.jpg",
+            "publishedAt": "2025-07-01 19:28:22"
         },
         {
             "source": {
