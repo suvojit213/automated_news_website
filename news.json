@@ -1,6 +1,16 @@
 {
-    "lastUpdatedAt": "2025-07-03T06:24:11.226751Z",
+    "lastUpdatedAt": "2025-07-03T07:16:26.760723Z",
     "articles": [
+        {
+            "source": {
+                "name": "The Irish Times",
+                "url": "https://www.irishtimes.com"
+            },
+            "title": "Irish tech firm promises to slash cybersecurity audit times with AI",
+            "url": "https://www.irishtimes.com/business/innovation/2025/07/03/irish-tech-firm-promises-to-slash-cybersecurity-audit-times-with-ai/",
+            "urlToImage": "https://www.irishtimes.com/resizer/v2/IF5Y7KD3LJED5GBEG5XHMQZTCI.jpg?smart=true&auth=672b87645e305c4d3fb9c559f2a73a8419c516579ab7ea6919d208a2cd2e17fa&width=1200&height=630",
+            "publishedAt": "2025-07-03T06:30:00Z"
+        },
         {
             "source": {
                 "name": "News-Medical.net",
@@ -140,6 +150,15 @@
             "url": "https://edition.cnn.com/2025/07/01/tech/senate-strikes-ai-regulation-moratorium-agenda-bill",
             "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2025-07-01t013807z-1757674530-rc2cdfay6s0t-rtrmadp-3-usa-congress-tax.JPG?c=16x9&q=w_800,c_fill",
             "publishedAt": "2025-07-02T04:00:00Z"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Apple's AI Surrender: When 'Think Different' Becomes 'Think Like Everyone Else'",
+            "url": "https://www.analyticsinsight.net/editorial/apples-ai-surrender-when-think-different-becomes-think-like-everyone-else",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-07-02%2F4j39uhfu%2FApples-AI-SurrenderWhen-Think-Different-Becomes-Think-Like-Everyone-Else.jpg?ar=40%3A21&auto=format%2Ccompress&enlarge=true&mode=crop&ogImage=true&overlay=false&overlay_position=bottom&overlay_width=100&w=1200",
+            "publishedAt": "2025-07-02 19:10:00"
         },
         {
             "source": {
@@ -2790,28 +2809,6 @@
             "url": "https://www.dtnext.in/entertainment/cinema/airborne-fungal-spores-may-help-predict-covid-flu-surge-study-837826",
             "urlToImage": "https://media.dtnext.in/h-upload/2024/08/23/839415-virus.jpg",
             "publishedAt": "2025-06-21T07:03:11Z"
-        },
-        {
-            "source": {
-                "name": "TelecomTalk",
-                "url": "https://telecomtalk.info"
-            },
-            "title": "Reliance Jio Launches AX6000 Universal Router with Wi-Fi 6 and Mesh Support",
-            "description": "Discover Jio's AX6000 Universal Router with Wi-Fi 6, mesh support, dual-band connectivity, and speeds up to 6 Gbps.",
-            "url": "https://telecomtalk.info/jio-launches-ax6000-wifi6-universal-router-home/996121/",
-            "urlToImage": "https://telecomtalk.info/wp-content/uploads/2025/06/jio-launches-ax6000-wifi6-universal-router-ai-mesh.jpg",
-            "publishedAt": "2025-06-21T03:38:26Z"
-        },
-        {
-            "source": {
-                "name": "Nagaland Post",
-                "url": "https://nagalandpost.com"
-            },
-            "title": "Airborne fungal spores may help predict Covid, flu surge: Study",
-            "description": "Monitoring fungal spores in the outdoor air can predict surges in flu and Covid-19 infections, according to a study.Researchers from Lynn University in Florida, US, discovered that airborne concentrations of fungal spores -- but not pollen -- were strongly linked to increases in flu and Covid-19 cases. When airborne concentrations of fungal spores rose, the",
-            "url": "https://nagalandpost.com/airborne-fungal-spores-may-help-predict-covid-flu-surge-study/",
-            "urlToImage": "https://nagalandpost.com/wp-content/uploads/2025/06/Airborne-fungal-spores-may-help.jpg",
-            "publishedAt": "2025-06-20T20:01:29Z"
         }
     ]
 }
