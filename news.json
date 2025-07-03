@@ -1,6 +1,26 @@
 {
-    "lastUpdatedAt": "2025-07-02T23:15:42.520182Z",
+    "lastUpdatedAt": "2025-07-03T01:17:17.832620Z",
     "articles": [
+        {
+            "source": {
+                "name": "PerthNow",
+                "url": "https://www.perthnow.com.au"
+            },
+            "title": "Thousands of jobs go as Microsoft trims workforce again",
+            "url": "https://www.perthnow.com.au/news/business/thousands-of-jobs-go-as-microsoft-trims-workforce-again-c-19233405",
+            "urlToImage": "https://images.perthnow.com.au/publication/C-19233405/55ee7b8d6f017339c25196953ec9c78aa957c819-16x9-x0y0w1280h720.jpg?imwidth=1200",
+            "publishedAt": "2025-07-02T23:54:06Z"
+        },
+        {
+            "source": {
+                "name": "ABC News",
+                "url": "https://www.abc.net.au"
+            },
+            "title": "Here's what the Qantas cyber attack may mean for your data and what to do to protect yourself",
+            "url": "https://www.abc.net.au/news/2025-07-03/what-to-do-if-your-data-is-stolen-in-qantas-breach/105487196",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/afa75bfd4011feb5c6d74018d4409099?impolicy=wcms_watermark_news&cropH=2130&cropW=3787&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+            "publishedAt": "2025-07-02T19:21:22Z"
+        },
         {
             "source": {
                 "name": "PerthNow",
@@ -90,6 +110,96 @@
             "url": "https://edition.cnn.com/2025/07/01/tech/senate-strikes-ai-regulation-moratorium-agenda-bill",
             "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2025-07-01t013807z-1757674530-rc2cdfay6s0t-rtrmadp-3-usa-congress-tax.JPG?c=16x9&q=w_800,c_fill",
             "publishedAt": "2025-07-02T04:00:00Z"
+        },
+        {
+            "source": {
+                "name": "phys"
+            },
+            "title": "AI predicts material properties using electron-level information without costly quantum mechanical computations",
+            "url": "https://phys.org/news/2025-07-ai-material-properties-electron-quantum.html",
+            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2025/ai-estimates-electron.jpg",
+            "publishedAt": "2025-07-02 13:12:20"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Agentic AI Explained: How It Works, Top Use Cases & Future Potential",
+            "url": "https://hackernoon.com/agentic-ai-explained-how-it-works-top-use-cases-and-future-potential",
+            "urlToImage": "https://hackernoon.com/https://cdn.hackernoon.com/images/IUGr6dJnAuhZ1q8b3PrD36XpqXa2-94038x8.jpeg",
+            "publishedAt": "2025-07-02 13:00:15"
+        },
+        {
+            "source": {
+                "name": "techtarget"
+            },
+            "title": "What is mobile computing?",
+            "url": "https://www.techtarget.com/searchmobilecomputing/definition/nomadic-computing",
+            "urlToImage": "https://www.techtarget.com/rms/onlineImages/sheldon_robert.jpg",
+            "publishedAt": "2025-07-02 13:00:00"
+        },
+        {
+            "source": {
+                "name": "cision"
+            },
+            "title": "Encryption Consulting Launches Post-Quantum Cryptography (PQC) Advisory Services to Address Quantum Computing Risks",
+            "url": "https://www.prnewswire.com/news-releases/encryption-consulting-launches-post-quantum-cryptography-pqc-advisory-services-to-address-quantum-computing-risks-302496010.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2723026/Encryption_Consulting_LLC_Logo.jpg?p=original",
+            "publishedAt": "2025-07-02 13:00:00"
+        },
+        {
+            "source": {
+                "name": "lifehacker_us"
+            },
+            "title": "What People Are Getting Wrong This Week: 'The Velvet Sundown' and AI Music",
+            "url": "https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-are-the-velvet-sundown-real",
+            "urlToImage": "https://lifehacker.com/imagery/articles/01JZ47FG4WHAZB6F9KGQ4WRTQY/hero-image.fill.size_1200x675.jpg",
+            "publishedAt": "2025-07-02 12:30:00"
+        },
+        {
+            "source": {
+                "name": "techtarget"
+            },
+            "title": "What is a message authentication code (MAC)? How it works and best practices",
+            "url": "https://www.techtarget.com/searchsecurity/definition/message-authentication-code-MAC",
+            "urlToImage": "https://www.techtarget.com/rms/onlineImages/robinson_scott.jpg",
+            "publishedAt": "2025-07-02 12:30:00"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "AI vs. Human Intelligence: Rivalry, Synergy, or Supremacy?",
+            "url": "https://www.analyticsinsight.net/artificial-intelligence/ai-vs-human-intelligence-rivalry-synergy-or-supremacy",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-07-02%2F4s84n7s7%2FAI-vs.-Human-Intelligence-Rivalry-Synergy-or-Supremacy.jpg?ar=40%3A21&auto=format%2Ccompress&enlarge=true&mode=crop&ogImage=true&overlay=false&overlay_position=bottom&overlay_width=100&w=1200",
+            "publishedAt": "2025-07-02 12:15:00"
+        },
+        {
+            "source": {
+                "name": "analyticsindiamag"
+            },
+            "title": "What Enterprises Get Wrong About Data Complexity and How to Fix It",
+            "url": "https://analyticsindiamag.com/ai-highlights/what-enterprises-get-wrong-about-data-complexity-and-how-to-fix-it/",
+            "urlToImage": "https://analyticsindiamag.com/wp-content/uploads/2025/07/I5D8521-1-scaled.jpg",
+            "publishedAt": "2025-07-02 12:14:38"
+        },
+        {
+            "source": {
+                "name": "in_mashable"
+            },
+            "title": "Microsoft Warns Of Remote North Korean IT Workers Hacking Organizations To Milk Money For Regime; Here’s How",
+            "url": "https://in.mashable.com/tech/96539/microsoft-warns-of-remote-north-korean-it-workers-hacking-organizations-to-milk-money-for-regime-her",
+            "urlToImage": "https://sm.mashable.com/mashable_in/photo/default/5cvr-27-1-1-1_9bsr.jpg",
+            "publishedAt": "2025-07-02 12:12:01"
+        },
+        {
+            "source": {
+                "name": "geeky_gadgets"
+            },
+            "title": "The Budget MacBook: Apple’s New Entry Point",
+            "url": "https://www.geeky-gadgets.com/the-budget-macbook/",
+            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/07/a18-pro-chipset-macbook-performance.webp",
+            "publishedAt": "2025-07-02 12:00:39"
         },
         {
             "source": {
