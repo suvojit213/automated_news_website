@@ -1,5 +1,5 @@
 {
-    "lastUpdatedAt": "2025-07-04T21:14:49.376460Z",
+    "lastUpdatedAt": "2025-07-04T22:15:11.600705Z",
     "articles": [
         {
             "source": {
@@ -50,6 +50,24 @@
             "url": "https://www.abc.net.au/news/2025-07-04/qantas-ceo-apologises-for-cybersecurity-data-breach/105494842",
             "urlToImage": "https://live-production.wcms.abc-cdn.net.au/a9ffd2cc5febdc86cf567ebaad76cf9e?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=292&width=862&height=485&imformat=generic",
             "publishedAt": "2025-07-04T03:13:40Z"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "Plugable’s New 140W Thunderbolt 5 Docking Station Starts Shipping",
+            "url": "https://www.forbes.com/sites/marksparrow/2025/07/04/plugables-new-140w-thunderbolt-5-docking-station-starts-shipping/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6860fd622cd1a837b081cea8/0x0.jpg?width=960",
+            "publishedAt": "2025-07-04 10:00:00"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Unpacking phi-3-mini: Architecture Driving Phone-Deployable LLM Power",
+            "url": "https://hackernoon.com/unpacking-phi-3-mini-architecture-driving-phone-deployable-llm-power",
+            "urlToImage": "https://hackernoon.com/https://cdn.hackernoon.com/images/a-cellphone-with-wings-flying-above-the-city-sketch-waterpaint-uqqlgv1882mbjjrv4lusv4si.png",
+            "publishedAt": "2025-07-04 09:15:03"
         },
         {
             "source": {
@@ -2746,24 +2764,6 @@
             "url": "https://arstechnica.com/science/2025/06/research-roundup-6-cool-science-stories-we-almost-missed/",
             "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/violin-1152x648.jpg",
             "publishedAt": "2025-06-30 21:07:09"
-        },
-        {
-            "source": {
-                "name": "gizmodotech"
-            },
-            "title": "Mexican Drug Cartel Hacker Used Surveillance Tech to Target FBI Informants for Execution",
-            "url": "https://gizmodo.com/mexican-drug-cartel-hacker-used-surveillance-tech-to-target-fbi-informants-for-execution-2000622199",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/12/scotus-hays-pole-camera.jpg",
-            "publishedAt": "2025-06-30 20:45:45"
-        },
-        {
-            "source": {
-                "name": "zephyrnet"
-            },
-            "title": "The hidden JTAG in your Qualcomm/Snapdragon device’s USB port | Blog",
-            "url": "https://zephyrnet.com/the-hidden-jtag-in-your-qualcomm-snapdragon-devices-usb-port-blog/",
-            "urlToImage": "https://zephyrnet.com/wp-content/uploads/2025/04/zephyrnet-default-img-3-1.jpg-1.jpg",
-            "publishedAt": "2025-06-30 20:41:32"
         }
     ]
 }
