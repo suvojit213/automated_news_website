@@ -1,6 +1,16 @@
 {
-    "lastUpdatedAt": "2025-07-04T06:23:49.212663Z",
+    "lastUpdatedAt": "2025-07-04T07:16:23.224415Z",
     "articles": [
+        {
+            "source": {
+                "name": "ABC News",
+                "url": "https://www.abc.net.au"
+            },
+            "title": "Qantas CEO Vanessa Hudson apologises to customers for data breach",
+            "url": "https://www.abc.net.au/news/2025-07-04/qantas-ceo-apologises-for-cybersecurity-data-breach/105494842",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/a9ffd2cc5febdc86cf567ebaad76cf9e?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=292&width=862&height=485&imformat=generic",
+            "publishedAt": "2025-07-04T03:13:40Z"
+        },
         {
             "source": {
                 "name": "Motley Fool Australia",
@@ -50,6 +60,24 @@
             "url": "https://www.news-medical.net/news/20250702/AI-system-turns-complex-health-records-into-readable-narratives-for-better-care.aspx",
             "urlToImage": "https://www.news-medical.net/image-handler/picture/2014/7/Hospital-620x480.jpg",
             "publishedAt": "2025-07-03T02:56:00Z"
+        },
+        {
+            "source": {
+                "name": "macworld"
+            },
+            "title": "Best NAS drives for Mac",
+            "url": "https://www.macworld.com/article/668856/best-nas-pcs-drives-for-mac.html",
+            "urlToImage": "https://www.macworld.com/wp-content/uploads/2025/07/best_mac_nas_drives_1600homenew-1.jpg?quality=50&strip=all&w=1024",
+            "publishedAt": "2025-07-03 19:06:19"
+        },
+        {
+            "source": {
+                "name": "nasa"
+            },
+            "title": "NASA Advances Pressure Sensitive Paint Research Capability",
+            "url": "https://www.nasa.gov/aeronautics/pressure-sensitive-paint-2025/",
+            "urlToImage": "https://www.nasa.gov/wp-content/uploads/2025/07/clrc-2023-h1-p-swift-00468.jpg?w=2048",
+            "publishedAt": "2025-07-03 18:59:23"
         },
         {
             "source": {
@@ -2732,33 +2760,6 @@
             "url": "https://zephyrnet.com/clone-generating-game-the-alters-may-have-used-ai-to-generate-some-writing-despite-the-lack-of-a-steam-disclosure/",
             "urlToImage": "https://zephyrnet.com/wp-content/uploads/20250614222619_1.jpg",
             "publishedAt": "2025-06-30 14:13:31"
-        },
-        {
-            "source": {
-                "name": "economictimes_indiatimes"
-            },
-            "title": "Europe's AI gigafactory push attracts 76 bids: EU tech chief",
-            "url": "http://economictimes.indiatimes.com/tech/artificial-intelligence/europes-ai-gigafactory-push-attracts-76-bids-eu-tech-chief/articleshow/122163075.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-9672,resizemode-75,msid-122163075/tech/artificial-intelligence/europes-ai-gigafactory-push-attracts-76-bids-eu-tech-chief.jpg",
-            "publishedAt": "2025-06-30 14:11:32"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "AI Data Center Market worth $933.76 billion by 2030 - Exclusive Report by MarketsandMarketsTM",
-            "url": "https://www.prnewswire.com/news-releases/ai-data-center-market-worth-933-76-billion-by-2030---exclusive-report-by-marketsandmarkets-302494150.html",
-            "urlToImage": "https://mma.prnewswire.com/media/1868219/MarketsandMarkets_Logo.jpg?p=original",
-            "publishedAt": "2025-06-30 14:01:00"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "Predictive Maintenance Market to Worth Over US$ 91.04 Billion By 2033 | Astute Analytica",
-            "url": "https://www.prnewswire.com/news-releases/predictive-maintenance-market-to-worth-over-us-91-04-billion-by-2033--astute-analytica-302494292.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2643300/Astute_Analytica_Logo.jpg?p=original",
-            "publishedAt": "2025-06-30 14:01:00"
         }
     ]
 }
