@@ -1,5 +1,5 @@
 {
-    "lastUpdatedAt": "2025-07-05T05:15:27.372883Z",
+    "lastUpdatedAt": "2025-07-05T06:21:17.380069Z",
     "articles": [
         {
             "source": {
@@ -60,6 +60,24 @@
             "url": "https://www.abc.net.au/news/2025-07-04/qantas-ceo-apologises-for-cybersecurity-data-breach/105494842",
             "urlToImage": "https://live-production.wcms.abc-cdn.net.au/a9ffd2cc5febdc86cf567ebaad76cf9e?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=292&width=862&height=485&imformat=generic",
             "publishedAt": "2025-07-04T03:13:40Z"
+        },
+        {
+            "source": {
+                "name": "phys"
+            },
+            "title": "Improving randomness may be the key to more powerful quantum computers",
+            "url": "https://phys.org/news/2025-07-randomness-key-powerful-quantum.html",
+            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2025/improving-randomness-m.jpg",
+            "publishedAt": "2025-07-04 18:20:01"
+        },
+        {
+            "source": {
+                "name": "techrepublic"
+            },
+            "title": "EU Rejects Apple, Meta, Google, and European Companies’ Request for AI Act Delay",
+            "url": "https://www.techrepublic.com/article/news-companies-request-eu-ai-act-delay/",
+            "urlToImage": "https://assets.techrepublic.com/uploads/2025/07/tr_20240531-what-is-eu-ai-office-270x203.jpg",
+            "publishedAt": "2025-07-04 17:21:03"
         },
         {
             "source": {
@@ -2718,25 +2736,6 @@
             "url": "https://techcrunch.com/2025/06/30/chatgpt-everything-to-know-about-the-ai-chatbot/",
             "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043-e1686340799615.jpg?w=1200",
             "publishedAt": "2025-07-01 01:43:33"
-        },
-        {
-            "source": {
-                "name": "newswise"
-            },
-            "title": "UWF Students Work with Naval Surface Warfare Center Panama City Division to Build Roboboat",
-            "url": "https://www.newswise.com/articles/uwf-students-work-with-naval-surface-warfare-center-panama-city-division-to-build-roboboat/?sc=rssn",
-            "urlToImage": "https://news.uwf.edu/wp-content/uploads/2025/06/20250527_ECRoboBoat_03-1-scaled.jpg",
-            "publishedAt": "2025-07-01 01:10:52"
-        },
-        {
-            "source": {
-                "name": "TechRadar",
-                "url": "https://www.techradar.com"
-            },
-            "title": "New hires are cybersecurity goldmines for hackers, and most companies don’t even realize they’re making it easy",
-            "url": "https://www.techradar.com/pro/security/70-of-new-hires-click-on-phishing-links-within-the-first-3-months-of-employment-heres-how-to-stay-safe",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/F5YtUwQtRjc7SzENKWJL44.jpg",
-            "publishedAt": "2025-06-30T21:26:00Z"
         }
     ]
 }
