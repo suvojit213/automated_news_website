@@ -1,6 +1,76 @@
 {
-    "lastUpdatedAt": "2025-07-11T08:21:41.237303Z",
+    "lastUpdatedAt": "2025-07-11T09:18:02.905469Z",
     "articles": [
+        {
+            "source": {
+                "name": "Toronto Star",
+                "url": "https://www.thestar.com"
+            },
+            "title": "Fraud experts warn of smishing scams made easier by artificial intelligence, new tech",
+            "url": "https://www.thestar.com/business/fraud-experts-warn-of-smishing-scams-made-easier-by-artificial-intelligence-new-tech/article_b9bbee9e-8f97-5d73-948d-4644402a590e.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/bc/dbc553a0-a3f8-5c14-a842-468de858c9b9/67af1c6b18e17.image.jpg?crop=1538%2C807%2C0%2C136&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2025-07-11T08:00:25Z"
+        },
+        {
+            "source": {
+                "name": "Vancouver Is Awesome",
+                "url": "https://www.vancouverisawesome.com"
+            },
+            "title": "Fraud experts warn of smishing scams made easier by artificial intelligence, new tech",
+            "url": "https://www.vancouverisawesome.com/national-business/fraud-experts-warn-of-smishing-scams-made-easier-by-artificial-intelligence-new-tech-10929777",
+            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/07/a9eac14f6dc9d8476ac7f7099f6254bc14906ad7a334adf3de572a7fbe4d6fb7.jpg;w=1200;h=800;mode=crop",
+            "publishedAt": "2025-07-11T08:00:25Z"
+        },
+        {
+            "source": {
+                "name": "BradfordToday",
+                "url": "https://www.bradfordtoday.ca"
+            },
+            "title": "Fraud experts warn of smishing scams made easier by artificial intelligence, new tech",
+            "url": "https://www.bradfordtoday.ca/national-business/fraud-experts-warn-of-smishing-scams-made-easier-by-artificial-intelligence-new-tech-10929765",
+            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/07/a9eac14f6dc9d8476ac7f7099f6254bc14906ad7a334adf3de572a7fbe4d6fb7.jpg;w=1200;h=800;mode=crop",
+            "publishedAt": "2025-07-11T08:00:25Z"
+        },
+        {
+            "source": {
+                "name": "SooToday",
+                "url": "https://www.sootoday.com"
+            },
+            "title": "Fraud experts warn of smishing scams made easier by artificial intelligence, new tech",
+            "url": "https://www.sootoday.com/national-business/fraud-experts-warn-of-smishing-scams-made-easier-by-artificial-intelligence-new-tech-10929765",
+            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/07/a9eac14f6dc9d8476ac7f7099f6254bc14906ad7a334adf3de572a7fbe4d6fb7.jpg;w=1200;h=800;mode=crop",
+            "publishedAt": "2025-07-11T08:00:25Z"
+        },
+        {
+            "source": {
+                "name": "BayToday",
+                "url": "https://www.baytoday.ca"
+            },
+            "title": "Fraud experts warn of smishing scams made easier by artificial intelligence, new tech",
+            "url": "https://www.baytoday.ca/business/fraud-experts-warn-of-smishing-scams-made-easier-by-artificial-intelligence-new-tech-10929765",
+            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/07/a9eac14f6dc9d8476ac7f7099f6254bc14906ad7a334adf3de572a7fbe4d6fb7.jpg;w=1200;h=800;mode=crop",
+            "publishedAt": "2025-07-11T08:00:25Z"
+        },
+        {
+            "source": {
+                "name": "ElliotLakeToday.com",
+                "url": "https://www.elliotlaketoday.com"
+            },
+            "title": "Fraud experts warn of smishing scams made easier by artificial intelligence, new tech",
+            "url": "https://www.elliotlaketoday.com/national-business/fraud-experts-warn-of-smishing-scams-made-easier-by-artificial-intelligence-new-tech-10929765",
+            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/07/a9eac14f6dc9d8476ac7f7099f6254bc14906ad7a334adf3de572a7fbe4d6fb7.jpg;w=1200;h=800;mode=crop",
+            "publishedAt": "2025-07-11T08:00:25Z"
+        },
+        {
+            "source": {
+                "name": "GuelphToday",
+                "url": "https://www.guelphtoday.com"
+            },
+            "title": "Fraud experts warn of smishing scams made easier by artificial intelligence, new tech",
+            "url": "https://www.guelphtoday.com/national-business/fraud-experts-warn-of-smishing-scams-made-easier-by-artificial-intelligence-new-tech-10929765",
+            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/07/a9eac14f6dc9d8476ac7f7099f6254bc14906ad7a334adf3de572a7fbe4d6fb7.jpg;w=1200;h=800;mode=crop",
+            "publishedAt": "2025-07-11T08:00:25Z"
+        },
         {
             "source": {
                 "name": "The Motley Fool Canada",
@@ -200,6 +270,24 @@
             "url": "https://www.fool.ca/2025/07/09/this-artificial-intelligence-giant-is-my-forever-technology-hold/",
             "urlToImage": "https://www.fool.ca/wp-content/uploads/2024/10/GettyImages-1365331874-1200x800.jpg",
             "publishedAt": "2025-07-10T00:15:00Z"
+        },
+        {
+            "source": {
+                "name": "arstechnica"
+            },
+            "title": "Cops’ favorite AI tool automatically deletes evidence of when AI was used",
+            "url": "https://arstechnica.com/tech-policy/2025/07/cops-favorite-ai-tool-automatically-deletes-evidence-of-when-ai-was-used/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-153523633-1152x648.jpg",
+            "publishedAt": "2025-07-10 21:12:26"
+        },
+        {
+            "source": {
+                "name": "techradar"
+            },
+            "title": "Arm's legendary rival was in the original PlayStation; now, in a twist of fate, MIPS has been sold to AMD's former foundry",
+            "url": "https://www.techradar.com/pro/arms-legendary-rival-was-in-the-original-playstation-now-in-a-twist-of-fate-mips-has-been-sold-to-amds-former-foundry",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/EHQTKbkV2oLWKqo6gJUMPL.jpg",
+            "publishedAt": "2025-07-10 20:50:00"
         },
         {
             "source": {
@@ -2680,87 +2768,6 @@
             "url": "https://gizmodo.com/three-times-cheaper-than-a-mac-mini-this-512gb-mini-pc-is-almost-free-for-prime-day-2000625154",
             "urlToImage": "https://gizmodo.com/app/uploads/2025/06/gmktec-mini-pc-intel.jpg",
             "publishedAt": "2025-07-07 18:55:46"
-        },
-        {
-            "source": {
-                "name": "genengnews"
-            },
-            "title": "The Single-Cell Club Is Rapidly Expanding",
-            "url": "https://www.genengnews.com/topics/omics/the-single-cell-club-is-rapidly-expanding/",
-            "urlToImage": "https://www.genengnews.com/wp-content/uploads/2025/07/NGS_umap_5M_leiden-ParseBio-1068x884.jpg",
-            "publishedAt": "2025-07-07 18:42:29"
-        },
-        {
-            "source": {
-                "name": "gizmodotech"
-            },
-            "title": "AirPods 4 Now Priced Like Budget Earbuds, as Amazon Clears Out Stock Without Asking Apple",
-            "url": "https://gizmodo.com/airpods-4-now-priced-like-budget-earbuds-as-amazon-clears-out-stock-without-asking-apple-2000625144",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/11/airpods-4.jpg",
-            "publishedAt": "2025-07-07 18:35:58"
-        },
-        {
-            "source": {
-                "name": "genengnews"
-            },
-            "title": "Democratizing Artificial Intelligence in Pre-Clinical Drug Discovery",
-            "url": "https://www.genengnews.com/topics/artificial-intelligence/democratizing-artificial-intelligence-in-pre-clinical-drug-discovery/",
-            "urlToImage": "https://www.genengnews.com/wp-content/uploads/2025/07/AIDrugs_MountSinai_SchlessingerLab_JL3-696x559.jpg",
-            "publishedAt": "2025-07-07 18:18:32"
-        },
-        {
-            "source": {
-                "name": "androidheadlines"
-            },
-            "title": "Samsung’s One UI 8 Brings Powerful Quantum Security Suite",
-            "url": "https://www.androidheadlines.com/2025/07/samsung-one-ui-8-quantum-security-suite-upgrades.html",
-            "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2025/07/One-UI-8-security-features-KNOX.webp",
-            "publishedAt": "2025-07-07 17:46:40"
-        },
-        {
-            "source": {
-                "name": "techcrunch"
-            },
-            "title": "CoreWeave acquires data center provider Core Scientific in $9B stock deal",
-            "url": "https://techcrunch.com/2025/07/07/coreweave-acquires-data-center-provider-core-scientific-in-9b-stock-deal/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/04/cloud-computing-getty.jpg?resize=1200%2C750",
-            "publishedAt": "2025-07-07 17:37:09"
-        },
-        {
-            "source": {
-                "name": "techspot"
-            },
-            "title": "Universities are rethinking computer science curriculum in response to AI tools",
-            "url": "https://www.techspot.com/news/108574-universities-rethinking-computer-science-curriculum-response-ai-tools.html",
-            "urlToImage": "https://www.techspot.com/images2/news/bigimage/2025/07/2025-07-07-image-17.jpg",
-            "publishedAt": "2025-07-07 17:37:00"
-        },
-        {
-            "source": {
-                "name": "bgr_com"
-            },
-            "title": "Apple releases visionOS 26 beta 3 with these new features",
-            "url": "https://bgr.com/tech/apple-releases-visionos-26-beta-3-with-these-new-features/",
-            "urlToImage": "https://bgr.com/wp-content/uploads/2025/06/visionos-26-beta-bgr.jpg?h=1000&quality=82",
-            "publishedAt": "2025-07-07 17:22:11"
-        },
-        {
-            "source": {
-                "name": "hackaday"
-            },
-            "title": "The Hackaday Summer Reading List: No AI Involvement, Guaranteed",
-            "url": "https://hackaday.com/2025/07/07/the-hackaday-summer-reading-list-no-ai-involvement-guaranteed/",
-            "urlToImage": "https://hackaday.com/wp-content/uploads/2025/06/summer-reading-featured.jpg",
-            "publishedAt": "2025-07-07 17:00:35"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "A Double-Edged Sword: AI’s Janus Face In The Sweltering Climate Crisis",
-            "url": "https://www.forbes.com/sites/corneliawalther/2025/07/07/a-double-edged-sword-ais-janus-face-in-the-sweltering-climate-crisis/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/686bf8d18cdd73c7c5a4055b/0x0.jpg?width=960",
-            "publishedAt": "2025-07-07 16:43:24"
         }
     ]
 }
