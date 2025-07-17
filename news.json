@@ -1,6 +1,17 @@
 {
-    "lastUpdatedAt": "2025-07-17T14:14:59.269039Z",
+    "lastUpdatedAt": "2025-07-17T15:18:00.662529Z",
     "articles": [
+        {
+            "source": {
+                "id": "85e5403407038478a5e7d8d100ff8e8f",
+                "name": "CP24 Toronto",
+                "url": "https://www.cp24.com"
+            },
+            "title": "U.S. authors can sue Anthropic together, judge rules",
+            "url": "https://www.cp24.com/news/world/2025/07/17/us-authors-suing-anthropic-can-band-together-in-copyright-class-action-judge-rules/",
+            "urlToImage": "https://www.cp24.com/resizer/v2/JDT2RFSO4FZAAXBECDJORTU32A.jpg?smart=true&auth=46218d92c6f35677bfac4ff33553bc701ae4e166d19fccafb442864509d4088e&width=1200&height=630",
+            "publishedAt": "2025-07-17T14:51:11Z"
+        },
         {
             "source": {
                 "id": "01558c024928d45cf320f6f75eede787",
@@ -33,6 +44,15 @@
             "url": "https://news.sky.com/story/the-king-and-ai-a-humanoid-robot-has-painted-a-picture-of-charles-how-did-it-do-13397522",
             "urlToImage": "https://e3.365dm.com/25/05/1600x900/skynews-king-charles-national-gallery_6907867.jpg?20250506111738",
             "publishedAt": "2025-07-17T02:28:00Z"
+        },
+        {
+            "source": {
+                "name": "telecom_economictimes"
+            },
+            "title": "HPE adds KLA chair to board in pact with activist investor Elliott",
+            "url": "https://telecom.economictimes.indiatimes.com/news/enterprise-services/hpe-welcomes-kla-chairman-to-board-in-strategic-move-with-elliott-investment-management/122608440",
+            "urlToImage": "https://etimg.etb2bimg.com/photo/122608498.cms",
+            "publishedAt": "2025-07-17 02:39:14"
         },
         {
             "source": {
@@ -78,6 +98,15 @@
             "url": "https://www.newswise.com/articles/super-resolution-x-ray-technique-reveals-atomic-insights-with-unprecedented-detail/?sc=rssn",
             "urlToImage": "https://www.newswise.com/legacy/image.php?height=334&image=%2Fimages%2Fuploads%2F2025%2F07%2F16%2F6877ce2b07ab8_PulseOnly1600x900.jpg&width=502",
             "publishedAt": "2025-07-17 00:15:30"
+        },
+        {
+            "source": {
+                "name": "computerweekly"
+            },
+            "title": "What is the internet of medical things (IoMT)?",
+            "url": "https://www.techtarget.com/iotagenda/definition/IoMT-Internet-of-Medical-Things",
+            "urlToImage": "https://www.techtarget.com/rms/onlineimages/health_it-digital_health_tech-f_mobile.png",
+            "publishedAt": "2025-07-17 00:00:00"
         },
         {
             "source": {
@@ -2722,33 +2751,6 @@
             "url": "https://www.techradar.com/computing/windows/latest-windows-11-update-fail-brings-yet-more-installation-woes-but-some-other-reported-bugs-have-me-seriously-worried",
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/XHBG2PFugd2NXxfu95hpLB.jpg",
             "publishedAt": "2025-07-14 11:07:07"
-        },
-        {
-            "source": {
-                "name": "techradar"
-            },
-            "title": "Small models, big wins: four reasons enterprises are choosing SLMs over LLMs",
-            "url": "https://www.techradar.com/pro/small-models-big-wins-four-reasons-enterprises-are-choosing-slms-over-llms",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Hc6oTvWTHfb3ETNovTaDxG.jpg",
-            "publishedAt": "2025-07-14 10:44:14"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "M4 MacBook Air still at Prime Day low price, nearly $1,000 off an RTX 50-series gaming PC and more — Power Picks",
-            "url": "https://www.tomsguide.com/computing/m4-macbook-air-150-dollars-off-rtx-5060-gaming-pc-nearly-1000-dollars-off-power-picks",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Maxtr3fGxrkyRxe5KvPpoi.jpg",
-            "publishedAt": "2025-07-14 10:28:09"
-        },
-        {
-            "source": {
-                "name": "geeky_gadgets"
-            },
-            "title": "Argon ONE UP Open Source ARM : Raspberry Pi CM5 Laptop",
-            "url": "https://www.geeky-gadgets.com/argon-one-up-raspberry-pi-laptop/",
-            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/07/open-source-arm-laptop-design.webp",
-            "publishedAt": "2025-07-14 10:16:30"
         }
     ]
 }
