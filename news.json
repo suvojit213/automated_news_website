@@ -1,6 +1,33 @@
 {
-    "lastUpdatedAt": "2025-07-20T20:17:38.696480Z",
+    "lastUpdatedAt": "2025-07-20T21:14:45.243161Z",
     "articles": [
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Tips for Writing Clean Code in TensorFlow 2",
+            "url": "https://hackernoon.com/tips-for-writing-clean-code-in-tensorflow-2",
+            "urlToImage": "https://hackernoon.com/https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-z70388z.png",
+            "publishedAt": "2025-07-20 09:00:04"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "Nvidia N1X CPU: Everything we know so far",
+            "url": "https://www.tomsguide.com/computing/cpus/nvidia-n1x-cpu-everything-we-know-so-far",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/c7QGjc8B3HinnkDnNBzSdP-1280-80.jpg",
+            "publishedAt": "2025-07-20 08:30:00"
+        },
+        {
+            "source": {
+                "name": "livemint"
+            },
+            "title": "Mint Explainer: Is OpenAI exaggerating the powers of its new ChatGPT Agent?",
+            "url": "https://www.livemint.com/ai/artificial-intelligence/chatgpt-agent-openai-autonomous-ai-agent-openai-safety-framework-biological-warfare-ai-risk-gpt-5-launch-openai-11752995624578.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2025/07/20/1600x900/FILES-JAPAN-US-TECHNOLOGY-AI-INVESTMENTS-0_1751310_1752999772579_1752999772824.jpg",
+            "publishedAt": "2025-07-20 08:28:01"
+        },
         {
             "source": {
                 "name": "livemint"
@@ -2752,33 +2779,6 @@
             "url": "https://www.techradar.com/pro/the-need-for-robust-ai-infrastructure",
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/cuJ2nHdA2cLngX4bhsHsye.jpg",
             "publishedAt": "2025-07-16 10:24:24"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "Samsung Galaxy Z Flip 7: 5 reasons to buy (and 3 reasons to skip)",
-            "url": "https://www.tomsguide.com/phones/samsung-phones/samsung-galaxy-z-flip-7-reasons-to-buy-and-skip",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/bCrDBerFZVjheafHukF2Zg-1280-80.jpg",
-            "publishedAt": "2025-07-16 10:01:00"
-        },
-        {
-            "source": {
-                "name": "fastcompany"
-            },
-            "title": "Why sleep-time compute is the next big leap in AI",
-            "url": "https://www.fastcompany.com/91368307/why-sleep-time-compute-is-the-next-big-leap-in-ai?partner=rss",
-            "urlToImage": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2025/07/p-1-91368307-why-sleep-time-compute-is-the-next-big-leap-in-ai.jpg",
-            "publishedAt": "2025-07-16 10:00:00"
-        },
-        {
-            "source": {
-                "name": "scientificamerican"
-            },
-            "title": "Cosmic Explorer, Laser Breakthroughs and the Next Generation of Gravitational-Wave Research",
-            "url": "https://www.scientificamerican.com/podcast/episode/cosmic-explorer-laser-breakthroughs-and-the-next-generation-of-gravitational/",
-            "urlToImage": "https://static.scientificamerican.com/dam/m/225cfca2d98f2cb5/original/SQ-Wednesday-EP-Art.png?m=1716342177.955&w=600",
-            "publishedAt": "2025-07-16 10:00:00"
         }
     ]
 }
