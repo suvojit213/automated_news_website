@@ -1,6 +1,17 @@
 {
-    "lastUpdatedAt": "2025-07-21T01:25:18.923347Z",
+    "lastUpdatedAt": "2025-07-21T03:41:09.844104Z",
     "articles": [
+        {
+            "source": {
+                "id": "6fea3ee012f060c6309366516e8d00be",
+                "name": "News-Medical.net",
+                "url": "https://www.news-medical.net"
+            },
+            "title": "AI turns old diabetes drug Halicin into a potent weapon against superbugs",
+            "url": "https://www.news-medical.net/news/20250720/AI-turns-old-diabetes-drug-Halicin-into-a-potent-weapon-against-superbugs.aspx",
+            "urlToImage": "https://www.news-medical.net/images/news/ImageForNews_814923_17530640440916573.jpg",
+            "publishedAt": "2025-07-21T02:15:00Z"
+        },
         {
             "source": {
                 "id": "6a3aad3dbb44ac873f72b594aaea22c4",
@@ -11,6 +22,33 @@
             "url": "https://indianexpress.com/article/cities/delhi/first-their-grades-fall-then-their-behaviour-changes-how-screen-addiction-is-impacting-delhis-young-adults-10138837/",
             "urlToImage": "https://images.indianexpress.com/2025/07/Delhi-screen-addiction-young.jpg",
             "publishedAt": "2025-07-20T23:55:29Z"
+        },
+        {
+            "source": {
+                "name": "notebookcheck"
+            },
+            "title": "Minisforum MS-A2 review: Compact AMD mini PC with workstation ambitions and GPU upgrade option",
+            "url": "https://www.notebookcheck.net/Minisforum-MS-A2-review-Compact-AMD-mini-PC-with-workstation-ambitions-and-GPU-upgrade-option.1062179.0.html",
+            "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/Minisforum/MS-A2/MS-A2_10.jpg",
+            "publishedAt": "2025-07-20 15:31:00"
+        },
+        {
+            "source": {
+                "name": "hackaday"
+            },
+            "title": "8 Bit Mechanical Computer Built from Knex",
+            "url": "https://hackaday.com/2025/07/20/8-bit-mechanical-computer-built-from-knex/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2025/07/knex-computer-main.jpg",
+            "publishedAt": "2025-07-20 14:00:23"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "Solid-State Batteries Still Face Hurdles But The Prize Is Huge For EVs",
+            "url": "https://www.forbes.com/sites/neilwinton/2025/07/20/solid-state-batteries-still-face-hurdles-but-the-prize-is-huge-for-evs/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/687b6cbb139a42b2fb3005f3/0x0.jpg?width=960",
+            "publishedAt": "2025-07-20 13:43:05"
         },
         {
             "source": {
@@ -2745,42 +2783,6 @@
             "url": "https://www.prnewswire.com/news-releases/supermicro-now-shipping-high-performance-4-socket-x14-servers-for-demanding-enterprise-database-and-mission-critical-workloads-based-on-intel-xeon-6-processors-302506396.html",
             "urlToImage": "https://mma.prnewswire.com/media/2732088/Super_Micro_4_Socket_Servers.jpg?p=original",
             "publishedAt": "2025-07-16 13:05:00"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "From Campus to Cloud: Our Journey Teaching Functional Programming to Thousands During a Pandemic",
-            "url": "https://hackernoon.com/from-campus-to-cloud-our-journey-teaching-functional-programming-to-thousands-during-a-pandemic",
-            "urlToImage": "https://hackernoon.com/https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-g6032bw.jpeg",
-            "publishedAt": "2025-07-16 13:00:04"
-        },
-        {
-            "source": {
-                "name": "computerweekly"
-            },
-            "title": "Meta AI training will be challenged at Europe’s highest court, says data protection chief",
-            "url": "https://www.computerweekly.com/news/366627521/Meta-AI-training-will-be-challenged-at-Europes-highest-court-says-data-protection-chief",
-            "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero%20Images/Meta-logo-AndreasPrott-Editorial-Use-Only-adobe_searchsitetablet_520X173.jpg",
-            "publishedAt": "2025-07-16 12:47:00"
-        },
-        {
-            "source": {
-                "name": "yahoo"
-            },
-            "title": "Examining mushrooms under microscopes can help engineers design stronger materials",
-            "url": "https://www.yahoo.com/news/examining-mushrooms-under-microscopes-help-123345633.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/9Bh8JaHGz88FgBGrOUBKbw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk7Y2Y9d2VicA--/https://media.zenfs.com/en/the_conversation_us_articles_815/0d71e432f78223723a129a54fd3f6a07",
-            "publishedAt": "2025-07-16 12:33:45"
-        },
-        {
-            "source": {
-                "name": "techradar"
-            },
-            "title": "Global AI adoption to push IT spending beyond $5.4 trillion in 2025",
-            "url": "https://www.techradar.com/pro/global-ai-adoption-to-push-it-spending-beyond-usd5-4-trillion-in-2025",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/DVffQnnibMWmNpx2Wfb5Se.jpg",
-            "publishedAt": "2025-07-16 12:06:00"
         }
     ]
 }
