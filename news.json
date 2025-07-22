@@ -1,6 +1,28 @@
 {
-    "lastUpdatedAt": "2025-07-22T22:16:00.448521Z",
+    "lastUpdatedAt": "2025-07-22T23:16:21.998989Z",
     "articles": [
+        {
+            "source": {
+                "id": "f5081afeaba654292dd91fffd29f9dd4",
+                "name": "The Globe and Mail",
+                "url": "https://www.theglobeandmail.com"
+            },
+            "title": "Amazon to buy Bee, a San Francisco-based startup focused on AI wearables",
+            "url": "https://www.theglobeandmail.com/business/technology/article-amazon-buy-bee-startup-ai-wearables/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/v2/2MJ6YTW475BYXNVDFI6VWVJ6MA.JPG?auth=2c630d7a46dd807c29a5dacdb2f08d7cefa02de18795bd4e78b275280c75da19&width=1200&height=800&quality=80&smart=true",
+            "publishedAt": "2025-07-22T22:47:42Z"
+        },
+        {
+            "source": {
+                "id": "7f6e8514e9d8f8376aaa9a7229861518",
+                "name": "PerthNow",
+                "url": "https://www.perthnow.com.au"
+            },
+            "title": "Banks told to make AI work for people, not against them",
+            "url": "https://www.perthnow.com.au/news/business/banks-told-to-make-ai-work-for-people-not-against-them-c-19443455",
+            "urlToImage": "https://images.perthnow.com.au/publication/C-19443455/0ee3ce810e52ec5f2f64276ec3186566ff95e5cc-16x9-x0y0w1280h720.jpg?imwidth=1200",
+            "publishedAt": "2025-07-22T21:04:25Z"
+        },
         {
             "source": {
                 "id": "85e5403407038478a5e7d8d100ff8e8f",
@@ -198,6 +220,60 @@
             "url": "https://www.vancouverisawesome.com/highlights/is-bc-doing-enough-to-protect-workers-from-ai-10971591",
             "urlToImage": "https://www.vmcdn.ca/f/files/glaciermedia/images/getty-images/futuristicaibot.jpg;w=1200;h=800;mode=crop",
             "publishedAt": "2025-07-22T01:00:00Z"
+        },
+        {
+            "source": {
+                "name": "macworld"
+            },
+            "title": "A18 Pro MacBook: Everything you need to know",
+            "url": "https://www.macworld.com/article/2854313/a18-pro-macbook-design-processor-specs-release-rumors.html",
+            "urlToImage": "https://www.macworld.com/wp-content/uploads/2025/07/12-inch-macbook-lid.jpg?quality=50&strip=all&w=1024",
+            "publishedAt": "2025-07-22 11:15:00"
+        },
+        {
+            "source": {
+                "name": "phys"
+            },
+            "title": "Molten magma persisted on the moon's surface longer than scientists expected",
+            "url": "https://phys.org/news/2025-07-molten-magma-persisted-moon-surface.html",
+            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2025/molten-magma-may-have.jpg",
+            "publishedAt": "2025-07-22 11:14:33"
+        },
+        {
+            "source": {
+                "name": "techtarget"
+            },
+            "title": "The next big thing: Agentic AI for revenue cycle management",
+            "url": "https://www.techtarget.com/revcyclemanagement/feature/The-next-big-thing-Agentic-AI-for-revenue-cycle-management",
+            "urlToImage": "https://www.techtarget.com/rms/onlineimages/medical%20revenue_g1345347757_searchsitetablet_520X173.jpg",
+            "publishedAt": "2025-07-22 11:13:00"
+        },
+        {
+            "source": {
+                "name": "thehackernews"
+            },
+            "title": "How to Advance from SOC Manager to CISO?",
+            "url": "https://thehackernews.com/2025/07/how-to-advance-from-soc-manager-to-ciso.html",
+            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkA5GicUD44buYefo0xmjhHoJI2fBOiILlj71lEHZNdTJtTfk3lga3ko2FshyphenhyphenZb12CjSnv7ZxiLxn8hGsOG0XkRw5czIC1MJp-vJqLmRLNGdxICWv5EeMZRgD2T_mprbzwLXZYMmzJvc9wC6nj7pc0__WqYi7vEIkALA2LVcoLPC7Hy5d6_5FfejEFOpI/s1600/radiant.jpg",
+            "publishedAt": "2025-07-22 11:00:00"
+        },
+        {
+            "source": {
+                "name": "telecom_economictimes"
+            },
+            "title": "Qualcomm aims to diversify revenue base amid muted smartphone growth: Alex Katouzian",
+            "url": "https://telecom.economictimes.indiatimes.com/news/devices/qualcomm-diversifies-revenue-streams-amid-smartphone-market-challenges/122835210",
+            "urlToImage": "https://etimg.etb2bimg.com/photo/122835423.cms",
+            "publishedAt": "2025-07-22 10:42:44"
+        },
+        {
+            "source": {
+                "name": "gamesindustry"
+            },
+            "title": "Roblox launches Learning Hub with partners like BBC Bitesize",
+            "url": "https://www.gamesindustry.biz/roblox-launches-learning-hub-with-partners-like-bbc-bitesize",
+            "urlToImage": "https://assetsio.gnwcdn.com/p0llm3wk.jpg?auto=webp&format=jpg&quality=70&width=414",
+            "publishedAt": "2025-07-22 10:34:34"
         },
         {
             "source": {
@@ -2746,78 +2822,6 @@
             "url": "https://www.zdnet.com/article/best-web-hosting/",
             "urlToImage": "https://www.zdnet.com/a/img/resize/2ed0001b4c6fdaa332fdcabb77fe970817dfc1a6/2024/02/15/523f28d7-837d-4529-8d30-91f85c186b30/gettyimages-1192656373.jpg?auto=webp&fit=crop&height=675&width=1200",
             "publishedAt": "2025-07-17 20:43:44"
-        },
-        {
-            "source": {
-                "name": "arstechnica"
-            },
-            "title": "ChatGPT’s new AI agent can browse the web and create PowerPoint slideshows",
-            "url": "https://arstechnica.com/information-technology/2025/07/chatgpts-new-ai-agent-can-browse-the-web-and-create-powerpoint-slideshows/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/robots_on_a_computer-1152x648.jpg",
-            "publishedAt": "2025-07-17 20:41:52"
-        },
-        {
-            "source": {
-                "name": "cnn"
-            },
-            "title": "ChatGPT can now ‘think’ and ‘act’ for you after a new update",
-            "url": "https://www.cnn.com/2025/07/17/tech/chatgpt-agent-think-and-act-for-you-new-update",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1986209510.jpg?c=16x9&q=h_833%2Cw_1480%2Cc_fill",
-            "publishedAt": "2025-07-17 20:39:59"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Where to Find the Best PC Games to Download for Windows 10 64 Bit",
-            "url": "https://techannouncer.com/where-to-find-the-best-pc-games-to-download-for-windows-10-64-bit/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/07/963d809bthumbnail-332x166.jpeg",
-            "publishedAt": "2025-07-17 20:27:04"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Mastering AI Tools: Essential Tips for Enhanced Productivity",
-            "url": "https://techannouncer.com/mastering-ai-tools-essential-tips-for-enhanced-productivity/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/07/1e78eef0thumbnail-332x166.jpeg",
-            "publishedAt": "2025-07-17 20:08:04"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "Reformed Carbon 4: Hydrogen Railroad Full Steam Ahead In California",
-            "url": "https://www.forbes.com/sites/davidblekhman/2025/07/17/reformed-carbon-4-hydrogen-railroad-full-steam-ahead-in-california/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68794f03f84627f62bdfea7b/0x0.jpg?width=960",
-            "publishedAt": "2025-07-17 20:01:03"
-        },
-        {
-            "source": {
-                "name": "zephyrnet"
-            },
-            "title": "Quantum Computing Explained: From Hype to Real-World Applications with Nati Erez | Impact Quantum",
-            "url": "https://zephyrnet.com/quantum-computing-explained-from-hype-to-real-world-applications-with-nati-erez-impact-quantum/",
-            "urlToImage": "https://zephyrnet.com/wp-content/uploads/quantum-computing-explained-from-hype-to-real-world-applications-with-nati-erez-impact-quantum.jpg",
-            "publishedAt": "2025-07-17 19:37:36"
-        },
-        {
-            "source": {
-                "name": "news_uwm"
-            },
-            "title": "Naval dignitary visits UWM for Navy Week in Milwaukee",
-            "url": "https://uwm.edu/news/naval-dignitary-visits-uwm-for-navy-week-in-milwaukee/",
-            "urlToImage": "https://uwm.edu/news/wp-content/uploads/sites/41/2025/07/navy750x500-20250716_TCF_IMC_1044.jpg",
-            "publishedAt": "2025-07-17 19:31:37"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Google Researchers Expose Malware Campaign on End-of-Life SonicWall Devices",
-            "url": "https://www.webpronews.com/google-researchers-expose-malware-campaign-on-end-of-life-sonicwall-devices/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/07/xai-tmp-imgen-f8c9f57e-6da6-4b27-afdd-cd4c6f214e0c.jpeg?fit=1024%2C768&ssl=1",
-            "publishedAt": "2025-07-17 19:30:00"
         }
     ]
 }
