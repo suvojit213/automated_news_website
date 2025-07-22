@@ -1,5 +1,5 @@
 {
-    "lastUpdatedAt": "2025-07-22T06:25:02.555661Z",
+    "lastUpdatedAt": "2025-07-22T07:19:52.306492Z",
     "articles": [
         {
             "source": {
@@ -69,6 +69,17 @@
         },
         {
             "source": {
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com"
+            },
+            "title": "Microsoft SharePoint server hack likely caused by single actor - and thousands of firms now vulnerable: researchers",
+            "url": "https://nypost.com/2025/07/21/business/microsoft-sharepoint-server-hack-likely-caused-by-single-actor-and-thousands-of-firms-now-vulnerable-researchers/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/07/micorosft-server-hack.jpg?quality=75&strip=all&1753097673&w=1024",
+            "publishedAt": "2025-07-21T16:42:12Z"
+        },
+        {
+            "source": {
                 "id": "cb749b89c7dc92dc2d517a49bb9a43ab",
                 "name": "The Verge",
                 "url": "https://www.theverge.com"
@@ -110,6 +121,60 @@
             "url": "https://www.news-medical.net/news/20250720/AI-turns-old-diabetes-drug-Halicin-into-a-potent-weapon-against-superbugs.aspx",
             "urlToImage": "https://www.news-medical.net/images/news/ImageForNews_814923_17530640440916573.jpg",
             "publishedAt": "2025-07-21T02:15:00Z"
+        },
+        {
+            "source": {
+                "name": "arstechnica"
+            },
+            "title": "Gemini Deep Think learns math, wins gold medal at International Math Olympiad",
+            "url": "https://arstechnica.com/ai/2025/07/google-deepmind-earns-gold-in-international-math-olympiad-with-new-gemini-ai/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/imo-team-in-australia-1152x648-1753123000.jpg",
+            "publishedAt": "2025-07-21 19:08:41"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Most Blockchains Talk of Financial Inclusion. What Happens When You Actually Try It?",
+            "url": "https://hackernoon.com/most-blockchains-talk-of-financial-inclusion-what-happens-when-you-actually-try-it",
+            "urlToImage": "https://hackernoon.com/https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-e803kwg.png",
+            "publishedAt": "2025-07-21 19:02:19"
+        },
+        {
+            "source": {
+                "name": "mit"
+            },
+            "title": "A new way to edit or generate images",
+            "url": "https://news.mit.edu/2025/new-way-edit-or-generate-images-0721",
+            "urlToImage": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202507/mit-token-opt3.jpg?itok=A759koh8",
+            "publishedAt": "2025-07-21 19:00:00"
+        },
+        {
+            "source": {
+                "name": "yahoo"
+            },
+            "title": "NASA's X-59 'quiet' supersonic jet rolls out for its 1st test drive (video)",
+            "url": "https://tech.yahoo.com/science/articles/nasas-x-59-quiet-supersonic-190000358.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/AVwhSezIxJd7HkkSi.v9fA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://media.zenfs.com/en/space_311/e287e2073dcceafb83432bea850bf7b9",
+            "publishedAt": "2025-07-21 19:00:00"
+        },
+        {
+            "source": {
+                "name": "techspot"
+            },
+            "title": "VirtualBox is a free and powerful tool for running multiple operating systems",
+            "url": "https://www.techspot.com/downloads/4481-virtualbox.html",
+            "urlToImage": "https://www.techspot.com/images2/downloads/topdownload/2025/07/2025-07-21-ts3_thumbs-941.png",
+            "publishedAt": "2025-07-21 18:36:00"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "Service over hype: What sets this US-based PC builder apart?",
+            "url": "https://www.tomsguide.com/computing/gaming-desktops/service-us-based-high-performance-creatives-xidax",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/SVB5AKGxhLEXDHkCfRXxCd-1280-80.png",
+            "publishedAt": "2025-07-21 18:31:39"
         },
         {
             "source": {
@@ -2723,69 +2788,6 @@
             "url": "https://www.analyticsinsight.net/stocks/should-you-buy-broadcom-stock-now",
             "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-07-17%2Ftseg5ztn%2FShould-You-Buy-Broadcom-Stock-Now.jpg?ar=40%3A21&auto=format%2Ccompress&enlarge=true&mode=crop&ogImage=true&overlay=false&overlay_position=bottom&overlay_width=100&w=1200",
             "publishedAt": "2025-07-17 09:24:39"
-        },
-        {
-            "source": {
-                "name": "washingtonpost"
-            },
-            "title": "Researchers are using AI for peer reviews — and finding ways to cheat it",
-            "url": "https://www.washingtonpost.com/nation/2025/07/17/ai-university-research-peer-review/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https%3A%2F%2Farc-anglerfish-washpost-prod-washpost.s3.amazonaws.com%2Fpublic%2FAFSZQ3UOKFFKPEJLV4YUXKHCZY.jpg&w=440",
-            "publishedAt": "2025-07-17 09:00:07"
-        },
-        {
-            "source": {
-                "name": "techtarget"
-            },
-            "title": "What is YAML (YAML Ain't Markup Language)?",
-            "url": "https://www.techtarget.com/searchitoperations/definition/YAML-YAML-Aint-Markup-Language",
-            "urlToImage": "https://www.techtarget.com/rms/onlineimages/garn_damon.jpg",
-            "publishedAt": "2025-07-17 09:00:00"
-        },
-        {
-            "source": {
-                "name": "techtarget"
-            },
-            "title": "What is a container image?",
-            "url": "https://www.techtarget.com/searchitoperations/definition/container-image",
-            "urlToImage": "https://www.techtarget.com/rms/onlineImages/mckenzie_cameron.jpg",
-            "publishedAt": "2025-07-17 09:00:00"
-        },
-        {
-            "source": {
-                "name": "economictimes_indiatimes"
-            },
-            "title": "AI race: Zoho launches its own LLM, proprietary models for speech-to-text conversion",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-race-zoho-launches-its-own-llm-proprietary-models-for-speech-to-text-conversion/articleshow/122627958.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-21868,resizemode-75,msid-122627958/tech/artificial-intelligence/ai-race-zoho-launches-its-own-llm-proprietary-models-for-speech-to-text-conversion.jpg",
-            "publishedAt": "2025-07-17 08:51:20"
-        },
-        {
-            "source": {
-                "name": "techradar"
-            },
-            "title": "AI Agents: the next big phase of artificial intelligence",
-            "url": "https://www.techradar.com/pro/ai-agents-the-next-big-phase-of-artificial-intelligence",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Hc6oTvWTHfb3ETNovTaDxG.jpg",
-            "publishedAt": "2025-07-17 08:41:06"
-        },
-        {
-            "source": {
-                "name": "geeky_gadgets"
-            },
-            "title": "iOS 26 vs. Android 16: A Deep Dive into the Next Generation of Mobile OS",
-            "url": "https://www.geeky-gadgets.com/ios-26-vs-android-16/",
-            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/07/ios-26-vs-android-16-customization-features.webp",
-            "publishedAt": "2025-07-17 08:30:36"
-        },
-        {
-            "source": {
-                "name": "computerweekly"
-            },
-            "title": "Terrorist potential of generative AI ‘purely theoretical’",
-            "url": "https://www.computerweekly.com/news/366627776/Terrorist-potential-of-generative-AI-purely-theoretical",
-            "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero%20Images/technology-digital-ai-binary-adobe_searchsitetablet_520X173.jpg",
-            "publishedAt": "2025-07-17 08:30:00"
         }
     ]
 }
