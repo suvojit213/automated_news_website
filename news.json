@@ -1,6 +1,17 @@
 {
-    "lastUpdatedAt": "2025-07-22T18:24:09.887351Z",
+    "lastUpdatedAt": "2025-07-22T19:15:24.470510Z",
     "articles": [
+        {
+            "source": {
+                "id": "f5081afeaba654292dd91fffd29f9dd4",
+                "name": "The Globe and Mail",
+                "url": "https://www.theglobeandmail.com"
+            },
+            "title": "Cybersecurity breach at hedge fund manager Waratah may have exposed sensitive client data",
+            "url": "https://www.theglobeandmail.com/business/article-waratah-capital-cybersecurity-breach-client-data/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/v2/ALZQ7VZYH5DI5G7LUA2ZBGEGFY.jpg?auth=d7ceb3220ff0d26894e79c80167f0f60e373b1a58cb1b01f9cef205a3a7d7a74&width=1200&height=800&quality=80&smart=true",
+            "publishedAt": "2025-07-22T17:50:05Z"
+        },
         {
             "source": {
                 "id": "93e59eaaf800fc544a6df1a4fc5c0cdc",
@@ -10,6 +21,28 @@
             "title": "Federal privacy watchdog discontinues investigation into student data breach",
             "url": "https://www.thestar.com/politics/federal/federal-privacy-watchdog-discontinues-investigation-into-student-data-breach/article_50d2db4f-ddb2-52be-b77a-cd3546fa405b.html",
             "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/custom/image/f84403b8-7d76-11ee-9d02-a72a4951957f.png?resize=600%2C600",
+            "publishedAt": "2025-07-22T17:20:15Z"
+        },
+        {
+            "source": {
+                "id": "ec12383a90942fd0ccc50c66266217a5",
+                "name": "BradfordToday",
+                "url": "https://www.bradfordtoday.ca"
+            },
+            "title": "Federal privacy watchdog discontinues investigation into student data breach",
+            "url": "https://www.bradfordtoday.ca/national-news/federal-privacy-watchdog-discontinues-investigation-into-student-data-breach-10976213",
+            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/07/2ae867f58988801bd81c2a5189f9968c05da70608ebc224b44e2d6568ea9b0ef.jpg;w=1200;h=800;mode=crop",
+            "publishedAt": "2025-07-22T17:20:15Z"
+        },
+        {
+            "source": {
+                "id": "0ce70f407e0fa82ddaeeb29243aa8210",
+                "name": "SooToday",
+                "url": "https://www.sootoday.com"
+            },
+            "title": "Federal privacy watchdog discontinues investigation into student data breach",
+            "url": "https://www.sootoday.com/national-news/federal-privacy-watchdog-discontinues-investigation-into-student-data-breach-10976213",
+            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/07/2ae867f58988801bd81c2a5189f9968c05da70608ebc224b44e2d6568ea9b0ef.jpg;w=1200;h=800;mode=crop",
             "publishedAt": "2025-07-22T17:20:15Z"
         },
         {
@@ -154,6 +187,15 @@
             "url": "https://www.vancouverisawesome.com/highlights/is-bc-doing-enough-to-protect-workers-from-ai-10971591",
             "urlToImage": "https://www.vmcdn.ca/f/files/glaciermedia/images/getty-images/futuristicaibot.jpg;w=1200;h=800;mode=crop",
             "publishedAt": "2025-07-22T01:00:00Z"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "ChatGPT Surpasses 2.5 Billion Daily Prompts, Challenging Search Engine Norms",
+            "url": "https://www.analyticsinsight.net/news/chatgpt-surpasses-25-billion-daily-prompts-challenging-search-engine-norms",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-07-22%2F9y1reoih%2Fimage-16.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-07-22 06:33:33"
         },
         {
             "source": {
@@ -2774,42 +2816,6 @@
             "url": "https://www.zdnet.com/article/linux-has-over-6-of-the-desktop-market-yes-you-read-that-right-heres-how/",
             "urlToImage": "https://www.zdnet.com/a/img/resize/deb08f1fc5890d6c81e93c9abb1c8f79de24e0d7/2025/07/17/a30270eb-923a-42a6-b7e1-e66a82f4a52d/linux-desktop-hits-6-market-share-mark.jpg?auto=webp&width=1280",
             "publishedAt": "2025-07-17 17:29:04"
-        },
-        {
-            "source": {
-                "name": "venturebeat"
-            },
-            "title": "OpenAI unveils ‘ChatGPT agent’ that gives ChatGPT its own computer to autonomously use your email and web apps, download and create files for you",
-            "url": "https://venturebeat.com/ai/openai-unveils-chatgpt-agent-that-gives-chatgpt-its-own-computer-to-autonomously-use-your-email-and-web-apps-download-and-create-files-for-you/",
-            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/07/cfr0z3n_retro_futuristic_midcentury_modern_computer_ad_poster_w_9dce2c03-1f64-46e2-9158-4783423c3465.png?w=750",
-            "publishedAt": "2025-07-17 17:16:33"
-        },
-        {
-            "source": {
-                "name": "benzinga"
-            },
-            "title": "Semiconductor Stocks React To Key Policies And Earnings",
-            "url": "https://www.benzinga.com/markets/tech/25/07/46475029/semiconductor-stocks-react-to-key-policies-and-earnings",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/07/17/Small-Semiconductor-On-A-Circuit-Board--.jpeg?auto=jpg&dpr=1&fit=crop&height=480&optimize=medium&width=720",
-            "publishedAt": "2025-07-17 17:01:52"
-        },
-        {
-            "source": {
-                "name": "techcrunch"
-            },
-            "title": "OpenAI launches a general purpose agent in ChatGPT",
-            "url": "https://techcrunch.com/2025/07/17/openai-launches-a-general-purpose-agent-in-chatgpt/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/openAI-spiral-rose.jpg?resize=1200%2C675",
-            "publishedAt": "2025-07-17 17:00:03"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "ChatGPT Agent supercharges AI to carry out tasks — here's how OpenAI's new agent works",
-            "url": "https://www.tomsguide.com/ai/chatgpt-agent-supercharges-ai-to-carry-out-tasks-heres-how-openais-new-agent-works",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/VUNEh9zoAacrBHjhmWkiiB-1280-80.jpg",
-            "publishedAt": "2025-07-17 17:00:00"
         }
     ]
 }
