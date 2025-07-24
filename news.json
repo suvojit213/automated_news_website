@@ -1,6 +1,50 @@
 {
-    "lastUpdatedAt": "2025-07-24T14:18:16.721646Z",
+    "lastUpdatedAt": "2025-07-24T15:16:52.061177Z",
     "articles": [
+        {
+            "source": {
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com"
+            },
+            "title": "More than 1 in 3 Americans are using AI to manage their health, according to new survey",
+            "url": "https://nypost.com/2025/07/24/tech/more-than-1-in-3-americans-are-using-ai-to-manage-their-health-according-to-new-survey/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/07/108653685.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2025-07-24T14:17:35Z"
+        },
+        {
+            "source": {
+                "id": "18c2a6429621fbedc49891aa7c847ec6",
+                "name": "Gizmodo",
+                "url": "https://gizmodo.com"
+            },
+            "title": "Humans Counted 8,600 Earthquakes in Yellowstone. AI Says We're Not Even Close",
+            "url": "https://gizmodo.com/humans-counted-8600-earthquakes-in-yellowstone-ai-says-were-not-even-close-2000633417",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/07/yellowstone-1200x675.jpg",
+            "publishedAt": "2025-07-24T13:25:37Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net"
+            },
+            "title": "Filipinos warned against accepting AI-linked job offers in Cambodia",
+            "url": "https://www.manilatimes.net/2025/07/24/news/filipinos-warned-against-accepting-ai-linked-job-offers-in-cambodia/2155658",
+            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+            "publishedAt": "2025-07-24T13:14:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net"
+            },
+            "title": "Filipinos warned vs scam jobs in Cambodia",
+            "url": "https://www.manilatimes.net/2025/07/24/news/filipinos-warned-vs-scam-jobs-in-cambodia/2155593",
+            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+            "publishedAt": "2025-07-24T13:00:00Z"
+        },
         {
             "source": {
                 "id": "6fea3ee012f060c6309366516e8d00be",
@@ -44,6 +88,17 @@
             "url": "https://deadline.com/2025/07/itv-addresses-masterchef-scandal-love-island-ai-1236466992/",
             "urlToImage": "https://deadline.com/wp-content/uploads/2024/12/Gregg-Wallace-John-Torode-MasterChef.jpg?w=1024",
             "publishedAt": "2025-07-24T08:13:51Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com"
+            },
+            "title": "China's Premier Li Qiang to Inaugurate World AI Conference",
+            "url": "https://www.devdiscourse.com/article/technology/3514872-chinas-premier-li-qiang-to-inaugurate-world-ai-conference",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/16_10_2024_09_48_11_8106354.jpg?width=920&format=jpeg",
+            "publishedAt": "2025-07-24T07:30:07Z"
         },
         {
             "source": {
@@ -132,6 +187,15 @@
             "url": "https://www.irishtimes.com/business/2025/07/24/paypal-to-add-100-high-tech-jobs-in-dublin/",
             "urlToImage": "https://www.irishtimes.com/resizer/v2/KLFLVZ5SWIEDIS5IJ4UJNZYZ4Y.jpg?smart=true&auth=4e7e8e59f7c962d3d3f2c853d434368e49d14428d56a917d25fed0d4f230d763&width=1200&height=630",
             "publishedAt": "2025-07-24T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "thehindu"
+            },
+            "title": "Google-parent Alphabet earnings shine with help of AI",
+            "url": "https://www.thehindu.com/sci-tech/technology/google-parent-alphabet-earnings-shine-with-help-of-ai/article69849098.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/7e1jr7/article69849101.ece/alternates/LANDSCAPE_1200/Alphabet_Results_81792.jpg",
+            "publishedAt": "2025-07-24 03:14:05"
         },
         {
             "source": {
@@ -2786,60 +2850,6 @@
             "url": "https://news.abplive.com/technology/sam-altman-openai-hardware-ambition-1-million-gpus-a-100x-challenge-1789438",
             "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2025/02/11/51a255244564a03beede7d4298a5ad941739258628626402_original.jpg",
             "publishedAt": "2025-07-21 10:11:44"
-        },
-        {
-            "source": {
-                "name": "cio"
-            },
-            "title": "Rethinking and realigning IT for the AI era",
-            "url": "https://www.cio.com/article/4022981/rethinking-and-realigning-it-for-the-ai-era.html",
-            "urlToImage": "https://www.cio.com/wp-content/uploads/2025/07/4022981-0-20487500-1753092225-rethink-IT-for-AI-shutterstock_2655173877.jpg?quality=50&strip=all&w=1024",
-            "publishedAt": "2025-07-21 10:01:00"
-        },
-        {
-            "source": {
-                "name": "cnn"
-            },
-            "title": "Will AI really wipe out white collar jobs? Tech insiders are split",
-            "url": "https://www.cnn.com/2025/07/21/tech/ai-replace-human-workers-tech-insiders-split",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20250625-ai-taking-jobs-gfx.jpg?c=16x9&q=h_833%2Cw_1480%2Cc_fill",
-            "publishedAt": "2025-07-21 10:00:42"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "PNY Unveils New DUO LINK USB Stick For Smartphones, Tablets, Laptops And Desktops",
-            "url": "https://www.forbes.com/sites/marksparrow/2025/07/21/pny-unveils-new-duo-link-usb-stick-for-smartphones-tablets-laptops-and-desktops/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/687117d5414b83ab859e5cf0/0x0.jpg?width=960",
-            "publishedAt": "2025-07-21 10:00:00"
-        },
-        {
-            "source": {
-                "name": "cio"
-            },
-            "title": "Textron takes flight with gen AI",
-            "url": "https://www.cio.com/article/4025048/textron-takes-flight-with-gen-ai.html",
-            "urlToImage": "https://www.cio.com/wp-content/uploads/2025/07/4025048-0-90723900-1753092149-Todd-Kackley-global-CIO-Textron.jpg?quality=50&strip=all&w=1024",
-            "publishedAt": "2025-07-21 10:00:00"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "GIGABYTE's new AI PCs are slim, multitasking powerhouses for professionals",
-            "url": "https://www.zdnet.com/article/gigabytes-new-ai-pcs-are-slim-multitasking-powerhouses-for-professionals/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/0936411903a5dc42c1083e2bf74aa6f7eb2649cd/2025/07/18/2538e90c-68e2-4e03-9c61-b28ce2c83930/gigabyte-x16-a16-hero.jpg?auto=webp&width=1280",
-            "publishedAt": "2025-07-21 10:00:00"
-        },
-        {
-            "source": {
-                "name": "telecom_economictimes"
-            },
-            "title": "Qualcomm bullish on 5G, AI-enabled smart glasses in India: Savi Soin",
-            "url": "https://telecom.economictimes.indiatimes.com/news/devices/qualcomm-bullish-on-5g-ai-enabled-smart-glasses-in-india-savi-soin/122812674",
-            "urlToImage": "https://etimg.etb2bimg.com/photo/122812677.cms",
-            "publishedAt": "2025-07-21 09:56:34"
         }
     ]
 }
