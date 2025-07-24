@@ -1,6 +1,17 @@
 {
-    "lastUpdatedAt": "2025-07-24T12:35:30.456132Z",
+    "lastUpdatedAt": "2025-07-24T13:35:31.781410Z",
     "articles": [
+        {
+            "source": {
+                "id": "6fea3ee012f060c6309366516e8d00be",
+                "name": "News-Medical.net",
+                "url": "https://www.news-medical.net"
+            },
+            "title": "Open-source AI tool matches commercial systems in medical scan reporting",
+            "url": "https://www.news-medical.net/news/20250724/Open-source-AI-tool-matches-commercial-systems-in-medical-scan-reporting.aspx",
+            "urlToImage": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+            "publishedAt": "2025-07-24T12:40:00Z"
+        },
         {
             "source": {
                 "id": "59749bcce0ec90ed59071c45c44738b7",
@@ -487,6 +498,15 @@
             "url": "https://www.livemint.com/technology/tech-news/trumps-ai-plan-prioritizes-deregulation-to-boost-us-dominance-11753312144052.html",
             "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/tech3_1734536499109_1734536513984.jpg",
             "publishedAt": "2025-07-23 23:09:03"
+        },
+        {
+            "source": {
+                "name": "messenger_inquirer"
+            },
+            "title": "Trump's new AI plan leans heavily on Silicon Valley industry ideas",
+            "url": "https://www.messenger-inquirer.com/news/national/trumps-new-ai-plan-leans-heavily-on-silicon-valley-industry-ideas/article_b740496f-f864-5b7e-999f-f6a08c22e7d9.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/messenger-inquirer.com/content/tncms/assets/v3/editorial/b/42/b426bf08-e027-5533-ab9e-546832e0d6a5/688171c221aaa.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-07-23 22:31:00"
         },
         {
             "source": {
@@ -2820,24 +2840,6 @@
             "url": "https://telecom.economictimes.indiatimes.com/news/devices/qualcomm-bullish-on-5g-ai-enabled-smart-glasses-in-india-savi-soin/122812674",
             "urlToImage": "https://etimg.etb2bimg.com/photo/122812677.cms",
             "publishedAt": "2025-07-21 09:56:34"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "iPad Pro M5 tipped for big dual-camera upgrade — but not where you'd think",
-            "url": "https://www.tomsguide.com/computing/ipads/ipad-pro-m5-tipped-for-big-dual-camera-upgrade-but-not-where-youd-think",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/TvwS5YbPuy8rPtoHBSUQCg-1280-80.jpg",
-            "publishedAt": "2025-07-21 09:52:21"
-        },
-        {
-            "source": {
-                "name": "news9live"
-            },
-            "title": "DU UG Admissions 2025: Hindu, SRCC, St Stephen’s lead cut-offs in humanities, commerce and science",
-            "url": "https://www.news9live.com/education-career/edu-news/du-ug-admissions-2025-hindu-srcc-st-stephens-lead-cut-offs-in-humanities-commerce-and-science-2878946",
-            "urlToImage": "https://images.news9live.com/wp-content/uploads/2025/07/Delhi-University.jpg?enlarge=true&w=802",
-            "publishedAt": "2025-07-21 09:41:00"
         }
     ]
 }
