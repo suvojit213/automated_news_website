@@ -1,6 +1,17 @@
 {
-    "lastUpdatedAt": "2025-07-25T04:35:43.067649Z",
+    "lastUpdatedAt": "2025-07-25T05:23:41.840644Z",
     "articles": [
+        {
+            "source": {
+                "id": "35515662ec044d3f94b543cd8802d63f",
+                "name": "WDIV ClickOnDetroit",
+                "url": "https://www.clickondetroit.com"
+            },
+            "title": "Asian shares retreat after Alphabet and AI stocks nudge Wall Street to more records",
+            "url": "https://www.clickondetroit.com/business/2025/07/25/asian-shares-retreat-after-alphabet-and-ai-stocks-nudge-wall-street-to-more-records/",
+            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/DODYVA3UXNBBNOSZMQNP4YJTMM.jpg?_a=DATAg1eAZAA0",
+            "publishedAt": "2025-07-25T04:55:29Z"
+        },
         {
             "source": {
                 "id": "ca84296ef941bfa461f4239a2290cb99",
@@ -11,6 +22,28 @@
             "url": "https://www.news18.com/business/how-much-did-kristin-cabot-earn-at-astronomer-ex-hr-chiefs-salary-revealed-9462303.html",
             "urlToImage": "https://images.news18.com/ibnlive/uploads/2025/07/DYK-Snakes-and-Ladders-was-originated-in-India-2025-07-18T111802.159-2025-07-6462a713e97417139346b0396f25c3e2-16x9.png",
             "publishedAt": "2025-07-25T02:55:17Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net"
+            },
+            "title": "Risk highlighted as Chinese hackers hit Microsoft",
+            "url": "https://www.manilatimes.net/2025/07/25/business/foreign-business/risk-highlighted-as-chinese-hackers-hit-microsoft/2156076",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/07/25/689651.jpg",
+            "publishedAt": "2025-07-25T02:14:00Z"
+        },
+        {
+            "source": {
+                "id": "92f73865e835e33ed68c11447777c939",
+                "name": "9to5Mac",
+                "url": "https://9to5mac.com"
+            },
+            "title": "Apple publishes Human-Centered Machine Learning workshop",
+            "url": "https://9to5mac.com/2025/07/24/apple-publishes-human-centered-machine-learning-workshop-videos/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/machine-learning-research.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2025-07-24T23:01:33Z"
         },
         {
             "source": {
@@ -319,6 +352,96 @@
             "url": "https://www.irishtimes.com/business/2025/07/24/paypal-to-add-100-high-tech-jobs-in-dublin/",
             "urlToImage": "https://www.irishtimes.com/resizer/v2/KLFLVZ5SWIEDIS5IJ4UJNZYZ4Y.jpg?smart=true&auth=4e7e8e59f7c962d3d3f2c853d434368e49d14428d56a917d25fed0d4f230d763&width=1200&height=630",
             "publishedAt": "2025-07-24T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "engadget"
+            },
+            "title": "iOS 26 preview: Liquid Glass is more than just a visual refresh",
+            "url": "https://www.engadget.com/mobile/smartphones/ios-26-preview-liquid-glass-is-more-than-just-a-visual-refresh-172155733.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/HV8QJatOz5zMhx_EwB6lmw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://s.yimg.com/os/creatr-uploaded-images/2025-07/e05de310-66f7-11f0-8ded-445bba7e4ad6",
+            "publishedAt": "2025-07-24 17:21:55"
+        },
+        {
+            "source": {
+                "name": "arstechnica"
+            },
+            "title": "Six lesser-known features to like in the macOS 26 Tahoe public beta",
+            "url": "https://arstechnica.com/gadgets/2025/07/six-lesser-known-features-to-like-in-the-macos-26-tahoe-public-beta/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/tahoe-default-wallpaper-1152x648.jpeg",
+            "publishedAt": "2025-07-24 17:20:19"
+        },
+        {
+            "source": {
+                "name": "arstechnica"
+            },
+            "title": "iPadOS 26 preview: The rare software update that makes (most) old hardware feel new",
+            "url": "https://arstechnica.com/gadgets/2025/07/ipados-26-preview-the-rare-software-update-that-makes-most-old-hardware-feel-new/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/ipados-26-welcome-1152x648.jpeg",
+            "publishedAt": "2025-07-24 17:18:54"
+        },
+        {
+            "source": {
+                "name": "9to5mac"
+            },
+            "title": "iOS 26 public beta now available with new design and more",
+            "url": "https://9to5mac.com/2025/07/24/ios-26-now-available-features/",
+            "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/iOS-26-public-beta.jpg?quality=82&strip=all&w=1600",
+            "publishedAt": "2025-07-24 17:14:47"
+        },
+        {
+            "source": {
+                "name": "9to5mac"
+            },
+            "title": "macOS Tahoe 26 public beta now available, here’s everything new, install guide",
+            "url": "https://9to5mac.com/2025/07/24/macos-tahoe-26-public-beta-now-available-heres-everything-new-install-guide/",
+            "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/macOS-26-public-beta.jpg?quality=82&strip=all&w=1600",
+            "publishedAt": "2025-07-24 17:14:28"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "7 ways Linux can save you money",
+            "url": "https://www.zdnet.com/article/7-ways-linux-can-save-you-money/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/1e8846d16eeb9c68b92b340d53d045e8b1331543/2025/07/24/00d39b8a-7325-4937-a1f4-0221e56758fb/how-linux-can-save-you-money.jpg?auto=webp&width=1280",
+            "publishedAt": "2025-07-24 17:14:00"
+        },
+        {
+            "source": {
+                "name": "cnet"
+            },
+            "title": "iOS 26 Public Beta Is Here: Download Apple's Liquid Glass Update Today",
+            "url": "https://www.cnet.com/tech/services-and-software/ios-26-public-beta-is-here-download-apples-liquid-glass-update-today/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/d510d300068084a65f947259674f0348afd3413e/hub/2025/06/10/41908c08-a85c-42e8-a346-bf1e628b9ebe/cnet-wwdc-25ios-26-iphone.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-07-24 17:13:56"
+        },
+        {
+            "source": {
+                "name": "cnet"
+            },
+            "title": "How to Uninstall the iOS 26 Beta If You Want to Go Back to iOS 18",
+            "url": "https://www.cnet.com/tech/mobile/how-to-uninstall-the-ios-26-beta-if-you-want-to-go-back-to-ios-18/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/4ec872d162d24a273ba011c11f99a01564bb633a/hub/2025/06/16/2f53501c-24a2-424a-8fd8-751f3407bde3/revert-ios26-to-ios18.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-07-24 17:13:10"
+        },
+        {
+            "source": {
+                "name": "phys"
+            },
+            "title": "Supercomputer simulation clarifies how turbulent boundary layers evolve at moderate Reynolds numbers",
+            "url": "https://phys.org/news/2025-07-supercomputer-simulation-turbulent-boundary-layers.html",
+            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2025/large-scale-simulation.jpg",
+            "publishedAt": "2025-07-24 17:10:05"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "I switched to a $280 Chromebook from my Windows laptop for a week - and didn't regret it",
+            "url": "https://www.zdnet.com/article/i-switched-to-a-280-chromebook-from-my-windows-laptop-for-a-week-and-didnt-regret-it/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/a294eabbacb632150ca0c77a52a2c2f2452ea546/2024/09/30/858e7eeb-8588-465c-b751-0d6b127f89cb/chromebook-event-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-07-24 17:03:00"
         },
         {
             "source": {
@@ -2741,123 +2864,6 @@
             "url": "https://www.analyticsinsight.net/press-release/cncf-announces-speakers-and-sessions-for-kubecon-cloudnativecon-india",
             "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-07-22%2F46m1o2r0%2FCNCF-Announces-Speakers-and-Sessions-for-KubeCon-CloudNativeCon-India.jpg?auto=format%2Ccompress&fit=max&w=480",
             "publishedAt": "2025-07-22 09:10:32"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "The best VPN services for iPhone in 2025: Expert tested and reviewed",
-            "url": "https://www.zdnet.com/article/best-iphone-vpn/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/df3c1c972543a0d9f88b7e41e2e1f8ae965977e9/2022/11/15/d98be170-aa10-4538-8937-4f5713a4c96c/nordvpn-logo.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-07-22 09:00:20"
-        },
-        {
-            "source": {
-                "name": "cnet"
-            },
-            "title": "How to Recycle Your Old Computers and Printers for Free",
-            "url": "https://www.cnet.com/tech/computing/how-to-recycle-your-old-computers-and-printers-for-free/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/dbff43b9aec33a7ba030a71627e94dbfdc4b29c9/hub/2025/04/09/cbcd5942-8195-4883-959e-0b8545b8db2a/gettyimages-77510867.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-07-22 08:15:04"
-        },
-        {
-            "source": {
-                "name": "phys"
-            },
-            "title": "Anxious parents face tough choices on AI",
-            "url": "https://phys.org/news/2025-07-anxious-parents-tough-choices-ai.html",
-            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2025/this-photo-shows-pupil.jpg",
-            "publishedAt": "2025-07-22 08:10:01"
-        },
-        {
-            "source": {
-                "name": "livemint"
-            },
-            "title": "Humans beat AI gold-level score at top maths contest",
-            "url": "https://www.livemint.com/science/news/humans-beat-ai-gold-level-score-at-top-maths-contest-11753171753429.html",
-            "urlToImage": "https://www.livemint.com/lm-img/static/1yr/newmintdefault-120.png",
-            "publishedAt": "2025-07-22 08:09:12"
-        },
-        {
-            "source": {
-                "name": "computerweekly"
-            },
-            "title": "Adding digital transformation firepower to Arsenal FC",
-            "url": "https://www.computerweekly.com/feature/Adding-digital-transformation-firepower-to-Arsenal-FC",
-            "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero%20Images/sport-football-1-adobe_searchsitetablet_520X173.jpg",
-            "publishedAt": "2025-07-22 07:20:00"
-        },
-        {
-            "source": {
-                "name": "computerweekly"
-            },
-            "title": "AWS adds vector functionality to S3 object storage",
-            "url": "https://www.computerweekly.com/news/366627941/AWS-adds-vector-functionality-to-S3-object-storage",
-            "urlToImage": "https://www.computerweekly.com/rms/onlineimages/code_g1195673150_searchsitetablet_520X173.jpg",
-            "publishedAt": "2025-07-22 07:18:00"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "ChatGPT Surpasses 2.5 Billion Daily Prompts, Challenging Search Engine Norms",
-            "url": "https://www.analyticsinsight.net/news/chatgpt-surpasses-25-billion-daily-prompts-challenging-search-engine-norms",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-07-22%2F9y1reoih%2Fimage-16.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-07-22 06:33:33"
-        },
-        {
-            "source": {
-                "name": "techcrunch"
-            },
-            "title": "Latent Labs launches web-based AI model to democratize protein design",
-            "url": "https://techcrunch.com/2025/07/21/latent-labs-launches-web-based-ai-model-to-democratize-protein-design/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/Dr-Simon-Kohl-CEO-and-Founder-of-Latent-Labs-e1739199819495.jpg?w=1199",
-            "publishedAt": "2025-07-22 06:00:00"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "CoinLedger",
-            "url": "https://www.analyticsinsight.net/specifications/coinledger",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-07-19%2Fcv38gkt3%2FCoinLedger.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-07-22 05:39:58"
-        },
-        {
-            "source": {
-                "name": "thehindubusinessline"
-            },
-            "title": "Google and OpenAI's AI models win milestone gold at global math competition",
-            "url": "https://www.thehindubusinessline.com/info-tech/google-and-openais-ai-models-win-milestone-gold-at-global-math-competition/article69841256.ece",
-            "urlToImage": "https://bl-i.thgim.com/public/incoming/cvzvpl/article69841263.ece/alternates/LANDSCAPE_1200/IMG_Artificial_intellige_2_1_94E0R769.jpg",
-            "publishedAt": "2025-07-22 05:24:19"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "I replaced my MacBook Pro with the best-designed laptop I've ever seen — here's what happened",
-            "url": "https://www.tomsguide.com/computing/laptops/i-replaced-my-macbook-pro-with-the-best-designed-laptop-ive-ever-seen-heres-what-happened",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/zuHWRTovbFCBgDBeCUFHuA-1280-80.jpg",
-            "publishedAt": "2025-07-22 05:15:00"
-        },
-        {
-            "source": {
-                "name": "techcrunch"
-            },
-            "title": "Instead of selling to Meta, AI chip startup FuriosaAI signed a huge customer",
-            "url": "https://techcrunch.com/2025/07/21/instead-of-selling-to-meta-ai-chip-startup-furiosaai-signed-a-huge-customer/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-1366897838.jpg?resize=1200%2C800",
-            "publishedAt": "2025-07-22 05:00:00"
-        },
-        {
-            "source": {
-                "name": "analyticsindiamag"
-            },
-            "title": "Google and OpenAI Battle for Math Olympiad Glory",
-            "url": "https://analyticsindiamag.com/ai-news-updates/google-and-openai-battle-for-math-olympiad-glory/",
-            "urlToImage": "https://analyticsindiamag.com/wp-content/uploads/2024/05/google-vs-openai-.jpg",
-            "publishedAt": "2025-07-22 04:45:19"
         }
     ]
 }
