@@ -1,5 +1,5 @@
 {
-    "lastUpdatedAt": "2025-07-26T08:20:07.953783Z",
+    "lastUpdatedAt": "2025-07-26T09:16:01.860906Z",
     "articles": [
         {
             "source": {
@@ -135,6 +135,17 @@
         },
         {
             "source": {
+                "id": "26269dbc42635df9af8c24f3cdab8e37",
+                "name": "Cable News Network",
+                "url": "https://edition.cnn.com"
+            },
+            "title": "OpenAI CEO Sam Altman warns of an AI ‘fraud crisis’",
+            "url": "https://edition.cnn.com/2025/07/22/tech/openai-sam-altman-fraud-crisis",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2025-07-22t180123z-843015925-rc2trfaeakpi-rtrmadp-3-usa-fed-banks.JPG?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2025-07-25T04:00:00Z"
+        },
+        {
+            "source": {
                 "id": "ca84296ef941bfa461f4239a2290cb99",
                 "name": "News18",
                 "url": "https://www.news18.com"
@@ -154,6 +165,42 @@
             "url": "https://www.manilatimes.net/2025/07/25/business/foreign-business/risk-highlighted-as-chinese-hackers-hit-microsoft/2156076",
             "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/07/25/689651.jpg",
             "publishedAt": "2025-07-25T02:14:00Z"
+        },
+        {
+            "source": {
+                "name": "devdiscourse"
+            },
+            "title": "UPDATE 1-China's Premier Li proposes global AI cooperation organisation",
+            "url": "https://www.devdiscourse.com/article/technology/3517692-update-1-chinas-premier-li-proposes-global-ai-cooperation-organisation",
+            "urlToImage": "https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_01_17_7363597.jpg",
+            "publishedAt": "2025-07-25 21:12:56"
+        },
+        {
+            "source": {
+                "name": "bitcoinworld"
+            },
+            "title": "Meta AI Unveils Crucial Leadership: Shengjia Zhao to Propel Superintelligence Labs",
+            "url": "https://bitcoinworld.co.in/meta-ai-shengjia-zhao/",
+            "urlToImage": "https://bitcoinworld.co.in/wp-content/uploads/meta-ai-shengjia-zhao.jpg",
+            "publishedAt": "2025-07-25 21:10:11"
+        },
+        {
+            "source": {
+                "name": "lifehacker_us"
+            },
+            "title": "Google Might Have Made an AI Search Product I Actually Like",
+            "url": "https://lifehacker.com/tech/google-ai-search-web-guide",
+            "urlToImage": "https://lifehacker.com/imagery/articles/01K11CX7SK8ZV0ADSXWKHQYRBK/hero-image.fill.size_1200x675.jpg",
+            "publishedAt": "2025-07-25 21:00:00"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "AI Scaling Laws Fuel Deepfakes and Info Warfare Arms Race",
+            "url": "https://www.webpronews.com/ai-scaling-laws-fuel-deepfakes-and-info-warfare-arms-race/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/07/xai-tmp-imgen-198ee67a-6220-4751-9843-1177d6e2acfb.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-07-25 20:34:01"
         },
         {
             "source": {
@@ -2777,61 +2824,6 @@
             "url": "https://www.thestar.com/news/world/united-states/the-latest-white-house-reveals-ai-action-plan-shaped-by-trump-s-silicon-valley-supporters/article_b6adc985-36df-5e45-b07e-a0c4a00e408b.html",
             "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/2a/12ac72cd-d2fa-525c-8fe4-456a0f34c91b/6880d821272e5.image.jpg?crop=1622%2C852%2C0%2C114&resize=1200%2C630&order=crop%2Cresize",
             "publishedAt": "2025-07-23T12:32:43Z"
-        },
-        {
-            "source": {
-                "id": "35515662ec044d3f94b543cd8802d63f",
-                "name": "WDIV ClickOnDetroit",
-                "url": "https://www.clickondetroit.com"
-            },
-            "title": "The Latest: Trump will reveal ‘AI Action Plan’ shaped by his Silicon Valley supporters",
-            "url": "https://www.clickondetroit.com/news/politics/2025/07/23/the-latest-trump-will-reveal-ai-action-plan-shaped-by-his-silicon-valley-supporters/",
-            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/FITPJK5J2FE2RE3V24VNPHIUTM.jpg?_a=DATAg1eAZAA0",
-            "publishedAt": "2025-07-23T12:31:59Z"
-        },
-        {
-            "source": {
-                "id": "2b8e9cf94b4b7463c6aee33c1d6df71b",
-                "name": "Chicago Tribune",
-                "url": "https://www.chicagotribune.com"
-            },
-            "title": "President Donald Trump’s AI plan leans on Silicon Valley industry",
-            "url": "https://www.chicagotribune.com/2025/07/23/donald-trump-new-ai-plan/",
-            "urlToImage": "https://www.chicagotribune.com/wp-content/uploads/2025/07/Trump_81532-1.jpg?w=1024&h=682",
-            "publishedAt": "2025-07-23T12:13:28Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com"
-            },
-            "title": "Amazon.com shuts down China AI research lab",
-            "url": "https://www.cp24.com/news/money/2025/07/23/amazon-shuts-down-shanghai-ai-research-lab-ft-says/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/IDNRAXVV2OUIICK6JZ22OM6BEI.jpg?smart=true&auth=0d491c16d126cc416d33e6a2037e6ffae201c5af3de859b76af7d2b069c8ef9c&width=1200&height=630",
-            "publishedAt": "2025-07-23T12:09:33Z"
-        },
-        {
-            "source": {
-                "id": "8da923084554b2821233d6c5c5f02c97",
-                "name": "Fox News",
-                "url": "https://www.foxnews.com"
-            },
-            "title": "From drone swarms to gene-edited soldiers: AI transforms modern warfare",
-            "url": "https://www.foxnews.com/politics/ai-arms-race-us-china-weaponize-drones-code-biotech-next-great-war",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/05/iStock-1386281299.jpg",
-            "publishedAt": "2025-07-23T12:00:45Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com"
-            },
-            "title": "White House to outline AI priorities against China",
-            "url": "https://www.cp24.com/news/money/2025/07/23/trump-to-outline-ai-priorities-amid-tech-battle-with-china/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/GPW7FUFXW5HQZHQIT3J344EEEI.jpg?smart=true&auth=4bec243bd2dc186f37d92cdff7f315568b47def7f08d3b517fa972f9fa5ec8a4&width=1200&height=630",
-            "publishedAt": "2025-07-23T11:49:05Z"
         }
     ]
 }
