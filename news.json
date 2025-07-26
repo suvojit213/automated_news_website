@@ -1,6 +1,39 @@
 {
-    "lastUpdatedAt": "2025-07-26T03:23:05.673714Z",
+    "lastUpdatedAt": "2025-07-26T04:32:43.540427Z",
     "articles": [
+        {
+            "source": {
+                "id": "6fea3ee012f060c6309366516e8d00be",
+                "name": "News-Medical.net",
+                "url": "https://www.news-medical.net"
+            },
+            "title": "Study reveals stigmatizing responses in LLMs for addiction-related queries",
+            "url": "https://www.news-medical.net/news/20250726/Study-reveals-stigmatizing-responses-in-LLMs-for-addiction-related-queries.aspx",
+            "urlToImage": "https://www.news-medical.net/image-handler/picture/2018/7/Selection_of_alcoholic_drinks_on_rustic_wood_background_-_Oleksandra_Naumenko_A1_fe979bdaef3943969b200bceaf42b174-620x480.jpg",
+            "publishedAt": "2025-07-26T04:30:00Z"
+        },
+        {
+            "source": {
+                "id": "7f6e8514e9d8f8376aaa9a7229861518",
+                "name": "PerthNow",
+                "url": "https://www.perthnow.com.au"
+            },
+            "title": "China's premier proposes global co-operation on AI",
+            "url": "https://www.perthnow.com.au/news/politics/chinas-premier-proposes-global-co-operation-on-ai-c-19481380",
+            "urlToImage": "https://images.perthnow.com.au/publication/C-19481380/a79211b018122a858b96eaf8f9f1952adb5fc33b-16x9-x0y0w1280h720.jpg?imwidth=1200",
+            "publishedAt": "2025-07-26T04:17:06Z"
+        },
+        {
+            "source": {
+                "id": "34cc62608b4607dc3a776802caadb7bd",
+                "name": "ThePrint",
+                "url": "https://theprint.in"
+            },
+            "title": "Gurugram teen’s device helps patients speak",
+            "url": "https://theprint.in/feature/gurugram-prenet-khetan-ai-device-hindi/2702631/",
+            "urlToImage": "https://static.theprint.in/wp-content/uploads/2025/07/feature-image-2025-07-25T204453.709.jpg",
+            "publishedAt": "2025-07-26T03:39:53Z"
+        },
         {
             "source": {
                 "id": "93e59eaaf800fc544a6df1a4fc5c0cdc",
@@ -121,6 +154,87 @@
             "url": "https://www.manilatimes.net/2025/07/25/business/foreign-business/risk-highlighted-as-chinese-hackers-hit-microsoft/2156076",
             "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/07/25/689651.jpg",
             "publishedAt": "2025-07-25T02:14:00Z"
+        },
+        {
+            "source": {
+                "name": "astrobiology"
+            },
+            "title": "One Billion-year-old Rules Of Protein Stability Revealed",
+            "url": "https://astrobiology.com/2025/07/one-billion-year-old-rules-of-protein-stability-revealed.html",
+            "urlToImage": "https://astrobiology.com/wp-content/uploads/2025/07/One-Billion-year-old-Rules.png",
+            "publishedAt": "2025-07-25 16:21:51"
+        },
+        {
+            "source": {
+                "name": "bristolpress"
+            },
+            "title": "How Trump’s AI plan may affect energy in the US",
+            "url": "https://www.bristolpress.com/news/how-trump-s-ai-plan-may-affect-energy-in-the-us/article_02a4b20b-747e-4685-8e8c-344da4132159.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/bristolpress.com/content/tncms/assets/v3/editorial/9/70/970d00a0-d0e2-4f0e-a662-f068f874b561/6883abf882dba.image.jpg?resize=300%2C169",
+            "publishedAt": "2025-07-25 16:05:00"
+        },
+        {
+            "source": {
+                "name": "newswise"
+            },
+            "title": "New Research Simulates Cancer Cell Behavior",
+            "url": "https://www.newswise.com/articles/new-research-simulates-cancer-cell-behavior/?sc=rssn",
+            "urlToImage": "https://www.newswise.com/legacy/image.php?height=334&image=%2Fimages%2Fuploads%2F2025%2F07%2F23%2F6881476e46c68_CellComputer.jpg&width=502",
+            "publishedAt": "2025-07-25 16:00:00"
+        },
+        {
+            "source": {
+                "name": "mercurynews"
+            },
+            "title": "Intel slides after CEO struggles to show turnaround on track",
+            "url": "https://www.mercurynews.com/2025/07/25/intel-slides-after-ceo-struggles-to-show-turnaround-on-track/",
+            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/03/INTEL_CEO_28371.jpg?strip=all&w=1400px",
+            "publishedAt": "2025-07-25 15:49:38"
+        },
+        {
+            "source": {
+                "name": "techradar"
+            },
+            "title": "AMD's flagship mobile processor will power the GPD Win 5 handheld – and get ready to pay GPU money",
+            "url": "https://www.techradar.com/computing/gaming-pcs/amds-flagship-mobile-processor-will-power-the-gpd-win-5-handheld-and-get-ready-to-pay-gpu-money",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/cqCHUJwgTkA6mSdFyvsacf.jpg",
+            "publishedAt": "2025-07-25 15:46:34"
+        },
+        {
+            "source": {
+                "name": "newswise"
+            },
+            "title": "Quantum Networks Can Probe General Relativity on Earth",
+            "url": "https://www.newswise.com/articles/quantum-networks-can-probe-general-relativity-on-earth/?sc=rssn",
+            "urlToImage": "https://www.newswise.com/legacy/image.php?height=334&image=%2Fimages%2Fuploads%2F2025%2F07%2F25%2F688390974d5e6_Figure-ProperTimeEntanglementGHZ-v3.png&width=502",
+            "publishedAt": "2025-07-25 15:30:33"
+        },
+        {
+            "source": {
+                "name": "washingtontechnology"
+            },
+            "title": "Pentagon will ‘open the door’ to more companies for next major cloud contract",
+            "url": "https://washingtontechnology.com/contracts/2025/07/pentagon-will-open-door-more-companies-next-major-cloud-contract/407000/",
+            "urlToImage": "https://cdn.washingtontechnology.com/media/img/cd/2025/07/25/072525cloudNG-2/large.jpg",
+            "publishedAt": "2025-07-25 15:27:00"
+        },
+        {
+            "source": {
+                "name": "techspot"
+            },
+            "title": "Intel next-gen desktop CPUs to feature 12-52 cores across Core Ultra 3, 5, 7, and 9 SKUs",
+            "url": "https://www.techspot.com/community/topics/intel-next-gen-desktop-cpus-to-feature-12-52-cores-across-core-ultra-3-5-7-and-9-skus.294084/",
+            "urlToImage": "https://www.techspot.com/images2/news/bigimage/2025/07/2025-07-25-image-5.jpg",
+            "publishedAt": "2025-07-25 15:25:49"
+        },
+        {
+            "source": {
+                "name": "toi"
+            },
+            "title": "‘Kids will be fine; I’m worried about...’: Sam Altman says his kid will probably not attend college",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/kids-will-be-fine-im-worried-about-sam-altman-says-his-kid-will-probably-not-attend-college/articleshow/122908740.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-122908733,imgsize-19136,width-400,resizemode-4/Sam-Altman.jpg",
+            "publishedAt": "2025-07-25 15:23:39"
         },
         {
             "source": {
@@ -2734,114 +2848,6 @@
             "url": "https://news.mit.edu/2025/keith-johnson-materials-scientist-independent-filmmaker-dies-0723",
             "urlToImage": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202507/keith-johnson-mit-00.jpg?itok=UC_Fe4mJ",
             "publishedAt": "2025-07-23 20:45:00"
-        },
-        {
-            "source": {
-                "name": "breakingdefense"
-            },
-            "title": "How the Pentagon plays into Trump’s sprawling artificial intelligence ‘Action Plan’",
-            "url": "https://breakingdefense.com/2025/07/how-the-pentagon-plays-into-trumps-sprawling-artificial-intelligence-action-plan/",
-            "urlToImage": "https://breakingdefense.com/wp-content/uploads/sites/3/2024/09/240919_DVIDS_northcom_computer_8201957-scaled-e1726767561824.jpg",
-            "publishedAt": "2025-07-23 20:24:57"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "Ribbon Communications Inc. Reports Second Quarter 2025 Financial Results",
-            "url": "https://www.prnewswire.com/news-releases/ribbon-communications-inc-reports-second-quarter-2025-financial-results-302512349.html",
-            "urlToImage": "https://mma.prnewswire.com/media/633020/Ribbon_Logo.jpg?p=original",
-            "publishedAt": "2025-07-23 20:03:00"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "The best tablets of 2025: Expert-tested recommendations",
-            "url": "https://www.zdnet.com/article/best-tablet/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/cb4bd75216565b4aa8eb65b22c06f689558fbc55/2024/04/29/02eecfe6-7cf5-4662-963a-ca73ebae233b/4.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-07-23 19:59:00"
-        },
-        {
-            "source": {
-                "name": "techspot"
-            },
-            "title": "Nvidia unlocks CUDA for RISC-V processors, opening up its AI ecosystem",
-            "url": "https://www.techspot.com/community/topics/nvidia-unlocks-cuda-for-risc-v-processors-opening-up-its-ai-ecosystem.294060/",
-            "urlToImage": "https://www.techspot.com/images2/news/bigimage/2025/07/2025-07-23-image-22.jpg",
-            "publishedAt": "2025-07-23 19:53:00"
-        },
-        {
-            "source": {
-                "name": "techaeris"
-            },
-            "title": "Lenovo Legion Pro 7i Gen 10 Review: Brilliant OLED display makes your games POP",
-            "url": "https://techaeris.com/2025/07/23/lenovo-legion-pro-7i-gen-10-review/",
-            "urlToImage": "https://techaeris.com/wp-content/uploads/2025/07/Lenovo-Legion-Pro-7i-Gen-10-Review.jpg",
-            "publishedAt": "2025-07-23 19:11:08"
-        },
-        {
-            "source": {
-                "name": "arstechnica"
-            },
-            "title": "Ukrainians arrest alleged admin of major crime forum XSS",
-            "url": "https://arstechnica.com/tech-policy/2025/07/ukrainians-arrest-alleged-admin-of-major-crime-forum-xss/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2178211124-1152x648.jpg",
-            "publishedAt": "2025-07-23 19:10:08"
-        },
-        {
-            "source": {
-                "name": "berkeley"
-            },
-            "title": "New AI-driven platform creates metamaterials for the real world",
-            "url": "https://engineering.berkeley.edu/news/2025/07/a-smarter-approach-to-designing-metamaterials/",
-            "urlToImage": "https://news.berkeley.edu/wp-content/uploads/2025/07/iStock-1636432049_cropped.jpeg",
-            "publishedAt": "2025-07-23 18:34:51"
-        },
-        {
-            "source": {
-                "name": "yale"
-            },
-            "title": "Study offers security measures for safeguarding brain implants",
-            "url": "https://news.yale.edu/2025/07/23/study-offers-security-measures-safeguarding-brain-implants",
-            "urlToImage": "https://news.yale.edu/sites/default/files/2024-07/yale-college_0.svg",
-            "publishedAt": "2025-07-23 18:08:22"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "Slow internet speed on Linux? This 30-second fix makes all the difference",
-            "url": "https://www.zdnet.com/article/slow-internet-speed-on-linux-this-30-second-fix-makes-all-the-difference/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/5acd8033b8d6df1278f08dc45e54c604bb8dfbdc/2025/07/23/9db28afe-b4ed-4515-b828-f93fbda09410/gettyimages-1274512924.jpg?auto=webp&width=1280",
-            "publishedAt": "2025-07-23 16:47:00"
-        },
-        {
-            "source": {
-                "name": "techcrunch"
-            },
-            "title": "Meta researchers are developing a gesture-controlled wristband that can interact with a computer",
-            "url": "https://techcrunch.com/2025/07/23/meta-researchers-are-developing-a-gesture-controlled-wristband-that-can-interact-with-a-computer/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/07/meta-semgwristband.png?w=1200",
-            "publishedAt": "2025-07-23 16:44:51"
-        },
-        {
-            "source": {
-                "name": "tribuneindia"
-            },
-            "title": "Teens say they are turning to AI for advice, friendship, ‘to get out of thinking’",
-            "url": "https://www.tribuneindia.com/news/adolescenceandai/teens-say-they-are-turning-to-ai-for-advice-friendship-to-get-out-of-thinking",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/webp/medium/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTc3YzJmMmEwLTY3ZTItMTFmMC1hMWQ5LTI5ODU0ZWM2MDM5Ni5qcGc%3D",
-            "publishedAt": "2025-07-23 16:30:24"
-        },
-        {
-            "source": {
-                "name": "breakingdefense"
-            },
-            "title": "The quiet cut to US defense innovation — and why China is watching",
-            "url": "https://breakingdefense.com/2025/07/the-quiet-cut-to-us-defense-innovation-and-why-china-is-watching/",
-            "urlToImage": "https://breakingdefense.com/wp-content/uploads/sites/3/2025/07/8716775-e1752674215522.jpg",
-            "publishedAt": "2025-07-23 16:30:24"
         }
     ]
 }
