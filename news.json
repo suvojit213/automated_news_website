@@ -1,6 +1,17 @@
 {
-    "lastUpdatedAt": "2025-07-26T22:15:28.412684Z",
+    "lastUpdatedAt": "2025-07-26T23:15:29.675076Z",
     "articles": [
+        {
+            "source": {
+                "id": "26269dbc42635df9af8c24f3cdab8e37",
+                "name": "Cable News Network",
+                "url": "https://edition.cnn.com"
+            },
+            "title": "Here’s what cybersecurity experts think about Tea’s data breach",
+            "url": "https://edition.cnn.com/2025/07/26/business/tea-data-breach-user-selfies",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/rmw-0485.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2025-07-26T22:41:04Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -121,6 +132,33 @@
             "url": "https://theprint.in/feature/gurugram-prenet-khetan-ai-device-hindi/2702631/",
             "urlToImage": "https://static.theprint.in/wp-content/uploads/2025/07/feature-image-2025-07-25T204453.709.jpg",
             "publishedAt": "2025-07-26T03:39:53Z"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "How logic can help AI models tell more truth, according to AWS",
+            "url": "https://www.zdnet.com/article/how-logic-can-help-ai-models-tell-more-truth-according-to-aws/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/e3f65e02cfa6a24da498a261b0c68b7f28e98465/2025/07/25/7569e522-543a-4c91-959a-ef62537844e3/byron-cook-may-2025-aws-symposium-byron-cook-talking-2.jpg?auto=webp&width=1280",
+            "publishedAt": "2025-07-26 11:00:00"
+        },
+        {
+            "source": {
+                "name": "nwitimes"
+            },
+            "title": "Power of AI drives chipmaker",
+            "url": "https://www.nwitimes.com/article_690138b9-a19c-578b-b1ad-4cf6d11c6e07.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/9/c0/9c021b40-136c-5f0f-9d1c-6971dabb84e6/6884b1f5a0d62.image.jpg?crop=878%2C461%2C0%2C93",
+            "publishedAt": "2025-07-26 10:46:27"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "The best phones of 2025: Expert tested and reviewed",
+            "url": "https://www.zdnet.com/article/best-phone/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/e7ebf21f6cbea3acba72703519384a093f0ce6dd/2025/01/24/88b369f2-53bd-4700-a49c-58e63477e20a/dsc03832-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-07-26 10:30:18"
         },
         {
             "source": {
@@ -2772,42 +2810,6 @@
             "url": "https://www.forbes.com/sites/rscottraynovich/2025/07/24/ai-inferencing-is-growing-in-importance-and-rag-is-fueling-its-rise/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68824e7b4c7f22ed7aedebd7/0x0.jpg?width=960",
             "publishedAt": "2025-07-24 15:20:06"
-        },
-        {
-            "source": {
-                "name": "androidheadlines"
-            },
-            "title": "Alphabet CEO Weighs In: Smart Glasses Won’t Replace Phones Anytime Soon",
-            "url": "https://www.androidheadlines.com/2025/07/alphabet-ceo-weighs-in-smart-glasses-wont-replace-phones-anytime-soon.html",
-            "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2025/05/Google-Android-XR-Glasses-AH-1-1420x800.webp",
-            "publishedAt": "2025-07-24 15:16:54"
-        },
-        {
-            "source": {
-                "name": "theverge"
-            },
-            "title": "OpenAI prepares to launch GPT-5 in August",
-            "url": "https://www.theverge.com/notepad-microsoft-newsletter/712950/openai-gpt-5-model-release-date-notepad",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/257594_NOTEPAD_OPENAI_CVirginia.jpg?crop=0%2C10.732984293194%2C100%2C78.534031413613&quality=90&strip=all&w=1200",
-            "publishedAt": "2025-07-24 15:05:55"
-        },
-        {
-            "source": {
-                "name": "newswise"
-            },
-            "title": "Developed the World's First Quantum Metabolic Avatar, a Digital Twin of Human Metabolism Powered by Quantum Algorithms",
-            "url": "https://www.newswise.com/articles/developed-the-world-s-first-quantum-metabolic-avatar-a-digital-twin-of-human-metabolism-powered-by-quantum-algorithms/?sc=rsla",
-            "urlToImage": "https://www.newswise.com/legacy/image.php?height=334&image=%2Fimages%2Fuploads%2F2025%2F07%2F23%2F6880a22cd515f_3977f372-fc73-4efa-99a2-91b0e601f4ce.JPG&width=502",
-            "publishedAt": "2025-07-24 15:00:00"
-        },
-        {
-            "source": {
-                "name": "thelincolnianonline"
-            },
-            "title": "Financial Review: Kyocera (OTCMKTS:KYOCY) vs. Littelfuse (NASDAQ:LFUS)",
-            "url": "https://www.thelincolnianonline.com/2025/07/24/financial-review-kyocera-otcmktskyocy-vs-littelfuse-nasdaqlfus.html",
-            "urlToImage": "https://www.marketbeat.com/logos/littelfuse-inc-logo-1200x675.jpg",
-            "publishedAt": "2025-07-24 14:58:48"
         }
     ]
 }
