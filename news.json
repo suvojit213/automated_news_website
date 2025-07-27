@@ -1,6 +1,50 @@
 {
-    "lastUpdatedAt": "2025-07-27T18:21:31.763795Z",
+    "lastUpdatedAt": "2025-07-27T19:13:02.417089Z",
     "articles": [
+        {
+            "source": {
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com"
+            },
+            "title": "Spanish teenager investigated over AI naked images of classmates",
+            "url": "https://www.straitstimes.com/world/europe/spanish-teenager-investigated-over-ai-naked-images-of-classmates",
+            "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/27a545fdbc52c9cc3ea47747f1f86aff5421dd9861793799f41c9f3996a2dc4a",
+            "publishedAt": "2025-07-27T16:43:00Z"
+        },
+        {
+            "source": {
+                "id": "e9207083a357fb7e76b38e485888ebe7",
+                "name": "manilastandard.net",
+                "url": "https://manilastandard.net"
+            },
+            "title": "UN tech chief wants AI regulated",
+            "url": "https://manilastandard.net/news/world/314622091/un-tech-chief-wants-ai-regulated.html",
+            "urlToImage": "https://cdn.manilastandard.net/wp-content/uploads/2024/02/artificial-intelligence-AI.jpg",
+            "publishedAt": "2025-07-27T13:10:00Z"
+        },
+        {
+            "source": {
+                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+                "name": "Firstpost",
+                "url": "https://www.firstpost.com"
+            },
+            "title": "Massive layoffs at TCS: Over 12,000 employees at Indian tech company to be impacted",
+            "url": "https://www.firstpost.com/india/massive-layoffs-at-tcs-over-12000-employees-at-indian-tech-company-to-be-impacted-13913821.html",
+            "urlToImage": "https://images.firstpost.com/uploads/2024/03/2024-03-19T055139Z_669780258_RC2P56AIHH3X_RTRMADP_3_TCS-STOCKS-1-2024-03-770f67ad1fba86e62e559b1be6634e08.jpg?im=FitAndFill=(1200,675)",
+            "publishedAt": "2025-07-27T12:49:41Z"
+        },
+        {
+            "source": {
+                "id": "143b993b193f72147f3de29ebcfbf505",
+                "name": "India TV News",
+                "url": "https://www.indiatvnews.com"
+            },
+            "title": "TCS to cut 12,000 jobs this year amid AI disruption, weak demand",
+            "url": "https://www.indiatvnews.com/business/news/tcs-to-cut-12-000-jobs-this-year-amid-ai-disruption-weak-demand-2025-07-27-1000798",
+            "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2022/09/tcs-work-from-office-home-latest-news-1663481798.jpg",
+            "publishedAt": "2025-07-27T11:28:00Z"
+        },
         {
             "source": {
                 "id": "e9207083a357fb7e76b38e485888ebe7",
@@ -22,6 +66,15 @@
             "url": "https://sg.news.yahoo.com/urgent-global-approach-ai-regulation-035754147.html",
             "urlToImage": "https://media.zenfs.com/en/afp.com.sg/f9f986328c580fe8b3016127b71c991f",
             "publishedAt": "2025-07-27T03:57:54Z"
+        },
+        {
+            "source": {
+                "name": "zephyrnet"
+            },
+            "title": "Unlocking the Secrets of Arc Virtual Cell: A Beginner’s Guide",
+            "url": "https://zephyrnet.com/unlocking-the-secrets-of-arc-virtual-cell-a-beginners-guide/",
+            "urlToImage": "https://zephyrnet.com/wp-content/uploads/img-FoeG5Fpm1UJzQUV8LTDfPRPV.png",
+            "publishedAt": "2025-07-27 06:37:09"
         },
         {
             "source": {
@@ -2771,51 +2824,6 @@
             "url": "https://www.macombdaily.com/2025/07/24/trump-woke-ai-order/",
             "urlToImage": "https://www.macombdaily.com/wp-content/uploads/2025/07/Trump_AI_29915-1.jpg?strip=all&w=1400px",
             "publishedAt": "2025-07-24 20:48:00"
-        },
-        {
-            "source": {
-                "name": "technologyreview"
-            },
-            "title": "Trump’s AI Action Plan is a distraction",
-            "url": "https://www.technologyreview.com/2025/07/24/1120639/trumps-ai-action-plan-is-a-distraction/",
-            "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2025/07/trump-ai-action2.jpg",
-            "publishedAt": "2025-07-24 20:15:00"
-        },
-        {
-            "source": {
-                "name": "the_tob"
-            },
-            "title": "KIOXIA Announces Industry’s First 245.76 TB NVMe SSD Built for the Demands of Generative AI Environments",
-            "url": "https://thetimesofbengal.com/2025/07/24/kioxia-announces-industrys-first-245-76-tb-nvme-ssd-built-for-the-demands-of-generative-ai-environments/",
-            "urlToImage": "https://ml6kx9nxcmpx.i.optimole.com/cb:mh5i.98d/w:480/h:151/q:mauto/ig:avif/https://thetimesofbengal.com/wp-content/uploads/2025/07/a51403c8-5388-46cb-bda2-930150015f0c.jpg",
-            "publishedAt": "2025-07-24 20:10:55"
-        },
-        {
-            "source": {
-                "name": "phys"
-            },
-            "title": "New method decodes the hidden origins of magnetism",
-            "url": "https://phys.org/news/2025-07-method-decodes-hidden-magnetism.html",
-            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2025/new-method-decodes-the.jpg",
-            "publishedAt": "2025-07-24 20:08:13"
-        },
-        {
-            "source": {
-                "name": "messenger_inquirer"
-            },
-            "title": "Trump's order to block 'woke' AI in government encourages tech giants to censor their chatbots",
-            "url": "https://www.messenger-inquirer.com/ap/ap_national_news/trumps-order-to-block-woke-ai-in-government-encourages-tech-giants-to-censor-their-chatbots/article_29a49e8e-6db8-5ee2-bf70-2f7fa409983c.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/messenger-inquirer.com/content/tncms/assets/v3/editorial/0/ab/0ab49e92-c45b-55c7-8b2d-27266708b93f/688171acc0755.image.jpg?resize=300%2C200",
-            "publishedAt": "2025-07-24 20:05:02"
-        },
-        {
-            "source": {
-                "name": "dnronline"
-            },
-            "title": "Trump's order to block 'woke' AI in government encourages tech giants to censor their chatbots",
-            "url": "https://www.dnronline.com/associated_press/national/trumps-order-to-block-woke-ai-in-government-encourages-tech-giants-to-censor-their-chatbots/article_36fe55fb-4df9-5ba9-81b6-1b1108c4ba64.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/dnronline.com/content/tncms/assets/v3/editorial/0/d7/0d771015-0ba2-591e-9f79-5d4866ad6d04/688295d451b9c.image.jpg?crop=1763%2C926%2C0%2C124&order=crop%2Cresize&resize=1200%2C630",
-            "publishedAt": "2025-07-24 20:05:02"
         }
     ]
 }
