@@ -1,6 +1,17 @@
 {
-    "lastUpdatedAt": "2025-07-28T10:18:37.683873Z",
+    "lastUpdatedAt": "2025-07-28T11:15:02.943737Z",
     "articles": [
+        {
+            "source": {
+                "id": "9a0aedadcf2d0a6144f3064cb144bae4",
+                "name": "Deadline",
+                "url": "https://deadline.com"
+            },
+            "title": "BBC News Hires AI Lead Anjali Kapoor From Meta",
+            "url": "https://deadline.com/2025/07/bbc-news-ai-role-anjali-kapoor-meta-1236471995/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2025/07/Anjali-Kapoor-e1753697635915.jpeg?w=1024",
+            "publishedAt": "2025-07-28T10:15:45Z"
+        },
         {
             "source": {
                 "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
@@ -264,6 +275,15 @@
             "url": "https://sg.news.yahoo.com/urgent-global-approach-ai-regulation-035754147.html",
             "urlToImage": "https://media.zenfs.com/en/afp.com.sg/f9f986328c580fe8b3016127b71c991f",
             "publishedAt": "2025-07-27T03:57:54Z"
+        },
+        {
+            "source": {
+                "name": "news4social"
+            },
+            "title": "AirPods Deal: Apple’s Latest Earbuds Just Drop to $99",
+            "url": "https://en.news4social.com/airpods-deal-apples-latest-earbuds-just-drop-to-99/",
+            "urlToImage": "https://i0.wp.com/fs.npstatic.com/devices/48/3748-w160h160.png?resize=750%2C375&ssl=1&w=750",
+            "publishedAt": "2025-07-27 23:00:00"
         },
         {
             "source": {
@@ -2786,24 +2806,6 @@
             "url": "https://timesofindia.indiatimes.com/technology/tech-tips/how-to-install-ios-26-public-beta-compatible-iphone-models-features-installation-guide-and-more/articleshow/122895169.cms",
             "urlToImage": "https://static.toiimg.com/thumb/msid-122895136,imgsize-25952,width-400,resizemode-4/iOS-26.jpg",
             "publishedAt": "2025-07-25 04:44:15"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "What's Making AI the Next Economic Super Force?",
-            "url": "https://www.analyticsinsight.net/artificial-intelligence/whats-making-ai-the-next-economic-super-force",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-07-24%2Fo6zu41vm%2FWhat%E2%80%99s-Making-AI-the-Next-Economic-Super-Force-AnuragWhat%E2%80%99s-Making-AI-the-Next-Economic-Super-Force-Anurag-1.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-07-25 04:30:00"
-        },
-        {
-            "source": {
-                "name": "telecom_economictimes"
-            },
-            "title": "Europe's CISPE challenges Broadcom's $69 billion VMware deal in EU court",
-            "url": "https://telecom.economictimes.indiatimes.com/news/devices/cispe-challenges-broadcoms-69-billion-vmware-acquisition-in-eu-court/122893711",
-            "urlToImage": "https://etimg.etb2bimg.com/photo/122893736.cms",
-            "publishedAt": "2025-07-25 03:29:02"
         }
     ]
 }
