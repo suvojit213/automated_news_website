@@ -1,6 +1,28 @@
 {
-    "lastUpdatedAt": "2025-07-28T09:24:17.681892Z",
+    "lastUpdatedAt": "2025-07-28T10:18:37.683873Z",
     "articles": [
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com"
+            },
+            "title": "Shanghai's Bold AI Investment: 3 Billion Yuan CVC Fund",
+            "url": "https://www.devdiscourse.com/article/headlines/3519602-shanghais-bold-ai-investment-3-billion-yuan-cvc-fund",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/28_07_2025_09_10_30_0310572.png?width=920&format=jpeg",
+            "publishedAt": "2025-07-28T09:10:33Z"
+        },
+        {
+            "source": {
+                "id": "8da923084554b2821233d6c5c5f02c97",
+                "name": "Fox News",
+                "url": "https://www.foxnews.com"
+            },
+            "title": "America must win the AI race — and prepare for the worst",
+            "url": "https://www.foxnews.com/opinion/america-must-win-ai-race-prepare-worst",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/11/artificial-intelligence-trump-1.jpg",
+            "publishedAt": "2025-07-28T09:00:45Z"
+        },
         {
             "source": {
                 "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
@@ -54,6 +76,17 @@
             "title": "Following Up On President Trump’s Idea Of Renaming AI",
             "url": "https://www.forbes.com/sites/lanceeliot/2025/07/28/following-up-on-president-trumps-idea-of-renaming-artificial-intelligence-to-be-something-a-bit-more-befitting/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68869a40b35074463458bd81/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-07-28T04:00:00Z"
+        },
+        {
+            "source": {
+                "id": "0d429ea54fdbe8e34c582aa31bc81aba",
+                "name": "The Boston Globe",
+                "url": "https://www.bostonglobe.com"
+            },
+            "title": "Trump goes to war against \"woke AI.\" But can he win?",
+            "url": "https://www.bostonglobe.com/2025/07/28/business/woke-artificial-intelligence-trump-executive-order/",
+            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/27UQY5TVXCUCBQ77KDJVLFK6SY.jpg?auth=a9af9126175c76fe0bf07322ed84caa5c5adee118e73a128c840956790a0e186&width=1440",
             "publishedAt": "2025-07-28T04:00:00Z"
         },
         {
@@ -231,6 +264,15 @@
             "url": "https://sg.news.yahoo.com/urgent-global-approach-ai-regulation-035754147.html",
             "urlToImage": "https://media.zenfs.com/en/afp.com.sg/f9f986328c580fe8b3016127b71c991f",
             "publishedAt": "2025-07-27T03:57:54Z"
+        },
+        {
+            "source": {
+                "name": "thelincolnianonline"
+            },
+            "title": "Industrial Stocks To Research – July 24th",
+            "url": "https://www.thelincolnianonline.com/2025/07/27/industrial-stocks-to-research-july-24th.html",
+            "urlToImage": "https://www.marketbeat.com/logos/tesla-inc-logo-1200x675.png?v=20221020135629",
+            "publishedAt": "2025-07-27 22:00:45"
         },
         {
             "source": {
@@ -2762,42 +2804,6 @@
             "url": "https://telecom.economictimes.indiatimes.com/news/devices/cispe-challenges-broadcoms-69-billion-vmware-acquisition-in-eu-court/122893711",
             "urlToImage": "https://etimg.etb2bimg.com/photo/122893736.cms",
             "publishedAt": "2025-07-25 03:29:02"
-        },
-        {
-            "source": {
-                "name": "zephyrnet"
-            },
-            "title": "Understanding Graph Neural Networks: A Beginner’s Guide",
-            "url": "https://zephyrnet.com/understanding-graph-neural-networks-a-beginners-guide/",
-            "urlToImage": "https://zephyrnet.com/wp-content/uploads/img-WiHEF5Qj5pBDSWx3J9BsDkls.png",
-            "publishedAt": "2025-07-25 03:14:36"
-        },
-        {
-            "source": {
-                "name": "newswise"
-            },
-            "title": "Seismologists Tapped Into the Fiber Optic Cable Network to Study Offshore Faults",
-            "url": "https://www.newswise.com/articles/seismologists-tapped-into-the-fiber-optic-cable-network-to-study-offshore-faults/?sc=rssn",
-            "urlToImage": "https://www.newswise.com/legacy/image.php?height=334&image=%2Fimages%2Fuploads%2F2025%2F07%2F24%2F6882b29c2b0bd_QibinShi-pier.JPG&width=502",
-            "publishedAt": "2025-07-25 03:05:53"
-        },
-        {
-            "source": {
-                "name": "newswise"
-            },
-            "title": "Improving Next-Generation Aircraft with Supercomputing and AI",
-            "url": "https://www.newswise.com/articles/improving-next-generation-aircraft-with-supercomputing-and-ai/?sc=rssn",
-            "urlToImage": "https://www.newswise.com/legacy/image.php?height=334&image=%2Fimages%2Fuploads%2F2025%2F07%2F24%2F688295765ca9d_JANSENAURORA1600x900WEB.jpg&time=11%3A31%3A01pm&width=502",
-            "publishedAt": "2025-07-25 03:00:01"
-        },
-        {
-            "source": {
-                "name": "kgw"
-            },
-            "title": "Sunset High School students develop new program teaching how to teach AI",
-            "url": "https://www.kgw.com/article/news/education/sunset-high-school-student-ai-rethought-air-teacher-learning-tool/283-5db52cc8-323a-4119-940d-a2ff7a642096",
-            "urlToImage": "https://media.tegna-media.com/assets/KGW/images/f0801d9f-798a-4954-990d-a8c4881e630f/20250725T014419/f0801d9f-798a-4954-990d-a8c4881e630f_750x422.jpg",
-            "publishedAt": "2025-07-25 02:49:14"
         }
     ]
 }
