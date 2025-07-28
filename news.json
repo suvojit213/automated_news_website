@@ -1,6 +1,28 @@
 {
-    "lastUpdatedAt": "2025-07-28T07:22:02.065866Z",
+    "lastUpdatedAt": "2025-07-28T08:25:16.157009Z",
     "articles": [
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com"
+            },
+            "title": "Chinese AI firms form alliances to build domestic ecosystem amid U.S. curbs",
+            "url": "https://www.cnbc.com/2025/07/28/chinese-ai-firms-form-alliances-to-build-domestic-ecosystem-amid-us-curbs.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108177570-1753687681221-gettyimages-2170889984-2024_vrtg_sep_01_011.jpeg?v=1753687698&w=1920&h=1080",
+            "publishedAt": "2025-07-28T07:35:04Z"
+        },
+        {
+            "source": {
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Business Insider",
+                "url": "https://markets.businessinsider.com"
+            },
+            "title": "Anthropic’s $150 Billion Goal: How Amazon and Alphabet Could Benefit From the AI Surge",
+            "url": "https://markets.businessinsider.com/news/stocks/anthropic-s-150-billion-goal-how-amazon-and-alphabet-could-benefit-from-the-ai-surge-1034942848",
+            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/07/image-1970.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+            "publishedAt": "2025-07-28T07:30:42Z"
+        },
         {
             "source": {
                 "id": "c6075ba0dc9d123bb327faaa419d3d07",
@@ -22,6 +44,17 @@
             "url": "https://www.afr.com/technology/we-are-not-luddites-afr-readers-react-to-ai-productivity-boost-20250727-p5mi37",
             "urlToImage": "https://static.ffx.io/images/$zoom_0.1858%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/1870828942f9fde5df667957f8e7a381de725ae3",
             "publishedAt": "2025-07-28T06:12:27Z"
+        },
+        {
+            "source": {
+                "id": "a0300bc9a6e9d5b317bd6f614767231f",
+                "name": "Forbes",
+                "url": "https://www.forbes.com"
+            },
+            "title": "Following Up On President Trump’s Idea Of Renaming AI",
+            "url": "https://www.forbes.com/sites/lanceeliot/2025/07/28/following-up-on-president-trumps-idea-of-renaming-artificial-intelligence-to-be-something-a-bit-more-befitting/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68869a40b35074463458bd81/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-07-28T04:00:00Z"
         },
         {
             "source": {
@@ -87,6 +120,17 @@
             "title": "Elon Musk and Tesla’s $30 trillion AI supersonic tsunami",
             "url": "https://www.livemint.com/global/elon-musk-and-tesla-s-30-trillion-ai-supersonic-tsunami-11753669094782.html",
             "urlToImage": "https://www.livemint.com/lm-img/img/2025/07/28/1600x900/im-22889724_1753669098786_1753669117742.jpg",
+            "publishedAt": "2025-07-27T18:30:00Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com"
+            },
+            "title": "Elon Musk and Tesla’s $30 trillion AI supersonic tsunami",
+            "url": "https://www.livemint.com/companies/elon-musk-and-tesla-s-30-trillion-ai-supersonic-tsunami-11753690357524.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2025/07/28/1600x900/US-TESLA-REPORTS-16-PERCENT-DECLINE-IN-Q2-REVENUE-_1753690496190_1753690496437.jpg",
             "publishedAt": "2025-07-27T18:30:00Z"
         },
         {
@@ -187,6 +231,33 @@
             "url": "https://sg.news.yahoo.com/urgent-global-approach-ai-regulation-035754147.html",
             "urlToImage": "https://media.zenfs.com/en/afp.com.sg/f9f986328c580fe8b3016127b71c991f",
             "publishedAt": "2025-07-27T03:57:54Z"
+        },
+        {
+            "source": {
+                "name": "venturebeat"
+            },
+            "title": "When progress doesn’t feel like home: Why many are hesitant to join the AI migration",
+            "url": "https://venturebeat.com/ai/when-progress-doesnt-feel-like-home-why-many-are-hesitant-to-join-the-ai-migration/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/07/Wagon-Cover-Image.jpg?w=750",
+            "publishedAt": "2025-07-27 20:15:00"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "What Modern Physics Has to Say About Reality",
+            "url": "https://hackernoon.com/what-modern-physics-has-to-say-about-reality",
+            "urlToImage": "https://hackernoon.com/https://cdn.hackernoon.com/images/YwSHEC3KytbshzaHd9gfS1alGs52-d2120rr.png",
+            "publishedAt": "2025-07-27 19:30:21"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "AI Revolutionizes Search: Adoption Surge, Challenges, and 2025 Outlook",
+            "url": "https://www.webpronews.com/ai-revolutionizes-search-adoption-surge-challenges-and-2025-outlook/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/07/xai-tmp-imgen-f6e1b50d-7768-4d09-9d93-82dd7f33f03c.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-07-27 19:22:53"
         },
         {
             "source": {
@@ -1694,6 +1765,17 @@
         },
         {
             "source": {
+                "id": "59749bcce0ec90ed59071c45c44738b7",
+                "name": "Siliconrepublic.com",
+                "url": "https://www.siliconrepublic.com"
+            },
+            "title": "Overreliance on AI or humans can worsen cybersecurity, says report",
+            "url": "https://www.siliconrepublic.com/enterprise/reliance-ai-human-judgement-weaknesses-capture-the-flag-skills",
+            "urlToImage": "https://www.siliconrepublic.com/wp-content/uploads/2025/07/VZ_Art-1.jpeg",
+            "publishedAt": "2025-07-25T08:52:52Z"
+        },
+        {
+            "source": {
                 "id": "35515662ec044d3f94b543cd8802d63f",
                 "name": "WDIV ClickOnDetroit",
                 "url": "https://www.clickondetroit.com"
@@ -2716,78 +2798,6 @@
             "url": "https://inc42.com/buzz/the-airtel-perplexity-blueprint-ohm-mobility-to-shut-down-more/",
             "urlToImage": "https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2025/07/FTR-Daily-Brief-66.png",
             "publishedAt": "2025-07-25 02:30:46"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "Trump's AI plan pushes AI upskilling instead of worker protections - and 4 other key takeaways",
-            "url": "https://www.zdnet.com/article/trumps-ai-plan-pushes-ai-upskilling-instead-of-worker-protections-and-4-other-key-takeaways/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/af28b632b12e0363e58c8192c7255ee636b9233b/2025/07/24/a989ce5c-f064-4724-a455-02995d34fe75/gettyimages-2171617090.jpg?auto=webp&width=1280",
-            "publishedAt": "2025-07-25 02:30:16"
-        },
-        {
-            "source": {
-                "name": "moneycontrol"
-            },
-            "title": "Explained: What is GitHub Spark, Microsoft’s new AI tool that creates app in 20 minutes with no coding experience",
-            "url": "https://www.moneycontrol.com/technology/explained-what-is-github-spark-microsoft-s-new-ai-tool-that-creates-app-in-20-minutes-with-no-coding-experience-article-13323883.html",
-            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2025/07/20250725015700_microsoft-2.jpg",
-            "publishedAt": "2025-07-25 01:59:31"
-        },
-        {
-            "source": {
-                "name": "genengnews"
-            },
-            "title": "AI-Designed Proteins Enable Scalable Precision Immunotherapy",
-            "url": "https://www.genengnews.com/topics/artificial-intelligence/ai-designed-proteins-enable-scalable-precision-immunotherapy/",
-            "urlToImage": "https://www.genengnews.com/wp-content/uploads/2023/02/GettyImages-1338985409-696x501.jpg",
-            "publishedAt": "2025-07-25 01:40:05"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "AWS Tackles Cold-Start in Recommendations with Trainium and LLMs",
-            "url": "https://www.webpronews.com/aws-tackles-cold-start-in-recommendations-with-trainium-and-llms/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/07/xai-tmp-imgen-936441fe-e817-4d66-8714-5d4d6f42b1c2.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-07-25 01:17:33"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "OpenAI’s MCP: Centralizing AI Management to Slash $14B Compute Costs",
-            "url": "https://www.webpronews.com/openais-mcp-centralizing-ai-management-to-slash-14b-compute-costs/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/07/xai-tmp-imgen-c5bc2620-e1aa-4efd-a98f-bff207ac628b.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-07-25 01:15:50"
-        },
-        {
-            "source": {
-                "name": "yourstory"
-            },
-            "title": "Building for India 2030: How AI is transforming critical industries",
-            "url": "https://yourstory.com/2025/07/building-for-india-2030-how-ai-is-transforming-critical-industries",
-            "urlToImage": "https://images.yourstory.com/cs/2/fe056c90507811eea8de27f99b086345/CopyofNewPPTTemplates-2025-07-24T141256-1753346634855.jpg",
-            "publishedAt": "2025-07-25 01:15:00"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "2025 Tech Trends: AI’s Dominance, Innovations, and Ethical Challenges",
-            "url": "https://www.webpronews.com/2025-tech-trends-ais-dominance-innovations-and-ethical-challenges/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/07/xai-tmp-imgen-02ba75a0-fa72-455f-9e11-14b662b4bac6.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-07-25 01:12:53"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Elon Musk Revives Vine with xAI: AI Video Tools to Rival TikTok",
-            "url": "https://www.webpronews.com/elon-musk-revives-vine-with-xai-ai-video-tools-to-rival-tiktok/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/07/xai-tmp-imgen-e54fbf6e-be78-4f57-9dae-bbe82825bd8f.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-07-25 01:01:52"
         }
     ]
 }
