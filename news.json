@@ -1,6 +1,39 @@
 {
-    "lastUpdatedAt": "2025-07-29T16:20:18.799673Z",
+    "lastUpdatedAt": "2025-07-29T17:18:33.468147Z",
     "articles": [
+        {
+            "source": {
+                "id": "5b07f2eba74fc799fd5d1ee46c5bafc3",
+                "name": "Newsweek",
+                "url": "https://www.newsweek.com"
+            },
+            "title": "One Third of Americans Are Now Heavy AI Users",
+            "url": "https://www.newsweek.com/one-third-americans-are-now-heavy-ai-users-2105748",
+            "urlToImage": "https://d.newsweek.com/en/full/2692444/chatgpt.jpg",
+            "publishedAt": "2025-07-29T16:25:03Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net"
+            },
+            "title": "​Global firms seek to enter China’s AI ecosystem",
+            "url": "https://www.manilatimes.net/2025/07/30/business/foreign-business/global-firms-seek-to-enter-chinas-ai-ecosystem/2157886",
+            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+            "publishedAt": "2025-07-29T16:16:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net"
+            },
+            "title": "Haier eyes smart manufacturing with AI",
+            "url": "https://www.manilatimes.net/2025/07/30/business/foreign-business/haier-eyes-smart-manufacturing-with-ai/2157884",
+            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+            "publishedAt": "2025-07-29T16:14:00Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -11,6 +44,17 @@
             "url": "https://www.manilatimes.net/2025/07/30/business/foreign-business/robotics-firms-to-enhance-global-footprint/2157883",
             "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
             "publishedAt": "2025-07-29T16:13:00Z"
+        },
+        {
+            "source": {
+                "id": "51aadd014176eb61b32255e2791b7207",
+                "name": "Newser",
+                "url": "https://www.newser.com"
+            },
+            "title": "One City's Huge New AI Data Center Will Be a 'Game Changer'",
+            "url": "https://www.newser.com/story/372611/ai-data-center-to-use-more-power-than-every-home-in-the-state.html",
+            "urlToImage": "https://img1-azrcdn.newser.com/image/1624930-12-20250729064432.jpeg",
+            "publishedAt": "2025-07-29T16:03:00Z"
         },
         {
             "source": {
@@ -374,6 +418,33 @@
             "url": "https://www.fool.com.au/2025/07/29/alphabets-ai-push-is-accelerating-is-the-stock-a-buy-now-usfeed/",
             "urlToImage": "https://www.fool.com.au/wp-content/uploads/2022/03/div-1200x675.jpg",
             "publishedAt": "2025-07-29T00:58:00Z"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "M5 iPad Pro: Everything we know so far",
+            "url": "https://www.tomsguide.com/computing/ipads/m5-ipad-pro-everything-we-know-so-far",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/AVip9qRE3YdpiJA4ywDEXL-1280-80.jpg",
+            "publishedAt": "2025-07-29 05:15:00"
+        },
+        {
+            "source": {
+                "name": "mtairynews"
+            },
+            "title": "WAIC 2025: Shanghai Electric Debuts First Industrial Humanoid Robot \"SUYUAN,\" Advancing Next-Gen Intelligent Manufacturing through Holistic Value Chain Layout",
+            "url": "https://www.mtairynews.com/online_features/press_releases/waic-2025-shanghai-electric-debuts-first-industrial-humanoid-robot-suyuan-advancing-next-gen-intelligent-manufacturing/article_6a52c930-1728-55c4-9f86-c01b743477bd.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/mtairynews.com/content/tncms/assets/v3/editorial/9/4a/94a091d0-bf4a-5a7b-b32b-bc72775c7e9f/676a65491201f.image.jpg?resize=300%2C149",
+            "publishedAt": "2025-07-29 04:50:00"
+        },
+        {
+            "source": {
+                "name": "livemint"
+            },
+            "title": "Amazons AI Coding Revealed a Dirty Little Secret",
+            "url": "https://www.livemint.com/technology/tech-news/amazons-ai-coding-revealed-a-dirty-little-secret-11753763040145.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/tech3_1734536499109_1734536513984.jpg",
+            "publishedAt": "2025-07-29 04:23:59"
         },
         {
             "source": {
@@ -2835,71 +2906,6 @@
             "url": "https://www.perthnow.com.au/news/politics/chinas-premier-proposes-global-co-operation-on-ai-c-19481380",
             "urlToImage": "https://images.perthnow.com.au/publication/C-19481380/a79211b018122a858b96eaf8f9f1952adb5fc33b-16x9-x0y0w1280h720.jpg?imwidth=1200",
             "publishedAt": "2025-07-26T04:17:06Z"
-        },
-        {
-            "source": {
-                "id": "34cc62608b4607dc3a776802caadb7bd",
-                "name": "ThePrint",
-                "url": "https://theprint.in"
-            },
-            "title": "Gurugram teen’s device helps patients speak",
-            "url": "https://theprint.in/feature/gurugram-prenet-khetan-ai-device-hindi/2702631/",
-            "urlToImage": "https://static.theprint.in/wp-content/uploads/2025/07/feature-image-2025-07-25T204453.709.jpg",
-            "publishedAt": "2025-07-26T03:39:53Z"
-        },
-        {
-            "source": {
-                "name": "techradar"
-            },
-            "title": "I like the Nothing Phone 3, but I love the company's Headphones 1 – they're my top tech of 2025 (so far)",
-            "url": "https://www.techradar.com/audio/wireless-headphones/i-like-the-nothing-phone-3-but-i-love-the-companys-headphones-1-theyre-my-top-tech-of-2025-so-far",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/JW7m697nuDAP3mXb7D3Y76.jpg",
-            "publishedAt": "2025-07-26 23:00:00"
-        },
-        {
-            "source": {
-                "name": "zephyrnet"
-            },
-            "title": "Manipulating Neural Cellular Automata Through Adversarial Techniques",
-            "url": "https://zephyrnet.com/manipulating-neural-cellular-automata-through-adversarial-techniques/",
-            "urlToImage": "https://zephyrnet.com/wp-content/uploads/img-OnIXZyjWXTko3oGAE9mBlJe6.png",
-            "publishedAt": "2025-07-26 22:57:10"
-        },
-        {
-            "source": {
-                "name": "deccanherald"
-            },
-            "title": "Quantum park training lab for students by mid-2026, says Science & Technology Minister N S Boseraju",
-            "url": "https://www.deccanherald.com/india/karnataka/quantum-park-training-lab-for-students-by-mid-2026-says-n-s-boseraju-3650403",
-            "urlToImage": "https://media.assettype.com/deccanherald%2F2025-07-26%2F2dt5wl6w%2FDH-Toon-3.jpg?ar=40%3A21&auto=format%2Ccompress&mode=crop&ogImage=true&rect=0%2C0%2C1280%2C672&w=1200",
-            "publishedAt": "2025-07-26 22:49:03"
-        },
-        {
-            "source": {
-                "name": "businessworld"
-            },
-            "title": "The Compute Challenge",
-            "url": "https://www.businessworld.in/article/the-compute-challenge-555046",
-            "urlToImage": "https://static.businessworld.in/compute%20challenge_20250427223636_original_image_38.webp",
-            "publishedAt": "2025-07-26 21:52:31"
-        },
-        {
-            "source": {
-                "name": "tdn"
-            },
-            "title": "Commentary: Beware, leaders — AI is the ultimate yes-man",
-            "url": "https://tdn.com/opinion/columnists/article_1593408d-bab9-482c-860e-196b20543e7c.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/tdn.com/content/tncms/assets/v3/editorial/a/24/a24e28f5-b732-4e5b-93e1-7998b1440b81/6883c89078785.image.jpg?crop=1750%2C919%2C0%2C133&order=crop%2Cresize&resize=1200%2C630",
-            "publishedAt": "2025-07-26 21:00:00"
-        },
-        {
-            "source": {
-                "name": "zephyrnet"
-            },
-            "title": "Accelerated LoRA Inference in Flux Using Diffusers and PEFT Techniques",
-            "url": "https://zephyrnet.com/accelerated-lora-inference-in-flux-using-diffusers-and-peft-techniques/",
-            "urlToImage": "https://zephyrnet.com/wp-content/uploads/img-BlLvmAZJOPTCRHllP6l0lcYp.png",
-            "publishedAt": "2025-07-26 20:47:21"
         }
     ]
 }
