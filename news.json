@@ -1,5 +1,5 @@
 {
-    "lastUpdatedAt": "2025-07-30T13:37:26.240230Z",
+    "lastUpdatedAt": "2025-07-30T14:17:35.094537Z",
     "articles": [
         {
             "source": {
@@ -157,6 +157,17 @@
         },
         {
             "source": {
+                "id": "0d429ea54fdbe8e34c582aa31bc81aba",
+                "name": "The Boston Globe",
+                "url": "https://www.bostonglobe.com"
+            },
+            "title": "CyberArk, tech firm with US headquarters in Newton, bought for $25 billion",
+            "url": "https://www.bostonglobe.com/2025/07/30/business/cyberark-palo-alto-networks-acquisition/",
+            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/CVBYC3LV7JAPTLBSDWQIU7WYZU.jpg?auth=ac95dde96a55b5fcffb7f67496105c3e2860fbb50147bc8d9a00341f442ff893&width=1440",
+            "publishedAt": "2025-07-30T04:00:00Z"
+        },
+        {
+            "source": {
                 "id": "f6d6ee1134197fe1441d65a3e7915835",
                 "name": "Yahoo Singapore News",
                 "url": "https://sg.news.yahoo.com"
@@ -223,12 +234,30 @@
         },
         {
             "source": {
+                "name": "zdnet"
+            },
+            "title": "Happy 10th birthday, Windows 10! Hoo boy, it's been a journey",
+            "url": "https://www.zdnet.com/article/happy-10th-birthday-windows-10-hoo-boy-its-been-a-journey/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/d6a7c372a67d63841f9dbcb9e13be014dfc2f4d5/2025/07/30/54108dc5-0d10-46e1-8705-a59e2f05fc5d/gettyimages-491550266.jpg?auto=webp&width=1280",
+            "publishedAt": "2025-07-30 02:00:24"
+        },
+        {
+            "source": {
                 "name": "forbes"
             },
             "title": "NiCE’s $955M Cognigy Deal Targets $30B AI Customer Experience Opportunity",
             "url": "https://www.forbes.com/sites/maribellopez/2025/07/29/nices-955m-cognigy-deal-targets-30b-ai-customer-experience-opportunity/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/688971f917ebbda16557b53c/0x0.jpg?width=960",
             "publishedAt": "2025-07-30 01:23:55"
+        },
+        {
+            "source": {
+                "name": "techtarget"
+            },
+            "title": "9 common risk management failures and how to avoid them",
+            "url": "https://www.techtarget.com/searchcio/feature/9-common-risk-management-failures-and-how-to-avoid-them",
+            "urlToImage": "https://www.techtarget.com/rms/onlineImages/morgan_lisa.jpg",
+            "publishedAt": "2025-07-30 00:00:00"
         },
         {
             "source": {
@@ -2893,33 +2922,6 @@
             "url": "https://zephyrnet.com/mojo-a-revolutionary-leap-in-programming-languages/",
             "urlToImage": "https://zephyrnet.com/wp-content/uploads/img-97JKdSCgLkogEmQS6txY540I.png",
             "publishedAt": "2025-07-28 06:32:36"
-        },
-        {
-            "source": {
-                "name": "computerweekly"
-            },
-            "title": "Spinning the web of mutualistic technologies",
-            "url": "https://www.computerweekly.com/feature/Spinning-the-web-of-mutualistic-technologies",
-            "urlToImage": "https://www.computerweekly.com/visuals/German/Hero-Softwareentwicklung-everythingpossible-02_searchsitetablet_520X173.jpg",
-            "publishedAt": "2025-07-28 06:30:00"
-        },
-        {
-            "source": {
-                "name": "benzinga"
-            },
-            "title": "Nvidia Now Worth $4 Trillion — But Lawrence McDonald Warns Its AI Growth Depends On An Energy Sector 50 Times Smaller",
-            "url": "https://www.benzinga.com/markets/equities/25/07/46652751/nvidia-now-worth-4-trillion-but-lawrence-mcdonald-warns-its-ai-growth-depends-on-an-energy-secto",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/07/28/NVIDIA-Corp.jpeg?auto=jpg&dpr=1&fit=crop&height=480&optimize=medium&width=720",
-            "publishedAt": "2025-07-28 06:16:09"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Linux Kernel 6.17 NTFS3 Update Fixes Windows Symlink Handling",
-            "url": "https://www.webpronews.com/linux-kernel-6-17-ntfs3-update-fixes-windows-symlink-handling/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/07/xai-tmp-imgen-4067a546-6f78-4d2b-bb8d-ede69afc61c0.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-07-28 06:00:00"
         }
     ]
 }
