@@ -1,6 +1,28 @@
 {
-    "lastUpdatedAt": "2025-07-30T10:18:41.908848Z",
+    "lastUpdatedAt": "2025-07-30T11:15:21.949758Z",
     "articles": [
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com"
+            },
+            "title": "Morgan Stanley raises Nvidia price target on ‘exceptional’ AI strength",
+            "url": "https://www.cnbc.com/2025/07/30/morgan-stanley-raises-nvidia-price-target-on-exceptional-ai-strength.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108169494-17520658522025-07-09t124800z_1139416955_rc20jfazmr5a_rtrmadp_0_israel-tech-nvidia.jpeg?v=1752065899&w=1920&h=1080",
+            "publishedAt": "2025-07-30T10:47:24Z"
+        },
+        {
+            "source": {
+                "id": "59749bcce0ec90ed59071c45c44738b7",
+                "name": "Siliconrepublic.com",
+                "url": "https://www.siliconrepublic.com"
+            },
+            "title": "AI cyberattacks outpace security as sector still the wild west",
+            "url": "https://www.siliconrepublic.com/enterprise/ibm-ai-cost-of-data-breach-cybersecurity-report-2025",
+            "urlToImage": "https://www.siliconrepublic.com/wp-content/uploads/2025/07/AdobeStock_605588419_Editorial_Use_Only.jpeg",
+            "publishedAt": "2025-07-30T10:25:57Z"
+        },
         {
             "source": {
                 "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
@@ -2881,24 +2903,6 @@
             "title": "DIGITIMES ASIA: Nvidia explores SOCAMM deployment for next-gen AI systems",
             "url": "https://cumberlink.com/online_features/press_releases/article_a991ea16-af27-5fe6-99b6-a973f7821f4a.html",
             "urlToImage": "https://bloximages.chicago2.vip.townnews.com/cumberlink.com/content/tncms/assets/v3/editorial/a/ec/aec338ad-e7da-5815-81c9-6d4b3b435705/6881d5be9917a.image.jpg?crop=640%2C336%2C0%2C45",
-            "publishedAt": "2025-07-28 05:02:00"
-        },
-        {
-            "source": {
-                "name": "thetandd"
-            },
-            "title": "DIGITIMES ASIA: Nvidia explores SOCAMM deployment for next-gen AI systems",
-            "url": "https://thetandd.com/online_features/press_releases/article_6bf77e33-43ff-5664-949a-6b1e62e44a57.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thetandd.com/content/tncms/assets/v3/editorial/3/06/3065ce11-8f2c-5694-811e-012e356f48f4/6881d496022c3.image.jpg?resize=300%2C200",
-            "publishedAt": "2025-07-28 05:02:00"
-        },
-        {
-            "source": {
-                "name": "mtairynews"
-            },
-            "title": "DIGITIMES ASIA: Nvidia explores SOCAMM deployment for next-gen AI systems",
-            "url": "https://www.mtairynews.com/online_features/press_releases/digitimes-asia-nvidia-explores-socamm-deployment-for-next-gen-ai-systems/article_addd7741-0d30-544b-978c-c3fd26f25f45.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/mtairynews.com/content/tncms/assets/v3/editorial/1/df/1dfdb0fa-ecb4-5305-ac4e-e64ae92992da/6881d4c136149.image.jpg?resize=300%2C200",
             "publishedAt": "2025-07-28 05:02:00"
         }
     ]
