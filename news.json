@@ -1,6 +1,17 @@
 {
-    "lastUpdatedAt": "2025-07-30T08:23:18.434973Z",
+    "lastUpdatedAt": "2025-07-30T09:24:10.978639Z",
     "articles": [
+        {
+            "source": {
+                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
+                "name": "ABC News",
+                "url": "https://www.abc.net.au"
+            },
+            "title": "Artificial intelligence used to reduce cassowary road deaths in Queensland",
+            "url": "https://www.abc.net.au/news/2025-07-30/ai-saves-cassowary-lives-reducing-vehicle-strikes-far-north-qld/105589446",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/6d5eb05a38eabc6c72fd2f822697d5e8?impolicy=wcms_watermark_news&cropH=377&cropW=671&xPos=0&yPos=40&width=862&height=485&imformat=generic",
+            "publishedAt": "2025-07-30T08:42:18Z"
+        },
         {
             "source": {
                 "id": "f6d6ee1134197fe1441d65a3e7915835",
@@ -660,6 +671,24 @@
             "url": "https://www.fool.com.au/2025/07/29/alphabets-ai-push-is-accelerating-is-the-stock-a-buy-now-usfeed/",
             "urlToImage": "https://www.fool.com.au/wp-content/uploads/2022/03/div-1200x675.jpg",
             "publishedAt": "2025-07-29T00:58:00Z"
+        },
+        {
+            "source": {
+                "name": "bitcoinworld"
+            },
+            "title": "AI Video Giants Unleash Ambitious Robotics Revenue Plans",
+            "url": "https://bitcoinworld.co.in/luma-runway-robotics-revenue/",
+            "urlToImage": "https://bitcoinworld.co.in/wp-content/uploads/luma-runway-robotics-revenue.jpg",
+            "publishedAt": "2025-07-29 20:35:11"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "Starved Of Context, AI Is Failing Where It Matters Most",
+            "url": "https://www.forbes.com/sites/kolawolesamueladebayo/2025/07/29/starved-of-context-ai-is-failing-where-it-matters-most/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68892eac5ffb0f300a646787/0x0.jpg?width=960",
+            "publishedAt": "2025-07-29 20:33:28"
         },
         {
             "source": {
@@ -2871,33 +2900,6 @@
             "url": "https://www.forbes.com/sites/janakirammsv/2025/07/28/mistral-ais-environmental-audit-puts-spotlight-on-ais-hidden-costs/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6886f7d2c09ebb59ab6384ed/0x0.jpg?width=960",
             "publishedAt": "2025-07-28 04:11:38"
-        },
-        {
-            "source": {
-                "name": "analyticsindiamag"
-            },
-            "title": "Cognizant’s Vibe Coding Lesson for Indian IT",
-            "url": "https://analyticsindiamag.com/it-services/cognizants-vibe-coding-lesson-for-indian-it/",
-            "urlToImage": "https://analyticsindiamag.com/wp-content/uploads/2025/07/Mohit-84.jpg",
-            "publishedAt": "2025-07-28 03:30:00"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "The Biggest News Stories of 2025",
-            "url": "https://www.analyticsinsight.net/tech-news/the-biggest-news-stories-of-2025",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-07-27%2Faf5b7kre%2FThe-Biggest-News-Stories-of-2025-Antara-1.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-07-28 03:00:00"
-        },
-        {
-            "source": {
-                "name": "digitaltrends"
-            },
-            "title": "Web browsers are entering a new era where AI skills take over from extensions",
-            "url": "https://www.digitaltrends.com/computing/web-browsers-are-entering-a-new-era-where-ai-skills-take-over-from-extensions/",
-            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/07/browser-skills-6.jpeg?p=1&resize=1200%2C630",
-            "publishedAt": "2025-07-28 03:00:00"
         }
     ]
 }
