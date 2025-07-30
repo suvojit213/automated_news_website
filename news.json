@@ -1,6 +1,28 @@
 {
-    "lastUpdatedAt": "2025-07-29T23:16:20.337746Z",
+    "lastUpdatedAt": "2025-07-30T01:22:59.706641Z",
     "articles": [
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com"
+            },
+            "title": "Hackers Breach U.S. Fermilab, Highlighting Global Cybersecurity Flaws",
+            "url": "https://www.devdiscourse.com/article/technology/3522323-hackers-breach-us-fermilab-highlighting-global-cybersecurity-flaws",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/30_07_2025_00_33_02_0652434.png?width=920&format=jpeg",
+            "publishedAt": "2025-07-30T00:33:02Z"
+        },
+        {
+            "source": {
+                "id": "51aadd014176eb61b32255e2791b7207",
+                "name": "Newser",
+                "url": "https://www.newser.com"
+            },
+            "title": "Nick Cave Rethinks AI After Unexpected Gift",
+            "url": "https://www.newser.com/story/372669/nick-cave-rethinks-ai-after-unexpected-gift.html",
+            "urlToImage": "https://img1-azrcdn.newser.com/image/1625074-12-20250729190220.jpeg",
+            "publishedAt": "2025-07-30T00:02:20Z"
+        },
         {
             "source": {
                 "id": "b669a363e34e1a8211e6f2cd9c5420a4",
@@ -99,6 +121,17 @@
             "url": "https://www.devdiscourse.com/article/other/3522005-fao-workshop-catalyzes-value-chain-innovation-for-southern-africas-agri-food-future",
             "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/20_06_2025_13_55_36_4211604.png?width=920&format=jpeg",
             "publishedAt": "2025-07-29T17:25:06Z"
+        },
+        {
+            "source": {
+                "id": "61d62f51b5a60b70cd06e36b5dc14e85",
+                "name": "WLTX.com",
+                "url": "https://www.wltx.com"
+            },
+            "title": "Most St. Paul city services down after cyberattack",
+            "url": "https://www.wltx.com/article/news/local/mn-national-guard-deployed-st-paul-declares-state-of-emergency-in-response-to-cyberattack/89-e8ce8c3f-7ad6-43f6-8e22-af62c6392e2d",
+            "urlToImage": "https://media.wltx.com/assets/KARE/images/0820bb23-c734-41e0-b06b-d7d0d9b0210f/0820bb23-c734-41e0-b06b-d7d0d9b0210f_1140x641.jpg",
+            "publishedAt": "2025-07-29T17:13:13Z"
         },
         {
             "source": {
@@ -528,6 +561,96 @@
             "url": "https://www.fool.com.au/2025/07/29/alphabets-ai-push-is-accelerating-is-the-stock-a-buy-now-usfeed/",
             "urlToImage": "https://www.fool.com.au/wp-content/uploads/2022/03/div-1200x675.jpg",
             "publishedAt": "2025-07-29T00:58:00Z"
+        },
+        {
+            "source": {
+                "name": "prnewswire_apac"
+            },
+            "title": "Post-Quantum Concerns and Shortening Certificate Lifecycles Hike Up Demand for Specialized PKI Offerings, With Combined PKI-CLM Solutions Expected to Takeover by 2030.",
+            "url": "https://www.prnewswire.com/apac/news-releases/post-quantum-concerns-and-shortening-certificate-lifecycles-hike-up-demand-for-specialized-pki-offerings-with-combined-pki-clm-solutions-expected-to-takeover-by-2030-302516155.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2309035/ABI_Research_2024.jpg?p=publish",
+            "publishedAt": "2025-07-29 13:16:00"
+        },
+        {
+            "source": {
+                "name": "benzinga"
+            },
+            "title": "Li Auto Inc. Launches Li i8, a Six-Seat Battery Electric Family SUV",
+            "url": "https://www.benzinga.com/pressreleases/25/07/g46686611/li-auto-inc-launches-li-i8-a-six-seat-battery-electric-family-suv",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/31d6a6e9-1f79-4aea-bbc8-445af9d6171e/li-auto-photo-1.jpg",
+            "publishedAt": "2025-07-29 13:10:50"
+        },
+        {
+            "source": {
+                "name": "expresscomputer"
+            },
+            "title": "How AI is Opening New Doors for India’s Rural Talent in White-Collar Jobs",
+            "url": "https://www.expresscomputer.in/guest-blogs/how-ai-is-opening-new-doors-for-indias-rural-talent-in-white-collar-jobs/126657/",
+            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2025/07/29183526/EC_Pankaj_Samani_MD_GTT_Data_Solutions_750.jpg",
+            "publishedAt": "2025-07-29 13:06:48"
+        },
+        {
+            "source": {
+                "name": "siliconangle"
+            },
+            "title": "Promptfoo raises $18.4M to build AI security and evaluation platform",
+            "url": "https://siliconangle.com/2025/07/29/promptfoo-raises-18-4m-build-ai-security-evaluation-platform/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/07/riskreport-1@2x.png",
+            "publishedAt": "2025-07-29 13:00:38"
+        },
+        {
+            "source": {
+                "name": "venturebeat"
+            },
+            "title": "Writer launches a ‘super agent’ that actually gets sh*t done, outperforms OpenAI on key benchmarks",
+            "url": "https://venturebeat.com/ai/writer-launches-a-super-agent-that-actually-gets-sht-done-outperforms-openai-on-key-benchmarks/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/07/nuneybits_minimalist_drawing_depicting_an_artificial_intelligen_43b7b089-4b7c-4f1c-a7ae-df697e778852.webp?w=750",
+            "publishedAt": "2025-07-29 13:00:00"
+        },
+        {
+            "source": {
+                "name": "macsources"
+            },
+            "title": "MacPaw Introduces Cloud Cleanup CleanMyMac’s Latest Feature for Smarter Cloud Storage",
+            "url": "https://macsources.com/macpaw-introduces-cloud-cleanup/",
+            "urlToImage": "https://macsources.com/wp-content/uploads/2025/07/001-MayPaw-CleanMyMac-Jul25-1280x853.jpg",
+            "publishedAt": "2025-07-29 13:00:00"
+        },
+        {
+            "source": {
+                "name": "cision"
+            },
+            "title": "MacPaw Introduces Cloud Cleanup, CleanMyMac's Latest Feature for Smarter Cloud Storage",
+            "url": "https://www.prnewswire.com/news-releases/macpaw-introduces-cloud-cleanup-cleanmymacs-latest-feature-for-smarter-cloud-storage-302514024.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2738429/Cloud_Cleanup.jpg?p=original",
+            "publishedAt": "2025-07-29 13:00:00"
+        },
+        {
+            "source": {
+                "name": "computerweekly"
+            },
+            "title": "European Commission ignores calls to reassess Israel data adequacy",
+            "url": "https://www.computerweekly.com/news/366628239/European-Commission-ignores-calls-to-reassess-Israel-data-adequacy",
+            "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero%20Images/digital-big-data-graph-adobe_searchsitetablet_520X173.jpg",
+            "publishedAt": "2025-07-29 12:45:00"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Are Printers and Wireless Devices Putting SMEs at Cyber Risk?",
+            "url": "https://www.analyticsinsight.net/cybersecurity/are-printers-and-wireless-devices-putting-smes-at-cyber-risk",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-07-29%2F6729gpsk%2FAre-Printers-and-Wireless-Devices-Putting-SMEs-at-Cyber-Risk.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-07-29 12:39:10"
+        },
+        {
+            "source": {
+                "name": "cision"
+            },
+            "title": "Future FinTech Appoints Professor Yu Xiong from the University of Surrey as Chief Blockchain Advisor to Maximize Success as it Enters New Blockchain Businesses",
+            "url": "https://www.prnewswire.com/news-releases/future-fintech-appoints-professor-yu-xiong-from-the-university-of-surrey-as-chief-blockchain-advisor-to-maximize-success-as-it-enters-new-blockchain-businesses-302515235.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2721425/image_944833_8019291_Logo.jpg?p=original",
+            "publishedAt": "2025-07-29 12:30:00"
         },
         {
             "source": {
@@ -2785,123 +2908,6 @@
             "url": "https://journalstar.com/news/nation-world/business/article_f8f41cc6-4545-583f-9d7c-9173012fd5f6.html",
             "urlToImage": "https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/f/8f/f8f41cc6-4545-583f-9d7c-9173012fd5f6/687fc7ad6b733.preview.jpg?crop=1763%2C926%2C0%2C125&order=crop%2Cresize&resize=1200%2C630",
             "publishedAt": "2025-07-27 15:30:00"
-        },
-        {
-            "source": {
-                "name": "qconline"
-            },
-            "title": "Nvidia is the first $4-trillion company. Here are three things to know",
-            "url": "https://qconline.com/news/nation-world/business/article_757b20cd-67c6-59e7-a42a-50f5c2b63bbb.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/qconline.com/content/tncms/assets/v3/editorial/5/02/502c1096-cc51-5d2b-90e0-28eb57b2dd1f/676d8ad6e6573.image.jpg?resize=1200%2C800",
-            "publishedAt": "2025-07-27 15:30:00"
-        },
-        {
-            "source": {
-                "name": "nwitimes"
-            },
-            "title": "Nvidia is the first $4-trillion company. Here are three things to know",
-            "url": "https://www.nwitimes.com/news/nation-world/business/article_1a8be567-cdff-5a62-8b1c-dbdadac54fbe.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/1/a8/1a8be567-cdff-5a62-8b1c-dbdadac54fbe/687fc7af7c285.preview.jpg?crop=1763%2C926%2C0%2C125&order=crop%2Cresize&resize=1200%2C630",
-            "publishedAt": "2025-07-27 15:30:00"
-        },
-        {
-            "source": {
-                "name": "magicvalley"
-            },
-            "title": "Nvidia is the first $4-trillion company. Here are three things to know",
-            "url": "https://magicvalley.com/news/nation-world/business/article_507c642c-f867-5ded-b46c-a70bf155dc21.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/magicvalley.com/content/tncms/assets/v3/editorial/5/07/507c642c-f867-5ded-b46c-a70bf155dc21/687fc7ae5be97.preview.jpg?crop=1763%2C926%2C0%2C125&order=crop%2Cresize&resize=1200%2C630",
-            "publishedAt": "2025-07-27 15:30:00"
-        },
-        {
-            "source": {
-                "name": "roanoke"
-            },
-            "title": "Nvidia is the first $4-trillion company. Here are three things to know",
-            "url": "https://roanoke.com/news/nation-world/business/article_745aab83-5daa-57f2-b356-2edd689ba80a.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/e/ba/eba18444-6730-5a10-9bcb-26a03dfd3a7a/687fc7a89e813.image.jpg?resize=300%2C192",
-            "publishedAt": "2025-07-27 15:30:00"
-        },
-        {
-            "source": {
-                "name": "buffalonews"
-            },
-            "title": "Nvidia is the first $4-trillion company. Here are three things to know",
-            "url": "https://buffalonews.com/news/nation-world/business/article_81cf4343-8b47-596f-9e81-80bd9c51d8f1.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/e/be/ebe725de-2107-530a-9fb0-30410d1cd97c/676d8ad2e7ddd.image.jpg?resize=300%2C200",
-            "publishedAt": "2025-07-27 15:30:00"
-        },
-        {
-            "source": {
-                "name": "journalnow"
-            },
-            "title": "Nvidia is the first $4-trillion company. Here are three things to know",
-            "url": "https://journalnow.com/news/nation-world/business/article_86de55ae-6cf6-593f-bad8-23dbc80ab6aa.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/9/e2/9e222e34-d920-5dc9-9723-57d001651e7d/687fc7a7f19b6.image.jpg?resize=300%2C192",
-            "publishedAt": "2025-07-27 15:30:00"
-        },
-        {
-            "source": {
-                "name": "elkodaily"
-            },
-            "title": "Nvidia is the first $4-trillion company. Here are three things to know",
-            "url": "https://elkodaily.com/news/nation-world/business/article_0f018632-c7b8-58d7-9318-7209b62cb005.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/elkodaily.com/content/tncms/assets/v3/editorial/4/4c/44cd6253-6ddd-5f2e-93f1-329c73de9e9e/6879a5c574c5d.image.jpg?resize=300%2C200",
-            "publishedAt": "2025-07-27 15:30:00"
-        },
-        {
-            "source": {
-                "name": "dailyprogress"
-            },
-            "title": "Nvidia is the first $4-trillion company. Here are three things to know",
-            "url": "https://dailyprogress.com/news/nation-world/business/article_af57f138-81be-56f0-8b9c-47faf36cbe34.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/dailyprogress.com/content/tncms/assets/v3/editorial/f/5b/f5ba5560-7e76-5b04-a021-e2b9f283a820/687fc7a7b1c23.image.jpg?resize=300%2C192",
-            "publishedAt": "2025-07-27 15:30:00"
-        },
-        {
-            "source": {
-                "name": "herald_review"
-            },
-            "title": "Nvidia is the first $4-trillion company. Here are three things to know",
-            "url": "https://herald-review.com/news/nation-world/business/article_45186494-33a8-5574-b17b-0ba2a124c9be.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/herald-review.com/content/tncms/assets/v3/editorial/4/51/45186494-33a8-5574-b17b-0ba2a124c9be/687fc7ab2ad52.preview.jpg?crop=1763%2C926%2C0%2C125&order=crop%2Cresize&resize=1200%2C630",
-            "publishedAt": "2025-07-27 15:30:00"
-        },
-        {
-            "source": {
-                "name": "zephyrnet"
-            },
-            "title": "Assessing Our Preparedness for Multi-Image Reasoning: Introducing the Visual Haystacks Benchmark!",
-            "url": "https://zephyrnet.com/assessing-our-preparedness-for-multi-image-reasoning-introducing-the-visual-haystacks-benchmark/",
-            "urlToImage": "https://zephyrnet.com/wp-content/uploads/2025/04/zephyrnet-default-img-3-1.jpg-1.jpg",
-            "publishedAt": "2025-07-27 13:03:24"
-        },
-        {
-            "source": {
-                "name": "columbian"
-            },
-            "title": "AI data centers are using more power. Regular customers are footing the bill",
-            "url": "https://www.columbian.com/news/2025/jul/27/ai-data-centers-are-using-more-power-regular-customers-are-footing-the-bill/",
-            "urlToImage": "https://www.columbian.com/wp-content/uploads/2024/12/1221_met_data-center2-768x512.jpg",
-            "publishedAt": "2025-07-27 13:00:48"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "Israeli Startups Using AI To Accelerate Drug Discovery",
-            "url": "https://www.forbes.com/sites/gilpress/2025/07/27/israeli-startups-using-ai-to-accelerate-drug-discovery/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6884042797f19bc385656e4d/0x0.jpg?width=960",
-            "publishedAt": "2025-07-27 13:00:00"
-        },
-        {
-            "source": {
-                "name": "thehindubusinessline"
-            },
-            "title": "Quantum tech enters India’s Defence arsenal",
-            "url": "https://www.thehindubusinessline.com/info-tech/quantum-tech-enters-indias-defence-arsenal/article69861371.ece",
-            "urlToImage": "https://bl-i.thgim.com/public/incoming/32ckrl/article69861808.ece/alternates/LANDSCAPE_1200/IMG_iStock-1211223669_2_1_1DBCKIVK.jpg",
-            "publishedAt": "2025-07-27 12:51:20"
         }
     ]
 }
