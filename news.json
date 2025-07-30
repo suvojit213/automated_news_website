@@ -1,6 +1,28 @@
 {
-    "lastUpdatedAt": "2025-07-30T01:22:59.706641Z",
+    "lastUpdatedAt": "2025-07-30T03:39:45.808122Z",
     "articles": [
+        {
+            "source": {
+                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+                "name": "The Australian Financial Review",
+                "url": "https://www.afr.com"
+            },
+            "title": "Let AI do housing approvals, says Atlassian’s Scott Farquhar",
+            "url": "https://www.afr.com/technology/housing-crisis-scott-farquhar-says-ai-could-decide-building-approvals-20250730-p5mivx",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.3756%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_374%2C$y_28/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/73800cd034848c910371ad2cda4e3ef6a81501b9",
+            "publishedAt": "2025-07-30T02:31:00Z"
+        },
+        {
+            "source": {
+                "id": "10216cb8fabd0accd5eb967c97fc37ab",
+                "name": "MacRumors",
+                "url": "https://www.macrumors.com"
+            },
+            "title": "Apple Continues Losing AI Experts to Meta",
+            "url": "https://www.macrumors.com/2025/07/29/apple-continues-losing-ai-experts-to-meta/",
+            "urlToImage": "https://images.macrumors.com/t/A1B4aW248cXlls58AjTKuZPDmaI=/1600x/article-new/2025/02/meta-ai.jpg",
+            "publishedAt": "2025-07-30T01:47:00Z"
+        },
         {
             "source": {
                 "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
@@ -53,6 +75,17 @@
             },
             "title": "YouTube to roll out new AI-powered technology aimed at identifying teen users",
             "url": "https://www.cbsnews.com/sacramento/news/youtube-ai-powered-technology-teen-users/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/07/29/0f2ad34f-e977-46c9-a4a7-de8db9113d6c/thumbnail/1200x630/f8973259f1d593a73db291d815e9b66b/gettyimages-1200731050.jpg",
+            "publishedAt": "2025-07-29T20:04:24Z"
+        },
+        {
+            "source": {
+                "id": "3a3847d645a619320aa3b3484581e395",
+                "name": "CBS News",
+                "url": "https://www.cbsnews.com"
+            },
+            "title": "YouTube to roll out new AI-powered technology aimed at identifying teen users",
+            "url": "https://www.cbsnews.com/detroit/news/youtube-ai-powered-technology-teen-users/",
             "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/07/29/0f2ad34f-e977-46c9-a4a7-de8db9113d6c/thumbnail/1200x630/f8973259f1d593a73db291d815e9b66b/gettyimages-1200731050.jpg",
             "publishedAt": "2025-07-29T20:04:24Z"
         },
@@ -561,6 +594,96 @@
             "url": "https://www.fool.com.au/2025/07/29/alphabets-ai-push-is-accelerating-is-the-stock-a-buy-now-usfeed/",
             "urlToImage": "https://www.fool.com.au/wp-content/uploads/2022/03/div-1200x675.jpg",
             "publishedAt": "2025-07-29T00:58:00Z"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Anatomy of a Crypto Catastrophe: The Science Behind Terra's $40 Billion Implosion",
+            "url": "https://hackernoon.com/anatomy-of-a-crypto-catastrophe-the-science-behind-terras-$40-billion-implosion",
+            "urlToImage": "https://hackernoon.com/https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-bq032uw.jpeg",
+            "publishedAt": "2025-07-29 15:26:19"
+        },
+        {
+            "source": {
+                "name": "medicalxpress"
+            },
+            "title": "With no need for sleep or food, AI-built 'scientists' quickly design nanobodies against SARS-CoV-2 variants",
+            "url": "https://medicalxpress.com/news/2025-07-food-ai-built-scientists-quickly.html",
+            "urlToImage": "https://scx1.b-cdn.net/csz/news/tmb/2025/with-no-need-for-sleep.jpg",
+            "publishedAt": "2025-07-29 15:00:07"
+        },
+        {
+            "source": {
+                "name": "news4social"
+            },
+            "title": "Frontgrade’s New Radiation-Tolerant, Scalable SpaceStor 4TB MMU Joins MAMBA Modular Space Systems Lineup",
+            "url": "https://en.news4social.com/frontgrades-new-radiation-tolerant-scalable-spacestor-4tb-mmu-joins-mamba-modular-space-systems-lineup/",
+            "urlToImage": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/frontgrade.png?fit=188%2C188&quality=80&ssl=1",
+            "publishedAt": "2025-07-29 15:00:00"
+        },
+        {
+            "source": {
+                "name": "spacenews"
+            },
+            "title": "Frontgrade’s New Radiation-Tolerant, Scalable SpaceStor 4TB MMU Joins MAMBA Modular Space Systems Lineup",
+            "url": "https://spacenews.com/frontgrades-new-radiation-tolerant-scalable-spacestor-4tb-mmu-joins-mamba-modular-space-systems-lineup/",
+            "urlToImage": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/frontgrade.png?fit=188%2C188&quality=80&ssl=1",
+            "publishedAt": "2025-07-29 15:00:00"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "AI Is Acting Like It Has A Mind Of Its Own",
+            "url": "https://www.forbes.com/sites/michaelashley/2025/07/29/ai-is-acting-like-it-has-a-mind-of-its-own/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68865e5c3ac50c1096faf5d2/0x0.jpg?width=960",
+            "publishedAt": "2025-07-29 15:00:00"
+        },
+        {
+            "source": {
+                "name": "spacenews"
+            },
+            "title": "Frontgrade Unveils SBC-2A72 with 32GB NAND to Enable High-Performance Edge Computing in Air and Space Platforms",
+            "url": "https://spacenews.com/frontgrade-unveils-sbc-2a72-with-32gb-nand-to-enable-high-performance-edge-computing-in-air-and-space-platforms/",
+            "urlToImage": "https://spacenews.com/wp-content/uploads/2025/04/frontgrade.png",
+            "publishedAt": "2025-07-29 14:43:41"
+        },
+        {
+            "source": {
+                "name": "enidnews"
+            },
+            "title": "VERSES® Shareholder Update Letter",
+            "url": "https://www.enidnews.com/region/verses-shareholder-update-letter/article_8b5619ad-5e82-510e-9c98-7203b687948a.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/enidnews.com/content/tncms/custom/image/274f102e-c5aa-11e8-8594-87a63e6d4522.jpg?resize=600%2C315",
+            "publishedAt": "2025-07-29 14:31:19"
+        },
+        {
+            "source": {
+                "name": "futurism"
+            },
+            "title": "Microsoft Releases List of Jobs Most and Least Likely to Be Replaced by AI",
+            "url": "https://futurism.com/microsoft-list-jobs-replaced-ai",
+            "urlToImage": "https://wordpress-assets.futurism.com/2025/07/microsoft-list-jobs-replaced-ai.jpg",
+            "publishedAt": "2025-07-29 14:14:57"
+        },
+        {
+            "source": {
+                "name": "cision"
+            },
+            "title": "Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation",
+            "url": "https://www.prnewswire.com/news-releases/ping-an-appoints-ai-expert-ray-wang-as-chief-technology-officer-to-accelerate-comprehensive-digital-transformation-302516220.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2740150/Ray_Wang.jpg?p=publish",
+            "publishedAt": "2025-07-29 14:13:00"
+        },
+        {
+            "source": {
+                "name": "prnewswire_apac"
+            },
+            "title": "Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation",
+            "url": "https://www.prnewswire.com/apac/news-releases/ping-an-appoints-ai-expert-ray-wang-as-chief-technology-officer-to-accelerate-comprehensive-digital-transformation-302516216.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2740222/Ray_Wang.jpg?p=original",
+            "publishedAt": "2025-07-29 14:12:00"
         },
         {
             "source": {
@@ -2791,123 +2914,6 @@
             "url": "https://www.webpronews.com/mit-study-heavy-chatgpt-use-linked-to-reduced-brain-activity-and-memory/",
             "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/07/xai-tmp-imgen-4a43c878-a537-4026-afab-9af754428077.jpeg?fit=720%2C960&ssl=1",
             "publishedAt": "2025-07-27 19:13:26"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Overreliance on AI Like ChatGPT May Erode Critical Thinking Skills",
-            "url": "https://www.webpronews.com/overreliance-on-ai-like-chatgpt-may-erode-critical-thinking-skills/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/07/xai-tmp-imgen-3eabc75e-2274-4e08-8443-c03efef7f4ca.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-07-27 19:12:47"
-        },
-        {
-            "source": {
-                "name": "zephyrnet"
-            },
-            "title": "Emergent Patterns in Textural Dynamics",
-            "url": "https://zephyrnet.com/emergent-patterns-in-textural-dynamics/",
-            "urlToImage": "https://zephyrnet.com/wp-content/uploads/img-pq1Ry4qpmKuCC84akzuI6PDb.png",
-            "publishedAt": "2025-07-27 18:36:26"
-        },
-        {
-            "source": {
-                "name": "slashgear"
-            },
-            "title": "5 Surprising Benefits Of Spatial Computing (No, It's Not Just Gaming VR Headsets)",
-            "url": "https://www.slashgear.com/1919875/benefits-of-spatial-computing/",
-            "urlToImage": "https://www.slashgear.com/img/gallery/5-surprising-benefits-of-spatial-computing-no-its-not-just-gaming-vr-headsets/l-intro-1753276200.jpg",
-            "publishedAt": "2025-07-27 18:30:00"
-        },
-        {
-            "source": {
-                "name": "zephyrnet"
-            },
-            "title": "TinyAgent: Empowering Edge Computing with Function Calls",
-            "url": "https://zephyrnet.com/tinyagent-empowering-edge-computing-with-function-calls/",
-            "urlToImage": "https://zephyrnet.com/wp-content/uploads/img-Yc3Qq6FZD0mcOV2wvpBJgzG5.png",
-            "publishedAt": "2025-07-27 17:31:25"
-        },
-        {
-            "source": {
-                "name": "thestreet"
-            },
-            "title": "Mark Cuban predicts AI will end 1 key profession as we know it",
-            "url": "https://www.thestreet.com/technology/mark-cuban-predicts-ai-will-end-1-key-profession-as-we-know-it",
-            "urlToImage": "https://www.thestreet.com/.image/c_fit,h_800,w_1200/MTkyNDk0NDQ2NzUzODgzNDYy/mark-cuban-2-lead-js-092122.jpg",
-            "publishedAt": "2025-07-27 16:47:00"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Singapore’s HRM: AI Reasons 100x Faster with 1,000 Examples",
-            "url": "https://www.webpronews.com/singapores-hrm-ai-reasons-100x-faster-with-1000-examples/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/07/xai-tmp-imgen-fe3b96eb-512a-4a59-add9-10dc0a8ef43b.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-07-27 16:24:12"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "AI Godfather Hinton Criticizes Altman, Zuckerberg on AI Risks, Praises Hassabis",
-            "url": "https://www.webpronews.com/ai-godfather-hinton-criticizes-altman-zuckerberg-on-ai-risks-praises-hassabis/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/07/xai-tmp-imgen-155dbe8c-0e25-4465-8e36-d81bcd25596f.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-07-27 16:23:21"
-        },
-        {
-            "source": {
-                "name": "latestly"
-            },
-            "title": "India News | CRPF to Soon Induct Latest AI and Drone Technology: DG Gyanendra Pratap Singh",
-            "url": "https://www.latestly.com/agency-news/india-news-crpf-to-soon-induct-latest-ai-and-drone-technology-dg-gyanendra-pratap-singh-7026154.html",
-            "urlToImage": "https://st1.latestly.com/wp-content/uploads/2025/07/ANI-20250727160727.jpg",
-            "publishedAt": "2025-07-27 16:20:26"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "AI Agents in Software and Real Estate: Hype, Hurdles, and 2025 Outlook",
-            "url": "https://www.webpronews.com/ai-agents-in-software-and-real-estate-hype-hurdles-and-2025-outlook/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/07/xai-tmp-imgen-0e1317a0-c8cb-4a3b-a2f5-7da5d5ff88af.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-07-27 16:19:33"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Microsoft’s Azure AI Push Drives Q4 Revenue Growth Outlook",
-            "url": "https://www.webpronews.com/microsofts-azure-ai-push-drives-q4-revenue-growth-outlook/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/07/xai-tmp-imgen-38d2c91d-3666-4d36-b658-9de61b7e7aaa.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-07-27 16:07:35"
-        },
-        {
-            "source": {
-                "name": "cnet"
-            },
-            "title": "AI Is Taking Over Your Search Engine. Here's a Look Under the Hood",
-            "url": "https://www.cnet.com/tech/services-and-software/ai-is-taking-over-your-search-engine-heres-a-look-under-the-hood/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/0c44f4e5a2faca761ede595c7f532a8607ca7826/hub/2025/07/25/82c3b20c-4aed-4159-a246-7d4307b8261b/gettyimages-1758948333.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-07-27 16:00:05"
-        },
-        {
-            "source": {
-                "name": "santafenewmexican"
-            },
-            "title": "Teens say they are turning to AI for friendship",
-            "url": "https://www.santafenewmexican.com/news/education/teens-say-they-are-turning-to-ai-for-friendship/article_2d3c2559-343f-51b6-90d2-beadccab9b39.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/santafenewmexican.com/content/tncms/assets/v3/editorial/a/8d/a8d91762-41fd-511f-bef9-3e92bc04f100/68815f765250e.image.jpg?resize=300%2C200",
-            "publishedAt": "2025-07-27 15:48:00"
-        },
-        {
-            "source": {
-                "name": "journalstar"
-            },
-            "title": "Nvidia is the first $4-trillion company. Here are three things to know",
-            "url": "https://journalstar.com/news/nation-world/business/article_f8f41cc6-4545-583f-9d7c-9173012fd5f6.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/f/8f/f8f41cc6-4545-583f-9d7c-9173012fd5f6/687fc7ad6b733.preview.jpg?crop=1763%2C926%2C0%2C125&order=crop%2Cresize&resize=1200%2C630",
-            "publishedAt": "2025-07-27 15:30:00"
         }
     ]
 }
