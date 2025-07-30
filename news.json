@@ -1,6 +1,28 @@
 {
-    "lastUpdatedAt": "2025-07-30T12:35:59.879604Z",
+    "lastUpdatedAt": "2025-07-30T13:37:26.240230Z",
     "articles": [
+        {
+            "source": {
+                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
+                "name": "TechStartups.com",
+                "url": "https://techstartups.com"
+            },
+            "title": "Palo Alto Networks nears $20 billion acquisition of CyberArk, one of the year’s largest tech mergers",
+            "url": "https://techstartups.com/2025/07/30/palo-alto-networks-nears-20-billion-acquisition-of-cyberark-one-of-the-years-largest-tech-mergers/",
+            "urlToImage": "https://techstartups.com/wp-content/uploads/2022/11/palo-alto-networks-960x640.jpg",
+            "publishedAt": "2025-07-30T13:07:04Z"
+        },
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com"
+            },
+            "title": "Palo Alto Networks to acquire CyberArk in $25 billion deal",
+            "url": "https://www.cnbc.com/2025/07/30/palo-alto-networks-cyberark-deal.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108100620-1739282708887-gettyimages-2185332994-PSWAT_DSC01563.jpeg?v=1753877920&w=1920&h=1080",
+            "publishedAt": "2025-07-30T12:32:13Z"
+        },
         {
             "source": {
                 "id": "f6d6ee1134197fe1441d65a3e7915835",
@@ -10,6 +32,17 @@
             "title": "Palo Alto to scoop up CyberArk for $25 billion to tackle AI-era threats",
             "url": "https://sg.news.yahoo.com/palo-alto-scoop-cyberark-25-122523602.html?guccounter=1&guce_referrer=aHR0cHM6Ly9zZy5uZXdzLnlhaG9vLmNvbS8&guce_referrer_sig=AQAAALO9r6aLCXyeU_Bz9ZwtAojzhFtjjJwxQO5u7z-MnXwsLpiDPYSWqGXNoQNzKrbPeT0KX2ZV6qXebVv-Lxf314tjoShxKkB7z8RVLFSxgZTQ8ztJV0jXDcnt-AukMJUnwDEXwI0dCmWn3RArk-JgCeij-m9GnpgoOlU0wRa_OIqX",
             "urlToImage": "https://media.zenfs.com/en/reuters.com/56befac907737a22ede2f6e2492c0703",
+            "publishedAt": "2025-07-30T12:25:23Z"
+        },
+        {
+            "source": {
+                "id": "f6d6ee1134197fe1441d65a3e7915835",
+                "name": "Yahoo Singapore News",
+                "url": "https://sg.news.yahoo.com"
+            },
+            "title": "Palo Alto to scoop up CyberArk for $25 billion to tackle AI-era threats",
+            "url": "https://sg.news.yahoo.com/palo-alto-scoop-cyberark-25-122523602.html",
+            "urlToImage": "https://media.zenfs.com/en/reuters.com/fa3bf0438d1271aa07fb539faf560b7f",
             "publishedAt": "2025-07-30T12:25:23Z"
         },
         {
@@ -113,6 +146,17 @@
         },
         {
             "source": {
+                "id": "a0300bc9a6e9d5b317bd6f614767231f",
+                "name": "Forbes",
+                "url": "https://www.forbes.com"
+            },
+            "title": "Why Does Palo Alto Networks Want To Buy CyberArk?",
+            "url": "https://www.forbes.com/sites/greatspeculations/2025/07/30/why-does-palo-alto-networks-want-to-buy-cyberark/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6889b7bcaa3db50cb0a32961/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-07-30T04:00:00Z"
+        },
+        {
+            "source": {
                 "id": "f6d6ee1134197fe1441d65a3e7915835",
                 "name": "Yahoo Singapore News",
                 "url": "https://sg.news.yahoo.com"
@@ -176,6 +220,15 @@
             "url": "https://www.newser.com/story/372669/nick-cave-rethinks-ai-after-unexpected-gift.html",
             "urlToImage": "https://img1-azrcdn.newser.com/image/1625074-12-20250729190220.jpeg",
             "publishedAt": "2025-07-30T00:02:20Z"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "NiCE’s $955M Cognigy Deal Targets $30B AI Customer Experience Opportunity",
+            "url": "https://www.forbes.com/sites/maribellopez/2025/07/29/nices-955m-cognigy-deal-targets-30b-ai-customer-experience-opportunity/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/688971f917ebbda16557b53c/0x0.jpg?width=960",
+            "publishedAt": "2025-07-30 01:23:55"
         },
         {
             "source": {
@@ -2867,51 +2920,6 @@
             "url": "https://www.webpronews.com/linux-kernel-6-17-ntfs3-update-fixes-windows-symlink-handling/",
             "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/07/xai-tmp-imgen-4067a546-6f78-4d2b-bb8d-ede69afc61c0.jpeg?fit=720%2C960&ssl=1",
             "publishedAt": "2025-07-28 06:00:00"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "I tested ChatGPT Agent on 5 everyday tasks — here’s what happened",
-            "url": "https://www.tomsguide.com/ai/i-tested-chatgpt-agent-on-5-everyday-tasks-heres-what-happened",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/XPNUr9uD9aCAbjZ3CnH7kU-1280-80.jpg",
-            "publishedAt": "2025-07-28 05:45:00"
-        },
-        {
-            "source": {
-                "name": "news9live"
-            },
-            "title": "Elon Musk picks Samsung for Tesla’s next-gen AI chips in mega chip deal",
-            "url": "https://www.news9live.com/technology/tech-news/teslas-chips-will-be-manufactured-by-samsung-2880318",
-            "urlToImage": "https://images.news9live.com/wp-content/uploads/2025/07/Tesla-to-use-Samsung-chips.png?enlarge=true&w=802",
-            "publishedAt": "2025-07-28 05:36:00"
-        },
-        {
-            "source": {
-                "name": "ndtv"
-            },
-            "title": "AI Agents Are Here, What They Can Do And How They Can Go Wrong",
-            "url": "https://www.ndtv.com/feature/open-ai-agents-artificial-intelligence-agents-are-here-what-they-can-do-and-how-they-can-go-wrong-8964048",
-            "urlToImage": "https://i.gadgets360cdn.com/large/robots_unsplash_mohamed_nohassi_1745324440293.jpg?im=FeatureCrop%2Calgorithm%3Ddnn%2Cwidth%3D773%2Cheight%3D435",
-            "publishedAt": "2025-07-28 05:20:31"
-        },
-        {
-            "source": {
-                "name": "newsbytesapp"
-            },
-            "title": "Can nuclear fusion produce gold? This start-up thinks so",
-            "url": "https://www.newsbytesapp.com/news/science/california-start-up-proposes-making-gold-using-nuclear-fusion-technology/story",
-            "urlToImage": "https://i.cdn.newsbytesapp.com/images/l29120250728103846.jpeg",
-            "publishedAt": "2025-07-28 05:18:00"
-        },
-        {
-            "source": {
-                "name": "toi"
-            },
-            "title": "Differentiations for AI Hardware Vendors",
-            "url": "https://timesofindia.indiatimes.com/blogs/deciphering-agentic-ai/differentiations-for-ai-hardware-vendors/",
-            "urlToImage": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2025/07/Screenshot-2025-07-28-093828.png",
-            "publishedAt": "2025-07-28 05:17:40"
         }
     ]
 }
