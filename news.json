@@ -1,6 +1,17 @@
 {
-    "lastUpdatedAt": "2025-07-31T04:38:18.032898Z",
+    "lastUpdatedAt": "2025-07-31T05:23:25.729382Z",
     "articles": [
+        {
+            "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com"
+            },
+            "title": "Google to sign EU’s AI code of practice despite concerns",
+            "url": "https://indianexpress.com/article/technology/google-to-sign-eus-ai-code-of-practice-despite-concerns-10160633/",
+            "urlToImage": "https://images.indianexpress.com/2025/07/Google-article-images-1.jpg",
+            "publishedAt": "2025-07-31T04:47:05Z"
+        },
         {
             "source": {
                 "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
@@ -539,6 +550,33 @@
             "url": "https://www.newser.com/story/372669/nick-cave-rethinks-ai-after-unexpected-gift.html",
             "urlToImage": "https://img1-azrcdn.newser.com/image/1625074-12-20250729190220.jpeg",
             "publishedAt": "2025-07-30T00:02:20Z"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "FBI warns hackers are impersonating government officials in new vishing scam — how to stay safe",
+            "url": "https://www.tomsguide.com/computing/online-security/fbi-warns-hackers-are-impersonating-government-officials-in-new-vishing-scam-how-to-stay-safe",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/MQWbdrwdGwvNx6xsEAq7rP-1280-80.jpg",
+            "publishedAt": "2025-07-30 17:06:23"
+        },
+        {
+            "source": {
+                "name": "popsci"
+            },
+            "title": "How Audi tweaked its turbo geometry",
+            "url": "https://www.popsci.com/technology/audi-turbo-geometry/",
+            "urlToImage": "https://www.popsci.com/wp-content/uploads/2025/07/audi_turbo_geometry.jpg?quality=85",
+            "publishedAt": "2025-07-30 16:50:54"
+        },
+        {
+            "source": {
+                "name": "news_ncsu"
+            },
+            "title": "Tech Tool Offers Improved Assurances for Small Business Contracts",
+            "url": "https://news.ncsu.edu/2025/07/new-tool-for-small-business/",
+            "urlToImage": "https://news.ncsu.edu/wp-content/uploads/2025/07/McConnell-contracts-2025-HEADER.jpg",
+            "publishedAt": "2025-07-30 16:46:26"
         },
         {
             "source": {
@@ -2942,42 +2980,6 @@
             "url": "https://venturebeat.com/ai/chinese-startup-z-ai-launches-powerful-open-source-glm-4-5-model-family-with-powerpoint-creation/",
             "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/07/cfr0z3n_a_humanoid_zorro_robot_with_wide-brim_black_hat_and_bla_c9236dbc-9217-4f83-908b-ad7bd7676420.png?w=750",
             "publishedAt": "2025-07-28 23:33:40"
-        },
-        {
-            "source": {
-                "name": "hjnews"
-            },
-            "title": "Cheyenne to host massive AI data center using more electricity than all Wyoming homes combined",
-            "url": "https://www.hjnews.com/nation/cheyenne-to-host-massive-ai-data-center-using-more-electricity-than-all-wyoming-homes-combined/article_435937b0-fabf-5f83-9064-b55877c95952.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/hjnews.com/content/tncms/assets/v3/editorial/c/94/c9481949-040e-5273-9095-da4699c0184a/6887fabc733fd.image.jpg?resize=300%2C200",
-            "publishedAt": "2025-07-28 23:24:11"
-        },
-        {
-            "source": {
-                "name": "kdhnews"
-            },
-            "title": "Cheyenne to host massive AI data center using more electricity than all Wyoming homes combined",
-            "url": "https://kdhnews.com/business/technology/cheyenne-to-host-massive-ai-data-center-using-more-electricity-than-all-wyoming-homes-combined/article_2b02baa2-12f7-5a02-b00b-53652464c73d.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/assets/v3/editorial/6/18/6182b829-f934-5936-9131-075f79c5ea91/688807fbf132e.image.jpg?resize=400%2C267",
-            "publishedAt": "2025-07-28 23:24:11"
-        },
-        {
-            "source": {
-                "name": "dailysentinel"
-            },
-            "title": "Cheyenne to host massive AI data center using more electricity than all Wyoming homes combined",
-            "url": "https://www.dailysentinel.com/anpa/us/cheyenne-to-host-massive-ai-data-center-using-more-electricity-than-all-wyoming-homes-combined/article_b31af033-3a2b-5b16-bc1d-606c332c8d5d.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/dailysentinel.com/content/tncms/custom/image/0e5981be-7e31-11e8-9106-4b58ceb21c54.jpg?resize=600%2C315",
-            "publishedAt": "2025-07-28 23:24:11"
-        },
-        {
-            "source": {
-                "name": "siliconangle"
-            },
-            "title": "Microsoft turns Edge into an AI agent with new Copilot Mode",
-            "url": "https://siliconangle.com/2025/07/28/microsoft-turns-edge-ai-agent-new-copilot-mode/",
-            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/07/edgecopilot.jpg",
-            "publishedAt": "2025-07-28 23:09:25"
         }
     ]
 }
