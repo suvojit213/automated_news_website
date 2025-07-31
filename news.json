@@ -1,6 +1,17 @@
 {
-    "lastUpdatedAt": "2025-07-31T22:16:24.313412Z",
+    "lastUpdatedAt": "2025-07-31T23:16:27.576523Z",
     "articles": [
+        {
+            "source": {
+                "id": "549a7a859b2345bbe231b00e7244ef99",
+                "name": "Engadget",
+                "url": "https://www.engadget.com"
+            },
+            "title": "Apple is 'open to' acquisitions to boost its AI roadmap",
+            "url": "https://www.engadget.com/ai/apple-is-open-to-acquisitions-to-boost-its-ai-roadmap-221925560.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/mTIWWFY1fs5KxDj3OYBPiA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-01/4aae2830-dda3-11ef-9f5f-9631a8d45eb7",
+            "publishedAt": "2025-07-31T22:19:25Z"
+        },
         {
             "source": {
                 "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
@@ -440,6 +451,60 @@
             "url": "https://www.cnbc.com/2025/07/30/metas-big-ai-spending-blitz-will-continue-into-2026-.html",
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/108039160-17272877402024-09-25t180630z_1748780285_rc2u7aaoq2mv_rtrmadp_0_meta-platforms-virtual-reality.jpeg?v=1753907044&w=1920&h=1080",
             "publishedAt": "2025-07-31T00:02:07Z"
+        },
+        {
+            "source": {
+                "name": "hackaday"
+            },
+            "title": "Farewell Shunsaku Tamiya: The Man Who Gave Us The Best Things To Build",
+            "url": "https://hackaday.com/2025/07/31/farewell-shunsaku-tamiya-the-man-who-gave-us-the-best-things-to-build/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2025/07/tamiya-race-car-featured.jpg",
+            "publishedAt": "2025-07-31 11:00:39"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "OpenAI Unveils Stargate Norway AI Data Center with 100K GPUs",
+            "url": "https://www.webpronews.com/openai-unveils-stargate-norway-ai-data-center-with-100k-gpus/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/07/xai-tmp-imgen-0955769b-f57d-41c9-a4e9-f9eeb41d60eb.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-07-31 10:46:21"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "2025: Agentic AI and 5G Boost Efficiency, Face Ethical Hurdles",
+            "url": "https://www.webpronews.com/2025-agentic-ai-and-5g-boost-efficiency-face-ethical-hurdles/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/07/xai-tmp-imgen-56158fb0-d035-4d79-9921-d2988765097b.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-07-31 10:45:54"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "How AI And Mini-Organs Could Replace Testing Drugs On Animals",
+            "url": "https://www.forbes.com/sites/alexknapp/2025/07/31/how-ai-and-mini-organs-could-replace-testing-drugs-on-animals/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/688a66f8d5892b4272db9cc5/0x0.jpg?width=960",
+            "publishedAt": "2025-07-31 10:30:00"
+        },
+        {
+            "source": {
+                "name": "itpro"
+            },
+            "title": "OpenAI is teaming up with Nscale and Aker to build Europe's first AI gigafactory – 'Stargate Norway' is set to host 100,000 Nvidia GPUs and will be powered by renewable energy",
+            "url": "https://www.itpro.com/infrastructure/openai-is-teaming-up-with-nscale-and-aker-to-build-europes-first-ai-gigafactory-stargate-norway-is-set-to-host-100-000-nvidia-gpus-and-will-be-powered-by-renewable-energy",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/XeMRbcLXVaqQ5ggRfFHYr-1280-80.jpg",
+            "publishedAt": "2025-07-31 10:28:22"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "Why Optical Infrastructure Is Becoming Core To The Future Of AI",
+            "url": "https://www.forbes.com/sites/kolawolesamueladebayo/2025/07/31/why-optical-infrastructure-is-becoming-core-to-the-future-of-ai/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/688b4215ed8f471431c79475/0x0.jpg?width=960",
+            "publishedAt": "2025-07-31 10:23:34"
         },
         {
             "source": {
@@ -2907,69 +2972,6 @@
             "url": "https://www.newswise.com/articles/with-no-need-for-sleep-or-food-ai-built-scientists-get-the-job-done-quickly/?sc=rssn",
             "urlToImage": "https://www.newswise.com/legacy/image.php?height=334&image=%2Fimages%2Fuploads%2F2025%2F07%2F23%2F68812da6eae03_VirtualLabstructure.png&width=502",
             "publishedAt": "2025-07-29 16:00:00"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "Inside Philips’ AI Strategy To Deliver Better Care At Scale",
-            "url": "https://www.forbes.com/sites/peterhigh/2025/07/29/inside-philips-ai-strategy-to-deliver-better-care-at-scale/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6888c6734b6b713fe942c7a1/0x0.jpg?width=960",
-            "publishedAt": "2025-07-29 15:47:42"
-        },
-        {
-            "source": {
-                "name": "thurrott"
-            },
-            "title": "Windows 10 Turns 10",
-            "url": "https://www.thurrott.com/windows/windows-10/323927/windows-10-turns-10",
-            "urlToImage": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/2015/07/fam-desktop.jpg",
-            "publishedAt": "2025-07-29 15:39:52"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Anatomy of a Crypto Catastrophe: The Science Behind Terra's $40 Billion Implosion",
-            "url": "https://hackernoon.com/anatomy-of-a-crypto-catastrophe-the-science-behind-terras-$40-billion-implosion",
-            "urlToImage": "https://hackernoon.com/https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-bq032uw.jpeg",
-            "publishedAt": "2025-07-29 15:26:19"
-        },
-        {
-            "source": {
-                "name": "medicalxpress"
-            },
-            "title": "With no need for sleep or food, AI-built 'scientists' quickly design nanobodies against SARS-CoV-2 variants",
-            "url": "https://medicalxpress.com/news/2025-07-food-ai-built-scientists-quickly.html",
-            "urlToImage": "https://scx1.b-cdn.net/csz/news/tmb/2025/with-no-need-for-sleep.jpg",
-            "publishedAt": "2025-07-29 15:00:07"
-        },
-        {
-            "source": {
-                "name": "news4social"
-            },
-            "title": "Frontgrade’s New Radiation-Tolerant, Scalable SpaceStor 4TB MMU Joins MAMBA Modular Space Systems Lineup",
-            "url": "https://en.news4social.com/frontgrades-new-radiation-tolerant-scalable-spacestor-4tb-mmu-joins-mamba-modular-space-systems-lineup/",
-            "urlToImage": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/frontgrade.png?fit=188%2C188&quality=80&ssl=1",
-            "publishedAt": "2025-07-29 15:00:00"
-        },
-        {
-            "source": {
-                "name": "spacenews"
-            },
-            "title": "Frontgrade’s New Radiation-Tolerant, Scalable SpaceStor 4TB MMU Joins MAMBA Modular Space Systems Lineup",
-            "url": "https://spacenews.com/frontgrades-new-radiation-tolerant-scalable-spacestor-4tb-mmu-joins-mamba-modular-space-systems-lineup/",
-            "urlToImage": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/frontgrade.png?fit=188%2C188&quality=80&ssl=1",
-            "publishedAt": "2025-07-29 15:00:00"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "AI Is Acting Like It Has A Mind Of Its Own",
-            "url": "https://www.forbes.com/sites/michaelashley/2025/07/29/ai-is-acting-like-it-has-a-mind-of-its-own/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68865e5c3ac50c1096faf5d2/0x0.jpg?width=960",
-            "publishedAt": "2025-07-29 15:00:00"
         }
     ]
 }
