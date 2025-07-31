@@ -1,6 +1,17 @@
 {
-    "lastUpdatedAt": "2025-07-31T14:18:37.356407Z",
+    "lastUpdatedAt": "2025-07-31T15:18:25.662240Z",
     "articles": [
+        {
+            "source": {
+                "id": "8da923084554b2821233d6c5c5f02c97",
+                "name": "Fox News",
+                "url": "https://www.foxnews.com"
+            },
+            "title": "Dior data breach exposes US customers’ personal information",
+            "url": "https://www.foxnews.com/tech/dior-data-breach-exposes-us-customers-personal-information",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/07/1-dior-data-breach-exposes-us-customers-personal-information-intro.jpg",
+            "publishedAt": "2025-07-31T14:00:00Z"
+        },
         {
             "source": {
                 "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
@@ -231,6 +242,24 @@
             "url": "https://www.cnbc.com/2025/07/30/metas-big-ai-spending-blitz-will-continue-into-2026-.html",
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/108039160-17272877402024-09-25t180630z_1748780285_rc2u7aaoq2mv_rtrmadp_0_meta-platforms-virtual-reality.jpeg?v=1753907044&w=1920&h=1080",
             "publishedAt": "2025-07-31T00:02:07Z"
+        },
+        {
+            "source": {
+                "name": "thehindu"
+            },
+            "title": "Microsoft’s annual cloud revenue hits $75 billion, profit beats expectations",
+            "url": "https://www.thehindu.com/sci-tech/technology/microsofts-annual-cloud-revenue-hits-75-billion-profit-beats-expectations/article69876676.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/ch13tg/article69876677.ece/alternates/LANDSCAPE_1200/Earns_Microsoft_94942.jpg",
+            "publishedAt": "2025-07-31 03:15:23"
+        },
+        {
+            "source": {
+                "name": "postregister"
+            },
+            "title": "AP Technology SummaryBrief at 10:40 p.m. EDT",
+            "url": "https://www.postregister.com/businessreport/business/ap-technology-summarybrief-at-10-40-p-m-edt/article_abc77be1-6b3d-52df-8021-20c7bdd0b5c2.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
+            "publishedAt": "2025-07-31 02:40:43"
         },
         {
             "source": {
@@ -2905,33 +2934,6 @@
             "url": "https://www.computerweekly.com/news/366628163/Logicalis-targets-APACs-mid-market-with-GSI-quality-services",
             "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/HeroImages/data-digital-world-machine-learning-artificial-intelligence-AI-GenAI-visoot-adobe_searchsitetablet_520X173.jpg",
             "publishedAt": "2025-07-29 05:30:00"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "M5 iPad Pro: Everything we know so far",
-            "url": "https://www.tomsguide.com/computing/ipads/m5-ipad-pro-everything-we-know-so-far",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/AVip9qRE3YdpiJA4ywDEXL-1280-80.jpg",
-            "publishedAt": "2025-07-29 05:15:00"
-        },
-        {
-            "source": {
-                "name": "mtairynews"
-            },
-            "title": "WAIC 2025: Shanghai Electric Debuts First Industrial Humanoid Robot \"SUYUAN,\" Advancing Next-Gen Intelligent Manufacturing through Holistic Value Chain Layout",
-            "url": "https://www.mtairynews.com/online_features/press_releases/waic-2025-shanghai-electric-debuts-first-industrial-humanoid-robot-suyuan-advancing-next-gen-intelligent-manufacturing/article_6a52c930-1728-55c4-9f86-c01b743477bd.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/mtairynews.com/content/tncms/assets/v3/editorial/9/4a/94a091d0-bf4a-5a7b-b32b-bc72775c7e9f/676a65491201f.image.jpg?resize=300%2C149",
-            "publishedAt": "2025-07-29 04:50:00"
-        },
-        {
-            "source": {
-                "name": "dailynews_com"
-            },
-            "title": "Best receivers",
-            "url": "https://www.dailynews.com/2025/07/28/best-receivers/",
-            "urlToImage": "https://www.dailynews.com/wp-content/uploads/2025/07/best-receivers.jpg?strip=all&w=1400px",
-            "publishedAt": "2025-07-29 04:30:12"
         }
     ]
 }
