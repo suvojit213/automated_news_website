@@ -1,6 +1,28 @@
 {
-    "lastUpdatedAt": "2025-07-31T11:15:07.896305Z",
+    "lastUpdatedAt": "2025-07-31T12:34:22.945751Z",
     "articles": [
+        {
+            "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com"
+            },
+            "title": "Meta will allow job candidates to use AI during coding tests",
+            "url": "https://indianexpress.com/article/technology/meta-will-allow-job-candidates-to-use-ai-during-coding-tests-10161510/",
+            "urlToImage": "https://images.indianexpress.com/2025/07/Meta-Reuters.jpg",
+            "publishedAt": "2025-07-31T10:38:18Z"
+        },
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com"
+            },
+            "title": "CoreWeave is a buy after Microsoft’s strong earnings report, Citi says",
+            "url": "https://www.cnbc.com/2025/07/31/coreweave-is-a-buy-after-microsofts-strong-earnings-report-citi-says.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108172055-1752584137600-gettyimages-2213626396-COREWEAVE_DEBT_DEAL.jpeg?v=1752584197&w=1920&h=1080",
+            "publishedAt": "2025-07-31T10:31:28Z"
+        },
         {
             "source": {
                 "id": "f6d6ee1134197fe1441d65a3e7915835",
@@ -69,6 +91,17 @@
         },
         {
             "source": {
+                "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
+                "name": "Fortune",
+                "url": "https://fortune.com"
+            },
+            "title": "I'm a cybersecurity CEO who advises over 9,000 agencies and Sam Altman is wrong that the AI fraud crisis is coming-it’s already here",
+            "url": "https://fortune.com/2025/07/31/sam-altman-warning-ai-fraud-already-here-cybersecurity-lexisnexis-commentary/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/07/GettyImages-2226497589-e1753805532402.jpg?resize=1200,600",
+            "publishedAt": "2025-07-31T04:00:00Z"
+        },
+        {
+            "source": {
                 "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
                 "name": "Devdiscourse",
                 "url": "https://www.devdiscourse.com"
@@ -132,6 +165,24 @@
             "url": "https://www.cnbc.com/2025/07/30/metas-big-ai-spending-blitz-will-continue-into-2026-.html",
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/108039160-17272877402024-09-25t180630z_1748780285_rc2u7aaoq2mv_rtrmadp_0_meta-platforms-virtual-reality.jpeg?v=1753907044&w=1920&h=1080",
             "publishedAt": "2025-07-31T00:02:07Z"
+        },
+        {
+            "source": {
+                "name": "theverge"
+            },
+            "title": "Meta is playing the AI game with house money",
+            "url": "https://www.theverge.com/news/716523/meta-q2-earnings-superintelligence-ai-mark-zzuckerberg",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_1_Meta.jpg?crop=0%2C10.732984293194%2C100%2C78.534031413613&quality=90&strip=all&w=1200",
+            "publishedAt": "2025-07-31 00:18:31"
+        },
+        {
+            "source": {
+                "name": "newswise"
+            },
+            "title": "Two-Factor Authentication Just Got Easier",
+            "url": "https://www.newswise.com/articles/two-factor-authentication-just-got-easier/?sc=rssn",
+            "urlToImage": "https://www.newswise.com/legacy/image.php?image=https%3A%2F%2Fwww.sandia.gov%2Fapp%2Fuploads%2Fsites%2F275%2F2025%2F07%2FCFA1967ld-scaled.jpg",
+            "publishedAt": "2025-07-31 00:00:23"
         },
         {
             "source": {
@@ -605,6 +656,24 @@
             "url": "https://www.newser.com/story/372669/nick-cave-rethinks-ai-after-unexpected-gift.html",
             "urlToImage": "https://img1-azrcdn.newser.com/image/1625074-12-20250729190220.jpeg",
             "publishedAt": "2025-07-30T00:02:20Z"
+        },
+        {
+            "source": {
+                "name": "thurrott"
+            },
+            "title": "HP OmniBook X Flip 16 Review",
+            "url": "https://www.thurrott.com/mobile/copilot-pc/323971/hp-omnibook-x-flip-16-review",
+            "urlToImage": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2025/07/ob-x-flip16-open.jpg",
+            "publishedAt": "2025-07-30 23:47:15"
+        },
+        {
+            "source": {
+                "name": "siliconangle"
+            },
+            "title": "Microsoft crushes earnings expectations and its market cap soars above $4T",
+            "url": "https://siliconangle.com/2025/07/30/microsoft-crushes-earnings-expectations-market-cap-soars-4-trillion/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/07/satyanadella-copilot-ignite2023.png",
+            "publishedAt": "2025-07-30 23:45:24"
         },
         {
             "source": {
@@ -2851,83 +2920,6 @@
             "url": "https://www.perthnow.com.au/news/business/unions-call-for-stricter-ai-restrictions-in-workplaces-c-19506782",
             "urlToImage": "https://images.perthnow.com.au/publication/C-19506782/c5f1bfb74c8d872f8645d72cdff06107dbde5221-16x9-x0y0w1280h720.jpg?imwidth=1200",
             "publishedAt": "2025-07-28T22:30:07Z"
-        },
-        {
-            "source": {
-                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
-                "name": "TechStartups.com",
-                "url": "https://techstartups.com"
-            },
-            "title": "Top Startup and Tech Funding News - July 28, 2025",
-            "url": "https://techstartups.com/2025/07/28/top-startup-and-tech-funding-news-july-21-2025-2/",
-            "urlToImage": "https://techstartups.com/wp-content/uploads/2023/06/1komma5grad-Founders.jpg",
-            "publishedAt": "2025-07-28T22:11:17Z"
-        },
-        {
-            "source": {
-                "id": "7f6e8514e9d8f8376aaa9a7229861518",
-                "name": "PerthNow",
-                "url": "https://www.perthnow.com.au"
-            },
-            "title": "Student revolt against AI arts course at top university",
-            "url": "https://www.perthnow.com.au/entertainment/student-revolt-against-ai-arts-course-at-top-university-c-19506242",
-            "urlToImage": "https://images.perthnow.com.au/publication/C-19506242/c262928b0182d694f4d19e7eb0dbc28ae02a31ef-16x9-x0y0w1280h720.jpg?imwidth=1200",
-            "publishedAt": "2025-07-28T21:02:48Z"
-        },
-        {
-            "source": {
-                "id": "6fea3ee012f060c6309366516e8d00be",
-                "name": "News-Medical.net",
-                "url": "https://www.news-medical.net"
-            },
-            "title": "Machine learning detects early rising behavioral changes in mouse models of Parkinson’s disease",
-            "url": "https://www.news-medical.net/news/20250728/Machine-learning-detects-early-rising-behavioral-changes-in-mouse-models-of-Parkinsone28099s-disease.aspx",
-            "urlToImage": "https://www.news-medical.net/image-handler/picture/2015/7/image_28620e4b6b0047f7ab9154b41d739db1-620x480.jpg",
-            "publishedAt": "2025-07-28T19:06:00Z"
-        },
-        {
-            "source": {
-                "id": "732b46cdef66b68ee2fbc940e79f81de",
-                "name": "TechCrunch",
-                "url": "https://techcrunch.com"
-            },
-            "title": "New York state cyber chief calls out Trump for cybersecurity cuts",
-            "url": "https://techcrunch.com/2025/07/28/new-york-state-cyber-chief-calls-out-trump-for-cybersecurity-cuts/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/07/donalt-trump-laptop.jpg?resize=1200,800",
-            "publishedAt": "2025-07-28T18:53:34Z"
-        },
-        {
-            "source": {
-                "id": "e98e9648a83f865332ab00d9eab8cf1f",
-                "name": "Evening Standard",
-                "url": "https://www.standard.co.uk"
-            },
-            "title": "Best VPNs to protect your cybersecurity: UK surge",
-            "url": "https://www.standard.co.uk/shopping/esbest/gadgets-tech/best-vpn-cybersecurity-online-safety-b1240326.html",
-            "urlToImage": "https://static.standard.co.uk/2025/07/28/13/54/pexels-dan-nelson-1667453-3949100.jpeg?width=1200&auto=webp&quality=75",
-            "publishedAt": "2025-07-28T18:00:48Z"
-        },
-        {
-            "source": {
-                "id": "6fea3ee012f060c6309366516e8d00be",
-                "name": "News-Medical.net",
-                "url": "https://www.news-medical.net"
-            },
-            "title": "AI-powered blood test improves early Lyme disease detection",
-            "url": "https://www.news-medical.net/news/20250728/AI-powered-blood-test-improves-early-Lyme-disease-detection.aspx",
-            "urlToImage": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-            "publishedAt": "2025-07-28T17:19:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net"
-            },
-            "title": "Biometrics, AI to replace standard OTPs by 2027",
-            "url": "https://www.manilatimes.net/2025/07/29/business/top-business/biometrics-ai-to-replace-standard-otps-by-2027/2157483",
-            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-            "publishedAt": "2025-07-28T16:15:00Z"
         }
     ]
 }
