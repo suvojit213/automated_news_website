@@ -1,6 +1,39 @@
 {
-    "lastUpdatedAt": "2025-07-31T16:20:46.913117Z",
+    "lastUpdatedAt": "2025-07-31T17:17:29.697631Z",
     "articles": [
+        {
+            "source": {
+                "id": "8da923084554b2821233d6c5c5f02c97",
+                "name": "Fox News",
+                "url": "https://www.foxnews.com"
+            },
+            "title": "More Americans are turning to AI for health advice",
+            "url": "https://www.foxnews.com/tech/more-americans-turning-ai-health-advice",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/07/1-more-americans-are-turning-to-ai-for-health-advice.jpg",
+            "publishedAt": "2025-07-31T17:00:32Z"
+        },
+        {
+            "source": {
+                "id": "18288dd33a2735f068925baac812ba0f",
+                "name": "TechSpot",
+                "url": "https://www.techspot.com"
+            },
+            "title": "Zhaoxin unveils new consumer and server CPUs aimed at challenging global semiconductor giants",
+            "url": "https://www.techspot.com/news/108881-zhaoxin-debuts-advanced-consumer-server-chips-shanghai-conference.html",
+            "urlToImage": "https://www.techspot.com/images2/news/bigimage/2025/07/2025-07-31-image.jpg",
+            "publishedAt": "2025-07-31T16:56:00Z"
+        },
+        {
+            "source": {
+                "id": "85e5403407038478a5e7d8d100ff8e8f",
+                "name": "CP24 Toronto",
+                "url": "https://www.cp24.com"
+            },
+            "title": "U.S Vogue ad models created with AI",
+            "url": "https://www.cp24.com/news/entertainment/2025/07/31/your-favourite-model-thanks-to-ai-they-might-not-be-real/",
+            "urlToImage": "https://www.cp24.com/resizer/v2/ZXXHBVEHY5EDRMVGTHZT2N4WXY.JPG?smart=true&auth=bd07bdd99d45952411f307836243ba6eb2c12625918bfc3af59afa57e6dbd76c&width=1200&height=630",
+            "publishedAt": "2025-07-31T16:43:56Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -319,6 +352,15 @@
             "url": "https://www.cnbc.com/2025/07/30/metas-big-ai-spending-blitz-will-continue-into-2026-.html",
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/108039160-17272877402024-09-25t180630z_1748780285_rc2u7aaoq2mv_rtrmadp_0_meta-platforms-virtual-reality.jpeg?v=1753907044&w=1920&h=1080",
             "publishedAt": "2025-07-31T00:02:07Z"
+        },
+        {
+            "source": {
+                "name": "hackaday"
+            },
+            "title": "Rebooting WarGames‘ WOPR with a Pi and Gemini",
+            "url": "https://hackaday.com/2025/07/30/rebooting-wargames-wopr-with-a-pi-and-gemini/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2025/07/wopr-raspi-1200.jpg",
+            "publishedAt": "2025-07-31 05:00:43"
         },
         {
             "source": {
@@ -2912,42 +2954,6 @@
             "url": "https://www.thehindu.com/sci-tech/technology/cyberattack-on-russian-airline-aeroflot-causes-the-cancellation-of-more-than-100-flights/article69868709.ece",
             "urlToImage": "https://th-i.thgim.com/public/incoming/1e73x4/article69868715.ece/alternates/LANDSCAPE_1200/Russia_Airline_Cyberattack_21001.jpg",
             "publishedAt": "2025-07-29 09:17:24"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Stock Market Today: Nifty 50 Trades at Rs. 24,698.65, Smallcap Index Rises 123 Points",
-            "url": "https://www.analyticsinsight.net/stocks/stock-market-today-nifty-50-trades-at-rs-2469865-smallcap-index-rises-123-points",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-07-29%2Fa8jb4z8z%2FStock-Market-Today-Nifty-Ends-at-24698.65-Smallcap-Index-Rises-123-Points.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-07-29 09:02:14"
-        },
-        {
-            "source": {
-                "name": "phys"
-            },
-            "title": "Researchers create 'virtual scientists' to solve complex biological problems",
-            "url": "https://phys.org/news/2025-07-virtual-scientists-complex-biological-problems.html",
-            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2022/sars-cov-2-1.jpg",
-            "publishedAt": "2025-07-29 09:00:04"
-        },
-        {
-            "source": {
-                "name": "techtarget"
-            },
-            "title": "What is an IoT gateway?",
-            "url": "https://www.techtarget.com/iotagenda/definition/IoT-gateway",
-            "urlToImage": "https://cdn.ttgtmedia.com/rms/onlineimages/gillis_alex.jpg",
-            "publishedAt": "2025-07-29 09:00:00"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "Linux 6.16 brings faster file systems, improved confidential memory support, and more Rust support",
-            "url": "https://www.zdnet.com/article/linux-6-16-brings-faster-file-systems-improved-confidential-memory-support-and-more-rust-support/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/3692c87811ac4dd4286fd2277028464f771fa821/2025/07/29/0471fb51-c072-4d5f-8e1d-07c4715a79f2/gettyimages-1213543809.jpg?auto=webp&width=1280",
-            "publishedAt": "2025-07-29 08:40:13"
         }
     ]
 }
