@@ -1,6 +1,17 @@
 {
-    "lastUpdatedAt": "2025-07-31T06:26:20.429541Z",
+    "lastUpdatedAt": "2025-07-31T07:20:50.255549Z",
     "articles": [
+        {
+            "source": {
+                "id": "f6d6ee1134197fe1441d65a3e7915835",
+                "name": "Yahoo Singapore News",
+                "url": "https://sg.news.yahoo.com"
+            },
+            "title": "China summons chip giant Nvidia over alleged security risks",
+            "url": "https://sg.news.yahoo.com/china-summons-chip-giant-nvidia-065916626.html",
+            "urlToImage": "https://media.zenfs.com/en/afp.com.sg/8115896e236f3aeaefccc93d162eb0c4",
+            "publishedAt": "2025-07-31T06:59:16Z"
+        },
         {
             "source": {
                 "id": "6a3aad3dbb44ac873f72b594aaea22c4",
@@ -550,6 +561,24 @@
             "url": "https://www.newser.com/story/372669/nick-cave-rethinks-ai-after-unexpected-gift.html",
             "urlToImage": "https://img1-azrcdn.newser.com/image/1625074-12-20250729190220.jpeg",
             "publishedAt": "2025-07-30T00:02:20Z"
+        },
+        {
+            "source": {
+                "name": "newswise"
+            },
+            "title": "Researchers Map Where Solar Energy Delivers the Biggest Climate Payoff",
+            "url": "https://www.newswise.com/articles/researchers-map-where-solar-energy-delivers-the-biggest-climate-payoff/?sc=rssn",
+            "urlToImage": "https://www.newswise.com/legacy/image.php?height=334&image=%2Fimages%2Fuploads%2F2025%2F07%2F29%2F68891b6c7207d_AdobeStock248812956.jpeg&width=502",
+            "publishedAt": "2025-07-30 19:00:00"
+        },
+        {
+            "source": {
+                "name": "siliconangle"
+            },
+            "title": "Zuckerberg outlines Meta’s vision for AI superintelligence",
+            "url": "https://siliconangle.com/2025/07/30/zuckerberg-outlines-metas-vision-ai-superintelligence/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/10/47774197691_ef179b2c80_c-768x513.jpg",
+            "publishedAt": "2025-07-30 18:45:59"
         },
         {
             "source": {
@@ -2931,39 +2960,6 @@
             "url": "https://deadline.com/2025/07/bbc-news-ai-role-anjali-kapoor-meta-1236471995/",
             "urlToImage": "https://deadline.com/wp-content/uploads/2025/07/Anjali-Kapoor-e1753697635915.jpeg?w=1024",
             "publishedAt": "2025-07-28T10:15:45Z"
-        },
-        {
-            "source": {
-                "id": "6f4f13c21bb217801ab4b37c367f97aa",
-                "name": "CNET",
-                "url": "https://www.cnet.com"
-            },
-            "title": "Freezing Your Credit Is Free. Join Me in Taking This Important Cybersecurity Step",
-            "url": "https://www.cnet.com/tech/services-and-software/freezing-your-credit-is-free-join-me-in-taking-this-important-cybersecurity-step/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/e00ed5c7ffd678f99273529d7266738aa460ae2b/hub/2024/08/15/aed20bad-2718-4965-aed8-b80664243e1a/credit-freeze-padlock-00000.png?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-07-28T10:05:00Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com"
-            },
-            "title": "Shanghai's Bold AI Investment: 3 Billion Yuan CVC Fund",
-            "url": "https://www.devdiscourse.com/article/headlines/3519602-shanghais-bold-ai-investment-3-billion-yuan-cvc-fund",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/28_07_2025_09_10_30_0310572.png?width=920&format=jpeg",
-            "publishedAt": "2025-07-28T09:10:33Z"
-        },
-        {
-            "source": {
-                "id": "8da923084554b2821233d6c5c5f02c97",
-                "name": "Fox News",
-                "url": "https://www.foxnews.com"
-            },
-            "title": "America must win the AI race — and prepare for the worst",
-            "url": "https://www.foxnews.com/opinion/america-must-win-ai-race-prepare-worst",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/11/artificial-intelligence-trump-1.jpg",
-            "publishedAt": "2025-07-28T09:00:45Z"
         }
     ]
 }
