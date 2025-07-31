@@ -1,6 +1,28 @@
 {
-    "lastUpdatedAt": "2025-07-30T23:16:32.377131Z",
+    "lastUpdatedAt": "2025-07-31T01:22:41.446798Z",
     "articles": [
+        {
+            "source": {
+                "id": "79baacd62152cf257ee35e8c0bec19a2",
+                "name": "UPI News",
+                "url": "https://www.upi.com"
+            },
+            "title": "Goodwill Industries partners with Google for free AI training course",
+            "url": "https://www.upi.com/Top_News/US/2025/07/30/Google-partners-Goodwill-AI-skills-training/3621753917522/",
+            "urlToImage": "https://cdnph.upi.com/ph/st/th/3621753917522/2025/i/17539212109104/v1.5/Goodwill-Industries-partners-with-Google-for-free-AI-training-course.jpg?lg=5",
+            "publishedAt": "2025-07-31T00:35:27Z"
+        },
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com"
+            },
+            "title": "Meta's big AI spending blitz will continue into 2026",
+            "url": "https://www.cnbc.com/2025/07/30/metas-big-ai-spending-blitz-will-continue-into-2026-.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108039160-17272877402024-09-25t180630z_1748780285_rc2u7aaoq2mv_rtrmadp_0_meta-platforms-virtual-reality.jpeg?v=1753907044&w=1920&h=1080",
+            "publishedAt": "2025-07-31T00:02:07Z"
+        },
         {
             "source": {
                 "id": "17d7c2645f485578130862e0c8dd9480",
@@ -11,6 +33,17 @@
             "url": "https://www.mercurynews.com/2025/07/30/meta-stock-surges-after-q2-results-blow-past-expectations-despite-heavy-ai-spending/",
             "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/07/Earns_Meta_93720.jpg?w=1024&h=682",
             "publishedAt": "2025-07-30T22:25:52Z"
+        },
+        {
+            "source": {
+                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
+                "name": "The Associated Press",
+                "url": "https://apnews.com"
+            },
+            "title": "Trump pick moves closer to leading agency that protects election systems",
+            "url": "https://apnews.com/article/cisa-cybersecurity-elections-senate-confirmation-plankey-trump-8178049eafcdb5cf047fb5545746a3dd",
+            "urlToImage": "https://dims.apnews.com/dims4/default/3135b7b/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6b%2F21%2F1c958c748f98f0251eb839865abe%2Fc08c8a1fd5384334bbe102749f863858",
+            "publishedAt": "2025-07-30T21:44:38Z"
         },
         {
             "source": {
@@ -132,6 +165,17 @@
             "url": "https://techcrunch.com/2025/07/30/palo-alto-networks-agrees-to-buy-cyberark-for-25-billion/",
             "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2215666246.jpg?resize=1200,800",
             "publishedAt": "2025-07-30T18:38:29Z"
+        },
+        {
+            "source": {
+                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
+                "name": "The Associated Press",
+                "url": "https://apnews.com"
+            },
+            "title": "Palo Alto Networks buying CyberArk in cash-and-stock deal valued at about $25 billion",
+            "url": "https://apnews.com/article/palo-alto-cyberark-google-ai-fa24823831e0575ff611e695980c7714",
+            "urlToImage": "https://dims.apnews.com/dims4/default/69a49e9/2147483647/strip/true/crop/1017x572+0+53/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe6%2F4c%2F3a5ed70f44db6644bc8df7ef470c%2F3dbfa1c774ca4a2ab6d847c270113d2d",
+            "publishedAt": "2025-07-30T18:19:35Z"
         },
         {
             "source": {
@@ -451,6 +495,87 @@
             "url": "https://www.newser.com/story/372669/nick-cave-rethinks-ai-after-unexpected-gift.html",
             "urlToImage": "https://img1-azrcdn.newser.com/image/1625074-12-20250729190220.jpeg",
             "publishedAt": "2025-07-30T00:02:20Z"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Igniting Young Minds: SCRATCH & Pair Programming for Early CS Success",
+            "url": "https://hackernoon.com/igniting-young-minds-scratch-and-pair-programming-for-early-cs-success",
+            "urlToImage": "https://hackernoon.com/https://cdn.hackernoon.com/images/kids-surrounded-by-a-retro-computer-sketch-color-yx1xpinm4pa609y6wdifjpic.png",
+            "publishedAt": "2025-07-30 13:15:06"
+        },
+        {
+            "source": {
+                "name": "futurism"
+            },
+            "title": "OpenAI's ChatGPT Agent Clicks \"I Am Not a Robot\" Button Without a Wink of Irony",
+            "url": "https://futurism.com/chatgpt-agent-captcha",
+            "urlToImage": "https://wordpress-assets.futurism.com/2025/07/chatgpt-agent-captcha.jpg",
+            "publishedAt": "2025-07-30 13:11:54"
+        },
+        {
+            "source": {
+                "name": "venturebeat"
+            },
+            "title": "Runloop lands $7M to power AI coding agents with cloud-based devboxes",
+            "url": "https://venturebeat.com/ai/runloop-lands-7m-to-power-ai-coding-agents-with-cloud-based-devboxes/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/07/nuneybits_Vector_art_of_cloud_servers_deploying_code_automatica_b0e58145-92c2-4171-89df-611e721fcba7.webp?w=750",
+            "publishedAt": "2025-07-30 13:01:00"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Transforming Programming Education: Gender-Sensitive Pair Programming Insights",
+            "url": "https://hackernoon.com/transforming-programming-education-gender-sensitive-pair-programming-insights",
+            "urlToImage": "https://hackernoon.com/https://cdn.hackernoon.com/images/blue-and-pink-motherboards-ivsf6o0lw2tiuqhkozdsxiwh.png",
+            "publishedAt": "2025-07-30 13:00:11"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Optimizing NFT Experiences: Insights from Performance & Usability Studies",
+            "url": "https://hackernoon.com/optimizing-nft-experiences-insights-from-performance-and-usability-studies",
+            "urlToImage": "https://hackernoon.com/https://cdn.hackernoon.com/images/an-art-museum-waterpaint-oho0z2wtky82pty2kumclx0s.png",
+            "publishedAt": "2025-07-30 13:00:03"
+        },
+        {
+            "source": {
+                "name": "thelincolnianonline"
+            },
+            "title": "Reviewing 3D Systems (NYSE:DDD) & Research Solutions (NASDAQ:RSSS)",
+            "url": "https://www.thelincolnianonline.com/2025/07/30/reviewing-3d-systems-nyseddd-research-solutions-nasdaqrsss.html",
+            "urlToImage": "https://www.marketbeat.com/logos/research-solutions-inc-logo-1200x675.jpg?v=20240607142026",
+            "publishedAt": "2025-07-30 12:54:55"
+        },
+        {
+            "source": {
+                "name": "livemint"
+            },
+            "title": "India taps AI, ML to modernize national surveys, cut data delays, says minister",
+            "url": "https://www.livemint.com/ai/artificial-intelligence/india-taps-ai-ml-to-modernize-national-surveys-cut-data-delays-says-minister-11753877193806.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2025/07/30/1600x900/AI_1753878676747_1753878676996.jpg",
+            "publishedAt": "2025-07-30 12:46:20"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "10 ways true Linux power users get more out of the world's best OS",
+            "url": "https://www.zdnet.com/article/10-ways-true-linux-power-users-get-more-out-of-the-worlds-best-os/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/eb0a97b3d27d4780cb6f9bf9ab1a2227ffe9ab2a/2025/07/30/c6f1d538-1fe9-4b6c-a3d4-92d54d909fd0/gettyimages-828266820.jpg?auto=webp&width=1280",
+            "publishedAt": "2025-07-30 12:35:55"
+        },
+        {
+            "source": {
+                "name": "macsources"
+            },
+            "title": "Facebook Parent Meta Expands AI Voice Offerings with Purchase of PlayAI",
+            "url": "https://macsources.com/facebook-parent-meta-expands-ai-voice-offerings-with-purchase-of-playai/",
+            "urlToImage": "https://macsources.com/wp-content/uploads/2025/07/001a-Meta-PlayAI-Jul25-1280x720.jpg",
+            "publishedAt": "2025-07-30 12:20:43"
         },
         {
             "source": {
@@ -2845,123 +2970,6 @@
             "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-drop-test-supports-safer-air-taxi-design-and-certification/",
             "urlToImage": "https://images-assets.nasa.gov/image/LRC-2025-OCIO_P-01841/LRC-2025-OCIO_P-01841~large.jpg?crop=faces%2Cfocalpoint&fit=clip&h=1279&w=1920",
             "publishedAt": "2025-07-28 17:19:58"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Generating Emotions - The Future of Art, or Just Mimics of Expression?",
-            "url": "https://hackernoon.com/generating-emotions-the-future-of-art-or-just-mimics-of-expression",
-            "urlToImage": "https://hackernoon.com/https://cdn.hackernoon.com/images/Znlcl8NNXjfpUWlNisWs7cZ7FXE2-cb13ffk.png",
-            "publishedAt": "2025-07-28 17:12:40"
-        },
-        {
-            "source": {
-                "name": "newscientist"
-            },
-            "title": "We may be able to share quantum entanglement nearly infinitely",
-            "url": "https://www.newscientist.com/article/2490038-we-may-be-able-to-share-quantum-entanglement-nearly-infinitely/",
-            "urlToImage": "https://images.newscientist.com/wp-content/uploads/2025/07/28143913/SEI_260416648.jpg",
-            "publishedAt": "2025-07-28 17:00:56"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "Microsoft wants you to chat with its browser now - but can you trust this Copilot?",
-            "url": "https://www.zdnet.com/article/microsoft-wants-you-to-chat-with-its-browser-now-but-can-you-trust-this-copilot/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/5faf522aeda5a3cd5461b63ec4ee47de732eb611/2025/07/28/f2f5ac1a-ee79-4199-b0bf-ddf734415d39/microsoft-gives-its-edge-browser-an-ai-boost-but-can-you-trust-it.jpg?auto=webp&width=1280",
-            "publishedAt": "2025-07-28 17:00:17"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "Shelter Dog’s ‘Superman’ Cameo Leads To Adoptions Of Other Super Dogs",
-            "url": "https://www.forbes.com/sites/jenreeder/2025/07/28/shelter-dogs-superman-cameo-leads-to-adoptions-of-other-super-dogs/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6887a6aea68634a10353ad67/0x0.jpg?width=960",
-            "publishedAt": "2025-07-28 16:56:54"
-        },
-        {
-            "source": {
-                "name": "kdhnews"
-            },
-            "title": "Cyberattack on Russian airline Aeroflot causes the cancellation of more than 100 flights",
-            "url": "https://kdhnews.com/business/technology/cyberattack-on-russian-airline-aeroflot-causes-the-cancellation-of-more-than-100-flights/article_7b1a8984-efdc-5681-b56f-4abc19353aae.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/assets/v3/editorial/b/89/b89b9e27-cdb4-5d10-9e20-265aa527b096/68879c5e3ab8b.image.jpg?resize=781%2C500",
-            "publishedAt": "2025-07-28 16:42:26"
-        },
-        {
-            "source": {
-                "name": "phys"
-            },
-            "title": "Physicists show tensor mesons play important role in light-on-light scattering",
-            "url": "https://phys.org/news/2025-07-physicists-tensor-mesons-play-important.html",
-            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2025/when-light-collides-wi.jpg",
-            "publishedAt": "2025-07-28 16:40:08"
-        },
-        {
-            "source": {
-                "name": "thurrott"
-            },
-            "title": "Review: Apple in China by Patrick McGee",
-            "url": "https://www.thurrott.com/apple/323895/review-apple-in-china-by-patrick-mcgee",
-            "urlToImage": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2025/07/apple-in-china.jpg",
-            "publishedAt": "2025-07-28 16:36:24"
-        },
-        {
-            "source": {
-                "name": "phys"
-            },
-            "title": "A company says it could turn mercury into gold using nuclear fusion. Can we take this claim seriously?",
-            "url": "https://phys.org/news/2025-07-company-mercury-gold-nuclear-fusion.html",
-            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2022/gold-nugget.jpg",
-            "publishedAt": "2025-07-28 16:33:04"
-        },
-        {
-            "source": {
-                "name": "greeleytribune"
-            },
-            "title": "Cyberattack on Russian airline Aeroflot causes the cancellation of more than 100 flights",
-            "url": "https://www.greeleytribune.com/2025/07/28/russia-airline-cyberattack/",
-            "urlToImage": "https://www.greeleytribune.com/wp-content/uploads/2025/07/Russia_Airline_Cyberattack_10958.jpg?strip=all&w=1400px",
-            "publishedAt": "2025-07-28 16:28:17"
-        },
-        {
-            "source": {
-                "name": "reporterherald"
-            },
-            "title": "Cyberattack on Russian airline Aeroflot causes the cancellation of more than 100 flights",
-            "url": "https://www.reporterherald.com/2025/07/28/russia-airline-cyberattack/",
-            "urlToImage": "https://www.reporterherald.com/wp-content/uploads/2025/07/Russia_Airline_Cyberattack_10958.jpg?strip=all&w=1400px",
-            "publishedAt": "2025-07-28 16:28:17"
-        },
-        {
-            "source": {
-                "name": "bostonherald"
-            },
-            "title": "Cyberattack on Russian airline Aeroflot causes the cancellation of more than 100 flights",
-            "url": "https://www.bostonherald.com/2025/07/28/russia-airline-cyberattack/",
-            "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/07/Russia_Airline_Cyberattack_10958.jpg?strip=all&w=1400px",
-            "publishedAt": "2025-07-28 16:28:17"
-        },
-        {
-            "source": {
-                "name": "canoncitydailyrecord"
-            },
-            "title": "Cyberattack on Russian airline Aeroflot causes the cancellation of more than 100 flights",
-            "url": "https://www.canoncitydailyrecord.com/2025/07/28/russia-airline-cyberattack/",
-            "urlToImage": "https://www.canoncitydailyrecord.com/wp-content/uploads/2025/07/Russia_Airline_Cyberattack_10958.jpg?strip=all&w=1400px",
-            "publishedAt": "2025-07-28 16:28:17"
-        },
-        {
-            "source": {
-                "name": "agsiw_org"
-            },
-            "title": "AI and the U.S.-Gulf Tech Axis",
-            "url": "https://agsi.org/analysis/ai-and-the-u-s-gulf-tech-axis/",
-            "urlToImage": "https://agsi.org/wp-content/uploads/2025/07/AP25204798278743-scaled.jpg",
-            "publishedAt": "2025-07-28 16:20:40"
         }
     ]
 }
