@@ -1,6 +1,28 @@
 {
-    "lastUpdatedAt": "2025-08-01T15:18:07.519064Z",
+    "lastUpdatedAt": "2025-08-01T16:21:25.105486Z",
     "articles": [
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com"
+            },
+            "title": "Palantir lands $10 billion Army software and data contract",
+            "url": "https://www.cnbc.com/2025/08/01/palantir-lands-10-billion-army-software-and-data-contract.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108170224-1752159052051-9KQgL0_i.jpg?v=1752159162&w=1920&h=1080",
+            "publishedAt": "2025-08-01T15:49:52Z"
+        },
+        {
+            "source": {
+                "id": "f6d6ee1134197fe1441d65a3e7915835",
+                "name": "Yahoo Singapore News",
+                "url": "https://sg.news.yahoo.com"
+            },
+            "title": "US government turmoil stalls thousands of export approvals, sources say",
+            "url": "https://sg.news.yahoo.com/us-government-turmoil-stalls-thousands-152237955.html",
+            "urlToImage": "https://media.zenfs.com/en/reuters.com/83c0329baecb191e46bc1b3c2dd75ceb",
+            "publishedAt": "2025-08-01T15:22:37Z"
+        },
         {
             "source": {
                 "id": "19d1f502a5658ccbfaaa50f77b89993f",
@@ -201,6 +223,33 @@
         },
         {
             "source": {
+                "name": "thehindu"
+            },
+            "title": "Amazon, Apple, Meta and Microsoft earnings rise on AI as economy roils",
+            "url": "https://www.thehindu.com/sci-tech/technology/amazon-apple-meta-and-microsoft-earnings-rise-on-ai-as-economy-roils/article69881288.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/b2u17s/article69881294.ece/alternates/LANDSCAPE_1200/Financial_Markets_Wall_Street_97562.jpg",
+            "publishedAt": "2025-08-01 04:17:01"
+        },
+        {
+            "source": {
+                "name": "thehindu"
+            },
+            "title": "Amazon profits surge 35% but forecast sinks share price",
+            "url": "https://www.thehindu.com/sci-tech/technology/amazon-profits-surge-35-but-forecast-sinks-share-price/article69881297.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/ojhdvd/article69881302.ece/alternates/LANDSCAPE_1200/2025-07-29T140229Z_1742183656_RC2LSCAXQ5DZ_RTRMADP_3_AMAZON-COM-LAWSUIT-RICE.JPG",
+            "publishedAt": "2025-08-01 03:43:17"
+        },
+        {
+            "source": {
+                "name": "thehindu"
+            },
+            "title": "Microsoft valuation surges above $4 trillion as AI lifts stocks",
+            "url": "https://www.thehindu.com/sci-tech/technology/microsoft-valuation-surges-above-4-trillion-as-ai-lifts-stocks/article69881308.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/s6yxy9/article69881309.ece/alternates/LANDSCAPE_1200/2025-07-30T163530Z_1113338023_RC24V7ARRBTW_RTRMADP_3_MICROSOFT-RESULTS.JPG",
+            "publishedAt": "2025-08-01 03:24:40"
+        },
+        {
+            "source": {
                 "name": "zdnet"
             },
             "title": "Microsoft Authenticator won't manage your passwords anymore - or most passkeys",
@@ -234,6 +283,15 @@
             "url": "https://www.forbes.com/sites/chuckbrooks/2025/07/31/the-growing-impact-of-ai-and-quantum-on-cybersecurity/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/62d84c7e21cae0611839dc3e/0x0.jpg?width=960",
             "publishedAt": "2025-08-01 00:47:15"
+        },
+        {
+            "source": {
+                "name": "financialcontent"
+            },
+            "title": "Unisys (UIS) Q2 Revenue Beats by 9%",
+            "url": "https://www.fool.com/data-news/2025/08/01/unisys-uis-q2-revenue-beats-by-9/",
+            "urlToImage": "https://g.foolcdn.com/image/?h=400&op=resize&url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F2e67fde4d458002cf59f26acf09dd58f97b62ce0-1024x1024.png&w=400",
+            "publishedAt": "2025-08-01 00:00:00"
         },
         {
             "source": {
@@ -2854,64 +2912,6 @@
             "url": "https://www.thehindu.com/sci-tech/technology/microsoft-hit-with-opera-complaint-to-brazilian-antitrust-regulator/article69872106.ece",
             "urlToImage": "https://th-i.thgim.com/public/incoming/2d63w4/article69872108.ece/alternates/LANDSCAPE_1200/Microsoft_Outlook_Outage_97588.jpg",
             "publishedAt": "2025-07-30 03:28:09"
-        },
-        {
-            "source": {
-                "name": "computerweekly"
-            },
-            "title": "Industry experts warn crypto infrastructure is ‘creaking’",
-            "url": "https://www.computerweekly.com/news/366628242/Industry-experts-warn-crypto-infrastructure-is-creaking",
-            "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/HeroImages/data-security-privacy-key-encryption-wigglestick-adobe_searchsitetablet_520X173.jpg",
-            "publishedAt": "2025-07-30 03:12:00"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "Happy 10th birthday, Windows 10! Hoo boy, it's been a journey",
-            "url": "https://www.zdnet.com/article/happy-10th-birthday-windows-10-hoo-boy-its-been-a-journey/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/d6a7c372a67d63841f9dbcb9e13be014dfc2f4d5/2025/07/30/54108dc5-0d10-46e1-8705-a59e2f05fc5d/gettyimages-491550266.jpg?auto=webp&width=1280",
-            "publishedAt": "2025-07-30 02:00:24"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "NiCE’s $955M Cognigy Deal Targets $30B AI Customer Experience Opportunity",
-            "url": "https://www.forbes.com/sites/maribellopez/2025/07/29/nices-955m-cognigy-deal-targets-30b-ai-customer-experience-opportunity/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/688971f917ebbda16557b53c/0x0.jpg?width=960",
-            "publishedAt": "2025-07-30 01:23:55"
-        },
-        {
-            "source": {
-                "name": "techtarget"
-            },
-            "title": "9 common risk management failures and how to avoid them",
-            "url": "https://www.techtarget.com/searchcio/feature/9-common-risk-management-failures-and-how-to-avoid-them",
-            "urlToImage": "https://www.techtarget.com/rms/onlineImages/morgan_lisa.jpg",
-            "publishedAt": "2025-07-30 00:00:00"
-        },
-        {
-            "source": {
-                "id": "b669a363e34e1a8211e6f2cd9c5420a4",
-                "name": "VentureBeat",
-                "url": "https://venturebeat.com"
-            },
-            "title": "AI vs. AI: Prophet Security raises $30M to replace human analysts with autonomous defenders",
-            "url": "https://venturebeat.com/ai/ai-vs-ai-prophet-security-raises-30m-to-replace-human-analysts-with-autonomous-defenders/",
-            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/07/nuneybits_Vector_art_of_Spy_vs._Spy_cybersecurity_2f5b0a74-5010-45e9-98be-8837077e3251.webp?w=857?w=1200&strip=all",
-            "publishedAt": "2025-07-29T21:39:24Z"
-        },
-        {
-            "source": {
-                "id": "3a3847d645a619320aa3b3484581e395",
-                "name": "CBS News",
-                "url": "https://www.cbsnews.com"
-            },
-            "title": "YouTube to roll out new AI-powered technology aimed at identifying teen users",
-            "url": "https://www.cbsnews.com/news/youtube-ai-powered-technology-teen-users/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/07/29/0f2ad34f-e977-46c9-a4a7-de8db9113d6c/thumbnail/1200x630/f8973259f1d593a73db291d815e9b66b/gettyimages-1200731050.jpg",
-            "publishedAt": "2025-07-29T20:04:24Z"
         }
     ]
 }
