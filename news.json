@@ -1,6 +1,28 @@
 {
-    "lastUpdatedAt": "2025-08-01T16:21:25.105486Z",
+    "lastUpdatedAt": "2025-08-01T17:18:11.797168Z",
     "articles": [
+        {
+            "source": {
+                "id": "8da923084554b2821233d6c5c5f02c97",
+                "name": "Fox News",
+                "url": "https://www.foxnews.com"
+            },
+            "title": "New documents expose how Democrats invented Trump-Russia hoax claims",
+            "url": "https://www.foxnews.com/opinion/david-marcus-russia-hoax-simple-democrats-lied-half-country-believed-them",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/05/tulsi-gabbard.png",
+            "publishedAt": "2025-08-01T16:35:31Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net"
+            },
+            "title": "Amazon profits surge 35 percent",
+            "url": "https://www.manilatimes.net/2025/08/02/business/foreign-business/amazon-profits-surge-35-percent/2160860",
+            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+            "publishedAt": "2025-08-01T16:19:00Z"
+        },
         {
             "source": {
                 "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
@@ -220,6 +242,24 @@
             "url": "https://apnews.com/article/apple-earnings-quarter-iphone-tariffs-de927c8c1baaf70418e2261ae5b494f2",
             "urlToImage": "https://dims.apnews.com/dims4/default/cf0e312/2147483647/strip/true/crop/6000x3375+0+112/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd1%2F13%2F3485fb41c0e909034213f15b217c%2F57fa2e708c3142b99e9322fc70bbcfd8",
             "publishedAt": "2025-08-01T00:51:43Z"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Why the Next DAO Isn’t an Organization — It’s an Organism",
+            "url": "https://hackernoon.com/why-the-next-dao-isnt-an-organization-its-an-organism",
+            "urlToImage": "https://hackernoon.com/https://cdn.hackernoon.com/images/YRKJpx0LRSXTic0gGjOK6k5Zgyi1-wq03evd.jpeg",
+            "publishedAt": "2025-08-01 05:01:36"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "Google Pixel 10 vs. Pixel 9: Biggest rumored upgrades",
+            "url": "https://www.tomsguide.com/phones/google-pixel-phones/google-pixel-10-vs-pixel-9",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/npH9ucunHQdDjNWJ7hWk7U-1280-80.png",
+            "publishedAt": "2025-08-01 05:01:00"
         },
         {
             "source": {
@@ -2876,42 +2916,6 @@
             "url": "https://www.thehindu.com/sci-tech/technology/microsofts-ai-edge-under-scrutiny-as-openai-turns-to-rivals-for-cloud-services/article69872170.ece",
             "urlToImage": "https://th-i.thgim.com/public/incoming/r7bxlj/article69872188.ece/alternates/LANDSCAPE_1200/2025-07-24T041538Z_218846491_RC29TY9VVWL1_RTRMADP_3_MICROSOFT-CYBERATTACK.JPG",
             "publishedAt": "2025-07-30 04:22:20"
-        },
-        {
-            "source": {
-                "name": "computerweekly"
-            },
-            "title": "International AI Alignment effort tackles unpredictability",
-            "url": "https://www.computerweekly.com/news/366628128/International-AI-Alignment-effort-tackles-unpredictability",
-            "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero%20Images/technology-digital-ai-binary-adobe_searchsitetablet_520X173.jpg",
-            "publishedAt": "2025-07-30 04:00:00"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Top Dell Business Laptops to Buy in 2025",
-            "url": "https://www.analyticsinsight.net/gadgets/top-dell-business-laptops-to-buy-in-2025",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-07-29%2F2y68r58t%2FTop-Dell-Business-Laptops-in-2025.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-07-30 04:00:00"
-        },
-        {
-            "source": {
-                "name": "mit"
-            },
-            "title": "New algorithms enable efficient machine learning with symmetric data",
-            "url": "https://news.mit.edu/2025/new-algorithms-enable-efficient-machine-learning-with-symmetric-data-0730",
-            "urlToImage": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202507/MIT_Learning-Symmetric-01.jpg?itok=jTPWN5G8",
-            "publishedAt": "2025-07-30 04:00:00"
-        },
-        {
-            "source": {
-                "name": "thehindu"
-            },
-            "title": "Microsoft hit with Opera complaint to Brazilian antitrust regulator",
-            "url": "https://www.thehindu.com/sci-tech/technology/microsoft-hit-with-opera-complaint-to-brazilian-antitrust-regulator/article69872106.ece",
-            "urlToImage": "https://th-i.thgim.com/public/incoming/2d63w4/article69872108.ece/alternates/LANDSCAPE_1200/Microsoft_Outlook_Outage_97588.jpg",
-            "publishedAt": "2025-07-30 03:28:09"
         }
     ]
 }
