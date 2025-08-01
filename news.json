@@ -1,6 +1,39 @@
 {
-    "lastUpdatedAt": "2025-08-01T10:18:28.132989Z",
+    "lastUpdatedAt": "2025-08-01T11:14:27.436699Z",
     "articles": [
+        {
+            "source": {
+                "id": "f6d6ee1134197fe1441d65a3e7915835",
+                "name": "Yahoo Singapore News",
+                "url": "https://sg.news.yahoo.com"
+            },
+            "title": "China state media says Nvidia must provide 'security proofs' to regain trust",
+            "url": "https://sg.news.yahoo.com/china-state-media-says-nvidia-105200639.html",
+            "urlToImage": "https://media.zenfs.com/en/reuters.com/6f71d70e19052bcd5f0a29654a2e20c5",
+            "publishedAt": "2025-08-01T10:52:00Z"
+        },
+        {
+            "source": {
+                "id": "f5081afeaba654292dd91fffd29f9dd4",
+                "name": "The Globe and Mail",
+                "url": "https://www.theglobeandmail.com"
+            },
+            "title": "Apple shares rise after strong quarterly results amid tariff woes, competition",
+            "url": "https://www.theglobeandmail.com/investing/article-apple-shares-rise-after-strong-quarterly-results-amid-tariff-woes/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/v2/5BMMA43Y3FF3PPCHLO3NGPO3TE.JPG?auth=4c4e635f6fc764ac55a60ac0e70001b163783e39ad65bc7503289964cf7b0e6a&width=1200&height=800&quality=80&smart=true",
+            "publishedAt": "2025-08-01T10:36:08Z"
+        },
+        {
+            "source": {
+                "id": "f6d6ee1134197fe1441d65a3e7915835",
+                "name": "Yahoo Singapore News",
+                "url": "https://sg.news.yahoo.com"
+            },
+            "title": "Microsoft launches AI accelerator to help firms develop agentic AI road maps",
+            "url": "https://sg.news.yahoo.com/microsoft-launches-ai-accelerator-help-100500078.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/PFwOtMQn_vbxstWYDrdsHQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/straits_times_442/af68ecf9e6001715acc20b09852db5c4",
+            "publishedAt": "2025-08-01T10:05:00Z"
+        },
         {
             "source": {
                 "id": "bce8b9fcd331f3552e3dcf603b83b80e",
@@ -572,6 +605,33 @@
             "url": "https://www.cnbc.com/2025/07/30/metas-big-ai-spending-blitz-will-continue-into-2026-.html",
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/108039160-17272877402024-09-25t180630z_1748780285_rc2u7aaoq2mv_rtrmadp_0_meta-platforms-virtual-reality.jpeg?v=1753907044&w=1920&h=1080",
             "publishedAt": "2025-07-31T00:02:07Z"
+        },
+        {
+            "source": {
+                "name": "phys"
+            },
+            "title": "New AI tool illuminates 'dark side' of the human genome",
+            "url": "https://phys.org/news/2025-07-ai-tool-illuminates-dark-side.html",
+            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2025/new-ai-tool-illuminate-1.jpg",
+            "publishedAt": "2025-07-31 23:00:01"
+        },
+        {
+            "source": {
+                "name": "newswise"
+            },
+            "title": "In the Field: UW Researchers Bound for Alaska's Earthquake-Impacted Marshlands",
+            "url": "https://www.newswise.com/articles/in-the-field-uw-researchers-bound-for-alaska-s-earthquake-impacted-marshlands/?sc=rssn",
+            "urlToImage": "https://www.newswise.com/legacy/image.php?height=334&image=%2Fimages%2Fuploads%2F2025%2F07%2F31%2F688ba0893ed89_IMG5428.jpg&width=502",
+            "publishedAt": "2025-07-31 22:30:48"
+        },
+        {
+            "source": {
+                "name": "ibtimes"
+            },
+            "title": "Amazon Profits Surge 35% But Forecast Sinks Share Price",
+            "url": "https://www.ibtimes.com/amazon-profits-surge-35-forecast-sinks-share-price-3779950",
+            "urlToImage": "https://d.ibtimes.com/en/full/4613929/amazon-reports-surge-quarterly-profits-saying-investments-artificial-intelligence-have-begun.jpg",
+            "publishedAt": "2025-07-31 22:18:13"
         },
         {
             "source": {
@@ -2862,72 +2922,6 @@
             "url": "https://www.wltx.com/article/news/local/mn-national-guard-deployed-st-paul-declares-state-of-emergency-in-response-to-cyberattack/89-e8ce8c3f-7ad6-43f6-8e22-af62c6392e2d",
             "urlToImage": "https://media.wltx.com/assets/KARE/images/0820bb23-c734-41e0-b06b-d7d0d9b0210f/0820bb23-c734-41e0-b06b-d7d0d9b0210f_1140x641.jpg",
             "publishedAt": "2025-07-29T17:13:13Z"
-        },
-        {
-            "source": {
-                "id": "5b07f2eba74fc799fd5d1ee46c5bafc3",
-                "name": "Newsweek",
-                "url": "https://www.newsweek.com"
-            },
-            "title": "One Third of Americans Are Now Heavy AI Users",
-            "url": "https://www.newsweek.com/one-third-americans-are-now-heavy-ai-users-2105748",
-            "urlToImage": "https://d.newsweek.com/en/full/2692444/chatgpt.jpg",
-            "publishedAt": "2025-07-29T16:25:03Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net"
-            },
-            "title": "​Global firms seek to enter China’s AI ecosystem",
-            "url": "https://www.manilatimes.net/2025/07/30/business/foreign-business/global-firms-seek-to-enter-chinas-ai-ecosystem/2157886",
-            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-            "publishedAt": "2025-07-29T16:16:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net"
-            },
-            "title": "Haier eyes smart manufacturing with AI",
-            "url": "https://www.manilatimes.net/2025/07/30/business/foreign-business/haier-eyes-smart-manufacturing-with-ai/2157884",
-            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-            "publishedAt": "2025-07-29T16:14:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net"
-            },
-            "title": "​Robotics firms to enhance global footprint",
-            "url": "https://www.manilatimes.net/2025/07/30/business/foreign-business/robotics-firms-to-enhance-global-footprint/2157883",
-            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-            "publishedAt": "2025-07-29T16:13:00Z"
-        },
-        {
-            "source": {
-                "id": "51aadd014176eb61b32255e2791b7207",
-                "name": "Newser",
-                "url": "https://www.newser.com"
-            },
-            "title": "One City's Huge New AI Data Center Will Be a 'Game Changer'",
-            "url": "https://www.newser.com/story/372611/ai-data-center-to-use-more-power-than-every-home-in-the-state.html",
-            "urlToImage": "https://img1-azrcdn.newser.com/image/1624930-12-20250729064432.jpeg",
-            "publishedAt": "2025-07-29T16:03:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net"
-            },
-            "title": "AIR Summit 2025: Where AI powers the next wave of innovation",
-            "url": "https://www.manilatimes.net/2025/07/30/tmt-newswire/air-summit-2025-where-ai-powers-the-next-wave-of-innovation/2158154",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/07/29/693451.jpg",
-            "publishedAt": "2025-07-29T16:02:00Z"
         }
     ]
 }
