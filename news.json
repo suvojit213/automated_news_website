@@ -1,6 +1,17 @@
 {
-    "lastUpdatedAt": "2025-08-01T20:18:15.995704Z",
+    "lastUpdatedAt": "2025-08-01T21:15:48.758983Z",
     "articles": [
+        {
+            "source": {
+                "id": "51aadd014176eb61b32255e2791b7207",
+                "name": "Newser",
+                "url": "https://www.newser.com"
+            },
+            "title": "Bidding Wars for AI's Top Talent Would Make an NBA Star Blush",
+            "url": "https://www.newser.com/story/372846/ai-talent-wars-heat-up-with-nba-level-pay-packages.html",
+            "urlToImage": "https://img1-azrcdn.newser.com/image/1625736-12-20250801095401.jpeg",
+            "publishedAt": "2025-08-01T19:16:00Z"
+        },
         {
             "source": {
                 "id": "95a96a1867c4dac6f720e9d08d4c1b96",
@@ -308,6 +319,60 @@
             "url": "https://apnews.com/article/apple-earnings-quarter-iphone-tariffs-de927c8c1baaf70418e2261ae5b494f2",
             "urlToImage": "https://dims.apnews.com/dims4/default/cf0e312/2147483647/strip/true/crop/6000x3375+0+112/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd1%2F13%2F3485fb41c0e909034213f15b217c%2F57fa2e708c3142b99e9322fc70bbcfd8",
             "publishedAt": "2025-08-01T00:51:43Z"
+        },
+        {
+            "source": {
+                "name": "zephyrnet"
+            },
+            "title": "Enhance Your LLMs Using Gradio’s MCP Server Technology",
+            "url": "https://zephyrnet.com/enhance-your-llms-using-gradios-mcp-server-technology/",
+            "urlToImage": "https://zephyrnet.com/wp-content/uploads/img-rraOZXpSjE2sT6wsMdG3DQgX.png",
+            "publishedAt": "2025-08-01 09:04:01"
+        },
+        {
+            "source": {
+                "name": "engadget"
+            },
+            "title": "The best iPad cases for 2025",
+            "url": "https://www.engadget.com/computing/accessories/best-ipad-cases-to-protect-your-tablet-130033533.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/dqK3em0b.a2J.XtteZ3QCQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://s.yimg.com/os/creatr-uploaded-images/2024-12/b8a8b6d0-bd2c-11ef-bffa-3bbae91fc288",
+            "publishedAt": "2025-08-01 09:01:26"
+        },
+        {
+            "source": {
+                "name": "computerweekly"
+            },
+            "title": "What is the artificial intelligence of things (AIoT)?",
+            "url": "https://www.techtarget.com/iotagenda/definition/Artificial-Intelligence-of-Things-AIoT",
+            "urlToImage": "https://www.techtarget.com/rms/onlineimages/cloud_based_implementation_of_aiot_architecture-f_mobile.png",
+            "publishedAt": "2025-08-01 09:00:00"
+        },
+        {
+            "source": {
+                "name": "expresscomputer"
+            },
+            "title": "Agentic AI and the Illusion of Autonomy",
+            "url": "https://www.expresscomputer.in/guest-blogs/agentic-ai-and-the-illusion-of-autonomy/126741/",
+            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2025/08/01171451/EC_Anurag_Vohra_750.jpg",
+            "publishedAt": "2025-08-01 08:44:05"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "The Inference Difference: Why Clunky Data Engineering Unhinges AI",
+            "url": "https://www.forbes.com/sites/adrianbridgwater/2025/08/01/the-inference-difference-why-clunky-data-engineering-unhinges-ai/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6889db520c14bc309051ad7e/0x0.jpg?width=960",
+            "publishedAt": "2025-08-01 08:32:10"
+        },
+        {
+            "source": {
+                "name": "thelincolnianonline"
+            },
+            "title": "Comparing Datalex (OTCMKTS:DLEXY) & Hewlett Packard Enterprise (NYSE:HPE)",
+            "url": "https://www.thelincolnianonline.com/2025/08/01/comparing-datalex-otcmktsdlexy-hewlett-packard-enterprise-nysehpe.html",
+            "urlToImage": "https://www.marketbeat.com/logos/datalex-plc-logo-1200x675.png?v=20221222122615",
+            "publishedAt": "2025-08-01 08:22:57"
         },
         {
             "source": {
@@ -2865,69 +2930,6 @@
             "url": "https://www.computerweekly.com/news/366627971/5G-standalone-adoption-accelerates-mobile-core-network-market",
             "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/HeroImages/T-Mobile-5G-Advanced-mast-PR-hero_searchsitetablet_520X173.jpg",
             "publishedAt": "2025-07-30 11:00:00"
-        },
-        {
-            "source": {
-                "name": "computerweekly"
-            },
-            "title": "What is data in use?",
-            "url": "https://www.techtarget.com/whatis/definition/data-in-use",
-            "urlToImage": "https://www.techtarget.com/rms/onlineimages/whatis-states_of_digital_data_mobile.png",
-            "publishedAt": "2025-07-30 11:00:00"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "Forget the iPad mini — this 9-inch OLED Android tablet is way better for gaming",
-            "url": "https://www.tomsguide.com/computing/android-tablets/forget-the-ipad-mini-this-9-inch-oled-android-tablet-is-way-better-for-gaming",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/zybkRYeHfMuExoQycwsdie-1280-80.jpg",
-            "publishedAt": "2025-07-30 11:00:00"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "MetaOptics Ltd Lodges Preliminary Offer Document for Catalist Listing on the SGX-ST",
-            "url": "https://www.prnewswire.com/news-releases/metaoptics-ltd-lodges-preliminary-offer-document-for-catalist-listing-on-the-sgx-st-302516994.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2739018/image_5010221_26028784.jpg?p=original",
-            "publishedAt": "2025-07-30 10:33:00"
-        },
-        {
-            "source": {
-                "name": "winonadailynews"
-            },
-            "title": "The appeal of simpler tech in modern times - Chris Hardie",
-            "url": "https://winonadailynews.com/life-entertainment/local/article_fa3399a7-81bd-5e16-843c-501ec2aa2574.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/winonadailynews.com/content/tncms/assets/v3/editorial/f/a3/fa3399a7-81bd-5e16-843c-501ec2aa2574/6889a9538c0a0.preview.jpg?crop=255%2C254%2C130%2C82&order=crop%2Cresize&resize=200%2C200",
-            "publishedAt": "2025-07-30 10:30:00"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "Hyperscale Data Clarifies $XRP Acquisitions to Remain on Company Balance Sheet",
-            "url": "https://www.prnewswire.com/news-releases/hyperscale-data-clarifies-xrp-acquisitions-to-remain-on-company-balance-sheet-302517009.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2734592/Hyperscale_Data_Inc_Blue_Stacked_Logo.jpg?p=original",
-            "publishedAt": "2025-07-30 10:30:00"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Keysight Installs World’s Largest Commercial Quantum Control System at AIST’s Leading-Edge G-QuAT Center",
-            "url": "https://www.analyticsinsight.net/press-release/keysight-installs-worlds-largest-commercial-quantum-control-system-at-aists-leading-edge-g-quat-center",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-07-30%2Fir57p24q%2FKeysight-Installs-Worlds-Largest-Commercial-Quantum-Control-System.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-07-30 10:28:25"
-        },
-        {
-            "source": {
-                "name": "analyticsindiamag"
-            },
-            "title": "Jobs Requiring AI Skills Offer 28% Higher Salaries, Reveals Study",
-            "url": "https://analyticsindiamag.com/ai-news-updates/jobs-requiring-ai-skills-offer-28-higher-salaries-reveals-study/",
-            "urlToImage": "https://analyticsindiamag.com/wp-content/uploads/2020/03/How-Business-Leaders-Can-Use-AI-To-Bridge-The-Cybersecurity-Skills-Gap.jpeg",
-            "publishedAt": "2025-07-30 10:12:40"
         }
     ]
 }
