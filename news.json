@@ -1,6 +1,28 @@
 {
-    "lastUpdatedAt": "2025-08-02T03:22:50.219425Z",
+    "lastUpdatedAt": "2025-08-02T04:31:50.398455Z",
     "articles": [
+        {
+            "source": {
+                "id": "dcc4f4c6eb081eb8a9ee9cca215517f5",
+                "name": "Tom's Guide",
+                "url": "https://www.tomsguide.com"
+            },
+            "title": "'A disaster waiting to happen' - Cybersecurity experts react to UK age verification law",
+            "url": "https://www.tomsguide.com/computing/vpns/a-disaster-waiting-to-happen-cybersecurity-experts-react-to-uk-age-verification-law",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/CtfUVmicnjAGh4ouM9qUNA.jpg",
+            "publishedAt": "2025-08-02T04:00:00Z"
+        },
+        {
+            "source": {
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Business Insider",
+                "url": "https://markets.businessinsider.com"
+            },
+            "title": "IBM’s Data Breach Report Warns that AI Tools Are Growing Hacker Targets",
+            "url": "https://markets.businessinsider.com/news/stocks/ibm-s-data-breach-report-warns-that-ai-tools-are-growing-hacker-targets-1034974788",
+            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/08/image-49-1024x764.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+            "publishedAt": "2025-08-02T02:03:00Z"
+        },
         {
             "source": {
                 "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
@@ -374,6 +396,69 @@
             "url": "https://apnews.com/article/apple-earnings-quarter-iphone-tariffs-de927c8c1baaf70418e2261ae5b494f2",
             "urlToImage": "https://dims.apnews.com/dims4/default/cf0e312/2147483647/strip/true/crop/6000x3375+0+112/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd1%2F13%2F3485fb41c0e909034213f15b217c%2F57fa2e708c3142b99e9322fc70bbcfd8",
             "publishedAt": "2025-08-01T00:51:43Z"
+        },
+        {
+            "source": {
+                "name": "theverge"
+            },
+            "title": "The best iPad to buy",
+            "url": "https://www.theverge.com/23639378/best-ipad-apple-buy-model-price",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2024/04/257557_ipad_buying_guide_CVirginia.jpg?crop=0%2C10.732984293194%2C100%2C78.534031413613&quality=90&strip=all&w=1200",
+            "publishedAt": "2025-08-01 16:29:15"
+        },
+        {
+            "source": {
+                "name": "analyticsindiamag"
+            },
+            "title": "US-Based AI Chip Startup SiMa.ai Raises $85 Mn to Expand Physical AI Platform",
+            "url": "https://analyticsindiamag.com/ai-news-updates/us-based-ai-chip-startup-sima-ai-raises-85-mn-to-expand-physical-ai-platform/",
+            "urlToImage": "https://analyticsindiamag.com/wp-content/uploads/2025/07/SiMa.jpg",
+            "publishedAt": "2025-08-01 16:11:35"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "M5 MacBook Pro: Here's the biggest rumored upgrades",
+            "url": "https://www.tomsguide.com/computing/macbooks/m5-macbook-pro-heres-the-biggest-rumored-upgrades",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/p9Q3r32YdkFTV9RwstQiZB-1280-80.jpg",
+            "publishedAt": "2025-08-01 15:56:00"
+        },
+        {
+            "source": {
+                "name": "macworld"
+            },
+            "title": "Best VPN for Mac 2025: Trustworthy Mac VPNs tested by experts",
+            "url": "https://www.macworld.com/article/231047/best-vpn-for-mac.html",
+            "urlToImage": "https://www.macworld.com/wp-content/uploads/2025/08/Best-VPN-for-Mac.jpg?quality=50&strip=all&w=1024",
+            "publishedAt": "2025-08-01 15:37:59"
+        },
+        {
+            "source": {
+                "name": "siliconangle"
+            },
+            "title": "IPO pops are back, AI starts to pay off for Big Tech, and Palo Alto Networks spends big",
+            "url": "https://siliconangle.com/2025/08/01/ipo-pops-back-ai-starts-pay-off-big-tech-palo-alto-networks-spends-big/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/08/figmanambiqipo.png",
+            "publishedAt": "2025-08-01 15:37:47"
+        },
+        {
+            "source": {
+                "name": "arstechnica"
+            },
+            "title": "Google releases Gemini 2.5 Deep Think for AI Ultra subscribers",
+            "url": "https://arstechnica.com/ai/2025/08/google-releases-gemini-2-5-deep-think-for-ai-ultra-subscribers/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/Gemini-app-1152x648.jpg",
+            "publishedAt": "2025-08-01 15:36:08"
+        },
+        {
+            "source": {
+                "name": "wired"
+            },
+            "title": "Inside Jeffrey Epstein’s Forgotten AI Summit",
+            "url": "https://www.wired.com/story/epstein-files-science-tech-funding/",
+            "urlToImage": "https://media.wired.com/photos/688a7760ebc982ceef8ce78e/master/w_120,c_limit/Backchannel-Techies-Connected-To-Epstein-Business.jpg",
+            "publishedAt": "2025-08-01 15:30:00"
         },
         {
             "source": {
@@ -2859,87 +2944,6 @@
             "url": "https://lifehacker.com/health/workout-buddy-apple-watch-requirements",
             "urlToImage": "https://lifehacker.com/imagery/articles/01K1EBBATF9G0GQDT8S2WTQXDK/hero-image.fill.size_1200x675.jpg",
             "publishedAt": "2025-07-30 21:00:00"
-        },
-        {
-            "source": {
-                "name": "techspot"
-            },
-            "title": "Wyoming may become the first state to supply more electricity to AI than to residents",
-            "url": "https://www.techspot.com/news/108875-wyoming-may-become-first-state-supply-more-electricity.html",
-            "urlToImage": "https://www.techspot.com/images2/news/bigimage/2025/07/2025-07-30-image-24.jpg",
-            "publishedAt": "2025-07-30 20:47:00"
-        },
-        {
-            "source": {
-                "name": "stimson"
-            },
-            "title": "A Critical Juncture: Global Security and the Age of Converging Technologies",
-            "url": "https://www.stimson.org/2025/a-critical-juncture-global-security-and-the-age-of-converging-technologies/",
-            "urlToImage": "https://www.stimson.org/wp-content/uploads/2025/07/AdobeStock_1392899273-1024x512.jpg",
-            "publishedAt": "2025-07-30 20:31:34"
-        },
-        {
-            "source": {
-                "name": "bitcoinworld"
-            },
-            "title": "AI Boom: Unveiling Concerns Over Who Truly Profits",
-            "url": "https://bitcoinworld.co.in/ai-boom-who-benefits/",
-            "urlToImage": "https://bitcoinworld.co.in/wp-content/uploads/ai-boom-who-benefits.jpg",
-            "publishedAt": "2025-07-30 20:30:11"
-        },
-        {
-            "source": {
-                "name": "clickondetroit"
-            },
-            "title": "Microsoft's annual cloud revenue hits $75B, profit beats expectations",
-            "url": "https://www.clickondetroit.com/business/2025/07/30/microsofts-annual-cloud-revenue-hits-75b-profit-beats-expectations/",
-            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/DJYP5DII5FCI5B5GRZG7YO37T4.jpg",
-            "publishedAt": "2025-07-30 20:21:58"
-        },
-        {
-            "source": {
-                "name": "newswise"
-            },
-            "title": "Researchers Map Where Solar Energy Delivers the Biggest Climate Payoff",
-            "url": "https://www.newswise.com/articles/researchers-map-where-solar-energy-delivers-the-biggest-climate-payoff/?sc=rssn",
-            "urlToImage": "https://www.newswise.com/legacy/image.php?height=334&image=%2Fimages%2Fuploads%2F2025%2F07%2F29%2F68891b6c7207d_AdobeStock248812956.jpeg&width=502",
-            "publishedAt": "2025-07-30 19:00:00"
-        },
-        {
-            "source": {
-                "name": "siliconangle"
-            },
-            "title": "Zuckerberg outlines Meta’s vision for AI superintelligence",
-            "url": "https://siliconangle.com/2025/07/30/zuckerberg-outlines-metas-vision-ai-superintelligence/",
-            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/10/47774197691_ef179b2c80_c-768x513.jpg",
-            "publishedAt": "2025-07-30 18:45:59"
-        },
-        {
-            "source": {
-                "name": "ibtimes"
-            },
-            "title": "Sofex Algorithms Marks 10-Year Milestone of Disrupting Algorithmic Trading",
-            "url": "https://www.ibtimes.com/sofex-algorithms-marks-10-year-milestone-disrupting-algorithmic-trading-3779837",
-            "urlToImage": "https://d.ibtimes.com/en/full/4526401/trading-crypto.jpg",
-            "publishedAt": "2025-07-30 18:23:47"
-        },
-        {
-            "source": {
-                "name": "spacenews"
-            },
-            "title": "Mission to market – The evolution of NASA’s CLPS program",
-            "url": "https://spacenews.com/mission-to-market-the-evolution-of-nasas-clps-program/",
-            "urlToImage": "https://spacenews.com/wp-content/uploads/2025/07/spaceminds-ascend-CLPS-intuitive-machines-2000-1500-scaled.png",
-            "publishedAt": "2025-07-30 18:23:36"
-        },
-        {
-            "source": {
-                "name": "bitcoinworld"
-            },
-            "title": "Meta AI’s Bold Shift: Zuckerberg’s Crucial Stance on Open-Source Superintelligence Models",
-            "url": "https://bitcoinworld.co.in/zuckerberg-meta-ai-shift/",
-            "urlToImage": "https://bitcoinworld.co.in/wp-content/uploads/zuckerberg-meta-ai-shift.jpg",
-            "publishedAt": "2025-07-30 18:20:11"
         }
     ]
 }
