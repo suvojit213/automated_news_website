@@ -1,6 +1,17 @@
 {
-    "lastUpdatedAt": "2025-08-02T09:18:25.426716Z",
+    "lastUpdatedAt": "2025-08-02T10:16:46.809744Z",
     "articles": [
+        {
+            "source": {
+                "id": "76684855c5d801b81fd06490668d04fe",
+                "name": "TechRadar",
+                "url": "https://www.techradar.com"
+            },
+            "title": "The 3 hottest VPNs for protecting your data this weekend - plus a bonus free option, chosen by our cybersecurity experts",
+            "url": "https://www.techradar.com/vpn/vpn-services/the-3-hottest-vpns-for-protecting-your-data-this-weekend-plus-a-bonus-free-option-chosen-by-our-cybersecurity-experts",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/XNYgnsfepi2BJUWk9bhNSa.jpg",
+            "publishedAt": "2025-08-02T09:00:00Z"
+        },
         {
             "source": {
                 "id": "bce8b9fcd331f3552e3dcf603b83b80e",
@@ -462,6 +473,24 @@
             "url": "https://apnews.com/article/apple-earnings-quarter-iphone-tariffs-de927c8c1baaf70418e2261ae5b494f2",
             "urlToImage": "https://dims.apnews.com/dims4/default/cf0e312/2147483647/strip/true/crop/6000x3375+0+112/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd1%2F13%2F3485fb41c0e909034213f15b217c%2F57fa2e708c3142b99e9322fc70bbcfd8",
             "publishedAt": "2025-08-01T00:51:43Z"
+        },
+        {
+            "source": {
+                "name": "9to5mac"
+            },
+            "title": "Tim Cook holds company-wide meeting to address Apple’s AI woes",
+            "url": "https://9to5mac.com/2025/08/01/tim-cook-holds-company-wide-meeting-to-address-apples-ai-woes/",
+            "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2024/09/tim-cook-apple-event-oct.jpg?quality=82&strip=all&w=1600",
+            "publishedAt": "2025-08-01 21:26:27"
+        },
+        {
+            "source": {
+                "name": "arstechnica"
+            },
+            "title": "At $250 million, top AI salaries dwarf those of the Manhattan Project and the Space Race",
+            "url": "https://arstechnica.com/ai/2025/08/at-250-million-top-ai-salaries-dwarf-those-of-the-manhattan-project-and-the-space-race/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/robot_money_hand-1152x648.jpg",
+            "publishedAt": "2025-08-01 21:23:42"
         },
         {
             "source": {
@@ -2917,39 +2946,6 @@
             "url": "https://www.bostonglobe.com/2025/07/30/business/cyberark-palo-alto-networks-acquisition/",
             "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/CVBYC3LV7JAPTLBSDWQIU7WYZU.jpg?auth=ac95dde96a55b5fcffb7f67496105c3e2860fbb50147bc8d9a00341f442ff893&width=1440",
             "publishedAt": "2025-07-30T04:00:00Z"
-        },
-        {
-            "source": {
-                "id": "f6d6ee1134197fe1441d65a3e7915835",
-                "name": "Yahoo Singapore News",
-                "url": "https://sg.news.yahoo.com"
-            },
-            "title": "'Marathon at F1 speed': China bids to lap US in AI leadership",
-            "url": "https://sg.news.yahoo.com/marathon-f1-speed-china-bids-031604358.html?guce_referrer=aHR0cHM6Ly9zZy5uZXdzLnlhaG9vLmNvbS8&guce_referrer_sig=AQAAAHuqtnT6BJmxDl73WJapWlj-hHsUZtUBW0KAUlci9C1st2fgEJPBcyF494c5E4QQ3hL25ThR0qx26wN7zJme7ovv638OTTZdZjPyijwSzwLSrR2BZktYXquezsMJ_lUda5Jzu2qex9qzA1qhdK-GXjE5QgIokJoJpLp-_yWDObcv&guccounter=2",
-            "urlToImage": "https://media.zenfs.com/en/afp.com.sg/bbd7cf39df8f7950ce06d6918b20f255",
-            "publishedAt": "2025-07-30T03:16:04Z"
-        },
-        {
-            "source": {
-                "id": "f6d6ee1134197fe1441d65a3e7915835",
-                "name": "Yahoo Singapore News",
-                "url": "https://sg.news.yahoo.com"
-            },
-            "title": "'Marathon at F1 speed': China bids to lap US in AI leadership",
-            "url": "https://sg.news.yahoo.com/marathon-f1-speed-china-bids-031604358.html",
-            "urlToImage": "https://media.zenfs.com/en/afp.com.sg/bbd7cf39df8f7950ce06d6918b20f255",
-            "publishedAt": "2025-07-30T03:16:04Z"
-        },
-        {
-            "source": {
-                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
-                "name": "The Australian Financial Review",
-                "url": "https://www.afr.com"
-            },
-            "title": "Let AI do housing approvals, says Atlassian’s Scott Farquhar",
-            "url": "https://www.afr.com/technology/housing-crisis-scott-farquhar-says-ai-could-decide-building-approvals-20250730-p5mivx",
-            "urlToImage": "https://static.ffx.io/images/$zoom_0.3756%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_374%2C$y_28/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/73800cd034848c910371ad2cda4e3ef6a81501b9",
-            "publishedAt": "2025-07-30T02:31:00Z"
         }
     ]
 }
