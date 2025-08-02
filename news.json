@@ -1,6 +1,28 @@
 {
-    "lastUpdatedAt": "2025-08-02T04:31:50.398455Z",
+    "lastUpdatedAt": "2025-08-02T05:20:21.321004Z",
     "articles": [
+        {
+            "source": {
+                "id": "ca84296ef941bfa461f4239a2290cb99",
+                "name": "News18",
+                "url": "https://www.news18.com"
+            },
+            "title": "India can build next cybersecurity giants: Accels Prayank Swaroop",
+            "url": "https://www.news18.com/agency-feeds/india-can-build-next-cybersecurity-giants-accels-prayank-swaroop-9479400.html",
+            "urlToImage": "https://images.news18.com/ibnlive/uploads/2025/07/News18_Business_Section_Default_Image_1600x900-2025-07-454f4d093355309283e1b9f3be42698a-16x9.jpg",
+            "publishedAt": "2025-08-02T05:00:03Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com"
+            },
+            "title": "India's Cybersecurity Renaissance: A New Frontier",
+            "url": "https://www.devdiscourse.com/article/technology/3527048-indias-cybersecurity-renaissance-a-new-frontier",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/24_07_2025_17_22_45_0821184.png?width=920&format=jpeg",
+            "publishedAt": "2025-08-02T04:57:49Z"
+        },
         {
             "source": {
                 "id": "dcc4f4c6eb081eb8a9ee9cca215517f5",
@@ -396,6 +418,15 @@
             "url": "https://apnews.com/article/apple-earnings-quarter-iphone-tariffs-de927c8c1baaf70418e2261ae5b494f2",
             "urlToImage": "https://dims.apnews.com/dims4/default/cf0e312/2147483647/strip/true/crop/6000x3375+0+112/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd1%2F13%2F3485fb41c0e909034213f15b217c%2F57fa2e708c3142b99e9322fc70bbcfd8",
             "publishedAt": "2025-08-01T00:51:43Z"
+        },
+        {
+            "source": {
+                "name": "pocketgamer"
+            },
+            "title": "The Wrapp - Relatively laid back battle royales and multiplayer tower defense",
+            "url": "https://www.pocketgamer.com/the-wrapp/wrapp-44/",
+            "urlToImage": "https://media.pocketgamer.com/artwork/na-36724-1754044929/the-wrapp-44.jpg",
+            "publishedAt": "2025-08-01 17:00:00"
         },
         {
             "source": {
@@ -2917,33 +2948,6 @@
             "url": "https://www.cbsnews.com/news/mark-zuckerberg-ai-personal-superintelligence-meta/",
             "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/07/30/e53e58b2-b765-4ff2-9eda-25868d40aacb/thumbnail/60x60/476cc55a18449cca1474d5cd281ca309/gettyimages-2173579243.jpg",
             "publishedAt": "2025-07-30 21:31:02"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "How to sync passkeys in Chrome across your Android, iPhone, Mac, or PC (and why you should)",
-            "url": "https://www.zdnet.com/article/how-to-sync-passkeys-in-chrome-across-your-android-iphone-mac-or-pc-and-why-you-should/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/11e58204617b5e1ec8c2ecbb87b8ad2f96bc54dc/2025/07/25/497849cf-bcd9-450d-87ea-3a3ac3168104/how-to-sync-passkeys-in-google-chrome-across-a-pc-mac-android-device-and-iphone.jpg?auto=webp&width=1280",
-            "publishedAt": "2025-07-30 21:14:00"
-        },
-        {
-            "source": {
-                "name": "siliconangle"
-            },
-            "title": "Chipmaker Ambiq Micro shares soar 60%+ after $96M IPO",
-            "url": "https://siliconangle.com/2025/07/30/chipmaker-ambiq-micro-shares-soar-60-96m-ipo/",
-            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/07/Ambiq-1.png",
-            "publishedAt": "2025-07-30 21:13:25"
-        },
-        {
-            "source": {
-                "name": "lifehacker_us"
-            },
-            "title": "You Might Not Get 'Workout Buddy,' Even If Your Apple Watch Is Brand New",
-            "url": "https://lifehacker.com/health/workout-buddy-apple-watch-requirements",
-            "urlToImage": "https://lifehacker.com/imagery/articles/01K1EBBATF9G0GQDT8S2WTQXDK/hero-image.fill.size_1200x675.jpg",
-            "publishedAt": "2025-07-30 21:00:00"
         }
     ]
 }
