@@ -1,6 +1,17 @@
 {
-    "lastUpdatedAt": "2025-08-03T15:15:55.446449Z",
+    "lastUpdatedAt": "2025-08-03T16:19:23.969116Z",
     "articles": [
+        {
+            "source": {
+                "id": "a626af07817344050e3336789e06a2f5",
+                "name": "Vancouver Is Awesome",
+                "url": "https://www.vancouverisawesome.com"
+            },
+            "title": "Why people are falling in love with AI chatbots",
+            "url": "https://www.vancouverisawesome.com/highlights/opinion-more-people-are-considering-ai-lovers-and-we-shouldnt-judge-11011383",
+            "urlToImage": "https://www.vmcdn.ca/f/files/glaciermedia/images/contributed/chatgptmanatcomputer.jpg;w=1200;h=800;mode=crop",
+            "publishedAt": "2025-08-03T16:00:00Z"
+        },
         {
             "source": {
                 "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
@@ -77,6 +88,24 @@
             "url": "https://scroll.in/article/1085095/as-young-indians-turn-to-ai-therapists-how-confidential-is-their-data",
             "urlToImage": "https://sc0.blr1.cdn.digitaloceanspaces.com/book/208583-tvcnklzdgw-1754041821.jpeg",
             "publishedAt": "2025-08-03T01:00:00Z"
+        },
+        {
+            "source": {
+                "name": "reviewjournal"
+            },
+            "title": "NEVADA VIEWS: Nevada can power the great next leap",
+            "url": "https://www.reviewjournal.com/opinion/nevada-views-nevada-can-power-the-great-next-leap-3408972/",
+            "urlToImage": "https://www.reviewjournal.com/wp-content/uploads/2025/08/20721010_web1_web_DATA-CENTERS-JUL24-25-BT09.jpg",
+            "publishedAt": "2025-08-03 04:00:27"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "It's not surprising that the Online Safety Act doesn't cover personal data safety",
+            "url": "https://www.tomsguide.com/computing/online-security/its-not-surprising-that-the-online-safety-act-doesnt-cover-personal-data-safety",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/WeCDVVNZLcF6YWv4mkZ2Uo-1280-80.jpg",
+            "publishedAt": "2025-08-03 04:00:00"
         },
         {
             "source": {
@@ -2877,33 +2906,6 @@
             "url": "https://www.tomsguide.com/reviews/superloop-opticomm-internet-review",
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/76CForoYNrVurC2iJzSVxF-1280-80.jpg",
             "publishedAt": "2025-07-31 04:10:03"
-        },
-        {
-            "source": {
-                "name": "postregister"
-            },
-            "title": "Kioxia Sampling UFS Ver. 4.1 Embedded Flash Memory Devices for Automotive Applications",
-            "url": "https://www.postregister.com/businessreport/technology/kioxia-sampling-ufs-ver-4-1-embedded-flash-memory-devices-for-automotive-applications/article_1c1dd064-5d9d-5082-806f-b0e77185a4d6.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/assets/v3/editorial/e/20/e203f2b6-7c17-58a0-9810-9f52c5f9dc70/688aed0a7a209.image.jpg?resize=300%2C300",
-            "publishedAt": "2025-07-31 04:07:14"
-        },
-        {
-            "source": {
-                "name": "thehindu"
-            },
-            "title": "Meta jumps on big revenue forecast beat, small capex raise",
-            "url": "https://www.thehindu.com/sci-tech/technology/meta-jumps-on-big-revenue-forecast-beat-small-capex-raise/article69876678.ece",
-            "urlToImage": "https://th-i.thgim.com/public/incoming/1rx6k4/article69876680.ece/alternates/LANDSCAPE_1200/2025-07-30T191705Z_1678305640_RC2D0FAO49DD_RTRMADP_3_META-PLATFORMS-RESULTS.JPG",
-            "publishedAt": "2025-07-31 03:50:09"
-        },
-        {
-            "source": {
-                "name": "thehindu"
-            },
-            "title": "Microsoft’s annual cloud revenue hits $75 billion, profit beats expectations",
-            "url": "https://www.thehindu.com/sci-tech/technology/microsofts-annual-cloud-revenue-hits-75-billion-profit-beats-expectations/article69876676.ece",
-            "urlToImage": "https://th-i.thgim.com/public/incoming/ch13tg/article69876677.ece/alternates/LANDSCAPE_1200/Earns_Microsoft_94942.jpg",
-            "publishedAt": "2025-07-31 03:15:23"
         }
     ]
 }
