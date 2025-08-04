@@ -1,6 +1,17 @@
 {
-    "lastUpdatedAt": "2025-08-04T06:31:43.374158Z",
+    "lastUpdatedAt": "2025-08-04T07:25:07.624245Z",
     "articles": [
+        {
+            "source": {
+                "id": "43ce1d937b6aed9ea231b649cb2b7b4b",
+                "name": "The Dallas Morning News",
+                "url": "https://www.dallasnews.com"
+            },
+            "title": "Are AI-powered schools the future? Not so fast",
+            "url": "https://www.dallasnews.com/opinion/editorials/2025/08/04/are-ai-powered-schools-the-future-not-so-fast/",
+            "urlToImage": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/MYNPM4NNA5E4BGOAIWXCKOMQMY.jpg?auth=52ebb0f77e6634ac35e2682c87b03cd4d9eca4181c73b008823ef086f2181e04&quality=80&width=1200&height=630&smart=true",
+            "publishedAt": "2025-08-04T07:00:00Z"
+        },
         {
             "source": {
                 "id": "01558c024928d45cf320f6f75eede787",
@@ -11,6 +22,17 @@
             "url": "https://www.theguardian.com/technology/2025/aug/04/demis-hassabis-ai-future-10-times-bigger-than-industrial-revolution-and-10-times-faster",
             "urlToImage": "https://i.guim.co.uk/img/media/d5e91c33050a876de575fe5431c32f4daaec8468/792_0_7920_6336/master/7920.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0898cab223198c6cf20725144ae5941e",
             "publishedAt": "2025-08-04T04:00:03Z"
+        },
+        {
+            "source": {
+                "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
+                "name": "Fortune",
+                "url": "https://fortune.com"
+            },
+            "title": "North Korean IT worker infiltrations exploded 220% over the past 12 months, with GenAI weaponized at every stage of the hiring process",
+            "url": "https://fortune.com/2025/08/04/north-korean-it-worker-infiltrations-exploded/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/08/GettyImages-842418008.jpg?resize=1200,600",
+            "publishedAt": "2025-08-04T04:00:00Z"
         },
         {
             "source": {
@@ -154,6 +176,15 @@
             "url": "https://scroll.in/article/1085095/as-young-indians-turn-to-ai-therapists-how-confidential-is-their-data",
             "urlToImage": "https://sc0.blr1.cdn.digitaloceanspaces.com/book/208583-tvcnklzdgw-1754041821.jpeg",
             "publishedAt": "2025-08-03T01:00:00Z"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "Office Hellscapes And AI Process Mapping",
+            "url": "https://www.forbes.com/sites/johnwerner/2025/08/03/office-hellscapes-and-ai-process-mapping/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/688fb4df8d68fd61ac4d951d/0x0.jpg?width=960",
+            "publishedAt": "2025-08-03 19:17:32"
         },
         {
             "source": {
@@ -2891,33 +2922,6 @@
             "url": "https://www.prnewswire.com/news-releases/supermicro-open-storage-summit-showcases-the-impact-of-ai-workloads-on-storage-starts-august-12-302517108.html",
             "urlToImage": "https://mma.prnewswire.com/media/2740303/Super_Micro_Storage_Summit_2025.jpg?p=original",
             "publishedAt": "2025-07-31 13:05:00"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "These ultra-thin AI glasses make the Meta Ray-Bans look outdated (with 3X the battery)",
-            "url": "https://www.zdnet.com/article/these-ultra-thin-ai-glasses-make-the-meta-ray-bans-look-outdated-with-3x-the-battery/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/9ca4bb5979e6c7725282658cec8d0700c8dad94e/2025/07/30/dc6f1ce1-bef0-472a-883b-fc1eb755920a/untitled-design-8.png?auto=webp&width=1280",
-            "publishedAt": "2025-07-31 13:00:13"
-        },
-        {
-            "source": {
-                "name": "computerweekly"
-            },
-            "title": "ITU, IOWN further collaboration on next-gen photonics network",
-            "url": "https://www.computerweekly.com/news/366628355/ITU-IOWN-further-collaboration-on-next-gen-photonics-network",
-            "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero%20Images/join-dots-network-communication-adobe_searchsitetablet_520X173.jpg",
-            "publishedAt": "2025-07-31 13:00:00"
-        },
-        {
-            "source": {
-                "name": "spacenews"
-            },
-            "title": "Moog Presents Space Computing Advancements to Enable Next-Generation Missions at Small Satellite Conference",
-            "url": "https://spacenews.com/moog-presents-space-computing-advancements-to-enable-next-generation-missions-at-small-satellite-conference/",
-            "urlToImage": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/03/moog-square.png?fit=1419%2C1420&quality=80&ssl=1",
-            "publishedAt": "2025-07-31 13:00:00"
         }
     ]
 }
