@@ -1,6 +1,39 @@
 {
-    "lastUpdatedAt": "2025-08-04T19:17:19.319414Z",
+    "lastUpdatedAt": "2025-08-04T20:19:12.129531Z",
     "articles": [
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com"
+            },
+            "title": "Noted Tesla analyst Adam Jonas moving into new role at Morgan Stanley",
+            "url": "https://www.cnbc.com/2025/08/04/noted-tesla-analyst-adam-jonas-moving-into-new-role-at-morgan-stanley.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105585169-1542737297267untitled-2.jpg?v=1542737376&w=1920&h=1080",
+            "publishedAt": "2025-08-04T20:04:35Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com"
+            },
+            "title": "Cyber Firm Armis Aims for 2026 IPO",
+            "url": "https://www.bloomberg.com/news/videos/2025-08-04/cyber-firm-armis-aims-for-2026-ipo-video",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iq9N7lNS6pKU/v3/-1x-1.jpg",
+            "publishedAt": "2025-08-04T19:29:22Z"
+        },
+        {
+            "source": {
+                "id": "19d1f502a5658ccbfaaa50f77b89993f",
+                "name": "The Motley Fool Canada",
+                "url": "https://www.fool.ca"
+            },
+            "title": "Why Alphabet Stock Popped on Monday",
+            "url": "https://www.fool.ca/2025/08/04/why-alphabet-stock-popped-on-monday-2/",
+            "urlToImage": "https://www.fool.ca/wp-content/uploads/2025/08/1-green-arrow-going-up.jpg",
+            "publishedAt": "2025-08-04T19:10:23Z"
+        },
         {
             "source": {
                 "id": "7006f2c40c7cc01195608dbfd60259b3",
@@ -2937,33 +2970,6 @@
             "url": "https://phys.org/news/2025-07-simulations-reveal-electron-temperatures-m87.html",
             "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2025/beyond-the-shadow-of-a.jpg",
             "publishedAt": "2025-07-31 20:20:05"
-        },
-        {
-            "source": {
-                "name": "techspot"
-            },
-            "title": "AMD signals push for discrete NPUs to rival GPUs in AI-powered PCs",
-            "url": "https://www.techspot.com/news/108894-amd-signals-push-discrete-npus-rival-gpus-ai.html",
-            "urlToImage": "https://www.techspot.com/images2/news/bigimage/2025/07/2025-07-31-image-23.jpg",
-            "publishedAt": "2025-07-31 20:17:00"
-        },
-        {
-            "source": {
-                "name": "venturebeat"
-            },
-            "title": "Amazon DocumentDB Serverless database looks to accelerate agentic AI, cut costs",
-            "url": "https://venturebeat.com/data-infrastructure/amazon-documentdb-serverless-database-looks-to-accelerate-agentic-ai-cut-costs/",
-            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/07/serverless_dbase-cloud-smk.png?w=750",
-            "publishedAt": "2025-07-31 19:58:12"
-        },
-        {
-            "source": {
-                "name": "phys"
-            },
-            "title": "Microrobots that can carry drugs and steer could provide targeted drug delivery",
-            "url": "https://phys.org/news/2025-07-microrobots-drugs-drug-delivery.html",
-            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2025/microrobots-for-target.jpg",
-            "publishedAt": "2025-07-31 19:57:13"
         }
     ]
 }
