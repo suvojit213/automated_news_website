@@ -1,6 +1,17 @@
 {
-    "lastUpdatedAt": "2025-08-04T12:37:09.151140Z",
+    "lastUpdatedAt": "2025-08-04T13:38:49.951006Z",
     "articles": [
+        {
+            "source": {
+                "id": "6fea3ee012f060c6309366516e8d00be",
+                "name": "News-Medical.net",
+                "url": "https://www.news-medical.net"
+            },
+            "title": "Advancing healthcare with machine learning and big data at Cedars-Sinai",
+            "url": "https://www.news-medical.net/news/20250804/Advancing-healthcare-with-machine-learning-and-big-data-at-Cedars-Sinai.aspx",
+            "urlToImage": "https://www.news-medical.net/image-handler/picture/2014/7/Blood_glucose-620x480.jpg",
+            "publishedAt": "2025-08-04T13:00:00Z"
+        },
         {
             "source": {
                 "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
@@ -182,6 +193,17 @@
             "title": "Is it still Disney magic if it’s AI?",
             "url": "https://www.livemint.com/global/is-it-still-disney-magic-if-it-s-ai-11754270218633.html",
             "urlToImage": "https://www.livemint.com/lm-img/img/2025/08/04/1600x900/Film-Review---The-Fantastic-Four--First-Steps-2_1754270793915_1754270805437.jpg",
+            "publishedAt": "2025-08-03T18:30:00Z"
+        },
+        {
+            "source": {
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com"
+            },
+            "title": "Apple salary packages for software engineers, data scientists and others revealed, have a look",
+            "url": "https://www.hindustantimes.com/technology/apple-salary-packages-for-software-engineers-data-scientists-and-others-revealed-have-a-look-101754291961139.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/08/04/1600x900/Apple_1754292677454_1754292677802.jpg",
             "publishedAt": "2025-08-03T18:30:00Z"
         },
         {
@@ -2920,24 +2942,6 @@
             "url": "https://www.thehindubusinessline.com/info-tech/edge-on-the-rise-schneider-electric-says-ai-to-reshape-indias-data-center-strategy/article69878891.ece",
             "urlToImage": "https://bl-i.thgim.com/public/incoming/d6e2lh/article69878888.ece/alternates/LANDSCAPE_1200/Mr.%20Venkatraman%20Swaminathan.jpeg",
             "publishedAt": "2025-07-31 15:49:23"
-        },
-        {
-            "source": {
-                "name": "cnn"
-            },
-            "title": "Your favorite model? Thanks to AI, they might not be real",
-            "url": "https://www.cnn.com/2025/07/31/style/vogue-ai-models-guess-campaign",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/9-oliver-pilcher.jpg?c=16x9&q=h_720%2Cw_1280%2Cc_fill%2Fw_256",
-            "publishedAt": "2025-07-31 15:41:16"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Mac.c Stealer Takes on AMOS:A New Rival Shakes Up the macOS Infostealer Market",
-            "url": "https://hackernoon.com/macc-stealer-takes-on-amos-a-new-rival-shakes-up-the-macos-infostealer-market",
-            "urlToImage": "https://hackernoon.com/https://cdn.hackernoon.com/images/l7noBCUFwmcERrcGKL5jHUS0UcV2-be03ld8.png",
-            "publishedAt": "2025-07-31 15:32:47"
         }
     ]
 }
