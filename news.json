@@ -1,6 +1,17 @@
 {
-    "lastUpdatedAt": "2025-08-04T03:52:35.690911Z",
+    "lastUpdatedAt": "2025-08-04T04:53:57.297926Z",
     "articles": [
+        {
+            "source": {
+                "id": "01558c024928d45cf320f6f75eede787",
+                "name": "The Guardian",
+                "url": "https://www.theguardian.com"
+            },
+            "title": "Demis Hassabis on our AI future: ‘It’ll be 10 times bigger than the Industrial Revolution - and maybe 10 times faster’",
+            "url": "https://www.theguardian.com/technology/2025/aug/04/demis-hassabis-ai-future-10-times-bigger-than-industrial-revolution-and-10-times-faster",
+            "urlToImage": "https://i.guim.co.uk/img/media/d5e91c33050a876de575fe5431c32f4daaec8468/792_0_7920_6336/master/7920.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0898cab223198c6cf20725144ae5941e",
+            "publishedAt": "2025-08-04T04:00:03Z"
+        },
         {
             "source": {
                 "id": "3a3847d645a619320aa3b3484581e395",
@@ -132,6 +143,15 @@
             "url": "https://scroll.in/article/1085095/as-young-indians-turn-to-ai-therapists-how-confidential-is-their-data",
             "urlToImage": "https://sc0.blr1.cdn.digitaloceanspaces.com/book/208583-tvcnklzdgw-1754041821.jpeg",
             "publishedAt": "2025-08-03T01:00:00Z"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Mobile AI with ONNX Runtime: How to Build Real-Time Noise Suppression That Works",
+            "url": "https://hackernoon.com/mobile-ai-with-onnx-runtime-how-to-build-real-time-noise-suppression-that-works",
+            "urlToImage": "https://hackernoon.com/https://cdn.hackernoon.com/images/5JWQSrHuzQScjyXZiIw3kX1y8LV2-vx039wm.png",
+            "publishedAt": "2025-08-03 16:03:09"
         },
         {
             "source": {
@@ -2896,24 +2916,6 @@
             "url": "https://www.webpronews.com/2025-agentic-ai-and-5g-boost-efficiency-face-ethical-hurdles/",
             "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/07/xai-tmp-imgen-56158fb0-d035-4d79-9921-d2988765097b.jpeg?fit=720%2C960&ssl=1",
             "publishedAt": "2025-07-31 10:45:54"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "How AI And Mini-Organs Could Replace Testing Drugs On Animals",
-            "url": "https://www.forbes.com/sites/alexknapp/2025/07/31/how-ai-and-mini-organs-could-replace-testing-drugs-on-animals/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/688a66f8d5892b4272db9cc5/0x0.jpg?width=960",
-            "publishedAt": "2025-07-31 10:30:00"
-        },
-        {
-            "source": {
-                "name": "itpro"
-            },
-            "title": "OpenAI is teaming up with Nscale and Aker to build Europe's first AI gigafactory – 'Stargate Norway' is set to host 100,000 Nvidia GPUs and will be powered by renewable energy",
-            "url": "https://www.itpro.com/infrastructure/openai-is-teaming-up-with-nscale-and-aker-to-build-europes-first-ai-gigafactory-stargate-norway-is-set-to-host-100-000-nvidia-gpus-and-will-be-powered-by-renewable-energy",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/XeMRbcLXVaqQ5ggRfFHYr-1280-80.jpg",
-            "publishedAt": "2025-07-31 10:28:22"
         }
     ]
 }
