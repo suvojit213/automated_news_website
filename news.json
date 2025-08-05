@@ -1,6 +1,39 @@
 {
-    "lastUpdatedAt": "2025-08-05T05:25:44.856233Z",
+    "lastUpdatedAt": "2025-08-05T06:27:34.087098Z",
     "articles": [
+        {
+            "source": {
+                "id": "f6d6ee1134197fe1441d65a3e7915835",
+                "name": "Yahoo Singapore News",
+                "url": "https://sg.news.yahoo.com"
+            },
+            "title": "TSMC cracks down on potential trade secret breach, initiates legal action",
+            "url": "https://sg.news.yahoo.com/tsmc-cracks-down-trade-secret-060219385.html",
+            "urlToImage": "https://media.zenfs.com/en/reuters.com/67a81d0ca5b455efe93f332f3bdb578f",
+            "publishedAt": "2025-08-05T06:02:19Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com"
+            },
+            "title": "Billie Lourd Joins Star-Studded Cast of AI Drama 'Artificial'",
+            "url": "https://www.devdiscourse.com/article/entertainment/3529832-billie-lourd-joins-star-studded-cast-of-ai-drama-artificial",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/04_08_2025_18_37_57_6637727.jpg?width=920&format=jpeg",
+            "publishedAt": "2025-08-05T05:55:42Z"
+        },
+        {
+            "source": {
+                "id": "ca84296ef941bfa461f4239a2290cb99",
+                "name": "News18",
+                "url": "https://www.news18.com"
+            },
+            "title": "Meet 'Momonator', 'Samosa Prime': Indian 'Transformers' Prove We're Totally Cool About AI-Takeover",
+            "url": "https://www.news18.com/viral/this-ai-video-turns-indian-street-food-into-transformers-and-it-is-deliciously-entertaining-aa-9484873.html",
+            "urlToImage": "https://images.news18.com/ibnlive/uploads/2025/08/news18-9-2025-08-0481608883e910f96c3a8273e7fc9db3-16x9.png",
+            "publishedAt": "2025-08-05T05:30:09Z"
+        },
         {
             "source": {
                 "id": "dd1d806725f45e4403e75c1bb23b447a",
@@ -385,6 +418,60 @@
             "url": "https://markets.businessinsider.com/news/stocks/microsoft-and-meta-drive-big-tech-s-ai-spend-toward-400-billion-1034975575",
             "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/08/ai_investment_charts_combined-499x1024.png?utm_source=markets.businessinsider.com&utm_medium=referral",
             "publishedAt": "2025-08-04T02:30:00Z"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "Indy 500 & Robotic Cars Race On Challenging Laguna Seca Raceway",
+            "url": "https://www.forbes.com/sites/sabbirrangwala/2025/08/04/indy-500--robotic-cars-race-on-challenging-laguna-seca-raceway/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6885249f794bd1d281ba8fd9/0x0.jpg?width=960",
+            "publishedAt": "2025-08-04 18:12:27"
+        },
+        {
+            "source": {
+                "name": "venturebeat"
+            },
+            "title": "Qwen-Image is a powerful, open source new AI image generator with support for embedded text in English & Chinese",
+            "url": "https://venturebeat.com/ai/qwen-image-is-a-powerful-open-source-new-ai-image-generator-with-support-for-embedded-text-in-english-chinese/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/08/aliyun-1.png?w=750",
+            "publishedAt": "2025-08-04 18:07:53"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "C2Q 2025 HDD Industry Growth Projected For 2025",
+            "url": "https://www.forbes.com/sites/tomcoughlin/2025/08/04/c2q-2025-hdd-industry-growth-projected-for-2025/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64da9d4408a85c456f88000c/0x0.jpg?width=960",
+            "publishedAt": "2025-08-04 17:54:43"
+        },
+        {
+            "source": {
+                "name": "analyticsindiamag"
+            },
+            "title": "ChatGPT Crosses 700 Million Weekly Users, Focus Shifts to Real-World Helpfulness",
+            "url": "https://analyticsindiamag.com/ai-news-updates/chatgpt-crosses-700-million-weekly-users-focus-shifts-to-real-world-helpfulness/",
+            "urlToImage": "https://analyticsindiamag.com/wp-content/uploads/2024/05/gpt4.jpg",
+            "publishedAt": "2025-08-04 17:33:05"
+        },
+        {
+            "source": {
+                "name": "newswise"
+            },
+            "title": "LLNL Pushes Frontier of Fusion Target Design with AI",
+            "url": "https://www.newswise.com/articles/llnl-pushes-frontier-of-fusion-target-design-with-ai/?sc=rssn",
+            "urlToImage": "https://www.newswise.com/legacy/image.php?height=334&image=%2Fimages%2Fuploads%2F2025%2F07%2F31%2F688be3c69b45d_AgenticND2.jpg&width=502",
+            "publishedAt": "2025-08-04 17:30:15"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Best IPTV Free Trial – Instant Delivery via WhatsApp",
+            "url": "https://www.analyticsinsight.net/tech-news/best-iptv-free-trial-instant-delivery-via-whatsapp",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-08-04%2Fip37y8rc%2FScreenshot-2025-08-04-201121.png?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-08-04 17:29:09"
         },
         {
             "source": {
@@ -2821,99 +2908,6 @@
             "url": "https://www.gizmochina.com/2025/08/01/can-iphone-17-pro-max-take-on-huawei-pura-80-ultra/",
             "urlToImage": "https://www.gizmochina.com/wp-content/uploads/2025/07/Huawei-Pura-80-Ultra-1024x501.png?x70461=",
             "publishedAt": "2025-08-01 02:18:57"
-        },
-        {
-            "source": {
-                "name": "siliconangle"
-            },
-            "title": "Apple’s revenue growth hits four-year high as iPhone sales soar",
-            "url": "https://siliconangle.com/2025/07/31/apples-revenue-growth-hits-four-year-high-iphone-sales-soar/",
-            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/07/7178643521_c0b1e40ec2_c-768x513.jpg",
-            "publishedAt": "2025-08-01 01:19:54"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "The Growing Impact Of AI And Quantum On Cybersecurity",
-            "url": "https://www.forbes.com/sites/chuckbrooks/2025/07/31/the-growing-impact-of-ai-and-quantum-on-cybersecurity/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/62d84c7e21cae0611839dc3e/0x0.jpg?width=960",
-            "publishedAt": "2025-08-01 00:47:15"
-        },
-        {
-            "source": {
-                "name": "financialcontent"
-            },
-            "title": "Unisys (UIS) Q2 Revenue Beats by 9%",
-            "url": "https://www.fool.com/data-news/2025/08/01/unisys-uis-q2-revenue-beats-by-9/",
-            "urlToImage": "https://g.foolcdn.com/image/?h=400&op=resize&url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F2e67fde4d458002cf59f26acf09dd58f97b62ce0-1024x1024.png&w=400",
-            "publishedAt": "2025-08-01 00:00:00"
-        },
-        {
-            "source": {
-                "id": "549a7a859b2345bbe231b00e7244ef99",
-                "name": "Engadget",
-                "url": "https://www.engadget.com"
-            },
-            "title": "Apple is 'open to' acquisitions to boost its AI roadmap",
-            "url": "https://www.engadget.com/ai/apple-is-open-to-acquisitions-to-boost-its-ai-roadmap-221925560.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/mTIWWFY1fs5KxDj3OYBPiA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-01/4aae2830-dda3-11ef-9f5f-9631a8d45eb7",
-            "publishedAt": "2025-07-31T22:19:25Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com"
-            },
-            "title": "Apple Surges Ahead Despite Tariff Challenges and AI Delays",
-            "url": "https://www.devdiscourse.com/article/technology/3525406-apple-surges-ahead-despite-tariff-challenges-and-ai-delays",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/28_07_2025_15_32_04_686519.png?width=920&format=jpeg",
-            "publishedAt": "2025-07-31T21:05:06Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com"
-            },
-            "title": "Apple overcomes trade war to deliver surprisingly strong quarter",
-            "url": "https://www.cp24.com/news/money/2025/07/31/apple-overcomes-trumps-trade-war-slow-start-in-ai-to-deliver-surprisingly-strong-quarter/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/LU63GGZKIRFSAF32NQVKJQHMOU.jpg?smart=true&auth=d0290873119eadd58dc63cbf4a3c5f1149cbeafd9cab13ed83a62b7fe5649af7&width=1200&height=630",
-            "publishedAt": "2025-07-31T21:01:40Z"
-        },
-        {
-            "source": {
-                "id": "17d7c2645f485578130862e0c8dd9480",
-                "name": "The Mercury News",
-                "url": "https://www.mercurynews.com"
-            },
-            "title": "Apple overcomes Trump’s trade war, slow start in AI to deliver surprisingly strong quarter",
-            "url": "https://www.mercurynews.com/2025/07/31/apple-overcomes-trumps-trade-war-slow-start-in-ai-to-deliver-surprisingly-strong-quarter/",
-            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/07/Earns_Apple_11669.jpg?w=1024&h=614",
-            "publishedAt": "2025-07-31T20:57:05Z"
-        },
-        {
-            "source": {
-                "id": "35515662ec044d3f94b543cd8802d63f",
-                "name": "WDIV ClickOnDetroit",
-                "url": "https://www.clickondetroit.com"
-            },
-            "title": "Apple overcomes Trump's trade war, slow start in AI to deliver surprisingly strong quarter",
-            "url": "https://www.clickondetroit.com/business/2025/07/31/apple-overcomes-trumps-trade-war-slow-start-in-ai-to-deliver-surprisingly-strong-quarter/",
-            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/4MVYAOAMENCU3GW3GDUDMUDZME.jpg?_a=DATAg1eAZAA0",
-            "publishedAt": "2025-07-31T20:51:43Z"
-        },
-        {
-            "source": {
-                "id": "b7a61248c3383fb45a09d6a35a7e14df",
-                "name": "Ars Technica",
-                "url": "https://arstechnica.com"
-            },
-            "title": "Blame the governor! Oklahoma’s “board meeting porn” scandal goes gonzo.",
-            "url": "https://arstechnica.com/security/2025/07/blame-the-governor-oklahomas-board-meeting-porn-scandal-goes-gonzo/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-174831357-1152x648-1753986781.jpg",
-            "publishedAt": "2025-07-31T18:56:56Z"
         }
     ]
 }
