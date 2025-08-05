@@ -1,6 +1,17 @@
 {
-    "lastUpdatedAt": "2025-08-05T15:20:12.814787Z",
+    "lastUpdatedAt": "2025-08-05T16:18:09.296000Z",
     "articles": [
+        {
+            "source": {
+                "id": "dd1d806725f45e4403e75c1bb23b447a",
+                "name": "The Irish Times",
+                "url": "https://www.irishtimes.com"
+            },
+            "title": "Karl Deeter-led mortgage and insurance fintech sold to UK plc in up to €9m deal",
+            "url": "https://www.irishtimes.com/business/2025/08/05/karl-deeter-led-mortgage-and-insurance-fintech-sold-to-uk-plc-in-up-to-9m-deal/",
+            "urlToImage": "https://www.irishtimes.com/resizer/v2/TQXMHSZLDJHTZKTGXBHKXBPVTM.jpg?smart=true&auth=61d0b9fd533b15a5d17a8b80e9658621ed67cd088328bb119a65aedcc307b54d&width=1200&height=630",
+            "publishedAt": "2025-08-05T15:22:00Z"
+        },
         {
             "source": {
                 "id": "85e5403407038478a5e7d8d100ff8e8f",
@@ -286,6 +297,24 @@
             "url": "https://www.manilatimes.net/2025/08/05/tmt-newswire/st-scholasticas-college-manila-now-the-first-ai-powered-private-school-in-partnership-with-khan-academy/2162131",
             "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/05/699645.png",
             "publishedAt": "2025-08-05T01:59:00Z"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "The Uncanny Valley Of Code: Why AI-Generated Code Is So Hard To Debug",
+            "url": "https://hackernoon.com/the-uncanny-valley-of-code-why-ai-generated-code-is-so-hard-to-debug",
+            "urlToImage": "https://hackernoon.com/https://cdn.hackernoon.com/images/a-valley-full-of-animals-waterpaint-tpnrd4s0b3ogwqt4nfv0cs2r.png",
+            "publishedAt": "2025-08-05 04:15:03"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Let's Hear From The Developers: What It's Really Like To Code With AI",
+            "url": "https://hackernoon.com/lets-hear-from-the-developers-what-its-really-like-to-code-with-ai",
+            "urlToImage": "https://hackernoon.com/https://cdn.hackernoon.com/images/a-group-of-programmers-sitting-in-a-circle-gzdeu9w0owdcacbj3eyyt162.png",
+            "publishedAt": "2025-08-05 04:00:04"
         },
         {
             "source": {
@@ -2917,33 +2946,6 @@
             "url": "https://www.ibtimes.co.in/global-ai-horizons-collaborative-intelligence-ecosystem-2030-885819",
             "urlToImage": "https://data1.ibtimes.co.in/en/full/667962/artificial-intelligence.jpg?h=450&l=50&t=40",
             "publishedAt": "2025-08-01 11:40:27"
-        },
-        {
-            "source": {
-                "name": "bitcoinworld"
-            },
-            "title": "Gemini Deep Think Unleashes a Revolutionary Era in AI Reasoning",
-            "url": "https://bitcoinworld.co.in/gemini-deep-think-ai-model/",
-            "urlToImage": "https://bitcoinworld.co.in/wp-content/uploads/gemini-deep-think-ai-model.jpg",
-            "publishedAt": "2025-08-01 11:40:11"
-        },
-        {
-            "source": {
-                "name": "theprint"
-            },
-            "title": "SubscriberWrites: India’s biotech blind spot– the missing digital layer",
-            "url": "https://theprint.in/yourturn/subscriberwrites-indias-biotech-blind-spot-the-missing-digital-layer/2710244/",
-            "urlToImage": "https://static.theprint.in/wp-content/uploads/2021/09/Bharat-Biotech-696x392.jpg",
-            "publishedAt": "2025-08-01 11:10:03"
-        },
-        {
-            "source": {
-                "name": "gizmodotech"
-            },
-            "title": "AI Won’t Boost Human Productivity Just Yet, a New Paper From the Federal Reserve Says",
-            "url": "https://gizmodo.com/ai-wont-boost-human-productivity-just-yet-a-new-paper-from-the-federal-reserve-says-2000637521",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/07/research-laboratory.jpg",
-            "publishedAt": "2025-08-01 11:00:13"
         }
     ]
 }
