@@ -1,6 +1,50 @@
 {
-    "lastUpdatedAt": "2025-08-05T12:36:59.227268Z",
+    "lastUpdatedAt": "2025-08-05T13:38:32.028698Z",
     "articles": [
+        {
+            "source": {
+                "id": "f6d6ee1134197fe1441d65a3e7915835",
+                "name": "Yahoo Singapore News",
+                "url": "https://sg.news.yahoo.com"
+            },
+            "title": "Clay valued at $3.1 billion in latest fundraise as AI continues to run hot",
+            "url": "https://sg.news.yahoo.com/clay-valued-3-1-billion-125822488.html",
+            "urlToImage": "https://media.zenfs.com/en/reuters.com/859f1c65aa4ea5370473e8779ad6ba54",
+            "publishedAt": "2025-08-05T12:58:22Z"
+        },
+        {
+            "source": {
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com"
+            },
+            "title": "Exclusive -- President Trump Dismisses AI Economic Disruption Concerns",
+            "url": "https://www.breitbart.com/politics/2025/08/05/exclusive-president-trump-dismisses-ai-economic-disruption-concerns-end-result-is-youre-going-to-need-jobs-even-more/",
+            "urlToImage": "https://media.breitbart.com/media/2025/08/Screenshot-2025-08-04-at-11.05.30 AM-640x335.png",
+            "publishedAt": "2025-08-05T12:39:50Z"
+        },
+        {
+            "source": {
+                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
+                "name": "ABC News",
+                "url": "https://www.abc.net.au"
+            },
+            "title": "Productivity Commission says government must pause plan for 'mandatory guardrails' on AI",
+            "url": "https://www.abc.net.au/news/2025-08-05/productivity-commission-ai-laws-roundtable/105609304",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/74d2a406c4008eebb81d0692490f46ba?impolicy=wcms_watermark_news&cropH=3196&cropW=5681&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+            "publishedAt": "2025-08-05T12:31:44Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com"
+            },
+            "title": "OpenAI, Google and Anthropic Win US Approval for Civilian AI Contracts",
+            "url": "https://www.bloomberg.com/news/articles/2025-08-05/openai-google-and-anthropic-win-us-approval-for-civilian-ai-contracts",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHMqa.qKbEaQ/v0/1200x788.jpg",
+            "publishedAt": "2025-08-05T12:30:00Z"
+        },
         {
             "source": {
                 "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
@@ -187,6 +231,24 @@
             "url": "https://www.manilatimes.net/2025/08/05/tmt-newswire/st-scholasticas-college-manila-now-the-first-ai-powered-private-school-in-partnership-with-khan-academy/2162131",
             "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/05/699645.png",
             "publishedAt": "2025-08-05T01:59:00Z"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "GitHub Copilot Leads The Charge In Commercial LLM-Assisted Programming",
+            "url": "https://hackernoon.com/github-copilot-leads-the-charge-in-commercial-llm-assisted-programming",
+            "urlToImage": "https://hackernoon.com/https://cdn.hackernoon.com/images/an-airplane-robot-co-pilot-sketch-color-e477njijosd1v1nzu00kz6vd.png",
+            "publishedAt": "2025-08-05 01:35:18"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "A Quick Guide To LLM Code Generation Technology And Its Limits",
+            "url": "https://hackernoon.com/a-quick-guide-to-llm-code-generation-technology-and-its-limits",
+            "urlToImage": "https://hackernoon.com/https://cdn.hackernoon.com/images/a-speed-barometer-maxing-out-hubf7gk6sdxjzmtnj67r5gfy.png",
+            "publishedAt": "2025-08-05 01:17:04"
         },
         {
             "source": {
@@ -2872,60 +2934,6 @@
             "url": "https://www.techtarget.com/whatis/feature/15-advantages-and-disadvantages-of-remote-work",
             "urlToImage": "https://www.techtarget.com/rms/onlineimages/wfh_g1217402924_searchsitetablet_520X173.jpg",
             "publishedAt": "2025-08-01 09:56:00"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "The best laptop cooling pads of 2025: Expert tested",
-            "url": "https://www.zdnet.com/article/best-laptop-cooling-pad/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/3413a4b910cd363767a6ea2e33c39303269ceb6c/2025/01/21/4cb5bbb9-03ae-4d71-b38b-564bbeef4288/llano-gaming-laptop-cooler-revised.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-08-01 09:30:15"
-        },
-        {
-            "source": {
-                "name": "techtarget"
-            },
-            "title": "5 MCP security risks and mitigation strategies",
-            "url": "https://www.techtarget.com/searchenterpriseai/tip/MCP-security-risks-and-mitigation-strategies",
-            "urlToImage": "https://www.techtarget.com/rms/onlineimages/security_a303570139_searchsitetablet_520X173.jpg",
-            "publishedAt": "2025-08-01 09:20:00"
-        },
-        {
-            "source": {
-                "name": "zephyrnet"
-            },
-            "title": "Enhance Your LLMs Using Gradio’s MCP Server Technology",
-            "url": "https://zephyrnet.com/enhance-your-llms-using-gradios-mcp-server-technology/",
-            "urlToImage": "https://zephyrnet.com/wp-content/uploads/img-rraOZXpSjE2sT6wsMdG3DQgX.png",
-            "publishedAt": "2025-08-01 09:04:01"
-        },
-        {
-            "source": {
-                "name": "engadget"
-            },
-            "title": "The best iPad cases for 2025",
-            "url": "https://www.engadget.com/computing/accessories/best-ipad-cases-to-protect-your-tablet-130033533.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/dqK3em0b.a2J.XtteZ3QCQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://s.yimg.com/os/creatr-uploaded-images/2024-12/b8a8b6d0-bd2c-11ef-bffa-3bbae91fc288",
-            "publishedAt": "2025-08-01 09:01:26"
-        },
-        {
-            "source": {
-                "name": "computerweekly"
-            },
-            "title": "What is the artificial intelligence of things (AIoT)?",
-            "url": "https://www.techtarget.com/iotagenda/definition/Artificial-Intelligence-of-Things-AIoT",
-            "urlToImage": "https://www.techtarget.com/rms/onlineimages/cloud_based_implementation_of_aiot_architecture-f_mobile.png",
-            "publishedAt": "2025-08-01 09:00:00"
-        },
-        {
-            "source": {
-                "name": "expresscomputer"
-            },
-            "title": "Agentic AI and the Illusion of Autonomy",
-            "url": "https://www.expresscomputer.in/guest-blogs/agentic-ai-and-the-illusion-of-autonomy/126741/",
-            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2025/08/01171451/EC_Anurag_Vohra_750.jpg",
-            "publishedAt": "2025-08-01 08:44:05"
         }
     ]
 }
