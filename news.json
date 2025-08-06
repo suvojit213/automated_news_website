@@ -1,6 +1,39 @@
 {
-    "lastUpdatedAt": "2025-08-06T20:18:45.808466Z",
+    "lastUpdatedAt": "2025-08-06T21:14:18.303968Z",
     "articles": [
+        {
+            "source": {
+                "id": "549a7a859b2345bbe231b00e7244ef99",
+                "name": "Engadget",
+                "url": "https://www.engadget.com"
+            },
+            "title": "Researchers hacked Google Gemini to take control of a smart home",
+            "url": "https://www.engadget.com/cybersecurity/researchers-hacked-google-gemini-to-take-control-of-a-smart-home-201926464.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/WdDnLynnrE04hRcrZOXKRg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02Njk-/https://s.yimg.com/os/creatr-uploaded-images/2025-08/5937f8c0-7300-11f0-bb6b-f4cd782ec9fa",
+            "publishedAt": "2025-08-06T20:19:26Z"
+        },
+        {
+            "source": {
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com"
+            },
+            "title": "Can US Become Robotics Capital of the World?",
+            "url": "https://www.newsmax.com/dugganflanakin/david-sacks-ai-elon-musk/2025/08/06/id/1221530/",
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=6bdc94c3-1f5f-4940-8924-1a0f91b74c2c&SiteName=Newsmax",
+            "publishedAt": "2025-08-06T20:17:03Z"
+        },
+        {
+            "source": {
+                "id": "76684855c5d801b81fd06490668d04fe",
+                "name": "TechRadar",
+                "url": "https://www.techradar.com"
+            },
+            "title": "This printer company wants to sell you cybersecurity right after hackers allegedly breached its firewall",
+            "url": "https://www.techradar.com/pro/now-even-your-printer-company-may-want-to-sell-you-endpoint-protection-as-a-subscription-will-others-follow-suit",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/hLSddyokXZvuGnzgiURiaj.jpg",
+            "publishedAt": "2025-08-06T20:11:00Z"
+        },
         {
             "source": {
                 "id": "7006f2c40c7cc01195608dbfd60259b3",
@@ -44,6 +77,17 @@
             "url": "https://gizmodo.com/get-ready-the-ai-hacks-are-coming-2000639625",
             "urlToImage": "https://gizmodo.com/app/uploads/2025/06/geminigooglegetty-1200x675.jpg",
             "publishedAt": "2025-08-06T18:10:25Z"
+        },
+        {
+            "source": {
+                "id": "1b97b25c0ec482f85326378f82f7f815",
+                "name": "Fox Business",
+                "url": "https://www.foxbusiness.com"
+            },
+            "title": "Google invests $1 billion in AI education training over 3 years in US",
+            "url": "https://www.foxbusiness.com/economy/google-commits-1b-train-us-college-students-artificial-intelligence-over-three-years",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/08/0/0/um-2.jpg?ve=1&tl=1",
+            "publishedAt": "2025-08-06T16:40:00Z"
         },
         {
             "source": {
@@ -2916,42 +2960,6 @@
             "url": "https://www.livemint.com/technology/gadgets/best-computer-set-under-rs-20000-for-daily-work-and-study-needs-top-6-affordable-picks-students-and-beginners-11754244760155.html",
             "urlToImage": "https://www.livemint.com/lm-img/img/2025/08/04/1600x900/best_computer_set_under_Rs_20000_1754280398518_1754280401509.jpg",
             "publishedAt": "2025-08-04 04:28:34"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "TypeScript Delivers Better Developer Experience With New Enhancements",
-            "url": "https://hackernoon.com/typescript-delivers-better-developer-experience-with-new-enhancements",
-            "urlToImage": "https://hackernoon.com/https://cdn.hackernoon.com/images/bmBxAWmM4deEc5kuo2xk1JIWyeN2-rq039je.png",
-            "publishedAt": "2025-08-04 04:16:02"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Could This Be the Best AI Video Generation Model? Alibaba Releases Wan 2.2",
-            "url": "https://hackernoon.com/could-this-be-the-best-ai-video-generation-model-alibaba-releases-wan-22",
-            "urlToImage": "https://hackernoon.com/https://cdn.hackernoon.com/images/2EPmk4FwPcOfhdhPz3CQJgyuGyI3-780398l.png",
-            "publishedAt": "2025-08-04 04:14:42"
-        },
-        {
-            "source": {
-                "name": "thehindubusinessline"
-            },
-            "title": "India’s semiconductor market poised for $100 billion leap by 2030",
-            "url": "https://www.thehindubusinessline.com/info-tech/indias-semiconductor-market-poised-for-100-billion-leap-by-2030/article69891943.ece",
-            "urlToImage": "https://bl-i.thgim.com/public/incoming/b6tmes/article69677590.ece/alternates/LANDSCAPE_1200/BL18_Think_semicondutor.jpg",
-            "publishedAt": "2025-08-04 02:55:18"
-        },
-        {
-            "source": {
-                "name": "asiatimes"
-            },
-            "title": "Will AI data centers crash the US economy?",
-            "url": "https://asiatimes.com/2025/08/will-ai-data-centers-crash-the-us-economy/",
-            "urlToImage": "https://i0.wp.com/asiatimes.com/wp-content/uploads/2025/08/Amazon-Data-Center.jpg?fit=780%2C439&quality=89&ssl=1",
-            "publishedAt": "2025-08-04 02:51:35"
         }
     ]
 }
