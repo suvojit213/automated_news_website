@@ -1,6 +1,61 @@
 {
-    "lastUpdatedAt": "2025-08-06T21:14:18.303968Z",
+    "lastUpdatedAt": "2025-08-06T22:17:23.819151Z",
     "articles": [
+        {
+            "source": {
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com"
+            },
+            "title": "Fortinet Stock Tumbles On Q2 Earnings: Highlights From The Report",
+            "url": "https://www.benzinga.com/markets/earnings/25/08/46930976/fortinet-stock-tumbles-on-q2-earnings-highlights-from-the-report",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/08/06/Ottawa--On--Canada---October-15--2023-Fo.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2025-08-06T21:41:00Z"
+        },
+        {
+            "source": {
+                "id": "3a3847d645a619320aa3b3484581e395",
+                "name": "CBS News",
+                "url": "https://www.cbsnews.com"
+            },
+            "title": "Google to spend $1 billion on AI education and job training in the U.S.",
+            "url": "https://www.cbsnews.com/news/google-ai-education-college-job-training-1-billion/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/08/06/014a75fd-e588-40c6-bc8f-d092da38a949/thumbnail/1200x630/8966272ae1ba273821d0cbd0418dcd43/gettyimages-2226280945.jpg",
+            "publishedAt": "2025-08-06T21:29:21Z"
+        },
+        {
+            "source": {
+                "id": "f6d6ee1134197fe1441d65a3e7915835",
+                "name": "Yahoo Singapore News",
+                "url": "https://sg.news.yahoo.com"
+            },
+            "title": "Fortinet forecasts third-quarter sales below estimates as trade uncertainty weighs",
+            "url": "https://sg.news.yahoo.com/fortinet-forecasts-third-quarter-sales-212121315.html",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+            "publishedAt": "2025-08-06T21:21:21Z"
+        },
+        {
+            "source": {
+                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
+                "name": "ABC News",
+                "url": "https://www.abc.net.au"
+            },
+            "title": "Federal politics live: Treasurer urged to 'be bold' on productivity and ditch 'lazy' AI approach",
+            "url": "https://www.abc.net.au/news/2025-08-07/federal-politics-live-blog-august-7/105621416",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/5ddfb606c99a15470cb23dafbbf52994?impolicy=wcms_watermark_news&cropH=691&cropW=1228&xPos=195&yPos=57&width=862&height=485&imformat=generic",
+            "publishedAt": "2025-08-06T21:20:00Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com"
+            },
+            "title": "Former Tesla Leaders Start AI-Focused Automotive Company",
+            "url": "https://www.bloomberg.com/news/articles/2025-08-06/former-tesla-executives-start-automotive-ai-company-densityai",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRm2SXr2Lta4/v0/1200x799.jpg",
+            "publishedAt": "2025-08-06T21:17:55Z"
+        },
         {
             "source": {
                 "id": "549a7a859b2345bbe231b00e7244ef99",
@@ -473,6 +528,42 @@
             "url": "https://www.bloomberg.com/news/articles/2025-08-06/openai-in-talks-for-share-sale-valuing-startup-at-500-billion",
             "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iL8nnNHbS7lE/v0/1200x793.jpg",
             "publishedAt": "2025-08-06T01:23:37Z"
+        },
+        {
+            "source": {
+                "name": "cio"
+            },
+            "title": "What CIOs need to know about measuring AI value",
+            "url": "https://www.cio.com/article/4032809/what-cios-need-to-know-about-measuring-ai-value.html",
+            "urlToImage": "https://www.cio.com/wp-content/uploads/2025/08/4032809-0-98472400-1754474644-original.jpg?quality=50&strip=all&w=1024",
+            "publishedAt": "2025-08-06 10:00:00"
+        },
+        {
+            "source": {
+                "name": "scientificamerican"
+            },
+            "title": "NASA Budget Cuts Could Halt Space Missions, Climate Research, Experts Warn",
+            "url": "https://www.scientificamerican.com/podcast/episode/nasa-budget-cuts-could-halt-space-missions-climate-research-experts-warn/",
+            "urlToImage": "https://static.scientificamerican.com/dam/m/19107f26d137becd/original/2508_SQ_WED_NASA_FUNDING_UPDATE-Podcast-Span-Art.png?m=1754421195.872&w=600",
+            "publishedAt": "2025-08-06 10:00:00"
+        },
+        {
+            "source": {
+                "name": "cio"
+            },
+            "title": "Gen Z faces a changing, and challenging, job market accelerated by AI",
+            "url": "https://www.cio.com/article/4033735/gen-z-faces-a-changing-and-challenging-job-market-accelerated-by-ai.html",
+            "urlToImage": "https://www.cio.com/wp-content/uploads/2025/08/4033735-0-49544500-1754474710-shutterstock_596991122.jpg?quality=50&strip=all&w=1024",
+            "publishedAt": "2025-08-06 10:00:00"
+        },
+        {
+            "source": {
+                "name": "techtarget"
+            },
+            "title": "MCP server tutorial: How to build and manage servers",
+            "url": "https://www.techtarget.com/searchenterpriseai/tutorial/MCP-server-tutorial-How-to-build-and-manage-servers",
+            "urlToImage": "https://www.techtarget.com/rms/onlineimages/strategy_g1194728105_searchsitetablet_520X173.jpg",
+            "publishedAt": "2025-08-06 09:35:00"
         },
         {
             "source": {
@@ -2879,87 +2970,6 @@
             "url": "https://www.thelincolnianonline.com/2025/08/04/promising-robotics-stocks-to-add-to-your-watchlist-august-1st.html",
             "urlToImage": "https://www.marketbeat.com/logos/nvidia-co-logo-1200x675.jpg?v=20221020142916",
             "publishedAt": "2025-08-04 09:06:52"
-        },
-        {
-            "source": {
-                "name": "techtarget"
-            },
-            "title": "What is sensor data? Examples of sensors and their uses",
-            "url": "https://www.techtarget.com/iotagenda/definition/sensor-data",
-            "urlToImage": "https://www.techtarget.com/rms/onlineImages/kirvan_paul.jpg",
-            "publishedAt": "2025-08-04 09:00:00"
-        },
-        {
-            "source": {
-                "name": "cnn"
-            },
-            "title": "‘They do not teach us what we need’: Inside the expansion of religious schools for girls across Afghanistan",
-            "url": "https://www.cnn.com/2025/08/04/asia/afghanistan-religious-schools-for-girls-expansion-intl-cmd",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/dsc00258.jpg?c=16x9&q=h_720%2Cw_1280%2Cc_fill%2Fw_256",
-            "publishedAt": "2025-08-04 08:43:43"
-        },
-        {
-            "source": {
-                "name": "digit_in"
-            },
-            "title": "Apple’s new “AI answers” team: A Google rival in the making?",
-            "url": "https://www.digit.in/features/general/apples-new-ai-answers-team-a-google-rival-in-the-making.html",
-            "urlToImage": "https://static.digit.in/Apple-answers.jpg",
-            "publishedAt": "2025-08-04 07:07:13"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "How ‘Vibe Coding’ Is Creating A New AI Economy",
-            "url": "https://www.forbes.com/sites/kolawolesamueladebayo/2025/08/04/how-vibe-coding-is-creating-a-new-ai-economy/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68904f1c4c84a7d4489d98e9/0x0.jpg?width=960",
-            "publishedAt": "2025-08-04 06:55:46"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Apple’s Answer Engine Aims for Dynamic, ChatGPT-like Responses",
-            "url": "https://www.analyticsinsight.net/news/apples-answer-engine-aims-for-dynamic-chatgpt-like-responses",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-08-04%2F3l4spva4%2FFEATURE3.gif?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-08-04 06:39:56"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "Myth Or Reality: Will AI Replace Computer Programmers?",
-            "url": "https://www.forbes.com/sites/bernardmarr/2025/08/04/myth-or-reality-will-ai-replace-computer-programmers/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6890500677c57d692ec2a503/0x0.jpg?width=960",
-            "publishedAt": "2025-08-04 06:16:49"
-        },
-        {
-            "source": {
-                "name": "gizmochina"
-            },
-            "title": "MediaTek Dimensity 9500 leak hints at 40% GPU efficiency boost, 100fps ray tracing",
-            "url": "https://www.gizmochina.com/2025/08/04/mediatek-dimensity-9500-gpu-ray-tracing-boost/",
-            "urlToImage": "https://www.gizmochina.com/wp-content/uploads/2025/08/image-16.png?x70461=",
-            "publishedAt": "2025-08-04 05:02:11"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "'I’ve Never Used ChatGPT' Isn’t a Flex — It’s a Missed Opportunity",
-            "url": "https://hackernoon.com/ive-never-used-chatgpt-isnt-a-flex-its-a-missed-opportunity",
-            "urlToImage": "https://hackernoon.com/https://cdn.hackernoon.com/images/nip9F4hg0FThhkkLJ1jscJIzSTx1-ir03lwo.png",
-            "publishedAt": "2025-08-04 04:29:23"
-        },
-        {
-            "source": {
-                "name": "livemint"
-            },
-            "title": "Best computer set under ₹20000 for daily work and study needs: Top 6 affordable picks students and beginners",
-            "url": "https://www.livemint.com/technology/gadgets/best-computer-set-under-rs-20000-for-daily-work-and-study-needs-top-6-affordable-picks-students-and-beginners-11754244760155.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2025/08/04/1600x900/best_computer_set_under_Rs_20000_1754280398518_1754280401509.jpg",
-            "publishedAt": "2025-08-04 04:28:34"
         }
     ]
 }
