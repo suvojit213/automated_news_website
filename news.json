@@ -1,6 +1,17 @@
 {
-    "lastUpdatedAt": "2025-08-06T08:23:23.687327Z",
+    "lastUpdatedAt": "2025-08-06T09:24:25.157537Z",
     "articles": [
+        {
+            "source": {
+                "id": "f16dc396e088c7c707eabe9d7479e7a2",
+                "name": "The Washington Post",
+                "url": "https://www.washingtonpost.com"
+            },
+            "title": "A politician made an AI clone of himself. The outrage was real.",
+            "url": "https://www.washingtonpost.com/world/2025/08/06/ai-chatbot-mp-britain-labour/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/08-06-2025/t_9d57fa52fce04d3980f56655550d8369_name_MP.png&w=1440",
+            "publishedAt": "2025-08-06T08:28:35Z"
+        },
         {
             "source": {
                 "id": "79baacd62152cf257ee35e8c0bec19a2",
@@ -748,6 +759,87 @@
             "url": "https://www.manilatimes.net/2025/08/05/tmt-newswire/st-scholasticas-college-manila-now-the-first-ai-powered-private-school-in-partnership-with-khan-academy/2162131",
             "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/05/699645.png",
             "publishedAt": "2025-08-05T01:59:00Z"
+        },
+        {
+            "source": {
+                "name": "mashable_me"
+            },
+            "title": "Grok Imagine lacks guardrails for sexual deepfakes",
+            "url": "https://me.mashable.com/tech/59168/grok-imagine-lacks-guardrails-for-sexual-deepfakes",
+            "urlToImage": "https://sm.mashable.com/mashable_me/article/g/grok-imagi/grok-imagine-lacks-guardrails-for-sexual-deepfakes_cq1c.jpg",
+            "publishedAt": "2025-08-05 21:16:42"
+        },
+        {
+            "source": {
+                "name": "mashable"
+            },
+            "title": "Grok Imagine lacks guardrails for sexual deepfakes",
+            "url": "https://sea.mashable.com/tech/38923/grok-imagine-lacks-guardrails-for-sexual-deepfakes",
+            "urlToImage": "https://sm.mashable.com/mashable_sea/article/g/grok-imagi/grok-imagine-lacks-guardrails-for-sexual-deepfakes_2ge2.jpg",
+            "publishedAt": "2025-08-05 21:16:42"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "User Study Evaluates Eyeglass Reflection Risks in Webcam-Based Attacks",
+            "url": "https://hackernoon.com/user-study-evaluates-eyeglass-reflection-risks-in-webcam-based-attacks",
+            "urlToImage": "https://hackernoon.com/https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-5q0385t.png",
+            "publishedAt": "2025-08-05 20:32:28"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Zoom Calls, Eyeglasses, and Accidental Espionage",
+            "url": "https://hackernoon.com/zoom-calls-eyeglasses-and-accidental-espionage",
+            "urlToImage": "https://hackernoon.com/https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-4x038tq.png",
+            "publishedAt": "2025-08-05 20:32:20"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Modeling the Optical and Signal Constraints of Webcam-Based Screen Reflection Attacks",
+            "url": "https://hackernoon.com/modeling-the-optical-and-signal-constraints-of-webcam-based-screen-reflection-attacks",
+            "urlToImage": "https://hackernoon.com/https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-yi039sh.png",
+            "publishedAt": "2025-08-05 20:32:13"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "How Eyeglass Reflections Can Leak Your Screen During Video Calls",
+            "url": "https://hackernoon.com/how-eyeglass-reflections-can-leak-your-screen-during-video-calls",
+            "urlToImage": "https://hackernoon.com/https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-ra0385l.png",
+            "publishedAt": "2025-08-05 20:32:07"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Is Amazon a Good Stock to Buy? A 2025 Investor’s Perspective",
+            "url": "https://www.analyticsinsight.net/stocks/is-amazon-a-good-stock-to-buy-a-2025-investors-perspective",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-08-05%2Fnl0t4me8%2FIs-Amazon-a-Good-Stock-to-Bu.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-08-05 20:30:00"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Succinct, The First Decentralized Prover Network, Launches On Mainnet",
+            "url": "https://hackernoon.com/succinct-the-first-decentralized-prover-network-launches-on-mainnet",
+            "urlToImage": "https://hackernoon.com/https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-sw0354c.jpeg",
+            "publishedAt": "2025-08-05 20:29:33"
+        },
+        {
+            "source": {
+                "name": "theverge"
+            },
+            "title": "The best laptop deals you can get right now",
+            "url": "https://www.theverge.com/good-deals/23161948/apple-macbook-lenovo-acer-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/257607_M4_MacBook_Air_ADiBenedetto_0021.jpg?crop=0%2C10.732984293194%2C100%2C78.534031413613&quality=90&strip=all&w=1200",
+            "publishedAt": "2025-08-05 20:23:21"
         },
         {
             "source": {
@@ -2846,116 +2938,6 @@
             "url": "https://www.manilatimes.net/2025/08/03/business/sunday-business-it/china-pushes-global-ai-pact/2161216",
             "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
             "publishedAt": "2025-08-02T16:07:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net"
-            },
-            "title": "US experts oppose Nvidia China chip sales",
-            "url": "https://www.manilatimes.net/2025/08/03/business/sunday-business-it/us-experts-oppose-nvidia-china-chip-sales/2161214",
-            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-            "publishedAt": "2025-08-02T16:06:00Z"
-        },
-        {
-            "source": {
-                "id": "18288dd33a2735f068925baac812ba0f",
-                "name": "TechSpot",
-                "url": "https://www.techspot.com"
-            },
-            "title": "Apple, Google, Microsoft, and Samsung revise advertising over exaggerated AI claims after regulator scrutiny",
-            "url": "https://www.techspot.com/news/108904-apple-google-microsoft-samsung-revise-advertising-over-exaggerated.html",
-            "urlToImage": "https://www.techspot.com/images2/news/bigimage/2025/08/2025-08-01-image-17.jpg",
-            "publishedAt": "2025-08-02T12:40:30Z"
-        },
-        {
-            "source": {
-                "id": "76684855c5d801b81fd06490668d04fe",
-                "name": "TechRadar",
-                "url": "https://www.techradar.com"
-            },
-            "title": "The 3 hottest VPNs for protecting your data this weekend - plus a bonus free option, chosen by our cybersecurity experts",
-            "url": "https://www.techradar.com/vpn/vpn-services/the-3-hottest-vpns-for-protecting-your-data-this-weekend-plus-a-bonus-free-option-chosen-by-our-cybersecurity-experts",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/XNYgnsfepi2BJUWk9bhNSa.jpg",
-            "publishedAt": "2025-08-02T09:00:00Z"
-        },
-        {
-            "source": {
-                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-                "name": "Business Insider",
-                "url": "https://markets.businessinsider.com"
-            },
-            "title": "This Is How Much AMZN, GOOGL, MSFT, and META Will Spend on AI This Year",
-            "url": "https://markets.businessinsider.com/news/stocks/this-is-how-much-amzn-googl-msft-and-meta-will-spend-on-ai-this-year-1034974930",
-            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/08/image-37-1024x410.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-            "publishedAt": "2025-08-02T06:33:00Z"
-        },
-        {
-            "source": {
-                "id": "ca84296ef941bfa461f4239a2290cb99",
-                "name": "News18",
-                "url": "https://www.news18.com"
-            },
-            "title": "India can build next cybersecurity giants: Accels Prayank Swaroop",
-            "url": "https://www.news18.com/agency-feeds/india-can-build-next-cybersecurity-giants-accels-prayank-swaroop-9479400.html",
-            "urlToImage": "https://images.news18.com/ibnlive/uploads/2025/07/News18_Business_Section_Default_Image_1600x900-2025-07-454f4d093355309283e1b9f3be42698a-16x9.jpg",
-            "publishedAt": "2025-08-02T05:00:03Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com"
-            },
-            "title": "India's Cybersecurity Renaissance: A New Frontier",
-            "url": "https://www.devdiscourse.com/article/technology/3527048-indias-cybersecurity-renaissance-a-new-frontier",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/24_07_2025_17_22_45_0821184.png?width=920&format=jpeg",
-            "publishedAt": "2025-08-02T04:57:49Z"
-        },
-        {
-            "source": {
-                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-                "name": "Business Insider",
-                "url": "https://markets.businessinsider.com"
-            },
-            "title": "Tim Cook Says He’s “Open to M&A that Accelerates” Apple’s AI Plans",
-            "url": "https://markets.businessinsider.com/news/stocks/tim-cook-says-he-s-open-to-m-a-that-accelerates-apple-s-ai-plans-1034974541",
-            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/08/image-34-1024x768.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-            "publishedAt": "2025-08-02T04:21:30Z"
-        },
-        {
-            "source": {
-                "id": "dcc4f4c6eb081eb8a9ee9cca215517f5",
-                "name": "Tom's Guide",
-                "url": "https://www.tomsguide.com"
-            },
-            "title": "'A disaster waiting to happen' - Cybersecurity experts react to UK age verification law",
-            "url": "https://www.tomsguide.com/computing/vpns/a-disaster-waiting-to-happen-cybersecurity-experts-react-to-uk-age-verification-law",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/CtfUVmicnjAGh4ouM9qUNA.jpg",
-            "publishedAt": "2025-08-02T04:00:00Z"
-        },
-        {
-            "source": {
-                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-                "name": "Business Insider",
-                "url": "https://markets.businessinsider.com"
-            },
-            "title": "Meta Is Now Targeting Startups that Specialize in AI Videos",
-            "url": "https://markets.businessinsider.com/news/stocks/meta-is-now-targeting-startups-that-specialize-in-ai-videos-1034974313",
-            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/08/image-27-1024x765.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-            "publishedAt": "2025-08-02T03:20:18Z"
-        },
-        {
-            "source": {
-                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-                "name": "Business Insider",
-                "url": "https://markets.businessinsider.com"
-            },
-            "title": "IBM’s Data Breach Report Warns that AI Tools Are Growing Hacker Targets",
-            "url": "https://markets.businessinsider.com/news/stocks/ibm-s-data-breach-report-warns-that-ai-tools-are-growing-hacker-targets-1034974788",
-            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/08/image-49-1024x764.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-            "publishedAt": "2025-08-02T02:03:00Z"
         }
     ]
 }
