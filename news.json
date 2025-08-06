@@ -1,6 +1,17 @@
 {
-    "lastUpdatedAt": "2025-08-06T10:18:33.878362Z",
+    "lastUpdatedAt": "2025-08-06T11:15:46.523278Z",
     "articles": [
+        {
+            "source": {
+                "id": "d9e5f124fd3af657d83b8787fbbae53d",
+                "name": "Raw Story",
+                "url": "https://www.rawstory.com"
+            },
+            "title": "'Skeevy' Epstein gave us the creeps: top academics recall bizarre island visit",
+            "url": "https://www.rawstory.com/raw-investigates/2673860453/",
+            "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=61429815&width=1200&height=600&coordinates=0%2C0%2C0%2C0",
+            "publishedAt": "2025-08-06T10:09:59Z"
+        },
         {
             "source": {
                 "id": "01558c024928d45cf320f6f75eede787",
@@ -803,6 +814,24 @@
             "url": "https://www.manilatimes.net/2025/08/05/tmt-newswire/st-scholasticas-college-manila-now-the-first-ai-powered-private-school-in-partnership-with-khan-academy/2162131",
             "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/05/699645.png",
             "publishedAt": "2025-08-05T01:59:00Z"
+        },
+        {
+            "source": {
+                "name": "bgr_com"
+            },
+            "title": "Before Launching GPT-5, OpenAI Is Adding Mental Health Guardrails To ChatGPT",
+            "url": "https://www.bgr.com/1932228/chatgpt-mental-health-upgrades-break-reminders/",
+            "urlToImage": "https://www.bgr.com/img/gallery/before-launching-gpt-5-openai-is-adding-mental-health-guardrails-to-chatgpt/l-intro-1754433140.jpg",
+            "publishedAt": "2025-08-05 22:45:00"
+        },
+        {
+            "source": {
+                "name": "tcbmag"
+            },
+            "title": "Minnesota Is Emerging as a Hub for Microgrid Technology",
+            "url": "https://tcbmag.com/minnesota-is-emerging-as-a-hub-for-microgrid-technology/",
+            "urlToImage": "https://d5c1j5k5drfk7.cloudfront.net/wp-content/uploads/2025/08/Microgrid-Technology-Center-External-780x572-1-750x450.webp",
+            "publishedAt": "2025-08-05 22:44:23"
         },
         {
             "source": {
@@ -2905,37 +2934,6 @@
             "url": "https://www.tomsguide.com/computing/online-security/its-not-surprising-that-the-online-safety-act-doesnt-cover-personal-data-safety",
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/WeCDVVNZLcF6YWv4mkZ2Uo-1280-80.jpg",
             "publishedAt": "2025-08-03 04:00:00"
-        },
-        {
-            "source": {
-                "name": "theverge"
-            },
-            "title": "Lenovo’s rollable laptop is the coolest computer I’ve used all year",
-            "url": "https://www.theverge.com/reviews/717491/lenovo-thinkbook-plus-gen-6-rollable-laptop-review",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/257861_Lenovo_ThinkBook_Plus_Gen_6.gif?crop=0%2C10.732984293194%2C100%2C78.534031413613&quality=90&strip=all&w=1200",
-            "publishedAt": "2025-08-03 02:14:18"
-        },
-        {
-            "source": {
-                "id": "4c8b69bf547b577f84acbba5157b439c",
-                "name": "RTE.ie",
-                "url": "https://www.rte.ie"
-            },
-            "title": "New AI rules come into force in EU",
-            "url": "https://www.rte.ie/news/business/2025/0803/1526576-eu-ai-act/",
-            "urlToImage": "https://www.rte.ie/images/0022f8a5-1600.jpg",
-            "publishedAt": "2025-08-02T23:00:00Z"
-        },
-        {
-            "source": {
-                "id": "77b86639d1384ac68141803ec5db27c0",
-                "name": "NBC News",
-                "url": "https://www.nbcnews.com"
-            },
-            "title": "Delta Air Lines assures U.S. lawmakers it will not personalize fares using AI",
-            "url": "https://www.nbcnews.com/business/travel/delta-air-lines-assures-us-lawmakers-will-not-personalize-fares-using-rcna222579",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-10/241026-delta-ch-1016-17a27b.jpg",
-            "publishedAt": "2025-08-02T22:18:00Z"
         }
     ]
 }
