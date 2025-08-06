@@ -1,5 +1,5 @@
 {
-    "lastUpdatedAt": "2025-08-06T14:20:24.434117Z",
+    "lastUpdatedAt": "2025-08-06T15:19:27.500021Z",
     "articles": [
         {
             "source": {
@@ -132,6 +132,17 @@
             "url": "https://www.manilatimes.net/2025/08/06/tmt-newswire/digital-literacy-intersectoral-action-key-to-successful-fraud-prevention-in-ph/2163112",
             "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/06/701953.jpg",
             "publishedAt": "2025-08-06T11:16:00Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com"
+            },
+            "title": "Infosys Launches Advanced Tech Centre in Hubballi",
+            "url": "https://www.devdiscourse.com/article/technology/3531742-infosys-launches-advanced-tech-centre-in-hubballi",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/09_06_2025_11_27_08_7983182.png?width=920&format=jpeg",
+            "publishedAt": "2025-08-06T11:08:55Z"
         },
         {
             "source": {
@@ -333,6 +344,24 @@
         },
         {
             "source": {
+                "name": "sify"
+            },
+            "title": "100x faster AI reasoning with fewer parameters: New model threatens to change AI forever",
+            "url": "https://www.sify.com/ai-analytics/100x-faster-ai-reasoning-with-fewer-parameters-new-model-threatens-to-change-ai-forever/",
+            "urlToImage": "https://www.sify.com/wp-content/uploads/2025/08/Screenshot-2025-08-06-084319-1024x354.webp",
+            "publishedAt": "2025-08-06 03:16:08"
+        },
+        {
+            "source": {
+                "name": "thehindu"
+            },
+            "title": "OpenAI releases open-weight reasoning models optimised for running on laptops",
+            "url": "https://www.thehindu.com/sci-tech/technology/openai-releases-open-weight-reasoning-models-optimised-for-running-on-laptops/article69899918.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/onaloj/article69899919.ece/alternates/LANDSCAPE_1200/2025-07-22T171344Z_2053399389_RC2SRFAZE7OT_RTRMADP_3_USA-FED-BANKS.JPG",
+            "publishedAt": "2025-08-06 03:09:24"
+        },
+        {
+            "source": {
                 "name": "hackaday"
             },
             "title": "Why Names Break Systems",
@@ -392,6 +421,15 @@
             "title": "The Faces of the Artificial Intelligence (AI) Revolution -- Nvidia and Palantir -- Can Plunge 42% and 74%, According to Select Wall Street Analysts",
             "url": "https://www.fool.com/investing/2025/08/06/ai-nvidia-palantir-plunge-42-and-74-wall-street/",
             "urlToImage": "https://g.foolcdn.com/image/?h=400&op=resize&url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F827829%2Finvestor-pressing-sell-button-getty.jpg&w=400",
+            "publishedAt": "2025-08-06 00:00:00"
+        },
+        {
+            "source": {
+                "name": "techtarget"
+            },
+            "title": "Hadoop vs. Spark for modern data pipelines",
+            "url": "https://www.techtarget.com/searchdatamanagement/feature/Hadoop-vs-Spark-Comparing-the-two-big-data-frameworks",
+            "urlToImage": "https://cdn.ttgtmedia.com/rms/onlineImages/tozzi_chris.jpg",
             "publishedAt": "2025-08-06 00:00:00"
         },
         {
@@ -2924,42 +2962,6 @@
             "url": "https://siliconangle.com/2025/08/03/jamie-dimon-becomes-sam-altmans-biggest-competitor/",
             "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/08/samvsjamie.png",
             "publishedAt": "2025-08-03 20:13:31"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "Office Hellscapes And AI Process Mapping",
-            "url": "https://www.forbes.com/sites/johnwerner/2025/08/03/office-hellscapes-and-ai-process-mapping/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/688fb4df8d68fd61ac4d951d/0x0.jpg?width=960",
-            "publishedAt": "2025-08-03 19:17:32"
-        },
-        {
-            "source": {
-                "name": "venturebeat"
-            },
-            "title": "Why the AI era is forcing a redesign of the entire compute backbone",
-            "url": "https://venturebeat.com/ai/why-the-ai-era-is-forcing-a-redesign-of-the-entire-compute-backbone/",
-            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/08/Rethinking-the-internet.webp?w=400",
-            "publishedAt": "2025-08-03 18:05:00"
-        },
-        {
-            "source": {
-                "name": "popsci"
-            },
-            "title": "How to properly (and safely) clean your laptop",
-            "url": "https://www.popsci.com/diy/how-to-clean-your-laptop/",
-            "urlToImage": "https://www.popsci.com/wp-content/uploads/2025/07/how_to_clean_dirty_laptop.jpg?quality=85",
-            "publishedAt": "2025-08-03 17:00:00"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Mobile AI with ONNX Runtime: How to Build Real-Time Noise Suppression That Works",
-            "url": "https://hackernoon.com/mobile-ai-with-onnx-runtime-how-to-build-real-time-noise-suppression-that-works",
-            "urlToImage": "https://hackernoon.com/https://cdn.hackernoon.com/images/5JWQSrHuzQScjyXZiIw3kX1y8LV2-vx039wm.png",
-            "publishedAt": "2025-08-03 16:03:09"
         }
     ]
 }
