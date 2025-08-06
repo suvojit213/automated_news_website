@@ -1,6 +1,17 @@
 {
-    "lastUpdatedAt": "2025-08-06T13:39:18.244676Z",
+    "lastUpdatedAt": "2025-08-06T14:20:24.434117Z",
     "articles": [
+        {
+            "source": {
+                "id": "85e5403407038478a5e7d8d100ff8e8f",
+                "name": "CP24 Toronto",
+                "url": "https://www.cp24.com"
+            },
+            "title": "Cohere's artificial intelligence platform North gets wide release",
+            "url": "https://www.cp24.com/news/money/2025/08/06/coheres-agentic-ai-platform-north-gets-wide-release-aims-to-handle-boring-work/",
+            "urlToImage": "https://www.cp24.com/resizer/v2/45MTVWGMZJHRFC5AL773PEVA2Y.jpg?smart=true&auth=0d49491190b7342739a9db4850a7c5f3b6a20601ad62d44a4d5c9c1f8bb67744&width=1200&height=630",
+            "publishedAt": "2025-08-06T13:51:50Z"
+        },
         {
             "source": {
                 "id": "eaeeaeaa1e329f65d3a921c9c867fd7b",
@@ -9,6 +20,17 @@
             },
             "title": "Court sides strikes down California law on election-related AI deepfakes",
             "url": "https://www.washingtonexaminer.com/news/3492053/court-musk-x-california-law-election-related-ai-deepfakes/",
+            "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2025/01/Elon-Musk-yy771123.webp",
+            "publishedAt": "2025-08-06T13:01:30Z"
+        },
+        {
+            "source": {
+                "id": "eaeeaeaa1e329f65d3a921c9c867fd7b",
+                "name": "Washington Examiner",
+                "url": "https://www.washingtonexaminer.com"
+            },
+            "title": "Court strikes down California law on election-related AI deepfakes",
+            "url": "https://www.washingtonexaminer.com/news/justice/3492053/court-musk-x-california-law-election-related-ai-deepfakes/",
             "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2025/01/Elon-Musk-yy771123.webp",
             "publishedAt": "2025-08-06T13:01:30Z"
         },
@@ -308,6 +330,42 @@
             "url": "https://www.bloomberg.com/news/articles/2025-08-06/openai-in-talks-for-share-sale-valuing-startup-at-500-billion",
             "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iL8nnNHbS7lE/v0/1200x793.jpg",
             "publishedAt": "2025-08-06T01:23:37Z"
+        },
+        {
+            "source": {
+                "name": "hackaday"
+            },
+            "title": "Why Names Break Systems",
+            "url": "https://hackaday.com/2025/08/05/why-names-break-systems/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2025/07/Why-the-internet-hates-my-surname-0-10-screenshot.png",
+            "publishedAt": "2025-08-06 02:00:23"
+        },
+        {
+            "source": {
+                "name": "sentinelsource"
+            },
+            "title": "CNCF Celebrates India's Cloud Native Community Growth, Recognizing a Kubestronaut Milestone",
+            "url": "https://www.keenesentinel.com/online_features/press_releases/cncf-celebrates-indias-cloud-native-community-growth-recognizing-a-kubestronaut-milestone/article_5e01f4ea-17c4-5d1b-b406-0efd629a9c78.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/keenesentinel.com/content/tncms/assets/v3/editorial/1/14/11404bdc-20fc-54c8-9930-db33edb9fd23/6892f802037a2.image.jpg?resize=300%2C57",
+            "publishedAt": "2025-08-06 02:00:00"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "How AI amplifies these other tech trends that matter most to business in 2025",
+            "url": "https://www.zdnet.com/article/how-ai-amplifies-these-other-tech-trends-that-matter-most-to-business-in-2025/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/ba9de532bb3db55d26713d35d4bf8f1bb3d23ed6/2025/08/04/dd6ce64c-7f5f-4feb-837a-3e1223a8245f/untitled-presentation-99.jpg?auto=webp&width=1280",
+            "publishedAt": "2025-08-06 02:00:00"
+        },
+        {
+            "source": {
+                "name": "newspressnow"
+            },
+            "title": "The mindbending ‘cyberpunk city’ in China that exists on so many levels",
+            "url": "https://www.newspressnow.com/news/2025/08/05/the-mindbending-cyberpunk-city-in-china-that-exists-on-so-many-levels/",
+            "urlToImage": "https://newspressnow.b-cdn.net/wp-content/uploads/2025/08/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWRveXczbjEwMDA4M2I2a2FjbXF4Y2lk-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtZG56ZHN3cjAwMzAyOHFsNmEyZDc5cmg.jpg",
+            "publishedAt": "2025-08-06 01:49:17"
         },
         {
             "source": {
@@ -2902,60 +2960,6 @@
             "url": "https://hackernoon.com/mobile-ai-with-onnx-runtime-how-to-build-real-time-noise-suppression-that-works",
             "urlToImage": "https://hackernoon.com/https://cdn.hackernoon.com/images/5JWQSrHuzQScjyXZiIw3kX1y8LV2-vx039wm.png",
             "publishedAt": "2025-08-03 16:03:09"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "10 Ways AI Is Shaping the Future of Mobile App Development",
-            "url": "https://hackernoon.com/10-ways-ai-is-shaping-the-future-of-mobile-app-development",
-            "urlToImage": "https://hackernoon.com/https://cdn.hackernoon.com/images/zYq0GkqzOOY7VKjbZZXm8LlU7gJ3-z9039l6.jpeg",
-            "publishedAt": "2025-08-03 15:29:15"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Solving Coding Puzzles: The Evolution of Programmer Assistance Tools",
-            "url": "https://hackernoon.com/solving-coding-puzzles-the-evolution-of-programmer-assistance-tools",
-            "urlToImage": "https://hackernoon.com/https://cdn.hackernoon.com/images/colorful-puzzles-qc7sd9n8etwhuafwbwzdr7l2.png",
-            "publishedAt": "2025-08-03 15:15:06"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "The Hidden Cost of Performance: How High-Load Specialization Warps Engineering Intuition",
-            "url": "https://hackernoon.com/the-hidden-cost-of-performance-how-high-load-specialization-warps-engineering-intuition",
-            "urlToImage": "https://hackernoon.com/https://cdn.hackernoon.com/images/a-meeting-room-with-men-and-women-working-on-laptops-lw6eft7doi9tw7ij6lvhivdr.png",
-            "publishedAt": "2025-08-03 15:09:29"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Can Anyone Code Now? Exploring AI Help for Non-Programmers",
-            "url": "https://hackernoon.com/can-anyone-code-now-exploring-ai-help-for-non-programmers",
-            "urlToImage": "https://hackernoon.com/https://cdn.hackernoon.com/images/a-robot-helping-a-student-with-his-computer-animated-k5negbpmmid7cqehlfjefb9w.png",
-            "publishedAt": "2025-08-03 15:00:04"
-        },
-        {
-            "source": {
-                "name": "techcrunch"
-            },
-            "title": "Inside OpenAI’s quest to make AI do anything for you",
-            "url": "https://techcrunch.com/2025/08/03/inside-openais-quest-to-make-ai-do-anything-for-you/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778705142.jpg?resize=1200%2C758",
-            "publishedAt": "2025-08-03 14:00:00"
-        },
-        {
-            "source": {
-                "name": "bitcoinworld"
-            },
-            "title": "AI Models Spark Controversy: Unveiling the Future of the Fashion Industry",
-            "url": "https://bitcoinworld.co.in/ai-models-fashion-future/",
-            "urlToImage": "https://bitcoinworld.co.in/wp-content/uploads/ai-models-fashion-future.jpg",
-            "publishedAt": "2025-08-03 13:25:11"
         }
     ]
 }
