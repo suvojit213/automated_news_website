@@ -1,6 +1,39 @@
 {
-    "lastUpdatedAt": "2025-08-07T08:23:50.432650Z",
+    "lastUpdatedAt": "2025-08-07T09:22:58.461965Z",
     "articles": [
+        {
+            "source": {
+                "id": "77b86639d1384ac68141803ec5db27c0",
+                "name": "NBC News",
+                "url": "https://www.nbcnews.com"
+            },
+            "title": "Scientists want to prevent AI from going rogue by teaching it to be bad first",
+            "url": "https://www.nbcnews.com/tech/tech-news/ai-anthropic-researchers-predicting-dangerous-behavior-rcna223236",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250806-ai-evil-lr-d5ab93.jpg",
+            "publishedAt": "2025-08-07T09:00:00Z"
+        },
+        {
+            "source": {
+                "id": "35515662ec044d3f94b543cd8802d63f",
+                "name": "WDIV ClickOnDetroit",
+                "url": "https://www.clickondetroit.com"
+            },
+            "title": "Japan tech giant SoftBank Group sees better fortunes on surging AI stocks",
+            "url": "https://www.clickondetroit.com/tech/2025/08/07/japan-tech-giant-softbank-group-sees-better-fortunes-on-surging-ai-stocks/",
+            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/KW7RZLVEHVD3ZKHO2UU7R4MKB4.jpg?_a=DATAg1eAZAA0",
+            "publishedAt": "2025-08-07T08:51:46Z"
+        },
+        {
+            "source": {
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com"
+            },
+            "title": "Google Pledges $1 Billion For AI Training At US Universities, Aims To Expand Globally",
+            "url": "https://www.benzinga.com/news/education/25/08/46954239/google-pledges-1-billion-for-ai-training-at-us-universities-aims-to-expand-globally",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/08/07/Google-Logo-At-The-Entrance-Of-Its-Headq.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2025-08-07T08:45:00Z"
+        },
         {
             "source": {
                 "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
@@ -465,6 +498,17 @@
         },
         {
             "source": {
+                "id": "bc002b453215c04fa081a97f2c6679b9",
+                "name": "Hacker News",
+                "url": "https://thehackernews.com"
+            },
+            "title": "AI Slashes Workloads for vCISOs by 68% as SMBs Demand More - New Report Reveals",
+            "url": "https://thehackernews.com/2025/08/ai-slashes-workloads-for-vcisos-by-68.html",
+            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHu8v9As9XUsaIZJEJiXZHH5-7be9ZJ2KgS2ZPplkVmI_3AEfOYuej_sSCYb8CL-byXtkgQXfr-Z4wB3zIZZe2IxD0zbz_GWHb5Km8sBOEq9_Z3GykAiYVWxfjKjSRkwbQUYJcrv2_-Tw7N-h3Rq3LAa0MyFjMq91VOWL7qlpJ5k8dHDpbX9LjIW9Asc4/s728-rw-e365/vciso.jpg",
+            "publishedAt": "2025-08-06T11:00:00Z"
+        },
+        {
+            "source": {
                 "id": "7006f2c40c7cc01195608dbfd60259b3",
                 "name": "Bloomberg",
                 "url": "https://www.bloomberg.com"
@@ -660,6 +704,33 @@
             "url": "https://www.bloomberg.com/news/articles/2025-08-06/openai-in-talks-for-share-sale-valuing-startup-at-500-billion",
             "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iL8nnNHbS7lE/v0/1200x793.jpg",
             "publishedAt": "2025-08-06T01:23:37Z"
+        },
+        {
+            "source": {
+                "name": "popsci"
+            },
+            "title": "The best office chairs for 2025, tested and reviewed",
+            "url": "https://www.popsci.com/story/reviews/best-office-chair/",
+            "urlToImage": "https://www.popsci.com/wp-content/uploads/2021/10/25/best-office-chairs.jpg?quality=85",
+            "publishedAt": "2025-08-06 21:10:04"
+        },
+        {
+            "source": {
+                "name": "space"
+            },
+            "title": "Quantum physics protects videos from prying eyes and tampering",
+            "url": "https://www.space.com/science/particle-physics/quantum-physics-protects-videos-from-prying-eyes-and-tampering",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/jWXa5WptjbHUzFyWhENW5F-1280-80.jpg",
+            "publishedAt": "2025-08-06 21:00:00"
+        },
+        {
+            "source": {
+                "name": "cnet"
+            },
+            "title": "Researchers Seize Control of Smart Homes With Malicious Gemini AI Prompts",
+            "url": "https://www.cnet.com/home/smart-home/researchers-seize-control-of-smart-homes-with-malicious-gemini-ai-prompts/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/60f78e1509fc673480c3cd5b9557cc026480b6e1/hub/2025/06/26/c718491b-2411-4747-8ab2-f153cd8d1a7e/cnet-gemini-ai-1455.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-08-06 20:44:54"
         },
         {
             "source": {
@@ -1743,6 +1814,17 @@
         },
         {
             "source": {
+                "id": "f4967fce32bfc735983f0f39dcdba127",
+                "name": "PV Magazine",
+                "url": "https://www.pv-magazine.com"
+            },
+            "title": "How to integrate machine learning in solar cell manufacturing",
+            "url": "https://www.pv-magazine.com/2025/08/05/how-to-integrate-machine-learning-in-solar-cell-manufacturing/",
+            "urlToImage": "https://www.pv-magazine.com/wp-content/uploads/2025/08/20220929_092445-1200x900.jpg",
+            "publishedAt": "2025-08-05T09:32:08Z"
+        },
+        {
+            "source": {
                 "id": "e9207083a357fb7e76b38e485888ebe7",
                 "name": "manilastandard.net",
                 "url": "https://manilastandard.net"
@@ -2651,6 +2733,17 @@
         },
         {
             "source": {
+                "id": "1e4cbb871b871f67ec707e4362224d42",
+                "name": "Newsroom",
+                "url": "https://www.who.int"
+            },
+            "title": "WHO Academy: scaling up critical global health workforce learning opportunities",
+            "url": "https://www.who.int/news/item/05-08-2025-who-academy-scaling-up-critical-global-health-workforce-learning-opportunities",
+            "urlToImage": "https://cdn.who.int/media/images/default-source/headquarters/teams/who-academy-(acd)/certificate-of-mcm-training-in-lyon.tmb-1200v.jpg?sfvrsn=7d7472fd_1",
+            "publishedAt": "2025-08-04T22:00:00Z"
+        },
+        {
+            "source": {
                 "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
                 "name": "CNBC",
                 "url": "https://www.cnbc.com"
@@ -2901,99 +2994,6 @@
             "url": "https://manilastandard.net/news/314625617/ai-search-pushing-an-already-weakened-media-ecosystem-to-the-brink.html",
             "urlToImage": "https://cdn.manilastandard.net/wp-content/uploads/2025/08/boston-globe-1024x683.jpg",
             "publishedAt": "2025-08-04T07:33:05Z"
-        },
-        {
-            "source": {
-                "id": "43ce1d937b6aed9ea231b649cb2b7b4b",
-                "name": "The Dallas Morning News",
-                "url": "https://www.dallasnews.com"
-            },
-            "title": "Are AI-powered schools the future? Not so fast",
-            "url": "https://www.dallasnews.com/opinion/editorials/2025/08/04/are-ai-powered-schools-the-future-not-so-fast/",
-            "urlToImage": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/MYNPM4NNA5E4BGOAIWXCKOMQMY.jpg?auth=52ebb0f77e6634ac35e2682c87b03cd4d9eca4181c73b008823ef086f2181e04&quality=80&width=1200&height=630&smart=true",
-            "publishedAt": "2025-08-04T07:00:00Z"
-        },
-        {
-            "source": {
-                "id": "01558c024928d45cf320f6f75eede787",
-                "name": "The Guardian",
-                "url": "https://www.theguardian.com"
-            },
-            "title": "Demis Hassabis on our AI future: ‘It’ll be 10 times bigger than the Industrial Revolution - and maybe 10 times faster’",
-            "url": "https://www.theguardian.com/technology/2025/aug/04/demis-hassabis-ai-future-10-times-bigger-than-industrial-revolution-and-10-times-faster",
-            "urlToImage": "https://i.guim.co.uk/img/media/d5e91c33050a876de575fe5431c32f4daaec8468/792_0_7920_6336/master/7920.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0898cab223198c6cf20725144ae5941e",
-            "publishedAt": "2025-08-04T04:00:03Z"
-        },
-        {
-            "source": {
-                "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
-                "name": "Fortune",
-                "url": "https://fortune.com"
-            },
-            "title": "North Korean IT worker infiltrations exploded 220% over the past 12 months, with GenAI weaponized at every stage of the hiring process",
-            "url": "https://fortune.com/2025/08/04/north-korean-it-worker-infiltrations-exploded/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/08/GettyImages-842418008.jpg?resize=1200,600",
-            "publishedAt": "2025-08-04T04:00:00Z"
-        },
-        {
-            "source": {
-                "id": "a0300bc9a6e9d5b317bd6f614767231f",
-                "name": "Forbes",
-                "url": "https://www.forbes.com"
-            },
-            "title": "Cybersecurity Incident Response Needs A War Room, Not A Playbook",
-            "url": "https://www.forbes.com/sites/heatherwishartsmith/2025/08/04/cybersecurity-incident-response-needs-a-war-room-not-a-playbook/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/688a510e9126c5410080a3b8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2025-08-04T04:00:00Z"
-        },
-        {
-            "source": {
-                "id": "5667d1dee9db93320594683816f8dcd0",
-                "name": "Bollywood Hungama",
-                "url": "https://www.bollywoodhungama.com"
-            },
-            "title": "Dhanush slams AI-edited Raanjhanaa re-release: “This isn’t the film I made”",
-            "url": "https://www.bollywoodhungama.com/news/bollywood/dhanush-slams-ai-edited-raanjhanaa-re-release-isnt-film-made/",
-            "urlToImage": "https://media5.bollywoodhungama.in/wp-content/uploads/2025/08/Dhanush-slams-AI-edited-Raanjhanaa-re-release-620.jpg",
-            "publishedAt": "2025-08-04T03:39:24Z"
-        },
-        {
-            "source": {
-                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-                "name": "Business Insider",
-                "url": "https://markets.businessinsider.com"
-            },
-            "title": "Microsoft and Meta Drive Big Tech’s AI Spend Toward $400 Billion",
-            "url": "https://markets.businessinsider.com/news/stocks/microsoft-and-meta-drive-big-tech-s-ai-spend-toward-400-billion-1034975575",
-            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/08/ai_investment_charts_combined-499x1024.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-            "publishedAt": "2025-08-04T02:30:00Z"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "Here are 6 sites requiring age verification – will you be affected?",
-            "url": "https://www.tomsguide.com/computing/vpns/here-are-6-sites-requiring-age-verification-will-you-be-affected",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/cTzA8QNQLAoLth4yvgjdqV-1280-80.jpg",
-            "publishedAt": "2025-08-04 23:00:00"
-        },
-        {
-            "source": {
-                "name": "siliconangle"
-            },
-            "title": "QuamCore raises $26M to build a million-qubit quantum computer",
-            "url": "https://siliconangle.com/2025/08/04/quamcore-raises-26m-build-million-qubit-quantum-computer/",
-            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/08/QuamCore.png",
-            "publishedAt": "2025-08-04 22:52:36"
-        },
-        {
-            "source": {
-                "name": "newswise"
-            },
-            "title": "SLAC Researchers Forge Unprecedented Gold Compound at Extreme Heat and Pressure",
-            "url": "https://www.newswise.com/articles/slac-researchers-forge-unprecedented-gold-compound-at-extreme-heat-and-pressure/?sc=rssn",
-            "urlToImage": "https://www.newswise.com/legacy/image.php?height=334&image=%2Fimages%2Fuploads%2F2025%2F08%2F04%2F6890c52b91cca_goldhydrogenillustrationfinal-1600px.jpg&time=06%3A19%3A40pm&width=502",
-            "publishedAt": "2025-08-04 22:00:30"
         }
     ]
 }
