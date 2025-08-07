@@ -1,6 +1,17 @@
 {
-    "lastUpdatedAt": "2025-08-07T19:17:17.385945Z",
+    "lastUpdatedAt": "2025-08-07T20:18:40.392243Z",
     "articles": [
+        {
+            "source": {
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com"
+            },
+            "title": "An AI version of you could live forever",
+            "url": "https://nypost.com/2025/08/07/us-news/an-ai-version-of-you-could-live-forever-but-who-would-you-really-be/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/08/newspress-collage-ptxbzl1gd-1754597449572.jpg?quality=75&strip=all&1754583181&w=1024",
+            "publishedAt": "2025-08-07T20:13:05Z"
+        },
         {
             "source": {
                 "id": "d5f1f8579b4e9b390feccfa1c0cf8028",
@@ -484,6 +495,60 @@
             "url": "https://sg.news.yahoo.com/shares-south-korean-chipmaker-sk-004633229.html?guce_referrer=aHR0cHM6Ly9zZy5uZXdzLnlhaG9vLmNvbS8_X2d1Y19jb25zZW50X3NraXA9MTc1NDU0NTgxOA&guce_referrer_sig=AQAAALeHe1SLDPeU5hVlFGE3rA-H7CAMFraD1-MPVtsQ1fOcWMqgX6FdcTS2CAE-OhgAkOXVq4qbaEqgPtr4Or7nwb7Ii9nMOXfDfv7aNe7waQ0wi4WvTu8Tfwn9ENaMWvo0kMk8hnvL0xXQAWFaJRqHMki_98ik4NlLMMTpjVVXld01&guccounter=2",
             "urlToImage": "https://media.zenfs.com/en/reuters.com/ae0fdb21f31f6a0d0cc8ef2dfdb72fbf",
             "publishedAt": "2025-08-07T00:46:33Z"
+        },
+        {
+            "source": {
+                "name": "telecom_economictimes"
+            },
+            "title": "Reliance Jio emerges as world’s largest telco with 488 mn subscribers: RIL’s Mukesh Ambani",
+            "url": "https://telecom.economictimes.indiatimes.com/news/industry/reliance-jio-becomes-worlds-largest-telecom-operator-with-488-million-users/123161292",
+            "urlToImage": "https://etimg.etb2bimg.com/photo/123161306.cms",
+            "publishedAt": "2025-08-07 08:05:02"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "TypeDance Outperforms DALL·E 3 and ControlNet in Logo Design Usability Study",
+            "url": "https://hackernoon.com/typedance-outperforms-dalle-3-and-controlnet-in-logo-design-usability-study",
+            "urlToImage": "https://hackernoon.imgix.net/images/5wpKgV75aONqkTJlafw2yQmK9yd2-wz038uq.png",
+            "publishedAt": "2025-08-07 08:00:07"
+        },
+        {
+            "source": {
+                "name": "computerweekly"
+            },
+            "title": "DeepSeek shows enterprises model distillation opportunity",
+            "url": "https://www.computerweekly.com/news/366628632/DeepSeek-shows-enterprises-model-distillation-opportunity",
+            "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/HeroImages/using-AI-agent-chatbot-Looker-Studio-adobe_searchsitetablet_520X173.jpg",
+            "publishedAt": "2025-08-07 07:40:00"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "One Go Codebase, Five Platforms: My Cross-Platform Build Journey",
+            "url": "https://hackernoon.com/one-go-codebase-five-platforms-my-cross-platform-build-journey",
+            "urlToImage": "https://substackcdn.com/image/fetch/$s_!jaJJ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https:%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff8e256d4-c1c4-4019-8b51-01098febd23f_1024x1024.jpeg",
+            "publishedAt": "2025-08-07 07:36:13"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "5 Open-Source Crypto Tools You Can Use for Free —and Support with Kivach",
+            "url": "https://hackernoon.com/5-open-source-crypto-tools-you-can-use-for-free-and-support-with-kivach",
+            "urlToImage": "https://hackernoon.imgix.net/images/AO3i53agltRgq8NH0cq0AaViIh42-fv035fr.png",
+            "publishedAt": "2025-08-07 07:32:09"
+        },
+        {
+            "source": {
+                "name": "geeky_gadgets"
+            },
+            "title": "OpenAI GPT-OSS Models Optimized for NVIDIA RTX GPUs",
+            "url": "https://www.geeky-gadgets.com/gpt-oss-models-nvidia-rtx-performance/",
+            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/08/gpt-oss-models-nvidia-rtx-performance.webp",
+            "publishedAt": "2025-08-07 07:17:14"
         },
         {
             "source": {
@@ -2945,69 +3010,6 @@
             "url": "https://lifehacker.com/tech/how-to-use-chatgpt-agent",
             "urlToImage": "https://lifehacker.com/imagery/articles/01K1X288VD5RDXB5XHFD6M81V6/hero-image.fill.size_1200x675.jpg",
             "publishedAt": "2025-08-05 14:30:00"
-        },
-        {
-            "source": {
-                "name": "arstechnica"
-            },
-            "title": "Enough is enough—I dumped Google’s worsening search for Kagi",
-            "url": "https://arstechnica.com/gadgets/2025/08/enough-is-enough-i-dumped-googles-worsening-search-for-kagi/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/lee-casting-google-into-mount-doom2-1152x648.jpg",
-            "publishedAt": "2025-08-05 14:02:12"
-        },
-        {
-            "source": {
-                "name": "expresscomputer"
-            },
-            "title": "How Technology is Enhancing India’s Financial Institutions to Redefine their Lending Processes",
-            "url": "https://www.expresscomputer.in/guest-blogs/how-technology-is-enhancing-indias-financial-institutions-to-redefine-their-lending-processes/126810/",
-            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2022/11/21122341/EC_big_data_technology_business_finance_750.jpg",
-            "publishedAt": "2025-08-05 13:53:24"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Palantir Stock Surges 110% YTD After Q2 Earnings and $10 Billion Army Deal",
-            "url": "https://www.analyticsinsight.net/news/palantir-stock-surges-110-ytd-after-q2-earnings-and-10-billion-army-deal",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-08-05%2Fe5c28efp%2FPalantir-Stock-Surges-110-YTD-After-Q2-Earnings-and-10B-Army-Deal.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-08-05 13:53:17"
-        },
-        {
-            "source": {
-                "name": "pcgamer"
-            },
-            "title": "Need to clone your boot drive for your next PC upgrade? I've discovered my new favorite tool",
-            "url": "https://www.pcgamer.com/hardware/need-to-clone-your-boot-drive-for-your-next-pc-upgrade-ive-discovered-my-new-favorite-tool/",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/LYH92rUKHyfc9BFB9W4Wi5-1280-80.jpg",
-            "publishedAt": "2025-08-05 13:03:08"
-        },
-        {
-            "source": {
-                "name": "reflector"
-            },
-            "title": "Cyberlux Corporation Awarded Critical Patent for Next-Generation Munitions Delivery System",
-            "url": "https://www.reflector.com/news/national/cyberlux-corporation-awarded-critical-patent-for-next-generation-munitions-delivery-system/article_99db18b3-95a4-5ba9-bdc8-77748d8cb5dc.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/reflector.com/content/tncms/assets/v3/editorial/6/5a/65a7ac94-0b65-5afe-9211-a45465b08951/689204c302530.image.jpg?resize=300%2C77",
-            "publishedAt": "2025-08-05 13:02:48"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "How SaaS for Banks Is Powering the Next Generation of Digital Finance",
-            "url": "https://www.analyticsinsight.net/finance/how-saas-for-banks-is-powering-the-next-generation-of-digital-finance",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-08-05%2Fc9fywhi5%2FHow-SaaS-for-Banks-Is-Powering-the-Next-Generation-of-Digital-Finance.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-08-05 12:53:25"
-        },
-        {
-            "source": {
-                "name": "techtarget"
-            },
-            "title": "Quantum computing technology pushes for IT advantage",
-            "url": "https://www.techtarget.com/searchcio/feature/Quantum-computing-technology-pushes-for-IT-advantage",
-            "urlToImage": "https://cdn.ttgtmedia.com/rms/onlineImages/moore_john.jpg",
-            "publishedAt": "2025-08-05 12:42:00"
         }
     ]
 }
