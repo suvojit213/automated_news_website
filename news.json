@@ -1,6 +1,17 @@
 {
-    "lastUpdatedAt": "2025-08-07T06:27:01.776503Z",
+    "lastUpdatedAt": "2025-08-07T07:22:01.173353Z",
     "articles": [
+        {
+            "source": {
+                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+                "name": "The Australian Financial Review",
+                "url": "https://www.afr.com"
+            },
+            "title": "NSW Labor just sneaked in this regulation on monitoring workers",
+            "url": "https://www.afr.com/work-and-careers/workplace/nsw-labor-just-sneaked-in-this-regulation-on-monitoring-workers-20250807-p5ml4w",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.2648%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/864ed551a703de6b1c3b686932fd2b41c0ab415e",
+            "publishedAt": "2025-08-07T06:50:47Z"
+        },
         {
             "source": {
                 "id": "e9207083a357fb7e76b38e485888ebe7",
@@ -627,6 +638,42 @@
             "url": "https://www.bloomberg.com/news/articles/2025-08-06/openai-in-talks-for-share-sale-valuing-startup-at-500-billion",
             "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iL8nnNHbS7lE/v0/1200x793.jpg",
             "publishedAt": "2025-08-06T01:23:37Z"
+        },
+        {
+            "source": {
+                "name": "yale"
+            },
+            "title": "AI, teaching, and language learning",
+            "url": "https://fas.yale.edu/news-announcements/news/senior-lector-i-michael-farina-ai-teaching-and-language-learning",
+            "urlToImage": "https://fas.yale.edu/sites/default/files/styles/500x302/public/2025-08/Michael-Farina-SAL2.jpg?h=0d27ee61&itok=hZBrFmOQ",
+            "publishedAt": "2025-08-06 19:20:47"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Linux 6.17: AppArmor Adds AF_UNIX Mediation and Security Enhancements",
+            "url": "https://www.webpronews.com/linux-6-17-apparmor-adds-af_unix-mediation-and-security-enhancements/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-3320d139-a75d-4aba-8816-cec0bad7e20f.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-08-06 18:49:18"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Debian 13 Trixie Delivers 13% Performance Boost Over Debian 12 on AMD EPYC",
+            "url": "https://www.webpronews.com/debian-13-trixie-delivers-13-performance-boost-over-debian-12-on-amd-epyc/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-3471a3cb-b991-4217-9592-0e90d3055222.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-08-06 18:48:13"
+        },
+        {
+            "source": {
+                "name": "techcrunch"
+            },
+            "title": "First impressions of Alexa+, Amazon’s upgraded, AI-powered digital assistant",
+            "url": "https://techcrunch.com/2025/08/06/first-impressions-of-alexa-amazons-upgraded-ai-powered-digital-assistant/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/alexa-plus-event.png?resize=1200%2C675",
+            "publishedAt": "2025-08-06 18:27:16"
         },
         {
             "source": {
@@ -2943,51 +2990,6 @@
             "url": "https://hackernoon.com/eu-doubles-down-on-ai-red-tape-with-a-rulebook-for-the-rulebook",
             "urlToImage": "https://hackernoon.com/https://cdn.hackernoon.com/images/mDnfhhvFedNRq47pIqUTurVZu0t1-wm03ler.png",
             "publishedAt": "2025-08-04 21:00:12"
-        },
-        {
-            "source": {
-                "name": "cio"
-            },
-            "title": "Cloudera acquires Taikun: Delivering the cloud experience anywhere for data and AI",
-            "url": "https://www.cio.com/article/4033804/cloudera-acquires-taikun-delivering-the-cloud-experience-anywhere-for-data-and-ai.html",
-            "urlToImage": "https://www.cio.com/wp-content/uploads/2025/08/4033804-0-79721200-1754339140-4_shutterstock_2159023877.jpg?quality=50&strip=all&w=1024",
-            "publishedAt": "2025-08-04 20:25:26"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "Indy 500 & Robotic Cars Race On Challenging Laguna Seca Raceway",
-            "url": "https://www.forbes.com/sites/sabbirrangwala/2025/08/04/indy-500--robotic-cars-race-on-challenging-laguna-seca-raceway/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6885249f794bd1d281ba8fd9/0x0.jpg?width=960",
-            "publishedAt": "2025-08-04 18:12:27"
-        },
-        {
-            "source": {
-                "name": "venturebeat"
-            },
-            "title": "Qwen-Image is a powerful, open source new AI image generator with support for embedded text in English & Chinese",
-            "url": "https://venturebeat.com/ai/qwen-image-is-a-powerful-open-source-new-ai-image-generator-with-support-for-embedded-text-in-english-chinese/",
-            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/08/aliyun-1.png?w=750",
-            "publishedAt": "2025-08-04 18:07:53"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "C2Q 2025 HDD Industry Growth Projected For 2025",
-            "url": "https://www.forbes.com/sites/tomcoughlin/2025/08/04/c2q-2025-hdd-industry-growth-projected-for-2025/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64da9d4408a85c456f88000c/0x0.jpg?width=960",
-            "publishedAt": "2025-08-04 17:54:43"
-        },
-        {
-            "source": {
-                "name": "analyticsindiamag"
-            },
-            "title": "ChatGPT Crosses 700 Million Weekly Users, Focus Shifts to Real-World Helpfulness",
-            "url": "https://analyticsindiamag.com/ai-news-updates/chatgpt-crosses-700-million-weekly-users-focus-shifts-to-real-world-helpfulness/",
-            "urlToImage": "https://analyticsindiamag.com/wp-content/uploads/2024/05/gpt4.jpg",
-            "publishedAt": "2025-08-04 17:33:05"
         }
     ]
 }
