@@ -1,6 +1,17 @@
 {
-    "lastUpdatedAt": "2025-08-07T03:40:59.305192Z",
+    "lastUpdatedAt": "2025-08-07T04:40:34.455369Z",
     "articles": [
+        {
+            "source": {
+                "id": "51aadd014176eb61b32255e2791b7207",
+                "name": "Newser",
+                "url": "https://www.newser.com"
+            },
+            "title": "AI Helps Rapidly Crack Yearlong Mystery in Alps",
+            "url": "https://www.newser.com/story/373103/ai-and-drones-crack-yearlong-mystery-in-italian-alps.html",
+            "urlToImage": "https://img2-azrcdn.newser.com/image/1626695-12-20250806182517.jpeg",
+            "publishedAt": "2025-08-07T04:00:00Z"
+        },
         {
             "source": {
                 "id": "6fea3ee012f060c6309366516e8d00be",
@@ -594,6 +605,24 @@
             "url": "https://www.bloomberg.com/news/articles/2025-08-06/openai-in-talks-for-share-sale-valuing-startup-at-500-billion",
             "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iL8nnNHbS7lE/v0/1200x793.jpg",
             "publishedAt": "2025-08-06T01:23:37Z"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "Claude Code makes it easy to trigger a code check now with this simple command",
+            "url": "https://www.zdnet.com/article/claude-code-makes-it-easy-to-trigger-a-code-check-now-with-this-simple-command/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/4ec56ba2335675a3f13373b2842a5d77f4b9370f/2025/07/16/b2710381-3d08-43fb-b0f9-72b2f5596539/anthropic-claude-code.jpg?auto=webp&width=1280",
+            "publishedAt": "2025-08-06 16:00:18"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "College students can get Google's AI Pro plan for free now. Here's how",
+            "url": "https://www.zdnet.com/article/college-students-can-get-googles-ai-pro-plan-for-free-now-heres-how/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/6d8e2517e3a6ebd65a98cb063c37c3af0b6e6fe6/2025/05/01/a4edb71e-5832-4c19-991d-8b0194504975/google-is-rolling-out-gemini-for-kids-but-it-comes-with-parental-controls.jpg?auto=webp&width=1280",
+            "publishedAt": "2025-08-06 16:00:00"
         },
         {
             "source": {
@@ -2955,33 +2984,6 @@
             "url": "https://www.newscientist.com/article/2489813-why-mathematicians-want-to-destroy-infinity-and-may-succeed/",
             "urlToImage": "https://images.newscientist.com/wp-content/uploads/2025/07/31164149/SEI_260731741.jpg",
             "publishedAt": "2025-08-04 16:00:02"
-        },
-        {
-            "source": {
-                "name": "techtarget"
-            },
-            "title": "What is fiber to the home (FTTH)?",
-            "url": "https://www.techtarget.com/searchnetworking/definition/fiber-to-the-home",
-            "urlToImage": "https://cdn.ttgtmedia.com/visuals/WhatIs/Ben%20Lutkevich.jpg",
-            "publishedAt": "2025-08-04 16:00:00"
-        },
-        {
-            "source": {
-                "name": "phys"
-            },
-            "title": "Meet 'lite intermediate black holes,' the supermassive black hole's smaller, much more mysterious cousin",
-            "url": "https://phys.org/news/2025-08-lite-intermediate-black-holes-supermassive.html",
-            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2025/meet-lite-intermediate.jpg",
-            "publishedAt": "2025-08-04 15:53:04"
-        },
-        {
-            "source": {
-                "name": "northeastlivetv"
-            },
-            "title": "Pakistan gearing up to land spacecraft on Moon by 2035 with China’s support",
-            "url": "https://northeastlivetv.com/international/pakistan-gearing-up-to-land-spacecraft-on-moon-by-2035-with-chinas-support/",
-            "urlToImage": "https://northeastlive.s3.amazonaws.com/media/uploads/2025/08/Gxg8WpDWwAAaCqy.png",
-            "publishedAt": "2025-08-04 15:45:33"
         }
     ]
 }
