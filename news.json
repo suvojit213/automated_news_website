@@ -1,6 +1,28 @@
 {
-    "lastUpdatedAt": "2025-08-08T05:25:45.488477Z",
+    "lastUpdatedAt": "2025-08-08T06:26:56.024079Z",
     "articles": [
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net"
+            },
+            "title": "OpenAI releases ChatGPT-5 as AI race accelerates",
+            "url": "https://www.manilatimes.net/2025/08/08/business/foreign-business/openai-releases-chatgpt-5-as-ai-race-accelerates/2164601",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/08/705422.jpg",
+            "publishedAt": "2025-08-08T05:56:00Z"
+        },
+        {
+            "source": {
+                "id": "7f6e8514e9d8f8376aaa9a7229861518",
+                "name": "PerthNow",
+                "url": "https://www.perthnow.com.au"
+            },
+            "title": "ChatGPT-5: Rapid advancement of Artificial Intelligence continues but tech still can’t replace people",
+            "url": "https://www.perthnow.com.au/news/technology/chatgpt-5-rapid-advancement-of-artificial-intelligence-continues-but-tech-still-cant-replace-people-c-19620050",
+            "urlToImage": "https://images.perthnow.com.au/publication/C-19620050/3e75fe542e5fb15fb048f7513259874e9fa7f37b-16x9-x0y2w1280h720.jpg?imwidth=1200",
+            "publishedAt": "2025-08-08T05:43:24Z"
+        },
         {
             "source": {
                 "id": "d6397b77175680e2678c0d60edcee7af",
@@ -638,6 +660,69 @@
             "url": "https://sg.news.yahoo.com/shares-south-korean-chipmaker-sk-004633229.html?guce_referrer=aHR0cHM6Ly9zZy5uZXdzLnlhaG9vLmNvbS8_X2d1Y19jb25zZW50X3NraXA9MTc1NDU0NTgxOA&guce_referrer_sig=AQAAALeHe1SLDPeU5hVlFGE3rA-H7CAMFraD1-MPVtsQ1fOcWMqgX6FdcTS2CAE-OhgAkOXVq4qbaEqgPtr4Or7nwb7Ii9nMOXfDfv7aNe7waQ0wi4WvTu8Tfwn9ENaMWvo0kMk8hnvL0xXQAWFaJRqHMki_98ik4NlLMMTpjVVXld01&guccounter=2",
             "urlToImage": "https://media.zenfs.com/en/reuters.com/ae0fdb21f31f6a0d0cc8ef2dfdb72fbf",
             "publishedAt": "2025-08-07T00:46:33Z"
+        },
+        {
+            "source": {
+                "name": "slashgear"
+            },
+            "title": "Do Twin-Turbo Engines Require Premium Gas? Here's Which Rating Toyota Recommends",
+            "url": "https://www.slashgear.com/1928357/does-toyota-twin-turbo-engine-require-premium-gas/",
+            "urlToImage": "https://www.slashgear.com/img/gallery/do-twin-turbo-engines-require-premium-gas-heres-which-rating-toyota-recommends/l-intro-1754068837.jpg",
+            "publishedAt": "2025-08-07 18:15:00"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "Changing this Android setting instantly doubled my phone speed (Samsung and Google models included)",
+            "url": "https://www.zdnet.com/article/changing-this-android-setting-instantly-doubled-my-phone-speed-samsung-and-google-models-included/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/2b185776a6e4c839cb0ed2fc7b58219b3ce96710/2025/07/28/bfe45173-a69d-44f6-8a31-ea885f937368/dsc06667.jpg?auto=webp&width=1280",
+            "publishedAt": "2025-08-07 18:07:00"
+        },
+        {
+            "source": {
+                "name": "thehindubusinessline"
+            },
+            "title": "GPT-5 Goes Live: Altman bets big on AI’s future amid $500 billion valuation buzz",
+            "url": "https://www.thehindubusinessline.com/info-tech/gpt-5-goes-live-altman-bets-big-on-ais-future-amid-500-billion-valuation-buzz/article69907183.ece",
+            "urlToImage": "https://bl-i.thgim.com/public/incoming/y4qxk8/article69907186.ece/alternates/LANDSCAPE_1200/2025-08-07T162317Z_206983080_RC2ZC1AWTTMU_RTRMADP_3_ARTIFICIAL-INTELLIGENCE-OPENAI.JPG",
+            "publishedAt": "2025-08-07 17:45:20"
+        },
+        {
+            "source": {
+                "name": "atlanticcouncil"
+            },
+            "title": "Reading between the lines of the dueling US and Chinese AI action plans",
+            "url": "https://www.atlanticcouncil.org/blogs/new-atlanticist/reading-between-the-lines-of-the-dueling-us-and-chinese-ai-action-plans/",
+            "urlToImage": "https://www.atlanticcouncil.org/wp-content/uploads/2025/08/2025-07-23T221501Z_2132417756_RC2LSFACV5HT_RTRMADP_3_USA-TRUMP-AI-2-HP-scaled.jpg",
+            "publishedAt": "2025-08-07 17:40:49"
+        },
+        {
+            "source": {
+                "name": "livemint"
+            },
+            "title": "OpenAI rolls out GPT-5 for free and paid users; gets major upgrades in coding and reasoning",
+            "url": "https://www.livemint.com/technology/tech-news/openai-rolls-out-gpt-5-for-free-and-paid-users-gets-major-upgrades-in-coding-and-reasoning-11754587984181.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2025/08/07/1600x900/FILES-US-TECHNOLOGY-AI-OPENAI-0_1754588103872_1754588114525.jpg",
+            "publishedAt": "2025-08-07 17:40:04"
+        },
+        {
+            "source": {
+                "name": "ibtimes"
+            },
+            "title": "OpenAI Releases ChatGPT-5 As AI Race Accelerates",
+            "url": "https://www.ibtimes.com/openai-releases-chatgpt-5-ai-race-accelerates-3780436",
+            "urlToImage": "https://d.ibtimes.com/en/full/4615123/openai-says-freshly-released-chatgpt-5-shines-vibe-coding-which-artificial-intelligence-tool.jpg",
+            "publishedAt": "2025-08-07 17:30:17"
+        },
+        {
+            "source": {
+                "name": "annistonstar"
+            },
+            "title": "OpenAI releases ChatGPT-5 as AI race accelerates",
+            "url": "https://www.annistonstar.com/news/nation_world/openai-releases-chatgpt-5-as-ai-race-accelerates/article_53e52320-4e20-54c6-bc86-c827ad6ea1ed.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/annistonstar.com/content/tncms/assets/v3/editorial/0/70/070d80b3-c812-5859-a26c-d73ed172f602/6894ed32e2b08.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-08-07 17:27:47"
         },
         {
             "source": {
@@ -2925,105 +3010,6 @@
             "url": "https://www.manilatimes.net/2025/08/05/news/dost-unveils-faster-detailed-ai-powered-weather-forecasting-system/2162313",
             "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/05/700101.jpg",
             "publishedAt": "2025-08-05T10:30:00Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com"
-            },
-            "title": "Abu Dhabi’s MGX Weighs Raising Billions for AI Investment Fund",
-            "url": "https://www.bloomberg.com/news/articles/2025-08-05/uae-s-ai-push-abu-dhabi-s-mgx-weighs-multibillion-dollar-investment-fund",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifuoUycB3yRY/v0/1200x800.jpg",
-            "publishedAt": "2025-08-05T10:21:14Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com"
-            },
-            "title": "AMD Under Pressure to Show AI Gains With Stock Beating Nvidia",
-            "url": "https://www.bloomberg.com/news/articles/2025-08-05/amd-under-pressure-to-show-ai-gains-with-stock-beating-nvidia",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJQIkRY4wMUQ/v1/1200x800.jpg",
-            "publishedAt": "2025-08-05T09:45:08Z"
-        },
-        {
-            "source": {
-                "id": "f4967fce32bfc735983f0f39dcdba127",
-                "name": "PV Magazine",
-                "url": "https://www.pv-magazine.com"
-            },
-            "title": "How to integrate machine learning in solar cell manufacturing",
-            "url": "https://www.pv-magazine.com/2025/08/05/how-to-integrate-machine-learning-in-solar-cell-manufacturing/",
-            "urlToImage": "https://www.pv-magazine.com/wp-content/uploads/2025/08/20220929_092445-1200x900.jpg",
-            "publishedAt": "2025-08-05T09:32:08Z"
-        },
-        {
-            "source": {
-                "id": "e9207083a357fb7e76b38e485888ebe7",
-                "name": "manilastandard.net",
-                "url": "https://manilastandard.net"
-            },
-            "title": "Escudero seeks to penalize AI misuse for scams, reputational risks",
-            "url": "https://manilastandard.net/news/314626144/escudero-seeks-to-penalize-ai-misuse-for-scams-reputational-risks.html",
-            "urlToImage": "https://cdn.manilastandard.net/wp-content/uploads/2025/08/senate-president-francis-chiz-escudero.jpg",
-            "publishedAt": "2025-08-05T08:32:46Z"
-        },
-        {
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com"
-            },
-            "title": "Google agrees to curb power use for AI data centers to ease strain on US grid when demand surges",
-            "url": "https://indianexpress.com/article/technology/artificial-intelligence/google-agrees-to-curb-power-use-for-ai-data-centers-to-ease-strain-on-us-grid-when-demand-surges-10170716/",
-            "urlToImage": "https://images.indianexpress.com/2025/07/Google-Reuters-2.jpg",
-            "publishedAt": "2025-08-05T08:02:26Z"
-        },
-        {
-            "source": {
-                "id": "f6d6ee1134197fe1441d65a3e7915835",
-                "name": "Yahoo Singapore News",
-                "url": "https://sg.news.yahoo.com"
-            },
-            "title": "TSMC cracks down on potential trade secret breach, initiates legal action",
-            "url": "https://sg.news.yahoo.com/tsmc-cracks-down-trade-secret-060219385.html",
-            "urlToImage": "https://media.zenfs.com/en/reuters.com/67a81d0ca5b455efe93f332f3bdb578f",
-            "publishedAt": "2025-08-05T06:02:19Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com"
-            },
-            "title": "Billie Lourd Joins Star-Studded Cast of AI Drama 'Artificial'",
-            "url": "https://www.devdiscourse.com/article/entertainment/3529832-billie-lourd-joins-star-studded-cast-of-ai-drama-artificial",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/04_08_2025_18_37_57_6637727.jpg?width=920&format=jpeg",
-            "publishedAt": "2025-08-05T05:55:42Z"
-        },
-        {
-            "source": {
-                "id": "ca84296ef941bfa461f4239a2290cb99",
-                "name": "News18",
-                "url": "https://www.news18.com"
-            },
-            "title": "Meet 'Momonator', 'Samosa Prime': Indian 'Transformers' Prove We're Totally Cool About AI-Takeover",
-            "url": "https://www.news18.com/viral/this-ai-video-turns-indian-street-food-into-transformers-and-it-is-deliciously-entertaining-aa-9484873.html",
-            "urlToImage": "https://images.news18.com/ibnlive/uploads/2025/08/news18-9-2025-08-0481608883e910f96c3a8273e7fc9db3-16x9.png",
-            "publishedAt": "2025-08-05T05:30:09Z"
-        },
-        {
-            "source": {
-                "id": "dd1d806725f45e4403e75c1bb23b447a",
-                "name": "The Irish Times",
-                "url": "https://www.irishtimes.com"
-            },
-            "title": "Dublin’s planned MetroLink will be obsolete because of artificial intelligence, says Dermot Desmond",
-            "url": "https://www.irishtimes.com/ireland/dublin/2025/08/05/dublins-planned-metrolink-will-be-obsolete-because-of-artificial-intelligence-says-dermot-desmond/",
-            "urlToImage": "https://www.irishtimes.com/resizer/v2/RS4JT5UH6NDNHBSXJYCPITPVME.png?smart=true&auth=b0f559909425ee7313c0af6d67217fbd3856405c68936641615e8bb710201cb9&width=1200&height=630",
-            "publishedAt": "2025-08-05T05:00:00Z"
         }
     ]
 }
