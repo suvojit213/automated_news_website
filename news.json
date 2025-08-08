@@ -1,6 +1,17 @@
 {
-    "lastUpdatedAt": "2025-08-08T06:26:56.024079Z",
+    "lastUpdatedAt": "2025-08-08T07:21:59.345465Z",
     "articles": [
+        {
+            "source": {
+                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
+                "name": "ABC News",
+                "url": "https://www.abc.net.au"
+            },
+            "title": "Queensland government questions Labor’s $10 million funding boost for Cryptoloc Holdings contract",
+            "url": "https://www.abc.net.au/news/2025-08-08/government-questions-labor-funding-boost-cryptoloc-contract/105629702",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/26addbf360f99f850ff68f91ff312363?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+            "publishedAt": "2025-08-08T06:33:49Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -660,6 +671,60 @@
             "url": "https://sg.news.yahoo.com/shares-south-korean-chipmaker-sk-004633229.html?guce_referrer=aHR0cHM6Ly9zZy5uZXdzLnlhaG9vLmNvbS8_X2d1Y19jb25zZW50X3NraXA9MTc1NDU0NTgxOA&guce_referrer_sig=AQAAALeHe1SLDPeU5hVlFGE3rA-H7CAMFraD1-MPVtsQ1fOcWMqgX6FdcTS2CAE-OhgAkOXVq4qbaEqgPtr4Or7nwb7Ii9nMOXfDfv7aNe7waQ0wi4WvTu8Tfwn9ENaMWvo0kMk8hnvL0xXQAWFaJRqHMki_98ik4NlLMMTpjVVXld01&guccounter=2",
             "urlToImage": "https://media.zenfs.com/en/reuters.com/ae0fdb21f31f6a0d0cc8ef2dfdb72fbf",
             "publishedAt": "2025-08-07T00:46:33Z"
+        },
+        {
+            "source": {
+                "name": "benzinga"
+            },
+            "title": "SIGGRAPH 2025 Draws Global Attention to Vancouver's Leading Computer Graphics Professionals",
+            "url": "https://www.benzinga.com/pressreleases/25/08/n46976439/siggraph-2025-draws-global-attention-to-vancouvers-leading-computer-graphics-professionals",
+            "urlToImage": "https://mma.prnewswire.com/media/2746397/SIGGRAPH_2025_Netflix.jpg",
+            "publishedAt": "2025-08-07 18:44:00"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "How This AI Model Generates Singing Avatars From Lyrics",
+            "url": "https://hackernoon.com/how-this-ai-model-generates-singing-avatars-from-lyrics",
+            "urlToImage": "https://hackernoon.imgix.net/images/5wpKgV75aONqkTJlafw2yQmK9yd2-7h038ak.png",
+            "publishedAt": "2025-08-07 18:41:58"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Joint Modeling of Text, Audio, and 3D Motion Using RapVerse",
+            "url": "https://hackernoon.com/joint-modeling-of-text-audio-and-3d-motion-using-rapverse",
+            "urlToImage": "https://hackernoon.imgix.net/images/a-robot-dancing-g84wdyjszk8x2eclbv4scg1c.png",
+            "publishedAt": "2025-08-07 18:41:50"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "This AI Turns Lyrics Into Fully Synced Song and Dance Performances",
+            "url": "https://hackernoon.com/this-ai-turns-lyrics-into-fully-synced-song-and-dance-performances",
+            "urlToImage": "https://hackernoon.imgix.net/images/a-robot-holding-a-microphone-uk2276ifs1ucrm2kddenk7ux.png",
+            "publishedAt": "2025-08-07 18:41:44"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "The RapVerse Dataset: A New Benchmark in Text-to-Music and Motion Generation",
+            "url": "https://hackernoon.com/the-rapverse-dataset-a-new-benchmark-in-text-to-music-and-motion-generation",
+            "urlToImage": "https://hackernoon.imgix.net/images/5wpKgV75aONqkTJlafw2yQmK9yd2-0p038me.png",
+            "publishedAt": "2025-08-07 18:41:24"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "A Single Prompt Will Have This AI Rapping and Dancing",
+            "url": "https://hackernoon.com/a-single-prompt-will-have-this-ai-rapping-and-dancing",
+            "urlToImage": "https://hackernoon.imgix.net/images/a-robot-performing-to-a-crowd-l30iklo3cwp79qjk508iakun.png",
+            "publishedAt": "2025-08-07 18:41:17"
         },
         {
             "source": {
@@ -2933,83 +2998,6 @@
             "url": "https://www.bloomberg.com/news/videos/2025-08-05/wall-street-underestimates-palantir-ives-says-video",
             "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXdmnWsH7uUE/v3/-1x-1.jpg",
             "publishedAt": "2025-08-05T13:16:12Z"
-        },
-        {
-            "source": {
-                "id": "f6d6ee1134197fe1441d65a3e7915835",
-                "name": "Yahoo Singapore News",
-                "url": "https://sg.news.yahoo.com"
-            },
-            "title": "Clay valued at $3.1 billion in latest fundraise as AI continues to run hot",
-            "url": "https://sg.news.yahoo.com/clay-valued-3-1-billion-125822488.html",
-            "urlToImage": "https://media.zenfs.com/en/reuters.com/859f1c65aa4ea5370473e8779ad6ba54",
-            "publishedAt": "2025-08-05T12:58:22Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com"
-            },
-            "title": "Exclusive -- President Trump Dismisses AI Economic Disruption Concerns",
-            "url": "https://www.breitbart.com/politics/2025/08/05/exclusive-president-trump-dismisses-ai-economic-disruption-concerns-end-result-is-youre-going-to-need-jobs-even-more/",
-            "urlToImage": "https://media.breitbart.com/media/2025/08/Screenshot-2025-08-04-at-11.05.30 AM-640x335.png",
-            "publishedAt": "2025-08-05T12:39:50Z"
-        },
-        {
-            "source": {
-                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
-                "name": "ABC News",
-                "url": "https://www.abc.net.au"
-            },
-            "title": "Productivity Commission says government must pause plan for 'mandatory guardrails' on AI",
-            "url": "https://www.abc.net.au/news/2025-08-05/productivity-commission-ai-laws-roundtable/105609304",
-            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/74d2a406c4008eebb81d0692490f46ba?impolicy=wcms_watermark_news&cropH=3196&cropW=5681&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-            "publishedAt": "2025-08-05T12:31:44Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com"
-            },
-            "title": "OpenAI, Google and Anthropic Win US Approval for Civilian AI Contracts",
-            "url": "https://www.bloomberg.com/news/articles/2025-08-05/openai-google-and-anthropic-win-us-approval-for-civilian-ai-contracts",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHMqa.qKbEaQ/v0/1200x788.jpg",
-            "publishedAt": "2025-08-05T12:30:00Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com"
-            },
-            "title": "I will always stand with the creator of the film: Farhan Akhtar on 'Raanjhanaa' row",
-            "url": "https://www.devdiscourse.com/article/entertainment/3530298-i-will-always-stand-with-the-creator-of-the-film-farhan-akhtar-on-raanjhanaa-row",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/01_04_2019_19_28_56_3344151.jpg?width=920&format=jpeg",
-            "publishedAt": "2025-08-05T11:36:36Z"
-        },
-        {
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com"
-            },
-            "title": "Farhan Akhtar slams Raanjhanaa’s AI-altered ending, says loyalties lie with Aanand L Rai: ‘If the creator of the film is unhappy…’",
-            "url": "https://indianexpress.com/article/entertainment/bollywood/farhan-akhtar-slams-raanjhanaas-ai-altered-ending-says-loyalties-lie-with-aanand-l-rai-if-the-creator-of-the-film-is-unhappy-10171142/",
-            "urlToImage": "https://images.indianexpress.com/2025/08/farhan-1.jpg",
-            "publishedAt": "2025-08-05T11:00:19Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net"
-            },
-            "title": "DOST unveils faster, detailed AI-powered weather forecasting system",
-            "url": "https://www.manilatimes.net/2025/08/05/news/dost-unveils-faster-detailed-ai-powered-weather-forecasting-system/2162313",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/05/700101.jpg",
-            "publishedAt": "2025-08-05T10:30:00Z"
         }
     ]
 }
