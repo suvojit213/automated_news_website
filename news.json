@@ -1,6 +1,17 @@
 {
-    "lastUpdatedAt": "2025-08-08T03:40:33.360140Z",
+    "lastUpdatedAt": "2025-08-08T04:40:18.148966Z",
     "articles": [
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com"
+            },
+            "title": "Machine learning and Edge AI drive industrial automation to new era",
+            "url": "https://www.devdiscourse.com/article/technology/3531659-machine-learning-and-edge-ai-drive-industrial-automation-to-new-era",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/06_08_2025_15_47_51_1780997.png?width=920&format=jpeg",
+            "publishedAt": "2025-08-08T03:51:58Z"
+        },
         {
             "source": {
                 "id": "79baacd62152cf257ee35e8c0bec19a2",
@@ -55,6 +66,17 @@
             "url": "https://wjla.com/news/nation-world/open-ai-chat-gpt-5-artifical-intelligence-computer-data-flagship-advancing-progress-claud-google-competitors-technical-general-technology-energy-data-limits-coding-studies-students-learning-impacts-health-benchmarks",
             "urlToImage": "https://wjla.com/resources/media2/16x9/612/986/0x32/90/9fb7fe22-123d-4b8b-b0c8-b93d560d2ac1-gettyimages2215606013612x612.jpg",
             "publishedAt": "2025-08-07T22:19:00Z"
+        },
+        {
+            "source": {
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com"
+            },
+            "title": "OpenAI releases GPT-5, free to users",
+            "url": "https://www.breitbart.com/news/openai-releases-gpt-5-free-to-users/",
+            "urlToImage": "https://media.breitbart.com/media/2025/08/wi/upi/openai-offers-federal-agencies-of-chatgpt-openai-offers-federal-agencies-of-chatgpt.jpg",
+            "publishedAt": "2025-08-07T21:25:00Z"
         },
         {
             "source": {
@@ -605,6 +627,60 @@
             "url": "https://sg.news.yahoo.com/shares-south-korean-chipmaker-sk-004633229.html?guce_referrer=aHR0cHM6Ly9zZy5uZXdzLnlhaG9vLmNvbS8_X2d1Y19jb25zZW50X3NraXA9MTc1NDU0NTgxOA&guce_referrer_sig=AQAAALeHe1SLDPeU5hVlFGE3rA-H7CAMFraD1-MPVtsQ1fOcWMqgX6FdcTS2CAE-OhgAkOXVq4qbaEqgPtr4Or7nwb7Ii9nMOXfDfv7aNe7waQ0wi4WvTu8Tfwn9ENaMWvo0kMk8hnvL0xXQAWFaJRqHMki_98ik4NlLMMTpjVVXld01&guccounter=2",
             "urlToImage": "https://media.zenfs.com/en/reuters.com/ae0fdb21f31f6a0d0cc8ef2dfdb72fbf",
             "publishedAt": "2025-08-07T00:46:33Z"
+        },
+        {
+            "source": {
+                "name": "mercurynews"
+            },
+            "title": "Newsom announces agreement to bring AI products from Big Tech into state colleges, high schools",
+            "url": "https://www.mercurynews.com/2025/08/07/newsom-agreement-bring-ai-big-tech-state-colleges/",
+            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/08/SJM-L-NEWSOMAI-0808-01.jpg?strip=all&w=1400px",
+            "publishedAt": "2025-08-07 16:28:55"
+        },
+        {
+            "source": {
+                "name": "geeky_gadgets"
+            },
+            "title": "ChatGPT 5 Incoming : 10 New Expected Features of OpenAI’s GPT-5",
+            "url": "https://www.geeky-gadgets.com/chatgpt-5-new-features/",
+            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/08/gpt-5-groundbreaking-features-overview.webp",
+            "publishedAt": "2025-08-07 16:13:43"
+        },
+        {
+            "source": {
+                "name": "livemint"
+            },
+            "title": "OpenAI GPT-5 reportedly leaked ahead of imminent launch, variants and features tipped",
+            "url": "https://www.livemint.com/technology/tech-news/openai-gpt-5-reportedly-leaked-ahead-of-immient-launch-variants-and-features-tipped-11754582507088.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2025/08/07/1600x900/Sam_Altman_1753424640091_1753424640339_1754582543632.jpg",
+            "publishedAt": "2025-08-07 16:06:11"
+        },
+        {
+            "source": {
+                "name": "insideevs"
+            },
+            "title": "‘All While in Chill Mode’: Tesla Model 3 Performance Driver Thinks About Racing a Dodge Hellcat. Then Grok Speaks Up",
+            "url": "https://insideevs.com/news/768328/tesla-vs-dodge-hellcat/",
+            "urlToImage": "https://cdn.motor1.com/images/mgl/P3Ap84/s1/tesla-vs.-dodge-hellcat.jpg",
+            "publishedAt": "2025-08-07 16:00:00"
+        },
+        {
+            "source": {
+                "name": "mercurynews"
+            },
+            "title": "AI is fast-tracking climate research",
+            "url": "https://www.mercurynews.com/2025/08/07/ai-is-fast-tracking-climate-research/",
+            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/08/202508060400MCT_____PHOTO____US-NEWS-ENV-AI-CLIMATE-RESEARCH-GET.jpg?strip=all&w=1400px",
+            "publishedAt": "2025-08-07 15:57:56"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "Why I pick this Windows laptop for creatives over my MacBook Pro (and it's not just price)",
+            "url": "https://www.zdnet.com/article/why-i-pick-this-windows-laptop-for-creatives-over-my-macbook-pro-and-its-not-just-price/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/4d21d098f34d6ef166eef65e07d451f35dd2859d/2025/08/06/aa0bd7bf-26cd-422b-9d6d-84995aebd224/asus-proart-p16-2025-image-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-08-07 15:49:00"
         },
         {
             "source": {
@@ -2958,78 +3034,6 @@
             "url": "https://www.manilatimes.net/2025/08/05/tmt-newswire/st-scholasticas-college-manila-now-the-first-ai-powered-private-school-in-partnership-with-khan-academy/2162131",
             "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/05/699645.png",
             "publishedAt": "2025-08-05T01:59:00Z"
-        },
-        {
-            "source": {
-                "name": "digit_in"
-            },
-            "title": "Meet GPT-OSS: OpenAI’s 20B and 120B parameter open-weight models, the first in six years",
-            "url": "https://www.digit.in/features/general/meet-gpt-oss-openais-20b-and-120b-parameter-open-weight-models-the-first-in-six-years.html",
-            "urlToImage": "https://static.digit.in/OpenAI-GPT-OSS-Open-Weigth-Models.png",
-            "publishedAt": "2025-08-05 23:42:11"
-        },
-        {
-            "source": {
-                "name": "bgr_com"
-            },
-            "title": "Before Launching GPT-5, OpenAI Is Adding Mental Health Guardrails To ChatGPT",
-            "url": "https://www.bgr.com/1932228/chatgpt-mental-health-upgrades-break-reminders/",
-            "urlToImage": "https://www.bgr.com/img/gallery/before-launching-gpt-5-openai-is-adding-mental-health-guardrails-to-chatgpt/l-intro-1754433140.jpg",
-            "publishedAt": "2025-08-05 22:45:00"
-        },
-        {
-            "source": {
-                "name": "tcbmag"
-            },
-            "title": "Minnesota Is Emerging as a Hub for Microgrid Technology",
-            "url": "https://tcbmag.com/minnesota-is-emerging-as-a-hub-for-microgrid-technology/",
-            "urlToImage": "https://d5c1j5k5drfk7.cloudfront.net/wp-content/uploads/2025/08/Microgrid-Technology-Center-External-780x572-1-750x450.webp",
-            "publishedAt": "2025-08-05 22:44:23"
-        },
-        {
-            "source": {
-                "name": "stimson"
-            },
-            "title": "Verify, Verify, Verify: How Technological Disruption is Redefining Nuclear Risk",
-            "url": "https://www.stimson.org/2025/verify-verify-verify-how-technological-disruption-is-redefining-nuclear-risk/",
-            "urlToImage": "https://www.stimson.org/wp-content/uploads/2025/08/Future-Control-Room2.jpeg",
-            "publishedAt": "2025-08-05 21:25:31"
-        },
-        {
-            "source": {
-                "name": "mashable_me"
-            },
-            "title": "Grok Imagine lacks guardrails for sexual deepfakes",
-            "url": "https://me.mashable.com/tech/59168/grok-imagine-lacks-guardrails-for-sexual-deepfakes",
-            "urlToImage": "https://sm.mashable.com/mashable_me/article/g/grok-imagi/grok-imagine-lacks-guardrails-for-sexual-deepfakes_cq1c.jpg",
-            "publishedAt": "2025-08-05 21:16:42"
-        },
-        {
-            "source": {
-                "name": "mashable"
-            },
-            "title": "Grok Imagine lacks guardrails for sexual deepfakes",
-            "url": "https://sea.mashable.com/tech/38923/grok-imagine-lacks-guardrails-for-sexual-deepfakes",
-            "urlToImage": "https://sm.mashable.com/mashable_sea/article/g/grok-imagi/grok-imagine-lacks-guardrails-for-sexual-deepfakes_2ge2.jpg",
-            "publishedAt": "2025-08-05 21:16:42"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "User Study Evaluates Eyeglass Reflection Risks in Webcam-Based Attacks",
-            "url": "https://hackernoon.com/user-study-evaluates-eyeglass-reflection-risks-in-webcam-based-attacks",
-            "urlToImage": "https://hackernoon.com/https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-5q0385t.png",
-            "publishedAt": "2025-08-05 20:32:28"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Zoom Calls, Eyeglasses, and Accidental Espionage",
-            "url": "https://hackernoon.com/zoom-calls-eyeglasses-and-accidental-espionage",
-            "urlToImage": "https://hackernoon.com/https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-4x038tq.png",
-            "publishedAt": "2025-08-05 20:32:20"
         }
     ]
 }
