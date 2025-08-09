@@ -1,6 +1,17 @@
 {
-    "lastUpdatedAt": "2025-08-09T01:16:46.774370Z",
+    "lastUpdatedAt": "2025-08-09T03:17:01.432347Z",
     "articles": [
+        {
+            "source": {
+                "id": "6fea3ee012f060c6309366516e8d00be",
+                "name": "News-Medical.net",
+                "url": "https://www.news-medical.net"
+            },
+            "title": "Decoding macrophage immune responses with gene editing and machine learning",
+            "url": "https://www.news-medical.net/news/20250808/Decoding-macrophage-immune-responses-with-gene-editing-and-machine-learning.aspx",
+            "urlToImage": "https://www.news-medical.net/image-handler/picture/2014/7/Macrophage-620x480.jpg",
+            "publishedAt": "2025-08-09T02:26:00Z"
+        },
         {
             "source": {
                 "id": "85e5403407038478a5e7d8d100ff8e8f",
@@ -54,6 +65,17 @@
             "title": "DeepSeek Vs OpenAI | Microsoft And Openai Probe Unauthorized Data Access Linked To Deepseek Ai |N18G",
             "url": "https://www.news18.com/videos/tech/deepseek-vs-openai-microsoft-and-openai-probe-unauthorized-data-access-linked-to-deepseek-ai-n18g-9207303.html",
             "urlToImage": "https://images.news18.com/ibnlive/uploads/2025/01/1738165562_1d8cd3a1-08d8-437f-b82d-3bd8bc3d99c1-16x9.jpeg",
+            "publishedAt": "2025-08-08T18:30:00Z"
+        },
+        {
+            "source": {
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com"
+            },
+            "title": "Nvidia Reiterates Its Chips Don’t Have Back Doors",
+            "url": "https://www.hindustantimes.com/business/nvidia-reiterates-its-chips-don-t-have-back-doors-101754471757214.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/08/06/1600x900/im-96513026_1754471761762_1754472856768.jpg",
             "publishedAt": "2025-08-08T18:30:00Z"
         },
         {
@@ -385,6 +407,78 @@
             "url": "https://www.news-medical.net/news/20250807/AI-powered-sweat-sensor-predicts-anxiety-before-symptoms-appear.aspx",
             "urlToImage": "https://www.news-medical.net/images/news/ImageForNews_816344_1754613292761656.jpg",
             "publishedAt": "2025-08-08T00:37:00Z"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "How to buy a laptop for school, work, or gaming (and our top picks for each)",
+            "url": "https://www.zdnet.com/article/how-to-buy-a-laptop-for-school-work-or-gaming-and-our-top-picks-for-each/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/1d97db13dda860b77235d5504e662ad5f12b234e/2024/06/06/87d951ac-c4f6-4112-874c-ad26dbbb194f/dsc01885.jpg?auto=webp&width=1280",
+            "publishedAt": "2025-08-08 15:07:00"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "Dell just slashed $400 off this powerful RTX 5080 Alienware gaming laptop",
+            "url": "https://www.tomsguide.com/computing/gaming-laptops/dell-just-slashed-usd400-off-this-powerful-rtx-5080-alienware-gaming-laptop",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/r59r8pUfFU9VzXwwyEMaqR-1280-80.jpg",
+            "publishedAt": "2025-08-08 14:59:35"
+        },
+        {
+            "source": {
+                "name": "theverge"
+            },
+            "title": "Tesla’s Dojo supercomputer is DOA — now what?",
+            "url": "https://www.theverge.com/tesla/756709/tesla-dojo-ai-talent-exodus-elon-musk",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24797822/09_0x0_Dojo_03.jpg?crop=0%2C3.4613147178592%2C100%2C93.077370564282&quality=90&strip=all&w=1200",
+            "publishedAt": "2025-08-08 14:48:06"
+        },
+        {
+            "source": {
+                "name": "futurism"
+            },
+            "title": "GPT-5 Users Say It Seriously Sucks",
+            "url": "https://futurism.com/gpt-5-sucks",
+            "urlToImage": "https://wordpress-assets.futurism.com/2025/08/gpt-5-sucks.jpg",
+            "publishedAt": "2025-08-08 14:05:00"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "This wired Logitech keyboard is the smartest $49 office upgrade you can make — here's why",
+            "url": "https://www.tomsguide.com/computing/peripherals/logitech-k620-review",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/8TNoRgvAyZVgMtEYWHoWrB-1280-80.jpg",
+            "publishedAt": "2025-08-08 13:44:58"
+        },
+        {
+            "source": {
+                "name": "pcgamer"
+            },
+            "title": "It's PC Gamer's Gripes Week and you know what Windows 11 is... mostly fine. But it sure ain't perfect",
+            "url": "https://www.pcgamer.com/software/operating-systems/its-pc-gamers-gripes-week-and-you-know-what-windows-11-is-mostly-fine-but-it-sure-aint-perfect/",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/7F7RynqnrJidfPSkUjzDmg-1280-80.jpg",
+            "publishedAt": "2025-08-08 13:39:19"
+        },
+        {
+            "source": {
+                "name": "news_ncsu"
+            },
+            "title": "New Physical Model Aims to Boost Energy Storage Research",
+            "url": "https://news.ncsu.edu/2025/08/physical-model-for-nonequilibrium/",
+            "urlToImage": "https://news.ncsu.edu/wp-content/uploads/2025/08/Shadow-Huang-header-NASA.jpg",
+            "publishedAt": "2025-08-08 13:21:35"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "My 4 favorite image editing apps on Linux - and two are free Photoshop alternatives",
+            "url": "https://www.zdnet.com/article/my-4-favorite-image-editing-apps-on-linux-and-two-are-free-photoshop-alternatives/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/1b3f4c82c79aec52645d71dac0ece4a0dc3650be/2025/08/08/71ce53af-2cc2-40e2-8afc-25c7b76c0254/gimp.jpg?auto=webp&width=1280",
+            "publishedAt": "2025-08-08 13:16:40"
         },
         {
             "source": {
@@ -2890,96 +2984,6 @@
             "url": "https://www.cnet.com/home/smart-home/researchers-seize-control-of-smart-homes-with-malicious-gemini-ai-prompts/",
             "urlToImage": "https://www.cnet.com/a/img/resize/60f78e1509fc673480c3cd5b9557cc026480b6e1/hub/2025/06/26/c718491b-2411-4747-8ab2-f153cd8d1a7e/cnet-gemini-ai-1455.jpg?auto=webp&fit=crop&height=675&width=1200",
             "publishedAt": "2025-08-06 20:44:54"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "AWS Boosts Aurora Serverless v2 with 30% Performance Gains via ML Scaling",
-            "url": "https://www.webpronews.com/aws-boosts-aurora-serverless-v2-with-30-performance-gains-via-ml-scaling/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-9e037342-f227-4fbc-8c1c-ecd061ac30b5.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-08-06 20:10:44"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "Zillow Group Reports Second-Quarter 2025 Financial Results",
-            "url": "https://www.prnewswire.com/news-releases/zillow-group-reports-second-quarter-2025-financial-results-302523351.html",
-            "urlToImage": "https://mma.prnewswire.com/media/844957/Zillow_Group_Logo.jpg?p=original",
-            "publishedAt": "2025-08-06 20:05:00"
-        },
-        {
-            "source": {
-                "name": "biztoc"
-            },
-            "title": "Earnings Season Makes It Clear: AI Is the Only Game in Town",
-            "url": "https://biztoc.com/x/153370b7aa821406",
-            "urlToImage": "https://cdn.biztoc.com/153370b7aa821406_sq.webp",
-            "publishedAt": "2025-08-06 19:36:42"
-        },
-        {
-            "source": {
-                "name": "yale"
-            },
-            "title": "AI, teaching, and language learning",
-            "url": "https://fas.yale.edu/news-announcements/news/senior-lector-i-michael-farina-ai-teaching-and-language-learning",
-            "urlToImage": "https://fas.yale.edu/sites/default/files/styles/500x302/public/2025-08/Michael-Farina-SAL2.jpg?h=0d27ee61&itok=hZBrFmOQ",
-            "publishedAt": "2025-08-06 19:20:47"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Linux 6.17: AppArmor Adds AF_UNIX Mediation and Security Enhancements",
-            "url": "https://www.webpronews.com/linux-6-17-apparmor-adds-af_unix-mediation-and-security-enhancements/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-3320d139-a75d-4aba-8816-cec0bad7e20f.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-08-06 18:49:18"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Debian 13 Trixie Delivers 13% Performance Boost Over Debian 12 on AMD EPYC",
-            "url": "https://www.webpronews.com/debian-13-trixie-delivers-13-performance-boost-over-debian-12-on-amd-epyc/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-3471a3cb-b991-4217-9592-0e90d3055222.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-08-06 18:48:13"
-        },
-        {
-            "source": {
-                "name": "techcrunch"
-            },
-            "title": "First impressions of Alexa+, Amazon’s upgraded, AI-powered digital assistant",
-            "url": "https://techcrunch.com/2025/08/06/first-impressions-of-alexa-amazons-upgraded-ai-powered-digital-assistant/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/alexa-plus-event.png?resize=1200%2C675",
-            "publishedAt": "2025-08-06 18:27:16"
-        },
-        {
-            "source": {
-                "name": "engadget"
-            },
-            "title": "Gemini's new Guided Learning mode can quiz students and create interactive study aids",
-            "url": "https://www.engadget.com/ai/geminis-new-guided-learning-mode-can-quiz-students-and-create-interactive-study-aids-181743349.html",
-            "urlToImage": "https://o.aolcdn.com/images/dims?client=19f2b5e49a271b2bde77&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-08%2F66ee3c30-72ed-11f0-bef7-7a8e45d5094c&resize=1400%2C787&signature=79720734cb2cc5e1383914d989312ec57f81c1a3",
-            "publishedAt": "2025-08-06 18:17:46"
-        },
-        {
-            "source": {
-                "name": "insideevs"
-            },
-            "title": "Tesla Expert Compares Used Models. Then He Reveals the One Key Distinction All New Buyers Need to Know Before Purchase",
-            "url": "https://insideevs.com/news/768215/tesla-hardware-3-vs-hardware-4/",
-            "urlToImage": "https://cdn.motor1.com/images/mgl/G3eGoJ/s1/used-tesla-hardware-3-vs-hardware-4.jpg",
-            "publishedAt": "2025-08-06 18:00:00"
-        },
-        {
-            "source": {
-                "name": "wired"
-            },
-            "title": "Inside the Biden Administration’s Unpublished Report on AI Safety",
-            "url": "https://www.wired.com/story/inside-the-biden-administrations-unpublished-report-on-ai-safety/",
-            "urlToImage": "https://media.wired.com/photos/6883c221464958621688abf6/1:1/w_120,c_limit/AI-Lab-White-House-Buried-Work-Red-Teaming-Frontier-AI-Models-Business-2224363689.jpg",
-            "publishedAt": "2025-08-06 18:00:00"
         }
     ]
 }
