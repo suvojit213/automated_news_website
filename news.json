@@ -1,6 +1,17 @@
 {
-    "lastUpdatedAt": "2025-08-09T04:25:39.193957Z",
+    "lastUpdatedAt": "2025-08-09T05:16:11.527540Z",
     "articles": [
+        {
+            "source": {
+                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+                "name": "Firstpost",
+                "url": "https://www.firstpost.com"
+            },
+            "title": "Grok’s at it again: Elon Musk’s AI accused of generating Taylor swift nudes without any prompts",
+            "url": "https://www.firstpost.com/tech/groks-at-it-again-elon-musks-ai-accused-of-generating-taylor-swift-nudes-without-any-prompts-13922571.html",
+            "urlToImage": "https://images.firstpost.com/uploads/2025/08/tay-2025-08-3010ba1520ffb9ed6f18c833c0d2cf95.jpg?im=FitAndFill=(1200,675)",
+            "publishedAt": "2025-08-09T04:32:58Z"
+        },
         {
             "source": {
                 "id": "6fea3ee012f060c6309366516e8d00be",
@@ -11,6 +22,17 @@
             "url": "https://www.news-medical.net/news/20250808/Decoding-macrophage-immune-responses-with-gene-editing-and-machine-learning.aspx",
             "urlToImage": "https://www.news-medical.net/image-handler/picture/2014/7/Macrophage-620x480.jpg",
             "publishedAt": "2025-08-09T02:26:00Z"
+        },
+        {
+            "source": {
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Business Insider",
+                "url": "https://markets.businessinsider.com"
+            },
+            "title": "Nvidia Stock (NVDA) Closes at Record High",
+            "url": "https://markets.businessinsider.com/news/stocks/nvidia-stock-nvda-closes-at-record-high-1035013128",
+            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/08/image-561.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+            "publishedAt": "2025-08-09T02:08:14Z"
         },
         {
             "source": {
@@ -407,6 +429,51 @@
             "url": "https://www.news-medical.net/news/20250807/AI-powered-sweat-sensor-predicts-anxiety-before-symptoms-appear.aspx",
             "urlToImage": "https://www.news-medical.net/images/news/ImageForNews_816344_1754613292761656.jpg",
             "publishedAt": "2025-08-08T00:37:00Z"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "How to Prepare for a Data Science Interview?",
+            "url": "https://www.analyticsinsight.net/data-science/how-to-prepare-for-a-data-science-interview",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-08-08%2Fmaaq9703%2FHow-to-Prepare-for-a-Data-Science-Interview.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-08-08 17:15:58"
+        },
+        {
+            "source": {
+                "name": "insideevs"
+            },
+            "title": "‘We Had To Pre-Install Everything’: Man Turns His Retro Mercedes Into an Electric Car. Here’s the Final Product",
+            "url": "https://insideevs.com/news/768472/mercedes-w123-electric-car-converstion/",
+            "urlToImage": "https://cdn.motor1.com/images/mgl/XBq102/s1/mercedes-electric-car.jpg",
+            "publishedAt": "2025-08-08 17:00:00"
+        },
+        {
+            "source": {
+                "name": "billboard"
+            },
+            "title": "What Does the White House AI Action Plan Mean For Music?",
+            "url": "https://www.billboard.com/pro/white-house-ai-action-plan-what-mean-music/",
+            "urlToImage": "https://www.billboard.com/wp-content/uploads/2025/08/080725-FOLLOW-THE-MONEY-Trump-AI-2025-billboard-1536.jpg?crop=1&h=628&w=942",
+            "publishedAt": "2025-08-08 16:44:04"
+        },
+        {
+            "source": {
+                "name": "techtarget"
+            },
+            "title": "Intel CEO's potential China links a warning for U.S. companies",
+            "url": "https://www.techtarget.com/searchcio/news/366628781/Intel-CEOs-potential-China-links-a-warning-for-US-companies",
+            "urlToImage": "https://cdn.ttgtmedia.com/rms/onlineImages/holland_makenzie.jpg",
+            "publishedAt": "2025-08-08 16:37:00"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Google Pixel 10 Leaks Advanced Features: What’s Changing?",
+            "url": "https://www.analyticsinsight.net/gadgets/google-pixel-10-leaks-advanced-features-whats-changing",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-08-08%2Frmrgpp3i%2FGoogle-Pixel-10-Leaks-Advanced-Features-What%E2%80%99s-Changing.gif?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-08-08 16:30:00"
         },
         {
             "source": {
@@ -2919,71 +2986,6 @@
             "url": "https://sg.news.yahoo.com/openai-talks-share-sale-valuing-014446944.html",
             "urlToImage": "https://media.zenfs.com/en/reuters.com/9af63d08087e4f503a5d1e26cdf92d36",
             "publishedAt": "2025-08-06T01:44:46Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com"
-            },
-            "title": "OpenAI in Talks for Share Sale Valuing Startup at $500 Billion",
-            "url": "https://www.bloomberg.com/news/articles/2025-08-06/openai-in-talks-for-share-sale-valuing-startup-at-500-billion",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iL8nnNHbS7lE/v0/1200x793.jpg",
-            "publishedAt": "2025-08-06T01:23:37Z"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "XtalPi and DoveTree Announce Landmark $6 Billion AI Drug Discovery Collaboration",
-            "url": "https://www.prnewswire.com/news-releases/xtalpi-and-dovetree-announce-landmark-6-billion-ai-drug-discovery-collaboration-302523824.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2374018/XtalPi_EN_Logo.jpg?p=original",
-            "publishedAt": "2025-08-06 23:56:00"
-        },
-        {
-            "source": {
-                "name": "cnet"
-            },
-            "title": "AI Sucks at Sudoku. Much More Troubling Is That It Can't Explain Why",
-            "url": "https://www.cnet.com/tech/services-and-software/ai-sucks-at-sudoku-much-more-troubling-is-that-it-cant-explain-why/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/ab04348177ba65a246194b5e68681b74ac192e6f/hub/2025/08/06/35b5b376-ca0f-4344-8e81-cc4b65e3994e/gettyimages-1440979336.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-08-06 23:55:37"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "SIGGRAPH 2025 Ignites Global AI Dialogue Across Art, Science, and Industry",
-            "url": "https://www.prnewswire.com/news-releases/siggraph-2025-ignites-global-ai-dialogue-across-art-science-and-industry-302523813.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2745831/SIGGRAPH_2025_Moment_Factory.jpg?p=original",
-            "publishedAt": "2025-08-06 23:38:00"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "LG Display presents world's best OLED technologies alongside historic firsts at K-Display 2025",
-            "url": "https://www.prnewswire.com/news-releases/lg-display-presents-worlds-best-oled-technologies-alongside-historic-firsts-at-k-display-2025-302523775.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2745818/Photo__LG_Display_s_45_inch_5K2K_Gaming_OLED.jpg?p=original",
-            "publishedAt": "2025-08-06 23:30:00"
-        },
-        {
-            "source": {
-                "name": "universetoday"
-            },
-            "title": "Scientists Crack Earth's Magnetic Field Puzzle",
-            "url": "https://www.universetoday.com/articles/scientists-crack-earths-magnetic-field-puzzle",
-            "urlToImage": "https://www.universetoday.com/article_images/Geodynamo_Between_Reversals_20250806_225834.gif",
-            "publishedAt": "2025-08-06 23:01:39"
-        },
-        {
-            "source": {
-                "name": "venturebeat"
-            },
-            "title": "New ‘persona vectors’ from Anthropic let you decode and direct an LLM’s personality",
-            "url": "https://venturebeat.com/ai/new-persona-vectors-from-anthropic-let-you-decode-and-direct-an-llms-personality/",
-            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/08/model-behavior.jpg?w=750",
-            "publishedAt": "2025-08-06 22:11:20"
         }
     ]
 }
