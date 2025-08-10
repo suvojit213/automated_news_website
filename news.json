@@ -1,6 +1,50 @@
 {
-    "lastUpdatedAt": "2025-08-10T11:12:43.386723Z",
+    "lastUpdatedAt": "2025-08-10T12:31:47.874546Z",
     "articles": [
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com"
+            },
+            "title": "AI is changing the lucrative search business. Here's how to pick the winners - and avoid the losers",
+            "url": "https://www.cnbc.com/2025/08/10/ai-is-changing-the-lucrative-search-business-heres-how-to-pick-the-winners-and-avoid-the-losers.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108182663-1754516086028-gettyimages-2162021891-72_ai.jpeg?v=1754516107&w=1920&h=1080",
+            "publishedAt": "2025-08-10T11:56:06Z"
+        },
+        {
+            "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com"
+            },
+            "title": "Free AI courses for beginners that does not require any prior experience",
+            "url": "https://indianexpress.com/article/education/ai-courses-free-for-beginners-no-experience-ibm-google-microsoft-10170812/",
+            "urlToImage": "https://images.indianexpress.com/2025/08/ai-free-courses-beginners.jpg",
+            "publishedAt": "2025-08-10T11:31:24Z"
+        },
+        {
+            "source": {
+                "id": "e1b896cc9b8775d3aaac2320e6dcf1f6",
+                "name": "Crypto News",
+                "url": "https://crypto.news"
+            },
+            "title": "The rise of real-world cyber threats",
+            "url": "https://crypto.news/the-rise-of-real-world-cyber-threats-opinion/",
+            "urlToImage": "https://media.crypto.news/2025/08/crypto-news-The-rise-of-real-world-cyber-threats-option04.webp",
+            "publishedAt": "2025-08-10T11:02:20Z"
+        },
+        {
+            "source": {
+                "id": "f5081afeaba654292dd91fffd29f9dd4",
+                "name": "The Globe and Mail",
+                "url": "https://www.theglobeandmail.com"
+            },
+            "title": "Why the em dash is attracting unfair suspicion",
+            "url": "https://www.theglobeandmail.com/life/article-em-dash-artificial-intelligence-punctuation-authorship/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/v2/OCRZRNEHYBFKFPKP34FYM4D2QM.jpg?auth=1f30decd251de73b232185bbc94b70e460eb90cad93e50d89561e9eec2e93a0c&width=1200&height=800&quality=80&smart=true",
+            "publishedAt": "2025-08-10T11:00:00Z"
+        },
         {
             "source": {
                 "id": "93e59eaaf800fc544a6df1a4fc5c0cdc",
@@ -121,6 +165,24 @@
             "url": "https://sg.news.yahoo.com/china-wants-us-relax-chip-041557399.html",
             "urlToImage": "https://media.zenfs.com/en/reuters.com/c34f359d7f80d16e97a4d8b319316bfe",
             "publishedAt": "2025-08-10T04:15:57Z"
+        },
+        {
+            "source": {
+                "name": "financialcontent"
+            },
+            "title": "Billionaire Bill Gates Has 67% of His Foundation's $45 Billion Portfolio Invested in 3 Marvelous Stocks",
+            "url": "https://www.fool.com/investing/2025/08/10/billionaire-bill-gates-has-67-of-his-foundations-4/",
+            "urlToImage": "https://g.foolcdn.com/image/?h=400&op=resize&url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F828098%2Fgettyimages-pie-chart-man-inserting-final-piece.jpg&w=400",
+            "publishedAt": "2025-08-10 00:00:00"
+        },
+        {
+            "source": {
+                "name": "financialcontent"
+            },
+            "title": "Want to Invest in Quantum Computing? 3 Stocks That Are Great Buys Right Now",
+            "url": "https://www.fool.com/investing/2025/08/10/want-to-invest-in-quantum-computing-3-stocks-that/",
+            "urlToImage": "https://g.foolcdn.com/image/?h=400&op=resize&url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F827001%2Fimage-of-quantum-computing.jpg&w=400",
+            "publishedAt": "2025-08-10 00:00:00"
         },
         {
             "source": {
@@ -428,6 +490,15 @@
             "url": "https://hackernoon.com/why-its-harder-the-unique-hurdles-for-non-experts-using-ai-coding-tools",
             "urlToImage": "https://hackernoon.imgix.net/images/a-robot-jumping-through-hurdles-track-race-animated-pnfbadl31mpdeudbl87s011o.png",
             "publishedAt": "2025-08-09 14:00:05"
+        },
+        {
+            "source": {
+                "name": "theverge"
+            },
+            "title": "The next big AI model is here",
+            "url": "https://www.theverge.com/installer-newsletter/757086/openai-gpt-5-chatgpt-roku-howdy-camp-snap-cs-8-fortnite-installer",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/installer_da311a.png?crop=0%2C10.732984293194%2C100%2C78.534031413613&quality=90&strip=all&w=1200",
+            "publishedAt": "2025-08-09 13:04:32"
         },
         {
             "source": {
@@ -2883,69 +2954,6 @@
             "url": "https://www.bgr.com/1933332/openai-gpt-5-models-leak-github/",
             "urlToImage": "https://www.bgr.com/img/gallery/openais-gpt-5-models-leak-on-github-ahead-of-official-reveal/l-intro-1754554984.jpg",
             "publishedAt": "2025-08-07 08:35:27"
-        },
-        {
-            "source": {
-                "name": "telecom_economictimes"
-            },
-            "title": "Reliance Jio emerges as world’s largest telco with 488 mn subscribers: RIL’s Mukesh Ambani",
-            "url": "https://telecom.economictimes.indiatimes.com/news/industry/reliance-jio-becomes-worlds-largest-telecom-operator-with-488-million-users/123161292",
-            "urlToImage": "https://etimg.etb2bimg.com/photo/123161306.cms",
-            "publishedAt": "2025-08-07 08:05:02"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "TypeDance Outperforms DALL·E 3 and ControlNet in Logo Design Usability Study",
-            "url": "https://hackernoon.com/typedance-outperforms-dalle-3-and-controlnet-in-logo-design-usability-study",
-            "urlToImage": "https://hackernoon.imgix.net/images/5wpKgV75aONqkTJlafw2yQmK9yd2-wz038uq.png",
-            "publishedAt": "2025-08-07 08:00:07"
-        },
-        {
-            "source": {
-                "name": "computerweekly"
-            },
-            "title": "DeepSeek shows enterprises model distillation opportunity",
-            "url": "https://www.computerweekly.com/news/366628632/DeepSeek-shows-enterprises-model-distillation-opportunity",
-            "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/HeroImages/using-AI-agent-chatbot-Looker-Studio-adobe_searchsitetablet_520X173.jpg",
-            "publishedAt": "2025-08-07 07:40:00"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "One Go Codebase, Five Platforms: My Cross-Platform Build Journey",
-            "url": "https://hackernoon.com/one-go-codebase-five-platforms-my-cross-platform-build-journey",
-            "urlToImage": "https://substackcdn.com/image/fetch/$s_!jaJJ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https:%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff8e256d4-c1c4-4019-8b51-01098febd23f_1024x1024.jpeg",
-            "publishedAt": "2025-08-07 07:36:13"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "5 Open-Source Crypto Tools You Can Use for Free —and Support with Kivach",
-            "url": "https://hackernoon.com/5-open-source-crypto-tools-you-can-use-for-free-and-support-with-kivach",
-            "urlToImage": "https://hackernoon.imgix.net/images/AO3i53agltRgq8NH0cq0AaViIh42-fv035fr.png",
-            "publishedAt": "2025-08-07 07:32:09"
-        },
-        {
-            "source": {
-                "name": "geeky_gadgets"
-            },
-            "title": "OpenAI GPT-OSS Models Optimized for NVIDIA RTX GPUs",
-            "url": "https://www.geeky-gadgets.com/gpt-oss-models-nvidia-rtx-performance/",
-            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/08/gpt-oss-models-nvidia-rtx-performance.webp",
-            "publishedAt": "2025-08-07 07:17:14"
-        },
-        {
-            "source": {
-                "name": "usc"
-            },
-            "title": "Trojan’s long fascination with molecular biology inspires stem cell career",
-            "url": "https://today.usc.edu/trojans-long-fascination-with-molecular-biology-inspires-stem-cell-career/",
-            "urlToImage": "https://today.usc.edu/wp-content/uploads/2025/07/guanyi_huang_uscn_9906.jpg",
-            "publishedAt": "2025-08-07 07:05:00"
         }
     ]
 }
