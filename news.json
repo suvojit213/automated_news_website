@@ -1,6 +1,17 @@
 {
-    "lastUpdatedAt": "2025-08-10T12:31:47.874546Z",
+    "lastUpdatedAt": "2025-08-10T13:26:12.865423Z",
     "articles": [
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com"
+            },
+            "title": "AI agents drafted into cybersecurity defense forces of companies",
+            "url": "https://www.cnbc.com/2025/08/10/ai-agents-drafted-into-cybersecurity-defense-forces-of-companies.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108183892-1754815967677-gettyimages-2213882502-dsc_0504copy.jpeg?v=1754815989&w=1920&h=1080",
+            "publishedAt": "2025-08-10T13:00:01Z"
+        },
         {
             "source": {
                 "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
@@ -2945,15 +2956,6 @@
             "url": "https://www.techtarget.com/whatis/feature/Artificial-intelligence-glossary-60-terms-to-know",
             "urlToImage": "https://www.techtarget.com/rms/onlineimages/ai_a352095729_searchsitetablet_520X173.jpg",
             "publishedAt": "2025-08-07 09:00:00"
-        },
-        {
-            "source": {
-                "name": "bgr_com"
-            },
-            "title": "OpenAI's GPT-5 Models Leak On GitHub Ahead Of Official Reveal",
-            "url": "https://www.bgr.com/1933332/openai-gpt-5-models-leak-github/",
-            "urlToImage": "https://www.bgr.com/img/gallery/openais-gpt-5-models-leak-on-github-ahead-of-official-reveal/l-intro-1754554984.jpg",
-            "publishedAt": "2025-08-07 08:35:27"
         }
     ]
 }
