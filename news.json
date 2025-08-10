@@ -1,6 +1,28 @@
 {
-    "lastUpdatedAt": "2025-08-10T19:12:09.478279Z",
+    "lastUpdatedAt": "2025-08-10T20:17:13.329272Z",
     "articles": [
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com"
+            },
+            "title": "Nvidia China H20 chips",
+            "url": "https://www.cnbc.com/2025/08/10/nvidia-china-h20-chips.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108180927-1754288633016-gettyimages-2227849607-vcg111562335270.jpeg?v=1754849058&w=1920&h=1080",
+            "publishedAt": "2025-08-10T19:47:28Z"
+        },
+        {
+            "source": {
+                "id": "0c9364fff53c0e5a3450947d9a54e795",
+                "name": "Daily Mail Online",
+                "url": "https://www.dailymail.co.uk"
+            },
+            "title": "Bethenny Frankel reveals WILD celebrity matches AI suggested she date… including Jeff Bezos",
+            "url": "https://www.dailymail.co.uk/tvshowbiz/article-14987599/Bethenny-Frankel-celebrity-matches-Jeff-Bezos-Leonardo-DiCaprio.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2025/08/10/17/101085447-0-image-m-39_1754843657255.jpg",
+            "publishedAt": "2025-08-10T18:30:02Z"
+        },
         {
             "source": {
                 "id": "d4e7f6a65e15620f4e4044691a99d0fd",
@@ -2940,24 +2962,6 @@
             "url": "https://hackernoon.com/why-ai-still-doesnt-understand-your-design-intent-and-how-to-fix-it",
             "urlToImage": "https://hackernoon.imgix.net/images/5wpKgV75aONqkTJlafw2yQmK9yd2-jm038mg.png",
             "publishedAt": "2025-08-07 10:00:02"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "The best antivirus software 2025",
-            "url": "https://www.zdnet.com/article/best-antivirus/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/56d535cd94180f4d11ae43d045131c274fb4d94e/2024/12/18/2792c1f1-d6e8-4983-8ccb-a4d2f4d493e4/gettyimages-2186684990-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-08-07 09:15:16"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Visual Harmony in Generative Design Systems",
-            "url": "https://hackernoon.com/visual-harmony-in-generative-design-systems",
-            "urlToImage": "https://hackernoon.imgix.net/images/5wpKgV75aONqkTJlafw2yQmK9yd2-x7038sb.png",
-            "publishedAt": "2025-08-07 09:00:02"
         }
     ]
 }
