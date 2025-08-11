@@ -1,6 +1,28 @@
 {
-    "lastUpdatedAt": "2025-08-11T19:15:08.043622Z",
+    "lastUpdatedAt": "2025-08-11T20:16:57.234112Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com"
+            },
+            "title": "Trump opens door to sales of version of Nvidia's next-gen AI chips in China",
+            "url": "https://www.reuters.com/world/china/trump-opens-door-sales-version-nvidias-next-gen-ai-chips-china-2025-08-11/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/ZET5WGUIBJMRFKFK6AS53T43JQ.jpg?auth=f84cf82e028969a3dd513e1e76df724c30362023b8ff073a4ee0b98a3154fecc&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-08-11T19:36:17Z"
+        },
+        {
+            "source": {
+                "id": "7f6e8514e9d8f8376aaa9a7229861518",
+                "name": "PerthNow",
+                "url": "https://www.perthnow.com.au"
+            },
+            "title": "Go to school on AI to ease teacher load, treasurer told",
+            "url": "https://www.perthnow.com.au/news/business/go-to-school-on-ai-to-ease-teacher-load-treasurer-told-c-19653957",
+            "urlToImage": "https://images.perthnow.com.au/publication/C-19653957/26597e69f2a6e8c71f43cdd30c2007a5499b4852-16x9-x0y0w1280h720.jpg?imwidth=1200",
+            "publishedAt": "2025-08-11T19:02:24Z"
+        },
         {
             "source": {
                 "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
@@ -506,6 +528,33 @@
             "url": "https://www.fool.com.au/2025/08/11/up-441-this-year-droneshield-share-price-lifts-off-again-today-on-big-ai-news/",
             "urlToImage": "https://www.fool.com.au/wp-content/uploads/2021/04/amazon-1-1200x675.jpg",
             "publishedAt": "2025-08-11T00:36:25Z"
+        },
+        {
+            "source": {
+                "name": "telecom_economictimes"
+            },
+            "title": "Ericsson, Nokia, Qualcomm, Cisco ink pacts with BSNL to train students in 5G, IoT, AI/ML",
+            "url": "https://telecom.economictimes.indiatimes.com/news/telecom-equipment/ericsson-nokia-qualcomm-cisco-partner-with-bsnl-to-advance-5g-and-aiml-training-for-engineering-students/123231718",
+            "urlToImage": "https://etimg.etb2bimg.com/photo/123231681.cms",
+            "publishedAt": "2025-08-11 07:40:51"
+        },
+        {
+            "source": {
+                "name": "cio"
+            },
+            "title": "Skills and the AI-ready organization: four things to consider",
+            "url": "https://www.cio.com/article/4034321/skills-and-the-ai-ready-organization-four-things-to-consider.html",
+            "urlToImage": "https://www.cio.com/wp-content/uploads/2025/08/4034321-0-71670800-1754897882-iStock-1447084050-art-10-6.jpg?quality=50&strip=all&w=1024",
+            "publishedAt": "2025-08-11 07:36:00"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "\"We're building chips that think like the brain\" — I got a front row seat to see how neuromorphic computing will transform your next smart device",
+            "url": "https://www.tomsguide.com/computing/were-building-chips-that-think-like-the-brain-i-got-a-front-row-seat-to-see-how-neuromorphic-computing-will-transform-your-next-smart-device",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/pxGKycdDYSsexd8NfzNNcC-1280-80.jpg",
+            "publishedAt": "2025-08-11 07:30:00"
         },
         {
             "source": {
@@ -2979,61 +3028,6 @@
             "url": "https://www.clickondetroit.com/business/2025/08/07/roblox-rolls-out-open-source-ai-system-to-protect-kids-from-predators-in-chats/",
             "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/2Z5NM3Q7FBGE7BPFRLAOYQ4DXI.jpg?_a=DATAg1eAZAA0",
             "publishedAt": "2025-08-07T12:16:24Z"
-        },
-        {
-            "source": {
-                "id": "628299239469ffa8b7dbb809aabbcc2e",
-                "name": "Analytics India Magazine",
-                "url": "https://analyticsindiamag.com"
-            },
-            "title": "Infosys Opens Advanced AI, Cybersecurity and Space Tech Centre in Hubballi",
-            "url": "https://analyticsindiamag.com/ai-news-updates/infosys-opens-advanced-ai-cybersecurity-and-space-tech-centre-in-hubballi/",
-            "urlToImage": "https://analyticsindiamag.com/wp-content/uploads/2017/07/1x-1.jpg",
-            "publishedAt": "2025-08-07T11:59:58Z"
-        },
-        {
-            "source": {
-                "id": "f6d6ee1134197fe1441d65a3e7915835",
-                "name": "Yahoo Singapore News",
-                "url": "https://sg.news.yahoo.com"
-            },
-            "title": "Datadog forecasts upbeat third-quarter results on increased cloud security adoption",
-            "url": "https://sg.news.yahoo.com/datadog-forecasts-upbeat-third-quarter-113942815.html",
-            "urlToImage": "https://media.zenfs.com/en/reuters.com/b102467a5687d692118b42d3df5149b8",
-            "publishedAt": "2025-08-07T11:39:42Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com"
-            },
-            "title": "Japan tech giant SoftBank Group posts profit",
-            "url": "https://www.cp24.com/news/money/2025/08/07/japan-tech-giant-softbank-group-sees-better-fortunes-on-surging-ai-stocks/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/GFMFY45FJS7QQLGK4Q46LX56ZE.jpg?smart=true&auth=eccc3d909c6d124991bcaf87a517fb135c18e29bb5c004da21799db1b9c1bfba&width=1200&height=630",
-            "publishedAt": "2025-08-07T09:43:13Z"
-        },
-        {
-            "source": {
-                "id": "d6397b77175680e2678c0d60edcee7af",
-                "name": "South China Morning Post",
-                "url": "https://www.scmp.com"
-            },
-            "title": "Taiwan cyberattacks ‘below average’ but widespread, Beijing political advisor says",
-            "url": "https://www.scmp.com/news/china/politics/article/3321084/taiwan-cyberattacks-below-average-widespread-beijing-political-advisor-says",
-            "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/08/07/e6d3a156-cba5-4a53-a083-a51ed7277a20_0b47155e.jpg?itok=tL6qbcCb&v=1754556206",
-            "publishedAt": "2025-08-07T09:43:03Z"
-        },
-        {
-            "source": {
-                "id": "77b86639d1384ac68141803ec5db27c0",
-                "name": "NBC News",
-                "url": "https://www.nbcnews.com"
-            },
-            "title": "Scientists want to prevent AI from going rogue by teaching it to be bad first",
-            "url": "https://www.nbcnews.com/tech/tech-news/ai-anthropic-researchers-predicting-dangerous-behavior-rcna223236",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250806-ai-evil-lr-d5ab93.jpg",
-            "publishedAt": "2025-08-07T09:00:00Z"
         }
     ]
 }
