@@ -1,6 +1,39 @@
 {
-    "lastUpdatedAt": "2025-08-11T10:18:56.429130Z",
+    "lastUpdatedAt": "2025-08-11T11:15:02.804362Z",
     "articles": [
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com"
+            },
+            "title": "Fortifying India's Power Grid: Cybersecurity Overhaul in Progress",
+            "url": "https://www.devdiscourse.com/article/headlines/3537234-fortifying-indias-power-grid-cybersecurity-overhaul-in-progress",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/27_05_2025_12_14_36_3863389.png?width=920&format=jpeg",
+            "publishedAt": "2025-08-11T10:43:28Z"
+        },
+        {
+            "source": {
+                "id": "f6d6ee1134197fe1441d65a3e7915835",
+                "name": "Yahoo Singapore News",
+                "url": "https://sg.news.yahoo.com"
+            },
+            "title": "Indonesia eyes 'sovereign AI fund' to drive development, document shows",
+            "url": "https://sg.news.yahoo.com/indonesia-eyes-sovereign-ai-fund-100600208.html",
+            "urlToImage": "https://media.zenfs.com/en/reuters.com/540f72dd23f010e421a6fd4a0e11a73c",
+            "publishedAt": "2025-08-11T10:06:00Z"
+        },
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com"
+            },
+            "title": "Why A.I. Should Make Parents Rethink Posting Photos of Their Children Online",
+            "url": "https://www.nytimes.com/2025/08/11/technology/personaltech/ai-kids-photos.html",
+            "urlToImage": "https://static01.nyt.com/images/2025/07/31/business/00techfix/00techfix-facebookJumbo.jpg",
+            "publishedAt": "2025-08-11T09:01:21Z"
+        },
         {
             "source": {
                 "id": "f16dc396e088c7c707eabe9d7479e7a2",
@@ -87,6 +120,17 @@
             "title": "Meta And Microsoft Are Betting Big On AI - So Is The C-Suite",
             "url": "https://www.forbes.com/sites/forbes-research/2025/08/11/meta-and-microsoft-are-betting-big-on-ai---so-is-the-c-suite/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6893e755dc79ee157c8c3b15/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-08-11T04:00:00Z"
+        },
+        {
+            "source": {
+                "id": "9290338c23f31e3f547a2dbfa1c52c03",
+                "name": "Scientific American",
+                "url": "https://www.scientificamerican.com"
+            },
+            "title": "How This AI Breakthrough with Pure Mathematics and Reinforcement Learning Could Help Predict Future Crises",
+            "url": "https://www.scientificamerican.com/article/how-this-ai-breakthrough-with-pure-mathematics-and-reinforcement-learning/",
+            "urlToImage": "https://static.scientificamerican.com/dam/m/1bd6ef8bdaf31968/original/Breakwater-in-sea.jpg?m=1754868497.29&w=1200",
             "publishedAt": "2025-08-11T04:00:00Z"
         },
         {
@@ -2958,42 +3002,6 @@
             "url": "https://www.mercurynews.com/2025/08/07/newsom-agreement-bring-ai-big-tech-state-colleges/",
             "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/08/SJM-L-NEWSOMAI-0808-01.jpg?strip=all&w=1400px",
             "publishedAt": "2025-08-07 16:28:55"
-        },
-        {
-            "source": {
-                "name": "geeky_gadgets"
-            },
-            "title": "ChatGPT 5 Incoming : 10 New Expected Features of OpenAI’s GPT-5",
-            "url": "https://www.geeky-gadgets.com/chatgpt-5-new-features/",
-            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/08/gpt-5-groundbreaking-features-overview.webp",
-            "publishedAt": "2025-08-07 16:13:43"
-        },
-        {
-            "source": {
-                "name": "livemint"
-            },
-            "title": "OpenAI GPT-5 reportedly leaked ahead of imminent launch, variants and features tipped",
-            "url": "https://www.livemint.com/technology/tech-news/openai-gpt-5-reportedly-leaked-ahead-of-immient-launch-variants-and-features-tipped-11754582507088.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2025/08/07/1600x900/Sam_Altman_1753424640091_1753424640339_1754582543632.jpg",
-            "publishedAt": "2025-08-07 16:06:11"
-        },
-        {
-            "source": {
-                "name": "insideevs"
-            },
-            "title": "‘All While in Chill Mode’: Tesla Model 3 Performance Driver Thinks About Racing a Dodge Hellcat. Then Grok Speaks Up",
-            "url": "https://insideevs.com/news/768328/tesla-vs-dodge-hellcat/",
-            "urlToImage": "https://cdn.motor1.com/images/mgl/P3Ap84/s1/tesla-vs.-dodge-hellcat.jpg",
-            "publishedAt": "2025-08-07 16:00:00"
-        },
-        {
-            "source": {
-                "name": "mercurynews"
-            },
-            "title": "AI is fast-tracking climate research",
-            "url": "https://www.mercurynews.com/2025/08/07/ai-is-fast-tracking-climate-research/",
-            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/08/202508060400MCT_____PHOTO____US-NEWS-ENV-AI-CLIMATE-RESEARCH-GET.jpg?strip=all&w=1400px",
-            "publishedAt": "2025-08-07 15:57:56"
         }
     ]
 }
