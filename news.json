@@ -1,6 +1,39 @@
 {
-    "lastUpdatedAt": "2025-08-12T16:20:34.702409Z",
+    "lastUpdatedAt": "2025-08-12T17:15:39.859064Z",
     "articles": [
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com"
+            },
+            "title": "An analyst just upgraded a cybersecurity stock that we've been pounding the table on",
+            "url": "https://www.cnbc.com/2025/08/12/an-analyst-just-upgraded-a-cybersecurity-stock-that-weve-been-pounding-the-table-on.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108137401-17458546272025-03-25t214553z_1993499487_rc2jkdadx0ew_rtrmadp_0_paloalto-stocks.jpeg?v=1745854692&w=1920&h=1080",
+            "publishedAt": "2025-08-12T16:33:35Z"
+        },
+        {
+            "source": {
+                "id": "26269dbc42635df9af8c24f3cdab8e37",
+                "name": "Cable News Network",
+                "url": "https://edition.cnn.com"
+            },
+            "title": "AI search firm Perplexity makes $34.5 billion surprise bid for Google Chrome",
+            "url": "https://edition.cnn.com/2025/08/12/tech/perplexity-google-chrome-bid",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2184968332.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2025-08-12T16:31:32Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net"
+            },
+            "title": "Musk to sue Apple over App Store rankings",
+            "url": "https://www.manilatimes.net/2025/08/13/business/foreign-business/musk-to-sue-apple-over-app-store-rankings/2166409",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/12/709906.jpg",
+            "publishedAt": "2025-08-12T16:25:00Z"
+        },
         {
             "source": {
                 "id": "bc4f0c1ddd7d75da8c7a07a4d78f15a0",
@@ -550,6 +583,15 @@
             "title": "3 Cybersecurity Stocks You Can Buy and Hold for the Next Decade",
             "url": "https://www.fool.com/investing/2025/08/12/cybersecurity-stocks-buy-and-hold-for-decade/",
             "urlToImage": "https://g.foolcdn.com/image/?h=400&op=resize&url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F828628%2Fgettyimages-1150767833-1200x800-5b2df79.jpg&w=400",
+            "publishedAt": "2025-08-12 00:00:00"
+        },
+        {
+            "source": {
+                "name": "financialcontent"
+            },
+            "title": "Better Quantum Computing Stock: IonQ vs. Quantum Computing Inc.",
+            "url": "https://www.fool.com/investing/2025/08/12/better-quantum-computing-stock-ionq-vs-quantum-com/",
+            "urlToImage": "https://g.foolcdn.com/image/?h=400&op=resize&url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F827869%2Frobot_looking_at_complex_quantum_computing_equations_gettyimages-966248982-1200x772-f9fd0c6.jpg&w=400",
             "publishedAt": "2025-08-12 00:00:00"
         },
         {
@@ -3022,42 +3064,6 @@
             "url": "https://arstechnica.com/tech-policy/2025/08/ai-industry-horrified-to-face-largest-copyright-class-action-ever-certified/",
             "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-165852910-1152x648.jpg",
             "publishedAt": "2025-08-08 17:44:05"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "How to Prepare for a Data Science Interview?",
-            "url": "https://www.analyticsinsight.net/data-science/how-to-prepare-for-a-data-science-interview",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-08-08%2Fmaaq9703%2FHow-to-Prepare-for-a-Data-Science-Interview.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-08-08 17:15:58"
-        },
-        {
-            "source": {
-                "name": "insideevs"
-            },
-            "title": "‘We Had To Pre-Install Everything’: Man Turns His Retro Mercedes Into an Electric Car. Here’s the Final Product",
-            "url": "https://insideevs.com/news/768472/mercedes-w123-electric-car-converstion/",
-            "urlToImage": "https://cdn.motor1.com/images/mgl/XBq102/s1/mercedes-electric-car.jpg",
-            "publishedAt": "2025-08-08 17:00:00"
-        },
-        {
-            "source": {
-                "name": "billboard"
-            },
-            "title": "What Does the White House AI Action Plan Mean For Music?",
-            "url": "https://www.billboard.com/pro/white-house-ai-action-plan-what-mean-music/",
-            "urlToImage": "https://www.billboard.com/wp-content/uploads/2025/08/080725-FOLLOW-THE-MONEY-Trump-AI-2025-billboard-1536.jpg?crop=1&h=628&w=942",
-            "publishedAt": "2025-08-08 16:44:04"
-        },
-        {
-            "source": {
-                "name": "techtarget"
-            },
-            "title": "Intel CEO's potential China links a warning for U.S. companies",
-            "url": "https://www.techtarget.com/searchcio/news/366628781/Intel-CEOs-potential-China-links-a-warning-for-US-companies",
-            "urlToImage": "https://cdn.ttgtmedia.com/rms/onlineImages/holland_makenzie.jpg",
-            "publishedAt": "2025-08-08 16:37:00"
         }
     ]
 }
