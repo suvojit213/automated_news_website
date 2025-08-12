@@ -1,6 +1,17 @@
 {
-    "lastUpdatedAt": "2025-08-12T18:24:32.814978Z",
+    "lastUpdatedAt": "2025-08-12T19:13:17.843629Z",
     "articles": [
+        {
+            "source": {
+                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
+                "name": "ABC News",
+                "url": "https://www.abc.net.au"
+            },
+            "title": "Australian Council of Trade Unions says it's time for a shorter work week to boost performance and reduce burnout",
+            "url": "https://www.abc.net.au/news/2025-08-13/unions-say-time-for-a-four-day-work-week/105644594",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/18bb360a870a16d424a041225e919683?impolicy=wcms_watermark_news&cropH=1440&cropW=2560&xPos=0&yPos=124&width=862&height=485&imformat=generic",
+            "publishedAt": "2025-08-12T18:31:13Z"
+        },
         {
             "source": {
                 "id": "6fea3ee012f060c6309366516e8d00be",
@@ -11,6 +22,28 @@
             "url": "https://www.news-medical.net/news/20250812/New-method-greatly-improves-the-precision-of-genome-editing.aspx",
             "urlToImage": "https://www.news-medical.net/image-handler/picture/2018/7/CRISPR_locus_on_DNA_sequence-Catalin_Rusnac_51742dddb09c41d2924841b1b4decc7a-620x480.jpg",
             "publishedAt": "2025-08-12T18:20:00Z"
+        },
+        {
+            "source": {
+                "id": "f16dc396e088c7c707eabe9d7479e7a2",
+                "name": "The Washington Post",
+                "url": "https://www.washingtonpost.com"
+            },
+            "title": "Illinois bans AI therapy as some states begin to scrutinize chatbots",
+            "url": "https://www.washingtonpost.com/nation/2025/08/12/illinois-ai-therapy-ban/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TYQEURDH3NOE2F6CXWYP7GIGPE_size-normalized.jpg&w=1440",
+            "publishedAt": "2025-08-12T18:15:17Z"
+        },
+        {
+            "source": {
+                "id": "f5081afeaba654292dd91fffd29f9dd4",
+                "name": "The Globe and Mail",
+                "url": "https://www.theglobeandmail.com"
+            },
+            "title": "Alien: Earth series is a dark fairy tale that grapples with AI threat and brings the extraterrestrials closer than ever before",
+            "url": "https://www.theglobeandmail.com/arts/article-alien-earth-tv-series-artificial-intelligence/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/v2/KTHCVFF4FNCTTAJVKJR5BIUS3Q.jpg?auth=340455985cb7070844938876b8c7fe1b6b597f4e5a967d48f3139746abc82dce&width=1200&height=800&quality=80&smart=true",
+            "publishedAt": "2025-08-12T18:13:58Z"
         },
         {
             "source": {
@@ -77,6 +110,17 @@
             "url": "https://www.manilatimes.net/2025/08/13/business/foreign-business/musk-to-sue-apple-over-app-store-rankings/2166409",
             "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/12/709906.jpg",
             "publishedAt": "2025-08-12T16:25:00Z"
+        },
+        {
+            "source": {
+                "id": "2b8e9cf94b4b7463c6aee33c1d6df71b",
+                "name": "Chicago Tribune",
+                "url": "https://www.chicagotribune.com"
+            },
+            "title": "Lawyer for CHA who used ChatGPT sanctioned in separate case",
+            "url": "https://www.chicagotribune.com/2025/08/12/cha-lawyer-chatgpt-sanctions/",
+            "urlToImage": "https://www.chicagotribune.com/wp-content/uploads/2025/08/CTC-L-CHA-attorneys-AI-lead-05_231460786.jpg?w=1024&h=783",
+            "publishedAt": "2025-08-12T16:20:54Z"
         },
         {
             "source": {
@@ -3036,42 +3080,6 @@
             "url": "https://hackernoon.com/moving-forward-builders-are-proving-whats-possible-with-carvs-ai-stack",
             "urlToImage": "https://hackernoon.imgix.net/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-jk025x3.png",
             "publishedAt": "2025-08-08 20:29:33"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "OpenAI's GPT-5 is now free for all: How to access and everything else we know",
-            "url": "https://www.zdnet.com/article/openais-gpt-5-is-now-free-for-all-how-to-access-and-everything-else-we-know/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/1d5bcb8f5d7052675fc137ee0ace0573cebf3a15/2025/08/07/80f9b4de-fcb7-42b9-9ebb-837ae27c84b5/gpt-5-flagship-hero.png?auto=webp&width=1280",
-            "publishedAt": "2025-08-08 20:27:00"
-        },
-        {
-            "source": {
-                "name": "yale"
-            },
-            "title": "Four Yale women recognized among 2025 Women of Innovation finalists",
-            "url": "https://ventures.yale.edu/news/4-yale-women-recognized-among-2025-women-innovation-finalists",
-            "urlToImage": "https://ventures.yale.edu/sites/default/files/yvlogo.png",
-            "publishedAt": "2025-08-08 20:20:40"
-        },
-        {
-            "source": {
-                "name": "bgr_com"
-            },
-            "title": "What Is WindowServer On macOS And Why Does It Consume So Much Memory?",
-            "url": "https://www.bgr.com/1932252/what-is-windowserver-macos-why-use-memory/",
-            "urlToImage": "https://www.bgr.com/img/gallery/what-is-windowserver-on-macos-and-why-does-it-consume-so-much-memory/l-intro-1754434419.jpg",
-            "publishedAt": "2025-08-08 20:17:00"
-        },
-        {
-            "source": {
-                "name": "macworld"
-            },
-            "title": "RetroStrip review: Nostalgic utility brings back the legendary Mac Control Strip",
-            "url": "https://www.macworld.com/article/2873012/retrostrip-review.html",
-            "urlToImage": "https://www.macworld.com/wp-content/uploads/2025/08/retrostrip_1.jpg?quality=50&strip=all&w=1024",
-            "publishedAt": "2025-08-08 20:00:56"
         }
     ]
 }
