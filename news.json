@@ -1,6 +1,50 @@
 {
-    "lastUpdatedAt": "2025-08-12T17:15:39.859064Z",
+    "lastUpdatedAt": "2025-08-12T18:24:32.814978Z",
     "articles": [
+        {
+            "source": {
+                "id": "6fea3ee012f060c6309366516e8d00be",
+                "name": "News-Medical.net",
+                "url": "https://www.news-medical.net"
+            },
+            "title": "New method greatly improves the precision of genome editing",
+            "url": "https://www.news-medical.net/news/20250812/New-method-greatly-improves-the-precision-of-genome-editing.aspx",
+            "urlToImage": "https://www.news-medical.net/image-handler/picture/2018/7/CRISPR_locus_on_DNA_sequence-Catalin_Rusnac_51742dddb09c41d2924841b1b4decc7a-620x480.jpg",
+            "publishedAt": "2025-08-12T18:20:00Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com"
+            },
+            "title": "India’s First AI Unicorn Fractal Files for $560 Million IPO",
+            "url": "https://www.bloomberg.com/news/articles/2025-08-12/india-s-first-ai-unicorn-fractal-files-for-560-million-ipo",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iM5EYXfkcEFI/v0/1200x800.jpg",
+            "publishedAt": "2025-08-12T17:41:50Z"
+        },
+        {
+            "source": {
+                "id": "79baacd62152cf257ee35e8c0bec19a2",
+                "name": "UPI News",
+                "url": "https://www.upi.com"
+            },
+            "title": "Study: AI programs might help ER overcrowding in hospitals",
+            "url": "https://www.upi.com/Health_News/2025/08/12/ER-overcrowding-AI-program-study/5831755010362/",
+            "urlToImage": "https://cdnph.upi.com/sv/ph/og/upi/5831755010362/2025/1/0267573c346724f96eb0b39f383b7dea/v1.5/Study-AI-programs-might-help-ER-overcrowding-in-hospitals.jpg",
+            "publishedAt": "2025-08-12T17:09:00Z"
+        },
+        {
+            "source": {
+                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
+                "name": "The Associated Press",
+                "url": "https://apnews.com"
+            },
+            "title": "YouTube testing a new age verification system in the U.S.",
+            "url": "https://apnews.com/article/youtube-video-age-verification-system-1ce99a7089b33e88dc76e49945ded186",
+            "urlToImage": "https://dims.apnews.com/dims4/default/e24c265/2147483647/strip/true/crop/5000x2813+0+260/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa8%2F55%2Fad51ee037e6b2409b96e0efbdf85%2F1dd0d8843f2f440bbf085a8dd63d3094",
+            "publishedAt": "2025-08-12T16:35:58Z"
+        },
         {
             "source": {
                 "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
@@ -542,6 +586,15 @@
         },
         {
             "source": {
+                "name": "hackernoon"
+            },
+            "title": "Personalized CX: The CRM and CDP Blueprint for Modern Enterprises",
+            "url": "https://hackernoon.com/personalized-cx-the-crm-and-cdp-blueprint-for-modern-enterprises",
+            "urlToImage": "https://hackernoon.imgix.net/images/Pi18dQAFy6aYvFoXrFxgFJBUSPu2-pz0399u.png",
+            "publishedAt": "2025-08-12 05:20:43"
+        },
+        {
+            "source": {
                 "name": "analyticsinsight"
             },
             "title": "How to Become a Data Scientist: Your Easy Guide",
@@ -592,6 +645,15 @@
             "title": "Better Quantum Computing Stock: IonQ vs. Quantum Computing Inc.",
             "url": "https://www.fool.com/investing/2025/08/12/better-quantum-computing-stock-ionq-vs-quantum-com/",
             "urlToImage": "https://g.foolcdn.com/image/?h=400&op=resize&url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F827869%2Frobot_looking_at_complex_quantum_computing_equations_gettyimages-966248982-1200x772-f9fd0c6.jpg&w=400",
+            "publishedAt": "2025-08-12 00:00:00"
+        },
+        {
+            "source": {
+                "name": "prnewswire_apac"
+            },
+            "title": "Nota AI Launches Korea's First Commercialized VLM-Powered Solution for Real-Time Video Surveillance",
+            "url": "https://www.prnewswire.com/apac/news-releases/nota-ai-launches-koreas-first-commercialized-vlm-powered-solution-for-real-time-video-surveillance-302526218.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2747570/Nota_Vision_Agent.jpg?p=original",
             "publishedAt": "2025-08-12 00:00:00"
         },
         {
@@ -3010,60 +3072,6 @@
             "url": "https://www.macworld.com/article/2873012/retrostrip-review.html",
             "urlToImage": "https://www.macworld.com/wp-content/uploads/2025/08/retrostrip_1.jpg?quality=50&strip=all&w=1024",
             "publishedAt": "2025-08-08 20:00:56"
-        },
-        {
-            "source": {
-                "name": "usatoday"
-            },
-            "title": "Tesla restructures AI chip strategy, cuts in-house supercomputer team",
-            "url": "https://www.usatoday.com/story/cars/news/2025/08/08/tesla-restructures-ai-chip-strategy/85573858007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/08/08/USNK/85574048007-20250612-t-194706-z-935894078-rc-201-fa-2-hklk-rtrmadp-3-teslarobotaxitexas.JPG?auto=webp&crop=3999%2C2250%2Cx0%2Cy208&format=pjpg&height=1801&width=3200",
-            "publishedAt": "2025-08-08 20:00:45"
-        },
-        {
-            "source": {
-                "name": "wired"
-            },
-            "title": "The Vibes-Based Pricing of ‘Pro’ AI Software",
-            "url": "https://www.wired.com/story/uncanny-valley-podcast-vibes-based-pricing-pro-ai-software/",
-            "urlToImage": "https://media.wired.com/photos/6893af4362df5dd4c59b8498/master/w_120,c_limit/Uncanny-Valley-Premium-Chatbot-Subs-Business.jpg",
-            "publishedAt": "2025-08-08 19:46:11"
-        },
-        {
-            "source": {
-                "name": "insideevs"
-            },
-            "title": "'All This Just For a Waymo To Drive Better': Man Says Tesla Struggles When the 'Sun Is Low.' Then He Proves It",
-            "url": "https://insideevs.com/news/768479/tesla-low-sun/",
-            "urlToImage": "https://cdn.motor1.com/images/mgl/0eO17k/s1/tesla-struggles-in-low-sun.jpg",
-            "publishedAt": "2025-08-08 19:15:55"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "Qualcomm Execs Discuss Plans For Growth In Automotive, IoT And Beyond",
-            "url": "https://www.forbes.com/sites/patrickmoorhead/2025/08/08/qualcomm-execs-discuss-plans-for-growth-in-automotive-iot-and-beyond/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/689625cd78189f4e136c6a05/0x0.jpg?width=960",
-            "publishedAt": "2025-08-08 18:50:55"
-        },
-        {
-            "source": {
-                "name": "cnet"
-            },
-            "title": "Need to Recycle an Old Laptop or Printer? Here's Where to Take It",
-            "url": "https://www.cnet.com/tech/computing/need-to-recycle-an-old-laptop-or-printer-heres-where-to-take-it/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/dbff43b9aec33a7ba030a71627e94dbfdc4b29c9/hub/2025/04/09/cbcd5942-8195-4883-959e-0b8545b8db2a/gettyimages-77510867.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-08-08 18:00:07"
-        },
-        {
-            "source": {
-                "name": "arstechnica"
-            },
-            "title": "AI industry horrified to face largest copyright class action ever certified",
-            "url": "https://arstechnica.com/tech-policy/2025/08/ai-industry-horrified-to-face-largest-copyright-class-action-ever-certified/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-165852910-1152x648.jpg",
-            "publishedAt": "2025-08-08 17:44:05"
         }
     ]
 }
