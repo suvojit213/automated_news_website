@@ -1,6 +1,39 @@
 {
-    "lastUpdatedAt": "2025-08-12T03:14:14.555937Z",
+    "lastUpdatedAt": "2025-08-12T04:24:23.453990Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com"
+            },
+            "title": "Trump opens door to sales of version of Nvidia's next-gen AI chips in China",
+            "url": "https://www.reuters.com/world/china/trump-opens-door-sales-version-nvidias-next-gen-ai-chips-china-2025-08-12/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/ZET5WGUIBJMRFKFK6AS53T43JQ.jpg?auth=f84cf82e028969a3dd513e1e76df724c30362023b8ff073a4ee0b98a3154fecc&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-08-12T03:20:14Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com"
+            },
+            "title": "From Budgets to Corruption: How Smarter Cost Accounting Can Reshape Public Finance",
+            "url": "https://www.devdiscourse.com/article/other/3535982-from-budgets-to-corruption-how-smarter-cost-accounting-can-reshape-public-finance",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/10_08_2025_10_30_00_1763729.png?width=920&format=jpeg",
+            "publishedAt": "2025-08-12T03:12:11Z"
+        },
+        {
+            "source": {
+                "id": "6fea3ee012f060c6309366516e8d00be",
+                "name": "News-Medical.net",
+                "url": "https://www.news-medical.net"
+            },
+            "title": "Researchers develop machine learning models to identify biomarkers for chronic fatigue syndrome",
+            "url": "https://www.news-medical.net/news/20250811/Researchers-develop-machine-learning-models-to-identify-biomarkers-for-chronic-fatigue-syndrome.aspx",
+            "urlToImage": "https://www.news-medical.net/image-handler/picture/2014/7/Fatigue-620x480.jpg",
+            "publishedAt": "2025-08-12T03:01:00Z"
+        },
         {
             "source": {
                 "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
@@ -11,6 +44,17 @@
             "url": "https://www.devdiscourse.com/article/technology/3538128-elon-musks-ai-startup-xai-to-sue-apple-over-app-store-rankings",
             "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/02_08_2025_11_51_55_0814438.jpg?width=920&format=jpeg",
             "publishedAt": "2025-08-12T02:54:08Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com"
+            },
+            "title": "Musk says xAI to take legal action against Apple over App Store rankings",
+            "url": "https://www.reuters.com/sustainability/boards-policy-regulation/musk-says-xai-take-legal-action-against-apple-over-app-store-rankings-2025-08-12/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/3WG5DKLR5RJK7AQYBG5YIDP4LA.jpg?auth=ecce4a9329cbddd4094b89a63e66695f8c60f0953e2ab5320b432231b47ebc40&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-08-12T02:51:49Z"
         },
         {
             "source": {
@@ -627,6 +671,33 @@
             "url": "https://www.fool.com.au/2025/08/11/up-441-this-year-droneshield-share-price-lifts-off-again-today-on-big-ai-news/",
             "urlToImage": "https://www.fool.com.au/wp-content/uploads/2021/04/amazon-1-1200x675.jpg",
             "publishedAt": "2025-08-11T00:36:25Z"
+        },
+        {
+            "source": {
+                "name": "arstechnica"
+            },
+            "title": "Scientists hid secret codes in light to combat video fakes",
+            "url": "https://arstechnica.com/science/2025/08/scientists-hid-secret-codes-in-light-to-combat-video-fakes/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/code3-1152x648-1754660001.jpg",
+            "publishedAt": "2025-08-11 15:45:56"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "Microsoft Copilot 3D turns your 2D images into 3D models for free - how to try",
+            "url": "https://www.zdnet.com/article/microsoft-copilot-3d-can-transform-your-2d-images-into-3d-models-for-free/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/7bf35e313627991c1fa9690220790dc6855c5248/2025/08/11/dd3756bd-a7d3-4921-97aa-c44c3d68c26b/microsoft-copilot-3d.jpg?auto=webp&width=1280",
+            "publishedAt": "2025-08-11 15:44:44"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Meet Sekurno: HackerNoon Company of the Week",
+            "url": "https://hackernoon.com/meet-sekurno-hackernoon-company-of-the-week",
+            "urlToImage": "https://hackernoon.imgix.net/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-4s0391h.png",
+            "publishedAt": "2025-08-11 15:30:05"
         },
         {
             "source": {
@@ -2911,71 +2982,6 @@
             "url": "https://www.orlandosentinel.com/2025/08/07/top-mouse-pads-for-work-gaming-and-everything-else/",
             "urlToImage": "https://www.orlandosentinel.com/wp-content/uploads/2023/03/OS-WP-fallback-image-3.png",
             "publishedAt": "2025-08-08 03:22:01"
-        },
-        {
-            "source": {
-                "name": "ibtimes"
-            },
-            "title": "Muthukumar Murugan: Transforming and Integrating Data Frameworks with AI and Cloud Data Solutions for the P&C Insurance Industry",
-            "url": "https://www.ibtimes.com/muthukumar-murugan-transforming-integrating-data-frameworks-ai-cloud-data-solutions-pc-3780493",
-            "urlToImage": "https://d.ibtimes.com/en/full/4615210/muthukumar-murugan-transforming-integrating-data-frameworks.png",
-            "publishedAt": "2025-08-08 03:03:19"
-        },
-        {
-            "source": {
-                "name": "livemint"
-            },
-            "title": "Grab some post sale deals on pre-built desktops from multiple brands and for different uses",
-            "url": "https://www.livemint.com/technology/gadgets/grab-some-post-sale-deals-on-pre-built-desktops-from-multiple-brands-and-for-different-uses-11754547962478.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2025/08/07/1600x900/desktop_1754557320950_1754557321175.jpg",
-            "publishedAt": "2025-08-08 02:30:18"
-        },
-        {
-            "source": {
-                "name": "thehindu"
-            },
-            "title": "OpenAI releases ChatGPT-5 as AI race accelerates",
-            "url": "https://www.thehindu.com/sci-tech/technology/openai-releases-chatgpt-5-as-ai-race-accelerates/article69908266.ece",
-            "urlToImage": "https://th-i.thgim.com/public/incoming/zeafuf/article69908267.ece/alternates/LANDSCAPE_1200/2025-08-07T162406Z_679144923_RC2JFCAM602X_RTRMADP_3_ARTIFICIAL-INTELLIGENCE-OPENAI.JPG",
-            "publishedAt": "2025-08-08 02:27:50"
-        },
-        {
-            "source": {
-                "name": "scrippsnews"
-            },
-            "title": "OpenAI launches GPT-5, a potential barometer for whether AI hype is justified",
-            "url": "https://www.scrippsnews.com/science-and-tech/artificial-intelligence/openai-launches-gpt-5-a-potential-barometer-for-whether-ai-hype-is-justified",
-            "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/71d7d13/2147483647/strip/true/crop/5130x2886+0+267/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fac%2F37%2Fa5735112477c8b680cd6cdf1db07%2Fap24207731697390.jpg",
-            "publishedAt": "2025-08-08 01:47:56"
-        },
-        {
-            "source": {
-                "name": "financialcontent"
-            },
-            "title": "1 Incredible Artificial Intelligence (AI) Chip Stock to Buy Before It Soars 85% (Hint: Not Nvidia), According to a Select Wall Street Analyst",
-            "url": "https://www.fool.com/investing/2025/08/08/1-incredible-artificial-intelligence-ai-chip-stock/",
-            "urlToImage": "https://g.foolcdn.com/image/?h=400&op=resize&url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F828106%2Fgettyimages-ai-artificial-intelligence-chip-semiconductor-circuit.jpeg&w=400",
-            "publishedAt": "2025-08-08 00:00:00"
-        },
-        {
-            "source": {
-                "name": "financialcontent"
-            },
-            "title": "3 AI Infrastructure Stocks Powering the Next Tech Revolution",
-            "url": "https://www.marketbeat.com/stock-ideas/3-ai-infrastructure-stocks-powering-the-next-tech-revolution/",
-            "urlToImage": "https://www.marketbeat.com/logos/articles/med_20250806133047_3-stocks-powering-the-ai-infrastructure-boom.jpg",
-            "publishedAt": "2025-08-08 00:00:00"
-        },
-        {
-            "source": {
-                "id": "2f5884e252590f739df55c0e7db375df",
-                "name": "WJLA",
-                "url": "https://wjla.com"
-            },
-            "title": "OpenAI launches GPT-5, a potential barometer for whether AI hype is justified",
-            "url": "https://wjla.com/news/nation-world/open-ai-chat-gpt-5-artifical-intelligence-computer-data-flagship-advancing-progress-claud-google-competitors-technical-general-technology-energy-data-limits-coding-studies-students-learning-impacts-health-benchmarks",
-            "urlToImage": "https://wjla.com/resources/media2/16x9/612/986/0x32/90/9fb7fe22-123d-4b8b-b0c8-b93d560d2ac1-gettyimages2215606013612x612.jpg",
-            "publishedAt": "2025-08-07T22:19:00Z"
         }
     ]
 }
