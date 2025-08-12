@@ -1,6 +1,17 @@
 {
-    "lastUpdatedAt": "2025-08-11T23:15:02.923245Z",
+    "lastUpdatedAt": "2025-08-12T01:15:59.363042Z",
     "articles": [
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com"
+            },
+            "title": "Cerence AI CEO explains how new tech can help drivers",
+            "url": "https://www.cnbc.com/2025/08/11/cerence-ai-ceo-explains-how-new-tech-can-help-drivers.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/102624225-_Y2A3585.JPG?v=1430169042&w=1920&h=1080",
+            "publishedAt": "2025-08-11T23:37:05Z"
+        },
         {
             "source": {
                 "id": "7006f2c40c7cc01195608dbfd60259b3",
@@ -572,6 +583,87 @@
             "url": "https://www.fool.com.au/2025/08/11/up-441-this-year-droneshield-share-price-lifts-off-again-today-on-big-ai-news/",
             "urlToImage": "https://www.fool.com.au/wp-content/uploads/2021/04/amazon-1-1200x675.jpg",
             "publishedAt": "2025-08-11T00:36:25Z"
+        },
+        {
+            "source": {
+                "name": "lifehacker_us"
+            },
+            "title": "The Out-of-Touch Adults' Guide to Kid Culture: Who Is 'Ibiza Final Boss'?",
+            "url": "https://lifehacker.com/entertainment/the-out-of-touch-adults-guide-to-kid-culture-who-is-ibiza-final-boss",
+            "urlToImage": "https://lifehacker.com/imagery/articles/01K26A155WTRSYRD984WXX157C/hero-image.fill.size_1200x675.jpg",
+            "publishedAt": "2025-08-11 13:00:00"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "5 free Windows PC apps I always install first (and how they improve your workflow)",
+            "url": "https://www.zdnet.com/article/5-free-windows-pc-apps-i-always-install-first-and-how-they-improve-your-workflow/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/06dfc218dda56e8fc717f1037a90f584fb751dd2/2025/06/18/2f70d8b6-35de-4c06-a309-325094c121a6/dsc03735.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-08-11 12:00:34"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "I dreamed of flying cars, but the automotive reality of 2035 is even more revolutionary",
+            "url": "https://www.tomsguide.com/vehicle-tech/evs/flying-cars-heres-what-our-vehicles-will-do-by-2035",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/7zJLVwZMBpuQDgfGXKoCtD-1280-80.jpg",
+            "publishedAt": "2025-08-11 12:00:00"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "From hyper-personal assistants to mind-reading tech — this is how AI will transform everything by 2035",
+            "url": "https://www.tomsguide.com/ai/from-hyper-personal-assistants-to-mind-reading-tech-this-is-how-ai-will-transform-everything-by-2035",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/mtoDfKpiiwbzam7hDwTXtU-1280-80.jpg",
+            "publishedAt": "2025-08-11 12:00:00"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "Smart Glasses Revolution: Inside the biggest tech trend of the next 10 years",
+            "url": "https://www.tomsguide.com/computing/smart-glasses/smart-glasses-revolution-inside-the-biggest-tech-trend-of-the-next-10-years",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/GJcejDjjQqtV2afx94DKok-1280-80.jpg",
+            "publishedAt": "2025-08-11 12:00:00"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "What will our phones be like in 2035? We asked Samsung, Motorola, OnePlus and more about your future",
+            "url": "https://www.tomsguide.com/phones/what-will-our-phones-be-like-in-2035",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/qYVgeKnxkLakkqqdmiGCoW-1280-80.jpg",
+            "publishedAt": "2025-08-11 12:00:00"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "Meet the iPhone of 2035 — it’s the ‘mainframe on your body’",
+            "url": "https://www.tomsguide.com/phones/iphones/meet-the-iphone-of-2035-its-the-mainframe-on-your-body",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/YkCnXfhbsXCdoVZvTNNpsX-1280-80.jpg",
+            "publishedAt": "2025-08-11 12:00:00"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "Your TV in 2035 will be wildly different — and it’s not what you think",
+            "url": "https://www.tomsguide.com/tvs/your-tv-in-2035-will-be-wildly-different-and-its-not-what-you-think",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/rcn4EiyxnfJPCz9oRAfCZi-1280-80.jpg",
+            "publishedAt": "2025-08-11 12:00:00"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "The future of wearable wellness tech: 5 wild predictions for 2035 according to experts and industry leaders",
+            "url": "https://www.tomsguide.com/tech/the-future-of-wearable-wellness-tech-5-wild-predictions-for-2035-according-to-experts-and-industry-leaders",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/kbpGMHhRHaGX3pSx2cnPW4-1280-80.jpg",
+            "publishedAt": "2025-08-11 12:00:00"
         },
         {
             "source": {
@@ -2898,116 +2990,6 @@
             "url": "https://sg.news.yahoo.com/openai-releases-chatgpt-5-ai-172747043.html",
             "urlToImage": "https://media.zenfs.com/en/afp.com.sg/a1dcf08926d03fa8e26e96b1ed47999d",
             "publishedAt": "2025-08-07T17:27:47Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com"
-            },
-            "title": "OpenAI releases ChatGPT-5",
-            "url": "https://www.cp24.com/news/world/2025/08/07/openai-releases-chatgpt-5-as-ai-race-accelerates/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/EYBRSWSRVRF7LAOZCZWVBU4NQY.jpg?smart=true&auth=c3556701f770338e74eb40c169ec8dbf26d333e9e5392211d151ab628d512061&width=1200&height=630",
-            "publishedAt": "2025-08-07T17:26:40Z"
-        },
-        {
-            "source": {
-                "id": "93e59eaaf800fc544a6df1a4fc5c0cdc",
-                "name": "Toronto Star",
-                "url": "https://www.thestar.com"
-            },
-            "title": "OpenAI releases GPT-5, a potential barometer for whether artificial intelligence hype is justified",
-            "url": "https://www.thestar.com/news/world/united-states/openai-releases-gpt-5-a-potential-barometer-for-whether-artificial-intelligence-hype-is-justified/article_c8ad63f8-8561-5f5b-83a8-6a836a6b514e.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/d9/cd9d3ae2-3df8-541e-a225-03d2eec21c4d/6893542f25e1b.image.jpg?crop=1620%2C851%2C0%2C114&resize=1200%2C630&order=crop%2Cresize",
-            "publishedAt": "2025-08-07T17:08:00Z"
-        },
-        {
-            "source": {
-                "id": "35515662ec044d3f94b543cd8802d63f",
-                "name": "WDIV ClickOnDetroit",
-                "url": "https://www.clickondetroit.com"
-            },
-            "title": "OpenAI releases GPT-5, a potential barometer for whether artificial intelligence hype is justified",
-            "url": "https://www.clickondetroit.com/business/2025/08/07/openai-releases-gpt-5-a-potential-barometer-for-whether-artificial-intelligence-hype-is-justified/",
-            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/4VBIVYKYTFBCHCYPRO3YUQKMXM.jpg?_a=DATAg1eAZAA0",
-            "publishedAt": "2025-08-07T17:03:29Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com"
-            },
-            "title": "OpenAI launches GPT-5 as the AI industry seeks a return on investment",
-            "url": "https://www.reuters.com/business/retail-consumer/openai-launches-gpt-5-ai-industry-seeks-return-investment-2025-08-07/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/DE764WJDLROJHLQO3WICIVSUXA.jpg?auth=2d17c4832a09a13f1cea75a999a940bc0536ee190dfe774218d742e8146c743f&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-08-07T17:02:16Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com"
-            },
-            "title": "OpenAI Launches More Powerful GPT-5 Model Aimed at Better Coding",
-            "url": "https://www.bloomberg.com/news/articles/2025-08-07/openai-launches-more-powerful-gpt-5-model-aimed-at-better-coding",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iI8Hl20.ax.8/v1/1200x800.jpg",
-            "publishedAt": "2025-08-07T17:00:30Z"
-        },
-        {
-            "source": {
-                "id": "77b86639d1384ac68141803ec5db27c0",
-                "name": "NBC News",
-                "url": "https://www.nbcnews.com"
-            },
-            "title": "OpenAI releases GPT-5, calling it a ‘team of Ph.D. level experts in your pocket’",
-            "url": "https://www.nbcnews.com/tech/tech-news/openai-releases-chatgpt-5-rcna223265",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250805-sam-altman-aa-520-3f10fc.jpg",
-            "publishedAt": "2025-08-07T17:00:00Z"
-        },
-        {
-            "source": {
-                "id": "57f726ae1c2926b0eba0b6cd65467921",
-                "name": "CryptoSlate",
-                "url": "https://cryptoslate.com"
-            },
-            "title": "Fake Ethereum trading bots on YouTube help scammers steal over $900K",
-            "url": "https://cryptoslate.com/fake-ethereum-trading-bots-on-youtube-help-scammers-steal-over-900k/",
-            "urlToImage": "https://cryptoslate.com/wp-content/uploads/2025/08/ethereum-drainer-bot.jpg",
-            "publishedAt": "2025-08-07T16:53:52Z"
-        },
-        {
-            "source": {
-                "id": "8da923084554b2821233d6c5c5f02c97",
-                "name": "Fox News",
-                "url": "https://www.foxnews.com"
-            },
-            "title": "Trump White House celebrates latest chapter of wins at 200-day mark",
-            "url": "https://www.foxnews.com/politics/trump-white-house-celebrates-latest-chapter-wins-200-day-mark",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/08/trump-waves-white-house.jpg",
-            "publishedAt": "2025-08-07T16:32:56Z"
-        },
-        {
-            "source": {
-                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
-                "name": "The Associated Press",
-                "url": "https://apnews.com"
-            },
-            "title": "Roblox opens up AI system that helps detect predatory language in chats",
-            "url": "https://apnews.com/article/roblox-grooming-messages-ai-kids-teens-9e9d4131d46b80eead3e57b1110d48eb",
-            "urlToImage": "https://dims.apnews.com/dims4/default/9113df2/2147483647/strip/true/crop/3260x1834+0+306/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc5%2F10%2Fd0b1b4c70caeffb3279b8a1438b0%2F7fbcab172730411281b76187d7ee3446",
-            "publishedAt": "2025-08-07T16:16:25Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net"
-            },
-            "title": "AI is not your friend",
-            "url": "https://www.manilatimes.net/2025/08/08/opinion/world/ai-is-not-your-friend/2164169",
-            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-            "publishedAt": "2025-08-07T16:02:00Z"
         }
     ]
 }
