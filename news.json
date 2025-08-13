@@ -1,6 +1,17 @@
 {
-    "lastUpdatedAt": "2025-08-13T09:18:45.427215Z",
+    "lastUpdatedAt": "2025-08-13T10:18:00.324539Z",
     "articles": [
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com"
+            },
+            "title": "Companies Are Pouring Billions Into A.I. It Has Yet to Pay Off.",
+            "url": "https://www.nytimes.com/2025/08/13/business/ai-business-payoff-lags.html",
+            "urlToImage": "https://static01.nyt.com/images/2025/08/12/business/00biz-ai-lag/00biz-ai-lag-facebookJumbo.jpg",
+            "publishedAt": "2025-08-13T09:01:01Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -1023,6 +1034,15 @@
             "url": "https://apnews.com/article/information-technology-artificial-intelligence-colleges-and-universities-alphabet-inc-california-bda897ddb2fa4317bc603e4b71943b7e",
             "urlToImage": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
             "publishedAt": "2025-08-12T01:11:21Z"
+        },
+        {
+            "source": {
+                "name": "venturebeat"
+            },
+            "title": "Liquid AI wants to give smartphones small, fast AI that can see with new LFM2-VL model",
+            "url": "https://venturebeat.com/ai/liquid-ai-wants-to-give-smartphones-small-fast-ai-that-can-see-with-new-lfm2-vl-model/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/08/Collage-of-Expression-and-Vision.png?w=750",
+            "publishedAt": "2025-08-12 22:13:03"
         },
         {
             "source": {
@@ -3016,24 +3036,6 @@
             "url": "https://newatlas.com/military/hydrogen-tactical-field-power-source-marines/",
             "urlToImage": "https://assets.newatlas.com/dims4/default/c2d95a5/2147483647/strip/true/crop/960x640+0+261/resize/1200x800!/format/webp/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F19%2F06%2F002365654a73b22f45b1e7445d87%2F4.jpg",
             "publishedAt": "2025-08-10 18:03:00"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Optimizing LLM Performance with LM Cache: Architectures, Strategies, and Real-World Applications",
-            "url": "https://hackernoon.com/optimizing-llm-performance-with-lm-cache-architectures-strategies-and-real-world-applications",
-            "urlToImage": "https://hackernoon.imgix.net/images/wCBwna64Mzf5EFCG6QdcY2jQE7B3-b32394q.png",
-            "publishedAt": "2025-08-10 16:53:52"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "The HackerNoon Newsletter: Agentic AI and the Rise of Outcome Engineering (8/10/2025)",
-            "url": "https://hackernoon.com/8-10-2025-newsletter",
-            "urlToImage": "https://hackernoon.imgix.net/images/hackernoon_newsletter_256_p02gnnc4b3ylwfmwnszpapga.png",
-            "publishedAt": "2025-08-10 16:04:03"
         }
     ]
 }
