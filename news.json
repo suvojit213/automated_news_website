@@ -1,6 +1,28 @@
 {
-    "lastUpdatedAt": "2025-08-13T01:17:24.850477Z",
+    "lastUpdatedAt": "2025-08-13T03:17:08.207674Z",
     "articles": [
+        {
+            "source": {
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com"
+            },
+            "title": "Microsoft Lures Meta's Talent Pool With Multimillion-Dollar Pay Packages As The AI War Heats Up: Report",
+            "url": "https://www.benzinga.com/markets/tech/25/08/47080585/microsoft-lures-metas-talent-pool-with-multimillion-dollar-pay-packages-as-the-ai-war-heats-up-report",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/08/12/New-York--Ny--Usa---July-5--2022-Microso.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2025-08-13T02:39:08Z"
+        },
+        {
+            "source": {
+                "id": "85e5403407038478a5e7d8d100ff8e8f",
+                "name": "CP24 Toronto",
+                "url": "https://www.cp24.com"
+            },
+            "title": "Satellite images reveal conditions that contributed to 'catastrophic' season",
+            "url": "https://www.cp24.com/news/canada/2025/08/12/satellite-images-reveal-conditions-that-contributed-to-catastrophic-wildfire-season/",
+            "urlToImage": "https://www.cp24.com/resizer/v2/BCNCJFMS6TDSEXD4OLJ5EUJTJM.jpg?smart=true&auth=6deaa7faef02444625d9102b353085d625ab1a4cdf6fcb23b454ad2cf4e329c8&width=1200&height=630",
+            "publishedAt": "2025-08-13T02:17:46Z"
+        },
         {
             "source": {
                 "id": "f6d6ee1134197fe1441d65a3e7915835",
@@ -836,6 +858,87 @@
             "url": "https://apnews.com/article/information-technology-artificial-intelligence-colleges-and-universities-alphabet-inc-california-bda897ddb2fa4317bc603e4b71943b7e",
             "urlToImage": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
             "publishedAt": "2025-08-12T01:11:21Z"
+        },
+        {
+            "source": {
+                "name": "pcgamer"
+            },
+            "title": "The first RX 9060 benchmarks show the non-XT AMD GPU going toe to toe with the RTX 5060",
+            "url": "https://www.pcgamer.com/hardware/graphics-cards/the-first-rx-9060-benchmarks-show-the-non-xt-amd-gpu-going-toe-to-toe-with-the-rtx-5060/",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/VBBF3CdLywDmTzwM6bnqUZ-1280-80.jpg",
+            "publishedAt": "2025-08-12 15:03:16"
+        },
+        {
+            "source": {
+                "name": "venturebeat"
+            },
+            "title": "Salesforce’s new CoAct-1 agents don’t just point and click — they write code to accomplish tasks faster and with greater success rates",
+            "url": "https://venturebeat.com/ai/salesforces-new-coact-1-agents-dont-just-point-and-click-they-write-code-to-accomplish-tasks-faster-and-with-greater-success-rates/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/08/AI-agent-coding-and-GUI.jpg?w=750",
+            "publishedAt": "2025-08-12 15:00:03"
+        },
+        {
+            "source": {
+                "name": "news_syr"
+            },
+            "title": "How Artists Are Embracing Artificial Intelligence to Create Works of Art",
+            "url": "https://news.syr.edu/blog/2025/08/12/how-artists-are-embracing-artificial-intelligence-to-create-works-of-art/",
+            "urlToImage": "https://news.syr.edu/wp-content/uploads/2025/08/Adam_Hazem2.png",
+            "publishedAt": "2025-08-12 14:52:56"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "VC Funding Comes At A Cost, But Web3 Founders Don’t Have To Pay It",
+            "url": "https://www.analyticsinsight.net/cryptocurrency-analytics-insight/vc-funding-comes-at-a-cost-but-web3-founders-dont-have-to-pay-it",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-08-12%2Fl4sxhc8n%2FVC-Funding-Comes-At-A-Cost-But-Web3-Founders-Don%E2%80%99t-Have-To-Pay-It.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-08-12 14:42:30"
+        },
+        {
+            "source": {
+                "name": "livemint"
+            },
+            "title": "Apple co-founder Steve Wozniak claims YouTube ignored fraudulent Bitcoin promotion",
+            "url": "https://www.livemint.com/technology/tech-news/apple-co-founder-steve-wozniak-claims-youtube-ignored-fraudulent-bitcoin-promotion-11755007414574.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2025/08/12/1600x900/WOZNIAK-MEXICO-APPLE-0_1699496119620_1755007498672.JPG",
+            "publishedAt": "2025-08-12 14:17:18"
+        },
+        {
+            "source": {
+                "name": "techtarget"
+            },
+            "title": "Gemini 2.5 Deep Think explained: Everything you need to know",
+            "url": "https://www.techtarget.com/whatis/feature/Gemini-25-Deep-Think-explained",
+            "urlToImage": "https://www.techtarget.com/rms/onlineimages/ai_a264431831_searchsitetablet_520X173.jpg",
+            "publishedAt": "2025-08-12 14:17:00"
+        },
+        {
+            "source": {
+                "name": "hackaday"
+            },
+            "title": "Remembering James Lovell: the Man Who Cheated Death in Space",
+            "url": "https://hackaday.com/2025/08/12/remembering-james-lovell-the-man-who-cheated-death-in-space/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2025/08/JimLovell.jpg",
+            "publishedAt": "2025-08-12 14:00:33"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "This macOS Tahoe feature lets me track my coffee orders in real time — and I’m obsessed",
+            "url": "https://www.tomsguide.com/computing/macos/this-macos-tahoe-feature-lets-me-track-my-coffee-orders-in-real-time-and-im-obsessed",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Bn44ceL3Rc7dbJLxjXL6MF-1280-80.jpg",
+            "publishedAt": "2025-08-12 13:19:36"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "PS6 Specs and Release Date Leaked: Check Details",
+            "url": "https://www.analyticsinsight.net/gaming/ps6-specs-and-release-date-leaked-check-details",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-08-12%2Fh9vokhoo%2FPS6-Specs-and-Release-Date-Leaked-Check-Details.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-08-12 13:17:19"
         },
         {
             "source": {
@@ -2947,105 +3050,6 @@
             "url": "https://www.theverge.com/installer-newsletter/757086/openai-gpt-5-chatgpt-roku-howdy-camp-snap-cs-8-fortnite-installer",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/installer_da311a.png?crop=0%2C10.732984293194%2C100%2C78.534031413613&quality=90&strip=all&w=1200",
             "publishedAt": "2025-08-09 13:04:32"
-        },
-        {
-            "source": {
-                "name": "cnet"
-            },
-            "title": "As a VPN Expert, These Are the VPNs I Recommend for NFL Streaming",
-            "url": "https://www.cnet.com/tech/services-and-software/as-a-vpn-expert-these-are-the-vpns-i-recommend-for-nfl-streaming/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/04d42c958f09747b88438b8c635efbf1720c690d/hub/2024/05/11/4c39b95f-0f89-4314-9b3d-97cf7ee1370e/vpn-for-streaming.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-08-09 13:00:00"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Best Tablets for Video Editing",
-            "url": "https://www.analyticsinsight.net/gadgets/best-tablets-for-video-editing",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-08-09%2F3t6k06ic%2FBest-Tablets-for-Video-Editing.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-08-09 12:30:00"
-        },
-        {
-            "source": {
-                "name": "cnet"
-            },
-            "title": "Best VPN for iPhone 2025: Boost Your Privacy on the Go",
-            "url": "https://www.cnet.com/tech/services-and-software/best-vpn-for-iphone/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/cc011a97ccc31dddc3ac3e3e2e1c18b4ea8be98b/hub/2024/04/24/de233b43-f2e8-4a9e-af29-4796b3bcd0ce/vpn-online-safety-protection-9292.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-08-09 12:00:00"
-        },
-        {
-            "source": {
-                "name": "ibtimes"
-            },
-            "title": "Industrial analytics and rise of autonomous intelligence",
-            "url": "https://www.ibtimes.co.in/industrial-analytics-rise-autonomous-intelligence-886047",
-            "urlToImage": "https://data1.ibtimes.co.in/en/full/677753/artificial-intelligence.jpg?h=450&l=50&t=40",
-            "publishedAt": "2025-08-09 11:38:39"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "I answered the million-dollar question about buying laptops - here's the ultimate guide",
-            "url": "https://www.zdnet.com/article/i-answered-the-million-dollar-question-about-buying-laptops-heres-the-ultimate-guide/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/1d97db13dda860b77235d5504e662ad5f12b234e/2024/06/06/87d951ac-c4f6-4112-874c-ad26dbbb194f/dsc01885.jpg?auto=webp&width=1280",
-            "publishedAt": "2025-08-09 08:30:18"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "NordVPN is the most popular VPN amongst UK politicians – but they're not getting the best deals",
-            "url": "https://www.tomsguide.com/computing/vpns/nordvpn-is-the-most-popular-vpn-amongst-uk-politicians-but-theyre-not-getting-the-best-deals",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/V83eh5UMH9Uox3uFAa6AEG-1280-80.jpg",
-            "publishedAt": "2025-08-09 08:00:00"
-        },
-        {
-            "source": {
-                "name": "digit_in"
-            },
-            "title": "5 coding projects that I built with GPT-5: From Minesweeper to classic literature",
-            "url": "https://www.digit.in/features/general/5-coding-projects-that-i-built-with-gpt-5-from-minesweeper-to-classic-literature.html",
-            "urlToImage": "https://static.digit.in/Coding.jpg",
-            "publishedAt": "2025-08-09 06:32:08"
-        },
-        {
-            "source": {
-                "name": "zephyrnet"
-            },
-            "title": "Exploring the Influence Zones of Convolutional Neural Networks",
-            "url": "https://zephyrnet.com/exploring-the-influence-zones-of-convolutional-neural-networks/",
-            "urlToImage": "https://zephyrnet.com/wp-content/uploads/img-TfeU6xh4wXVEKrT7VJoEpAtd.png",
-            "publishedAt": "2025-08-09 05:47:51"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Become a Generative AI Expert in 2025: Here’s How to Start",
-            "url": "https://www.analyticsinsight.net/generative-ai/become-a-generative-ai-expert-in-2025-heres-how-to-start",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-08-09%2Fk72wkt6m%2FBecome-a-Generative-AI-Expert-in-2025-Here%E2%80%99s-How-to-Start.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-08-09 05:30:00"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "10 GitHub Repositories to Master Python in 2025",
-            "url": "https://www.analyticsinsight.net/python-2/10-github-repositories-to-master-python-in-2025",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-08-08%2Fbcwqpf11%2F10-GitHub-Repositories-to-Master-Python-in-2025.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-08-09 03:30:00"
-        },
-        {
-            "source": {
-                "name": "financialcontent"
-            },
-            "title": "Cathie Wood Goes Bargain Hunting. 1 Dirt Cheap Artificial Intelligence (AI) Stock With Monster Potential She Just Bought",
-            "url": "https://www.fool.com/investing/2025/08/09/cathie-wood-goes-bargain-hunting-1-dirt-cheap-arti/",
-            "urlToImage": "https://g.foolcdn.com/image/?h=400&op=resize&url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F828267%2Fgettyimages-1478483037.jpg&w=400",
-            "publishedAt": "2025-08-09 00:00:00"
         }
     ]
 }
