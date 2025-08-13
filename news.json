@@ -1,6 +1,17 @@
 {
-    "lastUpdatedAt": "2025-08-13T03:17:08.207674Z",
+    "lastUpdatedAt": "2025-08-13T04:26:43.530374Z",
     "articles": [
+        {
+            "source": {
+                "id": "e4c9e4e9d9550870a5c47f12f4415b7f",
+                "name": "Plymouth Live",
+                "url": "https://www.plymouthherald.co.uk"
+            },
+            "title": "HMRC using AI to find evidence of fraud on social media accounts",
+            "url": "https://www.plymouthherald.co.uk/news/cost-of-living/hmrc-using-ai-find-evidence-10419322",
+            "urlToImage": "https://i2-prod.plymouthherald.co.uk/news/cost-of-living/article10419320.ece/ALTERNATES/s1200/0_I-just-cant-get-this-done.jpg",
+            "publishedAt": "2025-08-13T03:05:00Z"
+        },
         {
             "source": {
                 "id": "d4e7f6a65e15620f4e4044691a99d0fd",
@@ -55,6 +66,28 @@
             "url": "https://www.dawn.com/news/1930581/musk-to-take-legal-action-over-app-store-rankings",
             "urlToImage": "https://www.dawn.com/_img/social-default.jpg",
             "publishedAt": "2025-08-13T00:05:48Z"
+        },
+        {
+            "source": {
+                "id": "6536182115f7e8188f38d864bab0e1c6",
+                "name": "DAWN.com",
+                "url": "https://www.dawn.com"
+            },
+            "title": "Hybrid war boosted Pakistan’s cybersecurity confidence: Shaza",
+            "url": "https://www.dawn.com/news/1930555/hybrid-war-boosted-pakistans-cybersecurity-confidence-shaza",
+            "urlToImage": "https://i.dawn.com/large/2025/08/130828292c01dbe.jpg",
+            "publishedAt": "2025-08-13T00:05:23Z"
+        },
+        {
+            "source": {
+                "id": "31177620c1e6e610b5d2b67916ed3615",
+                "name": "PBS News",
+                "url": "https://www.pbs.org/newshour"
+            },
+            "title": "How to beat AI-driven custom pricing",
+            "url": "https://www.pbs.org/newshour/show/how-to-beat-ai-driven-custom-pricing",
+            "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/08/Airfare-1024x683.jpg",
+            "publishedAt": "2025-08-12T22:25:48Z"
         },
         {
             "source": {
@@ -858,6 +891,78 @@
             "url": "https://apnews.com/article/information-technology-artificial-intelligence-colleges-and-universities-alphabet-inc-california-bda897ddb2fa4317bc603e4b71943b7e",
             "urlToImage": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
             "publishedAt": "2025-08-12T01:11:21Z"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "At last, a Windows laptop that I wouldn't mind setting aside my MacBook Pro for",
+            "url": "https://www.zdnet.com/article/at-last-a-windows-laptop-that-i-wouldnt-mind-setting-aside-my-macbook-pro-for/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/aabf1328fda63c54479760322f93a6840f66e5bd/2024/05/30/97290787-89e8-4426-8d00-a38981e8fdb9/dsc00555-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-08-12 16:12:00"
+        },
+        {
+            "source": {
+                "name": "stimson"
+            },
+            "title": "AI Race: The Promise and Perils of Techno-Utopians",
+            "url": "https://www.stimson.org/2025/ai-race-the-promise-and-perils-of-techno-utopians/",
+            "urlToImage": "https://www.stimson.org/wp-content/uploads/2025/08/Tech-Dystopia-1024x607.jpg",
+            "publishedAt": "2025-08-12 16:05:23"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Efficient Price and Greeks Computation for American Options via Gradient-Enhanced LSM",
+            "url": "https://hackernoon.com/efficient-price-and-greeks-computation-for-american-options-via-gradient-enhanced-lsm",
+            "urlToImage": "https://hackernoon.imgix.net/images/sinW25rWovdN38P2ArzdPSCP3hi1-x90315n.jpeg",
+            "publishedAt": "2025-08-12 16:04:02"
+        },
+        {
+            "source": {
+                "name": "newscientist"
+            },
+            "title": "How AI poisoning is fighting bots that hoover data without permission",
+            "url": "https://www.newscientist.com/article/2490598-how-ai-poisoning-is-fighting-bots-that-hoover-data-without-permission/",
+            "urlToImage": "https://images.newscientist.com/wp-content/uploads/2025/08/07122233/SEI_261190983.jpg",
+            "publishedAt": "2025-08-12 16:00:24"
+        },
+        {
+            "source": {
+                "name": "theverge"
+            },
+            "title": "Blackwater’s founder would like to sell you a privacy phone made in the USA",
+            "url": "https://www.theverge.com/mobile/758073/unplugged-up-phone-erik-prince-blackwater",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/Unplugged-UP-Phone.jpg?crop=0%2C10.752607989199%2C100%2C78.494784021602&quality=90&strip=all&w=1200",
+            "publishedAt": "2025-08-12 15:52:50"
+        },
+        {
+            "source": {
+                "name": "techradar"
+            },
+            "title": "The best Dell XPS 13 and 15 deals for August 2025",
+            "url": "https://www.techradar.com/news/dell-xps-13-deals",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/fZm2kH8GEa6ALRbkGDFLzA.jpg",
+            "publishedAt": "2025-08-12 15:32:47"
+        },
+        {
+            "source": {
+                "name": "slate_usa"
+            },
+            "title": "I Had a Huge Middle School Crush. So I Used a Controversial Technology to Help Me Talk to Her.",
+            "url": "https://slate.com/technology/2025/08/chatgpt-ai-llm-smarterchild-teens.html?via=rss",
+            "urlToImage": "https://compote.slate.com/images/af79442a-d7b7-4e59-813b-2557d8645750.jpeg?crop=1560%2C1040%2Cx0%2Cy0",
+            "publishedAt": "2025-08-12 15:30:00"
+        },
+        {
+            "source": {
+                "name": "astrobiology"
+            },
+            "title": "Tricorder Tech: IDEA: An AI Assistant To Help Geoscientists Explore Earth And Beyond",
+            "url": "https://astrobiology.com/2025/08/tricorder-tech-idea-an-ai-assistant-to-help-geoscientists-explore-earth-and-beyond.html",
+            "urlToImage": "https://astrobiology.com/wp-content/uploads/2025/08/Tricorder-Tech-IDEA.png",
+            "publishedAt": "2025-08-12 15:28:13"
         },
         {
             "source": {
@@ -2943,113 +3048,6 @@
             "url": "https://cointelegraph.com/news/decentralized-data-economy-to-start-from-the-driver-s-seat",
             "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-08/01988aef-af44-7369-beaa-b3e8dfddfb28",
             "publishedAt": "2025-08-09T06:00:00Z"
-        },
-        {
-            "source": {
-                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
-                "name": "Firstpost",
-                "url": "https://www.firstpost.com"
-            },
-            "title": "Grok’s at it again: Elon Musk’s AI accused of generating Taylor swift nudes without any prompts",
-            "url": "https://www.firstpost.com/tech/groks-at-it-again-elon-musks-ai-accused-of-generating-taylor-swift-nudes-without-any-prompts-13922571.html",
-            "urlToImage": "https://images.firstpost.com/uploads/2025/08/tay-2025-08-3010ba1520ffb9ed6f18c833c0d2cf95.jpg?im=FitAndFill=(1200,675)",
-            "publishedAt": "2025-08-09T04:32:58Z"
-        },
-        {
-            "source": {
-                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-                "name": "Business Insider",
-                "url": "https://markets.businessinsider.com"
-            },
-            "title": "M&A News: Meta Acquires WaveForms AI",
-            "url": "https://markets.businessinsider.com/news/stocks/m-a-news-meta-acquires-waveforms-ai-1035012571",
-            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/08/image-538-1024x766.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-            "publishedAt": "2025-08-09T03:28:01Z"
-        },
-        {
-            "source": {
-                "id": "6fea3ee012f060c6309366516e8d00be",
-                "name": "News-Medical.net",
-                "url": "https://www.news-medical.net"
-            },
-            "title": "Decoding macrophage immune responses with gene editing and machine learning",
-            "url": "https://www.news-medical.net/news/20250808/Decoding-macrophage-immune-responses-with-gene-editing-and-machine-learning.aspx",
-            "urlToImage": "https://www.news-medical.net/image-handler/picture/2014/7/Macrophage-620x480.jpg",
-            "publishedAt": "2025-08-09T02:26:00Z"
-        },
-        {
-            "source": {
-                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-                "name": "Business Insider",
-                "url": "https://markets.businessinsider.com"
-            },
-            "title": "Nvidia Stock (NVDA) Closes at Record High",
-            "url": "https://markets.businessinsider.com/news/stocks/nvidia-stock-nvda-closes-at-record-high-1035013128",
-            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/08/image-561.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-            "publishedAt": "2025-08-09T02:08:14Z"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "GPT-5’s System Prompt Just Leaked. Here’s What We Learned",
-            "url": "https://www.forbes.com/sites/johnkoetsier/2025/08/09/gpt-5s-system-prompt-just-leaked-heres-what-we-learned/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68979b964788358010ce3df8/0x0.jpg?width=960",
-            "publishedAt": "2025-08-09 19:06:48"
-        },
-        {
-            "source": {
-                "name": "techaeris"
-            },
-            "title": "How Retailers Use Smartphone Apps to Track and Target Shoppers in Stores",
-            "url": "https://techaeris.com/2025/08/09/retailers-use-smartphone-apps-track-target/",
-            "urlToImage": "https://techaeris.com/wp-content/uploads/2025/08/How-Retailers-Use-Smartphone-Apps-to-Track-and-Target-Shoppers-in-Stores-3.jpg",
-            "publishedAt": "2025-08-09 18:06:47"
-        },
-        {
-            "source": {
-                "name": "popsci"
-            },
-            "title": "3 common smartphone myths you probably thought were true",
-            "url": "https://www.popsci.com/technology/smartphone-myths/",
-            "urlToImage": "https://www.popsci.com/wp-content/uploads/2025/08/can_phones_blow_up_gas_stations.jpg?quality=85",
-            "publishedAt": "2025-08-09 17:00:00"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Beyond The Final Answer: Why Non-Experts Can't Spot Bad AI Code",
-            "url": "https://hackernoon.com/beyond-the-final-answer-why-non-experts-cant-spot-bad-ai-code",
-            "urlToImage": "https://hackernoon.imgix.net/images/beyond-the-universe-y1swirfsckay9t1qj3bvobz0.png",
-            "publishedAt": "2025-08-09 14:30:02"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Thinking Like A Computer: The Missing Skill For Non-Experts Using AI",
-            "url": "https://hackernoon.com/thinking-like-a-computer-the-missing-skill-for-non-experts-using-ai",
-            "urlToImage": "https://hackernoon.imgix.net/images/a-brain-on-a-computer-screen-green-rnn58syt8yaokxmmme9j2778.png",
-            "publishedAt": "2025-08-09 14:15:02"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Why It's Harder: The Unique Hurdles For Non-Experts Using AI Coding Tools",
-            "url": "https://hackernoon.com/why-its-harder-the-unique-hurdles-for-non-experts-using-ai-coding-tools",
-            "urlToImage": "https://hackernoon.imgix.net/images/a-robot-jumping-through-hurdles-track-race-animated-pnfbadl31mpdeudbl87s011o.png",
-            "publishedAt": "2025-08-09 14:00:05"
-        },
-        {
-            "source": {
-                "name": "theverge"
-            },
-            "title": "The next big AI model is here",
-            "url": "https://www.theverge.com/installer-newsletter/757086/openai-gpt-5-chatgpt-roku-howdy-camp-snap-cs-8-fortnite-installer",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/installer_da311a.png?crop=0%2C10.732984293194%2C100%2C78.534031413613&quality=90&strip=all&w=1200",
-            "publishedAt": "2025-08-09 13:04:32"
         }
     ]
 }
