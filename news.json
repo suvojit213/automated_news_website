@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-08-14T20:18:20.056730Z",
+    "lastUpdatedAt": "2025-08-14T21:14:47.320780Z",
     "articles": [
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            },
+            "title": "Margaret Boden, Philosopher of Artificial Intelligence, Dies at 88",
+            "url": "https://www.nytimes.com/2025/08/14/science/margaret-boden-dead.html",
+            "urlToImage": "https://static01.nyt.com/images/2025/08/14/multimedia/14Boden--zfmv/14Boden--zfmv-facebookJumbo.jpg",
+            "publishedAt": "2025-08-14T20:36:35Z"
+        },
+        {
+            "source": {
+                "id": "d5f1f8579b4e9b390feccfa1c0cf8028",
+                "name": "Arab News",
+                "url": "https://www.arabnews.com",
+                "country": "ar"
+            },
+            "title": "India is rising to become a global powerhouse",
+            "url": "https://www.arabnews.com/node/2611852",
+            "urlToImage": "https://www.arabnews.com/sites/default/files/index23.png",
+            "publishedAt": "2025-08-14T20:07:38Z"
+        },
         {
             "source": {
                 "id": "492abf277b7277432148b61b21ddc836",
@@ -819,6 +843,51 @@
             "url": "https://www.digitaltrends.com/home/everything-you-need-to-know-about-smart-home-hacking/",
             "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/11/Anona-smart-home-deals-Holo-WiFi-smart-lock-installed-on-front-door-with-keyless-entry.jpg?resize=1200%2C630&p=1",
             "publishedAt": "2025-08-14T01:00:00Z"
+        },
+        {
+            "source": {
+                "name": "mashable_me"
+            },
+            "title": "9 ways to spot an AI-generated viral video",
+            "url": "https://me.mashable.com/tech/59549/9-ways-to-spot-an-ai-generated-viral-video",
+            "urlToImage": "https://sm.mashable.com/mashable_me/article/9/9-ways-to-/9-ways-to-spot-an-ai-generated-viral-video_pfjz.jpg",
+            "publishedAt": "2025-08-14 09:10:00"
+        },
+        {
+            "source": {
+                "name": "cnet"
+            },
+            "title": "Quick, the Soundcore Liberty 4 NC Earbuds Are Down to a New Record Low on Amazon",
+            "url": "https://www.cnet.com/deals/quick-the-soundcore-liberty-4-nc-earbuds-are-down-to-a-new-record-low-on-amazon/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/177ad6839c72ae17025866ac361e3ca41bf511a6/hub/2024/08/05/399a172f-b8d4-4160-9a92-9462490ad639/soundcore-by-anker-liberty-4-nc-wireless-earbuds.png?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-08-14 09:07:00"
+        },
+        {
+            "source": {
+                "name": "insideevs"
+            },
+            "title": "Karma’s $200,000 Amaris Luxury Coupe Is Real, And It Looks Stunning",
+            "url": "https://insideevs.com/news/768991/karma-automotive-amaris-price-specs-reveal/",
+            "urlToImage": "https://cdn.motor1.com/images/mgl/ko4Njn/s1/karma-amaris-gt-coupe.jpg",
+            "publishedAt": "2025-08-14 08:56:55"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "6 Key Learnings From the 2025 AI Governance Survey",
+            "url": "https://hackernoon.com/6-key-learnings-from-the-2025-ai-governance-survey",
+            "urlToImage": "https://hackernoon.imgix.net/images/TbRmoxuzTOhn0RB3YDTmDqDcide2-o4039sf.jpeg",
+            "publishedAt": "2025-08-14 08:39:13"
+        },
+        {
+            "source": {
+                "name": "researchsnipers"
+            },
+            "title": "OpenAI Brings Back Model Selection After GPT-4o Backlash",
+            "url": "https://researchsnipers.com/openai-brings-back-model-selection-after-gpt-4o-backlash/",
+            "urlToImage": "https://researchsnipers.com/wp-content/uploads/2025/08/1755100336_Model-selection-returns-after-massive-criticism-of-GPT-5-1024x576.jpg",
+            "publishedAt": "2025-08-14 08:35:00"
         },
         {
             "source": {
@@ -3071,83 +3140,6 @@
             "url": "https://www.benzinga.com/markets/tech/25/08/47050126/amc-ceo-says-he-has-personally-abandoned-google-in-exchange-for-chatgpt-heres-how-the-company-is-using-artificial-intelligence",
             "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/08/12/New-York-Ny-Usa-march-3--2021-The-Closed.jpeg?width=1200&height=800&fit=crop",
             "publishedAt": "2025-08-12T04:44:00Z"
-        },
-        {
-            "source": {
-                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-                "name": "Business Insider",
-                "url": "https://markets.businessinsider.com"
-            },
-            "title": "Let’s Look at Who Owns CoreWeave Stock (CRWV) Ahead of Q2 Earnings",
-            "url": "https://markets.businessinsider.com/news/stocks/let-s-look-at-who-owns-coreweave-stock-crwv-ahead-of-q2-earnings-1035022906",
-            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/08/crwv-ownership.jpg?utm_source=markets.businessinsider.com&utm_medium=referral",
-            "publishedAt": "2025-08-12T04:02:59Z"
-        },
-        {
-            "source": {
-                "id": "0d429ea54fdbe8e34c582aa31bc81aba",
-                "name": "The Boston Globe",
-                "url": "https://www.bostonglobe.com"
-            },
-            "title": "Musk says he plans to sue Apple for not featuring X or Grok among its top apps",
-            "url": "https://www.bostonglobe.com/2025/08/12/business/musk-says-he-plans-sue-apple-not-featuring-x-or-grok-among-its-top-apps/",
-            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/6KFEJJ7ROOOMQBSHAO5S6Q5FLM.jpg?auth=7cc520efd6799b789838d48e6411044c051147b2ccd686aabb7c4c8d3e29f1f6&width=1440",
-            "publishedAt": "2025-08-12T04:00:00Z"
-        },
-        {
-            "source": {
-                "id": "26269dbc42635df9af8c24f3cdab8e37",
-                "name": "Cable News Network",
-                "url": "https://edition.cnn.com"
-            },
-            "title": "Elon Musk threatens to sue Apple over app store ranking of his xAI app",
-            "url": "https://edition.cnn.com/2025/08/12/tech/elon-musk-threat-sue-apple-xai-app-intl-hnk",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2025-05-13t150806z-1042401118-rc23heap82k4-rtrmadp-3-usa-trump-gulf-investment.JPG?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2025-08-12T04:00:00Z"
-        },
-        {
-            "source": {
-                "id": "e894895ef041ab9c6cb7fe7223531f53",
-                "name": "Mashable India",
-                "url": "https://in.mashable.com"
-            },
-            "title": "20+ of the best MIT courses you can take online for free",
-            "url": "https://in.mashable.com/online-learning/98422/20-of-the-best-mit-courses-you-can-take-online-for-free",
-            "urlToImage": "https://sm.mashable.com/t/mashable_in/article/2/20-of-the-/20-of-the-best-mit-courses-you-can-take-online-for-free_s1ek.1200.jpg",
-            "publishedAt": "2025-08-12T04:00:00Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com"
-            },
-            "title": "Trump opens door to sales of version of Nvidia's next-gen AI chips in China",
-            "url": "https://www.reuters.com/world/china/trump-opens-door-sales-version-nvidias-next-gen-ai-chips-china-2025-08-12/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/ZET5WGUIBJMRFKFK6AS53T43JQ.jpg?auth=f84cf82e028969a3dd513e1e76df724c30362023b8ff073a4ee0b98a3154fecc&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-08-12T03:20:14Z"
-        },
-        {
-            "source": {
-                "id": "1b40b878c09151e8cf44a095bc8569a5",
-                "name": "ETF Daily News",
-                "url": "https://www.etfdailynews.com"
-            },
-            "title": "Cetera Investment Advisers Boosts Stock Position in iShares Cybersecurity and Tech ETF (NYSEARCA:IHAK)",
-            "url": "https://www.etfdailynews.com/2025/08/12/cetera-investment-advisers-boosts-stock-position-in-ishares-cybersecurity-and-tech-etf-nysearcaihak/",
-            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/ishares-cybersecurity--tech-etf-logo-1200x675.png?v=20210805100058&w=240&h=240&zc=2",
-            "publishedAt": "2025-08-12T03:14:58Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com"
-            },
-            "title": "From Budgets to Corruption: How Smarter Cost Accounting Can Reshape Public Finance",
-            "url": "https://www.devdiscourse.com/article/other/3535982-from-budgets-to-corruption-how-smarter-cost-accounting-can-reshape-public-finance",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/10_08_2025_10_30_00_1763729.png?width=920&format=jpeg",
-            "publishedAt": "2025-08-12T03:12:11Z"
         }
     ]
 }
