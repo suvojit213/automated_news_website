@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-08-14T17:14:27.866703Z",
+    "lastUpdatedAt": "2025-08-14T18:23:45.015464Z",
     "articles": [
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "AI-powered multi-agent simulation sets new standard for insider threat detection",
+            "url": "https://www.devdiscourse.com/article/technology/3539749-ai-powered-multi-agent-simulation-sets-new-standard-for-insider-threat-detection",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/13_08_2025_14_45_52_2687654.png?width=920&format=jpeg",
+            "publishedAt": "2025-08-14T18:06:38Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Eightfold AI Achieves All Three Levels of ISO/IEC 42001:2023 Certification",
+            "url": "https://www.manilatimes.net/2025/08/15/tmt-newswire/globenewswire/eightfold-ai-achieves-all-three-levels-of-isoiec-420012023-certification/2168247",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/15/714170.jpg",
+            "publishedAt": "2025-08-14T17:28:02Z"
+        },
         {
             "source": {
                 "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
@@ -678,12 +702,48 @@
         },
         {
             "source": {
+                "name": "thehindubusinessline"
+            },
+            "title": "IBM to support Maharashtra in developing quantum computing initiative",
+            "url": "https://www.thehindubusinessline.com/info-tech/ibm-to-support-maharashtra-in-developing-quantum-computing-initiative/article69931731.ece",
+            "urlToImage": "https://bl-i.thgim.com/public/incoming/el5yn5/article69931737.ece/alternates/LANDSCAPE_1200/437116655.jpg",
+            "publishedAt": "2025-08-14 06:04:51"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "Prototype color Kindle spotted in the wild — smaller, cheaper and a better display?",
+            "url": "https://www.tomsguide.com/computing/e-readers/prototype-color-kindle-spotted-in-the-wild-smaller-cheaper-and-a-better-display",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/KVyvXAxLs7HEWJvCgxxEmM-1280-80.jpg",
+            "publishedAt": "2025-08-14 05:35:00"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "Google's new feature lets you customize search to show sites you trust — how to use preferred sources",
+            "url": "https://www.tomsguide.com/computing/googles-new-feature-lets-you-customize-search-to-show-sites-you-trust-how-to-use-preferred-sources",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/ccMLzt4RpHFuqnmHh3JkBa-1280-80.jpg",
+            "publishedAt": "2025-08-14 05:30:00"
+        },
+        {
+            "source": {
                 "name": "tomsguide"
             },
             "title": "I tested ChatGPT-5 vs Grok 4 with 9 prompts — and there's a clear winner",
             "url": "https://www.tomsguide.com/ai/i-tested-chatgpt-5-vs-grok-4-with-9-prompts-and-theres-a-clear-winner",
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/PdWiY4pGyiN2U3TwSNeQWn-1280-80.jpg",
             "publishedAt": "2025-08-14 04:30:00"
+        },
+        {
+            "source": {
+                "name": "helpnetsecurity"
+            },
+            "title": "AI is changing Kubernetes faster than most teams can keep up",
+            "url": "https://www.helpnetsecurity.com/2025/08/14/ai-in-kubernetes-operations/",
+            "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2023/10/24112339/kubernetes-1400-2.jpg",
+            "publishedAt": "2025-08-14 04:00:53"
         },
         {
             "source": {
@@ -3070,60 +3130,6 @@
             "url": "https://hackernoon.com/boost-keras-model-training-speed-with-mixed-precision-in-tensorflow",
             "urlToImage": "https://hackernoon.imgix.net/images/the-text-keras-on-a-whiteboard-xvxbi8lxzufcgqenb96kiac1.png",
             "publishedAt": "2025-08-12 20:16:07"
-        },
-        {
-            "source": {
-                "name": "reflector"
-            },
-            "title": "Leonardo DRS Successfully Completes First Open-Water Demonstration of its Counter-UAS Maritime Mission Equipment Package for Small Uncrewed Surface Vessels",
-            "url": "https://www.reflector.com/news/national/leonardo-drs-successfully-completes-first-open-water-demonstration-of-its-counter-uas-maritime-mission-equipment/article_d3d35b1b-4edb-512f-b078-ca936dc16e93.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/reflector.com/content/tncms/assets/v3/editorial/4/af/4afb29c3-e054-51cd-84f8-4eb4fc54cc65/689b9e78c7763.image.jpg?resize=300%2C162",
-            "publishedAt": "2025-08-12 20:02:21"
-        },
-        {
-            "source": {
-                "name": "usatoday"
-            },
-            "title": "Utility Automation and Innovation: Yashwant Shukla’s Role in Building Smarter Infrastructure",
-            "url": "https://www.usatoday.com/story/special/contributor-content/2025/08/12/utility-automation-and-innovation-yashwant-shuklas-role-in-building-smarter-infrastructure/85631467007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/08/12/USAT/85631472007-image-1-1.jpg?auto=webp&crop=1051%2C591%2Cx0%2Cy54&format=pjpg&height=591&width=1051",
-            "publishedAt": "2025-08-12 19:39:24"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "Is your iPhone alarm not going off? 6 potential fixes that worked for me",
-            "url": "https://www.zdnet.com/article/is-your-iphone-alarm-not-going-off-6-potential-fixes-that-worked-for-me/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/57e2e8026737b8e9196fab1530c3f38e8caed0ea/2025/07/15/6f1b06d3-56b8-4bf5-88d2-ca165b365ec1/iphone-alarm-not-going-off-staying-silent.jpg?auto=webp&width=1280",
-            "publishedAt": "2025-08-12 19:28:00"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Meta AI’s Coconut Shifts LLM Reasoning to Efficient Latent Spaces",
-            "url": "https://www.webpronews.com/meta-ais-coconut-shifts-llm-reasoning-to-efficient-latent-spaces/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-882582bc-4c42-4ebe-8871-84d8e324204c.jpeg?fit=300%2C300&ssl=1",
-            "publishedAt": "2025-08-12 18:23:11"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "I’ve tested countless mechanical keyboards —these are the only ones I'd buy",
-            "url": "https://www.tomsguide.com/computing/keyboards/ive-tested-countless-mechanical-keyboards-these-are-the-only-ones-id-buy",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/afGLunzrBrSPGcFNvbcPJU-1280-80.jpg",
-            "publishedAt": "2025-08-12 18:20:06"
-        },
-        {
-            "source": {
-                "name": "analyticsindiamag"
-            },
-            "title": "SiMa.ai Launches Chip to Run Reasoning-Based LLMs On-Device in Under 10 Watt",
-            "url": "https://analyticsindiamag.com/ai-news-updates/sima-ai-launches-chip-to-run-reasoning-based-llms-on-device-in-under-10-watt/",
-            "urlToImage": "https://analyticsindiamag.com/wp-content/uploads/2024/09/Sima-ai.jpg",
-            "publishedAt": "2025-08-12 18:15:32"
         }
     ]
 }
