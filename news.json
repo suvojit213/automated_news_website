@@ -1,6 +1,39 @@
 {
-    "lastUpdatedAt": "2025-08-14T07:17:40.844798Z",
+    "lastUpdatedAt": "2025-08-14T08:22:27.180045Z",
     "articles": [
+        {
+            "source": {
+                "id": "8e6a3c91c14a7267c52e13a72ed4cdd6",
+                "name": "CBC.ca",
+                "url": "https://www.cbc.ca"
+            },
+            "title": "House of Commons hit by cyberattack from 'threat actor': internal email",
+            "url": "https://www.cbc.ca/news/politics/house-of-commons-data-breach-1.7608061",
+            "urlToImage": "https://i.cbc.ca/1.7521931.1745953430!/cantoImage/httpImage/image.jpg_gen/derivatives/16x9_1180/carney-elxn-night.jpg?im=Resize%3D620",
+            "publishedAt": "2025-08-14T08:00:00Z"
+        },
+        {
+            "source": {
+                "id": "8f697316c20ca510ecdfa51c8f969ff3",
+                "name": "SunStar Philippines",
+                "url": "https://www.sunstar.com.ph"
+            },
+            "title": "Proposed ordinance aims to modernize City services with AI",
+            "url": "https://www.sunstar.com.ph/cebu/proposed-ordinance-aims-to-modernize-city-services-with-ai",
+            "urlToImage": "https://media.assettype.com/sunstar%2F2025-08-14%2Fask53xv9%2FWinston-Pepito.jpg?rect=0%2C53%2C750%2C394&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2025-08-14T07:25:24Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com"
+            },
+            "title": "Positive Hack Camp: Cultivating Future Cybersecurity Talent in Moscow",
+            "url": "https://www.devdiscourse.com/article/business/3541011-positive-hack-camp-cultivating-future-cybersecurity-talent-in-moscow",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/14_08_2025_12_45_28_6028709.jpg?width=920&format=jpeg",
+            "publishedAt": "2025-08-14T07:15:40Z"
+        },
         {
             "source": {
                 "id": "f4967fce32bfc735983f0f39dcdba127",
@@ -990,6 +1023,42 @@
             "url": "https://www.dawn.com/news/1930555/hybrid-war-boosted-pakistans-cybersecurity-confidence-shaza",
             "urlToImage": "https://i.dawn.com/large/2025/08/130828292c01dbe.jpg",
             "publishedAt": "2025-08-13T00:05:23Z"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "This gaming PC feels like an Xbox 360 with an RTX 5090 inside - here's why",
+            "url": "https://www.tomsguide.com/computing/gaming-desktops/maingear-mg-1-ultimate-review",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/NZVGFGtR5xgjTMoDWwYjQP-1280-80.jpg",
+            "publishedAt": "2025-08-13 20:08:40"
+        },
+        {
+            "source": {
+                "name": "universetoday"
+            },
+            "title": "When Dwarfs Dance, Do Galaxies Merge?",
+            "url": "https://www.universetoday.com/articles/when-dwarfs-dance-do-galaxies-merge",
+            "urlToImage": "https://www.universetoday.com/article_images/Dancing_Galaxies_20250813_161740.jpg",
+            "publishedAt": "2025-08-13 19:59:25"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "Samsung tipped to be making its own Meta Ray-Ban-style smart glasses — here’s when they launch",
+            "url": "https://www.tomsguide.com/computing/smart-glasses/samsung-tipped-to-be-making-its-own-meta-ray-ban-style-smart-glasses-heres-when-they-launch",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/2Dhr9G9bYnHj7YNFAJvL28-1280-80.jpg",
+            "publishedAt": "2025-08-13 19:45:12"
+        },
+        {
+            "source": {
+                "name": "techtarget"
+            },
+            "title": "What is fuzzy logic?",
+            "url": "https://www.techtarget.com/searchenterpriseai/definition/fuzzy-logic",
+            "urlToImage": "https://www.techtarget.com/rms/onlineimages/arel_ryan.jpg",
+            "publishedAt": "2025-08-13 19:30:20"
         },
         {
             "source": {
@@ -2971,83 +3040,6 @@
             "url": "https://www.cp24.com/news/world/2025/08/11/trump-opens-door-to-sales-of-version-of-nvidias-next-gen-ai-chips-in-china/",
             "urlToImage": "https://www.cp24.com/resizer/v2/A6QAZ2XT2AHHMNPJGV2UTAQBPQ.jpg?smart=true&auth=fadfaf47b23a47a2a59a26c1988f41475b91ebf7a75205d786b872d23e943076&width=1200&height=630",
             "publishedAt": "2025-08-11T21:11:35Z"
-        },
-        {
-            "source": {
-                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
-                "name": "TechStartups.com",
-                "url": "https://techstartups.com"
-            },
-            "title": "GitHub CEO Thomas Dohmke steps down to launch new startup",
-            "url": "https://techstartups.com/2025/08/11/github-ceo-thomas-dohmke-steps-down-to-launch-new-startup-after-ai-driven-tenure/",
-            "urlToImage": "https://techstartups.com/wp-content/uploads/2025/08/Thomas-Dohmke.jpg",
-            "publishedAt": "2025-08-11T20:08:51Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com"
-            },
-            "title": "Bitcoin-Miner MARA Said to Near $168 Million Deal for EDF Unit",
-            "url": "https://www.bloomberg.com/news/articles/2025-08-11/bitcoin-miner-mara-said-to-near-168-million-deal-for-edf-unit",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ijB6r.LjfVIw/v0/1200x800.jpg",
-            "publishedAt": "2025-08-11T20:03:22Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com"
-            },
-            "title": "Trump opens door to sales of version of Nvidia's next-gen AI chips in China",
-            "url": "https://www.reuters.com/world/china/trump-opens-door-sales-version-nvidias-next-gen-ai-chips-china-2025-08-11/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/ZET5WGUIBJMRFKFK6AS53T43JQ.jpg?auth=f84cf82e028969a3dd513e1e76df724c30362023b8ff073a4ee0b98a3154fecc&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-08-11T19:36:17Z"
-        },
-        {
-            "source": {
-                "id": "7f6e8514e9d8f8376aaa9a7229861518",
-                "name": "PerthNow",
-                "url": "https://www.perthnow.com.au"
-            },
-            "title": "Go to school on AI to ease teacher load, treasurer told",
-            "url": "https://www.perthnow.com.au/news/business/go-to-school-on-ai-to-ease-teacher-load-treasurer-told-c-19653957",
-            "urlToImage": "https://images.perthnow.com.au/publication/C-19653957/26597e69f2a6e8c71f43cdd30c2007a5499b4852-16x9-x0y0w1280h720.jpg?imwidth=1200",
-            "publishedAt": "2025-08-11T19:02:24Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com"
-            },
-            "title": "Remote sensing tech fuels global leap in wildfire detection and mapping",
-            "url": "https://www.devdiscourse.com/article/technology/3534083-remote-sensing-tech-fuels-global-leap-in-wildfire-detection-and-mapping",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/08_08_2025_12_00_54_632281.png?width=920&format=jpeg",
-            "publishedAt": "2025-08-11T18:02:14Z"
-        },
-        {
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com"
-            },
-            "title": "How Artificial Intelligence is helping badminton players improve their games",
-            "url": "https://indianexpress.com/article/sports/badminton/artificial-intelligence-ai-badminton-players-improve-10183462/",
-            "urlToImage": "https://images.indianexpress.com/2025/08/badminton-ai-2.jpeg",
-            "publishedAt": "2025-08-11T17:07:27Z"
-        },
-        {
-            "source": {
-                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
-                "name": "TechStartups.com",
-                "url": "https://techstartups.com"
-            },
-            "title": "How Cybersecurity Startups Are Protecting Casino Transactions",
-            "url": "https://techstartups.com/2025/08/11/how-cybersecurity-startups-are-protecting-casino-transactions/",
-            "urlToImage": "https://techstartups.com/wp-content/uploads/2018/05/blockchain-and-cybersecurity.jpg",
-            "publishedAt": "2025-08-11T17:07:02Z"
         }
     ]
 }
