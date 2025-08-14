@@ -1,6 +1,50 @@
 {
-    "lastUpdatedAt": "2025-08-14T03:17:11.850136Z",
+    "lastUpdatedAt": "2025-08-14T04:26:59.484113Z",
     "articles": [
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com"
+            },
+            "title": "How AI strengthens energy systems amid climate and geopolitical pressures",
+            "url": "https://www.devdiscourse.com/article/technology/3538170-how-ai-strengthens-energy-systems-amid-climate-and-geopolitical-pressures",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/12_08_2025_10_09_48_4005554.png?width=920&format=jpeg",
+            "publishedAt": "2025-08-14T04:14:47Z"
+        },
+        {
+            "source": {
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com"
+            },
+            "title": "Illinois becomes third state to restrict use of AI in mental health industry as experts warn about 'AI psychosis'",
+            "url": "https://nypost.com/2025/08/13/us-news/illinois-becomes-third-state-to-restrict-use-of-ai-in-mental-health-industry-as-experts-warn-about-ai-psychosis/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/08/ai-therapy.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2025-08-14T03:54:04Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com"
+            },
+            "title": "Generative AI set to improve banking operations in India by 46%: RBI Report",
+            "url": "https://www.livemint.com/technology/tech-news/generative-ai-set-to-improve-banking-operations-in-india-by-46-rbi-report-11755141583819.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/tech3_1734536499109_1734536513984.jpg",
+            "publishedAt": "2025-08-14T03:19:43Z"
+        },
+        {
+            "source": {
+                "id": "8f697316c20ca510ecdfa51c8f969ff3",
+                "name": "SunStar Philippines",
+                "url": "https://www.sunstar.com.ph"
+            },
+            "title": "UPMin Investigates Cybersecurity Incident on Student Records",
+            "url": "https://www.sunstar.com.ph/davao/upmin-conducts-probe-into-student-records-cybersecurity-incident",
+            "urlToImage": "https://media.assettype.com/sunstar%2Fimport%2Fuploads%2Fimages%2F2021%2F01%2F20%2F265439.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2025-08-14T03:06:40Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -66,6 +110,17 @@
             "url": "https://www.foxbusiness.com/technology/godfather-ai-warns-machines-could-soon-outthink-humans-calls-maternal-instincts-built-in",
             "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/08/0/0/geoff-hinton-speaking.jpg?ve=1&tl=1",
             "publishedAt": "2025-08-13T22:46:09Z"
+        },
+        {
+            "source": {
+                "id": "31177620c1e6e610b5d2b67916ed3615",
+                "name": "PBS News",
+                "url": "https://www.pbs.org/newshour"
+            },
+            "title": "Trump’s AI chip deal sparks legal questions and national security concerns",
+            "url": "https://www.pbs.org/newshour/show/trumps-ai-chip-deal-sparks-legal-questions-and-national-security-concerns",
+            "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/08/ChipsDeal-1024x683.jpg",
+            "publishedAt": "2025-08-13T22:40:18Z"
         },
         {
             "source": {
@@ -858,6 +913,60 @@
             "url": "https://www.dawn.com/news/1930555/hybrid-war-boosted-pakistans-cybersecurity-confidence-shaza",
             "urlToImage": "https://i.dawn.com/large/2025/08/130828292c01dbe.jpg",
             "publishedAt": "2025-08-13T00:05:23Z"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "A Look At The Data: Blogs, Forums, And The Rise Of LLM Tools",
+            "url": "https://hackernoon.com/a-look-at-the-data-blogs-forums-and-the-rise-of-llm-tools",
+            "urlToImage": "https://hackernoon.imgix.net/images/research-data-abstract-v33jcfyf64adjyjmf1op7pnh.png",
+            "publishedAt": "2025-08-13 16:00:09"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "How Blob Gas Priority Fees Influence Ethereum’s Transaction Costs",
+            "url": "https://hackernoon.com/how-blob-gas-priority-fees-influence-ethereums-transaction-costs",
+            "urlToImage": "https://hackernoon.imgix.net/images/5wpKgV75aONqkTJlafw2yQmK9yd2-6c0384k.png",
+            "publishedAt": "2025-08-13 16:00:03"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "The Great Transformation: How LLMs Remake Every Programming Activity",
+            "url": "https://hackernoon.com/the-great-transformation-how-llms-remake-every-programming-activity",
+            "urlToImage": "https://hackernoon.imgix.net/images/a-technical-sphere-abstract-s3xd281jkmlctezuhyas9q46.png",
+            "publishedAt": "2025-08-13 15:45:02"
+        },
+        {
+            "source": {
+                "name": "techtarget"
+            },
+            "title": "GPT-5 explained: Everything you need to know",
+            "url": "https://www.techtarget.com/whatis/feature/GPT-5-explained",
+            "urlToImage": "https://www.techtarget.com/rms/onlineimages/ai_a373894778_searchsitetablet_520X173.jpg",
+            "publishedAt": "2025-08-13 15:35:00"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Excel vs. Python: How The Target Language Changes Everything For Non-Experts",
+            "url": "https://hackernoon.com/excel-vs-python-how-the-target-language-changes-everything-for-non-experts",
+            "urlToImage": "https://hackernoon.imgix.net/images/a-robot-vs-a-python-classic-painting-tswul75gl7vx5bdhv6p3ofwm.png",
+            "publishedAt": "2025-08-13 15:30:03"
+        },
+        {
+            "source": {
+                "name": "medianama"
+            },
+            "title": "UK Court Refuses to Exempt Wikipedia from Online Safety Act, Treats it on Par With Social Media",
+            "url": "https://www.medianama.com/2025/08/223-uk-court-exempt-wikipedia-online-safety-act-social-media/",
+            "urlToImage": "https://www.medianama.com/wp-content/uploads/2020/01/Screenshot-2020-01-02-at-1.02.14-PM.png.png",
+            "publishedAt": "2025-08-13 15:22:10"
         },
         {
             "source": {
@@ -2953,127 +3062,6 @@
             "url": "https://www.guelphtoday.com/national-business/bell-to-provide-customers-free-access-to-perplexity-pro-for-a-year-in-latest-ai-move-11058800",
             "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/08/ed7a8a85cfeaf30f0d8edba1cbfea957a84ec11fb96cd3b4c42e1c0529e0d320.jpg;w=1200;h=800;mode=crop",
             "publishedAt": "2025-08-11T13:40:16Z"
-        },
-        {
-            "source": {
-                "id": "a626af07817344050e3336789e06a2f5",
-                "name": "Vancouver Is Awesome",
-                "url": "https://www.vancouverisawesome.com"
-            },
-            "title": "Bell to provide customers free access to Perplexity Pro for a year in latest AI move",
-            "url": "https://www.vancouverisawesome.com/national-business/bell-to-provide-customers-free-access-to-perplexity-pro-for-a-year-in-latest-ai-move-11058810",
-            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/08/ed7a8a85cfeaf30f0d8edba1cbfea957a84ec11fb96cd3b4c42e1c0529e0d320.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2025-08-11T13:40:16Z"
-        },
-        {
-            "source": {
-                "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
-                "name": "BayToday",
-                "url": "https://www.baytoday.ca"
-            },
-            "title": "Bell to provide customers free access to Perplexity Pro for a year in latest AI move",
-            "url": "https://www.baytoday.ca/business/bell-to-provide-customers-free-access-to-perplexity-pro-for-a-year-in-latest-ai-move-11058800",
-            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/08/ed7a8a85cfeaf30f0d8edba1cbfea957a84ec11fb96cd3b4c42e1c0529e0d320.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2025-08-11T13:40:16Z"
-        },
-        {
-            "source": {
-                "id": "b93fbda11fec5c2f08572a67a337e87d",
-                "name": "ElliotLakeToday.com",
-                "url": "https://www.elliotlaketoday.com"
-            },
-            "title": "Bell to provide customers free access to Perplexity Pro for a year in latest AI move",
-            "url": "https://www.elliotlaketoday.com/national-business/bell-to-provide-customers-free-access-to-perplexity-pro-for-a-year-in-latest-ai-move-11058800",
-            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/08/ed7a8a85cfeaf30f0d8edba1cbfea957a84ec11fb96cd3b4c42e1c0529e0d320.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2025-08-11T13:40:16Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com"
-            },
-            "title": "Micron raises forecasts as AI boosts memory chip demand",
-            "url": "https://www.reuters.com/business/micron-raises-forecasts-ai-boosts-memory-chip-demand-2025-08-11/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/AAYGEAAVLFJSTMZJQG7NDKPHDA.jpg?auth=f79420cf90935826e27d612f74a186376512be3c9199c5f277dd813c14e31992&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-08-11T13:14:59Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com"
-            },
-            "title": "Micron Technology raises quarterly results forecast on AI-driven demand",
-            "url": "https://www.reuters.com/business/micron-technology-raises-quarterly-results-forecast-ai-driven-demand-2025-08-11/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/AAYGEAAVLFJSTMZJQG7NDKPHDA.jpg?auth=f79420cf90935826e27d612f74a186376512be3c9199c5f277dd813c14e31992&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-08-11T12:17:56Z"
-        },
-        {
-            "source": {
-                "id": "f6d6ee1134197fe1441d65a3e7915835",
-                "name": "Yahoo Singapore News",
-                "url": "https://sg.news.yahoo.com"
-            },
-            "title": "Hong Kong allowing listing applicants more privacy sparks wave of confidential filings",
-            "url": "https://sg.news.yahoo.com/hong-kong-allowing-listing-applicants-114654899.html",
-            "urlToImage": "https://media.zenfs.com/en/reuters.com/fc32f02df7345e497bbef0c622388637",
-            "publishedAt": "2025-08-11T11:46:54Z"
-        },
-        {
-            "source": {
-                "id": "6fea3ee012f060c6309366516e8d00be",
-                "name": "News-Medical.net",
-                "url": "https://www.news-medical.net"
-            },
-            "title": "Using machine learning framework to identify prognostic biomarkers in neuroblastoma",
-            "url": "https://www.news-medical.net/news/20250811/Using-machine-learning-framework-to-identify-prognostic-biomarkers-in-neuroblastoma.aspx",
-            "urlToImage": "https://www.news-medical.net/image-handler/picture/2014/7/174318220-620x480.jpg",
-            "publishedAt": "2025-08-11T11:40:00Z"
-        },
-        {
-            "source": {
-                "id": "f6d6ee1134197fe1441d65a3e7915835",
-                "name": "Yahoo Singapore News",
-                "url": "https://sg.news.yahoo.com"
-            },
-            "title": "New government review committee in talks with firms to broaden and deepen AI adoption",
-            "url": "https://sg.news.yahoo.com/government-review-committee-talks-firms-111500324.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Yjc_gnEIa4sdvKg.fpmx2A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk7Y2Y9d2VicA--/https://media.zenfs.com/en/straits_times_442/8f74fa45c1de7ba260895e38177a9344",
-            "publishedAt": "2025-08-11T11:15:00Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com"
-            },
-            "title": "Fortifying India's Power Grid: Cybersecurity Overhaul in Progress",
-            "url": "https://www.devdiscourse.com/article/headlines/3537234-fortifying-indias-power-grid-cybersecurity-overhaul-in-progress",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/27_05_2025_12_14_36_3863389.png?width=920&format=jpeg",
-            "publishedAt": "2025-08-11T10:43:28Z"
-        },
-        {
-            "source": {
-                "id": "f6d6ee1134197fe1441d65a3e7915835",
-                "name": "Yahoo Singapore News",
-                "url": "https://sg.news.yahoo.com"
-            },
-            "title": "Indonesia eyes 'sovereign AI fund' to drive development, document shows",
-            "url": "https://sg.news.yahoo.com/indonesia-eyes-sovereign-ai-fund-100600208.html",
-            "urlToImage": "https://media.zenfs.com/en/reuters.com/540f72dd23f010e421a6fd4a0e11a73c",
-            "publishedAt": "2025-08-11T10:06:00Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com"
-            },
-            "title": "Indonesia eyes 'sovereign AI fund' to drive development, document shows",
-            "url": "https://www.reuters.com/world/asia-pacific/indonesia-eyes-sovereign-ai-fund-drive-development-document-shows-2025-08-11/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/PENMWE7ZX5II3ODXQ5ORVZAH4Y.jpg?auth=0f15252981e635403fdf32933f12366b3eea1f655bdeb7ca565faa929e762222&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-08-11T10:06:00Z"
         }
     ]
 }
