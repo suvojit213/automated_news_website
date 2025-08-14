@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-08-14T19:13:29.975197Z",
+    "lastUpdatedAt": "2025-08-14T20:18:20.056730Z",
     "articles": [
+        {
+            "source": {
+                "id": "492abf277b7277432148b61b21ddc836",
+                "name": "Los Angeles Times",
+                "url": "https://www.latimes.com",
+                "country": "us"
+            },
+            "title": "Meta’s superintelligence dream team will be management challenge of the century",
+            "url": "https://www.latimes.com/business/story/2025-08-14/metas-superintelligence-dream-team-will-be-management-challenge-of-the-century",
+            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/8a4345c/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fde%2F61%2F95704e1251798b1029fc009dce63%2F1x-1.jpg",
+            "publishedAt": "2025-08-14T19:49:47Z"
+        },
+        {
+            "source": {
+                "id": "93e59eaaf800fc544a6df1a4fc5c0cdc",
+                "name": "Toronto Star",
+                "url": "https://www.thestar.com",
+                "country": "ca"
+            },
+            "title": "Unknown hackers target MPs and parliamentary staff",
+            "url": "https://www.thestar.com/politics/federal/unknown-hackers-target-mps-and-parliamentary-staff-in-cyberattack/article_f6219e32-4306-4443-bdfa-ad0214a9c87c.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/71/971f0fb9-baee-566a-8b6b-4b1b8b0b1675/689e3ec617211.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2025-08-14T19:45:00Z"
+        },
+        {
+            "source": {
+                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
+                "name": "ABC News",
+                "url": "https://www.abc.net.au",
+                "country": "au"
+            },
+            "title": "AI could be the government's productivity answer. But getting there will mean more disruption",
+            "url": "https://www.abc.net.au/news/2025-08-15/how-artificial-intelligence-could-threaten-jobs/105642364",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/37dfaed8421afa354a7b5425f06bff22?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=267&width=862&height=485&imformat=generic",
+            "publishedAt": "2025-08-14T19:42:12Z"
+        },
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "Tiger cub hedge fund Coatue Management unveils new position in Oracle, doubles down on AI buildout",
+            "url": "https://www.cnbc.com/2025/08/14/tiger-cub-hedge-fund-coatue-management-unveils-new-position-in-oracle-doubles-down-on-ai-buildout.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108063431-1731621281954-gettyimages-2158625326-BLOOMBERG_INVEST.jpeg?v=1755196245&w=1920&h=1080",
+            "publishedAt": "2025-08-14T19:31:41Z"
+        },
         {
             "source": {
                 "id": "7006f2c40c7cc01195608dbfd60259b3",
@@ -60,6 +108,18 @@
             "url": "https://www.nbcnews.com/tech/tech-news/man-asked-chatgpt-cutting-salt-diet-was-hospitalized-hallucinations-rcna225055",
             "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250814-chatgpt-salt-advice-se-200p-8c63c7.jpg",
             "publishedAt": "2025-08-14T18:17:19Z"
+        },
+        {
+            "source": {
+                "id": "97497c18f5cb431f5f324b3d8643c24f",
+                "name": "The Independent",
+                "url": "https://www.independent.co.uk",
+                "country": "gb"
+            },
+            "title": "Cognitively impaired man traveled to NYC to meet Facebook chatbot he fell in love with. He never returned home",
+            "url": "https://www.independent.co.uk/news/world/americas/ai-relationship-death-facebook-b2807899.html",
+            "urlToImage": "https://static.independent.co.uk/2025/08/14/17/21/GettyImages-2192471202.jpg?width=1200&height=800&crop=1200:800",
+            "publishedAt": "2025-08-14T18:08:14Z"
         },
         {
             "source": {
@@ -759,6 +819,42 @@
             "url": "https://www.digitaltrends.com/home/everything-you-need-to-know-about-smart-home-hacking/",
             "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/11/Anona-smart-home-deals-Holo-WiFi-smart-lock-installed-on-front-door-with-keyless-entry.jpg?resize=1200%2C630&p=1",
             "publishedAt": "2025-08-14T01:00:00Z"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "RTX 5060 laptops vs RTX 4060 — is it actually worth buying one of the latest gaming laptops?",
+            "url": "https://www.tomsguide.com/computing/gaming-laptops/rtx-5060-laptops-vs-rtx-4060-is-it-actually-worth-buying-one-of-the-latest-gaming-laptops",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/RD4DbAUz8yATYrKWX6LBog-1280-80.jpg",
+            "publishedAt": "2025-08-14 08:15:00"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "To Sp or Not To Sp",
+            "url": "https://hackernoon.com/to-sp-or-not-to-sp",
+            "urlToImage": "https://hackernoon.imgix.net/images/iGSqmZjHpicjQeKy6B9FikRSS8l2-k333yzo.jpeg",
+            "publishedAt": "2025-08-14 07:25:10"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "People Will Lose Their Minds When AI Such As Artificial General Intelligence Suffers Blackouts",
+            "url": "https://www.forbes.com/sites/lanceeliot/2025/08/14/people-will-lose-their-minds-when-ai-such-as-artificial-general-intelligence-suffers-blackouts/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6855cefa3d663c20545deb71/0x0.jpg?width=960",
+            "publishedAt": "2025-08-14 07:15:00"
+        },
+        {
+            "source": {
+                "name": "telecom_economictimes"
+            },
+            "title": "Policy for data centers’ land, power usage to support industry: CBRE’s Anshuman Magazine",
+            "url": "https://telecom.economictimes.indiatimes.com/news/internet/data-centers-future-hinges-on-land-and-power-policies-insights-from-cbres-anshuman-magazine/123298011",
+            "urlToImage": "https://etimg.etb2bimg.com/photo/123298148.cms",
+            "publishedAt": "2025-08-14 07:13:13"
         },
         {
             "source": {
@@ -3052,99 +3148,6 @@
             "url": "https://www.devdiscourse.com/article/other/3535982-from-budgets-to-corruption-how-smarter-cost-accounting-can-reshape-public-finance",
             "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/10_08_2025_10_30_00_1763729.png?width=920&format=jpeg",
             "publishedAt": "2025-08-12T03:12:11Z"
-        },
-        {
-            "source": {
-                "id": "6fea3ee012f060c6309366516e8d00be",
-                "name": "News-Medical.net",
-                "url": "https://www.news-medical.net"
-            },
-            "title": "Researchers develop machine learning models to identify biomarkers for chronic fatigue syndrome",
-            "url": "https://www.news-medical.net/news/20250811/Researchers-develop-machine-learning-models-to-identify-biomarkers-for-chronic-fatigue-syndrome.aspx",
-            "urlToImage": "https://www.news-medical.net/image-handler/picture/2014/7/Fatigue-620x480.jpg",
-            "publishedAt": "2025-08-12T03:01:00Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com"
-            },
-            "title": "Elon Musk's AI Startup xAI to Sue Apple Over App Store Rankings",
-            "url": "https://www.devdiscourse.com/article/technology/3538128-elon-musks-ai-startup-xai-to-sue-apple-over-app-store-rankings",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/02_08_2025_11_51_55_0814438.jpg?width=920&format=jpeg",
-            "publishedAt": "2025-08-12T02:54:08Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com"
-            },
-            "title": "Musk says xAI to take legal action against Apple over App Store rankings",
-            "url": "https://www.reuters.com/sustainability/boards-policy-regulation/musk-says-xai-take-legal-action-against-apple-over-app-store-rankings-2025-08-12/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/3WG5DKLR5RJK7AQYBG5YIDP4LA.jpg?auth=ecce4a9329cbddd4094b89a63e66695f8c60f0953e2ab5320b432231b47ebc40&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-08-12T02:51:49Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net"
-            },
-            "title": "Nexusguard Partners with DIMA to Provide Advanced DDoS Protection Services in Bolivia",
-            "url": "https://www.manilatimes.net/2025/08/12/tmt-newswire/pr-newswire/nexusguard-partners-with-dima-to-provide-advanced-ddos-protection-services-in-bolivia/2166149",
-            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-            "publishedAt": "2025-08-12T02:32:36Z"
-        },
-        {
-            "source": {
-                "id": "a8984f03fe66dae9745793f6560aa444",
-                "name": "Newsmax",
-                "url": "https://www.newsmax.com"
-            },
-            "title": "Musk Accuses Apple of Antitrust Violation, Threatens Legal Action",
-            "url": "https://www.newsmax.com/newsfront/elon-musk-apple-antitrust/2025/08/11/id/1222099/",
-            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=9f3e7def-eab1-4c04-a436-52ff9b736d2a&SiteName=Newsmax",
-            "publishedAt": "2025-08-12T01:57:59Z"
-        },
-        {
-            "source": {
-                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
-                "name": "The Associated Press",
-                "url": "https://apnews.com"
-            },
-            "title": "Free AI training comes to California colleges - but at what cost?",
-            "url": "https://apnews.com/article/information-technology-artificial-intelligence-colleges-and-universities-alphabet-inc-california-bda897ddb2fa4317bc603e4b71943b7e",
-            "urlToImage": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
-            "publishedAt": "2025-08-12T01:11:21Z"
-        },
-        {
-            "source": {
-                "name": "ucmerced"
-            },
-            "title": "Boosting AI and Science: NSF Invests $600K in OpenDOTA Project at UC Merced",
-            "url": "https://news.ucmerced.edu/news/2025/boosting-ai-and-science-nsf-invests-600k-opendota-project-uc-merced",
-            "urlToImage": "https://news.ucmerced.edu/sites/g/files/ufvvjh1306/f/news/image/ai_grant_hero.jpeg",
-            "publishedAt": "2025-08-12 23:59:42"
-        },
-        {
-            "source": {
-                "name": "benzinga"
-            },
-            "title": "Rigetti Computing Q2 FY2025 Earnings Call Transcript",
-            "url": "https://www.benzinga.com/markets/earnings/25/08/47078439/rigetti-computing-q2-fy2025-earnings-call-transcript",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/08/12/Los-Angeles--California---August-3-2025-.jpeg?auto=jpg&dpr=1&fit=crop&height=480&optimize=medium&width=720",
-            "publishedAt": "2025-08-12 22:35:19"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "The Prompt: SEO Is Dead. What Comes Next?",
-            "url": "https://www.forbes.com/sites/rashishrivastava/2025/08/12/the-prompt-seo-is-dead-what-comes-next/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/689bc03b679bd864fb9d03ac/0x0.jpg?width=960",
-            "publishedAt": "2025-08-12 22:34:58"
         }
     ]
 }
