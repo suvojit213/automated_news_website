@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-08-14T16:21:10.640805Z",
+    "lastUpdatedAt": "2025-08-14T17:14:27.866703Z",
     "articles": [
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "3 charts that show Palantir's astronomical growth since going public",
+            "url": "https://www.cnbc.com/2025/08/14/palantir-ai-charts-revenue.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/101701316-173313274.jpg?v=1755185385&w=1920&h=1080",
+            "publishedAt": "2025-08-14T17:05:51Z"
+        },
+        {
+            "source": {
+                "id": "0c27793cc56dcaedbbf2ab1ff2728cac",
+                "name": "CNN",
+                "url": "https://www.cnn.com",
+                "country": "us"
+            },
+            "title": "Right-wing activist Robby Starbuck joins Meta as an AI advisor focused on ‘bias’",
+            "url": "https://www.cnn.com/2025/08/14/tech/robby-starbuck-meta-ai-advisor",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2202924571.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2025-08-14T16:19:00Z"
+        },
+        {
+            "source": {
+                "id": "26269dbc42635df9af8c24f3cdab8e37",
+                "name": "Cable News Network",
+                "url": "https://edition.cnn.com",
+                "country": "us"
+            },
+            "title": "Right-wing activist Robby Starbuck joins Meta as an AI advisor focused on ‘bias’",
+            "url": "https://edition.cnn.com/2025/08/14/tech/robby-starbuck-meta-ai-advisor",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2202924571.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2025-08-14T16:19:00Z"
+        },
         {
             "source": {
                 "id": "da5c26287bdd02563a2c32b55cb12051",
@@ -33,6 +69,18 @@
             "url": "https://www.manilatimes.net/2025/08/15/business/foreign-business/ai-demand-to-boost-foxconns-q2-profit/2168072",
             "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
             "publishedAt": "2025-08-14T16:00:00Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "China's Global Grip: Unveiling Transnational Repression on Uyghurs",
+            "url": "https://www.devdiscourse.com/article/international/3541874-chinas-global-grip-unveiling-transnational-repression-on-uyghurs",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/14_08_2025_21_28_53_8523403.jpg?width=920&format=jpeg",
+            "publishedAt": "2025-08-14T15:59:32Z"
         },
         {
             "source": {
@@ -630,6 +678,15 @@
         },
         {
             "source": {
+                "name": "tomsguide"
+            },
+            "title": "I tested ChatGPT-5 vs Grok 4 with 9 prompts — and there's a clear winner",
+            "url": "https://www.tomsguide.com/ai/i-tested-chatgpt-5-vs-grok-4-with-9-prompts-and-theres-a-clear-winner",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/PdWiY4pGyiN2U3TwSNeQWn-1280-80.jpg",
+            "publishedAt": "2025-08-14 04:30:00"
+        },
+        {
+            "source": {
                 "name": "analyticsinsight"
             },
             "title": "iPhone 16 Vs Vivo V60 5G: Which Has the Better Camera?",
@@ -698,6 +755,15 @@
             "title": "The future of quantum data centers: Resilience and risk",
             "url": "https://www.techtarget.com/searchdatabackup/feature/The-future-of-quantum-data-centers-Resilience-and-risk",
             "urlToImage": "https://www.techtarget.com/rms/onlineimages/storage_g1197646065_searchsitetablet_520X173.jpg",
+            "publishedAt": "2025-08-14 00:00:00"
+        },
+        {
+            "source": {
+                "name": "news_ohio"
+            },
+            "title": "How hands-on AI experience is shaping future business leaders",
+            "url": "https://www.ohio.edu/news/2025/08/how-hands-ai-experience-shaping-future-business-leaders",
+            "urlToImage": "https://www.ohio.edu/sites/ohio.edu.news/files/2025-08/20220322_BUILDING_BRANDING_rjf_003.JPG",
             "publishedAt": "2025-08-14 00:00:00"
         },
         {
@@ -3058,60 +3124,6 @@
             "url": "https://analyticsindiamag.com/ai-news-updates/sima-ai-launches-chip-to-run-reasoning-based-llms-on-device-in-under-10-watt/",
             "urlToImage": "https://analyticsindiamag.com/wp-content/uploads/2024/09/Sima-ai.jpg",
             "publishedAt": "2025-08-12 18:15:32"
-        },
-        {
-            "source": {
-                "name": "cnet"
-            },
-            "title": "Best Earbuds and Headphones for Workouts and the Gym in 2025",
-            "url": "https://www.cnet.com/tech/mobile/best-workout-headphones/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/304f8396091c363c28bd1fe106217212909903ab/hub/2020/01/17/5a4e5082-e4ce-45b1-84cd-4c7a4148481c/workout-heapdhones-promo.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-08-12 17:47:00"
-        },
-        {
-            "source": {
-                "name": "cnet"
-            },
-            "title": "Ready to Buy a New iPhone? Here's Why You Should Wait",
-            "url": "https://www.cnet.com/tech/mobile/ready-to-buy-a-new-iphone-heres-why-you-should-wait/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/c3d8c5e07cd3f798b45773532f2c742d0cc9a273/hub/2025/05/24/bd58adc6-cd65-4900-ba56-7cdea9653b47/iphone-17-rumors-vt-v02-00000.png?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-08-12 17:24:00"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "0G Launches WaveHack Buildathon for AI Developers on AKINDO With $50,000 Grant",
-            "url": "https://www.analyticsinsight.net/cryptocurrency-analytics-insight/0g-launches-wavehack-buildathon-for-ai-developers-on-akindo-with-50000-grant",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-08-12%2Foje5h1hs%2F0G-Launches-WaveHack-Buildathon-for-AI-Developers-on-AKINDO-With-50000-Grant.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-08-12 17:19:34"
-        },
-        {
-            "source": {
-                "name": "hackaday"
-            },
-            "title": "Design Review: LattePanda Mu NAS Carrier",
-            "url": "https://hackaday.com/2025/08/12/design-review-lattepanda-mu-nas-carrier/",
-            "urlToImage": "https://hackaday.com/wp-content/uploads/2024/04/PCBdesign.jpg",
-            "publishedAt": "2025-08-12 17:00:01"
-        },
-        {
-            "source": {
-                "name": "theverge"
-            },
-            "title": "The best doorbell cameras",
-            "url": "https://www.theverge.com/22954554/best-video-doorbell-camera",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25679694/247327_Buying_Guide_Doorbells_CVirginia.jpg?crop=0%2C10.732984293194%2C100%2C78.534031413613&quality=90&strip=all&w=1200",
-            "publishedAt": "2025-08-12 16:30:16"
-        },
-        {
-            "source": {
-                "name": "natlawreview"
-            },
-            "title": "USPTO §101 Memo – Key Signals for AI/Software Claims",
-            "url": "https://natlawreview.com/article/uspto-ss101-memo-key-signals-aisoftware-claims",
-            "urlToImage": "https://natlawreview.com/sites/default/files/styles/article_image/public/2025-08/USPTO%20Patent%20Office-98547965.jpg.webp?itok=5jBfXAyv",
-            "publishedAt": "2025-08-12 16:26:17"
         }
     ]
 }
