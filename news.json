@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2025-08-14T21:14:47.320780Z",
+    "lastUpdatedAt": "2025-08-14T22:15:05.926377Z",
     "articles": [
+        {
+            "source": {
+                "id": "dd4c720b98e562405eba2c628af5bfd0",
+                "name": "The Daily Beast",
+                "url": "https://www.thedailybeast.com",
+                "country": "us"
+            },
+            "title": "Silicon Valley Parents Are Spending $50,000 to Screen Embryos for IQ",
+            "url": "https://www.thedailybeast.com/silicon-valley-parents-are-spending-50000-to-screen-embryos-for-iq/",
+            "urlToImage": "https://www.thedailybeast.com/resizer/v2/U47XM5M5HNDKPDOJ5UHCTVKNPA.jpg?smart=true&auth=071dc01ba10bfe0c393d8a5d72edf283a8e3bc9c27f794d520d99cf76ef93f0f&width=1200&height=630",
+            "publishedAt": "2025-08-14T21:39:37Z"
+        },
+        {
+            "source": {
+                "id": "8749653ef849c3df2e467a8e0f0c6672",
+                "name": "NBC10 Boston",
+                "url": "https://www.nbcboston.com",
+                "country": "us"
+            },
+            "title": "Scam alert: Fake websites are tricking people into giving up info",
+            "url": "https://www.nbcboston.com/investigations/consumer/scam-alert-fake-websites-are-tricking-people-into-giving-up-information/3790483/",
+            "urlToImage": "https://media.nbcboston.com/2025/08/Fake-website-081425.jpg?quality=85&strip=all&resize=1200%2C675",
+            "publishedAt": "2025-08-14T21:31:36Z"
+        },
+        {
+            "source": {
+                "id": "9f53afb019d44feb16bcc7da150e679a",
+                "name": "Baltimore News",
+                "url": "https://foxbaltimore.com",
+                "country": "us"
+            },
+            "title": "New report finds AI could displace about 7% of the American workforce",
+            "url": "https://foxbaltimore.com/news/nation-world/new-report-finds-ai-could-displace-about-7-of-the-american-workforce-goldman-sachs-research-brookings-artificial-intelligence-technology-economy-workers",
+            "urlToImage": "https://foxbaltimore.com/resources/media2/16x9/5683/986/0x358/90/c3adaf0a-976b-4837-a29e-4003718908fb-GettyImages2188469160.jpg",
+            "publishedAt": "2025-08-14T21:31:23Z"
+        },
+        {
+            "source": {
+                "id": "2f5884e252590f739df55c0e7db375df",
+                "name": "WJLA",
+                "url": "https://wjla.com",
+                "country": "us"
+            },
+            "title": "New report finds AI could displace about 7% of the American workforce",
+            "url": "https://wjla.com/news/nation-world/new-report-finds-ai-could-displace-about-7-of-the-american-workforce-goldman-sachs-research-brookings-artificial-intelligence-technology-economy-workers",
+            "urlToImage": "https://wjla.com/resources/media2/16x9/5683/986/0x358/90/c3adaf0a-976b-4837-a29e-4003718908fb-GettyImages2188469160.jpg",
+            "publishedAt": "2025-08-14T21:31:23Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "Gov't to use AI to help teach Japanese to kids with foreign roots",
+            "url": "https://japantoday.com/category/national/gov%27t-to-use-ai-to-help-teach-japanese-to-kids-with-foreign-roots",
+            "urlToImage": "https://japantoday.com/images/japan-today-social.jpg",
+            "publishedAt": "2025-08-14T21:12:00Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "Gov't to use AI to help teach Japanese to kids with foreign roots",
+            "url": "https://japantoday.com/category/national/gov't-to-use-ai-to-help-teach-japanese-to-kids-with-foreign-roots",
+            "urlToImage": "https://japantoday.com/images/japan-today-social.jpg",
+            "publishedAt": "2025-08-14T21:12:00Z"
+        },
+        {
+            "source": {
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
+            },
+            "title": "AI Cash Boon Might Grease Way for Universal Income",
+            "url": "https://www.newsmax.com/newsfront/technology-ai-basic/2025/08/14/id/1222535/",
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=034fa37e-b67b-41ce-8d28-666c0f06192f&SiteName=Newsmax",
+            "publishedAt": "2025-08-14T21:08:34Z"
+        },
         {
             "source": {
                 "id": "e553cce06d349ac1f7fbb7618a979256",
@@ -24,6 +108,18 @@
             "url": "https://www.arabnews.com/node/2611852",
             "urlToImage": "https://www.arabnews.com/sites/default/files/index23.png",
             "publishedAt": "2025-08-14T20:07:38Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "Japan consortium developing misinformation-fighting AI model",
+            "url": "https://japantoday.com/category/tech/japan-consortium-developing-misinformation-fighting-ai-model",
+            "urlToImage": "https://japantoday.com/images/japan-today-social.jpg",
+            "publishedAt": "2025-08-14T20:00:00Z"
         },
         {
             "source": {
@@ -843,6 +939,60 @@
             "url": "https://www.digitaltrends.com/home/everything-you-need-to-know-about-smart-home-hacking/",
             "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/11/Anona-smart-home-deals-Holo-WiFi-smart-lock-installed-on-front-door-with-keyless-entry.jpg?resize=1200%2C630&p=1",
             "publishedAt": "2025-08-14T01:00:00Z"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "Apple Vision Pro is finally getting an upgrade — here’s what we know",
+            "url": "https://www.tomsguide.com/computing/vr-ar/apple-vision-pro-is-finally-getting-an-upgrade-heres-what-we-know",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/aBJQwh3pSjQgJjuEkQPdHa-1280-80.jpg",
+            "publishedAt": "2025-08-14 10:02:12"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "AI Model-as-a-Service is Rising: What’s New in AI Landscape?",
+            "url": "https://www.analyticsinsight.net/artificial-intelligence/ai-model-as-a-service-is-rising-whats-new-in-ai-landscape",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-08-14%2F2pvxtr2p%2FAI-Model-as-a-Service-Is-Rising-What%E2%80%99s-New-in-the-AI-Landscape.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-08-14 10:00:00"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "iPad mini 8 could be just as powerful as the iPhone 17 Pro — what we know",
+            "url": "https://www.tomsguide.com/computing/ipads/ipad-mini-8-could-be-just-as-powerful-as-the-iphone-17-pro-what-we-know",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/FFvt6WRhhQWvHKtffpdzDX-1280-80.jpg",
+            "publishedAt": "2025-08-14 09:52:40"
+        },
+        {
+            "source": {
+                "name": "livemint"
+            },
+            "title": "Best Dell laptops with the latest processors, durable build, ample RAM and HD display",
+            "url": "https://www.livemint.com/technology/gadgets/best-dell-laptops-with-the-latest-processors-durable-build-ample-ram-and-hd-display-11755160367292.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2025/08/14/1600x900/Dell_laptops_1755160549994_1755160563943.jpg",
+            "publishedAt": "2025-08-14 09:32:51"
+        },
+        {
+            "source": {
+                "name": "itpro"
+            },
+            "title": "Microsoft says these 10 jobs are at highest risk of being upended by AI – but experts say there's nothing to worry about yet",
+            "url": "https://www.itpro.com/business/business-strategy/microsoft-says-these-10-jobs-are-at-highest-risk-of-being-upended-by-ai-but-experts-say-theres-nothing-to-worry-about-yet",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/d62JKYsz5Aw2y6GqoXnS6Z-1280-80.jpg",
+            "publishedAt": "2025-08-14 09:27:14"
+        },
+        {
+            "source": {
+                "name": "9to5mac"
+            },
+            "title": "A new Apple TV 4K is coming soon: will it support Apple Intelligence?",
+            "url": "https://9to5mac.com/2025/08/14/new-apple-tv-hardware-apple-intelligence/",
+            "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/apple-tv-4k-new.jpg?quality=82&strip=all&w=1600",
+            "publishedAt": "2025-08-14 09:22:50"
         },
         {
             "source": {
@@ -2986,160 +3136,6 @@
             "url": "https://www.cp24.com/news/money/2025/08/12/musk-says-he-plans-to-sue-apple-for-not-featuring-x-or-grok-among-its-top-apps/",
             "urlToImage": "https://www.cp24.com/resizer/v2/R72PCO6QCTVAG6ZQZITKH7WU2U.jpg?smart=true&auth=719be1ab7df955a4e4b16044fe28c5bf67e8f8ea19b56e9797700b75518f04d4&width=1200&height=630",
             "publishedAt": "2025-08-12T11:09:02Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com"
-            },
-            "title": "CoreWeave Traders Emboldened by AI Spending Ahead of Earnings",
-            "url": "https://www.bloomberg.com/news/articles/2025-08-12/coreweave-traders-emboldened-by-ai-spending-ahead-of-earnings",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJPW4hjYF0MA/v1/1200x800.jpg",
-            "publishedAt": "2025-08-12T10:50:17Z"
-        },
-        {
-            "source": {
-                "id": "e9207083a357fb7e76b38e485888ebe7",
-                "name": "manilastandard.net",
-                "url": "https://manilastandard.net"
-            },
-            "title": "PLDT, Globe ask Marcos to return ‘Konektadong Pinoy Bill’ to Congress",
-            "url": "https://manilastandard.net/business/314629155/pldt-globe-ask-marcos-to-return-konektadong-pinoy-bill-to-congress.html",
-            "urlToImage": "https://cdn.manilastandard.net/wp-content/uploads/2025/08/Pointer-pldt-enterprise-building.jpeg",
-            "publishedAt": "2025-08-12T10:47:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net"
-            },
-            "title": "Elevate your style, start winning with POVA 7 Ultra 5G",
-            "url": "https://www.manilatimes.net/2025/08/12/tmt-newswire/elevate-your-style-start-winning-with-pova-7-ultra-5g/2166328",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/12/709737.jpg",
-            "publishedAt": "2025-08-12T10:45:00Z"
-        },
-        {
-            "source": {
-                "id": "8500efae8310099b1bcee1ef95a0434e",
-                "name": "KABC-TV",
-                "url": "https://abc7.com"
-            },
-            "title": "Musk says he plans to sue Apple for not featuring X or Grok among its top apps",
-            "url": "https://abc7.com/post/musk-says-he-plans-sue-apple-not-featuring-grok-among-top-apps/17510529/",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/17510593_081225-cc-ap-twitter-img.jpg?w=1600",
-            "publishedAt": "2025-08-12T10:21:25Z"
-        },
-        {
-            "source": {
-                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-                "name": "Benzinga",
-                "url": "https://www.benzinga.com"
-            },
-            "title": "Google Teams With NASA On AI 'Space Doctor' To Diagnose, Treat Astronauts On Moon, Mars Missions Where Real-Time Earth Contact Isn't Possible",
-            "url": "https://www.benzinga.com/news/space/25/08/47053184/google-teams-with-nasa-on-ai-space-doctor-to-diagnose-treat-astronauts-on-moon-mars-missions-where-real-time-earth-contact-isnt-possible",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/08/12/Close-Up-Of-The-Google-Logo-Sign-On-The-.jpeg?width=1200&height=800&fit=crop",
-            "publishedAt": "2025-08-12T10:08:00Z"
-        },
-        {
-            "source": {
-                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
-                "name": "The Associated Press",
-                "url": "https://apnews.com"
-            },
-            "title": "Musk says he plans to sue Apple for not featuring X or Grok among its top apps",
-            "url": "https://apnews.com/article/musk-apple-twitter-lawsuit-antitrust-app-c60e3690d2e232e0cd0c41cbe86f66be",
-            "urlToImage": "https://dims.apnews.com/dims4/default/32823a6/2147483647/strip/true/crop/7681x4321+0+400/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9a%2F95%2F2d45a1779cc63a588d5a2f4abd68%2F75024abe5e4645f495e49bc95ea27402",
-            "publishedAt": "2025-08-12T09:16:56Z"
-        },
-        {
-            "source": {
-                "id": "dd1d806725f45e4403e75c1bb23b447a",
-                "name": "The Irish Times",
-                "url": "https://www.irishtimes.com"
-            },
-            "title": "Ireland could be ‘AI Island’ but must act promptly to set up artificial intelligence office and observatory",
-            "url": "https://www.irishtimes.com/politics/2025/08/12/ireland-could-be-ai-island-but-must-act-promptly-to-set-up-artificial-intelligence-office-and-observatory/",
-            "urlToImage": "https://www.irishtimes.com/resizer/v2/UYZONGBTUNNLZAH7HZZXO6VKDE.jpg?smart=true&auth=6a3bc54046b72c240abad24c3545c2b56d6dd99d04f9e313fc65538a39507323&width=1200&height=630",
-            "publishedAt": "2025-08-12T09:00:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net"
-            },
-            "title": "Tulip, Siemens, Parsec, and AVEVA Named Leaders in ABI Research's Competitive Assessment of MES for Process Industries",
-            "url": "https://www.manilatimes.net/2025/08/12/tmt-newswire/pr-newswire/tulip-siemens-parsec-and-aveva-named-leaders-in-abi-researchs-competitive-assessment-of-mes-for-process-industries/2166256",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/12/709584.jpg",
-            "publishedAt": "2025-08-12T08:33:39Z"
-        },
-        {
-            "source": {
-                "id": "f6d6ee1134197fe1441d65a3e7915835",
-                "name": "Yahoo Singapore News",
-                "url": "https://sg.news.yahoo.com"
-            },
-            "title": "China urges firms not to use Nvidia's H20 chips, Bloomberg News reports",
-            "url": "https://sg.news.yahoo.com/china-urges-firms-not-nvidias-053604141.html",
-            "urlToImage": "https://media.zenfs.com/en/reuters.com/d12691e31b34a4432e8b19e2fb746f2b",
-            "publishedAt": "2025-08-12T05:36:04Z"
-        },
-        {
-            "source": {
-                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-                "name": "WTOP",
-                "url": "https://wtop.com"
-            },
-            "title": "Musk says he plans to sue Apple for not featuring X or Grok among its top apps",
-            "url": "https://wtop.com/europe/2025/08/musk-says-he-plans-to-sue-apple-for-not-featuring-x-or-grok-among-its-top-apps/",
-            "urlToImage": "https://wtop.com/wp-content/uploads/2025/07/Australia_X_Corp_88975-scaled.jpg",
-            "publishedAt": "2025-08-12T05:20:25Z"
-        },
-        {
-            "source": {
-                "id": "35515662ec044d3f94b543cd8802d63f",
-                "name": "WDIV ClickOnDetroit",
-                "url": "https://www.clickondetroit.com"
-            },
-            "title": "Musk says he plans to sue Apple for not featuring X or Grok among its top apps",
-            "url": "https://www.clickondetroit.com/tech/2025/08/12/musk-says-he-plans-to-sue-apple-for-not-featuring-x-or-grok-among-its-top-apps/",
-            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/VCXE55YWKJF7JNCRKCPVVSACGM.jpg?_a=DATAg1eAZAA0",
-            "publishedAt": "2025-08-12T05:16:55Z"
-        },
-        {
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com"
-            },
-            "title": "Musk says xAI to take legal action against Apple over App Store rankings",
-            "url": "https://indianexpress.com/article/technology/musk-says-xai-to-take-legal-action-against-apple-over-app-store-rankings-10184022/",
-            "urlToImage": "https://images.indianexpress.com/2025/04/elon-musk-1-1.jpg",
-            "publishedAt": "2025-08-12T05:14:21Z"
-        },
-        {
-            "source": {
-                "id": "ca84296ef941bfa461f4239a2290cb99",
-                "name": "News18",
-                "url": "https://www.news18.com"
-            },
-            "title": "Tamil Nadu’s State Education Policy Vs Centre’s NEP: How They Differ & Why It Matters",
-            "url": "https://www.news18.com/education-career/tamil-nadus-new-education-policy-vs-centres-nep-how-they-differ-why-it-matters-shil-9499858.html",
-            "urlToImage": "https://images.news18.com/ibnlive/uploads/2025/03/stalin-2025-03-d025b7f63bd91449f49a6c493b78f183-16x9.jpg",
-            "publishedAt": "2025-08-12T05:10:09Z"
-        },
-        {
-            "source": {
-                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-                "name": "Benzinga",
-                "url": "https://www.benzinga.com"
-            },
-            "title": "AMC CEO Says He Has Personally Abandoned Google In Exchange For ChatGPT: Here's How The Company Is Using Artificial Intelligence",
-            "url": "https://www.benzinga.com/markets/tech/25/08/47050126/amc-ceo-says-he-has-personally-abandoned-google-in-exchange-for-chatgpt-heres-how-the-company-is-using-artificial-intelligence",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/08/12/New-York-Ny-Usa-march-3--2021-The-Closed.jpeg?width=1200&height=800&fit=crop",
-            "publishedAt": "2025-08-12T04:44:00Z"
         }
     ]
 }
