@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2025-08-15T06:24:50.626683Z",
+    "lastUpdatedAt": "2025-08-15T07:16:23.997321Z",
     "articles": [
+        {
+            "source": {
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
+                "country": "us"
+            },
+            "title": "Eli Lilly Strikes $1.3 Billion Deal With Superluminal To Develop AI-Driven Obesity Drugs",
+            "url": "https://www.benzinga.com/news/health-care/25/08/47148041/eli-lilly-strikes-1-3-billion-deal-with-superluminal-to-develop-ai-driven-obesity-drugs",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/08/15/shutterstock-2320424901-huge.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2025-08-15T06:55:44Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - Bots on the Track: China's World Humanoid Robot Games Thrill with AI Advances",
+            "url": "https://www.devdiscourse.com/live-discourse/8922-artificial-intelligence-revolutionizing-every-aspect-of-life",
+            "urlToImage": "https://www.devdiscourse.com?width=1280&format=jpeg",
+            "publishedAt": "2025-08-15T06:45:35Z"
+        },
+        {
+            "source": {
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
+            },
+            "title": "Robots race, play football, crash and collapse at China's 'robot Olympics'",
+            "url": "https://www.straitstimes.com/sport/robots-race-play-football-crash-and-collapse-at-chinas-robot-olympics",
+            "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/72e597e5d5aa4ada05d1071196dc9ac5463735d38f028efbb1644ed6e8f8697d",
+            "publishedAt": "2025-08-15T06:44:23Z"
+        },
+        {
+            "source": {
+                "id": "37128a060981dbbe79321f096e7d1108",
+                "name": "U.S. News & World Report",
+                "url": "https://www.usnews.com",
+                "country": "us"
+            },
+            "title": "Australian Lawyer Apologizes for AI-Generated Errors in Murder Case",
+            "url": "https://www.usnews.com/news/offbeat/articles/2025-08-15/australian-lawyer-apologizes-for-ai-generated-errors-in-murder-case",
+            "urlToImage": "https://www.usnews.com/dims4/USNEWS/7220d8e/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F40%2F73ec566ac6437a1c6a9fa1955d61d6%2Ff7291273c24b49c0a3fe8b8af5a395f8Australia_Fake_Citations_56614.jpg",
+            "publishedAt": "2025-08-15T06:44:00Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Accenture to buy Australian cybersecurity firm CyberCX for reported $650 mln",
+            "url": "https://www.reuters.com/world/asia-pacific/accenture-buy-australian-cybersecurity-firm-cybercx-reported-650-mln-2025-08-15/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/J5NOOQL65RLPXGJ6IA53U6BMHI.jpg?auth=dc3692b38e909394970569a0db4bcec7dbea0c28a30ce0d8010f8e1ffbb4338d&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-08-15T04:53:01Z"
+        },
         {
             "source": {
                 "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
@@ -1059,6 +1119,33 @@
             "url": "https://www.digitaltrends.com/home/everything-you-need-to-know-about-smart-home-hacking/",
             "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/11/Anona-smart-home-deals-Holo-WiFi-smart-lock-installed-on-front-door-with-keyless-entry.jpg?resize=1200%2C630&p=1",
             "publishedAt": "2025-08-14T01:00:00Z"
+        },
+        {
+            "source": {
+                "name": "wired"
+            },
+            "title": "Inside the Biden Administration's Gamble to Freeze China’s AI Future",
+            "url": "https://www.wired.com/story/chips-china-artificial-intelligence-controls/",
+            "urlToImage": "https://media.wired.com/photos/68250a7b45cad6010cc75c08/master/w_120,c_limit/Biden-Admin-Betting-China-Business.jpg",
+            "publishedAt": "2025-08-14 19:13:18"
+        },
+        {
+            "source": {
+                "name": "aol"
+            },
+            "title": "MIT scientists are developing AI for humanoid robots",
+            "url": "https://www.aol.com/mit-scientists-developing-ai-humanoid-184405493.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/rUrY3Wh6HSq0IKJIc7EfKw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_cbs_news_articles_189/bf6c6d16091792312ab52f34579e0518",
+            "publishedAt": "2025-08-14 18:44:05"
+        },
+        {
+            "source": {
+                "name": "itpro"
+            },
+            "title": "Why is Meta still funding the metaverse?",
+            "url": "https://www.itpro.com/business/business-strategy/why-is-meta-still-funding-the-metaverse",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/WpErd6xvn8CCHcNiaGmsZi-1280-80.jpg",
+            "publishedAt": "2025-08-14 18:29:23"
         },
         {
             "source": {
@@ -3000,92 +3087,6 @@
             "url": "https://www.benzinga.com/insights/earnings/25/08/47091315/uncovering-potential-quantum-computings-earnings-preview",
             "urlToImage": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
             "publishedAt": "2025-08-13 00:00:00"
-        },
-        {
-            "source": {
-                "name": "techtarget"
-            },
-            "title": "12 enterprise data backup challenges and how to overcome them",
-            "url": "https://www.techtarget.com/searchdatabackup/feature/Enterprise-data-backup-challenges-and-how-to-overcome-them",
-            "urlToImage": "https://www.techtarget.com/rms/onlineimages/disaster_recovery_a377824947_searchsitetablet_520X173.jpg",
-            "publishedAt": "2025-08-13 00:00:00"
-        },
-        {
-            "source": {
-                "id": "31177620c1e6e610b5d2b67916ed3615",
-                "name": "PBS News",
-                "url": "https://www.pbs.org/newshour"
-            },
-            "title": "How to beat AI-driven custom pricing",
-            "url": "https://www.pbs.org/newshour/show/how-to-beat-ai-driven-custom-pricing",
-            "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/08/Airfare-1024x683.jpg",
-            "publishedAt": "2025-08-12T22:25:48Z"
-        },
-        {
-            "source": {
-                "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
-                "name": "BayToday",
-                "url": "https://www.baytoday.ca"
-            },
-            "title": "Satellite images reveal conditions that contributed to 'catastrophic' wildfire season",
-            "url": "https://www.baytoday.ca/national-news/satellite-images-reveal-conditions-that-contributed-to-catastrophic-wildfire-season-11068138",
-            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/08/7e40b56c02f4982329abe02c6ea8fbe120e1117e6cab96466f6fb9447412833b.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2025-08-12T22:07:21Z"
-        },
-        {
-            "source": {
-                "id": "300a668ea1fb6b59c9da32db8e856d66",
-                "name": "GuelphToday",
-                "url": "https://www.guelphtoday.com"
-            },
-            "title": "Satellite images reveal conditions that contributed to 'catastrophic' wildfire season",
-            "url": "https://www.guelphtoday.com/national-news/satellite-images-reveal-conditions-that-contributed-to-catastrophic-wildfire-season-11068138",
-            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/08/7e40b56c02f4982329abe02c6ea8fbe120e1117e6cab96466f6fb9447412833b.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2025-08-12T22:07:21Z"
-        },
-        {
-            "source": {
-                "id": "0ce70f407e0fa82ddaeeb29243aa8210",
-                "name": "SooToday",
-                "url": "https://www.sootoday.com"
-            },
-            "title": "Satellite images reveal conditions that contributed to 'catastrophic' wildfire season",
-            "url": "https://www.sootoday.com/national-news/satellite-images-reveal-conditions-that-contributed-to-catastrophic-wildfire-season-11068138",
-            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/08/7e40b56c02f4982329abe02c6ea8fbe120e1117e6cab96466f6fb9447412833b.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2025-08-12T22:07:21Z"
-        },
-        {
-            "source": {
-                "id": "ec12383a90942fd0ccc50c66266217a5",
-                "name": "BradfordToday",
-                "url": "https://www.bradfordtoday.ca"
-            },
-            "title": "Satellite images reveal conditions that contributed to 'catastrophic' wildfire season",
-            "url": "https://www.bradfordtoday.ca/national-news/satellite-images-reveal-conditions-that-contributed-to-catastrophic-wildfire-season-11068138",
-            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/08/7e40b56c02f4982329abe02c6ea8fbe120e1117e6cab96466f6fb9447412833b.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2025-08-12T22:07:21Z"
-        },
-        {
-            "source": {
-                "id": "93e59eaaf800fc544a6df1a4fc5c0cdc",
-                "name": "Toronto Star",
-                "url": "https://www.thestar.com"
-            },
-            "title": "Satellite images reveal conditions that contributed to 'catastrophic' wildfire season",
-            "url": "https://www.thestar.com/news/canada/manitoba/satellite-images-reveal-conditions-that-contributed-to-catastrophic-wildfire-season/article_98c0a6d8-9520-5b65-bc44-659935868933.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/custom/image/f84403b8-7d76-11ee-9d02-a72a4951957f.png?resize=600%2C600",
-            "publishedAt": "2025-08-12T22:07:21Z"
-        },
-        {
-            "source": {
-                "id": "b93fbda11fec5c2f08572a67a337e87d",
-                "name": "ElliotLakeToday.com",
-                "url": "https://www.elliotlaketoday.com"
-            },
-            "title": "Satellite images reveal conditions that contributed to 'catastrophic' wildfire season",
-            "url": "https://www.elliotlaketoday.com/national-news/satellite-images-reveal-conditions-that-contributed-to-catastrophic-wildfire-season-11068138",
-            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/08/7e40b56c02f4982329abe02c6ea8fbe120e1117e6cab96466f6fb9447412833b.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2025-08-12T22:07:21Z"
         }
     ]
 }
