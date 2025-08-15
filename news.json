@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-08-15T04:27:01.848316Z",
+    "lastUpdatedAt": "2025-08-15T05:17:11.389290Z",
     "articles": [
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "PM Modi Urges IT Self-Reliance, Celebrates Indian Achievements",
+            "url": "https://www.devdiscourse.com/article/headlines/3542426-pm-modi-urges-it-self-reliance-celebrates-indian-achievements",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/15_08_2025_10_14_43_82476.jpg?width=920&format=jpeg",
+            "publishedAt": "2025-08-15T04:44:54Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Powerful new AI models knock the wind out of European adopter stocks",
+            "url": "https://www.reuters.com/world/europe/powerful-new-ai-models-knock-wind-out-european-adopter-stocks-2025-08-15/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/JA2OX2ZYBBPEBFHDBOIFPAF6IA.jpg?auth=45e1557f9ec409c9a28f23617d383d9f4bcd2e126abee5c8110c5db060510a5c&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-08-15T04:33:57Z"
+        },
+        {
+            "source": {
+                "id": "f6d6ee1134197fe1441d65a3e7915835",
+                "name": "Yahoo Singapore News",
+                "url": "https://sg.news.yahoo.com",
+                "country": "sg"
+            },
+            "title": "Analysis-Powerful new AI models knock the wind out of European adopter stocks",
+            "url": "https://sg.news.yahoo.com/analysis-powerful-ai-models-knock-043336352.html",
+            "urlToImage": "https://media.zenfs.com/en/reuters.com/bc66becb5c79487ddbb73294ee8e0e4d",
+            "publishedAt": "2025-08-15T04:33:36Z"
+        },
         {
             "source": {
                 "id": "5ef93dac613cd24454e0d42ebc372612",
@@ -1023,6 +1059,15 @@
             "url": "https://www.digitaltrends.com/home/everything-you-need-to-know-about-smart-home-hacking/",
             "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/11/Anona-smart-home-deals-Holo-WiFi-smart-lock-installed-on-front-door-with-keyless-entry.jpg?resize=1200%2C630&p=1",
             "publishedAt": "2025-08-14T01:00:00Z"
+        },
+        {
+            "source": {
+                "name": "9to5mac"
+            },
+            "title": "iOS 18.6.1 now available, here’s what’s new",
+            "url": "https://9to5mac.com/2025/08/14/ios-18-6-1-now-available-heres-whats-new/",
+            "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/ios-18.6.1.jpg?quality=82&strip=all&w=1600",
+            "publishedAt": "2025-08-14 17:06:42"
         },
         {
             "source": {
@@ -3055,50 +3100,6 @@
             "url": "https://nypost.com/2025/08/12/tech/youtube-to-test-ai-powered-age-verification-system-for-us-users/",
             "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/08/109515656.jpg?quality=75&strip=all&w=1024",
             "publishedAt": "2025-08-12T19:43:06Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net"
-            },
-            "title": "HEROIC Cybersecurity Named to 2025 Inc. 5000 List of Fastest-Growing Private Companies in America for Sixth Year",
-            "url": "https://www.manilatimes.net/2025/08/13/tmt-newswire/globenewswire/heroic-cybersecurity-named-to-2025-inc-5000-list-of-fastest-growing-private-companies-in-america-for-sixth-year/2166795",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/13/710815.png",
-            "publishedAt": "2025-08-12T19:36:34Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com"
-            },
-            "title": "AI Powers Green-Tech Surge",
-            "url": "https://www.bloomberg.com/news/videos/2025-08-12/ai-powers-green-tech-surge-video",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCSGEA65WwzY/v3/-1x-1.jpg",
-            "publishedAt": "2025-08-12T19:26:01Z"
-        },
-        {
-            "source": {
-                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
-                "name": "ABC News",
-                "url": "https://www.abc.net.au"
-            },
-            "title": "Australian Council of Trade Unions says it's time for a shorter work week to boost performance and reduce burnout",
-            "url": "https://www.abc.net.au/news/2025-08-13/unions-say-time-for-a-four-day-work-week/105644594",
-            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/18bb360a870a16d424a041225e919683?impolicy=wcms_watermark_news&cropH=1440&cropW=2560&xPos=0&yPos=124&width=862&height=485&imformat=generic",
-            "publishedAt": "2025-08-12T18:31:13Z"
-        },
-        {
-            "source": {
-                "id": "6fea3ee012f060c6309366516e8d00be",
-                "name": "News-Medical.net",
-                "url": "https://www.news-medical.net"
-            },
-            "title": "New method greatly improves the precision of genome editing",
-            "url": "https://www.news-medical.net/news/20250812/New-method-greatly-improves-the-precision-of-genome-editing.aspx",
-            "urlToImage": "https://www.news-medical.net/image-handler/picture/2018/7/CRISPR_locus_on_DNA_sequence-Catalin_Rusnac_51742dddb09c41d2924841b1b4decc7a-620x480.jpg",
-            "publishedAt": "2025-08-12T18:20:00Z"
         }
     ]
 }
