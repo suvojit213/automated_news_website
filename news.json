@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-08-15T03:18:19.284283Z",
+    "lastUpdatedAt": "2025-08-15T04:27:01.848316Z",
     "articles": [
+        {
+            "source": {
+                "id": "5ef93dac613cd24454e0d42ebc372612",
+                "name": "ScienceAlert",
+                "url": "https://www.sciencealert.com",
+                "country": "au"
+            },
+            "title": "Half of Older Americans Are Using AI - Here's What They're Doing With It",
+            "url": "https://www.sciencealert.com/half-of-older-americans-are-using-ai-heres-what-theyre-doing-with-it",
+            "urlToImage": "https://www.sciencealert.com/images/2025/08/OlderWomenUsingLaptopAtHome.jpg",
+            "publishedAt": "2025-08-15T03:13:08Z"
+        },
         {
             "source": {
                 "id": "72bbcd9c095a3d51c97cdda7a97dba31",
@@ -12,6 +24,18 @@
             "url": "https://www.straitstimes.com/sport/chinas-robot-olympics-sees-humanoids-from-16-nations-compete-in-table-tennis-football-track",
             "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/72e597e5d5aa4ada05d1071196dc9ac5463735d38f028efbb1644ed6e8f8697d",
             "publishedAt": "2025-08-15T02:39:23Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "China's 'robot Olympics' sees humanoids from 16 nations compete in table tennis, football, track",
+            "url": "https://www.reuters.com/sports/chinas-robot-olympics-sees-humanoids-16-nations-compete-table-tennis-football-2025-08-15/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/TOECSCK7XFJTPBAQ5KSRIJ3SWY.jpg?auth=34454e2d87d54983121babdef29ca0e38a47c74118790670f02ca2ed1eb3c162&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-08-15T02:37:21Z"
         },
         {
             "source": {
@@ -999,6 +1023,51 @@
             "url": "https://www.digitaltrends.com/home/everything-you-need-to-know-about-smart-home-hacking/",
             "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/11/Anona-smart-home-deals-Holo-WiFi-smart-lock-installed-on-front-door-with-keyless-entry.jpg?resize=1200%2C630&p=1",
             "publishedAt": "2025-08-14T01:00:00Z"
+        },
+        {
+            "source": {
+                "name": "nasa"
+            },
+            "title": "NASA’s Apollo Samples, LRO Help Scientists Predict Moonquakes",
+            "url": "https://science.nasa.gov/solar-system/moon/nasas-apollo-samples-lro-help-scientists-predict-moonquakes/",
+            "urlToImage": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/earths-moon/lunar-science/Taurus-Littrow%20valley.jpg?crop=faces%2Cfocalpoint&fit=clip&h=1306&w=1800",
+            "publishedAt": "2025-08-14 16:02:39"
+        },
+        {
+            "source": {
+                "name": "newscientist"
+            },
+            "title": "Mind-reading AI can turn even imagined speech into spoken words",
+            "url": "https://www.newscientist.com/article/2492622-mind-reading-ai-can-turn-even-imagined-speech-into-spoken-words/",
+            "urlToImage": "https://images.newscientist.com/wp-content/uploads/2025/08/14151226/SEI_261892861.jpg",
+            "publishedAt": "2025-08-14 16:00:09"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "I finally solved the toughest question about buying laptops - here's my expert guide",
+            "url": "https://www.zdnet.com/article/i-finally-solved-the-toughest-question-about-buying-laptops-heres-my-expert-guide/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/78e5d18a7c322e0afc469a42e290c264a4422e37/2024/03/04/c03ad361-d88a-4ead-ad6f-840c93784aec/dsc09961-2.jpg?auto=webp&width=1280",
+            "publishedAt": "2025-08-14 15:45:00"
+        },
+        {
+            "source": {
+                "name": "theverge"
+            },
+            "title": "Microsoft is getting ready to return to the office",
+            "url": "https://www.theverge.com/notepad-microsoft-newsletter/759251/microsoft-return-to-office-policy-2025-notepad",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832913/STK095_MICROSOFT_2_CVirginia_B.jpg?crop=0%2C10.732984293194%2C100%2C78.534031413613&quality=90&strip=all&w=1200",
+            "publishedAt": "2025-08-14 15:23:10"
+        },
+        {
+            "source": {
+                "name": "thehackernews"
+            },
+            "title": "New HTTP/2 'MadeYouReset' Vulnerability Enables Large-Scale DoS Attacks",
+            "url": "https://thehackernews.com/2025/08/new-http2-madeyoureset-vulnerability.html",
+            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSC8RKDZAKsjpLyVVFosJoZD1m9wfshysodB782T1n0QhxEVQ6b0yg6voBA8GJwdpBM3flhXMFih32VbT4vsHW2fKmKmFi1glN_34KVKflWVzue9XMBfamEI3jubKlIRXqmRdc95Wf2kYDM-gTta9z0-dTPzfkXjqKwD-kITRuUHOU5BZFgeqa0907-nEO/s1600/dos-attack.jpg",
+            "publishedAt": "2025-08-14 15:20:00"
         },
         {
             "source": {
@@ -3030,83 +3099,6 @@
             "url": "https://www.news-medical.net/news/20250812/New-method-greatly-improves-the-precision-of-genome-editing.aspx",
             "urlToImage": "https://www.news-medical.net/image-handler/picture/2018/7/CRISPR_locus_on_DNA_sequence-Catalin_Rusnac_51742dddb09c41d2924841b1b4decc7a-620x480.jpg",
             "publishedAt": "2025-08-12T18:20:00Z"
-        },
-        {
-            "source": {
-                "id": "f16dc396e088c7c707eabe9d7479e7a2",
-                "name": "The Washington Post",
-                "url": "https://www.washingtonpost.com"
-            },
-            "title": "Illinois bans AI therapy as some states begin to scrutinize chatbots",
-            "url": "https://www.washingtonpost.com/nation/2025/08/12/illinois-ai-therapy-ban/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TYQEURDH3NOE2F6CXWYP7GIGPE_size-normalized.jpg&w=1440",
-            "publishedAt": "2025-08-12T18:15:17Z"
-        },
-        {
-            "source": {
-                "id": "f5081afeaba654292dd91fffd29f9dd4",
-                "name": "The Globe and Mail",
-                "url": "https://www.theglobeandmail.com"
-            },
-            "title": "Alien: Earth series is a dark fairy tale that grapples with AI threat and brings the extraterrestrials closer than ever before",
-            "url": "https://www.theglobeandmail.com/arts/article-alien-earth-tv-series-artificial-intelligence/",
-            "urlToImage": "https://www.theglobeandmail.com/resizer/v2/KTHCVFF4FNCTTAJVKJR5BIUS3Q.jpg?auth=340455985cb7070844938876b8c7fe1b6b597f4e5a967d48f3139746abc82dce&width=1200&height=800&quality=80&smart=true",
-            "publishedAt": "2025-08-12T18:13:58Z"
-        },
-        {
-            "source": {
-                "id": "3fac65098bad206a4847f7fdbac9f170",
-                "name": "New York Daily News",
-                "url": "https://www.nydailynews.com"
-            },
-            "title": "NY's free community college program for adult students drawing upwards of 16,000 applicants",
-            "url": "https://www.nydailynews.com/2025/08/12/nys-free-community-college-program-for-adult-students-drawing-upwards-of-16000-applicants/",
-            "urlToImage": "https://www.nydailynews.com/wp-content/uploads/2025/08/54716542481_a3813353f2_k.jpg?w=1024&h=683",
-            "publishedAt": "2025-08-12T17:49:38Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com"
-            },
-            "title": "India’s First AI Unicorn Fractal Files for $560 Million IPO",
-            "url": "https://www.bloomberg.com/news/articles/2025-08-12/india-s-first-ai-unicorn-fractal-files-for-560-million-ipo",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iM5EYXfkcEFI/v0/1200x800.jpg",
-            "publishedAt": "2025-08-12T17:41:50Z"
-        },
-        {
-            "source": {
-                "id": "79baacd62152cf257ee35e8c0bec19a2",
-                "name": "UPI News",
-                "url": "https://www.upi.com"
-            },
-            "title": "Study: AI programs might help ER overcrowding in hospitals",
-            "url": "https://www.upi.com/Health_News/2025/08/12/ER-overcrowding-AI-program-study/5831755010362/",
-            "urlToImage": "https://cdnph.upi.com/sv/ph/og/upi/5831755010362/2025/1/0267573c346724f96eb0b39f383b7dea/v1.5/Study-AI-programs-might-help-ER-overcrowding-in-hospitals.jpg",
-            "publishedAt": "2025-08-12T17:09:00Z"
-        },
-        {
-            "source": {
-                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
-                "name": "The Associated Press",
-                "url": "https://apnews.com"
-            },
-            "title": "YouTube testing a new age verification system in the U.S.",
-            "url": "https://apnews.com/article/youtube-video-age-verification-system-1ce99a7089b33e88dc76e49945ded186",
-            "urlToImage": "https://dims.apnews.com/dims4/default/e24c265/2147483647/strip/true/crop/5000x2813+0+260/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa8%2F55%2Fad51ee037e6b2409b96e0efbdf85%2F1dd0d8843f2f440bbf085a8dd63d3094",
-            "publishedAt": "2025-08-12T16:35:58Z"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com"
-            },
-            "title": "An analyst just upgraded a cybersecurity stock that we've been pounding the table on",
-            "url": "https://www.cnbc.com/2025/08/12/an-analyst-just-upgraded-a-cybersecurity-stock-that-weve-been-pounding-the-table-on.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108137401-17458546272025-03-25t214553z_1993499487_rc2jkdadx0ew_rtrmadp_0_paloalto-stocks.jpeg?v=1745854692&w=1920&h=1080",
-            "publishedAt": "2025-08-12T16:33:35Z"
         }
     ]
 }
