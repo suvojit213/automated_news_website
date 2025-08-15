@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-08-15T09:17:30.820037Z",
+    "lastUpdatedAt": "2025-08-15T10:17:01.548172Z",
     "articles": [
+        {
+            "source": {
+                "id": "492abf277b7277432148b61b21ddc836",
+                "name": "Los Angeles Times",
+                "url": "https://www.latimes.com",
+                "country": "us"
+            },
+            "title": "AI will be more disruptive than COVID. Which party can seize the moment?",
+            "url": "https://www.latimes.com/opinion/story/2025-08-15/ai-disrupt-jobs-politics",
+            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/2986186/2147483647/strip/true/crop/5886x3090+0+417/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F80%2F19%2Fd037d25e449b9f94423fc561af74%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1246327356",
+            "publishedAt": "2025-08-15T10:04:00Z"
+        },
+        {
+            "source": {
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
+                "country": "us"
+            },
+            "title": "OpenAI CEO Sam Altman Reveals 'Sci-Fi' AI Companion Vision With Ex-Apple Design Chief Jony Ive To Replace Smartphones",
+            "url": "https://www.benzinga.com/markets/tech/25/08/47149733/openai-ceo-sam-altman-reveals-sci-fi-ai-companion-vision-with-ex-apple-design-chief-jony-ive-to-replace-smartphones",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/08/15/OpenAI.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2025-08-15T10:03:57Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "Vibe Coding Startup Lovable Wants to Hit $1 Billion In Annualized Sales Next Year",
+            "url": "https://www.livemint.com/companies/news/vibe-coding-startup-lovable-wants-to-hit-1-billion-in-annualized-sales-next-year-11755249500591.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/company_4_1733465206851_1733465215415.png",
+            "publishedAt": "2025-08-15T09:18:20Z"
+        },
         {
             "source": {
                 "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
@@ -34,6 +70,18 @@
             },
             "title": "Top exec reveals the ‘stupidest thing’ companies adopting AI can do",
             "url": "https://edition.cnn.com/2025/08/15/tech/jobs-ai-artificial-intelligence-cisco",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-512979254.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2025-08-15T09:00:42Z"
+        },
+        {
+            "source": {
+                "id": "0c27793cc56dcaedbbf2ab1ff2728cac",
+                "name": "CNN",
+                "url": "https://www.cnn.com",
+                "country": "us"
+            },
+            "title": "Top exec reveals the ‘stupidest thing’ companies adopting AI can do",
+            "url": "https://www.cnn.com/2025/08/15/tech/jobs-ai-artificial-intelligence-cisco",
             "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-512979254.jpg?c=16x9&q=w_800,c_fill",
             "publishedAt": "2025-08-15T09:00:42Z"
         },
@@ -1203,6 +1251,33 @@
             "url": "https://www.digitaltrends.com/home/everything-you-need-to-know-about-smart-home-hacking/",
             "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/11/Anona-smart-home-deals-Holo-WiFi-smart-lock-installed-on-front-door-with-keyless-entry.jpg?resize=1200%2C630&p=1",
             "publishedAt": "2025-08-14T01:00:00Z"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Scaling AI: Key Storage Strategies for Speed and Cost Savings in 2025",
+            "url": "https://www.webpronews.com/scaling-ai-key-storage-strategies-for-speed-and-cost-savings-in-2025/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-5d07f1a7-5b6b-444e-b34a-49eaa3115629.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-08-14 21:46:32"
+        },
+        {
+            "source": {
+                "name": "venturebeat"
+            },
+            "title": "Gartner: GPT-5 is here, but the infrastructure to support true agentic AI isn’t (yet)",
+            "url": "https://venturebeat.com/ai/gartner-gpt-5-is-here-but-the-infrastructure-to-support-true-agentic-ai-isnt-yet/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/08/u7277289442_A_modern-day_tinman_walks_on_a_yellow_brick_road._d3368692-6f16-4970-94dc-57a3a5188096_3.png?w=750",
+            "publishedAt": "2025-08-14 21:35:28"
+        },
+        {
+            "source": {
+                "name": "mit"
+            },
+            "title": "Study sheds light on graphite’s lifespan in nuclear reactors",
+            "url": "https://news.mit.edu/2025/study-sheds-light-graphites-lifespan-nuclear-reactors-0814",
+            "urlToImage": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202508/MIT-Nuclear-Graphite-01-press.jpg?itok=KkImfMBK",
+            "publishedAt": "2025-08-14 21:30:00"
         },
         {
             "source": {
@@ -3045,69 +3120,6 @@
             "url": "https://www.macworld.com/article/2874282/famed-apple-leaker-dishes-on-the-art-of-iphone-rumors-and-the-beauty-of-e-waste.html",
             "urlToImage": "https://www.macworld.com/wp-content/uploads/2025/08/Sonny-Dickson-Collectible-Phones-hero.jpg?quality=50&strip=all&w=1024",
             "publishedAt": "2025-08-13 11:15:00"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "What Is Photonic Computing and Why It’s the Upcoming Big Tech Trend?",
-            "url": "https://www.analyticsinsight.net/ampstories/tech-news/what-is-photonic-computing-and-why-its-the-upcoming-big-tech-trend",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-08-13%2Fqv5v7jnq%2FWhat-Is-Photonic-Computing.jpg?ar=40%3A21&auto=format%2Ccompress&enlarge=true&mode=crop&ogImage=true&overlay=false&overlay_position=bottom&overlay_width=100&w=1200",
-            "publishedAt": "2025-08-13 11:00:00"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "Smartkem to Deliver Feature Presentations at the 25th International Meeting on Information Display (IMID) in Busan, Korea",
-            "url": "https://www.prnewswire.com/news-releases/smartkem-to-deliver-feature-presentations-at-the-25th-international-meeting-on-information-display-imid-in-busan-korea-302526859.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2597198/SmartKem_Brand_Identity_RGB_POS___small_Logo.jpg?p=original",
-            "publishedAt": "2025-08-13 11:00:00"
-        },
-        {
-            "source": {
-                "name": "techradar"
-            },
-            "title": "PS5 Pro games list: all of the PS5 Pro enhanced titles in 2025",
-            "url": "https://www.techradar.com/gaming/ps5/ps5-pro-games-list",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/2mNAFVq7cvgMwtRgfyYqjL.jpg",
-            "publishedAt": "2025-08-13 10:30:23"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "Barrio Energy Announces Two New 10MW Data Center Developments in Matagorda County, TX",
-            "url": "https://www.prnewswire.com/news-releases/barrio-energy-announces-two-new-10mw-data-center-developments-in-matagorda-county-tx-302528878.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2749707/Barrio_Energy_Logo.jpg?p=original",
-            "publishedAt": "2025-08-13 10:10:00"
-        },
-        {
-            "source": {
-                "name": "cio"
-            },
-            "title": "The need to add agentic AI to the university syllabus",
-            "url": "https://www.cio.com/article/4035984/the-need-to-add-agentic-ai-to-the-university-syllabus.html",
-            "urlToImage": "https://www.cio.com/wp-content/uploads/2025/08/4035984-0-38502500-1755079451-Frank-Feagans-VP-of-IT-and-CIO-UT-Dallas.jpg?quality=50&strip=all&w=1024",
-            "publishedAt": "2025-08-13 10:00:00"
-        },
-        {
-            "source": {
-                "name": "computerworld_in"
-            },
-            "title": "Can Microsoft build massive AI data centers and meet climate goals without ‘greenwashing’?",
-            "url": "https://www.computerworld.com/article/4037695/can-microsoft-build-massive-ai-data-centers-and-meet-climate-goals-without-greenwashing.html",
-            "urlToImage": "https://www.computerworld.com/wp-content/uploads/2025/08/4037695-0-06595000-1755079502-MDC19_hotAisleGreen_002-1900x1268-1.jpg?quality=50&strip=all",
-            "publishedAt": "2025-08-13 10:00:00"
-        },
-        {
-            "source": {
-                "name": "newspressnow"
-            },
-            "title": "The ‘godfather of AI’ reveals the only way humanity can survive superintelligent AI",
-            "url": "https://www.newspressnow.com/news/2025/08/13/the-godfather-of-ai-reveals-the-only-way-humanity-can-survive-superintelligent-ai/",
-            "urlToImage": "https://newspressnow.b-cdn.net/wp-content/uploads/2025/08/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWU5MjZ5ZDQwMDAxM2I2bno5eWhoenN4-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtZTkxdXhzYzAwNHMyN251ZjlrZ2JiZHU-scaled.jpg",
-            "publishedAt": "2025-08-13 09:30:41"
         }
     ]
 }
