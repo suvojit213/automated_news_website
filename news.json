@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-08-15T01:18:26.041347Z",
+    "lastUpdatedAt": "2025-08-15T03:18:19.284283Z",
     "articles": [
+        {
+            "source": {
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
+            },
+            "title": "China's 'robot Olympics' sees humanoids from 16 nations compete in table tennis, football, track",
+            "url": "https://www.straitstimes.com/sport/chinas-robot-olympics-sees-humanoids-from-16-nations-compete-in-table-tennis-football-track",
+            "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/72e597e5d5aa4ada05d1071196dc9ac5463735d38f028efbb1644ed6e8f8697d",
+            "publishedAt": "2025-08-15T02:39:23Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "YouTube turns to AI to spot children posing as adults",
+            "url": "https://www.manilatimes.net/2025/08/15/world/youtube-turns-to-ai-to-spot-children-posing-as-adults/2168422",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/15/714585.jpg",
+            "publishedAt": "2025-08-15T01:47:00Z"
+        },
         {
             "source": {
                 "id": "f6d6ee1134197fe1441d65a3e7915835",
@@ -24,6 +48,18 @@
             "url": "https://www.reuters.com/markets/wealth/hedge-funds-shift-bets-double-down-big-tech-amid-ai-boom-2025-08-14/",
             "urlToImage": "https://www.reuters.com/resizer/v2/QIMUYXIPNNJWLFB7FEMVFQODIU.jpg?auth=6bcddd76163f72276a09eb76602852888d94a4a8e25557d73a55eb872f1fb50e&height=1005&width=1920&quality=80&smart=true",
             "publishedAt": "2025-08-14T23:35:44Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Masayoshi Son’s Fortune Jumps $9 Billion in Two Weeks on AI Bets",
+            "url": "https://www.bloomberg.com/news/articles/2025-08-14/masayoshi-son-s-fortune-jumps-9-billion-in-two-weeks-on-ai-bets",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i73Y5SLclUDw/v0/1200x800.jpg",
+            "publishedAt": "2025-08-14T22:33:47Z"
         },
         {
             "source": {
@@ -963,6 +999,69 @@
             "url": "https://www.digitaltrends.com/home/everything-you-need-to-know-about-smart-home-hacking/",
             "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/11/Anona-smart-home-deals-Holo-WiFi-smart-lock-installed-on-front-door-with-keyless-entry.jpg?resize=1200%2C630&p=1",
             "publishedAt": "2025-08-14T01:00:00Z"
+        },
+        {
+            "source": {
+                "name": "thurrott"
+            },
+            "title": "Pavan Davuluri Discusses How AI Will Impact the Next Windows",
+            "url": "https://www.thurrott.com/windows/windows-11/324598/pavan-davuluri-discusses-how-ai-will-impact-the-next-windows",
+            "urlToImage": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2025/08/pavan-davuluri.jpg",
+            "publishedAt": "2025-08-14 15:01:16"
+        },
+        {
+            "source": {
+                "name": "mercurynews"
+            },
+            "title": "Larry Magid: Back to school tech tips",
+            "url": "https://www.mercurynews.com/2025/08/14/larry-magid-back-to-school-tech-tips/",
+            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2023/07/SJM-Z-LARRYMAGID-01.jpg?strip=all&w=1400px",
+            "publishedAt": "2025-08-14 15:00:28"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "Voice AI Is Changing How We Do Business, Starting With Loans",
+            "url": "https://www.forbes.com/sites/michaelashley/2025/08/14/voice-ai-is-changing-how-we-do-business-starting-with-loans/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/689d5b355900910b190ba7cf/0x0.jpg?width=960",
+            "publishedAt": "2025-08-14 15:00:00"
+        },
+        {
+            "source": {
+                "name": "scientificamerican"
+            },
+            "title": "New Brain Device Is First to Read Out Inner Speech",
+            "url": "https://www.scientificamerican.com/article/new-brain-device-is-first-to-read-out-inner-speech/",
+            "urlToImage": "https://static.scientificamerican.com/dam/m/26d9e61b604f1a06/original/speech_traveling_through_head_maze_concept.jpg?m=1755180370.015&w=1200",
+            "publishedAt": "2025-08-14 15:00:00"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "Google Photos just got a huge AI upgrade with 'Remix' — here's what you can do now",
+            "url": "https://www.tomsguide.com/computing/mobile-apps/google-photos-just-got-a-huge-ai-upgrade-with-remix-heres-what-you-can-do-now",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/25KPpnoTVnW3wta5NGRfum-1280-80.jpg",
+            "publishedAt": "2025-08-14 14:40:15"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "Could Poor AI Literacy Cause Bad Personal Decisions?",
+            "url": "https://www.forbes.com/sites/marshallshepherd/2025/08/14/could-poor-ai-literacy-cause-bad-personal-decisions/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/689de3d5cf859a471348f776/0x0.jpg?width=960",
+            "publishedAt": "2025-08-14 13:32:31"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "OpenAI’s Latest Model Is Attempting To Become A Medical Thought-Partner",
+            "url": "https://www.forbes.com/sites/saibala/2025/08/14/openais-latest-model-is-attempting-to-become-a-medical-thought-partner/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/689d2789352e419ae6cdc7e7/0x0.jpg?width=960",
+            "publishedAt": "2025-08-14 13:30:00"
         },
         {
             "source": {
@@ -3008,116 +3107,6 @@
             "url": "https://www.cnbc.com/2025/08/12/an-analyst-just-upgraded-a-cybersecurity-stock-that-weve-been-pounding-the-table-on.html",
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/108137401-17458546272025-03-25t214553z_1993499487_rc2jkdadx0ew_rtrmadp_0_paloalto-stocks.jpeg?v=1745854692&w=1920&h=1080",
             "publishedAt": "2025-08-12T16:33:35Z"
-        },
-        {
-            "source": {
-                "id": "26269dbc42635df9af8c24f3cdab8e37",
-                "name": "Cable News Network",
-                "url": "https://edition.cnn.com"
-            },
-            "title": "AI search firm Perplexity makes $34.5 billion surprise bid for Google Chrome",
-            "url": "https://edition.cnn.com/2025/08/12/tech/perplexity-google-chrome-bid",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2184968332.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2025-08-12T16:31:32Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net"
-            },
-            "title": "Musk to sue Apple over App Store rankings",
-            "url": "https://www.manilatimes.net/2025/08/13/business/foreign-business/musk-to-sue-apple-over-app-store-rankings/2166409",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/12/709906.jpg",
-            "publishedAt": "2025-08-12T16:25:00Z"
-        },
-        {
-            "source": {
-                "id": "2b8e9cf94b4b7463c6aee33c1d6df71b",
-                "name": "Chicago Tribune",
-                "url": "https://www.chicagotribune.com"
-            },
-            "title": "Lawyer for CHA who used ChatGPT sanctioned in separate case",
-            "url": "https://www.chicagotribune.com/2025/08/12/cha-lawyer-chatgpt-sanctions/",
-            "urlToImage": "https://www.chicagotribune.com/wp-content/uploads/2025/08/CTC-L-CHA-attorneys-AI-lead-05_231460786.jpg?w=1024&h=783",
-            "publishedAt": "2025-08-12T16:20:54Z"
-        },
-        {
-            "source": {
-                "id": "bc4f0c1ddd7d75da8c7a07a4d78f15a0",
-                "name": "Yahoo Canada Sports",
-                "url": "https://ca.sports.yahoo.com"
-            },
-            "title": "🏆 Serie A: who will win over the next 10 years? AI predicts up to 2035 🤖",
-            "url": "https://ca.sports.yahoo.com/news/serie-win-over-next-10-154500332.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/SxW0KWCqRCJFpeDImuY6iw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/onefootball_articles_802/40be3dc3732c96ac16b4be053c4079d4",
-            "publishedAt": "2025-08-12T15:45:00Z"
-        },
-        {
-            "source": {
-                "id": "61d62f51b5a60b70cd06e36b5dc14e85",
-                "name": "WLTX.com",
-                "url": "https://www.wltx.com"
-            },
-            "title": "Musk blasts Apple for not featuring X, Grok; says lawsuit coming",
-            "url": "https://www.wltx.com/article/news/nation-world/musk-sue-apple-x-grok-featured-apps/507-d81120ea-26d8-4a62-a4f1-5149caddc6f4",
-            "urlToImage": "https://media.wltx.com/assets/CCT/images/afe2458f-90ba-440f-acbd-a683dc6ad9b8/20250812T151251/afe2458f-90ba-440f-acbd-a683dc6ad9b8_1140x641.jpg",
-            "publishedAt": "2025-08-12T15:20:08Z"
-        },
-        {
-            "source": {
-                "id": "77b86639d1384ac68141803ec5db27c0",
-                "name": "NBC News",
-                "url": "https://www.nbcnews.com"
-            },
-            "title": "Musk threatens 'immediate' legal action against Apple over alleged antitrust violations",
-            "url": "https://www.nbcnews.com/business/business-news/musk-threatens-immediate-legal-action-apple-alleged-antitrust-violatio-rcna224514",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-07/250701-musk-ch-1311-cb2751.jpg",
-            "publishedAt": "2025-08-12T14:40:27Z"
-        },
-        {
-            "source": {
-                "id": "3271eb2093cfa66b030a37cf84a8df5e",
-                "name": "Baltimore Sun",
-                "url": "https://www.baltimoresun.com"
-            },
-            "title": "YouTube to begin U.S. testing of new AI-powered age verification system",
-            "url": "https://www.baltimoresun.com/2025/08/12/youtube-ai-powered-age-verification/",
-            "urlToImage": "https://www.baltimoresun.com/wp-content/uploads/2025/08/Australia-Social-Media_87542-1.jpg?w=1024&h=682",
-            "publishedAt": "2025-08-12T14:36:23Z"
-        },
-        {
-            "source": {
-                "id": "bc49d994b41ac710f5c89f6e6adeece4",
-                "name": "The Boston Herald",
-                "url": "https://www.bostonherald.com"
-            },
-            "title": "YouTube to begin U.S. testing of new AI-powered age verification system",
-            "url": "https://www.bostonherald.com/2025/08/12/youtube-ai-powered-age-verification/",
-            "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/08/Australia-Social-Media_87542-1.jpg?w=1024&h=682",
-            "publishedAt": "2025-08-12T14:36:23Z"
-        },
-        {
-            "source": {
-                "id": "b669a363e34e1a8211e6f2cd9c5420a4",
-                "name": "VentureBeat",
-                "url": "https://venturebeat.com"
-            },
-            "title": "Former Google Distinguished Engineer David Petrou Launches Continua, a New Vision for Social AI",
-            "url": "https://venturebeat.com/business/former-google-distinguished-engineer-david-petrou-launches-continua-a-new-vision-for-social-ai/",
-            "urlToImage": "https://venturebeat.com/wp-content/uploads/2015/10/BusinessWire_FeaturedImage.jpg?w=285?w=1200&strip=all",
-            "publishedAt": "2025-08-12T14:25:54Z"
-        },
-        {
-            "source": {
-                "id": "17d7c2645f485578130862e0c8dd9480",
-                "name": "The Mercury News",
-                "url": "https://www.mercurynews.com"
-            },
-            "title": "Elon Musk threatens to sue Apple over app store ranking of his AI app",
-            "url": "https://www.mercurynews.com/2025/08/12/elon-musk-threatens-to-sue-apple-over-app-store-ranking-of-his-ai-app/",
-            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/08/Elon_Musk_threatens_to_sue_Apple_over_app_store_ranking_of_his_AI_app1-1.jpg?w=1024&h=662",
-            "publishedAt": "2025-08-12T13:32:41Z"
         }
     ]
 }
