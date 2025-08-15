@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-08-14T23:15:10.473154Z",
+    "lastUpdatedAt": "2025-08-15T01:18:26.041347Z",
     "articles": [
+        {
+            "source": {
+                "id": "f6d6ee1134197fe1441d65a3e7915835",
+                "name": "Yahoo Singapore News",
+                "url": "https://sg.news.yahoo.com",
+                "country": "sg"
+            },
+            "title": "YouTube turns to AI to spot children posing as adults",
+            "url": "https://sg.news.yahoo.com/youtube-turns-ai-spot-children-001736495.html",
+            "urlToImage": "https://media.zenfs.com/en/afp.com.sg/4f393250ec393bb347341ad9c80f7e66",
+            "publishedAt": "2025-08-15T00:17:36Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Hedge funds shift bets to double down on Big Tech amid AI boom",
+            "url": "https://www.reuters.com/markets/wealth/hedge-funds-shift-bets-double-down-big-tech-amid-ai-boom-2025-08-14/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/QIMUYXIPNNJWLFB7FEMVFQODIU.jpg?auth=6bcddd76163f72276a09eb76602852888d94a4a8e25557d73a55eb872f1fb50e&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-08-14T23:35:44Z"
+        },
         {
             "source": {
                 "id": "dd4c720b98e562405eba2c628af5bfd0",
@@ -939,6 +963,69 @@
             "url": "https://www.digitaltrends.com/home/everything-you-need-to-know-about-smart-home-hacking/",
             "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/11/Anona-smart-home-deals-Holo-WiFi-smart-lock-installed-on-front-door-with-keyless-entry.jpg?resize=1200%2C630&p=1",
             "publishedAt": "2025-08-14T01:00:00Z"
+        },
+        {
+            "source": {
+                "name": "postregister"
+            },
+            "title": "VERSES® Unveils Robotics Architecture that Works Without Pre-Training",
+            "url": "https://www.postregister.com/businessreport/technology/verses-unveils-robotics-architecture-that-works-without-pre-training/article_7f54c126-daf5-5cc3-971d-21826601b4bb.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
+            "publishedAt": "2025-08-14 13:16:19"
+        },
+        {
+            "source": {
+                "name": "postregister"
+            },
+            "title": "BigBear.ai and Smiths Detection Complete Testing and Integration – Advancing Airport Security",
+            "url": "https://www.postregister.com/businessreport/government/bigbear-ai-and-smiths-detection-complete-testing-and-integration-advancing-airport-security/article_8666c543-cecd-5af5-8ab7-9fe4755c4575.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
+            "publishedAt": "2025-08-14 13:14:41"
+        },
+        {
+            "source": {
+                "name": "bleepingcomputer"
+            },
+            "title": "Canada’s House of Commons investigating data breach after cyberattack",
+            "url": "https://www.bleepingcomputer.com/news/security/canadas-house-of-commons-investigating-data-breach-after-cyberattack/",
+            "urlToImage": "https://www.bleepstatic.com/content/hl-images/2023/11/20/0_Canada_flag.jpg",
+            "publishedAt": "2025-08-14 13:06:43"
+        },
+        {
+            "source": {
+                "name": "news_ualr"
+            },
+            "title": "Basu Completes First Phase of Groundbreaking Cardiac Visualization Project",
+            "url": "https://ualr.edu/news/2025/08/14/cardiac-visualization-project/",
+            "urlToImage": "https://ualr.edu/news/wp-content/uploads/sites/240/2025/07/AryaBasu.jpg",
+            "publishedAt": "2025-08-14 13:05:00"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "How AI startups are scaling revenue 'faster than any other companies in cloud history' - and what's next",
+            "url": "https://www.zdnet.com/article/how-ai-startups-are-scaling-revenue-faster-than-any-other-companies-in-cloud-history-and-whats-next/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/522be826c7004c3555b3a5ccb5400d7458af56db/2025/08/13/5842c728-0f8d-4bda-a62a-ee80c3c7d2a8/bessemer-final-pdf-state-of-ai-2025-slides-bessemer-venture-partners-slide-2.jpg?auto=webp&width=1280",
+            "publishedAt": "2025-08-14 13:05:00"
+        },
+        {
+            "source": {
+                "name": "postregister"
+            },
+            "title": "VAST Data Collaborates with SK Telecom to Optimize Korea’s Largest AI Infrastructure based on ...",
+            "url": "https://www.postregister.com/businessreport/government/vast-data-collaborates-with-sk-telecom-to-optimize-korea-s-largest-ai-infrastructure-based-on/article_bf8e4fb7-b2e2-5890-bea2-239a5a7895dc.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
+            "publishedAt": "2025-08-14 13:02:27"
+        },
+        {
+            "source": {
+                "name": "ucf"
+            },
+            "title": "UCF Strengthens Investment in Engineering, Computer Science With 39 New Faculty",
+            "url": "https://www.ucf.edu/news/ucf-strengthens-investment-in-engineering-computer-science-with-39-new-faculty/",
+            "urlToImage": "https://www.ucf.edu/wp-content/blogs.dir/20/files/2025/08/UCF_Engineering-and-Computer-Science-300x200.jpg",
+            "publishedAt": "2025-08-14 13:00:44"
         },
         {
             "source": {
@@ -3031,105 +3118,6 @@
             "url": "https://www.mercurynews.com/2025/08/12/elon-musk-threatens-to-sue-apple-over-app-store-ranking-of-his-ai-app/",
             "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/08/Elon_Musk_threatens_to_sue_Apple_over_app_store_ranking_of_his_AI_app1-1.jpg?w=1024&h=662",
             "publishedAt": "2025-08-12T13:32:41Z"
-        },
-        {
-            "source": {
-                "id": "79baacd62152cf257ee35e8c0bec19a2",
-                "name": "UPI News",
-                "url": "https://www.upi.com"
-            },
-            "title": "Can South Korea build a sovereign AI?",
-            "url": "https://www.upi.com/Voices/2025/08/12/perspectivve-home-grown-AI-project/6791755003257/",
-            "urlToImage": "https://cdnph.upi.com/sv/ph/og/i/6791755003257/2025/1/17550039419229/v1.5/Can-South-Korea-build-a-sovereign-AI.jpg",
-            "publishedAt": "2025-08-12T13:08:00Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com"
-            },
-            "title": "Anthropic offers AI chatbot Claude to US government for $1",
-            "url": "https://www.reuters.com/business/retail-consumer/anthropic-offers-ai-chatbot-claude-us-government-1-2025-08-12/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/WGSWTLH5LRMARGHC3JPB5W7JFM.jpg?auth=13fe4d7d7ba55ac1d6d463de361e064856aff0b365acde62fc2b2b3a95f3f67d&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-08-12T13:03:13Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com"
-            },
-            "title": "YouTube testing AI-powered age verification in U.S.",
-            "url": "https://www.cp24.com/news/world/2025/08/12/youtube-to-begin-testing-a-new-ai-powered-age-verification-system-in-the-us/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/JDJJ2WCIM35GHUT5IZ6EZPKRRU.jpg?smart=true&auth=d7af29ac36e6518a63327fbf01b326bdc3a1c48d84636a05ada029671f7c55ca&width=1200&height=630",
-            "publishedAt": "2025-08-12T12:54:38Z"
-        },
-        {
-            "source": {
-                "id": "35515662ec044d3f94b543cd8802d63f",
-                "name": "WDIV ClickOnDetroit",
-                "url": "https://www.clickondetroit.com"
-            },
-            "title": "YouTube to begin testing a new AI-powered age verification system in the U.S.",
-            "url": "https://www.clickondetroit.com/business/2025/08/12/youtube-to-begin-testing-a-new-ai-powered-age-verification-system-in-the-us/",
-            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/4IMAN3THDJEIZDDN4CFH62PLOA.jpg?_a=DATAg1eAZAA0",
-            "publishedAt": "2025-08-12T12:35:58Z"
-        },
-        {
-            "source": {
-                "id": "51aadd014176eb61b32255e2791b7207",
-                "name": "Newser",
-                "url": "https://www.newser.com"
-            },
-            "title": "Elon Musk: I'm Suing Apple",
-            "url": "https://www.newser.com/story/373385/elon-musk-im-suing-apple.html",
-            "urlToImage": "https://img2-azrcdn.newser.com/image/1627603-12-20250812030002.jpeg",
-            "publishedAt": "2025-08-12T12:30:00Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com"
-            },
-            "title": "India Tycoon Partners US Firm on $2 AI Email Rival to Outlook",
-            "url": "https://www.bloomberg.com/news/articles/2025-08-12/india-tycoon-partners-us-firm-on-2-ai-email-rival-to-outlook",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ic.blf7XzT8w/v0/1200x801.jpg",
-            "publishedAt": "2025-08-12T12:30:00Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com"
-            },
-            "title": "AI-powered digital twins pave the way for precision healthcare",
-            "url": "https://www.devdiscourse.com/article/technology/3534619-ai-powered-digital-twins-pave-the-way-for-precision-healthcare",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/08_08_2025_18_39_18_8521776.png?width=920&format=jpeg",
-            "publishedAt": "2025-08-12T12:25:14Z"
-        },
-        {
-            "source": {
-                "id": "891063cd06eaab8a5cf530418fb4c0be",
-                "name": "XDA Developers",
-                "url": "https://www.xda-developers.com"
-            },
-            "title": "Your Internet, their rules: How DNS blocking shapes what we see online",
-            "url": "https://www.xda-developers.com/dns-blocking-is-double-edged-sword/",
-            "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2024/06/dns-test-app-results-android.jpeg",
-            "publishedAt": "2025-08-12T12:00:21Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com"
-            },
-            "title": "PwC India's Vision 2030: Transforming Workforce and Growth Strategy",
-            "url": "https://www.devdiscourse.com/article/business/3538623-pwc-indias-vision-2030-transforming-workforce-and-growth-strategy",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/28_08_2024_11_38_58_1200254.png?width=920&format=jpeg",
-            "publishedAt": "2025-08-12T11:51:16Z"
         }
     ]
 }
