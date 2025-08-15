@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2025-08-15T14:15:35.339378Z",
+    "lastUpdatedAt": "2025-08-15T15:16:19.660954Z",
     "articles": [
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "New 24h branding service closes the gap between Agencies and AI-Tools",
+            "url": "https://www.manilatimes.net/2025/08/15/tmt-newswire/globenewswire/new-24h-branding-service-closes-the-gap-between-agencies-and-ai-tools/2168774",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/15/715482.png",
+            "publishedAt": "2025-08-15T15:02:24Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Bitcoin Swift Enters Final Four Days of Stage 5 Presale With Over $700,000 in Sales and $60,000+ Rewards Distributed",
+            "url": "https://www.manilatimes.net/2025/08/15/tmt-newswire/globenewswire/bitcoin-swift-enters-final-four-days-of-stage-5-presale-with-over-700000-in-sales-and-60000-rewards-distributed/2168769",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/15/715451.png",
+            "publishedAt": "2025-08-15T15:02:04Z"
+        },
+        {
+            "source": {
+                "id": "8e9ab8327c5f7903cc1b50470411d165",
+                "name": "GlobeNewswire",
+                "url": "https://www.globenewswire.com",
+                "country": "us"
+            },
+            "title": "Bitcoin Swift Enters Final Four Days of Stage 5 Presale",
+            "url": "https://www.globenewswire.com/news-release/2025/08/15/3134352/0/en/Bitcoin-Swift-Enters-Final-Four-Days-of-Stage-5-Presale-With-Over-700-000-in-Sales-and-60-000-Rewards-Distributed.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/9f241430-14d0-4265-a547-0f813bc54af6",
+            "publishedAt": "2025-08-15T14:44:09Z"
+        },
+        {
+            "source": {
+                "id": "5ac5f32ba74846cef441099f666f2d98",
+                "name": "Fast Company",
+                "url": "https://www.fastcompany.com",
+                "country": "us"
+            },
+            "title": "Murder case in Australia reveals AI-generated mishap",
+            "url": "https://www.fastcompany.com/91386741/ai-generated-errors-set-back-murder-case-australian-supreme-court",
+            "urlToImage": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2025/08/AP25227124956614.jpg",
+            "publishedAt": "2025-08-15T14:32:52Z"
+        },
+        {
+            "source": {
+                "id": "77b86639d1384ac68141803ec5db27c0",
+                "name": "NBC News",
+                "url": "https://www.nbcnews.com",
+                "country": "us"
+            },
+            "title": "Australian lawyer sorry for AI errors in murder case, including fake quotes and made up cases",
+            "url": "https://www.nbcnews.com/world/australia/australian-lawyer-sorry-ai-errors-murder-case-fake-quotes-made-cases-rcna225220",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250815-Rishi-Nathwani-ew-1023a-54f296.jpg",
+            "publishedAt": "2025-08-15T14:28:50Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "DIAGNOS to Extend Stock Warrants Exercise Period",
+            "url": "https://www.manilatimes.net/2025/08/15/tmt-newswire/globenewswire/diagnos-to-extend-stock-warrants-exercise-period/2168734",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/15/715399.png",
+            "publishedAt": "2025-08-15T14:21:41Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "OpenAI’s Sam Altman Expects to Spend ‘Trillions’ on Infrastructure",
+            "url": "https://www.bloomberg.com/news/articles/2025-08-15/openai-s-altman-expects-to-spend-trillions-on-infrastructure",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVbRGc73oNsw/v1/1200x812.jpg",
+            "publishedAt": "2025-08-15T14:15:39Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -468,6 +552,15 @@
             "url": "https://sg.news.yahoo.com/youtube-turns-ai-spot-children-001736495.html",
             "urlToImage": "https://media.zenfs.com/en/afp.com.sg/4f393250ec393bb347341ad9c80f7e66",
             "publishedAt": "2025-08-15T00:17:36Z"
+        },
+        {
+            "source": {
+                "name": "cio"
+            },
+            "title": "GenAI, agentic AI, and beyond: How autonomous systems are redefining enterprise DNA",
+            "url": "https://www.cio.com/article/4039657/genai-agentic-ai-and-beyond-how-autonomous-systems-are-redefining-enterprise-dna.html",
+            "urlToImage": "https://www.cio.com/wp-content/uploads/2025/08/4039657-0-94840600-1755226822-shutterstock_2436656449_resized.jpg?quality=50&strip=all&w=1024",
+            "publishedAt": "2025-08-15 03:00:04"
         },
         {
             "source": {
@@ -3093,78 +3186,6 @@
             "url": "https://news.mit.edu/2025/new-way-test-how-well-ai-systems-classify-text-0813",
             "urlToImage": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202508/mit-lids-text-classifier.jpg?itok=EFDHW0eB",
             "publishedAt": "2025-08-13 19:00:00"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "Why GPT-5's rocky rollout is the reality check we needed on superintelligence hype",
-            "url": "https://www.zdnet.com/article/why-gpt-5s-rocky-rollout-is-the-reality-check-we-needed-on-superintelligence-hype/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/b2960f27def0929c60a94a3a3f4f709c8d816245/2025/08/13/25517fb1-0dba-4fc8-b0a3-23fea0fe3374/gettyimages-2229147057.jpg?auto=webp&width=1280",
-            "publishedAt": "2025-08-13 18:51:00"
-        },
-        {
-            "source": {
-                "name": "venturebeat"
-            },
-            "title": "What happens the day after superintelligence?",
-            "url": "https://venturebeat.com/ai/what-happens-the-day-after-superintelligence/",
-            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/08/image1.png?w=750",
-            "publishedAt": "2025-08-13 18:45:00"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Best Jobs and Careers in Data Science",
-            "url": "https://www.analyticsinsight.net/data-science/best-jobs-and-careers-in-data-science",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-08-13%2Fykpwvue2%2FBest-Jobs-and-Career-in-Data-Science.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-08-13 18:00:00"
-        },
-        {
-            "source": {
-                "name": "firstpost"
-            },
-            "title": "Is Sam Altman gearing up to take on Musk’s Neuralink? Report says...",
-            "url": "https://www.firstpost.com/tech/is-sam-altman-gearing-up-to-take-on-musks-neuralink-report-says-13924530.html",
-            "urlToImage": "https://images.firstpost.com/uploads/2025/02/Musk-says-he-will-agree-to-take-back-OpenAI-takeover-bid-if-Sam-Altman-stops-from-going-for-profit-2025-02-0daf8d615dbe944d70a97b2edb4811ba-1200x675.jpg",
-            "publishedAt": "2025-08-13 17:50:50"
-        },
-        {
-            "source": {
-                "name": "biztoc"
-            },
-            "title": "Donald Trump Reacts to Alleged Russia Hack into Federal Court System",
-            "url": "https://biztoc.com/x/b754f3f1ec1332c8",
-            "urlToImage": "https://cdn.biztoc.com/b754f3f1ec1332c8_sq.webp",
-            "publishedAt": "2025-08-13 16:35:30"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "A Look At The Data: Blogs, Forums, And The Rise Of LLM Tools",
-            "url": "https://hackernoon.com/a-look-at-the-data-blogs-forums-and-the-rise-of-llm-tools",
-            "urlToImage": "https://hackernoon.imgix.net/images/research-data-abstract-v33jcfyf64adjyjmf1op7pnh.png",
-            "publishedAt": "2025-08-13 16:00:09"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "How Blob Gas Priority Fees Influence Ethereum’s Transaction Costs",
-            "url": "https://hackernoon.com/how-blob-gas-priority-fees-influence-ethereums-transaction-costs",
-            "urlToImage": "https://hackernoon.imgix.net/images/5wpKgV75aONqkTJlafw2yQmK9yd2-6c0384k.png",
-            "publishedAt": "2025-08-13 16:00:03"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "The Great Transformation: How LLMs Remake Every Programming Activity",
-            "url": "https://hackernoon.com/the-great-transformation-how-llms-remake-every-programming-activity",
-            "urlToImage": "https://hackernoon.imgix.net/images/a-technical-sphere-abstract-s3xd281jkmlctezuhyas9q46.png",
-            "publishedAt": "2025-08-13 15:45:02"
         }
     ]
 }
