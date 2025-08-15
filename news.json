@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-08-15T16:19:35.758907Z",
+    "lastUpdatedAt": "2025-08-15T17:13:43.200150Z",
     "articles": [
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "How to make AI work properly",
+            "url": "https://www.manilatimes.net/2025/08/16/business/top-business/how-to-make-ai-work-properly/2168737",
+            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+            "publishedAt": "2025-08-15T16:20:00Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -696,6 +708,15 @@
             "url": "https://sg.news.yahoo.com/youtube-turns-ai-spot-children-001736495.html",
             "urlToImage": "https://media.zenfs.com/en/afp.com.sg/4f393250ec393bb347341ad9c80f7e66",
             "publishedAt": "2025-08-15T00:17:36Z"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "Reddit recommends these gaming laptops — here are my thoughts as a reviewer of 5+ years",
+            "url": "https://www.tomsguide.com/computing/gaming-laptops/reddit-recommends-these-gaming-laptops-here-are-my-thoughts-as-a-reviewer-of-5-years",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/zQ7BfuPxxDzsLzdH3PqDw-1280-80.jpg",
+            "publishedAt": "2025-08-15 05:00:00"
         },
         {
             "source": {
@@ -3200,28 +3221,6 @@
             "url": "https://sg.news.yahoo.com/perplexity-ai-offers-google-34-000941090.html",
             "urlToImage": "https://media.zenfs.com/en/afp.com.sg/d59a6a24dc1279a1a18099c68587093b",
             "publishedAt": "2025-08-13T00:09:41Z"
-        },
-        {
-            "source": {
-                "id": "6536182115f7e8188f38d864bab0e1c6",
-                "name": "DAWN.com",
-                "url": "https://www.dawn.com"
-            },
-            "title": "Musk to take legal action over App Store rankings",
-            "url": "https://www.dawn.com/news/1930581/musk-to-take-legal-action-over-app-store-rankings",
-            "urlToImage": "https://www.dawn.com/_img/social-default.jpg",
-            "publishedAt": "2025-08-13T00:05:48Z"
-        },
-        {
-            "source": {
-                "id": "6536182115f7e8188f38d864bab0e1c6",
-                "name": "DAWN.com",
-                "url": "https://www.dawn.com"
-            },
-            "title": "Hybrid war boosted Pakistan’s cybersecurity confidence: Shaza",
-            "url": "https://www.dawn.com/news/1930555/hybrid-war-boosted-pakistans-cybersecurity-confidence-shaza",
-            "urlToImage": "https://i.dawn.com/large/2025/08/130828292c01dbe.jpg",
-            "publishedAt": "2025-08-13T00:05:23Z"
         }
     ]
 }
