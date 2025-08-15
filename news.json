@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-08-15T08:21:15.153914Z",
+    "lastUpdatedAt": "2025-08-15T09:17:30.820037Z",
     "articles": [
+        {
+            "source": {
+                "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
+                "name": "Fortune",
+                "url": "https://fortune.com",
+                "country": "us"
+            },
+            "title": "Cybersecurity company Horizon3.ai's AI hacker can locate files on Nimitz-class aircraft carriers",
+            "url": "https://fortune.com/2025/08/15/this-cybersecurity-companys-ai-hacker-can-locate-files-on-nimitz-class-aircraft-carriers-in-less-than-five-minutes/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/08/Snehal_Antani-color-new2.jpg?resize=1200,600",
+            "publishedAt": "2025-08-15T09:12:35Z"
+        },
+        {
+            "source": {
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
+                "country": "in"
+            },
+            "title": "Education Ministry offers 5 free Artificial Intelligence courses on SWAYAM",
+            "url": "https://www.hindustantimes.com/education/features/free-ai-courses-education-ministry-offers-5-free-artificial-intelligence-courses-on-swayam-101755248194934.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/08/15/1600x900/photo-1591696331111-ef9586a5b17a_1755248456244_1755248464441.jpg",
+            "publishedAt": "2025-08-15T09:04:45Z"
+        },
+        {
+            "source": {
+                "id": "26269dbc42635df9af8c24f3cdab8e37",
+                "name": "Cable News Network",
+                "url": "https://edition.cnn.com",
+                "country": "us"
+            },
+            "title": "Top exec reveals the ‘stupidest thing’ companies adopting AI can do",
+            "url": "https://edition.cnn.com/2025/08/15/tech/jobs-ai-artificial-intelligence-cisco",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-512979254.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2025-08-15T09:00:42Z"
+        },
+        {
+            "source": {
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
+                "country": "us"
+            },
+            "title": "'Godfather Of AI' Geoffrey Hinton Warns Bots Could Seek Power, Urges Giving Them 'Maternal Instinct' To Protect Humans",
+            "url": "https://www.benzinga.com/markets/tech/25/08/47148980/godfather-of-ai-geoffrey-hinton-warns-bots-could-seek-power-urges-giving-them-maternal-instinct-to-protect-humans",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/08/15/Ives-Palantir-Is-Messi-of-AI.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2025-08-15T09:00:35Z"
+        },
         {
             "source": {
                 "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
@@ -72,6 +120,18 @@
             "url": "https://www.usnews.com/news/offbeat/articles/2025-08-15/australian-lawyer-apologizes-for-ai-generated-errors-in-murder-case",
             "urlToImage": "https://www.usnews.com/dims4/USNEWS/7220d8e/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F40%2F73ec566ac6437a1c6a9fa1955d61d6%2Ff7291273c24b49c0a3fe8b8af5a395f8Australia_Fake_Citations_56614.jpg",
             "publishedAt": "2025-08-15T06:44:00Z"
+        },
+        {
+            "source": {
+                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+                "name": "The Australian Financial Review",
+                "url": "https://www.afr.com",
+                "country": "au"
+            },
+            "title": "Accenture in $1b swoop for Australian cybersecurity giant CyberCX",
+            "url": "https://www.afr.com/technology/accenture-pays-1b-plus-for-cybercx-in-its-biggest-australian-deal-20250815-p5mn8h",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.1714%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_177%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/04001a340799ec2a101e61796c5dfa0e940cb18d",
+            "publishedAt": "2025-08-15T04:54:25Z"
         },
         {
             "source": {
@@ -1143,6 +1203,33 @@
             "url": "https://www.digitaltrends.com/home/everything-you-need-to-know-about-smart-home-hacking/",
             "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/11/Anona-smart-home-deals-Holo-WiFi-smart-lock-installed-on-front-door-with-keyless-entry.jpg?resize=1200%2C630&p=1",
             "publishedAt": "2025-08-14T01:00:00Z"
+        },
+        {
+            "source": {
+                "name": "benzinga"
+            },
+            "title": "Bit Digital Q2 Earnings: Revenue Miss, EPS Beat, Ethereum Strategy In Focus As Bitcoin Operations Wind Down",
+            "url": "https://www.benzinga.com/markets/earnings/25/08/47140495/bit-digital-q2-earnings-revenue-miss-eps-beat-ethereum-strategy-in-focus-as-bitcoin-operations-w",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/08/14/Two-Coins-Bitcoin-And-Ethereum-On-A-Dark_0.jpeg?auto=jpg&dpr=1&fit=crop&height=480&optimize=medium&width=720",
+            "publishedAt": "2025-08-14 20:42:25"
+        },
+        {
+            "source": {
+                "name": "pcgamer"
+            },
+            "title": "A game was unintentionally listed as 'Sh***y Dungeon' on Steam in Japan thanks to goofed-up machine translation",
+            "url": "https://www.pcgamer.com/games/rpg/a-game-was-unintentionally-listed-as-sh-y-dungeon-on-steam-in-japan-thanks-to-goofed-up-machine-translation/",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/zbUerWa328Vyq2RV7SfmXS-1280-80.jpg",
+            "publishedAt": "2025-08-14 20:28:49"
+        },
+        {
+            "source": {
+                "name": "cision"
+            },
+            "title": "Globant Reports 2025 Second Quarter Financial Results",
+            "url": "https://www.prnewswire.com/news-releases/globant-reports-2025-second-quarter-financial-results-302530584.html",
+            "urlToImage": "https://mma.prnewswire.com/media/959011/Globant_logo_actualizado.jpg?p=original",
+            "publishedAt": "2025-08-14 20:26:00"
         },
         {
             "source": {
@@ -3021,78 +3108,6 @@
             "url": "https://www.newspressnow.com/news/2025/08/13/the-godfather-of-ai-reveals-the-only-way-humanity-can-survive-superintelligent-ai/",
             "urlToImage": "https://newspressnow.b-cdn.net/wp-content/uploads/2025/08/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWU5MjZ5ZDQwMDAxM2I2bno5eWhoenN4-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtZTkxdXhzYzAwNHMyN251ZjlrZ2JiZHU-scaled.jpg",
             "publishedAt": "2025-08-13 09:30:41"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "5 tips to be more productive in Google Keep",
-            "url": "https://www.tomsguide.com/computing/office-software/5-tips-to-be-more-productive-in-google-keep",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/UBS55VRMgMyz8KkxjrgxVQ-1280-80.jpg",
-            "publishedAt": "2025-08-13 09:30:00"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Today’s Quordle Hints and Answers for August 13, 2025",
-            "url": "https://www.analyticsinsight.net/gaming/todays-quordle-hints-and-answers-for-august-13-2025",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-08-13%2Fm36x5s3f%2FQuordle13aug.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-08-13 09:30:00"
-        },
-        {
-            "source": {
-                "name": "news_usf"
-            },
-            "title": "Meet the new faculty helping power USF’s future",
-            "url": "https://www.usf.edu/news/2025/meet-the-new-faculty-helping-power-usfs-future.aspx",
-            "urlToImage": "https://www.usf.edu/news/images/2025/meet-the-new-faculty-helping-power-usfs-future/listing-image.jpg",
-            "publishedAt": "2025-08-13 09:23:40"
-        },
-        {
-            "source": {
-                "name": "thehindu"
-            },
-            "title": "Cornell researchers working on light-watermarking tactic to detect AI videos",
-            "url": "https://www.thehindu.com/sci-tech/technology/cornell-researchers-working-on-light-watermarking-tactic-to-detect-ai-videos/article69927881.ece",
-            "urlToImage": "https://th-i.thgim.com/public/incoming/d98bq/article69927862.ece/alternates/LANDSCAPE_1200/2025-07-26T024135Z_795872368_RC2GX1AQAMO6_RTRMADP_3_CHINA-AI-EXPO.JPG",
-            "publishedAt": "2025-08-13 09:05:34"
-        },
-        {
-            "source": {
-                "name": "techtarget"
-            },
-            "title": "What is security theater?",
-            "url": "https://www.techtarget.com/whatis/definition/security-theater",
-            "urlToImage": "https://cdn.ttgtmedia.com/visuals/digdeeper/6.jpg",
-            "publishedAt": "2025-08-13 09:00:00"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "0G Launches WaveHack Buildathon For AI Developers On AKINDO With $50,000 Grant",
-            "url": "https://hackernoon.com/0g-launches-wavehack-buildathon-for-ai-developers-on-akindo-with-$50000-grant",
-            "urlToImage": "https://hackernoon.imgix.net/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-3j035za.jpeg",
-            "publishedAt": "2025-08-13 08:04:12"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Boosting TensorFlow Performance Without Losing Flexibility",
-            "url": "https://hackernoon.com/boosting-tensorflow-performance-without-losing-flexibility",
-            "urlToImage": "https://hackernoon.imgix.net/images/arbitrary-graph-on-a-large-computer-screen-qgcsnk11c5aqlchblga420nu.png",
-            "publishedAt": "2025-08-13 08:00:07"
-        },
-        {
-            "source": {
-                "name": "macworld"
-            },
-            "title": "This $1,799 MacBook Pro is now only $450",
-            "url": "https://www.macworld.com/article/2874489/this-1799-macbook-pro-is-now-only-450.html",
-            "urlToImage": "https://www.macworld.com/wp-content/uploads/2025/08/MacBook-Pro.jpg?quality=50&strip=all&w=1024",
-            "publishedAt": "2025-08-13 08:00:00"
         }
     ]
 }
