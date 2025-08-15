@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-08-15T13:27:29.662855Z",
+    "lastUpdatedAt": "2025-08-15T14:15:35.339378Z",
     "articles": [
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Currenc Group Inc. Announces CEO Transition",
+            "url": "https://www.manilatimes.net/2025/08/15/tmt-newswire/globenewswire/currenc-group-inc-announces-ceo-transition/2168680",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/15/715305.jpg",
+            "publishedAt": "2025-08-15T13:40:36Z"
+        },
+        {
+            "source": {
+                "id": "5b07f2eba74fc799fd5d1ee46c5bafc3",
+                "name": "Newsweek",
+                "url": "https://www.newsweek.com",
+                "country": "us"
+            },
+            "title": "Is Artificial Intelligence Dumbing Down Cancer Doctors?",
+            "url": "https://www.newsweek.com/artificial-intelligence-dumbing-down-cancer-doctors-2113668",
+            "urlToImage": "https://d.newsweek.com/en/full/2702647/ai.jpg",
+            "publishedAt": "2025-08-15T13:30:24Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "AI Priorities: Decision-Making Over Automation for Enterprises",
+            "url": "https://www.devdiscourse.com/article/technology/3543075-ai-priorities-decision-making-over-automation-for-enterprises",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/09_07_2025_17_54_23_3902443.png?width=920&format=jpeg",
+            "publishedAt": "2025-08-15T13:18:47Z"
+        },
+        {
+            "source": {
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
+                "country": "us"
+            },
+            "title": "Australian lawyer apologizes for AI-generated errors in murder case",
+            "url": "https://nypost.com/2025/08/15/world-news/australian-lawyer-apologizes-for-ai-generated-errors-in-murder-case/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/08/109619177.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2025-08-15T13:08:59Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -3117,42 +3165,6 @@
             "url": "https://hackernoon.com/the-great-transformation-how-llms-remake-every-programming-activity",
             "urlToImage": "https://hackernoon.imgix.net/images/a-technical-sphere-abstract-s3xd281jkmlctezuhyas9q46.png",
             "publishedAt": "2025-08-13 15:45:02"
-        },
-        {
-            "source": {
-                "name": "techtarget"
-            },
-            "title": "GPT-5 explained: Everything you need to know",
-            "url": "https://www.techtarget.com/whatis/feature/GPT-5-explained",
-            "urlToImage": "https://www.techtarget.com/rms/onlineimages/ai_a373894778_searchsitetablet_520X173.jpg",
-            "publishedAt": "2025-08-13 15:35:00"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Excel vs. Python: How The Target Language Changes Everything For Non-Experts",
-            "url": "https://hackernoon.com/excel-vs-python-how-the-target-language-changes-everything-for-non-experts",
-            "urlToImage": "https://hackernoon.imgix.net/images/a-robot-vs-a-python-classic-painting-tswul75gl7vx5bdhv6p3ofwm.png",
-            "publishedAt": "2025-08-13 15:30:03"
-        },
-        {
-            "source": {
-                "name": "medianama"
-            },
-            "title": "UK Court Refuses to Exempt Wikipedia from Online Safety Act, Treats it on Par With Social Media",
-            "url": "https://www.medianama.com/2025/08/223-uk-court-exempt-wikipedia-online-safety-act-social-media/",
-            "urlToImage": "https://www.medianama.com/wp-content/uploads/2020/01/Screenshot-2020-01-02-at-1.02.14-PM.png.png",
-            "publishedAt": "2025-08-13 15:22:10"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "The AI Gardener: A New Role For Experts In A World Of Automated Code",
-            "url": "https://hackernoon.com/the-ai-gardener-a-new-role-for-experts-in-a-world-of-automated-code",
-            "urlToImage": "https://hackernoon.imgix.net/images/a-lush-green-garden-waterpaint-x10m1z27xdjde3vru9mjby0k.png",
-            "publishedAt": "2025-08-13 15:15:03"
         }
     ]
 }
