@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-08-15T11:13:40.616853Z",
+    "lastUpdatedAt": "2025-08-15T12:31:59.147754Z",
     "articles": [
+        {
+            "source": {
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
+            },
+            "title": "Australian Lawyer Apologizes for AI-generated Errors in Murder Case",
+            "url": "https://www.newsmax.com/world/globaltalk/australia-murder-artifical-intelligence/2025/08/15/id/1222599/",
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=99244fd6-6a15-46b3-9c45-194929311e2a&SiteName=Newsmax",
+            "publishedAt": "2025-08-15T11:41:49Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Breakthrough Blood Test Detects Early-Stage Ovarian Cancer with High Accuracy",
+            "url": "https://www.devdiscourse.com/article/science-environment/3542913-breakthrough-blood-test-detects-early-stage-ovarian-cancer-with-high-accuracy",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/19_06_2024_12_03_14_2578705.png?width=920&format=jpeg",
+            "publishedAt": "2025-08-15T11:00:33Z"
+        },
         {
             "source": {
                 "id": "7006f2c40c7cc01195608dbfd60259b3",
@@ -243,6 +267,18 @@
         },
         {
             "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "How JobHire.AI Is Revolutionizing Recruitment for Thousands of Job Seekers",
+            "url": "https://techbullion.com/how-jobhire-ai-is-revolutionizing-recruitment-for-thousands-of-job-seekers/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/08/JobHire-AI-1000x504.jpg",
+            "publishedAt": "2025-08-15T06:00:29Z"
+        },
+        {
+            "source": {
                 "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
                 "name": "The Australian Financial Review",
                 "url": "https://www.afr.com",
@@ -360,6 +396,24 @@
             "url": "https://sg.news.yahoo.com/youtube-turns-ai-spot-children-001736495.html",
             "urlToImage": "https://media.zenfs.com/en/afp.com.sg/4f393250ec393bb347341ad9c80f7e66",
             "publishedAt": "2025-08-15T00:17:36Z"
+        },
+        {
+            "source": {
+                "name": "financialcontent"
+            },
+            "title": "How AEP Became a Critical AI Infrastructure Play",
+            "url": "https://www.marketbeat.com/originals/how-aep-became-a-critical-ai-infrastructure-play/",
+            "urlToImage": "https://www.marketbeat.com/logos/articles/med_20250812140806_how-aep-became-a-critical-ai-infrastructure-play.jpg",
+            "publishedAt": "2025-08-15 00:00:00"
+        },
+        {
+            "source": {
+                "name": "financialcontent"
+            },
+            "title": "Should You Buy Nvidia Stock Before Aug. 27? Wall Street Has a Compelling Answer",
+            "url": "https://www.fool.com/investing/2025/08/15/buy-nvidia-stock-august-27-wall-street-compelling/",
+            "urlToImage": "https://g.foolcdn.com/image/?h=400&op=resize&url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F829334%2Fa-holographic-display-of-stock-charts-above-a-laptop.jpg&w=400",
+            "publishedAt": "2025-08-15 00:00:00"
         },
         {
             "source": {
@@ -1323,6 +1377,15 @@
             "url": "https://www.digitaltrends.com/home/everything-you-need-to-know-about-smart-home-hacking/",
             "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/11/Anona-smart-home-deals-Holo-WiFi-smart-lock-installed-on-front-door-with-keyless-entry.jpg?resize=1200%2C630&p=1",
             "publishedAt": "2025-08-14T01:00:00Z"
+        },
+        {
+            "source": {
+                "name": "futurism"
+            },
+            "title": "Scientists Say They’ve Found a Way to Vocalize the “Inner Voices” of People Who Can’t Speak",
+            "url": "https://futurism.com/neoscope/bci-inner-voice-translation",
+            "urlToImage": "https://wordpress-assets.futurism.com/2025/08/bci-inner-voice-translation.jpg",
+            "publishedAt": "2025-08-14 22:00:38"
         },
         {
             "source": {
@@ -3084,60 +3147,6 @@
             "url": "https://hackernoon.com/ika-core-contributor-dwallet-labs-reveals-refhe-first-fhe-scheme-that-works-like-a-real-cpu",
             "urlToImage": "https://hackernoon.imgix.net/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-on035uc.jpeg",
             "publishedAt": "2025-08-13 15:04:22"
-        },
-        {
-            "source": {
-                "name": "theverge"
-            },
-            "title": "Tensor wants to be the first company to sell you a ‘robocar’ — but who are they?",
-            "url": "https://www.theverge.com/news/758605/tensor-autox-autonomous-vehicle-robocar-personal-own-china",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/Tensor_Robocar.jpg?crop=0%2C10.752607989199%2C100%2C78.494784021602&quality=90&strip=all&w=1200",
-            "publishedAt": "2025-08-13 15:03:42"
-        },
-        {
-            "source": {
-                "name": "stimson"
-            },
-            "title": "Three Questions on AI for Good: Global Perspectives on the July 2025 Summit",
-            "url": "https://www.stimson.org/2025/ai-for-good-global-perspectives-july-2025-summit/",
-            "urlToImage": "https://www.stimson.org/wp-content/uploads/2025/08/AI-for-Good-Image-1-1024x768.jpg",
-            "publishedAt": "2025-08-13 15:02:13"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Making Code Make Sense: The Challenge Of Comprehension In AI-Driven Programming",
-            "url": "https://hackernoon.com/making-code-make-sense-the-challenge-of-comprehension-in-ai-driven-programming",
-            "urlToImage": "https://hackernoon.imgix.net/images/a-river-of-stars-in-outer-space-ojlxj3fqce6wfwtqfplyp1zu.png",
-            "publishedAt": "2025-08-13 15:00:14"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "The Crossroads of AI: Unpacking the Divergent Futures Envisioned by Zuckerberg and LeCun",
-            "url": "https://hackernoon.com/the-crossroads-of-ai-unpacking-the-divergent-futures-envisioned-by-zuckerberg-and-lecun",
-            "urlToImage": "https://hackernoon.imgix.net/images/iN6H2UigxKapyOHZ6k4N9srFgsw1-c403990.png",
-            "publishedAt": "2025-08-13 15:00:03"
-        },
-        {
-            "source": {
-                "name": "venturebeat"
-            },
-            "title": "The NYSE sped up its realtime streaming data 5X with Redpanda",
-            "url": "https://venturebeat.com/data-infrastructure/the-nyse-sped-up-its-realtime-streaming-data-5x-with-redpanda/",
-            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/08/data_streaming_NYSE-SMK2.jpg?w=750",
-            "publishedAt": "2025-08-13 13:00:00"
-        },
-        {
-            "source": {
-                "name": "theverge"
-            },
-            "title": "Chatbots aren’t telling you their secrets",
-            "url": "https://www.theverge.com/x-ai/758595/chatbots-lie-about-themselves-grok-suspension-ai",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257890_Chatbot_secrets_CVirginia.jpg?crop=0%2C10.732984293194%2C100%2C78.534031413613&quality=90&strip=all&w=1200",
-            "publishedAt": "2025-08-13 12:58:33"
         }
     ]
 }
