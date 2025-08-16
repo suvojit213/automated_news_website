@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-08-16T07:14:04.968229Z",
+    "lastUpdatedAt": "2025-08-16T08:19:19.128846Z",
     "articles": [
+        {
+            "source": {
+                "id": "1b40b878c09151e8cf44a095bc8569a5",
+                "name": "ETF Daily News",
+                "url": "https://www.etfdailynews.com",
+                "country": "us"
+            },
+            "title": "Atria Wealth Solutions Inc. Has $351,000 Stake in Global X Cybersecurity ETF (NASDAQ:BUG)",
+            "url": "https://www.etfdailynews.com/2025/08/16/atria-wealth-solutions-inc-has-351000-stake-in-global-x-cybersecurity-etf-nasdaqbug/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/global-x-cybersecurity-etf-logo-1200x675.jpg?v=20210709123736&w=240&h=240&zc=2",
+            "publishedAt": "2025-08-16T03:53:08Z"
+        },
         {
             "source": {
                 "id": "6b8b6fae575a37200ef9ef50109518f5",
@@ -924,6 +936,15 @@
             "url": "https://sg.news.yahoo.com/youtube-turns-ai-spot-children-001736495.html",
             "urlToImage": "https://media.zenfs.com/en/afp.com.sg/4f393250ec393bb347341ad9c80f7e66",
             "publishedAt": "2025-08-15T00:17:36Z"
+        },
+        {
+            "source": {
+                "name": "venturebeat"
+            },
+            "title": "This researcher turned OpenAI’s open weights model gpt-oss-20b into a non-reasoning ‘base’ model with less alignment, more freedom",
+            "url": "https://venturebeat.com/ai/this-researcher-turned-openais-open-weights-model-gpt-oss-20b-into-a-non-reasoning-base-model-with-less-alignment-more-freedom/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/08/cfr0z3n_flat_illustration_minimalist_pointillism_gradients_re_cdcd477b-0b29-481d-b04e-ed930ec4dc51_2.png?w=750",
+            "publishedAt": "2025-08-15 19:19:07"
         },
         {
             "source": {
@@ -3139,28 +3160,6 @@
             "url": "https://www.mercurynews.com/2025/08/13/youtube-will-start-using-ai-to-guess-your-age-if-its-wrong-youll-have-to-prove-it/",
             "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/08/YouTube_will_start_using_AI_to_guess_your_age.jpg?w=1024&h=642",
             "publishedAt": "2025-08-13T21:00:51Z"
-        },
-        {
-            "source": {
-                "id": "bc49d994b41ac710f5c89f6e6adeece4",
-                "name": "The Boston Herald",
-                "url": "https://www.bostonherald.com"
-            },
-            "title": "Miffed Musk plans Apple lawsuit",
-            "url": "https://www.bostonherald.com/2025/08/13/miffed-musk-plans-apple-lawsuit/",
-            "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/05/Trump_25119.jpg?w=1024&h=682",
-            "publishedAt": "2025-08-13T20:49:50Z"
-        },
-        {
-            "source": {
-                "id": "43ce1d937b6aed9ea231b649cb2b7b4b",
-                "name": "The Dallas Morning News",
-                "url": "https://www.dallasnews.com"
-            },
-            "title": "Elon Musk says he plans to sue Apple for not featuring X, Grok among its top apps",
-            "url": "https://www.dallasnews.com/business/technology/2025/08/13/elon-musk-says-he-plans-to-sue-apple-for-not-featuring-x-grok-among-its-top-apps/",
-            "urlToImage": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/FZMVFCIGN5CX3NE2SYTVGSUNLM.jpg?auth=d20551137190b9db59a4e665b8763922e5962ade5cbd0d414d8adb3762f928f0&quality=80&width=1200&height=630&smart=true",
-            "publishedAt": "2025-08-13T20:38:39Z"
         }
     ]
 }
