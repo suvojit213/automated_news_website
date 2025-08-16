@@ -1,5 +1,5 @@
 {
-    "lastUpdatedAt": "2025-08-16T05:15:10.579402Z",
+    "lastUpdatedAt": "2025-08-16T06:21:51.267786Z",
     "articles": [
         {
             "source": {
@@ -24,6 +24,18 @@
             "url": "https://www.dawn.com/news/1931184/us-senator-launches-probe-into-metas-ai-policies",
             "urlToImage": "https://www.dawn.com/_img/social-default.jpg",
             "publishedAt": "2025-08-16T02:13:08Z"
+        },
+        {
+            "source": {
+                "id": "1b40b878c09151e8cf44a095bc8569a5",
+                "name": "ETF Daily News",
+                "url": "https://www.etfdailynews.com",
+                "country": "us"
+            },
+            "title": "Cybersecurity Stocks To Consider - August 14th",
+            "url": "https://www.etfdailynews.com/2025/08/16/cybersecurity-stocks-to-consider-august-14th/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/google-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2025-08-16T01:54:45Z"
         },
         {
             "source": {
@@ -915,6 +927,24 @@
         },
         {
             "source": {
+                "name": "engadget"
+            },
+            "title": "iPhone 17 release is rumored for September: Here's what to know ahead of Apple's fall event",
+            "url": "https://www.engadget.com/mobile/smartphones/iphone-17-release-is-rumored-for-september-heres-what-to-know-ahead-of-apples-fall-event-153024327.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?client=19f2b5e49a271b2bde77&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-09%2Fb9a38080-756d-11ef-9fbd-6b990c391cf6&resize=1400%2C787&signature=080bcc4c3e8054983c2c84d47c03dfb4a98a6774",
+            "publishedAt": "2025-08-15 18:05:35"
+        },
+        {
+            "source": {
+                "name": "wired"
+            },
+            "title": "Developers Say GPT-5 Is a Mixed Bag",
+            "url": "https://www.wired.com/story/gpt-5-coding-review-software-engineering/",
+            "urlToImage": "https://media.wired.com/photos/689a19ecddceece04e84fa2f/3:4/w_120,c_limit/chatgpt5-hate-biz-2228998627-1193951547.jpg",
+            "publishedAt": "2025-08-15 17:47:49"
+        },
+        {
+            "source": {
                 "name": "zdnet"
             },
             "title": "How to clear your TV cache (and why it greatly improves performance)",
@@ -930,6 +960,15 @@
             "url": "https://gizmodo.com/open-sourced-ai-models-may-be-more-costly-in-the-long-run-study-finds-2000643685",
             "urlToImage": "https://gizmodo.com/app/uploads/2024/10/CharacterAI.jpg",
             "publishedAt": "2025-08-15 16:00:24"
+        },
+        {
+            "source": {
+                "name": "toi"
+            },
+            "title": "Teaching AI sustainably: How Business schools are preparing students without compromising ethics or the planet",
+            "url": "https://timesofindia.indiatimes.com/blogs/bluesky-thinking/teaching-ai-sustainably-how-business-schools-are-preparing-students-without-compromising-ethics-or-the-planet/",
+            "urlToImage": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2024/05/clip_image001.jpg",
+            "publishedAt": "2025-08-15 15:26:54"
         },
         {
             "source": {
@@ -3126,50 +3165,6 @@
             "url": "https://sg.news.yahoo.com/google-spend-9-billion-oklahoma-202436730.html?guce_referrer=aHR0cHM6Ly9zZy5uZXdzLnlhaG9vLmNvbS8_Z3VjY291bnRlcj0x&guce_referrer_sig=AQAAACz2MiLptdDwNuHl20QcnnphkyjKDsOg-5DyVWWDpv8f2lxxsyW06FqIpDwL0IJ0XrbBfovUB5VAT7Ea70W2lbEmYCyUoYseIAU3wiGHitxPL-Mt0vySXBLvZLUIHwaTEspeCKvVzv6pKqQt942x31ISoGKXIo5JbdSOAipC2t_u&guccounter=2",
             "urlToImage": "https://media.zenfs.com/en/reuters.com/803247e2ef882f3f467e395f56cfaa62",
             "publishedAt": "2025-08-13T20:24:36Z"
-        },
-        {
-            "source": {
-                "id": "f6d6ee1134197fe1441d65a3e7915835",
-                "name": "Yahoo Singapore News",
-                "url": "https://sg.news.yahoo.com"
-            },
-            "title": "Google to spend $9 billion in Oklahoma to expand AI, cloud infrastructure",
-            "url": "https://sg.news.yahoo.com/google-spend-9-billion-oklahoma-202436730.html",
-            "urlToImage": "https://media.zenfs.com/en/reuters.com/803247e2ef882f3f467e395f56cfaa62",
-            "publishedAt": "2025-08-13T20:24:36Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com"
-            },
-            "title": "Cisco forecasts higher-than-expected quarterly revenue on increased demand",
-            "url": "https://www.reuters.com/business/cisco-forecasts-higher-than-expected-quarterly-revenue-increased-demand-2025-08-13/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/CDVY533VPFMJJKMY5MTVPQ4KIQ.jpg?auth=eed2f5ad8ba0dd17c25a8171fc89d350f98c05134ba86afd18a073a082090da6&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-08-13T20:12:33Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com"
-            },
-            "title": "Markets Wait for Impact of US Deals With Nvidia, AMD",
-            "url": "https://www.bloomberg.com/news/videos/2025-08-13/markets-wait-for-impact-of-us-deals-with-nvidia-amd-video",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8l5Ai3ilK_g/v3/-1x-1.jpg",
-            "publishedAt": "2025-08-13T19:28:34Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com"
-            },
-            "title": "Apple's New Plan for Artificial Intelligence",
-            "url": "https://www.bloomberg.com/news/videos/2025-08-13/apple-s-new-plan-for-artificial-intelligence-video",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iMTelY9oVlUo/v3/-1x-1.jpg",
-            "publishedAt": "2025-08-13T19:20:46Z"
         }
     ]
 }
