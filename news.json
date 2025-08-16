@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-08-15T23:15:10.610023Z",
+    "lastUpdatedAt": "2025-08-16T01:14:18.313818Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Meta plans fourth restructuring of AI efforts in six months, The Information reports",
+            "url": "https://www.reuters.com/business/meta-plans-fourth-restructuring-ai-efforts-six-months-information-reports-2025-08-15/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/AWZGD2Q57RK75NCU2DIV5QJO5M.jpg?auth=b7fd651811651bb7581ddd287f3f8bbfa28f54b7d56ca873b7dcf4dcd6f52e72&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-08-15T22:34:21Z"
+        },
         {
             "source": {
                 "id": "8e9ab8327c5f7903cc1b50470411d165",
@@ -864,6 +876,87 @@
             "url": "https://sg.news.yahoo.com/youtube-turns-ai-spot-children-001736495.html",
             "urlToImage": "https://media.zenfs.com/en/afp.com.sg/4f393250ec393bb347341ad9c80f7e66",
             "publishedAt": "2025-08-15T00:17:36Z"
+        },
+        {
+            "source": {
+                "name": "ibtimes"
+            },
+            "title": "Revolutionizing Digital Content Creation: SkyReels Leads a New Era of Online Digital Entertainment",
+            "url": "https://www.ibtimes.com/revolutionizing-digital-content-creation-skyreels-leads-new-era-online-digital-entertainment-3780698",
+            "urlToImage": "https://d.ibtimes.com/en/full/4615628/skywork.jpg",
+            "publishedAt": "2025-08-15 13:00:06"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "The Future Of Banking: Emerging Tech To Redefine Digital Experiences",
+            "url": "https://www.forbes.com/sites/forrester/2025/08/15/the-future-of-banking-emerging-tech-to-redefine-digital-experiences/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/689e2850d5c60b849941d43a/0x0.png?width=960",
+            "publishedAt": "2025-08-15 13:00:00"
+        },
+        {
+            "source": {
+                "name": "theverge"
+            },
+            "title": "GPT-5 failed the hype test",
+            "url": "https://www.theverge.com/openai/759755/gpt-5-failed-the-hype-test-sam-altman-openai",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?crop=0%2C10.732984293194%2C100%2C78.534031413613&quality=90&strip=all&w=1200",
+            "publishedAt": "2025-08-15 12:47:40"
+        },
+        {
+            "source": {
+                "name": "news_ualr"
+            },
+            "title": "McCauley Honored with Charles Moran Award for Digital Writing and Instruction Research",
+            "url": "https://ualr.edu/news/2025/08/15/charles-moran-award/",
+            "urlToImage": "https://ualr.edu/news/wp-content/uploads/sites/240/2025/07/Heidi.jpg",
+            "publishedAt": "2025-08-15 12:45:00"
+        },
+        {
+            "source": {
+                "name": "gamesindustry"
+            },
+            "title": "Studio Atelico raises $5 million to build AI-first games studio",
+            "url": "https://www.gamesindustry.biz/studio-atelico-raises-5-million-to-build-ai-first-games-studio",
+            "urlToImage": "https://assetsio.gnwcdn.com/StudioAtelicoTeam.jpg?auto=webp&format=jpg&quality=70&width=690",
+            "publishedAt": "2025-08-15 12:41:33"
+        },
+        {
+            "source": {
+                "name": "pcgamer"
+            },
+            "title": "Valve says Steam's performance monitor should now report GPU utilisation more accurately than Task Manager in the latest beta, and as a nerd, this pleases me in ways I can't describe",
+            "url": "https://www.pcgamer.com/hardware/graphics-cards/valve-says-steams-performance-monitor-should-now-report-gpu-utilisation-more-accurately-than-task-manager-in-the-latest-beta-and-as-a-nerd-this-pleases-me-in-ways-i-cant-describe/",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/ZEXWSWXttHRF2ny4nQAhde-1280-80.jpg",
+            "publishedAt": "2025-08-15 12:17:01"
+        },
+        {
+            "source": {
+                "name": "pcgamer"
+            },
+            "title": "Synth YouTuber releases twin-stick shooter with interactive soundtrack using moddable synthesizer weapon based on real kit",
+            "url": "https://www.pcgamer.com/hardware/synth-youtuber-releases-twin-stick-shooter-with-interactive-soundtrack-using-moddable-synthesizer-weapon-based-on-real-kit/",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/PWKAgMhrqCVAzmi7nQGRQ3-1280-80.jpg",
+            "publishedAt": "2025-08-15 12:06:12"
+        },
+        {
+            "source": {
+                "name": "newscientist"
+            },
+            "title": "We have detected a single electron with unprecedented speed",
+            "url": "https://www.newscientist.com/article/2492571-we-have-detected-a-single-electron-with-unprecedented-speed/",
+            "urlToImage": "https://images.newscientist.com/wp-content/uploads/2025/08/14155417/SEI_262096574.jpg",
+            "publishedAt": "2025-08-15 12:00:58"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Microservices: Is It Worth the Trouble?",
+            "url": "https://hackernoon.com/microservices-is-it-worth-the-trouble",
+            "urlToImage": "https://hackernoon.imgix.net/images/qEqqsrEo9OXztwGhskiyHZTgPZt1-n3039pv.jpeg",
+            "publishedAt": "2025-08-15 12:00:04"
         },
         {
             "source": {
@@ -3094,116 +3187,6 @@
             "url": "https://www.manilatimes.net/2025/08/14/business/foreign-business/chinas-tencent-beats-q2-revenue-forecasts-as-gaming-ai-fuel-growth/2167288",
             "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
             "publishedAt": "2025-08-13T16:08:00Z"
-        },
-        {
-            "source": {
-                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
-                "name": "TechStartups.com",
-                "url": "https://techstartups.com"
-            },
-            "title": "AI chip startup Rivos seeks up to $500 million in funding to take on Nvidia",
-            "url": "https://techstartups.com/2025/08/13/ai-chip-startup-rivos-seeks-up-to-500-million-in-funding-to-take-on-nvidia/",
-            "urlToImage": "https://techstartups.com/wp-content/uploads/2025/08/Rivos-Team.jpg",
-            "publishedAt": "2025-08-13T15:59:10Z"
-        },
-        {
-            "source": {
-                "id": "4c8b69bf547b577f84acbba5157b439c",
-                "name": "RTE.ie",
-                "url": "https://www.rte.ie"
-            },
-            "title": "Chris O'Dowd joins OpenAI film Artificial",
-            "url": "https://www.rte.ie/entertainment/2025/0813/1528290-chris-odowd-joins-openai-film-artificial/",
-            "urlToImage": "https://www.rte.ie/images/00230482-1600.jpg",
-            "publishedAt": "2025-08-13T15:20:22Z"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com"
-            },
-            "title": "CoreWeave drops 14% on wider-than-expected loss ahead of lockup expiry",
-            "url": "https://www.cnbc.com/2025/08/13/coreweave-stock-loss-lockup.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108122996-17431838782025-03-28t174351z_436556732_rc2emdaff7p1_rtrmadp_0_coreweave-ipo.jpeg?v=1743439739&w=1920&h=1080",
-            "publishedAt": "2025-08-13T14:34:37Z"
-        },
-        {
-            "source": {
-                "id": "dcc4f4c6eb081eb8a9ee9cca215517f5",
-                "name": "Tom's Guide",
-                "url": "https://www.tomsguide.com"
-            },
-            "title": "Keeping your student safe online: essential cybersecurity tips for parents",
-            "url": "https://www.tomsguide.com/computing/online-security/keeping-your-student-safe-online-essential-cybersecurity-tips-for-parents",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/rupAiVVa6MjJWNk4GChieX.jpg",
-            "publishedAt": "2025-08-13T14:30:57Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net"
-            },
-            "title": "61% of Cybersecurity Professionals Plan AI Adoption as Manufacturing Faces Growing Cyber Risks",
-            "url": "https://www.manilatimes.net/2025/08/13/tmt-newswire/pr-newswire/61-of-cybersecurity-professionals-plan-ai-adoption-as-manufacturing-faces-growing-cyber-risks/2167295",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/13/712068.jpg",
-            "publishedAt": "2025-08-13T14:20:33Z"
-        },
-        {
-            "source": {
-                "id": "01558c024928d45cf320f6f75eede787",
-                "name": "The Guardian",
-                "url": "https://www.theguardian.com"
-            },
-            "title": "Is AI going to steal your job? Not if you work in cleaning, construction or hospitality, Australian report finds",
-            "url": "https://www.theguardian.com/business/2025/aug/14/ai-artificial-intelligence-jobs-cleaning-construction-hospitality-australian-report",
-            "urlToImage": "https://i.guim.co.uk/img/media/b9fdf82385da7b779e55bdecca43fdc1e98d5213/811_0_3747_3000/master/3747.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6f4bfbcda418fbbf554e03860106788a",
-            "publishedAt": "2025-08-13T14:01:20Z"
-        },
-        {
-            "source": {
-                "id": "6fea3ee012f060c6309366516e8d00be",
-                "name": "News-Medical.net",
-                "url": "https://www.news-medical.net"
-            },
-            "title": "AI breakthrough designs peptide drugs to target previously untreatable proteins",
-            "url": "https://www.news-medical.net/news/20250813/AI-breakthrough-designs-peptide-drugs-to-target-previously-untreatable-proteins.aspx",
-            "urlToImage": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-            "publishedAt": "2025-08-13T13:54:00Z"
-        },
-        {
-            "source": {
-                "id": "2b8e9cf94b4b7463c6aee33c1d6df71b",
-                "name": "Chicago Tribune",
-                "url": "https://www.chicagotribune.com"
-            },
-            "title": "Elon Musk says he plans to sue Apple for not featuring X or Grok among its top apps",
-            "url": "https://www.chicagotribune.com/2025/08/13/musk-sue-apple/",
-            "urlToImage": "https://www.chicagotribune.com/wp-content/uploads/2025/08/Australia_X_Corp_88975-1.jpg?w=1024&h=683",
-            "publishedAt": "2025-08-13T13:22:10Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net"
-            },
-            "title": "Cycurion, Inc. to Announce Q2 2025 Financial Results on August 14, 2025, Celebrating Key Strategic Achievements",
-            "url": "https://www.manilatimes.net/2025/08/13/tmt-newswire/globenewswire/cycurion-inc-to-announce-q2-2025-financial-results-on-august-14-2025-celebrating-key-strategic-achievements/2167217",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/13/711885.jpg",
-            "publishedAt": "2025-08-13T13:06:31Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com"
-            },
-            "title": "The old-school formula that’s beating modern AI cancer tools",
-            "url": "https://www.devdiscourse.com/article/technology/3537344-the-old-school-formula-thats-beating-modern-ai-cancer-tools",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/11_08_2025_17_17_48_7320908.webp?width=920&format=jpeg",
-            "publishedAt": "2025-08-13T12:59:42Z"
         }
     ]
 }
