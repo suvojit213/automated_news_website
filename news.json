@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-08-16T09:15:34.822779Z",
+    "lastUpdatedAt": "2025-08-16T10:14:46.988242Z",
     "articles": [
+        {
+            "source": {
+                "id": "26269dbc42635df9af8c24f3cdab8e37",
+                "name": "Cable News Network",
+                "url": "https://edition.cnn.com",
+                "country": "us"
+            },
+            "title": "Robots race, play football, crash and collapse at China’s ‘robot Olympics’",
+            "url": "https://edition.cnn.com/2025/08/16/sport/world-humanoid-robot-olympics-china-intl",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2230288274.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2025-08-16T09:36:53Z"
+        },
         {
             "source": {
                 "id": "1b40b878c09151e8cf44a095bc8569a5",
@@ -3147,17 +3159,6 @@
             "url": "https://www.wistv.com/2025/08/13/youtube-begin-testing-new-ai-powered-age-verification-system-us/",
             "urlToImage": "https://gray-wistv-prod.gtv-cdn.com/resizer/v2/YXFUDCRJYVBPJAAQBBY3KMDJCU.jpg?auth=30071b6634a6d3017911d03b111672c0075ea906ebb98f2164ae6d13624e7900&width=1200&height=600&smart=true",
             "publishedAt": "2025-08-13T21:13:20Z"
-        },
-        {
-            "source": {
-                "id": "17d7c2645f485578130862e0c8dd9480",
-                "name": "The Mercury News",
-                "url": "https://www.mercurynews.com"
-            },
-            "title": "Meta’s ‘superintelligence’ isn’t here yet. But its AI bets are already paying off",
-            "url": "https://www.mercurynews.com/2025/08/13/metas-superintelligence-isnt-here-yet-but-its-ai-bets-are-already-paying-off/",
-            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/06/Google_Meta_and_Snap_think_this_tech_is_the_next_big_thing2.jpg?w=1024&h=682",
-            "publishedAt": "2025-08-13T21:03:28Z"
         }
     ]
 }
