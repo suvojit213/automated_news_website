@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-08-16T01:14:18.313818Z",
+    "lastUpdatedAt": "2025-08-16T03:11:36.515276Z",
     "articles": [
+        {
+            "source": {
+                "id": "6b8b6fae575a37200ef9ef50109518f5",
+                "name": "Screen Rant",
+                "url": "https://screenrant.com",
+                "country": "us"
+            },
+            "title": "Mr. Robot's Hacking Accuracy Impresses Cybersecurity Expert Keren Elazari",
+            "url": "https://screenrant.com/mr-robot-show-accuracy-expert-response-hacking-cybersecurity/",
+            "urlToImage": "https://static1.srcdn.com/wordpress/wp-content/uploads/2025/07/elliot-in-mr-robot.jpg",
+            "publishedAt": "2025-08-16T02:38:16Z"
+        },
+        {
+            "source": {
+                "id": "6536182115f7e8188f38d864bab0e1c6",
+                "name": "DAWN.com",
+                "url": "https://www.dawn.com",
+                "country": "pk"
+            },
+            "title": "US senator launches probe into Meta’s AI policies",
+            "url": "https://www.dawn.com/news/1931184/us-senator-launches-probe-into-metas-ai-policies",
+            "urlToImage": "https://www.dawn.com/_img/social-default.jpg",
+            "publishedAt": "2025-08-16T02:13:08Z"
+        },
         {
             "source": {
                 "id": "da5c26287bdd02563a2c32b55cb12051",
@@ -876,6 +900,69 @@
             "url": "https://sg.news.yahoo.com/youtube-turns-ai-spot-children-001736495.html",
             "urlToImage": "https://media.zenfs.com/en/afp.com.sg/4f393250ec393bb347341ad9c80f7e66",
             "publishedAt": "2025-08-15T00:17:36Z"
+        },
+        {
+            "source": {
+                "name": "techtarget"
+            },
+            "title": "What's going on with Nvidia stock and the booming AI market?",
+            "url": "https://www.techtarget.com/whatis/feature/Whats-going-on-with-Nvidia-stock-and-the-booming-AI-market",
+            "urlToImage": "https://www.techtarget.com/rms/onlineimages/toolGearArrow_g140057613_searchsitetablet_520X173.jpg",
+            "publishedAt": "2025-08-15 14:51:00"
+        },
+        {
+            "source": {
+                "name": "cyclingnews"
+            },
+            "title": "Trek Ion 200 RT / Flare RT light set review: Brilliant for daytime running, provided you can mount them neatly",
+            "url": "https://www.cyclingnews.com/reviews/trek-ion-200-flare-rt-light-set-review/",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/bcMCgcLQxPpB4rPgSYJg8B.jpg",
+            "publishedAt": "2025-08-15 14:35:59"
+        },
+        {
+            "source": {
+                "name": "geeky_gadgets"
+            },
+            "title": "Debian 13 (Trixie) Released : Rock-Solid Linux Upgrade with Plenty of New Tricks",
+            "url": "https://www.geeky-gadgets.com/debian-13-trixie-released/",
+            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/08/debian-13-risc-v-support-explained.webp",
+            "publishedAt": "2025-08-15 14:14:11"
+        },
+        {
+            "source": {
+                "name": "space"
+            },
+            "title": "Meet 'lite intermediate black holes,' the supermassive black hole's smaller, much more mysterious cousin",
+            "url": "https://www.space.com/astronomy/black-holes/meet-lite-intermediate-black-holes-the-supermassive-black-holes-smaller-much-more-mysterious-cousin",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/AdMmeecbEFavvUYihV3X58-1280-80.jpg",
+            "publishedAt": "2025-08-15 14:00:00"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "Is a refurbished MacBook viable in 2025? I did the math, and here's my expert advice",
+            "url": "https://www.zdnet.com/article/is-a-refurbished-macbook-viable-in-2025-i-did-the-math-and-heres-my-expert-advice/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/d1b5dc3f9b55ccc6eecc76e47a0d2843eb75dcb0/2025/08/05/fc8d13ae-7d61-4d58-9bc0-f16990ebe02a/img-3247.jpg?auto=webp&width=1280",
+            "publishedAt": "2025-08-15 13:39:00"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "How much RAM do you really need in 2025?",
+            "url": "https://www.zdnet.com/article/how-much-ram-do-you-really-need-in-2025/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/889c11e5ed1f06a39597edf003641d5a9e9fe80e/2025/08/05/f6af32b9-8c55-41b9-b79c-51b1d4f7a1cb/img-3246.jpg?auto=webp&width=1280",
+            "publishedAt": "2025-08-15 13:23:00"
+        },
+        {
+            "source": {
+                "name": "organiser"
+            },
+            "title": "Semiconductors, space docking, quantum hubs: PM Modi hails year of technology Atma-Nirbharta",
+            "url": "https://organiser.org/2025/08/15/308332/bharat/semiconductors-space-docking-quantum-hubs-pm-modi-hails-year-of-technology-atma-nirbharta/",
+            "urlToImage": "https://organiser.org/wp-content/uploads/2025/08/6affs7m4_pm-modi-_625x300_15_august_25.webp",
+            "publishedAt": "2025-08-15 13:15:32"
         },
         {
             "source": {
@@ -3088,105 +3175,6 @@
             "url": "https://www.breitbart.com/entertainment/2025/08/13/runway-ai-founder-on-how-hollywood-studios-are-about-to-become-radically-different-animation-will-go-from-weeks-to-seconds/",
             "urlToImage": "https://media.breitbart.com/media/2025/08/toy-story-640x335.jpg",
             "publishedAt": "2025-08-13T17:37:43Z"
-        },
-        {
-            "source": {
-                "id": "26269dbc42635df9af8c24f3cdab8e37",
-                "name": "Cable News Network",
-                "url": "https://edition.cnn.com"
-            },
-            "title": "YouTube will start using AI to guess your age. If it’s wrong, you’ll have to prove it",
-            "url": "https://edition.cnn.com/2025/08/13/tech/youtube-ai-age-verification",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2216340217.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2025-08-13T17:11:15Z"
-        },
-        {
-            "source": {
-                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-                "name": "New York Post",
-                "url": "https://nypost.com"
-            },
-            "title": "Hertz customers can fight AI damage scanners using these apps",
-            "url": "https://nypost.com/2025/08/13/business/hertz-customers-can-fight-ai-damage-scanners-using-these-apps/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/08/109543629.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2025-08-13T17:07:27Z"
-        },
-        {
-            "source": {
-                "id": "77b86639d1384ac68141803ec5db27c0",
-                "name": "NBC News",
-                "url": "https://www.nbcnews.com"
-            },
-            "title": "What happens when chatbots shape your reality? Concerns are growing online",
-            "url": "https://www.nbcnews.com/tech/tech-news/ai-chatbots-concerns-kendra-tiktok-saga-rcna224185",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250811-kendra-psychiatrist-tiktok-chatgpt-cs-cb43ff.jpg",
-            "publishedAt": "2025-08-13T17:00:00Z"
-        },
-        {
-            "source": {
-                "id": "78418562a6b9d27319eabd2d664f4357",
-                "name": "Space.com",
-                "url": "https://www.space.com"
-            },
-            "title": "AI helps astronomers make a potentially major find - an exploding star being attacked by a black hole",
-            "url": "https://www.space.com/technology/ai-helps-astronomers-make-a-potentially-major-find-an-exploding-star-being-attacked-by-a-black-hole",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/XSdXQn4KYNitBi7EvKy3K4.jpg",
-            "publishedAt": "2025-08-13T17:00:00Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com"
-            },
-            "title": "Fleet-Tracking Startup Motive Said to Pick JPMorgan for US IPO",
-            "url": "https://www.bloomberg.com/news/articles/2025-08-13/fleet-tracking-startup-motive-said-to-pick-jpmorgan-for-us-ipo",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iw9IjjBh9mQA/v1/1200x800.jpg",
-            "publishedAt": "2025-08-13T16:42:10Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net"
-            },
-            "title": "AI starts performing entry-level work",
-            "url": "https://www.manilatimes.net/2025/08/14/business/top-business/ai-starts-performing-entry-level-work/2167317",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/13/712130.jpg",
-            "publishedAt": "2025-08-13T16:16:00Z"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com"
-            },
-            "title": "Cisco earnings are out Wednesday. What top analysts expect to see",
-            "url": "https://www.cnbc.com/2025/08/13/cisco-earnings-are-out-wednesday-heres-what-top-analysts-expect-to-see.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107373934-1707951626069-gettyimages-1999041241-js2_9788_fus9e4e4.jpeg?v=1755024725&w=1920&h=1080",
-            "publishedAt": "2025-08-13T16:12:37Z"
-        },
-        {
-            "source": {
-                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-                "name": "Benzinga",
-                "url": "https://www.benzinga.com"
-            },
-            "title": "Tom Lee: Ethereum Is 'The Biggest Macro Trade' For The Next 10-15 Years",
-            "url": "https://www.benzinga.com/crypto/cryptocurrency/25/08/47097463/tom-lee-ethereum-is-the-biggest-macro-trade-for-the-next-10-15-years",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/08/13/Ethereum-Coin.jpeg?width=1200&height=800&fit=crop",
-            "publishedAt": "2025-08-13T16:08:12Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net"
-            },
-            "title": "China’s Tencent beats Q2 revenue forecasts as gaming, AI fuel growth",
-            "url": "https://www.manilatimes.net/2025/08/14/business/foreign-business/chinas-tencent-beats-q2-revenue-forecasts-as-gaming-ai-fuel-growth/2167288",
-            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-            "publishedAt": "2025-08-13T16:08:00Z"
         }
     ]
 }
