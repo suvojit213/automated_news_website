@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-08-17T08:19:44.914251Z",
+    "lastUpdatedAt": "2025-08-17T09:15:26.271406Z",
     "articles": [
+        {
+            "source": {
+                "id": "77b86639d1384ac68141803ec5db27c0",
+                "name": "NBC News",
+                "url": "https://www.nbcnews.com",
+                "country": "us"
+            },
+            "title": "The era of AI hacking has arrived",
+            "url": "https://www.nbcnews.com/tech/security/era-ai-hacking-arrived-rcna224282",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/230217-stock-solo-computer-ew-954a-6e6d27-5d340e.jpg",
+            "publishedAt": "2025-08-17T09:00:00Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "Output growth forecast for Taiwan semiconductors increased",
+            "url": "https://www.livemint.com/market/stock-market-news/output-growth-forecast-for-taiwan-semiconductors-increased-11755420334010.html",
+            "urlToImage": "https://images.livemint.com/img/2018/12/28/1600x900/Market_-_stocks_1545996587096.jpg",
+            "publishedAt": "2025-08-17T08:45:33Z"
+        },
         {
             "source": {
                 "id": "e9207083a357fb7e76b38e485888ebe7",
@@ -444,6 +468,15 @@
             "url": "https://www.etfdailynews.com/2025/08/16/cybersecurity-stocks-to-consider-august-14th/",
             "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/google-inc-logo-1200x675.png&w=240&h=240&zc=2",
             "publishedAt": "2025-08-16T01:54:45Z"
+        },
+        {
+            "source": {
+                "name": "9to5mac"
+            },
+            "title": "Security Bite: Mac.c is shaking up the macOS infostealer market, rivaling AMOS",
+            "url": "https://9to5mac.com/2025/08/16/security-bite-mac-c-is-shaking-up-the-macos-infostealer-market-rivaling-amos/",
+            "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2025/01/Security-Bite-Matrix-Hack.png?w=1600",
+            "publishedAt": "2025-08-16 20:30:48"
         },
         {
             "source": {
@@ -3204,33 +3237,6 @@
             "url": "https://www.tomsguide.com/computing/mobile-apps/google-photos-just-got-a-huge-ai-upgrade-with-remix-heres-what-you-can-do-now",
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/25KPpnoTVnW3wta5NGRfum-1280-80.jpg",
             "publishedAt": "2025-08-14 14:40:15"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "Could Poor AI Literacy Cause Bad Personal Decisions?",
-            "url": "https://www.forbes.com/sites/marshallshepherd/2025/08/14/could-poor-ai-literacy-cause-bad-personal-decisions/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/689de3d5cf859a471348f776/0x0.jpg?width=960",
-            "publishedAt": "2025-08-14 13:32:31"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "OpenAI’s Latest Model Is Attempting To Become A Medical Thought-Partner",
-            "url": "https://www.forbes.com/sites/saibala/2025/08/14/openais-latest-model-is-attempting-to-become-a-medical-thought-partner/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/689d2789352e419ae6cdc7e7/0x0.jpg?width=960",
-            "publishedAt": "2025-08-14 13:30:00"
-        },
-        {
-            "source": {
-                "name": "postregister"
-            },
-            "title": "VERSES® Unveils Robotics Architecture that Works Without Pre-Training",
-            "url": "https://www.postregister.com/businessreport/technology/verses-unveils-robotics-architecture-that-works-without-pre-training/article_7f54c126-daf5-5cc3-971d-21826601b4bb.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
-            "publishedAt": "2025-08-14 13:16:19"
         }
     ]
 }
