@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-08-17T19:11:52.304568Z",
+    "lastUpdatedAt": "2025-08-17T20:16:54.747918Z",
     "articles": [
+        {
+            "source": {
+                "id": "c73f76bea6ea26fd91e89543599bb29b",
+                "name": "WebProNews",
+                "url": "https://www.webpronews.com",
+                "country": "us"
+            },
+            "title": "Accenture Acquires CyberCX for Over A$1B to Boost APAC Cybersecurity",
+            "url": "https://www.webpronews.com/accenture-acquires-cybercx-for-over-a1b-to-boost-apac-cybersecurity/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-fdd4260a-6bc7-4bdf-97b2-c733cdc36d90.jpeg",
+            "publishedAt": "2025-08-17T19:59:24Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Building trust and confidence for agentic Artificial Intelligence",
+            "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/building-trust-and-confidence-for-agentic-artificial-intelligence/articleshow/123351246.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-123351252,width-1200,height-630,imgsize-11258,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-08-17T19:28:00Z"
+        },
         {
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -360,6 +384,15 @@
             "url": "https://www.etfdailynews.com/2025/08/17/themes-generative-artificial-intelligence-etf-nasdaqwise-short-interest-update/",
             "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/themes-generative-artificial-intelligence-etf-logo-1200x675.png?v=20250312115211&w=240&h=240&zc=2",
             "publishedAt": "2025-08-17T01:58:51Z"
+        },
+        {
+            "source": {
+                "name": "livemint"
+            },
+            "title": "Sam Altman says OpenAI has better AI models than GPT-5, but it can’t release them yet. Here’s why",
+            "url": "https://www.livemint.com/technology/tech-news/sam-altman-says-openai-has-better-ai-models-than-gpt-5-but-it-can-t-release-them-yet-here-s-why-11755407918005.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2025/08/17/1600x900/ChatGPT-Vulnerable-Teens-0_1755416854740_1755416876479.jpg",
+            "publishedAt": "2025-08-17 07:54:12"
         },
         {
             "source": {
@@ -3279,33 +3312,6 @@
             "url": "https://www.newspressnow.com/news/2025/08/14/federal-courts-go-old-school-to-paper-filings-after-hack-to-key-system/",
             "urlToImage": "https://newspressnow.b-cdn.net/wp-content/uploads/2025/08/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWVidGRiZzIwMDAxM2I2bTUxbXI1d2Q3-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtZWJza2FkMzAwMXoyN3FtMG1yYzE2ZnY.jpg",
             "publishedAt": "2025-08-14 20:12:48"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "5 questions to ask yourself when buying a PC, from someone who reviews them for a living",
-            "url": "https://www.tomsguide.com/computing/desktop-computers/5-questions-to-ask-yourself-when-buying-a-pc-from-someone-who-reviews-them-for-a-living",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/rETTZ36WQa4Bvm9CFNXToc-1280-80.jpg",
-            "publishedAt": "2025-08-14 20:07:27"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "Vuzix Reports Second Quarter 2025 Results",
-            "url": "https://www.prnewswire.com/news-releases/vuzix-reports-second-quarter-2025-results-302530495.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2679228/Vuzix_Logo.jpg?p=original",
-            "publishedAt": "2025-08-14 20:05:00"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "Quantum Computing Inc. Reports Second Quarter 2025 Financial Results",
-            "url": "https://www.prnewswire.com/news-releases/quantum-computing-inc-reports-second-quarter-2025-financial-results-302530562.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2394104/Quantum_Computing_Logo_V1.jpg?p=original",
-            "publishedAt": "2025-08-14 20:05:00"
         }
     ]
 }
