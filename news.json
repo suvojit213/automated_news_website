@@ -1,5 +1,5 @@
 {
-    "lastUpdatedAt": "2025-08-18T22:13:46.234169Z",
+    "lastUpdatedAt": "2025-08-18T23:14:32.649533Z",
     "articles": [
         {
             "source": {
@@ -27,6 +27,18 @@
         },
         {
             "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Palo Alto's forecasts signal AI boost for cybersecurity tools, shares rise",
+            "url": "https://www.reuters.com/business/palo-altos-forecasts-signal-ai-boost-cybersecurity-tools-shares-rise-2025-08-18/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/BSTCB23ZNNLZRCOGXAUYPR7OYI.jpg?auth=79738596597cdff64c01efdc9c9e26ecb37c637ec491baa9653256850a2b4596&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-08-18T21:17:08Z"
+        },
+        {
+            "source": {
                 "id": "11d4381a1e8f7aca7628d0319a52a040",
                 "name": "Japan Today",
                 "url": "https://japantoday.com",
@@ -46,6 +58,18 @@
             },
             "title": "Exclusive: Arm hires Amazon AI chip director to aid in-house effort",
             "url": "https://www.reuters.com/business/retail-consumer/arm-hires-amazon-ai-chip-director-aid-in-house-effort-2025-08-18/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/JTW4U3XT3RIWZBBV7Q46NCFTDE.jpg?auth=9c211c974056fecb24322e1f764c185ac071a14835e6a63ac995b0555946f91f&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-08-18T20:29:58Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Exclusive: Arm hires Amazon AI exec to boost plans to build its own chips",
+            "url": "https://www.reuters.com/business/retail-consumer/arm-hires-amazon-ai-exec-boost-plans-build-its-own-chips-2025-08-18/",
             "urlToImage": "https://www.reuters.com/resizer/v2/JTW4U3XT3RIWZBBV7Q46NCFTDE.jpg?auth=9c211c974056fecb24322e1f764c185ac071a14835e6a63ac995b0555946f91f&height=1005&width=1920&quality=80&smart=true",
             "publishedAt": "2025-08-18T20:29:58Z"
         },
@@ -912,6 +936,42 @@
             "url": "https://www.forbes.com/sites/adamsarhan/2025/08/18/palo-alto-networks-earnings-preview-cybersecurity--ai-focus/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68a32a45757a116cac387dd3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-08-18T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "arstechnica"
+            },
+            "title": "Ars Technica System Guide: Four sample PC builds, from $500 to $5,000",
+            "url": "https://arstechnica.com/gadgets/2025/08/ars-technica-system-guide-back-to-pc-building-for-back-to-school/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/IMG_2568-1152x648.jpeg",
+            "publishedAt": "2025-08-18 11:00:25"
+        },
+        {
+            "source": {
+                "name": "hackaday"
+            },
+            "title": "Sniffing 5G with Software-Defined Radio",
+            "url": "https://hackaday.com/2025/08/18/sniffing-5g-with-software-defined-radio/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2016/04/cell-tower.jpg",
+            "publishedAt": "2025-08-18 11:00:11"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Best Crypto to Buy in August 2025 as New Crypto Coins Gain Ground on Established Market Leaders",
+            "url": "https://www.analyticsinsight.net/cryptocurrency-analytics-insight/best-crypto-to-buy-in-august-2025-as-new-crypto-coins-gain-ground-on-established-market-leaders",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-08-18%2Foqg6qyw7%2FBest-Crypto-to-Buy-Now.png?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-08-18 10:52:15"
+        },
+        {
+            "source": {
+                "name": "checkpoint_research"
+            },
+            "title": "18th August – Threat Intelligence Report",
+            "url": "https://research.checkpoint.com/2025/18th-august-threat-intelligence-report/",
+            "urlToImage": "https://research.checkpoint.com/wp-content/uploads/2022/02/cpr_socialTWITTER_WeeklyIntelligenceReportHero.jpg",
+            "publishedAt": "2025-08-18 10:17:07"
         },
         {
             "source": {
@@ -3300,60 +3360,6 @@
             "url": "https://ualr.edu/news/2025/08/15/charles-moran-award/",
             "urlToImage": "https://ualr.edu/news/wp-content/uploads/sites/240/2025/07/Heidi.jpg",
             "publishedAt": "2025-08-15 12:45:00"
-        },
-        {
-            "source": {
-                "name": "gamesindustry"
-            },
-            "title": "Studio Atelico raises $5 million to build AI-first games studio",
-            "url": "https://www.gamesindustry.biz/studio-atelico-raises-5-million-to-build-ai-first-games-studio",
-            "urlToImage": "https://assetsio.gnwcdn.com/StudioAtelicoTeam.jpg?auto=webp&format=jpg&quality=70&width=690",
-            "publishedAt": "2025-08-15 12:41:33"
-        },
-        {
-            "source": {
-                "name": "pcgamer"
-            },
-            "title": "Valve says Steam's performance monitor should now report GPU utilisation more accurately than Task Manager in the latest beta, and as a nerd, this pleases me in ways I can't describe",
-            "url": "https://www.pcgamer.com/hardware/graphics-cards/valve-says-steams-performance-monitor-should-now-report-gpu-utilisation-more-accurately-than-task-manager-in-the-latest-beta-and-as-a-nerd-this-pleases-me-in-ways-i-cant-describe/",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/ZEXWSWXttHRF2ny4nQAhde-1280-80.jpg",
-            "publishedAt": "2025-08-15 12:17:01"
-        },
-        {
-            "source": {
-                "name": "pcgamer"
-            },
-            "title": "Synth YouTuber releases twin-stick shooter with interactive soundtrack using moddable synthesizer weapon based on real kit",
-            "url": "https://www.pcgamer.com/hardware/synth-youtuber-releases-twin-stick-shooter-with-interactive-soundtrack-using-moddable-synthesizer-weapon-based-on-real-kit/",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/PWKAgMhrqCVAzmi7nQGRQ3-1280-80.jpg",
-            "publishedAt": "2025-08-15 12:06:12"
-        },
-        {
-            "source": {
-                "name": "newscientist"
-            },
-            "title": "We have detected a single electron with unprecedented speed",
-            "url": "https://www.newscientist.com/article/2492571-we-have-detected-a-single-electron-with-unprecedented-speed/",
-            "urlToImage": "https://images.newscientist.com/wp-content/uploads/2025/08/14155417/SEI_262096574.jpg",
-            "publishedAt": "2025-08-15 12:00:58"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Microservices: Is It Worth the Trouble?",
-            "url": "https://hackernoon.com/microservices-is-it-worth-the-trouble",
-            "urlToImage": "https://hackernoon.imgix.net/images/qEqqsrEo9OXztwGhskiyHZTgPZt1-n3039pv.jpeg",
-            "publishedAt": "2025-08-15 12:00:04"
-        },
-        {
-            "source": {
-                "name": "cnet"
-            },
-            "title": "Velocity Raptor Z95A Gaming PC Shows What Leaving It to the Pros Looks Like",
-            "url": "https://www.cnet.com/tech/computing/velocity-raptor-z95a-gaming-pc-shows-what-leaving-it-to-the-pros-looks-like/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/659aae7c46839f68de784daba8e277a1c5f66c12/hub/2025/08/14/fcc6d8d8-3860-4a0e-9de5-38b0e8cd5bd4/velocity-micro-raptor-z95a-gaming-pc-1095667-edit.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-08-15 11:00:11"
         }
     ]
 }
