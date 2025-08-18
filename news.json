@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2025-08-18T16:20:37.709501Z",
+    "lastUpdatedAt": "2025-08-18T17:15:54.958934Z",
     "articles": [
+        {
+            "source": {
+                "id": "77b86639d1384ac68141803ec5db27c0",
+                "name": "NBC News",
+                "url": "https://www.nbcnews.com",
+                "country": "us"
+            },
+            "title": "OpenAI's Sam Altman sees AI bubble forming as industry spending surges",
+            "url": "https://www.nbcnews.com/business/business-news/openais-sam-altman-sees-ai-bubble-forming-industry-spending-surges-rcna225652",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-07/250729-sam-altman-ew-236p-3d394b.jpg",
+            "publishedAt": "2025-08-18T17:09:00Z"
+        },
+        {
+            "source": {
+                "id": "17d7c2645f485578130862e0c8dd9480",
+                "name": "The Mercury News",
+                "url": "https://www.mercurynews.com",
+                "country": "us"
+            },
+            "title": "For Silicon Valley, falling behind in AI is a bigger threat than tariffs",
+            "url": "https://www.mercurynews.com/2025/08/18/silicon-valley-falling-behind-artificial-intelligence/",
+            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/08/8216An_existential_threat8217_For_Silicon_Valley_falling_behind_in_AI_is_a_bigger_threat_than_tariffs1-1.jpg?w=1024&h=682",
+            "publishedAt": "2025-08-18T16:47:55Z"
+        },
+        {
+            "source": {
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
+                "country": "us"
+            },
+            "title": "OpenAI CEO Sam Altman warns of AI bubble, says investors are 'overexcited': report",
+            "url": "https://nypost.com/2025/08/18/business/openai-ceo-sam-altman-warns-of-ai-bubble-says-investors-are-overexcited-report/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/08/newspress-collage-rlljrkcgy-1755535352731.jpg?quality=75&strip=all&1755521065&w=1024",
+            "publishedAt": "2025-08-18T16:45:59Z"
+        },
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "How AI support can go wrong in safety-critical settings",
+            "url": "https://medicalxpress.com/news/2025-08-ai-wrong-safety-critical.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/how-ai-support-can-go.jpg",
+            "publishedAt": "2025-08-18T16:38:10Z"
+        },
+        {
+            "source": {
+                "id": "c73f76bea6ea26fd91e89543599bb29b",
+                "name": "WebProNews",
+                "url": "https://www.webpronews.com",
+                "country": "us"
+            },
+            "title": "AI Turns Cybersecurity into Arms Race: $10B Losses Loom",
+            "url": "https://www.webpronews.com/ai-turns-cybersecurity-into-arms-race-10b-losses-loom/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-1fe4ca68-e6a8-4d89-8ce3-cd1c4fdbfde6.jpeg",
+            "publishedAt": "2025-08-18T16:28:13Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Rethinking AI readiness of students",
+            "url": "https://www.manilatimes.net/2025/08/19/business/top-business/rethinking-ai-readiness-of-students/2169617",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/18/717708.jpg",
+            "publishedAt": "2025-08-18T16:11:00Z"
+        },
         {
             "source": {
                 "id": "85e5403407038478a5e7d8d100ff8e8f",
@@ -120,6 +192,18 @@
             "url": "https://www.baytoday.ca/business/securities-watchdog-ciro-shut-down-some-systems-after-cybersecurity-threat-found-11090183",
             "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/08/5222b0b3dfa4bda2e52d4f91fef4618f827e1b74c87b49b2cf54fd462d7af074.jpg;w=1200;h=800;mode=crop",
             "publishedAt": "2025-08-18T15:08:43Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Agent Factory: The Dawning of the Agentic AI Era",
+            "url": "https://economictimes.indiatimes.com/ai/ai-insights/agent-factory-the-dawning-of-the-agentic-ai-era/articleshow/123367721.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-123367720,width-1200,height-630,imgsize-2287870,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-08-18T15:02:00Z"
         },
         {
             "source": {
@@ -639,6 +723,15 @@
         },
         {
             "source": {
+                "name": "hackernoon"
+            },
+            "title": "Multi-Modal MCP Servers: Handling Files, Images, and Streaming Data",
+            "url": "https://hackernoon.com/multi-modal-mcp-servers-handling-files-images-and-streaming-data",
+            "urlToImage": "https://hackernoon.imgix.net/images/BtjpboAJojhsZer7SAIVzOYlpFn1-yc02zuk.jpeg",
+            "publishedAt": "2025-08-18 04:30:09"
+        },
+        {
+            "source": {
                 "name": "mit"
             },
             "title": "A shape-changing antenna for more versatile sensing and communication",
@@ -662,6 +755,15 @@
             "title": "Prediction: These 3 Artificial Intelligence (AI) Stocks Will Be Worth Over $10 Trillion by 2035",
             "url": "https://www.fool.com/investing/2025/08/18/prediction-these-3-artificial-intelligence-ai-stoc/",
             "urlToImage": "https://g.foolcdn.com/image/?h=400&op=resize&url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F829448%2Fwoman-digital-images-ai.jpg&w=400",
+            "publishedAt": "2025-08-18 00:00:00"
+        },
+        {
+            "source": {
+                "name": "techtarget"
+            },
+            "title": "What is application migration? Examples and best practices",
+            "url": "https://www.techtarget.com/searchcloudcomputing/definition/application-migration",
+            "urlToImage": "https://www.techtarget.com/rms/onlineImages/borgini_julia.jpg",
             "publishedAt": "2025-08-18 00:00:00"
         },
         {
@@ -3243,114 +3345,6 @@
             "url": "https://www.latimes.com/business/story/2025-08-14/metas-superintelligence-dream-team-will-be-management-challenge-of-the-century",
             "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/8a4345c/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fde%2F61%2F95704e1251798b1029fc009dce63%2F1x-1.jpg",
             "publishedAt": "2025-08-14T19:49:47Z"
-        },
-        {
-            "source": {
-                "id": "93e59eaaf800fc544a6df1a4fc5c0cdc",
-                "name": "Toronto Star",
-                "url": "https://www.thestar.com",
-                "country": "ca"
-            },
-            "title": "Unknown hackers target MPs and parliamentary staff",
-            "url": "https://www.thestar.com/politics/federal/unknown-hackers-target-mps-and-parliamentary-staff-in-cyberattack/article_f6219e32-4306-4443-bdfa-ad0214a9c87c.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/71/971f0fb9-baee-566a-8b6b-4b1b8b0b1675/689e3ec617211.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-            "publishedAt": "2025-08-14T19:45:00Z"
-        },
-        {
-            "source": {
-                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
-                "name": "ABC News",
-                "url": "https://www.abc.net.au",
-                "country": "au"
-            },
-            "title": "AI could be the government's productivity answer. But getting there will mean more disruption",
-            "url": "https://www.abc.net.au/news/2025-08-15/how-artificial-intelligence-could-threaten-jobs/105642364",
-            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/37dfaed8421afa354a7b5425f06bff22?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=267&width=862&height=485&imformat=generic",
-            "publishedAt": "2025-08-14T19:42:12Z"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            },
-            "title": "Tiger cub hedge fund Coatue Management unveils new position in Oracle, doubles down on AI buildout",
-            "url": "https://www.cnbc.com/2025/08/14/tiger-cub-hedge-fund-coatue-management-unveils-new-position-in-oracle-doubles-down-on-ai-buildout.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108063431-1731621281954-gettyimages-2158625326-BLOOMBERG_INVEST.jpeg?v=1755196245&w=1920&h=1080",
-            "publishedAt": "2025-08-14T19:31:41Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Apple Needs to Do an AI Acquisition, Says Dan Ives",
-            "url": "https://www.bloomberg.com/news/videos/2025-08-14/apple-needs-to-do-an-ai-acquisition-says-dan-ives-video",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHLiwkKl6rc8/v3/-1x-1.jpg",
-            "publishedAt": "2025-08-14T18:43:31Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Apple Looks to Regain Mojo With AI Robots, Lifelike Siri",
-            "url": "https://www.bloomberg.com/news/videos/2025-08-14/apple-looks-to-regain-mojo-with-ai-robots-lifelike-siri-video",
-            "urlToImage": "https://www.bloomberg.com/favicon-black.png",
-            "publishedAt": "2025-08-14T18:40:16Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Algorithmic truth: How artificial intelligence is redefining verification and credibility",
-            "url": "https://www.devdiscourse.com/article/technology/3538649-algorithmic-truth-how-artificial-intelligence-is-redefining-verification-and-credibility",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/12_08_2025_17_35_48_6377399.png?width=920&format=jpeg",
-            "publishedAt": "2025-08-14T18:27:54Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com",
-                "country": "ca"
-            },
-            "title": "AI company optimizes buildings with green energy",
-            "url": "https://www.cp24.com/news/money/2025/08/14/build-a-better-future-ai-company-aims-to-optimize-energy-consumption-with-data/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/COPHKJGRJ7LRGI77NVKXCP2HWY.jpg?smart=true&auth=edc4a80f6e47ea239273af7447a4dc0311dd194ae65a09952e7363eb5168417b&width=1200&height=630",
-            "publishedAt": "2025-08-14T18:25:05Z"
-        },
-        {
-            "source": {
-                "id": "77b86639d1384ac68141803ec5db27c0",
-                "name": "NBC News",
-                "url": "https://www.nbcnews.com",
-                "country": "us"
-            },
-            "title": "Man who asked ChatGPT about cutting out salt from his diet was hospitalized with hallucinations",
-            "url": "https://www.nbcnews.com/tech/tech-news/man-asked-chatgpt-cutting-salt-diet-was-hospitalized-hallucinations-rcna225055",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250814-chatgpt-salt-advice-se-200p-8c63c7.jpg",
-            "publishedAt": "2025-08-14T18:17:19Z"
-        },
-        {
-            "source": {
-                "id": "97497c18f5cb431f5f324b3d8643c24f",
-                "name": "The Independent",
-                "url": "https://www.independent.co.uk",
-                "country": "gb"
-            },
-            "title": "Cognitively impaired man traveled to NYC to meet Facebook chatbot he fell in love with. He never returned home",
-            "url": "https://www.independent.co.uk/news/world/americas/ai-relationship-death-facebook-b2807899.html",
-            "urlToImage": "https://static.independent.co.uk/2025/08/14/17/21/GettyImages-2192471202.jpg?width=1200&height=800&crop=1200:800",
-            "publishedAt": "2025-08-14T18:08:14Z"
         }
     ]
 }
