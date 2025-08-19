@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-08-19T06:23:33.350466Z",
+    "lastUpdatedAt": "2025-08-19T07:15:15.678997Z",
     "articles": [
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "AI's Promise: A Future of Abundance or Economic Disruption?",
+            "url": "https://www.devdiscourse.com/article/technology/3545767-ais-promise-a-future-of-abundance-or-economic-disruption",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/18_08_2025_06_14_33_4186856.png?width=920&format=jpeg",
+            "publishedAt": "2025-08-19T06:39:30Z"
+        },
+        {
+            "source": {
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
+                "country": "us"
+            },
+            "title": "Meta's Billion-Dollar AI 'Super Team' Could End Up Like The Metaverse, Warns Venture Capitalist: 'Don't Think Anyone's The '96 Bulls'",
+            "url": "https://www.benzinga.com/markets/large-cap/25/08/47201556/metas-billion-dollar-ai-super-team-could-end-up-like-the-metaverse-warns-venture-capitalist-dont-think-anyones-the-96-bulls",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/08/19/Menlo-Park--Usa--May-5--2023-Meta-Corpor.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2025-08-19T06:24:13Z"
+        },
         {
             "source": {
                 "id": "6fea3ee012f060c6309366516e8d00be",
@@ -1080,6 +1104,33 @@
             "url": "https://www.forbes.com/sites/adamsarhan/2025/08/18/palo-alto-networks-earnings-preview-cybersecurity--ai-focus/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68a32a45757a116cac387dd3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-08-18T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "Mac Mini with M5 and M5 Pro just tipped to launch this year — here's what we know",
+            "url": "https://www.tomsguide.com/computing/mini-pcs/mac-mini-with-m5-and-m5-pro-just-tipped-to-launch-this-year-heres-what-we-know",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/hPQ7n97j4FkErWdzGz225h-1280-80.jpg",
+            "publishedAt": "2025-08-18 19:13:54"
+        },
+        {
+            "source": {
+                "name": "mit"
+            },
+            "title": "Researchers glimpse the inner workings of protein language models",
+            "url": "https://news.mit.edu/2025/researchers-glimpse-inner-workings-protein-language-models-0818",
+            "urlToImage": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202508/MIT-model-interpret-01-press.jpg?itok=nA-s3rBF",
+            "publishedAt": "2025-08-18 19:00:00"
+        },
+        {
+            "source": {
+                "name": "venturebeat"
+            },
+            "title": "The looming crisis of AI speed without guardrails",
+            "url": "https://venturebeat.com/ai/the-looming-crisis-of-ai-speed-without-guardrails/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/08/Speed-without-Guardrails.jpg?w=750",
+            "publishedAt": "2025-08-18 18:24:27"
         },
         {
             "source": {
@@ -3264,66 +3315,6 @@
             "url": "https://www.bloomberg.com/news/videos/2025-08-15/euan-blair-ai-transition-needs-an-all-in-approach-video",
             "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iD5hmSWbTdcw/v3/-1x-1.jpg",
             "publishedAt": "2025-08-15T10:42:56Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com",
-                "country": "ca"
-            },
-            "title": "Computer-generated errors in murder case",
-            "url": "https://www.cp24.com/news/world/2025/08/15/australian-lawyer-apologizes-for-ai-generated-errors-in-murder-case/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/J3ROVLLPEACC2CMFJDKH55YHS4.jpg?smart=true&auth=a011505d32816523f8ca85db62ffd481a7c59eda05ea529a3e2b7ce448209446&width=1200&height=630",
-            "publishedAt": "2025-08-15T10:21:11Z"
-        },
-        {
-            "source": {
-                "id": "492abf277b7277432148b61b21ddc836",
-                "name": "Los Angeles Times",
-                "url": "https://www.latimes.com",
-                "country": "us"
-            },
-            "title": "AI will be more disruptive than COVID. Which party can seize the moment?",
-            "url": "https://www.latimes.com/opinion/story/2025-08-15/ai-disrupt-jobs-politics",
-            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/2986186/2147483647/strip/true/crop/5886x3090+0+417/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F80%2F19%2Fd037d25e449b9f94423fc561af74%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1246327356",
-            "publishedAt": "2025-08-15T10:04:00Z"
-        },
-        {
-            "source": {
-                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-                "name": "Benzinga",
-                "url": "https://www.benzinga.com",
-                "country": "us"
-            },
-            "title": "OpenAI CEO Sam Altman Reveals 'Sci-Fi' AI Companion Vision With Ex-Apple Design Chief Jony Ive To Replace Smartphones",
-            "url": "https://www.benzinga.com/markets/tech/25/08/47149733/openai-ceo-sam-altman-reveals-sci-fi-ai-companion-vision-with-ex-apple-design-chief-jony-ive-to-replace-smartphones",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/08/15/OpenAI.jpeg?width=1200&height=800&fit=crop",
-            "publishedAt": "2025-08-15T10:03:57Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Meta AI App Has Persistent Flaws Months After Debut",
-            "url": "https://www.bloomberg.com/news/features/2025-08-15/meta-ai-app-has-persistent-flaws-months-after-debut",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_dO.O4Pg9Vo/v1/1200x800.jpg",
-            "publishedAt": "2025-08-15T10:00:35Z"
-        },
-        {
-            "source": {
-                "id": "8da923084554b2821233d6c5c5f02c97",
-                "name": "Fox News",
-                "url": "https://www.foxnews.com",
-                "country": "us"
-            },
-            "title": "Would you eat at a restaurant run by AI?",
-            "url": "https://www.foxnews.com/tech/would-you-eat-restaurant-run-ai",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/08/1-would-you-eat-at-a-restaurant-run-by-ai.jpg",
-            "publishedAt": "2025-08-15T10:00:00Z"
         }
     ]
 }
