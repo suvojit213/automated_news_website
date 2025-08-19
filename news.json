@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-08-19T05:15:35.234284Z",
+    "lastUpdatedAt": "2025-08-19T06:23:33.350466Z",
     "articles": [
+        {
+            "source": {
+                "id": "6fea3ee012f060c6309366516e8d00be",
+                "name": "News-Medical.net",
+                "url": "https://www.news-medical.net",
+                "country": "gb"
+            },
+            "title": "Johns Hopkins team develops a more reliable AI for early cancer detection",
+            "url": "https://www.news-medical.net/news/20250819/Johns-Hopkins-team-develops-a-more-reliable-AI-for-early-cancer-detection.aspx",
+            "urlToImage": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+            "publishedAt": "2025-08-19T06:04:00Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "OpenAI Rolls Out $5 ChatGPT Go Plan Exclusively for India",
+            "url": "https://www.bloomberg.com/news/articles/2025-08-19/openai-rolls-out-5-chatgpt-go-plan-exclusively-for-india",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKjLenBOuL1Q/v1/1200x800.jpg",
+            "publishedAt": "2025-08-19T05:53:02Z"
+        },
+        {
+            "source": {
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
+                "country": "us"
+            },
+            "title": "Salesforce Bets Big On 'Agentic AI,' Acquires Regrello To End Manual Work, Enable AI-Powered Automations",
+            "url": "https://www.benzinga.com/markets/equities/25/08/47201298/salesforce-bets-big-on-agentic-ai-acquires-regrello-to-end-manual-work-enable-ai-powered-automations",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/08/19/Salesforce.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2025-08-19T05:34:24Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Fresher hiring intent slips to 70% in H2 2025",
+            "url": "https://economictimes.indiatimes.com/jobs/fresher/fresher-hiring-intent-slips-to-70-in-h2-2025/articleshow/123378612.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-123378664,width-1200,height-630,imgsize-15568,overlay-etcareers/articleshow.jpg",
+            "publishedAt": "2025-08-19T05:33:00Z"
+        },
         {
             "source": {
                 "id": "91120a92e0d24e24fbffb6d0affabfe6",
@@ -1032,6 +1080,24 @@
             "url": "https://www.forbes.com/sites/adamsarhan/2025/08/18/palo-alto-networks-earnings-preview-cybersecurity--ai-focus/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68a32a45757a116cac387dd3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-08-18T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "Mullvad VPN will remove all its OpenVPN servers in six months time",
+            "url": "https://www.tomsguide.com/computing/vpns/mullvad-vpn-will-remove-all-its-openvpn-servers-in-six-months-time",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/HxCPfEVp42S9ap2fwr8zwJ-1280-80.jpg",
+            "publishedAt": "2025-08-18 18:00:00"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Crypto News Today: Ether ETFs Surge, ETHZilla Rebrands with Focus on Ethereum, Solo Miner Bags $371K",
+            "url": "https://www.analyticsinsight.net/news/crypto-news-today-ether-etfs-surge-ethzilla-rebrands-with-focus-on-ethereum-solo-miner-bags-371k",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-04-10%2Fel3j29o4%2FCrypto-Market-Today-Bitcoin-Ethereum-Gain-on-Inflation-Relief-Nasdaq-Applies-for-AVAX-ETF?ar=40%3A21&auto=format%2Ccompress&enlarge=true&mode=crop&ogImage=true&overlay=false&overlay_position=bottom&overlay_width=100&w=1200",
+            "publishedAt": "2025-08-18 17:18:51"
         },
         {
             "source": {
@@ -3258,78 +3324,6 @@
             "url": "https://www.foxnews.com/tech/would-you-eat-restaurant-run-ai",
             "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/08/1-would-you-eat-at-a-restaurant-run-by-ai.jpg",
             "publishedAt": "2025-08-15T10:00:00Z"
-        },
-        {
-            "source": {
-                "id": "63fb9bccf05610a30851df4c2d33289f",
-                "name": "MIT Technology Review",
-                "url": "https://www.technologyreview.com",
-                "country": "us"
-            },
-            "title": "Indigenous knowledge meets artificial intelligence",
-            "url": "https://www.technologyreview.com/2025/08/15/1121342/native-american-art-technology-ai/",
-            "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2025/08/Kite-Wicincila-Sakowin-2023-_-1.jpg?resize=1200,600",
-            "publishedAt": "2025-08-15T10:00:00Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "Vibe Coding Startup Lovable Wants to Hit $1 Billion In Annualized Sales Next Year",
-            "url": "https://www.livemint.com/companies/news/vibe-coding-startup-lovable-wants-to-hit-1-billion-in-annualized-sales-next-year-11755249500591.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/company_4_1733465206851_1733465215415.png",
-            "publishedAt": "2025-08-15T09:18:20Z"
-        },
-        {
-            "source": {
-                "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
-                "name": "Fortune",
-                "url": "https://fortune.com",
-                "country": "us"
-            },
-            "title": "Cybersecurity company Horizon3.ai's AI hacker can locate files on Nimitz-class aircraft carriers",
-            "url": "https://fortune.com/2025/08/15/this-cybersecurity-companys-ai-hacker-can-locate-files-on-nimitz-class-aircraft-carriers-in-less-than-five-minutes/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/08/Snehal_Antani-color-new2.jpg?resize=1200,600",
-            "publishedAt": "2025-08-15T09:12:35Z"
-        },
-        {
-            "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
-                "country": "in"
-            },
-            "title": "Education Ministry offers 5 free Artificial Intelligence courses on SWAYAM",
-            "url": "https://www.hindustantimes.com/education/features/free-ai-courses-education-ministry-offers-5-free-artificial-intelligence-courses-on-swayam-101755248194934.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/08/15/1600x900/photo-1591696331111-ef9586a5b17a_1755248456244_1755248464441.jpg",
-            "publishedAt": "2025-08-15T09:04:45Z"
-        },
-        {
-            "source": {
-                "id": "26269dbc42635df9af8c24f3cdab8e37",
-                "name": "Cable News Network",
-                "url": "https://edition.cnn.com",
-                "country": "us"
-            },
-            "title": "Top exec reveals the ‘stupidest thing’ companies adopting AI can do",
-            "url": "https://edition.cnn.com/2025/08/15/tech/jobs-ai-artificial-intelligence-cisco",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-512979254.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2025-08-15T09:00:42Z"
-        },
-        {
-            "source": {
-                "id": "0c27793cc56dcaedbbf2ab1ff2728cac",
-                "name": "CNN",
-                "url": "https://www.cnn.com",
-                "country": "us"
-            },
-            "title": "Top exec reveals the ‘stupidest thing’ companies adopting AI can do",
-            "url": "https://www.cnn.com/2025/08/15/tech/jobs-ai-artificial-intelligence-cisco",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-512979254.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2025-08-15T09:00:42Z"
         }
     ]
 }
