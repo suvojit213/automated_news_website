@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-08-19T21:14:21.960567Z",
+    "lastUpdatedAt": "2025-08-19T22:14:45.577266Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Vantage Data Centers plans $25 billion AI campus in Texas",
+            "url": "https://www.reuters.com/business/vantage-data-centers-plans-25-billion-ai-campus-texas-2025-08-19/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/JA2OX2ZYBBPEBFHDBOIFPAF6IA.jpg?auth=45e1557f9ec409c9a28f23617d383d9f4bcd2e126abee5c8110c5db060510a5c&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-08-19T21:57:47Z"
+        },
+        {
+            "source": {
+                "id": "49853ffafc28f405ff8ed06043290ae8",
+                "name": "Global News",
+                "url": "https://globalnews.ca",
+                "country": "ca"
+            },
+            "title": "Quebec City using artificial intelligence to manage traffic, reduce congestion",
+            "url": "https://globalnews.ca/news/11341301/quebec-city-artificial-intelligence-traffic/",
+            "urlToImage": "https://globalnews.ca/wp-content/uploads/2025/08/fbb0ffd9ac28df06e4831233ee84038a3924dbe2ba86c1e82fa978e04e0fdca4.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+            "publishedAt": "2025-08-19T20:56:32Z"
+        },
         {
             "source": {
                 "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
@@ -1260,6 +1284,51 @@
             "url": "https://www.globenewswire.com/news-release/2025/08/19/3135466/28124/en/Vehicle-To-Everything-V2X-Cybersecurity-Market-Report-2025-Historic-Analysis-and-Growth-Projections-2019-2034.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
             "publishedAt": "2025-08-19T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "scientificamerican"
+            },
+            "title": "What Happens When an Entire Scientific Field Changes Its Mind",
+            "url": "https://www.scientificamerican.com/article/what-happens-when-an-entire-scientific-field-changes-its-mind/",
+            "urlToImage": "https://static.scientificamerican.com/dam/m/6036a42789df1506/original/sa0925_180_02.jpg?m=1754931046.99&w=1200",
+            "publishedAt": "2025-08-19 10:00:00"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "These AI-edited videos I generated with the Oakley Meta HSTN glasses are the stuff of my dreams",
+            "url": "https://www.tomsguide.com/computing/smart-glasses/these-ai-edited-videos-i-generated-with-the-oakley-meta-hstn-glasses-are-the-stuff-of-my-dreams",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Z6CNMpJyBNNZ4FN2EzaS3R-1280-80.jpg",
+            "publishedAt": "2025-08-19 10:00:00"
+        },
+        {
+            "source": {
+                "name": "nasa"
+            },
+            "title": "NASA Invites You to Celebrate National Aviation Day 2025",
+            "url": "https://www.nasa.gov/aeronautics/national-aviation-day-2025/",
+            "urlToImage": "https://www.nasa.gov/wp-content/uploads/2024/08/2024-08-19-nad-web-hero.jpg?w=1920",
+            "publishedAt": "2025-08-19 10:00:00"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "This Open-Source AI Model is Breaking Your Budget",
+            "url": "https://www.analyticsinsight.net/artificial-intelligence/this-open-source-ai-model-is-breaking-your-budget",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-08-19%2F4b6m1ea9%2FThis-Open-source-AI-Model-is-Breaking-Your-Budget.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-08-19 09:47:02"
+        },
+        {
+            "source": {
+                "name": "techtarget"
+            },
+            "title": "Intel's rise and fall: A timeline of what went wrong",
+            "url": "https://www.techtarget.com/whatis/feature/Intels-rise-and-fall-A-timeline-of-what-went-wrong",
+            "urlToImage": "https://www.techtarget.com/rms/onlineimages/clock-time07_searchsitetablet_520X173.jpg",
+            "publishedAt": "2025-08-19 09:15:00"
         },
         {
             "source": {
@@ -3249,90 +3318,6 @@
             "url": "https://fortune.com/2025/08/17/former-fbi-cybersecurity-ransomware-law-expire/",
             "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/08/GettyImages-1400563623-e1755286113153.jpg?resize=1200,600",
             "publishedAt": "2025-08-17T13:00:00Z"
-        },
-        {
-            "source": {
-                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
-                "name": "Firstpost",
-                "url": "https://www.firstpost.com",
-                "country": "in"
-            },
-            "title": "How teens turning to AI for companionship is harming them",
-            "url": "https://www.firstpost.com/explainers/how-teens-turning-to-ai-for-companionship-is-harming-them-13924069.html",
-            "urlToImage": "https://images.firstpost.com/uploads/2025/08/Wire-1-28-2025-08-4308b87618267f130348b73a8c4c3f88.jpg?im=FitAndFill=(1200,675)",
-            "publishedAt": "2025-08-17T12:30:07Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "AI Boom Seen Driving Next Decade of Emerging Markets Performance",
-            "url": "https://www.bloomberg.com/news/articles/2025-08-17/ai-boom-seen-driving-next-decade-of-emerging-markets-performance",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYIN_18shUzk/v0/1200x800.jpg",
-            "publishedAt": "2025-08-17T12:30:00Z"
-        },
-        {
-            "source": {
-                "id": "10cbfb3760cfcdeb78c733c527f0e814",
-                "name": "iTWire",
-                "url": "https://itwire.com",
-                "country": "au"
-            },
-            "title": "How Australian businesses can win at AI",
-            "url": "https://itwire.com/guest-articles/guest-opinion/how-australian-businesses-can-win-at-ai-before-it-s-too-late.html",
-            "urlToImage": "https://itwire.com/media/k2/items/cache/f9b08285ca0b2413de4e69b4d702b1f9_XS.jpg",
-            "publishedAt": "2025-08-17T11:55:45Z"
-        },
-        {
-            "source": {
-                "id": "c73f76bea6ea26fd91e89543599bb29b",
-                "name": "WebProNews",
-                "url": "https://www.webpronews.com",
-                "country": "us"
-            },
-            "title": "AI's Double-Edged Sword in Cybersecurity for 2025",
-            "url": "https://www.webpronews.com/ais-double-edged-sword-in-cybersecurity-for-2025/",
-            "urlToImage": "https://www.webpronews.com/wp-content/themes/wpntheme/path/favicon.ico",
-            "publishedAt": "2025-08-17T10:58:42Z"
-        },
-        {
-            "source": {
-                "id": "c73f76bea6ea26fd91e89543599bb29b",
-                "name": "WebProNews",
-                "url": "https://www.webpronews.com",
-                "country": "us"
-            },
-            "title": "Thoma Bravo Acquires UK AI Cybersecurity Firm Darktrace for $5.3B",
-            "url": "https://www.webpronews.com/thoma-bravo-acquires-uk-ai-cybersecurity-firm-darktrace-for-5-3b/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-38fd8685-8c57-461d-bd26-22c17ac10be7.jpeg",
-            "publishedAt": "2025-08-17T10:50:02Z"
-        },
-        {
-            "source": {
-                "id": "8f697316c20ca510ecdfa51c8f969ff3",
-                "name": "SunStar Philippines",
-                "url": "https://www.sunstar.com.ph",
-                "country": "ph"
-            },
-            "title": "Kapin 200 ka negosyante sa Visayas mikat-on og AI alang",
-            "url": "https://www.sunstar.com.ph/superbalita-cebu/kapin-200-ka-negosyante-sa-visayas-mikat-on-og-ai-alang-sa-kalambuan",
-            "urlToImage": "https://media.assettype.com/sunstar%2F2025-08-17%2Frinsl20k%2Fb2.jpg?rect=0%2C28%2C750%2C394&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2025-08-17T10:43:53Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "Fired by Elon Musk, ex-Twitter CEO Parag Agrawal launches AI startup, Deep Research API",
-            "url": "https://www.livemint.com/technology/tech-news/fired-by-elon-musk-ex-twitter-ceo-parag-agrawal-launches-ai-startup-deep-research-api-11755424340202.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2025/08/17/1600x900/Twitter-Agrawal-2_1638286884666_1755426232635.jpg",
-            "publishedAt": "2025-08-17T10:27:44Z"
         }
     ]
 }
