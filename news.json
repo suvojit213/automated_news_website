@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-08-19T20:17:09.243104Z",
+    "lastUpdatedAt": "2025-08-19T21:14:21.960567Z",
     "articles": [
+        {
+            "source": {
+                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
+                "name": "WTOP",
+                "url": "https://wtop.com",
+                "country": "us"
+            },
+            "title": "More people trust AI instead of friends for shopping opinions, expert says",
+            "url": "https://wtop.com/consumer-news/2025/08/more-people-are-trusting-ai-instead-of-their-friends-for-shopping-opinions-u-va-expert-says/",
+            "urlToImage": "https://wtop.com/wp-content/uploads/2025/04/OpenAI-Musk_82493-scaled.jpg",
+            "publishedAt": "2025-08-19T20:40:11Z"
+        },
+        {
+            "source": {
+                "id": "5784855bc642514502eec4806fd222d1",
+                "name": "The Times of Israel",
+                "url": "https://www.timesofisrael.com",
+                "country": "is"
+            },
+            "title": "Israeli-founded AI startup raises $60m to help governments fight financial fraud",
+            "url": "https://www.timesofisrael.com/israeli-founded-ai-startup-raises-60m-to-help-governments-fight-financial-fraud/",
+            "urlToImage": "https://static-cdn.toi-media.com/www/uploads/2017/02/iStock-157003721-e1489306548688.jpg",
+            "publishedAt": "2025-08-19T20:25:43Z"
+        },
         {
             "source": {
                 "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
@@ -1236,6 +1260,24 @@
             "url": "https://www.globenewswire.com/news-release/2025/08/19/3135466/28124/en/Vehicle-To-Everything-V2X-Cybersecurity-Market-Report-2025-Historic-Analysis-and-Growth-Projections-2019-2034.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
             "publishedAt": "2025-08-19T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "thurrott"
+            },
+            "title": "Nvidia is Bringing RTX 5080 GPUs to its GeForce Now Ultimate Tier",
+            "url": "https://www.thurrott.com/games/324740/nvidia-is-bringing-rtx-5080-gpus-to-its-geforce-now-ultimate-tier",
+            "urlToImage": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2025/08/Nvidia-GeForce-Now-RTX-5080-GPUs.jpg",
+            "publishedAt": "2025-08-19 09:01:27"
+        },
+        {
+            "source": {
+                "name": "benzinga"
+            },
+            "title": "Nvidia's Reign At Risk? Dylan Patel Says Google's TPU, Amazon's Trainium Could Outshine GPUs If Sold To Public",
+            "url": "https://www.benzinga.com/markets/equities/25/08/47202594/nvidias-reign-at-risk-dylan-patel-says-googles-tpu-amazons-trainium-could-outshine-gpus-if-sold-",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/08/19/Nvidia_0.jpeg?auto=jpg&dpr=1&fit=crop&height=480&optimize=medium&width=720",
+            "publishedAt": "2025-08-19 08:38:48"
         },
         {
             "source": {
@@ -3291,54 +3333,6 @@
             "url": "https://www.livemint.com/technology/tech-news/fired-by-elon-musk-ex-twitter-ceo-parag-agrawal-launches-ai-startup-deep-research-api-11755424340202.html",
             "urlToImage": "https://www.livemint.com/lm-img/img/2025/08/17/1600x900/Twitter-Agrawal-2_1638286884666_1755426232635.jpg",
             "publishedAt": "2025-08-17T10:27:44Z"
-        },
-        {
-            "source": {
-                "id": "e553cce06d349ac1f7fbb7618a979256",
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com",
-                "country": "us"
-            },
-            "title": "He Sold His Likeness. Now His Avatar Is Shilling Supplements on TikTok.",
-            "url": "https://www.nytimes.com/2025/08/17/business/tiktok-ai-avatars.html",
-            "urlToImage": "https://static01.nyt.com/images/2025/08/02/02visualUploader-51340-cover/02visualUploader-51340-cover-facebookJumbo.jpg",
-            "publishedAt": "2025-08-17T09:00:32Z"
-        },
-        {
-            "source": {
-                "id": "e553cce06d349ac1f7fbb7618a979256",
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com",
-                "country": "us"
-            },
-            "title": "The C.E.O. of Duolingo Wants to Have a Conversation About A.I.",
-            "url": "https://www.nytimes.com/2025/08/17/business/duolingo-luis-von-ahn.html",
-            "urlToImage": "https://static01.nyt.com/images/2025/08/08/08visualUploader-10284-cover/08visualUploader-10284-cover-facebookJumbo.jpg",
-            "publishedAt": "2025-08-17T09:00:19Z"
-        },
-        {
-            "source": {
-                "id": "77b86639d1384ac68141803ec5db27c0",
-                "name": "NBC News",
-                "url": "https://www.nbcnews.com",
-                "country": "us"
-            },
-            "title": "The era of AI hacking has arrived",
-            "url": "https://www.nbcnews.com/tech/security/era-ai-hacking-arrived-rcna224282",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/230217-stock-solo-computer-ew-954a-6e6d27-5d340e.jpg",
-            "publishedAt": "2025-08-17T09:00:00Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "Output growth forecast for Taiwan semiconductors increased",
-            "url": "https://www.livemint.com/market/stock-market-news/output-growth-forecast-for-taiwan-semiconductors-increased-11755420334010.html",
-            "urlToImage": "https://images.livemint.com/img/2018/12/28/1600x900/Market_-_stocks_1545996587096.jpg",
-            "publishedAt": "2025-08-17T08:45:33Z"
         }
     ]
 }
