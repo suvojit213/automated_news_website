@@ -1,6 +1,102 @@
 {
-    "lastUpdatedAt": "2025-08-19T12:32:01.908150Z",
+    "lastUpdatedAt": "2025-08-19T13:27:02.910775Z",
     "articles": [
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "Machine learning model maps West Nile virus risk in Northeast US",
+            "url": "https://medicalxpress.com/news/2025-08-machine-west-nile-virus-northeast.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/mapping-west-nile-viru.jpg",
+            "publishedAt": "2025-08-19T13:16:53Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Americans Fear AI Job Displacement, Poll Reveals",
+            "url": "https://www.devdiscourse.com/article/law-order/3546351-americans-fear-ai-job-displacement-poll-reveals",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/20_03_2025_10_44_03_5811221.png?width=920&format=jpeg",
+            "publishedAt": "2025-08-19T12:56:52Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Uttar Pradesh Harnesses AI to Elevate Social Welfare",
+            "url": "https://www.devdiscourse.com/article/technology/3546325-uttar-pradesh-harnesses-ai-to-elevate-social-welfare",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/18_08_2025_06_14_33_4186856.png?width=920&format=jpeg",
+            "publishedAt": "2025-08-19T12:43:32Z"
+        },
+        {
+            "source": {
+                "id": "4c8b69bf547b577f84acbba5157b439c",
+                "name": "RTE.ie",
+                "url": "https://www.rte.ie",
+                "country": "ie"
+            },
+            "title": "Americans fear AI permanently displacing workers",
+            "url": "https://www.rte.ie/news/business/2025/0819/1529150-americans-fear-ai-permanently-displacing-workers-survey/",
+            "urlToImage": "https://www.rte.ie/images/001f0d93-1600.jpg",
+            "publishedAt": "2025-08-19T12:43:22Z"
+        },
+        {
+            "source": {
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
+                "country": "in"
+            },
+            "title": "Google issues red alert as new cyber attack targets Gmail users using AI with ‘indirect prompt injections’",
+            "url": "https://www.hindustantimes.com/trending/google-issues-red-alert-as-new-cyber-attack-targets-gmail-users-using-ai-with-indirect-prompt-injections-101755600288240.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/08/19/1600x900/pexels-photo-13628541_1755600626045_1755600644487.jpeg",
+            "publishedAt": "2025-08-19T12:36:57Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "ZenaTech Unveils New Quantum Computing Division to Accelerate Advanced Drone and Defense Capabilities",
+            "url": "https://www.manilatimes.net/2025/08/19/tmt-newswire/globenewswire/zenatech-unveils-new-quantum-computing-division-to-accelerate-advanced-drone-and-defense-capabilities/2170244",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/19/719137.jpg",
+            "publishedAt": "2025-08-19T12:34:04Z"
+        },
+        {
+            "source": {
+                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+                "name": "Firstpost",
+                "url": "https://www.firstpost.com",
+                "country": "in"
+            },
+            "title": "Remove chatbots that eroticise children: Brazil tells Meta as tech giant lets AI sensualise kids",
+            "url": "https://www.firstpost.com/tech/remove-chatbots-that-eroticise-children-brazil-tells-meta-as-tech-giant-lets-ai-sensualise-kids-13926224.html",
+            "urlToImage": "https://images.firstpost.com/uploads/2025/06/Firstpost-2025-06-10T175648.169-2025-06-81df31c08af92b6f5cbd661d09149486.jpg?im=FitAndFill=(1200,675)",
+            "publishedAt": "2025-08-19T12:25:09Z"
+        },
+        {
+            "source": {
+                "id": "e9207083a357fb7e76b38e485888ebe7",
+                "name": "manilastandard.net",
+                "url": "https://manilastandard.net",
+                "country": "ph"
+            },
+            "title": "PH economy continues to thrive, navigates AI and tariff headwinds",
+            "url": "https://manilastandard.net/business/314632072/ph-economy-continues-to-thrive-navigates-ai-and-tariff-headwinds.html",
+            "urlToImage": "https://cdn.manilastandard.net/wp-content/uploads/2025/08/B1-1inflation-1.jpeg",
+            "publishedAt": "2025-08-19T12:15:00Z"
+        },
         {
             "source": {
                 "id": "d6397b77175680e2678c0d60edcee7af",
@@ -12,6 +108,18 @@
             "url": "https://www.scmp.com/news/china/science/article/3322404/why-media-must-try-hold-its-credibility-age-artificial-intelligence",
             "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/canvas/2025/08/19/34f748fb-35fc-4644-8ece-e12b0b3fa85c_66c40fbe.jpg?itok=uUhpr6S7&v=1755604892",
             "publishedAt": "2025-08-19T12:08:10Z"
+        },
+        {
+            "source": {
+                "id": "e9207083a357fb7e76b38e485888ebe7",
+                "name": "manilastandard.net",
+                "url": "https://manilastandard.net",
+                "country": "ph"
+            },
+            "title": "AI crucial to PH energy sector’s transformation",
+            "url": "https://manilastandard.net/business/314632063/ai-crucial-to-ph-energy-sectors-transformation.html",
+            "urlToImage": "https://cdn.manilastandard.net/wp-content/uploads/2025/08/WEF-AI.png",
+            "publishedAt": "2025-08-19T12:05:00Z"
         },
         {
             "source": {
@@ -555,11 +663,29 @@
         },
         {
             "source": {
+                "name": "hackernoon"
+            },
+            "title": "The Science Behind Pair Programming: A UADY Experiment",
+            "url": "https://hackernoon.com/the-science-behind-pair-programming-a-uady-experiment",
+            "urlToImage": "https://hackernoon.imgix.net/images/science-and-atoms-abstract-bgbtf6xlgrzv982qny0x1o3f.png",
+            "publishedAt": "2025-08-19 01:25:59"
+        },
+        {
+            "source": {
                 "name": "financialcontent"
             },
             "title": "Predicting the Next Rule Breaker Buyout",
             "url": "https://www.fool.com/investing/2025/08/19/predicting-the-next-rule-breaker-buyout/",
             "urlToImage": "https://g.foolcdn.com/image/?h=400&op=resize&url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F829653%2Fpredicting-the-next-rule-breaker-buyout.jpg&w=400",
+            "publishedAt": "2025-08-19 00:00:00"
+        },
+        {
+            "source": {
+                "name": "financialcontent"
+            },
+            "title": "China’s AI Cloud Sector Surges 55% As Demand For LLMs Grows",
+            "url": "https://talkmarkets.com/content/global-markets/chinas-ai-cloud-sector-surges-55-as-demand-for-llms-grows?post=516390",
+            "urlToImage": "https://coincentral.com/wp-content/uploads/2025/08/shutterstock_363519476-1200x721.jpg",
             "publishedAt": "2025-08-19 00:00:00"
         },
         {
@@ -3186,105 +3312,6 @@
             "url": "https://futurism.com/ai-far-away-profit-experts-warn",
             "urlToImage": "https://wordpress-assets.futurism.com/2025/08/ai-far-away-profit-experts-warn.jpg",
             "publishedAt": "2025-08-16 12:30:44"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Perch 2.0: Bioacoustics Model for Species Identification",
-            "url": "https://hackernoon.com/perch-20-bioacoustics-model-for-species-identification",
-            "urlToImage": "https://hackernoon.imgix.net/images/iN6H2UigxKapyOHZ6k4N9srFgsw1-5c039ih.png",
-            "publishedAt": "2025-08-16 12:00:03"
-        },
-        {
-            "source": {
-                "name": "medianama"
-            },
-            "title": "AI in Finance: RBI Committee Calls for Sector-Specific Models, AI Sandbox Etc.",
-            "url": "https://www.medianama.com/2025/08/223-rbi-committee-sector-specific-models-ai/",
-            "urlToImage": "https://www.medianama.com/wp-content/uploads/2022/07/RBI-India-recurring-payments-1000x600-1.jpeg",
-            "publishedAt": "2025-08-16 11:50:41"
-        },
-        {
-            "source": {
-                "name": "thelincolnianonline"
-            },
-            "title": "Expion360 (NASDAQ:XPON) & Bel Fuse (NASDAQ:BELFA) Head-To-Head Contrast",
-            "url": "https://www.thelincolnianonline.com/2025/08/16/expion360-nasdaqxpon-bel-fuse-nasdaqbelfa-head-to-head-contrast.html",
-            "urlToImage": "https://www.marketbeat.com/logos/expion360-inc-logo-1200x675.jpg?v=20220504081607",
-            "publishedAt": "2025-08-16 11:30:49"
-        },
-        {
-            "source": {
-                "name": "mercurynews"
-            },
-            "title": "Meta allowed AI bots on Facebook, Instagram, WhatsApp to have ‘sensual’ and ‘romantic’ chats with kids",
-            "url": "https://www.mercurynews.com/2025/08/16/meta-allowed-ai-bots-on-facebook-instagram-whatsapp-to-have-sensual-and-romantic-chats-with-kids/",
-            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2018/04/afp_13x5h6.jpg?strip=all&w=1400px",
-            "publishedAt": "2025-08-16 11:00:09"
-        },
-        {
-            "source": {
-                "name": "theprint"
-            },
-            "title": "Trump is building ‘anti-woke’ AI vision for global supremacy. ‘Tech bros’ are his China antidote",
-            "url": "https://theprint.in/tech/trump-is-building-anti-woke-ai-vision-for-global-supremacy-tech-bros-are-his-china-antidote/2722371/",
-            "urlToImage": "https://static.theprint.in/wp-content/uploads/2025/08/Trump-AI-executive-order-696x392.jpg",
-            "publishedAt": "2025-08-16 11:00:00"
-        },
-        {
-            "source": {
-                "name": "futurism"
-            },
-            "title": "New Research Finds That ChatGPT Secretly Has a Deep Anti-Human Bias",
-            "url": "https://futurism.com/chatgpt-deep-anti-human-bias",
-            "urlToImage": "https://wordpress-assets.futurism.com/2025/08/chatgpt-deep-anti-human-bias.jpg",
-            "publishedAt": "2025-08-16 09:30:50"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "Godfather Of AI Says We Need Maternal AI But Ignites Sparks Over Omission Of Fatherly Instincts Too",
-            "url": "https://www.forbes.com/sites/lanceeliot/2025/08/16/godfather-of-ai-says-we-need-maternal-ai-but-ignites-sparks-over-omission-of-fatherly-instincts-too/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/683a1733e73b5e868eacc1b3/0x0.jpg?width=960",
-            "publishedAt": "2025-08-16 07:15:00"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "Reddit says this is the best laptop — here's what I think as a laptop reviewer",
-            "url": "https://www.tomsguide.com/computing/laptops/reddit-says-this-is-the-best-laptop-heres-what-i-think-as-a-laptop-reviewer",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/UbMJMVGeKd2UvjMvkZZPX6-1280-80.jpg",
-            "publishedAt": "2025-08-16 05:45:00"
-        },
-        {
-            "source": {
-                "name": "thehindubusinessline"
-            },
-            "title": "Oracle, Google cloud units strike deal for Oracle to sell Gemini models",
-            "url": "https://www.thehindubusinessline.com/info-tech/oracle-google-cloud-units-strike-deal-for-oracle-to-sell-gemini-models/article69939703.ece",
-            "urlToImage": "https://bl-i.thgim.com/public/incoming/nqnb2a/article67900587.ece/alternates/LANDSCAPE_1200/2024-02-19T133113Z_1054331055_RC2P56AEYB0Q_RTRMADP_3_ORACLE-RESULTS.JPG",
-            "publishedAt": "2025-08-16 05:15:46"
-        },
-        {
-            "source": {
-                "name": "chandigarhmetro"
-            },
-            "title": "From Parking Lots to Festivals: Versatile Uses for Solar Surveillance Trailers",
-            "url": "https://chandigarhmetro.com/from-parking-lots-to-festivals-versatile-uses-for-solar-surveillance-trailers/",
-            "urlToImage": "https://chandigarhmetro.com/wp-content/uploads/2025/08/Screenshot-2025-08-16-100434.png",
-            "publishedAt": "2025-08-16 04:35:42"
-        },
-        {
-            "source": {
-                "name": "thehindu"
-            },
-            "title": "Oracle, Google cloud units strike deal for Oracle to sell Gemini models",
-            "url": "https://www.thehindu.com/sci-tech/technology/oracle-google-cloud-units-strike-deal-for-oracle-to-sell-gemini-models/article69939577.ece",
-            "urlToImage": "https://th-i.thgim.com/public/incoming/ia8p3u/article69939581.ece/alternates/LANDSCAPE_1200/Alphabet_Results_81792.jpg",
-            "publishedAt": "2025-08-16 04:19:33"
         }
     ]
 }
