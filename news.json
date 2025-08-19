@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-08-19T09:16:50.774081Z",
+    "lastUpdatedAt": "2025-08-19T10:16:45.487611Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Americans fear AI permanently displacing workers, Reuters/Ipsos poll finds",
+            "url": "https://www.reuters.com/world/us/americans-fear-ai-permanently-displacing-workers-reutersipsos-poll-finds-2025-08-19/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/QIHE5TQNWNIE7IEG42QMEZP5N4.jpg?auth=2e8d8b9ed24602dfdd96652b1801e47a12675281020292b048c8a4fd5b70bf7f&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-08-19T10:03:38Z"
+        },
         {
             "source": {
                 "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
@@ -12,6 +24,30 @@
             "url": "https://www.devdiscourse.com/article/education/3545963-strategic-leadership-in-a-disruptive-world-the-star-framework",
             "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/19_08_2025_09_09_01_860569.png?width=920&format=jpeg",
             "publishedAt": "2025-08-19T09:09:05Z"
+        },
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            },
+            "title": "The 1970s Gave Us Industrial Decline. A.I. Could Bring Something Worse.",
+            "url": "https://www.nytimes.com/2025/08/19/opinion/ai-job-loss-deindustrialization.html",
+            "urlToImage": "https://static01.nyt.com/images/2025/08/19/opinion/19Frey/19Frey-facebookJumbo.jpg",
+            "publishedAt": "2025-08-19T09:00:56Z"
+        },
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            },
+            "title": "Silicon Valley Needs to Stop Obsessing Over Superhuman A.I.",
+            "url": "https://www.nytimes.com/2025/08/19/opinion/artificial-general-intelligence-superintelligence.html",
+            "urlToImage": "https://static01.nyt.com/images/2025/08/04/opinion/04schmidt/04schmidt-facebookJumbo.jpg",
+            "publishedAt": "2025-08-19T09:00:07Z"
         },
         {
             "source": {
@@ -1260,6 +1296,33 @@
             "url": "https://www.forbes.com/sites/adamsarhan/2025/08/18/palo-alto-networks-earnings-preview-cybersecurity--ai-focus/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68a32a45757a116cac387dd3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-08-18T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "How I Cut Agentic Workflow Latency by 3-5x Without Increasing Model Costs",
+            "url": "https://hackernoon.com/how-i-cut-agentic-workflow-latency-by-3-5x-without-increasing-model-costs",
+            "urlToImage": "https://hackernoon.imgix.net/images/onWjUzAcK4MjMFExRUqrUNj9D803-rv039ta.png",
+            "publishedAt": "2025-08-18 21:46:21"
+        },
+        {
+            "source": {
+                "name": "venturebeat"
+            },
+            "title": "Nvidia releases a new small, open model Nemotron-Nano-9B-v2 with toggle on/off reasoning",
+            "url": "https://venturebeat.com/business/nvidia-releases-a-new-small-open-model-nemotron-nano-9b-v2-with-toggle-on-off-reasoning/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/08/cfr0z3n_graphic_novel_style_isometric_intricate_hand_drawn_pe_3bf0f985-47a4-4a51-ae00-d74636547a00_2.png?w=750",
+            "publishedAt": "2025-08-18 21:24:47"
+        },
+        {
+            "source": {
+                "name": "thurrott"
+            },
+            "title": "What Google Chrome Says About the Future of Web Browsing (Premium)",
+            "url": "https://www.thurrott.com/cloud/web-browsers/google-chrome/324728/what-google-chrome-says-about-the-future-of-web-browsing",
+            "urlToImage": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2025/08/gemini-chrome-hero.jpg",
+            "publishedAt": "2025-08-18 21:23:00"
         },
         {
             "source": {
@@ -3225,78 +3288,6 @@
             "url": "https://gizmodo.com/steven-spielberg-ai-retro-review-chatgpt-2000643079",
             "urlToImage": "https://gizmodo.com/app/uploads/2025/08/AI-Movie-Retro-Review-1200x675.jpg",
             "publishedAt": "2025-08-15T16:00:42Z"
-        },
-        {
-            "source": {
-                "id": "17d7c2645f485578130862e0c8dd9480",
-                "name": "The Mercury News",
-                "url": "https://www.mercurynews.com",
-                "country": "us"
-            },
-            "title": "Top Silicon Valley exec reveals the ‘stupidest thing’ companies adopting AI can do",
-            "url": "https://www.mercurynews.com/2025/08/15/top-exec-reveals-the-stupidest-thing-companies-adopting-ai-can-do/",
-            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/08/Top_exec_reveals_the_8216stupidest_thing8217_companies_adopting_AI_can_do1-1.jpg?w=1024&h=682",
-            "publishedAt": "2025-08-15T15:48:44Z"
-        },
-        {
-            "source": {
-                "id": "17d7c2645f485578130862e0c8dd9480",
-                "name": "The Mercury News",
-                "url": "https://www.mercurynews.com",
-                "country": "us"
-            },
-            "title": "OpenAI’s Sam Altman expects to spend ‘trillions’ on infrastructure",
-            "url": "https://www.mercurynews.com/2025/08/15/openais-sam-altman-expects-to-spend-trillions-on-infrastructure/",
-            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/07/OpenAI_CEO_Sam_Altman_warns_of_an_AI_8216fraud_crisis82171.jpg?w=1024&h=684",
-            "publishedAt": "2025-08-15T15:47:03Z"
-        },
-        {
-            "source": {
-                "id": "0ce70f407e0fa82ddaeeb29243aa8210",
-                "name": "SooToday",
-                "url": "https://www.sootoday.com",
-                "country": "ca"
-            },
-            "title": "Australian lawyer apologizes for AI-generated errors in murder case",
-            "url": "https://www.sootoday.com/national-business/australian-lawyer-apologizes-for-ai-generated-errors-in-murder-case-11081350",
-            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/08/30c9d1eb5e996f7ed5806b7a57a66509c2e6b80f0fb618de24ec96531a400b26.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2025-08-15T15:41:09Z"
-        },
-        {
-            "source": {
-                "id": "b93fbda11fec5c2f08572a67a337e87d",
-                "name": "ElliotLakeToday.com",
-                "url": "https://www.elliotlaketoday.com",
-                "country": "ca"
-            },
-            "title": "Australian lawyer apologizes for AI-generated errors in murder case",
-            "url": "https://www.elliotlaketoday.com/national-business/australian-lawyer-apologizes-for-ai-generated-errors-in-murder-case-11081350",
-            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/08/30c9d1eb5e996f7ed5806b7a57a66509c2e6b80f0fb618de24ec96531a400b26.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2025-08-15T15:41:09Z"
-        },
-        {
-            "source": {
-                "id": "a626af07817344050e3336789e06a2f5",
-                "name": "Vancouver Is Awesome",
-                "url": "https://www.vancouverisawesome.com",
-                "country": "ca"
-            },
-            "title": "Australian lawyer apologizes for AI-generated errors in murder case",
-            "url": "https://www.vancouverisawesome.com/national-business/australian-lawyer-apologizes-for-ai-generated-errors-in-murder-case-11081362",
-            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/08/30c9d1eb5e996f7ed5806b7a57a66509c2e6b80f0fb618de24ec96531a400b26.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2025-08-15T15:41:09Z"
-        },
-        {
-            "source": {
-                "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
-                "name": "BayToday",
-                "url": "https://www.baytoday.ca",
-                "country": "ca"
-            },
-            "title": "Australian lawyer apologizes for AI-generated errors in murder case",
-            "url": "https://www.baytoday.ca/business/australian-lawyer-apologizes-for-ai-generated-errors-in-murder-case-11081350",
-            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/08/30c9d1eb5e996f7ed5806b7a57a66509c2e6b80f0fb618de24ec96531a400b26.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2025-08-15T15:41:09Z"
         }
     ]
 }
