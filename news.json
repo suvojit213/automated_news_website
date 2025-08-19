@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-08-19T03:07:28.377117Z",
+    "lastUpdatedAt": "2025-08-19T04:18:56.141954Z",
     "articles": [
+        {
+            "source": {
+                "id": "91120a92e0d24e24fbffb6d0affabfe6",
+                "name": "Bangkok Post",
+                "url": "https://www.bangkokpost.com",
+                "country": "th"
+            },
+            "title": "AI now a key feature of everyday life in Thailand",
+            "url": "https://www.bangkokpost.com/business/general/3089163/ai-now-a-key-feature-of-everyday-life-in-thailand",
+            "urlToImage": "https://static.bangkokpost.com/media/content/20250819/c1_3089163_250819105946_700.jpg",
+            "publishedAt": "2025-08-19T03:54:00Z"
+        },
         {
             "source": {
                 "id": "9290338c23f31e3f547a2dbfa1c52c03",
@@ -96,6 +108,18 @@
             "url": "https://www.reuters.com/business/palo-altos-forecasts-signal-ai-boost-cybersecurity-tools-shares-rise-2025-08-18/",
             "urlToImage": "https://www.reuters.com/resizer/v2/BSTCB23ZNNLZRCOGXAUYPR7OYI.jpg?auth=79738596597cdff64c01efdc9c9e26ecb37c637ec491baa9653256850a2b4596&height=1005&width=1920&quality=80&smart=true",
             "publishedAt": "2025-08-18T21:17:08Z"
+        },
+        {
+            "source": {
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
+                "country": "us"
+            },
+            "title": "PANW Earnings: Palo Alto Networks Reports Strong Results, Says Company Founder Is Retiring",
+            "url": "https://markets.businessinsider.com/news/stocks/panw-earnings-palo-alto-networks-reports-strong-results-says-company-founder-is-retiring-1035051730",
+            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/08/image-1234-1024x372.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+            "publishedAt": "2025-08-18T21:02:05Z"
         },
         {
             "source": {
@@ -1008,6 +1032,60 @@
             "url": "https://www.forbes.com/sites/adamsarhan/2025/08/18/palo-alto-networks-earnings-preview-cybersecurity--ai-focus/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68a32a45757a116cac387dd3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-08-18T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "How web scraping actually works - and why AI changes everything",
+            "url": "https://www.zdnet.com/article/how-web-scraping-actually-works-and-why-ai-changes-everything/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/14f3aaaf8bb019ec447cfaec32d124d23738f322/2025/08/18/5c65c0d1-0b25-4b40-936d-00c995927e5d/gettyimages-1494177580.jpg?auto=webp&width=1280",
+            "publishedAt": "2025-08-18 16:00:18"
+        },
+        {
+            "source": {
+                "name": "scientificamerican"
+            },
+            "title": "Can a Generative AI Agent Accurately Mimic My Personality?",
+            "url": "https://www.scientificamerican.com/article/can-a-generative-ai-agent-accurately-mimic-my-personality/",
+            "urlToImage": "https://static.scientificamerican.com/dam/m/3408a57abc456585/original/AI_personality.jpg?m=1755527233.297&w=1200",
+            "publishedAt": "2025-08-18 16:00:00"
+        },
+        {
+            "source": {
+                "name": "mashable_me"
+            },
+            "title": "Microsoft Teams adding protections against malicious files and links",
+            "url": "https://me.mashable.com/tech/59716/microsoft-teams-adding-protections-against-malicious-files-and-links",
+            "urlToImage": "https://sm.mashable.com/mashable_me/article/m/microsoft-/microsoft-teams-adding-protections-against-malicious-files-a_x8ce.jpg",
+            "publishedAt": "2025-08-18 15:41:14"
+        },
+        {
+            "source": {
+                "name": "mashable"
+            },
+            "title": "Microsoft Teams adding protections against malicious files and links",
+            "url": "https://sea.mashable.com/tech/39117/microsoft-teams-adding-protections-against-malicious-files-and-links",
+            "urlToImage": "https://sm.mashable.com/mashable_sea/article/m/microsoft-/microsoft-teams-adding-protections-against-malicious-files-a_zhpm.jpg",
+            "publishedAt": "2025-08-18 15:41:14"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "How much RAM does your PC really need in 2025? I did the math for Windows and Mac users",
+            "url": "https://www.zdnet.com/article/how-much-ram-does-your-pc-really-need-in-2025-i-did-the-math-for-windows-and-mac-users/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/0ba63468b7eecd21d003571cd74cb3fb423ccfc5/2024/11/06/30d11d3b-4623-4e04-a7f3-ed36dbe4e391/dsc02525-2.jpg?auto=webp&width=1280",
+            "publishedAt": "2025-08-18 15:41:00"
+        },
+        {
+            "source": {
+                "name": "bgr_com"
+            },
+            "title": "Sam Altman Says Mysterious ChatGPT Device Is So Beautiful, It Won't Need A Protective Case",
+            "url": "https://www.bgr.com/1943168/altman-mysterious-chatgpt-device-so-beautiful-no-protective-case/",
+            "urlToImage": "https://www.bgr.com/img/gallery/sam-altman-says-mysterious-chatgpt-device-is-so-beautiful-it-wont-need-a-protective-case/l-intro-1755529470.jpg",
+            "publishedAt": "2025-08-18 15:10:59"
         },
         {
             "source": {
@@ -3276,102 +3354,6 @@
             "url": "https://techbullion.com/how-jobhire-ai-is-revolutionizing-recruitment-for-thousands-of-job-seekers/",
             "urlToImage": "https://techbullion.com/wp-content/uploads/2025/08/JobHire-AI-1000x504.jpg",
             "publishedAt": "2025-08-15T06:00:29Z"
-        },
-        {
-            "source": {
-                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
-                "name": "The Australian Financial Review",
-                "url": "https://www.afr.com",
-                "country": "au"
-            },
-            "title": "Accenture in $1b swoop for Australian cybersecurity giant CyberCX",
-            "url": "https://www.afr.com/technology/accenture-pays-1b-plus-for-cybercx-in-its-biggest-australian-deal-20250815-p5mn8h",
-            "urlToImage": "https://static.ffx.io/images/$zoom_0.1714%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_177%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/04001a340799ec2a101e61796c5dfa0e940cb18d",
-            "publishedAt": "2025-08-15T04:54:25Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Accenture to buy Australian cybersecurity firm CyberCX for reported $650 mln",
-            "url": "https://www.reuters.com/world/asia-pacific/accenture-buy-australian-cybersecurity-firm-cybercx-reported-650-mln-2025-08-15/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/J5NOOQL65RLPXGJ6IA53U6BMHI.jpg?auth=dc3692b38e909394970569a0db4bcec7dbea0c28a30ce0d8010f8e1ffbb4338d&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-08-15T04:53:01Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "PM Modi Urges IT Self-Reliance, Celebrates Indian Achievements",
-            "url": "https://www.devdiscourse.com/article/headlines/3542426-pm-modi-urges-it-self-reliance-celebrates-indian-achievements",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/15_08_2025_10_14_43_82476.jpg?width=920&format=jpeg",
-            "publishedAt": "2025-08-15T04:44:54Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Powerful new AI models knock the wind out of European adopter stocks",
-            "url": "https://www.reuters.com/world/europe/powerful-new-ai-models-knock-wind-out-european-adopter-stocks-2025-08-15/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/JA2OX2ZYBBPEBFHDBOIFPAF6IA.jpg?auth=45e1557f9ec409c9a28f23617d383d9f4bcd2e126abee5c8110c5db060510a5c&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-08-15T04:33:57Z"
-        },
-        {
-            "source": {
-                "id": "f6d6ee1134197fe1441d65a3e7915835",
-                "name": "Yahoo Singapore News",
-                "url": "https://sg.news.yahoo.com",
-                "country": "sg"
-            },
-            "title": "Analysis-Powerful new AI models knock the wind out of European adopter stocks",
-            "url": "https://sg.news.yahoo.com/analysis-powerful-ai-models-knock-043336352.html",
-            "urlToImage": "https://media.zenfs.com/en/reuters.com/bc66becb5c79487ddbb73294ee8e0e4d",
-            "publishedAt": "2025-08-15T04:33:36Z"
-        },
-        {
-            "source": {
-                "id": "5ef93dac613cd24454e0d42ebc372612",
-                "name": "ScienceAlert",
-                "url": "https://www.sciencealert.com",
-                "country": "au"
-            },
-            "title": "Half of Older Americans Are Using AI - Here's What They're Doing With It",
-            "url": "https://www.sciencealert.com/half-of-older-americans-are-using-ai-heres-what-theyre-doing-with-it",
-            "urlToImage": "https://www.sciencealert.com/images/2025/08/OlderWomenUsingLaptopAtHome.jpg",
-            "publishedAt": "2025-08-15T03:13:08Z"
-        },
-        {
-            "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
-            },
-            "title": "China's 'robot Olympics' sees humanoids from 16 nations compete in table tennis, football, track",
-            "url": "https://www.straitstimes.com/sport/chinas-robot-olympics-sees-humanoids-from-16-nations-compete-in-table-tennis-football-track",
-            "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/72e597e5d5aa4ada05d1071196dc9ac5463735d38f028efbb1644ed6e8f8697d",
-            "publishedAt": "2025-08-15T02:39:23Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "China's 'robot Olympics' sees humanoids from 16 nations compete in table tennis, football, track",
-            "url": "https://www.reuters.com/sports/chinas-robot-olympics-sees-humanoids-16-nations-compete-table-tennis-football-2025-08-15/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/TOECSCK7XFJTPBAQ5KSRIJ3SWY.jpg?auth=34454e2d87d54983121babdef29ca0e38a47c74118790670f02ca2ed1eb3c162&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-08-15T02:37:21Z"
         }
     ]
 }
