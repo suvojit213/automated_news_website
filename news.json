@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2025-08-20T14:16:18.604216Z",
+    "lastUpdatedAt": "2025-08-20T15:16:51.322853Z",
     "articles": [
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Experts Urge Strengthening Digital Defenses Amid Rising Cyber Threats",
+            "url": "https://www.devdiscourse.com/article/law-order/3548165-experts-urge-strengthening-digital-defenses-amid-rising-cyber-threats",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/24_07_2025_17_22_45_0821184.png?width=920&format=jpeg",
+            "publishedAt": "2025-08-20T14:54:44Z"
+        },
+        {
+            "source": {
+                "id": "f6d6ee1134197fe1441d65a3e7915835",
+                "name": "Yahoo Singapore News",
+                "url": "https://sg.news.yahoo.com",
+                "country": "sg"
+            },
+            "title": "Intel in talks with large investors for equity boost at discount, CNBC reports",
+            "url": "https://sg.news.yahoo.com/intel-talks-large-investors-equity-143856674.html",
+            "urlToImage": "https://media.zenfs.com/en/reuters.com/c90bc8e2f0efd19ade143aa8951ae90c",
+            "publishedAt": "2025-08-20T14:38:56Z"
+        },
+        {
+            "source": {
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
+                "country": "us"
+            },
+            "title": "Gaxos.AI (GXAI) Shares Pull Back After Surge On New AI Platform Launch",
+            "url": "https://www.benzinga.com/trading-ideas/movers/25/08/47236312/gaxos-ai-gxai-shares-pull-back-after-surge-on-new-ai-platform-launch",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/08/20/History-Of-Pulling-Back.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2025-08-20T14:35:44Z"
+        },
+        {
+            "source": {
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
+                "country": "in"
+            },
+            "title": "What's Surya? IBM-NASA 'AI Telescope' That Will Predict Solar Weather",
+            "url": "https://www.ndtvprofit.com/science/technology-artificial-intelligence-space-ibm-nasa-ai-model-surya-sun-solar-weather-prediction",
+            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-08-20%2F0qnicv5v%2FGyzBNHuXgAA3LwW.jpeg?w=1200&auto=format%2Ccompress&ogImage=true",
+            "publishedAt": "2025-08-20T14:16:03Z"
+        },
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            },
+            "title": "N.S.A.’s Acting Director Tried to Save Top Scientist From Purge",
+            "url": "https://www.nytimes.com/2025/08/20/us/politics/security-clearances-scientist-fired.html",
+            "urlToImage": "https://static01.nyt.com/images/2025/08/20/multimedia/20dc-intel-cwvg/20dc-intel-cwvg-facebookJumbo.jpg",
+            "publishedAt": "2025-08-20T14:11:26Z"
+        },
         {
             "source": {
                 "id": "732b46cdef66b68ee2fbc940e79f81de",
@@ -711,6 +771,33 @@
         },
         {
             "source": {
+                "name": "thehindu"
+            },
+            "title": "Trump eyes U.S. government stakes in other chip makers that received CHIPS Act funds, sources say",
+            "url": "https://www.thehindu.com/sci-tech/technology/trump-eyes-us-government-stakes-in-other-chip-makers-that-received-chips-act-funds-sources-say/article69954470.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/orshla/article69954472.ece/alternates/LANDSCAPE_1200/2025-08-18T191053Z_1431772550_RC2V9GAXU7F5_RTRMADP_3_UKRAINE-CRISIS-SUMMIT.JPG",
+            "publishedAt": "2025-08-20 03:09:24"
+        },
+        {
+            "source": {
+                "name": "toi"
+            },
+            "title": "Forget chatbots, lace up for robot race",
+            "url": "https://timesofindia.indiatimes.com/blogs/toi-edit-page/forget-chatbots-lace-up-for-robot-race/",
+            "urlToImage": "https://static.toiimg.com/photo/115047089.cms",
+            "publishedAt": "2025-08-20 02:55:40"
+        },
+        {
+            "source": {
+                "name": "economictimes_indiatimes"
+            },
+            "title": "Mark Zuckerberg shakes up Meta's AI efforts, again",
+            "url": "http://economictimes.indiatimes.com/tech/artificial-intelligence/mark-zuckerberg-shakes-up-metas-ai-efforts-again/articleshow/123397852.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-39234,resizemode-75,msid-123397852/tech/artificial-intelligence/mark-zuckerberg-shakes-up-metas-ai-efforts-again.jpg",
+            "publishedAt": "2025-08-20 02:22:14"
+        },
+        {
+            "source": {
                 "name": "hackaday"
             },
             "title": "Lisp in 99 Lines of C With TinyLisp",
@@ -743,6 +830,15 @@
             "title": "More Than 95% of Nvidia's $4.3 Billion Investment Portfolio Has Been Put to Work in These 2 Scorching-Hot Artificial Intelligence (AI) Stocks",
             "url": "https://www.fool.com/investing/2025/08/20/95-of-nvidia-portfolio-put-to-work-in-2-ai-stocks/",
             "urlToImage": "https://g.foolcdn.com/image/?h=400&op=resize&url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F829743%2Fartificial-intelligence-ai-robot-big-data-bull-market-stock-chart-getty.jpg&w=400",
+            "publishedAt": "2025-08-20 00:00:00"
+        },
+        {
+            "source": {
+                "name": "news_ohio"
+            },
+            "title": "OHIO’s Voinovich Academy, GRID Lab bring 360VR training to public service employees",
+            "url": "https://www.ohio.edu/news/2025/08/ohios-voinovich-academy-grid-lab-bring-360vr-training-public-service-employees",
+            "urlToImage": "https://www.ohio.edu/sites/ohio.edu.news/files/styles/500_max_height/public/2025-08/54033010543_dc0054296e_c.jpg?itok=VXjAXQi4",
             "publishedAt": "2025-08-20 00:00:00"
         },
         {
@@ -3318,114 +3414,6 @@
             "url": "https://www.rappler.com/technology/beat-beta-ai-meta-supposed-wrongful-facebook-instagram-bans/",
             "urlToImage": "https://www.rappler.com/tachyon/2025/06/meta-ai-lawsuit-scaled.jpg",
             "publishedAt": "2025-08-18T09:00:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "World Youth Forum Concludes Dual Summits; Global Youth Explore New Global Issues in the AI Era",
-            "url": "https://www.manilatimes.net/2025/08/18/tmt-newswire/pr-newswire/world-youth-forum-concludes-dual-summits-global-youth-explore-new-global-issues-in-the-ai-era/2169386",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/18/717149.jpg",
-            "publishedAt": "2025-08-18T07:58:41Z"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            },
-            "title": "OpenAI's Sam Altman says AI market is in a bubble",
-            "url": "https://www.cnbc.com/2025/08/18/openai-sam-altman-warns-ai-market-is-in-a-bubble.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108163503-1750799829087-gettyimages-2218344204-_75a5852_mh3s8rn5.jpeg?v=1755496851&w=1920&h=1080",
-            "publishedAt": "2025-08-18T07:51:41Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Lens Technology accelerates Liquid Cooling Innovations for AI Systems",
-            "url": "https://www.manilatimes.net/2025/08/18/tmt-newswire/media-outreach-newswire/lens-technology-accelerates-liquid-cooling-innovations-for-ai-systems/2169374",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/18/717131.png",
-            "publishedAt": "2025-08-18T07:36:37Z"
-        },
-        {
-            "source": {
-                "id": "ca84296ef941bfa461f4239a2290cb99",
-                "name": "News18",
-                "url": "https://www.news18.com",
-                "country": "in"
-            },
-            "title": "Free Data Science Courses: Learn From Harvard, MIT, IBM, Cisco & Google",
-            "url": "https://www.news18.com/education-career/free-data-science-courses-learn-from-harvard-mit-ibm-cisco-google-9511677.html",
-            "urlToImage": "https://images.news18.com/ibnlive/uploads/2025/08/datascince-2025-08-789200d9d57ad67eba39db218e3074f0-16x9.jpg",
-            "publishedAt": "2025-08-18T07:32:47Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "World Youth Forum Concludes Dual Summits; Global Youth Explore New Global Issues in the AI Era",
-            "url": "https://www.manilatimes.net/2025/08/18/tmt-newswire/pr-newswire/world-youth-forum-concludes-dual-summits-global-youth-explore-new-global-issues-in-the-ai-era/2169361",
-            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-            "publishedAt": "2025-08-18T06:58:30Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Foxconn and SoftBank to make data centre equipment in Ohio for Stargate project",
-            "url": "https://www.reuters.com/business/media-telecom/foxconn-softbank-make-data-centre-equipment-ohio-stargate-project-2025-08-18/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/GB4WBQFPL5L6NIRZKAIKRRJ5R4.jpg?auth=94c1e6472384126d13519782a5019e58b7de8880dce745f522cb18fcddccc6b5&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-08-18T06:56:48Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "AI: Shaping Economies and Transforming Futures",
-            "url": "https://www.devdiscourse.com/article/business/3545147-ai-shaping-economies-and-transforming-futures",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/01_05_2025_13_24_30_8298337.png?width=920&format=jpeg",
-            "publishedAt": "2025-08-18T06:46:27Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "KuCoin Spotlight Drives AI Gaming Innovation: Launches Token Sale for AKEDO with Early Access, Exclusive Benefits, and Principal Protection",
-            "url": "https://www.manilatimes.net/2025/08/18/tmt-newswire/pr-newswire/kucoin-spotlight-drives-ai-gaming-innovation-launches-token-sale-for-akedo-with-early-access-exclusive-benefits-and-principal-protection/2169343",
-            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-            "publishedAt": "2025-08-18T06:18:14Z"
-        },
-        {
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            },
-            "title": "Top 10 non-IIT colleges & their AI, data science: Rankings, placements and more",
-            "url": "https://indianexpress.com/article/education/top-10-non-iit-colleges-ai-data-science-rankings-placements-jeemain-advanced-2026-10177693/",
-            "urlToImage": "https://images.indianexpress.com/2025/08/ai-data-science-courses-non-iit.jpg",
-            "publishedAt": "2025-08-18T06:01:59Z"
         }
     ]
 }
