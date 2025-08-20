@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-08-20T18:22:23.764623Z",
+    "lastUpdatedAt": "2025-08-20T19:12:18.197785Z",
     "articles": [
+        {
+            "source": {
+                "id": "79baacd62152cf257ee35e8c0bec19a2",
+                "name": "UPI News",
+                "url": "https://www.upi.com",
+                "country": "us"
+            },
+            "title": "NASA employs AI to better predict solar activity",
+            "url": "https://www.upi.com/Science_News/2025/08/20/NASA-Sun-Surya-IBM-solar-activity-flare-weather/6111755712133/",
+            "urlToImage": "https://cdnph.upi.com/ph/st/th/6111755712133/2025/upi/a17b9e6b491e790717335e1e2fa6a231/v1.5/NASA-employs-AI-to-better-predict-solar-activity.jpg?lg=5",
+            "publishedAt": "2025-08-20T18:45:00Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "In a boost to research, Goa varsity gets advanced AI lab",
+            "url": "https://timesofindia.indiatimes.com/city/goa/in-a-boost-to-research-goa-varsity-gets-advanced-ai-lab/articleshow/123417501.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-123417681,width-1070,height-580,imgsize-1023224,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-08-20T18:43:00Z"
+        },
         {
             "source": {
                 "id": "0a4c92a1a91d0994627a96e134064d69",
@@ -12,6 +36,30 @@
             "url": "https://medicalxpress.com/news/2025-08-ai-platform-3d-visualization-reveal.html",
             "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/aiml-application-using.jpg",
             "publishedAt": "2025-08-20T18:06:24Z"
+        },
+        {
+            "source": {
+                "id": "602d1de710d66397a00201d8efdd36ee",
+                "name": "Inc. Magazine",
+                "url": "https://www.inc.com",
+                "country": "us"
+            },
+            "title": "Google's Pixel 10 Phones Raise the Ante on Artificial Intelligence",
+            "url": "https://www.inc.com/associated-press/googles-pixel-10-phones-raise-the-ante-on-artificial-intelligence/91229439",
+            "urlToImage": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit,w_1024,h_1024/vip/2025/08/google-pixel-10-inc.jpg",
+            "publishedAt": "2025-08-20T18:03:16Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "OpenAI CFO Sees Firm Selling AI Infrastructure Service in Future",
+            "url": "https://www.bloomberg.com/news/articles/2025-08-20/openai-may-sell-infrastructure-services-to-other-firms-cfo-says",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iN3.a.qrz8IA/v0/1200x800.jpg",
+            "publishedAt": "2025-08-20T18:03:09Z"
         },
         {
             "source": {
@@ -1140,6 +1188,24 @@
             "url": "https://www.globenewswire.com/news-release/2025/08/20/3136242/0/en/Quantum-Cryptography-Market-Size-to-Surpass-USD-17-56-Billion-by-2032-Owing-to-Rising-Threat-of-Quantum-Enabled-Cyberattacks-Research-by-SNS-Insider.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
             "publishedAt": "2025-08-20T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "cio"
+            },
+            "title": "A CXO’s Handbook for Success",
+            "url": "https://www.cio.com/article/4041131/a-cxos-handbook-for-success.html",
+            "urlToImage": "https://www.cio.com/wp-content/uploads/2025/08/4041131-0-19898000-1755673647-shutterstock_2491695137.jpg?quality=50&strip=all&w=1024",
+            "publishedAt": "2025-08-20 07:07:13"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "The AI Building Block You’ve Never Heard Of (But Use Every Day)",
+            "url": "https://hackernoon.com/the-ai-building-block-youve-never-heard-of-but-use-every-day",
+            "urlToImage": "https://hackernoon.imgix.net/images/2jqChkrv03exBUgkLrDzIbfM99q2-y402y1q.jpeg",
+            "publishedAt": "2025-08-20 06:23:54"
         },
         {
             "source": {
@@ -3336,78 +3402,6 @@
             "url": "https://nypost.com/2025/08/18/business/openai-ceo-sam-altman-warns-of-ai-bubble-says-investors-are-overexcited-report/",
             "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/08/newspress-collage-rlljrkcgy-1755535352731.jpg?quality=75&strip=all&1755521065&w=1024",
             "publishedAt": "2025-08-18T16:45:59Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "How AI support can go wrong in safety-critical settings",
-            "url": "https://medicalxpress.com/news/2025-08-ai-wrong-safety-critical.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/how-ai-support-can-go.jpg",
-            "publishedAt": "2025-08-18T16:38:10Z"
-        },
-        {
-            "source": {
-                "id": "c73f76bea6ea26fd91e89543599bb29b",
-                "name": "WebProNews",
-                "url": "https://www.webpronews.com",
-                "country": "us"
-            },
-            "title": "AI Turns Cybersecurity into Arms Race: $10B Losses Loom",
-            "url": "https://www.webpronews.com/ai-turns-cybersecurity-into-arms-race-10b-losses-loom/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-1fe4ca68-e6a8-4d89-8ce3-cd1c4fdbfde6.jpeg",
-            "publishedAt": "2025-08-18T16:28:13Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Rethinking AI readiness of students",
-            "url": "https://www.manilatimes.net/2025/08/19/business/top-business/rethinking-ai-readiness-of-students/2169617",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/18/717708.jpg",
-            "publishedAt": "2025-08-18T16:11:00Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com",
-                "country": "ca"
-            },
-            "title": "CIRO shut down some systems after cybersecurity threat found",
-            "url": "https://www.cp24.com/news/money/2025/08/18/securities-watchdog-ciro-shut-down-some-systems-after-cybersecurity-threat-found/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/AFPFHHZ435K3RS33ES5BXQ5TRQ.jpg?smart=true&auth=ba4bc438b0079e2a10df521acdd8598441d6b1a877781fa643941c33e8293566&width=1200&height=630",
-            "publishedAt": "2025-08-18T15:37:52Z"
-        },
-        {
-            "source": {
-                "id": "c73f76bea6ea26fd91e89543599bb29b",
-                "name": "WebProNews",
-                "url": "https://www.webpronews.com",
-                "country": "us"
-            },
-            "title": "2025 Cybersecurity: AI Phishing Surges, Losses Hit $10B",
-            "url": "https://www.webpronews.com/2025-cybersecurity-ai-phishing-surges-losses-hit-10b/",
-            "urlToImage": "https://www.webpronews.com/wp-content/themes/wpntheme/path/favicon.ico",
-            "publishedAt": "2025-08-18T15:20:03Z"
-        },
-        {
-            "source": {
-                "id": "e553cce06d349ac1f7fbb7618a979256",
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com",
-                "country": "us"
-            },
-            "title": "Madison Avenue Is Starting to Love A.I.",
-            "url": "https://www.nytimes.com/2025/08/18/business/madison-avenue-is-starting-to-love-ai.html",
-            "urlToImage": "https://static01.nyt.com/images/2025/07/31/31visualUploader-84324-cover/31visualUploader-84324-cover-facebookJumbo.jpg",
-            "publishedAt": "2025-08-18T15:16:04Z"
         }
     ]
 }
