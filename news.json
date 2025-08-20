@@ -1,6 +1,102 @@
 {
-    "lastUpdatedAt": "2025-08-20T01:12:35.469481Z",
+    "lastUpdatedAt": "2025-08-20T03:05:32.711547Z",
     "articles": [
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "How AI-enhanced hackers are stealing billions",
+            "url": "https://www.livemint.com/global/how-ai-enhanced-hackers-are-stealing-billions-11755655127897.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2025/08/20/1600x900/g793ce4f66d422d1f4ffb51d3377a1fde8c09e4b9e4edaec3d_1755655263684_1755655263798.png",
+            "publishedAt": "2025-08-20T02:02:05Z"
+        },
+        {
+            "source": {
+                "id": "91120a92e0d24e24fbffb6d0affabfe6",
+                "name": "Bangkok Post",
+                "url": "https://www.bangkokpost.com",
+                "country": "th"
+            },
+            "title": "Polar bear waltz: Fake Trump-Putin AI images shroud Ukraine peace effort",
+            "url": "https://www.bangkokpost.com/world/3089934/polar-bear-waltz-fake-trump-putin-ai-images-shroud-ukraine-peace-effort",
+            "urlToImage": "https://static.bangkokpost.com/media/content/20250820/c1_5747210_700.jpg",
+            "publishedAt": "2025-08-20T01:45:00Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "71% of Americans see a jobless future losing to AI: Will Gen Z ever find stable jobs?",
+            "url": "https://timesofindia.indiatimes.com/education/news/71-of-americans-see-a-jobless-future-losing-to-ai-will-gen-z-ever-find-stable-jobs/articleshow/123397302.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-123397322,width-1070,height-580,imgsize-122551,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-08-20T01:31:00Z"
+        },
+        {
+            "source": {
+                "id": "933344203c2b862af768b5e662a162a4",
+                "name": "International Business Times",
+                "url": "https://www.ibtimes.com",
+                "country": "us"
+            },
+            "title": "Artificial Intelligence Integration in Healthcare Industry Is on a Clear Transformation Path: From Augmentation Tools for Human Workers to Semi-autonomous AI Agents, Overseen by Humans",
+            "url": "https://www.ibtimes.com/artificial-intelligence-integration-healthcare-industry-clear-transformation-path-3781238",
+            "urlToImage": "https://d.ibtimes.com/en/full/4616945/artificial-intelligence-integration-healthcare-industry.jpg",
+            "publishedAt": "2025-08-20T01:13:27Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "No special treatment given to Israeli official accused of Nevada sex crime, prosecutor tells newspaper",
+            "url": "https://www.reuters.com/world/us/no-special-treatment-given-israeli-official-accused-nevada-sex-crime-prosecutor-2025-08-20/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-08-20T01:13:25Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Israeli Cybersecurity Official Arrested in U.S. Amid Child Sex Solicitation Probe",
+            "url": "https://www.devdiscourse.com/article/law-order/3547065-israeli-cybersecurity-official-arrested-in-us-amid-child-sex-solicitation-probe",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/01_04_2019_17_12_02_6631371.jpg?width=920&format=jpeg",
+            "publishedAt": "2025-08-20T01:13:06Z"
+        },
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "AI and higher education?",
+            "url": "https://www.thenews.com.pk/latest/1337158-ai-and-higher-education",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/updates/2025-08-20/1337158_065604_updates.jpg",
+            "publishedAt": "2025-08-20T01:00:00Z"
+        },
+        {
+            "source": {
+                "id": "3a3847d645a619320aa3b3484581e395",
+                "name": "CBS News",
+                "url": "https://www.cbsnews.com",
+                "country": "us"
+            },
+            "title": "New AI-powered cybersecurity training headquarters to create more than 200 jobs in Maryland",
+            "url": "https://www.cbsnews.com/baltimore/news/ai-powered-cybersecurity-headquarters-ioroncircule-200-jobs-maryland/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/08/20/5a8306ed-b11f-4aad-aac1-2460437e48d5/thumbnail/1200x630/c7cd28b943ff04af3d8d88cb98d9051f/ironcircle.png",
+            "publishedAt": "2025-08-20T00:55:00Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -1344,6 +1440,51 @@
             "url": "https://www.globenewswire.com/news-release/2025/08/19/3135466/28124/en/Vehicle-To-Everything-V2X-Cybersecurity-Market-Report-2025-Historic-Analysis-and-Growth-Projections-2019-2034.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
             "publishedAt": "2025-08-19T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "ECUre: The AI-Powered Guardian Securing Your Car's Electronic Control Units from Malware",
+            "url": "https://hackernoon.com/ecure-the-ai-powered-guardian-securing-your-cars-electronic-control-units-from-malware",
+            "urlToImage": "https://hackernoon.imgix.net/images/4C9XGbBXTfWCpZ7icj0NdFe3DYE2-840213f.png",
+            "publishedAt": "2025-08-19 15:03:50"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "It's International VPN Day – and here's why that's important",
+            "url": "https://www.tomsguide.com/computing/vpns/its-international-vpn-day-and-heres-why-thats-important",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/nvTN5V5gmGwAshDKvqUQMF-1280-80.jpg",
+            "publishedAt": "2025-08-19 14:48:51"
+        },
+        {
+            "source": {
+                "name": "slate_usa"
+            },
+            "title": "I’m a Doctor. I Never in a Million Years Thought I’d Do What I’m Doing Now to Connect With Patients.",
+            "url": "https://slate.com/technology/2025/08/doctor-patient-exam-ai-scribe-diagnosis.html?via=rss",
+            "urlToImage": "https://compote.slate.com/images/0dd14e9a-2fe8-401c-947d-aae506c25b72.jpeg?crop=6046%2C4031%2Cx0%2Cy2",
+            "publishedAt": "2025-08-19 14:00:00"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "NVIDIA Stock Jumps on CoreWeave Investment Amid AI Infrastructure Boost",
+            "url": "https://www.analyticsinsight.net/news/nvidia-stock-jumps-on-coreweave-investment-amid-ai-infrastructure-boost",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-08-19%2F2km8wzef%2FNvidia-Stock-Jumps-on-CoreWeave-Investment-Amid-AI-Infrastructure-Boost.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-08-19 13:45:07"
+        },
+        {
+            "source": {
+                "name": "techtarget"
+            },
+            "title": "Use ssh-keygen to generate new key pairs: A full tutorial",
+            "url": "https://www.techtarget.com/searchsecurity/tutorial/Use-ssh-keygen-to-create-SSH-key-pairs-and-more",
+            "urlToImage": "https://www.techtarget.com/rms/onlineimages/keys_a408418016_searchsitetablet_520X173.jpg",
+            "publishedAt": "2025-08-19 13:30:19"
         },
         {
             "source": {
@@ -3162,132 +3303,6 @@
             "url": "https://www.gsmarena.com/minisforum_ai_x1us_ryzen_9_ai_mini_pc_review-news-68897.php",
             "urlToImage": "https://fdn.gsmarena.com/imgroot/news/25/08/minisforum-ai-x1-review/-952x498w6/gsmarena_000.jpg",
             "publishedAt": "2025-08-18 08:01:02"
-        },
-        {
-            "source": {
-                "name": "macworld"
-            },
-            "title": "You can officially get a MacBook Pro for only $325",
-            "url": "https://www.macworld.com/article/2879778/you-can-officially-get-a-macbook-pro-for-only-325.html",
-            "urlToImage": "https://www.macworld.com/wp-content/uploads/2025/08/MacBook-Pro-1.jpg?quality=50&strip=all&w=1024",
-            "publishedAt": "2025-08-18 08:00:00"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "The Rise of Quantum AI and Its World-Changing Impact",
-            "url": "https://hackernoon.com/the-rise-of-quantum-ai-and-its-world-changing-impact",
-            "urlToImage": "https://hackernoon.imgix.net/images/9SBj6OzMvXOEhDxTjjuu75pLYnp1-1a238j0.png",
-            "publishedAt": "2025-08-18 07:43:10"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "I review Macs for a living: 5 ways macOS Tahoe has made me more productive",
-            "url": "https://www.tomsguide.com/computing/macos/i-review-macs-for-a-living-5-ways-macos-tahoe-has-made-me-more-productive",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Bn44ceL3Rc7dbJLxjXL6MF-1280-80.jpg",
-            "publishedAt": "2025-08-18 07:15:00"
-        },
-        {
-            "source": {
-                "name": "itpro"
-            },
-            "title": "The Apple Mac Mini M4 is an affordable powerhouse that's perfect for any office desk – and it's also utterly adorable",
-            "url": "https://www.itpro.com/hardware/the-apple-mac-mini-m4-is-an-affordable-powerhouse-thats-perfect-for-any-office-desk-and-its-also-utterly-adorable",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/cg9xUFDkRZH7MmRRpTmzQh-1280-80.jpg",
-            "publishedAt": "2025-08-18 07:00:00"
-        },
-        {
-            "source": {
-                "name": "digit_in"
-            },
-            "title": "From Office to GitHub: Microsoft’s complete GPT-5 overhaul",
-            "url": "https://www.digit.in/en/features/general/from-office-to-github-microsofts-complete-gpt-5-overhaul.html",
-            "urlToImage": "https://static.digit.in/CoPilot.png",
-            "publishedAt": "2025-08-18 06:20:55"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Multi-Modal MCP Servers: Handling Files, Images, and Streaming Data",
-            "url": "https://hackernoon.com/multi-modal-mcp-servers-handling-files-images-and-streaming-data",
-            "urlToImage": "https://hackernoon.imgix.net/images/BtjpboAJojhsZer7SAIVzOYlpFn1-yc02zuk.jpeg",
-            "publishedAt": "2025-08-18 04:30:09"
-        },
-        {
-            "source": {
-                "name": "mit"
-            },
-            "title": "A shape-changing antenna for more versatile sensing and communication",
-            "url": "https://news.mit.edu/2025/shape-changing-antenna-more-versatile-sensing-and-communication-0818",
-            "urlToImage": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202508/MIT-MetaAntenna-01-press.jpg?itok=M02IGbJw",
-            "publishedAt": "2025-08-18 04:00:00"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "IBM Study: Sports Fans Demand More Dynamic Digital Content, Powered by AI",
-            "url": "https://www.prnewswire.com/news-releases/ibm-study-sports-fans-demand-more-dynamic-digital-content-powered-by-ai-302531897.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2319830/IBM_LOGO_1.jpg?p=original",
-            "publishedAt": "2025-08-18 04:00:00"
-        },
-        {
-            "source": {
-                "name": "financialcontent"
-            },
-            "title": "Prediction: These 3 Artificial Intelligence (AI) Stocks Will Be Worth Over $10 Trillion by 2035",
-            "url": "https://www.fool.com/investing/2025/08/18/prediction-these-3-artificial-intelligence-ai-stoc/",
-            "urlToImage": "https://g.foolcdn.com/image/?h=400&op=resize&url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F829448%2Fwoman-digital-images-ai.jpg&w=400",
-            "publishedAt": "2025-08-18 00:00:00"
-        },
-        {
-            "source": {
-                "name": "techtarget"
-            },
-            "title": "What is application migration? Examples and best practices",
-            "url": "https://www.techtarget.com/searchcloudcomputing/definition/application-migration",
-            "urlToImage": "https://www.techtarget.com/rms/onlineImages/borgini_julia.jpg",
-            "publishedAt": "2025-08-18 00:00:00"
-        },
-        {
-            "source": {
-                "id": "70a0fed2567e1f81584197893e1068f9",
-                "name": "Boston.com",
-                "url": "https://www.boston.com",
-                "country": "us"
-            },
-            "title": "He sold his likeness. Now his avatar shills supplements on TikTok.",
-            "url": "https://www.boston.com/news/technology/2025/08/17/he-sold-his-likeness-now-his-ai-avatar-is-shilling-supplements-on-tiktok/",
-            "urlToImage": "https://bdc2020.o0bc.com/wp-content/uploads/2025/08/n1-68a242b9dcb1a-768x432.jpg",
-            "publishedAt": "2025-08-17T21:12:27Z"
-        },
-        {
-            "source": {
-                "id": "c73f76bea6ea26fd91e89543599bb29b",
-                "name": "WebProNews",
-                "url": "https://www.webpronews.com",
-                "country": "us"
-            },
-            "title": "Accenture Acquires CyberCX for Over A$1B to Boost APAC Cybersecurity",
-            "url": "https://www.webpronews.com/accenture-acquires-cybercx-for-over-a1b-to-boost-apac-cybersecurity/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-fdd4260a-6bc7-4bdf-97b2-c733cdc36d90.jpeg",
-            "publishedAt": "2025-08-17T19:59:24Z"
-        },
-        {
-            "source": {
-                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-                "name": "Markets Insider",
-                "url": "https://markets.businessinsider.com",
-                "country": "us"
-            },
-            "title": "APP vs. ACHR vs. RGTI: Which ‘Strong Buy’ Growth Stock Has the Highest Upside Potential, According to Wall Street?",
-            "url": "https://markets.businessinsider.com/news/stocks/app-vs-achr-vs-rgti-which-strong-buy-growth-stock-has-the-highest-upside-potential-according-to-wall-street-1035047615",
-            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/08/image-1129.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-            "publishedAt": "2025-08-17T19:32:32Z"
         }
     ]
 }
