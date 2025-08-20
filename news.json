@@ -1,6 +1,138 @@
 {
-    "lastUpdatedAt": "2025-08-20T13:27:33.001316Z",
+    "lastUpdatedAt": "2025-08-20T14:16:18.604216Z",
     "articles": [
+        {
+            "source": {
+                "id": "732b46cdef66b68ee2fbc940e79f81de",
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com",
+                "country": "us"
+            },
+            "title": "New zero-day startup offers $20 million for tools that can hack any smartphone",
+            "url": "https://techcrunch.com/2025/08/20/new-zero-day-startup-offers-20-million-for-tools-that-can-hack-any-smartphone/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/broken-smartphone-glass.jpg?resize=1200,800",
+            "publishedAt": "2025-08-20T14:03:00Z"
+        },
+        {
+            "source": {
+                "id": "ca84296ef941bfa461f4239a2290cb99",
+                "name": "News18",
+                "url": "https://www.news18.com",
+                "country": "in"
+            },
+            "title": "‘Free AI For All’: Raghav Chadha Wants Govt To Make ChatGPT, Gemini Free For Indians",
+            "url": "https://www.news18.com/india/free-ai-for-all-raghav-chadha-wants-govt-to-make-chatgpt-gemini-free-for-indians-ws-kl-9517591.html",
+            "urlToImage": "https://images.news18.com/ibnlive/uploads/2025/08/raghav-chadha-2025-08-5e668a86c7691adbe6e9a222d28e6b30-16x9.jpg",
+            "publishedAt": "2025-08-20T14:00:53Z"
+        },
+        {
+            "source": {
+                "id": "bff0cd3b8c64dceaada8841bea814f65",
+                "name": "The Telegraph",
+                "url": "https://www.telegraph.co.uk",
+                "country": "gb"
+            },
+            "title": "The AI report triggering panic and fear on Wall Street",
+            "url": "https://www.telegraph.co.uk/business/2025/08/20/ai-report-triggering-panic-and-fear-on-wall-street/",
+            "urlToImage": "https://www.telegraph.co.uk/content/dam/briefs/2025/08/20/TELEMMGLPICT000433211705_17556901481680_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwSX5rhseiWKOo9p9OQ-ymek.jpeg?impolicy=OG-Standard",
+            "publishedAt": "2025-08-20T13:59:00Z"
+        },
+        {
+            "source": {
+                "id": "85e5403407038478a5e7d8d100ff8e8f",
+                "name": "CP24 Toronto",
+                "url": "https://www.cp24.com",
+                "country": "ca"
+            },
+            "title": "Wall Street holds steady",
+            "url": "https://www.cp24.com/news/money/2025/08/20/wall-street-holds-steady-a-day-after-a-tech-swoon/",
+            "urlToImage": "https://www.cp24.com/resizer/v2/FYB3WKKMIJCQVCKMUCROBOYSLA.jpg?smart=true&auth=f475c158a966d1ffac2df37244940bf6ce4c66961452cc86a9390f90abde85e2&width=1200&height=630",
+            "publishedAt": "2025-08-20T13:47:47Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Pioneering Global Supply Chain Risk Management: Uniqus and SecurityScorecard's Strategic Partnership",
+            "url": "https://www.devdiscourse.com/article/technology/3548025-pioneering-global-supply-chain-risk-management-uniqus-and-securityscorecards-strategic-partnership",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/24_07_2025_20_04_32_0153705.png?width=920&format=jpeg",
+            "publishedAt": "2025-08-20T13:45:08Z"
+        },
+        {
+            "source": {
+                "id": "300a668ea1fb6b59c9da32db8e856d66",
+                "name": "GuelphToday",
+                "url": "https://www.guelphtoday.com",
+                "country": "ca"
+            },
+            "title": "Wall Street holds steady a day after a tech swoon",
+            "url": "https://www.guelphtoday.com/national-business/wall-street-holds-steady-a-day-after-a-tech-swoon-11100102",
+            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/08/9411b05e2e63863474f8b2dc5315fe1ee6b7c6b1baec23ec34bc6bcac02e01e1.jpg;w=1200;h=800;mode=crop",
+            "publishedAt": "2025-08-20T13:35:23Z"
+        },
+        {
+            "source": {
+                "id": "ec12383a90942fd0ccc50c66266217a5",
+                "name": "BradfordToday",
+                "url": "https://www.bradfordtoday.ca",
+                "country": "ca"
+            },
+            "title": "Wall Street holds steady a day after a tech swoon",
+            "url": "https://www.bradfordtoday.ca/national-business/wall-street-holds-steady-a-day-after-a-tech-swoon-11100102",
+            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/08/9411b05e2e63863474f8b2dc5315fe1ee6b7c6b1baec23ec34bc6bcac02e01e1.jpg;w=1200;h=800;mode=crop",
+            "publishedAt": "2025-08-20T13:35:23Z"
+        },
+        {
+            "source": {
+                "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
+                "name": "BayToday",
+                "url": "https://www.baytoday.ca",
+                "country": "ca"
+            },
+            "title": "Wall Street holds steady a day after a tech swoon",
+            "url": "https://www.baytoday.ca/business/wall-street-holds-steady-a-day-after-a-tech-swoon-11100102",
+            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/08/9411b05e2e63863474f8b2dc5315fe1ee6b7c6b1baec23ec34bc6bcac02e01e1.jpg;w=1200;h=800;mode=crop",
+            "publishedAt": "2025-08-20T13:35:23Z"
+        },
+        {
+            "source": {
+                "id": "b93fbda11fec5c2f08572a67a337e87d",
+                "name": "ElliotLakeToday.com",
+                "url": "https://www.elliotlaketoday.com",
+                "country": "ca"
+            },
+            "title": "Wall Street holds steady a day after a tech swoon",
+            "url": "https://www.elliotlaketoday.com/national-business/wall-street-holds-steady-a-day-after-a-tech-swoon-11100102",
+            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/08/9411b05e2e63863474f8b2dc5315fe1ee6b7c6b1baec23ec34bc6bcac02e01e1.jpg;w=1200;h=800;mode=crop",
+            "publishedAt": "2025-08-20T13:35:23Z"
+        },
+        {
+            "source": {
+                "id": "0ce70f407e0fa82ddaeeb29243aa8210",
+                "name": "SooToday",
+                "url": "https://www.sootoday.com",
+                "country": "ca"
+            },
+            "title": "Wall Street holds steady a day after a tech swoon",
+            "url": "https://www.sootoday.com/national-business/wall-street-holds-steady-a-day-after-a-tech-swoon-11100102",
+            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/08/9411b05e2e63863474f8b2dc5315fe1ee6b7c6b1baec23ec34bc6bcac02e01e1.jpg;w=1200;h=800;mode=crop",
+            "publishedAt": "2025-08-20T13:35:23Z"
+        },
+        {
+            "source": {
+                "id": "a626af07817344050e3336789e06a2f5",
+                "name": "Vancouver Is Awesome",
+                "url": "https://www.vancouverisawesome.com",
+                "country": "ca"
+            },
+            "title": "Wall Street holds steady a day after a tech swoon",
+            "url": "https://www.vancouverisawesome.com/national-business/wall-street-holds-steady-a-day-after-a-tech-swoon-11100108",
+            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/08/9411b05e2e63863474f8b2dc5315fe1ee6b7c6b1baec23ec34bc6bcac02e01e1.jpg;w=1200;h=800;mode=crop",
+            "publishedAt": "2025-08-20T13:35:23Z"
+        },
         {
             "source": {
                 "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
@@ -576,6 +708,15 @@
             "url": "https://www.globenewswire.com/news-release/2025/08/20/3136242/0/en/Quantum-Cryptography-Market-Size-to-Surpass-USD-17-56-Billion-by-2032-Owing-to-Rising-Threat-of-Quantum-Enabled-Cyberattacks-Research-by-SNS-Insider.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
             "publishedAt": "2025-08-20T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "hackaday"
+            },
+            "title": "Lisp in 99 Lines of C With TinyLisp",
+            "url": "https://hackaday.com/2025/08/19/lisp-in-99-lines-of-c-with-tinylisp/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2025/08/tinylisp_lisp850_sharp_pc-g850vs.jpg",
+            "publishedAt": "2025-08-20 02:00:16"
         },
         {
             "source": {
@@ -3285,141 +3426,6 @@
             "url": "https://indianexpress.com/article/education/top-10-non-iit-colleges-ai-data-science-rankings-placements-jeemain-advanced-2026-10177693/",
             "urlToImage": "https://images.indianexpress.com/2025/08/ai-data-science-courses-non-iit.jpg",
             "publishedAt": "2025-08-18T06:01:59Z"
-        },
-        {
-            "source": {
-                "id": "03f4f74aaa0a44ccbb846a1630123293",
-                "name": "Crypto Breaking News",
-                "url": "https://www.cryptobreaking.com",
-                "country": "ae"
-            },
-            "title": "Former Twitter CEO Agrawal Launches New AI Startup: Insider Details",
-            "url": "https://www.cryptobreaking.com/former-twitter-ceo-agrawal-launches/",
-            "urlToImage": "https://www.cryptobreaking.com/wp-content/uploads/2025/08/1755496849.png",
-            "publishedAt": "2025-08-18T06:01:02Z"
-        },
-        {
-            "source": {
-                "id": "91120a92e0d24e24fbffb6d0affabfe6",
-                "name": "Bangkok Post",
-                "url": "https://www.bangkokpost.com",
-                "country": "th"
-            },
-            "title": "Singapore prioritises jobs amid fragmenting world, rise of AI",
-            "url": "https://www.bangkokpost.com/world/3088782/singapore-prioritises-jobs-amid-fragmenting-world-rise-of-ai",
-            "urlToImage": "https://static.bangkokpost.com/media/content/20250818/c1_3088782_700.jpg",
-            "publishedAt": "2025-08-18T05:19:00Z"
-        },
-        {
-            "source": {
-                "id": "e553cce06d349ac1f7fbb7618a979256",
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com",
-                "country": "us"
-            },
-            "title": "Trump’s Plans for A.I. Might Hit a Wall. Thank Europe.",
-            "url": "https://www.nytimes.com/2025/08/18/opinion/trump-ai-europe.html",
-            "urlToImage": "https://static01.nyt.com/images/2025/08/18/opinion/18bradford/18bradford-facebookJumbo.jpg",
-            "publishedAt": "2025-08-18T05:00:05Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Self-evolving artificial intelligence could transform healthcare, industry and science",
-            "url": "https://www.devdiscourse.com/article/technology/3541598-self-evolving-artificial-intelligence-could-transform-healthcare-industry-and-science",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/14_08_2025_18_45_52_5539681.png?width=920&format=jpeg",
-            "publishedAt": "2025-08-18T04:58:26Z"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            },
-            "title": "An Asian data center hub is quietly grappling with AI's massive costs",
-            "url": "https://www.cnbc.com/2025/08/18/an-asian-data-center-hub-is-quietly-grappling-with-ais-massive-costs.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108186902-1755337780907-gettyimages-2159544073-dsc_8121.jpeg?v=1755337791&w=1920&h=1080",
-            "publishedAt": "2025-08-18T04:34:21Z"
-        },
-        {
-            "source": {
-                "id": "1b40b878c09151e8cf44a095bc8569a5",
-                "name": "ETF Daily News",
-                "url": "https://www.etfdailynews.com",
-                "country": "us"
-            },
-            "title": "Promising Artificial Intelligence Stocks To Follow Now - August 16th",
-            "url": "https://www.etfdailynews.com/2025/08/18/promising-artificial-intelligence-stocks-to-follow-now-august-16th/",
-            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/salesforcecom-inc-logo-1200x675.png&w=240&h=240&zc=2",
-            "publishedAt": "2025-08-18T03:06:47Z"
-        },
-        {
-            "source": {
-                "id": "1b40b878c09151e8cf44a095bc8569a5",
-                "name": "ETF Daily News",
-                "url": "https://www.etfdailynews.com",
-                "country": "us"
-            },
-            "title": "Promising Cybersecurity Stocks To Watch Now - August 16th",
-            "url": "https://www.etfdailynews.com/2025/08/18/promising-cybersecurity-stocks-to-watch-now-august-16th/",
-            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/google-inc-logo-1200x675.png&w=240&h=240&zc=2",
-            "publishedAt": "2025-08-18T02:34:51Z"
-        },
-        {
-            "source": {
-                "id": "e0c33fc9d04ac3cbaad8f31915a02767",
-                "name": "7NEWS.com.au",
-                "url": "https://7news.com.au",
-                "country": "au"
-            },
-            "title": "Nationals MP Barnaby Joyce gives grim warning amid major push for work from home changes",
-            "url": "https://7news.com.au/business/workplace-matters/nationals-mp-barnaby-joyce-gives-grim-warning-amid-major-push-for-work-from-home-changes-c-19717587",
-            "urlToImage": "https://images.7news.com.au/publication/C-19717587/9abb6407b50b2e0bebe735073a22e1c34b3be4eb-16x9-x0y0w1280h720.jpg?imwidth=1200",
-            "publishedAt": "2025-08-18T01:15:40Z"
-        },
-        {
-            "source": {
-                "id": "a0300bc9a6e9d5b317bd6f614767231f",
-                "name": "Forbes",
-                "url": "https://www.forbes.com",
-                "country": "us"
-            },
-            "title": "Palo Alto Networks Earnings Preview: Cybersecurity & AI Focus",
-            "url": "https://www.forbes.com/sites/adamsarhan/2025/08/18/palo-alto-networks-earnings-preview-cybersecurity--ai-focus/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68a32a45757a116cac387dd3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2025-08-18T00:00:00Z"
-        },
-        {
-            "source": {
-                "name": "benzinga"
-            },
-            "title": "Fabrinet Q4 FY2025 Earnings Call Transcript",
-            "url": "https://www.benzinga.com/markets/earnings/25/08/47199002/fabrinet-q4-fy2025-earnings-call-transcript",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/08/18/Fabrinet.jpeg?auto=jpg&dpr=1&fit=crop&height=480&optimize=medium&width=720",
-            "publishedAt": "2025-08-18 23:03:34"
-        },
-        {
-            "source": {
-                "name": "engadget"
-            },
-            "title": "Apple iPhone 17, Air and Pro launch date is rumored for September: Here's everything you need to know",
-            "url": "https://www.engadget.com/mobile/smartphones/apple-iphone-17-air-and-pro-launch-date-is-rumored-for-september-heres-everything-you-need-to-know-153024574.html",
-            "urlToImage": "https://o.aolcdn.com/images/dims?client=19f2b5e49a271b2bde77&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-09%2Fb9a38080-756d-11ef-9fbd-6b990c391cf6&resize=1400%2C787&signature=080bcc4c3e8054983c2c84d47c03dfb4a98a6774",
-            "publishedAt": "2025-08-18 22:23:57"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "How I Cut Agentic Workflow Latency by 3-5x Without Increasing Model Costs",
-            "url": "https://hackernoon.com/how-i-cut-agentic-workflow-latency-by-3-5x-without-increasing-model-costs",
-            "urlToImage": "https://hackernoon.imgix.net/images/onWjUzAcK4MjMFExRUqrUNj9D803-rv039ta.png",
-            "publishedAt": "2025-08-18 21:46:21"
         }
     ]
 }
