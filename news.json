@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-08-20T19:12:18.197785Z",
+    "lastUpdatedAt": "2025-08-20T20:17:11.157294Z",
     "articles": [
+        {
+            "source": {
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
+                "country": "us"
+            },
+            "title": "Google mocks Apple's AI struggles as it launches Pixel 10 smartphones",
+            "url": "https://nypost.com/2025/08/20/business/google-mocks-apples-ai-struggles-as-it-launches-pixel-10-smartphones/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/08/google-pixel-10-ai.jpg?quality=75&strip=all&1755702772&w=1024",
+            "publishedAt": "2025-08-20T19:38:19Z"
+        },
+        {
+            "source": {
+                "id": "18c2a6429621fbedc49891aa7c847ec6",
+                "name": "Gizmodo",
+                "url": "https://gizmodo.com",
+                "country": "us"
+            },
+            "title": "The AI Battle's Newest Warrior Strikes a Major Blow to Big Tech",
+            "url": "https://gizmodo.com/deepseek-v-3-1-release-aider-score-china-ai-2000645531",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/08/Elon-Musk-and-Sam-Altman-1200x675.jpg",
+            "publishedAt": "2025-08-20T19:37:02Z"
+        },
+        {
+            "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+            },
+            "title": "Experts highlight need for secure digital infrastructure",
+            "url": "https://indianexpress.com/article/cities/lucknow/experts-highlight-need-for-secure-digital-infrastructure-10201596/",
+            "urlToImage": "https://images.indianexpress.com/2025/08/cyber1.jpg",
+            "publishedAt": "2025-08-20T19:16:36Z"
+        },
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            },
+            "title": "Opinion | A.I. Might Change the World Without Remaking It",
+            "url": "https://www.nytimes.com/2025/08/20/opinion/ai-technology-chatgpt.html",
+            "urlToImage": "https://static01.nyt.com/images/2025/08/31/magazine/31mag-normalai-02/31mag-normalai-02-facebookJumbo.jpg",
+            "publishedAt": "2025-08-20T19:01:07Z"
+        },
         {
             "source": {
                 "id": "79baacd62152cf257ee35e8c0bec19a2",
@@ -60,6 +108,18 @@
             "url": "https://www.bloomberg.com/news/articles/2025-08-20/openai-may-sell-infrastructure-services-to-other-firms-cfo-says",
             "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iN3.a.qrz8IA/v0/1200x800.jpg",
             "publishedAt": "2025-08-20T18:03:09Z"
+        },
+        {
+            "source": {
+                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+                "name": "NDTV News",
+                "url": "https://www.ndtv.com",
+                "country": "in"
+            },
+            "title": "NASA Launches AI Model To Understand Solar Eruptions, Predict Space Weather",
+            "url": "https://www.ndtv.com/world-news/nasa-launches-ai-model-to-understand-solar-eruptions-predict-space-weather-9126694",
+            "urlToImage": "https://c.ndtvimg.com/2025-08/t30o4gk8_surya-x_625x300_20_August_25.jpeg",
+            "publishedAt": "2025-08-20T18:02:33Z"
         },
         {
             "source": {
@@ -1188,6 +1248,51 @@
             "url": "https://www.globenewswire.com/news-release/2025/08/20/3136242/0/en/Quantum-Cryptography-Market-Size-to-Surpass-USD-17-56-Billion-by-2032-Owing-to-Rising-Threat-of-Quantum-Enabled-Cyberattacks-Research-by-SNS-Insider.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
             "publishedAt": "2025-08-20T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Key Challenges in OCR Research and Future Directions",
+            "url": "https://hackernoon.com/key-challenges-in-ocr-research-and-future-directions",
+            "urlToImage": "https://hackernoon.imgix.net/images/5wpKgV75aONqkTJlafw2yQmK9yd2-550388p.png",
+            "publishedAt": "2025-08-20 08:00:07"
+        },
+        {
+            "source": {
+                "name": "digit_in"
+            },
+            "title": "DeepSeek releases V3.1: Here’s what’s new",
+            "url": "https://www.digit.in/features/general/deepseek-releases-v31-heres-whats-new.html",
+            "urlToImage": "https://static.digit.in/Deepseek.png",
+            "publishedAt": "2025-08-20 07:59:42"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "What is the Difference between Generative AI and Predictive AI?",
+            "url": "https://www.analyticsinsight.net/generative-ai/what-is-the-difference-between-generative-ai-and-predictive-ai",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-08-19%2Fogjyblj4%2FWhat-is-the-Difference-between-Generative-AI-and-Predictive-AI.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-08-20 07:40:15"
+        },
+        {
+            "source": {
+                "name": "computerweekly"
+            },
+            "title": "Nokia, Netplus deliver advanced IPTV services for enhanced CX",
+            "url": "https://www.computerweekly.com/news/366629793/Nokia-Netplus-deliver-advanced-IPTV-services-for-enhanced-CX",
+            "urlToImage": "https://www.computerweekly.com/visuals/German/article/video-streaming-1-adobe_searchsitetablet_520X173.jpg",
+            "publishedAt": "2025-08-20 07:39:00"
+        },
+        {
+            "source": {
+                "name": "benzinga"
+            },
+            "title": "Quantum Computing Lands Deals With Top Bank, Automaker, NASA Amid AI Boom",
+            "url": "https://www.benzinga.com/markets/earnings/25/08/47227540/quantum-computing-lands-deals-with-top-bank-automaker-nasa-amid-ai-boom",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/08/20/Quantum-Computing-Inc.jpeg?auto=jpg&dpr=1&fit=crop&height=480&optimize=medium&width=720",
+            "publishedAt": "2025-08-20 07:16:09"
         },
         {
             "source": {
@@ -3282,126 +3387,6 @@
             "url": "https://medicalxpress.com/news/2025-08-powerful-algorithm-advances-reliability-ai.html",
             "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/new-method-advances-re.jpg",
             "publishedAt": "2025-08-18T19:00:08Z"
-        },
-        {
-            "source": {
-                "id": "c6075ba0dc9d123bb327faaa419d3d07",
-                "name": "Motley Fool Australia",
-                "url": "https://www.fool.com.au",
-                "country": "au"
-            },
-            "title": "Prediction: 2 artificial intelligence (AI) stocks that will be worth more than Nvidia by 2030",
-            "url": "https://www.fool.com.au/2025/08/19/prediction-2-artificial-intelligence-ai-stocks-that-will-be-worth-more-than-nvidia-by-2030-usfeed/",
-            "urlToImage": "https://www.fool.com.au/wp-content/uploads/2024/12/more-AI-1-16.9-1200x675.jpg",
-            "publishedAt": "2025-08-18T19:00:00Z"
-        },
-        {
-            "source": {
-                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
-                "name": "The Australian Financial Review",
-                "url": "https://www.afr.com",
-                "country": "au"
-            },
-            "title": "Why AI is an industrial relations challenge for business",
-            "url": "https://www.afr.com/technology/why-ai-is-an-industrial-relations-challenge-for-business-20250818-p5mnqv",
-            "urlToImage": "https://static.ffx.io/images/$zoom_0.2742%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_52/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/1aaae958f8425e1c1fd5a028ebeaf3f10d7742ff",
-            "publishedAt": "2025-08-18T19:00:00Z"
-        },
-        {
-            "source": {
-                "id": "5ac5f32ba74846cef441099f666f2d98",
-                "name": "Fast Company",
-                "url": "https://www.fastcompany.com",
-                "country": "us"
-            },
-            "title": "Philips CEO Jeff DiLullo on how AI is changing healthcare today",
-            "url": "https://www.fastcompany.com/91387516/philips-ceo-jeff-dilullo-on-how-ai-is-changing-healthcare-today",
-            "urlToImage": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2025/08/p-1-91387516-philips-ceo-jeff-dilullo-on-how-ai-is-changing-healthcare-today.jpg",
-            "publishedAt": "2025-08-18T19:00:00Z"
-        },
-        {
-            "source": {
-                "id": "c73f76bea6ea26fd91e89543599bb29b",
-                "name": "WebProNews",
-                "url": "https://www.webpronews.com",
-                "country": "us"
-            },
-            "title": "AI Fuels Cybersecurity Arms Race: Blurring Attack and Defense Lines",
-            "url": "https://www.webpronews.com/ai-fuels-cybersecurity-arms-race-blurring-attack-and-defense-lines/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-2a2b1c45-c383-4f72-867d-01b6e216b184.jpeg",
-            "publishedAt": "2025-08-18T18:28:29Z"
-        },
-        {
-            "source": {
-                "id": "d5f1f8579b4e9b390feccfa1c0cf8028",
-                "name": "Arab News",
-                "url": "https://www.arabnews.com",
-                "country": "ar"
-            },
-            "title": "The age of AI soft power",
-            "url": "https://www.arabnews.com/node/2612238",
-            "urlToImage": "https://www.arabnews.com/sites/default/files/index23.png",
-            "publishedAt": "2025-08-18T18:18:55Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Sentient Dynamics Token (SDT) Launches on RealSimple Crypto Exchange (RSCX): Pioneering a New Era of Quantum Computing and AI Integration",
-            "url": "https://www.manilatimes.net/2025/08/19/tmt-newswire/globenewswire/sentient-dynamics-token-sdt-launches-on-realsimple-crypto-exchange-rscx-pioneering-a-new-era-of-quantum-computing-and-ai-integration/2169793",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/19/718127.jpg",
-            "publishedAt": "2025-08-18T18:03:45Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Private Credit-Powered AI Boom at Risk of Overheating, UBS Says",
-            "url": "https://www.bloomberg.com/news/articles/2025-08-18/private-credit-powered-ai-boom-at-risk-of-overheating-ubs-says",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3U5rM6UB8Mg/v1/1200x800.jpg",
-            "publishedAt": "2025-08-18T17:19:02Z"
-        },
-        {
-            "source": {
-                "id": "77b86639d1384ac68141803ec5db27c0",
-                "name": "NBC News",
-                "url": "https://www.nbcnews.com",
-                "country": "us"
-            },
-            "title": "OpenAI's Sam Altman sees AI bubble forming as industry spending surges",
-            "url": "https://www.nbcnews.com/business/business-news/openais-sam-altman-sees-ai-bubble-forming-industry-spending-surges-rcna225652",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-07/250729-sam-altman-ew-236p-3d394b.jpg",
-            "publishedAt": "2025-08-18T17:09:00Z"
-        },
-        {
-            "source": {
-                "id": "17d7c2645f485578130862e0c8dd9480",
-                "name": "The Mercury News",
-                "url": "https://www.mercurynews.com",
-                "country": "us"
-            },
-            "title": "For Silicon Valley, falling behind in AI is a bigger threat than tariffs",
-            "url": "https://www.mercurynews.com/2025/08/18/silicon-valley-falling-behind-artificial-intelligence/",
-            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/08/8216An_existential_threat8217_For_Silicon_Valley_falling_behind_in_AI_is_a_bigger_threat_than_tariffs1-1.jpg?w=1024&h=682",
-            "publishedAt": "2025-08-18T16:47:55Z"
-        },
-        {
-            "source": {
-                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-                "name": "New York Post",
-                "url": "https://nypost.com",
-                "country": "us"
-            },
-            "title": "OpenAI CEO Sam Altman warns of AI bubble, says investors are 'overexcited': report",
-            "url": "https://nypost.com/2025/08/18/business/openai-ceo-sam-altman-warns-of-ai-bubble-says-investors-are-overexcited-report/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/08/newspress-collage-rlljrkcgy-1755535352731.jpg?quality=75&strip=all&1755521065&w=1024",
-            "publishedAt": "2025-08-18T16:45:59Z"
         }
     ]
 }
