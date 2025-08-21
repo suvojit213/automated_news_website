@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-08-21T20:16:41.691166Z",
+    "lastUpdatedAt": "2025-08-21T21:13:54.729458Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Zoom Communications lifts annual forecasts on robust demand for AI tools",
+            "url": "https://www.reuters.com/business/zoom-communications-lifts-annual-forecasts-robust-demand-ai-tools-2025-08-21/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/45KZAA6PQFPNJD2WUX3HLGCHQQ.jpg?auth=08271d203dc763420b98d4b578a698465634b180e0cf76870e7ce98c79f5644b&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-08-21T20:47:00Z"
+        },
+        {
+            "source": {
+                "id": "eaeed30dacd1269c1893de860c94a7e7",
+                "name": "USA TODAY",
+                "url": "https://www.usatoday.com",
+                "country": "us"
+            },
+            "title": "Senator championed outlawing deepfakes. One was created about her.",
+            "url": "https://www.usatoday.com/story/news/politics/2025/08/21/amy-klobuchar-deepfake-sydney-sweeney/85754860007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/08/21/USAT/85758599007-usatsi-17450906.jpg?crop=2999,1687,x0,y156&width=2999&height=1687&format=pjpg&auto=webp",
+            "publishedAt": "2025-08-21T20:34:47Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Andreessen Horowitz Hires Former Biden Cyber Official Neuberger",
+            "url": "https://www.bloomberg.com/news/articles/2025-08-21/andreessen-horowitz-hires-former-biden-cyber-official-neuberger",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iabPZd.AiFZ4/v0/1200x800.jpg",
+            "publishedAt": "2025-08-21T20:13:06Z"
+        },
         {
             "source": {
                 "id": "9f53afb019d44feb16bcc7da150e679a",
@@ -984,6 +1020,60 @@
             "url": "https://www.globenewswire.com/news-release/2025/08/21/3137281/28124/en/Investment-Opportunities-in-the-56-3-Billion-AI-Platforms-Market-2025-2030-Machine-Learning-Tops-AI-Platforms-Technology-Accounting-for-41-2-Share-in-2024.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
             "publishedAt": "2025-08-21T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "engadget"
+            },
+            "title": "The best MacBook for 2025: Which Apple laptop should you buy?",
+            "url": "https://www.engadget.com/computing/laptops/best-macbook-140032524.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?client=19f2b5e49a271b2bde77&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-03%2F0fed43e0-ff57-11ef-99f7-32b22819132b&resize=1400%2C787&signature=14a23706c0ebb3294edbef6260c90a7a1ee5e61f",
+            "publishedAt": "2025-08-21 09:00:36"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "The best 15-inch laptops of 2025: Expert tested and reviewed",
+            "url": "https://www.zdnet.com/article/best-15-inch-laptop/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/f2ae6e2ab50a64e187c18d9d22213e721c601b4f/2025/03/12/ce246892-e06b-4323-8583-468d18213a5b/img-0583.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-08-21 09:00:23"
+        },
+        {
+            "source": {
+                "name": "benzinga"
+            },
+            "title": "WeRide Unveils WePilot AiDrive, A One-Stage End-to-End ADAS Targeted for Mass Production in 2025",
+            "url": "https://www.benzinga.com/pressreleases/25/08/g47253130/weride-unveils-wepilot-aidrive-a-one-stage-end-to-end-adas-targeted-for-mass-production-in-2025",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/9b628c71-b08b-4385-ac05-c3f8545f4c56/aidrive.png",
+            "publishedAt": "2025-08-21 09:00:00"
+        },
+        {
+            "source": {
+                "name": "interestingengineering"
+            },
+            "title": "Oracle to back massive 1.4-gigawatt data center in Texas with gas power: Report",
+            "url": "https://interestingengineering.com/culture/oracle-to-back-gas-powered-data-center",
+            "urlToImage": "https://cms.interestingengineering.com/wp-content/uploads/2025/08/IE-Photo-79.jpg",
+            "publishedAt": "2025-08-21 08:57:23"
+        },
+        {
+            "source": {
+                "name": "techtarget"
+            },
+            "title": "Evaluating AIaaS providers: 6-point criteria for success",
+            "url": "https://www.techtarget.com/searchcloudcomputing/tip/Evaluating-AIaaS-providers-Criteria-for-success",
+            "urlToImage": "https://www.techtarget.com/rms/onlineimages/check_g1182594295_searchsitetablet_520X173.jpg",
+            "publishedAt": "2025-08-21 08:33:00"
+        },
+        {
+            "source": {
+                "name": "toi"
+            },
+            "title": "Pixel 10 launch: 5 reasons why Made by Google 2025 event is ‘uniquely special’ for Google",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/pixel-10-launch-5-reasons-why-made-by-google-2025-event-is-uniquely-special-for-google/articleshow/123427673.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-123427974,imgsize-30678,width-400,resizemode-4/Pixel-10-main.jpg",
+            "publishedAt": "2025-08-21 08:19:51"
         },
         {
             "source": {
@@ -3243,87 +3333,6 @@
             "url": "https://hackernoon.com/code-smell-03-functions-are-too-long-heres-how-to-fix-that",
             "urlToImage": "https://hackernoon.imgix.net/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-sv03asf.jpeg",
             "publishedAt": "2025-08-20 13:00:08"
-        },
-        {
-            "source": {
-                "name": "techtarget"
-            },
-            "title": "80-plus common business abbreviations to know",
-            "url": "https://www.techtarget.com/whatis/feature/Common-business-abbreviations-to-know",
-            "urlToImage": "https://www.techtarget.com/rms/onlineimages/books_g1067137620_searchsitetablet_520X173.jpg",
-            "publishedAt": "2025-08-20 13:00:00"
-        },
-        {
-            "source": {
-                "name": "abcnews"
-            },
-            "title": "Trump thinks owning a piece of Intel would be a good deal for the US. Here's what to know",
-            "url": "https://abcnews.go.com/Technology/wireStory/trump-thinks-owning-piece-intel-good-deal-us-124805672",
-            "urlToImage": "https://s.abcnews.com/images/US/wirestory_09584b8418fe3589e1c4cd03cc5f156b_4x3_384.jpg",
-            "publishedAt": "2025-08-20 12:14:31"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "How a Terminal Diagnosis Inspired a New Ethical AI System",
-            "url": "https://hackernoon.com/how-a-terminal-diagnosis-inspired-a-new-ethical-ai-system",
-            "urlToImage": "https://hackernoon.imgix.net/images/qfGvifuoQ6VFXOAT4z9tYGyweQi1-ba020bo.png",
-            "publishedAt": "2025-08-20 12:00:07"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Meta’s AI Shake-Up Puts Superintelligence Goal in Spotlight",
-            "url": "https://www.analyticsinsight.net/news/metas-ai-shake-up-puts-superintelligence-goal-in-spotlight",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-08-20%2Fjrkyopae%2FMeta%E2%80%99s-AI-Shake-Up-Puts-Superintelligence-Goal-in-Spotlight.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-08-20 11:46:47"
-        },
-        {
-            "source": {
-                "name": "macworld"
-            },
-            "title": "5 Mac antivirus apps that beat Apple’s built-in security",
-            "url": "https://www.macworld.com/article/668850/best-mac-antivirus-software.html",
-            "urlToImage": "https://www.macworld.com/wp-content/uploads/2025/08/Best-Mac-Antivirus-software-7.jpg?quality=50&strip=all&w=1024",
-            "publishedAt": "2025-08-20 11:46:39"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "The best Android tablets of 2025: Lab tested, expert recommended",
-            "url": "https://www.zdnet.com/article/best-android-tablet/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/cb4bd75216565b4aa8eb65b22c06f689558fbc55/2024/04/29/02eecfe6-7cf5-4662-963a-ca73ebae233b/4.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-08-20 11:00:22"
-        },
-        {
-            "source": {
-                "name": "computerworld_in"
-            },
-            "title": "China’s DeepSeek launches V3.1, raising stakes for enterprise AI adoption",
-            "url": "https://www.computerworld.com/article/4042964/chinas-deepseek-launches-v3-1-raising-stakes-for-enterprise-ai-adoption.html",
-            "urlToImage": "https://www.computerworld.com/wp-content/uploads/2025/08/4042964-0-42049100-1755686945-shutterstock_2570454171.jpg?quality=50&strip=all",
-            "publishedAt": "2025-08-20 10:48:07"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Can AI Agents Fix The Internet’s Trust Problem?",
-            "url": "https://hackernoon.com/can-ai-agents-fix-the-internets-trust-problem",
-            "urlToImage": "https://hackernoon.imgix.net/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-am03ljn.png",
-            "publishedAt": "2025-08-20 10:35:20"
-        },
-        {
-            "source": {
-                "name": "economictimes_indiatimes"
-            },
-            "title": "First 'Made in India' semiconductor chip likely by December: MoS Jitin Prasada",
-            "url": "https://economictimes.indiatimes.com/tech/technology/first-made-in-india-semiconductor-chip-likely-by-december-mos-jitin-prasada/articleshow/123407856.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-22318,resizemode-75,msid-123407856/tech/technology/first-made-in-india-semiconductor-chip-likely-by-december-mos-jitin-prasada.jpg",
-            "publishedAt": "2025-08-20 10:22:09"
         }
     ]
 }
