@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-08-21T21:13:54.729458Z",
+    "lastUpdatedAt": "2025-08-21T22:15:26.037834Z",
     "articles": [
+        {
+            "source": {
+                "id": "b669a363e34e1a8211e6f2cd9c5420a4",
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com",
+                "country": "us"
+            },
+            "title": "Exclusive: Walmart's CISO is rebuilding identity security for AI age",
+            "url": "https://venturebeat.com/security/exclusive-walmarts-ciso-is-rebuilding-identity-security-for-ai-age/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/08/hero-image-for-walmart-CISO-interview.jpg?w=693?w=1200&strip=all",
+            "publishedAt": "2025-08-21T21:28:06Z"
+        },
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "Google launches ‘Gemini for Government’ for US agencies almost for free",
+            "url": "https://www.thenews.com.pk/latest/1337627-google-launches-gemini-for-government-for-us-agencies-almost-for-free",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/updates/2025-08-22/1337627_023951_updates.jpg",
+            "publishedAt": "2025-08-21T21:18:52Z"
+        },
+        {
+            "source": {
+                "id": "93e59eaaf800fc544a6df1a4fc5c0cdc",
+                "name": "Toronto Star",
+                "url": "https://www.thestar.com",
+                "country": "ca"
+            },
+            "title": "Cyber A.I. Group and Synergy Associates Form Strategic Joint Venture to Beta Test CyberAI Sentinel 2.0 Platform",
+            "url": "https://www.thestar.com/globenewswire/cyber-a-i-group-and-synergy-associates-form-strategic-joint-venture-to-beta-test-cyberai/article_27a575d9-fb6f-5abb-9408-5ef5060ce27c.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/custom/image/f84403b8-7d76-11ee-9d02-a72a4951957f.png?resize=600%2C600",
+            "publishedAt": "2025-08-21T21:15:00Z"
+        },
         {
             "source": {
                 "id": "da5c26287bdd02563a2c32b55cb12051",
@@ -96,6 +132,18 @@
             "url": "https://www.cp24.com/news/world/2025/08/21/google-to-provide-gemini-ai-tools-to-us-government/",
             "urlToImage": "https://www.cp24.com/resizer/v2/636TYLHE6SEKQBCDUHAG4YTLOQ.jpg?smart=true&auth=eacf4eb0d0e7ba3a47b7c64b4d1cea6d45c04b95a373fdfe43e1114a525066a8&width=1200&height=630",
             "publishedAt": "2025-08-21T18:54:26Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "Google to provide Gemini AI tools to U.S. government",
+            "url": "https://japantoday.com/category/tech/google-to-provide-gemini-ai-tools-to-us-government",
+            "urlToImage": "https://media.japantoday.com/img/store/57/81/275946c9cb08e1c9355a1e19c595e3c121cd/89de9b71fed02426adec5867d07b30bb9507978c-1/_w1700.jpeg",
+            "publishedAt": "2025-08-21T18:53:07Z"
         },
         {
             "source": {
@@ -1020,6 +1068,60 @@
             "url": "https://www.globenewswire.com/news-release/2025/08/21/3137281/28124/en/Investment-Opportunities-in-the-56-3-Billion-AI-Platforms-Market-2025-2030-Machine-Learning-Tops-AI-Platforms-Technology-Accounting-for-41-2-Share-in-2024.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
             "publishedAt": "2025-08-21T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "dailyexcelsior"
+            },
+            "title": "AI-Driven Automotive Prototyping with Multi-Axis CNC Integration",
+            "url": "https://www.dailyexcelsior.com/ai-driven-automotive-prototyping-with-multi-axis-cnc-integration/",
+            "urlToImage": "https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2025/08/wayken-machining-1.jpg",
+            "publishedAt": "2025-08-21 10:03:53"
+        },
+        {
+            "source": {
+                "name": "wired"
+            },
+            "title": "Why Did a $10 Billion Startup Let Me Vibe-Code for Them—and Why Did I Love It?",
+            "url": "https://www.wired.com/story/why-did-a-10-billion-dollar-startup-let-me-vibe-code-for-them-and-why-did-i-love-it/",
+            "urlToImage": "https://media.wired.com/photos/68a66cea2a5952c6e760fde4/3:2/w_120,c_limit/Vibe_Coding_Final.gif",
+            "publishedAt": "2025-08-21 10:00:00"
+        },
+        {
+            "source": {
+                "name": "fastcompany"
+            },
+            "title": "Teenage Engineering’s first free product buys it new customers for under $9",
+            "url": "https://www.fastcompany.com/91389240/teenage-engineerings-first-free-product-buys-it-new-customers-for-under-9?partner=rss",
+            "urlToImage": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2025/08/p-91389240-teenage-engineering-computer-2.jpg",
+            "publishedAt": "2025-08-21 10:00:00"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "What is NISQ?",
+            "url": "https://www.analyticsinsight.net/tech-news/what-is-nisq",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-08-19%2Fz7y9v7b4%2FWhat-is-NISQ.png?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-08-21 09:42:34"
+        },
+        {
+            "source": {
+                "name": "worldpharmatoday"
+            },
+            "title": "Quantum Computing Advances Make Way for Lifesaving Therapies",
+            "url": "https://www.worldpharmatoday.com/techno-trends/quantum-computing-advances-make-way-for-lifesaving-therapies/",
+            "urlToImage": "https://www.worldpharmatoday.com/wp-content/uploads/2025/08/Quantum-Computing-Advances-Make-Way-for-Lifesaving-Therapies.jpg",
+            "publishedAt": "2025-08-21 09:40:44"
+        },
+        {
+            "source": {
+                "name": "computerweekly"
+            },
+            "title": "Subpostmaster federation accepted money from Fujitsu in run-up to High Court Post Office trial",
+            "url": "https://www.computerweekly.com/news/366629917/Subpostmaster-federation-accepted-money-from-Fujitsu-in-run-up-to-High-Court-Post-Office-trial",
+            "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/HeroImages/Fujitsu-offices-J-News-photo-adobe_searchsitetablet_520X173.jpg",
+            "publishedAt": "2025-08-21 09:36:00"
         },
         {
             "source": {
@@ -3243,96 +3345,6 @@
             "url": "https://natlawreview.com/article/beijing-internet-court-digital-avatars-are-works-art-and-protected-copyright",
             "urlToImage": "https://natlawreview.com/sites/default/files/styles/article_image/public/2025-08/China%20Flag%20Litigation%20gavel%20Country%20Court%20Law-379908868.jpg.webp?itok=VWaMVsWU",
             "publishedAt": "2025-08-20 14:18:12"
-        },
-        {
-            "source": {
-                "name": "benzinga"
-            },
-            "title": "Datavault AI Q2 FY2025 Earnings Call Transcript",
-            "url": "https://www.benzinga.com/markets/earnings/25/08/47235556/datavault-ai-q2-fy2025-earnings-call-transcript",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/08/20/Q2-EARNINGS.jpeg?auto=jpg&dpr=1&fit=crop&height=480&optimize=medium&width=720",
-            "publishedAt": "2025-08-20 14:14:22"
-        },
-        {
-            "source": {
-                "name": "cornelledu"
-            },
-            "title": "Olin Library to hold reopening celebration Aug. 27",
-            "url": "https://news.cornell.edu/stories/2025/08/olin-library-hold-reopening-celebration-aug-27",
-            "urlToImage": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_home/public/2025-08/allison-rittershouse-at-the-collaboratory-a.jpg?itok=BXkWSMkP",
-            "publishedAt": "2025-08-20 14:08:04"
-        },
-        {
-            "source": {
-                "name": "scientificamerican"
-            },
-            "title": "Tiny Probes Can Surf Sunlight to Explore Earth’s Mesosphere and Mars",
-            "url": "https://www.scientificamerican.com/article/tiny-probes-can-surf-sunlight-to-explore-earths-mesosphere-and-mars/",
-            "urlToImage": "https://static.scientificamerican.com/dam/m/62a2e326f24a9223/original/photophoretic_flight_of_nanofabricated_structures.jpg?m=1755698419.727&w=1200",
-            "publishedAt": "2025-08-20 14:00:00"
-        },
-        {
-            "source": {
-                "name": "mit"
-            },
-            "title": "New laser “comb” can enable rapid identification of chemicals with extreme precision",
-            "url": "https://news.mit.edu/2025/new-laser-comb-can-enable-rapid-identification-chemicals-extreme-precision-0820",
-            "urlToImage": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202508/MIT-Laser-Combs-01-press.jpg?itok=sEXp8QOi",
-            "publishedAt": "2025-08-20 14:00:00"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "What is Data Science? A Detailed Guide",
-            "url": "https://www.analyticsinsight.net/data-science/what-is-data-science-a-detailed-guide",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-08-20%2Ftoiipodt%2FWhat-is-Data-Science-A-Detailed-Guide.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-08-20 13:41:46"
-        },
-        {
-            "source": {
-                "name": "benzinga"
-            },
-            "title": "Quantum Computing Could Break the Internet. Some Are Already Building the Fix",
-            "url": "https://www.benzinga.com/pressreleases/25/08/n47233360/quantum-computing-could-break-the-internet-some-are-already-building-the-fix",
-            "urlToImage": "https://mma.prnewswire.com/media/2603685/USA_News_Group_Logo.jpg",
-            "publishedAt": "2025-08-20 13:27:00"
-        },
-        {
-            "source": {
-                "name": "livemint"
-            },
-            "title": "Winged ferry that glides like a pelican tested for coastal transportation",
-            "url": "https://www.livemint.com/technology/tech-news/winged-ferry-that-glides-like-a-pelican-tested-for-coastal-transportation-11755695393068.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/tech3_1734536499109_1734536513984.jpg",
-            "publishedAt": "2025-08-20 13:09:52"
-        },
-        {
-            "source": {
-                "name": "nasa"
-            },
-            "title": "NASA, IBM’s ‘Hot’ New AI Model Unlocks Secrets of Sun",
-            "url": "https://science.nasa.gov/science-research/artificial-intelligence-model-heliophysics/",
-            "urlToImage": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001435/GSFC_20171208_Archive_e001435~large.jpg?crop=faces%2Cfocalpoint&fit=clip&h=1920&w=1920",
-            "publishedAt": "2025-08-20 13:03:30"
-        },
-        {
-            "source": {
-                "name": "thehackernews"
-            },
-            "title": "Experts Find AI Browsers Can Be Tricked by PromptFix Exploit to Run Malicious Hidden Prompts",
-            "url": "https://thehackernews.com/2025/08/experts-find-ai-browsers-can-be-tricked.html",
-            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmhyGUMWNIdIO4Cnvl8SW0iboC-CslSgKE5vSl2VbstoEpPEnTacdTtW0lYN6fEcKRk7YLYop6jiw6d2B1ukmn2WgSbfvU__08D07BnTTEJHLgp0Vd39vCIn_YD8sJ8MxDrutptIEUeF23RAXMSiXMRyHGA2cgSuVKj7LAoGbFV_xJtdbReG0QR6XQmLnK/s1600/ai-browser.jpg",
-            "publishedAt": "2025-08-20 13:01:00"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Code Smell 03: Functions Are Too Long - Here's How to Fix That",
-            "url": "https://hackernoon.com/code-smell-03-functions-are-too-long-heres-how-to-fix-that",
-            "urlToImage": "https://hackernoon.imgix.net/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-sv03asf.jpeg",
-            "publishedAt": "2025-08-20 13:00:08"
         }
     ]
 }
