@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-08-21T18:22:24.152381Z",
+    "lastUpdatedAt": "2025-08-21T19:12:04.935000Z",
     "articles": [
+        {
+            "source": {
+                "id": "85e5403407038478a5e7d8d100ff8e8f",
+                "name": "CP24 Toronto",
+                "url": "https://www.cp24.com",
+                "country": "ca"
+            },
+            "title": "Google to provide Gemini AI tools to U.S. government",
+            "url": "https://www.cp24.com/news/world/2025/08/21/google-to-provide-gemini-ai-tools-to-us-government/",
+            "urlToImage": "https://www.cp24.com/resizer/v2/636TYLHE6SEKQBCDUHAG4YTLOQ.jpg?smart=true&auth=eacf4eb0d0e7ba3a47b7c64b4d1cea6d45c04b95a373fdfe43e1114a525066a8&width=1200&height=630",
+            "publishedAt": "2025-08-21T18:54:26Z"
+        },
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "New AI tool tracks early signs of hurricane formation",
+            "url": "https://phys.org/news/2025-08-ai-tool-tracks-early-hurricane.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/new-ai-tool-tracks-ear.jpg",
+            "publishedAt": "2025-08-21T18:42:06Z"
+        },
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "DeepSeek unveils upgraded AI model powered by local chips",
+            "url": "https://www.thenews.com.pk/latest/1337605-deepseek-unveils-upgraded-ai-model-powered-by-local-chips",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/updates/2025-08-21/1337605_112504_updates.jpg",
+            "publishedAt": "2025-08-21T18:33:00Z"
+        },
         {
             "source": {
                 "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
@@ -900,6 +936,60 @@
             "url": "https://www.globenewswire.com/news-release/2025/08/21/3137281/28124/en/Investment-Opportunities-in-the-56-3-Billion-AI-Platforms-Market-2025-2030-Machine-Learning-Tops-AI-Platforms-Technology-Accounting-for-41-2-Share-in-2024.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
             "publishedAt": "2025-08-21T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "computerweekly"
+            },
+            "title": "Reserve Bank of India proposes framework for AI adoption in India’s finance sector",
+            "url": "https://www.computerweekly.com/news/366629842/Reserve-Bank-of-India-proposes-framework-for-AI-adoption-in-Indias-finance-sector",
+            "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/HeroImages/digital-online-banking-finance-fintech-sodawhiskey-adobe_searchsitetablet_520X173.jpg",
+            "publishedAt": "2025-08-21 07:04:00"
+        },
+        {
+            "source": {
+                "name": "expresscomputer"
+            },
+            "title": "Qlik answers bridges the AI gap with explainable, actionable intelligence at scale",
+            "url": "https://www.expresscomputer.in/news/qlik-answers-bridges-the-ai-gap-with-explainable-actionable-intelligence-at-scale/127245/",
+            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2024/08/05150227/EC-cyber-security-technology-750.jpg",
+            "publishedAt": "2025-08-21 06:55:39"
+        },
+        {
+            "source": {
+                "name": "dnaindia"
+            },
+            "title": "Top 10 Picture-Conversion-to-Coloring-Page Tools-2025",
+            "url": "https://www.dnaindia.com/insights/report-top-10-picture-conversion-to-coloring-page-tools-2025-3177150",
+            "urlToImage": "https://cdn.dnaindia.com/sites/default/files/styles/third/public/2025/08/21/2719705-dna36.jpg",
+            "publishedAt": "2025-08-21 06:46:49"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Shipping Hardware Fast: Solar LoRa Vehicle",
+            "url": "https://hackernoon.com/shipping-hardware-fast-solar-lora-vehicle",
+            "urlToImage": "https://hackernoon.imgix.net/images/744o1HCwb8bdZSIlp9UcQybvcyM2-ue03ale.png",
+            "publishedAt": "2025-08-21 06:40:56"
+        },
+        {
+            "source": {
+                "name": "recentlyheard"
+            },
+            "title": "Highly Anticipated ‘Severance’ Keyboard Smashes Kickstarter Goals",
+            "url": "https://www.recentlyheard.com/highly-anticipated-severance-keyboard-smashes-kickstarter-goals/",
+            "urlToImage": "https://www.recentlyheard.com/wp-content/uploads/2025/08/1755757624_Highly-Anticipated-Severance-Keyboard-Smashes-Kickstarter-Goals.jpg",
+            "publishedAt": "2025-08-21 06:27:03"
+        },
+        {
+            "source": {
+                "name": "economictimes_indiatimes"
+            },
+            "title": "Improving Telecommunications with Edge AI",
+            "url": "https://economictimes.indiatimes.com/ai/ai-insights/improving-telecommunications-with-edge-ai/articleshow/123431990.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-123432596,width-300,height-225,imgsize-40744,resizemode-75/ai-and-telecome.jpg",
+            "publishedAt": "2025-08-21 06:24:22"
         },
         {
             "source": {
@@ -3222,87 +3312,6 @@
             "url": "https://me.mashable.com/digital-culture/59819/the-white-house-has-an-official-tiktok-and-its-already-getting-dragged",
             "urlToImage": "https://sm.mashable.com/mashable_me/article/t/the-white-/the-white-house-has-an-official-tiktok-and-its-already-getti_f5d7.jpg",
             "publishedAt": "2025-08-20 08:45:03"
-        },
-        {
-            "source": {
-                "name": "techtarget"
-            },
-            "title": "Identity and data security themes at Black Hat 2025",
-            "url": "https://www.techtarget.com/searchsecurity/opinion/Identity-and-data-security-themes-at-Black-Hat-2025",
-            "urlToImage": "https://cdn.ttgtmedia.com/rms/onlineimages/thiemann_todd.jpg",
-            "publishedAt": "2025-08-20 08:43:00"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "How to Uninstall Facebook: A Total Direct for All Devices",
-            "url": "https://www.analyticsinsight.net/tech-news/how-to-uninstall-facebook-a-total-direct-for-all-devices",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-08-20%2Fh9emcg6g%2FHow-to-Uninstall-Facebook-A-Total-Direct-for-All-Devices?ar=40%3A21&auto=format%2Ccompress&enlarge=true&mode=crop&ogImage=true&overlay=false&overlay_position=bottom&overlay_width=100&w=1200",
-            "publishedAt": "2025-08-20 08:26:54"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Key Challenges in OCR Research and Future Directions",
-            "url": "https://hackernoon.com/key-challenges-in-ocr-research-and-future-directions",
-            "urlToImage": "https://hackernoon.imgix.net/images/5wpKgV75aONqkTJlafw2yQmK9yd2-550388p.png",
-            "publishedAt": "2025-08-20 08:00:07"
-        },
-        {
-            "source": {
-                "name": "digit_in"
-            },
-            "title": "DeepSeek releases V3.1: Here’s what’s new",
-            "url": "https://www.digit.in/features/general/deepseek-releases-v31-heres-whats-new.html",
-            "urlToImage": "https://static.digit.in/Deepseek.png",
-            "publishedAt": "2025-08-20 07:59:42"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "What is the Difference between Generative AI and Predictive AI?",
-            "url": "https://www.analyticsinsight.net/generative-ai/what-is-the-difference-between-generative-ai-and-predictive-ai",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-08-19%2Fogjyblj4%2FWhat-is-the-Difference-between-Generative-AI-and-Predictive-AI.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-08-20 07:40:15"
-        },
-        {
-            "source": {
-                "name": "computerweekly"
-            },
-            "title": "Nokia, Netplus deliver advanced IPTV services for enhanced CX",
-            "url": "https://www.computerweekly.com/news/366629793/Nokia-Netplus-deliver-advanced-IPTV-services-for-enhanced-CX",
-            "urlToImage": "https://www.computerweekly.com/visuals/German/article/video-streaming-1-adobe_searchsitetablet_520X173.jpg",
-            "publishedAt": "2025-08-20 07:39:00"
-        },
-        {
-            "source": {
-                "name": "benzinga"
-            },
-            "title": "Quantum Computing Lands Deals With Top Bank, Automaker, NASA Amid AI Boom",
-            "url": "https://www.benzinga.com/markets/earnings/25/08/47227540/quantum-computing-lands-deals-with-top-bank-automaker-nasa-amid-ai-boom",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/08/20/Quantum-Computing-Inc.jpeg?auto=jpg&dpr=1&fit=crop&height=480&optimize=medium&width=720",
-            "publishedAt": "2025-08-20 07:16:09"
-        },
-        {
-            "source": {
-                "name": "cio"
-            },
-            "title": "A CXO’s Handbook for Success",
-            "url": "https://www.cio.com/article/4041131/a-cxos-handbook-for-success.html",
-            "urlToImage": "https://www.cio.com/wp-content/uploads/2025/08/4041131-0-19898000-1755673647-shutterstock_2491695137.jpg?quality=50&strip=all&w=1024",
-            "publishedAt": "2025-08-20 07:07:13"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "The AI Building Block You’ve Never Heard Of (But Use Every Day)",
-            "url": "https://hackernoon.com/the-ai-building-block-youve-never-heard-of-but-use-every-day",
-            "urlToImage": "https://hackernoon.imgix.net/images/2jqChkrv03exBUgkLrDzIbfM99q2-y402y1q.jpeg",
-            "publishedAt": "2025-08-20 06:23:54"
         }
     ]
 }
