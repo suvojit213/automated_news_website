@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2025-08-21T15:16:38.735905Z",
+    "lastUpdatedAt": "2025-08-21T17:23:27.687287Z",
     "articles": [
+        {
+            "source": {
+                "id": "8867e8e7dcb6466620736bb48c455572",
+                "name": "STAT",
+                "url": "https://www.statnews.com",
+                "country": "us"
+            },
+            "title": "The startups threatened by Epic's new AI",
+            "url": "https://www.statnews.com/2025/08/21/startups-threatened-epics-new-ai-health-tech-newsletter/",
+            "urlToImage": "https://www.statnews.com/wp-content/uploads/2025/08/UGM-2025-Inside-1024x576.jpg",
+            "publishedAt": "2025-08-21T16:56:47Z"
+        },
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "Safe water tool nearly three times more effective than standard practice, new study finds",
+            "url": "https://medicalxpress.com/news/2025-08-safe-tool-effective-standard.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/safe-water-tool-nearly.jpg",
+            "publishedAt": "2025-08-21T16:52:04Z"
+        },
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "AI could stop hotels and restaurants wasting food, energy and talent-yet adoption remains low",
+            "url": "https://phys.org/news/2025-08-ai-hotels-restaurants-food-energy.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/hotel-room.jpg",
+            "publishedAt": "2025-08-21T16:47:27Z"
+        },
+        {
+            "source": {
+                "id": "17d7c2645f485578130862e0c8dd9480",
+                "name": "The Mercury News",
+                "url": "https://www.mercurynews.com",
+                "country": "us"
+            },
+            "title": "Tech giants prepare to challenge state AI regulations",
+            "url": "https://www.mercurynews.com/2025/08/21/tech-giants-prepare-to-challenge-state-ai-regulations/",
+            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/01/US-NEWS-ALTMAN-ABUSE-LAWSUIT-GET.jpg?w=1024&h=682",
+            "publishedAt": "2025-08-21T16:46:05Z"
+        },
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "How AI will transform mental health support for patients with breast cancer",
+            "url": "https://medicalxpress.com/news/2025-08-ai-mental-health-patients-breast.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/cancer.jpg",
+            "publishedAt": "2025-08-21T16:42:26Z"
+        },
+        {
+            "source": {
+                "id": "6fea3ee012f060c6309366516e8d00be",
+                "name": "News-Medical.net",
+                "url": "https://www.news-medical.net",
+                "country": "gb"
+            },
+            "title": "Artificial intelligence set to transform mental health care for breast cancer patients",
+            "url": "https://www.news-medical.net/news/20250821/Artificial-intelligence-set-to-transform-mental-health-care-for-breast-cancer-patients.aspx",
+            "urlToImage": "https://www.news-medical.net/images/tags/TagImage-1039-45840826385648151818-620x480.jpg",
+            "publishedAt": "2025-08-21T16:19:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Google unveils latest Pixel phones packed with AI",
+            "url": "https://www.manilatimes.net/2025/08/22/business/foreign-business/google-unveils-latest-pixel-phones-packed-with-ai/2171859",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/21/721958.jpg",
+            "publishedAt": "2025-08-21T16:09:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Chinese AI startup DeepSeek releases upgraded model with domestic chip support",
+            "url": "https://www.manilatimes.net/2025/08/22/business/foreign-business/chinese-ai-startup-deepseek-releases-upgraded-model-with-domestic-chip-support/2171838",
+            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+            "publishedAt": "2025-08-21T16:02:00Z"
+        },
+        {
+            "source": {
+                "id": "492abf277b7277432148b61b21ddc836",
+                "name": "Los Angeles Times",
+                "url": "https://www.latimes.com",
+                "country": "us"
+            },
+            "title": "Google's Pixel 10 phone raises the ante on artificial intelligence",
+            "url": "https://www.latimes.com/business/story/2025-08-21/googles-pixel-10-phones-raises-the-ante-on-artificial-intelligence",
+            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/f6967fd/2147483647/strip/true/crop/6000x3150+0+1425/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa8%2F9b%2F167f81544a1280557b05a43bb313%2Fd33bcc6986ef423db98ad3c46d8dc013.jpg",
+            "publishedAt": "2025-08-21T15:36:27Z"
+        },
+        {
+            "source": {
+                "id": "59749bcce0ec90ed59071c45c44738b7",
+                "name": "Siliconrepublic.com",
+                "url": "https://www.siliconrepublic.com",
+                "country": "ie"
+            },
+            "title": "‘Great leaders see AI for what it is, a lever not a threat’",
+            "url": "https://www.siliconrepublic.com/careers/great-leaders-ai-lever-threat-skills-enhancement",
+            "urlToImage": "https://www.siliconrepublic.com/wp-content/uploads/2025/08/Alex-Walsh-Oraion-.png",
+            "publishedAt": "2025-08-21T15:30:31Z"
+        },
         {
             "source": {
                 "id": "0a4c92a1a91d0994627a96e134064d69",
@@ -708,6 +828,78 @@
             "url": "https://www.globenewswire.com/news-release/2025/08/21/3137281/28124/en/Investment-Opportunities-in-the-56-3-Billion-AI-Platforms-Market-2025-2030-Machine-Learning-Tops-AI-Platforms-Technology-Accounting-for-41-2-Share-in-2024.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
             "publishedAt": "2025-08-21T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "en_prnasisa"
+            },
+            "title": "Dell Technologies launches AI Innovation Hub to drive AI transformation, enablement and leadership in Singapore and the region",
+            "url": "https://en.prnasia.com/story/500440-0.shtml",
+            "urlToImage": "https://mma.prnasia.com/media2/2755097/Dell_AIIH_Headline_Photo.jpg?p=medium600",
+            "publishedAt": "2025-08-21 05:09:00"
+        },
+        {
+            "source": {
+                "name": "decaturdaily"
+            },
+            "title": "Google's Pixel 10 phones raises the ante on artificial intelligence",
+            "url": "https://www.decaturdaily.com/business/googles-pixel-10-phones-raises-the-ante-on-artificial-intelligence/article_555c84cc-1665-47a4-84f8-903fef9f8510.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/decaturdaily.com/content/tncms/assets/v3/editorial/b/6c/b6cf3acf-20e8-413b-8f45-673af221b1b5/68a60e1a94c2b.image.jpg?resize=300%2C300",
+            "publishedAt": "2025-08-21 05:00:00"
+        },
+        {
+            "source": {
+                "name": "thehindu"
+            },
+            "title": "Trump thinks owning a piece of Intel would be a good deal for the U.S. Here’s what to know",
+            "url": "https://www.thehindu.com/sci-tech/technology/trump-thinks-owning-a-piece-of-intel-would-be-a-good-deal-for-the-us-heres-what-to-know/article69958764.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/6kklym/article69958767.ece/alternates/LANDSCAPE_1200/2025-08-19T135949Z_233095_RC2KOZ9ASJ44_RTRMADP_3_USA-TREASURY-BESSENT.JPG",
+            "publishedAt": "2025-08-21 04:47:10"
+        },
+        {
+            "source": {
+                "name": "thehindubusinessline"
+            },
+            "title": "OpenAI CFO sees firm selling AI infrastructure service in future",
+            "url": "https://www.thehindubusinessline.com/info-tech/openai-cfo-sees-firm-selling-ai-infrastructure-service-in-future/article69958877.ece",
+            "urlToImage": "https://bl-i.thgim.com/public/incoming/w9vut1/article69958897.ece/alternates/LANDSCAPE_1200/2025-08-06T021942Z_1374809076_RC2LU7AYUNM6_RTRMADP_3_OPENAI-SHARE-SALE.JPG",
+            "publishedAt": "2025-08-21 04:37:08"
+        },
+        {
+            "source": {
+                "name": "news4social"
+            },
+            "title": "NASA and IBM create ‘Surya’: Advanced AI for predicting solar storms and strengthening space defence | – The Times of India",
+            "url": "https://en.news4social.com/nasa-and-ibm-create-surya-advanced-ai-for-predicting-solar-storms-and-strengthening-space-defence-the-times-of-india/",
+            "urlToImage": "https://i3.wp.com/static.toiimg.com/thumb/msid-123423518,imgsize-46702,width-400,resizemode-4/NASA-and-IBM-create-Surya-Advanced-AI-for-predicting-solar-storms-and-strengthening-space-defence.jpg?resize=750%2C375&ssl=1&w=750",
+            "publishedAt": "2025-08-21 04:37:00"
+        },
+        {
+            "source": {
+                "name": "messenger_inquirer"
+            },
+            "title": "AP Technology SummaryBrief at 12:03 a.m. EDT",
+            "url": "https://www.messenger-inquirer.com/ap/elections/ap-technology-summarybrief-at-12-03-a-m-edt/article_fc510276-4fe0-53b4-8751-b92215b9b6f5.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/messenger-inquirer.com/content/tncms/custom/image/a2a4b15c-9ead-11ee-847f-2b2be1350ebd.jpg?resize=600%2C338",
+            "publishedAt": "2025-08-21 04:03:27"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "I tried Pro Res Zoom to capture 100x zoom photos with Pixel 10 Pro XL — and the results are unbelievable",
+            "url": "https://www.tomsguide.com/phones/google-pixel-phones/i-tried-pro-res-zoom-to-capture-100x-zoom-photos-with-pixel-10-pro-xl-and-the-results-are-unbelievable",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/nsyLmGvYDJuRfbs5eEPWXC-1280-80.jpg",
+            "publishedAt": "2025-08-21 04:01:00"
+        },
+        {
+            "source": {
+                "name": "thehindubusinessline"
+            },
+            "title": "First packaged chip expected to be out by December 2025: MoS Electronics & IT Jitin Prasada",
+            "url": "https://www.thehindubusinessline.com/info-tech/first-packaged-chip-expected-to-be-out-by-december-2025-mos-electronics-it-jitin-prasada/article69958826.ece",
+            "urlToImage": "https://bl-i.thgim.com/public/incoming/eiid9m/article69946460.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_U6A3RP55O_R1524411167_2_1a0f471a-feb0-45cb-a10d-325fcac60478.jpg",
+            "publishedAt": "2025-08-21 04:00:05"
         },
         {
             "source": {
@@ -3093,222 +3285,6 @@
             "url": "https://www.ohio.edu/news/2025/08/ohios-voinovich-academy-grid-lab-bring-360vr-training-public-service-employees",
             "urlToImage": "https://www.ohio.edu/sites/ohio.edu.news/files/styles/500_max_height/public/2025-08/54033010543_dc0054296e_c.jpg?itok=VXjAXQi4",
             "publishedAt": "2025-08-20 00:00:00"
-        },
-        {
-            "source": {
-                "id": "c6075ba0dc9d123bb327faaa419d3d07",
-                "name": "Motley Fool Australia",
-                "url": "https://www.fool.com.au",
-                "country": "au"
-            },
-            "title": "3 ASX AI companies set to gain from pipes, power and property boom",
-            "url": "https://www.fool.com.au/2025/08/20/3-asx-ai-companies-set-to-gain-from-pipes-power-and-property-boom/",
-            "urlToImage": "https://www.fool.com.au/wp-content/uploads/2021/08/pull-the-plug-1200x675.jpg",
-            "publishedAt": "2025-08-19T23:58:11Z"
-        },
-        {
-            "source": {
-                "id": "10cbfb3760cfcdeb78c733c527f0e814",
-                "name": "iTWire",
-                "url": "https://itwire.com",
-                "country": "au"
-            },
-            "title": "LevelBlue completes acquisition of Trustwave to form the world's largest pure-play managed security services provider",
-            "url": "https://itwire.com/guest-articles/company-news/levelblue-completes-acquisition-of-trustwave-to-form-the-world-s-largest-pure-play-managed-security-services-provider.html",
-            "urlToImage": "https://itwire.com/media/k2/items/cache/1ccf38faca054f0cba736f32cc486d83_XS.jpg",
-            "publishedAt": "2025-08-19T23:49:05Z"
-        },
-        {
-            "source": {
-                "id": "19d1f502a5658ccbfaaa50f77b89993f",
-                "name": "The Motley Fool Canada",
-                "url": "https://www.fool.ca",
-                "country": "ca"
-            },
-            "title": "Which Is the Better Canadian Artificial Intelligence (AI) Stock to Buy Right Now: Celestica or BlackBerry?",
-            "url": "https://www.fool.ca/2025/08/19/which-is-the-better-canadian-artificial-intelligence-ai-stock-to-buy-right-now-celestica-or-blackberry/",
-            "urlToImage": "https://www.fool.ca/wp-content/uploads/2024/08/ai-microchip-1204583606-1-1200x675.jpg",
-            "publishedAt": "2025-08-19T23:00:00Z"
-        },
-        {
-            "source": {
-                "id": "91120a92e0d24e24fbffb6d0affabfe6",
-                "name": "Bangkok Post",
-                "url": "https://www.bangkokpost.com",
-                "country": "th"
-            },
-            "title": "Facebook, regulator unite to aid small firms with AI",
-            "url": "https://www.bangkokpost.com/business/general/3089866/facebook-regulator-unite-to-aid-small-firms-with-ai",
-            "urlToImage": "https://static.bangkokpost.com/media/content/dcx/2025/08/20/5746834_700.jpeg",
-            "publishedAt": "2025-08-19T22:36:00Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Vantage Data Centers plans $25 billion AI campus in Texas",
-            "url": "https://www.reuters.com/business/vantage-data-centers-plans-25-billion-ai-campus-texas-2025-08-19/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/JA2OX2ZYBBPEBFHDBOIFPAF6IA.jpg?auth=45e1557f9ec409c9a28f23617d383d9f4bcd2e126abee5c8110c5db060510a5c&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-08-19T21:57:47Z"
-        },
-        {
-            "source": {
-                "id": "49853ffafc28f405ff8ed06043290ae8",
-                "name": "Global News",
-                "url": "https://globalnews.ca",
-                "country": "ca"
-            },
-            "title": "Quebec City using artificial intelligence to manage traffic, reduce congestion",
-            "url": "https://globalnews.ca/news/11341301/quebec-city-artificial-intelligence-traffic/",
-            "urlToImage": "https://globalnews.ca/wp-content/uploads/2025/08/fbb0ffd9ac28df06e4831233ee84038a3924dbe2ba86c1e82fa978e04e0fdca4.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-            "publishedAt": "2025-08-19T20:56:32Z"
-        },
-        {
-            "source": {
-                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-                "name": "WTOP",
-                "url": "https://wtop.com",
-                "country": "us"
-            },
-            "title": "More people trust AI instead of friends for shopping opinions, expert says",
-            "url": "https://wtop.com/consumer-news/2025/08/more-people-are-trusting-ai-instead-of-their-friends-for-shopping-opinions-u-va-expert-says/",
-            "urlToImage": "https://wtop.com/wp-content/uploads/2025/04/OpenAI-Musk_82493-scaled.jpg",
-            "publishedAt": "2025-08-19T20:40:11Z"
-        },
-        {
-            "source": {
-                "id": "5784855bc642514502eec4806fd222d1",
-                "name": "The Times of Israel",
-                "url": "https://www.timesofisrael.com",
-                "country": "is"
-            },
-            "title": "Israeli-founded AI startup raises $60m to help governments fight financial fraud",
-            "url": "https://www.timesofisrael.com/israeli-founded-ai-startup-raises-60m-to-help-governments-fight-financial-fraud/",
-            "urlToImage": "https://static-cdn.toi-media.com/www/uploads/2017/02/iStock-157003721-e1489306548688.jpg",
-            "publishedAt": "2025-08-19T20:25:43Z"
-        },
-        {
-            "source": {
-                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
-                "name": "The Australian Financial Review",
-                "url": "https://www.afr.com",
-                "country": "au"
-            },
-            "title": "Meta restructures AI group again in pursuit of superintelligence",
-            "url": "https://www.afr.com/technology/meta-restructures-ai-group-again-in-pursuit-of-superintelligence-20250820-p5mo9f",
-            "urlToImage": "https://static.ffx.io/images/$zoom_0.2959%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_273%2C$y_85/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/016403ea22e4da61e133408ea24fd74da6360d42",
-            "publishedAt": "2025-08-19T19:02:36Z"
-        },
-        {
-            "source": {
-                "id": "c6075ba0dc9d123bb327faaa419d3d07",
-                "name": "Motley Fool Australia",
-                "url": "https://www.fool.com.au",
-                "country": "au"
-            },
-            "title": "Prediction: This unstoppable stock will be a founding member of the $6 trillion club by 2027",
-            "url": "https://www.fool.com.au/2025/08/20/prediction-this-unstoppable-stock-will-be-a-founding-member-of-the-6-trillion-club-by-2027-usfeed/",
-            "urlToImage": "https://www.fool.com.au/wp-content/uploads/2022/02/happy-rich-16.9-1200x675.jpg",
-            "publishedAt": "2025-08-19T19:00:00Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com",
-                "country": "ca"
-            },
-            "title": "Nvidia working on new AI chip for China",
-            "url": "https://www.cp24.com/news/money/2025/08/19/nvidia-working-on-new-ai-chip-for-china-that-outperforms-the-h20-sources-say/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/DUP6HBPHI3VHC7TZOLZXIUNOPA.jpg?smart=true&auth=3d2e3bb23a67050a9b6cc79d2011d54c5e014d469a7183c121b5bac062040042&width=1200&height=630",
-            "publishedAt": "2025-08-19T18:34:01Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com",
-                "country": "ca"
-            },
-            "title": "Canadian universities adopt AI tools amid technology concerns",
-            "url": "https://www.cp24.com/news/canada/2025/08/19/canadian-universities-are-adopting-ai-tools-but-concerns-about-the-technology-remain/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/Y3NAKEWONMRJ5K5IVX2GT65ERM.jpg?smart=true&auth=e99c329b28b8c697f3f3972593f013a140f6104fb86acbab744de3d19e1949f1&width=1200&height=630",
-            "publishedAt": "2025-08-19T18:33:02Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Bowman Says ‘Change Is Coming’ to How Fed Views AI and Crypto",
-            "url": "https://www.bloomberg.com/news/articles/2025-08-19/bowman-says-change-is-coming-to-how-fed-views-ai-and-crypto",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNel2BO4H4NI/v1/1200x800.jpg",
-            "publishedAt": "2025-08-19T18:10:01Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "BSNL’s global tech tie-ups put Jabalpur at the heart of India’s 5G and AI future",
-            "url": "https://economictimes.indiatimes.com/opinion/et-commentary/bsnls-global-tech-tie-ups-put-jabalpur-at-the-heart-of-indias-5g-and-ai-future/articleshow/123393152.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-29176,resizemode-75,msid-123393152/opinion/et-commentary/bsnls-global-tech-tie-ups-put-jabalpur-at-the-heart-of-indias-5g-and-ai-future.jpg",
-            "publishedAt": "2025-08-19T18:01:01Z"
-        },
-        {
-            "source": {
-                "id": "93e59eaaf800fc544a6df1a4fc5c0cdc",
-                "name": "Toronto Star",
-                "url": "https://www.thestar.com",
-                "country": "ca"
-            },
-            "title": "Ottawa taps Cohere to work on use of AI in public service",
-            "url": "https://www.thestar.com/politics/federal/ottawa-taps-cohere-to-work-on-use-of-ai-in-public-service/article_ed76f971-53eb-5283-9280-bf4167cdd803.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/custom/image/f84403b8-7d76-11ee-9d02-a72a4951957f.png?resize=600%2C600",
-            "publishedAt": "2025-08-19T17:58:01Z"
-        },
-        {
-            "source": {
-                "id": "300a668ea1fb6b59c9da32db8e856d66",
-                "name": "GuelphToday",
-                "url": "https://www.guelphtoday.com",
-                "country": "ca"
-            },
-            "title": "Ottawa taps Cohere to work on use of AI in public service",
-            "url": "https://www.guelphtoday.com/national-news/ottawa-taps-cohere-to-work-on-use-of-ai-in-public-service-11096893",
-            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/08/cc2e39eff649bb477cde0f86db049d58a91ea435901f1c8f65437982eb644a52.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2025-08-19T17:58:01Z"
-        },
-        {
-            "source": {
-                "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
-                "name": "BayToday",
-                "url": "https://www.baytoday.ca",
-                "country": "ca"
-            },
-            "title": "Ottawa taps Cohere to work on use of AI in public service",
-            "url": "https://www.baytoday.ca/national-news/ottawa-taps-cohere-to-work-on-use-of-ai-in-public-service-11096893",
-            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/08/cc2e39eff649bb477cde0f86db049d58a91ea435901f1c8f65437982eb644a52.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2025-08-19T17:58:01Z"
-        },
-        {
-            "source": {
-                "id": "a626af07817344050e3336789e06a2f5",
-                "name": "Vancouver Is Awesome",
-                "url": "https://www.vancouverisawesome.com",
-                "country": "ca"
-            },
-            "title": "Ottawa taps Cohere to work on use of AI in public service",
-            "url": "https://www.vancouverisawesome.com/national-news/ottawa-taps-cohere-to-work-on-use-of-ai-in-public-service-11096897",
-            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/08/cc2e39eff649bb477cde0f86db049d58a91ea435901f1c8f65437982eb644a52.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2025-08-19T17:58:01Z"
         }
     ]
 }
