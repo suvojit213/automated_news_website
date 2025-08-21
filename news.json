@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-08-21T07:18:25.734507Z",
+    "lastUpdatedAt": "2025-08-21T08:20:38.126056Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Chinese startup DeepSeek releases upgraded AI model",
+            "url": "https://www.reuters.com/world/china/chinese-startup-deepseek-releases-upgraded-ai-model-2025-08-21/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/Z5ONYB73MVMUXMBKTYCMQE5WKQ.jpg?auth=a2e8ffda0fc9b2052f4d9d4e9ffd1b558ccf98dbbea78adea1f40b42ea558034&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-08-21T07:10:40Z"
+        },
         {
             "source": {
                 "id": "73aabc646bff1356a46223f250cc6b52",
@@ -120,6 +132,18 @@
             "url": "https://www.devdiscourse.com/article/technology/3548563-meta-platforms-pauses-ai-hiring-amid-strategic-restructuring",
             "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/14_07_2025_15_08_53_9156151.png?width=920&format=jpeg",
             "publishedAt": "2025-08-21T01:49:43Z"
+        },
+        {
+            "source": {
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
+                "country": "us"
+            },
+            "title": "“Crypto x AI” Charting Coinbase Stock’s (NASDAQ:COIN) Future",
+            "url": "https://markets.businessinsider.com/news/stocks/crypto-x-ai-charting-coinbase-stock-s-nasdaq-coin-future-1035059209",
+            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/08/Screenshot-2025-08-20-at-13-31-50-Coinbase-Global-COIN-Stock-Forecast-Price-Targets-and-Analysts-Predictions-1024x752.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+            "publishedAt": "2025-08-21T01:35:00Z"
         },
         {
             "source": {
@@ -1719,6 +1743,42 @@
         },
         {
             "source": {
+                "name": "tomsguide"
+            },
+            "title": "Canon MegaTank Pixma G3290 review",
+            "url": "https://www.tomsguide.com/computing/printers/canon-megatank-pixma-g3290-review",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/ZrnowKm6fyXw33aGcF9sG9-1280-80.jpg",
+            "publishedAt": "2025-08-20 19:46:37"
+        },
+        {
+            "source": {
+                "name": "gizmodotech"
+            },
+            "title": "Oracle Will Reportedly Spend $1 Billion a Year on a Gas-Powered Data Center",
+            "url": "https://gizmodo.com/oracle-will-reportedly-spend-1-billion-a-year-on-a-gas-powered-data-center-2000645906",
+            "urlToImage": "https://gizmodo.com/app/uploads/2020/08/x0pjsazt3yqbohwuxu9j.jpg",
+            "publishedAt": "2025-08-20 19:45:36"
+        },
+        {
+            "source": {
+                "name": "news_msstate"
+            },
+            "title": "NASA fellowship for AI land cover research awarded to MSU doctoral student",
+            "url": "http://www.msstate.edu/newsroom/article/2025/08/nasa-fellowship-ai-land-cover-research-awarded-msu-doctoral-student",
+            "urlToImage": "http://www.msstate.edu/sites/www.msstate.edu/files/styles/msstatedrupal_large/public/2025-08/Hester_Dakota-horiz_20250818_B9W7171~dh2306.jpg?itok=cpqfcTxj",
+            "publishedAt": "2025-08-20 19:35:57"
+        },
+        {
+            "source": {
+                "name": "cnet"
+            },
+            "title": "This is the Ultimate '90s Cyberpunk Movie (No, It's Not 'The Matrix')",
+            "url": "https://www.cnet.com/culture/entertainment/this-is-the-ultimate-90s-cyberpunk-movie-no-its-not-the-matrix/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/01417dcb28e7ff26d3c0c5c853a6bcab6e631f13/hub/2025/05/30/1624c6a4-ad72-4e14-bd9c-cc2c134c27f3/strange-days-1200-1200-675-675-crop-000000.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-08-20 19:30:03"
+        },
+        {
+            "source": {
                 "name": "forbes"
             },
             "title": "Why AI Ignores Instructions Even After They Are Repeated Multiple Times",
@@ -3306,78 +3366,6 @@
             "url": "https://finbold.com/machine-learning-algorithm-predicts-xrp-price-on-september-1-2025/",
             "urlToImage": "https://assets.finbold.com/uploads/2025/08/Machine-learning-algorithm-predicts-XRP-price-on-September-1-2025.jpg",
             "publishedAt": "2025-08-19T10:42:50Z"
-        },
-        {
-            "source": {
-                "id": "f6d6ee1134197fe1441d65a3e7915835",
-                "name": "Yahoo Singapore News",
-                "url": "https://sg.news.yahoo.com",
-                "country": "sg"
-            },
-            "title": "China's Xpeng expects quarterly revenue to double on strong demand for its EVs",
-            "url": "https://sg.news.yahoo.com/chinas-xpeng-expects-quarterly-revenue-103716491.html",
-            "urlToImage": "https://media.zenfs.com/en/reuters.com/ef460745d71ff95ff0273202f303fa17",
-            "publishedAt": "2025-08-19T10:37:16Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "After 'this country will lose 1 million people by 2025', Elon Musk says he has been warning about this since the turn of the century",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/after-this-country-will-lose-1-million-people-by-2025-elon-musk-says-he-has-been-warning-about-this-since-the-turn-of-the-century/articleshow/123384970.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-123384954,width-1070,height-580,imgsize-438307,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "publishedAt": "2025-08-19T10:30:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "FNZ launches Advisor AI to redefine advisor productivity and scale personalized advice",
-            "url": "https://www.manilatimes.net/2025/08/19/tmt-newswire/pr-newswire/fnz-launches-advisor-ai-to-redefine-advisor-productivity-and-scale-personalized-advice/2170099",
-            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-            "publishedAt": "2025-08-19T10:23:59Z"
-        },
-        {
-            "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
-                "country": "in"
-            },
-            "title": "Will AI Take Away Jobs, Permanently? Yes, 70% Americans Believe So",
-            "url": "https://www.hindustantimes.com/business/will-ai-take-away-jobs-permanently-yes-70-americans-believe-so-101755597855715.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/08/19/1600x900/USA_AI_Robot_Employer_Candidate_Rejection_Email_1748047970138_1755598725470.jpg",
-            "publishedAt": "2025-08-19T10:22:39Z"
-        },
-        {
-            "source": {
-                "id": "e9207083a357fb7e76b38e485888ebe7",
-                "name": "manilastandard.net",
-                "url": "https://manilastandard.net",
-                "country": "ph"
-            },
-            "title": "PLDT, Globe tap AI to unlock growth potential",
-            "url": "https://manilastandard.net/business/economy-report-2025/314631935/pldt-globe-tap-ai-to-unlock-growth-potential.html",
-            "urlToImage": "https://cdn.manilastandard.net/wp-content/uploads/2025/08/C2-Globe-president-and-chief-executive-officer-Carl-Cruz-.png",
-            "publishedAt": "2025-08-19T10:15:00Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Databricks valued at over $100 billion in latest fundraising amid AI rush",
-            "url": "https://www.reuters.com/business/databricks-valued-over-100-billion-latest-fundraising-amid-ai-rush-2025-08-19/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/2LWGANLHEZMJTKZL6LPLCUAIXY.jpg?auth=2ce3204452b99c16c2365ee4caaa32f9f3b6b675a67154ee51ffeaffe5801b1b&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-08-19T10:13:28Z"
         }
     ]
 }
