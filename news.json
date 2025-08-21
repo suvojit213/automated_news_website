@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-08-21T05:16:09.752829Z",
+    "lastUpdatedAt": "2025-08-21T06:33:21.246106Z",
     "articles": [
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Barnaby Joyce warns Australians: AI is coming and it will wipe out…",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/barnaby-joyce-warns-australians-ai-is-coming-and-it-will-wipe-out/articleshow/123424686.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-123424731,width-1070,height-580,imgsize-62370,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-08-21T05:46:00Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -1695,12 +1707,48 @@
         },
         {
             "source": {
+                "name": "macworld"
+            },
+            "title": "macOS 15 Sequoia superguide: Everything you need to know",
+            "url": "https://www.macworld.com/article/2265062/macos-15-release-name-compatibility-features.html",
+            "urlToImage": "https://www.macworld.com/wp-content/uploads/2025/08/macos-sequoia-features-1.jpg?quality=50&strip=all&w=1024",
+            "publishedAt": "2025-08-20 18:24:31"
+        },
+        {
+            "source": {
+                "name": "cnet"
+            },
+            "title": "Best Standing Desks of 2025",
+            "url": "https://www.cnet.com/news/best-standing-desk/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/f8f3457fa20a6b61600bee32862c82d2bd8d877c/hub/2021/02/10/c3eda738-df98-4946-90d3-e49b76a7fdbb/vari-electric-standing-desk.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-08-20 17:42:00"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "AI-Powered Trading: How VPS Infrastructure Supports Algorithmic Strategies",
+            "url": "https://www.analyticsinsight.net/artificial-intelligence/ai-powered-trading-how-vps-infrastructure-supports-algorithmic-strategies",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-08-20%2F1p9m4afv%2Fundefined-21.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-08-20 17:19:43"
+        },
+        {
+            "source": {
                 "name": "news_ualr"
             },
             "title": "Bastazo Hosts Teacher Interns Through UA Little Rock’s STRIVE Program to Strengthen STEM Workforce",
             "url": "https://ualr.edu/news/2025/08/20/bastazo-strive/",
             "urlToImage": "https://ualr.edu/news/wp-content/uploads/sites/240/2025/08/Bastazo.jpg",
             "publishedAt": "2025-08-20 17:11:00"
+        },
+        {
+            "source": {
+                "name": "thepilotnews"
+            },
+            "title": "How a ship that glides like a pelican could change travel and defense",
+            "url": "https://www.thepilotnews.com/business/how-a-ship-that-glides-like-a-pelican-could-change-travel-and-defense/article_04e40cfd-c576-4fa0-a037-97b3cf880a3a.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/thepilotnews.com/content/tncms/assets/v3/editorial/e/8b/e8b66976-d7a0-4449-b9ab-b72e3be26cf0/6899fe271d56e.image.jpg?crop=1080%2C1080%2C180%2C0&order=crop%2Cresize&resize=150%2C150",
+            "publishedAt": "2025-08-20 17:05:00"
         },
         {
             "source": {
@@ -1728,6 +1776,15 @@
             "url": "https://hackernoon.com/how-nexos-ai-changes-crypto-account-management-with-built-in-native-intelligence",
             "urlToImage": "https://hackernoon.imgix.net/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-lz03lnl.png",
             "publishedAt": "2025-08-20 17:00:02"
+        },
+        {
+            "source": {
+                "name": "thepilotnews"
+            },
+            "title": "Google's Pixel 10 phones raises the ante on artificial intelligence",
+            "url": "https://www.thepilotnews.com/business/googles-pixel-10-phones-raises-the-ante-on-artificial-intelligence/article_4fe41b21-c650-46a9-9d9a-a91bc262b8af.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/thepilotnews.com/content/tncms/assets/v3/editorial/e/8b/e8b66976-d7a0-4449-b9ab-b72e3be26cf0/6899fe271d56e.image.jpg?crop=1080%2C1080%2C180%2C0&order=crop%2Cresize&resize=150%2C150",
+            "publishedAt": "2025-08-20 16:55:00"
         },
         {
             "source": {
@@ -3327,78 +3384,6 @@
             "url": "https://www.devdiscourse.com/article/education/3545963-strategic-leadership-in-a-disruptive-world-the-star-framework",
             "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/19_08_2025_09_09_01_860569.png?width=920&format=jpeg",
             "publishedAt": "2025-08-19T09:09:05Z"
-        },
-        {
-            "source": {
-                "id": "e553cce06d349ac1f7fbb7618a979256",
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com",
-                "country": "us"
-            },
-            "title": "The 1970s Gave Us Industrial Decline. A.I. Could Bring Something Worse.",
-            "url": "https://www.nytimes.com/2025/08/19/opinion/ai-job-loss-deindustrialization.html",
-            "urlToImage": "https://static01.nyt.com/images/2025/08/19/opinion/19Frey/19Frey-facebookJumbo.jpg",
-            "publishedAt": "2025-08-19T09:00:56Z"
-        },
-        {
-            "source": {
-                "id": "e553cce06d349ac1f7fbb7618a979256",
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com",
-                "country": "us"
-            },
-            "title": "Silicon Valley Needs to Stop Obsessing Over Superhuman A.I.",
-            "url": "https://www.nytimes.com/2025/08/19/opinion/artificial-general-intelligence-superintelligence.html",
-            "urlToImage": "https://static01.nyt.com/images/2025/08/04/opinion/04schmidt/04schmidt-facebookJumbo.jpg",
-            "publishedAt": "2025-08-19T09:00:07Z"
-        },
-        {
-            "source": {
-                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-                "name": "Benzinga",
-                "url": "https://www.benzinga.com",
-                "country": "us"
-            },
-            "title": "Tariffs Are Now 'Immaterial' For Palo Alto Networks Following Its US Manufacturing Shift-The 'Only Pure-Play Cybersecurity Firm' To Do So",
-            "url": "https://www.benzinga.com/markets/earnings/25/08/47202633/tariffs-are-now-immaterial-for-palo-alto-networks-following-its-us-manufacturing-shift-the-only-pure-play-cybersecurity-firm-to-do-so",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/08/19/Palo-AltoSanta-Clara--Ca--Usa---Apr-28--.jpeg?width=1200&height=800&fit=crop",
-            "publishedAt": "2025-08-19T08:47:14Z"
-        },
-        {
-            "source": {
-                "id": "680f00482cbf9f314921fefd917871d9",
-                "name": "The Hindu Business Line",
-                "url": "https://www.thehindubusinessline.com",
-                "country": "in"
-            },
-            "title": "Punjab National Bank migrates to secure ‘bank.in’ domain",
-            "url": "https://www.thehindubusinessline.com/money-and-banking/punjab-national-bank-migrates-to-secure-bankin-domain/article69950799.ece",
-            "urlToImage": "https://bl-i.thgim.com/public/incoming/29qn4s/article69878468.ece/alternates/LANDSCAPE_1200/IMG_BL_-_BANK_STRIKE_2_1_T7CQLC6L.jpg",
-            "publishedAt": "2025-08-19T08:40:33Z"
-        },
-        {
-            "source": {
-                "id": "f4967fce32bfc735983f0f39dcdba127",
-                "name": "pv magazine",
-                "url": "https://www.pv-magazine.com",
-                "country": "de"
-            },
-            "title": "Automating perovskite solar cell materials research",
-            "url": "https://www.pv-magazine.com/2025/08/19/automating-perovskite-solar-cell-materials-research/",
-            "urlToImage": "https://www.pv-magazine.com/wp-content/uploads/2025/08/SCIPRIOS-SpinBot-1200x800.jpg",
-            "publishedAt": "2025-08-19T08:30:35Z"
-        },
-        {
-            "source": {
-                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-                "name": "Benzinga",
-                "url": "https://www.benzinga.com",
-                "country": "us"
-            },
-            "title": "Arm Taps Amazon AI Veteran To Drive In-House Chip Push, Challenge Nvidia And AMD: Report",
-            "url": "https://www.benzinga.com/markets/tech/25/08/47202410/arm-taps-amazon-ai-veteran-to-drive-in-house-chip-push-challenge-nvidia-and-amd-report",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/08/19/Konskie--Poland---November-12--2024-Arm-.jpeg?width=1200&height=800&fit=crop",
-            "publishedAt": "2025-08-19T08:09:36Z"
         }
     ]
 }
