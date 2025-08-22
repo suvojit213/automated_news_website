@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-08-22T15:15:52.299860Z",
+    "lastUpdatedAt": "2025-08-22T16:18:18.290180Z",
     "articles": [
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "Machine learning can predict dengue fever with 80% accuracy",
+            "url": "https://medicalxpress.com/news/2025-08-machine-dengue-fever-accuracy.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/dengue.jpg",
+            "publishedAt": "2025-08-22T15:45:04Z"
+        },
+        {
+            "source": {
+                "id": "0c9364fff53c0e5a3450947d9a54e795",
+                "name": "Daily Mail Online",
+                "url": "https://www.dailymail.co.uk",
+                "country": "gb"
+            },
+            "title": "Mother of all Google breaches puts all 2.5b Gmail users at risk of being hijacked: Take action NOW",
+            "url": "https://www.dailymail.co.uk/sciencetech/article-15022913/Google-database-hacked-2-5-BILLION-users.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2025/08/22/14/101464587-0-image-m-11_1755870324741.jpg",
+            "publishedAt": "2025-08-22T15:30:53Z"
+        },
         {
             "source": {
                 "id": "5cfd646fbad1ee4fa352342ad739c263",
@@ -84,6 +108,18 @@
             "url": "https://www.ndtvprofit.com/technology/ibm-to-drive-ai-powered-managed-services-transformation-at-vi",
             "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-08-22%2Flexo2r65%2FVi-DC.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
             "publishedAt": "2025-08-22T13:05:07Z"
+        },
+        {
+            "source": {
+                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
+                "name": "WTOP",
+                "url": "https://wtop.com",
+                "country": "us"
+            },
+            "title": "As AI becomes part of everyday life, it brings a hidden climate cost",
+            "url": "https://wtop.com/national/2025/08/as-ai-becomes-part-of-everyday-life-it-brings-a-hidden-climate-cost/",
+            "urlToImage": "https://wtop.com/wp-content/uploads/2025/08/Climate_Choices-AI_Impact_83323.jpg",
+            "publishedAt": "2025-08-22T13:05:01Z"
         },
         {
             "source": {
@@ -672,6 +708,42 @@
             "url": "https://www.globenewswire.com/news-release/2025/08/22/3137829/0/en/Register-Now-Limited-Seating-Boston-C-suite-executives-invited-to-HMG-Strategy-s-17th-Annual-C-Level-Technology-Leadership-Summit-on-September-11.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/4b886685-faf4-4f80-8e8a-77cac364fa1b",
             "publishedAt": "2025-08-22T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "I’ve now held the Pixel 10 Pro Fold and Galaxy Z Fold 7 — and there’s a clear winner",
+            "url": "https://www.tomsguide.com/phones/google-pixel-phones/ive-now-held-the-pixel-10-pro-fold-and-galaxy-z-fold-7-and-theres-a-clear-winner",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/6RokvoRmvCFaKHRZAVX7xk-1280-80.jpg",
+            "publishedAt": "2025-08-22 04:00:00"
+        },
+        {
+            "source": {
+                "name": "livemint"
+            },
+            "title": "AI isn’t really stealing jobs yet. That doesn’t mean we’re ready for it.",
+            "url": "https://www.livemint.com/ai/artificial-intelligence/ai-isn-t-really-stealing-jobs-yet-that-doesn-t-mean-we-re-ready-for-it-11755834528916.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2025/08/22/1600x900/gab76e7282ca79202572cddafd16aa7de73d98406b5439a2206a6abfe1e5b13f49c757998095a654d63924923c01e4f07fe8bf1d229084574a5f544b658631015_1280_1755834839594_1755834852131.jpg",
+            "publishedAt": "2025-08-22 03:56:59"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Google Reveals Gemini AI Energy Metrics: 33x Reduction Since May",
+            "url": "https://www.webpronews.com/google-reveals-gemini-ai-energy-metrics-33x-reduction-since-may/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-2054b0b5-58d5-4f52-a17b-1fa065f22d56.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-08-22 03:45:28"
+        },
+        {
+            "source": {
+                "name": "benzinga"
+            },
+            "title": "Mark Zuckerberg's Meta Strikes $10 Billion Cloud Pact with Google To Power AI Ambitions Despite Tech Rivalry: Report",
+            "url": "https://www.benzinga.com/markets/tech/25/08/47274211/mark-zuckerbergs-meta-strikes-10-billion-cloud-pact-with-google-to-power-ai-ambitions-despite-tech-r",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/08/21/Vancouver--Canada---Sep-23-2022--Closeup.jpeg?auto=jpg&dpr=1&fit=crop&height=480&optimize=medium&width=720",
+            "publishedAt": "2025-08-22 03:35:23"
         },
         {
             "source": {
@@ -3174,90 +3246,6 @@
             "url": "https://www.ndtv.com/world-news/nasa-launches-ai-model-to-understand-solar-eruptions-predict-space-weather-9126694",
             "urlToImage": "https://c.ndtvimg.com/2025-08/t30o4gk8_surya-x_625x300_20_August_25.jpeg",
             "publishedAt": "2025-08-20T18:02:33Z"
-        },
-        {
-            "source": {
-                "id": "5b07f2eba74fc799fd5d1ee46c5bafc3",
-                "name": "Newsweek",
-                "url": "https://www.newsweek.com",
-                "country": "us"
-            },
-            "title": "Israeli Official Arrested in Child Sex Sting Will Fight Charge: Attorney",
-            "url": "https://www.newsweek.com/tom-alexandrovich-israeli-official-defend-child-sex-sting-nevada-2116504",
-            "urlToImage": "https://d.newsweek.com/en/full/2706315/tom-artiom-alexandrovich.png",
-            "publishedAt": "2025-08-20T18:02:13Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "New audit rules for digi-first companies soon: ICAI president",
-            "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/new-audit-rules-for-digi-first-companies-soon-icai-president/articleshow/123416536.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-123416624,width-1200,height-630,imgsize-52400,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2025-08-20T17:59:00Z"
-        },
-        {
-            "source": {
-                "id": "bc002b453215c04fa081a97f2c6679b9",
-                "name": "The Hacker News",
-                "url": "https://thehackernews.com",
-                "country": "us"
-            },
-            "title": "DOM-Based Extension Clickjacking Exposes Popular Password Managers to Credential and Data Theft",
-            "url": "https://thehackernews.com/2025/08/dom-based-extension-clickjacking.html",
-            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis8s2AE2HL9hS_h59LP2ylzs5MHDhwBvrz3osuRARB4BpzRakMQnL4b5FJtFiHJsBv8w1JWNQ9d2uv932WVPoWKj_MJbatN4Oprl-eA2bN3QM8G3xdbB1g0-BV-WnQclf5L4WLJbNqA1ku-i0SUX-YlWvsJfNMOwQ536TSbUGugv2syApaFvPR8rQcSqGF/s728-rw-e365/passwords.jpg",
-            "publishedAt": "2025-08-20T17:54:00Z"
-        },
-        {
-            "source": {
-                "id": "e553cce06d349ac1f7fbb7618a979256",
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com",
-                "country": "us"
-            },
-            "title": "Warren Brodey, 101, Dies; a Visionary at the Dawn of the Information Age",
-            "url": "https://www.nytimes.com/2025/08/20/technology/warren-brodey-dead.html",
-            "urlToImage": "https://static01.nyt.com/images/2025/08/20/multimedia/20Brodey--01-vcgj/20Brodey--01-vcgj-facebookJumbo.jpg",
-            "publishedAt": "2025-08-20T17:35:50Z"
-        },
-        {
-            "source": {
-                "id": "e9ebd5ddfec64ee80f9cbd6ec0b9fdb0",
-                "name": "Futurity: Research News",
-                "url": "https://www.futurity.org",
-                "country": "us"
-            },
-            "title": "AI is changing how people travel",
-            "url": "https://www.futurity.org/artificial-intelligence-travel-3290812-2/",
-            "urlToImage": "https://www.futurity.org/wp/wp-content/uploads/2025/08/travelers-gut-bacteria-antibiotic-resistance-1600-1.jpg",
-            "publishedAt": "2025-08-20T17:19:53Z"
-        },
-        {
-            "source": {
-                "id": "09dc1bda762f4f787cec10477a894d96",
-                "name": "Toronto Sun",
-                "url": "https://torontosun.com",
-                "country": "ca"
-            },
-            "title": "Google’s Pixel 10 phones raise the ante on AI",
-            "url": "https://torontosun.com/technology/personal-tech/googles-pixel-10-phones-raises-the-ante-on-artificial-intelligence",
-            "urlToImage": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2025/08/68a5f184769e86f0690c463ejpeg.jpg",
-            "publishedAt": "2025-08-20T17:13:37Z"
-        },
-        {
-            "source": {
-                "id": "e894895ef041ab9c6cb7fe7223531f53",
-                "name": "Mashable India",
-                "url": "https://in.mashable.com",
-                "country": "in"
-            },
-            "title": "Indian Government Issues High-Risk Cybersecurity Warning For Microsoft Users",
-            "url": "https://in.mashable.com/tech/98767/indian-government-issues-high-risk-cybersecurity-warning-for-microsoft-users",
-            "urlToImage": "https://sm.mashable.com/mashable_in/seo/default/microsoft1_1fqj.jpg",
-            "publishedAt": "2025-08-20T16:55:07Z"
         }
     ]
 }
