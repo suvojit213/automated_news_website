@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-08-22T06:23:18.843721Z",
+    "lastUpdatedAt": "2025-08-22T07:14:39.581172Z",
     "articles": [
+        {
+            "source": {
+                "id": "e9207083a357fb7e76b38e485888ebe7",
+                "name": "manilastandard.net",
+                "url": "https://manilastandard.net",
+                "country": "ph"
+            },
+            "title": "Schneider Electric pushes for scalable, energy-efficient data centers amid AI surge",
+            "url": "https://manilastandard.net/tech/314633066/schneider-electric-pushes-for-scalable-energy-efficient-data-centers-amid-ai-surge.html",
+            "urlToImage": "https://cdn.manilastandard.net/wp-content/uploads/2025/08/MAIN-PHOTO.png",
+            "publishedAt": "2025-08-22T07:08:19Z"
+        },
         {
             "source": {
                 "id": "6fea3ee012f060c6309366516e8d00be",
@@ -132,6 +144,18 @@
             "url": "https://www.cnbc.com/2025/08/21/google-scores-six-year-meta-cloud-deal-worth-over-10-billion.html",
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/108189400-17558192742024-09-25t203922z_1336797993_rc2u7aalwc6k_rtrmadp_0_meta-platforms-virtual-reality.jpeg?v=1755819335&w=1920&h=1080",
             "publishedAt": "2025-08-22T00:03:52Z"
+        },
+        {
+            "source": {
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
+                "country": "us"
+            },
+            "title": "AMD Stock Dips on FSR 4 Source Code Mistake",
+            "url": "https://markets.businessinsider.com/news/stocks/amd-stock-dips-on-fsr-4-source-code-mistake-1035063509",
+            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/08/image-1532.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+            "publishedAt": "2025-08-22T00:03:00Z"
         },
         {
             "source": {
@@ -1236,6 +1260,69 @@
             "url": "https://www.globenewswire.com/news-release/2025/08/21/3137281/28124/en/Investment-Opportunities-in-the-56-3-Billion-AI-Platforms-Market-2025-2030-Machine-Learning-Tops-AI-Platforms-Technology-Accounting-for-41-2-Share-in-2024.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
             "publishedAt": "2025-08-21T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "I always install these 5 free apps on every Windows PC - here's why they're essential",
+            "url": "https://www.zdnet.com/article/i-always-install-these-5-free-apps-on-every-windows-pc-heres-why-theyre-essential/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/b99617b4c611b2b765f431bb20b2e2237a431679/2025/07/24/ce4439f1-7359-4d8d-8c51-76c261c59415/dell-premium-16-image-5.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-08-21 19:09:00"
+        },
+        {
+            "source": {
+                "name": "xda_developers"
+            },
+            "title": "Please stop buying DRAM-less SSDs",
+            "url": "https://www.xda-developers.com/please-stop-buying-dram-less-ssd/",
+            "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2024/01/m2-ssd-module-being-held-with-a-finger-on-the-motherboard.jpg",
+            "publishedAt": "2025-08-21 19:00:19"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Apple vs Microsoft: Which Stock is the Better Buy Today?",
+            "url": "https://www.analyticsinsight.net/stocks/apple-vs-microsoft-which-stock-is-the-better-buy-today",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-08-21%2Fok6exe1o%2FApple-vs-Microsoft-Which-Stock-Is-the-Better-Buy-Today.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-08-21 19:00:00"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "Finally, a Windows laptop that I wouldn't mind putting away my MacBook for",
+            "url": "https://www.zdnet.com/article/finally-a-windows-laptop-that-i-wouldnt-mind-putting-away-my-macbook-for/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/c27ef82b576c5111ac8e59c944b39453f3818481/2025/08/06/f76d7633-c40e-472f-a862-ca69305cf9bf/asus-proart-p16-2025-image-4.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-08-21 18:52:00"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "Why Nvidia Earnings Matter More To Markets Than What The Fed Chair Says",
+            "url": "https://www.forbes.com/sites/petercohan/2025/08/21/why-nvidia-matters-more-to-markets-than-the-fed/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68a7598b96f25a28d1570543/0x0.jpg?width=960",
+            "publishedAt": "2025-08-21 18:36:55"
+        },
+        {
+            "source": {
+                "name": "djournal"
+            },
+            "title": "Google to provide Gemini AI tools to US government",
+            "url": "https://www.djournal.com/news/national/google-to-provide-gemini-ai-tools-to-us-government/article_5c3c6638-c655-5157-a555-bb41cb6ba532.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/f/34/f340a80a-d0a5-5280-8b1f-8e203fd4248b/684ca330671de.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-08-21 18:35:23"
+        },
+        {
+            "source": {
+                "name": "citizentribune"
+            },
+            "title": "Google to provide Gemini AI tools to US government",
+            "url": "https://www.citizentribune.com/news/national/google-to-provide-gemini-ai-tools-to-us-government/article_713cd7cd-0a0f-58aa-b063-afe741d06494.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/citizentribune.com/content/tncms/assets/v3/editorial/3/ce/3ce71e42-2feb-582a-9220-051d94c5f01d/68a770cc149e1.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-08-21 18:35:23"
         },
         {
             "source": {
@@ -3222,114 +3309,6 @@
             "url": "https://www.manilatimes.net/2025/08/20/tmt-newswire/pr-newswire/inspur-showcases-at-2025-asean-ai-malaysia-summit/2170813",
             "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
             "publishedAt": "2025-08-20T08:50:32Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Metal Organic Frameworks Market worth $1.70 billion by 2030 at 22.1%, says MarketsandMarkets™",
-            "url": "https://www.manilatimes.net/2025/08/20/tmt-newswire/globenewswire/metal-organic-frameworks-market-worth-170-billion-by-2030-at-221-says-marketsandmarkets/2170811",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/20/720075.jpg",
-            "publishedAt": "2025-08-20T08:46:04Z"
-        },
-        {
-            "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
-                "country": "in"
-            },
-            "title": "Instagram Maps worries cybersecurity experts, as Meta’s tracking legacy looms",
-            "url": "https://www.hindustantimes.com/india-news/instagram-maps-worries-cybersecurity-experts-as-meta-s-tracking-legacy-looms-101755677554893.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/08/20/1600x900/Security-researchers-warn-of-concerns-around-safet_1755677668375.jpg",
-            "publishedAt": "2025-08-20T08:12:34Z"
-        },
-        {
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            },
-            "title": "IIT-Roorkee, Futurense announce GenAI-powered cybersecurity programme",
-            "url": "https://indianexpress.com/article/education/iit-roorkee-generative-ai-powered-cybersecurity-programme-artifiial-intelligence-course-jee-main-advanced-2026-10200303/",
-            "urlToImage": "https://images.indianexpress.com/2024/07/IIT-Roorkee-1.jpg",
-            "publishedAt": "2025-08-20T07:44:39Z"
-        },
-        {
-            "source": {
-                "id": "a20567d6dba1eb61fe53af2865f90d74",
-                "name": "The New Paper",
-                "url": "https://www.tnp.sg",
-                "country": "sg"
-            },
-            "title": "Jack Neo uses AI to create SG60 song with AI image of Lee Kuan Yew",
-            "url": "https://www.tnp.sg/lifestyle/jack-neo-uses-ai-create-sg60-song-ai-image-lee-kuan-yew",
-            "urlToImage": "https://cassette.sphdigital.com.sg/image/thenewpaper/524a412c5aab5fa1573f6baf2d25c1b216e6ef69157e231fefacc10c7c882e7e/kc-lky2008.jpg",
-            "publishedAt": "2025-08-20T07:25:58Z"
-        },
-        {
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            },
-            "title": "Asian shares retreat, tracking tech losses on Wall Street",
-            "url": "https://japantoday.com/category/business/asian-shares-retreat-tracking-tech-losses-on-wall-street",
-            "urlToImage": "https://media.japantoday.com/img/store/2a/cb/1a2fa0d7f36ebac2f04b6f7c877e098772ac/download/_w1700.jpeg",
-            "publishedAt": "2025-08-20T07:00:00Z"
-        },
-        {
-            "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
-                "country": "in"
-            },
-            "title": "ChatGPT Go Vs ChatGPT Plus Vs ChatGPT Free: Which One Should You Pick?",
-            "url": "https://www.ndtvprofit.com/technology/chatgpt-go-vs-chatgpt-plus-vs-chatgpt-free-which-one-should-you-pick",
-            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-08-19%2Fdd96vkgx%2Flevartphotographer-drwpcjkvxuU-unsplash-2.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
-            "publishedAt": "2025-08-20T06:41:58Z"
-        },
-        {
-            "source": {
-                "id": "7ba4ac19a3c25ba844bbd220fe4c860a",
-                "name": "THE WEEK",
-                "url": "https://www.theweek.in",
-                "country": "in"
-            },
-            "title": "Anurag Kashyap slams Vijay Subramaniam for ‘Made-in-AI’ film on Hanuman: ‘You should be in the gutter’",
-            "url": "https://www.theweek.in/news/entertainment/2025/08/20/anurag-kashyap-slams-vijay-subramaniam-for-made-in-ai-film-on-hanuman-you-should-be-in-the-gutter.html",
-            "urlToImage": "https://www.theweek.in/content/dam/week/week/news/entertainment/images/2025/8/20/vijay-subramaniam.jpg",
-            "publishedAt": "2025-08-20T06:01:44Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Foxconn is no longer Apple's iPhone factory floor, it is now building …",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/foxconn-is-no-longer-apples-iphone-factory-floor-it-is-now-building-/articleshow/123400896.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-123400865,width-1070,height-580,imgsize-122656,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "publishedAt": "2025-08-20T05:12:00Z"
-        },
-        {
-            "source": {
-                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
-                "name": "The Associated Press",
-                "url": "https://apnews.com",
-                "country": "us"
-            },
-            "title": "Asian shares retreat, tracking tech losses on Wall Street",
-            "url": "https://apnews.com/article/stock-markets-trump-ai-powell-aef1ba36b77da6b63c1d66b31f7c12c9",
-            "urlToImage": "https://dims.apnews.com/dims4/default/2c146c1/2147483647/strip/true/crop/6333x3562+0+330/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F92%2F73%2Fd751bc01a77829eba170b702afb5%2F064db6cbfde243b086f81ef405f94d39",
-            "publishedAt": "2025-08-20T04:48:23Z"
         }
     ]
 }
