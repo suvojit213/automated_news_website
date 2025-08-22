@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-08-22T20:16:49.945876Z",
+    "lastUpdatedAt": "2025-08-22T21:13:33.345184Z",
     "articles": [
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "Cybersecurity firm Netskope files to go public on the Nasdaq",
+            "url": "https://www.cnbc.com/2025/08/22/cybersecurity-firm-netskope-ipo-nasdaq.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108189844-1755888667273-gettyimages-543417030-BERI_CHOWDHURY.jpeg?v=1755888728&w=1920&h=1080",
+            "publishedAt": "2025-08-22T20:36:41Z"
+        },
         {
             "source": {
                 "id": "384b3c633f1aa3e0a1bcb208f94d519d",
@@ -840,6 +852,96 @@
             "url": "https://www.globenewswire.com/news-release/2025/08/22/3137829/0/en/Register-Now-Limited-Seating-Boston-C-suite-executives-invited-to-HMG-Strategy-s-17th-Annual-C-Level-Technology-Leadership-Summit-on-September-11.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/4b886685-faf4-4f80-8e8a-77cac364fa1b",
             "publishedAt": "2025-08-22T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "businessinsider_us"
+            },
+            "title": "How CEOs are using AI in their daily lives",
+            "url": "https://www.businessinsider.com/how-ceos-use-ai-apple-tim-cook-openai-sam-altman",
+            "urlToImage": "https://i.insider.com/685d98dcf748d8c055f472a5?format=jpeg",
+            "publishedAt": "2025-08-22 09:03:01"
+        },
+        {
+            "source": {
+                "name": "engadget"
+            },
+            "title": "The best ereaders for 2025",
+            "url": "https://www.engadget.com/mobile/tablets/best-ereader-130013808.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?client=19f2b5e49a271b2bde77&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-12%2F5e3431d0-bd35-11ef-8fef-643ec576b8e0&resize=1400%2C787&signature=c3b72b07ea4018f6a703f339cd9c3ceddba3e250",
+            "publishedAt": "2025-08-22 09:01:26"
+        },
+        {
+            "source": {
+                "name": "moneycontrol"
+            },
+            "title": "How AI model is being used to stop the creation of nuclear weapons",
+            "url": "https://www.moneycontrol.com/world/how-ai-model-is-being-used-to-stop-the-creation-of-nuclear-weapons-article-13480228.html",
+            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2025/08/20250822090015_bomb.png",
+            "publishedAt": "2025-08-22 09:01:12"
+        },
+        {
+            "source": {
+                "name": "thehansindia"
+            },
+            "title": "Make in India booster: izmomicro develops next-gen semiconductor tech, shares rise",
+            "url": "https://www.thehansindia.com/business/make-in-india-booster-izmomicro-develops-next-gen-semiconductor-tech-shares-rise-999393",
+            "urlToImage": "https://assets.thehansindia.com/h-upload/2025/08/22/1578463-izmomicro.webp",
+            "publishedAt": "2025-08-22 09:00:55"
+        },
+        {
+            "source": {
+                "name": "mashable_me"
+            },
+            "title": "NASA telescope's image of a creepy cosmic object just got stranger",
+            "url": "https://me.mashable.com/space/59947/nasa-telescopes-image-of-a-creepy-cosmic-object-just-got-stranger",
+            "urlToImage": "https://sm.mashable.com/mashable_me/article/n/nasa-teles/nasa-telescopes-image-of-a-creepy-cosmic-object-just-got-str_a9v5.jpg",
+            "publishedAt": "2025-08-22 09:00:00"
+        },
+        {
+            "source": {
+                "name": "mashable_me"
+            },
+            "title": "How to identify AI-generated videos online",
+            "url": "https://me.mashable.com/tech/59941/how-to-identify-ai-generated-videos-online",
+            "urlToImage": "https://sm.mashable.com/mashable_me/article/h/how-to-ide/how-to-identify-ai-generated-videos-online_w6df.jpg",
+            "publishedAt": "2025-08-22 09:00:00"
+        },
+        {
+            "source": {
+                "name": "yahoo"
+            },
+            "title": "NASA telescope's image of a creepy cosmic object just got stranger",
+            "url": "https://www.yahoo.com/news/articles/nasa-telescopes-image-creepy-cosmic-090000486.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/9b.of3tpfEV2BUqSCF8t5g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTg7Y2Y9d2VicA--/https://media.zenfs.com/en/mashable_articles_863/7053bb8234847aaa5bac9e82dd0cf439",
+            "publishedAt": "2025-08-22 09:00:00"
+        },
+        {
+            "source": {
+                "name": "forbesindia"
+            },
+            "title": "\"McKinsey in a box\": The end of strategic consulting?",
+            "url": "https://www.forbesindia.com/article/insead/quotmckinsey-in-a-boxquot-the-end-of-strategic-consulting/96645/1",
+            "urlToImage": "https://images.forbesindia.com/media/images/2025/Aug/img_247713_shutterstock_730615786_bg.jpg",
+            "publishedAt": "2025-08-22 08:41:21"
+        },
+        {
+            "source": {
+                "name": "digit_in"
+            },
+            "title": "ChatGPT to Gemini: How much energy do your AI queries cost?",
+            "url": "https://www.digit.in/features/general/chatgpt-to-gemini-how-much-energy-do-your-ai-queries-cost.html",
+            "urlToImage": "https://static.digit.in/AI-Energy-Consumption.jpg",
+            "publishedAt": "2025-08-22 08:33:10"
+        },
+        {
+            "source": {
+                "name": "economictimes_indiatimes"
+            },
+            "title": "DeepSeek unveils GPT-5 challenger — cheaper, faster, and built for China’s chips",
+            "url": "https://economictimes.indiatimes.com/news/international/us/deepseek-v31-ai-model-vs-openai-gpt5-alternative-china-ai-model-comparison-nvidia-chips-latest-ai-news/articleshow/123455919.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-123455947,width-300,height-225,imgsize-50954,resizemode-75/deepseek-unveils-gpt-5-challenger-cheaper-faster-and-built-for-chinas-chips.jpg",
+            "publishedAt": "2025-08-22 08:31:25"
         },
         {
             "source": {
@@ -3087,105 +3189,6 @@
             "url": "https://en.prnasia.com/story/500440-0.shtml",
             "urlToImage": "https://mma.prnasia.com/media2/2755097/Dell_AIIH_Headline_Photo.jpg?p=medium600",
             "publishedAt": "2025-08-21 05:09:00"
-        },
-        {
-            "source": {
-                "name": "decaturdaily"
-            },
-            "title": "Google's Pixel 10 phones raises the ante on artificial intelligence",
-            "url": "https://www.decaturdaily.com/business/googles-pixel-10-phones-raises-the-ante-on-artificial-intelligence/article_555c84cc-1665-47a4-84f8-903fef9f8510.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/decaturdaily.com/content/tncms/assets/v3/editorial/b/6c/b6cf3acf-20e8-413b-8f45-673af221b1b5/68a60e1a94c2b.image.jpg?resize=300%2C300",
-            "publishedAt": "2025-08-21 05:00:00"
-        },
-        {
-            "source": {
-                "name": "thehindu"
-            },
-            "title": "Trump thinks owning a piece of Intel would be a good deal for the U.S. Here’s what to know",
-            "url": "https://www.thehindu.com/sci-tech/technology/trump-thinks-owning-a-piece-of-intel-would-be-a-good-deal-for-the-us-heres-what-to-know/article69958764.ece",
-            "urlToImage": "https://th-i.thgim.com/public/incoming/6kklym/article69958767.ece/alternates/LANDSCAPE_1200/2025-08-19T135949Z_233095_RC2KOZ9ASJ44_RTRMADP_3_USA-TREASURY-BESSENT.JPG",
-            "publishedAt": "2025-08-21 04:47:10"
-        },
-        {
-            "source": {
-                "name": "thehindubusinessline"
-            },
-            "title": "OpenAI CFO sees firm selling AI infrastructure service in future",
-            "url": "https://www.thehindubusinessline.com/info-tech/openai-cfo-sees-firm-selling-ai-infrastructure-service-in-future/article69958877.ece",
-            "urlToImage": "https://bl-i.thgim.com/public/incoming/w9vut1/article69958897.ece/alternates/LANDSCAPE_1200/2025-08-06T021942Z_1374809076_RC2LU7AYUNM6_RTRMADP_3_OPENAI-SHARE-SALE.JPG",
-            "publishedAt": "2025-08-21 04:37:08"
-        },
-        {
-            "source": {
-                "name": "news4social"
-            },
-            "title": "NASA and IBM create ‘Surya’: Advanced AI for predicting solar storms and strengthening space defence | – The Times of India",
-            "url": "https://en.news4social.com/nasa-and-ibm-create-surya-advanced-ai-for-predicting-solar-storms-and-strengthening-space-defence-the-times-of-india/",
-            "urlToImage": "https://i3.wp.com/static.toiimg.com/thumb/msid-123423518,imgsize-46702,width-400,resizemode-4/NASA-and-IBM-create-Surya-Advanced-AI-for-predicting-solar-storms-and-strengthening-space-defence.jpg?resize=750%2C375&ssl=1&w=750",
-            "publishedAt": "2025-08-21 04:37:00"
-        },
-        {
-            "source": {
-                "name": "messenger_inquirer"
-            },
-            "title": "AP Technology SummaryBrief at 12:03 a.m. EDT",
-            "url": "https://www.messenger-inquirer.com/ap/elections/ap-technology-summarybrief-at-12-03-a-m-edt/article_fc510276-4fe0-53b4-8751-b92215b9b6f5.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/messenger-inquirer.com/content/tncms/custom/image/a2a4b15c-9ead-11ee-847f-2b2be1350ebd.jpg?resize=600%2C338",
-            "publishedAt": "2025-08-21 04:03:27"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "I tried Pro Res Zoom to capture 100x zoom photos with Pixel 10 Pro XL — and the results are unbelievable",
-            "url": "https://www.tomsguide.com/phones/google-pixel-phones/i-tried-pro-res-zoom-to-capture-100x-zoom-photos-with-pixel-10-pro-xl-and-the-results-are-unbelievable",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/nsyLmGvYDJuRfbs5eEPWXC-1280-80.jpg",
-            "publishedAt": "2025-08-21 04:01:00"
-        },
-        {
-            "source": {
-                "name": "thehindubusinessline"
-            },
-            "title": "First packaged chip expected to be out by December 2025: MoS Electronics & IT Jitin Prasada",
-            "url": "https://www.thehindubusinessline.com/info-tech/first-packaged-chip-expected-to-be-out-by-december-2025-mos-electronics-it-jitin-prasada/article69958826.ece",
-            "urlToImage": "https://bl-i.thgim.com/public/incoming/eiid9m/article69946460.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_U6A3RP55O_R1524411167_2_1a0f471a-feb0-45cb-a10d-325fcac60478.jpg",
-            "publishedAt": "2025-08-21 04:00:05"
-        },
-        {
-            "source": {
-                "name": "biztoc"
-            },
-            "title": "Chinese unicorn Z.ai, Alibaba Cloud team up to deploy new AI agent",
-            "url": "https://biztoc.com/x/6f95f1f2d7b943e5",
-            "urlToImage": "https://cdn.biztoc.com/6f95f1f2d7b943e5_sq.webp",
-            "publishedAt": "2025-08-21 03:07:59"
-        },
-        {
-            "source": {
-                "name": "thehindu"
-            },
-            "title": "How charge-coupled devices revolutionised digital imaging",
-            "url": "https://www.thehindu.com/sci-tech/science/how-charge-coupled-devices-revolutionised-digital-imaging/article69956129.ece",
-            "urlToImage": "https://th-i.thgim.com/public/incoming/uiherq/article69957402.ece/alternates/LANDSCAPE_1200/795384-01-02.jpg",
-            "publishedAt": "2025-08-21 03:00:00"
-        },
-        {
-            "source": {
-                "name": "digitaltrends"
-            },
-            "title": "Watch this humanoid robot nail complex tasks and think on the fly",
-            "url": "https://www.digitaltrends.com/computing/humanoid-robot-complex-tasks/",
-            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/08/atlas-humanoid-robot.jpg?p=1&resize=1200%2C630",
-            "publishedAt": "2025-08-21 02:30:00"
-        },
-        {
-            "source": {
-                "name": "journal_news"
-            },
-            "title": "Qfin Holdings' Paper Accepted by ASRU 2025, Gathering Three Top Speech Conferences to Demonstrate Independent R&D Strength",
-            "url": "https://www.journal-news.net/online_features/press_releases/qfin-holdings-paper-accepted-by-asru-2025-gathering-three-top-speech-conferences-to-demonstrate-independent/article_15313a6f-9bab-5d66-af43-54ebae0ee2bc.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/journal-news.net/content/tncms/custom/image/3d1380e4-c027-11e8-a4dd-bb1ef9d5adc9.png?resize=600%2C315",
-            "publishedAt": "2025-08-21 01:52:00"
         }
     ]
 }
