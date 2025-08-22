@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-08-22T01:12:29.582513Z",
+    "lastUpdatedAt": "2025-08-22T03:04:54.794539Z",
     "articles": [
+        {
+            "source": {
+                "id": "f6d6ee1134197fe1441d65a3e7915835",
+                "name": "Yahoo Singapore News",
+                "url": "https://sg.news.yahoo.com",
+                "country": "sg"
+            },
+            "title": "South Korea's Lee says plans record $25 billion govt spending on research in 2026",
+            "url": "https://sg.news.yahoo.com/south-koreas-lee-says-plans-024758048.html",
+            "urlToImage": "https://media.zenfs.com/en/reuters.com/c8e52bf1dbe2302fbbd729ce6ba43492",
+            "publishedAt": "2025-08-22T02:47:58Z"
+        },
+        {
+            "source": {
+                "id": "6536182115f7e8188f38d864bab0e1c6",
+                "name": "DAWN.com",
+                "url": "https://www.dawn.com",
+                "country": "pk"
+            },
+            "title": "Hundreds of thousands of Grok chats exposed in Google results",
+            "url": "https://www.dawn.com/news/1933233/hundreds-of-thousands-of-grok-chats-exposed-in-google-results",
+            "urlToImage": "https://www.dawn.com/_img/social-default.jpg",
+            "publishedAt": "2025-08-22T02:06:26Z"
+        },
+        {
+            "source": {
+                "id": "94466d37d8c67a438250646866df36df",
+                "name": "SBS News",
+                "url": "https://www.sbs.com.au",
+                "country": "au"
+            },
+            "title": "Australia may have made an AI policy 'breakthrough', but how does it compare globally?",
+            "url": "https://www.sbs.com.au/news/article/australia-may-have-made-an-ai-policy-breakthrough-but-how-does-it-compare-globally/ejj1gqfyi",
+            "urlToImage": "https://images.sbs.com.au/dims4/default/943b847/2147483647/strip/true/crop/2121x1193+0+110/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2Fb5%2F39%2Fcb9a452a4e3ea67a8b8c8c9abf95%2Fgettyimages-2022302070.jpg",
+            "publishedAt": "2025-08-22T01:44:11Z"
+        },
+        {
+            "source": {
+                "id": "a3391c15eb1d3136f9b9dd080940d0e8",
+                "name": "The Nation",
+                "url": "https://www.nation.com.pk",
+                "country": "pk"
+            },
+            "title": "Gender Inequality in the AI Age",
+            "url": "https://www.nation.com.pk/22-Aug-2025/gender-inequality-in-the-ai-age",
+            "urlToImage": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
+            "publishedAt": "2025-08-22T01:37:59Z"
+        },
         {
             "source": {
                 "id": "7006f2c40c7cc01195608dbfd60259b3",
@@ -1128,6 +1176,78 @@
             "url": "https://www.globenewswire.com/news-release/2025/08/21/3137281/28124/en/Investment-Opportunities-in-the-56-3-Billion-AI-Platforms-Market-2025-2030-Machine-Learning-Tops-AI-Platforms-Technology-Accounting-for-41-2-Share-in-2024.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
             "publishedAt": "2025-08-21T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "xda_developers"
+            },
+            "title": "How AMD dominating HEDT with Threadripper redefined the CPU market",
+            "url": "https://www.xda-developers.com/amd-dominating-hedt-with-threadripper-completely-altered-the-cpu-market/",
+            "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2025/07/threadripper-9000-review-10.jpg",
+            "publishedAt": "2025-08-21 15:00:19"
+        },
+        {
+            "source": {
+                "name": "techtarget"
+            },
+            "title": "Four tech companies increasing manufacturing in the U.S.",
+            "url": "https://www.techtarget.com/whatis/feature/tech-companies-increasing-manufacturing-in-the-US",
+            "urlToImage": "https://www.techtarget.com/rms/onlineimages/strategy_g1227074505_searchsitetablet_520X173.jpg",
+            "publishedAt": "2025-08-21 14:44:00"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "The latest Google Pixel phones quietly got a Bluetooth upgrade - why it's a big deal",
+            "url": "https://www.zdnet.com/article/the-latest-google-pixel-phones-quietly-got-a-bluetooth-upgrade-why-its-a-big-deal/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/8896bdd0142ee74f00ca577ec9e98743fca93f62/2025/08/19/d865e884-8f40-43a2-8504-cb973880ac3d/made-by-google-pixel-event-2025-photo-23.jpg?auto=webp&width=1280",
+            "publishedAt": "2025-08-21 14:37:00"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "Update your iPhone, iPad, and Mac ASAP to fix this dangerous security flaw - here's why",
+            "url": "https://www.zdnet.com/article/update-your-iphone-ipad-and-mac-asap-to-fix-this-dangerous-security-flaw-heres-why/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/53e92030213c331095f86a68e683ab272dde66db/2025/08/21/20a87889-37b0-472b-b810-bc155d6215c9/install-this-update-for-your-iphone-ipad-and-mac-to-fix-a-serious-security-flaw.jpg?auto=webp&width=1280",
+            "publishedAt": "2025-08-21 14:30:27"
+        },
+        {
+            "source": {
+                "name": "slashgear"
+            },
+            "title": "5 Of The Strangest Classic Police Cars In America",
+            "url": "https://www.slashgear.com/1945666/strangest-classic-police-cars/",
+            "urlToImage": "https://www.slashgear.com/img/gallery/5-of-the-strangest-classic-police-cars-in-america/l-intro-1755689220.jpg",
+            "publishedAt": "2025-08-21 14:30:00"
+        },
+        {
+            "source": {
+                "name": "thehindu"
+            },
+            "title": "Kerala blazes a digital trail by achieving 100% digital literacy",
+            "url": "https://www.thehindu.com/news/national/kerala/kerala-blazes-a-digital-trail-by-achieving-100-digital-literacy/article69959219.ece",
+            "urlToImage": "https://th-i.thgim.com/public/news/national/kerala/r8yu2b/article69960133.ece/alternates/LANDSCAPE_1200/Digi%20Kerala%20-%20Sarasu%20-%20Pullampara.JPG",
+            "publishedAt": "2025-08-21 14:11:38"
+        },
+        {
+            "source": {
+                "name": "menafn"
+            },
+            "title": "Bonsai Robotics Announces Deep-Bench Leadership To Accelerate AI-First Autonomy For Agriculture",
+            "url": "https://menafn.com/1109959865/Bonsai-Robotics-Announces-Deep-Bench-Leadership-To-Accelerate-AI-First-Autonomy-For-Agriculture",
+            "urlToImage": "https://menafn.com/updates/pr/2025-08/21/ND_200f7image_story.png",
+            "publishedAt": "2025-08-21 14:03:57"
+        },
+        {
+            "source": {
+                "name": "pcworld_us"
+            },
+            "title": "Surfshark review: An affordable VPN service packed with features",
+            "url": "https://www.pcworld.com/article/397529/surfshark-vpn-review-2.html",
+            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/08/Surfshark-header.png",
+            "publishedAt": "2025-08-21 14:00:00"
         },
         {
             "source": {
@@ -3252,114 +3372,6 @@
             "url": "https://pantagraph.com/news/nation-world/business/article_143338ae-b5be-5f81-bc64-a48d9efc03c3.html",
             "urlToImage": "https://bloximages.chicago2.vip.townnews.com/pantagraph.com/content/tncms/assets/v3/editorial/0/f0/0f0b5155-bb73-509d-ad91-b7f37973559c/68a6495507364.image.jpg?crop=1763%2C926%2C0%2C124&order=crop%2Cresize&resize=1200%2C630",
             "publishedAt": "2025-08-20 21:17:00"
-        },
-        {
-            "source": {
-                "name": "engadget"
-            },
-            "title": "Oracle will reportedly power a giant data center with gas generators",
-            "url": "https://www.engadget.com/ai/oracle-will-reportedly-power-a-giant-data-center-with-gas-generators-211658314.html",
-            "urlToImage": "https://o.aolcdn.com/images/dims?client=19f2b5e49a271b2bde77&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-05%2F39068650-380b-11f0-8777-42e382e77bbd&resize=1400%2C796&signature=608c419c127134e82c0c28790e1cab36a2178a66",
-            "publishedAt": "2025-08-20 21:16:59"
-        },
-        {
-            "source": {
-                "name": "thehindu"
-            },
-            "title": "CT-Cal score emerges as a popular, non-invasive tool to detect heart attacks",
-            "url": "https://www.thehindu.com/sci-tech/health/ct-cal-score-emerges-as-a-popular-non-invasive-tool-to-detect-heart-attacks/article69955591.ece",
-            "urlToImage": "https://www.thehindu.com/theme/images/og-image.png",
-            "publishedAt": "2025-08-20 20:58:00"
-        },
-        {
-            "source": {
-                "name": "cnet"
-            },
-            "title": "Best Desks of 2025: I've Spent Nearly 4,000 Hours Testing Desks. These Are the Ones You Want",
-            "url": "https://www.cnet.com/news/best-desks/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/25138984c59bb95fddc9690a148282576fcdb44f/hub/2024/04/15/29904c34-edd6-4ec2-a125-95a398d3b465/best-desk-commerce.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-08-20 20:25:00"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "Canon MegaTank Pixma G3290 review",
-            "url": "https://www.tomsguide.com/computing/printers/canon-megatank-pixma-g3290-review",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/ZrnowKm6fyXw33aGcF9sG9-1280-80.jpg",
-            "publishedAt": "2025-08-20 19:46:37"
-        },
-        {
-            "source": {
-                "name": "gizmodotech"
-            },
-            "title": "Oracle Will Reportedly Spend $1 Billion a Year on a Gas-Powered Data Center",
-            "url": "https://gizmodo.com/oracle-will-reportedly-spend-1-billion-a-year-on-a-gas-powered-data-center-2000645906",
-            "urlToImage": "https://gizmodo.com/app/uploads/2020/08/x0pjsazt3yqbohwuxu9j.jpg",
-            "publishedAt": "2025-08-20 19:45:36"
-        },
-        {
-            "source": {
-                "name": "news_msstate"
-            },
-            "title": "NASA fellowship for AI land cover research awarded to MSU doctoral student",
-            "url": "http://www.msstate.edu/newsroom/article/2025/08/nasa-fellowship-ai-land-cover-research-awarded-msu-doctoral-student",
-            "urlToImage": "http://www.msstate.edu/sites/www.msstate.edu/files/styles/msstatedrupal_large/public/2025-08/Hester_Dakota-horiz_20250818_B9W7171~dh2306.jpg?itok=cpqfcTxj",
-            "publishedAt": "2025-08-20 19:35:57"
-        },
-        {
-            "source": {
-                "name": "cnet"
-            },
-            "title": "This is the Ultimate '90s Cyberpunk Movie (No, It's Not 'The Matrix')",
-            "url": "https://www.cnet.com/culture/entertainment/this-is-the-ultimate-90s-cyberpunk-movie-no-its-not-the-matrix/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/01417dcb28e7ff26d3c0c5c853a6bcab6e631f13/hub/2025/05/30/1624c6a4-ad72-4e14-bd9c-cc2c134c27f3/strange-days-1200-1200-675-675-crop-000000.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-08-20 19:30:03"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "Why AI Ignores Instructions Even After They Are Repeated Multiple Times",
-            "url": "https://www.forbes.com/sites/dianehamilton/2025/08/20/why-ai-ignores-instructions-even-after-they-are-repeated-multiple-times/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68a48c13f40a13a4b6f9a057/0x0.jpg?width=960",
-            "publishedAt": "2025-08-20 19:00:00"
-        },
-        {
-            "source": {
-                "name": "computerworld_in"
-            },
-            "title": "Productivity software firms pivot to genAI by leaning on legacy strengths",
-            "url": "https://www.computerworld.com/article/4043243/productivity-software-firms-pivot-to-genai-by-leaning-on-legacy-strengths.html",
-            "urlToImage": "https://www.computerworld.com/wp-content/uploads/2025/08/4043243-0-33845500-1755715493-shutterstock_2386032289.jpg?quality=50&strip=all",
-            "publishedAt": "2025-08-20 18:44:10"
-        },
-        {
-            "source": {
-                "name": "macworld"
-            },
-            "title": "macOS 15 Sequoia superguide: Everything you need to know",
-            "url": "https://www.macworld.com/article/2265062/macos-15-release-name-compatibility-features.html",
-            "urlToImage": "https://www.macworld.com/wp-content/uploads/2025/08/macos-sequoia-features-1.jpg?quality=50&strip=all&w=1024",
-            "publishedAt": "2025-08-20 18:24:31"
-        },
-        {
-            "source": {
-                "name": "cnet"
-            },
-            "title": "Best Standing Desks of 2025",
-            "url": "https://www.cnet.com/news/best-standing-desk/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/f8f3457fa20a6b61600bee32862c82d2bd8d877c/hub/2021/02/10/c3eda738-df98-4946-90d3-e49b76a7fdbb/vari-electric-standing-desk.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-08-20 17:42:00"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "AI-Powered Trading: How VPS Infrastructure Supports Algorithmic Strategies",
-            "url": "https://www.analyticsinsight.net/artificial-intelligence/ai-powered-trading-how-vps-infrastructure-supports-algorithmic-strategies",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-08-20%2F1p9m4afv%2Fundefined-21.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-08-20 17:19:43"
         }
     ]
 }
