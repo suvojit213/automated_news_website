@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-08-22T08:20:42.249223Z",
+    "lastUpdatedAt": "2025-08-22T09:16:39.907346Z",
     "articles": [
+        {
+            "source": {
+                "id": "26269dbc42635df9af8c24f3cdab8e37",
+                "name": "Cable News Network",
+                "url": "https://edition.cnn.com",
+                "country": "us"
+            },
+            "title": "The AI vibe shift is upon us",
+            "url": "https://edition.cnn.com/2025/08/22/business/ai-vibe-shift-nightcap",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1321051362-20250821195012447.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2025-08-22T09:00:43Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Wall Street Is Too Complex to Be Left to Humans",
+            "url": "https://www.bloomberg.com/opinion/articles/2025-08-22/wall-street-needs-ai-it-s-too-complex-for-mere-humans",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irmv6_lGBmh0/v1/1200x800.jpg",
+            "publishedAt": "2025-08-22T09:00:19Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -1320,6 +1344,42 @@
             "url": "https://www.globenewswire.com/news-release/2025/08/21/3137281/28124/en/Investment-Opportunities-in-the-56-3-Billion-AI-Platforms-Market-2025-2030-Machine-Learning-Tops-AI-Platforms-Technology-Accounting-for-41-2-Share-in-2024.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
             "publishedAt": "2025-08-21T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Apple’s UICoder LLM Self-Teaches SwiftUI Code with Minimal Data",
+            "url": "https://www.webpronews.com/apples-uicoder-llm-self-teaches-swiftui-code-with-minimal-data/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-f8a1f258-816e-40b5-94a3-e977638a220d.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-08-21 21:04:52"
+        },
+        {
+            "source": {
+                "name": "benzinga"
+            },
+            "title": "Nusano Cuts Ribbon on State-of-the-Art Radioisotope Production Facility",
+            "url": "https://www.benzinga.com/pressreleases/25/08/g47271388/nusano-cuts-ribbon-on-state-of-the-art-radioisotope-production-facility",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/f4750722-b435-4fae-a1d0-4d292bd94213/nusano-ribbon-cutting-04.jpg",
+            "publishedAt": "2025-08-21 20:45:23"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "From the Big Bang to Superintelligence: A Story of Inevitability",
+            "url": "https://hackernoon.com/from-the-big-bang-to-superintelligence-a-story-of-inevitability",
+            "urlToImage": "https://hackernoon.imgix.net/images/Mifs5akxaCbafBDLv5tjMtXgGMX2-dh03avf.png",
+            "publishedAt": "2025-08-21 20:41:33"
+        },
+        {
+            "source": {
+                "name": "venturebeat"
+            },
+            "title": "MIT report misunderstood: Shadow AI economy booms while headlines cry failure",
+            "url": "https://venturebeat.com/ai/mit-report-misunderstood-shadow-ai-economy-booms-while-headlines-cry-failure/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/08/nuneybits_Vector_art_of_upside-down_success_chart_fa4d7a1a-5350-455b-af50-50f076a4e665.webp?w=750",
+            "publishedAt": "2025-08-21 20:21:41"
         },
         {
             "source": {
@@ -3228,78 +3288,6 @@
             "url": "https://finbold.com/machine-learning-algorithm-predicts-bitcoin-price-on-september-1-2025/",
             "urlToImage": "https://assets.finbold.com/uploads/2025/08/Machine-learning-algorithm-predicts-Bitcoin-price-on-September-1-2025.jpg",
             "publishedAt": "2025-08-20T12:45:15Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - Award-Winning AI Revolutionizes Recruitment Industry",
-            "url": "https://www.devdiscourse.com/live-discourse/8922-artificial-intelligence-revolutionizing-every-aspect-of-life",
-            "urlToImage": "https://www.devdiscourse.com?width=1280&format=jpeg",
-            "publishedAt": "2025-08-20T12:36:20Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "AQR’s ‘Hard to Believe’ Study Spurs Clash Over AI Use for Quants",
-            "url": "https://www.livemint.com/companies/news/aqrs-hard-to-believe-study-spurs-clash-over-ai-use-for-quants-11755693376068.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/company_2_1733465085102_1733465089141.png",
-            "publishedAt": "2025-08-20T12:36:15Z"
-        },
-        {
-            "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
-                "country": "in"
-            },
-            "title": "Elon Musk Wants to Give You Money for Nothing",
-            "url": "https://www.hindustantimes.com/world-news/us-news/elon-musk-wants-to-give-you-money-for-nothing-101755684220703.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/08/20/1600x900/im-60967143_1755684225438_1755684787020.jpg",
-            "publishedAt": "2025-08-20T12:15:15Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Safe Pro Group Announces $8.0 Million Private Placement Including Strategic Investment from Drone Industry Leaders Ondas Holdings and Unusual Machines to Accelerate Artificial Intelligence Growth",
-            "url": "https://www.manilatimes.net/2025/08/20/tmt-newswire/globenewswire/safe-pro-group-announces-80-million-private-placement-including-strategic-investment-from-drone-industry-leaders-ondas-holdings-and-unusual-machines-to-accelerate-artificial-intelligence-growth/2170960",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/20/720385.jpg",
-            "publishedAt": "2025-08-20T12:09:32Z"
-        },
-        {
-            "source": {
-                "id": "93e59eaaf800fc544a6df1a4fc5c0cdc",
-                "name": "Toronto Star",
-                "url": "https://www.thestar.com",
-                "country": "ca"
-            },
-            "title": "Acronis Report Finds AI-Powered Phishing and Social Engineering Fueling Surge in Ransomware",
-            "url": "https://www.thestar.com/globenewswire/acronis-report-finds-ai-powered-phishing-and-social-engineering-fueling-surge-in-ransomware/article_5b7de5ae-3866-51d8-bc3d-c1c1c5fc7112.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/custom/image/f84403b8-7d76-11ee-9d02-a72a4951957f.png?resize=600%2C600",
-            "publishedAt": "2025-08-20T12:00:00Z"
-        },
-        {
-            "source": {
-                "id": "e553cce06d349ac1f7fbb7618a979256",
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com",
-                "country": "us"
-            },
-            "title": "Is the A.I. Sell-off the Start of Something Bigger?",
-            "url": "https://www.nytimes.com/2025/08/20/business/dealbook/ai-dip-blip-palantir-nvidia.html",
-            "urlToImage": "https://static01.nyt.com/images/2025/08/20/multimedia/20db-PLTR-phzj/20db-PLTR-phzj-facebookJumbo.jpg",
-            "publishedAt": "2025-08-20T11:57:34Z"
         }
     ]
 }
