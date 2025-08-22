@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-08-22T13:25:35.877545Z",
+    "lastUpdatedAt": "2025-08-22T14:15:02.939751Z",
     "articles": [
+        {
+            "source": {
+                "id": "151e16058f3cb39651c31018593e2a50",
+                "name": "The Province",
+                "url": "https://theprovince.com",
+                "country": "ca"
+            },
+            "title": "Conversations That Matter: Skills and trades in an AI world",
+            "url": "https://theprovince.com/business/conversations-that-matter-skills-and-trades-in-an-ai-world",
+            "urlToImage": "https://smartcdn.gprod.postmedia.digital/vancouversun/wp-content/uploads/2025/08/ajay-patel-copy_298213794.jpg",
+            "publishedAt": "2025-08-22T14:00:01Z"
+        },
+        {
+            "source": {
+                "id": "3271eb2093cfa66b030a37cf84a8df5e",
+                "name": "Baltimore Sun",
+                "url": "https://www.baltimoresun.com",
+                "country": "us"
+            },
+            "title": "As AI becomes part of everyday life, it brings a hidden climate cost",
+            "url": "https://www.baltimoresun.com/2025/08/22/ai-impact-climate-hidden-cost/",
+            "urlToImage": "https://www.baltimoresun.com/wp-content/uploads/2025/08/Climate_Choices-AI_Impact_83323-1.jpg?w=1024&h=682",
+            "publishedAt": "2025-08-22T13:45:51Z"
+        },
+        {
+            "source": {
+                "id": "bc49d994b41ac710f5c89f6e6adeece4",
+                "name": "The Boston Herald",
+                "url": "https://www.bostonherald.com",
+                "country": "us"
+            },
+            "title": "As AI becomes part of everyday life, it brings a hidden climate cost",
+            "url": "https://www.bostonherald.com/2025/08/22/ai-impact-climate-hidden-cost/",
+            "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/08/Climate_Choices-AI_Impact_83323-1.jpg?w=1024&h=682",
+            "publishedAt": "2025-08-22T13:45:51Z"
+        },
         {
             "source": {
                 "id": "73aabc646bff1356a46223f250cc6b52",
@@ -600,6 +636,51 @@
             "url": "https://www.globenewswire.com/news-release/2025/08/22/3137829/0/en/Register-Now-Limited-Seating-Boston-C-suite-executives-invited-to-HMG-Strategy-s-17th-Annual-C-Level-Technology-Leadership-Summit-on-September-11.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/4b886685-faf4-4f80-8e8a-77cac364fa1b",
             "publishedAt": "2025-08-22T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "This Pixel 10 Pro camera feature sets a high bar for the iPhone 17 Pro to beat",
+            "url": "https://www.zdnet.com/article/this-pixel-10-pro-camera-feature-sets-a-high-bar-for-the-iphone-17-pro-to-beat/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/e0189a854c3754ee2b74e2ca8146c17ce8316584/2025/08/15/7bd9511a-b6d8-4ee2-9142-49e25a7b90fe/dsc06932.jpg?auto=webp&width=1280",
+            "publishedAt": "2025-08-22 02:00:27"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "71% of Americans fear that AI will put 'too many people out of work permanently'",
+            "url": "https://www.zdnet.com/article/71-of-americans-fear-that-ai-will-put-too-many-people-out-of-work-permanently/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/7f67f1feec72262465f984c3b0f6b895042ed97f/2025/08/21/1093073a-5c5c-4f2e-87cc-a4bf4c42ab89/gettyimages-2188822679.jpg?auto=webp&width=1280",
+            "publishedAt": "2025-08-22 02:00:21"
+        },
+        {
+            "source": {
+                "name": "thehansindia"
+            },
+            "title": "AP at forefront of digital people services",
+            "url": "https://www.thehansindia.com/andhra-pradesh/ap-at-forefront-of-digital-people-services-999220",
+            "urlToImage": "https://assets.thehansindia.com/h-upload/2025/08/22/1578300-gudivada-mla-ramu-venigandl.webp",
+            "publishedAt": "2025-08-22 02:00:16"
+        },
+        {
+            "source": {
+                "name": "pcworld_us"
+            },
+            "title": "Avira Prime review: Comprehensive, user-friendly antivirus",
+            "url": "https://www.pcworld.com/article/399255/avira-prime-antivirus-review.html",
+            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/08/IMG_3809.jpg?quality=50&strip=all",
+            "publishedAt": "2025-08-22 02:00:00"
+        },
+        {
+            "source": {
+                "name": "thehindu"
+            },
+            "title": "Cybersecurity is crucial to prevent data from falling into wrong hands, say experts",
+            "url": "https://www.thehindu.com/news/cities/Visakhapatnam/cybersecurity-is-crucial-to-prevent-data-from-falling-into-wrong-hands-say-experts/article69960648.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/f6m1n4/article69961392.ece/alternates/LANDSCAPE_1200/VSP22_CYBER_SECURE-3.JPG",
+            "publishedAt": "2025-08-22 01:58:49"
         },
         {
             "source": {
@@ -3177,102 +3258,6 @@
             "url": "https://www.devdiscourse.com/article/technology/3548337-indias-ai-frontier-navigating-the-opportunities-and-threats",
             "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/05_06_2025_14_05_19_8092855.png?width=920&format=jpeg",
             "publishedAt": "2025-08-20T16:46:58Z"
-        },
-        {
-            "source": {
-                "id": "3271eb2093cfa66b030a37cf84a8df5e",
-                "name": "Baltimore Sun",
-                "url": "https://www.baltimoresun.com",
-                "country": "us"
-            },
-            "title": "Google's Pixel 10 phones raises the ante on artificial intelligence",
-            "url": "https://www.baltimoresun.com/2025/08/20/google-pixel-10-phones/",
-            "urlToImage": "https://www.baltimoresun.com/wp-content/uploads/2025/08/Google_Pixel_Phones_44740.jpg?w=1024&h=1024",
-            "publishedAt": "2025-08-20T16:36:13Z"
-        },
-        {
-            "source": {
-                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-                "name": "New York Post",
-                "url": "https://nypost.com",
-                "country": "us"
-            },
-            "title": "Mark Zuckerberg's pricey new AI hires are clashing with Meta's old guard",
-            "url": "https://nypost.com/2025/08/20/business/mark-zuckerbergs-pricey-new-ai-hires-are-clashing-with-metas-old-guard/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/08/109837128.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2025-08-20T16:20:48Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com",
-                "country": "ca"
-            },
-            "title": "Pixel 10 includes expanded AI",
-            "url": "https://www.cp24.com/news/money/2025/08/20/googles-pixel-10-phones-raises-the-ante-on-artificial-intelligence/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/JDLGY3YLW5GJ3E52KNCPLEKRYY.png?smart=true&auth=814120e221c445a4218b7b7c274ac43e1c0feb9a5578c69494dd7273207b52ae&width=1200&height=630",
-            "publishedAt": "2025-08-20T16:15:47Z"
-        },
-        {
-            "source": {
-                "id": "680f00482cbf9f314921fefd917871d9",
-                "name": "The Hindu Business Line",
-                "url": "https://www.thehindubusinessline.com",
-                "country": "in"
-            },
-            "title": "Sandeep Shukla takes over as Director of IIIT Hyderabad",
-            "url": "https://www.thehindubusinessline.com/info-tech/sandeep-shukla-takes-over-as-director-of-iiit-hyderabad/article69956971.ece",
-            "urlToImage": "https://bl-i.thgim.com/public/info-tech/xowtrz/article69956961.ece/alternates/LANDSCAPE_1200/L%20to%20R_%20Prof%20Sandeep%20Shukla%20%20Prof%20P%20J%20Narayanan.jpg",
-            "publishedAt": "2025-08-20T16:07:16Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Google unveils modest upgrades to Pixel smartphones, other gadgets",
-            "url": "https://www.reuters.com/world/china/google-unveils-modest-upgrades-pixel-smartphones-other-gadgets-2025-08-20/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/5V6T7C6RQZLCRJXTAVEK3UQSQQ.jpg?auth=ae4e8fc153bebc5532428c777b57594b76a9ac0d9a74fc776944f48e185bf567&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-08-20T16:07:14Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "AI now driving food security, sustainability",
-            "url": "https://www.manilatimes.net/2025/08/21/business/agribusiness/ai-now-driving-food-security-sustainability/2171082",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/20/720604.png",
-            "publishedAt": "2025-08-20T16:07:00Z"
-        },
-        {
-            "source": {
-                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-                "name": "WTOP",
-                "url": "https://wtop.com",
-                "country": "us"
-            },
-            "title": "Google’s Pixel 10 phones raises the ante on artificial intelligence",
-            "url": "https://wtop.com/lifestyle/2025/08/googles-pixel-10-phones-raises-the-ante-on-artificial-intelligence/",
-            "urlToImage": "https://wtop.com/wp-content/uploads/2025/08/Google_Pixel_Phones_44740-scaled.jpg",
-            "publishedAt": "2025-08-20T16:02:54Z"
-        },
-        {
-            "source": {
-                "id": "93e59eaaf800fc544a6df1a4fc5c0cdc",
-                "name": "Toronto Star",
-                "url": "https://www.thestar.com",
-                "country": "ca"
-            },
-            "title": "Google's Pixel 10 phones raises the ante on artificial intelligence",
-            "url": "https://www.thestar.com/news/world/united-states/googles-pixel-10-phones-raises-the-ante-on-artificial-intelligence/article_713f75d6-5dfa-5260-821e-aa507879df8a.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/ff/9ff08a56-0ca1-53c0-9758-16bd22b164fc/68a5f35edca25.image.jpg?crop=1080%2C567%2C0%2C256",
-            "publishedAt": "2025-08-20T16:02:17Z"
         }
     ]
 }
