@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-08-23T06:20:36.630074Z",
+    "lastUpdatedAt": "2025-08-23T07:13:21.325208Z",
     "articles": [
+        {
+            "source": {
+                "id": "0c9364fff53c0e5a3450947d9a54e795",
+                "name": "Daily Mail Online",
+                "url": "https://www.dailymail.co.uk",
+                "country": "gb"
+            },
+            "title": "A beginner's guide to AI for Boomers, from technology writer Jonathan Margolis",
+            "url": "https://www.dailymail.co.uk/home/you/article-15011055/A-beginners-guide-AI-Boomers-technology-writer-Jonathan-Margolis.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2025/08/18/15/101324207-0-image-m-63_1755528499639.jpg",
+            "publishedAt": "2025-08-23T07:01:08Z"
+        },
         {
             "source": {
                 "id": "cc0de8416f75329df7c88d7524745d12",
@@ -48,6 +60,18 @@
             "url": "https://www.devdiscourse.com/article/technology/3601310-goa-champions-digital-revolution-unveiling-ai-driven-governance",
             "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/21_08_2025_05_09_00_5078919.png?width=920&format=jpeg",
             "publishedAt": "2025-08-23T04:21:04Z"
+        },
+        {
+            "source": {
+                "id": "1b40b878c09151e8cf44a095bc8569a5",
+                "name": "ETF Daily News",
+                "url": "https://www.etfdailynews.com",
+                "country": "us"
+            },
+            "title": "Cybersecurity Stocks To Research - August 21st",
+            "url": "https://www.etfdailynews.com/2025/08/23/cybersecurity-stocks-to-research-august-21st/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/google-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2025-08-23T02:24:37Z"
         },
         {
             "source": {
@@ -996,6 +1020,42 @@
             "url": "https://theconversation.com/can-ai-teach-us-how-animals-think-263545",
             "urlToImage": "https://images.theconversation.com/files/686931/original/file-20250822-56-c2aels.jpg?ixlib=rb-4.1.0&rect=0%2C515%2C4800%2C2400&q=45&auto=format&w=1356&h=668&fit=crop",
             "publishedAt": "2025-08-22T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "arstechnica"
+            },
+            "title": "Google says it dropped the energy cost of AI queries by 33x in one year",
+            "url": "https://arstechnica.com/ai/2025/08/google-says-it-dropped-the-energy-cost-of-ai-queries-by-33x-in-one-year/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2229069552-1024x648.jpg",
+            "publishedAt": "2025-08-22 18:53:12"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Apple in Talks to Integrate Google Gemini AI into Siri by 2026",
+            "url": "https://www.webpronews.com/apple-in-talks-to-integrate-google-gemini-ai-into-siri-by-2026/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-ce56cd58-2de4-43e4-a9bd-e8bc44983017.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-08-22 18:47:31"
+        },
+        {
+            "source": {
+                "name": "bitcoinworld"
+            },
+            "title": "Apple Siri’s Revolutionary Revamp: Google Gemini Partnership Signals a Powerful AI Future",
+            "url": "https://bitcoinworld.co.in/apple-siri-gemini-revamp/",
+            "urlToImage": "https://bitcoinworld.co.in/wp-content/uploads/apple-siri-gemini-revamp.jpg",
+            "publishedAt": "2025-08-22 18:45:10"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Sam Altman: AI Empowers Young Pros with New Career Opportunities",
+            "url": "https://www.webpronews.com/sam-altman-ai-empowers-young-pros-with-new-career-opportunities/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-5a7397b8-ce27-48c2-b4e5-22172954cd3f.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-08-22 18:40:48"
         },
         {
             "source": {
@@ -3171,60 +3231,6 @@
             "url": "https://www.webpronews.com/nvidia-proposes-ai-disclosure-tags-for-linux-kernel-patches/",
             "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-0adb34e4-7824-4d89-b9cc-98187f911b9c.jpeg?fit=720%2C960&ssl=1",
             "publishedAt": "2025-08-21 17:34:08"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Google Cloud Blueprints for Scalable Generative AI in Healthcare & Finance",
-            "url": "https://www.webpronews.com/google-cloud-blueprints-for-scalable-generative-ai-in-healthcare-finance/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-2383fde5-6856-44b0-b223-3b9659c5353f.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-08-21 17:30:21"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Analog Devices Q3 Revenue Hits $2.88B, Up 25% on AI and Robotics Growth",
-            "url": "https://www.webpronews.com/analog-devices-q3-revenue-hits-2-88b-up-25-on-ai-and-robotics-growth/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-2dd7cc11-f0ad-486e-af10-27c08cd4ce02.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-08-21 17:25:18"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Microsoft Copilot Adds Semantic Search for Local Files on Windows",
-            "url": "https://www.webpronews.com/microsoft-copilot-adds-semantic-search-for-local-files-on-windows/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-49474224-e829-4628-bb73-fa16bb2eb48e.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-08-21 17:23:16"
-        },
-        {
-            "source": {
-                "name": "scientificamerican"
-            },
-            "title": "Controversial Quantum-Computing Paper Gets a Hefty Correction",
-            "url": "https://www.scientificamerican.com/article/controversial-quantum-computing-paper-gets-a-hefty-correction/",
-            "urlToImage": "https://static.scientificamerican.com/dam/m/122e8c4a2e87d9/original/majorana-fermion.jpg?m=1755796386.302&w=1200",
-            "publishedAt": "2025-08-21 17:15:00"
-        },
-        {
-            "source": {
-                "name": "republicworld"
-            },
-            "title": "Why Instant Payout Culture Is Changing the Way We Build Digital Systems",
-            "url": "https://www.republicworld.com/initiatives/why-instant-payout-culture-is-changing-the-way-we-build-digital-systems",
-            "urlToImage": "https://img.republicworld.com/all_images/why-instant-payout-culture-is-changing-the-way-we-build-digital-systems-1755795688425-16_9.webp?format=webp&h=720&q=100&w=1280",
-            "publishedAt": "2025-08-21 17:01:37"
-        },
-        {
-            "source": {
-                "name": "in_mashable"
-            },
-            "title": "DeepSeek Launches V3.1 AI Model Optimised For Chinese Chips",
-            "url": "https://in.mashable.com/tech/98836/deepseek-launches-v31-ai-model-optimised-for-chinese-chips",
-            "urlToImage": "https://sm.mashable.com/mashable_in/photo/default/deepseek_v1kx.jpg",
-            "publishedAt": "2025-08-21 16:48:30"
         }
     ]
 }
