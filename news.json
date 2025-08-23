@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-08-23T09:14:16.938644Z",
+    "lastUpdatedAt": "2025-08-23T10:14:18.987788Z",
     "articles": [
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Curiosity and code: Bengal computer scientist Eshan Chattopadhyay's path to Godel Prize",
+            "url": "https://economictimes.indiatimes.com/news/science/curiosity-and-code-bengal-computer-scientist-eshan-chattopadhyays-path-to-godel-prize/articleshow/123469561.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-123469601,width-1200,height-630,imgsize-1229004,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-08-23T09:45:00Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Eshan Chattopadhyay: Shining a Light on Theoretical Computer Science",
+            "url": "https://www.devdiscourse.com/article/entertainment/3601553-eshan-chattopadhyay-shining-a-light-on-theoretical-computer-science",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/01_04_2019_19_26_59_8821975.jpg?width=920&format=jpeg",
+            "publishedAt": "2025-08-23T09:21:17Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Innovating the Future: SBI-IIT Guwahati's PSB Hackathon 2025 Concludes",
+            "url": "https://www.devdiscourse.com/article/headlines/3601552-innovating-the-future-sbi-iit-guwahatis-psb-hackathon-2025-concludes",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/23_08_2025_14_50_14_3403982.jpg?width=920&format=jpeg",
+            "publishedAt": "2025-08-23T09:20:18Z"
+        },
         {
             "source": {
                 "id": "0c9364fff53c0e5a3450947d9a54e795",
@@ -1032,6 +1068,60 @@
             "url": "https://theconversation.com/can-ai-teach-us-how-animals-think-263545",
             "urlToImage": "https://images.theconversation.com/files/686931/original/file-20250822-56-c2aels.jpg?ixlib=rb-4.1.0&rect=0%2C515%2C4800%2C2400&q=45&auto=format&w=1356&h=668&fit=crop",
             "publishedAt": "2025-08-22T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "arstechnica"
+            },
+            "title": "College student’s “time travel” AI experiment accidentally outputs real 1834 history",
+            "url": "https://arstechnica.com/information-technology/2025/08/ai-built-from-1800s-texts-surprises-creator-by-mentioning-real-1834-london-protests/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/1800s_protests-1152x648.jpg",
+            "publishedAt": "2025-08-22 22:13:56"
+        },
+        {
+            "source": {
+                "name": "bitcoinworld"
+            },
+            "title": "Meta’s Bold Midjourney Partnership: Revolutionizing AI Image and Video Models",
+            "url": "https://bitcoinworld.co.in/meta-midjourney-ai-models/",
+            "urlToImage": "https://bitcoinworld.co.in/wp-content/uploads/meta-midjourney-ai-models.jpg",
+            "publishedAt": "2025-08-22 21:55:11"
+        },
+        {
+            "source": {
+                "name": "express"
+            },
+            "title": "Trump announce US now owns 10% stake in multi-billion dollar tech business",
+            "url": "https://www.the-express.com/news/us-news/181212/us-intel-ownership-tech-percentage",
+            "urlToImage": "https://cdn-images.the-express.com/img/dynamic/10/590x/181212_1.jpg",
+            "publishedAt": "2025-08-22 21:52:00"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Meta Partners with Midjourney for AI Image Tools on Facebook and Instagram",
+            "url": "https://www.webpronews.com/meta-partners-with-midjourney-for-ai-image-tools-on-facebook-and-instagram/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-e05b330a-77fa-473f-b81b-6f531079e581.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-08-22 21:44:17"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Apple’s New Tools Enable Custom ChatGPT Access for Enterprises",
+            "url": "https://www.webpronews.com/apples-new-tools-enable-custom-chatgpt-access-for-enterprises/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-6471802f-89d4-4724-ba22-8b69a5235110.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-08-22 21:43:20"
+        },
+        {
+            "source": {
+                "name": "techcrunch"
+            },
+            "title": "Meta partners with Midjourney on AI image and video models",
+            "url": "https://techcrunch.com/2025/08/22/meta-partners-with-midjourney-on-ai-image-and-video-models/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2173579243.jpg?resize=1200%2C799",
+            "publishedAt": "2025-08-22 21:41:31"
         },
         {
             "source": {
@@ -3153,87 +3243,6 @@
             "url": "https://hackernoon.com/from-the-big-bang-to-superintelligence-a-story-of-inevitability",
             "urlToImage": "https://hackernoon.imgix.net/images/Mifs5akxaCbafBDLv5tjMtXgGMX2-dh03avf.png",
             "publishedAt": "2025-08-21 20:41:33"
-        },
-        {
-            "source": {
-                "name": "venturebeat"
-            },
-            "title": "MIT report misunderstood: Shadow AI economy booms while headlines cry failure",
-            "url": "https://venturebeat.com/ai/mit-report-misunderstood-shadow-ai-economy-booms-while-headlines-cry-failure/",
-            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/08/nuneybits_Vector_art_of_upside-down_success_chart_fa4d7a1a-5350-455b-af50-50f076a4e665.webp?w=750",
-            "publishedAt": "2025-08-21 20:21:41"
-        },
-        {
-            "source": {
-                "name": "interestingengineering"
-            },
-            "title": "End of the road for GPS? Image-based AI tool cuts navigation errors by nearly 40 times",
-            "url": "https://interestingengineering.com/innovation/surrey-ai-gps-alternative-navigation",
-            "urlToImage": "https://cms.interestingengineering.com/wp-content/uploads/2025/08/GettyImages-2193522126.jpg",
-            "publishedAt": "2025-08-21 20:03:31"
-        },
-        {
-            "source": {
-                "name": "businessinsider_us"
-            },
-            "title": "Why does Mark Zuckerberg want our kids to use chatbots? And other unanswered questions.",
-            "url": "https://www.businessinsider.com/meta-ai-chatbot-policy-explained-users-tech-companies-2025-8",
-            "urlToImage": "https://i.insider.com/68a7687acfc04e97619bcc77?format=jpeg",
-            "publishedAt": "2025-08-21 19:40:24"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Top 10 Cloud Platforms for AI & ML Workloads",
-            "url": "https://www.analyticsinsight.net/artificial-intelligence/top-10-cloud-platforms-for-ai-ml-workloads",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-08-21%2Fz1nub16j%2FTop-10-Cloud-Platforms-for-AI-ML-Workloads.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-08-21 19:30:00"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "I always install these 5 free apps on every Windows PC - here's why they're essential",
-            "url": "https://www.zdnet.com/article/i-always-install-these-5-free-apps-on-every-windows-pc-heres-why-theyre-essential/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/b99617b4c611b2b765f431bb20b2e2237a431679/2025/07/24/ce4439f1-7359-4d8d-8c51-76c261c59415/dell-premium-16-image-5.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-08-21 19:09:00"
-        },
-        {
-            "source": {
-                "name": "xda_developers"
-            },
-            "title": "Please stop buying DRAM-less SSDs",
-            "url": "https://www.xda-developers.com/please-stop-buying-dram-less-ssd/",
-            "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2024/01/m2-ssd-module-being-held-with-a-finger-on-the-motherboard.jpg",
-            "publishedAt": "2025-08-21 19:00:19"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Apple vs Microsoft: Which Stock is the Better Buy Today?",
-            "url": "https://www.analyticsinsight.net/stocks/apple-vs-microsoft-which-stock-is-the-better-buy-today",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-08-21%2Fok6exe1o%2FApple-vs-Microsoft-Which-Stock-Is-the-Better-Buy-Today.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-08-21 19:00:00"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "Finally, a Windows laptop that I wouldn't mind putting away my MacBook for",
-            "url": "https://www.zdnet.com/article/finally-a-windows-laptop-that-i-wouldnt-mind-putting-away-my-macbook-for/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/c27ef82b576c5111ac8e59c944b39453f3818481/2025/08/06/f76d7633-c40e-472f-a862-ca69305cf9bf/asus-proart-p16-2025-image-4.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-08-21 18:52:00"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "Why Nvidia Earnings Matter More To Markets Than What The Fed Chair Says",
-            "url": "https://www.forbes.com/sites/petercohan/2025/08/21/why-nvidia-matters-more-to-markets-than-the-fed/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68a7598b96f25a28d1570543/0x0.jpg?width=960",
-            "publishedAt": "2025-08-21 18:36:55"
         }
     ]
 }
