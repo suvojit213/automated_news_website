@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-08-23T20:15:16.336938Z",
+    "lastUpdatedAt": "2025-08-23T21:13:06.883112Z",
     "articles": [
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "AI has produced 2 new antibiotics to kill ‘superbugs’",
+            "url": "https://japantoday.com/category/features/health/ai-has-produced-2-new-antibiotics-to-kill-%E2%80%98superbugs%E2%80%99",
+            "urlToImage": "https://media.japantoday.com/img/store/fc/49/524186742534e24af0dd132d71014a167cce/istock-2161238241/_w1700.jpeg",
+            "publishedAt": "2025-08-23T20:39:51Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Indian students win 3 gold medals at int’l AI olympiad",
+            "url": "https://timesofindia.indiatimes.com/city/chennai/indian-students-win-3-gold-medals-at-intl-ai-olympiad/articleshow/123474957.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-123474956,width-1070,height-580,imgsize-56820,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-08-23T20:39:00Z"
+        },
         {
             "source": {
                 "id": "6a3aad3dbb44ac873f72b594aaea22c4",
@@ -324,6 +348,69 @@
             "url": "https://www.brecorder.com/news/40379298/national-cert-issues-urgent-data-protection-alert",
             "urlToImage": "https://i.brecorder.com/large/2025/08/68a9161b2f285.jpg",
             "publishedAt": "2025-08-23T01:17:31Z"
+        },
+        {
+            "source": {
+                "name": "xda_developers"
+            },
+            "title": "Everyone's using Otter AI for transcription, but I use Whisper locally on my PC instead, here's how",
+            "url": "https://www.xda-developers.com/use-whisper-locally-on-pc-transcription-instead-otter-ai-how/",
+            "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2025/08/whisper-hero.jpeg",
+            "publishedAt": "2025-08-23 09:00:19"
+        },
+        {
+            "source": {
+                "name": "economictimes_indiatimes"
+            },
+            "title": "As AI becomes part of everyday life, it brings a hidden climate cost",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/as-ai-becomes-part-of-everyday-life-it-brings-a-hidden-climate-cost/articleshow/123468905.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-204402,resizemode-75,msid-123468905/tech/artificial-intelligence/as-ai-becomes-part-of-everyday-life-it-brings-a-hidden-climate-cost.jpg",
+            "publishedAt": "2025-08-23 08:54:41"
+        },
+        {
+            "source": {
+                "name": "republicworld"
+            },
+            "title": "Elon Musk Launches Macrohard: AI Startup Set to Take on Microsoft and Revolutionize Software",
+            "url": "https://www.republicworld.com/tech/elon-musk-launches-macrohard-ai-startup-set-to-take-on-microsoft-and-revolutionize-software",
+            "urlToImage": "https://img.republicworld.com/all_images/elon-musk-1752733832326-16_9.webp?format=webp&h=720&q=100&w=1280",
+            "publishedAt": "2025-08-23 08:52:28"
+        },
+        {
+            "source": {
+                "name": "telanganatoday"
+            },
+            "title": "vivo unveils first mixed reality headset and new imaging strategy at 30th anniversary",
+            "url": "https://telanganatoday.com/vivo-unveils-first-mixed-reality-headset-and-new-imaging-strategy-at-30th-anniversary",
+            "urlToImage": "https://media.telanganatoday.com/wp-content/uploads/2025/08/vivo-unveils-first-mixed-reality-headset-and-new-imaging-strategy-at-30th-anniversary.jpg",
+            "publishedAt": "2025-08-23 08:48:40"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "I built the coolest gaming PC ever — here are 5 parts to buy so you can too",
+            "url": "https://www.tomsguide.com/computing/hardware/i-built-the-coolest-gaming-pc-ever-here-are-5-parts-to-buy-so-you-can-too",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/rUT3weVkwM9FNSUbdfors3-1280-80.jpg",
+            "publishedAt": "2025-08-23 08:30:00"
+        },
+        {
+            "source": {
+                "name": "livemint"
+            },
+            "title": "Elon Musk unveils new company 'Macrohard' to replicate Microsoft 'purely' with AI",
+            "url": "https://www.livemint.com/technology/tech-news/elon-musk-unveils-new-company-macrohard-to-replicate-microsoft-purely-with-ai-11755933185754.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2025/08/23/1600x900/Musk_satya_1755937040202_1755937040356.png",
+            "publishedAt": "2025-08-23 08:21:08"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "One of the biggest new features on the Google Pixel 10 is also one of the most overlooked",
+            "url": "https://www.zdnet.com/article/one-of-the-biggest-new-features-on-the-google-pixel-10-is-also-one-of-the-most-overlooked/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/8896bdd0142ee74f00ca577ec9e98743fca93f62/2025/08/19/d865e884-8f40-43a2-8504-cb973880ac3d/made-by-google-pixel-event-2025-photo-23.jpg?auto=webp&width=1280",
+            "publishedAt": "2025-08-23 08:15:18"
         },
         {
             "source": {
@@ -3090,114 +3177,6 @@
             "url": "https://www.manilatimes.net/2025/08/21/regions/salceda-initiates-albay-tesda-partnership-for-ai-readiness-institute/2171731",
             "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/21/721757.jpg",
             "publishedAt": "2025-08-21T12:22:00Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "Meta freezes AI hiring after blockbuster spending spree",
-            "url": "https://www.livemint.com/global/meta-freezes-ai-hiring-after-blockbuster-spending-spree-11755749786822.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2025/08/21/1600x900/META-HIRING-AI-0_1755749806050_1755749824657.JPG",
-            "publishedAt": "2025-08-21T12:05:57Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Enphase Energy Achieves Compliance for Europe’s New Cybersecurity Requirements on Wireless Devices",
-            "url": "https://www.manilatimes.net/2025/08/21/tmt-newswire/globenewswire/enphase-energy-achieves-compliance-for-europes-new-cybersecurity-requirements-on-wireless-devices/2171679",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/21/721700.jpg",
-            "publishedAt": "2025-08-21T12:05:02Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Laivly and Procedureflow Partner to Bring AI-Powered Efficiency to Contact Centers",
-            "url": "https://www.manilatimes.net/2025/08/21/tmt-newswire/globenewswire/laivly-and-procedureflow-partner-to-bring-ai-powered-efficiency-to-contact-centers/2171678",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/21/721697.jpg",
-            "publishedAt": "2025-08-21T12:05:00Z"
-        },
-        {
-            "source": {
-                "id": "72ea416416ab0eec8fe687d6262961e8",
-                "name": "Finbold",
-                "url": "https://finbold.com",
-                "country": "bg"
-            },
-            "title": "Machine learning algorithm predicts Palantir stock price on September 1, 2025",
-            "url": "https://finbold.com/machine-learning-algorithm-predicts-palantir-stock-price-on-september-1-2025/",
-            "urlToImage": "https://assets.finbold.com/uploads/2025/08/Machine-learning-algorithm-predicts-Palantir-stock-price-on-September-1-2025.jpg",
-            "publishedAt": "2025-08-21T11:42:16Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "How to Choose The Best Cybersecurity Lead Generation Services",
-            "url": "https://techbullion.com/how-to-choose-the-best-cybersecurity-lead-generation-services/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/08/lead1.jpg",
-            "publishedAt": "2025-08-21T10:58:53Z"
-        },
-        {
-            "source": {
-                "id": "c24832368cd2d9132598ad4bef08e0ab",
-                "name": "Investopedia",
-                "url": "https://www.investopedia.com",
-                "country": "us"
-            },
-            "title": "Meta Freezes AI Hiring as Surging Costs Raise Concerns, Report Says",
-            "url": "https://www.investopedia.com/meta-freezes-ai-hiring-as-surging-costs-raise-concerns-report-says-11794976",
-            "urlToImage": "https://www.investopedia.com/thmb/nHiSrIPupd8wAG3g_HsvUhf6pTk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2195894722-c832827dac4348af8612fc636d7200b0.jpg",
-            "publishedAt": "2025-08-21T10:10:06Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Google Is Trying Everything to Sell AI to Skeptics",
-            "url": "https://www.bloomberg.com/opinion/articles/2025-08-21/google-pixel-launch-ai-marketing-tries-a-bit-of-everything",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihdpkfR3dviA/v1/1200x707.png",
-            "publishedAt": "2025-08-21T10:00:21Z"
-        },
-        {
-            "source": {
-                "id": "0d429ea54fdbe8e34c582aa31bc81aba",
-                "name": "The Boston Globe",
-                "url": "https://www.bostonglobe.com",
-                "country": "us"
-            },
-            "title": "Warren Brodey, 101, dies; a visionary at the dawn of the Information Age",
-            "url": "https://www.bostonglobe.com/2025/08/21/metro/warren-brodey-101-dies-visionary-dawn-information-age/",
-            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/C7LDSCU7U6ADDGQDHQ5QJSGCMI.jpg?auth=be01e25c9ed6d88813c8281b9d0add931fb3203d65792e92195ea8a0d931abc5&width=1440",
-            "publishedAt": "2025-08-21T10:00:01Z"
-        },
-        {
-            "source": {
-                "id": "0c9364fff53c0e5a3450947d9a54e795",
-                "name": "Daily Mail Online",
-                "url": "https://www.dailymail.co.uk",
-                "country": "gb"
-            },
-            "title": "Fears AI bubble is set to burst as tech stocks tumble after study warned most artificial intelligence investments are yielding 'zero returns'",
-            "url": "https://www.dailymail.co.uk/news/article-15020589/Fears-AI-bubble-burst-tech-stocks-tumble-study-warned-artificial-intelligence-investments-zero-returns.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2025/08/21/10/101421669-0-image-a-14_1755769495836.jpg",
-            "publishedAt": "2025-08-21T09:45:00Z"
         }
     ]
 }
