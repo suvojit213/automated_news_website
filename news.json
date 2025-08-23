@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-08-23T04:17:46.192081Z",
+    "lastUpdatedAt": "2025-08-23T05:13:59.517740Z",
     "articles": [
+        {
+            "source": {
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
+                "country": "in"
+            },
+            "title": "Databricks to buy Sequoia-backed Tecton in AI agent push",
+            "url": "https://www.thehindu.com/sci-tech/technology/databricks-to-buy-sequoia-backed-tecton-in-ai-agent-push/article69967496.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/w68e98/article69967498.ece/alternates/LANDSCAPE_1200/2025-08-22T230915Z_577781152_RC23RBAOFBB9_RTRMADP_3_DATABRICKS-M-A.JPG",
+            "publishedAt": "2025-08-23T04:35:24Z"
+        },
+        {
+            "source": {
+                "id": "6fea3ee012f060c6309366516e8d00be",
+                "name": "News-Medical.net",
+                "url": "https://www.news-medical.net",
+                "country": "gb"
+            },
+            "title": "A 9-point checklist to improve AI-based image analysis in pathology",
+            "url": "https://www.news-medical.net/news/20250823/A-9-point-checklist-to-improve-AI-based-image-analysis-in-pathology.aspx",
+            "urlToImage": "https://www.news-medical.net/image-handler/picture/2019/5/Female_veterinary_doctor_using_stethoscope_for_cute_kitten_-_Image_-_Maria_Sbytova_A1_87d2b43d99c4479d9866e299f000d075-620x480.jpg",
+            "publishedAt": "2025-08-23T04:24:00Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Goa Champions Digital Revolution: Unveiling AI-Driven Governance",
+            "url": "https://www.devdiscourse.com/article/technology/3601310-goa-champions-digital-revolution-unveiling-ai-driven-governance",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/21_08_2025_05_09_00_5078919.png?width=920&format=jpeg",
+            "publishedAt": "2025-08-23T04:21:04Z"
+        },
         {
             "source": {
                 "id": "214d496d625fc657723cf4da80cff8ce",
@@ -936,6 +972,78 @@
             "url": "https://www.globenewswire.com/news-release/2025/08/22/3137829/0/en/Register-Now-Limited-Seating-Boston-C-suite-executives-invited-to-HMG-Strategy-s-17th-Annual-C-Level-Technology-Leadership-Summit-on-September-11.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/4b886685-faf4-4f80-8e8a-77cac364fa1b",
             "publishedAt": "2025-08-22T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "dtnext"
+            },
+            "title": "PTR launches IIT-M incubated MakeGPT from Kochadai Technologies",
+            "url": "https://www.dtnext.in/news/business/ptr-launches-iit-m-incubated-makegpt-from-kochadai-technologies-844196",
+            "urlToImage": "https://dtnext-prod-new.s3.ap-south-1.amazonaws.com/h-upload/2025/08/22/750x450_871949-untitled1.jpg",
+            "publishedAt": "2025-08-22 17:06:38"
+        },
+        {
+            "source": {
+                "name": "arstechnica"
+            },
+            "title": "Scientists are building cyborg jellyfish to explore ocean depths",
+            "url": "https://arstechnica.com/science/2025/08/scientists-are-building-cyborg-jellyfish-to-explore-ocean-depths/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/cyborg1-1152x648.jpg",
+            "publishedAt": "2025-08-22 17:03:08"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Why BlockDAG is Targeting a $600M Presale: A Strategic Play for Long-Term Infrastructure and Utility",
+            "url": "https://www.analyticsinsight.net/cryptocurrency-analytics-insight/why-blockdag-is-targeting-a-600m-presale-a-strategic-play-for-long-term-infrastructure-and-utility",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-08-22%2Fhxp2o3ch%2F2.png?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-08-22 17:00:00"
+        },
+        {
+            "source": {
+                "name": "pcworld_us"
+            },
+            "title": "Synology BeeStation Plus review: Super-easy streaming & storage",
+            "url": "https://www.pcworld.com/article/2838013/synology-beestation-plus-review.html",
+            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/08/BeeStation-Plus-Hero.jpg?quality=50&strip=all",
+            "publishedAt": "2025-08-22 17:00:00"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "Want the Pixel 10 Pro? 5 phones I recommend buying instead - and why",
+            "url": "https://www.zdnet.com/article/want-the-pixel-10-pro-5-phones-i-recommend-buying-instead-and-why/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/f82e8c48750a456f09fde28f8fdb09cfde6b79e7/2025/08/15/e9d5dc3e-205f-4064-bc78-559ec6bcbb0e/dsc06737.jpg?auto=webp&width=1280",
+            "publishedAt": "2025-08-22 16:56:10"
+        },
+        {
+            "source": {
+                "name": "economictimes_indiatimes"
+            },
+            "title": "Nvidia brings GeForce NOW cloud gaming to India this November: Plans, features, and more",
+            "url": "http://economictimes.indiatimes.com/news/new-updates/nvidia-brings-geforce-now-cloud-gaming-to-india-this-november-plans-features-and-more/articleshow/123458752.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-123458908,width-300,height-225,imgsize-6358,resizemode-75/nvidia.jpg",
+            "publishedAt": "2025-08-22 16:54:28"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "2025 Tech Trends: AI Productivity Boost, Quantum Advances, and Sustainability Gains",
+            "url": "https://www.webpronews.com/2025-tech-trends-ai-productivity-boost-quantum-advances-and-sustainability-gains/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-d2c554d8-b30e-469c-b759-6ee09153a4ce.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-08-22 16:45:25"
+        },
+        {
+            "source": {
+                "name": "slashgear"
+            },
+            "title": "What Would Happen If You Pressed The Gas And Brake Pedal At The Same Time",
+            "url": "https://www.slashgear.com/1942833/what-happens-if-you-press-gas-and-brake-at-same-time/",
+            "urlToImage": "https://www.slashgear.com/img/gallery/what-would-happen-if-you-pressed-the-gas-and-brake-pedal-at-the-same-time/l-intro-1755515945.jpg",
+            "publishedAt": "2025-08-22 16:45:00"
         },
         {
             "source": {
@@ -3111,105 +3219,6 @@
             "url": "https://www.pcworld.com/article/813361/best-4k-monitors.html",
             "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/08/asus-proart-pa279cv-3.jpg?quality=50&strip=all",
             "publishedAt": "2025-08-21 16:00:00"
-        },
-        {
-            "source": {
-                "name": "techtarget"
-            },
-            "title": "Using AI to identify, expose online drug counterfeiters",
-            "url": "https://www.techtarget.com/pharmalifesciences/news/366629847/Using-AI-to-identify-expose-online-drug-counterfeiters",
-            "urlToImage": "https://www.techtarget.com/rms/onlineimages/ai_a352095729_searchsitetablet_520X173.jpg",
-            "publishedAt": "2025-08-21 15:59:00"
-        },
-        {
-            "source": {
-                "name": "scientificamerican"
-            },
-            "title": "OpenAI Model Earns Gold-Medal Score at International Math Olympiad and Advances Path to Artificial General Intelligence",
-            "url": "https://www.scientificamerican.com/article/openai-model-earns-gold-medal-score-at-international-math-olympiad-and/",
-            "urlToImage": "https://static.scientificamerican.com/dam/m/7bd81fea8a91de84/original/polygonal-brain.jpg?m=1755719340.659&w=1200",
-            "publishedAt": "2025-08-21 15:50:00"
-        },
-        {
-            "source": {
-                "name": "techaeris"
-            },
-            "title": "Lenovo IdeaPad Flex 5i Chromebook Plus review: Great design, but the display could use some improving",
-            "url": "https://techaeris.com/2025/08/21/ideapad-flex-5i-chromebook-plus-review/",
-            "urlToImage": "https://techaeris.com/wp-content/uploads/2025/08/Lenovo-IdeaPad-Flex-5i-Chromebook-Plus-Review.jpg",
-            "publishedAt": "2025-08-21 15:44:37"
-        },
-        {
-            "source": {
-                "name": "cio"
-            },
-            "title": "A new spin on SDLC is solving a big problem in industrial AI",
-            "url": "https://www.cio.com/article/4043853/a-new-spin-on-sdlc-is-solving-a-big-problem-in-industrial-ai.html",
-            "urlToImage": "https://www.cio.com/wp-content/uploads/2025/08/4043853-0-97705200-1755791269-Hitachi-SDLC-Image-Truck-Tire.jpg?quality=50&strip=all&w=1024",
-            "publishedAt": "2025-08-21 15:40:29"
-        },
-        {
-            "source": {
-                "name": "slashgear"
-            },
-            "title": "6 Tips For Using Your iPad As A Laptop Replacement",
-            "url": "https://www.slashgear.com/1940356/how-to-use-ipad-as-laptop-tips/",
-            "urlToImage": "https://www.slashgear.com/img/gallery/6-tips-for-using-your-ipad-as-a-laptop-replacement/l-intro-1754977918.jpg",
-            "publishedAt": "2025-08-21 15:30:00"
-        },
-        {
-            "source": {
-                "name": "xda_developers"
-            },
-            "title": "How AMD dominating HEDT with Threadripper redefined the CPU market",
-            "url": "https://www.xda-developers.com/amd-dominating-hedt-with-threadripper-completely-altered-the-cpu-market/",
-            "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2025/07/threadripper-9000-review-10.jpg",
-            "publishedAt": "2025-08-21 15:00:19"
-        },
-        {
-            "source": {
-                "name": "techtarget"
-            },
-            "title": "Four tech companies increasing manufacturing in the U.S.",
-            "url": "https://www.techtarget.com/whatis/feature/tech-companies-increasing-manufacturing-in-the-US",
-            "urlToImage": "https://www.techtarget.com/rms/onlineimages/strategy_g1227074505_searchsitetablet_520X173.jpg",
-            "publishedAt": "2025-08-21 14:44:00"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "The latest Google Pixel phones quietly got a Bluetooth upgrade - why it's a big deal",
-            "url": "https://www.zdnet.com/article/the-latest-google-pixel-phones-quietly-got-a-bluetooth-upgrade-why-its-a-big-deal/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/8896bdd0142ee74f00ca577ec9e98743fca93f62/2025/08/19/d865e884-8f40-43a2-8504-cb973880ac3d/made-by-google-pixel-event-2025-photo-23.jpg?auto=webp&width=1280",
-            "publishedAt": "2025-08-21 14:37:00"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "Update your iPhone, iPad, and Mac ASAP to fix this dangerous security flaw - here's why",
-            "url": "https://www.zdnet.com/article/update-your-iphone-ipad-and-mac-asap-to-fix-this-dangerous-security-flaw-heres-why/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/53e92030213c331095f86a68e683ab272dde66db/2025/08/21/20a87889-37b0-472b-b810-bc155d6215c9/install-this-update-for-your-iphone-ipad-and-mac-to-fix-a-serious-security-flaw.jpg?auto=webp&width=1280",
-            "publishedAt": "2025-08-21 14:30:27"
-        },
-        {
-            "source": {
-                "name": "slashgear"
-            },
-            "title": "5 Of The Strangest Classic Police Cars In America",
-            "url": "https://www.slashgear.com/1945666/strangest-classic-police-cars/",
-            "urlToImage": "https://www.slashgear.com/img/gallery/5-of-the-strangest-classic-police-cars-in-america/l-intro-1755689220.jpg",
-            "publishedAt": "2025-08-21 14:30:00"
-        },
-        {
-            "source": {
-                "name": "thehindu"
-            },
-            "title": "Kerala blazes a digital trail by achieving 100% digital literacy",
-            "url": "https://www.thehindu.com/news/national/kerala/kerala-blazes-a-digital-trail-by-achieving-100-digital-literacy/article69959219.ece",
-            "urlToImage": "https://th-i.thgim.com/public/news/national/kerala/r8yu2b/article69960133.ece/alternates/LANDSCAPE_1200/Digi%20Kerala%20-%20Sarasu%20-%20Pullampara.JPG",
-            "publishedAt": "2025-08-21 14:11:38"
         }
     ]
 }
