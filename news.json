@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-08-23T05:13:59.517740Z",
+    "lastUpdatedAt": "2025-08-23T06:20:36.630074Z",
     "articles": [
+        {
+            "source": {
+                "id": "cc0de8416f75329df7c88d7524745d12",
+                "name": "Birmingham Live",
+                "url": "https://www.birminghammail.co.uk",
+                "country": "gb"
+            },
+            "title": "HMRC spying on social media posts of UK households in tax crackdown",
+            "url": "https://www.birminghammail.co.uk/news/cost-of-living/hmrc-spying-social-media-posts-32273925",
+            "urlToImage": "https://i2-prod.birminghammail.co.uk/article32274641.ece/ALTERNATES/s1200/0_hmrc4.jpg",
+            "publishedAt": "2025-08-23T05:29:00Z"
+        },
         {
             "source": {
                 "id": "b33a42ef1c098421f66aad47a76d6a3c",
@@ -972,6 +984,45 @@
             "url": "https://www.globenewswire.com/news-release/2025/08/22/3137829/0/en/Register-Now-Limited-Seating-Boston-C-suite-executives-invited-to-HMG-Strategy-s-17th-Annual-C-Level-Technology-Leadership-Summit-on-September-11.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/4b886685-faf4-4f80-8e8a-77cac364fa1b",
             "publishedAt": "2025-08-22T00:00:00Z"
+        },
+        {
+            "source": {
+                "id": "78289f4d19c868d072c67a84199f13c5",
+                "name": "The Conversation UK",
+                "url": "https://theconversation.com",
+                "country": "au"
+            },
+            "title": "Can AI teach us how animals think?",
+            "url": "https://theconversation.com/can-ai-teach-us-how-animals-think-263545",
+            "urlToImage": "https://images.theconversation.com/files/686931/original/file-20250822-56-c2aels.jpg?ixlib=rb-4.1.0&rect=0%2C515%2C4800%2C2400&q=45&auto=format&w=1356&h=668&fit=crop",
+            "publishedAt": "2025-08-22T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Advancing Density Estimation: From KDE to MAF",
+            "url": "https://www.webpronews.com/advancing-density-estimation-from-kde-to-maf/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-ce57fe10-3552-415d-be13-3a0e574c0e6f.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-08-22 18:18:13"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "AWS Enhances SageMaker HyperPod for 40% Faster AI Training",
+            "url": "https://www.webpronews.com/aws-enhances-sagemaker-hyperpod-for-40-faster-ai-training/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-5ecad125-625b-4258-be38-456609971d69.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-08-22 18:14:44"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "xAI Leaks 370K Grok Chatbot Conversations to Google Search",
+            "url": "https://www.webpronews.com/xai-leaks-370k-grok-chatbot-conversations-to-google-search/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-55ff8ef3-8937-4e74-b127-d1eca182a6dd.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-08-22 18:12:45"
         },
         {
             "source": {
@@ -3174,51 +3225,6 @@
             "url": "https://in.mashable.com/tech/98836/deepseek-launches-v31-ai-model-optimised-for-chinese-chips",
             "urlToImage": "https://sm.mashable.com/mashable_in/photo/default/deepseek_v1kx.jpg",
             "publishedAt": "2025-08-21 16:48:30"
-        },
-        {
-            "source": {
-                "name": "interestingengineering"
-            },
-            "title": "Folding spacecraft design could be enhanced with Japan’s ancient origami patterns",
-            "url": "https://interestingengineering.com/space/folding-spacecraft-design-with-origami-patterns",
-            "urlToImage": "https://cms.interestingengineering.com/wp-content/uploads/2025/08/spacecraft-design.jpg",
-            "publishedAt": "2025-08-21 16:24:04"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "How to print checks in QuickBooks Online",
-            "url": "https://www.zdnet.com/article/how-to-print-checks-in-quickbooks-online/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/f0785af2b4f087bfdc4372f54e32c06604490600/2025/08/21/9212ad32-24ea-4c84-a3d5-f1c6a7695a35/gettyimages-1235036900.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-08-21 16:00:23"
-        },
-        {
-            "source": {
-                "name": "cnet"
-            },
-            "title": "Windows 10 Support Ends Soon. Here Are Your Best Options if You Can't Upgrade",
-            "url": "https://www.cnet.com/tech/windows-10-support-ends-soon-here-are-your-best-options-if-you-cant-upgrade/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/965b4df0b87b04c09c5b4f96b62a785f22b0ebda/hub/2025/05/22/a1523585-f6c5-4a59-9415-def46228e9f0/here-are-your-options-if-youre-running-windows-10-and-cant-upgrade-tg.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-08-21 16:00:10"
-        },
-        {
-            "source": {
-                "name": "cnet"
-            },
-            "title": "The Best Off-the-Grid Home Security Tech for Cabins, Camping and Home Generators",
-            "url": "https://www.cnet.com/home/security/best-off-grid-home-security-tech-for-cabins-camping-and-home-generators/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/4cf3dcc79e22de583582575e21fb211c9bcbbc67/hub/2025/05/16/a2fc8d9d-5f2d-491f-b2db-fb832a8c1131/gettyimages-1317612622.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-08-21 16:00:00"
-        },
-        {
-            "source": {
-                "name": "pcworld_us"
-            },
-            "title": "Best 4K monitors: HDR, gaming, budget, and best overall",
-            "url": "https://www.pcworld.com/article/813361/best-4k-monitors.html",
-            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/08/asus-proart-pa279cv-3.jpg?quality=50&strip=all",
-            "publishedAt": "2025-08-21 16:00:00"
         }
     ]
 }
