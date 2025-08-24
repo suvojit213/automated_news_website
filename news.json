@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-08-24T06:21:38.042703Z",
+    "lastUpdatedAt": "2025-08-24T07:13:52.041474Z",
     "articles": [
+        {
+            "source": {
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
+                "country": "us"
+            },
+            "title": "OpenAI CEO Sam Altman Says Parenthood Has 'Rewired' His Priorities And Approach To AI Development: 'Best, Most Amazing Thing Ever'",
+            "url": "https://www.benzinga.com/markets/tech/25/08/47298642/openai-ceo-sam-altman-says-parenthood-has-rewired-his-priorities-and-approach-to-ai-development-best-most-amazing-thing-ever",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/08/24/Sam-Altman.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2025-08-24T07:00:53Z"
+        },
         {
             "source": {
                 "id": "3bd4bd306c42647825fa42989624c036",
@@ -420,6 +432,42 @@
             "url": "https://www.brecorder.com/news/40379298/national-cert-issues-urgent-data-protection-alert",
             "urlToImage": "https://i.brecorder.com/large/2025/08/68a9161b2f285.jpg",
             "publishedAt": "2025-08-23T01:17:31Z"
+        },
+        {
+            "source": {
+                "name": "xda_developers"
+            },
+            "title": "5 ways I combined my old GPU with my home server",
+            "url": "https://www.xda-developers.com/ways-i-combined-my-old-gpu-with-my-home-server/",
+            "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2024/08/gpu-passthough-proxmox.jpg",
+            "publishedAt": "2025-08-23 19:00:19"
+        },
+        {
+            "source": {
+                "name": "benzinga"
+            },
+            "title": "Elon Musk's xAI To Simulate Software Giants Like Microsoft, Calling It 'Macrohard'",
+            "url": "https://www.benzinga.com/markets/tech/25/08/47298112/elon-musks-xai-to-simulate-software-giants-like-microsoft-calling-it-macrohard",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/08/23/In-This-Photo-Illustration--The-Xai-Logo.jpeg?auto=jpg&dpr=1&fit=crop&height=480&optimize=medium&width=720",
+            "publishedAt": "2025-08-23 18:46:23"
+        },
+        {
+            "source": {
+                "name": "pcgamer"
+            },
+            "title": "Chicago man sues Home Depot, alleging it's secretly using AI facial recognition at self-checkout",
+            "url": "https://www.pcgamer.com/software/ai/chicago-man-sues-home-depot-alleging-its-secretly-using-ai-facial-recognition-at-self-checkout/",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/uhCgoU847LsYr8VPuoSiRb-1280-80.jpg",
+            "publishedAt": "2025-08-23 18:44:57"
+        },
+        {
+            "source": {
+                "name": "economictimes_indiatimes"
+            },
+            "title": "Gen Z & Gen Alpha need subtitles for parents? Decoding ancient slang",
+            "url": "http://economictimes.indiatimes.com/news/india/gen-z-gen-alpha-need-subtitles-for-parents-decoding-ancient-slang/articleshow/123476139.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-123476399,width-300,height-225,imgsize-118324,resizemode-75/1.jpg",
+            "publishedAt": "2025-08-23 18:28:46"
         },
         {
             "source": {
@@ -3027,66 +3075,6 @@
             "url": "https://wjla.com/news/nation-world/rep-mace-introduces-bill-to-remove-degree-barriers-for-federal-cybersecurity-roles-cybersecurity-hiring-modernization-act-nancy-mace-wciv-abc-news-4-8-21-2025",
             "urlToImage": "https://wjla.com/resources/media2/16x9/1167/986/0x3/90/2d08eeed-a2c9-4829-a6a4-4ae85b85fda1-Screenshot20250807052203.png",
             "publishedAt": "2025-08-21T19:01:08Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com",
-                "country": "ca"
-            },
-            "title": "Google to provide Gemini AI tools to U.S. government",
-            "url": "https://www.cp24.com/news/world/2025/08/21/google-to-provide-gemini-ai-tools-to-us-government/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/636TYLHE6SEKQBCDUHAG4YTLOQ.jpg?smart=true&auth=eacf4eb0d0e7ba3a47b7c64b4d1cea6d45c04b95a373fdfe43e1114a525066a8&width=1200&height=630",
-            "publishedAt": "2025-08-21T18:54:26Z"
-        },
-        {
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            },
-            "title": "Google to provide Gemini AI tools to U.S. government",
-            "url": "https://japantoday.com/category/tech/google-to-provide-gemini-ai-tools-to-us-government",
-            "urlToImage": "https://media.japantoday.com/img/store/57/81/275946c9cb08e1c9355a1e19c595e3c121cd/89de9b71fed02426adec5867d07b30bb9507978c-1/_w1700.jpeg",
-            "publishedAt": "2025-08-21T18:53:07Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "New AI tool tracks early signs of hurricane formation",
-            "url": "https://phys.org/news/2025-08-ai-tool-tracks-early-hurricane.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/new-ai-tool-tracks-ear.jpg",
-            "publishedAt": "2025-08-21T18:42:06Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "DeepSeek unveils upgraded AI model powered by local chips",
-            "url": "https://www.thenews.com.pk/latest/1337605-deepseek-unveils-upgraded-ai-model-powered-by-local-chips",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/updates/2025-08-21/1337605_112504_updates.jpg",
-            "publishedAt": "2025-08-21T18:33:00Z"
-        },
-        {
-            "source": {
-                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
-                "name": "TechStartups.com",
-                "url": "https://techstartups.com",
-                "country": "us"
-            },
-            "title": "Chinese AI startup DeepSeek launches enhanced V3 AI model with China-made chip support and faster speeds",
-            "url": "https://techstartups.com/2025/08/21/chinese-ai-startup-deepseek-launches-enhanced-v3-ai-model-with-china-made-chip-support-and-improved-performance/",
-            "urlToImage": "https://techstartups.com/wp-content/uploads/2024/12/Deepseek-outperforms-OpenAI-and-Meta-AI-models.jpg",
-            "publishedAt": "2025-08-21T18:08:43Z"
         }
     ]
 }
