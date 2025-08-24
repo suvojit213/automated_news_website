@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-08-24T04:21:48.605464Z",
+    "lastUpdatedAt": "2025-08-24T05:14:48.515970Z",
     "articles": [
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "Godfather of AI warns AI systems are turning into ‘alien beings’ that may one day take control of the world",
+            "url": "https://www.livemint.com/technology/tech-news/godfather-of-ai-geoffrey-hinton-warns-ai-systems-are-alien-beings-that-may-one-day-take-control-chatgpt-ge-11756009817654.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2025/08/24/1600x900/Geoffrey_Hinton_1756011255059_1756011255223.jpg",
+            "publishedAt": "2025-08-24T04:56:57Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Amazon Web Services head Matt Garman: Laying off engineers for AI is the dumbest thing companies are doing because…",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/amazon-web-services-head-matt-garman-laying-off-engineers-for-ai-is-the-dumbest-thing-companies-are-doing-because/articleshow/123480530.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-123480529,width-1070,height-580,imgsize-968453,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-08-24T04:41:00Z"
+        },
         {
             "source": {
                 "id": "a8984f03fe66dae9745793f6560aa444",
@@ -396,6 +420,33 @@
             "url": "https://www.brecorder.com/news/40379298/national-cert-issues-urgent-data-protection-alert",
             "urlToImage": "https://i.brecorder.com/large/2025/08/68a9161b2f285.jpg",
             "publishedAt": "2025-08-23T01:17:31Z"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Elon Musk Announces Tesla Optimus Robots for 2025 Factory Use",
+            "url": "https://www.webpronews.com/elon-musk-announces-tesla-optimus-robots-for-2025-factory-use/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-938e643f-96e7-48c8-a4d6-2fc0b458ebae.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-08-23 16:46:31"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Testing Large Language Models on Math Puzzles",
+            "url": "https://hackernoon.com/testing-large-language-models-on-math-puzzles",
+            "urlToImage": "https://hackernoon.imgix.net/images/5wpKgV75aONqkTJlafw2yQmK9yd2-4f039ve.png",
+            "publishedAt": "2025-08-23 16:36:06"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Evaluating Fine-Tuned LLMs on Reasoning Puzzles",
+            "url": "https://hackernoon.com/evaluating-fine-tuned-llms-on-reasoning-puzzles",
+            "urlToImage": "https://hackernoon.imgix.net/images/5wpKgV75aONqkTJlafw2yQmK9yd2-g103ab1.png",
+            "publishedAt": "2025-08-23 16:36:00"
         },
         {
             "source": {
@@ -3048,66 +3099,6 @@
             "url": "https://www.benzinga.com/25/08/47266734/can-the-ai-boom-save-depin-tokens-why-investors-like-render-akash-and-bittensor-despite-underperform",
             "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/08/21/Green-and-Red-Vintage-Illustrated-Christ.png?width=1200&height=800&fit=crop",
             "publishedAt": "2025-08-21T17:54:57Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Anthropic in Talks to Raise Up to $10 Billion in New Funding",
-            "url": "https://www.bloomberg.com/news/articles/2025-08-21/anthropic-in-talks-to-raise-up-to-10-billion-in-new-funding",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZPwa5nYzf3s/v0/1200x800.jpg",
-            "publishedAt": "2025-08-21T17:19:16Z"
-        },
-        {
-            "source": {
-                "id": "8867e8e7dcb6466620736bb48c455572",
-                "name": "STAT",
-                "url": "https://www.statnews.com",
-                "country": "us"
-            },
-            "title": "The startups threatened by Epic's new AI",
-            "url": "https://www.statnews.com/2025/08/21/startups-threatened-epics-new-ai-health-tech-newsletter/",
-            "urlToImage": "https://www.statnews.com/wp-content/uploads/2025/08/UGM-2025-Inside-1024x576.jpg",
-            "publishedAt": "2025-08-21T16:56:47Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "Safe water tool nearly three times more effective than standard practice, new study finds",
-            "url": "https://medicalxpress.com/news/2025-08-safe-tool-effective-standard.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/safe-water-tool-nearly.jpg",
-            "publishedAt": "2025-08-21T16:52:04Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "AI could stop hotels and restaurants wasting food, energy and talent-yet adoption remains low",
-            "url": "https://phys.org/news/2025-08-ai-hotels-restaurants-food-energy.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/hotel-room.jpg",
-            "publishedAt": "2025-08-21T16:47:27Z"
-        },
-        {
-            "source": {
-                "id": "17d7c2645f485578130862e0c8dd9480",
-                "name": "The Mercury News",
-                "url": "https://www.mercurynews.com",
-                "country": "us"
-            },
-            "title": "Tech giants prepare to challenge state AI regulations",
-            "url": "https://www.mercurynews.com/2025/08/21/tech-giants-prepare-to-challenge-state-ai-regulations/",
-            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/01/US-NEWS-ALTMAN-ABUSE-LAWSUIT-GET.jpg?w=1024&h=682",
-            "publishedAt": "2025-08-21T16:46:05Z"
         }
     ]
 }
