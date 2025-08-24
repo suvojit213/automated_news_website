@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-08-24T01:20:06.992332Z",
+    "lastUpdatedAt": "2025-08-24T03:16:06.107727Z",
     "articles": [
+        {
+            "source": {
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
+            },
+            "title": "Musk Says XAI Open Sources Grok 2.5",
+            "url": "https://www.newsmax.com/politics/elon-musk-grok-open-source/2025/08/23/id/1223690/",
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=1b0e323b-2177-4406-9fc6-c3b52bafd4bb&SiteName=Newsmax",
+            "publishedAt": "2025-08-24T02:39:40Z"
+        },
+        {
+            "source": {
+                "id": "a3391c15eb1d3136f9b9dd080940d0e8",
+                "name": "The Nation",
+                "url": "https://www.nation.com.pk",
+                "country": "pk"
+            },
+            "title": "‘AI can’t write comedy’, Tina Fey tells Edinburgh TV Festival",
+            "url": "https://www.nation.com.pk/24-Aug-2025/ai-can-t-write-comedy-tina-fey-tells-edinburgh-tv-festival",
+            "urlToImage": "https://www.nation.com.pk/print_images/large/2025-08-24/ai-can-t-write-comedy-tina-fey-tells-edinburgh-tv-festival-1756000248-4924.jpg",
+            "publishedAt": "2025-08-24T01:50:51Z"
+        },
         {
             "source": {
                 "id": "435d508bebcc8689d5c7711d44865b80",
@@ -372,6 +396,51 @@
             "url": "https://www.brecorder.com/news/40379298/national-cert-issues-urgent-data-protection-alert",
             "urlToImage": "https://i.brecorder.com/large/2025/08/68a9161b2f285.jpg",
             "publishedAt": "2025-08-23T01:17:31Z"
+        },
+        {
+            "source": {
+                "name": "interestingengineering"
+            },
+            "title": "Elon Musk unveils Macrohard AI project that could ‘simulate Microsoft’s entire operations’",
+            "url": "https://interestingengineering.com/innovation/elon-musk-unveils-macrohard-ai-company",
+            "urlToImage": "https://cms.interestingengineering.com/wp-content/uploads/2025/08/Musk-macrohard.jpg",
+            "publishedAt": "2025-08-23 14:55:14"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Top 3 AI Coins to Watch: $100 Could Multiply to $10,000 as They Dominate the Sector",
+            "url": "https://www.analyticsinsight.net/cryptocurrency-analytics-insight/top-3-ai-coins-to-watch-100-could-multiply-to-10000-as-they-dominate-the-sector",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-08-23%2Fo78nlfh7%2FTop-3-AI-Coins-to-Watch-100-Could-Multiply-to-10000-as-They-Dominate-the-Sector?ar=40%3A21&auto=format%2Ccompress&enlarge=true&mode=crop&ogImage=true&overlay=false&overlay_position=bottom&overlay_width=100&w=1200",
+            "publishedAt": "2025-08-23 14:30:00"
+        },
+        {
+            "source": {
+                "name": "bgr_com"
+            },
+            "title": "Never Do Any Of These 14 Things On Your Android Phone",
+            "url": "https://www.bgr.com/1945303/things-never-do-android-phone/",
+            "urlToImage": "https://www.bgr.com/img/gallery/never-do-any-of-these-14-things-on-your-android-phone/l-intro-1755696152.jpg",
+            "publishedAt": "2025-08-23 14:02:00"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Windows 11 Build 26200 Enables Android App Resumption on PCs",
+            "url": "https://www.webpronews.com/windows-11-build-26200-enables-android-app-resumption-on-pcs/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-ca0b8fcf-61fe-44a7-9610-2dc0d26f9b92.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-08-23 13:41:58"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Meta AI Errors Disrupt Ads, Startup Raises $50M Amid Ethical Debates",
+            "url": "https://www.webpronews.com/meta-ai-errors-disrupt-ads-startup-raises-50m-amid-ethical-debates/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-766fec18-b46c-45a9-8d85-c619f0b6bbc1.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-08-23 13:30:25"
         },
         {
             "source": {
@@ -3042,90 +3111,6 @@
             "url": "https://medicalxpress.com/news/2025-08-ai-mental-health-patients-breast.html",
             "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/cancer.jpg",
             "publishedAt": "2025-08-21T16:42:26Z"
-        },
-        {
-            "source": {
-                "id": "6fea3ee012f060c6309366516e8d00be",
-                "name": "News-Medical.net",
-                "url": "https://www.news-medical.net",
-                "country": "gb"
-            },
-            "title": "Artificial intelligence set to transform mental health care for breast cancer patients",
-            "url": "https://www.news-medical.net/news/20250821/Artificial-intelligence-set-to-transform-mental-health-care-for-breast-cancer-patients.aspx",
-            "urlToImage": "https://www.news-medical.net/images/tags/TagImage-1039-45840826385648151818-620x480.jpg",
-            "publishedAt": "2025-08-21T16:19:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Google unveils latest Pixel phones packed with AI",
-            "url": "https://www.manilatimes.net/2025/08/22/business/foreign-business/google-unveils-latest-pixel-phones-packed-with-ai/2171859",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/21/721958.jpg",
-            "publishedAt": "2025-08-21T16:09:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Chinese AI startup DeepSeek releases upgraded model with domestic chip support",
-            "url": "https://www.manilatimes.net/2025/08/22/business/foreign-business/chinese-ai-startup-deepseek-releases-upgraded-model-with-domestic-chip-support/2171838",
-            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-            "publishedAt": "2025-08-21T16:02:00Z"
-        },
-        {
-            "source": {
-                "id": "492abf277b7277432148b61b21ddc836",
-                "name": "Los Angeles Times",
-                "url": "https://www.latimes.com",
-                "country": "us"
-            },
-            "title": "Google's Pixel 10 phone raises the ante on artificial intelligence",
-            "url": "https://www.latimes.com/business/story/2025-08-21/googles-pixel-10-phones-raises-the-ante-on-artificial-intelligence",
-            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/f6967fd/2147483647/strip/true/crop/6000x3150+0+1425/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa8%2F9b%2F167f81544a1280557b05a43bb313%2Fd33bcc6986ef423db98ad3c46d8dc013.jpg",
-            "publishedAt": "2025-08-21T15:36:27Z"
-        },
-        {
-            "source": {
-                "id": "59749bcce0ec90ed59071c45c44738b7",
-                "name": "Siliconrepublic.com",
-                "url": "https://www.siliconrepublic.com",
-                "country": "ie"
-            },
-            "title": "‘Great leaders see AI for what it is, a lever not a threat’",
-            "url": "https://www.siliconrepublic.com/careers/great-leaders-ai-lever-threat-skills-enhancement",
-            "urlToImage": "https://www.siliconrepublic.com/wp-content/uploads/2025/08/Alex-Walsh-Oraion-.png",
-            "publishedAt": "2025-08-21T15:30:31Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "Ambient documentation technologies reduce physician burnout and restore 'joy' in medicine, study shows",
-            "url": "https://medicalxpress.com/news/2025-08-ambient-documentation-technologies-physician-burnout.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/physician.jpg",
-            "publishedAt": "2025-08-21T15:00:02Z"
-        },
-        {
-            "source": {
-                "id": "72ea416416ab0eec8fe687d6262961e8",
-                "name": "Finbold",
-                "url": "https://finbold.com",
-                "country": "bg"
-            },
-            "title": "Machine learning algorithm predicts Nvidia stock price on September 1, 2025",
-            "url": "https://finbold.com/machine-learning-algorithm-predicts-nvidia-stock-price-on-september-1-2025/",
-            "urlToImage": "https://assets.finbold.com/uploads/2025/08/Machine-learning-algorithm-predicts-Nvidia-stock-price-on-September-1-2025.jpg",
-            "publishedAt": "2025-08-21T14:55:21Z"
         }
     ]
 }
