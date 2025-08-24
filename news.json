@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-08-24T20:16:12.907352Z",
+    "lastUpdatedAt": "2025-08-24T21:13:07.740399Z",
     "articles": [
+        {
+            "source": {
+                "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
+                "name": "Fortune",
+                "url": "https://fortune.com",
+                "country": "us"
+            },
+            "title": "Credit fuels the AI boom - and fears of a bubble",
+            "url": "https://fortune.com/2025/08/24/private-credit-bonds-loans-debt-ai-boom-bubble/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/08/GettyImages-2218344193-e1756067429429.jpg?resize=1200,600",
+            "publishedAt": "2025-08-24T20:38:02Z"
+        },
         {
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -336,6 +348,24 @@
             "url": "https://www.activistpost.com/a-2025-assessment-the-emerging-artificial-intelligence-threat/",
             "urlToImage": "https://www.activistpost.com/wp-content/uploads/2025/08/terminator.jpg",
             "publishedAt": "2025-08-24T01:00:00Z"
+        },
+        {
+            "source": {
+                "name": "livescience"
+            },
+            "title": "China is dunking data centers into the ocean to keep them cool",
+            "url": "https://www.livescience.com/technology/china-is-dunking-data-centers-into-the-ocean-to-keep-them-cool",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/ctBjaKPynfZmcdnnEkvrDj-1280-80.jpg",
+            "publishedAt": "2025-08-24 09:00:00"
+        },
+        {
+            "source": {
+                "name": "interestingengineering"
+            },
+            "title": "US scientists decode diamond fusion fuel capsules’ flaws to maximize energy output",
+            "url": "https://interestingengineering.com/energy/us-decodes-diamond-fusion-fuel",
+            "urlToImage": "https://cms.interestingengineering.com/wp-content/uploads/2025/08/NIF-Chamber.jpg",
+            "publishedAt": "2025-08-24 08:23:23"
         },
         {
             "source": {
@@ -3075,33 +3105,6 @@
             "url": "https://hackernoon.com/sovereign-ai-the-why-and-how-behind-national-llms",
             "urlToImage": "https://hackernoon.imgix.net/images/tOnArrILSDcevoBmc7vIUv6UrQI3-to0394y.png",
             "publishedAt": "2025-08-22 07:13:53"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Domain Driven Design - The Basics",
-            "url": "https://hackernoon.com/domain-driven-design-the-basics",
-            "urlToImage": "https://hackernoon.imgix.net/images/B0yttwQN7Age62vgX3eILr797wx1-5v33d08.jpeg",
-            "publishedAt": "2025-08-22 07:11:37"
-        },
-        {
-            "source": {
-                "name": "toi"
-            },
-            "title": "HCLTech brings TechBee Program to Visakhapatnam",
-            "url": "https://timesofindia.indiatimes.com/city/visakhapatnam/hcltech-brings-techbee-program-to-visakhapatnam/articleshow/123448576.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-123448637,imgsize-396054,width-400,height-225,resizemode-72/123448637.jpg",
-            "publishedAt": "2025-08-22 07:09:54"
-        },
-        {
-            "source": {
-                "name": "postregister"
-            },
-            "title": "AP Technology SummaryBrief at 3:08 a.m. EDT",
-            "url": "https://www.postregister.com/businessreport/business/ap-technology-summarybrief-at-3-08-a-m-edt/article_4196f2c2-c898-57c8-8b01-7a354c966ba2.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
-            "publishedAt": "2025-08-22 07:08:49"
         }
     ]
 }
