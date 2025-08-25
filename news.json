@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-08-25T04:23:01.943429Z",
+    "lastUpdatedAt": "2025-08-25T05:16:53.725649Z",
     "articles": [
+        {
+            "source": {
+                "id": "dd1d806725f45e4403e75c1bb23b447a",
+                "name": "The Irish Times",
+                "url": "https://www.irishtimes.com",
+                "country": "ie"
+            },
+            "title": "From personalised tutoring to improved accessibility, why AI can democratise higher education",
+            "url": "https://www.irishtimes.com/opinion/2025/08/25/from-personalised-tutoring-to-improved-accessibility-why-ai-can-democratise-higher-education/",
+            "urlToImage": "https://www.irishtimes.com/resizer/v2/YKCB77LPHBAADL4ZS5KXRC6HOY.jpg?smart=true&auth=97917032c0250b23e9be8e12ae253309895a41825c04ad22847ead02f65f7a70&width=1200&height=630",
+            "publishedAt": "2025-08-25T05:00:00Z"
+        },
         {
             "source": {
                 "id": "3a3847d645a619320aa3b3484581e395",
@@ -528,6 +540,15 @@
             "url": "https://www.activistpost.com/a-2025-assessment-the-emerging-artificial-intelligence-threat/",
             "urlToImage": "https://www.activistpost.com/wp-content/uploads/2025/08/terminator.jpg",
             "publishedAt": "2025-08-24T01:00:00Z"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Why RAG Might Actually Matter More Than Ever In 2025",
+            "url": "https://hackernoon.com/why-rag-might-actually-matter-more-than-ever-in-2025",
+            "urlToImage": "https://hackernoon.imgix.net/images/rEamo8HuYreD1cNPjjxjolzIks92-zd02u8f.png",
+            "publishedAt": "2025-08-24 16:50:06"
         },
         {
             "source": {
@@ -3132,24 +3153,6 @@
             "url": "https://www.channelnewsasia.com/today/big-read/singapore-telcos-consolidation-prices-competition-innovation-5307986",
             "urlToImage": "https://dam.mediacorp.sg/image/upload/s--DULJgaSA--/c_crop,h_1080,w_1920,x_0,y_107/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2025/08/22/20250823-ns-rlbigread0823.jpg?itok=v7mNwOVN",
             "publishedAt": "2025-08-22 13:30:00"
-        },
-        {
-            "source": {
-                "name": "interestingengineering"
-            },
-            "title": "Can decentralized AI match centralized model in performance?",
-            "url": "https://interestingengineering.com/innovation/can-decentralized-ai-match-centralized-model-in-performance",
-            "urlToImage": "https://cms.interestingengineering.com/wp-content/uploads/2025/08/AI-.jpg",
-            "publishedAt": "2025-08-22 13:30:00"
-        },
-        {
-            "source": {
-                "name": "expresscomputer"
-            },
-            "title": "Cognizant assembles world’s largest online generative AI hackathon",
-            "url": "https://www.expresscomputer.in/news/cognizant-assembles-worlds-largest-online-generative-ai-hackathon/127295/",
-            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2025/02/21170620/EC_Digital_Panel_750.jpg",
-            "publishedAt": "2025-08-22 13:29:08"
         }
     ]
 }
