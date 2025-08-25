@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-08-25T06:25:33.448529Z",
+    "lastUpdatedAt": "2025-08-25T07:16:07.408009Z",
     "articles": [
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "Reasoning AI: Cracking the IIT test is a giant leap for machine-kind",
+            "url": "https://www.livemint.com/opinion/online-views/chatgpt-reasoning-model-ai-google-gemini-deep-think-google-gemini-2-5-pro-openai-iit-jee-healthcare-claude-perplexit-11755865881387.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2025/08/23/1600x900/g1f61aa13d86b76eaa0c5713a6dc1f6c52521183452cd02a5c_1748445469727_1755970996100.jpg",
+            "publishedAt": "2025-08-25T06:30:11Z"
+        },
         {
             "source": {
                 "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
@@ -564,6 +576,60 @@
             "url": "https://www.activistpost.com/a-2025-assessment-the-emerging-artificial-intelligence-threat/",
             "urlToImage": "https://www.activistpost.com/wp-content/uploads/2025/08/terminator.jpg",
             "publishedAt": "2025-08-24T01:00:00Z"
+        },
+        {
+            "source": {
+                "name": "cbsnews"
+            },
+            "title": "SpaceX returns to flight with Super Heavy-Starship after multiple failures",
+            "url": "https://www.cbsnews.com/news/after-three-failures-in-a-row-spacex-puts-mega-rocket-upgrades-to-the-test/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/08/24/2d02cbd0-73b3-49e5-9ce0-48da3e26f8fe/thumbnail/60x60/db10ae220bb16781bc38829017465468/082425-ift10-rollout.jpg",
+            "publishedAt": "2025-08-24 19:12:39"
+        },
+        {
+            "source": {
+                "name": "aol"
+            },
+            "title": "SpaceX returns to flight with Super Heavy-Starship after multiple failures",
+            "url": "https://www.aol.com/spacex-returns-flight-super-heavy-191239861.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/J3YCs_d.kXYoho2rlSrZLA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_cbs_news_articles_189/0e120d48f50987f4eba5c216ed231f45",
+            "publishedAt": "2025-08-24 19:12:39"
+        },
+        {
+            "source": {
+                "name": "yahoo"
+            },
+            "title": "SpaceX returns to flight with Super Heavy-Starship after multiple failures",
+            "url": "https://www.yahoo.com/news/articles/spacex-returns-flight-super-heavy-191239967.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/T5GxgqaQYcUn868PmviQeQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MDtjZj13ZWJw/https://media.zenfs.com/en/cbs_news_897/07c68f9372a66b5d190a4ed0bf65d832",
+            "publishedAt": "2025-08-24 19:12:39"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Better Steering with Less Data: Kinematic Priors Guide Trajectory Prediction",
+            "url": "https://hackernoon.com/better-steering-with-less-data-kinematic-priors-guide-trajectory-prediction",
+            "urlToImage": "https://hackernoon.imgix.net/images/sinW25rWovdN38P2ArzdPSCP3hi1-oa033xx.jpeg",
+            "publishedAt": "2025-08-24 19:00:59"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "From Guesswork to Ground Truth: Making Traffic Forecasts Physically Feasible",
+            "url": "https://hackernoon.com/from-guesswork-to-ground-truth-making-traffic-forecasts-physically-feasible",
+            "urlToImage": "https://hackernoon.imgix.net/images/sinW25rWovdN38P2ArzdPSCP3hi1-mr033jo.jpeg",
+            "publishedAt": "2025-08-24 18:36:10"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Using Availability‐Throughput Bounds to Improve Blockchain Fee Design and Welfare",
+            "url": "https://hackernoon.com/using-availabilitythroughput-bounds-to-improve-blockchain-fee-design-and-welfare",
+            "urlToImage": "https://hackernoon.imgix.net/images/sinW25rWovdN38P2ArzdPSCP3hi1-5j0331s.jpeg",
+            "publishedAt": "2025-08-24 18:27:43"
         },
         {
             "source": {
@@ -3096,69 +3162,6 @@
             "url": "https://www.engadget.com/mobile/smartphones/iphone-17-release-date-ios-26-features-and-everything-else-to-know-about-apples-upcoming-lineup-153024576.html",
             "urlToImage": "https://o.aolcdn.com/images/dims?client=19f2b5e49a271b2bde77&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-09%2Fb9a38080-756d-11ef-9fbd-6b990c391cf6&resize=1400%2C787&signature=080bcc4c3e8054983c2c84d47c03dfb4a98a6774",
             "publishedAt": "2025-08-22 15:52:58"
-        },
-        {
-            "source": {
-                "name": "pcgamer"
-            },
-            "title": "AMD's FSR 4 open source whoopsie-daisy may be harder to take back than initially thought, thanks to the inclusion of a difficult-to-revoke MIT license",
-            "url": "https://www.pcgamer.com/hardware/graphics-cards/amds-fsr-4-open-source-whoopsie-daisy-may-be-harder-to-take-back-than-initially-thought-thanks-to-the-inclusion-of-a-difficult-to-revoke-mit-license/",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/MqHB5pJxNJG89Sr8gcPWta-1280-80.jpg",
-            "publishedAt": "2025-08-22 15:42:50"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Is This AI’s Linux Moment? Inside 0G’s Labs Push for an Open, Verifiable Stack for AI",
-            "url": "https://hackernoon.com/is-this-ais-linux-moment-inside-0gs-labs-push-for-an-open-verifiable-stack-for-ai",
-            "urlToImage": "https://hackernoon.imgix.net/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-xb03lpy.png",
-            "publishedAt": "2025-08-22 15:03:27"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "Clarkson University Researchers Develop Innovative Tool to Prevent Overheating in Computer Chips",
-            "url": "https://www.prnewswire.com/news-releases/clarkson-university-researchers-develop-innovative-tool-to-prevent-overheating-in-computer-chips-302536738.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2368960/Clarkson_University__Logo.jpg?p=original",
-            "publishedAt": "2025-08-22 14:23:00"
-        },
-        {
-            "source": {
-                "name": "bgr_com"
-            },
-            "title": "How To Clear Your Windows 11 PC's Cache (And Why You Should)",
-            "url": "https://www.bgr.com/1941884/how-to-clear-pc-cache-windows-11/",
-            "urlToImage": "https://www.bgr.com/img/gallery/how-to-clear-your-windows-11-pcs-cache-and-why-you-should/l-intro-1755367109.jpg",
-            "publishedAt": "2025-08-22 14:17:00"
-        },
-        {
-            "source": {
-                "name": "hackaday"
-            },
-            "title": "This Week in Security: Anime Catgirls, Illegal AdBlock, and Disputed Research",
-            "url": "https://hackaday.com/2025/08/22/this-week-in-security-anime-catgirls-illegal-adblock-and-disputed-research/",
-            "urlToImage": "https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg",
-            "publishedAt": "2025-08-22 14:00:03"
-        },
-        {
-            "source": {
-                "name": "zephyrnet"
-            },
-            "title": "Busy Beaver Hunters Reach Numbers That Overwhelm Ordinary Math",
-            "url": "https://zephyrnet.com/busy-beaver-hunters-reach-numbers-that-overwhelm-ordinary-math/",
-            "urlToImage": "https://zephyrnet.com/wp-content/uploads/busy-beaver-hunters-reach-numbers-that-overwhelm-ordinary-math.webp",
-            "publishedAt": "2025-08-22 13:57:50"
-        },
-        {
-            "source": {
-                "name": "businessinsider_us"
-            },
-            "title": "This AI startup helps brands fight influencer disinformation campaigns. Read the pitch deck it used to raise $14M.",
-            "url": "https://www.businessinsider.com/pitch-deck-social-intelligence-startup-dig-series-a-2025-8",
-            "urlToImage": "https://i.insider.com/68a82fcccfc04e97619bd523?format=jpeg",
-            "publishedAt": "2025-08-22 13:54:01"
         }
     ]
 }
