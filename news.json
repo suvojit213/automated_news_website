@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2025-08-25T18:22:42.655287Z",
+    "lastUpdatedAt": "2025-08-25T19:12:21.095077Z",
     "articles": [
+        {
+            "source": {
+                "id": "a1dd1cfddd85ce2d4ada87bc9f6a9d43",
+                "name": "Belfast Telegraph",
+                "url": "https://www.belfasttelegraph.co.uk",
+                "country": "gb"
+            },
+            "title": "Elon Musk accuses Apple and OpenAI of stifling AI competition in lawsuit",
+            "url": "https://www.belfasttelegraph.co.uk/news/world-news/elon-musk-accuses-apple-and-openai-of-stifling-ai-competition-in-lawsuit/a1229892713.html",
+            "urlToImage": "https://focus.belfasttelegraph.co.uk/thumbor/W5UHuKmN_Wh0DCtxqeqcdkxkSjM=/629x460/smart/prod-mh-ireland/68992f7e-7c8b-4eac-abbe-24897a7a203f/3c4dd7fc-b395-48e5-a577-74374005c423/674acea09a9b438e8479fe8a3ad8eb6d.jpg",
+            "publishedAt": "2025-08-25T18:55:08Z"
+        },
+        {
+            "source": {
+                "id": "bc49d994b41ac710f5c89f6e6adeece4",
+                "name": "The Boston Herald",
+                "url": "https://www.bostonherald.com",
+                "country": "us"
+            },
+            "title": "Musk accuses Apple, OpenAI of stifling AI competition in lawsuit",
+            "url": "https://www.bostonherald.com/2025/08/25/elon-musk-apple-openai-lawsuit/",
+            "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/08/Musk-Apple-OpenAI_28628-1.jpg?w=1024&h=682",
+            "publishedAt": "2025-08-25T18:36:56Z"
+        },
+        {
+            "source": {
+                "id": "3271eb2093cfa66b030a37cf84a8df5e",
+                "name": "Baltimore Sun",
+                "url": "https://www.baltimoresun.com",
+                "country": "us"
+            },
+            "title": "Musk accuses Apple, OpenAI of stifling AI competition in lawsuit",
+            "url": "https://www.baltimoresun.com/2025/08/25/elon-musk-apple-openai-lawsuit/",
+            "urlToImage": "https://www.baltimoresun.com/wp-content/uploads/2025/08/Musk-Apple-OpenAI_28628-1.jpg?w=1024&h=682",
+            "publishedAt": "2025-08-25T18:36:56Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "J&K disallows pen drives, SM platforms in govt offices",
+            "url": "https://economictimes.indiatimes.com/news/india/jk-disallows-pen-drives-sm-platforms-in-govt-offices/articleshow/123510818.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-123510852,width-1200,height-630,imgsize-279868,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-08-25T18:34:00Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Elon Musk Launches Antitrust Attack on Apple and OpenAI",
+            "url": "https://www.devdiscourse.com/article/technology/3603076-elon-musk-launches-antitrust-attack-on-apple-and-openai",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/31_07_2025_03_39_36_5708846.png?width=920&format=jpeg",
+            "publishedAt": "2025-08-25T18:23:48Z"
+        },
         {
             "source": {
                 "id": "263578fdccd92a76494cd34055806fcc",
@@ -12,6 +72,18 @@
             "url": "https://phys.org/news/2025-08-statistical-mechanics-method-machines-complex.html",
             "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/statistical-mechanics.jpg",
             "publishedAt": "2025-08-25T18:11:04Z"
+        },
+        {
+            "source": {
+                "id": "5ac5f32ba74846cef441099f666f2d98",
+                "name": "Fast Company",
+                "url": "https://www.fastcompany.com",
+                "country": "us"
+            },
+            "title": "Here’s how much money companies can save by using AI to replace human workers",
+            "url": "https://www.fastcompany.com/91389523/heres-exactly-how-much-money-companies-can-save-by-using-ai-to-replace-human-workers",
+            "urlToImage": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024,h_1024/wp-cms-2/2025/08/p-1-91389523-News-Heres-exactly-how-much-companies-can-save-by-replacing-human-workers-with-AI.jpg",
+            "publishedAt": "2025-08-25T18:00:00Z"
         },
         {
             "source": {
@@ -912,6 +984,24 @@
             "url": "https://www.sciencedaily.com/releases/2025/08/250809100914.htm",
             "urlToImage": "https://www.sciencedaily.com/images/1920/canadian-arctic-glacial-erosion.webp",
             "publishedAt": "2025-08-25T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "engadget"
+            },
+            "title": "The 16 best portable Bluetooth speakers for 2025",
+            "url": "https://www.engadget.com/audio/speakers/best-portable-bluetooth-speakers-133004551.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?client=19f2b5e49a271b2bde77&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-12%2F6c526530-bd2a-11ef-bdef-b667f2d4d042&resize=1400%2C787&signature=31967958cd2a1b03c988b801044349426d34fbb7",
+            "publishedAt": "2025-08-25 07:00:35"
+        },
+        {
+            "source": {
+                "name": "toi"
+            },
+            "title": "Tesla partners with DeepSeek and ByteDance to launch ‘Hey Tesla’ AI voice assistant in China EVs",
+            "url": "https://timesofindia.indiatimes.com/auto/news/tesla-partners-with-deepseek-and-bytedance-to-launch-hey-tesla-ai-voice-assistant-in-china-evs/articleshow/123496053.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-123496593,imgsize-60716,width-400,resizemode-4/Tesla-partners-with-DeepSeek-and-ByteDance-to-launch-Hey-Tesla-AI-voice-assistant-in-China-EVs.jpg",
+            "publishedAt": "2025-08-25 06:41:08"
         },
         {
             "source": {
@@ -3096,102 +3186,6 @@
             "url": "https://www.reuters.com/technology/cybersecurity-firm-netskope-reveals-31-revenue-surge-us-ipo-filing-2025-08-22/",
             "urlToImage": "https://www.reuters.com/resizer/v2/YONWMTF5GRLUVCRGZXYGQQIX4E.jpg?auth=1a3e906accf2d7806b791598b5d8e89c735f5c76e19231a74e7f9011f9038bfa&height=1005&width=1920&quality=80&smart=true",
             "publishedAt": "2025-08-22T16:23:00Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "AI model maps building emissions to support fairer climate policies",
-            "url": "https://phys.org/news/2025-08-ai-emissions-fairer-climate-policies.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/ai-model-maps-building-1.jpg",
-            "publishedAt": "2025-08-22T16:20:04Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "Machine learning can predict dengue fever with 80% accuracy",
-            "url": "https://medicalxpress.com/news/2025-08-machine-dengue-fever-accuracy.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/dengue.jpg",
-            "publishedAt": "2025-08-22T15:45:04Z"
-        },
-        {
-            "source": {
-                "id": "0c9364fff53c0e5a3450947d9a54e795",
-                "name": "Daily Mail Online",
-                "url": "https://www.dailymail.co.uk",
-                "country": "gb"
-            },
-            "title": "Mother of all Google breaches puts all 2.5b Gmail users at risk of being hijacked: Take action NOW",
-            "url": "https://www.dailymail.co.uk/sciencetech/article-15022913/Google-database-hacked-2-5-BILLION-users.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2025/08/22/14/101464587-0-image-m-11_1755870324741.jpg",
-            "publishedAt": "2025-08-22T15:30:53Z"
-        },
-        {
-            "source": {
-                "id": "5cfd646fbad1ee4fa352342ad739c263",
-                "name": "Billboard",
-                "url": "https://www.billboard.com",
-                "country": "us"
-            },
-            "title": "BBC AI innovator Danijela Horak Joins Epidemic Sound and More Job News",
-            "url": "https://www.billboard.com/pro/danijela-horak-epidemic-sound-ai-meta-ddex-music-job-news/",
-            "urlToImage": "https://www.billboard.com/wp-content/uploads/2025/08/Danijela-Horak-epidemic-sound-1800.jpg?w=1024",
-            "publishedAt": "2025-08-22T14:15:34Z"
-        },
-        {
-            "source": {
-                "id": "7f6e8514e9d8f8376aaa9a7229861518",
-                "name": "PerthNow",
-                "url": "https://www.perthnow.com.au",
-                "country": "au"
-            },
-            "title": "Everyday AI use brings a hidden climate cost",
-            "url": "https://www.perthnow.com.au/news/business/everyday-ai-use-brings-a-hidden-climate-cost-c-19773347",
-            "urlToImage": "https://images.perthnow.com.au/publication/C-19773347/ee22caf95f8e2197f047632e8acd3ffbe09be3a2-16x9-x0y0w1280h720.jpg?imwidth=1200",
-            "publishedAt": "2025-08-22T14:14:38Z"
-        },
-        {
-            "source": {
-                "id": "151e16058f3cb39651c31018593e2a50",
-                "name": "The Province",
-                "url": "https://theprovince.com",
-                "country": "ca"
-            },
-            "title": "Conversations That Matter: Skills and trades in an AI world",
-            "url": "https://theprovince.com/business/conversations-that-matter-skills-and-trades-in-an-ai-world",
-            "urlToImage": "https://smartcdn.gprod.postmedia.digital/vancouversun/wp-content/uploads/2025/08/ajay-patel-copy_298213794.jpg",
-            "publishedAt": "2025-08-22T14:00:01Z"
-        },
-        {
-            "source": {
-                "id": "c24832368cd2d9132598ad4bef08e0ab",
-                "name": "Investopedia",
-                "url": "https://www.investopedia.com",
-                "country": "us"
-            },
-            "title": "Zoom Stock Soars as Firm Tops Estimates, Raises Outlook on AI Boom",
-            "url": "https://www.investopedia.com/zoom-stock-soars-as-firm-tops-estimates-raises-outlook-on-ai-boom-11795788",
-            "urlToImage": "https://www.investopedia.com/thmb/11hIsoI8IHWaqstVs1kt-qWKNq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2230753568-4be7ace81b1442ddb76ba2f67e0b021a.jpg",
-            "publishedAt": "2025-08-22T13:53:07Z"
-        },
-        {
-            "source": {
-                "id": "3271eb2093cfa66b030a37cf84a8df5e",
-                "name": "Baltimore Sun",
-                "url": "https://www.baltimoresun.com",
-                "country": "us"
-            },
-            "title": "As AI becomes part of everyday life, it brings a hidden climate cost",
-            "url": "https://www.baltimoresun.com/2025/08/22/ai-impact-climate-hidden-cost/",
-            "urlToImage": "https://www.baltimoresun.com/wp-content/uploads/2025/08/Climate_Choices-AI_Impact_83323-1.jpg?w=1024&h=682",
-            "publishedAt": "2025-08-22T13:45:51Z"
         }
     ]
 }
