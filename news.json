@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-08-25T22:14:52.688849Z",
+    "lastUpdatedAt": "2025-08-25T23:14:20.517236Z",
     "articles": [
+        {
+            "source": {
+                "id": "01558c024928d45cf320f6f75eede787",
+                "name": "The Guardian",
+                "url": "https://www.theguardian.com",
+                "country": "gb"
+            },
+            "title": "Ovarian cancer blood test can detect disease early, study suggests",
+            "url": "https://www.theguardian.com/society/2025/aug/26/ovarian-cancer-blood-test-can-detect-disease-early-study-suggests",
+            "urlToImage": "https://i.guim.co.uk/img/media/7f0e07e9605527926783a0e215685b04c7db38ba/354_0_2365_1892/master/2365.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8654843e9b2ca2ebd5e7ab003f5423b2",
+            "publishedAt": "2025-08-25T23:01:12Z"
+        },
+        {
+            "source": {
+                "id": "3a3847d645a619320aa3b3484581e395",
+                "name": "CBS News",
+                "url": "https://www.cbsnews.com",
+                "country": "us"
+            },
+            "title": "Elon Musk accuses Apple and OpenAI of stifling AI competition in antitrust lawsuit",
+            "url": "https://www.cbsnews.com/news/elon-musk-apple-openai-antitrust-lawsuit/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/08/25/57e92a95-34ef-4d50-916f-84e43a513d9e/thumbnail/1200x630/90c517d41f57868a32632856701f8dc7/ap25237620428628.jpg",
+            "publishedAt": "2025-08-25T22:47:13Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Lens Technology accelerates Liquid Cooling Innovations for AI Systems",
+            "url": "https://www.manilatimes.net/2025/08/26/tmt-newswire/media-outreach-newswire/lens-technology-accelerates-liquid-cooling-innovations-for-ai-systems/2173491",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/26/725651.png",
+            "publishedAt": "2025-08-25T22:18:46Z"
+        },
+        {
+            "source": {
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
+                "country": "us"
+            },
+            "title": "First lady Melania Trump will head effort to teach next generation about AI",
+            "url": "https://nypost.com/2025/08/25/opinion/first-lady-melania-trump-will-head-effort-to-teach-next-generation-about-ai/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/08/newspress-collage-yaeqf0kq9-1756158252282.jpg?quality=75&strip=all&1756143912&w=1024",
+            "publishedAt": "2025-08-25T22:01:09Z"
+        },
         {
             "source": {
                 "id": "11d4381a1e8f7aca7628d0319a52a040",
@@ -60,6 +108,18 @@
             "url": "https://medicalxpress.com/news/2025-08-generative-ai-uncovers-undetected-bird.html",
             "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/bird-flu.jpg",
             "publishedAt": "2025-08-25T20:44:04Z"
+        },
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "Musk takes Apple and OpenAI to court over monopolistic practices",
+            "url": "https://www.thenews.com.pk/latest/1339081-musk-takes-apple-and-openai-to-court-over-monopolistic-practices",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/updates/2025-08-26/1339081_014459_updates.jpg",
+            "publishedAt": "2025-08-25T20:40:40Z"
         },
         {
             "source": {
@@ -1116,6 +1176,96 @@
             "url": "https://www.sciencedaily.com/releases/2025/08/250809100914.htm",
             "urlToImage": "https://www.sciencedaily.com/images/1920/canadian-arctic-glacial-erosion.webp",
             "publishedAt": "2025-08-25T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "interestingengineering"
+            },
+            "title": "Japan researchers harness quantum entanglement to boost robot posture control",
+            "url": "https://interestingengineering.com/innovation/quantum-breakthrough-to-boost-robot-posture-control",
+            "urlToImage": "https://cms.interestingengineering.com/wp-content/uploads/2025/08/GettyImages-2221698903.jpg",
+            "publishedAt": "2025-08-25 11:03:04"
+        },
+        {
+            "source": {
+                "name": "arstechnica"
+            },
+            "title": "With AI chatbots, Big Tech is moving fast and breaking people",
+            "url": "https://arstechnica.com/information-technology/2025/08/with-ai-chatbots-big-tech-is-moving-fast-and-breaking-people/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/infinite_mirrors-1152x648.jpg",
+            "publishedAt": "2025-08-25 11:00:24"
+        },
+        {
+            "source": {
+                "name": "computerworld_in"
+            },
+            "title": "AGI explained: Artificial intelligence with humanlike cognition",
+            "url": "https://www.computerworld.com/article/4038512/agi-explained-artificial-intelligence-with-humanlike-cognition.html",
+            "urlToImage": "https://www.computerworld.com/wp-content/uploads/2025/08/4038512-0-39684900-1756119770-AGI-explained-shutterstock_2668951805.jpg?quality=50&strip=all",
+            "publishedAt": "2025-08-25 11:00:00"
+        },
+        {
+            "source": {
+                "name": "wired"
+            },
+            "title": "Meta Has Already Won the Smart Glasses Race",
+            "url": "https://www.wired.com/story/meta-has-already-won-the-smart-glasses-race/",
+            "urlToImage": "https://media.wired.com/photos/68a6f52dac994ef9b1668f6d/master/w_120,c_limit/082025_AI-Glasses-1.jpg",
+            "publishedAt": "2025-08-25 11:00:00"
+        },
+        {
+            "source": {
+                "name": "hindustantimes_tech"
+            },
+            "title": "Wikipedia’s editors reveal ultimate checklist to spot chatbot articles: If you see these clues, a bot was here",
+            "url": "https://tech.hindustantimes.com/tech/wikipedias-editors-reveal-ultimate-checklist-to-spot-chatbot-articles-if-you-see-these-clues-a-bot-was-here-71756118795489.html",
+            "urlToImage": "https://images.hindustantimes.com/tech/img/2025/08/25/1600x900/generated-image_1756119194513_1756119206987.png",
+            "publishedAt": "2025-08-25 10:54:32"
+        },
+        {
+            "source": {
+                "name": "expresscomputer"
+            },
+            "title": "AI teammate: How AI agent goes beyond a tool or automation system",
+            "url": "https://www.expresscomputer.in/guest-blogs/ai-teammate-how-ai-agent-goes-beyond-a-tool-or-automation-system/127330/",
+            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2024/08/05150217/EC-Digital-Tech-Eye-AI-750.jpg",
+            "publishedAt": "2025-08-25 10:44:46"
+        },
+        {
+            "source": {
+                "name": "expresscomputer"
+            },
+            "title": "Tech for Good: How Open Data Platforms Accelerate Progress on the SDGs",
+            "url": "https://www.expresscomputer.in/guest-blogs/tech-for-good-how-open-data-platforms-accelerate-progress-on-the-sdgs/127326/",
+            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2024/03/05165016/ec-future-technology-concept-750.jpg",
+            "publishedAt": "2025-08-25 10:34:59"
+        },
+        {
+            "source": {
+                "name": "digit_in"
+            },
+            "title": "Grok 2.5 goes public: xAI’s controlled take on open-sourcing AI",
+            "url": "https://www.digit.in/features/general/grok-25-goes-public-xais-controlled-take-on-open-sourcing-ai.html",
+            "urlToImage": "https://static.digit.in/gROK-2.5-OPEN-WEIGHT.jpg",
+            "publishedAt": "2025-08-25 10:25:42"
+        },
+        {
+            "source": {
+                "name": "expresscomputer"
+            },
+            "title": "Ignored security alerts: A top contributor to social engineering scams, Palo Alto Networks’ 2025-unit 42 global incident response report",
+            "url": "https://www.expresscomputer.in/news/ignored-security-alerts-a-top-contributor-to-social-engineering-scams-palo-alto-networks-2025-unit-42-global-incident-response-report/127319/",
+            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2019/01/07180027/Skills-Accenture-Report.jpg",
+            "publishedAt": "2025-08-25 10:18:36"
+        },
+        {
+            "source": {
+                "name": "toi"
+            },
+            "title": "Zerodha CEO Nithin Kamath reveals one simply powerful quality to be 'irreplaceable' by AI",
+            "url": "https://timesofindia.indiatimes.com/etimes/trending/zerodha-ceo-nithin-kamath-reveals-one-simply-powerful-quality-to-be-irreplaceable-by-ai/articleshow/123500998.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-123500998,imgsize-886812,width-400,resizemode-4/123500998.jpg",
+            "publishedAt": "2025-08-25 10:17:40"
         },
         {
             "source": {
@@ -3039,141 +3189,6 @@
             "url": "https://www.techradar.com/televisions/panasonic-z95b-review",
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/jnNR3aSTLbeyio5EEyHg8k.jpg",
             "publishedAt": "2025-08-23 11:00:00"
-        },
-        {
-            "source": {
-                "name": "abplive"
-            },
-            "title": "Coded Commanders: Artificial Intelligence As The New General",
-            "url": "https://news.abplive.com/blog/coded-commanders-artificial-intelligence-as-the-new-general-1796214",
-            "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2025/08/23/50ca67ed3cc1adfabfcb6d12380dc5e81755944039831927_original.jpg",
-            "publishedAt": "2025-08-23 10:15:40"
-        },
-        {
-            "source": {
-                "name": "xda_developers"
-            },
-            "title": "Motherboard PCIe lanes aren't worth stressing over",
-            "url": "https://www.xda-developers.com/motherboard-pcie-lanes-demystified/",
-            "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/11/pcie-slot-on-a-motherboard.jpg",
-            "publishedAt": "2025-08-23 10:00:19"
-        },
-        {
-            "source": {
-                "name": "wired"
-            },
-            "title": "Gear News of the Week: Always-Recording Smart Glasses, and Google Teases a New Nest Speaker",
-            "url": "https://www.wired.com/story/gear-news-of-the-week-always-recording-smart-glasses-and-google-teases-a-new-nest-speaker/",
-            "urlToImage": "https://media.wired.com/photos/68a92c99a7dc2ae4cd59d232/3:4/w_120,c_limit/Gear%20News%20of%20the%20Week-%20Always-Recording%20Smart%20Glasses,%20and%20Google%20Teases%20a%20New%20Nest%20Speaker.png",
-            "publishedAt": "2025-08-23 10:00:00"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "Worried about AI's soaring energy needs? Avoiding chatbots won't help - but 3 things could",
-            "url": "https://www.zdnet.com/article/worried-about-ais-soaring-energy-needs-avoiding-chatbots-wont-help-but-3-things-could/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/6578174b0883f2ee7e0553e2d9eaf5afdb7d86d5/2025/08/22/ed0edd96-6d8d-4fb4-9198-b995181ec329/ai-energy555gettyimages-2191842984.jpg?auto=webp&width=1280",
-            "publishedAt": "2025-08-23 10:00:00"
-        },
-        {
-            "source": {
-                "name": "silive"
-            },
-            "title": "S.I. man using AI to rep himself in court battle. A legal ‘check mate?’ Or a risky move?",
-            "url": "https://www.silive.com/news/2025/08/staten-island-man-using-ai-to-rep-himself-in-court-battle-a-legal-checkmate-or-a-dangerous-idea.html",
-            "urlToImage": "https://www.silive.com/resizer/v2/2KX2D5DVQNBKLHEXI2CA632LMA.jpg?auth=fb15ee5e46fd463a7eb1156d9e53daf82240b76e574e7adbb002c64b474372ae&height=1200&smart=true",
-            "publishedAt": "2025-08-23 09:50:00"
-        },
-        {
-            "source": {
-                "name": "thehansindia"
-            },
-            "title": "Elon Musk Unveils Macrohard, an AI-Driven Microsoft Rival",
-            "url": "https://www.thehansindia.com/technology/tech-news/elon-musk-unveils-macrohard-an-ai-driven-microsoft-rival-999730",
-            "urlToImage": "https://assets.thehansindia.com/h-upload/2025/08/23/1578801-elon-musk.webp",
-            "publishedAt": "2025-08-23 09:26:45"
-        },
-        {
-            "source": {
-                "name": "xda_developers"
-            },
-            "title": "Everyone's using Otter AI for transcription, but I use Whisper locally on my PC instead, here's how",
-            "url": "https://www.xda-developers.com/use-whisper-locally-on-pc-transcription-instead-otter-ai-how/",
-            "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2025/08/whisper-hero.jpeg",
-            "publishedAt": "2025-08-23 09:00:19"
-        },
-        {
-            "source": {
-                "name": "economictimes_indiatimes"
-            },
-            "title": "As AI becomes part of everyday life, it brings a hidden climate cost",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/as-ai-becomes-part-of-everyday-life-it-brings-a-hidden-climate-cost/articleshow/123468905.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-204402,resizemode-75,msid-123468905/tech/artificial-intelligence/as-ai-becomes-part-of-everyday-life-it-brings-a-hidden-climate-cost.jpg",
-            "publishedAt": "2025-08-23 08:54:41"
-        },
-        {
-            "source": {
-                "name": "republicworld"
-            },
-            "title": "Elon Musk Launches Macrohard: AI Startup Set to Take on Microsoft and Revolutionize Software",
-            "url": "https://www.republicworld.com/tech/elon-musk-launches-macrohard-ai-startup-set-to-take-on-microsoft-and-revolutionize-software",
-            "urlToImage": "https://img.republicworld.com/all_images/elon-musk-1752733832326-16_9.webp?format=webp&h=720&q=100&w=1280",
-            "publishedAt": "2025-08-23 08:52:28"
-        },
-        {
-            "source": {
-                "name": "telanganatoday"
-            },
-            "title": "vivo unveils first mixed reality headset and new imaging strategy at 30th anniversary",
-            "url": "https://telanganatoday.com/vivo-unveils-first-mixed-reality-headset-and-new-imaging-strategy-at-30th-anniversary",
-            "urlToImage": "https://media.telanganatoday.com/wp-content/uploads/2025/08/vivo-unveils-first-mixed-reality-headset-and-new-imaging-strategy-at-30th-anniversary.jpg",
-            "publishedAt": "2025-08-23 08:48:40"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "I built the coolest gaming PC ever — here are 5 parts to buy so you can too",
-            "url": "https://www.tomsguide.com/computing/hardware/i-built-the-coolest-gaming-pc-ever-here-are-5-parts-to-buy-so-you-can-too",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/rUT3weVkwM9FNSUbdfors3-1280-80.jpg",
-            "publishedAt": "2025-08-23 08:30:00"
-        },
-        {
-            "source": {
-                "name": "livemint"
-            },
-            "title": "Elon Musk unveils new company 'Macrohard' to replicate Microsoft 'purely' with AI",
-            "url": "https://www.livemint.com/technology/tech-news/elon-musk-unveils-new-company-macrohard-to-replicate-microsoft-purely-with-ai-11755933185754.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2025/08/23/1600x900/Musk_satya_1755937040202_1755937040356.png",
-            "publishedAt": "2025-08-23 08:21:08"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "One of the biggest new features on the Google Pixel 10 is also one of the most overlooked",
-            "url": "https://www.zdnet.com/article/one-of-the-biggest-new-features-on-the-google-pixel-10-is-also-one-of-the-most-overlooked/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/8896bdd0142ee74f00ca577ec9e98743fca93f62/2025/08/19/d865e884-8f40-43a2-8504-cb973880ac3d/made-by-google-pixel-event-2025-photo-23.jpg?auto=webp&width=1280",
-            "publishedAt": "2025-08-23 08:15:18"
-        },
-        {
-            "source": {
-                "name": "inc42"
-            },
-            "title": "Inc42 & Oracle Bring 30+ Tech Leaders Together To Shape The Future Of AI In India",
-            "url": "https://inc42.com/buzz/inc42-oracle-bring-30-tech-leaders-together-to-shape-the-future-of-ai-in-india/",
-            "urlToImage": "https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2025/08/CTO-Dinner_Delhi-_Feature-Image-1-scaled.jpg",
-            "publishedAt": "2025-08-23 08:09:46"
-        },
-        {
-            "source": {
-                "name": "moneycontrol"
-            },
-            "title": "Meta to launch smart glasses along with a neural wristband? Here’s everything we know so far",
-            "url": "https://www.moneycontrol.com/technology/meta-to-launch-smart-glasses-with-a-wristband-here-s-everything-we-know-so-far-article-13481684.html",
-            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2025/07/20250715083352_Meta-AI-g.jpg",
-            "publishedAt": "2025-08-23 07:43:40"
         }
     ]
 }
