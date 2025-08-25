@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2025-08-25T11:13:57.860591Z",
+    "lastUpdatedAt": "2025-08-25T12:32:29.771697Z",
     "articles": [
+        {
+            "source": {
+                "id": "6f4f13c21bb217801ab4b37c367f97aa",
+                "name": "CNET",
+                "url": "https://www.cnet.com",
+                "country": "us"
+            },
+            "title": "Can ChatGPT Help With Bill Negotiations? We Put It to the Test",
+            "url": "https://www.cnet.com/tech/services-and-software/can-ai-help-with-bill-negotiations-i-put-chatgpt-to-the-test/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/2518fac1a0c93e4a6ec255f2a437ef4efae9fc33/hub/2024/07/24/25310513-3ee3-4333-8130-29667c04ce7e/gettyimages-1338834262.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-08-25T12:15:02Z"
+        },
+        {
+            "source": {
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
+                "country": "in"
+            },
+            "title": "OpenAI picks Coursera’s Raghav Gupta to lead its education vertical in India",
+            "url": "https://www.hindustantimes.com/business/openai-picks-coursera-s-raghav-gupta-to-lead-its-education-vertical-in-india-101756123751961.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/08/25/1600x900/OpenAI-India_1756123877632_1756123877774.JPG",
+            "publishedAt": "2025-08-25T12:13:03Z"
+        },
+        {
+            "source": {
+                "id": "ac7b96be74f81cabb4e02b818a3ff6d7",
+                "name": "MarketBeat",
+                "url": "https://www.marketbeat.com",
+                "country": "us"
+            },
+            "title": "Patch Tuesday Highlights Microsoft’s Growing Security Edge",
+            "url": "https://www.marketbeat.com/originals/patch-tuesday-highlights-microsofts-growing-security-edge/",
+            "urlToImage": "https://www.marketbeat.com/logos/articles/med_20250821092118_patch-tuesday-highlights-microsofts-growing-securi.jpg",
+            "publishedAt": "2025-08-25T11:51:00Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Cybercrime surge in Karnataka: Tier-II and III cities now on target, conviction rate remains abysmally low",
+            "url": "https://timesofindia.indiatimes.com/business/cybersecurity/cybercrime-surge-in-karnataka-tier-ii-and-iii-cities-now-on-target-conviction-rate-remains-abysmally-low/articleshow/123502877.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-123502875,width-1070,height-580,imgsize-542943,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-08-25T11:36:00Z"
+        },
+        {
+            "source": {
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
+                "country": "in"
+            },
+            "title": "Jammu and Kashmir bans pen drives in government offices to strengthen cybersecurity",
+            "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jammu-and-kashmir-bans-pen-drives-in-government-offices-to-strengthen-cybersecurity/article69974868.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/gewt2k/article69974969.ece/alternates/LANDSCAPE_1200/iStock-184948703.jpg",
+            "publishedAt": "2025-08-25T11:29:49Z"
+        },
         {
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -435,6 +495,42 @@
         },
         {
             "source": {
+                "name": "economictimes_indiatimes"
+            },
+            "title": "ET Startup Awards 2025: Nominees for Best on Campus",
+            "url": "https://economictimes.indiatimes.com/tech/startups/et-startup-awards-2025-nominees-for-best-on-campus/articleshow/123486243.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-202221,resizemode-75,msid-123486243/tech/startups/et-startup-awards-2025-nominees-for-best-on-campus.jpg",
+            "publishedAt": "2025-08-25 00:30:00"
+        },
+        {
+            "source": {
+                "name": "menafn"
+            },
+            "title": "Xpeng's Upcoming P7 Launch Sparks Retail Frenzy - Chinese EV Maker Targets 40,000 Monthly Deliveries",
+            "url": "https://menafn.com/1109969440/Xpengs-Upcoming-P7-Launch-Sparks-Retail-Frenzy-Chinese-EV-Maker-Targets-40000-Monthly-Deliveries",
+            "urlToImage": "https://menafn.com/updates/pr/2025-08/25/AN_web-p_3539dimage_story.webp",
+            "publishedAt": "2025-08-25 00:01:17"
+        },
+        {
+            "source": {
+                "name": "financialcontent"
+            },
+            "title": "AI Exposure Without the Hype: 3 ETFs That Offer Smarter AI Bets",
+            "url": "https://www.marketbeat.com/stock-ideas/ai-exposure-without-the-hype-3-etfs-that-offer-smarter-ai-bets/",
+            "urlToImage": "https://www.marketbeat.com/logos/articles/med_20250822104233_ai-exposure-without-the-hype-3-etfs-that-offer-sma.jpg",
+            "publishedAt": "2025-08-25 00:00:00"
+        },
+        {
+            "source": {
+                "name": "financialcontent"
+            },
+            "title": "3 Phenomenal Artificial Intelligence (AI) Stocks to Buy Right Now",
+            "url": "https://www.fool.com/investing/2025/08/25/3-phenomenal-artificial-intelligence-ai-stocks-to/",
+            "urlToImage": "https://g.foolcdn.com/image/?h=400&op=resize&url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F829681%2Fteam-of-software-engineers-looking-at-a-computer.jpg&w=400",
+            "publishedAt": "2025-08-25 00:00:00"
+        },
+        {
+            "source": {
                 "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
                 "name": "CNBC",
                 "url": "https://www.cnbc.com",
@@ -852,6 +948,15 @@
             "url": "https://www.activistpost.com/a-2025-assessment-the-emerging-artificial-intelligence-threat/",
             "urlToImage": "https://www.activistpost.com/wp-content/uploads/2025/08/terminator.jpg",
             "publishedAt": "2025-08-24T01:00:00Z"
+        },
+        {
+            "source": {
+                "name": "astrobiology"
+            },
+            "title": "NASA Spaceline Current Awareness List #1,162 15 August 2025 (Space Life Science Research Results)",
+            "url": "https://astrobiology.com/2025/08/nasa-spaceline-current-awareness-list-1162-15-august-2025-space-life-science-research-results.html",
+            "urlToImage": "https://astrobiology.com/wp-content/uploads/2025/08/15aug2025spaceline.png",
+            "publishedAt": "2025-08-24 23:41:53"
         },
         {
             "source": {
@@ -3120,117 +3225,6 @@
             "url": "https://www.dawn.com/news/1933233/hundreds-of-thousands-of-grok-chats-exposed-in-google-results",
             "urlToImage": "https://www.dawn.com/_img/social-default.jpg",
             "publishedAt": "2025-08-22T02:06:26Z"
-        },
-        {
-            "source": {
-                "id": "94466d37d8c67a438250646866df36df",
-                "name": "SBS News",
-                "url": "https://www.sbs.com.au",
-                "country": "au"
-            },
-            "title": "Australia may have made an AI policy 'breakthrough', but how does it compare globally?",
-            "url": "https://www.sbs.com.au/news/article/australia-may-have-made-an-ai-policy-breakthrough-but-how-does-it-compare-globally/ejj1gqfyi",
-            "urlToImage": "https://images.sbs.com.au/dims4/default/943b847/2147483647/strip/true/crop/2121x1193+0+110/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2Fb5%2F39%2Fcb9a452a4e3ea67a8b8c8c9abf95%2Fgettyimages-2022302070.jpg",
-            "publishedAt": "2025-08-22T01:44:11Z"
-        },
-        {
-            "source": {
-                "id": "a3391c15eb1d3136f9b9dd080940d0e8",
-                "name": "The Nation",
-                "url": "https://www.nation.com.pk",
-                "country": "pk"
-            },
-            "title": "Gender Inequality in the AI Age",
-            "url": "https://www.nation.com.pk/22-Aug-2025/gender-inequality-in-the-ai-age",
-            "urlToImage": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
-            "publishedAt": "2025-08-22T01:37:59Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Meta Signs $10 Billion Google Cloud Computing Deal Amid AI Race",
-            "url": "https://www.bloomberg.com/news/articles/2025-08-22/meta-signs-10-billion-google-cloud-computing-deal-amid-ai-race",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/im_iPVnI4880/v0/1200x800.jpg",
-            "publishedAt": "2025-08-22T00:21:15Z"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            },
-            "title": "Google scores six-year Meta cloud deal worth over $10 billion",
-            "url": "https://www.cnbc.com/2025/08/21/google-scores-six-year-meta-cloud-deal-worth-over-10-billion.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108189400-17558192742024-09-25t203922z_1336797993_rc2u7aalwc6k_rtrmadp_0_meta-platforms-virtual-reality.jpeg?v=1755819335&w=1920&h=1080",
-            "publishedAt": "2025-08-22T00:03:52Z"
-        },
-        {
-            "source": {
-                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-                "name": "Markets Insider",
-                "url": "https://markets.businessinsider.com",
-                "country": "us"
-            },
-            "title": "AMD Stock Dips on FSR 4 Source Code Mistake",
-            "url": "https://markets.businessinsider.com/news/stocks/amd-stock-dips-on-fsr-4-source-code-mistake-1035063509",
-            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/08/image-1532.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-            "publishedAt": "2025-08-22T00:03:00Z"
-        },
-        {
-            "source": {
-                "id": "8e9ab8327c5f7903cc1b50470411d165",
-                "name": "GlobeNewswire",
-                "url": "https://www.globenewswire.com",
-                "country": "us"
-            },
-            "title": "Limited Seating! Boston C-suite executives",
-            "url": "https://www.globenewswire.com/news-release/2025/08/22/3137829/0/en/Register-Now-Limited-Seating-Boston-C-suite-executives-invited-to-HMG-Strategy-s-17th-Annual-C-Level-Technology-Leadership-Summit-on-September-11.html",
-            "urlToImage": "https://ml.globenewswire.com/Resource/Download/4b886685-faf4-4f80-8e8a-77cac364fa1b",
-            "publishedAt": "2025-08-22T00:00:00Z"
-        },
-        {
-            "source": {
-                "id": "78289f4d19c868d072c67a84199f13c5",
-                "name": "The Conversation UK",
-                "url": "https://theconversation.com",
-                "country": "au"
-            },
-            "title": "Can AI teach us how animals think?",
-            "url": "https://theconversation.com/can-ai-teach-us-how-animals-think-263545",
-            "urlToImage": "https://images.theconversation.com/files/686931/original/file-20250822-56-c2aels.jpg?ixlib=rb-4.1.0&rect=0%2C515%2C4800%2C2400&q=45&auto=format&w=1356&h=668&fit=crop",
-            "publishedAt": "2025-08-22T00:00:00Z"
-        },
-        {
-            "source": {
-                "name": "venturebeat"
-            },
-            "title": "OpenCUA’s open source computer-use agents rival proprietary models from OpenAI and Anthropic",
-            "url": "https://venturebeat.com/ai/opencuas-open-source-computer-use-agents-rival-proprietary-models-from-openai-and-anthropic/",
-            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/08/computer-use-agent.jpg?w=750",
-            "publishedAt": "2025-08-22 23:25:35"
-        },
-        {
-            "source": {
-                "name": "nytimes"
-            },
-            "title": "Ex-Employee Sentenced to 4 Years for Sabotaging Company’s Computer Network",
-            "url": "https://www.nytimes.com/2025/08/22/business/eaton-corporation-hack-prison-sentence.html",
-            "urlToImage": "https://static01.nyt.com/images/2025/08/22/multimedia/22xp-computer-fwkh/22xp-computer-fwkh-articleLarge.jpg?auto=webp&disable=upscale&quality=75",
-            "publishedAt": "2025-08-22 23:14:11"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Meta Partners with Midjourney for AI Image, Video Tools on Facebook, Instagram",
-            "url": "https://www.webpronews.com/meta-partners-with-midjourney-for-ai-image-video-tools-on-facebook-instagram/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-668de175-9fa6-4a8a-ab6c-ab893e7b3abe.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-08-22 23:06:18"
         }
     ]
 }
