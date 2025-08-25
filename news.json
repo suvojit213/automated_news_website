@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-08-25T20:16:55.031046Z",
+    "lastUpdatedAt": "2025-08-25T21:13:55.651097Z",
     "articles": [
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "Sharp creates conversational AI toy robot Poketomo",
+            "url": "https://japantoday.com/category/features/new-products/japan's-sharp-creates-conversational-ai-toy-robot-poketomo",
+            "urlToImage": "https://media.japantoday.com/img/store/b0/94/07ea839cbe3d0decfa83b8155f8964df326a/life_img02/_w1700.png",
+            "publishedAt": "2025-08-25T21:05:00Z"
+        },
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "Generative AI uncovers undetected bird flu exposure risks in Maryland emergency departments",
+            "url": "https://medicalxpress.com/news/2025-08-generative-ai-uncovers-undetected-bird.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/bird-flu.jpg",
+            "publishedAt": "2025-08-25T20:44:04Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Andreessen Horowitz Joins $100 Million Effort to Shape AI Regulation",
+            "url": "https://www.bloomberg.com/news/articles/2025-08-25/andreessen-horowitz-joins-100-million-effort-to-shape-ai-regulation",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPRuQtGoNwqI/v1/1200x829.jpg",
+            "publishedAt": "2025-08-25T20:15:57Z"
+        },
+        {
+            "source": {
+                "id": "b419a989918b3665a34559f5047546b6",
+                "name": "The Sunday Times",
+                "url": "https://www.thetimes.com",
+                "country": "gb"
+            },
+            "title": "MoD turns to artificial intelligence to prevent further data breaches",
+            "url": "https://www.thetimes.com/uk/defence/article/mod-turns-to-artificial-intelligence-to-prevent-further-data-breaches-xfh9vpzwx",
+            "urlToImage": "https://www.thetimes.com/imageserver/image/%2Ff18afd04-00bf-4232-ac42-818ff1632c40.jpg?crop=6346%2C3570%2C0%2C274&resize=1200",
+            "publishedAt": "2025-08-25T19:55:28Z"
+        },
         {
             "source": {
                 "id": "79baacd62152cf257ee35e8c0bec19a2",
@@ -1032,6 +1080,24 @@
             "url": "https://www.sciencedaily.com/releases/2025/08/250809100914.htm",
             "urlToImage": "https://www.sciencedaily.com/images/1920/canadian-arctic-glacial-erosion.webp",
             "publishedAt": "2025-08-25T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "newsable_asianetnews"
+            },
+            "title": "Apple Prepares 'Biggest Shake-Up in Two Decades' to Reinvent iPhone Lineup",
+            "url": "https://newsable.asianetnews.com/technology/apple-prepares-biggest-shake-up-in-two-decades-to-reinvent-iphone-lineup-dmn-articleshow-5yyi39a",
+            "urlToImage": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-01k3g7w6gjxvrt19ecj0j68grz,imgname-gettyimages-2228556460-1756113017362.jpg",
+            "publishedAt": "2025-08-25 09:10:20"
+        },
+        {
+            "source": {
+                "name": "foreignpolicy"
+            },
+            "title": "The Future Is Being Delivered by Chinese Drones",
+            "url": "https://foreignpolicy.com/2025/08/25/china-united-states-drones-logistics-military-commerce-technology/",
+            "urlToImage": "https://foreignpolicy.com/wp-content/uploads/2025/08/cargo-drone-china-GettyImages-2227373037.jpg?w=800%3Fquality%3D90",
+            "publishedAt": "2025-08-25 09:00:23"
         },
         {
             "source": {
@@ -3099,78 +3165,6 @@
             "url": "https://www.fool.com/investing/2025/08/23/1-no-brainer-ai-stock-to-buy-with-under-200-august/",
             "urlToImage": "https://g.foolcdn.com/image/?h=400&op=resize&url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F830480%2Fa-person-looking-down-at-a-tablet-device-while-standing-in-a-data-center.jpg&w=400",
             "publishedAt": "2025-08-23 00:00:00"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Exclusive: Databricks to buy Sequoia-backed Tecton in AI agent push",
-            "url": "https://www.reuters.com/business/finance/databricks-buy-sequoia-backed-tecton-ai-agent-push-2025-08-22/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/CMQ3JYQZOVIOVBTC3P5CVFAWBI.jpg?auth=8a0ab246923bd2306278bd602c33fbfe0c331c9ad4de01257c4439aaa488284a&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-08-22T23:11:19Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Putin Sees Hope in Russia-US Relations Amid Arctic Cooperation Talks",
-            "url": "https://www.devdiscourse.com/article/politics/3591245-putin-sees-hope-in-russia-us-relations-amid-arctic-cooperation-talks",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/21_08_2025_21_01_49_4690653.jpg?width=920&format=jpeg",
-            "publishedAt": "2025-08-22T22:23:24Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Battles Over Health Policies and Hunger Crisis Mark Current Global Health News",
-            "url": "https://www.devdiscourse.com/article/law-order/3591220-battles-over-health-policies-and-hunger-crisis-mark-current-global-health-news",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/22_08_2025_19_38_40_8061852.png?width=920&format=jpeg",
-            "publishedAt": "2025-08-22T20:58:25Z"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            },
-            "title": "Cybersecurity firm Netskope files to go public on the Nasdaq",
-            "url": "https://www.cnbc.com/2025/08/22/cybersecurity-firm-netskope-ipo-nasdaq.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108189844-1755888667273-gettyimages-543417030-BERI_CHOWDHURY.jpeg?v=1755888728&w=1920&h=1080",
-            "publishedAt": "2025-08-22T20:36:41Z"
-        },
-        {
-            "source": {
-                "id": "384b3c633f1aa3e0a1bcb208f94d519d",
-                "name": "SFGATE",
-                "url": "https://www.sfgate.com",
-                "country": "us"
-            },
-            "title": "Meta freezes AI hiring, even as boom continues",
-            "url": "https://www.sfgate.com/tech/article/meta-freezes-ai-hiring-20881530.php",
-            "urlToImage": "https://s.hdnux.com/photos/01/54/26/47/28404187/3/rawImage.jpg",
-            "publishedAt": "2025-08-22T19:43:23Z"
-        },
-        {
-            "source": {
-                "id": "d5f1f8579b4e9b390feccfa1c0cf8028",
-                "name": "Arab News",
-                "url": "https://www.arabnews.com",
-                "country": "ar"
-            },
-            "title": "Kingdom’s cybersecurity model is a blueprint for the future",
-            "url": "https://www.arabnews.com/node/2612693",
-            "urlToImage": "https://www.arabnews.com/sites/default/files/authors/1527696-mrz.png",
-            "publishedAt": "2025-08-22T18:36:36Z"
         }
     ]
 }
