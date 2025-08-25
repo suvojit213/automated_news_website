@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-08-25T19:12:21.095077Z",
+    "lastUpdatedAt": "2025-08-25T20:16:55.031046Z",
     "articles": [
+        {
+            "source": {
+                "id": "79baacd62152cf257ee35e8c0bec19a2",
+                "name": "UPI News",
+                "url": "https://www.upi.com",
+                "country": "us"
+            },
+            "title": "Elon Musk alleges 'anticompetitive scheme' in xAI's Apple, OpenAI lawsuit",
+            "url": "https://www.upi.com/Top_News/US/2025/08/25/Musk-xAI-lawsuit-Apple-OpenAI-anticompetitive-scheme/4911756140157/",
+            "urlToImage": "https://cdnph.upi.com/sv/ph/og/upi/4911756140157/2025/1/f2a760154de4cd80ee2c9ce62fe06469/v1.5/Elon-Musk-alleges-anticompetitive-scheme-in-Apple-OpenAI-lawsuit.jpg",
+            "publishedAt": "2025-08-25T19:17:53Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Saudi's Humain to launch data centers with US chips in early 2026, Bloomberg News reports",
+            "url": "https://www.reuters.com/world/middle-east/saudis-humain-launch-data-centers-with-us-chips-early-2026-bloomberg-news-2025-08-25/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/AG5K5BJFGNKKXNOO2YQUEBX6PE.jpg?auth=eeca02383449776a20374b56b47fd7a68c9b084ae7d8271c738d4eba8cb069b3&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-08-25T19:11:39Z"
+        },
+        {
+            "source": {
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
+                "country": "us"
+            },
+            "title": "Alphabet Stock Hits New All-Time High On AI, Cloud Momentum",
+            "url": "https://www.benzinga.com/trading-ideas/movers/25/08/47317673/alphabet-stock-hits-new-all-time-high-on-ai-cloud-momentum",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/08/25/Stuttgart--Germany---July-20--2023-Googl.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2025-08-25T19:08:19Z"
+        },
         {
             "source": {
                 "id": "a1dd1cfddd85ce2d4ada87bc9f6a9d43",
@@ -47,6 +83,18 @@
             "title": "J&K disallows pen drives, SM platforms in govt offices",
             "url": "https://economictimes.indiatimes.com/news/india/jk-disallows-pen-drives-sm-platforms-in-govt-offices/articleshow/123510818.cms",
             "urlToImage": "https://img.etimg.com/thumb/msid-123510852,width-1200,height-630,imgsize-279868,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-08-25T18:34:00Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "J&K government bans use of pen drives to enhance cybersecurity and protect sensitive data",
+            "url": "https://economictimes.indiatimes.com/news/india/jk-government-bans-use-of-pen-drives-to-enhance-cybersecurity-and-protect-sensitive-data/articleshow/123510818.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-123511400,width-1200,height-630,imgsize-6382,overlay-economictimes/articleshow.jpg",
             "publishedAt": "2025-08-25T18:34:00Z"
         },
         {
@@ -984,6 +1032,51 @@
             "url": "https://www.sciencedaily.com/releases/2025/08/250809100914.htm",
             "urlToImage": "https://www.sciencedaily.com/images/1920/canadian-arctic-glacial-erosion.webp",
             "publishedAt": "2025-08-25T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "businessinsider_us"
+            },
+            "title": "The AI doomers are having their moment",
+            "url": "https://www.businessinsider.com/limits-large-language-models-chatgpt-agi-artificial-general-intelligence-openai-2025-8",
+            "urlToImage": "https://i.insider.com/68ab92f9194a2d49b8af13a1?format=jpeg",
+            "publishedAt": "2025-08-25 08:01:02"
+        },
+        {
+            "source": {
+                "name": "itpro"
+            },
+            "title": "Does the US AI Action Plan add up and how will it change the global AI landscape?",
+            "url": "https://www.itpro.com/business/policy-and-legislation/does-the-us-ai-action-plan-add-up-and-how-will-it-change-the-global-ai-landscape",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/PoxYYUyR7HNMj3jjB29374-1280-80.jpg",
+            "publishedAt": "2025-08-25 08:00:00"
+        },
+        {
+            "source": {
+                "name": "pcquest"
+            },
+            "title": "How AI in lending is reshaping banking",
+            "url": "https://www.pcquest.com/features/how-ai-in-lending-is-reshaping-banking-9732482",
+            "urlToImage": "https://img-cdn.publive.online/pcq/media/media_files/2025/08/25/ai-changeover-in-lending-customer-journey-re-evaluation-2025-08-25-13-21-44.png",
+            "publishedAt": "2025-08-25 07:54:53"
+        },
+        {
+            "source": {
+                "name": "digit_in"
+            },
+            "title": "MIT study says 95% of GenAI fails to deliver value: So why the layoffs?",
+            "url": "https://www.digit.in/features/general/mit-study-says-95-percent-of-genai-fails-to-deliver-value-so-why-the-layoffs.html",
+            "urlToImage": "https://static.digit.in/genai-impact-on-business-mit-nanda-report-2025.png",
+            "publishedAt": "2025-08-25 07:43:08"
+        },
+        {
+            "source": {
+                "name": "in_ign"
+            },
+            "title": "AMD: Leaks Reveal Upcoming RDNA 5-Based Dedicated GPUs and APUs, Including Specs for Possible 1050XT, 1060XT, and More",
+            "url": "https://in.ign.com/tech/239891/news/amd-leaks-reveal-upcoming-rdna-5-based-dedicated-gpus-and-apus-including-specs-for-possible-1050xt-1",
+            "urlToImage": "https://sm.ign.com/ign_in/news/t/the-amd-ra/the-amd-radeon-rx-9060-xt-is-finally-confirmed_ajzu.png",
+            "publishedAt": "2025-08-25 07:27:00"
         },
         {
             "source": {
@@ -3078,114 +3171,6 @@
             "url": "https://www.arabnews.com/node/2612693",
             "urlToImage": "https://www.arabnews.com/sites/default/files/authors/1527696-mrz.png",
             "publishedAt": "2025-08-22T18:36:36Z"
-        },
-        {
-            "source": {
-                "id": "c837db3560dbe304554f10dddd97c3c8",
-                "name": "People.com",
-                "url": "https://people.com",
-                "country": "us"
-            },
-            "title": "Home Depot Hit with Lawsuit Over Allegations About Using Facial Recognition Technology",
-            "url": "https://people.com/the-home-depot-hit-with-lawsuit-over-allegations-facial-recognition-technology-11795671",
-            "urlToImage": "https://people.com/thmb/oS42WyIyQrjZG5Yqr1YnCv2Pkf4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/home-depot-101323-1-e7458772b4ba4549a67da7210d213dee.jpg",
-            "publishedAt": "2025-08-22T18:21:26Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Use artificial intelligence as your assistant, not boss, corporate social responsibility executives tell teachers",
-            "url": "https://timesofindia.indiatimes.com/city/bengaluru/use-artificial-intelligence-as-your-assistant-not-boss-corporate-social-responsibility-executives-tell-teachers/articleshow/123460500.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-117518772,width-1070,height-580,imgsize-335197,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "publishedAt": "2025-08-22T18:04:00Z"
-        },
-        {
-            "source": {
-                "id": "143b993b193f72147f3de29ebcfbf505",
-                "name": "India TV News",
-                "url": "https://www.indiatvnews.com",
-                "country": "in"
-            },
-            "title": "Noida holds cybercrime workshop, ADG GK Goswami shares valuable safety tips",
-            "url": "https://www.indiatvnews.com/uttar-pradesh/noida-police-organises-workshop-on-importance-of-cybercrime-and-data-protection-2025-08-22-1004733",
-            "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2025/08/traffic-challan-1755885554.jpg",
-            "publishedAt": "2025-08-22T17:59:30Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "UCAP Congress in Ghana Calls for Ethical AI to Protect Truth and Human Dignity",
-            "url": "https://www.devdiscourse.com/article/business/3571023-ucap-congress-in-ghana-calls-for-ethical-ai-to-protect-truth-and-human-dignity",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/26_02_2025_21_12_00_0588603.webp?width=920&format=jpeg",
-            "publishedAt": "2025-08-22T17:18:59Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Apple Explores Using Google Gemini AI to Power Revamped Siri",
-            "url": "https://www.bloomberg.com/news/articles/2025-08-22/apple-explores-using-google-gemini-ai-to-power-revamped-siri",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYbHqF2IEpFs/v1/1200x800.jpg",
-            "publishedAt": "2025-08-22T17:12:17Z"
-        },
-        {
-            "source": {
-                "id": "e98c4d2585c4c5661ffe60fed4d51930",
-                "name": "BOL News",
-                "url": "https://www.bolnews.com",
-                "country": "pk"
-            },
-            "title": "Pakistan introduce AI Immigration App to reduce long queues at airport",
-            "url": "https://www.bolnews.com/pakistan/2025/08/pakistan-introduce-ai-immigration-app-to-reduce-long-queues-at-airport/",
-            "urlToImage": "https://www.bolnews.com/wp-content/uploads/2025/08/FotoJet-2025-08-22T220202.730.jpg",
-            "publishedAt": "2025-08-22T17:02:54Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Boss threatens staff with AI job automation: Employee's question puts manager's own job at risk",
-            "url": "https://economictimes.indiatimes.com/magazines/panache/boss-threatens-staff-with-ai-job-automation-employees-question-puts-managers-own-job-at-risk/articleshow/123458265.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-123458662,width-1200,height-630,imgsize-78374,overlay-etpanache/articleshow.jpg",
-            "publishedAt": "2025-08-22T16:43:00Z"
-        },
-        {
-            "source": {
-                "id": "602d1de710d66397a00201d8efdd36ee",
-                "name": "Inc. Magazine",
-                "url": "https://www.inc.com",
-                "country": "us"
-            },
-            "title": "Here’s What CEOs Need to Tell Board Members About Cybersecurity",
-            "url": "https://www.inc.com/john-smith/heres-what-ceos-need-to-tell-board-members-about-cybersecurity/91230501",
-            "urlToImage": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2025/08/INC-Masters-Fast-Company-publishing-2025-08-22T112422.398.png",
-            "publishedAt": "2025-08-22T16:26:09Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Cybersecurity firm Netskope reveals 31% revenue surge in US IPO filing",
-            "url": "https://www.reuters.com/technology/cybersecurity-firm-netskope-reveals-31-revenue-surge-us-ipo-filing-2025-08-22/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/YONWMTF5GRLUVCRGZXYGQQIX4E.jpg?auth=1a3e906accf2d7806b791598b5d8e89c735f5c76e19231a74e7f9011f9038bfa&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-08-22T16:23:00Z"
         }
     ]
 }
