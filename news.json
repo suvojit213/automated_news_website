@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2025-08-26T12:34:07.128601Z",
+    "lastUpdatedAt": "2025-08-26T13:29:35.081803Z",
     "articles": [
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "WidePoint to Present at the 2025 Gateway Conference on September 3, 2025 at 11:00 a.m. Pacific Time",
+            "url": "https://www.manilatimes.net/2025/08/26/tmt-newswire/globenewswire/widepoint-to-present-at-the-2025-gateway-conference-on-september-3-2025-at-1100-am-pacific-time/2173920",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/26/726420.jpg",
+            "publishedAt": "2025-08-26T13:13:44Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Can Nvidia results dispel creeping AI doubts?",
+            "url": "https://www.reuters.com/technology/artificial-intelligence/can-nvidia-results-dispel-creeping-ai-doubts-2025-08-26/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/KLAUZMLVABIVFFDDCXQMGOA67I.jpg?auth=2cc37fe17987ea447d648e5877353505c2236a8f267249a1c2a43086eb62bd42&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-08-26T13:05:31Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Rising trends in AI for student performance prediction",
+            "url": "https://www.devdiscourse.com/article/technology/3570725-rising-trends-in-ai-for-student-performance-prediction",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/22_08_2025_18_12_23_1350559.png?width=920&format=jpeg",
+            "publishedAt": "2025-08-26T12:54:48Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "India Unites to Secure Digital Defenses: The Delhi Cybersecurity Declaration",
+            "url": "https://www.devdiscourse.com/article/technology/3603961-india-unites-to-secure-digital-defenses-the-delhi-cybersecurity-declaration",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/26_08_2025_12_40_32_4555622.png?width=920&format=jpeg",
+            "publishedAt": "2025-08-26T12:40:32Z"
+        },
+        {
+            "source": {
+                "id": "391302f06b19835f4e0d9f8b4aa57091",
+                "name": "Breaking Defense",
+                "url": "https://breakingdefense.com",
+                "country": "us"
+            },
+            "title": "Artificial intelligence can unlock historic data for today’s missions",
+            "url": "https://breakingdefense.com/2025/08/artificial-intelligence-can-unlock-historic-data-for-todays-missions-given-the-right-chips/",
+            "urlToImage": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/08/Kawiwaza-is-an-AI-orchestration-engine-that-enables-massive-dispersed-data-sets-to-be-rationalized-and-fused-together-to-achieve-mission-results.-Kamiwaza-image-1024x683.png",
+            "publishedAt": "2025-08-26T12:31:00Z"
+        },
         {
             "source": {
                 "id": "e9207083a357fb7e76b38e485888ebe7",
@@ -24,6 +84,18 @@
             "url": "https://www.mercurynews.com/2025/08/26/national-school-poll-reveals-american-support-for-dei-dept-of-education-but-not-ai/",
             "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/04/202504190415MCT_____PHOTO____US-NEWS-EDU-TRUMP-CUTS-GET.jpg?w=1024&h=683",
             "publishedAt": "2025-08-26T11:15:21Z"
+        },
+        {
+            "source": {
+                "id": "e9207083a357fb7e76b38e485888ebe7",
+                "name": "manilastandard.net",
+                "url": "https://manilastandard.net",
+                "country": "ph"
+            },
+            "title": "AI knowledge now a factor in hiring for most PH firms",
+            "url": "https://manilastandard.net/business/314634773/ai-knowledge-now-a-factor-in-hiring-for-most-ph-firms.html",
+            "urlToImage": "https://cdn.manilastandard.net/wp-content/uploads/2025/08/JOBSTREET_small_scale.png",
+            "publishedAt": "2025-08-26T11:15:00Z"
         },
         {
             "source": {
@@ -3171,60 +3243,6 @@
             "url": "https://hackernoon.com/optimizing-backpropagation-with-pc-flows",
             "urlToImage": "https://hackernoon.imgix.net/images/5wpKgV75aONqkTJlafw2yQmK9yd2-2t03azd.png",
             "publishedAt": "2025-08-24 23:11:08"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "How Block-Based Parallelization Cuts IO and Computation Overhead",
-            "url": "https://hackernoon.com/how-block-based-parallelization-cuts-io-and-computation-overhead",
-            "urlToImage": "https://hackernoon.imgix.net/images/5wpKgV75aONqkTJlafw2yQmK9yd2-gl139hr.png",
-            "publishedAt": "2025-08-24 23:11:02"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Key Bottlenecks in PC Parallelization",
-            "url": "https://hackernoon.com/key-bottlenecks-in-pc-parallelization",
-            "urlToImage": "https://hackernoon.imgix.net/images/personal-computers-arranged-in-parallel-iqqthg8yfo94sh69law6h774.png",
-            "publishedAt": "2025-08-24 23:10:56"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Why Researchers Are Betting on PCs to Power the Next Wave of AI",
-            "url": "https://hackernoon.com/why-researchers-are-betting-on-pcs-to-power-the-next-wave-of-ai",
-            "urlToImage": "https://hackernoon.imgix.net/images/5wpKgV75aONqkTJlafw2yQmK9yd2-sa13938.png",
-            "publishedAt": "2025-08-24 23:10:56"
-        },
-        {
-            "source": {
-                "name": "techaeris"
-            },
-            "title": "HeadRush VX5 review: Auto-Tune at the tap of a toe",
-            "url": "https://techaeris.com/2025/08/24/headrush-vx5-review-autotune/",
-            "urlToImage": "https://techaeris.com/wp-content/uploads/2025/08/HeadRush-VX5-Review.jpg",
-            "publishedAt": "2025-08-24 23:08:23"
-        },
-        {
-            "source": {
-                "name": "cbsnews"
-            },
-            "title": "Tech mogul Palmer Luckey creating arsenal of AI-powered autonomous weapons",
-            "url": "https://www.cbsnews.com/news/palmer-luckey-ai-powered-autonomous-weapons-future-of-warfare-60-minutes-transcript/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/05/16/642d3364-0369-4a00-adfe-e628f8308df7/thumbnail/60x60/65b43573eacd593e2b41ec262c4cb5ef/palmer-luckey-video-alfonsi.jpg",
-            "publishedAt": "2025-08-24 23:02:11"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "CIOs Shape 2026 IT Budgets: AI, Security, and Efficiency Priorities",
-            "url": "https://www.webpronews.com/cios-shape-2026-it-budgets-ai-security-and-efficiency-priorities/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-43899267-57be-4411-b6f8-f6ee1697fe90.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-08-24 22:04:12"
         }
     ]
 }
