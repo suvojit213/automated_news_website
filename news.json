@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2025-08-26T08:22:09.151399Z",
+    "lastUpdatedAt": "2025-08-26T09:17:05.839303Z",
     "articles": [
+        {
+            "source": {
+                "id": "d6397b77175680e2678c0d60edcee7af",
+                "name": "South China Morning Post",
+                "url": "https://www.scmp.com",
+                "country": "hk"
+            },
+            "title": "Hong Kong wealth fund, Beijing AI academy team up to hunt for global AI talent",
+            "url": "https://www.scmp.com/tech/tech-trends/article/3323177/hong-kong-wealth-fund-beijing-ai-academy-team-hunt-global-ai-talent",
+            "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/08/26/5c866e81-ee52-4cd2-9be0-a1af8dad41ef_0222621f.jpg?itok=VyjV-5VC&v=1756194669",
+            "publishedAt": "2025-08-26T09:00:09Z"
+        },
+        {
+            "source": {
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
+                "country": "in"
+            },
+            "title": "NASA, IBM Develop 'Surya': Here's How Advanced AI Model Can Protect From Solar Storms",
+            "url": "https://www.ndtvprofit.com/science/nasa-ibm-develop-surya-heres-how-advanced-ai-model-can-protect-from-solar-storms",
+            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-08-26%2F66p1ye6g%2FWhatsApp-Image-2025-08-26-at-14.10.26.jpeg?w=1200&auto=format%2Ccompress&ogImage=true",
+            "publishedAt": "2025-08-26T08:43:20Z"
+        },
+        {
+            "source": {
+                "id": "5c8d93bfca2d486f14a94e72edb17b6c",
+                "name": "Business Recorder",
+                "url": "https://www.brecorder.com",
+                "country": "pk"
+            },
+            "title": "AI-based risk management system to be activated soon",
+            "url": "https://www.brecorder.com/news/40379722/ai-based-risk-management-system-to-be-activated-soon",
+            "urlToImage": "https://i.brecorder.com/large/2025/08/261324507b828ef.webp",
+            "publishedAt": "2025-08-26T08:25:29Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "AI is redefining academic libraries, says RTMNU professor at global conference",
+            "url": "https://timesofindia.indiatimes.com/city/kolkata/ai-is-redefining-academic-libraries-says-rtmnu-professor-at-global-conference/articleshow/123521266.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-123521336,width-1070,height-580,imgsize-1544771,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-08-26T08:24:00Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Thane Police's Cyber Warriors: A New Era in Crime Detection",
+            "url": "https://www.devdiscourse.com/article/law-order/3603570-thane-polices-cyber-warriors-a-new-era-in-crime-detection",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/26_08_2025_08_14_45_418961.png?width=920&format=jpeg",
+            "publishedAt": "2025-08-26T08:14:45Z"
+        },
+        {
+            "source": {
+                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
+                "name": "WTOP",
+                "url": "https://wtop.com",
+                "country": "us"
+            },
+            "title": "Study says AI chatbots inconsistent in handling suicide-related queries",
+            "url": "https://wtop.com/national/2025/08/study-says-ai-chatbots-inconsistent-in-handling-suicide-related-queries/",
+            "urlToImage": "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png",
+            "publishedAt": "2025-08-26T08:06:21Z"
+        },
         {
             "source": {
                 "id": "0a4c92a1a91d0994627a96e134064d69",
@@ -252,6 +324,18 @@
             "url": "https://economictimes.indiatimes.com/tech/information-tech/it-expands-oz-middle-east-nordic-revenue-streams-to-cut-us-drama/articleshow/123511887.cms",
             "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-34872,resizemode-75,msid-123511887/tech/information-tech/it-expands-oz-middle-east-nordic-revenue-streams-to-cut-us-drama.jpg",
             "publishedAt": "2025-08-26T00:30:00Z"
+        },
+        {
+            "source": {
+                "id": "8e9ab8327c5f7903cc1b50470411d165",
+                "name": "GlobeNewswire",
+                "url": "https://www.globenewswire.com",
+                "country": "us"
+            },
+            "title": "Thailand Managed Security Services Market Forecast and",
+            "url": "https://www.globenewswire.com/news-release/2025/08/26/3139025/28124/en/Thailand-Managed-Security-Services-Market-Forecast-and-Competition-Analysis-Report-2025-Cloud-Adoption-and-Remote-Work-Fueling-Thailand-s-Managed-Security-Services-Market-Growth-at.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+            "publishedAt": "2025-08-26T00:00:00Z"
         },
         {
             "source": {
@@ -1476,6 +1560,60 @@
             "url": "https://www.sciencedaily.com/releases/2025/08/250809100914.htm",
             "urlToImage": "https://www.sciencedaily.com/images/1920/canadian-arctic-glacial-erosion.webp",
             "publishedAt": "2025-08-25T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "engadget"
+            },
+            "title": "The iPhone 17 event is likely in September: What to expect from Apple's upcoming launch",
+            "url": "https://www.engadget.com/mobile/smartphones/the-iphone-17-event-is-likely-in-september-what-to-expect-from-apples-upcoming-launch-153024626.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?client=19f2b5e49a271b2bde77&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-09%2Fb9a38080-756d-11ef-9fbd-6b990c391cf6&resize=1400%2C787&signature=080bcc4c3e8054983c2c84d47c03dfb4a98a6774",
+            "publishedAt": "2025-08-25 21:15:32"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Teaching Big Models With Less Data: How Adapters + Active Learning Win",
+            "url": "https://hackernoon.com/teaching-big-models-with-less-data-how-adapters-active-learning-win",
+            "urlToImage": "https://hackernoon.imgix.net/images/sinW25rWovdN38P2ArzdPSCP3hi1-zj0337w.jpeg",
+            "publishedAt": "2025-08-25 21:13:12"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "LIFAGU: Lifted Probabilistic Inference in Factor Graphs with Unknown Factors",
+            "url": "https://hackernoon.com/lifagu-lifted-probabilistic-inference-in-factor-graphs-with-unknown-factors",
+            "urlToImage": "https://hackernoon.imgix.net/images/sinW25rWovdN38P2ArzdPSCP3hi1-dt033ug.jpeg",
+            "publishedAt": "2025-08-25 20:55:57"
+        },
+        {
+            "source": {
+                "name": "insider"
+            },
+            "title": "The best Sony headphones of 2025",
+            "url": "https://www.businessinsider.com/guides/tech/best-sony-headphones",
+            "urlToImage": "https://i.insider.com/68376b56c6ad288d14821b38?format=jpeg",
+            "publishedAt": "2025-08-25 20:51:12"
+        },
+        {
+            "source": {
+                "name": "engadget"
+            },
+            "title": "Perplexity has cooked up a new way to pay publishers for their content",
+            "url": "https://www.engadget.com/ai/perplexity-has-cooked-up-a-new-way-to-pay-publishers-for-their-content-204255019.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?client=19f2b5e49a271b2bde77&image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fperplexity-comet-plus.jpeg&resize=1400%2C787&signature=5dd04ceafb377d0f7c7077637d933020867ecd0b",
+            "publishedAt": "2025-08-25 20:42:55"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Biocomputers Are the Next Tech Revolution You Can’t Ignore",
+            "url": "https://www.analyticsinsight.net/tech-news/biocomputers-are-the-next-tech-revolution-you-cant-ignore",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-08-25%2Fg8bcz9pb%2FBiocomputers-Are-the-Next-Tech-Revolution-You-Can%E2%80%99t-Ignore.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-08-25 20:30:00"
         },
         {
             "source": {
@@ -3057,123 +3195,6 @@
             "url": "https://www.webpronews.com/ai-vibe-coding-revolutionizes-software-for-non-experts/",
             "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-dce33078-4ab6-471d-b793-c1cb83ebee32.jpeg?fit=720%2C960&ssl=1",
             "publishedAt": "2025-08-24 11:46:35"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Elon Musk’s xAI Open-Sources Grok 2.5 AI Model on Hugging Face",
-            "url": "https://www.webpronews.com/elon-musks-xai-open-sources-grok-2-5-ai-model-on-hugging-face/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-737c1fed-530c-4718-8734-c578910556dd.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-08-24 11:42:21"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "How to Capture WPA Handshakes with Raspberry Pi and Aircrack-ng",
-            "url": "https://hackernoon.com/how-to-capture-wpa-handshakes-with-raspberry-pi-and-aircrack-ng",
-            "urlToImage": "https://hackernoon.imgix.net/images/na1LA50pIxdXCxwaer7ISkWR5q52-bl03k8i.png",
-            "publishedAt": "2025-08-24 11:41:32"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "UK Targets £1 Trillion Digital Economy with AI and Quantum Push",
-            "url": "https://www.webpronews.com/uk-targets-1-trillion-digital-economy-with-ai-and-quantum-push/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-a5b7d6c3-924b-49ba-943a-b2cd643df787.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-08-24 11:39:46"
-        },
-        {
-            "source": {
-                "name": "wired"
-            },
-            "title": "The Hidden Ingredients Behind AI’s Creativity",
-            "url": "https://www.wired.com/story/researchers-uncover-hidden-ingredients-behind-ai-creativity/",
-            "urlToImage": "https://media.wired.com/photos/68a592aa2813b477fc9a5edc/3:4/w_120,c_limit/TheoryofCreativity-crAdrianAstorgano-Lede.jpeg",
-            "publishedAt": "2025-08-24 11:00:00"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "I tested ChatGPT-5 against Claude Sonnet 4 in Coding tasks — and there’s a clear winner",
-            "url": "https://www.tomsguide.com/ai/i-tested-chatgpt-5-against-claude-sonnet-4-in-coding-tasks-and-theres-a-clear-winner",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/fnDd8msJ6V8XNEFRKZUPP4-1280-80.jpg",
-            "publishedAt": "2025-08-24 11:00:00"
-        },
-        {
-            "source": {
-                "name": "cnet"
-            },
-            "title": "Smart Display Buying Guide: How to Pick the Best Display for Your Life",
-            "url": "https://www.cnet.com/home/smart-home/smart-display-buying-guide-heres-how-to-pick-the-best-display-for-you/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/14d42988eb9d2294c74ce7429af302f2360c7c0e/hub/2025/05/20/4148e580-06a7-436b-a9cd-120c64589147/echo-show-8-timers.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-08-24 11:00:00"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Best Bitcoin Casinos in the EU for 2025",
-            "url": "https://www.analyticsinsight.net/bitcoin-casino/best-bitcoin-casinos-in-the-eu-for-2025",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-08-24%2F30ju2adr%2FBest-Bitcoin-Casinos-in-the-EU-for-2025.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-08-24 10:30:00"
-        },
-        {
-            "source": {
-                "name": "slashgear"
-            },
-            "title": "How To Enable Google Chrome's Dark Mode On Your Computer & Mobile Devices",
-            "url": "https://www.slashgear.com/1944582/how-to-use-google-chrome-dark-mode-on-pc-mac-iphone-android/",
-            "urlToImage": "https://www.slashgear.com/img/gallery/how-to-enable-google-chromes-dark-mode-on-your-computer-mobile-devices/l-intro-1755625209.jpg",
-            "publishedAt": "2025-08-24 09:45:00"
-        },
-        {
-            "source": {
-                "name": "slate_usa"
-            },
-            "title": "Trump Vs. Cancer Research",
-            "url": "https://slate.com/podcasts/what-next-tbd/2025/08/how-the-trump-administration-went-pro-cancer?via=rss",
-            "urlToImage": "https://compote.slate.com/images/c882c3f6-c0b9-4e51-9c92-f5779f6f1a55.jpeg?crop=4500%2C3000%2Cx0%2Cy0",
-            "publishedAt": "2025-08-24 09:30:00"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Top 10 GitHub Repositories to Learn Backend Development in 2025",
-            "url": "https://www.analyticsinsight.net/programming/top-10-github-repositories-to-learn-backend-development-in-2025",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-08-24%2F6w5bgbo9%2FTop-10-GitHub-Repositories-to-Learn-Backend-Development-in-2025.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-08-24 09:30:00"
-        },
-        {
-            "source": {
-                "name": "livescience"
-            },
-            "title": "China is dunking data centers into the ocean to keep them cool",
-            "url": "https://www.livescience.com/technology/china-is-dunking-data-centers-into-the-ocean-to-keep-them-cool",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/ctBjaKPynfZmcdnnEkvrDj-1280-80.jpg",
-            "publishedAt": "2025-08-24 09:00:00"
-        },
-        {
-            "source": {
-                "name": "interestingengineering"
-            },
-            "title": "US scientists decode diamond fusion fuel capsules’ flaws to maximize energy output",
-            "url": "https://interestingengineering.com/energy/us-decodes-diamond-fusion-fuel",
-            "urlToImage": "https://cms.interestingengineering.com/wp-content/uploads/2025/08/NIF-Chamber.jpg",
-            "publishedAt": "2025-08-24 08:23:23"
-        },
-        {
-            "source": {
-                "name": "pcworld_us"
-            },
-            "title": "This $55 Microsoft Office lifetime license comes with Windows 11 Pro",
-            "url": "https://www.pcworld.com/article/2884532/this-55-microsoft-office-lifetime-license-comes-with-windows-11-pro.html",
-            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/08/mso-x-win-11-pro.jpg?quality=50&strip=all",
-            "publishedAt": "2025-08-24 08:00:00"
         }
     ]
 }
