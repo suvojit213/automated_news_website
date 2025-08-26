@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-08-26T01:13:29.159336Z",
+    "lastUpdatedAt": "2025-08-26T03:06:02.919754Z",
     "articles": [
+        {
+            "source": {
+                "id": "6fea3ee012f060c6309366516e8d00be",
+                "name": "News-Medical.net",
+                "url": "https://www.news-medical.net",
+                "country": "gb"
+            },
+            "title": "Generative AI model scans emergency notes to identify high-risk avian influenza exposures",
+            "url": "https://www.news-medical.net/news/20250825/Generative-AI-model-scans-emergency-notes-to-identify-high-risk-avian-influenza-exposures.aspx",
+            "urlToImage": "https://www.news-medical.net/image-handler/picture/2014/7/pigeons-620x480.jpg",
+            "publishedAt": "2025-08-26T02:37:00Z"
+        },
+        {
+            "source": {
+                "id": "91120a92e0d24e24fbffb6d0affabfe6",
+                "name": "Bangkok Post",
+                "url": "https://www.bangkokpost.com",
+                "country": "th"
+            },
+            "title": "Malaysia unveils first AI device chip to join global race",
+            "url": "https://www.bangkokpost.com/business/general/3093233/malaysia-unveils-first-ai-device-chip-to-join-global-race",
+            "urlToImage": "https://static.bangkokpost.com/media/content/20250826/c1_3093233_250826093207_700.jpg",
+            "publishedAt": "2025-08-26T02:31:00Z"
+        },
+        {
+            "source": {
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
+                "country": "us"
+            },
+            "title": "Google AI system promotes outlandish fake overview of Jeff Bezos mom's funeral: report",
+            "url": "https://nypost.com/2025/08/25/us-news/google-ai-system-promotes-outlandish-fake-overview-of-jeff-bezos-moms-funeral-report/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/08/bezos-comp.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2025-08-26T02:25:48Z"
+        },
         {
             "source": {
                 "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
@@ -12,6 +48,18 @@
             "url": "https://www.devdiscourse.com/article/technology/3603191-nevada-faces-tech-turmoil-post-network-security-incident",
             "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/21_07_2025_16_19_46_1878041.png?width=920&format=jpeg",
             "publishedAt": "2025-08-26T01:04:01Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "IT expands Australia, Middle East, Nordic revenue streams to cut US drama",
+            "url": "https://economictimes.indiatimes.com/tech/information-tech/it-expands-oz-middle-east-nordic-revenue-streams-to-cut-us-drama/articleshow/123511887.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-34872,resizemode-75,msid-123511887/tech/information-tech/it-expands-oz-middle-east-nordic-revenue-streams-to-cut-us-drama.jpg",
+            "publishedAt": "2025-08-26T00:30:00Z"
         },
         {
             "source": {
@@ -1236,6 +1284,78 @@
             "url": "https://www.sciencedaily.com/releases/2025/08/250809100914.htm",
             "urlToImage": "https://www.sciencedaily.com/images/1920/canadian-arctic-glacial-erosion.webp",
             "publishedAt": "2025-08-25T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "executivebiz"
+            },
+            "title": "Carahsoft’s Maryam Emdadi Sees Hardware as a Frontline Strategy",
+            "url": "https://www.executivebiz.com/articles/maryam-emdadi-carahsoft-interview-hardware-ai",
+            "urlToImage": "https://www.executivebiz.com/wp-content/uploads/2025/08/maryam-emdadi-vp-of-sales-carahsoft.jpg",
+            "publishedAt": "2025-08-25 15:00:42"
+        },
+        {
+            "source": {
+                "name": "pcworld_us"
+            },
+            "title": "Trend Micro Maximum Security review: Better alternatives exist",
+            "url": "https://www.pcworld.com/article/402063/trend-micro-maximum-security-antivirus-review.html",
+            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/08/IMG_3836-crx.jpg?quality=50&strip=all",
+            "publishedAt": "2025-08-25 15:00:00"
+        },
+        {
+            "source": {
+                "name": "freepressjournal"
+            },
+            "title": "Next-Gen SaaS Architectures Harness AI To Deliver Smarter, More Efficient Cloud Solutions",
+            "url": "https://www.freepressjournal.in/latest-news/next-gen-saas-architectures-harness-ai-to-deliver-smarter-more-efficient-cloud-solutions",
+            "urlToImage": "https://media.assettype.com/freepressjournal/2025-08-25/d9ag9xm7/Copy-of-Queen-Of-All-Mayhem-12.jpg?width=1200",
+            "publishedAt": "2025-08-25 14:59:50"
+        },
+        {
+            "source": {
+                "name": "benzinga"
+            },
+            "title": "Supermicro, Lambda Expand AI Infrastructure With Nvidia Blackwell-Powered Servers",
+            "url": "https://www.benzinga.com/markets/tech/25/08/47309490/supermicro-lambda-expand-ai-infrastructure-with-nvidia-blackwell-powered-servers",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/08/25/Supermicro-Sign-At-Headquarters-In-San-J.jpeg?auto=jpg&dpr=1&fit=crop&height=480&optimize=medium&width=720",
+            "publishedAt": "2025-08-25 14:19:25"
+        },
+        {
+            "source": {
+                "name": "cornelledu"
+            },
+            "title": "High achievers more likely to bolt when top rankings are restricted",
+            "url": "https://news.cornell.edu/stories/2025/08/high-achievers-more-likely-bolt-when-top-rankings-are-restricted",
+            "urlToImage": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_home/public/2025-08/0825_curve_tnd.jpg?itok=3IDeI7tV",
+            "publishedAt": "2025-08-25 14:08:52"
+        },
+        {
+            "source": {
+                "name": "republicworld"
+            },
+            "title": "Samsung Galaxy Tab S10 Lite Launched With Optional 5G, 8000mAh Battery",
+            "url": "https://www.republicworld.com/tech/samsung-galaxy-tab-s10-lite-launched-with-optional-5g-8000mah-battery",
+            "urlToImage": "https://img.republicworld.com/all_images/samsung-galaxy-tab-s10-lite-1756130241306-16_9.webp?format=webp&h=720&q=100&w=1280",
+            "publishedAt": "2025-08-25 13:57:30"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "Your TV's USB port has 5 hidden superpowers: Here's how I take advantage of mine",
+            "url": "https://www.zdnet.com/article/your-tvs-usb-port-has-5-hidden-superpowers-heres-how-i-take-advantage-of-mine/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/bc940958b900c076ff71fdee5edf400eba8c79f4/2025/08/25/5b1ea486-9a28-41ac-a96c-aebf7fa2a448/dsc07026.jpg?auto=webp&width=1280",
+            "publishedAt": "2025-08-25 13:56:00"
+        },
+        {
+            "source": {
+                "name": "techradar"
+            },
+            "title": "This Samsung Galaxy Chromebook Plus is an excellent laptop for students - get $150 off in the Labor Day sales",
+            "url": "https://www.techradar.com/computing/chromebooks/this-samsung-galaxy-chromebook-plus-is-an-excellent-laptop-for-students-get-usd150-off-in-the-best-buy-labor-day-sale",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/L2NV3uFi4XPurwjXExiQZ4.jpg",
+            "publishedAt": "2025-08-25 13:38:00"
         },
         {
             "source": {
@@ -3096,114 +3216,6 @@
             "url": "https://www.xda-developers.com/ways-i-combined-my-old-gpu-with-my-home-server/",
             "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2024/08/gpu-passthough-proxmox.jpg",
             "publishedAt": "2025-08-23 19:00:19"
-        },
-        {
-            "source": {
-                "name": "benzinga"
-            },
-            "title": "Elon Musk's xAI To Simulate Software Giants Like Microsoft, Calling It 'Macrohard'",
-            "url": "https://www.benzinga.com/markets/tech/25/08/47298112/elon-musks-xai-to-simulate-software-giants-like-microsoft-calling-it-macrohard",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/08/23/In-This-Photo-Illustration--The-Xai-Logo.jpeg?auto=jpg&dpr=1&fit=crop&height=480&optimize=medium&width=720",
-            "publishedAt": "2025-08-23 18:46:23"
-        },
-        {
-            "source": {
-                "name": "pcgamer"
-            },
-            "title": "Chicago man sues Home Depot, alleging it's secretly using AI facial recognition at self-checkout",
-            "url": "https://www.pcgamer.com/software/ai/chicago-man-sues-home-depot-alleging-its-secretly-using-ai-facial-recognition-at-self-checkout/",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/uhCgoU847LsYr8VPuoSiRb-1280-80.jpg",
-            "publishedAt": "2025-08-23 18:44:57"
-        },
-        {
-            "source": {
-                "name": "economictimes_indiatimes"
-            },
-            "title": "Gen Z & Gen Alpha need subtitles for parents? Decoding ancient slang",
-            "url": "http://economictimes.indiatimes.com/news/india/gen-z-gen-alpha-need-subtitles-for-parents-decoding-ancient-slang/articleshow/123476139.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-123476399,width-300,height-225,imgsize-118324,resizemode-75/1.jpg",
-            "publishedAt": "2025-08-23 18:28:46"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "Over 16 million reportedly hit with PayPal data breach — what to do right now",
-            "url": "https://www.tomsguide.com/computing/online-security/over-16-million-hit-with-paypal-data-breach-what-to-do-right-now",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/bPV4JgzM3hTRLEXQhfFURZ-1280-80.jpg",
-            "publishedAt": "2025-08-23 17:53:39"
-        },
-        {
-            "source": {
-                "name": "economictimes_indiatimes"
-            },
-            "title": "Silicon Valley is in its 'hard tech' era",
-            "url": "https://economictimes.indiatimes.com/tech/technology/silicon-valley-is-in-its-hard-tech-era/articleshow/123475117.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-217758,resizemode-75,msid-123475117/tech/technology/silicon-valley-is-in-its-hard-tech-era.jpg",
-            "publishedAt": "2025-08-23 17:38:53"
-        },
-        {
-            "source": {
-                "name": "xda_developers"
-            },
-            "title": "I built a portable Windows 11 install on an external SSD, and you can do it too",
-            "url": "https://www.xda-developers.com/built-portable-windows-11-install-external-ssd/",
-            "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2025/08/windows-to-go-1.jpg",
-            "publishedAt": "2025-08-23 17:30:18"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Elon Musk Announces Tesla Optimus Robots for 2025 Factory Use",
-            "url": "https://www.webpronews.com/elon-musk-announces-tesla-optimus-robots-for-2025-factory-use/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-938e643f-96e7-48c8-a4d6-2fc0b458ebae.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-08-23 16:46:31"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Testing Large Language Models on Math Puzzles",
-            "url": "https://hackernoon.com/testing-large-language-models-on-math-puzzles",
-            "urlToImage": "https://hackernoon.imgix.net/images/5wpKgV75aONqkTJlafw2yQmK9yd2-4f039ve.png",
-            "publishedAt": "2025-08-23 16:36:06"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Evaluating Fine-Tuned LLMs on Reasoning Puzzles",
-            "url": "https://hackernoon.com/evaluating-fine-tuned-llms-on-reasoning-puzzles",
-            "urlToImage": "https://hackernoon.imgix.net/images/5wpKgV75aONqkTJlafw2yQmK9yd2-g103ab1.png",
-            "publishedAt": "2025-08-23 16:36:00"
-        },
-        {
-            "source": {
-                "name": "futurism"
-            },
-            "title": "Using AI for Work Could Land You on the Receiving End of a Nasty Lawsuit",
-            "url": "https://futurism.com/ai-work-copyright-lawsuit",
-            "urlToImage": "https://wordpress-assets.futurism.com/2025/08/ai-work-copyright-lawsuit.jpg",
-            "publishedAt": "2025-08-23 16:00:28"
-        },
-        {
-            "source": {
-                "name": "cnet"
-            },
-            "title": "OLED Burn-In: What You Need to Know for TVs, Phones and More",
-            "url": "https://www.cnet.com/tech/home-entertainment/oled-burn-in-what-you-need-to-know-for-tvs-phones-and-more/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/3861de5f129a6928880245a9a0628cf12762b713/hub/2021/08/25/bd019f1d-a771-4ee3-9dc0-936976bb7a32/lg-c1-oled-tv-cnet-review-2021-26.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-08-23 15:23:56"
-        },
-        {
-            "source": {
-                "name": "interestingengineering"
-            },
-            "title": "Elon Musk unveils Macrohard AI project that could ‘simulate Microsoft’s entire operations’",
-            "url": "https://interestingengineering.com/innovation/elon-musk-unveils-macrohard-ai-company",
-            "urlToImage": "https://cms.interestingengineering.com/wp-content/uploads/2025/08/Musk-macrohard.jpg",
-            "publishedAt": "2025-08-23 14:55:14"
         }
     ]
 }
