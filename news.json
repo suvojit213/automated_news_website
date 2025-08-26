@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-08-26T09:17:05.839303Z",
+    "lastUpdatedAt": "2025-08-26T10:16:37.231500Z",
     "articles": [
+        {
+            "source": {
+                "id": "5b07f2eba74fc799fd5d1ee46c5bafc3",
+                "name": "Newsweek",
+                "url": "https://www.newsweek.com",
+                "country": "us"
+            },
+            "title": "Where Are the Moral Guardrails on Artificial Intelligence? | Opinion",
+            "url": "https://www.newsweek.com/where-are-moral-guardrails-artificial-intelligence-opinion-2117164",
+            "urlToImage": "https://d.newsweek.com/en/full/2709264/boy-using-phone.jpg",
+            "publishedAt": "2025-08-26T10:00:01Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "2025 AI Fest highlights future growth prospects for PH",
+            "url": "https://www.manilatimes.net/2025/08/26/tmt-newswire/2025-ai-fest-highlights-future-growth-prospects-for-ph/2173689",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/26/726067.jpg",
+            "publishedAt": "2025-08-26T09:27:00Z"
+        },
         {
             "source": {
                 "id": "d6397b77175680e2678c0d60edcee7af",
@@ -1563,6 +1587,87 @@
         },
         {
             "source": {
+                "name": "webpronews"
+            },
+            "title": "AI Evolves: Bridging Text to Interactive Visual Interfaces by 2026",
+            "url": "https://www.webpronews.com/ai-evolves-bridging-text-to-interactive-visual-interfaces-by-2026/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-0b9f6d1d-15e3-4ff3-88dd-1c895abc8d00.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-08-25 22:10:00"
+        },
+        {
+            "source": {
+                "name": "toi"
+            },
+            "title": "Cabinet nod to electronics component manufacturing, IT policies",
+            "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/cabinet-nod-to-electronics-component-manufacturing-it-policies/articleshow/123510647.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-123510640,width-1070,height-580,imgsize-41852,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-08-25 22:05:51"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Distributed Request Assignment with Max‐Min and Deviation Fairness in On‐Demand Mobility",
+            "url": "https://hackernoon.com/distributed-request-assignment-with-maxmin-and-deviation-fairness-in-ondemand-mobility",
+            "urlToImage": "https://hackernoon.imgix.net/images/sinW25rWovdN38P2ArzdPSCP3hi1-6k0336u.png",
+            "publishedAt": "2025-08-25 21:41:08"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Fair and Distributed Vehicle‐Request Assignment Using Auctions and Rebalancing in Mobility‐On‐Demand",
+            "url": "https://hackernoon.com/fair-and-distributed-vehiclerequest-assignment-using-auctions-and-rebalancing-in-mobilityondemand",
+            "urlToImage": "https://hackernoon.imgix.net/images/sinW25rWovdN38P2ArzdPSCP3hi1-os033uy.png",
+            "publishedAt": "2025-08-25 21:37:06"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "7 AI features the iPhone 17 needs to keep up with Google, OpenAI, and others",
+            "url": "https://www.zdnet.com/article/7-ai-features-the-iphone-17-needs-to-keep-up-with-google-openai-and-others/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/35bc4a7120570ad0fde8ebd21831710df44d26fd/2025/08/25/d5788176-3933-4c95-87e4-63c4b80d1b75/dsc06529.jpg?auto=webp&width=1280",
+            "publishedAt": "2025-08-25 21:28:47"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "7 AI features the iPhone 17 needs to embrace from Google, OpenAI, and others",
+            "url": "https://www.zdnet.com/article/7-ai-features-the-iphone-17-needs-to-embrace-from-google-openai-and-others/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/35bc4a7120570ad0fde8ebd21831710df44d26fd/2025/08/25/d5788176-3933-4c95-87e4-63c4b80d1b75/dsc06529.jpg?auto=webp&width=1280",
+            "publishedAt": "2025-08-25 21:28:00"
+        },
+        {
+            "source": {
+                "name": "siliconangle"
+            },
+            "title": "Understanding the pivotal role of Nvidia Spectrum-XGS Ethernet in the rollout of AI",
+            "url": "https://siliconangle.com/2025/08/25/understanding-pivotal-role-nvidia-spectrum-xgs-ethernet-rollout-ai/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/08/spectrum-xgs.png",
+            "publishedAt": "2025-08-25 21:23:51"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Why PEFT Beats FFT in Active Learning: Forgetting Dynamics and Stable Representations",
+            "url": "https://hackernoon.com/why-peft-beats-fft-in-active-learning-forgetting-dynamics-and-stable-representations",
+            "urlToImage": "https://hackernoon.imgix.net/images/sinW25rWovdN38P2ArzdPSCP3hi1-9j033md.jpeg",
+            "publishedAt": "2025-08-25 21:22:22"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Who Learns Faster With Less Data? Adapters Beat Full Fine‐Tuning",
+            "url": "https://hackernoon.com/who-learns-faster-with-less-data-adapters-beat-full-finetuning",
+            "urlToImage": "https://hackernoon.imgix.net/images/sinW25rWovdN38P2ArzdPSCP3hi1-gq03246.jpeg",
+            "publishedAt": "2025-08-25 21:17:07"
+        },
+        {
+            "source": {
                 "name": "engadget"
             },
             "title": "The iPhone 17 event is likely in September: What to expect from Apple's upcoming launch",
@@ -3096,105 +3201,6 @@
             "url": "https://www.cnet.com/tech/mobile/say-goodbye-to-awful-cell-signal-with-these-10-simple-fixes/",
             "urlToImage": "https://www.cnet.com/a/img/resize/249013ee2179b0dc69894371e52a30fb2cd7b19e/hub/2023/08/29/cd6b0f36-3a84-497d-833e-598800a9f60b/cell-phone-searching-gettyimages-506923021.jpg?auto=webp&fit=crop&height=675&width=1200",
             "publishedAt": "2025-08-24 15:00:03"
-        },
-        {
-            "source": {
-                "name": "9to5mac"
-            },
-            "title": "These are the Apple products that students should start with – Back to School Guide",
-            "url": "https://9to5mac.com/2025/08/24/apple-product-back-to-school-guide-for-students-2025-ipad-macbook/",
-            "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/Apple-back-to-school-2.jpg?quality=82&strip=all&w=1600",
-            "publishedAt": "2025-08-24 14:50:30"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Huawei to Train 30,000 Malaysians in AI for ASEAN Hub Leadership",
-            "url": "https://www.webpronews.com/huawei-to-train-30000-malaysians-in-ai-for-asean-hub-leadership/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-ddc0444c-6a4f-48f2-be39-127c4fa04c8c.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-08-24 14:42:24"
-        },
-        {
-            "source": {
-                "name": "thelincolnianonline"
-            },
-            "title": "Robotics Stocks To Research – August 23rd",
-            "url": "https://www.thelincolnianonline.com/2025/08/24/robotics-stocks-to-research-august-23rd.html",
-            "urlToImage": "https://www.marketbeat.com/logos/nvidia-co-logo-1200x675.jpg?v=20221020142916",
-            "publishedAt": "2025-08-24 14:10:30"
-        },
-        {
-            "source": {
-                "name": "economictimes_indiatimes"
-            },
-            "title": "Kerala launches Information and Communications Technology textbooks for schools",
-            "url": "https://economictimes.indiatimes.com/news/india/kerala-launches-information-and-communications-technology-textbooks-for-schools/articleshow/123485016.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-123485035,width-300,height-225,imgsize-45392,resizemode-75/books.jpg",
-            "publishedAt": "2025-08-24 13:49:11"
-        },
-        {
-            "source": {
-                "name": "geeky_gadgets"
-            },
-            "title": "Every M5 Mac Mini Leak You Need to Know",
-            "url": "https://www.geeky-gadgets.com/m5-mac-mini-2/",
-            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/08/apple-m5-pro-mac-mini-performance-specs.webp",
-            "publishedAt": "2025-08-24 13:00:02"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "10 Must-Grab Tech Deals You Can’t Miss This Weekend",
-            "url": "https://www.analyticsinsight.net/deals/10-must-grab-tech-deals-you-cant-miss-this-weekend",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-08-24%2Fa30kwrbg%2F10-Must-Grab-Tech-Deals-You-Can%E2%80%99t-Miss-This-Weekend-.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-08-24 12:30:00"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Google Pixel 10 Pro XL’s Exclusive AI 100x Zoom Revolutionizes Photography",
-            "url": "https://www.webpronews.com/google-pixel-10-pro-xls-exclusive-ai-100x-zoom-revolutionizes-photography/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-50742067-5272-413a-9bf9-b06e61bc58f6.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-08-24 12:00:00"
-        },
-        {
-            "source": {
-                "name": "yahoo"
-            },
-            "title": "Climate models reveal how human activity may be locking the American Southwest into permanent drought",
-            "url": "https://www.yahoo.com/news/articles/climate-models-reveal-human-activity-120000471.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/00vbl_0Y4DROm5CktKa2mQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MDtjZj13ZWJw/https://media.zenfs.com/en/space_311/f07a3a97a46fe22d9cb0c45cf352cdc9",
-            "publishedAt": "2025-08-24 12:00:00"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "AI Experts Pivot to Engineering AGI Beyond Scaling LLMs",
-            "url": "https://www.webpronews.com/ai-experts-pivot-to-engineering-agi-beyond-scaling-llms/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-c7853db2-392b-4580-bc09-3e16bedbb8fe.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-08-24 11:51:04"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "August 2025 AI Surge: GPT-5 Drives 30% Productivity Boost and Ethical Debates",
-            "url": "https://www.webpronews.com/august-2025-ai-surge-gpt-5-drives-30-productivity-boost-and-ethical-debates/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-609e45a5-b122-421a-8d35-1dfc6bb869e6.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-08-24 11:49:40"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "AI Vibe-Coding Revolutionizes Software for Non-Experts",
-            "url": "https://www.webpronews.com/ai-vibe-coding-revolutionizes-software-for-non-experts/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-dce33078-4ab6-471d-b793-c1cb83ebee32.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-08-24 11:46:35"
         }
     ]
 }
