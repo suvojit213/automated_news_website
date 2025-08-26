@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-08-26T22:14:05.471262Z",
+    "lastUpdatedAt": "2025-08-26T23:13:34.522096Z",
     "articles": [
+        {
+            "source": {
+                "id": "79baacd62152cf257ee35e8c0bec19a2",
+                "name": "UPI News",
+                "url": "https://www.upi.com",
+                "country": "us"
+            },
+            "title": "United States, South Korea, Japan address North Korean IT threats",
+            "url": "https://www.upi.com/Top_News/World-News/2025/08/26/japan-tokyo-north-korea-tech-scheme/4531756242643/",
+            "urlToImage": "https://cdnph.upi.com/sv/ph/og/upi_com/4531756242643/2025/1/17b2d4d97e8daae48e8cf3913451d0a8/v1.5/United-States-South-Korea-Japan-address-North-Korean-IT-threats.jpg",
+            "publishedAt": "2025-08-26T22:16:45Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Okta raises annual forecasts on surging cybersecurity tools demand",
+            "url": "https://www.reuters.com/business/okta-raises-annual-forecasts-surging-cybersecurity-tools-demand-2025-08-26/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/QIKYZPRZM5ORJKCZKMUMPOU3NU.jpg?auth=13d34fe84e589077745e36997527e178b7530b605d00eee2ea3d68ffb87caf4b&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-08-26T22:01:50Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -24,6 +48,18 @@
             "url": "https://www.msnbc.com/top-stories/latest/melania-trump-ai-challenge-artificial-intelligence-rcna227332",
             "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-05/250527-melania-trump-vl-216p-da87df.jpg",
             "publishedAt": "2025-08-26T21:46:22Z"
+        },
+        {
+            "source": {
+                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
+                "name": "WTOP",
+                "url": "https://wtop.com",
+                "country": "us"
+            },
+            "title": "Book authors settle copyright lawsuit with AI company Anthropic",
+            "url": "https://wtop.com/national/2025/08/book-authors-settle-copyright-lawsuit-with-ai-company-anthropic/",
+            "urlToImage": "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png",
+            "publishedAt": "2025-08-26T21:44:26Z"
         },
         {
             "source": {
@@ -1368,6 +1404,69 @@
             "url": "https://www.globenewswire.com/news-release/2025/08/26/3139409/0/en/From-Human-to-Cyborg-Cybersecurity-Visionary-Len-Noe-Unveils-Explosive-Documentary-I-Am-Machine-at-Hacker-Halted.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/9b3db11b-3408-4b15-86d6-d79e50a38cf8",
             "publishedAt": "2025-08-26T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "crunchbase"
+            },
+            "title": "Global Investor Jeremy Kranz On Why Not ‘Everything Important Happens In Silicon Valley’",
+            "url": "https://news.crunchbase.com/venture/global-investor-ipo-ai-qa-kranz-sentinel/",
+            "urlToImage": "https://news.crunchbase.com/wp-content/uploads/2021/02/California_.jpg",
+            "publishedAt": "2025-08-26 11:00:42"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "How to Become a Vibe Coder — And Why AI Makes App-Building Effortless",
+            "url": "https://www.tomsguide.com/ai/how-to-become-a-vibe-coder-and-why-ai-makes-app-building-effortless",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/eYzwtTSN8H9ToHX24jSQk4-1280-80.jpg",
+            "publishedAt": "2025-08-26 11:00:00"
+        },
+        {
+            "source": {
+                "name": "expresscomputer"
+            },
+            "title": "Capgemini to acquire Cloud4C, a leader in hybrid cloud platform services",
+            "url": "https://www.expresscomputer.in/news/capgemini-to-acquire-cloud4c-a-leader-in-hybrid-cloud-platform-services/127362/",
+            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2024/03/07180448/cloud-storage-background-business-network-design.jpg",
+            "publishedAt": "2025-08-26 10:50:53"
+        },
+        {
+            "source": {
+                "name": "techtarget"
+            },
+            "title": "5 top RAG tools for 2025",
+            "url": "https://www.techtarget.com/searchenterpriseai/tip/Top-RAG-tools",
+            "urlToImage": "https://www.techtarget.com/rms/onlineimages/ai_a373894778_searchsitetablet_520X173.jpg",
+            "publishedAt": "2025-08-26 10:49:00"
+        },
+        {
+            "source": {
+                "name": "biztoc"
+            },
+            "title": "IBM, AMD to collaborate on advancing quantum computing",
+            "url": "https://biztoc.com/x/ad93c4e878818807",
+            "urlToImage": "https://cdn.biztoc.com/ad93c4e878818807_sq.webp",
+            "publishedAt": "2025-08-26 10:22:32"
+        },
+        {
+            "source": {
+                "name": "idahostatejournal"
+            },
+            "title": "IBM and AMD Join Forces to Build the Future of Computing",
+            "url": "https://www.idahostatejournal.com/news/world/ibm-and-amd-join-forces-to-build-the-future-of-computing/article_825846c9-3e67-5c71-8258-f354a292a223.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/idahostatejournal.com/content/tncms/custom/image/56160baa-4c99-11ec-a31e-772e86e7ecb8.png?resize=200%2C46",
+            "publishedAt": "2025-08-26 10:21:02"
+        },
+        {
+            "source": {
+                "name": "itemonline"
+            },
+            "title": "IBM and AMD Join Forces to Build the Future of Computing",
+            "url": "https://www.itemonline.com/ibm-and-amd-join-forces-to-build-the-future-of-computing/article_542445ae-22a2-544b-b6c7-da0c3b5e322c.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/itemonline.com/content/tncms/custom/image/74248f22-9c68-11eb-b607-d7425f55e6b5.jpg?resize=600%2C180",
+            "publishedAt": "2025-08-26 10:21:02"
         },
         {
             "source": {
@@ -3261,96 +3360,6 @@
             "url": "https://biztoc.com/x/e9f108012070f80f",
             "urlToImage": "https://cdn.biztoc.com/e9f108012070f80f_sq.webp",
             "publishedAt": "2025-08-25 17:42:40"
-        },
-        {
-            "source": {
-                "name": "biztoc"
-            },
-            "title": "NuScale Power Corporation (SMR) Is A Nuclear Power Stock That Jim Cramer Was Wrong About",
-            "url": "https://biztoc.com/x/3fac45038b654034",
-            "urlToImage": "https://cdn.biztoc.com/3fac45038b654034_sq.webp",
-            "publishedAt": "2025-08-25 17:42:34"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Meta Inks $10B Google Cloud Deal to Boost AI Infrastructure",
-            "url": "https://www.webpronews.com/meta-inks-10b-google-cloud-deal-to-boost-ai-infrastructure/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-9f341370-2ea0-4fca-9097-4d096c4d5fb2.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-08-25 17:40:46"
-        },
-        {
-            "source": {
-                "name": "biztoc"
-            },
-            "title": "NVIDIA Blackwell-Powered Jetson Thor Now Available, Accelerating the Age of General Robotics",
-            "url": "https://biztoc.com/x/bae910f63b62e050",
-            "urlToImage": "https://cdn.biztoc.com/bae910f63b62e050_sq.webp",
-            "publishedAt": "2025-08-25 16:45:28"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "xAI Open-Sources Grok 2.5 Model Weights on Hugging Face",
-            "url": "https://www.webpronews.com/xai-open-sources-grok-2-5-model-weights-on-hugging-face/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-33ef3347-854d-42e5-b44f-8d86a5353fd3.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-08-25 16:20:00"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "Norton VPN features explained: AI-powered protection, Dark web monitoring, IP Rotation and more",
-            "url": "https://www.tomsguide.com/computing/vpns/norton-vpn-features-explained",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/cuMChGWk7btbZrCDPCAH3i-1280-80.jpg",
-            "publishedAt": "2025-08-25 16:12:23"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "Score! Save $200 with this Early Labor Day RTX 5070 Ti Gaming Laptop Deal",
-            "url": "https://www.tomsguide.com/computing/gaming-laptops/score-save-usd200-with-this-early-labor-day-rtx-5070-ti-gaming-laptop-deal",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/iXCWJknBzhWmNwsfNrLwLd-1280-80.jpg",
-            "publishedAt": "2025-08-25 16:10:26"
-        },
-        {
-            "source": {
-                "name": "newscientist"
-            },
-            "title": "We will soon be able to talk with other species. Which will be first?",
-            "url": "https://www.newscientist.com/article/2492442-we-will-soon-be-able-to-talk-with-other-species-which-will-be-first/",
-            "urlToImage": "https://images.newscientist.com/wp-content/uploads/2025/08/13164339/SEI_261996433.jpg",
-            "publishedAt": "2025-08-25 16:00:49"
-        },
-        {
-            "source": {
-                "name": "pcworld_us"
-            },
-            "title": "Best VPN services: 8 top picks for every VPN need",
-            "url": "https://www.pcworld.com/article/406870/best-vpn-services-2.html",
-            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/08/nordvpn-inspiron-5441-5.jpg?quality=50&strip=all",
-            "publishedAt": "2025-08-25 16:00:00"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "How a Meta partnership with Midjourney could inject more AI into future products",
-            "url": "https://www.zdnet.com/article/how-a-meta-partnership-with-midjourney-could-inject-more-ai-into-future-products/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/da8ec0c4ca156adab2ba709c529419190bfd218b/2025/04/29/7c2d0772-8abb-4baf-b9b4-3b34bc9c853f/screenshot-2025-04-29-at-6-47-30pm.png?auto=webp&precrop=916%2C514%2Cx69%2Cy33&width=1280",
-            "publishedAt": "2025-08-25 15:46:00"
-        },
-        {
-            "source": {
-                "name": "dailycamera"
-            },
-            "title": "Exploit Boulder’s quantum advantage, execs told",
-            "url": "https://www.dailycamera.com/2025/08/25/exploit-boulders-quantum-advantage-execs-told/",
-            "urlToImage": "https://www.dailycamera.com/wp-content/uploads/2025/08/DCC-L-BW-Quantum-roundtable.jpg?strip=all&w=1400px",
-            "publishedAt": "2025-08-25 15:44:15"
         }
     ]
 }
