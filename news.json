@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-08-26T23:13:34.522096Z",
+    "lastUpdatedAt": "2025-08-27T01:11:06.622095Z",
     "articles": [
+        {
+            "source": {
+                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+                "name": "The Australian Financial Review",
+                "url": "https://www.afr.com",
+                "country": "au"
+            },
+            "title": "OpenAI agrees to change ChatGPT after teenager’s suicide",
+            "url": "https://www.afr.com/world/north-america/openai-agrees-to-update-chatgpt-after-teenager-s-suicide-20250827-p5mq7x",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.2327%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_15/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/6ca2b0b4fb9ffe8b24183c01ebc89f05f0eeb5bc",
+            "publishedAt": "2025-08-27T00:34:38Z"
+        },
+        {
+            "source": {
+                "id": "10cbfb3760cfcdeb78c733c527f0e814",
+                "name": "iTWire",
+                "url": "https://itwire.com",
+                "country": "au"
+            },
+            "title": "SAS is training AI models to predict and prevent workplace injuries, says excited CTO Bryan Harris",
+            "url": "https://itwire.com/business-it-news/data/sas-is-training-ai-models-to-predict-and-prevent-workplace-injuries,-says-excited-cto-bryan-harris.html",
+            "urlToImage": "https://itwire.com/media/k2/items/cache/dedeba13cad0a731c9c26d1f0f3c11ca_XS.jpg",
+            "publishedAt": "2025-08-27T00:18:03Z"
+        },
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            },
+            "title": "Silicon Valley Pledges $200 Million to New Pro-A.I. Super PACs",
+            "url": "https://www.nytimes.com/2025/08/26/technology/silicon-valley-ai-super-pacs.html",
+            "urlToImage": "https://static01.nyt.com/images/2025/08/26/multimedia/26biz-ai-superpacs-hvjp/26biz-ai-superpacs-hvjp-facebookJumbo.jpg",
+            "publishedAt": "2025-08-26T22:54:32Z"
+        },
         {
             "source": {
                 "id": "79baacd62152cf257ee35e8c0bec19a2",
@@ -1404,6 +1440,33 @@
             "url": "https://www.globenewswire.com/news-release/2025/08/26/3139409/0/en/From-Human-to-Cyborg-Cybersecurity-Visionary-Len-Noe-Unveils-Explosive-Documentary-I-Am-Machine-at-Hacker-Halted.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/9b3db11b-3408-4b15-86d6-d79e50a38cf8",
             "publishedAt": "2025-08-26T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "AI, Quantum Computing, and Sustainable Tech: Business Trends and Challenges",
+            "url": "https://www.webpronews.com/ai-quantum-computing-and-sustainable-tech-business-trends-and-challenges/",
+            "urlToImage": "https://www.webpronews.com/ai-quantum-computing-and-sustainable-tech-business-trends-and-challenges/",
+            "publishedAt": "2025-08-26 13:04:26"
+        },
+        {
+            "source": {
+                "name": "sdxcentral"
+            },
+            "title": "Nvidia pushes mid-range RTX Pro servers as enterprise AI entry point",
+            "url": "https://www.sdxcentral.com/news/nvidia-pushes-mid-range-rtx-pro-servers-as-enterprise-ai-entry-point/",
+            "urlToImage": "https://media.datacenterdynamics.com/media/images/RTX_Pro_Server_Image.2e16d0ba.fill-1200x630.png",
+            "publishedAt": "2025-08-26 13:00:04"
+        },
+        {
+            "source": {
+                "name": "pcworld_us"
+            },
+            "title": "Level Lock Pro review: Brilliant design + Matter = best in class",
+            "url": "https://www.pcworld.com/article/2887364/level-lock-pro-review.html",
+            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/08/Level-Lock-Pro-installed.jpg?quality=50&strip=all",
+            "publishedAt": "2025-08-26 13:00:00"
         },
         {
             "source": {
@@ -3306,60 +3369,6 @@
             "url": "https://www.webpronews.com/silicon-valley-invests-100m-in-pacs-to-ease-2025-ai-regulations/",
             "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-f8fed73c-5718-4a15-923c-ec122280fedc.jpeg?fit=720%2C960&ssl=1",
             "publishedAt": "2025-08-25 18:13:51"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Startups Pioneer Photonic Chips to Cut AI Energy and Boost Speeds",
-            "url": "https://www.webpronews.com/startups-pioneer-photonic-chips-to-cut-ai-energy-and-boost-speeds/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-81a941e7-a6ed-4dc7-9535-1b020ebc647d.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-08-25 18:07:02"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "The Google Pixel 10 got a big audio upgrade, and not enough people are talking about it",
-            "url": "https://www.zdnet.com/article/the-google-pixel-10-got-a-big-audio-upgrade-and-not-enough-people-are-talking-about-it/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/1db48ebd1abc1d14e7ce49f6b013a164a837e309/2025/08/19/a9122419-b536-4a79-8d56-2145290e959b/made-by-google-pixel-event-2025-photo-21.jpg?auto=webp&width=1280",
-            "publishedAt": "2025-08-25 18:06:00"
-        },
-        {
-            "source": {
-                "name": "engadget"
-            },
-            "title": "NVIDIA releases the next generation of its cutting-edge 'robot brain'",
-            "url": "https://www.engadget.com/ai/nvidia-releases-the-next-generation-of-its-cutting-edge-robot-brain-180434373.html",
-            "urlToImage": "https://o.aolcdn.com/images/dims?client=19f2b5e49a271b2bde77&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-08%2Fe0b8be30-81db-11f0-a5fb-9c4f012bc4a9&resize=1400%2C743&signature=58fde1d8455d8a13d2ef3c00789b05ab8d942d96",
-            "publishedAt": "2025-08-25 18:04:34"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "AI-Driven Cyber Threats: Deepfakes and Voice Cloning Surge",
-            "url": "https://www.webpronews.com/ai-driven-cyber-threats-deepfakes-and-voice-cloning-surge/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-58aa33e6-e05f-4800-a594-10da078baf25.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-08-25 18:04:29"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "Meta's new cutting-edge smart glasses tipped to launch in September — here's what we know",
-            "url": "https://www.tomsguide.com/computing/smart-glasses/metas-new-cutting-edge-smart-glasses-tipped-to-launch-in-september-heres-what-we-know",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/o28fwiczFx2eDYgy37TD79-1280-80.jpg",
-            "publishedAt": "2025-08-25 17:55:56"
-        },
-        {
-            "source": {
-                "name": "biztoc"
-            },
-            "title": "Gains More Than 50% Since Jim Cramer Praised The Firm Last Year",
-            "url": "https://biztoc.com/x/e9f108012070f80f",
-            "urlToImage": "https://cdn.biztoc.com/e9f108012070f80f_sq.webp",
-            "publishedAt": "2025-08-25 17:42:40"
         }
     ]
 }
