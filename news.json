@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2025-08-27T11:13:05.075486Z",
+    "lastUpdatedAt": "2025-08-27T12:31:45.333874Z",
     "articles": [
+        {
+            "source": {
+                "id": "77b86639d1384ac68141803ec5db27c0",
+                "name": "NBC News",
+                "url": "https://www.nbcnews.com",
+                "country": "us"
+            },
+            "title": "A hacker used AI to automate an 'unprecedented' cybercrime spree, Anthropic says",
+            "url": "https://www.nbcnews.com/tech/security/hacker-used-ai-automate-unprecedented-cybercrime-spree-anthropic-says-rcna227309",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250826-Anthropic-ch-1533-2ea8e0.jpg",
+            "publishedAt": "2025-08-27T12:18:25Z"
+        },
+        {
+            "source": {
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
+                "country": "in"
+            },
+            "title": "How Artificial Intelligence is redefining the future of diagnosis",
+            "url": "https://www.hindustantimes.com/ht-insight/future-tech/how-artificial-intelligence-is-redefining-the-future-of-diagnosis-101756296397912.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/08/27/1600x900/India-s-labour-markets-are-already-shifting-in-ant_1738347988054_1756296544167.jpg",
+            "publishedAt": "2025-08-27T12:12:57Z"
+        },
+        {
+            "source": {
+                "id": "93e59eaaf800fc544a6df1a4fc5c0cdc",
+                "name": "Toronto Star",
+                "url": "https://www.thestar.com",
+                "country": "ca"
+            },
+            "title": "Acronis and Intel Partner to Deliver Efficient, AI-Driven Threat Detection for Endpoint Devices",
+            "url": "https://www.thestar.com/globenewswire/acronis-and-intel-partner-to-deliver-efficient-ai-driven-threat-detection-for-endpoint-devices/article_66286c7b-c26e-5d42-8896-5ec201d9ba2d.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/custom/image/f84403b8-7d76-11ee-9d02-a72a4951957f.png?resize=600%2C600",
+            "publishedAt": "2025-08-27T12:00:00Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "China aims to triple AI chip output, reducing Nvidia's dependency, FT says",
+            "url": "https://www.reuters.com/world/china/china-aims-triple-ai-chip-output-reducing-nvidias-dependency-ft-says-2025-08-27/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/GGE5ILN4FRPZHMMZ27MFAYJDGM.jpg?auth=7b2405ecd06f8278d7a0cbe09a30b8abf441451bb0389065f0daa29aec83f7e3&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-08-27T11:18:53Z"
+        },
+        {
+            "source": {
+                "id": "7ba4ac19a3c25ba844bbd220fe4c860a",
+                "name": "THE WEEK",
+                "url": "https://www.theweek.in",
+                "country": "in"
+            },
+            "title": "From firewalls to forests: The surprising eco-power of good cybersecurity",
+            "url": "https://www.theweek.in/news/sci-tech/2025/08/27/cybersecurity-green-impact-digital-defense-environment.html",
+            "urlToImage": "https://www.theweek.in/content/dam/week/week/news/sci-tech/images/2025/8/27/green-cybersecurity.jpg",
+            "publishedAt": "2025-08-27T11:13:24Z"
+        },
         {
             "source": {
                 "id": "143b993b193f72147f3de29ebcfbf505",
@@ -324,6 +384,15 @@
             "url": "https://itwire.com/business-it-news/data/sas-is-training-ai-models-to-predict-and-prevent-workplace-injuries,-says-excited-cto-bryan-harris.html",
             "urlToImage": "https://itwire.com/media/k2/items/cache/dedeba13cad0a731c9c26d1f0f3c11ca_XS.jpg",
             "publishedAt": "2025-08-27T00:18:03Z"
+        },
+        {
+            "source": {
+                "name": "financialcontent"
+            },
+            "title": "This Artificial Intelligence (AI) Stock Could Be the Next Tech Titan",
+            "url": "https://www.fool.com/investing/2025/08/27/this-artificial-intelligence-ai-stock-could-be-the/",
+            "urlToImage": "https://g.foolcdn.com/image/?h=400&op=resize&url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F830432%2Fperson-smiling-computer-charts.jpg&w=400",
+            "publishedAt": "2025-08-27 00:00:00"
         },
         {
             "source": {
@@ -1740,6 +1809,15 @@
             "url": "https://www.globenewswire.com/news-release/2025/08/26/3139409/0/en/From-Human-to-Cyborg-Cybersecurity-Visionary-Len-Noe-Unveils-Explosive-Documentary-I-Am-Machine-at-Hacker-Halted.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/9b3db11b-3408-4b15-86d6-d79e50a38cf8",
             "publishedAt": "2025-08-26T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "venturebeat"
+            },
+            "title": "How procedural memory can cut the cost and complexity of AI agents",
+            "url": "https://venturebeat.com/ai/how-procedural-memory-can-cut-the-cost-and-complexity-of-ai-agents/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/08/llm-agent-memory.jpg?w=750",
+            "publishedAt": "2025-08-26 23:37:23"
         },
         {
             "source": {
@@ -3216,90 +3294,6 @@
             "url": "https://www.cp24.com/news/money/2025/08/25/elon-musks-xai-sues-apple-and-openai-over-ai-competition-app-store-rankings/",
             "urlToImage": "https://www.cp24.com/resizer/v2/K72GQ6DXLNCJHHZ6VPOXSUN2HU.jpg?smart=true&auth=80dbb57fe5e2fec760be8568be69208a7aa52fcdb3a0baac417c1369d82f573c&width=1200&height=630",
             "publishedAt": "2025-08-25T15:34:28Z"
-        },
-        {
-            "source": {
-                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
-                "name": "TechStartups.com",
-                "url": "https://techstartups.com",
-                "country": "us"
-            },
-            "title": "Elon Musk’s xAI sues Apple and OpenAI, accuses them of conspiring to block AI competition",
-            "url": "https://techstartups.com/2025/08/25/elon-musks-xai-sues-apple-and-openai-accuses-them-of-conspiring-to-block-ai-competition/",
-            "urlToImage": "https://techstartups.com/wp-content/uploads/2025/08/Musk-Musk.jpg",
-            "publishedAt": "2025-08-25T15:22:41Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "IIT Council Gears Up for AI Innovation with New Task Force",
-            "url": "https://www.devdiscourse.com/article/education/3602731-iit-council-gears-up-for-ai-innovation-with-new-task-force",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/25_08_2025_08_56_53_20849.png?width=920&format=jpeg",
-            "publishedAt": "2025-08-25T15:01:15Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Elon Musk's xAI sues Apple and OpenAI over AI competition, App Store rankings",
-            "url": "https://www.reuters.com/legal/litigation/elon-musks-xai-sues-apple-openai-over-ai-competition-app-store-rankings-2025-08-25/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/QQPGQWFY5ZIRLJRO3UUBL4SDQM.jpg?auth=f610144999d4a9e3cb0387d663fc7ba575df53d05eeba852b7831245d5a6c339&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-08-25T14:58:21Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "InvestigateTV, Gray Stations Launch New Multiplatform Investigative Initiative Manipulated: A Disinformation Nation",
-            "url": "https://www.manilatimes.net/2025/08/25/tmt-newswire/globenewswire/investigatetv-gray-stations-launch-new-multiplatform-investigative-initiative-manipulated-a-disinformation-nation/2173316",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/25/725285.png",
-            "publishedAt": "2025-08-25T14:19:37Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "How AI can improve insurance coverage",
-            "url": "https://phys.org/news/2025-08-ai-coverage.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2014/flood.jpg",
-            "publishedAt": "2025-08-25T14:14:04Z"
-        },
-        {
-            "source": {
-                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
-                "name": "TechStartups.com",
-                "url": "https://techstartups.com",
-                "country": "us"
-            },
-            "title": "Cloud security startup Netskope files for IPO at over $5B Valuation",
-            "url": "https://techstartups.com/2025/08/25/cloud-security-startup-netskope-files-for-ipo-at-over-5b-valuation/",
-            "urlToImage": "https://techstartups.com/wp-content/uploads/2025/08/Netskope-founders-960x529.jpg",
-            "publishedAt": "2025-08-25T14:04:20Z"
-        },
-        {
-            "source": {
-                "id": "15e838c11ec107f2fad197ea48c6cc48",
-                "name": "Windows Central",
-                "url": "https://www.windowscentral.com",
-                "country": "gb"
-            },
-            "title": "YouTube's admitted video tampering sparks outrage",
-            "url": "https://www.windowscentral.com/artificial-intelligence/youtube-admits-video-tampering-not-ai",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/JkvXWu43uNqjbUPUC6zvzY.jpg",
-            "publishedAt": "2025-08-25T13:52:00Z"
         }
     ]
 }
