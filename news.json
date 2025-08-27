@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-08-27T10:15:38.884047Z",
+    "lastUpdatedAt": "2025-08-27T11:13:05.075486Z",
     "articles": [
+        {
+            "source": {
+                "id": "143b993b193f72147f3de29ebcfbf505",
+                "name": "India TV News",
+                "url": "https://www.indiatvnews.com",
+                "country": "in"
+            },
+            "title": "YouTube using AI to edit Shorts without informing creators: All you need to know",
+            "url": "https://www.indiatvnews.com/technology/news/youtube-using-ai-to-edit-shorts-without-informing-creators-all-you-need-to-know-2025-08-27-1005438",
+            "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2025/08/youtube-shorts-1756290876.jpg",
+            "publishedAt": "2025-08-27T11:00:53Z"
+        },
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "New retina-inspired photodiodes could advance machine vision",
+            "url": "https://phys.org/news/2025-08-retina-photodiodes-advance-machine-vision.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/new-retina-inspired-ph.jpg",
+            "publishedAt": "2025-08-27T11:00:02Z"
+        },
+        {
+            "source": {
+                "id": "85e5403407038478a5e7d8d100ff8e8f",
+                "name": "CP24 Toronto",
+                "url": "https://www.cp24.com",
+                "country": "ca"
+            },
+            "title": "Nvidia's earnings to show whether the AI boom is overhyped",
+            "url": "https://www.cp24.com/news/money/2025/08/27/nvidias-earnings-report-will-help-to-show-whether-the-ai-boom-is-overhyped-or-gaining-steam/",
+            "urlToImage": "https://www.cp24.com/resizer/v2/CEZBZDC5Y2RZ4R45DAK4LE2VXM.jpg?smart=true&auth=f41f7f7d4f258c430446269cab4f042cc551e2f302302ac2b51af707625bf7e8&width=1200&height=630",
+            "publishedAt": "2025-08-27T10:56:02Z"
+        },
+        {
+            "source": {
+                "id": "ca84296ef941bfa461f4239a2290cb99",
+                "name": "News18",
+                "url": "https://www.news18.com",
+                "country": "in"
+            },
+            "title": "China's Hangzhou To Introduce Mandatory AI Course In Schools",
+            "url": "https://www.news18.com/world/chinas-hangzhou-to-introduce-mandatory-ai-course-in-schools-ws-del-9531732.html",
+            "urlToImage": "https://images.news18.com/ibnlive/uploads/2025/08/image-2025-08-c2af14609be454ac45390795771617e4-16x9.jpg",
+            "publishedAt": "2025-08-27T10:26:06Z"
+        },
         {
             "source": {
                 "id": "3bd4bd306c42647825fa42989624c036",
@@ -48,6 +96,18 @@
             "url": "https://www.nation.com.pk/27-Aug-2025/national-ai-fund-proposed-to-boost-artificial-intelligence-research-innovation",
             "urlToImage": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
             "publishedAt": "2025-08-27T08:22:25Z"
+        },
+        {
+            "source": {
+                "id": "93a4f054e09bde095cda5265e575a952",
+                "name": "Telegraph India",
+                "url": "https://www.telegraphindia.com",
+                "country": "in"
+            },
+            "title": "Trump says colleges would struggle without Chinese students, China urges US to 'stop harassing'",
+            "url": "https://www.telegraphindia.com/world/trump-says-colleges-would-struggle-without-chinese-students-china-urges-us-to-stop-harassing/cid/2119981",
+            "urlToImage": "https://assets.telegraphindia.com/telegraph/2025/Aug/1756281652_lead-26.gif",
+            "publishedAt": "2025-08-27T08:05:34Z"
         },
         {
             "source": {
@@ -1683,6 +1743,33 @@
         },
         {
             "source": {
+                "name": "venturebeat"
+            },
+            "title": "AWS, Microsoft and Google unite behind Linux Foundation DocumentDB database to cut enterprise costs and limit vendor lock-in",
+            "url": "https://venturebeat.com/data-infrastructure/aws-microsoft-and-google-unite-behind-linux-foundation-documentdb-database-to-cut-enterprise-costs-and-limit-vendor-lock-in/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/08/microsoft_aws_goog_documentdb-smk.png?w=750",
+            "publishedAt": "2025-08-26 23:02:04"
+        },
+        {
+            "source": {
+                "name": "thestreet"
+            },
+            "title": "114-year-old tech company makes deal to become quantum computing leader",
+            "url": "https://www.thestreet.com/technology/114-year-old-technology-goliath-bets-big-on-quantum-computing",
+            "urlToImage": "https://www.thestreet.com/.image/c_fit,h_800,w_1200/MjExNzY3MTMzNTEwNTc1NjUx/quantum_computers_stocks_kl.jpg",
+            "publishedAt": "2025-08-26 22:37:00"
+        },
+        {
+            "source": {
+                "name": "venturebeat"
+            },
+            "title": "Anthropic launches Claude for Chrome in limited beta, but prompt injection attacks remain a major concern",
+            "url": "https://venturebeat.com/ai/anthropic-launches-claude-for-chrome-in-limited-beta-but-prompt-injection-attacks-remain-a-major-concern/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/08/nuneybits_a_simple_hand-drawn_illustration_of_an_open_web_page__c908bef6-37a0-486e-bcb2-59cef9c8c501.webp?w=750",
+            "publishedAt": "2025-08-26 22:22:13"
+        },
+        {
+            "source": {
                 "name": "arstechnica"
             },
             "title": "After teen suicide, OpenAI claims it is “helping people when they need it most”",
@@ -3213,102 +3300,6 @@
             "url": "https://www.windowscentral.com/artificial-intelligence/youtube-admits-video-tampering-not-ai",
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/JkvXWu43uNqjbUPUC6zvzY.jpg",
             "publishedAt": "2025-08-25T13:52:00Z"
-        },
-        {
-            "source": {
-                "id": "458ddf355ab77631d3eb3dd84a0351b4",
-                "name": "Business Insider",
-                "url": "https://www.businessinsider.com",
-                "country": "us"
-            },
-            "title": "How to Prevent Costly Tech Errors and Protect Your Small Business",
-            "url": "https://www.businessinsider.com/sc/how-to-prevent-costly-tech-errors-in-small-businesses",
-            "urlToImage": "https://i.insider.com/685efbc33d5881a51c1c4be4?width=1200&format=jpeg",
-            "publishedAt": "2025-08-25T13:40:59Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Caution Urged in Embracing AI Solutions Says Minister Khattar",
-            "url": "https://www.devdiscourse.com/article/technology/3602539-caution-urged-in-embracing-ai-solutions-says-minister-khattar",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/08_08_2025_22_22_09_3599351.jpg?width=920&format=jpeg",
-            "publishedAt": "2025-08-25T13:07:06Z"
-        },
-        {
-            "source": {
-                "id": "78038267e47d19c37e8b8fa6b4b06494",
-                "name": "SpaceNews",
-                "url": "https://spacenews.com",
-                "country": "us"
-            },
-            "title": "Space assets are under silent siege. Cybersecurity can’t be an afterthought",
-            "url": "https://spacenews.com/space-assets-are-under-silent-siege-cybersecurity-cant-be-an-afterthought/",
-            "urlToImage": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/smallsats-in-orbit.jpg?fit=2000%2C604&ssl=1",
-            "publishedAt": "2025-08-25T13:00:00Z"
-        },
-        {
-            "source": {
-                "id": "c97ef3cad273a1993c998ca7ddcc5212",
-                "name": "Daily Express",
-                "url": "https://www.express.co.uk",
-                "country": "gb"
-            },
-            "title": "Outrage as cash-strapped council uses 'pensioners as lab rats'",
-            "url": "https://www.express.co.uk/news/uk/2099742/outrage-derby-council-artificial-intelligence-lab-rats",
-            "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/1/1200x630/6382808.jpg",
-            "publishedAt": "2025-08-25T12:47:00Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Saudi’s Humain Launches Arabic Chatbot With ‘Islamic’ Values",
-            "url": "https://www.bloomberg.com/news/articles/2025-08-25/saudi-s-humain-launches-arabic-chatbot-with-islamic-values",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ijbeV5_3Udy8/v1/1200x800.jpg",
-            "publishedAt": "2025-08-25T12:44:58Z"
-        },
-        {
-            "source": {
-                "id": "6f4f13c21bb217801ab4b37c367f97aa",
-                "name": "CNET",
-                "url": "https://www.cnet.com",
-                "country": "us"
-            },
-            "title": "Can ChatGPT Help With Bill Negotiations? We Put It to the Test",
-            "url": "https://www.cnet.com/tech/services-and-software/can-ai-help-with-bill-negotiations-i-put-chatgpt-to-the-test/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/2518fac1a0c93e4a6ec255f2a437ef4efae9fc33/hub/2024/07/24/25310513-3ee3-4333-8130-29667c04ce7e/gettyimages-1338834262.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-08-25T12:15:02Z"
-        },
-        {
-            "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
-                "country": "in"
-            },
-            "title": "OpenAI picks Coursera’s Raghav Gupta to lead its education vertical in India",
-            "url": "https://www.hindustantimes.com/business/openai-picks-coursera-s-raghav-gupta-to-lead-its-education-vertical-in-india-101756123751961.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/08/25/1600x900/OpenAI-India_1756123877632_1756123877774.JPG",
-            "publishedAt": "2025-08-25T12:13:03Z"
-        },
-        {
-            "source": {
-                "id": "ac7b96be74f81cabb4e02b818a3ff6d7",
-                "name": "MarketBeat",
-                "url": "https://www.marketbeat.com",
-                "country": "us"
-            },
-            "title": "Patch Tuesday Highlights Microsoft’s Growing Security Edge",
-            "url": "https://www.marketbeat.com/originals/patch-tuesday-highlights-microsofts-growing-security-edge/",
-            "urlToImage": "https://www.marketbeat.com/logos/articles/med_20250821092118_patch-tuesday-highlights-microsofts-growing-securi.jpg",
-            "publishedAt": "2025-08-25T11:51:00Z"
         }
     ]
 }
