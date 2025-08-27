@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-08-27T04:18:38.544477Z",
+    "lastUpdatedAt": "2025-08-27T05:14:56.935626Z",
     "articles": [
+        {
+            "source": {
+                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
+                "name": "The Associated Press",
+                "url": "https://apnews.com",
+                "country": "us"
+            },
+            "title": "Nvidia to report quarterly earnings",
+            "url": "https://apnews.com/article/nvidia-artificial-intelligence-boom-bubble-42657a49554bf35fb12fdf48c02287d2",
+            "urlToImage": "https://dims.apnews.com/dims4/default/f3e0aa2/2147483647/strip/true/crop/6299x3543+0+328/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F29%2F31%2F9d7bb780d5b342d24c7fa5748aba%2Ff87e7ce0d1e647638e206e993ce3c85a",
+            "publishedAt": "2025-08-27T05:00:06Z"
+        },
+        {
+            "source": {
+                "id": "37128a060981dbbe79321f096e7d1108",
+                "name": "U.S. News & World Report",
+                "url": "https://www.usnews.com",
+                "country": "us"
+            },
+            "title": "Photos of Red-Legged Frog, Which Conservationists Are Working to Restore to Its California Habitat",
+            "url": "https://www.usnews.com/news/us/articles/2025-08-27/photos-of-red-legged-frog-which-conservationists-are-working-to-restore-to-its-california-habitat",
+            "urlToImage": "https://www.usnews.com/dims4/USNEWS/bf5157f/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F80%2F40c29e23eefa72993ad4b5565cfcba%2F7a26785d926f4105b4fbae000e10866bUS_Mexico_Binational_Frogs_07315.jpg",
+            "publishedAt": "2025-08-27T04:07:00Z"
+        },
         {
             "source": {
                 "id": "73aabc646bff1356a46223f250cc6b52",
@@ -108,6 +132,18 @@
             "url": "https://www.afr.com/world/north-america/openai-agrees-to-update-chatgpt-after-teenager-s-suicide-20250827-p5mq7x",
             "urlToImage": "https://static.ffx.io/images/$zoom_0.2327%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_15/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/6ca2b0b4fb9ffe8b24183c01ebc89f05f0eeb5bc",
             "publishedAt": "2025-08-27T00:34:38Z"
+        },
+        {
+            "source": {
+                "id": "ac7b96be74f81cabb4e02b818a3ff6d7",
+                "name": "MarketBeat",
+                "url": "https://www.marketbeat.com",
+                "country": "us"
+            },
+            "title": "Nvidia's quarterly report will gauge the temperature of the AI craze",
+            "url": "https://www.marketbeat.com/articles/nvidias-quarterly-report-will-gauge-the-temperature-of-the-ai-craze-2025-08-27/",
+            "urlToImage": "https://www.marketbeat.com/images/MarketBeat-icon-256x256.png",
+            "publishedAt": "2025-08-27T00:32:38Z"
         },
         {
             "source": {
@@ -1536,6 +1572,87 @@
             "url": "https://www.globenewswire.com/news-release/2025/08/26/3139409/0/en/From-Human-to-Cyborg-Cybersecurity-Visionary-Len-Noe-Unveils-Explosive-Documentary-I-Am-Machine-at-Hacker-Halted.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/9b3db11b-3408-4b15-86d6-d79e50a38cf8",
             "publishedAt": "2025-08-26T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "invenglobal"
+            },
+            "title": "How AI Is Transforming Game Development: KRAFTON and NC Share Their Vision for the Future",
+            "url": "https://www.invenglobal.com/articles/19618/how-ai-is-transforming-game-development-krafton-and-nc-share-their-vision-for-the-future",
+            "urlToImage": "https://static.invenglobal.com/upload/image/2025/08/26/r1756227774345050.jpeg",
+            "publishedAt": "2025-08-26 17:10:22"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Meta’s $10B AI Data Center in Louisiana Fuels Jobs and Emissions Debate",
+            "url": "https://www.webpronews.com/metas-10b-ai-data-center-in-louisiana-fuels-jobs-and-emissions-debate/",
+            "urlToImage": "https://www.webpronews.com/metas-10b-ai-data-center-in-louisiana-fuels-jobs-and-emissions-debate/",
+            "publishedAt": "2025-08-26 17:05:18"
+        },
+        {
+            "source": {
+                "name": "onclive"
+            },
+            "title": "Cancer's Progress Detailed by 3D Genomic Maps",
+            "url": "https://www.onclive.com/view/cancer-s-progress-detailed-by-3d-genomic-maps",
+            "urlToImage": "https://cdn.sanity.io/images/0vv8moc6/onclive/cc3e5de7af4a1f8021461201f55099af4ea5f4af-1920x1080.jpg?auto=format&fit=crop",
+            "publishedAt": "2025-08-26 17:00:06"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "Over 1 Million Hit In Farmers Insurance Data Breach — Names, Addresses, Partial SSNs And More Exposed",
+            "url": "https://www.tomsguide.com/computing/online-security/over-1-million-hit-in-farmers-insurance-data-breach-names-addresses-partial-ssns-and-more-exposed",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/iJKvacosvMoCwbKjwcVGbP-1280-80.jpg",
+            "publishedAt": "2025-08-26 16:51:46"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Framework Laptop 16 Pre-Orders: RTX 5070 GPU and Ryzen AI 300 CPU",
+            "url": "https://www.webpronews.com/framework-laptop-16-pre-orders-rtx-5070-gpu-and-ryzen-ai-300-cpu/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-11d472dd-b966-4707-bfb6-604f72944803.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-08-26 16:50:54"
+        },
+        {
+            "source": {
+                "name": "neowin"
+            },
+            "title": "Physical AI and Agentic AI projected to push the global chip market past $1 trillion",
+            "url": "https://www.neowin.net/news/physical-ai-and-agentic-ai-projected-to-push-the-global-chip-market-past-1-trillion/",
+            "urlToImage": "https://cdn.neowin.com/news/images/uploaded/2025/08/1756220353_physical_ai_robot_hand_story.webp",
+            "publishedAt": "2025-08-26 16:50:02"
+        },
+        {
+            "source": {
+                "name": "investing_us"
+            },
+            "title": "Southern Company: From Nuclear Risk to AI Reward",
+            "url": "https://www.investing.com/analysis/southern-company-from-nuclear-risk-to-ai-reward-200665926",
+            "urlToImage": "https://i-invdn-com.investing.com/redesign/images/seo/v2/investingcom_analysis_og.jpg",
+            "publishedAt": "2025-08-26 16:50:00"
+        },
+        {
+            "source": {
+                "name": "pcgamer"
+            },
+            "title": "AMD just revealed that its current RDNA 4 GPUs have a clever 'modular' architecture—here's hoping it signals a broader range of next-gen graphics cards",
+            "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-just-revealed-that-its-current-rdna-4-gpus-have-a-clever-modular-architecture-heres-hoping-it-signals-a-broader-range-of-next-gen-graphics-cards/",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/2VWfhnryDJ5hgBhNzewrNC-1280-80.jpg",
+            "publishedAt": "2025-08-26 16:40:37"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Synthetic Data in AI: Scalability Benefits and Hidden Risks",
+            "url": "https://www.webpronews.com/synthetic-data-in-ai-scalability-benefits-and-hidden-risks/",
+            "urlToImage": "https://www.webpronews.com/synthetic-data-in-ai-scalability-benefits-and-hidden-risks/",
+            "publishedAt": "2025-08-26 16:40:15"
         },
         {
             "source": {
@@ -3261,138 +3378,6 @@
             "url": "https://www.etfdailynews.com/2025/08/25/cybersecurity-stocks-to-keep-an-eye-on-august-23rd/",
             "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/google-inc-logo-1200x675.png&w=240&h=240&zc=2",
             "publishedAt": "2025-08-25T02:02:54Z"
-        },
-        {
-            "source": {
-                "id": "09131c39169c9c96230862dc4c1fa727",
-                "name": "CNA",
-                "url": "https://www.channelnewsasia.com",
-                "country": "sg"
-            },
-            "title": "As AI adoption grows, this solutions provider focuses on simplifying the technology to address practical business needs",
-            "url": "https://www.channelnewsasia.com/brand-studio/ai-adoption-grows-solutions-provider-focuses-simplifying-technology-address-practical-business-needs-5308676",
-            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--_OW3f-fA--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2025/08/22/bstudio-canon-story01-hero_6.jpg?itok=A0YiWzJP",
-            "publishedAt": "2025-08-25T01:53:44Z"
-        },
-        {
-            "source": {
-                "id": "680f00482cbf9f314921fefd917871d9",
-                "name": "The Hindu Business Line",
-                "url": "https://www.thehindubusinessline.com",
-                "country": "in"
-            },
-            "title": "AI can provide a second career for retirees",
-            "url": "https://www.thehindubusinessline.com/opinion/ai-can-provide-a-second-career-for-retirees/article69972380.ece",
-            "urlToImage": "https://bl-i.thgim.com/public/incoming/alqkk5/article69972381.ece/alternates/LANDSCAPE_1200/PO25_Pension.jpg",
-            "publishedAt": "2025-08-25T01:00:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Nvidia in focus after Fed raises rate cut hopes",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/nvidia-in-focus-after-fed-raises-rate-cut-hopes/articleshow/123491283.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-123491288,width-1200,height-630,imgsize-12254,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2025-08-25T00:33:00Z"
-        },
-        {
-            "source": {
-                "id": "6536182115f7e8188f38d864bab0e1c6",
-                "name": "DAWN.com",
-                "url": "https://www.dawn.com",
-                "country": "pk"
-            },
-            "title": "Korea maps 30 AI, deep tech projects to reignite economy",
-            "url": "https://www.dawn.com/news/1937033/korea-maps-30-ai-deep-tech-projects-to-reignite-economy",
-            "urlToImage": "https://i.dawn.com/large/2025/08/68ab99bea9118.gif",
-            "publishedAt": "2025-08-25T00:30:19Z"
-        },
-        {
-            "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
-            },
-            "title": "Seoul approves LG plan to open first company-run graduate school",
-            "url": "https://www.straitstimes.com/asia/east-asia/seoul-approves-lg-plan-to-open-first-company-run-graduate-school",
-            "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/677346bb4c61ccbeceb00b48bcb4e2514248bd13a9b19fbc86f75cd6473ec8d0",
-            "publishedAt": "2025-08-25T00:30:00Z"
-        },
-        {
-            "source": {
-                "id": "9f53afb019d44feb16bcc7da150e679a",
-                "name": "Baltimore News",
-                "url": "https://foxbaltimore.com",
-                "country": "us"
-            },
-            "title": "MTA investigating 'cybersecurity incident' that may impact back to school travel",
-            "url": "https://foxbaltimore.com/news/local/mta-investigating-cybersecurity-incident-impact-back-to-school-travel",
-            "urlToImage": "https://foxbaltimore.com/resources/media2/16x9/306/986/0x8/90/999ff32a-da2b-4a49-9648-607f5bdeb37c-mta.PNG",
-            "publishedAt": "2025-08-25T00:17:41Z"
-        },
-        {
-            "source": {
-                "id": "2f5884e252590f739df55c0e7db375df",
-                "name": "WJLA",
-                "url": "https://wjla.com",
-                "country": "us"
-            },
-            "title": "MTA investigating 'cybersecurity incident' that may impact back to school travel",
-            "url": "https://wjla.com/news/local/mta-investigating-cybersecurity-incident-impact-back-to-school-travel",
-            "urlToImage": "https://wjla.com/resources/media2/16x9/306/986/0x8/90/999ff32a-da2b-4a49-9648-607f5bdeb37c-mta.PNG",
-            "publishedAt": "2025-08-25T00:17:41Z"
-        },
-        {
-            "source": {
-                "id": "0a1d38750c798242e5ac5c5d47477eeb",
-                "name": "ScienceDaily",
-                "url": "https://www.sciencedaily.com",
-                "country": "us"
-            },
-            "title": "Scientists just measured how fast glaciers carve the Earth",
-            "url": "https://www.sciencedaily.com/releases/2025/08/250809100914.htm",
-            "urlToImage": "https://www.sciencedaily.com/images/1920/canadian-arctic-glacial-erosion.webp",
-            "publishedAt": "2025-08-25T00:00:00Z"
-        },
-        {
-            "source": {
-                "name": "oregonlive"
-            },
-            "title": "Trump’s money doesn’t fix Intel’s issues, but it might buy time",
-            "url": "https://www.oregonlive.com/silicon-forest/2025/08/trumps-money-doesnt-fix-intels-issues-but-it-might-buy-the-company-some-time.html",
-            "urlToImage": "https://www.oregonlive.com/resizer/v2/J5Y4OD3DDVA2THKJ2735RXYLTQ.jpeg?auth=3f0bf1f1803fc7e202b169cd52811323df4187f903a438180339fec048d941e6&height=1200&smart=true",
-            "publishedAt": "2025-08-25 22:59:31"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Google Unveils Liquid Cooling for AI TPUs at Hot Chips 2025",
-            "url": "https://www.webpronews.com/google-unveils-liquid-cooling-for-ai-tpus-at-hot-chips-2025/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-dd9b5280-9926-402e-b716-28c682b327f1.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-08-25 22:56:51"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "AWS Launches Bedrock Data Automation in GovCloud for Secure AI Processing",
-            "url": "https://www.webpronews.com/aws-launches-bedrock-data-automation-in-govcloud-for-secure-ai-processing/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-6fc18a57-351e-499e-bdd5-032ebc2b0577.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-08-25 22:55:16"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "2025 AI Marketing Trends: Virtual Influencers to Ethical Data",
-            "url": "https://www.webpronews.com/2025-ai-marketing-trends-virtual-influencers-to-ethical-data/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-84c02597-1fa0-466f-852b-56cdab5a3ea6.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-08-25 22:48:05"
         }
     ]
 }
