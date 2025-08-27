@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-08-27T22:13:47.774276Z",
+    "lastUpdatedAt": "2025-08-27T23:13:48.371776Z",
     "articles": [
+        {
+            "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+            },
+            "title": "Finland President speaks to PM, discusses ties, India-EU FTA",
+            "url": "https://indianexpress.com/article/india/finland-president-speaks-to-pm-discusses-ties-india-eu-fta-10215399/",
+            "urlToImage": "https://images.indianexpress.com/2025/08/Modi-G20-2col.jpg",
+            "publishedAt": "2025-08-27T22:55:52Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Israeli Cybersecurity Official Faces Child Sex Charges in U.S.",
+            "url": "https://www.devdiscourse.com/article/law-order/3605882-israeli-cybersecurity-official-faces-child-sex-charges-in-us",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_05_2019_11_49_14_1279651.jpg?width=920&format=jpeg",
+            "publishedAt": "2025-08-27T22:33:10Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -168,6 +192,18 @@
             "url": "https://www.usnews.com/opinion/articles/2025-08-27/college-ai-students-status-degree-ivy-league",
             "urlToImage": "https://www.usnews.com/dims4/USNEWS/d20b39d/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Fac%2F5f%2Fde4f24254a018a314030df3f7caa%2Fgettyimages-524455760.jpg",
             "publishedAt": "2025-08-27T20:30:00Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "CrowdStrike forecasts weak quarterly revenue as Windows-outage impact lingers",
+            "url": "https://www.reuters.com/business/crowdstrike-forecasts-weak-quarterly-revenue-windows-outage-impact-lingers-2025-08-27/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/K7EVX76JQJOVTB462DZEN63SEQ.jpg?auth=f7f8c325761dd2e69dd52a3b561647126cf25a2e908ffac8921052669b7867e8&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-08-27T20:27:57Z"
         },
         {
             "source": {
@@ -1200,6 +1236,51 @@
             "url": "https://www.globenewswire.com/news-release/2025/08/27/3140249/0/en/Cybersecurity-Experts-Urge-Lawmakers-to-Pursue-Lawful-Access-Solutions-Without-Compromising-Encryption-Integrity.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/c7c2669f-e638-43a2-abc6-90f61b74c46a",
             "publishedAt": "2025-08-27T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "The fastest laptops of 2025: Expert recommended",
+            "url": "https://www.zdnet.com/article/fastest-laptops/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/06aa127bd61d213586caa258653ffd2905d62ebe/2024/11/06/daacb602-993b-4c8e-a289-eddc5846d0bd/dsc02543-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-08-27 11:00:27"
+        },
+        {
+            "source": {
+                "name": "time"
+            },
+            "title": "The Race for Artificial General Intelligence Poses New Risks to an Unstable World",
+            "url": "https://time.com/7312305/agi-race-us-china-trump/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2025/08/AGI_2.jpg?h=675&w=1200",
+            "publishedAt": "2025-08-27 11:00:00"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "AI to Spark 2025 Tech Stock Surge with Trillion-Dollar Gains",
+            "url": "https://www.webpronews.com/ai-to-spark-2025-tech-stock-surge-with-trillion-dollar-gains/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-b4698fbb-1f91-4697-a4bb-095a85a15ad3.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-08-27 10:44:44"
+        },
+        {
+            "source": {
+                "name": "biztoc"
+            },
+            "title": "‘AI Revolution Powers Ahead’: Daniel Ives Suggests Buying Tesla and IBM Stocks",
+            "url": "https://biztoc.com/x/a4245418a599b098",
+            "urlToImage": "https://cdn.biztoc.com/a4245418a599b098_sq.webp",
+            "publishedAt": "2025-08-27 10:33:42"
+        },
+        {
+            "source": {
+                "name": "geeky_gadgets"
+            },
+            "title": "Apple’s $599 MacBook? Apple’s Bold Move to Dominate the Budget Market",
+            "url": "https://www.geeky-gadgets.com/apples-599-macbook/",
+            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/08/MacBook-3.webp",
+            "publishedAt": "2025-08-27 10:30:39"
         },
         {
             "source": {
@@ -3282,78 +3363,6 @@
             "url": "https://hackernoon.com/powerinfer-2-achieves-29x-speedup-running-47-billion-parameter-llms-on-smartphones",
             "urlToImage": "https://hackernoon.imgix.net/images/apple-and-samsung-smartphones-ztollf7lrkbpvbhde4x7mhx2.png",
             "publishedAt": "2025-08-26 15:14:11"
-        },
-        {
-            "source": {
-                "name": "menafn"
-            },
-            "title": "Niral Networks Showcases Next-Generation Wireless Solutions At All Wireless & Prepaid Expo 2025 In Las Vegas",
-            "url": "https://menafn.com/1109979454/Niral-Networks-Showcases-Next-Generation-Wireless-Solutions-At-All-Wireless-Prepaid-Expo-2025-In-Las-Vegas",
-            "urlToImage": "https://menafn.com/updates/pr/2025-08/26/F_868dfimage_story.jpg",
-            "publishedAt": "2025-08-26 15:07:16"
-        },
-        {
-            "source": {
-                "name": "arstechnica"
-            },
-            "title": "Framework Laptop 16 update brings Nvidia GeForce to the modular gaming laptop",
-            "url": "https://arstechnica.com/gadgets/2025/08/framework-laptop-16-update-brings-nvidia-geforce-to-the-modular-gaming-laptop/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/FW16-Hero-Alt-1-1152x648.jpeg",
-            "publishedAt": "2025-08-26 15:05:51"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Web3’s Role in Building Transparent and Fair AI",
-            "url": "https://hackernoon.com/who-owns-the-machines-the-battle-between-ai-and-web3-where-intelligence-belongs-to-everyone",
-            "urlToImage": "https://hackernoon.imgix.net/images/dNDmbEwasQUhkkwuUypXDwTWtqI2-4e039pp.jpeg",
-            "publishedAt": "2025-08-26 15:01:00"
-        },
-        {
-            "source": {
-                "name": "xda_developers"
-            },
-            "title": "7 old-school technologies today’s whippersnappers would never recognize",
-            "url": "https://www.xda-developers.com/old-school-technologies-whippersnappers-would-never-recognize/",
-            "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2025/08/tandy_radio_shack_model_ii_with_cassette_data_recorder-by-jeff-keyzer.jpg",
-            "publishedAt": "2025-08-26 15:00:19"
-        },
-        {
-            "source": {
-                "name": "biztoc"
-            },
-            "title": "BWX Technologies, Inc. (BWXT) Gains 50%+ Since Jim Cramer Said He Was “Done”With Nuclear",
-            "url": "https://biztoc.com/x/db66c5f0ec1b696b",
-            "urlToImage": "https://cdn.biztoc.com/db66c5f0ec1b696b_sq.webp",
-            "publishedAt": "2025-08-26 14:53:24"
-        },
-        {
-            "source": {
-                "name": "bitcoinworld"
-            },
-            "title": "Google Gemini Unleashes Powerful AI Image Model Upgrade",
-            "url": "https://bitcoinworld.co.in/google-gemini-image-upgrade/",
-            "urlToImage": "https://bitcoinworld.co.in/wp-content/uploads/google-gemini-image-upgrade.jpg",
-            "publishedAt": "2025-08-26 14:50:16"
-        },
-        {
-            "source": {
-                "name": "businesstoday"
-            },
-            "title": "IBM and AMD announce partnership to develop next-gen quantum supercomputing infrastructure",
-            "url": "https://www.businesstoday.in/technology/news/story/ibm-and-amd-announce-partnership-to-develop-next-gen-quantum-supercomputing-infrastructure-491230-2025-08-26",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202508/68adc8dc6c6e8-ibm-and-amd-announce-partnership-to-develop-next-gen-quantum-supercomputing-infrastructure-264646733-16x9.jpg",
-            "publishedAt": "2025-08-26 14:47:08"
-        },
-        {
-            "source": {
-                "name": "arstechnica"
-            },
-            "title": "Google’s AI model just nailed the forecast for the strongest Atlantic storm this year",
-            "url": "https://arstechnica.com/science/2025/08/googles-ai-model-just-nailed-the-forecast-for-the-strongest-atlantic-storm-this-year/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/20252281710_GOES19-ABI-taw-GEOCOLOR-1800x1080-1-1152x648.jpg",
-            "publishedAt": "2025-08-26 14:43:41"
         }
     ]
 }
