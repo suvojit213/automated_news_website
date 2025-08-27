@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-08-27T21:13:55.755008Z",
+    "lastUpdatedAt": "2025-08-27T22:13:47.774276Z",
     "articles": [
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Lens Technology accelerates Liquid Cooling Innovations for AI Systems",
+            "url": "https://www.manilatimes.net/2025/08/28/tmt-newswire/media-outreach-newswire/lens-technology-accelerates-liquid-cooling-innovations-for-ai-systems/2174950",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/28/728389.png",
+            "publishedAt": "2025-08-27T22:04:42Z"
+        },
+        {
+            "source": {
+                "id": "91120a92e0d24e24fbffb6d0affabfe6",
+                "name": "Bangkok Post",
+                "url": "https://www.bangkokpost.com",
+                "country": "th"
+            },
+            "title": "Trip.com says AI, adaptability key to industry's success",
+            "url": "https://www.bangkokpost.com/business/general/3094400/trip-com-says-ai-adaptability-key-to-industrys-success",
+            "urlToImage": "https://static.bangkokpost.com/media/content/dcx/2025/08/28/5757600_700.jpg",
+            "publishedAt": "2025-08-27T21:55:00Z"
+        },
+        {
+            "source": {
+                "id": "09131c39169c9c96230862dc4c1fa727",
+                "name": "CNA",
+                "url": "https://www.channelnewsasia.com",
+                "country": "sg"
+            },
+            "title": "Nvidia forecasts higher revenue but warns of China uncertainty",
+            "url": "https://www.channelnewsasia.com/world/nvidia-forecasts-higher-revenue-warns-china-uncertainty-5318566",
+            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--aRRDiyUD--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2025-08-22t005934z_2_lynxmpel7l00c_rtroptp_3_china-nvidia-chips.jpg?itok=dhcjpuI_",
+            "publishedAt": "2025-08-27T21:39:00Z"
+        },
         {
             "source": {
                 "id": "ec12383a90942fd0ccc50c66266217a5",
@@ -72,6 +108,18 @@
             "url": "https://www.vancouverisawesome.com/national-business/nvidias-latest-quarter-shows-signs-of-slowing-ai-chip-sales-amid-concerns-of-tech-bubble-11134962",
             "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/08/65de631804e8f2bca0656e4f2d3ea361b5176017467c8a2dcdd0166bd6e10920.jpg;w=1200;h=800;mode=crop",
             "publishedAt": "2025-08-27T21:00:04Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "AI helps UK woman rediscover lost voice after 25 years",
+            "url": "https://japantoday.com/category/tech/ai-helps-uk-woman-rediscover-lost-voice-after-25-years",
+            "urlToImage": "https://media.japantoday.com/img/store/bb/85/49af0c2dde3cdd3e82fa5eb149bdf3347872/50ffaa43eb57006a16c1eafe7d31a37d25de4788/_w1700.jpeg",
+            "publishedAt": "2025-08-27T21:00:00Z"
         },
         {
             "source": {
@@ -1152,6 +1200,69 @@
             "url": "https://www.globenewswire.com/news-release/2025/08/27/3140249/0/en/Cybersecurity-Experts-Urge-Lawmakers-to-Pursue-Lawful-Access-Solutions-Without-Compromising-Encryption-Integrity.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/c7c2669f-e638-43a2-abc6-90f61b74c46a",
             "publishedAt": "2025-08-27T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "biztoc"
+            },
+            "title": "Alibaba’s new open-source AI model turns photos into film-quality clips",
+            "url": "https://biztoc.com/x/e08050a08cba371c",
+            "urlToImage": "https://cdn.biztoc.com/e08050a08cba371c_sq.webp",
+            "publishedAt": "2025-08-27 10:10:30"
+        },
+        {
+            "source": {
+                "name": "pcquest"
+            },
+            "title": "Tensor G5: Google advanced AI chip benefits in smartphones",
+            "url": "https://www.pcquest.com/smartphones/tensor-g5-google-advanced-ai-chip-benefits-in-smartphones-9757908",
+            "urlToImage": "https://img-cdn.publive.online/pcq/media/media_files/2025/08/27/tensor-g5-2025-08-27-10-11-17.jpg",
+            "publishedAt": "2025-08-27 10:00:37"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "The best iPad Pro cases of 2025: Expert tested and reviewed",
+            "url": "https://www.zdnet.com/article/best-ipad-pro-case/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/43a26f34723c01f8b201463ea404a1566ceafa3a/2024/07/19/56621419-193f-436d-ba54-8c9fe4bee547/dsc01465.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-08-27 10:00:29"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "The best waterproof smartwatches of 2025: Expert tested and reviewed",
+            "url": "https://www.zdnet.com/article/best-waterproof-smartwatch/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/6701b571904e11de512e4fa825cb57cfcfbabd8c/2024/05/29/8ebe4203-46c3-453d-8522-b169244e5045/apple-watch-ultra-underwater.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-08-27 10:00:24"
+        },
+        {
+            "source": {
+                "name": "notebookcheck"
+            },
+            "title": "Asus ExpertCenter PN54 - Business mini PC with AMD Ryzen AI 7 and modern features in the review",
+            "url": "https://www.notebookcheck.net/Asus-ExpertCenter-PN54-Business-mini-PC-with-AMD-Ryzen-AI-7-and-modern-features-in-the-review.1096722.0.html",
+            "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/Asus/ExpertCenter_PN54-S70012NN/PN54_13.jpg",
+            "publishedAt": "2025-08-27 10:00:00"
+        },
+        {
+            "source": {
+                "name": "bitcoinworld"
+            },
+            "title": "What is Outlier AI and Why is it Gaining Popularity?",
+            "url": "https://bitcoinworld.co.in/what-is-outlier-ai-and-why-is-it-gaining-popularity/",
+            "urlToImage": "https://bitcoinworld.co.in/wp-content/uploads/Google_AI_Studio_2025-08-27T09_26_04.012Z.png",
+            "publishedAt": "2025-08-27 09:39:54"
+        },
+        {
+            "source": {
+                "name": "abplive"
+            },
+            "title": "PCIe Gen5 Revolution: How AI Can Enhance SSD Experience For Users",
+            "url": "https://news.abplive.com/technology/pcie-gen5-revolution-how-ai-can-enhance-ssd-experience-for-users-1796883",
+            "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2025/08/27/223a8de26a16b974b985883bd009a22d1756286171810402_original.jpg",
+            "publishedAt": "2025-08-27 09:16:49"
         },
         {
             "source": {
@@ -3243,105 +3354,6 @@
             "url": "https://arstechnica.com/science/2025/08/googles-ai-model-just-nailed-the-forecast-for-the-strongest-atlantic-storm-this-year/",
             "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/20252281710_GOES19-ABI-taw-GEOCOLOR-1800x1080-1-1152x648.jpg",
             "publishedAt": "2025-08-26 14:43:41"
-        },
-        {
-            "source": {
-                "name": "cnet"
-            },
-            "title": "Best Outdoor Home Security Cameras of 2025: Basic Cams, Floodlights and More",
-            "url": "https://www.cnet.com/home/security/best-outdoor-home-security-cameras/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/3bdc9102cfce86373f6933a6a7ae92026d57ca15/hub/2024/03/07/62ef2e2c-f54c-48ac-9d4a-eb51df856116/pro-4-lifestyle-mounted-2-scaled.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-08-26 14:32:00"
-        },
-        {
-            "source": {
-                "name": "xda_developers"
-            },
-            "title": "Forget about Windows, macOS, and Linux; these 5 FreeBSD distros are worth checking out",
-            "url": "https://www.xda-developers.com/these-freebsd-distros-are-worth-checking-out/",
-            "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2025/06/ghostbsd-21.jpg",
-            "publishedAt": "2025-08-26 14:30:20"
-        },
-        {
-            "source": {
-                "name": "slashgear"
-            },
-            "title": "5 USB Gadgets For The Office That Are Actually Useful",
-            "url": "https://www.slashgear.com/1944950/best-usb-gadgets-office-useful/",
-            "urlToImage": "https://www.slashgear.com/img/gallery/5-usb-gadgets-for-the-office-that-are-actually-useful/l-intro-1755640442.jpg",
-            "publishedAt": "2025-08-26 14:30:00"
-        },
-        {
-            "source": {
-                "name": "economictimes_indiatimes"
-            },
-            "title": "Stanford researchers build a brain-computer that can read your thoughts, but it needs a 'mind password' first. Here's how it works",
-            "url": "https://economictimes.indiatimes.com/magazines/panache/stanford-researchers-build-a-brain-computer-that-can-read-your-thoughts-but-it-needs-a-mind-password-first-heres-how-it-works/articleshow/123527864.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-123527904,width-1200,height-630,imgsize-1263446,overlay-etpanache/articleshow.jpg",
-            "publishedAt": "2025-08-26 14:09:38"
-        },
-        {
-            "source": {
-                "name": "pcworld_us"
-            },
-            "title": "Best online backup: iDrive, Backblaze, Livedrive, and more",
-            "url": "https://www.pcworld.com/article/407149/online-cloud-backup-services-carbonite-idrive-backblaze-livedrive.html",
-            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/08/cloud-backup.jpg?quality=50&strip=all",
-            "publishedAt": "2025-08-26 14:00:00"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "AI, Quantum Computing, and Sustainable Tech: Business Trends and Challenges",
-            "url": "https://www.webpronews.com/ai-quantum-computing-and-sustainable-tech-business-trends-and-challenges/",
-            "urlToImage": "https://www.webpronews.com/ai-quantum-computing-and-sustainable-tech-business-trends-and-challenges/",
-            "publishedAt": "2025-08-26 13:04:26"
-        },
-        {
-            "source": {
-                "name": "sdxcentral"
-            },
-            "title": "Nvidia pushes mid-range RTX Pro servers as enterprise AI entry point",
-            "url": "https://www.sdxcentral.com/news/nvidia-pushes-mid-range-rtx-pro-servers-as-enterprise-ai-entry-point/",
-            "urlToImage": "https://media.datacenterdynamics.com/media/images/RTX_Pro_Server_Image.2e16d0ba.fill-1200x630.png",
-            "publishedAt": "2025-08-26 13:00:04"
-        },
-        {
-            "source": {
-                "name": "pcworld_us"
-            },
-            "title": "Level Lock Pro review: Brilliant design + Matter = best in class",
-            "url": "https://www.pcworld.com/article/2887364/level-lock-pro-review.html",
-            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/08/Level-Lock-Pro-installed.jpg?quality=50&strip=all",
-            "publishedAt": "2025-08-26 13:00:00"
-        },
-        {
-            "source": {
-                "name": "crunchbase"
-            },
-            "title": "Global Investor Jeremy Kranz On Why Not ‘Everything Important Happens In Silicon Valley’",
-            "url": "https://news.crunchbase.com/venture/global-investor-ipo-ai-qa-kranz-sentinel/",
-            "urlToImage": "https://news.crunchbase.com/wp-content/uploads/2021/02/California_.jpg",
-            "publishedAt": "2025-08-26 11:00:42"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "How to Become a Vibe Coder — And Why AI Makes App-Building Effortless",
-            "url": "https://www.tomsguide.com/ai/how-to-become-a-vibe-coder-and-why-ai-makes-app-building-effortless",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/eYzwtTSN8H9ToHX24jSQk4-1280-80.jpg",
-            "publishedAt": "2025-08-26 11:00:00"
-        },
-        {
-            "source": {
-                "name": "expresscomputer"
-            },
-            "title": "Capgemini to acquire Cloud4C, a leader in hybrid cloud platform services",
-            "url": "https://www.expresscomputer.in/news/capgemini-to-acquire-cloud4c-a-leader-in-hybrid-cloud-platform-services/127362/",
-            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2024/03/07180448/cloud-storage-background-business-network-design.jpg",
-            "publishedAt": "2025-08-26 10:50:53"
         }
     ]
 }
