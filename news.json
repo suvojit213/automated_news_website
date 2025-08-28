@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-08-28T06:23:10.973291Z",
+    "lastUpdatedAt": "2025-08-28T07:15:02.689426Z",
     "articles": [
+        {
+            "source": {
+                "id": "4c8b69bf547b577f84acbba5157b439c",
+                "name": "RTE.ie",
+                "url": "https://www.rte.ie",
+                "country": "ie"
+            },
+            "title": "HP beats revenue targets on AI adoption, Windows upgrade",
+            "url": "https://www.rte.ie/news/business/2025/0828/1530550-hp-quarterly-results/",
+            "urlToImage": "https://www.rte.ie/images/00064c87-1600.jpg",
+            "publishedAt": "2025-08-28T06:27:49Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "From Anxiety to Well-being: How AI Chatbots Can Revitalize Mental Health With Eyes Open",
+            "url": "https://economictimes.indiatimes.com/ai/ai-insights/from-anxiety-to-well-being-how-ai-chatbots-can-revitalize-mental-health-with-eyes-open/articleshow/123543011.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-123557216,width-1200,height-630,imgsize-2349101,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-08-28T05:58:00Z"
+        },
         {
             "source": {
                 "id": "e9207083a357fb7e76b38e485888ebe7",
@@ -24,6 +48,18 @@
             "url": "https://www.afr.com/work-and-careers/workplace/wharfies-to-get-monumental-pay-rise-of-up-to-32pc-20250828-p5mqlw",
             "urlToImage": "https://static.ffx.io/images/$zoom_0.1462%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_88/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/33cb023af5004813aa6dc4d72f17d89ca70b6fd8",
             "publishedAt": "2025-08-28T05:23:11Z"
+        },
+        {
+            "source": {
+                "id": "93a4f054e09bde095cda5265e575a952",
+                "name": "Telegraph India",
+                "url": "https://www.telegraphindia.com",
+                "country": "in"
+            },
+            "title": "Rise of artificial intelligence lobby in Silicon Valley as tech leaders fund big political push - Telegraph India",
+            "url": "https://www.telegraphindia.com/business/rise-of-artificial-intelligence-lobby-in-silicon-valley-as-tech-leaders-fund-big-political-push-prnt/cid/2120098",
+            "urlToImage": "https://assets.telegraphindia.com/telegraph/2025/Aug/1756357754_new-project-10.jpg",
+            "publishedAt": "2025-08-28T05:10:08Z"
         },
         {
             "source": {
@@ -1500,6 +1536,33 @@
             "url": "https://www.globenewswire.com/news-release/2025/08/27/3140249/0/en/Cybersecurity-Experts-Urge-Lawmakers-to-Pursue-Lawful-Access-Solutions-Without-Compromising-Encryption-Integrity.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/c7c2669f-e638-43a2-abc6-90f61b74c46a",
             "publishedAt": "2025-08-27T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "reviewjournal"
+            },
+            "title": "State, federal officials to hold briefing on Nevada cyberattack",
+            "url": "https://www.reviewjournal.com/news/politics-and-government/nevada/state-offices-enter-third-day-of-closure-amid-cyberattack-3430636/",
+            "urlToImage": "https://www.reviewjournal.com/wp-content/uploads/2025/08/20813004_web1_web-CYBERSECURITY-FOLO-AUG27-25.jpg",
+            "publishedAt": "2025-08-27 19:04:47"
+        },
+        {
+            "source": {
+                "name": "engadget"
+            },
+            "title": "The best Android phones for 2025",
+            "url": "https://www.engadget.com/mobile/smartphones/best-android-phone-130030805.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?client=19f2b5e49a271b2bde77&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-08%2F527d37a0-8347-11f0-b7c9-56e8e5b705ef&resize=1400%2C787&signature=3caf19139cb3ccc581920df6acdb2b31e61d0492",
+            "publishedAt": "2025-08-27 19:01:27"
+        },
+        {
+            "source": {
+                "name": "pcworld_us"
+            },
+            "title": "The best monitors: 11 top picks for gaming, 4K, HDR, and more",
+            "url": "https://www.pcworld.com/article/811315/best-monitors-2.html",
+            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/08/alienware-aw3423dw-1.jpg?quality=50&strip=all",
+            "publishedAt": "2025-08-27 18:30:00"
         },
         {
             "source": {
@@ -3288,78 +3351,6 @@
             "url": "https://www.ndtvprofit.com/science/nasa-ibm-develop-surya-heres-how-advanced-ai-model-can-protect-from-solar-storms",
             "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-08-26%2F66p1ye6g%2FWhatsApp-Image-2025-08-26-at-14.10.26.jpeg?w=1200&auto=format%2Ccompress&ogImage=true",
             "publishedAt": "2025-08-26T08:43:20Z"
-        },
-        {
-            "source": {
-                "id": "5c8d93bfca2d486f14a94e72edb17b6c",
-                "name": "Business Recorder",
-                "url": "https://www.brecorder.com",
-                "country": "pk"
-            },
-            "title": "AI-based risk management system to be activated soon",
-            "url": "https://www.brecorder.com/news/40379722/ai-based-risk-management-system-to-be-activated-soon",
-            "urlToImage": "https://i.brecorder.com/large/2025/08/261324507b828ef.webp",
-            "publishedAt": "2025-08-26T08:25:29Z"
-        },
-        {
-            "source": {
-                "id": "5c8d93bfca2d486f14a94e72edb17b6c",
-                "name": "Business Recorder",
-                "url": "https://www.brecorder.com",
-                "country": "pk"
-            },
-            "title": "Customs clearance: AI-based risk management system to be activated soon",
-            "url": "https://www.brecorder.com/news/40379722/customs-clearance-ai-based-risk-management-system-to-be-activated-soon",
-            "urlToImage": "https://i.brecorder.com/large/2025/08/261324507b828ef.webp",
-            "publishedAt": "2025-08-26T08:25:29Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "AI is redefining academic libraries, says RTMNU professor at global conference",
-            "url": "https://timesofindia.indiatimes.com/city/kolkata/ai-is-redefining-academic-libraries-says-rtmnu-professor-at-global-conference/articleshow/123521266.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-123521336,width-1070,height-580,imgsize-1544771,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "publishedAt": "2025-08-26T08:24:00Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Thane Police's Cyber Warriors: A New Era in Crime Detection",
-            "url": "https://www.devdiscourse.com/article/law-order/3603570-thane-polices-cyber-warriors-a-new-era-in-crime-detection",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/26_08_2025_08_14_45_418961.png?width=920&format=jpeg",
-            "publishedAt": "2025-08-26T08:14:45Z"
-        },
-        {
-            "source": {
-                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-                "name": "WTOP",
-                "url": "https://wtop.com",
-                "country": "us"
-            },
-            "title": "Study says AI chatbots inconsistent in handling suicide-related queries",
-            "url": "https://wtop.com/national/2025/08/study-says-ai-chatbots-inconsistent-in-handling-suicide-related-queries/",
-            "urlToImage": "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png",
-            "publishedAt": "2025-08-26T08:06:21Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "AI chatbots found to be inconsistent in answering questions about suicide",
-            "url": "https://medicalxpress.com/news/2025-08-ai-chatbots-inconsistent-suicide.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/chatgpt.jpg",
-            "publishedAt": "2025-08-26T08:00:01Z"
         }
     ]
 }
