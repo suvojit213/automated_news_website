@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-08-28T03:37:18.720212Z",
+    "lastUpdatedAt": "2025-08-28T04:18:12.749048Z",
     "articles": [
+        {
+            "source": {
+                "id": "10cbfb3760cfcdeb78c733c527f0e814",
+                "name": "iTWire",
+                "url": "https://itwire.com",
+                "country": "au"
+            },
+            "title": "Fortinet named a leader in the 2025 Gartner® Magic Quadrant™ for Hybrid Mesh Firewall",
+            "url": "https://itwire.com/guest-articles/company-news/fortinet-named-a-leader-in-the-2025-gartner%C2%AE-magic-quadrant%E2%84%A2-for-hybrid-mesh-firewall.html",
+            "urlToImage": "https://itwire.com/media/k2/items/cache/ca3e09687f554334fb02693c2d3b6699_XS.jpg",
+            "publishedAt": "2025-08-28T03:50:10Z"
+        },
+        {
+            "source": {
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
+            },
+            "title": "UN creates artificial intelligence advisory panel",
+            "url": "https://www.straitstimes.com/world/united-states/un-creates-artificial-intelligence-advisory-panel",
+            "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/287818c6a988375133a69fcb7b15351c5483ea8e5368d01ea0de8f6fad52cf09",
+            "publishedAt": "2025-08-28T03:45:00Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Nvidia CEO says AI boom far from over",
+            "url": "https://www.reuters.com/business/nvidia-ceo-says-ai-boom-far-over-2025-08-28/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/2E6VRBMDCFJWRKJQEM3AU5X35M.jpg?auth=3f4e961d91973da550be7cdeda0d5038933f5d26e0728c16c279bccff2ace52f&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-08-28T03:03:06Z"
+        },
         {
             "source": {
                 "id": "d4e7f6a65e15620f4e4044691a99d0fd",
@@ -1392,6 +1428,60 @@
             "url": "https://www.globenewswire.com/news-release/2025/08/27/3140249/0/en/Cybersecurity-Experts-Urge-Lawmakers-to-Pursue-Lawful-Access-Solutions-Without-Compromising-Encryption-Integrity.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/c7c2669f-e638-43a2-abc6-90f61b74c46a",
             "publishedAt": "2025-08-27T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "newscientist"
+            },
+            "title": "Light-based AI image generator uses almost no power",
+            "url": "https://www.newscientist.com/article/2494141-light-based-ai-image-generator-uses-almost-no-power/",
+            "urlToImage": "https://images.newscientist.com/wp-content/uploads/2025/08/27142425/SEI_263486522.jpg",
+            "publishedAt": "2025-08-27 16:00:27"
+        },
+        {
+            "source": {
+                "name": "space"
+            },
+            "title": "How old is Jupiter? Meteorite 'raindrops' help scientists pin down gas giant's age",
+            "url": "https://www.space.com/astronomy/jupiter/how-old-is-jupiter-meteorite-raindrops-help-scientists-pin-down-gas-giants-age",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/7LHQqDGH6N8o4BY9GXJCAQ-1280-80.jpg",
+            "publishedAt": "2025-08-27 16:00:00"
+        },
+        {
+            "source": {
+                "name": "yahoo"
+            },
+            "title": "How old is Jupiter? Meteorite 'raindrops' help scientists pin down gas giant's age",
+            "url": "https://www.yahoo.com/news/articles/old-jupiter-meteorite-raindrops-help-160000361.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/WZ.9XqfU9B0c6MVVXvf55Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTk2MDtjZj13ZWJw/https://media.zenfs.com/en/space_311/04b559b2f0ce84c720fd4266265f412c",
+            "publishedAt": "2025-08-27 16:00:00"
+        },
+        {
+            "source": {
+                "name": "analyticsindiamag"
+            },
+            "title": "IBM and AMD Partner to Advance Quantum Supercomputing",
+            "url": "https://analyticsindiamag.com/ai-news-updates/ibm-and-amd-partner-to-advance-quantum-supercomputing/",
+            "urlToImage": "https://analyticsindiamag.com/wp-content/uploads/2025/07/IBM.jpg",
+            "publishedAt": "2025-08-27 15:58:36"
+        },
+        {
+            "source": {
+                "name": "recentlyheard"
+            },
+            "title": "September iPhone update alarms Republican fundraisers over text filtering",
+            "url": "https://www.recentlyheard.com/september-iphone-update-alarms-republican-fundraisers-over-text-filtering/",
+            "urlToImage": "https://www.recentlyheard.com/wp-content/uploads/2025/08/1756310291_September-iPhone-update-alarms-Republican-fundraisers-over-text-filtering.png",
+            "publishedAt": "2025-08-27 15:58:10"
+        },
+        {
+            "source": {
+                "name": "bitcoinworld"
+            },
+            "title": "Mark Cuban’s Masterful Disruption Strategy: How AI Innovation Transforms Business",
+            "url": "https://bitcoinworld.co.in/cuban-ai-disruption-strategy/",
+            "urlToImage": "https://bitcoinworld.co.in/wp-content/uploads/cuban-ai-disruption-strategy.jpg",
+            "publishedAt": "2025-08-27 15:50:11"
         },
         {
             "source": {
@@ -3321,87 +3411,6 @@
             "url": "https://venturebeat.com/ai/how-procedural-memory-can-cut-the-cost-and-complexity-of-ai-agents/",
             "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/08/llm-agent-memory.jpg?w=750",
             "publishedAt": "2025-08-26 23:37:23"
-        },
-        {
-            "source": {
-                "name": "venturebeat"
-            },
-            "title": "AWS, Microsoft and Google unite behind Linux Foundation DocumentDB database to cut enterprise costs and limit vendor lock-in",
-            "url": "https://venturebeat.com/data-infrastructure/aws-microsoft-and-google-unite-behind-linux-foundation-documentdb-database-to-cut-enterprise-costs-and-limit-vendor-lock-in/",
-            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/08/microsoft_aws_goog_documentdb-smk.png?w=750",
-            "publishedAt": "2025-08-26 23:02:04"
-        },
-        {
-            "source": {
-                "name": "thestreet"
-            },
-            "title": "114-year-old tech company makes deal to become quantum computing leader",
-            "url": "https://www.thestreet.com/technology/114-year-old-technology-goliath-bets-big-on-quantum-computing",
-            "urlToImage": "https://www.thestreet.com/.image/c_fit,h_800,w_1200/MjExNzY3MTMzNTEwNTc1NjUx/quantum_computers_stocks_kl.jpg",
-            "publishedAt": "2025-08-26 22:37:00"
-        },
-        {
-            "source": {
-                "name": "venturebeat"
-            },
-            "title": "Anthropic launches Claude for Chrome in limited beta, but prompt injection attacks remain a major concern",
-            "url": "https://venturebeat.com/ai/anthropic-launches-claude-for-chrome-in-limited-beta-but-prompt-injection-attacks-remain-a-major-concern/",
-            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/08/nuneybits_a_simple_hand-drawn_illustration_of_an_open_web_page__c908bef6-37a0-486e-bcb2-59cef9c8c501.webp?w=750",
-            "publishedAt": "2025-08-26 22:22:13"
-        },
-        {
-            "source": {
-                "name": "arstechnica"
-            },
-            "title": "After teen suicide, OpenAI claims it is “helping people when they need it most”",
-            "url": "https://arstechnica.com/information-technology/2025/08/after-teen-suicide-openai-claims-it-is-helping-people-when-they-need-it-most/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/openai_tectonic_shift_3-1152x648.jpg",
-            "publishedAt": "2025-08-26 22:08:38"
-        },
-        {
-            "source": {
-                "name": "bgr_com"
-            },
-            "title": "Security Researchers Hacked Google Calendar Using AI And Hidden Text In Images",
-            "url": "https://www.bgr.com/1951379/google-calendar-hacked-ai-hidden-text/",
-            "urlToImage": "https://www.bgr.com/img/gallery/security-researchers-hacked-google-calendar-using-ai-and-hidden-text-in-images/l-intro-1756245669.jpg",
-            "publishedAt": "2025-08-26 22:03:28"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Medical Image Retrieval Needs a New Benchmark",
-            "url": "https://hackernoon.com/medical-image-retrieval-needs-a-new-benchmark",
-            "urlToImage": "https://hackernoon.imgix.net/images/5wpKgV75aONqkTJlafw2yQmK9yd2-4m039q6.png",
-            "publishedAt": "2025-08-26 21:35:48"
-        },
-        {
-            "source": {
-                "name": "arstechnica"
-            },
-            "title": "DOGE accused of copying entire Social Security database to insecure cloud system",
-            "url": "https://arstechnica.com/tech-policy/2025/08/doge-accused-of-copying-entire-social-security-database-to-insecure-cloud-system/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/doge-caucus-1152x648-1748453404.jpg",
-            "publishedAt": "2025-08-26 21:04:23"
-        },
-        {
-            "source": {
-                "name": "techradar"
-            },
-            "title": "Acemagic's new Ryzen AI 9 mini PC is a better deal than Geekom's HX370 model - F5A costs far less, has Wi-Fi 7, and OCuLink",
-            "url": "https://www.techradar.com/pro/acemagics-new-ryzen-ai-9-mini-pc-is-a-better-deal-than-geekoms-hx370-model-f5a-costs-far-less-has-wi-fi-7-and-oculink",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/caenLaMhXN4iLgdNbkBJ65.png",
-            "publishedAt": "2025-08-26 21:04:00"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Why Bitcoin Won’t Save You From Tyranny, Inflation, or Market Collapse",
-            "url": "https://hackernoon.com/why-bitcoin-wont-save-you-from-tyranny-inflation-or-market-collapse",
-            "urlToImage": "https://hackernoon.imgix.net/images/a-shattered-bitcoin-coin-breaking-apart-with-gold-bars-and-fiat-money-standing-intact-nearby-qche0l3s70g26rzmm8xyqszu.png",
-            "publishedAt": "2025-08-26 21:01:53"
         }
     ]
 }
