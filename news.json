@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-08-28T04:18:12.749048Z",
+    "lastUpdatedAt": "2025-08-28T05:15:08.946556Z",
     "articles": [
+        {
+            "source": {
+                "id": "458ddf355ab77631d3eb3dd84a0351b4",
+                "name": "Business Insider",
+                "url": "https://www.businessinsider.com",
+                "country": "us"
+            },
+            "title": "Ukraine Wants to Turn Wartime Data Into Bargaining 'Card' With Allies",
+            "url": "https://www.businessinsider.com/ukraine-turn-wartime-data-bargaining-chip-card-allies-fedorov-drones-2025-8",
+            "urlToImage": "https://i.insider.com/68afcac5cfc04e97619c2bf3?width=1200&format=jpeg",
+            "publishedAt": "2025-08-28T04:33:23Z"
+        },
+        {
+            "source": {
+                "id": "cc0de8416f75329df7c88d7524745d12",
+                "name": "Birmingham Live",
+                "url": "https://www.birminghammail.co.uk",
+                "country": "gb"
+            },
+            "title": "HMRC checking people's social media accounts to 'increase tax compliance'",
+            "url": "https://www.birminghammail.co.uk/news/cost-of-living/hmrc-checking-peoples-social-media-32361235",
+            "urlToImage": "https://i2-prod.birminghammail.co.uk/article32361296.ece/ALTERNATES/s1200/0_hmrc8.jpg",
+            "publishedAt": "2025-08-28T04:32:00Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "TCS shares in focus as IT major sets up new AI transformation unit",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-shares-in-focus-as-it-major-sets-up-new-ai-transformation-unit/articleshow/123555817.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-123555801,width-1200,height-630,imgsize-261960,overlay-etmarkets/articleshow.jpg",
+            "publishedAt": "2025-08-28T04:22:00Z"
+        },
+        {
+            "source": {
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
+                "country": "us"
+            },
+            "title": "Trump's First-Term Ban On EUV Tools Stalled Huawei, SMIC, Cambricon - Now China's Chip Factories Are Roaring Back, Warns David Sacks",
+            "url": "https://www.benzinga.com/markets/tech/25/08/47375602/trumps-first-term-ban-on-euv-tools-stalled-huawei-smic-cambricon-now-chinas-chip-factories-are-roaring-back-warns-david-sacks",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/08/28/National-Harbor--Md--Usa--February-24--2.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2025-08-28T04:20:05Z"
+        },
         {
             "source": {
                 "id": "10cbfb3760cfcdeb78c733c527f0e814",
@@ -1428,6 +1476,78 @@
             "url": "https://www.globenewswire.com/news-release/2025/08/27/3140249/0/en/Cybersecurity-Experts-Urge-Lawmakers-to-Pursue-Lawful-Access-Solutions-Without-Compromising-Encryption-Integrity.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/c7c2669f-e638-43a2-abc6-90f61b74c46a",
             "publishedAt": "2025-08-27T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "techtarget"
+            },
+            "title": "AI in sports: How modern tools are changing analytics",
+            "url": "https://www.techtarget.com/searchbusinessanalytics/feature/AI-in-sports-How-modern-tools-are-changing-analytics",
+            "urlToImage": "https://www.techtarget.com/rms/onlineimages/ransom_g1249114648_searchsitetablet_520X173.jpg",
+            "publishedAt": "2025-08-27 17:14:00"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "Over Half a Million Hit in Major Healthcare Data Breach With SSNs, Financial Info and More Exposed — What to Do Now",
+            "url": "https://www.tomsguide.com/computing/online-security/over-half-a-million-hit-in-major-healthcare-data-breach-with-ssns-financial-info-and-more-exposed-what-to-do-now",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/LMDEozUrCU7N8gtDxeKte3-1280-80.jpg",
+            "publishedAt": "2025-08-27 17:13:13"
+        },
+        {
+            "source": {
+                "name": "news_unomaha"
+            },
+            "title": "This UNO and UNMC Project Could Revolutionize How Nutrition Advice is Delivered to Expectant Mothers",
+            "url": "https://www.unomaha.edu/news/2025/08/this-uno-and-unmc-project-could-revolutionize-how-nutrition-advice-is-delivered-to-expectant-mothers.php",
+            "urlToImage": "https://www.unomaha.edu/news/2025/08/img/shutterstock_1684310332.jpg",
+            "publishedAt": "2025-08-27 17:11:28"
+        },
+        {
+            "source": {
+                "name": "thehackernews"
+            },
+            "title": "Someone Created First AI-Powered Ransomware Using OpenAI's gpt-oss:20b Model",
+            "url": "https://thehackernews.com/2025/08/someone-created-first-ai-powered.html",
+            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8UnVH7RFSemTqAZaC-mJxAeNXjOxPNj_YFdOlwc4hSzD6AHMcFMrhF81DXO_EQnBVoT6mmHPS3VKJOXn8tRE84zcB1YZrWGLuw9GKrX-NBwxrZLHZDuIjgmhrT-uIf7kyz3NlflfnqosRJWdWz_TycH_uPw5RzvO0ZlgocLzl9XnB2ZrgVaFoQs-UlVLz/s1600/ai-ransomware.jpg",
+            "publishedAt": "2025-08-27 17:07:00"
+        },
+        {
+            "source": {
+                "name": "engadget"
+            },
+            "title": "Google Pixel 10 Pro and Pro XL review: Redefining the smart in smartphone",
+            "url": "https://www.engadget.com/mobile/smartphones/google-pixel-10-pro-and-pro-xl-review-redefining-the-smart-in-smartphone-170031073.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?client=19f2b5e49a271b2bde77&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-08%2F8ab8f560-82c9-11f0-aefd-f69327abddc1&resize=1400%2C840&signature=ccd6fe6d1ed466f81b002784cf42b8f0f1dffbf5",
+            "publishedAt": "2025-08-27 17:00:31"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "My first week with Google Pixel 10 Pro gave me a taste of AI superphones - and I'm nearly sold",
+            "url": "https://www.zdnet.com/article/my-first-week-with-google-pixel-10-pro-gave-me-a-taste-of-ai-superphones-and-im-nearly-sold/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/bc31603f0814fc694a222d76e85343c4243bdf73/2025/08/27/d87a62ac-8c57-443c-a771-921d18c8eca2/dsc07416.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-08-27 17:00:21"
+        },
+        {
+            "source": {
+                "name": "androidheadlines"
+            },
+            "title": "Google Pixel 10 Pro XL Ultimate Review: Google’s Biggest, Boldest Phone Yet?",
+            "url": "https://www.androidheadlines.com/2025/08/google-pixel-10-pro-xl-ultimate-review-googles-biggest-boldest-phone-yet.html",
+            "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2025/08/Google-Pixel-10-Pro-XL-featured-AH-1420x799.webp",
+            "publishedAt": "2025-08-27 16:59:35"
+        },
+        {
+            "source": {
+                "name": "fortune"
+            },
+            "title": "How Cisco Systems’ CIO is rethinking work in an AI-powered world for the company’s 10,000 IT employees",
+            "url": "https://fortune.com/2025/08/27/how-cisco-systems-cio-is-rethinking-work-in-an-ai-powered-world-for-the-companys-10000-it-employees/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/08/Fletcher_Previn_HiRes-e1756245527726.jpg?w=2048",
+            "publishedAt": "2025-08-27 16:27:28"
         },
         {
             "source": {
@@ -3270,147 +3390,6 @@
             "url": "https://www.deccanchronicle.com/business/elon-musk-accuses-apple-openai-of-stifling-ai-competition-in-antitrust-suit-1899756",
             "urlToImage": "https://www.deccanchronicle.com/h-upload/2025/08/26/1951625-aa-5386647.jpg",
             "publishedAt": "2025-08-26T04:15:33Z"
-        },
-        {
-            "source": {
-                "id": "549a7a859b2345bbe231b00e7244ef99",
-                "name": "Engadget",
-                "url": "https://www.engadget.com",
-                "country": "us"
-            },
-            "title": "US Attorneys General tell AI companies they 'will be held accountable' for child safety failures",
-            "url": "https://www.engadget.com/ai/us-attorneys-general-tell-ai-companies-they-will-be-held-accountable-for-child-safety-failures-035213253.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Q3y6.ewFlBQY85RqKIaOaw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-08/c8ebf7b0-821f-11f0-9fba-8c0b812e43df",
-            "publishedAt": "2025-08-26T03:52:13Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Musk's xAI sues Apple, OpenAI alleging antitrust violations",
-            "url": "https://www.manilatimes.net/2025/08/26/business/foreign-business/musks-xai-sues-apple-openai-alleging-antitrust-violations/2173551",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/26/725772.jpg",
-            "publishedAt": "2025-08-26T03:22:00Z"
-        },
-        {
-            "source": {
-                "id": "6fea3ee012f060c6309366516e8d00be",
-                "name": "News-Medical.net",
-                "url": "https://www.news-medical.net",
-                "country": "gb"
-            },
-            "title": "Generative AI model scans emergency notes to identify high-risk avian influenza exposures",
-            "url": "https://www.news-medical.net/news/20250825/Generative-AI-model-scans-emergency-notes-to-identify-high-risk-avian-influenza-exposures.aspx",
-            "urlToImage": "https://www.news-medical.net/image-handler/picture/2014/7/pigeons-620x480.jpg",
-            "publishedAt": "2025-08-26T02:37:00Z"
-        },
-        {
-            "source": {
-                "id": "91120a92e0d24e24fbffb6d0affabfe6",
-                "name": "Bangkok Post",
-                "url": "https://www.bangkokpost.com",
-                "country": "th"
-            },
-            "title": "Malaysia unveils first AI device chip to join global race",
-            "url": "https://www.bangkokpost.com/business/general/3093233/malaysia-unveils-first-ai-device-chip-to-join-global-race",
-            "urlToImage": "https://static.bangkokpost.com/media/content/20250826/c1_3093233_250826093207_700.jpg",
-            "publishedAt": "2025-08-26T02:31:00Z"
-        },
-        {
-            "source": {
-                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-                "name": "New York Post",
-                "url": "https://nypost.com",
-                "country": "us"
-            },
-            "title": "Google AI system promotes outlandish fake overview of Jeff Bezos mom's funeral: report",
-            "url": "https://nypost.com/2025/08/25/us-news/google-ai-system-promotes-outlandish-fake-overview-of-jeff-bezos-moms-funeral-report/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/08/bezos-comp.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2025-08-26T02:25:48Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Nevada Faces Tech Turmoil Post Network Security Incident",
-            "url": "https://www.devdiscourse.com/article/technology/3603191-nevada-faces-tech-turmoil-post-network-security-incident",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/21_07_2025_16_19_46_1878041.png?width=920&format=jpeg",
-            "publishedAt": "2025-08-26T01:04:01Z"
-        },
-        {
-            "source": {
-                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-                "name": "Markets Insider",
-                "url": "https://markets.businessinsider.com",
-                "country": "us"
-            },
-            "title": "“Dedicated Associates and Machine Learning…” Home Depot (NYSE:HD) Focuses on Faster Deliveries",
-            "url": "https://markets.businessinsider.com/news/stocks/dedicated-associates-and-machine-learning-home-depot-nyse-hd-focuses-on-faster-deliveries-1035074277",
-            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/08/Screenshot-2025-08-25-at-12-29-43-Home-Depot-HD-Stock-Forecast-Price-Targets-and-Analysts-Predictions-1024x755.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-            "publishedAt": "2025-08-26T00:33:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "IT expands Australia, Middle East, Nordic revenue streams to cut US drama",
-            "url": "https://economictimes.indiatimes.com/tech/information-tech/it-expands-oz-middle-east-nordic-revenue-streams-to-cut-us-drama/articleshow/123511887.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-34872,resizemode-75,msid-123511887/tech/information-tech/it-expands-oz-middle-east-nordic-revenue-streams-to-cut-us-drama.jpg",
-            "publishedAt": "2025-08-26T00:30:00Z"
-        },
-        {
-            "source": {
-                "id": "8e9ab8327c5f7903cc1b50470411d165",
-                "name": "GlobeNewswire",
-                "url": "https://www.globenewswire.com",
-                "country": "us"
-            },
-            "title": "Thailand Managed Security Services Market Forecast and",
-            "url": "https://www.globenewswire.com/news-release/2025/08/26/3139025/28124/en/Thailand-Managed-Security-Services-Market-Forecast-and-Competition-Analysis-Report-2025-Cloud-Adoption-and-Remote-Work-Fueling-Thailand-s-Managed-Security-Services-Market-Growth-at.html",
-            "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-            "publishedAt": "2025-08-26T00:00:00Z"
-        },
-        {
-            "source": {
-                "id": "8e9ab8327c5f7903cc1b50470411d165",
-                "name": "GlobeNewswire",
-                "url": "https://www.globenewswire.com",
-                "country": "us"
-            },
-            "title": "Final 2 Days to Register! St. Louis C-suite executives",
-            "url": "https://www.globenewswire.com/news-release/2025/08/26/3139406/0/en/Final-2-Days-to-Register-St-Louis-C-suite-executives-invited-to-HMG-Strategy-s-11th-Annual-C-Level-Technology-Leadership-Summit-on-August-28.html",
-            "urlToImage": "https://ml.globenewswire.com/Resource/Download/4b886685-faf4-4f80-8e8a-77cac364fa1b",
-            "publishedAt": "2025-08-26T00:00:00Z"
-        },
-        {
-            "source": {
-                "id": "8e9ab8327c5f7903cc1b50470411d165",
-                "name": "GlobeNewswire",
-                "url": "https://www.globenewswire.com",
-                "country": "us"
-            },
-            "title": "Cybersecurity Visionary Len Noe",
-            "url": "https://www.globenewswire.com/news-release/2025/08/26/3139409/0/en/From-Human-to-Cyborg-Cybersecurity-Visionary-Len-Noe-Unveils-Explosive-Documentary-I-Am-Machine-at-Hacker-Halted.html",
-            "urlToImage": "https://ml.globenewswire.com/Resource/Download/9b3db11b-3408-4b15-86d6-d79e50a38cf8",
-            "publishedAt": "2025-08-26T00:00:00Z"
-        },
-        {
-            "source": {
-                "name": "venturebeat"
-            },
-            "title": "How procedural memory can cut the cost and complexity of AI agents",
-            "url": "https://venturebeat.com/ai/how-procedural-memory-can-cut-the-cost-and-complexity-of-ai-agents/",
-            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/08/llm-agent-memory.jpg?w=750",
-            "publishedAt": "2025-08-26 23:37:23"
         }
     ]
 }
