@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2025-08-28T19:12:10.119223Z",
+    "lastUpdatedAt": "2025-08-28T20:16:40.745965Z",
     "articles": [
+        {
+            "source": {
+                "id": "dd1d806725f45e4403e75c1bb23b447a",
+                "name": "The Irish Times",
+                "url": "https://www.irishtimes.com",
+                "country": "ie"
+            },
+            "title": "The Irish Times view on AI: is this a stock market bubble which could burst?",
+            "url": "https://www.irishtimes.com/opinion/editorials/2025/08/28/the-irish-times-view-on-ai-is-this-a-bubble-which-could-burst/",
+            "urlToImage": "https://www.irishtimes.com/resizer/v2/HIDAQ33Z43JC26QNRBJSIJ7NLU.jpg?smart=true&auth=3228518d2c831fca491925789f0252078d2e0f2a3b078672c07d97398767676b&width=1200&height=630",
+            "publishedAt": "2025-08-28T20:00:00Z"
+        },
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "Universities could bolster democracy by fostering students' AI literacy",
+            "url": "https://phys.org/news/2025-08-universities-bolster-democracy-fostering-students.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/ai-literacy.jpg",
+            "publishedAt": "2025-08-28T19:48:04Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Musk's xAI forays into agentic coding with new model",
+            "url": "https://www.reuters.com/business/musks-xai-forays-into-agentic-coding-with-new-model-2025-08-28/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/4U7DTNM6QFPZ5H2ENZRTSNNKDU.jpg?auth=11721cca97e74ce50fec710eca8b82558670f56acfb2255105b80a6e86960166&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-08-28T19:32:18Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "23-year-old Indian-American engineer who quit Amazon for $400,000 AI job offer from Meta has tips for students and those looking for job in AI",
+            "url": "https://timesofindia.indiatimes.com/technology/social/23-year-old-indian-american-engineer-who-quit-amazon-for-400000-ai-job-offer-from-meta-has-tips-for-students-and-those-looking-for-job-in-ai/articleshow/123572017.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-123572016,width-1070,height-580,imgsize-16616,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-08-28T19:25:00Z"
+        },
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "Frequent use of AI may hinder students' academic performance",
+            "url": "https://phys.org/news/2025-08-frequent-ai-hinder-students-academic.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/student-at-computer.jpg",
+            "publishedAt": "2025-08-28T19:13:55Z"
+        },
+        {
+            "source": {
+                "id": "7f6e8514e9d8f8376aaa9a7229861518",
+                "name": "PerthNow",
+                "url": "https://www.perthnow.com.au",
+                "country": "au"
+            },
+            "title": "Aussie firms want clear AI laws to meet tech challenge",
+            "url": "https://www.perthnow.com.au/news/business/aussie-firms-want-clear-ai-laws-to-meet-tech-challenge-c-19840397",
+            "urlToImage": "https://images.perthnow.com.au/publication/C-19840397/de0027d43f36514a8e4f1ecb4e304e5230ff04de-16x9-x0y0w1280h720.jpg?imwidth=1200",
+            "publishedAt": "2025-08-28T19:02:25Z"
+        },
         {
             "source": {
                 "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
@@ -12,6 +84,18 @@
             "url": "https://www.cnbc.com/2025/08/28/microsoft-tests-mai-1-preview-ai-model-boost-to-copilot-rival-openai.html",
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/108192018-1756403834043-gettyimages-2207890426-MICROSOFT_COPILOT.jpeg?v=1756403916&w=1920&h=1080",
             "publishedAt": "2025-08-28T18:32:54Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - Nvidia's AI Momentum Propels Wall Street's Record Highs",
+            "url": "https://www.devdiscourse.com/live-discourse/8922-artificial-intelligence-revolutionizing-every-aspect-of-life",
+            "urlToImage": "https://www.devdiscourse.com?width=1280&format=jpeg",
+            "publishedAt": "2025-08-28T18:30:22Z"
         },
         {
             "source": {
@@ -1044,6 +1128,78 @@
             "url": "https://www.fool.ca/2025/08/27/this-artificial-intelligence-ai-stock-could-be-the-best-bargain-in-the-market-right-now/",
             "urlToImage": "https://www.fool.ca/wp-content/uploads/2025/07/GettyImages-1339716843-1200x594.jpg",
             "publishedAt": "2025-08-28T00:15:00Z"
+        },
+        {
+            "source": {
+                "name": "toi"
+            },
+            "title": "Super 30 founder Anand Kumar says teachers should use AI to stay ahead: 5 lessons educators can’t afford to miss",
+            "url": "https://timesofindia.indiatimes.com/education/careers/news/super-30-founder-anand-kumar-says-teachers-should-use-ai-to-stay-ahead-5-lessons-every-educator-cant-afford-to-miss/articleshow/123559207.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-123559242,imgsize-43810,width-400,resizemode-4/123559242.jpg",
+            "publishedAt": "2025-08-28 08:15:44"
+        },
+        {
+            "source": {
+                "name": "computerweekly"
+            },
+            "title": "Nvidia’s Jensen Huang lobbies Trump administration to sell Blackwell to China",
+            "url": "https://www.computerweekly.com/news/366629948/Nvidias-Jensen-Huang-lobbies-Trump-administration-to-sell-Blackwell-to-China",
+            "urlToImage": "https://www.computerweekly.com/visuals/German/article/botnet-2-adobe_searchsitetablet_520X173.jpg",
+            "publishedAt": "2025-08-28 08:15:00"
+        },
+        {
+            "source": {
+                "name": "telecom_economictimes"
+            },
+            "title": "Enterprises unlikely to invest in private 5G in absence of business case: Infosys’ Dinesh Rao",
+            "url": "https://telecom.economictimes.indiatimes.com/news/enterprise-services/infosys-enterprises-hesitant-to-invest-in-private-5g-without-clear-roi/123559422",
+            "urlToImage": "https://etimg.etb2bimg.com/photo/123559421.cms",
+            "publishedAt": "2025-08-28 08:04:07"
+        },
+        {
+            "source": {
+                "name": "hackaday"
+            },
+            "title": "The (Data) Plot Thickens",
+            "url": "https://hackaday.com/2025/08/28/the-data-plot-thickens/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2025/08/sos.png",
+            "publishedAt": "2025-08-28 08:00:47"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "How to Prevent ChatGPT From Using Your Data?",
+            "url": "https://www.analyticsinsight.net/chatgpt/how-to-prevent-chatgpt-from-using-your-data",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-08-28%2Ftut4rw3k%2FHow-to-Prevent-ChatGPT-From-Using-Your-Data-2.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-08-28 08:00:00"
+        },
+        {
+            "source": {
+                "name": "en_prnasisa"
+            },
+            "title": "viaim Presents OpenNote at IFA 2025, Stylish AI Earbuds Designed for Work, Inspiration, and Everyday Life",
+            "url": "https://en.prnasia.com/story/501266-0.shtml",
+            "urlToImage": "https://mma.prnasia.com/media2/2759017/viaim.jpg?p=medium600",
+            "publishedAt": "2025-08-28 08:00:00"
+        },
+        {
+            "source": {
+                "name": "computerworld_in"
+            },
+            "title": "AI PCs to surge, claiming over half the market by 2026",
+            "url": "https://www.computerworld.com/article/4047019/ai-pcs-to-surge-claiming-over-half-the-market-by-2026.html",
+            "urlToImage": "https://www.computerworld.com/wp-content/uploads/2025/08/4047019-0-61951200-1756366374-shutterstock_2336740141.jpg?quality=50&strip=all",
+            "publishedAt": "2025-08-28 07:30:00"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "I Test iPads for a Living — 13 Labor Day Deals I’d Buy With My Own Money",
+            "url": "https://www.tomsguide.com/computing/ipads/labor-day-ipad-sales-2025",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/BNALRkQ85biabiPyXYaDMX-1280-80.jpg",
+            "publishedAt": "2025-08-28 07:30:00"
         },
         {
             "source": {
@@ -3156,141 +3312,6 @@
             "url": "https://lifehacker.com/tech/phone-laptop-tv-headphones-sales-labor-day-2025",
             "urlToImage": "https://lifehacker.com/imagery/articles/01K3M0AQTVMA2RTMC49EA6C86A/hero-image.fill.size_1200x675.png",
             "publishedAt": "2025-08-27 13:00:00"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "Sweden's Tech Titans Unite For Sovereign AI",
-            "url": "https://www.forbes.com/sites/ronschmelzer/2025/08/27/swedens-tech-titans-unite-for-sovereign-ai/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68aefe3980369e6fcc34d3e5/0x0.jpg?width=960",
-            "publishedAt": "2025-08-27 12:51:41"
-        },
-        {
-            "source": {
-                "name": "foxnews"
-            },
-            "title": "Apple expected to roll out texting update that would hit GOP hardest ahead of midterms, fundraisers say",
-            "url": "https://www.foxnews.com/politics/apple-expected-roll-out-texting-update-would-hit-gop-hardest-ahead-midterms-fundraisers-say",
-            "urlToImage": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/08/931/523/trump-text-fundraising-campaign.png?tl=1&ve=1",
-            "publishedAt": "2025-08-27 12:50:20"
-        },
-        {
-            "source": {
-                "name": "pcgamer"
-            },
-            "title": "The latest AMD RDNA 5 rumours are complicated but it looks like there really is going to be a high-end next-gen GPU to take on Nvidia's best graphics card",
-            "url": "https://www.pcgamer.com/hardware/graphics-cards/the-latest-amd-rdna-5-rumours-are-complicated-but-it-looks-like-there-really-is-going-to-be-a-high-end-next-gen-gpu-to-take-on-nvidias-best-graphics-card/",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/2d5GJCfUuSnP7BPtUo6wxJ-1280-80.jpg",
-            "publishedAt": "2025-08-27 12:37:53"
-        },
-        {
-            "source": {
-                "name": "wired"
-            },
-            "title": "The Era of AI-Generated Ransomware Has Arrived",
-            "url": "https://www.wired.com/story/the-era-of-ai-generated-ransomware-has-arrived/",
-            "urlToImage": "https://media.wired.com/photos/68aeaf2a7cf142253a0a0226/3:4/w_120,c_limit/GettyImages-2154076505.jpg",
-            "publishedAt": "2025-08-27 12:36:43"
-        },
-        {
-            "source": {
-                "name": "macworld"
-            },
-            "title": "Do Macs need antivirus software, or are Apple’s protections enough?",
-            "url": "https://www.macworld.com/article/670537/do-macs-need-antivirus.html",
-            "urlToImage": "https://www.macworld.com/wp-content/uploads/2025/08/lifestyle_macbook_back_11.jpg?quality=50&strip=all&w=1024",
-            "publishedAt": "2025-08-27 12:05:00"
-        },
-        {
-            "source": {
-                "name": "benzinga"
-            },
-            "title": "ECARX (ECX.US) Secures Over $1 Billion In Global Contract Wins In Q2, Eyes H2 Growth And EBITDA Break-Even",
-            "url": "https://www.benzinga.com/partner/news/25/08/47354700/ecarx-ecx-us-secures-over-1-billion-in-global-contract-wins-in-q2-eyes-h2-growth-and-ebitda-break-ev",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/08/27/Screenshot-2025-08-27-at-5-30-00PM.png?auto=jpg&dpr=1&fit=crop&height=480&optimize=medium&width=720",
-            "publishedAt": "2025-08-27 12:01:52"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "The fastest laptops of 2025: Expert recommended",
-            "url": "https://www.zdnet.com/article/fastest-laptops/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/06aa127bd61d213586caa258653ffd2905d62ebe/2024/11/06/daacb602-993b-4c8e-a289-eddc5846d0bd/dsc02543-2.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-08-27 11:00:27"
-        },
-        {
-            "source": {
-                "name": "time"
-            },
-            "title": "The Race for Artificial General Intelligence Poses New Risks to an Unstable World",
-            "url": "https://time.com/7312305/agi-race-us-china-trump/",
-            "urlToImage": "https://api.time.com/wp-content/uploads/2025/08/AGI_2.jpg?h=675&w=1200",
-            "publishedAt": "2025-08-27 11:00:00"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "AI to Spark 2025 Tech Stock Surge with Trillion-Dollar Gains",
-            "url": "https://www.webpronews.com/ai-to-spark-2025-tech-stock-surge-with-trillion-dollar-gains/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-b4698fbb-1f91-4697-a4bb-095a85a15ad3.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-08-27 10:44:44"
-        },
-        {
-            "source": {
-                "name": "biztoc"
-            },
-            "title": "‘AI Revolution Powers Ahead’: Daniel Ives Suggests Buying Tesla and IBM Stocks",
-            "url": "https://biztoc.com/x/a4245418a599b098",
-            "urlToImage": "https://cdn.biztoc.com/a4245418a599b098_sq.webp",
-            "publishedAt": "2025-08-27 10:33:42"
-        },
-        {
-            "source": {
-                "name": "geeky_gadgets"
-            },
-            "title": "Apple’s $599 MacBook? Apple’s Bold Move to Dominate the Budget Market",
-            "url": "https://www.geeky-gadgets.com/apples-599-macbook/",
-            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/08/MacBook-3.webp",
-            "publishedAt": "2025-08-27 10:30:39"
-        },
-        {
-            "source": {
-                "name": "biztoc"
-            },
-            "title": "Alibaba’s new open-source AI model turns photos into film-quality clips",
-            "url": "https://biztoc.com/x/e08050a08cba371c",
-            "urlToImage": "https://cdn.biztoc.com/e08050a08cba371c_sq.webp",
-            "publishedAt": "2025-08-27 10:10:30"
-        },
-        {
-            "source": {
-                "name": "pcquest"
-            },
-            "title": "Tensor G5: Google advanced AI chip benefits in smartphones",
-            "url": "https://www.pcquest.com/smartphones/tensor-g5-google-advanced-ai-chip-benefits-in-smartphones-9757908",
-            "urlToImage": "https://img-cdn.publive.online/pcq/media/media_files/2025/08/27/tensor-g5-2025-08-27-10-11-17.jpg",
-            "publishedAt": "2025-08-27 10:00:37"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "The best iPad Pro cases of 2025: Expert tested and reviewed",
-            "url": "https://www.zdnet.com/article/best-ipad-pro-case/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/43a26f34723c01f8b201463ea404a1566ceafa3a/2024/07/19/56621419-193f-436d-ba54-8c9fe4bee547/dsc01465.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-08-27 10:00:29"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "The best waterproof smartwatches of 2025: Expert tested and reviewed",
-            "url": "https://www.zdnet.com/article/best-waterproof-smartwatch/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/6701b571904e11de512e4fa825cb57cfcfbabd8c/2024/05/29/8ebe4203-46c3-453d-8522-b169244e5045/apple-watch-ultra-underwater.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-08-27 10:00:24"
         }
     ]
 }
