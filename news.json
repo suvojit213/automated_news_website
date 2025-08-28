@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-08-28T18:21:11.659646Z",
+    "lastUpdatedAt": "2025-08-28T19:12:10.119223Z",
     "articles": [
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "Microsoft tests MAI-1-preview AI model boost to Copilot, rival OpenAI",
+            "url": "https://www.cnbc.com/2025/08/28/microsoft-tests-mai-1-preview-ai-model-boost-to-copilot-rival-openai.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108192018-1756403834043-gettyimages-2207890426-MICROSOFT_COPILOT.jpeg?v=1756403916&w=1920&h=1080",
+            "publishedAt": "2025-08-28T18:32:54Z"
+        },
+        {
+            "source": {
+                "id": "3a3847d645a619320aa3b3484581e395",
+                "name": "CBS News",
+                "url": "https://www.cbsnews.com",
+                "country": "us"
+            },
+            "title": "Modesto school district launches committee to focus on how AI should be used in classrooms",
+            "url": "https://www.cbsnews.com/sacramento/news/modesto-city-school-district-launches-ai-committee/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/08/28/f73b5ff3-b952-4238-aa44-1e951232bfbf/thumbnail/1200x630/02fac0d3156acf30b69faa815961edc1/6p-sotvo-s-modesto-scho-kmaxe0ng.jpg",
+            "publishedAt": "2025-08-28T18:18:48Z"
+        },
+        {
+            "source": {
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
+            },
+            "title": "Sen. Blackburn Among Time's Most Influential in AI",
+            "url": "https://www.newsmax.com/newsfront/marsha-blackburn-time-ai/2025/08/28/id/1224303/",
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=42dd9e79-223d-46c7-ad3e-93765d554239&SiteName=Newsmax",
+            "publishedAt": "2025-08-28T18:03:47Z"
+        },
         {
             "source": {
                 "id": "79baacd62152cf257ee35e8c0bec19a2",
@@ -1008,6 +1044,51 @@
             "url": "https://www.fool.ca/2025/08/27/this-artificial-intelligence-ai-stock-could-be-the-best-bargain-in-the-market-right-now/",
             "urlToImage": "https://www.fool.ca/wp-content/uploads/2025/07/GettyImages-1339716843-1200x594.jpg",
             "publishedAt": "2025-08-28T00:15:00Z"
+        },
+        {
+            "source": {
+                "name": "republicworld"
+            },
+            "title": "Google Pixel 10: 5 Best Alternatives That Offer Same for Less More for Less",
+            "url": "https://www.republicworld.com/tech/google-pixel-10-5-best-alternatives-that-offer-same-for-less-more-for-less",
+            "urlToImage": "https://img.republicworld.com/all_images/google-pixel-10-5-best-alternatives-that-offer-same-for-less-more-for-less-1756364709839-16_9.webp?format=webp&h=720&q=100&w=1280",
+            "publishedAt": "2025-08-28 07:05:52"
+        },
+        {
+            "source": {
+                "name": "engadget"
+            },
+            "title": "The best iPad for 2025: How to pick the best Apple tablet for you",
+            "url": "https://www.engadget.com/mobile/tablets/best-ipads-how-to-pick-the-best-apple-tablet-for-you-150054066.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?client=19f2b5e49a271b2bde77&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-12%2Ff32ed960-bc64-11ef-b7ff-c62da710832c&resize=1400%2C787&signature=a23852a860549d0d249008d5f7163826ef38e952",
+            "publishedAt": "2025-08-28 07:01:26"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Medical AI Models Battle It Out—And the Winner Might Surprise You",
+            "url": "https://hackernoon.com/medical-ai-models-battle-it-outand-the-winner-might-surprise-you",
+            "urlToImage": "https://hackernoon.imgix.net/images/2-robots-wrestling-dqm0i750pegm79b35d8lc51n.png",
+            "publishedAt": "2025-08-28 07:00:04"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "AMD",
+            "url": "https://www.analyticsinsight.net/company-profile/amd",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-08-27%2F371vgro3%2FAMD.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-08-28 06:57:19"
+        },
+        {
+            "source": {
+                "name": "computerweekly"
+            },
+            "title": "Zopa Bank seeks partners to form AI skills coalition",
+            "url": "https://www.computerweekly.com/news/366630020/Zopa-Bank-seeks-partners-to-form-AI-skills-coalition",
+            "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero%20Images/AI-artificial-intelligence-button-fotolia_searchsitetablet_520X173.jpg",
+            "publishedAt": "2025-08-28 06:46:00"
         },
         {
             "source": {
@@ -3210,78 +3291,6 @@
             "url": "https://www.zdnet.com/article/best-waterproof-smartwatch/",
             "urlToImage": "https://www.zdnet.com/a/img/resize/6701b571904e11de512e4fa825cb57cfcfbabd8c/2024/05/29/8ebe4203-46c3-453d-8522-b169244e5045/apple-watch-ultra-underwater.jpg?auto=webp&fit=crop&height=675&width=1200",
             "publishedAt": "2025-08-27 10:00:24"
-        },
-        {
-            "source": {
-                "name": "notebookcheck"
-            },
-            "title": "Asus ExpertCenter PN54 - Business mini PC with AMD Ryzen AI 7 and modern features in the review",
-            "url": "https://www.notebookcheck.net/Asus-ExpertCenter-PN54-Business-mini-PC-with-AMD-Ryzen-AI-7-and-modern-features-in-the-review.1096722.0.html",
-            "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/Asus/ExpertCenter_PN54-S70012NN/PN54_13.jpg",
-            "publishedAt": "2025-08-27 10:00:00"
-        },
-        {
-            "source": {
-                "name": "bitcoinworld"
-            },
-            "title": "What is Outlier AI and Why is it Gaining Popularity?",
-            "url": "https://bitcoinworld.co.in/what-is-outlier-ai-and-why-is-it-gaining-popularity/",
-            "urlToImage": "https://bitcoinworld.co.in/wp-content/uploads/Google_AI_Studio_2025-08-27T09_26_04.012Z.png",
-            "publishedAt": "2025-08-27 09:39:54"
-        },
-        {
-            "source": {
-                "name": "abplive"
-            },
-            "title": "PCIe Gen5 Revolution: How AI Can Enhance SSD Experience For Users",
-            "url": "https://news.abplive.com/technology/pcie-gen5-revolution-how-ai-can-enhance-ssd-experience-for-users-1796883",
-            "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2025/08/27/223a8de26a16b974b985883bd009a22d1756286171810402_original.jpg",
-            "publishedAt": "2025-08-27 09:16:49"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "QuickLogic Showcases eFPGA Hard IPs at GlobalFoundries Technology Summit",
-            "url": "https://www.prnewswire.com/news-releases/quicklogic-showcases-efpga-hard-ips-at-globalfoundries-technology-summit-302539747.html",
-            "urlToImage": "https://mma.prnewswire.com/media/643697/QuickLogic_Logo.jpg?p=original",
-            "publishedAt": "2025-08-27 09:05:00"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "The best password managers for businesses in 2025: Expert tested",
-            "url": "https://www.zdnet.com/article/best-password-managers-for-business/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/b79cacbed5822540ab75b65a96d97074f65e0d4a/2025/06/05/2f141c4f-2e7e-4901-b7d2-0a8fd81f0fe0/gettyimages-2203011461.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-08-27 09:00:25"
-        },
-        {
-            "source": {
-                "name": "xda_developers"
-            },
-            "title": "TeamViewer is really starting to fall behind alternatives and I can't see myself sticking around",
-            "url": "https://www.xda-developers.com/teamviewer-is-starting-to-fall-behind-alternatives/",
-            "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2025/05/reasons-to-uninstall-teamviewer.jpg",
-            "publishedAt": "2025-08-27 09:00:18"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "How AI Retrieves Anatomical Structures Using Vector Databases",
-            "url": "https://hackernoon.com/how-ai-retrieves-anatomical-structures-using-vector-databases",
-            "urlToImage": "https://hackernoon.imgix.net/images/5wpKgV75aONqkTJlafw2yQmK9yd2-d603ac9.png",
-            "publishedAt": "2025-08-27 09:00:07"
-        },
-        {
-            "source": {
-                "name": "sify"
-            },
-            "title": "Agentic AI and its Future in the Fintech Revolution",
-            "url": "https://www.sify.com/ai-analytics/agentic-ai-and-its-future-in-the-fintech-revolution/",
-            "urlToImage": "https://www.sify.com/wp-content/uploads/2025/08/data-hand-ai-717x1024.webp",
-            "publishedAt": "2025-08-27 08:28:50"
         }
     ]
 }
