@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-08-28T07:15:02.689426Z",
+    "lastUpdatedAt": "2025-08-28T08:19:53.510447Z",
     "articles": [
+        {
+            "source": {
+                "id": "93e59eaaf800fc544a6df1a4fc5c0cdc",
+                "name": "Toronto Star",
+                "url": "https://www.thestar.com",
+                "country": "ca"
+            },
+            "title": "Poll suggests 85% of Canadians want governments to regulate AI",
+            "url": "https://www.thestar.com/politics/federal/poll-suggests-85-of-canadians-want-governments-to-regulate-ai/article_41e117a9-c458-5880-949e-7f03ce0fe474.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/custom/image/f84403b8-7d76-11ee-9d02-a72a4951957f.png?resize=600%2C600",
+            "publishedAt": "2025-08-28T08:00:16Z"
+        },
+        {
+            "source": {
+                "id": "dd1d806725f45e4403e75c1bb23b447a",
+                "name": "The Irish Times",
+                "url": "https://www.irishtimes.com",
+                "country": "ie"
+            },
+            "title": "Nvidia growth outlook hit by China uncertainty",
+            "url": "https://www.irishtimes.com/business/2025/08/28/nvidia-growth-outlook-hit-by-china-uncertainty/",
+            "urlToImage": "https://www.irishtimes.com/resizer/v2/BR52T32SQNTMLNQTYUCNOBSCSU.jpg?smart=true&auth=5c52a90d8d9126142d980e39ff2ae87cfd504a6ef7b076e21ec9fde86762c400&width=1200&height=630",
+            "publishedAt": "2025-08-28T07:37:56Z"
+        },
+        {
+            "source": {
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
+                "country": "us"
+            },
+            "title": "Nvidia Q2 Results Aftermath: Crypto AI Tokens Edge Lower Amid Decline In Chip Giant's Stock",
+            "url": "https://www.benzinga.com/crypto/cryptocurrency/25/08/47377635/nvidia-q2-results-aftermath-crypto-ai-tokens-edge-lower-amid-decline-in-chip-giants-stock",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/08/28/Coin-Stacks-With-Bear-On-Black-Backgroun.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2025-08-28T07:36:02Z"
+        },
         {
             "source": {
                 "id": "4c8b69bf547b577f84acbba5157b439c",
@@ -1536,6 +1572,69 @@
             "url": "https://www.globenewswire.com/news-release/2025/08/27/3140249/0/en/Cybersecurity-Experts-Urge-Lawmakers-to-Pursue-Lawful-Access-Solutions-Without-Compromising-Encryption-Integrity.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/c7c2669f-e638-43a2-abc6-90f61b74c46a",
             "publishedAt": "2025-08-27T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "reason"
+            },
+            "title": "No, These New Studies Don't Show an AI Jobs Apocalypse Is Coming",
+            "url": "https://reason.com/2025/08/27/no-these-new-studies-dont-show-an-ai-jobs-apocalypse-is-coming/",
+            "urlToImage": "https://d2eehagpk5cl65.cloudfront.net/img/c800x450-w800-q80/uploads/2025/08/8-26-25-v3-a-B-800x450.jpg",
+            "publishedAt": "2025-08-27 20:05:17"
+        },
+        {
+            "source": {
+                "name": "xda_developers"
+            },
+            "title": "I tried daily-driving a privacy-focused portable Linux distro on a USB drive, and it worked surprisingly well",
+            "url": "https://www.xda-developers.com/tried-daily-driving-tails-linux-distro-usb-works-surprisingly-well/",
+            "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2024/08/windows-11-live-usb.jpg",
+            "publishedAt": "2025-08-27 20:01:20"
+        },
+        {
+            "source": {
+                "name": "foreignpolicy"
+            },
+            "title": "What to Know About Trump’s Deal With Intel",
+            "url": "https://foreignpolicy.com/2025/08/27/trump-intel-deal-ceo-tan-china-chips-act/",
+            "urlToImage": "https://foreignpolicy.com/wp-content/uploads/2025/08/intel-us-trump-reuters-.jpg?w=800%3Fquality%3D90",
+            "publishedAt": "2025-08-27 19:46:39"
+        },
+        {
+            "source": {
+                "name": "mercurynews"
+            },
+            "title": "Antioch to spend nearly $3 million to upgrade police equipment",
+            "url": "https://www.mercurynews.com/2025/08/27/antioch-to-spend-nearly-3-million-to-upgrade-police-equipment/",
+            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/04/EBT-L-GENERICS-XXXX-24.jpg?strip=all&w=1400px",
+            "publishedAt": "2025-08-27 19:33:31"
+        },
+        {
+            "source": {
+                "name": "eastbaytimes"
+            },
+            "title": "Antioch to spend nearly $3 million to upgrade police equipment",
+            "url": "https://www.eastbaytimes.com/2025/08/27/antioch-to-spend-nearly-3-million-to-upgrade-police-equipment/",
+            "urlToImage": "https://www.eastbaytimes.com/wp-content/uploads/2025/05/EBT-L-GENERICS-XXXX-24.jpg?h=698&w=1024",
+            "publishedAt": "2025-08-27 19:33:31"
+        },
+        {
+            "source": {
+                "name": "macworld"
+            },
+            "title": "Parallels Desktop 26 for Mac review: macOS Tahoe ready 2025 update",
+            "url": "https://www.macworld.com/article/668146/parallels-desktop-review.html",
+            "urlToImage": "https://www.macworld.com/wp-content/uploads/2025/08/Parallels-Desktop-review-1-2.jpg?quality=50&strip=all&w=1024",
+            "publishedAt": "2025-08-27 19:21:48"
+        },
+        {
+            "source": {
+                "name": "lifehacker_us"
+            },
+            "title": "These MacBook-Style PC Laptops Are on Sale for Labor Day",
+            "url": "https://lifehacker.com/tech/macbook-style-pc-laptops-labor-day-sale-2025",
+            "urlToImage": "https://lifehacker.com/imagery/articles/01K3PCQK7RQCJP114H5KPKWDPV/hero-image.fill.size_1200x675.png",
+            "publishedAt": "2025-08-27 19:15:31"
         },
         {
             "source": {
@@ -3231,126 +3330,6 @@
             "url": "https://manilastandard.net/news/world/314634744/japanese-dailies-sue-u-s-ai-firm-over-copyright-infringement.html",
             "urlToImage": "https://cdn.manilastandard.net/wp-content/uploads/2025/08/kyodo-news-logo.png",
             "publishedAt": "2025-08-26T12:01:39Z"
-        },
-        {
-            "source": {
-                "id": "17d7c2645f485578130862e0c8dd9480",
-                "name": "The Mercury News",
-                "url": "https://www.mercurynews.com",
-                "country": "us"
-            },
-            "title": "National school poll reveals American support for DEI, Dept. of Education - but not AI",
-            "url": "https://www.mercurynews.com/2025/08/26/national-school-poll-reveals-american-support-for-dei-dept-of-education-but-not-ai/",
-            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/04/202504190415MCT_____PHOTO____US-NEWS-EDU-TRUMP-CUTS-GET.jpg?w=1024&h=683",
-            "publishedAt": "2025-08-26T11:15:21Z"
-        },
-        {
-            "source": {
-                "id": "e9207083a357fb7e76b38e485888ebe7",
-                "name": "manilastandard.net",
-                "url": "https://manilastandard.net",
-                "country": "ph"
-            },
-            "title": "AI knowledge now a factor in hiring for most PH firms",
-            "url": "https://manilastandard.net/business/314634773/ai-knowledge-now-a-factor-in-hiring-for-most-ph-firms.html",
-            "urlToImage": "https://cdn.manilastandard.net/wp-content/uploads/2025/08/JOBSTREET_small_scale.png",
-            "publishedAt": "2025-08-26T11:15:00Z"
-        },
-        {
-            "source": {
-                "id": "5ac5f32ba74846cef441099f666f2d98",
-                "name": "Fast Company",
-                "url": "https://www.fastcompany.com",
-                "country": "us"
-            },
-            "title": "Agentic AI has companies excited and security experts freaked out",
-            "url": "https://www.fastcompany.com/91392109/everyones-rolling-out-ai-agents-security-researchers-just-broke-them-in-hours",
-            "urlToImage": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024,h_1024/wp-cms-2/2025/08/p-91392109-how-to-avoid-AI-agents-getting-scammed.jpg",
-            "publishedAt": "2025-08-26T11:00:00Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "Saudi startup launches world's first halal AI fluent in Arabic and Islamic culture",
-            "url": "https://www.indiatoday.in/technology/news/story/saudi-startup-launches-worlds-first-halal-ai-fluent-in-arabic-and-islamic-culture-2777047-2025-08-26",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202508/artificial-intelligence-10590163-16x9.jpeg?VersionId=.fPOSAvAennP.oS9QGt_L6Qq0b66.t3Z",
-            "publishedAt": "2025-08-26T10:46:02Z"
-        },
-        {
-            "source": {
-                "id": "751592b69e37c8f910e98bc421ccd54a",
-                "name": "Android Authority",
-                "url": "https://www.androidauthority.com",
-                "country": "us"
-            },
-            "title": "YouTube is artificially upscaling videos, and there's no escaping it",
-            "url": "https://www.androidauthority.com/youtube-shorts-upscaling-experiment-3591230/",
-            "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/05/youtube-app-logo-close-up-android-phone-scaled.jpg",
-            "publishedAt": "2025-08-26T10:07:03Z"
-        },
-        {
-            "source": {
-                "id": "5b07f2eba74fc799fd5d1ee46c5bafc3",
-                "name": "Newsweek",
-                "url": "https://www.newsweek.com",
-                "country": "us"
-            },
-            "title": "Where Are the Moral Guardrails on Artificial Intelligence? | Opinion",
-            "url": "https://www.newsweek.com/where-are-moral-guardrails-artificial-intelligence-opinion-2117164",
-            "urlToImage": "https://d.newsweek.com/en/full/2709264/boy-using-phone.jpg",
-            "publishedAt": "2025-08-26T10:00:01Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "2025 AI Fest highlights future growth prospects for PH",
-            "url": "https://www.manilatimes.net/2025/08/26/tmt-newswire/2025-ai-fest-highlights-future-growth-prospects-for-ph/2173689",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/26/726067.jpg",
-            "publishedAt": "2025-08-26T09:27:00Z"
-        },
-        {
-            "source": {
-                "id": "d6397b77175680e2678c0d60edcee7af",
-                "name": "South China Morning Post",
-                "url": "https://www.scmp.com",
-                "country": "hk"
-            },
-            "title": "Hong Kong wealth fund, Beijing AI academy team up to hunt for global AI talent",
-            "url": "https://www.scmp.com/tech/tech-trends/article/3323177/hong-kong-wealth-fund-beijing-ai-academy-team-hunt-global-ai-talent",
-            "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/08/26/5c866e81-ee52-4cd2-9be0-a1af8dad41ef_0222621f.jpg?itok=VyjV-5VC&v=1756194669",
-            "publishedAt": "2025-08-26T09:00:09Z"
-        },
-        {
-            "source": {
-                "id": "93a4f054e09bde095cda5265e575a952",
-                "name": "Telegraph India",
-                "url": "https://www.telegraphindia.com",
-                "country": "in"
-            },
-            "title": "It will be 'shield and sword', require colossal amount of system integration: CDS Anil Chauhan on Sudarshan Chakra",
-            "url": "https://www.telegraphindia.com/india/it-will-be-shield-and-sword-require-colossal-amount-of-system-integration-cds-anil-chauhan-on-sudarshan-chakra/cid/2119830",
-            "urlToImage": "https://assets.telegraphindia.com/telegraph/2025/Aug/1756198771_anil.jpg",
-            "publishedAt": "2025-08-26T08:59:44Z"
-        },
-        {
-            "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
-                "country": "in"
-            },
-            "title": "NASA, IBM Develop 'Surya': Here's How Advanced AI Model Can Protect From Solar Storms",
-            "url": "https://www.ndtvprofit.com/science/nasa-ibm-develop-surya-heres-how-advanced-ai-model-can-protect-from-solar-storms",
-            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-08-26%2F66p1ye6g%2FWhatsApp-Image-2025-08-26-at-14.10.26.jpeg?w=1200&auto=format%2Ccompress&ogImage=true",
-            "publishedAt": "2025-08-26T08:43:20Z"
         }
     ]
 }
