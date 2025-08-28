@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2025-08-28T17:13:11.440964Z",
+    "lastUpdatedAt": "2025-08-28T18:21:11.659646Z",
     "articles": [
+        {
+            "source": {
+                "id": "79baacd62152cf257ee35e8c0bec19a2",
+                "name": "UPI News",
+                "url": "https://www.upi.com",
+                "country": "us"
+            },
+            "title": "Study shows AI can hone in on genetic risks for 10 inherited diseases",
+            "url": "https://www.upi.com/Health_News/2025/08/28/ai-genetic-risks-common-diseases/7351756235524/",
+            "urlToImage": "https://cdnph.upi.com/sv/ph/og/upi_com/7351756235524/2025/1/05e27d750e5b885e10eb596b56fdc967/v1.5/Study-shows-AI-can-hone-in-on-genetic-risks-for-10-inherited-diseases.jpg",
+            "publishedAt": "2025-08-28T18:00:06Z"
+        },
+        {
+            "source": {
+                "id": "010284b7a4ddb4771793c29b39893951",
+                "name": "CHEK News",
+                "url": "https://cheknews.ca",
+                "country": "ca"
+            },
+            "title": "Poll suggests 85% of Canadians want governments to regulate AI",
+            "url": "https://cheknews.ca/poll-suggests-85-of-canadians-want-governments-to-regulate-ai-1275173/",
+            "urlToImage": "https://i0.wp.com/cheknews.ca/wp-content/uploads/2024/07/AI.jpg?fit=1400%2C958&ssl=1",
+            "publishedAt": "2025-08-28T17:45:00Z"
+        },
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "AI-enabled bundle of sensors, coaching aids type 2 diabetes outcomes",
+            "url": "https://medicalxpress.com/news/2025-08-ai-enabled-bundle-sensors-aids.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/ai-enabled-bundle-of-s.jpg",
+            "publishedAt": "2025-08-28T17:30:03Z"
+        },
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "AI unlocks secrets of rice yield sustainability after 50 years of continuous cropping",
+            "url": "https://phys.org/news/2025-08-ai-secrets-rice-yield-sustainability.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/ai-unlocks-secrets-of.jpg",
+            "publishedAt": "2025-08-28T17:30:01Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "‘First weeks would turn into a decade…’: Meta Director Chaya Nayak joins OpenAI, shares lessons from Facebook role",
+            "url": "https://www.livemint.com/companies/people/first-weeks-would-turn-into-a-decade-meta-director-chaya-nayak-joins-openai-shares-lessons-from-facebook-role-11756397897547.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2025/08/28/1600x900/1561670773006_1756401076773_1756401084043.jpeg",
+            "publishedAt": "2025-08-28T17:19:34Z"
+        },
         {
             "source": {
                 "id": "492abf277b7277432148b61b21ddc836",
@@ -12,6 +72,18 @@
             "url": "https://www.latimes.com/business/story/2025-08-28/nvidia-forecasts-decelerating-growth-after-two-year-ai-boom",
             "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/35a66d8/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F09%2F3f%2F11ecd47321cd47d7f84ea939dd4d%2F1x-1.jpg",
             "publishedAt": "2025-08-28T17:00:01Z"
+        },
+        {
+            "source": {
+                "id": "97497c18f5cb431f5f324b3d8643c24f",
+                "name": "The Independent",
+                "url": "https://www.independent.co.uk",
+                "country": "gb"
+            },
+            "title": "Study reveals which jobs are most at risk of being replaced with AI",
+            "url": "https://www.independent.co.uk/news/world/americas/artificial-intelligence-jobs-risk-b2815932.html",
+            "urlToImage": "https://static.independent.co.uk/2025/08/13/14/07/GettyImages-1258475588.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+            "publishedAt": "2025-08-28T16:40:34Z"
         },
         {
             "source": {
@@ -936,6 +1008,60 @@
             "url": "https://www.fool.ca/2025/08/27/this-artificial-intelligence-ai-stock-could-be-the-best-bargain-in-the-market-right-now/",
             "urlToImage": "https://www.fool.ca/wp-content/uploads/2025/07/GettyImages-1339716843-1200x594.jpg",
             "publishedAt": "2025-08-28T00:15:00Z"
+        },
+        {
+            "source": {
+                "name": "computerweekly"
+            },
+            "title": "Microsoft refuses to divulge data flows to Police Scotland",
+            "url": "https://www.computerweekly.com/news/366629871/Microsoft-refuses-to-divulge-data-flows-to-Police-Scotland",
+            "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero%20Images/motorola_MSI_Police%20Scotland_Pronto_hero_searchsitetablet_520X173.jpg",
+            "publishedAt": "2025-08-28 06:20:00"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Vibe-Coding's Missing Piece is Vibe-Testing",
+            "url": "https://hackernoon.com/vibe-codings-missing-piece-is-vibe-testing",
+            "urlToImage": "https://hackernoon.imgix.net/images/4qClgAKUoGVNSn1MOppgDtZ3zVq2-v913e2c.png",
+            "publishedAt": "2025-08-28 06:17:10"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Why Your AI Coding Assistant Might Be Built on the Wrong Foundation",
+            "url": "https://hackernoon.com/why-your-ai-coding-assistant-might-be-built-on-the-wrong-foundation",
+            "urlToImage": "https://hackernoon.imgix.net/images/pniu5ezPLEWLZyDCoWb3QK7EgVJ2-m103bcf.jpeg",
+            "publishedAt": "2025-08-28 06:10:38"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Why Gaming Needs a Game Changer: Decentralization and the Future of Play",
+            "url": "https://hackernoon.com/why-gaming-needs-a-game-changer-decentralization-and-the-future-of-play",
+            "urlToImage": "https://hackernoon.imgix.net/images/V6T77DCxOiTx5prTz0iSV8R9vTZ2-zz036gl.jpeg",
+            "publishedAt": "2025-08-28 06:05:11"
+        },
+        {
+            "source": {
+                "name": "milescitystar"
+            },
+            "title": "Alset AI Announces Sports, Entertainment, and Technology Leader Chase Chamberlin as Strategic Advisor",
+            "url": "https://www.milescitystar.com/ap_news/montana/alset-ai-announces-sports-entertainment-and-technology-leader-chase-chamberlin-as-strategic-advisor/article_287091f4-88c6-5db6-aa01-87f068663a7c.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/milescitystar.com/content/tncms/assets/v3/editorial/2/0a/20a5c675-34b8-5db9-8ed9-5dd772c4ca88/68aff170aff52.image.jpg?resize=300%2C94",
+            "publishedAt": "2025-08-28 06:02:14"
+        },
+        {
+            "source": {
+                "name": "menafn"
+            },
+            "title": "Whatsapp Launches AI-Powered Writing Help",
+            "url": "https://menafn.com/1109987472/Whatsapp-Launches-AI-Powered-Writing-Help",
+            "urlToImage": "https://menafn.com/updates/pr/2025-08/28/TP_291e7image_story.jpg",
+            "publishedAt": "2025-08-28 05:14:32"
         },
         {
             "source": {
@@ -3156,114 +3282,6 @@
             "url": "https://www.sify.com/ai-analytics/agentic-ai-and-its-future-in-the-fintech-revolution/",
             "urlToImage": "https://www.sify.com/wp-content/uploads/2025/08/data-hand-ai-717x1024.webp",
             "publishedAt": "2025-08-27 08:28:50"
-        },
-        {
-            "source": {
-                "name": "dnaindia"
-            },
-            "title": "Samsung Expands 'Galaxy empowered' to Mumbai, Bringing AI and Technology Training to Teachers",
-            "url": "https://www.dnaindia.com/insights/report-samsung-expands-galaxy-empowered-to-mumbai-bringing-ai-and-technology-training-to-teachers-3177876",
-            "urlToImage": "https://cdn.dnaindia.com/sites/default/files/styles/third/public/2025/08/27/2720456-dna-kidzbyte.jpg",
-            "publishedAt": "2025-08-27 08:23:57"
-        },
-        {
-            "source": {
-                "name": "cyclingnews"
-            },
-            "title": "Zipp 353 NSW wheelset review: Do we really need live tyre pressure monitoring?",
-            "url": "https://www.cyclingnews.com/reviews/zipp-353-nsw-wheelset-review/",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/QJNNFmqMSZkKgc5j5NuFxG.jpg",
-            "publishedAt": "2025-08-27 08:19:32"
-        },
-        {
-            "source": {
-                "name": "geeky_gadgets"
-            },
-            "title": "New Framework Laptop 16 with NVIDIA GeForce RTX 5070 Launches",
-            "url": "https://www.geeky-gadgets.com/framework-laptop-16-2025/",
-            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/08/nvidia-rtx-5070-amd-ryzen-ai-laptop.webp",
-            "publishedAt": "2025-08-27 07:43:14"
-        },
-        {
-            "source": {
-                "name": "mathrubhumi"
-            },
-            "title": "From BharatGen to Sarvam-1: How India is forging an independent AI ecosystem",
-            "url": "https://english.mathrubhumi.com/technology/india-ai-revolution-ltih0n2b",
-            "urlToImage": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1lgjvebdipgfhvom5dt/0/artificial-intelligence-jpg.jpg?w=900",
-            "publishedAt": "2025-08-27 07:31:38"
-        },
-        {
-            "source": {
-                "name": "researchsnipers"
-            },
-            "title": "Researchers Expose Image-Based Attack That Hacks AI Models",
-            "url": "https://researchsnipers.com/researchers-expose-image-based-attack-that-hacks-ai-models/",
-            "urlToImage": "https://researchsnipers.com/wp-content/uploads/2025/08/1756257085_Magic-images-enable-stealth-attacks-on-AI-systems-1024x576.jpg",
-            "publishedAt": "2025-08-27 07:27:43"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "7 AI features I'd like to see the iPhone 17 embrace from Google, OpenAI, and others",
-            "url": "https://www.zdnet.com/article/7-ai-features-id-like-to-see-the-iphone-17-embrace-from-google-openai-and-others/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/35bc4a7120570ad0fde8ebd21831710df44d26fd/2025/08/25/d5788176-3933-4c95-87e4-63c4b80d1b75/dsc06529.jpg?auto=webp&width=1280",
-            "publishedAt": "2025-08-27 07:15:17"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Building a Robust Smart Home Network: Essential Components and Security",
-            "url": "https://techannouncer.com/building-a-robust-smart-home-network-essential-components-and-security/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/08/6258b0f7thumbnail-332x166.jpeg",
-            "publishedAt": "2025-08-27 07:05:11"
-        },
-        {
-            "source": {
-                "name": "engadget"
-            },
-            "title": "The best fast chargers for 2025",
-            "url": "https://www.engadget.com/computing/accessories/best-fast-chargers-140011033.html",
-            "urlToImage": "https://o.aolcdn.com/images/dims?client=19f2b5e49a271b2bde77&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-05%2Fc32b2a30-2ffe-11f0-a4ef-07bf03d7a5a6&resize=1400%2C787&signature=f537466ed925fb35dccea02f10e2db55dafd209b",
-            "publishedAt": "2025-08-27 07:00:40"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "The Subplot of a Nation: What Today’s Chinese Literature Tells Us About Tomorrow",
-            "url": "https://hackernoon.com/the-subplot-of-a-nation-what-todays-chinese-literature-tells-us-about-tomorrow",
-            "urlToImage": "https://hackernoon.imgix.net/images/IBeuZ9mcsGd5EznrObnQue9Q2pI2-cu03bw3.jpeg",
-            "publishedAt": "2025-08-27 06:32:27"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "What You Need to Know About Machine Learning (and How to Begin)",
-            "url": "https://hackernoon.com/what-you-need-to-know-about-machine-learning-and-how-to-begin",
-            "urlToImage": "https://hackernoon.imgix.net/images/2jqChkrv03exBUgkLrDzIbfM99q2-r10202v.jpeg",
-            "publishedAt": "2025-08-27 06:25:53"
-        },
-        {
-            "source": {
-                "name": "republicworld"
-            },
-            "title": "Ashutosh Synghal Pioneers a Multi-Modal Data Revolution for AI",
-            "url": "https://www.republicworld.com/initiatives/ashutosh-synghal-pioneers-a-multi-modal-data-revolution-for-ai",
-            "urlToImage": "https://img.republicworld.com/all_images/ashutosh-synghal-pioneers-a-multi-modal-data-revolution-for-ai-1756267033329-16_9.webp?format=webp&h=225&q=100&w=400",
-            "publishedAt": "2025-08-27 03:57:18"
-        },
-        {
-            "source": {
-                "name": "digit_in"
-            },
-            "title": "Meta’s AI gamble backfires? Eight key staff exit amid billion-dollar talent war: Report",
-            "url": "https://www.digit.in/news/general/metas-ai-gamble-backfires-eight-key-staff-exit-amid-billion-dollar-talent-war-report.html",
-            "urlToImage": "https://static.digit.in/meta-mark-zuckerberg-superintelligence-lab-ai.png",
-            "publishedAt": "2025-08-27 03:39:35"
         }
     ]
 }
