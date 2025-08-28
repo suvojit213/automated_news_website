@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-08-28T10:16:06.080677Z",
+    "lastUpdatedAt": "2025-08-28T11:12:29.436611Z",
     "articles": [
+        {
+            "source": {
+                "id": "18c2a6429621fbedc49891aa7c847ec6",
+                "name": "Gizmodo",
+                "url": "https://gizmodo.com",
+                "country": "us"
+            },
+            "title": "Did Nvidia Just Pop an AI Bubble? Here's What the Market Says",
+            "url": "https://gizmodo.com/did-nvidia-just-pop-an-ai-bubble-heres-what-the-market-says-2000649432",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/11/Jensen-Huang-Nvidia-1.jpg",
+            "publishedAt": "2025-08-28T10:46:19Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "SARC Ventures into U.S. Market: A Strategic Global Expansion",
+            "url": "https://www.devdiscourse.com/article/business/3606407-sarc-ventures-into-us-market-a-strategic-global-expansion",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/28_08_2025_10_37_45_0979346.png?width=920&format=jpeg",
+            "publishedAt": "2025-08-28T10:37:45Z"
+        },
+        {
+            "source": {
+                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
+                "name": "Times Now",
+                "url": "https://www.timesnownews.com",
+                "country": "in"
+            },
+            "title": "This Is What Sundar Pichai Said On Google Removing Managers Of Small Teams In Recent Layoffs",
+            "url": "https://www.timesnownews.com/technology-science/this-is-what-sundar-pichai-said-on-google-removing-managers-of-small-teams-in-recent-layoffs-article-152538641",
+            "urlToImage": "https://images.timesnownews.com/thumb/msid-152538659,thumbsize-79606,width-1280,height-720,resizemode-75/152538659.jpg",
+            "publishedAt": "2025-08-28T10:15:38Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "CrowdStrike falls as tech outage effects weigh on forecast",
+            "url": "https://www.reuters.com/business/crowdstrike-falls-tech-outage-effects-weigh-forecast-2025-08-28/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/M3TMGUKLTJNRPBH565SH5WDQCE.jpg?auth=96b9573affa11e4f39eb89f4faa6229e17458bf4ddcc8527b631622628b90ea8&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-08-28T10:10:50Z"
+        },
         {
             "source": {
                 "id": "da5c26287bdd02563a2c32b55cb12051",
@@ -1781,6 +1829,33 @@
             "source": {
                 "name": "webpronews"
             },
+            "title": "Canonical’s Mir 2.22 Boosts NVIDIA GPU Support and Cuts Latency in Wayland",
+            "url": "https://www.webpronews.com/canonicals-mir-2-22-boosts-nvidia-gpu-support-and-cuts-latency-in-wayland/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-3dbe0dd4-943c-40f4-9acb-5394984242f0.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-08-27 23:00:00"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "QEMU 10.1 Debuts Intel TDX, AMD SEV-SNP for Secure VMs and More",
+            "url": "https://www.webpronews.com/qemu-10-1-debuts-intel-tdx-amd-sev-snp-for-secure-vms-and-more/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-25e36c08-f922-4d47-96af-a80beb7ea9b9.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-08-27 22:30:00"
+        },
+        {
+            "source": {
+                "name": "jalopnik"
+            },
+            "title": "This 2004 Nissan Sentra SE-R Spec V Was Built To Dominate Autocross",
+            "url": "https://www.jalopnik.com/1952388/2004-nissan-sentra-ser-spec-v-low-miles-auction/",
+            "urlToImage": "https://www.jalopnik.com/img/gallery/this-2004-nissan-sentra-se-r-spec-v-was-built-to-dominate-autocross/l-intro-1756333665.jpg",
+            "publishedAt": "2025-08-27 22:28:35"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
             "title": "Nvidia Linux Maintainer Uses AI for Kernel Patch Triage",
             "url": "https://www.webpronews.com/nvidia-linux-maintainer-uses-ai-for-kernel-patch-triage/",
             "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-739afcb0-7587-492d-970e-6446b6358d9c.jpeg?fit=720%2C960&ssl=1",
@@ -3234,90 +3309,6 @@
             "url": "https://www.deccanchronicle.com/nation/business-tech/how-ai-and-technology-are-reshaping-wealth-management-in-india-1899887",
             "urlToImage": "https://www.deccanchronicle.com/h-upload/2025/08/26/1951814-hariprasad-1-1.jpg",
             "publishedAt": "2025-08-26T16:01:32Z"
-        },
-        {
-            "source": {
-                "id": "151292b021d31d91d452f04b0b225727",
-                "name": "9to5Google",
-                "url": "https://9to5google.com",
-                "country": "us"
-            },
-            "title": "Google Translate",
-            "url": "https://9to5google.com/2025/08/26/google-translate-ai/",
-            "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/Google-Translate-AI-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2025-08-26T16:00:00Z"
-        },
-        {
-            "source": {
-                "id": "93e59eaaf800fc544a6df1a4fc5c0cdc",
-                "name": "Toronto Star",
-                "url": "https://www.thestar.com",
-                "country": "ca"
-            },
-            "title": "Fortinet Named Title Partner of the Founders Cup",
-            "url": "https://www.thestar.com/globenewswire/fortinet-named-title-partner-of-the-founders-cup/article_92af152e-bc10-5234-ae49-daf3a71b92e5.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/custom/image/f84403b8-7d76-11ee-9d02-a72a4951957f.png?resize=600%2C600",
-            "publishedAt": "2025-08-26T16:00:00Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "'America will lead again in AI': Melania Trump rolls out national challenge for kids - here’s the catch",
-            "url": "https://timesofindia.indiatimes.com/world/us/america-will-lead-again-in-ai-melania-trump-rolls-out-national-challenge-for-kids-heres-the-catch/articleshow/123529131.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-123529410,width-1070,height-580,imgsize-108798,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "publishedAt": "2025-08-26T15:57:00Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Melania Trump launches AI challenge for K-12 students as America questions the cost of bringing algorithms into classrooms",
-            "url": "https://timesofindia.indiatimes.com/education/news/melania-trump-launches-ai-challenge-for-k-12-students-as-america-questions-the-cost-of-bringing-algorithms-into-classrooms/articleshow/123529276.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-123529249,width-1070,height-580,imgsize-108798,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "publishedAt": "2025-08-26T15:45:00Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "AI tool automates plant fruit measuring to breed better crops",
-            "url": "https://phys.org/news/2025-08-ai-tool-automates-fruit-crops.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/ai-tool-automates-plan.jpg",
-            "publishedAt": "2025-08-26T15:35:04Z"
-        },
-        {
-            "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
-                "country": "in"
-            },
-            "title": "AI Can Spark Demands For Rights, Citizenship One Day: Microsoft's Mustafa Suleyman",
-            "url": "https://www.ndtvprofit.com/technology/intelligence-systems-ai-dangers-risks-demands-rights-citizenship-microsoft-mustafa-suleyman",
-            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-02-01%2F9qua6fjd%2FAI-New.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
-            "publishedAt": "2025-08-26T15:20:42Z"
-        },
-        {
-            "source": {
-                "id": "97497c18f5cb431f5f324b3d8643c24f",
-                "name": "The Independent",
-                "url": "https://www.independent.co.uk",
-                "country": "gb"
-            },
-            "title": "Melania Trump touts her audiobook on FLOTUS X account as she launches AI challenge for kids",
-            "url": "https://www.independent.co.uk/news/world/americas/us-politics/melania-trump-audiobook-ai-b2814278.html",
-            "urlToImage": "https://static.independent.co.uk/2025/08/16/3/51/GettyImages-2222872839.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-            "publishedAt": "2025-08-26T15:03:36Z"
         }
     ]
 }
