@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-08-28T16:19:04.316695Z",
+    "lastUpdatedAt": "2025-08-28T17:13:11.440964Z",
     "articles": [
+        {
+            "source": {
+                "id": "492abf277b7277432148b61b21ddc836",
+                "name": "Los Angeles Times",
+                "url": "https://www.latimes.com",
+                "country": "us"
+            },
+            "title": "Nvidia forecasts decelerating growth after two-year AI boom",
+            "url": "https://www.latimes.com/business/story/2025-08-28/nvidia-forecasts-decelerating-growth-after-two-year-ai-boom",
+            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/35a66d8/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F09%2F3f%2F11ecd47321cd47d7f84ea939dd4d%2F1x-1.jpg",
+            "publishedAt": "2025-08-28T17:00:01Z"
+        },
+        {
+            "source": {
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
+                "country": "us"
+            },
+            "title": "CrowdStrike Analysts Emphasize Long-Term Strength Of Cybersecurity Platform",
+            "url": "https://www.benzinga.com/analyst-stock-ratings/reiteration/25/08/47393096/crowdstrike-analysts-emphasize-long-term-strength-of-cybersecurity-platform",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/08/28/CrowdStrike-Holdings--Inc-_0.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2025-08-28T16:37:18Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -12,6 +36,18 @@
             "url": "https://www.manilatimes.net/2025/08/29/business/top-business/dito-calls-for-cybersecurity-safeguards-in-konektadong-pinoy-rules/2175488",
             "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/28/729386.jpg",
             "publishedAt": "2025-08-28T16:15:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "PH accountants seen ready to level up in AI era",
+            "url": "https://www.manilatimes.net/2025/08/29/tmt-newswire/ph-accountants-seen-ready-to-level-up-in-ai-era/2175356",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/28/729127.png",
+            "publishedAt": "2025-08-28T16:09:00Z"
         },
         {
             "source": {
@@ -900,6 +936,33 @@
             "url": "https://www.fool.ca/2025/08/27/this-artificial-intelligence-ai-stock-could-be-the-best-bargain-in-the-market-right-now/",
             "urlToImage": "https://www.fool.ca/wp-content/uploads/2025/07/GettyImages-1339716843-1200x594.jpg",
             "publishedAt": "2025-08-28T00:15:00Z"
+        },
+        {
+            "source": {
+                "name": "mathrubhumi"
+            },
+            "title": "WhatsApp AI writing help can rephrase your messages and keep them completely private",
+            "url": "https://english.mathrubhumi.com/technology/whatsapp-new-udpate-ai-writing-message-help-ktc60mp0",
+            "urlToImage": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1lh96sf8bbu795bx7d9/2/whatsapp-ai-writing-help-jpg.jpg?w=900",
+            "publishedAt": "2025-08-28 05:12:53"
+        },
+        {
+            "source": {
+                "name": "benzinga"
+            },
+            "title": "Jensen Huang Says Nvidia's Products Irreplaceable As Broadcom And Marvell Push Custom ASIC Chips To Challenge GPU Dominance: Here's Why",
+            "url": "https://www.benzinga.com/markets/tech/25/08/47376126/jensen-huang-says-nvidias-products-irreplaceable-as-broadcom-and-marvell-push-custom-asic-chips-to-c",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/08/28/Jensen-Huang-Nvidias-Founder--President-.jpeg?auto=jpg&dpr=1&fit=crop&height=480&optimize=medium&width=720",
+            "publishedAt": "2025-08-28 05:12:22"
+        },
+        {
+            "source": {
+                "name": "in_mashable"
+            },
+            "title": "WhatsApp Rolls Out AI Writing Help For Smarter, Clearer Conversations: How It Works",
+            "url": "https://in.mashable.com/tech/99050/whatsapp-rolls-out-ai-writing-help-for-smarter-clearer-conversations-how-it-works",
+            "urlToImage": "https://sm.mashable.com/mashable_in/photo/default/z3wq-2025-08-28t102240781_ev2t.jpg",
+            "publishedAt": "2025-08-28 05:09:19"
         },
         {
             "source": {
@@ -3201,63 +3264,6 @@
             "url": "https://www.digit.in/news/general/metas-ai-gamble-backfires-eight-key-staff-exit-amid-billion-dollar-talent-war-report.html",
             "urlToImage": "https://static.digit.in/meta-mark-zuckerberg-superintelligence-lab-ai.png",
             "publishedAt": "2025-08-27 03:39:35"
-        },
-        {
-            "source": {
-                "name": "benzinga"
-            },
-            "title": "Nvidia's Robotics Platform Is Becoming The 'De Facto Standard,' Says Gene Munster As Chipmaker Launches $3,499 'Robot Brain'",
-            "url": "https://www.benzinga.com/markets/tech/25/08/47349348/nvidias-robotics-platform-is-becoming-the-de-facto-standard-says-gene-munster-as-chipmaker-launches-",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/08/26/New-Robotics-Platform.jpeg?auto=jpg&dpr=1&fit=crop&height=480&optimize=medium&width=720",
-            "publishedAt": "2025-08-27 03:21:24"
-        },
-        {
-            "source": {
-                "name": "thehansindia"
-            },
-            "title": "Cabinet unveils electronics component manufacturing policy",
-            "url": "https://www.thehansindia.com/news/national/cabinet-unveils-electronics-component-manufacturing-policy-1000835",
-            "urlToImage": "https://assets.thehansindia.com/h-upload/2025/08/27/1579806-odisha-electronics.webp",
-            "publishedAt": "2025-08-27 03:05:31"
-        },
-        {
-            "source": {
-                "name": "abc4"
-            },
-            "title": "Utah man arrested after allegedly creating CSAM with AI, possibly storing up to 280 million images",
-            "url": "https://www.abc4.com/news/crimes-against-children/man-allegedly-creating-csam-with-ai/",
-            "urlToImage": "https://www.abc4.com/wp-content/uploads/sites/4/2025/07/Untitled-design.png?w=900",
-            "publishedAt": "2025-08-27 02:13:50"
-        },
-        {
-            "source": {
-                "name": "toi"
-            },
-            "title": "Meta’s Superintelligence Lab hits turbulence: Why top AI researchers are walking away just months after launch",
-            "url": "https://timesofindia.indiatimes.com/education/news/metas-superintelligence-lab-hits-turbulence-why-top-ai-researchers-are-walking-away-just-months-after-launch/articleshow/123535925.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-123536013,imgsize-504688,width-400,resizemode-4/123536013.jpg",
-            "publishedAt": "2025-08-27 02:03:13"
-        },
-        {
-            "source": {
-                "name": "financialcontent"
-            },
-            "title": "This Artificial Intelligence (AI) Stock Could Be the Next Tech Titan",
-            "url": "https://www.fool.com/investing/2025/08/27/this-artificial-intelligence-ai-stock-could-be-the/",
-            "urlToImage": "https://g.foolcdn.com/image/?h=400&op=resize&url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F830432%2Fperson-smiling-computer-charts.jpg&w=400",
-            "publishedAt": "2025-08-27 00:00:00"
-        },
-        {
-            "source": {
-                "id": "e553cce06d349ac1f7fbb7618a979256",
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com",
-                "country": "us"
-            },
-            "title": "Silicon Valley Pledges $200 Million to New Pro-A.I. Super PACs",
-            "url": "https://www.nytimes.com/2025/08/26/technology/silicon-valley-ai-super-pacs.html",
-            "urlToImage": "https://static01.nyt.com/images/2025/08/26/multimedia/26biz-ai-superpacs-hvjp/26biz-ai-superpacs-hvjp-facebookJumbo.jpg",
-            "publishedAt": "2025-08-26T22:54:32Z"
         }
     ]
 }
