@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2025-08-28T09:15:59.189147Z",
+    "lastUpdatedAt": "2025-08-28T10:16:06.080677Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Snowflake shares surge as AI boom fuels demand for data platforms",
+            "url": "https://www.reuters.com/business/snowflake-shares-surge-ai-boom-fuels-demand-data-platforms-2025-08-28/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/QGTPJHKQYZIM5FZU7I7PYRA7RI.jpg?auth=bbf53719e50761f2dcf0e425ea99754b4a14a0d11687a42ef5432bebcbf282c0&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-08-28T09:58:51Z"
+        },
+        {
+            "source": {
+                "id": "628299239469ffa8b7dbb809aabbcc2e",
+                "name": "Analytics India Magazine",
+                "url": "https://analyticsindiamag.com",
+                "country": "in"
+            },
+            "title": "CEOs are Firing Developers for Not Using AI",
+            "url": "https://analyticsindiamag.com/ai-trends/ceos-are-firing-developers-for-not-using-ai/",
+            "urlToImage": "https://analyticsindiamag.com/wp-content/uploads/2025/08/AI-Ceos.jpg",
+            "publishedAt": "2025-08-28T09:29:48Z"
+        },
+        {
+            "source": {
+                "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
+                "name": "Fortune",
+                "url": "https://fortune.com",
+                "country": "us"
+            },
+            "title": "George Kurtz on CrowdStrike’s $290 million Onum acquisition and cybersecurity M&A",
+            "url": "https://fortune.com/2025/08/28/george-kurtz-on-crowdstrikes-290-million-onum-acquisition-and-cybersecurity-mampa/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/08/GK-Horizontal.png?resize=1200,600",
+            "publishedAt": "2025-08-28T09:23:22Z"
+        },
+        {
+            "source": {
+                "id": "0c047612bc7bc0113342d2651f47b208",
+                "name": "GB News",
+                "url": "https://www.gbnews.com",
+                "country": "gb"
+            },
+            "title": "Currys will PAY you £100 to switch to Google Pixel 10 today",
+            "url": "https://www.gbnews.com/tech/get-paid-ps100-currys-google-pixel-10",
+            "urlToImage": "https://www.gbnews.com/media-library/a-woman-holds-the-google-pixel-10-in-her-hand-with-the-google-logo-in-the-background.png?id=61527704&width=1200&height=600&coordinates=0%2C101%2C0%2C-1",
+            "publishedAt": "2025-08-28T09:18:36Z"
+        },
+        {
+            "source": {
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
+                "country": "us"
+            },
+            "title": "Snowflake's CEO Says AI Is Not 'Plateauing:' Enterprise Adoption Still In 'Very, Very Early Innings' - Ample 'Runway' Ahead",
+            "url": "https://www.benzinga.com/markets/earnings/25/08/47378519/snowflakes-ceo-says-ai-is-not-plateauing-enterprise-adoption-still-in-very-very-early-innings-ample-runway-ahead",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/08/28/Snowflake_0.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2025-08-28T09:18:34Z"
+        },
         {
             "source": {
                 "id": "6a3aad3dbb44ac873f72b594aaea22c4",
@@ -1719,6 +1779,33 @@
         },
         {
             "source": {
+                "name": "webpronews"
+            },
+            "title": "Nvidia Linux Maintainer Uses AI for Kernel Patch Triage",
+            "url": "https://www.webpronews.com/nvidia-linux-maintainer-uses-ai-for-kernel-patch-triage/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-739afcb0-7587-492d-970e-6446b6358d9c.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-08-27 22:00:00"
+        },
+        {
+            "source": {
+                "name": "engadget"
+            },
+            "title": "The iPhone 17 event is September 9: Here's everything to know about the upcoming Apple lineup",
+            "url": "https://www.engadget.com/mobile/smartphones/the-iphone-17-event-is-september-9-heres-everything-to-know-about-the-upcoming-apple-lineup-153024127.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?client=19f2b5e49a271b2bde77&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-09%2Fb9a38080-756d-11ef-9fbd-6b990c391cf6&resize=1400%2C787&signature=080bcc4c3e8054983c2c84d47c03dfb4a98a6774",
+            "publishedAt": "2025-08-27 21:44:56"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Open-Source AI Is Being Embraced By China and the US",
+            "url": "https://hackernoon.com/open-source-ai-is-being-embraced-by-china-and-the-us",
+            "urlToImage": "https://hackernoon.imgix.net/images/22qULrU2ZPb8VRsSedCeA6x7AJ13-j3138a2.png",
+            "publishedAt": "2025-08-27 21:23:02"
+        },
+        {
+            "source": {
                 "name": "interestingengineering"
             },
             "title": "Photos: MIT’s Kitchen Cosmo device prints recipes from scanned leftovers",
@@ -3231,102 +3318,6 @@
             "url": "https://www.independent.co.uk/news/world/americas/us-politics/melania-trump-audiobook-ai-b2814278.html",
             "urlToImage": "https://static.independent.co.uk/2025/08/16/3/51/GettyImages-2222872839.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
             "publishedAt": "2025-08-26T15:03:36Z"
-        },
-        {
-            "source": {
-                "id": "5b07f2eba74fc799fd5d1ee46c5bafc3",
-                "name": "Newsweek",
-                "url": "https://www.newsweek.com",
-                "country": "us"
-            },
-            "title": "Melania Trump Takes On New Trump Administration Role",
-            "url": "https://www.newsweek.com/melania-trump-takes-new-trump-administration-role-2119434",
-            "urlToImage": "https://d.newsweek.com/en/full/2709684/first-lady-melania-trump.jpg",
-            "publishedAt": "2025-08-26T15:03:28Z"
-        },
-        {
-            "source": {
-                "id": "ac7b96be74f81cabb4e02b818a3ff6d7",
-                "name": "MarketBeat",
-                "url": "https://www.marketbeat.com",
-                "country": "us"
-            },
-            "title": "Cybersecurity Stocks Set for 2026 Upside",
-            "url": "https://www.marketbeat.com/stock-ideas/3-cybersecurity-stocks-to-watch-ahead-of-2026-midterms/",
-            "urlToImage": "https://www.marketbeat.com/logos/articles/med_20250825150452_3-cybersecurity-stocks-to-watch-ahead-of-2026-midt.jpg",
-            "publishedAt": "2025-08-26T14:47:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "From Human to Cyborg: Cybersecurity Visionary Len Noe Unveils Explosive Documentary ‘I Am Machine’ at Hacker Halted",
-            "url": "https://www.manilatimes.net/2025/08/26/tmt-newswire/globenewswire/from-human-to-cyborg-cybersecurity-visionary-len-noe-unveils-explosive-documentary-i-am-machine-at-hacker-halted/2174026",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/26/726644.jpg",
-            "publishedAt": "2025-08-26T14:35:50Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com",
-                "country": "ca"
-            },
-            "title": "Melania Trump news:",
-            "url": "https://www.cp24.com/news/world/2025/08/26/melania-trump-invites-k-12-students-to-participate-in-nationwide-ai-challenge-contest/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/QKBOKOD56FLNIYZEVTSZ3SJ6A4.jpg?smart=true&auth=beb6e2681cc31525b8c896dcb21e8bfc01b982ea67bb1e3ec6b1a04f51ca61cc&width=1200&height=630",
-            "publishedAt": "2025-08-26T14:25:24Z"
-        },
-        {
-            "source": {
-                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
-                "name": "Times Now",
-                "url": "https://www.timesnownews.com",
-                "country": "in"
-            },
-            "title": "Pickleball 2.0: AI Can Turn Passive Fans Into Active Players of the Future",
-            "url": "https://www.timesnownews.com/sports/pickleball/pickleball-2-0-ai-can-turn-passive-fans-into-active-players-of-the-future-article-152528163",
-            "urlToImage": "https://images.timesnownews.com/thumb/msid-152529251,thumbsize-2073338,width-1280,height-720,resizemode-75/152529251.jpg",
-            "publishedAt": "2025-08-26T14:22:29Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Xiao-I Corporation Renews Service with Leading Asset Manager to Enhance Financial Services with Cognitive AI",
-            "url": "https://www.manilatimes.net/2025/08/26/tmt-newswire/pr-newswire/xiao-i-corporation-renews-service-with-leading-asset-manager-to-enhance-financial-services-with-cognitive-ai/2174009",
-            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-            "publishedAt": "2025-08-26T14:17:56Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Franklin Energy Launches AI Energy Forum to Lead Responsible Innovation in the Energy Sector",
-            "url": "https://www.manilatimes.net/2025/08/26/tmt-newswire/globenewswire/franklin-energy-launches-ai-energy-forum-to-lead-responsible-innovation-in-the-energy-sector/2174007",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/26/726604.png",
-            "publishedAt": "2025-08-26T14:15:27Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "NASA heliophysics AI foundation model launched to support scientists, enhance space weather forecasting",
-            "url": "https://phys.org/news/2025-08-nasa-heliophysics-ai-foundation-scientists.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/swri-scientist-leads-s.jpg",
-            "publishedAt": "2025-08-26T14:14:05Z"
         }
     ]
 }
