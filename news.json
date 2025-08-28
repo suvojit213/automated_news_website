@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-08-28T01:10:37.372737Z",
+    "lastUpdatedAt": "2025-08-28T02:59:32.024520Z",
     "articles": [
+        {
+            "source": {
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
+                "country": "us"
+            },
+            "title": "Jensen Huang Declares 'A New Industrial Revolution Has Started': Sees 100x To 1000x Compute Demand Surge - $3-$4 Trillion 'Opportunity' For Nvidia",
+            "url": "https://www.benzinga.com/markets/earnings/25/08/47375148/jensen-huang-declares-a-new-industrial-revolution-has-started-sees-100x-to-1000x-compute-demand-surge-3-4-trillion-opportunity-for-nvidia",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/08/27/Jensen-Huang--Nvidia-Founder-And-Ceo-And.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2025-08-28T02:30:29Z"
+        },
+        {
+            "source": {
+                "id": "e9207083a357fb7e76b38e485888ebe7",
+                "name": "manilastandard.net",
+                "url": "https://manilastandard.net",
+                "country": "ph"
+            },
+            "title": "Philippines backs AI use of MSMEs at 2025 APEC confab",
+            "url": "https://manilastandard.net/news/314635462/philippines-backs-ai-use-of-msmes-at-2025-apec-confab.html",
+            "urlToImage": "https://cdn.manilastandard.net/wp-content/uploads/2025/08/dfa-apec-2025.jpg",
+            "publishedAt": "2025-08-28T02:18:18Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Asia markets waver, Nvidia drops after earnings beat",
+            "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2025-08-28/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/37VIJKVNMJLWDPKYNL42ORW46Y.jpg?auth=a941f26e9f0abd1a325fe5b86e1cfeb5cf95598b606aca2e89e30e849d5e5cd2&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-08-28T01:57:34Z"
+        },
+        {
+            "source": {
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
+                "country": "in"
+            },
+            "title": "Nvidia Forecasts Decelerating Growth After Two-Year AI Boom",
+            "url": "https://www.ndtvprofit.com/business/nvidia-q2-results-company-forecasts-decelerating-growth-after-two-year-ai-boom",
+            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-08-28%2Fj9d1aequ%2F438751116.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+            "publishedAt": "2025-08-28T01:18:44Z"
+        },
         {
             "source": {
                 "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
@@ -1332,6 +1380,78 @@
             "url": "https://www.globenewswire.com/news-release/2025/08/27/3140249/0/en/Cybersecurity-Experts-Urge-Lawmakers-to-Pursue-Lawful-Access-Solutions-Without-Compromising-Encryption-Integrity.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/c7c2669f-e638-43a2-abc6-90f61b74c46a",
             "publishedAt": "2025-08-27T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "Medicines Reimagined – Repurposing Drugs For New Indications",
+            "url": "https://www.forbes.com/sites/judystone/2025/08/27/medicines-reimagined--repurposing-drugs-for-new-indications/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68af1467796d6a5824fdaffe/0x0.jpg?width=960",
+            "publishedAt": "2025-08-27 14:53:08"
+        },
+        {
+            "source": {
+                "name": "pcworld_us"
+            },
+            "title": "Logitech’s MX Master 4 is getting haptic feedback, according to leaks",
+            "url": "https://www.pcworld.com/article/2890877/logitechs-mx-master-4-is-getting-haptic-feedback-according-to-leaks.html",
+            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/08/image_797fc6.png",
+            "publishedAt": "2025-08-27 14:28:29"
+        },
+        {
+            "source": {
+                "name": "astrobiology"
+            },
+            "title": "Teaching A.I. to Detect Life: Carnegie Scientist Co-Leads NASA-Funded Effort",
+            "url": "https://astrobiology.com/2025/08/teaching-a-i-to-detect-life-carnegie-scientist-co-leads-nasa-funded-effort.html",
+            "urlToImage": "https://astrobiology.com/wp-content/uploads/2025/08/Teaching-AI-to-Detect-Life.jpg",
+            "publishedAt": "2025-08-27 14:20:37"
+        },
+        {
+            "source": {
+                "name": "arstechnica"
+            },
+            "title": "The first stars may not have been as uniformly massive as we thought",
+            "url": "https://arstechnica.com/science/2025/08/the-first-stars-may-not-have-been-as-uniformly-massive-as-we-thought/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/file-20250819-56-c2tduy.avif",
+            "publishedAt": "2025-08-27 14:16:33"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Cloudflare Omni Runs Multiple AI Models on Single GPU Efficiently",
+            "url": "https://www.webpronews.com/cloudflare-omni-runs-multiple-ai-models-on-single-gpu-efficiently/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-e379be1b-a281-4450-949e-d1fde4139ca2.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-08-27 14:09:23"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Cloudflare Enhances Workers AI with Leonardo.Ai Image Gen and Deepgram Speech Tools",
+            "url": "https://www.webpronews.com/cloudflare-enhances-workers-ai-with-leonardo-ai-image-gen-and-deepgram-speech-tools/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-440ac89a-335a-42e6-9f1c-11bf16f68a1f.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-08-27 14:08:49"
+        },
+        {
+            "source": {
+                "name": "cnet"
+            },
+            "title": "Deciphering Apple's 'Awe Dropping' iPhone 17 Event Invite",
+            "url": "https://www.cnet.com/tech/deciphering-apples-awe-dropping-iphone-17-event-invite/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/1bb817f4ba3cfa17dfb113565a4e964656f33701/hub/2025/08/27/345a8362-5563-4d1a-8ac5-1cf0c3f222a4/apple-invite-sep925-phone.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-08-27 14:00:04"
+        },
+        {
+            "source": {
+                "name": "technologyreview"
+            },
+            "title": "Unlocking enterprise agility in the API economy",
+            "url": "https://www.technologyreview.com/2025/08/27/1121532/unlocking-enterprise-agility-in-the-api-economy/",
+            "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2025/08/iStock-1742620693.jpg?resize=1200%2C600",
+            "publishedAt": "2025-08-27 14:00:00"
         },
         {
             "source": {
@@ -3279,114 +3399,6 @@
             "url": "https://bitcoinworld.co.in/anthropic-claude-ai-chrome/",
             "urlToImage": "https://bitcoinworld.co.in/wp-content/uploads/anthropic-claude-ai-chrome.jpg",
             "publishedAt": "2025-08-26 20:30:11"
-        },
-        {
-            "source": {
-                "name": "theeagle"
-            },
-            "title": "What to look for in business expense tracking apps and tools",
-            "url": "https://theeagle.com/news/nation-world/business/personal-finance/article_cc20b0e1-0366-5805-a55a-cc10fdc84d9b.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/theeagle.com/content/tncms/assets/v3/editorial/8/d8/8d8254c3-a426-596e-b911-4c3c348896fa/68ae211590d62.image.jpg?crop=1280%2C672%2C0%2C23&order=crop%2Cresize&resize=1200%2C630",
-            "publishedAt": "2025-08-26 20:30:10"
-        },
-        {
-            "source": {
-                "name": "space"
-            },
-            "title": "Dwarf planet Ceres may have once been suitable for life, new study suggests",
-            "url": "https://www.space.com/astronomy/dwarf-planets/dwarf-planet-ceres-may-have-once-been-suitable-for-life-new-study-suggests",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/3zuqyZVTd8tag8YFLqJxXS-1280-80.jpg",
-            "publishedAt": "2025-08-26 20:00:00"
-        },
-        {
-            "source": {
-                "name": "yahoo"
-            },
-            "title": "Dwarf planet Ceres may have once been suitable for life, new study suggests",
-            "url": "https://www.yahoo.com/news/articles/dwarf-planet-ceres-may-once-200000838.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/dozDQPu5GIvXN9o.dl6Sjw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MDtjZj13ZWJw/https://media.zenfs.com/en/space_311/396c4441debad9e6263fb40a85c17891",
-            "publishedAt": "2025-08-26 20:00:00"
-        },
-        {
-            "source": {
-                "name": "arstechnica"
-            },
-            "title": "“ChatGPT killed my son”: Parents’ lawsuit describes suicide notes in chat logs",
-            "url": "https://arstechnica.com/tech-policy/2025/08/chatgpt-helped-teen-plan-suicide-after-safeguards-failed-openai-admits/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/Matt-and-Adam-Raine-via-Edelson-PC-1152x648.jpeg",
-            "publishedAt": "2025-08-26 19:31:25"
-        },
-        {
-            "source": {
-                "name": "news_unomaha"
-            },
-            "title": "AI Opportunities for Students from the AI Learning Lab",
-            "url": "https://www.unomaha.edu/innovative-and-learning-centric-initiatives/news/2025/08/ai-opportunities-for-students-from-the-ai-learning-lab.php",
-            "urlToImage": "https://www.unomaha.edu/innovative-and-learning-centric-initiatives/_files/images/student-ai-insights-and-opportunities_header.jpg",
-            "publishedAt": "2025-08-26 18:42:46"
-        },
-        {
-            "source": {
-                "name": "bgr_com"
-            },
-            "title": "How Nuclear Energy Powers American Aircraft Carriers",
-            "url": "https://www.bgr.com/1947268/how-nuclear-energy-powers-american-aircraft-carriers/",
-            "urlToImage": "https://www.bgr.com/img/gallery/how-nuclear-energy-powers-american-aircraft-carriers/l-intro-1755875560.jpg",
-            "publishedAt": "2025-08-26 18:17:00"
-        },
-        {
-            "source": {
-                "name": "wired"
-            },
-            "title": "Researchers Are Already Leaving Meta’s New Superintelligence Lab",
-            "url": "https://www.wired.com/story/researchers-leave-meta-superintelligence-labs-openai/",
-            "urlToImage": "https://media.wired.com/photos/68addc95d3fc9749a4eedf09/3:4/w_120,c_limit/GettyImages-2195497609.jpg",
-            "publishedAt": "2025-08-26 18:00:37"
-        },
-        {
-            "source": {
-                "name": "insider"
-            },
-            "title": "A new study finds more bad news for entry-level coders",
-            "url": "https://www.businessinsider.com/theres-more-bad-news-for-entry-level-coders-ai-study-2025-8",
-            "urlToImage": "https://i.insider.com/68adda25a17a8c5b40537e5f?format=jpeg",
-            "publishedAt": "2025-08-26 17:48:28"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "IPFed: A Privacy-Preserving Federated Learning Framework for Face Verification",
-            "url": "https://hackernoon.com/ipfed-a-privacy-preserving-federated-learning-framework-for-face-verification",
-            "urlToImage": "https://hackernoon.imgix.net/images/in-the-center-a-secure-server-or-abstract-ai-model-processes-only-encrypted-transformed-embeddings-not-raw-personal-data-jv0ltrd5roezfc6wmg8uigcn.png",
-            "publishedAt": "2025-08-26 17:35:21"
-        },
-        {
-            "source": {
-                "name": "toi"
-            },
-            "title": "Samsung launches its next-generation mobile CT product portfolio in India: Details",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/samsung-launches-its-next-generation-mobile-ct-product-portfolio-in-india-details/articleshow/123531024.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-123531075,imgsize-23196,width-400,resizemode-4/Samsung-launches-its-next-generation-mobile-CT-product-portfolio-in-India.jpg",
-            "publishedAt": "2025-08-26 17:33:12"
-        },
-        {
-            "source": {
-                "name": "pcworld_us"
-            },
-            "title": "Best monitors for a home office: 11 top-notch displays that mean business",
-            "url": "https://www.pcworld.com/article/1389780/best-home-office-monitors.html",
-            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/08/acer-k242hyl-2.jpg?quality=50&strip=all",
-            "publishedAt": "2025-08-26 17:30:00"
-        },
-        {
-            "source": {
-                "name": "invenglobal"
-            },
-            "title": "How AI Is Transforming Game Development: KRAFTON and NC Share Their Vision for the Future",
-            "url": "https://www.invenglobal.com/articles/19618/how-ai-is-transforming-game-development-krafton-and-nc-share-their-vision-for-the-future",
-            "urlToImage": "https://static.invenglobal.com/upload/image/2025/08/26/r1756227774345050.jpeg",
-            "publishedAt": "2025-08-26 17:10:22"
         }
     ]
 }
