@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-08-29T18:20:31.836421Z",
+    "lastUpdatedAt": "2025-08-29T19:11:29.855967Z",
     "articles": [
+        {
+            "source": {
+                "id": "85e5403407038478a5e7d8d100ff8e8f",
+                "name": "CP24 Toronto",
+                "url": "https://www.cp24.com",
+                "country": "ca"
+            },
+            "title": "Elon Musk’s xAI sues engineer OpenAI",
+            "url": "https://www.cp24.com/news/money/2025/08/29/musks-xai-sues-engineer-for-allegedly-taking-secrets-to-openai/",
+            "urlToImage": "https://www.cp24.com/resizer/v2/LPKIBKMNZ5BUDCNENIIZMNJQDQ.JPG?smart=true&auth=eda027eaf075c201f46bb8f1ad23736aef1f5682d5ca3443ae17a3b2efe4caf7&width=1200&height=630",
+            "publishedAt": "2025-08-29T18:27:53Z"
+        },
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "AI models can help predict in-hospital mortality in ICU patients with lymphoma",
+            "url": "https://medicalxpress.com/news/2025-08-ai-hospital-mortality-icu-patients.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/ai-models-can-help-pre.jpg",
+            "publishedAt": "2025-08-29T18:20:01Z"
+        },
         {
             "source": {
                 "id": "c24832368cd2d9132598ad4bef08e0ab",
@@ -960,6 +984,51 @@
             "url": "https://www.globenewswire.com/news-release/2025/08/29/3141441/28124/en/India-Artificial-Intelligence-in-Retail-and-E-commerce-Market-Report-2025-2030-Reshaping-the-Landscape-with-GAI-Real-Time-Analytics-and-Fraud-Prevention-Driving-Personalization-and.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
             "publishedAt": "2025-08-29T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "menafn"
+            },
+            "title": "Inside Reliance-Google AI Cloud Push: Mukesh Ambani And Sundar Pichai Outline India's Next Leap",
+            "url": "https://menafn.com/1109992827/Inside-Reliance-Google-AI-Cloud-Push-Mukesh-Ambani-And-Sundar-Pichai-Outline-Indias-Next-Leap",
+            "urlToImage": "https://menafn.com/updates/pr/2025-08/29/AN_393d9image_story.jpg",
+            "publishedAt": "2025-08-29 07:00:44"
+        },
+        {
+            "source": {
+                "name": "engadget"
+            },
+            "title": "The best iPhone accessories for 2025",
+            "url": "https://www.engadget.com/computing/accessories/best-iphone-accessories-140022449.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?client=19f2b5e49a271b2bde77&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-12%2F9acef080-bb91-11ef-bdef-cd71a359f60c&resize=1400%2C787&signature=e7bf73349a4d441aa5b98c9f5abf91bb213aef22",
+            "publishedAt": "2025-08-29 07:00:36"
+        },
+        {
+            "source": {
+                "name": "itpro"
+            },
+            "title": "AOC Graphic Pro U32U3CV monitor review: Recalibrate your expectations",
+            "url": "https://www.itpro.com/hardware/monitors/aoc-graphic-pro-u32u3cv-monitor-review-recalibrate-your-expectations",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/8zM2Tn5ypJnxHmS2VS7RQH-1280-80.jpg",
+            "publishedAt": "2025-08-29 07:00:00"
+        },
+        {
+            "source": {
+                "name": "expresscomputer"
+            },
+            "title": "Redefining Compliance in a Cloud-First World- Data Privacy and AI Ethics",
+            "url": "https://www.expresscomputer.in/guest-blogs/redefining-compliance-in-a-cloud-first-world-data-privacy-and-ai-ethics/127425/",
+            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2024/03/05165016/ec-future-technology-concept-750.jpg",
+            "publishedAt": "2025-08-29 06:42:16"
+        },
+        {
+            "source": {
+                "name": "abcnews"
+            },
+            "title": "AI simulation of a Mount Fuji eruption is being used to prepare Tokyo for the worst",
+            "url": "https://abcnews.go.com/Technology/wireStory/ai-simulation-mount-fuji-eruption-prepare-tokyo-worst-125083168",
+            "urlToImage": "https://s.abcnews.com/images/International/wirestory_f1729ae8915ec050240a24ea94637e7f_4x3_384.jpg",
+            "publishedAt": "2025-08-29 06:23:14"
         },
         {
             "source": {
@@ -3195,69 +3264,6 @@
             "url": "https://en.prnasia.com/story/501266-0.shtml",
             "urlToImage": "https://mma.prnasia.com/media2/2759017/viaim.jpg?p=medium600",
             "publishedAt": "2025-08-28 08:00:00"
-        },
-        {
-            "source": {
-                "name": "computerworld_in"
-            },
-            "title": "AI PCs to surge, claiming over half the market by 2026",
-            "url": "https://www.computerworld.com/article/4047019/ai-pcs-to-surge-claiming-over-half-the-market-by-2026.html",
-            "urlToImage": "https://www.computerworld.com/wp-content/uploads/2025/08/4047019-0-61951200-1756366374-shutterstock_2336740141.jpg?quality=50&strip=all",
-            "publishedAt": "2025-08-28 07:30:00"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "I Test iPads for a Living — 13 Labor Day Deals I’d Buy With My Own Money",
-            "url": "https://www.tomsguide.com/computing/ipads/labor-day-ipad-sales-2025",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/BNALRkQ85biabiPyXYaDMX-1280-80.jpg",
-            "publishedAt": "2025-08-28 07:30:00"
-        },
-        {
-            "source": {
-                "name": "republicworld"
-            },
-            "title": "Google Pixel 10: 5 Best Alternatives That Offer Same for Less More for Less",
-            "url": "https://www.republicworld.com/tech/google-pixel-10-5-best-alternatives-that-offer-same-for-less-more-for-less",
-            "urlToImage": "https://img.republicworld.com/all_images/google-pixel-10-5-best-alternatives-that-offer-same-for-less-more-for-less-1756364709839-16_9.webp?format=webp&h=720&q=100&w=1280",
-            "publishedAt": "2025-08-28 07:05:52"
-        },
-        {
-            "source": {
-                "name": "engadget"
-            },
-            "title": "The best iPad for 2025: How to pick the best Apple tablet for you",
-            "url": "https://www.engadget.com/mobile/tablets/best-ipads-how-to-pick-the-best-apple-tablet-for-you-150054066.html",
-            "urlToImage": "https://o.aolcdn.com/images/dims?client=19f2b5e49a271b2bde77&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-12%2Ff32ed960-bc64-11ef-b7ff-c62da710832c&resize=1400%2C787&signature=a23852a860549d0d249008d5f7163826ef38e952",
-            "publishedAt": "2025-08-28 07:01:26"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Medical AI Models Battle It Out—And the Winner Might Surprise You",
-            "url": "https://hackernoon.com/medical-ai-models-battle-it-outand-the-winner-might-surprise-you",
-            "urlToImage": "https://hackernoon.imgix.net/images/2-robots-wrestling-dqm0i750pegm79b35d8lc51n.png",
-            "publishedAt": "2025-08-28 07:00:04"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "AMD",
-            "url": "https://www.analyticsinsight.net/company-profile/amd",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-08-27%2F371vgro3%2FAMD.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-08-28 06:57:19"
-        },
-        {
-            "source": {
-                "name": "computerweekly"
-            },
-            "title": "Zopa Bank seeks partners to form AI skills coalition",
-            "url": "https://www.computerweekly.com/news/366630020/Zopa-Bank-seeks-partners-to-form-AI-skills-coalition",
-            "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero%20Images/AI-artificial-intelligence-button-fotolia_searchsitetablet_520X173.jpg",
-            "publishedAt": "2025-08-28 06:46:00"
         }
     ]
 }
