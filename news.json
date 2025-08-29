@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2025-08-29T21:13:09.586260Z",
+    "lastUpdatedAt": "2025-08-29T22:14:01.010135Z",
     "articles": [
+        {
+            "source": {
+                "id": "c837db3560dbe304554f10dddd97c3c8",
+                "name": "People.com",
+                "url": "https://people.com",
+                "country": "us"
+            },
+            "title": "AI Helps Identify Man Months After Partially Decomposed Remains Found",
+            "url": "https://people.com/ai-helps-identify-man-months-after-naked-partially-decomposed-remains-found-11798277",
+            "urlToImage": "https://people.com/thmb/tWlC3NIstm7c-zxbkiEQWghaxnw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(599x0:601x2)/Ronald-Woolf-photo-and-ai-image-082625-6abbc73047e34f89af5ef084556909b9.jpg",
+            "publishedAt": "2025-08-29T21:46:00Z"
+        },
+        {
+            "source": {
+                "id": "eaeed30dacd1269c1893de860c94a7e7",
+                "name": "USA TODAY",
+                "url": "https://www.usatoday.com",
+                "country": "us"
+            },
+            "title": "DHS Sec. Noem fires 2 dozen FEMA employees for cybersecurity failures",
+            "url": "https://www.usatoday.com/story/news/politics/2025/08/29/dhs-sec-noem-fires-2-dozen-fema-employees-cybersecurity-failures/85895114007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/08/29/USAT/85895188007-usatsi-26889324.jpg?crop=1319,743,x0,y103&width=1319&height=743&format=pjpg&auto=webp",
+            "publishedAt": "2025-08-29T21:39:46Z"
+        },
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "AI drives rally in software, led by MongoDB, Pure Storage, Snowflake",
+            "url": "https://www.cnbc.com/2025/08/29/ai-software-stocks-mongodb-pure-storage-snowflake.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106710362-16006872532020-09-16t205447z_887757223_rc2wzi9h4d5s_rtrmadp_0_snowflake-ipo.jpeg?v=1704473637&w=1920&h=1080",
+            "publishedAt": "2025-08-29T21:17:45Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Brain-inspired model outperforms ChatGPT, Claude, and DeepSeek - is it the future of AI?",
+            "url": "https://economictimes.indiatimes.com/news/international/us/brain-inspired-model-outperforms-chatgpt-claude-and-deepseek-is-it-the-future-of-ai/articleshow/123592443.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-123592536,width-1200,height-630,imgsize-101222,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-08-29T21:12:00Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "DHS Cybersecurity Shakeup: Noem Fires FEMA IT Staff",
+            "url": "https://www.devdiscourse.com/article/law-order/3608791-dhs-cybersecurity-shakeup-noem-fires-fema-it-staff",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/14_08_2025_12_45_28_6028709.jpg?width=920&format=jpeg",
+            "publishedAt": "2025-08-29T21:08:10Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "Time magazine names Japan artist, SoftBank CEO among most impactful in AI",
+            "url": "https://japantoday.com/category/tech/time-magazine-names-japan-artist-softbank-ceo-among-most-impactful-in-ai",
+            "urlToImage": "https://media.japantoday.com/img/store/11/dc/4c3e77858a8a1ffbda9d4ecf4742d569782a/masayoshi-son/_w1700.jpeg",
+            "publishedAt": "2025-08-29T20:50:00Z"
+        },
         {
             "source": {
                 "id": "79baacd62152cf257ee35e8c0bec19a2",
@@ -12,6 +84,18 @@
             "url": "https://www.upi.com/Top_News/US/2025/08/29/Anthropic-training-AI-models-user-data-optout-avilable/5071756494461/",
             "urlToImage": "https://cdnph.upi.com/ph/st/th/5071756494461/2025/upi_com/d993e07a42f4cfae108bd16cfe5ae613/v1.5/Anthropic-to-start-training-AI-models-from-users-chat-conversations.jpg?lg=5",
             "publishedAt": "2025-08-29T20:49:42Z"
+        },
+        {
+            "source": {
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
+            },
+            "title": "AI Operations Management Tested by US Military Pilots",
+            "url": "https://www.newsmax.com/newsfront/ai-coordination-agentic/2025/08/29/id/1224473/",
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=cd14e7ec-b6fa-4b95-b178-2e3c8ad5b1b0&SiteName=Newsmax",
+            "publishedAt": "2025-08-29T20:45:34Z"
         },
         {
             "source": {
@@ -1056,6 +1140,96 @@
             "url": "https://www.globenewswire.com/news-release/2025/08/29/3141441/28124/en/India-Artificial-Intelligence-in-Retail-and-E-commerce-Market-Report-2025-2030-Reshaping-the-Landscape-with-GAI-Real-Time-Analytics-and-Fraud-Prevention-Driving-Personalization-and.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
             "publishedAt": "2025-08-29T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "geeky_gadgets"
+            },
+            "title": "ChatGPT 5 Pro Solves Math Problem Experts Couldn’t Crack for Decades",
+            "url": "https://www.geeky-gadgets.com/chatgpt-5-pro-solving-math-problem/",
+            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/08/ai-convex-optimization-breakthrough.webp",
+            "publishedAt": "2025-08-29 10:12:54"
+        },
+        {
+            "source": {
+                "name": "toi"
+            },
+            "title": "Google CEO Sundar Pichai, Facebook’s Mark Zuckerberg announce AI and Superintelligence partnerships with Reliance",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-ceo-sundar-pichai-facebooks-mark-zuckerberg-announce-ai-and-superintelligence-partnerships-with-reliance/articleshow/123582682.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-123582690,imgsize-38328,width-400,resizemode-4/reliance-jio.jpg",
+            "publishedAt": "2025-08-29 10:12:01"
+        },
+        {
+            "source": {
+                "name": "medianama"
+            },
+            "title": "FIRs Remain Low Even As Reported Cyber Crimes Rise, Parl Report Says",
+            "url": "https://www.medianama.com/2025/08/223-firs-low-cyber-crimes-rise-parl-report/",
+            "urlToImage": "https://www.medianama.com/wp-content/uploads/2019/03/fraud-cmn-cc0.jpg-e1631541851398.jpg",
+            "publishedAt": "2025-08-29 10:05:18"
+        },
+        {
+            "source": {
+                "name": "news18"
+            },
+            "title": "Mukesh Ambani Announces New Subsidiary 'Reliance Intelligence', AI Tie-Ups With Google & Meta",
+            "url": "https://www.news18.com/business/reliance-announces-new-wholly-owned-subsidiary-reliance-intelligence-ai-tie-up-with-google-ws-l-9536147.html",
+            "urlToImage": "https://images.news18.com/ibnlive/uploads/2025/08/Reliance-Intelligence-AI-2025-08-e4d911e3b2f304700e257169442c7287-3x2.jpeg",
+            "publishedAt": "2025-08-29 09:52:17"
+        },
+        {
+            "source": {
+                "name": "cxotoday"
+            },
+            "title": "Hexaware-Replit Take Vibe Coding to Enterprises",
+            "url": "https://cxotoday.com/news-analysis/hexaware-replit-take-vibe-coding-to-enterprises/",
+            "urlToImage": "https://cxotoday.com/wp-content/uploads/2025/08/Vibe.jpeg",
+            "publishedAt": "2025-08-29 09:49:21"
+        },
+        {
+            "source": {
+                "name": "telecom_economictimes"
+            },
+            "title": "Jio to deploy homegrown technologies globally; forays into smart glass, cloud PC segments",
+            "url": "https://telecom.economictimes.indiatimes.com/news/industry/reliance-jio-expands-globally-with-innovative-technologies-in-smart-glass-and-cloud-pc/123581547",
+            "urlToImage": "https://etimg.etb2bimg.com/photo/123581946.cms",
+            "publishedAt": "2025-08-29 09:36:40"
+        },
+        {
+            "source": {
+                "name": "chicagotribune"
+            },
+            "title": "What is the best LED monitor?",
+            "url": "https://www.chicagotribune.com/2025/08/29/what-is-the-best-led-monitor/",
+            "urlToImage": "https://www.chicagotribune.com/wp-content/uploads/2025/08/best-led-monitor.jpg?strip=all&w=1400px",
+            "publishedAt": "2025-08-29 09:35:40"
+        },
+        {
+            "source": {
+                "name": "abplive"
+            },
+            "title": "Reliance Ties Up With Meta For AI Joint Venture, Teams With Google For Jamnagar Cloud Project",
+            "url": "https://news.abplive.com/business/reliance-agm-live-updates-mukesh-ambani-meta-ai-google-cloud-jamnagar-sundar-pichai-1797296",
+            "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2025/08/29/6d498a5ba3ee8c4bc7eeb55f2cfdaffa1756459330913800_original.jpg",
+            "publishedAt": "2025-08-29 09:30:16"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "Pixel 10 Pro — 5 Reasons To Buy (and 3 Reasons to Skip)",
+            "url": "https://www.tomsguide.com/phones/google-pixel-phones/pixel-10-pro-5-reasons-to-buy-and-3-reasons-to-skip",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/4gnaU5FVo8mJivSJbpVkjM-1280-80.jpg",
+            "publishedAt": "2025-08-29 09:30:00"
+        },
+        {
+            "source": {
+                "name": "news18"
+            },
+            "title": "'India Has Always Been A Special Place To Google', Says CEO Sundar Pichai At 48th RIL AGM",
+            "url": "https://www.news18.com/business/india-has-always-been-a-special-place-to-google-says-ceo-sundar-pichai-at-48th-ril-agm-ws-l-9536138.html",
+            "urlToImage": "https://images.news18.com/ibnlive/uploads/2025/08/Google-2025-08-b2101c0164865edfaba13d820923b5a7-3x2.jpg",
+            "publishedAt": "2025-08-29 09:26:21"
         },
         {
             "source": {
@@ -3129,159 +3303,6 @@
             "url": "https://www.analyticsinsight.net/gadgets/best-laptops-below-rs-50000",
             "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-08-28%2Flariwka8%2FBest-Laptops-Below-Rs.-50000-1.jpg?auto=format%2Ccompress&fit=max&w=480",
             "publishedAt": "2025-08-28 11:08:43"
-        },
-        {
-            "source": {
-                "name": "cxotoday"
-            },
-            "title": "India doesn’t need bigger AI – It needs smarter AI for its many languages",
-            "url": "https://cxotoday.com/specials/india-doesnt-need-bigger-ai-it-needs-smarter-ai-for-its-many-languages/",
-            "urlToImage": "https://cxotoday.com/wp-content/uploads/2024/12/AI_ref.png",
-            "publishedAt": "2025-08-28 11:05:57"
-        },
-        {
-            "source": {
-                "name": "time"
-            },
-            "title": "How Artist Refik Anadol Made the 2025 TIME100 AI Cover",
-            "url": "https://time.com/7312089/time100-ai-behind-the-cover-refik-anadol/",
-            "urlToImage": "https://api.time.com/wp-content/uploads/2025/08/250908convo_871.jpg?h=675&w=1200",
-            "publishedAt": "2025-08-28 11:01:00"
-        },
-        {
-            "source": {
-                "name": "time"
-            },
-            "title": "How We Chose the 2025 TIME100 AI",
-            "url": "https://time.com/7312067/how-we-chose-time100-ai-2025/",
-            "urlToImage": "https://api.time.com/wp-content/uploads/2025/08/time100-ai-how-we-chose-01.jpg?h=675&w=1200",
-            "publishedAt": "2025-08-28 11:00:20"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "The best GaN chargers of 2025: Expert tested",
-            "url": "https://www.zdnet.com/article/best-gan-charger/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/30ba150dfac3127237b94e8f473300d0d7d49f53/2025/05/29/6447f931-f8ec-46fd-adfd-f121b7e92409/img-3869.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-08-28 11:00:18"
-        },
-        {
-            "source": {
-                "name": "livescience"
-            },
-            "title": "China's 'Darwin Monkey' is the world's largest brain-inspired supercomputer",
-            "url": "https://www.livescience.com/technology/computing/chinas-darwin-monkey-is-the-worlds-largest-brain-inspired-supercomputer",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/yfQsLCir8JU2JL9nENYDum-1280-80.jpg",
-            "publishedAt": "2025-08-28 11:00:00"
-        },
-        {
-            "source": {
-                "name": "technologyreview"
-            },
-            "title": "From pilot to scale: Making agentic AI work in health care",
-            "url": "https://www.technologyreview.com/2025/08/28/1122623/from-pilot-to-scale-making-agentic-ai-work-in-health-care/",
-            "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2025/08/iStock-1333328712.jpg?resize=1200%2C600",
-            "publishedAt": "2025-08-28 10:09:13"
-        },
-        {
-            "source": {
-                "name": "cio"
-            },
-            "title": "Gen AI descends into disillusionment",
-            "url": "https://www.cio.com/article/4046443/gen-ai-descends-into-disillusionment.html",
-            "urlToImage": "https://www.cio.com/wp-content/uploads/2025/08/4046443-0-65198700-1756375482-AI-disillusionment-shutterstock_2670990923.jpg?quality=50&strip=all&w=1024",
-            "publishedAt": "2025-08-28 10:01:00"
-        },
-        {
-            "source": {
-                "name": "lufkindailynews"
-            },
-            "title": "Online age checks are proliferating, but so are concerns they curtail internet freedom",
-            "url": "https://lufkindailynews.com/anpa/us/online-age-checks-are-proliferating-but-so-are-concerns-they-curtail-internet-freedom/article_057f296f-60fb-5fbe-bab3-186297e830ed.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/lufkindailynews.com/content/tncms/assets/v3/editorial/5/48/5480f514-5955-5a3c-bd3e-9c471045c105/689fc8c4533a8.image.jpg?resize=300%2C200",
-            "publishedAt": "2025-08-28 10:00:10"
-        },
-        {
-            "source": {
-                "name": "nvdaily"
-            },
-            "title": "Online age checks are proliferating, but so are concerns they curtail internet freedom",
-            "url": "https://www.nvdaily.com/associated_press_national/online-age-checks-are-proliferating-but-so-are-concerns-they-curtail-internet-freedom/article_16a59faf-cd5a-5dd5-b988-6e2b813255ca.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/nvdaily.com/content/tncms/assets/v3/editorial/f/5f/f5fb8913-2090-595d-8a1e-b2831b19f7df/689fc6db135c0.image.jpg?resize=300%2C200",
-            "publishedAt": "2025-08-28 10:00:10"
-        },
-        {
-            "source": {
-                "name": "newspressnow"
-            },
-            "title": "Online age checks are proliferating, but so are concerns they curtail internet freedom",
-            "url": "https://www.newspressnow.com/news/2025/08/28/online-age-checks-are-proliferating-but-so-are-concerns-they-curtail-internet-freedom/",
-            "urlToImage": "https://newspressnow.b-cdn.net/wp-content/uploads/2025/08/Officer_Misconduct_Tennessee_80120-1.jpg",
-            "publishedAt": "2025-08-28 10:00:10"
-        },
-        {
-            "source": {
-                "name": "chronicleonline"
-            },
-            "title": "Online age checks are proliferating, but so are concerns they curtail internet freedom",
-            "url": "https://www.chronicleonline.com/news/national/online-age-checks-are-proliferating-but-so-are-concerns-they-curtail-internet-freedom/article_58d80502-c7ad-52ae-9d81-4013b1553d97.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/chronicleonline.com/content/tncms/assets/v3/editorial/0/fc/0fc8f425-46c7-524f-876c-c190f942ce68/689fc7f2f2c75.image.jpg?resize=300%2C200",
-            "publishedAt": "2025-08-28 10:00:10"
-        },
-        {
-            "source": {
-                "name": "wvnews"
-            },
-            "title": "Cheche Group Reports First Half 2025 Unaudited Financial Results",
-            "url": "https://www.wvnews.com/news/around_the_web/partners/pr_newswire/subject/earnings/cheche-group-reports-first-half-2025-unaudited-financial-results/article_a57b1a47-e03c-566b-8fd5-e1c571913b9e.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/custom/image/dd23b0fa-a76a-11ea-b298-6f7943d03f88.jpg",
-            "publishedAt": "2025-08-28 10:00:00"
-        },
-        {
-            "source": {
-                "name": "time"
-            },
-            "title": "What the Agentic AI Era Means for Business—And for Humanity",
-            "url": "https://time.com/7312641/agentic-ai-era-humans/",
-            "urlToImage": "https://api.time.com/wp-content/uploads/2025/08/Time_spot_2longer.jpg?h=675&w=1200",
-            "publishedAt": "2025-08-28 10:00:00"
-        },
-        {
-            "source": {
-                "name": "toi"
-            },
-            "title": "GATE registration window 2026 opens at goaps.iitg.ac.in: Direct link to apply here",
-            "url": "https://timesofindia.indiatimes.com/education/news/gate-registration-window-2026-opens-at-goaps-iitg-ac-in-direct-link-to-apply-here/articleshow/123561773.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-123561793,imgsize-221271,width-400,resizemode-4/123561793.jpg",
-            "publishedAt": "2025-08-28 09:58:04"
-        },
-        {
-            "source": {
-                "name": "worldpharmatoday"
-            },
-            "title": "Biomarker Discovery Digital Age Standardization Validation",
-            "url": "https://www.worldpharmatoday.com/industry-reports/biomarker-discovery-digital-age-standardization-validation/",
-            "urlToImage": "https://www.worldpharmatoday.com/wp-content/uploads/2025/08/Biomakers-WPT.jpg",
-            "publishedAt": "2025-08-28 09:07:04"
-        },
-        {
-            "source": {
-                "name": "engadget"
-            },
-            "title": "The best Wi-Fi extenders in 2025",
-            "url": "https://www.engadget.com/computing/best-wifi-extender-130021313.html",
-            "urlToImage": "https://o.aolcdn.com/images/dims?client=19f2b5e49a271b2bde77&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-12%2Fa35a8830-b97b-11ef-bf7d-8385ba413942&resize=1400%2C787&signature=c11ead18dfb95f50cf9f1ba92019542f0f6e844c",
-            "publishedAt": "2025-08-28 09:00:37"
-        },
-        {
-            "source": {
-                "name": "nhpr"
-            },
-            "title": "'AI slop' videos may be annoying, but they're racking up views — and ad money",
-            "url": "https://www.nhpr.org/2025-08-28/ai-slop-videos-may-be-annoying-but-theyre-racking-up-views-and-ad-money",
-            "urlToImage": "https://npr.brightspotcdn.com/dims4/default/d548e24/2147483647/strip/true/crop/3060x2295+0+0/resize/880x660!/quality/90/?url=https%3A%2F%2Fnpr.brightspotcdn.com%2Fdims3%2Fdefault%2Fstrip%2Ffalse%2Fcrop%2F3060x2295+170+0%2Fresize%2F3060x2295%21%2F%3Furl%3Dhttp%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Faa%2F10%2F8e62ba1b4c848bdc49d4fed5bda7%2Fdiptych-1.jpg",
-            "publishedAt": "2025-08-28 09:00:00"
         }
     ]
 }
