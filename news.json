@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-08-28T23:14:02.125799Z",
+    "lastUpdatedAt": "2025-08-29T01:10:33.115675Z",
     "articles": [
+        {
+            "source": {
+                "id": "6956007add5fc13a6721202ec906b1c4",
+                "name": "Decrypt",
+                "url": "https://decrypt.co",
+                "country": "us"
+            },
+            "title": "Beijing Sets Ambitious Targets for Nationwide AI Integration Over 10 Years",
+            "url": "https://decrypt.co/337286/beijing-ambitious-targets-nationwide-ai-integration",
+            "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/ai-decrypt-style-14-gID_7.png",
+            "publishedAt": "2025-08-28T23:34:04Z"
+        },
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "Friday's big stock stories: What’s likely to move the market in the next trading session",
+            "url": "https://www.cnbc.com/2025/08/28/fridays-big-stock-stories-whats-likely-to-move-the-market-in-the-next-trading-session.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108185308-1755092580555-gettyimages-2229791361-anotherday100697787_3kk7d3kl.jpeg?v=1756407859&w=1920&h=1080",
+            "publishedAt": "2025-08-28T23:12:26Z"
+        },
         {
             "source": {
                 "id": "da5c26287bdd02563a2c32b55cb12051",
@@ -1248,6 +1272,60 @@
             "url": "https://www.fool.ca/2025/08/27/this-artificial-intelligence-ai-stock-could-be-the-best-bargain-in-the-market-right-now/",
             "urlToImage": "https://www.fool.ca/wp-content/uploads/2025/07/GettyImages-1339716843-1200x594.jpg",
             "publishedAt": "2025-08-28T00:15:00Z"
+        },
+        {
+            "source": {
+                "name": "arstechnica"
+            },
+            "title": "Unpacking Passkeys Pwned: Possibly the most specious research in decades",
+            "url": "https://arstechnica.com/security/2025/08/new-research-claiming-passkeys-can-be-stolen-is-pure-nonsense/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/passkeys-pwned-1152x648.png",
+            "publishedAt": "2025-08-28 13:00:10"
+        },
+        {
+            "source": {
+                "name": "checkpoint_research"
+            },
+            "title": "Chasing the Silver Fox: Cat & Mouse in Kernel Shadows",
+            "url": "https://research.checkpoint.com/2025/silver-fox-apt-vulnerable-drivers/",
+            "urlToImage": "https://research.checkpoint.com/wp-content/uploads/2025/08/Chasing_SilverFox_cover.png",
+            "publishedAt": "2025-08-28 12:55:27"
+        },
+        {
+            "source": {
+                "name": "benzinga"
+            },
+            "title": "ACORD Launches New Asset for Streamlining Digital Data Exchange Across the Insurance Ecosystem",
+            "url": "https://www.benzinga.com/pressreleases/25/08/n47383514/acord-launches-new-asset-for-streamlining-digital-data-exchange-across-the-insurance-ecosystem",
+            "urlToImage": "https://mma.prnewswire.com/media/631946/ACORD_Logo.jpg",
+            "publishedAt": "2025-08-28 12:30:00"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Google Cuts Over a Third of Managers to Flatten Structure in AI Push",
+            "url": "https://www.webpronews.com/google-cuts-over-a-third-of-managers-to-flatten-structure-in-ai-push/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-7bd19876-8628-44dd-8de5-8c4bdd9f78d2.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-08-28 12:30:00"
+        },
+        {
+            "source": {
+                "name": "postregister"
+            },
+            "title": "Izotropic’s AI Breakthrough Positions IzoView to Redefine Breast CT Imaging Standards",
+            "url": "https://www.postregister.com/businessreport/technology/izotropic-s-ai-breakthrough-positions-izoview-to-redefine-breast-ct-imaging-standards/article_fab4ce51-1b30-5251-a807-59f83ba32204.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
+            "publishedAt": "2025-08-28 12:03:00"
+        },
+        {
+            "source": {
+                "name": "theconversation"
+            },
+            "title": "Earth-size stars and alien oceans – an astronomer explains the case for life around white dwarfs",
+            "url": "https://theconversation.com/earth-size-stars-and-alien-oceans-an-astronomer-explains-the-case-for-life-around-white-dwarfs-262301",
+            "urlToImage": "https://images.theconversation.com/files/687815/original/file-20250827-56-6uuvu9.png?auto=format&fit=crop&h=668&ixlib=rb-4.1.0&q=45&rect=0%2C204%2C755%2C377&w=1356",
+            "publishedAt": "2025-08-28 12:02:24"
         },
         {
             "source": {
@@ -3270,78 +3348,6 @@
             "url": "https://www.engadget.com/mobile/smartphones/best-android-phone-130030805.html",
             "urlToImage": "https://o.aolcdn.com/images/dims?client=19f2b5e49a271b2bde77&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-08%2F527d37a0-8347-11f0-b7c9-56e8e5b705ef&resize=1400%2C787&signature=3caf19139cb3ccc581920df6acdb2b31e61d0492",
             "publishedAt": "2025-08-27 19:01:27"
-        },
-        {
-            "source": {
-                "name": "pcworld_us"
-            },
-            "title": "The best monitors: 11 top picks for gaming, 4K, HDR, and more",
-            "url": "https://www.pcworld.com/article/811315/best-monitors-2.html",
-            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/08/alienware-aw3423dw-1.jpg?quality=50&strip=all",
-            "publishedAt": "2025-08-27 18:30:00"
-        },
-        {
-            "source": {
-                "name": "engadget"
-            },
-            "title": "WhatsApp is the latest to offer an AI-powered writing assistant",
-            "url": "https://www.engadget.com/ai/whatsapp-is-the-latest-to-offer-an-ai-powered-writing-assistant-182116369.html",
-            "urlToImage": "https://o.aolcdn.com/images/dims?client=19f2b5e49a271b2bde77&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-08%2F1b61dea0-8370-11f0-97fe-de0d6d3f8f74&resize=1400%2C782&signature=5715fd581b03eb10d60a31766683cfb23b071fa4",
-            "publishedAt": "2025-08-27 18:21:16"
-        },
-        {
-            "source": {
-                "name": "bgr_com"
-            },
-            "title": "Don't Plug These Gadgets Into Your TV's USB Ports",
-            "url": "https://www.bgr.com/1945363/what-gadgets-shouldnt-use-tv-usb-port/",
-            "urlToImage": "https://www.bgr.com/img/gallery/dont-plug-these-gadgets-into-your-tvs-usb-ports/l-intro-1755699805.jpg",
-            "publishedAt": "2025-08-27 18:17:00"
-        },
-        {
-            "source": {
-                "name": "usatoday"
-            },
-            "title": "Venkata Dheeraj Panchagnula: AI Strategist Driving Enterprise Transformation",
-            "url": "https://www.usatoday.com/story/special/contributor-content/2025/08/27/venkata-dheeraj-panchagnula-ai-strategist-driving-enterprise-transformation/85852435007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/08/27/USAT/85852441007-screenshot-20250827-at-103053-am.png?auto=webp&crop=814%2C457%2Cx7%2Cy0&format=pjpg&height=457&width=814",
-            "publishedAt": "2025-08-27 18:13:48"
-        },
-        {
-            "source": {
-                "name": "berkeley"
-            },
-            "title": "Are we truly on the verge of the humanoid robot revolution?",
-            "url": "https://news.berkeley.edu/2025/08/27/are-we-truly-on-the-verge-of-the-humanoid-robot-revolution/",
-            "urlToImage": "https://news.berkeley.edu/wp-content/uploads/2025/08/7th_China_International_Import_Expo_CIIE_Opens_In__24311198856691_BN-1024x585.jpg",
-            "publishedAt": "2025-08-27 18:09:30"
-        },
-        {
-            "source": {
-                "name": "xda_developers"
-            },
-            "title": "4 clever ways I use NotebookLM to keep myself entertained",
-            "url": "https://www.xda-developers.com/clever-ways-i-use-notebooklm-to-keep-myself-entertained/",
-            "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2025/08/queen-s-gambit-and-notebooklm-open-side-by-side-on-ipad.jpg",
-            "publishedAt": "2025-08-27 18:00:19"
-        },
-        {
-            "source": {
-                "name": "interestingengineering"
-            },
-            "title": "Humanoids and robot dogs navigate unseen terrains using attention mapping",
-            "url": "https://interestingengineering.com/innovation/attention-mapping-helps-robots-master-terrains",
-            "urlToImage": "https://cms.interestingengineering.com/wp-content/uploads/2025/08/IE-35.jpg",
-            "publishedAt": "2025-08-27 18:00:00"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "My first week with Google Pixel 10 Pro gave me a taste of AI superphones - and I'm hooked",
-            "url": "https://www.zdnet.com/article/my-first-week-with-google-pixel-10-pro-gave-me-a-taste-of-ai-superphones-and-im-hooked/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/4ad221fe9a06bd66fab3550d16efb82c72f11650/2025/08/27/aca4c4fe-5287-4777-8f0e-55f516fab8f3/dsc07592.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-08-27 17:54:00"
         }
     ]
 }
