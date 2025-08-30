@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-08-30T01:07:03.144867Z",
+    "lastUpdatedAt": "2025-08-30T02:53:08.359052Z",
     "articles": [
+        {
+            "source": {
+                "id": "77b86639d1384ac68141803ec5db27c0",
+                "name": "NBC News",
+                "url": "https://www.nbcnews.com",
+                "country": "us"
+            },
+            "title": "How Silicon Valley is using religious language to talk about AI",
+            "url": "https://www.nbcnews.com/business/business-news/silicon-valley-using-religious-language-talk-ai-rcna227987",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250829-Altman-aa-513-3c00a4.jpg",
+            "publishedAt": "2025-08-30T02:28:00Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "Artificial intelligence’s next home: your eyes",
+            "url": "https://www.livemint.com/opinion/columns/ai-glasses-smart-glasses-meta-ray-ban-glasses-wearable-ai-augmented-reality-eyewear-qualcomm-ar1-chip-11756461090942.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2025/08/29/1600x900/shila_1756462783409_1756462794615.jpg",
+            "publishedAt": "2025-08-30T01:30:10Z"
+        },
+        {
+            "source": {
+                "id": "b669a363e34e1a8211e6f2cd9c5420a4",
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com",
+                "country": "us"
+            },
+            "title": "Software is 40% of security budgets as CISOs shift to AI defense",
+            "url": "https://venturebeat.com/security/software-is-40-of-security-budgets-as-cisos-shift-to-ai-defense/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/08/soc-for-budget-center.jpg?w=1024?w=1200&strip=all",
+            "publishedAt": "2025-08-30T01:06:26Z"
+        },
         {
             "source": {
                 "id": "da5c26287bdd02563a2c32b55cb12051",
@@ -144,6 +180,18 @@
             "url": "https://nypost.com/2025/08/29/us-news/dhs-chief-kristi-noem-fires-two-dozen-fema-employees-after-massive-cyber-failures/",
             "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/08/110301770.jpg?quality=75&strip=all&w=1024",
             "publishedAt": "2025-08-29T20:29:44Z"
+        },
+        {
+            "source": {
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
+                "country": "us"
+            },
+            "title": "Why Is Wall Street Bullish on BigBear.ai Stock (BBAI) Despite Weak Revenue?",
+            "url": "https://markets.businessinsider.com/news/stocks/why-is-wall-street-bullish-on-bigbear-ai-stock-bbai-despite-weak-revenue-1035098841",
+            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/08/image-2201.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+            "publishedAt": "2025-08-29T20:05:51Z"
         },
         {
             "source": {
@@ -1176,6 +1224,78 @@
             "url": "https://www.globenewswire.com/news-release/2025/08/29/3141441/28124/en/India-Artificial-Intelligence-in-Retail-and-E-commerce-Market-Report-2025-2030-Reshaping-the-Landscape-with-GAI-Real-Time-Analytics-and-Fraud-Prevention-Driving-Personalization-and.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
             "publishedAt": "2025-08-29T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "newser"
+            },
+            "title": "Japan's Fuji Eruption Simulation Causes Unease",
+            "url": "https://www.newser.com/story/374330/japans-fuji-eruption-simulation-causes-unease.html",
+            "urlToImage": "http://img2-azrcdn.newser.com/image/1631037-0-20250829145002.jpeg?crop=Y&height=45&width=45",
+            "publishedAt": "2025-08-29 14:50:00"
+        },
+        {
+            "source": {
+                "name": "livemint"
+            },
+            "title": "AI ‘everywhere for every Indian’: Mukesh Ambani launches Reliance Intelligence",
+            "url": "https://www.livemint.com/technology/reliance-intelligence-mukesh-ambani-ai-artificial-intelligence-ril-agm-reliance-industries-11756473520333.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2025/08/29/1600x900/ANI-20250607202-0_1756478503045_1756478511151.jpg",
+            "publishedAt": "2025-08-29 14:45:18"
+        },
+        {
+            "source": {
+                "name": "businessinsider_us"
+            },
+            "title": "See which tech jobs have plunged since ChatGPT, and which roles have boomed",
+            "url": "https://www.businessinsider.com/tech-jobs-plunged-since-chatgpt-which-roles-boomed-indeed-2025-8",
+            "urlToImage": "https://i.insider.com/68ae4732194a2d49b8af3d68?format=jpeg",
+            "publishedAt": "2025-08-29 14:35:02"
+        },
+        {
+            "source": {
+                "name": "executivebiz"
+            },
+            "title": "RTX BBN Technologies Secures DARPA Contract to Advance AI’s Regulatory Understanding",
+            "url": "https://www.executivebiz.com/articles/rtx-bbn-technologies-darpa-contract-ai-regulations",
+            "urlToImage": "https://media.executivebiz.com/2025/08/tech-development.jpg",
+            "publishedAt": "2025-08-29 14:28:19"
+        },
+        {
+            "source": {
+                "name": "notebookcheck"
+            },
+            "title": "Best AI Workstation Processors 2025: Why AMD Ryzen Beats Intel for Local AI Computing for now!",
+            "url": "https://www.notebookcheck.net/Best-AI-Workstation-Processors-2025-Why-AMD-Ryzen-Beats-Intel-for-Local-AI-Computing-for-now.1099955.0.html",
+            "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ryzenaipromax.jpg",
+            "publishedAt": "2025-08-29 14:19:00"
+        },
+        {
+            "source": {
+                "name": "pcgamer"
+            },
+            "title": "Claimed Sony PS6 handheld console specs promise a miracle of next-gen, cutting-edge processor architectures at a price that's barely enough for today's hardware",
+            "url": "https://www.pcgamer.com/hardware/claimed-sony-ps6-handheld-console-specs-promise-a-miracle-of-next-gen-cutting-edge-processor-architectures-at-a-price-thats-barely-enough-for-todays-hardware/",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/CT3U8Fv83xPmKrGSKJUUgE-1280-80.jpg",
+            "publishedAt": "2025-08-29 13:54:12"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "SUSE Agama 17: Modern Installer Replaces YaST in SLE 16.0",
+            "url": "https://www.webpronews.com/suse-agama-17-modern-installer-replaces-yast-in-sle-16-0/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-e90edbd9-4f46-4bdb-bd1d-172464497e8b.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-08-29 13:45:00"
+        },
+        {
+            "source": {
+                "name": "wired"
+            },
+            "title": "The Best Kindle of 2025: Paperwhite, Scribe, or Colorsoft?",
+            "url": "https://www.wired.com/gallery/best-kindle/",
+            "urlToImage": "https://media.wired.com/photos/685a1a97bbc17aaab05450db/4:3/w_120,c_limit/Kindle%20Paperwhite%20(2024,%2012th%20Generation)%20_%20Nena%20Farrell.png",
+            "publishedAt": "2025-08-29 13:34:00"
         },
         {
             "source": {
@@ -3204,114 +3324,6 @@
             "url": "https://www.republicanherald.com/2025/08/28/online-age-checks-concerns/",
             "urlToImage": "https://www.republicanherald.com/wp-content/uploads/2025/08/Officer_Misconduct_Tennessee_80120_934713.jpg?strip=all&w=1400px",
             "publishedAt": "2025-08-28 16:37:53"
-        },
-        {
-            "source": {
-                "name": "orovillemr"
-            },
-            "title": "Online age checks are proliferating, but so are concerns they curtail internet freedom",
-            "url": "https://www.orovillemr.com/2025/08/28/online-age-checks-concerns/",
-            "urlToImage": "https://www.orovillemr.com/wp-content/uploads/2025/08/Officer_Misconduct_Tennessee_80120_934713.jpg?strip=all&w=1400px",
-            "publishedAt": "2025-08-28 16:37:53"
-        },
-        {
-            "source": {
-                "name": "standardspeaker"
-            },
-            "title": "Online age checks are proliferating, but so are concerns they curtail internet freedom",
-            "url": "https://www.standardspeaker.com/2025/08/28/online-age-checks-concerns/",
-            "urlToImage": "https://www.standardspeaker.com/wp-content/uploads/2025/08/Officer_Misconduct_Tennessee_80120_934713.jpg?strip=all&w=1400px",
-            "publishedAt": "2025-08-28 16:37:53"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "How to Disable Gemini in Gmail?",
-            "url": "https://www.analyticsinsight.net/artificial-intelligence/how-to-disable-gemini-in-gmail",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-08-28%2Fzjwia9hb%2FHow-to-Disable-Gemini-in-Gmail.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-08-28 16:15:00"
-        },
-        {
-            "source": {
-                "name": "cio"
-            },
-            "title": "Redefining the edge: Setting new standards for AI infrastructure",
-            "url": "https://www.cio.com/article/4047713/redefining-the-edge-setting-new-standards-for-ai-infrastructure.html",
-            "urlToImage": "https://www.cio.com/wp-content/uploads/2025/08/4047713-0-32772700-1756401805-PeopleImages.com-Yuri-A.jpg?quality=50&strip=all&w=1024",
-            "publishedAt": "2025-08-28 16:09:25"
-        },
-        {
-            "source": {
-                "name": "foxnews"
-            },
-            "title": "Jobs that are most at risk from AI, according to Microsoft",
-            "url": "https://www.foxnews.com/tech/jobs-most-risk-from-ai-according-microsoft",
-            "urlToImage": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/08/931/523/man-heading-to-work-2.jpg?tl=1&ve=1",
-            "publishedAt": "2025-08-28 16:08:19"
-        },
-        {
-            "source": {
-                "name": "techtarget"
-            },
-            "title": "AI in sports: Agents and the future of analytics",
-            "url": "https://www.techtarget.com/searchbusinessanalytics/feature/AI-in-sports-Agents-and-the-future-of-analytics",
-            "urlToImage": "https://www.techtarget.com/rms/onlineimages/competition_a178116420_searchsitetablet_520X173.jpg",
-            "publishedAt": "2025-08-28 16:07:00"
-        },
-        {
-            "source": {
-                "name": "journalnow"
-            },
-            "title": "How automation is transforming the way sales teams operate",
-            "url": "https://journalnow.com/news/nation-world/business/personal-finance/article_ded8d810-f52a-5577-93e2-14d80eff8b8b.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/e/4b/e4bfb1d2-c472-5415-b8bc-c331f477ec97/68b087a4ec20e.image.jpg?resize=300%2C169",
-            "publishedAt": "2025-08-28 16:00:06"
-        },
-        {
-            "source": {
-                "name": "roanoke"
-            },
-            "title": "How automation is transforming the way sales teams operate",
-            "url": "https://roanoke.com/news/nation-world/business/personal-finance/article_16b251bc-da71-57cd-ad2a-7af4ddce4eab.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/1/a7/1a77560f-5fee-549b-b32f-610d4ce7fe25/68b08797b3810.image.jpg?resize=300%2C169",
-            "publishedAt": "2025-08-28 16:00:06"
-        },
-        {
-            "source": {
-                "name": "tucson"
-            },
-            "title": "How automation is transforming the way sales teams operate",
-            "url": "https://tucson.com/news/nation-world/business/personal-finance/article_1d78e25b-9e84-5922-aa6f-9df6b4227438.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/1/4d/14d44b45-84f2-5702-8652-bca3499e59ea/68b08797d4789.image.jpg?resize=1120%2C630",
-            "publishedAt": "2025-08-28 16:00:06"
-        },
-        {
-            "source": {
-                "name": "pcworld_us"
-            },
-            "title": "The best monitor arms: 10 top models you can trust",
-            "url": "https://www.pcworld.com/article/2000722/best-monitor-arms.html",
-            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/08/workstream-by-monoprice-dual-arm-best-monitor-arms.jpg?quality=50&strip=all",
-            "publishedAt": "2025-08-28 16:00:00"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "I Just Saw the Future of AR Glasses, and This Feature May Fix the Biggest Problem I Have With Them",
-            "url": "https://www.tomsguide.com/computing/smart-glasses/i-just-saw-the-future-of-ar-glasses-and-it-may-fix-the-biggest-problem-i-have-with-them",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/2RZqeUzNDbPPeotxTRQcoT-1280-80.jpg",
-            "publishedAt": "2025-08-28 16:00:00"
-        },
-        {
-            "source": {
-                "name": "mashable_me"
-            },
-            "title": "Microsoft Copilot is coming to Samsung TVs and monitors",
-            "url": "https://me.mashable.com/tech/60197/microsoft-copilot-is-coming-to-samsung-tvs-and-monitors",
-            "urlToImage": "https://sm.mashable.com/mashable_me/article/m/microsoft-/microsoft-copilot-is-coming-to-samsung-tvs-and-monitors_27gv.jpg",
-            "publishedAt": "2025-08-28 15:21:15"
         }
     ]
 }
