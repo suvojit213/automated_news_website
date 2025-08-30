@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-08-30T16:16:13.767097Z",
+    "lastUpdatedAt": "2025-08-30T17:11:38.825362Z",
     "articles": [
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Meta's AI leaders discuss using Google, OpenAI models in apps",
+            "url": "https://www.manilatimes.net/2025/08/31/business/top-business/metas-ai-leaders-discuss-using-google-openai-models-in-apps/2176426",
+            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+            "publishedAt": "2025-08-30T16:14:00Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -372,6 +384,24 @@
             "url": "https://www.reuters.com/business/metas-ai-leaders-discuss-using-google-openai-models-apps-information-says-2025-08-30/",
             "urlToImage": "https://www.reuters.com/resizer/v2/NI5EFS4D5ZNV3LCVSABZKSLQTA.jpg?auth=44cd52a68f6539d40a316703b6ed0e31be49cce89b2606448762fe212cd9343d&height=1005&width=1920&quality=80&smart=true",
             "publishedAt": "2025-08-30T00:03:43Z"
+        },
+        {
+            "source": {
+                "name": "hackaday"
+            },
+            "title": "NFC Hidden In Floppy Disk For Retro-Themed PC",
+            "url": "https://hackaday.com/2025/08/29/nfc-hidden-in-floppy-disk-for-retro-themed-pc/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2025/08/nfc-floppy-main.jpg",
+            "publishedAt": "2025-08-30 05:00:49"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "How Large Language Models Are Powering the Rise of AI Agents?",
+            "url": "https://www.analyticsinsight.net/artificial-intelligence/how-large-language-models-are-powering-the-rise-of-ai-agents",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-08-29%2Fkkczvle3%2FHow-Large-Language-Models-Are-Powering-the-Rise-of-AI-Agents?ar=40%3A21&auto=format%2Ccompress&enlarge=true&mode=crop&ogImage=true&overlay=false&overlay_position=bottom&overlay_width=100&w=1200",
+            "publishedAt": "2025-08-30 04:30:00"
         },
         {
             "source": {
@@ -3204,42 +3234,6 @@
             "url": "https://www.news18.com/agency-feeds/sebi-clarifies-on-cybersecurity-and-cyber-resilience-framework-9534729.html",
             "urlToImage": "https://images.news18.com/ibnlive/uploads/2025/07/News18_Business_Section_Default_Image_1600x900-2025-07-454f4d093355309283e1b9f3be42698a-16x9.jpg",
             "publishedAt": "2025-08-28T14:00:02Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "One engineer for ten AI roles: India's talent crisis deepens",
-            "url": "https://www.indiatoday.in/education-today/latest-studies/story/genai-popularity-high-in-india-but-skills-still-lag-india-digital-skills-report-2025-2778322-2025-08-28",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202508/india-digital-skills-report-highlights-ai-job-shortage-and-rising-salaries-in-2025-285547254-16x9_0.jpg?VersionId=hcccsTgOEbUahhBa26qX92x3c5EzCwwI",
-            "publishedAt": "2025-08-28T13:59:18Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "ZenaTech’s Spider Vision Sensors Expands Drone Component Manufacturing Capabilities Enabling Compliant Global Supply Chain for US Defense Customers",
-            "url": "https://www.manilatimes.net/2025/08/28/tmt-newswire/globenewswire/zenatechs-spider-vision-sensors-expands-drone-component-manufacturing-capabilities-enabling-compliant-global-supply-chain-for-us-defense-customers/2175393",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/28/729196.jpg",
-            "publishedAt": "2025-08-28T13:48:51Z"
-        },
-        {
-            "source": {
-                "id": "e83df266d4bbd78d7528c3ee4fc0fc5f",
-                "name": "The Hollywood Reporter",
-                "url": "https://www.hollywoodreporter.com",
-                "country": "us"
-            },
-            "title": "Creative Human Programming Is King, Bain Report Says",
-            "url": "https://www.hollywoodreporter.com/business/business-news/ai-report-bain-cheap-programming-human-content-king-1236353969/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/10/Screen-Shot-2024-10-04-at-11.41.43-AM.jpg?w=1440&h=810&crop=1",
-            "publishedAt": "2025-08-28T13:00:00Z"
         }
     ]
 }
