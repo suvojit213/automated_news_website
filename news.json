@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-08-30T22:12:52.130368Z",
+    "lastUpdatedAt": "2025-08-30T23:13:09.100820Z",
     "articles": [
+        {
+            "source": {
+                "id": "91120a92e0d24e24fbffb6d0affabfe6",
+                "name": "Bangkok Post",
+                "url": "https://www.bangkokpost.com",
+                "country": "th"
+            },
+            "title": "AI tipped to help narrow nation's education gap",
+            "url": "https://www.bangkokpost.com/thailand/general/3096045/ai-tipped-to-help-narrow-nations-education-gap",
+            "urlToImage": "https://static.bangkokpost.com/media/content/dcx/2025/08/31/5761161_700.jpg",
+            "publishedAt": "2025-08-30T23:00:00Z"
+        },
         {
             "source": {
                 "id": "3bd4bd306c42647825fa42989624c036",
@@ -468,6 +480,24 @@
             "url": "https://www.reuters.com/business/metas-ai-leaders-discuss-using-google-openai-models-apps-information-says-2025-08-30/",
             "urlToImage": "https://www.reuters.com/resizer/v2/NI5EFS4D5ZNV3LCVSABZKSLQTA.jpg?auth=44cd52a68f6539d40a316703b6ed0e31be49cce89b2606448762fe212cd9343d&height=1005&width=1920&quality=80&smart=true",
             "publishedAt": "2025-08-30T00:03:43Z"
+        },
+        {
+            "source": {
+                "name": "fortune"
+            },
+            "title": "All 7 new products we’re expecting Apple to announce at its ‘Awe Dropping’ September event",
+            "url": "https://fortune.com/2025/08/30/apple-september-event-iphone-air-17-pro-airpods-watch-ultra-roadmap-strategy/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/08/GettyImages-2171029311-e1756439495714.jpg?w=2048",
+            "publishedAt": "2025-08-30 11:03:00"
+        },
+        {
+            "source": {
+                "name": "cnet"
+            },
+            "title": "This Pricey Thermostat Has Nearly Paid for Itself by Saving Me Money, and It's on Sale for Labor Day",
+            "url": "https://www.cnet.com/deals/this-pricey-thermostat-has-nearly-paid-for-itself-by-saving-me-money-and-its-on-sale-for-labor-day/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/e50aeca5d9af36723c8a20605d4bff68f81eceac/hub/2025/05/21/4d53f6bf-7789-4df7-867b-2f29c32178e4/nest-thermostat-cloud-blue-sky.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-08-30 10:30:00"
         },
         {
             "source": {
@@ -3156,42 +3186,6 @@
             "url": "https://www.upi.com/Health_News/2025/08/28/ai-genetic-risks-common-diseases/7351756235524/",
             "urlToImage": "https://cdnph.upi.com/sv/ph/og/upi_com/7351756235524/2025/1/05e27d750e5b885e10eb596b56fdc967/v1.5/Study-shows-AI-can-hone-in-on-genetic-risks-for-10-inherited-diseases.jpg",
             "publishedAt": "2025-08-28T18:00:06Z"
-        },
-        {
-            "source": {
-                "id": "010284b7a4ddb4771793c29b39893951",
-                "name": "CHEK News",
-                "url": "https://cheknews.ca",
-                "country": "ca"
-            },
-            "title": "Poll suggests 85% of Canadians want governments to regulate AI",
-            "url": "https://cheknews.ca/poll-suggests-85-of-canadians-want-governments-to-regulate-ai-1275173/",
-            "urlToImage": "https://i0.wp.com/cheknews.ca/wp-content/uploads/2024/07/AI.jpg?fit=1400%2C958&ssl=1",
-            "publishedAt": "2025-08-28T17:45:00Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "AI-enabled bundle of sensors, coaching aids type 2 diabetes outcomes",
-            "url": "https://medicalxpress.com/news/2025-08-ai-enabled-bundle-sensors-aids.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/ai-enabled-bundle-of-s.jpg",
-            "publishedAt": "2025-08-28T17:30:03Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "AI unlocks secrets of rice yield sustainability after 50 years of continuous cropping",
-            "url": "https://phys.org/news/2025-08-ai-secrets-rice-yield-sustainability.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/ai-unlocks-secrets-of.jpg",
-            "publishedAt": "2025-08-28T17:30:01Z"
         }
     ]
 }
