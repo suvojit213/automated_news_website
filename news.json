@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-08-30T11:11:18.719165Z",
+    "lastUpdatedAt": "2025-08-30T12:27:39.657775Z",
     "articles": [
+        {
+            "source": {
+                "id": "93e59eaaf800fc544a6df1a4fc5c0cdc",
+                "name": "Toronto Star",
+                "url": "https://www.thestar.com",
+                "country": "ca"
+            },
+            "title": "Hidden hacker threat costs businesses millions",
+            "url": "https://www.thestar.com/business/opinion/shadow-ai-how-your-employees-may-have-opened-the-door-to-the-newest-cybercrime/article_9dec4d70-c1c8-4b57-9e9d-0538991c1c57.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/32/b325e7bc-0aa9-596a-a364-4ff1d73246e0/68af342e4dd90.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2025-08-30T11:00:00Z"
+        },
         {
             "source": {
                 "id": "76684855c5d801b81fd06490668d04fe",
@@ -71,6 +83,18 @@
             "title": "AI-powered stethoscope could pick up three heart conditions ‘within seconds’",
             "url": "https://www.belfasttelegraph.co.uk/news/uk/ai-powered-stethoscope-could-pick-up-three-heart-conditions-within-seconds/a205691395.html",
             "urlToImage": "https://focus.belfasttelegraph.co.uk/thumbor/4kRAgF6E8APGHYQAb56XblbFs1g=/0x246:4062x2954/629x0/prod-mh-ireland/7c32767e-fb1d-4fb6-a082-6b326a7136f6/57b90382-0013-4ec1-8378-80903bdfcff9/d90bbed7-db21-4fba-85c2-c85d00f08a98.jpg",
+            "publishedAt": "2025-08-30T09:15:00Z"
+        },
+        {
+            "source": {
+                "id": "105bb16685822879671e4bad332aeec9",
+                "name": "The Mirror",
+                "url": "https://www.mirror.co.uk",
+                "country": "gb"
+            },
+            "title": "NHS doctors get new AI powered stethoscopes to instantly detect heart failure",
+            "url": "https://www.mirror.co.uk/news/uk-news/nhs-doctors-new-ai-powered-35816647",
+            "urlToImage": "https://i2-prod.mirror.co.uk/article35815764.ece/ALTERNATES/s1200/0_Close-up-of-doctor-holding-stethoscope.jpg",
             "publishedAt": "2025-08-30T09:15:00Z"
         },
         {
@@ -240,6 +264,33 @@
             "url": "https://www.reuters.com/business/metas-ai-leaders-discuss-using-google-openai-models-apps-information-says-2025-08-30/",
             "urlToImage": "https://www.reuters.com/resizer/v2/NI5EFS4D5ZNV3LCVSABZKSLQTA.jpg?auth=44cd52a68f6539d40a316703b6ed0e31be49cce89b2606448762fe212cd9343d&height=1005&width=1920&quality=80&smart=true",
             "publishedAt": "2025-08-30T00:03:43Z"
+        },
+        {
+            "source": {
+                "name": "venturebeat"
+            },
+            "title": "How Sakana AI’s new evolutionary algorithm builds powerful AI models without expensive retraining",
+            "url": "https://venturebeat.com/ai/how-sakana-ais-new-evolutionary-algorithm-builds-powerful-ai-models-without-expensive-retraining/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/08/Model-merging-2.jpg?w=750",
+            "publishedAt": "2025-08-30 00:14:14"
+        },
+        {
+            "source": {
+                "name": "xda_developers"
+            },
+            "title": "5 motherboard headers and sensors you're ignoring",
+            "url": "https://www.xda-developers.com/ignored-motherboard-headers-and-sensors/",
+            "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2024/08/nzxt-n7-b650e-box-hero-close.jpg",
+            "publishedAt": "2025-08-30 00:00:18"
+        },
+        {
+            "source": {
+                "name": "financialcontent"
+            },
+            "title": "Prediction: This Monster Artificial Intelligence (AI) Chip Stock Will Soar in September (Hint: It's Not Nvidia)",
+            "url": "https://www.fool.com/investing/2025/08/30/predict-monster-artificial-intelligence-ai-stock/",
+            "urlToImage": "https://g.foolcdn.com/image/?h=400&op=resize&url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F831087%2Fwoman-works-in-data-center-datacenter-getty.jpg&w=400",
+            "publishedAt": "2025-08-30 00:00:00"
         },
         {
             "source": {
@@ -3207,66 +3258,6 @@
             "url": "https://gizmodo.com/did-nvidia-just-pop-an-ai-bubble-heres-what-the-market-says-2000649432",
             "urlToImage": "https://gizmodo.com/app/uploads/2024/11/Jensen-Huang-Nvidia-1.jpg",
             "publishedAt": "2025-08-28T10:46:19Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "SARC Ventures into U.S. Market: A Strategic Global Expansion",
-            "url": "https://www.devdiscourse.com/article/business/3606407-sarc-ventures-into-us-market-a-strategic-global-expansion",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/28_08_2025_10_37_45_0979346.png?width=920&format=jpeg",
-            "publishedAt": "2025-08-28T10:37:45Z"
-        },
-        {
-            "source": {
-                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
-                "name": "Times Now",
-                "url": "https://www.timesnownews.com",
-                "country": "in"
-            },
-            "title": "This Is What Sundar Pichai Said On Google Removing Managers Of Small Teams In Recent Layoffs",
-            "url": "https://www.timesnownews.com/technology-science/this-is-what-sundar-pichai-said-on-google-removing-managers-of-small-teams-in-recent-layoffs-article-152538641",
-            "urlToImage": "https://images.timesnownews.com/thumb/msid-152538659,thumbsize-79606,width-1280,height-720,resizemode-75/152538659.jpg",
-            "publishedAt": "2025-08-28T10:15:38Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "CrowdStrike falls as tech outage effects weigh on forecast",
-            "url": "https://www.reuters.com/business/crowdstrike-falls-tech-outage-effects-weigh-forecast-2025-08-28/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/M3TMGUKLTJNRPBH565SH5WDQCE.jpg?auth=96b9573affa11e4f39eb89f4faa6229e17458bf4ddcc8527b631622628b90ea8&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-08-28T10:10:50Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Snowflake shares surge as AI boom fuels demand for data platforms",
-            "url": "https://www.reuters.com/business/snowflake-shares-surge-ai-boom-fuels-demand-data-platforms-2025-08-28/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/QGTPJHKQYZIM5FZU7I7PYRA7RI.jpg?auth=bbf53719e50761f2dcf0e425ea99754b4a14a0d11687a42ef5432bebcbf282c0&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-08-28T09:58:51Z"
-        },
-        {
-            "source": {
-                "id": "628299239469ffa8b7dbb809aabbcc2e",
-                "name": "Analytics India Magazine",
-                "url": "https://analyticsindiamag.com",
-                "country": "in"
-            },
-            "title": "CEOs are Firing Developers for Not Using AI",
-            "url": "https://analyticsindiamag.com/ai-trends/ceos-are-firing-developers-for-not-using-ai/",
-            "urlToImage": "https://analyticsindiamag.com/wp-content/uploads/2025/08/AI-Ceos.jpg",
-            "publishedAt": "2025-08-28T09:29:48Z"
         }
     ]
 }
