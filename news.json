@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-08-30T12:27:39.657775Z",
+    "lastUpdatedAt": "2025-08-30T13:19:35.150733Z",
     "articles": [
+        {
+            "source": {
+                "id": "90a3acff66edeb0244b1d0b26b580755",
+                "name": "Rolling Stone",
+                "url": "https://www.rollingstone.com",
+                "country": "us"
+            },
+            "title": "The Best Tips and Tricks To Spot AI",
+            "url": "https://www.rollingstone.com/culture/culture-features/artificial-intelligence-how-to-tell-1235416668/",
+            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/08/AI-tips-and-tricks.jpg?crop=0px%2C102px%2C1798px%2C1014px&resize=1600%2C900",
+            "publishedAt": "2025-08-30T13:00:00Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Nvidia CEO predicts AI-driven four-day work week: Career boost or burnout for tomorrow’s professionals?",
+            "url": "https://timesofindia.indiatimes.com/education/news/the-new-work-equation-ai-long-hours-and-gen-zs-fight-for-balance-in-indian-workplace/articleshow/123602358.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-123602661,width-1070,height-580,imgsize-30156,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-08-30T12:31:00Z"
+        },
         {
             "source": {
                 "id": "93e59eaaf800fc544a6df1a4fc5c0cdc",
@@ -3234,30 +3258,6 @@
             "url": "https://www.reuters.com/business/autos-transportation/volkswagen-extends-amazon-cloud-partnership-save-costs-with-ai-2025-08-28/",
             "urlToImage": "https://www.reuters.com/resizer/v2/NPQNDOOUOBL6PG3N7TBGKA3SZQ.jpg?auth=23bb207e36abcf910f36bf0ab7981d8655abaa4f0a5741ce8b379775c5f7a3ce&height=1005&width=1920&quality=80&smart=true",
             "publishedAt": "2025-08-28T11:02:35Z"
-        },
-        {
-            "source": {
-                "id": "e382ce4dfbd3358e338d63782000b7df",
-                "name": "HuffPost",
-                "url": "https://www.huffpost.com",
-                "country": "us"
-            },
-            "title": "Snaptroid Scam Scares People Into Thinking Others Can Read Their Texts",
-            "url": "https://www.huffpost.com/entry/can-people-read-your-texts-scam_l_68a48474e4b00feff7d12af7",
-            "urlToImage": "https://img.huffingtonpost.com/asset/68a87c8318000096a58c60f6.jpeg?ops=1200_630",
-            "publishedAt": "2025-08-28T11:00:17Z"
-        },
-        {
-            "source": {
-                "id": "18c2a6429621fbedc49891aa7c847ec6",
-                "name": "Gizmodo",
-                "url": "https://gizmodo.com",
-                "country": "us"
-            },
-            "title": "Did Nvidia Just Pop an AI Bubble? Here's What the Market Says",
-            "url": "https://gizmodo.com/did-nvidia-just-pop-an-ai-bubble-heres-what-the-market-says-2000649432",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/11/Jensen-Huang-Nvidia-1.jpg",
-            "publishedAt": "2025-08-28T10:46:19Z"
         }
     ]
 }
