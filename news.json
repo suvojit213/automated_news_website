@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-08-31T16:16:25.639225Z",
+    "lastUpdatedAt": "2025-08-31T17:11:46.002975Z",
     "articles": [
+        {
+            "source": {
+                "id": "01558c024928d45cf320f6f75eede787",
+                "name": "The Guardian",
+                "url": "https://www.theguardian.com",
+                "country": "gb"
+            },
+            "title": "Don’t let AIs fool you - they can’t ‘suffer’",
+            "url": "https://www.theguardian.com/technology/2025/aug/31/dont-let-ais-fool-you-they-cant-suffer",
+            "urlToImage": "https://i.guim.co.uk/img/media/5d969b742ad0f24d28653cbacb16481f18ea8b94/0_0_3375_2700/master/3375.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d1a4becc54f5daf97d04d421a2543bec",
+            "publishedAt": "2025-08-31T16:03:35Z"
+        },
         {
             "source": {
                 "id": "0a4c92a1a91d0994627a96e134064d69",
@@ -288,6 +300,15 @@
             "url": "https://www.forbes.com/sites/rachelwells/2025/08/31/10-certifications-that-add-up-to-8000-to-your-salary/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68b42edce7f01e0bac7ec319/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-08-31T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "hastingstribune"
+            },
+            "title": "AP Technology SummaryBrief at 12:50 a.m. EDT",
+            "url": "https://www.hastingstribune.com/ap/business/ap-technology-summarybrief-at-12-50-a-m-edt/article_d7c7fa21-d175-55c3-b4ae-ee28701bdbf0.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/hastingstribune.com/content/tncms/custom/image/7b43d562-eeac-11e4-8a7b-970670abfcb2.jpg?resize=600%2C315",
+            "publishedAt": "2025-08-31 04:50:35"
         },
         {
             "source": {
@@ -3174,24 +3195,6 @@
             "url": "https://www.scientificamerican.com/article/20-years-after-hurricane-katrina-major-forecasting-advances-could-erode/",
             "urlToImage": "https://static.scientificamerican.com/dam/m/b94f46e1b4817/original/satellite-view-hurricane-katrina.jpg?m=1756409609.267&w=1200",
             "publishedAt": "2025-08-29 10:30:00"
-        },
-        {
-            "source": {
-                "name": "geeky_gadgets"
-            },
-            "title": "ChatGPT 5 Pro Solves Math Problem Experts Couldn’t Crack for Decades",
-            "url": "https://www.geeky-gadgets.com/chatgpt-5-pro-solving-math-problem/",
-            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/08/ai-convex-optimization-breakthrough.webp",
-            "publishedAt": "2025-08-29 10:12:54"
-        },
-        {
-            "source": {
-                "name": "toi"
-            },
-            "title": "Google CEO Sundar Pichai, Facebook’s Mark Zuckerberg announce AI and Superintelligence partnerships with Reliance",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-ceo-sundar-pichai-facebooks-mark-zuckerberg-announce-ai-and-superintelligence-partnerships-with-reliance/articleshow/123582682.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-123582690,imgsize-38328,width-400,resizemode-4/reliance-jio.jpg",
-            "publishedAt": "2025-08-29 10:12:01"
         }
     ]
 }
