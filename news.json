@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-08-31T22:13:47.571552Z",
+    "lastUpdatedAt": "2025-08-31T23:13:28.937215Z",
     "articles": [
+        {
+            "source": {
+                "id": "4c8b69bf547b577f84acbba5157b439c",
+                "name": "RTE.ie",
+                "url": "https://www.rte.ie",
+                "country": "ie"
+            },
+            "title": "Big increase in AI usage in workplaces - Ibec",
+            "url": "https://www.rte.ie/news/business/2025/0901/1531088-ai-workplaces-ibec/",
+            "urlToImage": "https://www.rte.ie/images/0021de54-1600.jpg",
+            "publishedAt": "2025-08-31T23:00:00Z"
+        },
+        {
+            "source": {
+                "id": "91120a92e0d24e24fbffb6d0affabfe6",
+                "name": "Bangkok Post",
+                "url": "https://www.bangkokpost.com",
+                "country": "th"
+            },
+            "title": "AI to radically reshape Thai economy",
+            "url": "https://www.bangkokpost.com/business/general/3096521/ai-to-radically-reshape-thai-economy",
+            "urlToImage": "https://static.bangkokpost.com/media/content/dcx/2025/09/01/5761909_700.jpg",
+            "publishedAt": "2025-08-31T22:06:00Z"
+        },
         {
             "source": {
                 "id": "11d4381a1e8f7aca7628d0319a52a040",
@@ -384,6 +408,42 @@
             "url": "https://www.forbes.com/sites/rachelwells/2025/08/31/10-certifications-that-add-up-to-8000-to-your-salary/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68b42edce7f01e0bac7ec319/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-08-31T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "arstechnica"
+            },
+            "title": "Earth models can predict the planet’s future but not their own",
+            "url": "https://arstechnica.com/science/2025/08/earth-models-can-predict-the-planets-future-but-not-their-own/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-1334810601-2560x1440.jpg",
+            "publishedAt": "2025-08-31 11:00:12"
+        },
+        {
+            "source": {
+                "name": "toi"
+            },
+            "title": "For every 10 AI roles, there is 1 engineer: India’s skills crisis explained",
+            "url": "https://timesofindia.indiatimes.com/education/news/for-every-10-ai-roles-there-is-1-engineer-indias-skills-crisis-explained/articleshow/123614584.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-123614674,imgsize-19324,width-400,resizemode-4/for-every-10-ai-roles-theres-1-engineer-in-india.jpg",
+            "publishedAt": "2025-08-31 10:50:56"
+        },
+        {
+            "source": {
+                "name": "toi"
+            },
+            "title": "Why Mark Zuckerberg’s ‘billion-dollar’ AI Superintelligence Lab team may be facing high-profile exits",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/why-mark-zuckerbergs-billion-dollar-ai-superintelligence-lab-team-may-be-facing-high-profile-exits/articleshow/123614535.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-123614559,imgsize-25074,width-400,resizemode-4/mark-zuckerberg-meta-ai.jpg",
+            "publishedAt": "2025-08-31 10:47:23"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Regret Missing ICP’s $750 All-Time High? BlockchainFX Presale May Be Your Second Chance at 1000x",
+            "url": "https://www.analyticsinsight.net/cryptocurrency-analytics-insight/regret-missing-icps-750-all-time-high-blockchainfx-presale-may-be-your-second-chance-at-1000x",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-08-31%2F1r2s7gus%2FScreenshot-2025-08-31-153618.png?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-08-31 10:40:00"
         },
         {
             "source": {
@@ -3162,60 +3222,6 @@
             "url": "https://www.webpronews.com/linux-6-17-yields-37-performance-boost-on-amd-epyc-turin/",
             "urlToImage": "https://www.webpronews.com/linux-6-17-yields-37-performance-boost-on-amd-epyc-turin/",
             "publishedAt": "2025-08-29 12:45:00"
-        },
-        {
-            "source": {
-                "name": "pantagraph"
-            },
-            "title": "Artificial intelligence won’t take away our jobs | Sean Higgins",
-            "url": "https://pantagraph.com/opinion/column/article_0c525207-2c80-5fc5-9a83-d47dfff81725.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/pantagraph.com/content/tncms/assets/v3/editorial/0/c5/0c525207-2c80-5fc5-9a83-d47dfff81725/68af678e02aa4.preview.jpg?crop=1010%2C530%2C0%2C94",
-            "publishedAt": "2025-08-29 12:45:00"
-        },
-        {
-            "source": {
-                "name": "stltoday"
-            },
-            "title": "Artificial intelligence won’t take away our jobs | Sean Higgins",
-            "url": "https://www.stltoday.com/opinion/column/article_4c49d91d-7bb3-5f94-b028-c73062ccea2a.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/1/82/1829b118-42e6-5dbe-a288-39e737758518/66cf7b571d185.image.jpg?resize=300%2C300",
-            "publishedAt": "2025-08-29 12:45:00"
-        },
-        {
-            "source": {
-                "name": "newsable_asianetnews"
-            },
-            "title": "Reliance Industries: Jio IPO Roadmap, AI-Centric JV Headline AGM; SEBI RA Reaffirms Long-Term Trend Stability",
-            "url": "https://newsable.asianetnews.com/markets/reliance-industries-jio-ipo-roadmap-ai-centric-jv-headline-agm-sebi-ra-reaffirms-long-term-trend-stability-articleshow-vlxkiug",
-            "urlToImage": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-c065c609-7ab7-41a3-b4ad-c20d6e77ca40.webp",
-            "publishedAt": "2025-08-29 12:40:04"
-        },
-        {
-            "source": {
-                "name": "medianama"
-            },
-            "title": "Reliance Jio’s IPO In First Half Of 2026, With Plans To Expand Beyond India",
-            "url": "https://www.medianama.com/2025/08/223-reliance-jios-ipo-first-half-2026/",
-            "urlToImage": "https://www.medianama.com/wp-content/uploads/2020/10/RIL-Mukesh-Ambani.jpg.jpg",
-            "publishedAt": "2025-08-29 12:33:33"
-        },
-        {
-            "source": {
-                "name": "computerweekly"
-            },
-            "title": "ICO publishes summary of police facial recognition audit",
-            "url": "https://www.computerweekly.com/news/366630181/ICO-publishes-summary-of-police-facial-recognition-audit",
-            "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/HeroImages/surveillance-CCTV-facial-recognition-Alexander-adobe_searchsitetablet_520X173.jpg",
-            "publishedAt": "2025-08-29 12:29:00"
-        },
-        {
-            "source": {
-                "name": "interestingengineering"
-            },
-            "title": "So you want to be an engineer? Learn the skills that matter",
-            "url": "https://interestingengineering.com/culture/engineer-technical-soft-skills",
-            "urlToImage": "https://cms.interestingengineering.com/wp-content/uploads/2025/08/eng3.png",
-            "publishedAt": "2025-08-29 12:28:28"
         }
     ]
 }
