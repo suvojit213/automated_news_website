@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-08-31T12:27:59.348749Z",
+    "lastUpdatedAt": "2025-08-31T13:20:13.019058Z",
     "articles": [
+        {
+            "source": {
+                "id": "3a3847d645a619320aa3b3484581e395",
+                "name": "CBS News",
+                "url": "https://www.cbsnews.com",
+                "country": "us"
+            },
+            "title": "How is artificial intelligence affecting job searches?",
+            "url": "https://www.cbsnews.com/news/how-is-artificial-intelligence-affecting-job-searches/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/08/31/65e510d6-9db7-460e-b0d8-21d0ad4993ef/thumbnail/1200x630/ff77aeab8a31b673c16c28b170959b00/ai-jobs-1280.jpg",
+            "publishedAt": "2025-08-31T13:15:22Z"
+        },
         {
             "source": {
                 "id": "9290338c23f31e3f547a2dbfa1c52c03",
@@ -204,6 +216,15 @@
             "url": "https://www.forbes.com/sites/rachelwells/2025/08/31/10-certifications-that-add-up-to-8000-to-your-salary/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68b42edce7f01e0bac7ec319/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-08-31T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "inc42"
+            },
+            "title": "Reliance’s Jio-Sized AI Leap",
+            "url": "https://inc42.com/features/reliances-jio-sized-ai-leap/",
+            "urlToImage": "https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2025/08/Reliance-NL-ftr.jpg",
+            "publishedAt": "2025-08-31 00:30:53"
         },
         {
             "source": {
@@ -3153,24 +3174,6 @@
             "url": "https://www.tomsguide.com/phones/google-pixel-phones/pixel-10-pro-5-reasons-to-buy-and-3-reasons-to-skip",
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/4gnaU5FVo8mJivSJbpVkjM-1280-80.jpg",
             "publishedAt": "2025-08-29 09:30:00"
-        },
-        {
-            "source": {
-                "name": "news18"
-            },
-            "title": "'India Has Always Been A Special Place To Google', Says CEO Sundar Pichai At 48th RIL AGM",
-            "url": "https://www.news18.com/business/india-has-always-been-a-special-place-to-google-says-ceo-sundar-pichai-at-48th-ril-agm-ws-l-9536138.html",
-            "urlToImage": "https://images.news18.com/ibnlive/uploads/2025/08/Google-2025-08-b2101c0164865edfaba13d820923b5a7-3x2.jpg",
-            "publishedAt": "2025-08-29 09:26:21"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "3 Expert Tips for Buying a Student Laptop That Will Actually Get You Through School",
-            "url": "https://www.tomsguide.com/computing/laptops/3-expert-tips-to-get-a-student-laptop-that-will-actually-get-you-through-school",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/8UFs6KSDZNwG4kBQtwKZSU-1280-80.jpg",
-            "publishedAt": "2025-08-29 08:00:00"
         }
     ]
 }
