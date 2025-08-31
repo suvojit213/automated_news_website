@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-08-31T05:13:44.071917Z",
+    "lastUpdatedAt": "2025-08-31T06:20:25.317311Z",
     "articles": [
+        {
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            },
+            "title": "Google issues urgent alert, 2.5 billion Gmail users told to change passwords immediately",
+            "url": "https://www.indiatoday.in/technology/news/story/google-issues-urgent-alert-25-billion-gmail-users-told-to-change-passwords-immediately-2779475-2025-08-31",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202508/gmail-and-xmail-21300528-16x9.jpg?VersionId=RQpdhLpNx0rrz3xAl.fQLzRddJMKKj.z",
+            "publishedAt": "2025-08-31T05:52:11Z"
+        },
+        {
+            "source": {
+                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+                "name": "NDTV.com",
+                "url": "https://www.ndtv.com",
+                "country": "in"
+            },
+            "title": "Web Development Vs Data Science Vs Machine Learning: Which Career Suits You Best",
+            "url": "https://www.ndtv.com/education/web-development-vs-data-scientist-vs-machine-learning-which-career-suits-you-best-9189850",
+            "urlToImage": "https://c.ndtvimg.com/2025-08/g0mbjid4_web-development-vs-data-scientist-vs-machine-learning_625x300_31_August_25.jpeg",
+            "publishedAt": "2025-08-31T04:50:51Z"
+        },
         {
             "source": {
                 "id": "77b86639d1384ac68141803ec5db27c0",
@@ -504,6 +528,33 @@
             "url": "https://www.reuters.com/business/metas-ai-leaders-discuss-using-google-openai-models-apps-information-says-2025-08-30/",
             "urlToImage": "https://www.reuters.com/resizer/v2/NI5EFS4D5ZNV3LCVSABZKSLQTA.jpg?auth=44cd52a68f6539d40a316703b6ed0e31be49cce89b2606448762fe212cd9343d&height=1005&width=1920&quality=80&smart=true",
             "publishedAt": "2025-08-30T00:03:43Z"
+        },
+        {
+            "source": {
+                "name": "pcworld_us"
+            },
+            "title": "How to turn a USB flash drive into a portable games console",
+            "url": "https://www.pcworld.com/article/2615386/how-to-turn-a-usb-flash-drive-into-a-portable-games-console.html",
+            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/08/Samsung-256GB-USB-drive-plugged-into-Lenovo-Yoga-Book-9i-laptop.jpg?quality=50&strip=all",
+            "publishedAt": "2025-08-30 18:00:00"
+        },
+        {
+            "source": {
+                "name": "astrobiology"
+            },
+            "title": "InSight Lander Marsquake Data Reveals Lumpy Nature Of Mars’ Interior",
+            "url": "https://astrobiology.com/2025/08/insight-lander-marsquake-data-reveals-lumpy-nature-of-mars-interior.html",
+            "urlToImage": "https://astrobiology.com/wp-content/uploads/2025/08/NASA-Marsquake-Data-Reveals.png",
+            "publishedAt": "2025-08-30 17:36:52"
+        },
+        {
+            "source": {
+                "name": "techaeris"
+            },
+            "title": "Dell Pro 13 Premium review: A business-ultra-lightweight laptop with an ultra-heavyweight-kick",
+            "url": "https://techaeris.com/2025/08/30/dell-pro-13-premium-review/",
+            "urlToImage": "https://techaeris.com/wp-content/uploads/2025/08/Dell-Pro-13-Premium-review-featured.jpg",
+            "publishedAt": "2025-08-30 17:33:51"
         },
         {
             "source": {
@@ -3078,63 +3129,6 @@
             "url": "https://www.benzinga.com/insights/analyst-ratings/25/08/47413608/breaking-down-vital-energy-5-analysts-share-their-views",
             "urlToImage": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
             "publishedAt": "2025-08-29 00:00:00"
-        },
-        {
-            "source": {
-                "name": "financialcontent"
-            },
-            "title": "Where Hillman Solns Stands With Analysts",
-            "url": "https://www.benzinga.com/insights/analyst-ratings/25/08/47413624/where-hillman-solns-stands-with-analysts",
-            "urlToImage": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "publishedAt": "2025-08-29 00:00:00"
-        },
-        {
-            "source": {
-                "id": "6956007add5fc13a6721202ec906b1c4",
-                "name": "Decrypt",
-                "url": "https://decrypt.co",
-                "country": "us"
-            },
-            "title": "Beijing Sets Ambitious Targets for Nationwide AI Integration Over 10 Years",
-            "url": "https://decrypt.co/337286/beijing-ambitious-targets-nationwide-ai-integration",
-            "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/ai-decrypt-style-14-gID_7.png",
-            "publishedAt": "2025-08-28T23:34:04Z"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            },
-            "title": "Friday's big stock stories: What’s likely to move the market in the next trading session",
-            "url": "https://www.cnbc.com/2025/08/28/fridays-big-stock-stories-whats-likely-to-move-the-market-in-the-next-trading-session.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108185308-1755092580555-gettyimages-2229791361-anotherday100697787_3kk7d3kl.jpeg?v=1756407859&w=1920&h=1080",
-            "publishedAt": "2025-08-28T23:12:26Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "SentinelOne raises annual revenue forecast on strong cybersecurity demand",
-            "url": "https://www.reuters.com/business/sentinelone-raises-annual-revenue-forecast-strong-cybersecurity-demand-2025-08-28/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/MPLO7XBIKJKYJE7QE2MDJF3PAY.jpg?auth=b20e1d0f2d026dd80bfe9c38a2e5b816d51ad007d433782ac3861e397b7de586&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-08-28T22:23:26Z"
-        },
-        {
-            "source": {
-                "id": "77b86639d1384ac68141803ec5db27c0",
-                "name": "NBC News",
-                "url": "https://www.nbcnews.com",
-                "country": "us"
-            },
-            "title": "S&P 500, Dow score record high closes as Nvidia results buttress AI rally",
-            "url": "https://www.nbcnews.com/business/markets/sp-500-dow-score-record-high-closes-nvidia-results-buttress-ai-rally-rcna227722",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250828-traders-ch-1654-2b76ed.jpg",
-            "publishedAt": "2025-08-28T21:58:36Z"
         }
     ]
 }
