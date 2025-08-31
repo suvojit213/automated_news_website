@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-08-31T21:12:36.988756Z",
+    "lastUpdatedAt": "2025-08-31T22:13:47.571552Z",
     "articles": [
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "Japanese camera makers ramp up mirrorless lineups amid growing demand",
+            "url": "https://japantoday.com/category/business/japanese-camera-makers-ramp-up-mirrorless-lineups-amid-growing-demand",
+            "urlToImage": "https://media.japantoday.com/img/store/45/97/4889bf949b1f3926be939ed34aab4440e52c/20250827kw___0016000010-ph-----n-ci0004/_w1700.jpeg",
+            "publishedAt": "2025-08-31T21:20:00Z"
+        },
         {
             "source": {
                 "id": "d4e7f6a65e15620f4e4044691a99d0fd",
@@ -372,6 +384,15 @@
             "url": "https://www.forbes.com/sites/rachelwells/2025/08/31/10-certifications-that-add-up-to-8000-to-your-salary/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68b42edce7f01e0bac7ec319/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-08-31T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "livescience"
+            },
+            "title": "There are 32 different ways AI can go rogue, scientists say — from hallucinating answers to a complete misalignment with humanity",
+            "url": "https://www.livescience.com/technology/artificial-intelligence/there-are-32-different-ways-ai-can-go-rogue-scientists-say-from-hallucinating-answers-to-a-complete-misalignment-with-humanity",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/bGVzhaPD9gujwpEGhfT6Nm-1280-80.jpg",
+            "publishedAt": "2025-08-31 10:00:00"
         },
         {
             "source": {
@@ -3195,24 +3216,6 @@
             "url": "https://interestingengineering.com/culture/engineer-technical-soft-skills",
             "urlToImage": "https://cms.interestingengineering.com/wp-content/uploads/2025/08/eng3.png",
             "publishedAt": "2025-08-29 12:28:28"
-        },
-        {
-            "source": {
-                "name": "xda_developers"
-            },
-            "title": "An HDMI dummy plug might be the smallest cheap gadget that's actually useful",
-            "url": "https://www.xda-developers.com/hdmi-dummy-plug-smallest-cheapest-useful-pc-gadget/",
-            "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2025/06/lg-ultragear-5k2k-oled-review-07.jpg",
-            "publishedAt": "2025-08-29 11:00:19"
-        },
-        {
-            "source": {
-                "name": "cnet"
-            },
-            "title": "I Tested the Asus ProArt P16 Laptop and It Delivers the Goods for Creators",
-            "url": "https://www.cnet.com/tech/computing/i-tested-the-asus-proart-p16-laptop-and-it-delivers-the-goods-for-creators/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/2eaed7f940a83ef27239d83739726b17671ea53e/hub/2025/08/27/1f9c9a62-d7b2-4246-8be8-e13577923889/asus-proart-p16-overview.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-08-29 11:00:05"
         }
     ]
 }
