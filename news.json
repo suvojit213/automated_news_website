@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-08-31T07:13:34.992737Z",
+    "lastUpdatedAt": "2025-08-31T08:17:37.717606Z",
     "articles": [
+        {
+            "source": {
+                "id": "1a6c3258d04827f52d40713ad8166b1b",
+                "name": "Interesting Engineering",
+                "url": "https://interestingengineering.com",
+                "country": "us"
+            },
+            "title": "US lab prescribes 'medicines' for EV batteries for longer-lasting power",
+            "url": "https://interestingengineering.com/energy/ev-batteries-to-get-energy-medicines",
+            "urlToImage": "https://cms.interestingengineering.com/wp-content/uploads/2025/08/battery.jpg",
+            "publishedAt": "2025-08-31T07:58:50Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "House bill seeks to regulate AI use",
+            "url": "https://www.manilatimes.net/2025/08/31/news/house-bill-seeks-to-regulate-ai-use/2176486",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/31/731445.jpg",
+            "publishedAt": "2025-08-31T07:53:00Z"
+        },
         {
             "source": {
                 "id": "c73686fdf0e30639d57eddaf7a77236e",
@@ -540,6 +564,42 @@
             "url": "https://www.reuters.com/business/metas-ai-leaders-discuss-using-google-openai-models-apps-information-says-2025-08-30/",
             "urlToImage": "https://www.reuters.com/resizer/v2/NI5EFS4D5ZNV3LCVSABZKSLQTA.jpg?auth=44cd52a68f6539d40a316703b6ed0e31be49cce89b2606448762fe212cd9343d&height=1005&width=1920&quality=80&smart=true",
             "publishedAt": "2025-08-30T00:03:43Z"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Genode OS 25.08: Fair Scheduler, Linux 6.12 Drivers, and seL4 Upgrades",
+            "url": "https://www.webpronews.com/genode-os-25-08-fair-scheduler-linux-6-12-drivers-and-sel4-upgrades/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-6087ca9c-97b4-4050-9e50-310782710480.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-08-30 20:09:59"
+        },
+        {
+            "source": {
+                "name": "xda_developers"
+            },
+            "title": "Your PC's biggest bottleneck might not be the CPU or GPU — it may just be Windows",
+            "url": "https://www.xda-developers.com/your-pc-biggest-bottleneck-might-not-be-cpu-gpu-may-just-be-windows/",
+            "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/07/playnite-desktop-mode-1-1.jpg",
+            "publishedAt": "2025-08-30 20:00:18"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Scientists Develop Spacetime Crystals with Knotted Light Hopfions",
+            "url": "https://www.webpronews.com/scientists-develop-spacetime-crystals-with-knotted-light-hopfions/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-f755e640-c5fa-471d-b77a-29f27c9b60e3.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-08-30 19:53:48"
+        },
+        {
+            "source": {
+                "name": "techradar"
+            },
+            "title": "Here's one of the cheapest RTX 5060-powered gaming laptops so far",
+            "url": "https://www.techradar.com/computing/gaming-laptops/heres-one-of-the-cheapest-rtx-5060-powered-gaming-laptops-so-far",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/b9RjkhqCrmRmXBdoPqHP3c.jpg",
+            "publishedAt": "2025-08-30 19:47:00"
         },
         {
             "source": {
@@ -3078,60 +3138,6 @@
             "url": "https://www.nydailynews.com/2025/08/29/what-is-the-best-led-monitor/",
             "urlToImage": "https://www.nydailynews.com/wp-content/uploads/2025/08/best-led-monitor.jpg?strip=all&w=1400px",
             "publishedAt": "2025-08-29 04:35:40"
-        },
-        {
-            "source": {
-                "name": "dailypress"
-            },
-            "title": "What is the best LED monitor?",
-            "url": "https://www.dailypress.com/2025/08/29/what-is-the-best-led-monitor/",
-            "urlToImage": "https://www.dailypress.com/wp-content/uploads/2025/08/best-led-monitor.jpg?h=576&w=1024",
-            "publishedAt": "2025-08-29 04:35:40"
-        },
-        {
-            "source": {
-                "name": "orlandosentinel"
-            },
-            "title": "What is the best LED monitor?",
-            "url": "https://www.orlandosentinel.com/2025/08/29/what-is-the-best-led-monitor/",
-            "urlToImage": "https://www.orlandosentinel.com/wp-content/uploads/2025/08/best-led-monitor.jpg?strip=all&w=1400px",
-            "publishedAt": "2025-08-29 04:35:40"
-        },
-        {
-            "source": {
-                "name": "sun_sentinel"
-            },
-            "title": "What is the best LED monitor?",
-            "url": "https://www.sun-sentinel.com/2025/08/29/what-is-the-best-led-monitor/",
-            "urlToImage": "https://www.sun-sentinel.com/wp-content/uploads/2025/08/best-led-monitor.jpg?strip=all&w=1400px",
-            "publishedAt": "2025-08-29 04:35:40"
-        },
-        {
-            "source": {
-                "name": "capitalgazette"
-            },
-            "title": "What is the best LED monitor?",
-            "url": "https://www.capitalgazette.com/2025/08/29/what-is-the-best-led-monitor/",
-            "urlToImage": "https://www.capitalgazette.com/wp-content/uploads/2025/08/best-led-monitor.jpg?strip=all&w=1400px",
-            "publishedAt": "2025-08-29 04:35:40"
-        },
-        {
-            "source": {
-                "name": "livemint"
-            },
-            "title": "An AI simulation of a Mount Fuji eruption is being used to prepare Tokyo for the worst",
-            "url": "https://www.livemint.com/science/news/an-ai-simulation-of-a-mount-fuji-eruption-is-being-used-to-prepare-tokyo-for-the-worst-11756433481686.html",
-            "urlToImage": "https://www.livemint.com/lm-img/static/1yr/newmintdefault-120.png",
-            "publishedAt": "2025-08-29 02:11:21"
-        },
-        {
-            "source": {
-                "name": "thehansindia"
-            },
-            "title": "Skill corpn to conduct free faculty devlpt programme on cybersecurity",
-            "url": "https://www.thehansindia.com/andhra-pradesh/skill-corpn-to-conduct-free-faculty-devlpt-programme-on-cybersecurity-1001280",
-            "urlToImage": "https://www.thehansindia.com/images/placeholder.jpg",
-            "publishedAt": "2025-08-29 01:43:50"
         }
     ]
 }
