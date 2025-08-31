@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-08-31T14:12:27.639422Z",
+    "lastUpdatedAt": "2025-08-31T15:13:33.763362Z",
     "articles": [
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "Researchers train AI to diagnose heart failure in rural patients using low-tech electrocardiograms",
+            "url": "https://medicalxpress.com/news/2025-08-ai-heart-failure-rural-patients.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/wvu-researchers-train.jpg",
+            "publishedAt": "2025-08-31T14:58:36Z"
+        },
+        {
+            "source": {
+                "id": "a3391c15eb1d3136f9b9dd080940d0e8",
+                "name": "The Nation",
+                "url": "https://www.nation.com.pk",
+                "country": "pk"
+            },
+            "title": "Govt plans to use Artificial Intelligence to counter cyberattacks",
+            "url": "https://www.nation.com.pk/31-Aug-2025/govt-plans-to-use-artificial-intelligence-to-counter-cyberattacks",
+            "urlToImage": "https://www.nation.com.pk/digital_images/large/2025-08-31/govt-plans-to-use-artificial-intelligence-to-counter-cyberattacks-1756650396-9027.jpeg",
+            "publishedAt": "2025-08-31T14:26:57Z"
+        },
+        {
+            "source": {
+                "id": "e0c33fc9d04ac3cbaad8f31915a02767",
+                "name": "7NEWS.com.au",
+                "url": "https://7news.com.au",
+                "country": "au"
+            },
+            "title": "Humans are being hired to make AI slop look less sloppy",
+            "url": "https://7news.com.au/news/humans-are-being-hired-to-make-ai-slop-look-less-sloppy-c-19866305",
+            "urlToImage": "https://images.7news.com.au/publication/C-19866305/9688ea49a6f0f523ead39816c1a3f6f2eff97825-16x9-x0y64w1250h703.jpg?imwidth=1200",
+            "publishedAt": "2025-08-31T14:12:44Z"
+        },
+        {
+            "source": {
+                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+                "name": "The Financial Express",
+                "url": "https://www.financialexpress.com",
+                "country": "in"
+            },
+            "title": "Ex-Yahoo manager murders mother, kills self after conversations with 'AI best-friend Bobby': Report - Trending News",
+            "url": "https://www.financialexpress.com/trending/ex-yahoo-manager-murders-mothernbspkills-self-after-conversations-with-ai-best-friend-bobby-report/3962873/",
+            "urlToImage": "https://www.financialexpress.com/wp-content/uploads/2025/08/chatgpt-5_20250831141045.jpg",
+            "publishedAt": "2025-08-31T14:11:45Z"
+        },
         {
             "source": {
                 "id": "263578fdccd92a76494cd34055806fcc",
@@ -783,6 +831,15 @@
             "url": "https://www.wcvb.com/article/ai-apocalypse-why-language-surrounding-tech-is-sounding-increasingly-religious/65940060",
             "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbtvuc3lsbxqwmdbhmzu2btg2cnbyy2l4-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2ntnw5wdng0yzawnhgyy3fvzmi1ethtodu-jpg-677f00cf4cf81.jpg",
             "publishedAt": "2025-08-30 23:57:00"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "Corsair’s Xeneon Edge Sells Out, Proving PC Users Want An Extra (Tiny) Screen",
+            "url": "https://www.forbes.com/sites/mitchwallace/2025/08/30/corsairs-xeneon-edge-sells-out-proving-pc-users-want-an-extra-tiny-screen/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68b36a5d91ab6a83f878da8e/0x0.jpg?width=960",
+            "publishedAt": "2025-08-30 21:21:07"
         },
         {
             "source": {
@@ -3132,51 +3189,6 @@
             "url": "https://www.medianama.com/2025/08/223-firs-low-cyber-crimes-rise-parl-report/",
             "urlToImage": "https://www.medianama.com/wp-content/uploads/2019/03/fraud-cmn-cc0.jpg-e1631541851398.jpg",
             "publishedAt": "2025-08-29 10:05:18"
-        },
-        {
-            "source": {
-                "name": "news18"
-            },
-            "title": "Mukesh Ambani Announces New Subsidiary 'Reliance Intelligence', AI Tie-Ups With Google & Meta",
-            "url": "https://www.news18.com/business/reliance-announces-new-wholly-owned-subsidiary-reliance-intelligence-ai-tie-up-with-google-ws-l-9536147.html",
-            "urlToImage": "https://images.news18.com/ibnlive/uploads/2025/08/Reliance-Intelligence-AI-2025-08-e4d911e3b2f304700e257169442c7287-3x2.jpeg",
-            "publishedAt": "2025-08-29 09:52:17"
-        },
-        {
-            "source": {
-                "name": "cxotoday"
-            },
-            "title": "Hexaware-Replit Take Vibe Coding to Enterprises",
-            "url": "https://cxotoday.com/news-analysis/hexaware-replit-take-vibe-coding-to-enterprises/",
-            "urlToImage": "https://cxotoday.com/wp-content/uploads/2025/08/Vibe.jpeg",
-            "publishedAt": "2025-08-29 09:49:21"
-        },
-        {
-            "source": {
-                "name": "telecom_economictimes"
-            },
-            "title": "Jio to deploy homegrown technologies globally; forays into smart glass, cloud PC segments",
-            "url": "https://telecom.economictimes.indiatimes.com/news/industry/reliance-jio-expands-globally-with-innovative-technologies-in-smart-glass-and-cloud-pc/123581547",
-            "urlToImage": "https://etimg.etb2bimg.com/photo/123581946.cms",
-            "publishedAt": "2025-08-29 09:36:40"
-        },
-        {
-            "source": {
-                "name": "chicagotribune"
-            },
-            "title": "What is the best LED monitor?",
-            "url": "https://www.chicagotribune.com/2025/08/29/what-is-the-best-led-monitor/",
-            "urlToImage": "https://www.chicagotribune.com/wp-content/uploads/2025/08/best-led-monitor.jpg?strip=all&w=1400px",
-            "publishedAt": "2025-08-29 09:35:40"
-        },
-        {
-            "source": {
-                "name": "abplive"
-            },
-            "title": "Reliance Ties Up With Meta For AI Joint Venture, Teams With Google For Jamnagar Cloud Project",
-            "url": "https://news.abplive.com/business/reliance-agm-live-updates-mukesh-ambani-meta-ai-google-cloud-jamnagar-sundar-pichai-1797296",
-            "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2025/08/29/6d498a5ba3ee8c4bc7eeb55f2cfdaffa1756459330913800_original.jpg",
-            "publishedAt": "2025-08-29 09:30:16"
         }
     ]
 }
