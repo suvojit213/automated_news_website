@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-09-01T10:17:15.527535Z",
+    "lastUpdatedAt": "2025-09-01T11:13:05.452058Z",
     "articles": [
+        {
+            "source": {
+                "id": "458ddf355ab77631d3eb3dd84a0351b4",
+                "name": "Business Insider",
+                "url": "https://www.businessinsider.com",
+                "country": "us"
+            },
+            "title": "I'm an Amazon ML Engineer. Here's How I Pivoted to Machine Learning.",
+            "url": "https://www.businessinsider.com/machine-learning-engineer-amazon-career-change-software-2025-9",
+            "urlToImage": "https://i.insider.com/68add927cfc04e97619c097f?width=1200&format=jpeg",
+            "publishedAt": "2025-09-01T10:45:02Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Sebi’s cyber framework: Tiered relief proposed for small intermediaries; experts flag compliance risks",
+            "url": "https://timesofindia.indiatimes.com/business/cybersecurity/sebis-cyber-framework-tiered-relief-proposed-for-small-intermediaries-experts-flag-compliance-risks/articleshow/123633281.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-123633534,width-1070,height-580,imgsize-660654,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-09-01T10:45:00Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "Siddharth Pai: OpenAI’s India launch will steepen its learning curve",
+            "url": "https://www.livemint.com/opinion/online-views/openai-india-chatgpt-subscription-generative-ai-assisted-coding-copilot-claude-anthropic-sam-altman-china-deepseek-gpt-11756620691757.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2025/08/31/1600x900/ARTIFICIAL-INTELLIGENCE-OPENAI--0_1755306628061_1755306635816_1756622839020.JPG",
+            "publishedAt": "2025-09-01T10:30:05Z"
+        },
+        {
+            "source": {
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
+                "country": "in"
+            },
+            "title": "Data Centers That Don’t Exist Yet Are Already Haunting the Grid",
+            "url": "https://www.hindustantimes.com/world-news/data-centers-that-don-t-exist-yet-are-already-haunting-the-grid-101756721374070.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/09/01/1600x900/im-51861827_1756721378434_1756721398222.jpg",
+            "publishedAt": "2025-09-01T10:11:11Z"
+        },
         {
             "source": {
                 "id": "ca84296ef941bfa461f4239a2290cb99",
@@ -12,6 +60,18 @@
             "url": "https://www.news18.com/business/obituaries-have-been-written-many-times-in-the-past-nandan-nilekani-says-indian-it-will-master-ai-ws-l-9541465.html",
             "urlToImage": "https://images.news18.com/ibnlive/uploads/2025/09/nandan-nilekani-2025-09-17566befe2499b7f14337a78b74cf260-16x9.jpg",
             "publishedAt": "2025-09-01T10:09:45Z"
+        },
+        {
+            "source": {
+                "id": "492abf277b7277432148b61b21ddc836",
+                "name": "Los Angeles Times",
+                "url": "https://www.latimes.com",
+                "country": "us"
+            },
+            "title": "Free AI training comes to California colleges - but at what cost?",
+            "url": "https://www.latimes.com/california/story/2025-09-01/free-ai-training-comes-to-california-colleges-but-at-what-cost",
+            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/42db278/2147483647/strip/true/crop/4327x2272+0+307/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F6d%2F4d%2F5490eb784b928a57c50927707174%2Fap25219833915804.jpg",
+            "publishedAt": "2025-09-01T10:00:00Z"
         },
         {
             "source": {
@@ -792,6 +852,33 @@
             "url": "https://www.forbes.com/sites/rachelwells/2025/08/31/10-certifications-that-add-up-to-8000-to-your-salary/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68b42edce7f01e0bac7ec319/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-08-31T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "hackaday"
+            },
+            "title": "Hackaday Links: August 31, 2025",
+            "url": "https://hackaday.com/2025/08/31/hackaday-links-august-31-2025/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg",
+            "publishedAt": "2025-08-31 23:00:38"
+        },
+        {
+            "source": {
+                "name": "news4social"
+            },
+            "title": "iMac Deal: Apple’s Sleek M4 Desktop Is $150 Off Right Now",
+            "url": "https://en.news4social.com/imac-deal-apples-sleek-m4-desktop-is-150-off-right-now/",
+            "urlToImage": "https://i0.wp.com/fs.npstatic.com/devices/11/3711-w160h160.png?resize=750%2C375&ssl=1&w=750",
+            "publishedAt": "2025-08-31 23:00:00"
+        },
+        {
+            "source": {
+                "name": "toi"
+            },
+            "title": "Miniaturising semiconductors: IIT-Gn develops nanosheets as insulators",
+            "url": "https://timesofindia.indiatimes.com/city/rajkot/miniaturising-semiconductors-iit-gn-develops-nanosheets-as-insulators/articleshow/123621169.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-123621168,imgsize-48188,width-400,height-225,resizemode-72/miniaturising-semiconductors-iit-gn-develops-nanosheets-as-insulators.jpg",
+            "publishedAt": "2025-08-31 22:42:06"
         },
         {
             "source": {
@@ -3168,102 +3255,6 @@
             "url": "https://www.reuters.com/business/media-telecom/ai-enhanced-immersive-wizard-oz-debuts-las-vegas-2025-08-29/",
             "urlToImage": "https://www.reuters.com/resizer/v2/AVUAEB2JZ5N5DNPBYTVX3NH6MQ.jpg?auth=8f3917b91c31eb2e70ca7b33812019aaed982a3db2e40b2f87ae828468105764&height=1005&width=1920&quality=80&smart=true",
             "publishedAt": "2025-08-29T09:13:59Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "VCIG Secures Government and Enterprise Engagements Following ASEAN AI Summit Showcase of Full-Stack Sovereign AI and Cybersecurity Technologies",
-            "url": "https://www.manilatimes.net/2025/08/29/tmt-newswire/media-outreach-newswire/vcig-secures-government-and-enterprise-engagements-following-asean-ai-summit-showcase-of-full-stack-sovereign-ai-and-cybersecurity-technologies/2175817",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/29/729943.jpg",
-            "publishedAt": "2025-08-29T08:28:55Z"
-        },
-        {
-            "source": {
-                "id": "7ba4ac19a3c25ba844bbd220fe4c860a",
-                "name": "THE WEEK",
-                "url": "https://www.theweek.in",
-                "country": "in"
-            },
-            "title": "What is Japan hoping to achieve by boosting its partnership with India?",
-            "url": "https://www.theweek.in/news/biz-tech/2025/08/29/what-is-japan-hoping-to-achieve-by-boosting-its-partnership-with-india.html",
-            "urlToImage": "https://www.theweek.in/content/dam/week/week/news/biz-tech/images/2025/8/29/modi-Ishiba.jpg",
-            "publishedAt": "2025-08-29T08:00:07Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "To compete with America, China warns AI companies: Stop disorderly...",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/to-compete-with-america-china-warns-ai-companies-stop-disorderly-/articleshow/123579957.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-123579959,width-1070,height-580,imgsize-119332,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "publishedAt": "2025-08-29T07:38:00Z"
-        },
-        {
-            "source": {
-                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-                "name": "The Financial Express",
-                "url": "https://www.financialexpress.com",
-                "country": "in"
-            },
-            "title": "Meet Manoj Tumu: 23-year-old Indian-American engineer who quit Rs 3.36 crore salary job at Amazon to join Mark Zuckerberg’s Meta",
-            "url": "https://www.financialexpress.com/life/technology-meet-manoj-tumu-23-year-old-indian-american-engineer-who-quit-rs-3-36-crore-salary-job-at-amazon-to-join-mark-zuckerbergs-meta-3960998/",
-            "urlToImage": "https://www.financialexpress.com/wp-content/uploads/2025/08/Untitled-design-2025-08-29T125811.963.jpg",
-            "publishedAt": "2025-08-29T07:37:54Z"
-        },
-        {
-            "source": {
-                "id": "91120a92e0d24e24fbffb6d0affabfe6",
-                "name": "Bangkok Post",
-                "url": "https://www.bangkokpost.com",
-                "country": "th"
-            },
-            "title": "China to have 300,000 driverless taxis",
-            "url": "https://www.bangkokpost.com/business/motoring/3095356/china-to-have-300000-driverless-taxis-in-4-toptier-cities-by-2030-ubs",
-            "urlToImage": "https://static.bangkokpost.com/media/content/20250829/c1_3095356_700.jpg",
-            "publishedAt": "2025-08-29T07:18:00Z"
-        },
-        {
-            "source": {
-                "id": "bc49d994b41ac710f5c89f6e6adeece4",
-                "name": "The Boston Herald",
-                "url": "https://www.bostonherald.com",
-                "country": "us"
-            },
-            "title": "Josi: Are tech CEOs reason people dislike tech?",
-            "url": "https://www.bostonherald.com/2025/08/29/josi-are-tech-ceos-reason-people-dislike-tech/",
-            "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/08/BHR-Z-TECH-01.jpg?w=1024&h=683",
-            "publishedAt": "2025-08-29T07:15:05Z"
-        },
-        {
-            "source": {
-                "id": "e479ce8332aab31d8bac6ba9584cedbb",
-                "name": "Republic World",
-                "url": "https://www.republicworld.com",
-                "country": "in"
-            },
-            "title": "'Japan's tech, India's talent led to expansion of economic ties,' says Japan's PM Shigeru Ishiba During PM Modi's Visit",
-            "url": "https://www.republicworld.com/tech/japan-s-tech-india-s-talent-led-to-expansion-of-economic-ties-says-japan-s-pm-shigeru-ishiba-during-pm-modi-s-visit",
-            "urlToImage": "https://img.republicworld.com/all_images/japan-india-1756450213335-16_9.webp",
-            "publishedAt": "2025-08-29T06:50:19Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "CyberQ Group Philippines, TESDA Region III launch cybersecurity training program for educators",
-            "url": "https://www.manilatimes.net/2025/08/29/tmt-newswire/cyberq-group-philippines-tesda-region-iii-launch-cybersecurity-training-program-for-educators/2175779",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/29/729873.jpg",
-            "publishedAt": "2025-08-29T06:39:00Z"
         }
     ]
 }
