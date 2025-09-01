@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2025-09-01T11:13:05.452058Z",
+    "lastUpdatedAt": "2025-09-01T12:31:59.727338Z",
     "articles": [
+        {
+            "source": {
+                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+                "name": "The Financial Express",
+                "url": "https://www.financialexpress.com",
+                "country": "in"
+            },
+            "title": "‘I have reduced staff from 9,000 to 5,000 because…’: Salesforce CEO Marc Benioff justifies why his company cut 4,000 jobs",
+            "url": "https://www.financialexpress.com/life/technology-i-have-reduced-staff-from-9000-to-5000-because-salesforce-ceo-marc-benioff-justifies-why-his-company-cut-4000-jobs-3963675/",
+            "urlToImage": "https://www.financialexpress.com/wp-content/uploads/2025/09/Untitled-design-2025-09-01T172903.862.jpg",
+            "publishedAt": "2025-09-01T12:02:49Z"
+        },
+        {
+            "source": {
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
+                "country": "in"
+            },
+            "title": "India Remains Among Top Targets Of Global Ransomware Groups",
+            "url": "https://www.ndtvprofit.com/technology/india-remains-among-top-targets-of-global-ransomware-groups",
+            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-09-01%2Fr33z2eov%2Franswre.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+            "publishedAt": "2025-09-01T12:01:41Z"
+        },
+        {
+            "source": {
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
+                "country": "in"
+            },
+            "title": "How can a middle power compete in artificial intelligence?",
+            "url": "https://www.hindustantimes.com/world-news/how-can-a-middle-power-compete-in-artificial-intelligence-101756718677349.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/09/01/1600x900/Isambard_AI_1756718684048_1756718696993.jpg",
+            "publishedAt": "2025-09-01T11:30:07Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "AI Euphoria to Fuel 20% S&P Rally by End-2026, Evercore ISI Says",
+            "url": "https://www.bloomberg.com/news/articles/2025-09-01/ai-euphoria-to-fuel-20-s-p-rally-by-end-2026-evercore-isi-says",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifiB2tPla8F0/v1/1200x800.jpg",
+            "publishedAt": "2025-09-01T11:15:16Z"
+        },
+        {
+            "source": {
+                "id": "e9207083a357fb7e76b38e485888ebe7",
+                "name": "manilastandard.net",
+                "url": "https://manilastandard.net",
+                "country": "ph"
+            },
+            "title": "PH urged to adopt ‘active governance’ to mitigate AI risks",
+            "url": "https://manilastandard.net/business/314637279/ph-urged-to-adopt-active-governance-to-mitigate-ai-risks.html",
+            "urlToImage": "https://cdn.manilastandard.net/wp-content/uploads/2025/04/Untitled-design.jpg",
+            "publishedAt": "2025-09-01T11:10:00Z"
+        },
+        {
+            "source": {
+                "id": "b683218c3952d77a76b7bda7512f2f6e",
+                "name": "WIRED",
+                "url": "https://www.wired.com",
+                "country": "us"
+            },
+            "title": "Latam-GPT: The Free, Open Source, and Collaborative AI of Latin America",
+            "url": "https://www.wired.com/story/latam-gpt-the-free-open-source-and-collaborative-ai-of-latin-america/",
+            "urlToImage": "https://media.wired.com/photos/68b1f8e975376e91d567cb26/191:100/w_1280,c_limit/WIRED-IT-LLM-Latin-America-2182163226.jpg",
+            "publishedAt": "2025-09-01T11:00:00Z"
+        },
         {
             "source": {
                 "id": "458ddf355ab77631d3eb3dd84a0351b4",
@@ -444,6 +516,24 @@
             "url": "https://www.globenewswire.com/news-release/2025/09/01/3141952/0/en/FAITH-Token-Announces-CEX-Listings-and-Expansion-of-Its-Dual-AI-Ecosystem.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/07db11d9-7803-4be9-aad6-9b26236ddf1f",
             "publishedAt": "2025-09-01T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "livemint"
+            },
+            "title": "AI agents helping Indian IT services build products rapidly: Microsoft CPO",
+            "url": "https://www.livemint.com/news/ai-agents-helping-indian-it-services-build-products-rapidly-microsoft-cpo-apple-google-windows-office-teams-openai-11756626778468.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2025/08/31/1600x900/logo/Aparna_C_Microsoft_highres_1756649898253_1756649902970.jpg",
+            "publishedAt": "2025-09-01 00:25:09"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "Best VPN services 2025: The fastest VPNs with the best networks, ranked",
+            "url": "https://www.zdnet.com/article/best-vpn/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/db1033bd12ba500ce0e3b8430c0845ffe4fe6172/2025/04/30/3c26b3ee-e9a4-4e34-8b6b-a97e61e33aca/nordvpn-laptop.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-09-01 00:11:23"
         },
         {
             "source": {
@@ -3159,102 +3249,6 @@
             "url": "https://www.lawfaremedia.org/article/america-wants-to-hack-the-planet",
             "urlToImage": "https://www.lawfaremedia.org/assets/icons/apple-touch-icon.png",
             "publishedAt": "2025-08-29T10:00:00Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Reliance AGM 2025: Chairman Mukesh Ambani announces Reliance Intelligence, deepens partnership with Google, Meta",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/reliance-agm-2025-chairman-mukesh-ambani-announces-reliance-intelligence-deepens-partnership-with-google-meta/articleshow/123582421.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-123582418,width-1070,height-580,imgsize-39052,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "publishedAt": "2025-08-29T09:58:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Taiwan's Smart Healthcare Pavilion Presents Precision Oncology and Telemedicine Applications at Taiwan Expo USA 2025",
-            "url": "https://www.manilatimes.net/2025/08/29/tmt-newswire/pr-newswire/taiwans-smart-healthcare-pavilion-presents-precision-oncology-and-telemedicine-applications-at-taiwan-expo-usa-2025/2175855",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/29/730065.jpg",
-            "publishedAt": "2025-08-29T09:51:21Z"
-        },
-        {
-            "source": {
-                "id": "e479ce8332aab31d8bac6ba9584cedbb",
-                "name": "Republic World",
-                "url": "https://www.republicworld.com",
-                "country": "in"
-            },
-            "title": "Reliance Intelligence: Mukesh Ambani’s Big Bet on India’s AI Future",
-            "url": "https://www.republicworld.com/tech/reliance-intelligence-mukesh-ambanis-big-bet-on-indias-ai-future",
-            "urlToImage": "https://img.republicworld.com/all_images/mukesh-ambani-introduces-reliance-intelligence-1756460963959-16_9.webp",
-            "publishedAt": "2025-08-29T09:49:34Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "Alibaba creates AI chip to help China fill Nvidia void",
-            "url": "https://www.livemint.com/companies/alibaba-creates-ai-chip-to-help-china-fill-nvidia-void-11756459732063.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2025/08/29/1600x900/2-0-71918814-CHIP-3C-0_1681407398731_1756460703103.jpg",
-            "publishedAt": "2025-08-29T09:46:11Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "Reliance and Meta enter into AI-focused joint venture, says Mukesh Ambani at RIL AGM",
-            "url": "https://www.livemint.com/companies/reliance-and-meta-enter-into-ai-focused-joint-venture-says-mukesh-ambani-at-ril-agm-google-details-here-11756459518237.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2025/08/29/1600x900/Mukesh_Ambani_Isha_Ambani_daughter_boss_in_office__1743928860593_1756459880510.jpg",
-            "publishedAt": "2025-08-29T09:38:58Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Artificial Intelligence-Based Ozak AI Raises $2,400,000 in Ongoing Presale",
-            "url": "https://www.manilatimes.net/2025/08/29/tmt-newswire/globenewswire/artificial-intelligence-based-ozak-ai-raises-2400000-in-ongoing-presale/2175840",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/08/29/730007.jpg",
-            "publishedAt": "2025-08-29T09:17:28Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Reliance AGM 2025: Ambanis announce AI-powered Riya, electronics, and devices - details here",
-            "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/reliance-agm-2025-ai-announcements-reliance-ai-strategy-riya-jiopc-jioframes/articleshow/123580387.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-123580606,width-1200,height-630,imgsize-27664,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2025-08-29T09:15:00Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "AI-enhanced, immersive 'Wizard of Oz' debuts in Las Vegas",
-            "url": "https://www.reuters.com/business/media-telecom/ai-enhanced-immersive-wizard-oz-debuts-las-vegas-2025-08-29/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/AVUAEB2JZ5N5DNPBYTVX3NH6MQ.jpg?auth=8f3917b91c31eb2e70ca7b33812019aaed982a3db2e40b2f87ae828468105764&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-08-29T09:13:59Z"
         }
     ]
 }
