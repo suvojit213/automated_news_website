@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-09-01T21:12:36.067936Z",
+    "lastUpdatedAt": "2025-09-01T22:13:43.006798Z",
     "articles": [
+        {
+            "source": {
+                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
+                "name": "ABC News",
+                "url": "https://www.abc.net.au",
+                "country": "au"
+            },
+            "title": "Federal politics live: Government moves to restrict AI apps that create nude images",
+            "url": "https://www.abc.net.au/news/2025-09-02/federal-politics-live-sept-2/105722386",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/012619c3284b78cfb8ff9dbd0c1cd400?impolicy=wcms_watermark_news&cropH=1688&cropW=3000&xPos=0&yPos=9&width=862&height=485&imformat=generic",
+            "publishedAt": "2025-09-01T21:22:08Z"
+        },
         {
             "source": {
                 "id": "7006f2c40c7cc01195608dbfd60259b3",
@@ -744,6 +756,69 @@
             "url": "https://www.globenewswire.com/news-release/2025/09/01/3141952/0/en/FAITH-Token-Announces-CEX-Listings-and-Expansion-of-Its-Dual-AI-Ecosystem.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/07db11d9-7803-4be9-aad6-9b26236ddf1f",
             "publishedAt": "2025-09-01T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "techradar"
+            },
+            "title": "Save $350 on the HP OmniBook X Flip – an awesome value 2-in-1 laptop for students",
+            "url": "https://www.techradar.com/computing/laptops/save-usd350-on-the-hp-omnibook-x-flip-an-awesome-value-2-in-1-laptop-for-students",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/3YtxqLvExv5tsyUoJX4NAL.jpg",
+            "publishedAt": "2025-09-01 10:06:49"
+        },
+        {
+            "source": {
+                "name": "cio"
+            },
+            "title": "Vendor pricing experiments leave CIOs’ AI costs in flux",
+            "url": "https://www.cio.com/article/4046457/vendor-pricing-experiments-leave-cios-ai-costs-in-flux.html",
+            "urlToImage": "https://www.cio.com/wp-content/uploads/2025/09/4046457-0-02833800-1756721197-AI-vendor-pricing-shutterstock_2671803195.jpg?quality=50&strip=all&w=1024",
+            "publishedAt": "2025-09-01 10:01:00"
+        },
+        {
+            "source": {
+                "name": "itpro"
+            },
+            "title": "Forcing workers to use AI tools will only create more resistance – and these two CEOs are a prime example of how not to encourage adoption",
+            "url": "https://www.itpro.com/business/business-strategy/these-two-ceos-cut-staff-who-refused-to-use-ai-tools-but-forcing-workers-will-only-create-more-resistance",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/AHK2hBouv4dyfiwnu25mQo-1280-80.jpg",
+            "publishedAt": "2025-09-01 10:00:00"
+        },
+        {
+            "source": {
+                "name": "expresscomputer"
+            },
+            "title": "Hyderabad powers our global transformation, evolving from cost-driven hub to strategic innovation centre: Bharat Punukollu, EY GDS",
+            "url": "https://www.expresscomputer.in/exclusives/hyderabad-powers-our-global-transformation-evolving-from-cost-driven-hub-to-strategic-innovation-centre-bharat-punukollu-ey-gds/127446/",
+            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2025/09/01152308/New-Project-2025-09-01T152239.910.jpg",
+            "publishedAt": "2025-09-01 09:53:52"
+        },
+        {
+            "source": {
+                "name": "researchsnipers"
+            },
+            "title": "Overheating and Breakdowns: AMD Examines Ryzen 9950X Defects",
+            "url": "https://researchsnipers.com/overheating-and-breakdowns-amd-examines-ryzen-9950x-defects/",
+            "urlToImage": "https://researchsnipers.com/wp-content/uploads/2025/08/1756546466_AMD-examines-roasted-Ryzen-9950x-processors-1024x576.jpg",
+            "publishedAt": "2025-09-01 09:43:00"
+        },
+        {
+            "source": {
+                "name": "theverge"
+            },
+            "title": "Is AI the end of software engineering or the next step in its evolution?",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/767973/vibe-coding-ai-future-end-evolution",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257871_How_coders_use_AI__CVirginia_STILL0.gif?crop=0%2C10.732984293194%2C100%2C78.534031413613&quality=90&strip=all&w=1200",
+            "publishedAt": "2025-09-01 09:35:10"
+        },
+        {
+            "source": {
+                "name": "orlandosentinel"
+            },
+            "title": "Point: AI won’t take our jobs away | Commentary",
+            "url": "https://www.orlandosentinel.com/2025/09/01/point-ai-wont-take-our-jobs-away-2/",
+            "urlToImage": "https://www.orlandosentinel.com/wp-content/uploads/2025/08/202508280400MCT_____PHOTO____OPED-AI-JOBS-POINT-MCT_bcacf6-e1756414239437.jpg?strip=all&w=1400px",
+            "publishedAt": "2025-09-01 09:30:51"
         },
         {
             "source": {
@@ -3096,102 +3171,6 @@
             "url": "https://www.investopedia.com/sentinelone-earnings-point-to-strong-ai-driven-cybersecurity-demand-11800628",
             "urlToImage": "https://www.investopedia.com/thmb/h0ks8ryqSapHOUW2K1hCDx_lPJ0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2207473510-de6064fa0df34672b0f51bdff5fe2209.jpg",
             "publishedAt": "2025-08-29T17:55:55Z"
-        },
-        {
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            },
-            "title": "Iran-backed hackers disrupted Gaza ceasefire negotiations, says Israeli cybersecurity firm",
-            "url": "https://indianexpress.com/article/world/iran-hackers-disrupted-gaza-ceasefire-negotiations-cybersecurity-firm-10219429/",
-            "urlToImage": "https://images.indianexpress.com/2025/08/desola-lanre-ologun-vII7qKAk-9A-unsplash.jpg",
-            "publishedAt": "2025-08-29T17:45:49Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "KMC Manipal launches dept of AI in healthcare",
-            "url": "https://timesofindia.indiatimes.com/city/mangaluru/kmc-manipal-launches-dept-of-ai-in-healthcare/articleshow/123589643.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-117624253,width-1070,height-580,imgsize-96817,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "publishedAt": "2025-08-29T17:34:00Z"
-        },
-        {
-            "source": {
-                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-                "name": "NDTV.com",
-                "url": "https://www.ndtv.com",
-                "country": "in"
-            },
-            "title": "Elon Musk's xAI Sues Engineer For Allegedly Taking Secrets To OpenAI",
-            "url": "https://www.ndtv.com/world-news/elon-musks-xai-sues-engineer-for-allegedly-taking-secrets-to-openai-9183891",
-            "urlToImage": "https://i.gadgets360cdn.com/large/large_-_2025-02-13T115417008_1739428057259.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-            "publishedAt": "2025-08-29T17:28:21Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Musk's xAI sues engineer for allegedly taking secrets to OpenAI",
-            "url": "https://www.reuters.com/legal/litigation/musks-xai-sues-engineer-allegedly-taking-secrets-openai-2025-08-29/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/ZCO7PXC2DZJGVDDH2UYTT2VNOA.jpg?auth=0252f70ae4ca48260f30bbfdd13aa8f7327c6971b3822278a89f6a847a0d32ac&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-08-29T17:24:59Z"
-        },
-        {
-            "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
-                "country": "in"
-            },
-            "title": "AI Billionaire Lucy Guo Pushes Into Crowded Social Media Field",
-            "url": "https://www.ndtvprofit.com/technology/business-artificial-intelligence-ai-billionaire-lucy-guo-pushes-into-crowded-social-media-field",
-            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-08-29%2Fb7h59rju%2F438737390.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
-            "publishedAt": "2025-08-29T17:13:26Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Super Micro shares dip after AI server maker flags financial control concerns",
-            "url": "https://www.reuters.com/business/super-micro-shares-dip-after-ai-server-maker-flags-financial-control-concerns-2025-08-29/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/TMGC5EQE2FJILDD7BIRLMTDKTM.jpg?auth=b539afdaf8a7dcc3b1bb175a98689b4c4f56570dd5a428dab57a6f99130277c8&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-08-29T17:02:46Z"
-        },
-        {
-            "source": {
-                "id": "e6688d6db992f469baa7352aac100378",
-                "name": "Variety",
-                "url": "https://variety.com",
-                "country": "us"
-            },
-            "title": "Love & Hate' Gets Three-Studio Team",
-            "url": "https://variety.com/2025/digital/global/ai-themed-animated-anthology-ai-love-hate-1236502159/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2025/08/AI-Love-and-Hate.jpg?w=1000&h=563&crop=1",
-            "publishedAt": "2025-08-29T16:24:14Z"
-        },
-        {
-            "source": {
-                "id": "e6688d6db992f469baa7352aac100378",
-                "name": "Variety",
-                "url": "https://variety.com",
-                "country": "us"
-            },
-            "title": "Love & Hate' Gets Three-Studio Team",
-            "url": "https://variety.com/2025/digital/asia/ai-themed-animated-anthology-ai-love-hate-1236502159/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2025/08/AI-Love-and-Hate.jpg?w=1000&h=563&crop=1",
-            "publishedAt": "2025-08-29T16:24:14Z"
         }
     ]
 }
