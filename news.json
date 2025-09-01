@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-08-31T23:13:28.937215Z",
+    "lastUpdatedAt": "2025-09-01T01:22:04.865338Z",
     "articles": [
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Sebi's cybersecurity framework to ease burden, say experts",
+            "url": "https://economictimes.indiatimes.com/tech/technology/sebis-cybersecurity-framework-to-ease-burden-say-experts/articleshow/123621752.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-77028,resizemode-75,msid-123621752/tech/technology/sebis-cybersecurity-framework-to-ease-burden-say-experts.jpg",
+            "publishedAt": "2025-09-01T00:41:00Z"
+        },
+        {
+            "source": {
+                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+                "name": "The Australian Financial Review",
+                "url": "https://www.afr.com",
+                "country": "au"
+            },
+            "title": "HESTA demands boards act on cybersecurity, AI risks",
+            "url": "https://www.afr.com/companies/financial-services/hesta-demands-boards-act-on-cybersecurity-20250828-p5mqm7",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.2018%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_115%2C$y_70/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/22bc680e2cd8c1b327de570ac656e3cbd8959d24",
+            "publishedAt": "2025-09-01T00:09:48Z"
+        },
         {
             "source": {
                 "id": "4c8b69bf547b577f84acbba5157b439c",
@@ -408,6 +432,69 @@
             "url": "https://www.forbes.com/sites/rachelwells/2025/08/31/10-certifications-that-add-up-to-8000-to-your-salary/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68b42edce7f01e0bac7ec319/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-08-31T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "universetoday"
+            },
+            "title": "What Technosignatures Would Interstellar Objects Have?",
+            "url": "https://www.universetoday.com/articles/what-technosignatures-would-interstellar-objects-have",
+            "urlToImage": "https://www.universetoday.com/article_images/eso1820a_20250830_144044.jpg",
+            "publishedAt": "2025-08-31 13:02:52"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Qualcomm Dragonwing Q-6690 Chip Integrates RFID, 5G, and AI for Efficiency",
+            "url": "https://www.webpronews.com/qualcomm-dragonwing-q-6690-chip-integrates-rfid-5g-and-ai-for-efficiency/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-f12c3c84-1fdb-4344-80a3-d9977a73bedd.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-08-31 12:30:00"
+        },
+        {
+            "source": {
+                "name": "canoncitydailyrecord"
+            },
+            "title": "Colorado lawmakers hit a familiar wall — Big Tech’s influence — in effort to rewrite AI regulations",
+            "url": "https://www.canoncitydailyrecord.com/2025/08/31/colorado-legislature-big-tech-artificial-intelligence/",
+            "urlToImage": "https://www.canoncitydailyrecord.com/wp-content/uploads/2025/08/TDP-L-AI-Presser-RJS-68228_e2f430.jpg?strip=all&w=1400px",
+            "publishedAt": "2025-08-31 12:00:45"
+        },
+        {
+            "source": {
+                "name": "reporterherald"
+            },
+            "title": "Colorado lawmakers hit a familiar wall — Big Tech’s influence — in effort to rewrite AI regulations",
+            "url": "https://www.reporterherald.com/2025/08/31/colorado-legislature-big-tech-artificial-intelligence/",
+            "urlToImage": "https://www.reporterherald.com/wp-content/uploads/2025/08/TDP-L-AI-Presser-RJS-68228_e2f430.jpg?strip=all&w=1400px",
+            "publishedAt": "2025-08-31 12:00:45"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Top Mistakes Beginners Make When Learning AI for Development",
+            "url": "https://www.analyticsinsight.net/artificial-intelligence/top-mistakes-beginners-make-when-learning-ai-for-development",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-08-31%2Foadrio5q%2FTop-Mistakes-Beginners-Make-When-Learning-AI-for-Development.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-08-31 12:00:00"
+        },
+        {
+            "source": {
+                "name": "toi"
+            },
+            "title": "Google chief scientist Jeff Dean says that there are certain things in AI he always avoids talking about as, 'lots of people have very different ...'",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-chief-scientist-jeff-dean-says-that-there-are-certain-things-in-ai-he-always-avoids-talking-about-as-lots-of-people-have-very-different-/articleshow/123615153.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-123615148,width-1070,height-580,imgsize-1881816,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-08-31 11:31:19"
+        },
+        {
+            "source": {
+                "name": "cnet"
+            },
+            "title": "AI Lies to You Because It Thinks That's What You Want",
+            "url": "https://www.cnet.com/tech/services-and-software/ai-lies-to-you-because-it-thinks-thats-what-you-want/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/7e61fc99b31ffbb93b655239a2da85e9336eee4f/hub/2025/08/29/cbbe0c4e-a2c7-4a7f-a19e-baa76f65b3f6/gettyimages-1772320610.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-08-31 11:20:00"
         },
         {
             "source": {
@@ -3141,87 +3228,6 @@
             "url": "https://www.businessinsider.com/tech-jobs-plunged-since-chatgpt-which-roles-boomed-indeed-2025-8",
             "urlToImage": "https://i.insider.com/68ae4732194a2d49b8af3d68?format=jpeg",
             "publishedAt": "2025-08-29 14:35:02"
-        },
-        {
-            "source": {
-                "name": "executivebiz"
-            },
-            "title": "RTX BBN Technologies Secures DARPA Contract to Advance AI’s Regulatory Understanding",
-            "url": "https://www.executivebiz.com/articles/rtx-bbn-technologies-darpa-contract-ai-regulations",
-            "urlToImage": "https://media.executivebiz.com/2025/08/tech-development.jpg",
-            "publishedAt": "2025-08-29 14:28:19"
-        },
-        {
-            "source": {
-                "name": "notebookcheck"
-            },
-            "title": "Best AI Workstation Processors 2025: Why AMD Ryzen Beats Intel for Local AI Computing for now!",
-            "url": "https://www.notebookcheck.net/Best-AI-Workstation-Processors-2025-Why-AMD-Ryzen-Beats-Intel-for-Local-AI-Computing-for-now.1099955.0.html",
-            "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ryzenaipromax.jpg",
-            "publishedAt": "2025-08-29 14:19:00"
-        },
-        {
-            "source": {
-                "name": "pcgamer"
-            },
-            "title": "Claimed Sony PS6 handheld console specs promise a miracle of next-gen, cutting-edge processor architectures at a price that's barely enough for today's hardware",
-            "url": "https://www.pcgamer.com/hardware/claimed-sony-ps6-handheld-console-specs-promise-a-miracle-of-next-gen-cutting-edge-processor-architectures-at-a-price-thats-barely-enough-for-todays-hardware/",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/CT3U8Fv83xPmKrGSKJUUgE-1280-80.jpg",
-            "publishedAt": "2025-08-29 13:54:12"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "SUSE Agama 17: Modern Installer Replaces YaST in SLE 16.0",
-            "url": "https://www.webpronews.com/suse-agama-17-modern-installer-replaces-yast-in-sle-16-0/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-e90edbd9-4f46-4bdb-bd1d-172464497e8b.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-08-29 13:45:00"
-        },
-        {
-            "source": {
-                "name": "wired"
-            },
-            "title": "The Best Kindle of 2025: Paperwhite, Scribe, or Colorsoft?",
-            "url": "https://www.wired.com/gallery/best-kindle/",
-            "urlToImage": "https://media.wired.com/photos/685a1a97bbc17aaab05450db/4:3/w_120,c_limit/Kindle%20Paperwhite%20(2024,%2012th%20Generation)%20_%20Nena%20Farrell.png",
-            "publishedAt": "2025-08-29 13:34:00"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "Considering the Pixel 10 Pro? I recommend buying these 5 phones instead - here's why",
-            "url": "https://www.zdnet.com/article/considering-the-pixel-10-pro-i-recommend-buying-these-5-phones-instead-heres-why/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/e821c61e66720b19d9fd0bfca807f121526419f6/2025/08/27/fd29c485-755d-437c-bac1-6f303b055607/dsc07582.jpg?auto=webp&width=1280",
-            "publishedAt": "2025-08-29 13:03:00"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "How AI and Robotics Are Automating ATP Testing and Hygiene Monitoring",
-            "url": "https://hackernoon.com/how-ai-and-robotics-are-automating-atp-testing-and-hygiene-monitoring",
-            "urlToImage": "https://hackernoon.imgix.net/images/7sQauLsj4gOL7k9lNCkjKuyQeKh1-tq03ayf.jpeg",
-            "publishedAt": "2025-08-29 13:00:11"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "How Pre-Trained Vision Models Are Revolutionizing Anatomical Structure Retrieval",
-            "url": "https://hackernoon.com/how-pre-trained-vision-models-are-revolutionizing-anatomical-structure-retrieval",
-            "urlToImage": "https://hackernoon.imgix.net/images/5wpKgV75aONqkTJlafw2yQmK9yd2-il03ajp.png",
-            "publishedAt": "2025-08-29 13:00:05"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Linux 6.17 Yields 37% Performance Boost on AMD EPYC Turin",
-            "url": "https://www.webpronews.com/linux-6-17-yields-37-performance-boost-on-amd-epyc-turin/",
-            "urlToImage": "https://www.webpronews.com/linux-6-17-yields-37-performance-boost-on-amd-epyc-turin/",
-            "publishedAt": "2025-08-29 12:45:00"
         }
     ]
 }
