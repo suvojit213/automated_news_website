@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-09-01T07:16:09.554394Z",
+    "lastUpdatedAt": "2025-09-01T08:22:26.524880Z",
     "articles": [
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "CP AXTRA Unveils Digital Transformation Vision and Partners with Tencent Cloud to Power AI-Driven Retail Tech",
+            "url": "https://www.manilatimes.net/2025/09/01/tmt-newswire/pr-newswire/cp-axtra-unveils-digital-transformation-vision-and-partners-with-tencent-cloud-to-power-ai-driven-retail-tech/2176728",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/09/01/731995.jpg",
+            "publishedAt": "2025-09-01T07:20:31Z"
+        },
+        {
+            "source": {
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
+                "country": "in"
+            },
+            "title": "Seeing Silicon: Are we humans swapping roles with robots?",
+            "url": "https://www.hindustantimes.com/india-news/seeing-silicon-are-we-humans-swapping-roles-with-robots-101756711154174.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/09/01/1600x900/Multiple-humans-have-become-attached-to-Replika-s-_1756711447251.png",
+            "publishedAt": "2025-09-01T07:19:13Z"
+        },
+        {
+            "source": {
+                "id": "680f00482cbf9f314921fefd917871d9",
+                "name": "The Hindu Business Line",
+                "url": "https://www.thehindubusinessline.com",
+                "country": "in"
+            },
+            "title": "Artificial Intelligence emerging as key tool in managing business risks: Report",
+            "url": "https://www.thehindubusinessline.com/info-tech/artificial-intelligence-emerging-as-key-tool-in-managing-business-risks-report/article69999016.ece",
+            "urlToImage": "https://bl-i.thgim.com/public/incoming/5e8hdv/article69999032.ece/alternates/LANDSCAPE_1200/BL19_Think_Data_analysing.jpg",
+            "publishedAt": "2025-09-01T07:10:17Z"
+        },
         {
             "source": {
                 "id": "ca84296ef941bfa461f4239a2290cb99",
@@ -71,6 +107,18 @@
             "title": "Guillermo del Toro's 'Frankenstein' Shines at Venice Amid AI and Stupidity Debate",
             "url": "https://www.devdiscourse.com/article/entertainment/3610523-guillermo-del-toros-frankenstein-shines-at-venice-amid-ai-and-stupidity-debate",
             "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/02_04_2025_09_28_52_521634.png?width=920&format=jpeg",
+            "publishedAt": "2025-09-01T05:45:47Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - Guillermo del Toro's 'Frankenstein' Shines at Venice Amid AI and Stupidity Debate",
+            "url": "https://www.devdiscourse.com/live-discourse/8922-artificial-intelligence-revolutionizing-every-aspect-of-life",
+            "urlToImage": "https://www.devdiscourse.com?width=1280&format=jpeg",
             "publishedAt": "2025-09-01T05:45:47Z"
         },
         {
@@ -636,6 +684,78 @@
             "url": "https://www.forbes.com/sites/rachelwells/2025/08/31/10-certifications-that-add-up-to-8000-to-your-salary/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68b42edce7f01e0bac7ec319/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-08-31T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "xda_developers"
+            },
+            "title": "Dell 14 Premium (XPS 14) review",
+            "url": "https://www.xda-developers.com/dell-14-premium-review/",
+            "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/07/dell-14-premium-11.jpg",
+            "publishedAt": "2025-08-31 20:16:20"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Intel’s 288-Core Clearwater Forest Xeon 7 Eyes AMD with Double Efficiency in 2025",
+            "url": "https://www.webpronews.com/intels-288-core-clearwater-forest-xeon-7-eyes-amd-with-double-efficiency-in-2025/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-d14db18a-b2b8-4f43-9fed-0fd9d3265eaf.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-08-31 20:05:09"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Why Malware Eradication Is Mathematically Impossible",
+            "url": "https://www.webpronews.com/why-malware-eradication-is-mathematically-impossible/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-68045bfb-de9e-41cb-aad3-3decacf5969b.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-08-31 19:59:43"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "2025 Tech Trends: AI Boom, Cloud Monetization, Fintech Disruption",
+            "url": "https://www.webpronews.com/2025-tech-trends-ai-boom-cloud-monetization-fintech-disruption/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-2e293f00-020f-4c5c-81ae-7a37ffac49d8.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-08-31 19:42:26"
+        },
+        {
+            "source": {
+                "name": "slashgear"
+            },
+            "title": "5 More Raspberry Pi Projects That Would Be Useful In Your Bedroom",
+            "url": "https://www.slashgear.com/1950804/raspberry-pi-projects-for-bedroom/",
+            "urlToImage": "https://www.slashgear.com/img/gallery/5-more-raspberry-pi-projects-that-would-be-useful-in-your-bedroom/l-intro-1755814050.jpg",
+            "publishedAt": "2025-08-31 19:30:00"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Microsoft Unveils MAI-1 and MAI-Voice-1 for AI Autonomy",
+            "url": "https://www.webpronews.com/microsoft-unveils-mai-1-and-mai-voice-1-for-ai-autonomy/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-56c9f640-91bf-43b8-9502-1884ef9e0f75.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-08-31 19:26:52"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Nokia Sans Revival: Iconic Font’s Comeback in Modern UI Design",
+            "url": "https://www.webpronews.com/nokia-sans-revival-iconic-fonts-comeback-in-modern-ui-design/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-4b645772-17c0-4ad3-8cf4-0519508a3e7a.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-08-31 19:22:53"
+        },
+        {
+            "source": {
+                "name": "bgr_com"
+            },
+            "title": "A New Study Shows That Venus May Have Been Struck By Objects The Size Of Mars",
+            "url": "https://www.bgr.com/1951732/study-shows-venus-struck-by-objects-size-of-mars/",
+            "urlToImage": "https://www.bgr.com/img/gallery/a-new-study-shows-that-venus-may-have-been-struck-by-objects-the-size-of-mars/l-intro-1756298147.jpg",
+            "publishedAt": "2025-08-31 19:17:00"
         },
         {
             "source": {
@@ -3153,132 +3273,6 @@
             "url": "https://www.usatoday.com/story/cars/news/2025/08/28/volkswagen-ai-amazon-cloud-partnership-deal/85876602007/",
             "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/08/06/USNK/85545742007-20160316-t-120000-z-298399218-lr-1-ec-3-g-0-rarj-7-rtrmadp-3-volkswagenemissionscourt.JPG?crop=3417,1923,x0,y227&width=3200&height=1801&format=pjpg&auto=webp",
             "publishedAt": "2025-08-29T02:24:28Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "South Korea to boost budget spending in bid to spur AI-led growth",
-            "url": "https://www.reuters.com/world/asia-pacific/south-korea-boost-budget-spending-bid-spur-ai-led-growth-2025-08-29/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/FIGETWNMGFPJPC6AEBCQFMQSBA.jpg?auth=80fd5f8c8df253a2a755b2f69b03e81a65d52bd08eb12ee30fb603b3897ec622&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-08-29T02:18:17Z"
-        },
-        {
-            "source": {
-                "id": "7ba4ac19a3c25ba844bbd220fe4c860a",
-                "name": "THE WEEK",
-                "url": "https://www.theweek.in",
-                "country": "in"
-            },
-            "title": "AI, minerals, semiconductor deals on cards as PM visits Japan; Modi may secure investment pledges worth $68 billion",
-            "url": "https://www.theweek.in/news/india/2025/08/29/ai-minerals-semiconductor-deals-on-cards-as-pm-visits-japan-modi-may-secure-investment-pledges-worth-dollar68-billion.html",
-            "urlToImage": "https://www.theweek.in/content/dam/week/week/news/india/images/2025/8/29/modi-japan-visit.jpg",
-            "publishedAt": "2025-08-29T02:08:03Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "AI sparks fear and mistrust in Canada, 85 percent call for government crackdown, says poll",
-            "url": "https://economictimes.indiatimes.com/news/international/canada/ai-sparks-fear-and-mistrust-in-canada-85-percent-call-for-government-crackdown-says-poll/articleshow/123574336.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-123574386,width-1200,height-630,imgsize-61004,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2025-08-29T01:53:00Z"
-        },
-        {
-            "source": {
-                "id": "8e9ab8327c5f7903cc1b50470411d165",
-                "name": "GlobeNewswire",
-                "url": "https://www.globenewswire.com",
-                "country": "us"
-            },
-            "title": "Cybersecurity in Travel & Tourism Report 2025",
-            "url": "https://www.globenewswire.com/news-release/2025/08/29/3141331/28124/en/Cybersecurity-in-Travel-Tourism-Report-2025-Travel-and-Tourism-Sector-to-Spend-4-8-Billion-on-Cybersecurity-by-2028.html",
-            "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-            "publishedAt": "2025-08-29T00:00:00Z"
-        },
-        {
-            "source": {
-                "id": "8e9ab8327c5f7903cc1b50470411d165",
-                "name": "GlobeNewswire",
-                "url": "https://www.globenewswire.com",
-                "country": "us"
-            },
-            "title": "Infosec Transforms Cybersecurity Training with Human Risk",
-            "url": "https://www.globenewswire.com/news-release/2025/08/29/3141365/28124/en/Infosec-Transforms-Cybersecurity-Training-with-Human-Risk-Management-Focus.html",
-            "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-            "publishedAt": "2025-08-29T00:00:00Z"
-        },
-        {
-            "source": {
-                "id": "8e9ab8327c5f7903cc1b50470411d165",
-                "name": "GlobeNewswire",
-                "url": "https://www.globenewswire.com",
-                "country": "us"
-            },
-            "title": "India Artificial Intelligence in Retail and E-commerce",
-            "url": "https://www.globenewswire.com/news-release/2025/08/29/3141441/28124/en/India-Artificial-Intelligence-in-Retail-and-E-commerce-Market-Report-2025-2030-Reshaping-the-Landscape-with-GAI-Real-Time-Analytics-and-Fraud-Prevention-Driving-Personalization-and.html",
-            "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-            "publishedAt": "2025-08-29T00:00:00Z"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Meta Overhauls AI Chatbot Policies for Teens After Report",
-            "url": "https://www.webpronews.com/meta-overhauls-ai-chatbot-policies-for-teens-after-report/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-c3a16047-e21d-488b-b6c3-7fc6cf1e8093.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-08-29 22:37:55"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "xAI Launches Grok-Code-Fast-1: Speed-First AI for Coding Tasks",
-            "url": "https://www.webpronews.com/xai-launches-grok-code-fast-1-speed-first-ai-for-coding-tasks/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-74c6ba18-e296-4f48-a3da-923e3e9944fc.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-08-29 22:34:16"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Microsoft Builds In-House AI Models to Lessen OpenAI Reliance",
-            "url": "https://www.webpronews.com/microsoft-builds-in-house-ai-models-to-lessen-openai-reliance/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-afe60b8a-18e4-4245-9f07-caff8915d422.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-08-29 22:26:59"
-        },
-        {
-            "source": {
-                "name": "insider"
-            },
-            "title": "The best college laptops of 2025: Top models from Acer, Apple, and Asus",
-            "url": "https://www.businessinsider.com/guides/tech/best-college-laptops",
-            "urlToImage": "https://i.insider.com/68b0a0dacfc04e97619c3b26?format=jpeg",
-            "publishedAt": "2025-08-29 21:32:09"
-        },
-        {
-            "source": {
-                "name": "toi"
-            },
-            "title": "Asiatic Society set to use AI, new tech to unlock ancient wisdom treasure trove",
-            "url": "https://timesofindia.indiatimes.com/city/kolkata/asiatic-society-set-to-use-ai-new-tech-to-unlock-ancient-wisdom-treasure-trove/articleshow/123588427.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-123589332,width-1070,height-580,imgsize-27180,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "publishedAt": "2025-08-29 20:44:16"
-        },
-        {
-            "source": {
-                "name": "fortune"
-            },
-            "title": "Nvidia CEO Jensen Huang says AI will ‘probably’ bring 4-day work weeks: ‘Every industrial revolution leads to some change in social behavior’",
-            "url": "https://fortune.com/2025/08/29/nvidia-ceo-jensen-huang-4-day-work-week-productivity/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/08/GettyImages-2224676046-e1756498320881.jpg?w=2048",
-            "publishedAt": "2025-08-29 20:27:42"
         }
     ]
 }
