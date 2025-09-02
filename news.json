@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2025-09-02T18:19:20.263303Z",
+    "lastUpdatedAt": "2025-09-02T19:11:14.239704Z",
     "articles": [
+        {
+            "source": {
+                "id": "c6075ba0dc9d123bb327faaa419d3d07",
+                "name": "Motley Fool Australia",
+                "url": "https://www.fool.com.au",
+                "country": "au"
+            },
+            "title": "Nvidia just sounded the silent alarm — but are investors paying attention?",
+            "url": "https://www.fool.com.au/2025/09/03/nvidia-just-sounded-the-silent-alarm-but-are-investors-paying-attention-usfeed/",
+            "urlToImage": "https://www.fool.com.au/wp-content/uploads/2021/12/investor-1200x675.jpg",
+            "publishedAt": "2025-09-02T19:00:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "The Implications of Artificial Intelligence (AI) for Medicine Discussed in the Journal of American Physicians and Surgeons",
+            "url": "https://www.manilatimes.net/2025/09/03/tmt-newswire/globenewswire/the-implications-of-artificial-intelligence-ai-for-medicine-discussed-in-the-journal-of-american-physicians-and-surgeons/2177774",
+            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+            "publishedAt": "2025-09-02T18:57:27Z"
+        },
+        {
+            "source": {
+                "id": "aa569bbaa7b7ef97f7cf8df3cf902947",
+                "name": "Investor's Business Daily",
+                "url": "https://www.investors.com",
+                "country": "us"
+            },
+            "title": "How Generative Artificial Intelligence Is Shaking Up Enterprise Software",
+            "url": "https://www.investors.com/news/technology/generative-artificial-intelligence-shaking-up-enterprise-software/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2017/10/stock-servers-01-adobe.jpg",
+            "publishedAt": "2025-09-02T18:45:10Z"
+        },
+        {
+            "source": {
+                "id": "85e5403407038478a5e7d8d100ff8e8f",
+                "name": "CP24 Toronto",
+                "url": "https://www.cp24.com",
+                "country": "ca"
+            },
+            "title": "OpenAI and Meta fixing AI chatbots for teens in distress",
+            "url": "https://www.cp24.com/news/world/2025/09/02/openai-and-meta-say-theyre-fixing-ai-chatbots-to-better-respond-to-teens-in-distress/",
+            "urlToImage": "https://www.cp24.com/resizer/v2/OG46BLSCFOBFF6BEKOZM7YZLL4.jpg?smart=true&auth=1c424b17c9423db9bc094cee9aee497984a265e4a1b8260c971a8d044ab2766f&width=1200&height=630",
+            "publishedAt": "2025-09-02T18:36:57Z"
+        },
+        {
+            "source": {
+                "id": "b29eaeaa36b9be93ac681e263151f897",
+                "name": "India.com",
+                "url": "https://www.india.com",
+                "country": "in"
+            },
+            "title": "Pakistan PM Shehbaz Sharif breaks silence on India-Russia relations, says Putin is a…",
+            "url": "https://www.india.com/news/india/pakistan-pm-shehbaz-sharif-breaks-silence-on-india-russia-relations-says-putin-is-very-dynamic-leader-sco-china-8050505/",
+            "urlToImage": "https://static.india.com/wp-content/uploads/2025/09/Putin-with-PM-Modi-with-Pak-PM-in-background-video-grab.png",
+            "publishedAt": "2025-09-02T18:16:07Z"
+        },
         {
             "source": {
                 "id": "5cfd646fbad1ee4fa352342ad739c263",
@@ -951,6 +1011,24 @@
         },
         {
             "source": {
+                "name": "engadget"
+            },
+            "title": "The best mobile microphones for 2025",
+            "url": "https://www.engadget.com/computing/accessories/best-mobile-microphones-for-recording-with-a-phone-154536629.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?client=19f2b5e49a271b2bde77&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-07%2F8d618120-67e3-11f0-bdff-694009eb398c&resize=1400%2C787&signature=7c4bf04691285b33a263d73f43b0539d5c005600",
+            "publishedAt": "2025-09-02 07:01:27"
+        },
+        {
+            "source": {
+                "name": "republicworld"
+            },
+            "title": "Semicon India 2025: Global Investors Hail Indias Growing Chip Ecosystem",
+            "url": "https://www.republicworld.com/tech/semicon-india-2025-global-investors-hail-india-s-growing-chip-ecosystem",
+            "urlToImage": "https://img.republicworld.com/all_images/semicon-india-2025-1756795097062-16_9.webp?format=webp&h=225&q=75&w=400",
+            "publishedAt": "2025-09-02 06:38:23"
+        },
+        {
+            "source": {
                 "name": "computerweekly"
             },
             "title": "Agentic AI: Storage and ‘the biggest tech refresh in IT history’",
@@ -1037,6 +1115,15 @@
             "title": "'Vibe hacking' puts chatbots to work for cybercriminals",
             "url": "https://www.romesentinel.com/ce/news/vibe-hacking-puts-chatbots-to-work-for-cybercriminals/article_35b37203-5454-5474-b1ec-021ffbcc43a1.html",
             "urlToImage": "https://bloximages.chicago2.vip.townnews.com/romesentinel.com/content/tncms/assets/v3/editorial/1/4e/14e7d04e-f5a9-5ba7-af2d-9acb86c58f83/68b68b6f7c34e.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-09-02 06:00:22"
+        },
+        {
+            "source": {
+                "name": "messenger_inquirer"
+            },
+            "title": "'Vibe hacking' puts chatbots to work for cybercriminals",
+            "url": "https://www.messenger-inquirer.com/news/national/vibe-hacking-puts-chatbots-to-work-for-cybercriminals/article_e4c20cde-c437-5edc-97e6-222c63786463.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/messenger-inquirer.com/content/tncms/assets/v3/editorial/b/4b/b4b98f41-42b8-5a9e-91a0-2f450426b4eb/68b68bce448a1.image.jpg?resize=300%2C200",
             "publishedAt": "2025-09-02 06:00:22"
         },
         {
@@ -3168,78 +3255,6 @@
             "url": "https://www.webpronews.com/2025-tech-trends-ai-boom-cloud-monetization-fintech-disruption/",
             "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-2e293f00-020f-4c5c-81ae-7a37ffac49d8.jpeg?fit=720%2C960&ssl=1",
             "publishedAt": "2025-08-31 19:42:26"
-        },
-        {
-            "source": {
-                "name": "slashgear"
-            },
-            "title": "5 More Raspberry Pi Projects That Would Be Useful In Your Bedroom",
-            "url": "https://www.slashgear.com/1950804/raspberry-pi-projects-for-bedroom/",
-            "urlToImage": "https://www.slashgear.com/img/gallery/5-more-raspberry-pi-projects-that-would-be-useful-in-your-bedroom/l-intro-1755814050.jpg",
-            "publishedAt": "2025-08-31 19:30:00"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Microsoft Unveils MAI-1 and MAI-Voice-1 for AI Autonomy",
-            "url": "https://www.webpronews.com/microsoft-unveils-mai-1-and-mai-voice-1-for-ai-autonomy/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-56c9f640-91bf-43b8-9502-1884ef9e0f75.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-08-31 19:26:52"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Nokia Sans Revival: Iconic Font’s Comeback in Modern UI Design",
-            "url": "https://www.webpronews.com/nokia-sans-revival-iconic-fonts-comeback-in-modern-ui-design/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-4b645772-17c0-4ad3-8cf4-0519508a3e7a.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-08-31 19:22:53"
-        },
-        {
-            "source": {
-                "name": "bgr_com"
-            },
-            "title": "A New Study Shows That Venus May Have Been Struck By Objects The Size Of Mars",
-            "url": "https://www.bgr.com/1951732/study-shows-venus-struck-by-objects-size-of-mars/",
-            "urlToImage": "https://www.bgr.com/img/gallery/a-new-study-shows-that-venus-may-have-been-struck-by-objects-the-size-of-mars/l-intro-1756298147.jpg",
-            "publishedAt": "2025-08-31 19:17:00"
-        },
-        {
-            "source": {
-                "name": "startupnews"
-            },
-            "title": "Here’s what we’re expecting with future generations of Apple Vision Pro: roadmap",
-            "url": "https://startupnews.fyi/2025/09/01/heres-what-were-expecting-with-future-generations-of-apple-vision-pro-roadmap/",
-            "urlToImage": "https://startupnews.fyi/wp-content/uploads/2025/05/Vision-Pro-v2.jpg",
-            "publishedAt": "2025-08-31 19:01:06"
-        },
-        {
-            "source": {
-                "name": "economictimes_indiatimes"
-            },
-            "title": "ET Startup Awards 2025 | Top Innovator: Qure.ai bridges diagnostic gap",
-            "url": "https://economictimes.indiatimes.com/tech/startups/et-startup-awards-2025-top-innovator-qure-ai-bridges-diagnostic-gap/articleshow/123620942.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1561414,resizemode-75,msid-123620942/tech/startups/et-startup-awards-2025-top-innovator-qure-ai-bridges-diagnostic-gap.jpg",
-            "publishedAt": "2025-08-31 19:00:00"
-        },
-        {
-            "source": {
-                "name": "9to5mac"
-            },
-            "title": "Here’s what we’re expecting with future generations of Apple Vision Pro: roadmap",
-            "url": "https://9to5mac.com/2025/08/31/what-to-expect-with-future-apple-vision-pro-models/",
-            "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/Vision-Pro-v2.jpg?quality=82&strip=all&w=1600",
-            "publishedAt": "2025-08-31 18:57:09"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "John Carmack: New OS Development Futile, Prioritize AI for XR Breakthroughs",
-            "url": "https://www.webpronews.com/john-carmack-new-os-development-futile-prioritize-ai-for-xr-breakthroughs/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-f648097d-9e39-43dd-b096-07388b9c5bdb.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-08-31 18:00:00"
         }
     ]
 }
