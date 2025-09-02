@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-09-02T17:12:33.072714Z",
+    "lastUpdatedAt": "2025-09-02T18:19:20.263303Z",
     "articles": [
+        {
+            "source": {
+                "id": "5cfd646fbad1ee4fa352342ad739c263",
+                "name": "Billboard",
+                "url": "https://www.billboard.com",
+                "country": "us"
+            },
+            "title": "How AI Firms Like OpenAI and Meta Are Stealing Music: Investigation",
+            "url": "https://www.billboard.com/pro/ai-firms-steal-music-scrape-copyright-icmp-investigation/",
+            "urlToImage": "https://www.billboard.com/wp-content/uploads/2025/08/glennharvey_2025_08_28_billboard_f1-1800.jpg?w=1024",
+            "publishedAt": "2025-09-02T18:01:39Z"
+        },
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            },
+            "title": "Anthropic Raises Its Valuation to $183 Billion in New Funding",
+            "url": "https://www.nytimes.com/2025/09/02/technology/anthropic-funding-ai.html",
+            "urlToImage": "https://static01.nyt.com/images/2025/09/02/multimedia/02anthropic=1-mgqz/02anthropic=1-mgqz-facebookJumbo.jpg",
+            "publishedAt": "2025-09-02T17:52:28Z"
+        },
+        {
+            "source": {
+                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+                "name": "NDTV.com",
+                "url": "https://www.ndtv.com",
+                "country": "in"
+            },
+            "title": "Meta To Block AI Chatbots From Talking About Suicide, Self Harm With Teenagers",
+            "url": "https://www.ndtv.com/world-news/meta-to-block-ai-chatbots-from-talking-about-suicide-self-harm-with-teenagers-9205412",
+            "urlToImage": "https://i.ndtvimg.com/i/2015-10/lady-using-phone-pexels-story_635x476_81445253381.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+            "publishedAt": "2025-09-02T17:11:27Z"
+        },
         {
             "source": {
                 "id": "3bd4bd306c42647825fa42989624c036",
@@ -82,6 +118,18 @@
             },
             "title": "Anthropic valued at $183 billion after $13 billion fundraise",
             "url": "https://www.reuters.com/business/anthropic-valued-183-billion-after-13-billion-fundraise-2025-09-02/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/G7IUYWWX75PXTJCVXMKMECAIQ4.jpg?auth=b3acbcf92f3b3c380402989132207d776d39cab0d1873fb414c0e53dd9b702e1&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-09-02T16:18:01Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Anthropic's valuation more than doubles to $183 billion after $13 billion fundraise",
+            "url": "https://www.reuters.com/business/anthropics-valuation-more-than-doubles-183-billion-after-13-billion-fundraise-2025-09-02/",
             "urlToImage": "https://www.reuters.com/resizer/v2/G7IUYWWX75PXTJCVXMKMECAIQ4.jpg?auth=b3acbcf92f3b3c380402989132207d776d39cab0d1873fb414c0e53dd9b702e1&height=1005&width=1920&quality=80&smart=true",
             "publishedAt": "2025-09-02T16:18:01Z"
         },
@@ -900,6 +948,96 @@
             "url": "https://www.ndtvprofit.com/markets/global-stock-markets-asian-indices-hand-seng-nikkei-dax-ftse-nasdaq-s-and-p-dow-jones-news-today-2-sept-2025",
             "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-09-02%2Fan19vhjq%2F439101219.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
             "publishedAt": "2025-09-02T01:17:13Z"
+        },
+        {
+            "source": {
+                "name": "computerweekly"
+            },
+            "title": "Agentic AI: Storage and ‘the biggest tech refresh in IT history’",
+            "url": "https://www.computerweekly.com/podcast/Agentic-AI-Storage-and-the-biggest-tech-refresh-in-IT-history",
+            "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/HeroImages/AI-automation-robot-smart-devices-elenabsl-adobe_searchsitetablet_520X173.jpg",
+            "publishedAt": "2025-09-02 06:14:00"
+        },
+        {
+            "source": {
+                "name": "geeky_gadgets"
+            },
+            "title": "Why UFS Storage is Outpacing NVMe SSDs in SBCs",
+            "url": "https://www.geeky-gadgets.com/ufs-storage-performance-tested/",
+            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/09/rock-4d-sbc-ufs-storage.webp",
+            "publishedAt": "2025-09-02 06:07:17"
+        },
+        {
+            "source": {
+                "name": "ibtimes"
+            },
+            "title": "'Vibe Hacking' Puts Chatbots To Work For Cybercriminals",
+            "url": "https://www.ibtimes.com/vibe-hacking-puts-chatbots-work-cybercriminals-3782184",
+            "urlToImage": "https://d.ibtimes.com/en/full/4619115/openai-june-revealed-case-chatgpt-assisting-user-developing-malicious-software.jpg",
+            "publishedAt": "2025-09-02 06:06:06"
+        },
+        {
+            "source": {
+                "name": "hendersondispatch"
+            },
+            "title": "'Vibe hacking' puts chatbots to work for cybercriminals",
+            "url": "https://www.hendersondispatch.com/news/national/vibe-hacking-puts-chatbots-to-work-for-cybercriminals/article_f4e3d504-b6eb-5278-9220-35465c400465.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/hendersondispatch.com/content/tncms/assets/v3/editorial/8/81/88137eab-9a65-52b7-a697-bdf3bb66ef8a/68b68b9c57475.image.jpg?resize=400%2C266",
+            "publishedAt": "2025-09-02 06:00:22"
+        },
+        {
+            "source": {
+                "name": "citizentribune"
+            },
+            "title": "'Vibe hacking' puts chatbots to work for cybercriminals",
+            "url": "https://www.citizentribune.com/news/national/vibe-hacking-puts-chatbots-to-work-for-cybercriminals/article_66148b7f-ae89-500e-a11d-e8552334a826.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/citizentribune.com/content/tncms/assets/v3/editorial/1/a6/1a66f8ba-45eb-5453-9e25-1d675ddc15d2/68b68ba495166.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-09-02 06:00:22"
+        },
+        {
+            "source": {
+                "name": "carrollspaper"
+            },
+            "title": "'Vibe hacking' puts chatbots to work for cybercriminals",
+            "url": "https://carrollspaper.com/news/national/vibe-hacking-puts-chatbots-to-work-for-cybercriminals/article_fddb4795-dc3e-5548-9e6b-82193d50b3f8.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/carrollspaper.com/content/tncms/assets/v3/editorial/0/36/036f1905-0617-56d0-be5e-aa753a5adc68/68b68b6d1c5ca.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-09-02 06:00:22"
+        },
+        {
+            "source": {
+                "name": "djournal"
+            },
+            "title": "'Vibe hacking' puts chatbots to work for cybercriminals",
+            "url": "https://www.djournal.com/news/national/vibe-hacking-puts-chatbots-to-work-for-cybercriminals/article_eb85deaf-bc25-52ba-aec8-50eb37d8b6cc.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/4/4c/44c2d37f-9e48-58ed-a5d5-11e763ae626c/68b68b825a2ee.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-09-02 06:00:22"
+        },
+        {
+            "source": {
+                "name": "fbherald"
+            },
+            "title": "'Vibe hacking' puts chatbots to work for cybercriminals",
+            "url": "https://www.fbherald.com/news/national/vibe-hacking-puts-chatbots-to-work-for-cybercriminals/article_fecfe49c-9b6f-5f33-899b-ad6408e759e5.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/fbherald.com/content/tncms/assets/v3/editorial/2/3f/23f4c081-75cb-5daa-9e02-bfcede90f0a1/68b68b9e849bd.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-09-02 06:00:22"
+        },
+        {
+            "source": {
+                "name": "communitynewspapergroup"
+            },
+            "title": "'Vibe hacking' puts chatbots to work for cybercriminals",
+            "url": "https://www.communitynewspapergroup.com/news/nation/vibe-hacking-puts-chatbots-to-work-for-cybercriminals/article_af78cf86-cac6-522b-b6af-2f96979e381a.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/communitynewspapergroup.com/content/tncms/assets/v3/editorial/3/48/3489a12d-2193-5529-80f0-9cc860b543b1/68b68bad9d145.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-09-02 06:00:22"
+        },
+        {
+            "source": {
+                "name": "romesentinel"
+            },
+            "title": "'Vibe hacking' puts chatbots to work for cybercriminals",
+            "url": "https://www.romesentinel.com/ce/news/vibe-hacking-puts-chatbots-to-work-for-cybercriminals/article_35b37203-5454-5474-b1ec-021ffbcc43a1.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/romesentinel.com/content/tncms/assets/v3/editorial/1/4e/14e7d04e-f5a9-5ba7-af2d-9acb86c58f83/68b68b6f7c34e.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-09-02 06:00:22"
         },
         {
             "source": {
@@ -3102,132 +3240,6 @@
             "url": "https://www.webpronews.com/john-carmack-new-os-development-futile-prioritize-ai-for-xr-breakthroughs/",
             "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-f648097d-9e39-43dd-b096-07388b9c5bdb.jpeg?fit=720%2C960&ssl=1",
             "publishedAt": "2025-08-31 18:00:00"
-        },
-        {
-            "source": {
-                "name": "notebookcheck"
-            },
-            "title": "Smartphones and computers could get a big boost in performance, thanks to an accidental discovery",
-            "url": "https://www.notebookcheck.net/Smartphones-and-computers-could-get-a-big-boost-in-performance-thanks-to-an-accidental-discovery.1101091.0.html",
-            "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/illustrative-image-of-a-fast-chip.png",
-            "publishedAt": "2025-08-31 17:11:00"
-        },
-        {
-            "source": {
-                "name": "foxnews"
-            },
-            "title": "TransUnion becomes latest victim in major wave of Salesforce-linked cyberattacks, 4.4M Americans affected",
-            "url": "https://www.foxnews.com/tech/transunion-becomes-latest-victim-major-wave-salesforce-linked-cyberattacks-4-4m-americans-affected",
-            "urlToImage": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/08/931/523/transunion-building-office.jpg?tl=1&ve=1",
-            "publishedAt": "2025-08-31 16:51:53"
-        },
-        {
-            "source": {
-                "name": "livescience"
-            },
-            "title": "AI can't solve these puzzles that take humans only seconds",
-            "url": "https://www.livescience.com/technology/artificial-intelligence/ai-cant-solve-these-puzzles-that-take-humans-only-seconds",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/EAYpDRkEwMJxqhKFJAqzAA-1280-80.jpg",
-            "publishedAt": "2025-08-31 16:33:00"
-        },
-        {
-            "source": {
-                "name": "slashgear"
-            },
-            "title": "5 Of The Worst Graphics Cards You Can Buy In 2025",
-            "url": "https://www.slashgear.com/1950780/worst-graphics-cards-you-can-buy-2025/",
-            "urlToImage": "https://www.slashgear.com/img/gallery/5-of-the-worst-graphics-cards-you-can-buy-in-2025/l-intro-1755510618.jpg",
-            "publishedAt": "2025-08-31 16:30:00"
-        },
-        {
-            "source": {
-                "name": "digitaltrends"
-            },
-            "title": "Asus VP reveals that is has no control over ‘crazy’ GPU pricing",
-            "url": "https://www.digitaltrends.com/computing/graphics-cards-pricing-issues/",
-            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/08/gpu.jpg?p=1&resize=1200%2C630",
-            "publishedAt": "2025-08-31 16:00:00"
-        },
-        {
-            "source": {
-                "name": "wvtm13"
-            },
-            "title": "The success of AI music creators sparks debate on future of music industry",
-            "url": "https://www.wvtm13.com/article/ai-music-creators-transforming-music-industry/65941952",
-            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap268b46835a469e.jpg",
-            "publishedAt": "2025-08-31 15:59:00"
-        },
-        {
-            "source": {
-                "name": "wmur"
-            },
-            "title": "The success of AI music creators sparks debate on future of music industry",
-            "url": "https://www.wmur.com/article/ai-music-creators-transforming-music-industry/65941952",
-            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap268b46835a469e.jpg?0%2C0.129xh=&crop=1.00xw%3A0.849xh&resize=900%3A%2A",
-            "publishedAt": "2025-08-31 15:59:00"
-        },
-        {
-            "source": {
-                "name": "kcra"
-            },
-            "title": "The success of AI music creators sparks debate on future of music industry",
-            "url": "https://www.kcra.com/article/ai-music-creators-transforming-music-industry/65941952",
-            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap268b46835a469e.jpg",
-            "publishedAt": "2025-08-31 15:59:00"
-        },
-        {
-            "source": {
-                "name": "wcvb"
-            },
-            "title": "The success of AI music creators sparks debate on future of music industry",
-            "url": "https://www.wcvb.com/article/ai-music-creators-transforming-music-industry/65941952",
-            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap268b46835a469e.jpg",
-            "publishedAt": "2025-08-31 15:59:00"
-        },
-        {
-            "source": {
-                "name": "thurrott"
-            },
-            "title": "Lenovo Yoga Book 9i Gen 10 Review",
-            "url": "https://www.thurrott.com/hardware/325388/lenovo-yoga-book-9i-gen-10-review",
-            "urlToImage": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2025/08/yogabook9i-hero.jpg",
-            "publishedAt": "2025-08-31 15:43:33"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "How to Use WhatsApp Web on Android Without QR Code",
-            "url": "https://www.analyticsinsight.net/tech-news/how-to-use-whatsapp-web-on-android-without-qr-code",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-08-31%2Fr5peeccq%2FUse-WhatsApp-Web-on-Android-Without-a-QR-Code.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-08-31 15:30:00"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "xAI Launches Grok-Code-Fast-1: Speedy Coding Model Rivals OpenAI Codex",
-            "url": "https://www.webpronews.com/xai-launches-grok-code-fast-1-speedy-coding-model-rivals-openai-codex/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/08/xai-tmp-imgen-49f8543e-fe8c-4811-babf-e84f3733e801.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-08-31 14:45:00"
-        },
-        {
-            "source": {
-                "name": "abcnews"
-            },
-            "title": "The success of AI music creators sparks debate on future of music industry",
-            "url": "https://abcnews.go.com/Technology/wireStory/success-ai-music-creators-sparks-debate-future-music-125136139",
-            "urlToImage": "https://s.abcnews.com/images/Entertainment/wirestory_551308748c84c774c3c5ecd89aa93904_4x3_384.jpg",
-            "publishedAt": "2025-08-31 14:25:07"
-        },
-        {
-            "source": {
-                "name": "fstoppers"
-            },
-            "title": "Did Smartphones Kill the Camera Industry? Vivo Responds",
-            "url": "https://fstoppers.com/mobile/did-smartphones-kill-camera-industry-vivo-responds-705191",
-            "urlToImage": "https://cdn.fstoppers.com/styles/large-16-9/s3/lead/2025/07/vivo-x200-canon-smartphone-vs-camera-phone-2025-nr.jpg",
-            "publishedAt": "2025-08-31 14:06:02"
         }
     ]
 }
