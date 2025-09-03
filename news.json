@@ -1,6 +1,114 @@
 {
-    "lastUpdatedAt": "2025-09-03T11:12:39.456192Z",
+    "lastUpdatedAt": "2025-09-03T12:30:30.009196Z",
     "articles": [
+        {
+            "source": {
+                "id": "732b46cdef66b68ee2fbc940e79f81de",
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com",
+                "country": "us"
+            },
+            "title": "Brand new unicorn IQM sets its sights beyond Europe for its quantum computers",
+            "url": "https://techcrunch.com/2025/09/03/brand-new-unicorn-iqm-sets-its-sights-beyond-europe-for-its-quantum-computers/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/IQM-hardware-11.jpg?resize=1200,800",
+            "publishedAt": "2025-09-03T12:20:34Z"
+        },
+        {
+            "source": {
+                "id": "e479ce8332aab31d8bac6ba9584cedbb",
+                "name": "Republic World",
+                "url": "https://www.republicworld.com",
+                "country": "in"
+            },
+            "title": "UP to Lead India’s Deep Tech Revolution: CM Yogi. Inaugurates ‘Deep Tech India 2025’ Summit at IIT Kanpur",
+            "url": "https://www.republicworld.com/india/up-to-lead-indias-deep-tech-revolution-cm-yogi-inaugurates-deep-tech-india-2025-summit-at-iit-kanpur",
+            "urlToImage": "https://img.republicworld.com/all_images/cm-yogi-1755518626059-16_9.webp",
+            "publishedAt": "2025-09-03T12:05:16Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "EduHubSpot Launches AI for Project Management Certification Course to Equip Professionals with Next-Gen Skills",
+            "url": "https://www.tribuneindia.com/news/business/eduhubspot-launches-ai-for-project-management-certification-course-to-equip-professionals-with-next-gen-skills/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTkzYTBjOWIwLTg4YmQtMTFmMC04NDliLWQxMWMzZjNiMjVlNy5qcGc=",
+            "publishedAt": "2025-09-03T12:00:17Z"
+        },
+        {
+            "source": {
+                "id": "933344203c2b862af768b5e662a162a4",
+                "name": "International Business Times",
+                "url": "https://www.ibtimes.com",
+                "country": "us"
+            },
+            "title": "Centralized Compute Will Not Scale: The Case for Citizen-Owned Infrastructure",
+            "url": "https://www.ibtimes.com/centralized-compute-will-not-scale-case-citizen-owned-infrastructure-3782291",
+            "urlToImage": "https://d.ibtimes.com/en/full/4619293/centralized-compute-will-not-scale-case-citizen-owned-infrastructure.png",
+            "publishedAt": "2025-09-03T12:00:05Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "HSBC Boosts S&P 500 Forecast Amid Tech-Driven Surge",
+            "url": "https://www.devdiscourse.com/article/technology/3613817-hsbc-boosts-sp-500-forecast-amid-tech-driven-surge",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/28_05_2024_08_48_03_6112261.png?width=920&format=jpeg",
+            "publishedAt": "2025-09-03T11:51:40Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "HappyRobot raises $44 million to expand AI agents for freight operators",
+            "url": "https://www.reuters.com/technology/happyrobot-raises-44-million-expand-ai-agents-freight-operators-2025-09-03/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/SQUZXZF6CZMMTPIENRGTEBHGXM.jpg?auth=f4fdf86b19ee647ec415d1fa3c35b82eaf6f4422da7d57d8933252a7668d5619&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-09-03T11:35:43Z"
+        },
+        {
+            "source": {
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
+                "country": "in"
+            },
+            "title": "Building Smarter AI: Why Indian Enterprises Need To Rethink Cloud Foundations",
+            "url": "https://www.ndtvprofit.com/opinion/technology-artificial-intelligence-generative-ai-indian-enterprises-cloud-foundations-large-language-models",
+            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-08-28%2Fk8ty55kv%2F16304154TaeJune15.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+            "publishedAt": "2025-09-03T11:31:41Z"
+        },
+        {
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            },
+            "title": "Donald Trump hints he could blame future scandals on AI: If something bad happens, just blame AI",
+            "url": "https://www.indiatoday.in/technology/news/story/donald-trump-hints-he-could-blame-future-scandals-on-ai-if-something-bad-happens-just-blame-ai-2781403-2025-09-03",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202509/the-tariff-hike-has-triggered-criticism-even-in-washington-democrats-on-the-house-foreign-affairs-c-025038877-16x9.jpg?VersionId=u3z_wElLB04NhY6gafuCWFV_TXNYCT7P",
+            "publishedAt": "2025-09-03T11:22:03Z"
+        },
+        {
+            "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+            },
+            "title": "The India-Fiji story: In the next chapter, the three key areas of focus",
+            "url": "https://indianexpress.com/article/opinion/columns/india-fiji-modi-narendra-sitiveni-rabuka-10227963/",
+            "urlToImage": "https://images.indianexpress.com/2025/08/India_Fiji-e1756898500447.jpg",
+            "publishedAt": "2025-09-03T11:21:52Z"
+        },
         {
             "source": {
                 "id": "7006f2c40c7cc01195608dbfd60259b3",
@@ -636,6 +744,15 @@
             "url": "https://markets.businessinsider.com/news/stocks/here-s-why-morgan-stanley-turned-bullish-on-zscaler-stock-zs-ahead-of-earnings-1035107614",
             "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/09/Screenshot-2025-09-02-at-5-1024x772.png?utm_source=markets.businessinsider.com&utm_medium=referral",
             "publishedAt": "2025-09-03T00:10:00Z"
+        },
+        {
+            "source": {
+                "name": "financialcontent"
+            },
+            "title": "Netweb Stock Hits 7-Month High On AI Order Win; SEBI Analysts See Over 25% Upside Potential",
+            "url": "https://stocktwits.com/news-articles/markets/equity/netweb-stock-hits-7-month-high-on-ai-order-win-sebi-analysts-see-over-25-upside-potential/chwTAz5Rd83",
+            "urlToImage": "https://news.stocktwits-cdn.com/large_AI_chip_representative_image_jpg_ab73461e0d.webp",
+            "publishedAt": "2025-09-03 00:00:00"
         },
         {
             "source": {
@@ -1911,6 +2028,51 @@
         },
         {
             "source": {
+                "name": "citizentribune"
+            },
+            "title": "Judge orders search shakeup in Google monopoly case, but keeps hands off Chrome and default deals",
+            "url": "https://www.citizentribune.com/news/business/judge-orders-search-shakeup-in-google-monopoly-case-but-keeps-hands-off-chrome-and-default/article_f9f64c3a-7c87-595f-8598-291555ffef4f.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/citizentribune.com/content/tncms/assets/v3/editorial/b/aa/baa21504-c262-505e-a0e9-0d25e6ca4ab5/68b777bb4dbe7.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-09-02 23:44:08"
+        },
+        {
+            "source": {
+                "name": "nvdaily"
+            },
+            "title": "Judge orders search shakeup in Google monopoly case, but keeps hands off Chrome and default deals",
+            "url": "https://www.nvdaily.com/associated_press_national/judge-orders-search-shakeup-in-google-monopoly-case-but-keeps-hands-off-chrome-and-default/article_4e551c2a-9318-5aff-abcf-24c134e049aa.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/nvdaily.com/content/tncms/assets/v3/editorial/1/f1/1f11cea2-1980-5936-afb0-06c3e04a6b0b/68a35627dd698.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-09-02 23:44:08"
+        },
+        {
+            "source": {
+                "name": "journal_news"
+            },
+            "title": "SK hynix Introduces Industry's First Commercial High NA EUV",
+            "url": "https://www.journal-news.net/online_features/press_releases/sk-hynix-introduces-industrys-first-commercial-high-na-euv/article_8f1e5134-f826-5c20-bff1-edcde818c47c.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/journal-news.net/content/tncms/custom/image/3d1380e4-c027-11e8-a4dd-bb1ef9d5adc9.png?resize=600%2C315",
+            "publishedAt": "2025-09-02 23:30:00"
+        },
+        {
+            "source": {
+                "name": "nytimes"
+            },
+            "title": "What the Fixes for Google’s Search Monopoly Mean for You: It’s a ‘Nothingburger’",
+            "url": "https://www.nytimes.com/2025/09/02/technology/personaltech/what-the-fixes-for-googles-search-monopoly-mean-for-you-its-a-nothingburger.html",
+            "urlToImage": "https://static01.nyt.com/images/2025/08/12/business/12techfix/12techfix-articleLarge.jpg?auto=webp&disable=upscale&quality=75",
+            "publishedAt": "2025-09-02 23:25:24"
+        },
+        {
+            "source": {
+                "name": "businessinsider_us"
+            },
+            "title": "The biggest winners from the Google antitrust decision? Its AI rivals.",
+            "url": "https://www.businessinsider.com/google-search-antitrust-monopoly-case-decision-winners-losers-2025-9",
+            "urlToImage": "https://i.insider.com/68b177c9cfc04e97619c427e?format=jpeg",
+            "publishedAt": "2025-09-02 23:25:22"
+        },
+        {
+            "source": {
                 "name": "gvwire"
             },
             "title": "AI Will Require 60% of Workers to Retrain. Are Fresno Colleges Ready?",
@@ -3042,183 +3204,6 @@
             "url": "https://www.fool.com/investing/2025/09/02/poised-for-explosive-growth-2-ai-stocks-that-could/",
             "urlToImage": "https://g.foolcdn.com/image/?h=400&op=resize&url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F828151%2Fai-computer-chip.jpg&w=400",
             "publishedAt": "2025-09-02 00:00:00"
-        },
-        {
-            "source": {
-                "name": "thehindu"
-            },
-            "title": "Geographers uncover why some rivers stay single while others split",
-            "url": "https://www.thehindu.com/sci-tech/energy-and-environment/geographers-uncover-why-some-rivers-stay-single-while-others-split/article69999220.ece",
-            "urlToImage": "https://th-i.thgim.com/public/sci-tech/science/rxnnk6/article69999217.ece/alternates/LANDSCAPE_1200/Karnali_river.JPG",
-            "publishedAt": "2025-09-02 00:00:00"
-        },
-        {
-            "source": {
-                "id": "4c8b69bf547b577f84acbba5157b439c",
-                "name": "RTE.ie",
-                "url": "https://www.rte.ie",
-                "country": "ie"
-            },
-            "title": "Concerns over AI chatbot use by children",
-            "url": "https://www.rte.ie/news/business/2025/0902/1531288-ai-chatbot/",
-            "urlToImage": "https://www.rte.ie/images/00231b03-1600.jpg",
-            "publishedAt": "2025-09-01T23:01:00Z"
-        },
-        {
-            "source": {
-                "id": "97497c18f5cb431f5f324b3d8643c24f",
-                "name": "The Independent",
-                "url": "https://www.independent.co.uk",
-                "country": "gb"
-            },
-            "title": "Many jobs are seeking ‘AI literate’ candidates - but what does that actually mean?",
-            "url": "https://www.independent.co.uk/news/world/americas/ai-literate-job-candidates-search-b2818145.html",
-            "urlToImage": "https://static.independent.co.uk/2025/09/01/22/17/GettyImages-2198525341.jpg?width=1200&height=800&crop=1200:800",
-            "publishedAt": "2025-09-01T22:29:41Z"
-        },
-        {
-            "source": {
-                "id": "8500efae8310099b1bcee1ef95a0434e",
-                "name": "KABC-TV",
-                "url": "https://abc7.com",
-                "country": "us"
-            },
-            "title": "AI forcing some people to change career industries. Here's how to set a new course",
-            "url": "https://abc7.com/post/artificial-intelligence-forcing-people-change-career-industries-heres-how-set-new-course/17714573/",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/17714601_changing-careers.jpg?w=1600",
-            "publishedAt": "2025-09-01T22:24:35Z"
-        },
-        {
-            "source": {
-                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
-                "name": "ABC News",
-                "url": "https://www.abc.net.au",
-                "country": "au"
-            },
-            "title": "Federal politics live: Government moves to restrict AI apps that create nude images",
-            "url": "https://www.abc.net.au/news/2025-09-02/federal-politics-live-sept-2/105722386",
-            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/012619c3284b78cfb8ff9dbd0c1cd400?impolicy=wcms_watermark_news&cropH=1688&cropW=3000&xPos=0&yPos=9&width=862&height=485&imformat=generic",
-            "publishedAt": "2025-09-01T21:22:08Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "What Artificial Intelligence Looks Like in America’s Classrooms",
-            "url": "https://www.bloomberg.com/news/features/2025-09-01/what-artificial-intelligence-looks-like-in-america-s-classrooms",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iMf75qkpdtcY/v0/1200x630.jpg",
-            "publishedAt": "2025-09-01T21:00:28Z"
-        },
-        {
-            "source": {
-                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-                "name": "Markets Insider",
-                "url": "https://markets.businessinsider.com",
-                "country": "us"
-            },
-            "title": "Is Vertiv Holdings Stock (VRT) a Buy? Here’s What AI Analyst Says",
-            "url": "https://markets.businessinsider.com/news/stocks/is-vertiv-holdings-stock-vrt-a-buy-here-s-what-ai-analyst-says-1035104329",
-            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/09/image-90.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-            "publishedAt": "2025-09-01T20:31:13Z"
-        },
-        {
-            "source": {
-                "id": "17d7c2645f485578130862e0c8dd9480",
-                "name": "The Mercury News",
-                "url": "https://www.mercurynews.com",
-                "country": "us"
-            },
-            "title": "AI euphoria to fuel 20% rally by end-2026, Evercore ISI says",
-            "url": "https://www.mercurynews.com/2025/09/01/ai-euphoria-to-fuel-20-sp-rally-by-end-2026-evercore-isi-says/",
-            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/06/Education-Artificial_Intelligence_48229.jpg?w=1024&h=682",
-            "publishedAt": "2025-09-01T17:02:15Z"
-        },
-        {
-            "source": {
-                "id": "4300aa22a5f803b09a37ff0632b44685",
-                "name": "The daily Star",
-                "url": "https://www.dailystar.co.uk",
-                "country": "gb"
-            },
-            "title": "Chatbots will become aggressive 'rude racists' unless you are nice to them",
-            "url": "https://www.dailystar.co.uk/news/weird-news/chatbots-become-aggressive-rude-racists-35828010",
-            "urlToImage": "https://i2-prod.dailystar.co.uk/article35795574.ece/ALTERNATES/s1200/1_Humanoid-Robot-Hint.jpg",
-            "publishedAt": "2025-09-01T16:30:31Z"
-        },
-        {
-            "source": {
-                "id": "01558c024928d45cf320f6f75eede787",
-                "name": "The Guardian",
-                "url": "https://www.theguardian.com",
-                "country": "gb"
-            },
-            "title": "The good and bad of machine learning",
-            "url": "https://www.theguardian.com/technology/2025/sep/01/the-good-and-bad-of-machine-learning",
-            "urlToImage": "https://i.guim.co.uk/img/media/218554d08c8437d69b180204e5def1babf5c4dc9/436_0_3182_2546/master/3182.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=abe2b3c122109328ebaa295c6fe72f67",
-            "publishedAt": "2025-09-01T16:12:28Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Not just AI jobs: These 10 professions are set to see strong growth in next 10 years, says US labor bureau",
-            "url": "https://economictimes.indiatimes.com/magazines/panache/not-just-ai-jobs-these-10-professions-are-set-to-see-strong-growth-in-next-10-years-says-us-labor-bureau/articleshow/123638611.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-123638735,width-1200,height-630,imgsize-1020854,overlay-etpanache/articleshow.jpg",
-            "publishedAt": "2025-09-01T15:48:00Z"
-        },
-        {
-            "source": {
-                "id": "59749bcce0ec90ed59071c45c44738b7",
-                "name": "Siliconrepublic.com",
-                "url": "https://www.siliconrepublic.com",
-                "country": "ie"
-            },
-            "title": "Ibec report indicates shift in attitude towards workplace AI",
-            "url": "https://www.siliconrepublic.com/careers/ibec-report-attitude-workplace-ai-skills-europe-ireland-growth",
-            "urlToImage": "https://www.siliconrepublic.com/wp-content/uploads/2025/09/Ibec-leadership-image.jpg",
-            "publishedAt": "2025-09-01T15:36:09Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "AI co-pilot boosts noninvasive brain-computer interface by interpreting user intent",
-            "url": "https://medicalxpress.com/news/2025-09-ai-boosts-noninvasive-brain-interface.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/ai-co-pilot-boosts-non.jpg",
-            "publishedAt": "2025-09-01T15:00:03Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "JNU and DRDO-SAG Forge Strategic Research Alliance",
-            "url": "https://www.devdiscourse.com/article/technology/3611313-jnu-and-drdo-sag-forge-strategic-research-alliance",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/06_08_2025_13_15_25_3827267.png?width=920&format=jpeg",
-            "publishedAt": "2025-09-01T14:28:01Z"
-        },
-        {
-            "source": {
-                "id": "a8984f03fe66dae9745793f6560aa444",
-                "name": "Newsmax",
-                "url": "https://www.newsmax.com",
-                "country": "us"
-            },
-            "title": "AI Helps Brit Rediscover Her Lost Voice After 25 Years",
-            "url": "https://www.newsmax.com/scitech/voice-brit-mnd/2025/09/01/id/1224661/",
-            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=41f1c870-45a0-4604-ab41-c76f43e353d6&SiteName=Newsmax",
-            "publishedAt": "2025-09-01T14:18:17Z"
         }
     ]
 }
