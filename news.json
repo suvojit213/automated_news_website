@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2025-09-03T12:30:30.009196Z",
+    "lastUpdatedAt": "2025-09-03T13:23:39.986273Z",
     "articles": [
+        {
+            "source": {
+                "id": "76684855c5d801b81fd06490668d04fe",
+                "name": "TechRadar",
+                "url": "https://www.techradar.com",
+                "country": "au"
+            },
+            "title": "Wix adds Artificial Intelligence to its email editor",
+            "url": "https://www.techradar.com/pro/website-building/wix-adds-artificial-intelligence-to-its-email-editor",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Wcc69A4Ts8bhSbGgJeGkoZ.jpg",
+            "publishedAt": "2025-09-03T13:07:47Z"
+        },
+        {
+            "source": {
+                "id": "ac7b96be74f81cabb4e02b818a3ff6d7",
+                "name": "MarketBeat",
+                "url": "https://www.marketbeat.com",
+                "country": "us"
+            },
+            "title": "Institutional Buying, Short Interest, and Upside",
+            "url": "https://www.marketbeat.com/originals/a-bull-case-for-quantum-computing-stock-is-still-alive/",
+            "urlToImage": "https://www.marketbeat.com/logos/articles/med_20250902134532_a-bull-case-for-quantum-computing-stock-is-still-a.jpg",
+            "publishedAt": "2025-09-03T13:02:00Z"
+        },
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "How one CRE giant is finding undervalued assets in unlikely areas",
+            "url": "https://www.cnbc.com/2025/09/03/cre-giant-bgo-ai-undervalued-assets.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108192506-1756481961614-gettyimages-940972230-zc6a6165-1.jpeg?v=1756819308&w=1920&h=1080",
+            "publishedAt": "2025-09-03T13:00:01Z"
+        },
+        {
+            "source": {
+                "id": "1b97b25c0ec482f85326378f82f7f815",
+                "name": "Fox Business",
+                "url": "https://www.foxbusiness.com",
+                "country": "us"
+            },
+            "title": "Salesforce cuts 4,000 jobs due to AI, CEO says",
+            "url": "https://www.foxbusiness.com/economy/salesforce-cuts-4000-jobs-due-ai-ceo-says",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/09/0/0/marc-benioff-world-economic-forum.jpg?ve=1&tl=1",
+            "publishedAt": "2025-09-03T12:59:21Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "AI is triggering bizarre mental disorders that defy explanation, and experts are struggling to decide what to call it",
+            "url": "https://economictimes.indiatimes.com/magazines/panache/ai-is-triggering-bizarre-mental-disorders-that-defy-explanation-and-experts-are-struggling-to-decide-what-to-call-it/articleshow/123678644.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-123678733,width-1200,height-630,imgsize-1162875,overlay-etpanache/articleshow.jpg",
+            "publishedAt": "2025-09-03T12:54:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "FUKU.AI Raises SGD 1.1 Million Pre-Seed to Launch AI Recruitment Platform for SMEs in Asia",
+            "url": "https://www.manilatimes.net/2025/09/03/tmt-newswire/pr-newswire/fukuai-raises-sgd-11-million-pre-seed-to-launch-ai-recruitment-platform-for-smes-in-asia/2178299",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/09/03/734803.jpg",
+            "publishedAt": "2025-09-03T12:50:27Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "IQSTEL and Cycurion Execute $1 Million Stock Exchange, Announce Dividend Distribution and Strategic AI Cybersecurity Alliance",
+            "url": "https://www.manilatimes.net/2025/09/03/tmt-newswire/globenewswire/iqstel-and-cycurion-execute-1-million-stock-exchange-announce-dividend-distribution-and-strategic-ai-cybersecurity-alliance/2178279",
+            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+            "publishedAt": "2025-09-03T12:48:45Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Israeli cyber security firm Cato Networks buys Aim Security, raises another $50 million",
+            "url": "https://economictimes.indiatimes.com/tech/funding/israeli-cyber-security-firm-cato-networks-buys-aim-security-raises-another-50-million/articleshow/123678505.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-19224,resizemode-75,msid-123678505/tech/funding/israeli-cyber-security-firm-cato-networks-buys-aim-security-raises-another-50-million.jpg",
+            "publishedAt": "2025-09-03T12:33:41Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "TAC Security Launches Socify.ai, a Next-Generation SOC 2 AI-Powered Compliance Automation Platform",
+            "url": "https://www.manilatimes.net/2025/09/03/tmt-newswire/pr-newswire/tac-security-launches-socifyai-a-next-generation-soc-2-ai-powered-compliance-automation-platform/2178246",
+            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+            "publishedAt": "2025-09-03T12:30:23Z"
+        },
+        {
+            "source": {
+                "id": "7ba4ac19a3c25ba844bbd220fe4c860a",
+                "name": "THE WEEK",
+                "url": "https://www.theweek.in",
+                "country": "in"
+            },
+            "title": "Uttar Pradesh CM Yogi Adityanath urges IIT-Kanpur to pioneer India's deep tech journey",
+            "url": "https://www.theweek.in/news/india/2025/09/03/uttar-pradesh-cm-yogi-adityanath-urges-iit-kanpur-to-pioneer-india-s-deep-tech-journey.html",
+            "urlToImage": "https://www.theweek.in/content/dam/week/week/news/india/images/2025/9/3/Yogi Adityanath.jpeg.jpg",
+            "publishedAt": "2025-09-03T12:29:37Z"
+        },
         {
             "source": {
                 "id": "732b46cdef66b68ee2fbc940e79f81de",
@@ -744,6 +864,51 @@
             "url": "https://markets.businessinsider.com/news/stocks/here-s-why-morgan-stanley-turned-bullish-on-zscaler-stock-zs-ahead-of-earnings-1035107614",
             "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/09/Screenshot-2025-09-02-at-5-1024x772.png?utm_source=markets.businessinsider.com&utm_medium=referral",
             "publishedAt": "2025-09-03T00:10:00Z"
+        },
+        {
+            "source": {
+                "name": "en_prnasisa"
+            },
+            "title": "AI Meets Rugged Reliability: Getac Expands Its Range of Versatile Rugged Field Devices with Launch of New AI-Ready F120 Tablet and V120 Laptop",
+            "url": "https://en.prnasia.com/story/501883-0.shtml",
+            "urlToImage": "https://mma.prnasia.com/media2/2378441/Getac_Logo.jpg?p=medium600",
+            "publishedAt": "2025-09-03 01:00:00"
+        },
+        {
+            "source": {
+                "name": "thehindu"
+            },
+            "title": "Judge orders search shakeup in Google monopoly case but keeps hands off Chrome and default deals",
+            "url": "https://www.thehindu.com/sci-tech/technology/judge-orders-search-shakeup-in-google-monopoly-case-but-keeps-hands-off-chrome-and-default-deals/article70005836.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/7nod9p/article70006558.ece/alternates/LANDSCAPE_1200/2025-05-13T210652Z_1420090466_RC28HEA02MEX_RTRMADP_3_ALPHABET-RESULTS.JPG",
+            "publishedAt": "2025-09-03 00:44:04"
+        },
+        {
+            "source": {
+                "name": "nasa"
+            },
+            "title": "Interview with Dr. Caleb Scharf",
+            "url": "https://www.nasa.gov/general/interview-with-dr-caleb-scharf/",
+            "urlToImage": "https://www.nasa.gov/wp-content/uploads/2023/08/caleb-scharf13.jpg?w=697",
+            "publishedAt": "2025-09-03 00:38:54"
+        },
+        {
+            "source": {
+                "name": "mankatofreepress"
+            },
+            "title": "Judge orders search shakeup in Google monopoly case, but keeps hands off Chrome and default deals",
+            "url": "https://www.mankatofreepress.com/news/business/judge-orders-search-shakeup-in-google-monopoly-case-but-keeps-hands-off-chrome-and-default/article_63a7dac2-de50-573e-9129-459489912248.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/mankatofreepress.com/content/tncms/assets/v3/editorial/4/c5/4c588ba6-011a-573f-92c6-5b687aaff65c/68b76e320c998.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-09-03 00:31:48"
+        },
+        {
+            "source": {
+                "name": "hjnews"
+            },
+            "title": "Judge orders search shakeup in Google monopoly case, but keeps hands off Chrome and default deals",
+            "url": "https://www.hjnews.com/nation/judge-orders-search-shakeup-in-google-monopoly-case-but-keeps-hands-off-chrome-and-default/article_a2e72ef2-dec6-5b98-aa83-5d026702317d.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/hjnews.com/content/tncms/assets/v3/editorial/d/6c/d6cf7b84-800e-5766-b62b-bf1dfe43f04e/68a34cab7068f.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-09-03 00:31:48"
         },
         {
             "source": {
@@ -2046,6 +2211,15 @@
         },
         {
             "source": {
+                "name": "newswise"
+            },
+            "title": "Quantum Brilliance, ORNL Pioneer Quantum-Classical Hybrid Computing",
+            "url": "https://www.newswise.com/articles/quantum-brilliance-ornl-pioneer-quantum-classical-hybrid-computing/?sc=rsla",
+            "urlToImage": "https://www.newswise.com/legacy/image.php?height=334&image=%2Fimages%2Fuploads%2F2025%2F09%2F02%2F68b70a3a8c5c3_2025-P149621.jpg&time=08%3A26%3A47pm&width=502",
+            "publishedAt": "2025-09-02 23:38:07"
+        },
+        {
+            "source": {
                 "name": "journal_news"
             },
             "title": "SK hynix Introduces Industry's First Commercial High NA EUV",
@@ -3060,150 +3234,6 @@
             "url": "https://www.messenger-inquirer.com/news/national/vibe-hacking-puts-chatbots-to-work-for-cybercriminals/article_e4c20cde-c437-5edc-97e6-222c63786463.html",
             "urlToImage": "https://bloximages.chicago2.vip.townnews.com/messenger-inquirer.com/content/tncms/assets/v3/editorial/b/4b/b4b98f41-42b8-5a9e-91a0-2f450426b4eb/68b68bce448a1.image.jpg?resize=300%2C200",
             "publishedAt": "2025-09-02 06:00:22"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "OpenAI Scouts India for 1GW Data Center in $500B Stargate Project",
-            "url": "https://www.webpronews.com/openai-scouts-india-for-1gw-data-center-in-500b-stargate-project/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-ed482f21-c797-49d6-b524-c75115ae190f.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-09-02 05:00:32"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "2025 AI Trends: Industry Transformation, Fintech Disruption, and Challenges",
-            "url": "https://www.webpronews.com/2025-ai-trends-industry-transformation-fintech-disruption-and-challenges/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-4fa7bcf5-4402-4d5a-8650-13ebf0be9f4d.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-09-02 04:53:08"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Runway Pivots to Robotics with AI World Models for Cost-Effective Training",
-            "url": "https://www.webpronews.com/runway-pivots-to-robotics-with-ai-world-models-for-cost-effective-training/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-f74aa659-99e5-410b-b557-e562ad47617b.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-09-02 04:50:33"
-        },
-        {
-            "source": {
-                "name": "news18"
-            },
-            "title": "WhatsApp Hacking Risk Alert For iPhones Issued By The Indian Govt: What It Says",
-            "url": "https://www.news18.com/tech/whatsapp-hacking-risk-alert-for-iphones-issued-by-the-indian-govt-what-it-says-ws-l-9542562.html",
-            "urlToImage": "https://images.news18.com/ibnlive/uploads/2025/03/WhatsApp-AI-chat-tones-2025-03-4cdee1fb013f3371ca117fce730524ca-3x2.jpg",
-            "publishedAt": "2025-09-02 04:35:00"
-        },
-        {
-            "source": {
-                "name": "sanfranciscocbslocal"
-            },
-            "title": "Bay Area workforce consultant says blue-collar jobs seeing a resurgence",
-            "url": "https://www.cbsnews.com/sanfrancisco/news/bay-area-workforce-consultant-says-blue-collar-jobs-seeing-a-resurgence/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/02/4206326f-c9c5-425d-be27-5b4e466e2733/thumbnail/1024x576/f25f82f53a24315dbf4934f1ee84f896/snapshot-57.jpg",
-            "publishedAt": "2025-09-02 04:07:38"
-        },
-        {
-            "source": {
-                "name": "yourstory"
-            },
-            "title": "Deepti Nayak of Publicis Sapient on her two-decade journey in tech and leading with authenticity",
-            "url": "https://yourstory.com/herstory/2025/09/deepti-nayak-publicis-sapient-women-tech",
-            "urlToImage": "https://images.yourstory.com/cs/4/8e7cc4102d6c11e9aa979329348d4c3e/deeptinayak-1756783783639.png",
-            "publishedAt": "2025-09-02 03:45:10"
-        },
-        {
-            "source": {
-                "name": "theken"
-            },
-            "title": "Amazon’s six-page memo survived Bezos’ exit. Then it ran into AI",
-            "url": "https://the-ken.com/story/amazons-six-page-memo-survived-bezos-exit-then-it-ran-into-ai/",
-            "urlToImage": "https://the-ken.com/wp-content/uploads/2025/09/Amazon_AI-3-1024x576.jpg",
-            "publishedAt": "2025-09-02 02:30:44"
-        },
-        {
-            "source": {
-                "name": "telecom_economictimes"
-            },
-            "title": "D-St plans on Jio's mind, likely tariff hike may boost valuation: Analysts",
-            "url": "https://telecom.economictimes.indiatimes.com/news/industry/reliance-jios-tariff-hike-plans-could-boost-valuation-ahead-of-ipo/123645024",
-            "urlToImage": "https://etimg.etb2bimg.com/photo/123645044.cms",
-            "publishedAt": "2025-09-02 01:29:21"
-        },
-        {
-            "source": {
-                "name": "yourstory"
-            },
-            "title": "Pune startup QWR bets on indigenous XR hardware to cut India’s dependence on imports",
-            "url": "https://yourstory.com/2025/08/startup-qwr-indigenous-xr-hardware-india-dependence-imports",
-            "urlToImage": "https://images.yourstory.com/cs/2/6c7d986093a511ec98ee9fbd8fa414a8/QWRFeatureImage-1756385535857.jpg",
-            "publishedAt": "2025-09-02 01:10:00"
-        },
-        {
-            "source": {
-                "name": "9to5mac"
-            },
-            "title": "This Macintosh programming book library will take you back, even if you weren’t there for it",
-            "url": "https://9to5mac.com/2025/09/01/this-macintosh-programming-book-library-will-take-you-back-even-if-you-werent-there-for-it/",
-            "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2024/01/Macintosh-40th-anniversary.webp?w=1200",
-            "publishedAt": "2025-09-02 00:53:32"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Nvidia Automotive Revenue Surges 69% to $586M in Q2 on Self-Driving Tech",
-            "url": "https://www.webpronews.com/nvidia-automotive-revenue-surges-69-to-586m-in-q2-on-self-driving-tech/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-e256efec-d25c-4e71-b8be-40db6db2cdf5.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-09-02 00:53:06"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "China Unveils World’s First All-Frequency 6G Chip with 100 Gbps Speeds",
-            "url": "https://www.webpronews.com/china-unveils-worlds-first-all-frequency-6g-chip-with-100-gbps-speeds/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-484e8794-0d78-41fa-94b4-493337578f3a.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-09-02 00:51:19"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Cornell Noise-Coded Light Detects Deepfakes at 90% Accuracy",
-            "url": "https://www.webpronews.com/cornell-noise-coded-light-detects-deepfakes-at-90-accuracy/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-3df7d09a-6662-4d47-b731-30c138eb8a40.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-09-02 00:28:44"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Nvidia Unveils Jetson Thor: $3,499 AI Module with 7.5x Power for Robots",
-            "url": "https://www.webpronews.com/nvidia-unveils-jetson-thor-3499-ai-module-with-7-5x-power-for-robots/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-87e828fa-e945-4c91-b13e-d911c8f033ad.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-09-02 00:26:41"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Huawei Cloud AI Power Surges 250% to 300 PFlops Amid US Sanctions",
-            "url": "https://www.webpronews.com/huawei-cloud-ai-power-surges-250-to-300-pflops-amid-us-sanctions/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-b71e0d25-50a9-478a-896d-47e778014ca0.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-09-02 00:26:15"
-        },
-        {
-            "source": {
-                "name": "financialcontent"
-            },
-            "title": "Poised for Explosive Growth: 2 AI Stocks That Could Surge 100% by 2028",
-            "url": "https://www.fool.com/investing/2025/09/02/poised-for-explosive-growth-2-ai-stocks-that-could/",
-            "urlToImage": "https://g.foolcdn.com/image/?h=400&op=resize&url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F828151%2Fai-computer-chip.jpg&w=400",
-            "publishedAt": "2025-09-02 00:00:00"
         }
     ]
 }
