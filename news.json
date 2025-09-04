@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2025-09-04T15:15:33.480806Z",
+    "lastUpdatedAt": "2025-09-04T16:18:48.308825Z",
     "articles": [
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "The Klaus Hoffarth Center for Critical Thinking",
+            "url": "https://www.manilatimes.net/2025/09/05/opinion/columns/the-klaus-hoffarth-center-for-critical-thinking/2179271",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/09/04/736744.jfif",
+            "publishedAt": "2025-09-04T16:08:00Z"
+        },
+        {
+            "source": {
+                "id": "f4d035ae0463df22c36ae97972a33ba6",
+                "name": "PR Newswire UK",
+                "url": "https://www.prnewswire.co.uk",
+                "country": "gb"
+            },
+            "title": "Cureus Updates Terms & Conditions to Prohibit AI Use",
+            "url": "https://www.prnewswire.co.uk/news-releases/cureus-updates-terms--conditions-to-prohibit-ai-use-302546487.html",
+            "urlToImage": "https://www.prnewswire.co.uk/content/dam/prnewswire/icons/2019-Q4-PRN-Icon-32-32.png",
+            "publishedAt": "2025-09-04T16:00:00Z"
+        },
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "Study maps the happiest and saddest national anthems from around the globe",
+            "url": "https://phys.org/news/2025-09-happiest-saddest-national-anthems-globe.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/study-maps-the-happies-2.jpg",
+            "publishedAt": "2025-09-04T15:51:44Z"
+        },
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "New AI tool addresses accuracy and fairness in data to improve health algorithms",
+            "url": "https://medicalxpress.com/news/2025-09-ai-tool-accuracy-fairness-health.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/new-ai-tool-addresses.jpg",
+            "publishedAt": "2025-09-04T15:21:04Z"
+        },
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "Light-based insect analysis sharpens forensic timelines",
+            "url": "https://phys.org/news/2025-09-based-insect-analysis-sharpens-forensic.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/light-based-insect-ana.jpg",
+            "publishedAt": "2025-09-04T15:18:04Z"
+        },
+        {
+            "source": {
+                "id": "047d6e639890c69a677fd83c37dac5c2",
+                "name": "Hot Hardware",
+                "url": "https://hothardware.com",
+                "country": "us"
+            },
+            "title": "Apple's Siri Overhaul With Google Gemini Will Take The AI Fight To OpenAI And Perplexity",
+            "url": "https://hothardware.com/news/apples-siri-overhaul-could-use-google-gemini",
+            "urlToImage": "https://images.hothardware.com/contentimages/newsitem/68556/content/hero-siri.jpg",
+            "publishedAt": "2025-09-04T15:10:00Z"
+        },
         {
             "source": {
                 "id": "3d24c816061d69b2e23b8583aed9b447",
@@ -1116,6 +1188,33 @@
             "url": "https://www.globenewswire.com/news-release/2025/09/04/3144227/0/en/AI-for-Customer-Service-Market-to-Reach-USD-73-99-Billion-by-2032-Driven-by-Chatbots-ML-Software-BFSI-and-Global-Digital-Adoption-Research-by-SNS-Insider.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
             "publishedAt": "2025-09-04T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "hindustantimes"
+            },
+            "title": "Acer bets on Aspire Go 14 AI’s affordability, because there’s little wow otherwise",
+            "url": "https://www.hindustantimes.com/business/acer-bets-on-aspire-go-14-ai-s-affordability-because-there-s-little-wow-otherwise-101756958005201.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/09/04/1600x900/There-is-something-about-the-design-that-absolutel_1756957999049.jpg",
+            "publishedAt": "2025-09-04 03:53:24"
+        },
+        {
+            "source": {
+                "name": "expresscomputer"
+            },
+            "title": "Tech 3.0: Harnessing the Power of Collaborations in the Age of GenAI",
+            "url": "https://www.expresscomputer.in/guest-blogs/tech-3-0-harnessing-the-power-of-collaborations-in-the-age-of-genai/127510/",
+            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2025/07/30184547/EC_digital_handshake_750.jpg",
+            "publishedAt": "2025-09-04 03:46:32"
+        },
+        {
+            "source": {
+                "name": "gizmochina"
+            },
+            "title": "How to Build an Apple Ecosystem in 2025",
+            "url": "https://www.gizmochina.com/2025/09/04/how-to-build-an-apple-ecosystem-in-2025/",
+            "urlToImage": "https://www.gizmochina.com/wp-content/uploads/2025/09/Apple-Ecosystem-1024x640.png?x70461=",
+            "publishedAt": "2025-09-04 03:33:48"
         },
         {
             "source": {
@@ -3243,87 +3342,6 @@
             "url": "https://techxplore.com/news/2025-09-ai-ballooning-energy-consumption-spotlight.html",
             "urlToImage": "https://scx1.b-cdn.net/csz/news/tmb/2025/data-center-5.jpg",
             "publishedAt": "2025-09-03 14:48:03"
-        },
-        {
-            "source": {
-                "name": "businesstoday"
-            },
-            "title": "'We are category creating': Upliance.ai aims to give Indian cooks an AI Superpower",
-            "url": "https://www.businesstoday.in/technology/news/story/we-are-category-creating-uplianceai-aims-to-give-indian-cooks-an-ai-superpower-492397-2025-09-03",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202509/68b85496ac123-mahek-mody--co-founder--ceo-of-uplianceai-034536380-16x9.jpg",
-            "publishedAt": "2025-09-03 14:47:05"
-        },
-        {
-            "source": {
-                "name": "poststar"
-            },
-            "title": "Hidden costs of AI",
-            "url": "https://poststar.com/article_9abae31c-9c26-42f0-83b1-750613eb4035.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/poststar.com/content/tncms/custom/image/e0e08718-ed3d-11e5-b87e-839addbbcbaa.jpg?crop=265%2C265%2C120%2C0&order=crop%2Cresize&resize=200%2C200",
-            "publishedAt": "2025-09-03 14:33:20"
-        },
-        {
-            "source": {
-                "name": "yahoo"
-            },
-            "title": "Eyes on El Paso: Police drone response program to expand citywide",
-            "url": "https://www.yahoo.com/news/articles/eyes-el-paso-police-drone-143103204.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/vtMbcxLtTYNI1mwJVHVEBQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MDtjZj13ZWJw/https://media.zenfs.com/en/the-el-paso-times/59ad58b4d8fc61972209068d413c4590",
-            "publishedAt": "2025-09-03 14:31:03"
-        },
-        {
-            "source": {
-                "name": "thelincolnianonline"
-            },
-            "title": "Utility Stocks To Keep An Eye On – September 2nd",
-            "url": "https://www.thelincolnianonline.com/2025/09/03/utility-stocks-to-keep-an-eye-on-september-2nd.html",
-            "urlToImage": "https://www.marketbeat.com/logos/tesla-inc-logo-1200x675.png?v=20221020135629",
-            "publishedAt": "2025-09-03 14:28:44"
-        },
-        {
-            "source": {
-                "name": "prnewswire_apac"
-            },
-            "title": "MBZUAI opens admissions for Fall 2026 intake, inviting top students worldwide to shape the future through its undergraduate and graduate programs",
-            "url": "https://www.prnewswire.com/apac/news-releases/mbzuai-opens-admissions-for-fall-2026-intake-inviting-top-students-worldwide-to-shape-the-future-through-its-undergraduate-and-graduate-programs-302545312.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2763705/MBZUAI_opens_admissions.jpg?p=publish",
-            "publishedAt": "2025-09-03 14:12:00"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Stephen Schwarzman",
-            "url": "https://www.analyticsinsight.net/biography/stephen-schwarzman",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-09-03%2Fejgbimuc%2FStephen-Schwarzman.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-09-03 14:09:49"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "I just got up close with the first Intel Panther Lake laptop — and it looks incredible",
-            "url": "https://www.tomsguide.com/computing/laptops/i-just-got-up-close-with-the-first-intel-panther-lake-laptop-and-it-looks-incredible",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/9j2n9NBM8awT3SEtRWnjPC-1280-80.jpg",
-            "publishedAt": "2025-09-03 14:08:00"
-        },
-        {
-            "source": {
-                "name": "bleepingcomputer"
-            },
-            "title": "They know where you are: Cybersecurity and the shadow world of geolocation",
-            "url": "https://www.bleepingcomputer.com/news/security/they-know-where-you-are-cybersecurity-and-the-shadow-world-of-geolocation/",
-            "urlToImage": "https://www.bleepstatic.com/content/posts/2025/09/02/astaroth-header.jpg",
-            "publishedAt": "2025-09-03 14:02:12"
-        },
-        {
-            "source": {
-                "name": "digitaltrends"
-            },
-            "title": "Finally, there’s an AI notetaker that does what I need",
-            "url": "https://www.digitaltrends.com/computing/plaud-note-pro-the-notetaker-for-people-who-hate-to-take-notes/",
-            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/09/Plaud-Note-Pro.jpg?p=1&resize=1200%2C630",
-            "publishedAt": "2025-09-03 13:07:00"
         }
     ]
 }
