@@ -1,6 +1,102 @@
 {
-    "lastUpdatedAt": "2025-09-04T18:20:30.828277Z",
+    "lastUpdatedAt": "2025-09-04T19:11:29.765905Z",
     "articles": [
+        {
+            "source": {
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
+                "country": "in"
+            },
+            "title": "OpenAI Plans Jobs Platform, Certification Program For AI Roles",
+            "url": "https://www.ndtvprofit.com/technology/business-artificial-intelligence-openai-plans-jobs-platform-certification-program-for-ai-roles",
+            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-08-25%2Fip2fb8fd%2Fandrew-neel-hZkOZGtlA5w-unsplash.jpg?rect=0%2C405%2C5724%2C3005&w=1200&auto=format%2Ccompress&ogImage=true",
+            "publishedAt": "2025-09-04T18:53:46Z"
+        },
+        {
+            "source": {
+                "id": "7eeaf9a839918543cc708f2d331c3be4",
+                "name": "Free Press Journal",
+                "url": "https://www.freepressjournal.in",
+                "country": "in"
+            },
+            "title": "Uber Pilots Digital Earning Option For Drivers In India Through AI",
+            "url": "https://www.freepressjournal.in/india/uber-pilots-digital-earning-option-for-drivers-in-india-through-ai",
+            "urlToImage": "https://media.assettype.com/freepressjournal/2025-09-04/t58jhm3b/images-64.jpg",
+            "publishedAt": "2025-09-04T18:51:11Z"
+        },
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "Bret Taylor's Sierra is the latest $10 billion AI startup",
+            "url": "https://www.cnbc.com/2025/09/04/bret-taylor-sierra-ai-startup-salesforce-openai.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108169233-1752010997642-Screenshot_2025-07-08_at_33111_PM.png?v=1752077334&w=1920&h=1080",
+            "publishedAt": "2025-09-04T18:49:02Z"
+        },
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "Knowing where to look: Researchers create AI to examine medical images like a trained radiologist",
+            "url": "https://medicalxpress.com/news/2025-09-ai-medical-images-radiologist.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/radiologist-1.jpg",
+            "publishedAt": "2025-09-04T18:40:04Z"
+        },
+        {
+            "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+            },
+            "title": "Karnataka to establish Greater Bengaluru Integrated Township, India’s ‘first AI-powered city’, at Bidadi",
+            "url": "https://indianexpress.com/article/cities/bangalore/karnataka-to-establish-greater-bengaluru-integrated-township-indias-first-ai-powered-city-at-bidadi-10230848/",
+            "urlToImage": "https://images.indianexpress.com/2025/09/shivkumar-1200.jpg",
+            "publishedAt": "2025-09-04T18:39:06Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "AI joins the classroom: Teachers must learn to adapt",
+            "url": "https://timesofindia.indiatimes.com/city/hyderabad/ai-joins-the-classroom-teachers-must-learn-to-adapt/articleshow/123705427.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-117518070,width-1070,height-580,imgsize-96276,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-09-04T18:39:00Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Microsoft's Bold Commitment to AI Education at the White House",
+            "url": "https://www.devdiscourse.com/article/technology/3616039-microsofts-bold-commitment-to-ai-education-at-the-white-house",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/20_07_2024_16_21_42_8224264.png?width=920&format=jpeg",
+            "publishedAt": "2025-09-04T18:22:49Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "OpenAI Plans Jobs Platform, Certification Program for AI Roles",
+            "url": "https://www.bloomberg.com/news/articles/2025-09-04/openai-unveils-jobs-platform-certification-program-for-ai-roles",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUA4aClxCM80/v1/1200x800.jpg",
+            "publishedAt": "2025-09-04T18:19:08Z"
+        },
         {
             "source": {
                 "id": "26269dbc42635df9af8c24f3cdab8e37",
@@ -1323,12 +1419,84 @@
         },
         {
             "source": {
+                "name": "ndtv"
+            },
+            "title": "Apple Plans AI-Powered Web Search Tool To Rival OpenAI, Perplexity",
+            "url": "https://www.ndtv.com/world-news/apple-plans-ai-powered-web-search-tool-to-rival-openai-perplexity-9214565",
+            "urlToImage": "https://c.ndtvimg.com/2025-09/d1tmjvh4_craig-federighi-apple_625x300_04_September_25.jpeg",
+            "publishedAt": "2025-09-04 07:08:43"
+        },
+        {
+            "source": {
+                "name": "siliconangle"
+            },
+            "title": "Neo4j unifies real-time transactions and graph analytics at scale",
+            "url": "https://siliconangle.com/2025/09/04/neo4j-unifies-real-time-transactions-graph-analytics-scale/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/Neo4j-Bloom.png",
+            "publishedAt": "2025-09-04 07:00:04"
+        },
+        {
+            "source": {
+                "name": "news4social"
+            },
+            "title": "Acurast Launches ‘Staked Compute’ To Challenge AWS, Azure and Google Cloud With Decentralized Smartphone Network.",
+            "url": "https://en.news4social.com/acurast-launches-staked-compute-to-challenge-aws-azure-and-google-cloud-with-decentralized-smartphone-network/",
+            "urlToImage": "https://i0.wp.com/thenewscrypto.com/wp-content/uploads/2025/09/Banner-V3-1.jpg?resize=750%2C375&ssl=1&w=750",
+            "publishedAt": "2025-09-04 06:38:00"
+        },
+        {
+            "source": {
+                "name": "geeky_gadgets"
+            },
+            "title": "Microsoft AI CEO Warns “Seemingly Conscious AI” is Near",
+            "url": "https://www.geeky-gadgets.com/are-we-ready-for-machines-that-seem-conscious/",
+            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/09/ai-empathy-and-consciousness.webp",
+            "publishedAt": "2025-09-04 06:37:08"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Embedded Gen AI: Smarter Predictive Maintenance Apps for Manufacturing",
+            "url": "https://hackernoon.com/embedded-gen-ai-smarter-predictive-maintenance-apps-for-manufacturing",
+            "urlToImage": "https://hackernoon.imgix.net/images/2jqChkrv03exBUgkLrDzIbfM99q2-f9021bj.jpeg",
+            "publishedAt": "2025-09-04 06:36:01"
+        },
+        {
+            "source": {
+                "name": "sify"
+            },
+            "title": "Beyond the Hype: The Spectacular, Stumbling Evolution of Digital Eyewear",
+            "url": "https://www.sify.com/technology/beyond-the-hype-the-spectacular-stumbling-evolution-of-digital-eyewear/",
+            "urlToImage": "https://www.sify.com/wp-content/uploads/2025/09/image-1.webp",
+            "publishedAt": "2025-09-04 06:29:35"
+        },
+        {
+            "source": {
+                "name": "the_tob"
+            },
+            "title": "Grid Dynamics and Temporal Technologies Announce New Agentic AI Platform to Drive Enterprise Innovation",
+            "url": "https://thetimesofbengal.com/2025/09/04/grid-dynamics-and-temporal-technologies-announce-new-agentic-ai-platform-to-drive-enterprise-innovation/",
+            "urlToImage": "https://thetimesofbengal.com/wp-content/uploads/2025/09/d559c65c-843b-4b8b-823d-841f64784b4d.jpg",
+            "publishedAt": "2025-09-04 06:25:55"
+        },
+        {
+            "source": {
                 "name": "republicworld"
             },
             "title": "Seattle Tech Layoffs Continue: Nearly 200 Workers Cut by Salesforce and Oracle This Week",
             "url": "https://www.republicworld.com/tech/seattle-tech-layoffs-continue-nearly-200-workers-cut-by-salesforce-and-oracle-this-week",
             "urlToImage": "https://img.republicworld.com/all_images/over-1-lakh-tech-layoffs-in-july-2024-major-it-firms-cut-thousands-of-jobs-1722942092808-16_9.webp?format=webp&h=225&q=75&w=400",
             "publishedAt": "2025-09-04 06:18:32"
+        },
+        {
+            "source": {
+                "name": "nbcsandiego"
+            },
+            "title": "Moms' careers and personal time hit hard by school drop-off demands, poll finds",
+            "url": "https://www.nbcsandiego.com/news/national-international/moms-careers-personal-time-school-drop-off-demands/3895821/",
+            "urlToImage": "https://media.nbcsandiego.com/2025/09/AP25247002373340.jpg?fit=5395%2C3597&quality=85&strip=all",
+            "publishedAt": "2025-09-04 06:05:13"
         },
         {
             "source": {
@@ -3231,150 +3399,6 @@
             "url": "https://www.timesnews.net/online_features/press_releases/whitefiber-inc-to-present-at-the-h-c-wainwright-27th-annual-global-investment-conference/article_896d46ba-7f63-5695-ba4e-8cc2e236c2c4.html",
             "urlToImage": "https://bloximages.newyork1.vip.townnews.com/timesnews.net/content/tncms/custom/image/f5f37b38-b69a-11ec-bb13-ebe7656ef377.jpg?resize=600%2C600",
             "publishedAt": "2025-09-03 20:05:00"
-        },
-        {
-            "source": {
-                "name": "thewesterlysun"
-            },
-            "title": "WhiteFiber, Inc. to Present at the H.C. Wainwright 27th Annual Global Investment Conference",
-            "url": "https://www.thewesterlysun.com/online_features/press_releases/whitefiber-inc-to-present-at-the-h-c-wainwright-27th-annual-global-investment-conference/article_1076a077-8558-5c80-844b-cd6673449ce0.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/thewesterlysun.com/content/tncms/custom/image/f5f0293e-7cd2-11ed-a4b8-df29b8856731.jpg?resize=200%2C200",
-            "publishedAt": "2025-09-03 20:05:00"
-        },
-        {
-            "source": {
-                "name": "auburnpub"
-            },
-            "title": "WhiteFiber, Inc. to Present at the H.C. Wainwright 27th Annual Global Investment Conference",
-            "url": "https://auburnpub.com/online_features/press_releases/article_734e1500-8b72-5bc3-b347-fdea8cddd79f.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/auburnpub.com/content/tncms/custom/image/d462ca50-9db1-11ee-8fb0-3769c4efa055.png?resize=600%2C315",
-            "publishedAt": "2025-09-03 20:05:00"
-        },
-        {
-            "source": {
-                "name": "berkshireeagle"
-            },
-            "title": "WhiteFiber, Inc. to Present at the H.C. Wainwright 27th Annual Global Investment Conference",
-            "url": "https://www.berkshireeagle.com/online_features/press_releases/whitefiber-inc-to-present-at-the-h-c-wainwright-27th-annual-global-investment-conference/article_06f113d1-c98a-54d3-9ba0-b8f79f0da71b.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/berkshireeagle.com/content/tncms/custom/image/2b802cce-8455-11ec-8935-3f9640429655.jpg?resize=600%2C315",
-            "publishedAt": "2025-09-03 20:05:00"
-        },
-        {
-            "source": {
-                "name": "news_fsu"
-            },
-            "title": "Florida State University iSchool professor receives two honors for contributions to health informatics",
-            "url": "https://news.fsu.edu/news/science-technology/2025/09/03/florida-state-university-ischool-professor-receives-two-honors-for-contributions-to-health-informatics/",
-            "urlToImage": "http://news.fsu.edu/wp-content/uploads/2025/09/ZheHe-news-900x600.jpg",
-            "publishedAt": "2025-09-03 20:00:53"
-        },
-        {
-            "source": {
-                "name": "bitcoinworld"
-            },
-            "title": "CoreWeave Unleashes Strategic Advantage with OpenPipe Acquisition, Boosting AI Agent Training",
-            "url": "https://bitcoinworld.co.in/coreweave-acquires-openpipe/",
-            "urlToImage": "https://bitcoinworld.co.in/wp-content/uploads/coreweave-acquires-openpipe.jpg",
-            "publishedAt": "2025-09-03 19:55:10"
-        },
-        {
-            "source": {
-                "name": "mit"
-            },
-            "title": "A new generative AI approach to predicting chemical reactions",
-            "url": "https://news.mit.edu/2025/generative-ai-approach-to-predicting-chemical-reactions-0903",
-            "urlToImage": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202508/mit-flower.jpg?itok=xtPoC4hU",
-            "publishedAt": "2025-09-03 19:55:00"
-        },
-        {
-            "source": {
-                "name": "vanderbilt"
-            },
-            "title": "Vanderbilt launches Enterprise AI and Computing Innovation Studio",
-            "url": "https://news.vanderbilt.edu/2025/09/03/vanderbilt-launches-enterprise-ai-and-computing-innovation-studio/",
-            "urlToImage": "https://news.vanderbilt.edu/files/ComputingAI-Topper-600x336-1.jpeg",
-            "publishedAt": "2025-09-03 19:10:28"
-        },
-        {
-            "source": {
-                "name": "globegazette"
-            },
-            "title": "Hidden costs of AI",
-            "url": "https://globegazette.com/article_3971d0f4-755b-42fc-b9fa-e1904dc68cf6.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/globegazette.com/content/tncms/custom/image/4a008fc8-c542-11ea-80d0-f71aedfaa0ef.jpg?resize=600%2C315",
-            "publishedAt": "2025-09-03 18:56:09"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "Netflix just dropped the first official trailer for its upcoming big-budget thriller and it gave me chills",
-            "url": "https://www.tomsguide.com/entertainment/netflix/netflix-just-dropped-the-first-official-trailer-for-its-upcoming-big-budget-thriller-and-it-gave-me-chills",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/TmqBaGUBP6oqwiuWeXJ3Nd-1280-80.jpg",
-            "publishedAt": "2025-09-03 18:55:49"
-        },
-        {
-            "source": {
-                "name": "mashable_me"
-            },
-            "title": "Apple Event 2025: 5 new Apple products you likely won’t see next week",
-            "url": "https://me.mashable.com/mobile/60439/apple-event-2025-5-new-apple-products-you-likely-wont-see-next-week",
-            "urlToImage": "https://sm.mashable.com/mashable_me/article/a/apple-even/apple-event-2025-5-new-apple-products-you-likely-wont-see-ne_3ywg.jpg",
-            "publishedAt": "2025-09-03 18:44:40"
-        },
-        {
-            "source": {
-                "name": "mashable"
-            },
-            "title": "Apple Event 2025: 5 new Apple products you likely won’t see next week",
-            "url": "https://sea.mashable.com/mobile/39388/apple-event-2025-5-new-apple-products-you-likely-wont-see-next-week",
-            "urlToImage": "https://sm.mashable.com/mashable_sea/article/a/apple-even/apple-event-2025-5-new-apple-products-you-likely-wont-see-ne_q3ar.jpg",
-            "publishedAt": "2025-09-03 18:44:40"
-        },
-        {
-            "source": {
-                "name": "in_mashable"
-            },
-            "title": "Apple Event 2025: 5 new Apple products you likely won’t see next week",
-            "url": "https://in.mashable.com/mobile/99373/apple-event-2025-5-new-apple-products-you-likely-wont-see-next-week",
-            "urlToImage": "https://sm.mashable.com/mashable_in/article/a/apple-even/apple-event-2025-5-new-apple-products-you-likely-wont-see-ne_7pk4.jpg",
-            "publishedAt": "2025-09-03 18:44:40"
-        },
-        {
-            "source": {
-                "name": "motor1"
-            },
-            "title": "On Ferdinand Porsche's 150th Birthday, We Remember One of His Lesser-Known Inventions",
-            "url": "https://www.motor1.com/features/771059/ferdinand-porsche-traction-control/",
-            "urlToImage": "https://cdn.motor1.com/images/mgl/y29mOk/s3/ferdinand-porsche-150th-birthday-inventions.jpg",
-            "publishedAt": "2025-09-03 18:30:00"
-        },
-        {
-            "source": {
-                "name": "kdhnews"
-            },
-            "title": "Subdued decision in Google antitrust trial may help keep a monopoly in power",
-            "url": "https://kdhnews.com/business/technology/subdued-decision-in-google-antitrust-trial-may-help-keep-a-monopoly-in-power/article_16ca5861-0d5e-5570-a2a6-4be5e12ca7d3.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/assets/v3/editorial/a/f6/af61d684-d959-5e0e-9c02-33ee22ec7985/68a2d0404b5e1.image.jpg?resize=750%2C500",
-            "publishedAt": "2025-09-03 18:16:49"
-        },
-        {
-            "source": {
-                "name": "cleveland"
-            },
-            "title": "From Skynet to Medicare: Your questions about artificial intelligence: The Readers Write",
-            "url": "https://www.cleveland.com/news/2025/09/from-skynet-to-medicare-your-questions-about-artificial-intelligence-the-readers-write.html",
-            "urlToImage": "https://www.cleveland.com/resizer/v2/ZPOO2UE3WVEFJDJORCRQHT3W2M.jpg?auth=14bae09fb320d6d3ec85505ce9ee5b2237ba7ef2dcc68cae4b72f6780713fb6a&height=1200&smart=true",
-            "publishedAt": "2025-09-03 18:10:39"
-        },
-        {
-            "source": {
-                "name": "digitaltrends"
-            },
-            "title": "This iBuyPower gaming PC with RTX 5070 is $400 off for Intel Gamer Days",
-            "url": "https://www.digitaltrends.com/computing/ibuypower-slate-gaming-pc-deal-walmart-september-2025/",
-            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/09/iBuyPower-Slate-gaming-PC.jpg?p=1&resize=1200%2C630",
-            "publishedAt": "2025-09-03 18:05:00"
         }
     ]
 }
