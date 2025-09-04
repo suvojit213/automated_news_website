@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-09-04T10:15:18.262761Z",
+    "lastUpdatedAt": "2025-09-04T11:12:21.918525Z",
     "articles": [
+        {
+            "source": {
+                "id": "0c047612bc7bc0113342d2651f47b208",
+                "name": "GB News",
+                "url": "https://www.gbnews.com",
+                "country": "gb"
+            },
+            "title": "AI road cameras that can see inside cars have caught 10,000 drivers breaking rules",
+            "url": "https://www.gbnews.com/lifestyle/cars/ai-road-cameras-driving-laws-devon-cornwall",
+            "urlToImage": "https://www.gbnews.com/media-library/an-ai-camera-operating-near-a-road-and-the-inside-of-a-car.jpg?id=61554285&width=1200&height=600&coordinates=0%2C100%2C0%2C100",
+            "publishedAt": "2025-09-04T10:56:37Z"
+        },
+        {
+            "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+            },
+            "title": "They’re Famous. They’re Everywhere. And They’re Fake.",
+            "url": "https://indianexpress.com/article/world/theyre-famous-theyre-everywhere-and-theyre-fake-10230068/",
+            "urlToImage": "https://images.indianexpress.com/2025/09/AI-Influencer.jpg",
+            "publishedAt": "2025-09-04T10:54:06Z"
+        },
+        {
+            "source": {
+                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
+                "name": "WTOP",
+                "url": "https://wtop.com",
+                "country": "us"
+            },
+            "title": "Artificial intelligence helps break barriers for Hispanic homeownership",
+            "url": "https://wtop.com/national/2025/09/artificial-intelligence-helps-break-barriers-for-hispanic-homeownership/",
+            "urlToImage": "https://wtop.com/wp-content/uploads/2025/09/Artificial_Intelligence_Hispanic_Homeownership_36185-scaled.jpg",
+            "publishedAt": "2025-09-04T10:06:04Z"
+        },
         {
             "source": {
                 "id": "20ca9773b4c0563e26b4c2863bdf8c19",
@@ -24,6 +60,18 @@
             "url": "https://www.clickondetroit.com/business/2025/09/04/artificial-intelligence-helps-break-barriers-for-hispanic-homeownership/",
             "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/6VRFPFGBBJC43BFKZ5N3C5QCAQ.jpg?_a=DATAg1eAZAA0",
             "publishedAt": "2025-09-04T10:01:16Z"
+        },
+        {
+            "source": {
+                "id": "37128a060981dbbe79321f096e7d1108",
+                "name": "U.S. News & World Report",
+                "url": "https://www.usnews.com",
+                "country": "us"
+            },
+            "title": "Artificial Intelligence Helps Break Barriers for Hispanic Homeownership",
+            "url": "https://www.usnews.com/news/business/articles/2025-09-04/artificial-intelligence-helps-break-barriers-for-hispanic-homeownership",
+            "urlToImage": "https://www.usnews.com/dims4/USNEWS/941b65b/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F9f%2Feeb6d844a4c96c55de563795ab3511%2F3e296edc8ad744319769cfe0d573baacArtificial_Intelligence_Hispanic_Homeownership_36185.jpg",
+            "publishedAt": "2025-09-04T10:01:00Z"
         },
         {
             "source": {
@@ -2139,6 +2187,33 @@
         },
         {
             "source": {
+                "name": "hackernoon"
+            },
+            "title": "The Evolution of Market Simulators: From Stigler to Deep Learning",
+            "url": "https://hackernoon.com/the-evolution-of-market-simulators-from-stigler-to-deep-learning",
+            "urlToImage": "https://hackernoon.imgix.net/images/a-black-and-white-picture-of-old-wall-street-bf5g9m8nywwy1jtji4qb1h9g.png",
+            "publishedAt": "2025-09-03 23:10:28"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "Maximizing Mobile Productivity With Apple Vision Pro And MacBook Pro",
+            "url": "https://www.forbes.com/sites/moorinsights/2025/09/03/maximizing-mobile-productivity-with-apple-vision-pro-and-macbook-pro/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68b8c507909c9530ebd1ce9a/0x0.jpg?width=960",
+            "publishedAt": "2025-09-03 23:00:07"
+        },
+        {
+            "source": {
+                "name": "gizmodotech"
+            },
+            "title": "Apple Planning AI-Powered Web Search for Siri Next Year: Report",
+            "url": "https://gizmodo.com/apple-planning-ai-powered-web-search-for-siri-next-year-report-2000653179",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/09/tim-cook-june-16-2025.jpg",
+            "publishedAt": "2025-09-03 22:25:11"
+        },
+        {
+            "source": {
                 "name": "dailycamera"
             },
             "title": "CU Boulder to offer free, online course on AI open to the general public",
@@ -3171,69 +3246,6 @@
             "url": "https://www.dnews.com/northwest/washington-ag-joins-push-to-stop-spread-of-deepfake-porn-f4c2e502",
             "urlToImage": "https://public-assets-prod.pubgen.ai/brand_4fc3eb37-4c8a-4951-9324-365f6e4b53fd/asset_0787a05a-7764-54a8-a946-a3f5ca1486a2..jpg",
             "publishedAt": "2025-09-03 07:00:00"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "Global tech supply chains are being reshaped by three key 'battlefields', says DIGITIMES analysts",
-            "url": "https://www.prnewswire.com/news-releases/global-tech-supply-chains-are-being-reshaped-by-three-key-battlefields-says-digitimes-analysts-302544806.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2763477/01.jpg?p=original",
-            "publishedAt": "2025-09-03 07:00:00"
-        },
-        {
-            "source": {
-                "name": "lmtribune"
-            },
-            "title": "Washington AG joins push to stop spread of deepfake porn",
-            "url": "https://www.lmtribune.com/northwest/washington-ag-joins-push-to-stop-spread-of-deepfake-porn-20312818",
-            "urlToImage": "https://public-assets-prod.pubgen.ai/brand_4fc3eb37-4c8a-4951-9324-365f6e4b53fd/asset_0787a05a-7764-54a8-a946-a3f5ca1486a2..jpg",
-            "publishedAt": "2025-09-03 07:00:00"
-        },
-        {
-            "source": {
-                "name": "geeky_gadgets"
-            },
-            "title": "Elon Musk Surprises Everyone With Grok 5 Statements",
-            "url": "https://www.geeky-gadgets.com/xai-grok-5-ai-future-potential/",
-            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/09/grok-5-artificial-general-intelligence-breakthrough.webp",
-            "publishedAt": "2025-09-03 06:39:04"
-        },
-        {
-            "source": {
-                "name": "economictimes_indiatimes"
-            },
-            "title": "Google techie's success playbook: 3 skills young engineers should master in the age of AI",
-            "url": "https://economictimes.indiatimes.com/magazines/panache/google-techies-success-playbook-3-skills-young-engineers-should-master-in-the-age-of-ai/articleshow/123677486.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-79186,resizemode-75,msid-123677486/magazines/panache/google-techies-success-playbook-3-skills-young-engineers-should-master-in-the-age-of-ai.jpg",
-            "publishedAt": "2025-09-03 06:19:28"
-        },
-        {
-            "source": {
-                "name": "geeky_gadgets"
-            },
-            "title": "Using ChatGPT 5 to Transform Your Work, Creativity and Life : Complete Beginners Guide",
-            "url": "https://www.geeky-gadgets.com/chatgpt-5-beginners-guide/",
-            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/09/chatgpt-5-multimodal-capabilities-overview.webp",
-            "publishedAt": "2025-09-03 06:15:01"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "The TechBeat: How Character.AI Lost Millions of its Users: A Case Study of Negligence (9/3/2025)",
-            "url": "https://hackernoon.com/9-3-2025-techbeat",
-            "urlToImage": "https://hackernoon.imgix.net/images/hackernoon_newsletter_399_f9d0o1k5mpoewr3zszklt7yc.png",
-            "publishedAt": "2025-09-03 06:10:55"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "AI Travel Hacks And Prompts That Will Save You Time, Money And Stress",
-            "url": "https://www.forbes.com/sites/bernardmarr/2025/09/03/ai-travel-hacks-and-prompts-that-will-save-you-time-money-and-stress/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68b7db0cc36648cc97069d5b/0x0.jpg?width=960",
-            "publishedAt": "2025-09-03 06:08:04"
         }
     ]
 }
