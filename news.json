@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-09-03T23:12:56.183167Z",
+    "lastUpdatedAt": "2025-09-04T01:07:09.139696Z",
     "articles": [
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Uncertainty hits IT, hiring demand falls 10% in August",
+            "url": "https://economictimes.indiatimes.com/tech/information-tech/uncertainty-hits-it-hiring-demand-falls-10-in-august/articleshow/123682924.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-193220,resizemode-75,msid-123682924/tech/information-tech/uncertainty-hits-it-hiring-demand-falls-10-in-august.jpg",
+            "publishedAt": "2025-09-04T00:31:00Z"
+        },
+        {
+            "source": {
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
+                "country": "in"
+            },
+            "title": "State launches skill competitions to select candidates for WorldSkills Shanghai 2026",
+            "url": "https://www.hindustantimes.com/cities/pune-news/state-launches-skill-competitions-to-select-candidates-for-worldskills-shanghai-2026-101756926552647.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/09/03/1600x900/Mumbai--India---February-20--2023--Posse-of-police_1756926550536.jpg",
+            "publishedAt": "2025-09-04T00:00:06Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "HPE Says It’s Weathering Profit Squeeze at Start of New AI Era",
+            "url": "https://www.livemint.com/companies/news/hpe-says-it-s-weathering-profit-squeeze-at-start-of-new-ai-era-11756942892697.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/company_1_1733464951182_1733464958176.png",
+            "publishedAt": "2025-09-03T23:41:32Z"
+        },
         {
             "source": {
                 "id": "8ed6c6b6dec4f35a4963354fb78b9754",
@@ -1368,6 +1404,78 @@
             "url": "https://markets.businessinsider.com/news/stocks/here-s-why-morgan-stanley-turned-bullish-on-zscaler-stock-zs-ahead-of-earnings-1035107614",
             "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/09/Screenshot-2025-09-02-at-5-1024x772.png?utm_source=markets.businessinsider.com&utm_medium=referral",
             "publishedAt": "2025-09-03T00:10:00Z"
+        },
+        {
+            "source": {
+                "name": "digitaltrends"
+            },
+            "title": "Finally, there’s an AI notetaker that does what I need",
+            "url": "https://www.digitaltrends.com/computing/plaud-note-pro-the-notetaker-for-people-who-hate-to-take-notes/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/09/Plaud-Note-Pro.jpg?p=1&resize=1200%2C630",
+            "publishedAt": "2025-09-03 13:07:00"
+        },
+        {
+            "source": {
+                "name": "etcentric"
+            },
+            "title": "Google, AWS Rack Up $23 Billion in New Data Center Growth",
+            "url": "https://www.etcentric.org/google-aws-rack-up-23-billion-in-new-data-center-growth/",
+            "urlToImage": "https://www.etcentric.org/wp-content/uploads/2020/05/Cloud_Computing_Data_Center-200x113.jpg",
+            "publishedAt": "2025-09-03 13:00:32"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Ethereum Is More Than Just “Crypto”",
+            "url": "https://hackernoon.com/ethereum-is-more-than-just-crypto",
+            "urlToImage": "https://hackernoon.imgix.net/images/5wpKgV75aONqkTJlafw2yQmK9yd2-cl03a8v.png",
+            "publishedAt": "2025-09-03 13:00:03"
+        },
+        {
+            "source": {
+                "name": "thelincolnianonline"
+            },
+            "title": "Reviewing Bitdeer Technologies Group (NASDAQ:BTDR) & Rackspace Technology (NASDAQ:RXT)",
+            "url": "https://www.thelincolnianonline.com/2025/09/03/reviewing-bitdeer-technologies-group-nasdaqbtdr-rackspace-technology-nasdaqrxt.html",
+            "urlToImage": "https://www.marketbeat.com/logos/bitdeer-technologies-group-logo-1200x675.png?v=20241015091349",
+            "publishedAt": "2025-09-03 12:58:57"
+        },
+        {
+            "source": {
+                "name": "phys"
+            },
+            "title": "Mutations driving evolution are informed by the genome, not random, study suggests",
+            "url": "https://phys.org/news/2025-09-mutations-evolution-genome-random.html",
+            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2025/mutations-driving-evol.jpg",
+            "publishedAt": "2025-09-03 12:39:59"
+        },
+        {
+            "source": {
+                "name": "phys"
+            },
+            "title": "AI is transforming weather forecasting, and that could be a game changer for farmers around the world",
+            "url": "https://phys.org/news/2025-09-ai-weather-game-changer-farmers.html",
+            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2023/cocoa-farmer.jpg",
+            "publishedAt": "2025-09-03 12:35:05"
+        },
+        {
+            "source": {
+                "name": "interestingengineering"
+            },
+            "title": "US supercomputer powers 500-times brighter X-rays to boost battery research",
+            "url": "https://interestingengineering.com/innovation/supercomputer-x-rays-boost-battery-research",
+            "urlToImage": "https://cms.interestingengineering.com/wp-content/uploads/2025/09/aurora-computer.jpg",
+            "publishedAt": "2025-09-03 12:25:07"
+        },
+        {
+            "source": {
+                "name": "medianama"
+            },
+            "title": "What Does AI-Assisted Hacking Mean For Cybersecurity?",
+            "url": "https://www.medianama.com/2025/09/223-ai-assisted-hacking-cybersecurity/",
+            "urlToImage": "https://www.medianama.com/wp-content/uploads/2021/08/hacker-2883632_1280-2.jpg",
+            "publishedAt": "2025-09-03 12:24:10"
         },
         {
             "source": {
@@ -3243,123 +3351,6 @@
             "url": "https://www.ndtv.com/offbeat/humans-in-demand-to-clean-up-ais-mess-amid-job-loss-fears-9200265",
             "urlToImage": "https://c.ndtvimg.com/2025-07/qc1ircu8_artificial-intelligence_625x300_01_July_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
             "publishedAt": "2025-09-02T03:35:55Z"
-        },
-        {
-            "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
-                "country": "in"
-            },
-            "title": "30-year-old woman dropped out of US university, now has a net worth of around ₹10,800 crore…",
-            "url": "https://www.hindustantimes.com/technology/30yearold-woman-dropped-out-of-us-university-now-has-a-net-worth-of-around-rs-10-800-crore-101756782786069.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/09/02/1600x900/photo-1487017159836-4e23ece2e4cf_1755421731507_1755421742500_1756782930376.jpg",
-            "publishedAt": "2025-09-02T03:30:45Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "Healthtech startups bet on AI to build electronic health records but adoption in India remains slow",
-            "url": "https://www.livemint.com/ai/healthtech-startups-ai-electronic-health-records-urban-hospitals-rural-clinics-qure-ai-jivi-ai-tulu-health-healthplix-11746890149900.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2025/09/01/1600x900/img_pre_1698070809757_1756744653033.jpg",
-            "publishedAt": "2025-09-02T03:30:02Z"
-        },
-        {
-            "source": {
-                "id": "6fea3ee012f060c6309366516e8d00be",
-                "name": "News-Medical.net",
-                "url": "https://www.news-medical.net",
-                "country": "gb"
-            },
-            "title": "Artificial intelligence offers individualized anticoagulation decisions for atrial fibrillation",
-            "url": "https://www.news-medical.net/news/20250901/Artificial-intelligence-offers-individualized-anticoagulation-decisions-for-atrial-fibrillation.aspx",
-            "urlToImage": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-            "publishedAt": "2025-09-02T03:12:00Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "AI literacy is the new career currency: How the modern workforce is being redefined",
-            "url": "https://timesofindia.indiatimes.com/education/careers/news/ai-literacy-is-the-new-career-currency-how-the-modern-workforce-is-being-redefined/articleshow/123646261.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-123646295,width-1070,height-580,imgsize-19324,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "publishedAt": "2025-09-02T03:11:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Coremail Brings AI-Powered, Secure Email System to Hong Kong",
-            "url": "https://www.manilatimes.net/2025/09/02/tmt-newswire/pr-newswire/coremail-brings-ai-powered-secure-email-system-to-hong-kong/2177111",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/09/02/732788.jpg",
-            "publishedAt": "2025-09-02T02:43:55Z"
-        },
-        {
-            "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
-                "country": "in"
-            },
-            "title": "Asian Stocks Edge Up, Japan Bond Auction In Focus: Markets Wrap",
-            "url": "https://www.ndtvprofit.com/markets/global-stock-markets-asian-indices-hand-seng-nikkei-dax-ftse-nasdaq-s-and-p-dow-jones-news-today-2-sept-2025",
-            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-09-02%2Fan19vhjq%2F439101219.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
-            "publishedAt": "2025-09-02T01:17:13Z"
-        },
-        {
-            "source": {
-                "name": "citizentribune"
-            },
-            "title": "Judge orders search shakeup in Google monopoly case, but keeps hands off Chrome and default deals",
-            "url": "https://www.citizentribune.com/news/business/judge-orders-search-shakeup-in-google-monopoly-case-but-keeps-hands-off-chrome-and-default/article_f9f64c3a-7c87-595f-8598-291555ffef4f.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/citizentribune.com/content/tncms/assets/v3/editorial/b/aa/baa21504-c262-505e-a0e9-0d25e6ca4ab5/68b777bb4dbe7.image.jpg?resize=300%2C200",
-            "publishedAt": "2025-09-02 23:44:08"
-        },
-        {
-            "source": {
-                "name": "nvdaily"
-            },
-            "title": "Judge orders search shakeup in Google monopoly case, but keeps hands off Chrome and default deals",
-            "url": "https://www.nvdaily.com/associated_press_national/judge-orders-search-shakeup-in-google-monopoly-case-but-keeps-hands-off-chrome-and-default/article_4e551c2a-9318-5aff-abcf-24c134e049aa.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/nvdaily.com/content/tncms/assets/v3/editorial/1/f1/1f11cea2-1980-5936-afb0-06c3e04a6b0b/68a35627dd698.image.jpg?resize=300%2C200",
-            "publishedAt": "2025-09-02 23:44:08"
-        },
-        {
-            "source": {
-                "name": "newswise"
-            },
-            "title": "Quantum Brilliance, ORNL Pioneer Quantum-Classical Hybrid Computing",
-            "url": "https://www.newswise.com/articles/quantum-brilliance-ornl-pioneer-quantum-classical-hybrid-computing/?sc=rsla",
-            "urlToImage": "https://www.newswise.com/legacy/image.php?height=334&image=%2Fimages%2Fuploads%2F2025%2F09%2F02%2F68b70a3a8c5c3_2025-P149621.jpg&time=08%3A26%3A47pm&width=502",
-            "publishedAt": "2025-09-02 23:38:07"
-        },
-        {
-            "source": {
-                "name": "journal_news"
-            },
-            "title": "SK hynix Introduces Industry's First Commercial High NA EUV",
-            "url": "https://www.journal-news.net/online_features/press_releases/sk-hynix-introduces-industrys-first-commercial-high-na-euv/article_8f1e5134-f826-5c20-bff1-edcde818c47c.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/journal-news.net/content/tncms/custom/image/3d1380e4-c027-11e8-a4dd-bb1ef9d5adc9.png?resize=600%2C315",
-            "publishedAt": "2025-09-02 23:30:00"
-        },
-        {
-            "source": {
-                "name": "nytimes"
-            },
-            "title": "What the Fixes for Google’s Search Monopoly Mean for You: It’s a ‘Nothingburger’",
-            "url": "https://www.nytimes.com/2025/09/02/technology/personaltech/what-the-fixes-for-googles-search-monopoly-mean-for-you-its-a-nothingburger.html",
-            "urlToImage": "https://static01.nyt.com/images/2025/08/12/business/12techfix/12techfix-articleLarge.jpg?auto=webp&disable=upscale&quality=75",
-            "publishedAt": "2025-09-02 23:25:24"
         }
     ]
 }
