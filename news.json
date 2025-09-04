@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-09-04T20:16:00.561512Z",
+    "lastUpdatedAt": "2025-09-04T21:13:39.184283Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Broadcom sees fourth-quarter revenue above estimates on growing AI chip demand",
+            "url": "https://www.reuters.com/business/media-telecom/broadcom-sees-fourth-quarter-revenue-above-estimates-growing-ai-chip-demand-2025-09-04/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/ICVKNMMIIRJNFCZZZVO5I4HKMI.jpg?auth=c4b6b8f2e08e3eedf5b3ba92be0892b4033b30cc6b2de9a90b3e5fe61ddeb197&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-09-04T20:35:19Z"
+        },
+        {
+            "source": {
+                "id": "e83df266d4bbd78d7528c3ee4fc0fc5f",
+                "name": "The Hollywood Reporter",
+                "url": "https://www.hollywoodreporter.com",
+                "country": "us"
+            },
+            "title": "Warner Bros. Discovery Sues Midjourney for Copyright Infringement",
+            "url": "https://www.hollywoodreporter.com/business/business-news/warner-bros-discovery-sues-ai-company-copyright-infringement-1236361610/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/09/Blank-2000-x-1127.jpg?w=1440&h=810&crop=1",
+            "publishedAt": "2025-09-04T20:02:29Z"
+        },
+        {
+            "source": {
+                "id": "77b86639d1384ac68141803ec5db27c0",
+                "name": "NBC News",
+                "url": "https://www.nbcnews.com",
+                "country": "us"
+            },
+            "title": "White House cuts to science funding threaten AI weather forecasting institute",
+            "url": "https://www.nbcnews.com/science/science-news/white-house-cuts-science-funding-threaten-ai-weather-forecasting-insti-rcna228934",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250807-national-weather-service-vl-1257p-f3ae03.jpg",
+            "publishedAt": "2025-09-04T19:50:36Z"
+        },
         {
             "source": {
                 "id": "73aabc646bff1356a46223f250cc6b52",
@@ -1416,6 +1452,96 @@
             "url": "https://www.globenewswire.com/news-release/2025/09/04/3144227/0/en/AI-for-Customer-Service-Market-to-Reach-USD-73-99-Billion-by-2032-Driven-by-Chatbots-ML-Software-BFSI-and-Global-Digital-Adoption-Research-by-SNS-Insider.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
             "publishedAt": "2025-09-04T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "news18"
+            },
+            "title": "Opinion | Modi, OpenAI & Reliance Intelligence: India's Big Leap In Accessible AI",
+            "url": "https://www.news18.com/opinion/opinion-modi-openai-reliance-intelligence-indias-big-leap-in-accessible-ai-ws-kl-9549002.html",
+            "urlToImage": "https://images.news18.com/ibnlive/uploads/2025/05/Artificial-intelligence-2025-05-38e3526396ae76a734f91852caa71c0b-3x2.png",
+            "publishedAt": "2025-09-04 09:12:43"
+        },
+        {
+            "source": {
+                "name": "businessinsider_us"
+            },
+            "title": "I work in AI at Microsoft without a college degree. Here's how I went from being the front man of a deathcore band to working in Big Tech.",
+            "url": "https://www.businessinsider.com/microsoft-ai-jobs-career-no-college-degree-deathcore-singer-skills-2025-9",
+            "urlToImage": "https://i.insider.com/68b80b46cfc04e97619c73bf?width=700",
+            "publishedAt": "2025-09-04 09:06:41"
+        },
+        {
+            "source": {
+                "name": "kedglobal"
+            },
+            "title": "LG Electronics flexes cooling power with Saudi Arabia, US AI data center deals",
+            "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202509040006",
+            "urlToImage": "https://www.kedglobal.com/data/ked/image/2025/09/04/ked202509040027.jpg",
+            "publishedAt": "2025-09-04 09:05:15"
+        },
+        {
+            "source": {
+                "name": "nbcnewyork"
+            },
+            "title": "Moms' careers and personal time hit hard by school drop-off demands, poll finds",
+            "url": "https://www.nbcnewyork.com/news/national-international/moms-careers-personal-time-school-drop-off-demands/6383931/",
+            "urlToImage": "https://media.nbcnewyork.com/2025/09/AP25247002373340.jpg?fit=5395%2C3597&quality=85&strip=all",
+            "publishedAt": "2025-09-04 09:05:13"
+        },
+        {
+            "source": {
+                "name": "insider"
+            },
+            "title": "Amazon is ready to enter the AI agent race in a big way, according to internal documents",
+            "url": "https://www.businessinsider.com/amazon-ready-enter-ai-agent-race-2025-9",
+            "urlToImage": "https://i.insider.com/68199d973fe8d392836504f3?width=700",
+            "publishedAt": "2025-09-04 09:00:01"
+        },
+        {
+            "source": {
+                "name": "benzinga"
+            },
+            "title": "WeRide Launches 24/7 Fully Driverless Robotaxi Service in Guangzhou's Huangpu District",
+            "url": "https://www.benzinga.com/pressreleases/25/09/g47492598/weride-launches-247-fully-driverless-robotaxi-service-in-guangzhous-huangpu-district",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/5e18f23a-8d59-4226-a328-47cfa29b6c4c/1.jpg",
+            "publishedAt": "2025-09-04 09:00:00"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "IPVanish raises its privacy standards by upgrading to RAM-only servers",
+            "url": "https://www.tomsguide.com/computing/vpns/ipvanish-raises-its-privacy-standards-by-upgrading-to-ram-only-servers",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/MGkCNxR58pnJosySuTwkaY-1280-80.jpg",
+            "publishedAt": "2025-09-04 08:54:48"
+        },
+        {
+            "source": {
+                "name": "expresscomputer"
+            },
+            "title": "dMACQ Software unveils DMS+ to transform enterprise document management",
+            "url": "https://www.expresscomputer.in/news/dmacq-software-unveils-dms-to-transform-enterprise-document-management/127516/",
+            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2025/09/04141154/New-Project-2025-09-04T141117.145.jpg",
+            "publishedAt": "2025-09-04 08:42:58"
+        },
+        {
+            "source": {
+                "name": "hastingstribune"
+            },
+            "title": "Ant International’s Antom Debuts Agentic Payment Solution, Pioneering APM Checkout Solution and Trusted AI for Secure Transactions",
+            "url": "https://www.hastingstribune.com/ap/business/ant-international-s-antom-debuts-agentic-payment-solution-pioneering-apm-checkout-solution-and-trusted-ai/article_0fcda0e5-24ec-5866-8ae5-146e8202cbdb.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/hastingstribune.com/content/tncms/assets/v3/editorial/2/3e/23e657fb-d906-5697-834d-58918dd308a2/68b952f056299.image.jpg?resize=400%2C304",
+            "publishedAt": "2025-09-04 08:35:55"
+        },
+        {
+            "source": {
+                "name": "postregister"
+            },
+            "title": "Ant International’s Antom Debuts Agentic Payment Solution, Pioneering APM Checkout Solution and Trusted AI for Secure Transactions",
+            "url": "https://www.postregister.com/businessreport/technology/ant-international-s-antom-debuts-agentic-payment-solution-pioneering-apm-checkout-solution-and-trusted-ai/article_9a391f08-1239-5319-849b-cdd5b60a5a4f.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/assets/v3/editorial/f/02/f02f08e6-83ca-5668-9e93-12dbb2242fd5/68b9520475400.image.jpg?resize=300%2C228",
+            "publishedAt": "2025-09-04 08:35:55"
         },
         {
             "source": {
@@ -3267,138 +3393,6 @@
             "url": "https://www.manilatimes.net/2025/09/03/world/americas-emea/chatgpt-to-get-parental-controls-after-teens-death/2177887",
             "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/09/03/734067.jpg",
             "publishedAt": "2025-09-03T02:04:00Z"
-        },
-        {
-            "source": {
-                "id": "a3391c15eb1d3136f9b9dd080940d0e8",
-                "name": "The Nation",
-                "url": "https://www.nation.com.pk",
-                "country": "pk"
-            },
-            "title": "NUTECH launches MS, PhD programs",
-            "url": "https://www.nation.com.pk/03-Sep-2025/nutech-launches-ms-phd-programs",
-            "urlToImage": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
-            "publishedAt": "2025-09-03T01:37:31Z"
-        },
-        {
-            "source": {
-                "id": "10cbfb3760cfcdeb78c733c527f0e814",
-                "name": "iTWire",
-                "url": "https://itwire.com",
-                "country": "au"
-            },
-            "title": "KnowBe4 Releases Cybersecurity Awareness Month Resource Kit at No Cost",
-            "url": "https://itwire.com/business-it-news/security/knowbe4-releases-cybersecurity-awareness-month-resource-kit-at-no-cost.html",
-            "urlToImage": "https://itwire.com/media/k2/items/cache/a7296ec34c95ddcd97d54d54612d88c0_XS.jpg",
-            "publishedAt": "2025-09-03T01:35:00Z"
-        },
-        {
-            "source": {
-                "id": "77b86639d1384ac68141803ec5db27c0",
-                "name": "NBC News",
-                "url": "https://www.nbcnews.com",
-                "country": "us"
-            },
-            "title": "Salesforce CEO confirms 4,000 layoffs ‘because I need less heads’ with AI",
-            "url": "https://www.nbcnews.com/business/business-news/salesforce-ceo-confirms-4000-layoffs-need-less-heads-ai-rcna228703",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250902-Marc-Benioff-ch-2108-db32c2.jpg",
-            "publishedAt": "2025-09-03T01:14:00Z"
-        },
-        {
-            "source": {
-                "id": "43ce1d937b6aed9ea231b649cb2b7b4b",
-                "name": "The Dallas Morning News",
-                "url": "https://www.dallasnews.com",
-                "country": "us"
-            },
-            "title": "Salesforce CEO Marc Benioff says tech giant cut 4,000 support roles because of AI",
-            "url": "https://www.dallasnews.com/business/technology/2025/09/02/salesforce-ceo-marc-benioff-says-tech-giant-cut-4000-support-roles-because-of-ai/",
-            "urlToImage": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/UQZIUOPDVIJ6OA5F4AOTX4DDDI.jpg?auth=9f20835f115418ac9f736fe873209c05d1825bf27875c0117d5b2d4b42c631f7&quality=80&width=1200&height=630&smart=true",
-            "publishedAt": "2025-09-03T00:34:38Z"
-        },
-        {
-            "source": {
-                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-                "name": "Markets Insider",
-                "url": "https://markets.businessinsider.com",
-                "country": "us"
-            },
-            "title": "Here’s Why Morgan Stanley Turned Bullish on Zscaler Stock (ZS) Ahead of Earnings",
-            "url": "https://markets.businessinsider.com/news/stocks/here-s-why-morgan-stanley-turned-bullish-on-zscaler-stock-zs-ahead-of-earnings-1035107614",
-            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/09/Screenshot-2025-09-02-at-5-1024x772.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-            "publishedAt": "2025-09-03T00:10:00Z"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Cybercriminals Weaponize Open-Source AI for Rapid Exploits",
-            "url": "https://www.webpronews.com/cybercriminals-weaponize-open-source-ai-for-rapid-exploits/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-42914f91-b750-4f1e-b8e1-369e71d4c7d8.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-09-03 23:48:40"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "The Evolution of Market Simulators: From Stigler to Deep Learning",
-            "url": "https://hackernoon.com/the-evolution-of-market-simulators-from-stigler-to-deep-learning",
-            "urlToImage": "https://hackernoon.imgix.net/images/a-black-and-white-picture-of-old-wall-street-bf5g9m8nywwy1jtji4qb1h9g.png",
-            "publishedAt": "2025-09-03 23:10:28"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "Maximizing Mobile Productivity With Apple Vision Pro And MacBook Pro",
-            "url": "https://www.forbes.com/sites/moorinsights/2025/09/03/maximizing-mobile-productivity-with-apple-vision-pro-and-macbook-pro/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68b8c507909c9530ebd1ce9a/0x0.jpg?width=960",
-            "publishedAt": "2025-09-03 23:00:07"
-        },
-        {
-            "source": {
-                "name": "gizmodotech"
-            },
-            "title": "Apple Planning AI-Powered Web Search for Siri Next Year: Report",
-            "url": "https://gizmodo.com/apple-planning-ai-powered-web-search-for-siri-next-year-report-2000653179",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/09/tim-cook-june-16-2025.jpg",
-            "publishedAt": "2025-09-03 22:25:11"
-        },
-        {
-            "source": {
-                "name": "dailycamera"
-            },
-            "title": "CU Boulder to offer free, online course on AI open to the general public",
-            "url": "https://www.dailycamera.com/2025/09/03/cu-boulder-free-class-course-open-public-online-ai/",
-            "urlToImage": "https://www.dailycamera.com/wp-content/uploads/2023/05/DCC-L-GRAD_2MJ7723.jpg?strip=all&w=1400px",
-            "publishedAt": "2025-09-03 22:02:09"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "China’s Military Parades Into The Cognitive Era",
-            "url": "https://www.forbes.com/sites/amirhusain/2025/09/03/chinas-military-parades-into-the-cognitive-era/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68b8b1baa73ce68500143a03/0x0.jpg?width=960",
-            "publishedAt": "2025-09-03 22:01:29"
-        },
-        {
-            "source": {
-                "name": "interestingengineering"
-            },
-            "title": "New hollow glass fiber design carries internet in air with 1,000x transmission power",
-            "url": "https://interestingengineering.com/innovation/hollow-optical-fibers-speed-quantum-networks",
-            "urlToImage": "https://cms.interestingengineering.com/wp-content/uploads/2025/09/optical-fiber.jpg",
-            "publishedAt": "2025-09-03 21:58:01"
-        },
-        {
-            "source": {
-                "name": "arstechnica"
-            },
-            "title": "New AI model turns photos into explorable 3D worlds, with caveats",
-            "url": "https://arstechnica.com/ai/2025/09/new-ai-model-turns-photos-into-explorable-3d-worlds-with-caveats/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/voyager_screenshot-1152x648.jpg",
-            "publishedAt": "2025-09-03 21:56:07"
         }
     ]
 }
