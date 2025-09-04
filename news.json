@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2025-09-04T17:12:36.679866Z",
+    "lastUpdatedAt": "2025-09-04T18:20:30.828277Z",
     "articles": [
+        {
+            "source": {
+                "id": "26269dbc42635df9af8c24f3cdab8e37",
+                "name": "Cable News Network",
+                "url": "https://edition.cnn.com",
+                "country": "us"
+            },
+            "title": "Melania Trump reemerges to highlight responsible AI: ‘The robots are here’",
+            "url": "https://edition.cnn.com/2025/09/04/politics/melania-trump-white-house-appearance-ai",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2025-09-04t173418z-1338221866-rc25lgal3nde-rtrmadp-3-usa-trump-melania.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2025-09-04T18:02:01Z"
+        },
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "AI model reveals hidden earthquake swarms and faults in Italy's Campi Flegrei",
+            "url": "https://phys.org/news/2025-09-ai-reveals-hidden-earthquake-swarms.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/ai-model-reveals-hidde.jpg",
+            "publishedAt": "2025-09-04T18:00:26Z"
+        },
+        {
+            "source": {
+                "id": "602d1de710d66397a00201d8efdd36ee",
+                "name": "Inc. Magazine",
+                "url": "https://www.inc.com",
+                "country": "us"
+            },
+            "title": "Hackers Could be Targeting Your Company",
+            "url": "https://www.inc.com/kit-eaton/if-youre-using-microsoft-teams-beware-hackers-could-be-targeting-your-company/91235615",
+            "urlToImage": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2025/09/teams-hackers-inc-2214034196.jpg",
+            "publishedAt": "2025-09-04T17:53:27Z"
+        },
+        {
+            "source": {
+                "id": "3989f52bbec2d3be8442e2851b59e79e",
+                "name": "CBS Sports",
+                "url": "https://www.cbssports.com",
+                "country": "us"
+            },
+            "title": "Eagles vs. Cowboys props, odds, SportsLine Machine Learning Model AI predictions, NFL Kickoff Game SGP bets",
+            "url": "https://www.cbssports.com/nfl/news/eagles-vs-cowboys-props-odds-sportsline-machine-learning-model-ai-predictions-nfl-kickoff-game-sgp-bets/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/10/28/b791fc8c-e46d-4333-81ac-321ee1d42b68/thumbnail/1200x675/3d9d5d0a004a0f819793d73a00a5cb69/template-pic.jpg",
+            "publishedAt": "2025-09-04T17:34:10Z"
+        },
+        {
+            "source": {
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
+                "country": "us"
+            },
+            "title": "Busy brides are saying 'AI do!' with controversial vow generators",
+            "url": "https://nypost.com/2025/09/04/lifestyle/busy-brides-are-saying-ai-do-with-controversial-vow-generators/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/09/110617271.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2025-09-04T17:09:20Z"
+        },
         {
             "source": {
                 "id": "49853ffafc28f405ff8ed06043290ae8",
@@ -1260,6 +1320,96 @@
             "url": "https://www.globenewswire.com/news-release/2025/09/04/3144227/0/en/AI-for-Customer-Service-Market-to-Reach-USD-73-99-Billion-by-2032-Driven-by-Chatbots-ML-Software-BFSI-and-Global-Digital-Adoption-Research-by-SNS-Insider.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
             "publishedAt": "2025-09-04T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "republicworld"
+            },
+            "title": "Seattle Tech Layoffs Continue: Nearly 200 Workers Cut by Salesforce and Oracle This Week",
+            "url": "https://www.republicworld.com/tech/seattle-tech-layoffs-continue-nearly-200-workers-cut-by-salesforce-and-oracle-this-week",
+            "urlToImage": "https://img.republicworld.com/all_images/over-1-lakh-tech-layoffs-in-july-2024-major-it-firms-cut-thousands-of-jobs-1722942092808-16_9.webp?format=webp&h=225&q=75&w=400",
+            "publishedAt": "2025-09-04 06:18:32"
+        },
+        {
+            "source": {
+                "name": "hindustantimes"
+            },
+            "title": "Apple’s Siri may be powered by Google Gemini AI, with possible launch in 2026",
+            "url": "https://www.hindustantimes.com/technology/apples-siri-may-be-powered-by-google-gemini-ai-with-possible-launch-in-2026-101756965560937.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/09/04/1600x900/hero__cc2hijh14hea_large_2x_1756965570466_1756965587545.jpg",
+            "publishedAt": "2025-09-04 06:02:41"
+        },
+        {
+            "source": {
+                "name": "worldpharmatoday"
+            },
+            "title": "FDA Aims to Decrease Animal Testing as Tech Gathers Pace",
+            "url": "https://www.worldpharmatoday.com/news/fda-aims-to-decrease-animal-testing-as-tech-gathers-pace/",
+            "urlToImage": "https://www.worldpharmatoday.com/wp-content/uploads/2025/09/FDA-Aims-to-Decrease-Animal-Testing-as-Tech-Gathers-Pace.jpg",
+            "publishedAt": "2025-09-04 06:01:15"
+        },
+        {
+            "source": {
+                "name": "latestly"
+            },
+            "title": "Business News | DES Pune University Revamps M.Sc. Programs with Industry-Aligned Curriculum, Advanced Labs & Real-World Research Focus",
+            "url": "https://www.latestly.com/agency-news/business-news-des-pune-university-revamps-m-sc-programs-with-industry-aligned-curriculum-advanced-labs-real-world-research-focus-7093155.html",
+            "urlToImage": "https://st1.latestly.com/wp-content/uploads/2025/09/ANI-20250904053236.jpg",
+            "publishedAt": "2025-09-04 06:00:31"
+        },
+        {
+            "source": {
+                "name": "techannouncer"
+            },
+            "title": "Stay Ahead with TechCrunch AI News: Latest Updates and Analysis",
+            "url": "https://techannouncer.com/stay-ahead-with-techcrunch-ai-news-latest-updates-and-analysis/",
+            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/09/588c4246thumbnail-332x187.jpeg",
+            "publishedAt": "2025-09-04 05:58:18"
+        },
+        {
+            "source": {
+                "name": "digit_in"
+            },
+            "title": "Dolby Vision 2 launches with AI-tuned picture, creator controls and ambient light sensing",
+            "url": "https://www.digit.in/news/tvs/dolby-vision-2-launches-with-ai-tuned-picture-creator-controls-and-ambient-light-sensing.html",
+            "urlToImage": "https://static.digit.in/Dolby-Vision-2.jpg",
+            "publishedAt": "2025-09-04 05:49:00"
+        },
+        {
+            "source": {
+                "name": "economictimes_indiatimes"
+            },
+            "title": "Semicon India 2025: Check 13 key announcements",
+            "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/semicon-india-2025-the-future-of-chips-is-being-shaped-in-india-says-ashwini-vaishnaw-shares-13-key-announcements-semiconductor-with-tata-electronics-mou-idta/articleshow/123691472.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1811521,resizemode-75,msid-123691472/industry/cons-products/electronics/semicon-india-2025-the-future-of-chips-is-being-shaped-in-india-says-ashwini-vaishnaw-shares-13-key-announcements-semiconductor-with-tata-electronics-mou-idta.jpg",
+            "publishedAt": "2025-09-04 05:48:36"
+        },
+        {
+            "source": {
+                "name": "businesstoday"
+            },
+            "title": "Sandisk WD Blue SN5100 NVMe SSD launched in India: Check storage, features, price",
+            "url": "https://www.businesstoday.in/technology/news/story/sandisk-wd-blue-sn5100-nvme-ssd-launched-in-india-check-storage-features-price-492489-2025-09-04",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202509/68b92643ca93e-sandisk-wd-blue-sn5100-nvme-ssd-launched-in-india-044013735-16x9.jpg",
+            "publishedAt": "2025-09-04 05:45:11"
+        },
+        {
+            "source": {
+                "name": "techannouncer"
+            },
+            "title": "Cleveland Clinic’s AI Nurse: Revolutionizing Patient Care with Artificial Intelligence",
+            "url": "https://techannouncer.com/cleveland-clinics-ai-nurse-revolutionizing-patient-care-with-artificial-intelligence/",
+            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/09/93707895thumbnail-332x187.jpeg",
+            "publishedAt": "2025-09-04 05:36:11"
+        },
+        {
+            "source": {
+                "name": "techannouncer"
+            },
+            "title": "NVIDIA’s Dominance in Self-Driving Technology: A Deep Dive",
+            "url": "https://techannouncer.com/nvidias-dominance-in-self-driving-technology-a-deep-dive/",
+            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/09/4700d0e9thumbnail-332x187.jpeg",
+            "publishedAt": "2025-09-04 05:34:13"
         },
         {
             "source": {
@@ -3225,141 +3375,6 @@
             "url": "https://www.digitaltrends.com/computing/ibuypower-slate-gaming-pc-deal-walmart-september-2025/",
             "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/09/iBuyPower-Slate-gaming-PC.jpg?p=1&resize=1200%2C630",
             "publishedAt": "2025-09-03 18:05:00"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "Black Tech Street Collaborates with NVIDIA to Advance AI Education and Innovation in Tulsa (Historic Greenwood)",
-            "url": "https://www.prnewswire.com/news-releases/black-tech-street-collaborates-with-nvidia-to-advance-ai-education-and-innovation-in-tulsa-historic-greenwood-302545590.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2165946/bts_logo_main__1_Logo.jpg?p=original",
-            "publishedAt": "2025-09-03 18:00:00"
-        },
-        {
-            "source": {
-                "name": "newsbytesapp"
-            },
-            "title": "Meet YJ-19, China's 1st air-breathing hypersonic cruise missile",
-            "url": "https://www.newsbytesapp.com/news/science/china-unveils-1st-air-breathing-hypersonic-cruise-missile-the-yj-19/story",
-            "urlToImage": "https://i.cdn.newsbytesapp.com/images/l73020250903154131.jpeg",
-            "publishedAt": "2025-09-03 17:56:07"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "TechCrunch Exclusive: Amazon’s Latest AI Innovations Revealed",
-            "url": "https://techannouncer.com/techcrunch-exclusive-amazons-latest-ai-innovations-revealed/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/09/7f20f3f9thumbnail-332x187.jpeg",
-            "publishedAt": "2025-09-03 17:53:06"
-        },
-        {
-            "source": {
-                "name": "techcrunch"
-            },
-            "title": "Orchard Robotics, founded by a Thiel fellow Cornell dropout, raises $22M for farm vision AI",
-            "url": "https://techcrunch.com/2025/09/03/orchard-robotics-founded-by-a-thiel-fellow-cornell-dropout-raises-22m-for-farm-vision-ai/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/CameraSystem_Picture.png?resize=1200%2C1118",
-            "publishedAt": "2025-09-03 17:30:00"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Starlink Speeds: What Reddit Users Are Reporting in 2025",
-            "url": "https://techannouncer.com/starlink-speeds-what-reddit-users-are-reporting-in-2025/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/09/930549a0thumbnail-332x187.jpeg",
-            "publishedAt": "2025-09-03 17:18:07"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Mastering Python Automation Learning: Your Path to Efficiency",
-            "url": "https://techannouncer.com/mastering-python-automation-learning-your-path-to-efficiency/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/09/ec096c86thumbnail-332x187.jpeg",
-            "publishedAt": "2025-09-03 17:10:05"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "US Small and Midsize Businesses Turn to AI to Power Global Ambitions, ASUS Data Reveals",
-            "url": "https://www.prnewswire.com/news-releases/us-small-and-midsize-businesses-turn-to-ai-to-power-global-ambitions-asus-data-reveals-302545498.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2759890/ASUS_2.jpg?p=original",
-            "publishedAt": "2025-09-03 16:30:00"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Acurast Launches ‘Staked Compute’ to Challenge AWS, Azure and Google Cloud with Decentralized Smartphone Network",
-            "url": "https://www.analyticsinsight.net/tech-news/acurast-launches-staked-compute-to-challenge-aws-azure-and-google-cloud-with-decentralized-smartphone-network",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-09-02%2Fcke7qjtq%2FAcurast-1.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-09-03 16:30:00"
-        },
-        {
-            "source": {
-                "name": "auburnpub"
-            },
-            "title": "Hidden costs of AI",
-            "url": "https://auburnpub.com/article_6e22053f-af47-4450-95e4-5abe94842f5e.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/auburnpub.com/content/tncms/custom/image/d462ca50-9db1-11ee-8fb0-3769c4efa055.png?resize=600%2C315",
-            "publishedAt": "2025-09-03 16:15:54"
-        },
-        {
-            "source": {
-                "name": "inc42"
-            },
-            "title": "India’s Semiconductor Moment Is Here, But Is This Just About Optics?",
-            "url": "https://inc42.com/features/indias-semiconductor-moment-is-here-but-is-this-just-about-optics/",
-            "urlToImage": "https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2025/09/India-Semiconductor-ftr.jpg",
-            "publishedAt": "2025-09-03 16:05:30"
-        },
-        {
-            "source": {
-                "name": "qconline"
-            },
-            "title": "AI PC vs. ChatGPT: What’s the Difference?",
-            "url": "https://qconline.com/life-entertainment/nation-world/travel/article_e2206b14-9d97-5476-a486-14b1b98b4da2.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/qconline.com/content/tncms/assets/v3/editorial/7/f6/7f651e5f-3d7a-59c9-87b7-98cf274be54e/68b87b47348a4.image.jpg",
-            "publishedAt": "2025-09-03 16:05:29"
-        },
-        {
-            "source": {
-                "name": "journalnow"
-            },
-            "title": "AI PC vs. ChatGPT: What’s the Difference?",
-            "url": "https://journalnow.com/life-entertainment/nation-world/travel/article_678388d5-2e5b-533b-8597-4feb691f5244.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/b/03/b034f8a1-1baf-5f60-b620-c3e1fd504f86/68b87b34a1070.image.jpg?resize=300%2C225",
-            "publishedAt": "2025-09-03 16:05:29"
-        },
-        {
-            "source": {
-                "name": "journalstar"
-            },
-            "title": "AI PC vs. ChatGPT: What’s the Difference?",
-            "url": "https://journalstar.com/life-entertainment/nation-world/travel/article_eb86c35f-ba90-5668-b1f2-cfc9b9864bcd.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/6/8e/68e26e06-dfd1-588f-ade4-48557b933bda/68b87b60e394e.image.jpg?crop=1200%2C630%2C0%2C135",
-            "publishedAt": "2025-09-03 16:05:29"
-        },
-        {
-            "source": {
-                "name": "nptelegraph"
-            },
-            "title": "AI PC vs. ChatGPT: What’s the Difference?",
-            "url": "https://nptelegraph.com/life-entertainment/nation-world/travel/article_762c2639-bfbe-5ca7-b0e4-9bffcce760ee.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/nptelegraph.com/content/tncms/assets/v3/editorial/b/53/b53b2d92-66c7-5045-a8f0-73b71ced52fc/68b87a1b1f3d1.image.jpg?crop=1200%2C630%2C0%2C135",
-            "publishedAt": "2025-09-03 16:05:29"
-        },
-        {
-            "source": {
-                "name": "godanriver"
-            },
-            "title": "AI PC vs. ChatGPT: What’s the Difference?",
-            "url": "https://godanriver.com/life-entertainment/nation-world/travel/article_2ee5b40f-7cb4-5c74-98ad-7069e9e1bbc3.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/godanriver.com/content/tncms/assets/v3/editorial/6/9d/69d13597-c52a-5367-85da-785ed94fcfda/68b87b4bb6a4f.image.jpg?resize=300%2C225",
-            "publishedAt": "2025-09-03 16:05:29"
         }
     ]
 }
