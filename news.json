@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2025-09-05T06:22:18.208319Z",
+    "lastUpdatedAt": "2025-09-05T07:14:48.454732Z",
     "articles": [
+        {
+            "source": {
+                "id": "5b07f2eba74fc799fd5d1ee46c5bafc3",
+                "name": "Newsweek",
+                "url": "https://www.newsweek.com",
+                "country": "us"
+            },
+            "title": "Donald Trump Inviting Bill Gates to White House Sparks MAGA Fury",
+            "url": "https://www.newsweek.com/donald-trump-inviting-bill-gates-white-house-dinner-sparks-maga-fury-2124905",
+            "urlToImage": "https://d.newsweek.com/en/full/2716369/bill-gates.jpg",
+            "publishedAt": "2025-09-05T06:44:31Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Samsung, LG Electronics push AI home strategies in Europe",
+            "url": "https://www.devdiscourse.com/article/business/3616263-samsung-lg-electronics-push-ai-home-strategies-in-europe",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/05_09_2025_12_06_01_5179695.jpg?width=920&format=jpeg",
+            "publishedAt": "2025-09-05T06:36:10Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Samsung, LG Electronics push AI home strategies in Europe",
+            "url": "https://www.tribuneindia.com/news/business/samsung-lg-electronics-push-ai-home-strategies-in-europe/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWNmODI5MjAwLThhMjEtMTFmMC04NDliLWQxMWMzZjNiMjVlNy5qcGc=",
+            "publishedAt": "2025-09-05T06:30:18Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "'Salt Typhoon' attack: How China hackers may have accessed sensitive US data; tapped into power grids",
+            "url": "https://timesofindia.indiatimes.com/world/us/salt-typhoon-attack-how-china-hackers-may-have-accessed-sensitive-us-data-tapped-into-power-grids/articleshow/123712302.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-123713289,width-1070,height-580,imgsize-1148853,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-09-05T06:25:00Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "Imperium AI Is Transforming the Workforce with Autonomous AI Employees",
+            "url": "https://techbullion.com/imperium-ai-is-transforming-the-workforce-with-autonomous-ai-employees/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/IMG_1939-933x600.jpg",
+            "publishedAt": "2025-09-05T06:15:49Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "Empowering Businesses With AI: An Exclusive Interview With Dr. Hritik Gupta, CEO of GenAIPulse",
+            "url": "https://techbullion.com/empowering-businesses-with-ai-an-exclusive-interview-with-dr-hritik-gupta-ceo-of-genaipulse/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/IMG_1938-593x600.jpg",
+            "publishedAt": "2025-09-05T06:10:59Z"
+        },
+        {
+            "source": {
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
+                "country": "us"
+            },
+            "title": "OpenAI To Certify 10 Million Americans In Generative AI By 2030, Partnering With Walmart To Train The Next Wave Of AI-Savvy Workers",
+            "url": "https://www.benzinga.com/markets/tech/25/09/47515310/openai-to-certify-10-million-americans-in-generative-ai-by-2030-partnering-with-walmart-to-train-the-next-wave-of-ai-savvy-workers",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/09/05/OpenAI.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2025-09-05T06:10:56Z"
+        },
         {
             "source": {
                 "id": "c73686fdf0e30639d57eddaf7a77236e",
@@ -2007,6 +2091,51 @@
         },
         {
             "source": {
+                "name": "wired"
+            },
+            "title": "Should AI Get Legal Rights?",
+            "url": "https://www.wired.com/story/model-welfare-artificial-intelligence-sentience/",
+            "urlToImage": "https://media.wired.com/photos/68b8cc7fbe44883ea6b4f0aa/master/w_120,c_limit/Model-Behavior-AI-Model-Warfare-Business.jpg",
+            "publishedAt": "2025-09-04 19:05:56"
+        },
+        {
+            "source": {
+                "name": "digitaltrends"
+            },
+            "title": "Gemini vs Copilot: how do these AIs compare and which is best?",
+            "url": "https://www.digitaltrends.com/computing/gemini-vs-copilot-how-do-these-ais-compare-and-which-is-best/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/04/Opera-Aria-vs-ChatGPT-vs-Google-Gemini-web-search.jpg?p=1&resize=1200%2C630",
+            "publishedAt": "2025-09-04 19:00:00"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "Got AI skills? You can earn 43% more in your next job - and not just for tech work",
+            "url": "https://www.zdnet.com/article/got-ai-skills-you-can-earn-43-more-in-your-next-job-and-not-just-for-tech-work/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/78ce0f89b2fec880fb116254011700d7773bb8a8/2025/09/04/957ffe79-bd3d-445e-9da0-9e29c7544b6e/oneshines555gettyimages-1282695992.jpg?auto=webp&width=1280",
+            "publishedAt": "2025-09-04 18:37:55"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Red Hat’s Hans de Goede Departs After 17 Years of Linux Hardware Innovations",
+            "url": "https://www.webpronews.com/red-hats-hans-de-goede-departs-after-17-years-of-linux-hardware-innovations/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-72421a3b-c4c3-4e12-9e5c-167ccafb6e21.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-09-04 18:30:00"
+        },
+        {
+            "source": {
+                "name": "pcworld_us"
+            },
+            "title": "Best 5 VPNs for streaming Netflix and other services",
+            "url": "https://www.pcworld.com/article/618517/best-vpn-for-streaming-netflix.html",
+            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/09/Netflix-Hintergrund-3.jpg?quality=50&strip=all",
+            "publishedAt": "2025-09-04 18:30:00"
+        },
+        {
+            "source": {
                 "name": "aboutamazon"
             },
             "title": "How Amazon is supporting the White House's AI education initiatives",
@@ -3093,114 +3222,6 @@
             "url": "https://techannouncer.com/google-pixel-8a-vs-pixel-8-which-budget-friendly-flagship-reigns-supreme/",
             "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/09/ae236ca7thumbnail-332x187.jpeg",
             "publishedAt": "2025-09-04 01:50:03"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Ryzen vs Intel: Decoding the Best Processor for Your Needs in 2025",
-            "url": "https://techannouncer.com/ryzen-vs-intel-decoding-the-best-processor-for-your-needs-in-2025/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/09/d2a7b6e2thumbnail-332x187.jpeg",
-            "publishedAt": "2025-09-04 01:49:03"
-        },
-        {
-            "source": {
-                "name": "thehindubusinessline"
-            },
-            "title": "Netweb technologies secures ₹1,734 cr order to power India’s sovereign AI infrastructure",
-            "url": "https://www.thehindubusinessline.com/info-tech/netweb-technologies-secures-1734-cr-order-to-power-indias-sovereign-ai-infrastructure/article70008805.ece",
-            "urlToImage": "https://bl-i.thgim.com/public/incoming/m67hr2/article70008866.ece/alternates/LANDSCAPE_1200/PO16_Netwebs.jpg",
-            "publishedAt": "2025-09-04 01:45:35"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Explore the Latest Technology New Video Releases and Trends",
-            "url": "https://techannouncer.com/explore-the-latest-technology-new-video-releases-and-trends/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/09/dcb8b80bthumbnail-332x187.jpeg",
-            "publishedAt": "2025-09-04 01:31:09"
-        },
-        {
-            "source": {
-                "name": "xda_developers"
-            },
-            "title": "I found this new PDF reader so good, I might uninstall Adobe Acrobat",
-            "url": "https://www.xda-developers.com/found-pdf-reader-so-good-might-uninstall-adobe-acrobat/",
-            "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/09/best-adobe-acrobat-alternative.jpg",
-            "publishedAt": "2025-09-04 01:00:18"
-        },
-        {
-            "source": {
-                "name": "en_prnasisa"
-            },
-            "title": "Empyrion Digital Leverages Nortek DCC's StatePoint® Liquid Cooling Technology to Power South Korea's Next-Gen, AI-Ready Data Centre",
-            "url": "https://en.prnasia.com/story/502055-0.shtml",
-            "urlToImage": "https://mma.prnasia.com/media2/2761793/GDC_birdview_20250528__2.jpg?p=medium600",
-            "publishedAt": "2025-09-04 01:00:00"
-        },
-        {
-            "source": {
-                "name": "prnewswire_apac"
-            },
-            "title": "Empyrion Digital Leverages Nortek DCC's StatePoint® Liquid Cooling Technology to Power South Korea's Next-Gen, AI-Ready Data Centre",
-            "url": "https://www.prnewswire.com/apac/news-releases/empyrion-digital-leverages-nortek-dccs-statepoint-liquid-cooling-technology-to-power-south-koreas-next-gen-ai-ready-data-centre-302543027.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2761793/GDC_birdview_20250528__2.jpg?p=original",
-            "publishedAt": "2025-09-04 01:00:00"
-        },
-        {
-            "source": {
-                "name": "hindustantimes"
-            },
-            "title": "Analysing co-brand credit cards for cashbacks, and Canva’s refreshing clarity on AI",
-            "url": "https://www.hindustantimes.com/technology/analysing-co-brand-credit-cards-for-cashbacks-and-canva-s-refreshing-clarity-on-ai-101756918939028.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/09/03/1600x900/Credit_card_India_cashback_1756918979205_1756918984565.jpg",
-            "publishedAt": "2025-09-04 00:30:08"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "MediaTek Dimensity 9500 Leak: 4.21GHz CPU, 100 TOPS AI to Rival Qualcomm",
-            "url": "https://www.webpronews.com/mediatek-dimensity-9500-leak-4-21ghz-cpu-100-tops-ai-to-rival-qualcomm/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-0ddea6de-d97b-4f59-91a5-6dd619bf5a90.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-09-04 00:18:43"
-        },
-        {
-            "source": {
-                "name": "toi"
-            },
-            "title": "RRI builds credit card-size computer to help trace universe’s first stars",
-            "url": "https://timesofindia.indiatimes.com/science/rri-builds-credit-card-size-computer-to-help-trace-universes-first-stars/articleshow/123687808.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-123687807,imgsize-288186,width-400,resizemode-4/tnn-photo.jpg",
-            "publishedAt": "2025-09-04 00:16:38"
-        },
-        {
-            "source": {
-                "name": "news4social"
-            },
-            "title": "RRI builds credit card-size computer to help trace universe’s first stars – The Times of India",
-            "url": "https://en.news4social.com/rri-builds-credit-card-size-computer-to-help-trace-universes-first-stars-the-times-of-india/",
-            "urlToImage": "https://i3.wp.com/static.toiimg.com/thumb/msid-123687807,imgsize-288186,width-400,resizemode-4/tnn-photo.jpg?resize=750%2C375&ssl=1&w=750",
-            "publishedAt": "2025-09-04 00:16:00"
-        },
-        {
-            "source": {
-                "name": "financialcontent"
-            },
-            "title": "Is Berkshire Hathaway the Smartest Investment You Can Make Today?",
-            "url": "https://www.fool.com/investing/2025/09/04/is-berkshire-hathaway-the-smartest-investment-you/",
-            "urlToImage": "https://g.foolcdn.com/image/?h=400&op=resize&url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F831688%2Fbuffett19-tmf.jpg&w=400",
-            "publishedAt": "2025-09-04 00:00:00"
-        },
-        {
-            "source": {
-                "name": "financialcontent"
-            },
-            "title": "Cathie Wood Predicts That AI Will Create a $13 Trillion Software Opportunity. This Stock Could Be Unstoppable If She's Right.",
-            "url": "https://www.fool.com/investing/2025/09/04/cathie-wood-ai-13-trillion-software-1-stock-buy-if/",
-            "urlToImage": "https://g.foolcdn.com/image/?h=400&op=resize&url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F831616%2Fan-investor-looking-at-their-smartphone-with-computer-screens-in-the-background-showing-stock-prices.jpg&w=400",
-            "publishedAt": "2025-09-04 00:00:00"
         }
     ]
 }
