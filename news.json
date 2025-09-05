@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-09-05T08:19:35.143102Z",
+    "lastUpdatedAt": "2025-09-05T09:16:05.042455Z",
     "articles": [
+        {
+            "source": {
+                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+                "name": "Firstpost",
+                "url": "https://www.firstpost.com",
+                "country": "in"
+            },
+            "title": "Teachers’ Day 2025: Will AI disrupt teaching jobs?",
+            "url": "https://www.firstpost.com/explainers/teachers-artificial-intelligence-jobs-impact-13931064.html",
+            "urlToImage": "https://images.firstpost.com/uploads/2025/09/Untitled-design-2025-09-05T114000.144-2025-09-23bb4f82c738e69f22a1c12b7412b4e5.jpg?im=FitAndFill=(1200,675)",
+            "publishedAt": "2025-09-05T08:49:27Z"
+        },
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "Can courts safeguard fairness in an AI age?",
+            "url": "https://phys.org/news/2025-09-courts-safeguard-fairness-ai-age.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/blind-justice.jpg",
+            "publishedAt": "2025-09-05T08:32:05Z"
+        },
+        {
+            "source": {
+                "id": "72ea416416ab0eec8fe687d6262961e8",
+                "name": "Finbold",
+                "url": "https://finbold.com",
+                "country": "bg"
+            },
+            "title": "Machine learning algorithm sets Dogecoin price for September 30, 2025",
+            "url": "https://finbold.com/machine-learning-algorithm-sets-dogecoin-price-for-september-30-2025/",
+            "urlToImage": "https://assets.finbold.com/uploads/2025/09/Machine-learning-algorithm-sets-Dogecoin-price-for-September-30-2025.jpg",
+            "publishedAt": "2025-09-05T08:25:40Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "From Bill Gates to Mark Zuckerberg, Donald Trump dines with AI and tech leaders - In pics",
+            "url": "https://timesofindia.indiatimes.com/world/us/from-bill-gates-to-mark-zuckerberg-donald-trump-dines-with-ai-and-tech-leaders-in-pics/photostory/123715431.cms",
+            "urlToImage": "https://static.toiimg.com/photo/123715460.cms",
+            "publishedAt": "2025-09-05T08:22:24Z"
+        },
         {
             "source": {
                 "id": "c5725557f39c24c8b029ee39900a8406",
@@ -2187,6 +2235,42 @@
         },
         {
             "source": {
+                "name": "xda_developers"
+            },
+            "title": "5 projects I can only do with a mini PC instead of a Raspberry Pi",
+            "url": "https://www.xda-developers.com/projects-only-do-with-mini-pc-instead-raspberry-pi/",
+            "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2024/08/amd-and-intel-mini-pcs-next-to-each-other.jpg",
+            "publishedAt": "2025-09-04 21:01:18"
+        },
+        {
+            "source": {
+                "name": "postregister"
+            },
+            "title": "Cadence to Acquire Hexagon’s Design & Engineering Business, Accelerating Expansion in Physical AI and System Design and Analysis",
+            "url": "https://www.postregister.com/businessreport/technology/cadence-to-acquire-hexagon-s-design-engineering-business-accelerating-expansion-in-physical-ai-and-system/article_2aef020b-d0b9-5dc7-bf69-ad15dffd6f0c.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
+            "publishedAt": "2025-09-04 20:31:44"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "MS-BASIC 1.1 introduced programming to a generation - now you can download it for free",
+            "url": "https://www.zdnet.com/article/ms-basic-1-1-introduced-programming-to-a-generation-now-you-can-download-it-for-free/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/acd332928e264165b929156911bf8970c0f2409d/2025/09/04/0f41b9a1-6213-4dc4-9848-bc62667a9c82/gettyimages-627710450.jpg?auto=webp&width=1280",
+            "publishedAt": "2025-09-04 20:24:02"
+        },
+        {
+            "source": {
+                "name": "postregister"
+            },
+            "title": "Cyber Innovation Center Attends AI Education Taskforce Roundtable at the White House",
+            "url": "https://www.postregister.com/businessreport/government/cyber-innovation-center-attends-ai-education-taskforce-roundtable-at-the-white-house/article_9a178f91-ab36-575d-a765-00fe732e109b.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
+            "publishedAt": "2025-09-04 20:19:09"
+        },
+        {
+            "source": {
                 "name": "siliconangle"
             },
             "title": "Three insights you might have missed from theCUBE’s Future of Data Platforms Summit",
@@ -3174,78 +3258,6 @@
             "url": "https://www.digit.in/news/tvs/dolby-vision-2-launches-with-ai-tuned-picture-creator-controls-and-ambient-light-sensing.html",
             "urlToImage": "https://static.digit.in/Dolby-Vision-2.jpg",
             "publishedAt": "2025-09-04 05:49:00"
-        },
-        {
-            "source": {
-                "name": "economictimes_indiatimes"
-            },
-            "title": "Semicon India 2025: Check 13 key announcements",
-            "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/semicon-india-2025-the-future-of-chips-is-being-shaped-in-india-says-ashwini-vaishnaw-shares-13-key-announcements-semiconductor-with-tata-electronics-mou-idta/articleshow/123691472.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1811521,resizemode-75,msid-123691472/industry/cons-products/electronics/semicon-india-2025-the-future-of-chips-is-being-shaped-in-india-says-ashwini-vaishnaw-shares-13-key-announcements-semiconductor-with-tata-electronics-mou-idta.jpg",
-            "publishedAt": "2025-09-04 05:48:36"
-        },
-        {
-            "source": {
-                "name": "businesstoday"
-            },
-            "title": "Sandisk WD Blue SN5100 NVMe SSD launched in India: Check storage, features, price",
-            "url": "https://www.businesstoday.in/technology/news/story/sandisk-wd-blue-sn5100-nvme-ssd-launched-in-india-check-storage-features-price-492489-2025-09-04",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202509/68b92643ca93e-sandisk-wd-blue-sn5100-nvme-ssd-launched-in-india-044013735-16x9.jpg",
-            "publishedAt": "2025-09-04 05:45:11"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Cleveland Clinic’s AI Nurse: Revolutionizing Patient Care with Artificial Intelligence",
-            "url": "https://techannouncer.com/cleveland-clinics-ai-nurse-revolutionizing-patient-care-with-artificial-intelligence/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/09/93707895thumbnail-332x187.jpeg",
-            "publishedAt": "2025-09-04 05:36:11"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "NVIDIA’s Dominance in Self-Driving Technology: A Deep Dive",
-            "url": "https://techannouncer.com/nvidias-dominance-in-self-driving-technology-a-deep-dive/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/09/4700d0e9thumbnail-332x187.jpeg",
-            "publishedAt": "2025-09-04 05:34:13"
-        },
-        {
-            "source": {
-                "name": "downtoearth"
-            },
-            "title": "AI is transforming weather forecasting − and that could be a game changer for farmers around the world",
-            "url": "https://www.downtoearth.org.in/science-technology/ai-is-transforming-weather-forecasting-and-that-could-be-a-game-changer-for-farmers-around-the-world",
-            "urlToImage": "https://gumlet.assettype.com/downtoearth%2F2025-09-04%2F0ybqyl4w%2FFarmers.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-09-04 04:59:43"
-        },
-        {
-            "source": {
-                "name": "thequint"
-            },
-            "title": "A Semiconductor Revolution: Is 'Vikram' a Turning Point for India’s Tech Future?",
-            "url": "https://www.thequint.com/opinion/india-semiconductor-revolution-vikram-chip-launch-semicon-2025",
-            "urlToImage": "https://media.assettype.com/thequint%2F2025-09-04%2Fx74458wg%2FPTI09022025000077B.jpg?auto=format%2Ccompress&fmt=webp&w=1200&width=720",
-            "publishedAt": "2025-09-04 04:54:42"
-        },
-        {
-            "source": {
-                "name": "latestly"
-            },
-            "title": "Business News | Novacore Innovations and GPU.ai Announce Partnership to Expand Blackwell-Powered GPU Cloud Access Across U.S. and India",
-            "url": "https://www.latestly.com/agency-news/business-news-novacore-innovations-and-gpu-ai-announce-partnership-to-expand-blackwell-powered-gpu-cloud-access-across-u-s-and-india-7093056.html",
-            "urlToImage": "https://st1.latestly.com/wp-content/uploads/2020/10/news-default-img-380x214.jpg",
-            "publishedAt": "2025-09-04 04:52:25"
-        },
-        {
-            "source": {
-                "name": "startupnews"
-            },
-            "title": "What is Copilot Plus PC? A Complete Guide to Microsoft’s AI-Powered Future of Windows",
-            "url": "https://startupnews.fyi/2025/09/04/what-is-copilot-plus-pc-a-complete-guide-to-microsofts-ai-powered-future-of-windows/",
-            "urlToImage": "https://startupnews.fyi/wp-content/uploads/2025/09/what-is-copilot-plus-pc.jpeg",
-            "publishedAt": "2025-09-04 04:51:15"
         }
     ]
 }
