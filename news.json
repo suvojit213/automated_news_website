@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-09-05T02:55:37.814192Z",
+    "lastUpdatedAt": "2025-09-05T03:28:45.292094Z",
     "articles": [
+        {
+            "source": {
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
+                "country": "in"
+            },
+            "title": "OpenAI to launch its first AI chip in 2026 with Broadcom: Report",
+            "url": "https://www.thehindu.com/sci-tech/technology/openai-to-launch-its-first-ai-chip-in-2026-with-broadcom-report/article70014900.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/nvy0ya/article70014902.ece/alternates/LANDSCAPE_1200/2025-09-05T004031Z_20000557_RC2LU7A17WGM_RTRMADP_3_OPENAI-BROADCOM-AI.JPG",
+            "publishedAt": "2025-09-05T03:12:49Z"
+        },
+        {
+            "source": {
+                "id": "7eeaf9a839918543cc708f2d331c3be4",
+                "name": "Free Press Journal",
+                "url": "https://www.freepressjournal.in",
+                "country": "in"
+            },
+            "title": "India-Singapore To Boost Bilateral Ties In Manufacturing, Semiconductor, AI, Defence & Development Of Unmanned Vessels",
+            "url": "https://www.freepressjournal.in/business/india-singapore-to-boost-bilateral-ties-in-manufacturing-semiconductor-ai-defence-development-of-unmanned-vessels",
+            "urlToImage": "https://media.assettype.com/freepressjournal/2025-09-05/a336irpr/Singapore-India.jpg",
+            "publishedAt": "2025-09-05T03:07:15Z"
+        },
+        {
+            "source": {
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
+                "country": "in"
+            },
+            "title": "Skip or snub? Why Elon Musk was a no-show at Donald Trump's dinner with tech CEOs",
+            "url": "https://www.hindustantimes.com/world-news/us-news/skip-or-snub-why-elon-musk-was-a-no-show-at-donald-trumps-dinner-with-tech-ceos-101757037408169.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/09/05/1600x900/donald_trump_elon_musk_1751848003923_1751848004272_1757037716321.JPG",
+            "publishedAt": "2025-09-05T02:55:11Z"
+        },
+        {
+            "source": {
+                "id": "ca84296ef941bfa461f4239a2290cb99",
+                "name": "News18",
+                "url": "https://www.news18.com",
+                "country": "in"
+            },
+            "title": "‘World Can Trust Our Technology’: US Tech Leaders Meet Trump At White House, Laud AI Push",
+            "url": "https://www.news18.com/world/world-can-trust-our-technology-us-tech-leaders-meet-trump-at-white-house-laud-ai-push-9550441.html",
+            "urlToImage": "https://images.news18.com/ibnlive/uploads/2025/09/Donald-Trump-35-2025-09-3a513853e1844ae7deb2ec373e57334b-16x9.jpg",
+            "publishedAt": "2025-09-05T02:47:37Z"
+        },
         {
             "source": {
                 "id": "c5725557f39c24c8b029ee39900a8406",
@@ -1743,6 +1791,87 @@
         },
         {
             "source": {
+                "name": "hastingstribune"
+            },
+            "title": "ALIS Launches First AI-Powered GPT for Senior Living",
+            "url": "https://www.hastingstribune.com/ap/business/alis-launches-first-ai-powered-gpt-for-senior-living/article_4e648019-32aa-56f2-a78c-e41bbd9d4c3c.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/hastingstribune.com/content/tncms/custom/image/7b43d562-eeac-11e4-8a7b-970670abfcb2.jpg?resize=600%2C315",
+            "publishedAt": "2025-09-04 15:26:56"
+        },
+        {
+            "source": {
+                "name": "mercurynews"
+            },
+            "title": "Tripo, the frontrunner of 3D AI boom, supercharges new era in content creation with 3.0 upgrade",
+            "url": "https://www.mercurynews.com/2025/09/04/tripo-the-frontrunner-of-3d-ai-boom-supercharges-new-era-in-content-creation-with-3-0-upgrade/",
+            "urlToImage": "https://ntvassets-a.akamaihd.net/F95AF2516D1A4E00AED4BF593F3388AA.png?w=640",
+            "publishedAt": "2025-09-04 15:24:30"
+        },
+        {
+            "source": {
+                "name": "ucf"
+            },
+            "title": "UCF Salutes: Connections Between Knight Nation and the Military",
+            "url": "https://www.ucf.edu/news/ucf-salutes-connections-between-knight-nation-and-the-military/",
+            "urlToImage": "https://www.ucf.edu/wp-content/blogs.dir/20/files/2025/03/UCF_student-veterans-300x200.jpg",
+            "publishedAt": "2025-09-04 15:23:32"
+        },
+        {
+            "source": {
+                "name": "techtarget"
+            },
+            "title": "What is SDRAM (synchronous DRAM)?",
+            "url": "https://www.techtarget.com/whatis/definition/SDRAM-synchronous-DRAM",
+            "urlToImage": "https://cdn.ttgtmedia.com/rms/onlineimages/gillis_alex.jpg",
+            "publishedAt": "2025-09-04 15:22:00"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "I cover AI every day — here’s why women are still 20% less likely to use it than men",
+            "url": "https://www.tomsguide.com/ai/i-cover-ai-every-day-heres-why-women-are-still-20-percent-less-likely-to-use-it-than-men",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/ozvtEUJq43CwooQ9MhEPa4-1280-80.jpg",
+            "publishedAt": "2025-09-04 15:14:59"
+        },
+        {
+            "source": {
+                "name": "fortune"
+            },
+            "title": "Inside the Anthropic ‘red team’ tasked with breaking its AI models—and burnishing the company’s reputation for safety",
+            "url": "https://fortune.com/2025/09/04/anthropic-red-team-pushes-ai-models-into-the-danger-zone-and-burnishes-companys-reputation-for-safety/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/F45A0666-e1756995971988.jpeg?w=2048",
+            "publishedAt": "2025-09-04 15:14:14"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "How Anthropic's enterprise dominance fueled its monster $183B valuation",
+            "url": "https://www.zdnet.com/article/how-anthropics-enterprise-dominance-fueled-its-monster-183b-valuation/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/81ba98fb89b0c8f9fdc9e46fb11a3089b25dc05f/2025/09/04/813effca-258d-4b65-9675-7a6fafcb069b/gettyimages-2222307214.jpg?auto=webp&width=1280",
+            "publishedAt": "2025-09-04 15:13:14"
+        },
+        {
+            "source": {
+                "name": "thehindubusinessline"
+            },
+            "title": "AI spend surpasses earlier tech waves, yet RoI remains distant",
+            "url": "https://www.thehindubusinessline.com/economy/ai-spend-surpasses-earlier-tech-waves-yet-roi-remains-distant/article70011986.ece",
+            "urlToImage": "https://bl-i.thgim.com/public/incoming/mmyyxz/article70013122.ece/alternates/LANDSCAPE_1200/PO02_Artificial_intelligence.jpg",
+            "publishedAt": "2025-09-04 15:11:59"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Finding the Ghosts in Your Financial Data: A Controller's Guide to Clean Numbers",
+            "url": "https://www.analyticsinsight.net/finance/finding-the-ghosts-in-your-financial-data-a-controllers-guide-to-clean-numbers",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-09-04%2Ft9q8oznn%2FFinding-the-Ghosts-in-Your-Financial-Data.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-09-04 15:02:39"
+        },
+        {
+            "source": {
                 "name": "benzinga"
             },
             "title": "AvaTrade: Rising Popularity of AvaTrade Leverage and Hassle-Free AvaTrade App Download – Read South Africa Report!",
@@ -3123,162 +3252,6 @@
             "url": "https://www.livemint.com/companies/news/jaguar-land-rover-issues-first-statement-after-cyber-incident-hits-retail-and-production-activities-no-evidence-11756909360028.html",
             "urlToImage": "https://images.livemint.com/img/2018/12/24/1600x900/breaking_news_1545650155659.jpg",
             "publishedAt": "2025-09-03T14:31:25Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "MBZUAI opens admissions for Fall 2026 intake, inviting top students worldwide to shape the future through its undergraduate and graduate programs",
-            "url": "https://www.manilatimes.net/2025/09/03/tmt-newswire/pr-newswire/mbzuai-opens-admissions-for-fall-2026-intake-inviting-top-students-worldwide-to-shape-the-future-through-its-undergraduate-and-graduate-programs/2178462",
-            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-            "publishedAt": "2025-09-03T14:31:12Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Soracom Applauded by Frost & Sullivan for Enabling Deeply Embedded GenAI Capabilities to Build Low-Code IoT Applications with Its Cloud-Native Platform-as-a-Service (PaaS) Platform",
-            "url": "https://www.manilatimes.net/2025/09/03/tmt-newswire/pr-newswire/soracom-applauded-by-frost-sullivan-for-enabling-deeply-embedded-genai-capabilities-to-build-low-code-iot-applications-with-its-cloud-native-platform-as-a-service-paas-platform/2178458",
-            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-            "publishedAt": "2025-09-03T14:31:09Z"
-        },
-        {
-            "source": {
-                "id": "ac7b96be74f81cabb4e02b818a3ff6d7",
-                "name": "MarketBeat",
-                "url": "https://www.marketbeat.com",
-                "country": "us"
-            },
-            "title": "AI-Powered Cybersecurity Drives 21% Revenue Growth",
-            "url": "https://www.marketbeat.com/originals/zscaler-shares-can-hit-a-fresh-high-before-year-end/",
-            "urlToImage": "https://www.marketbeat.com/logos/articles/med_20250903085132_zscaler-shares-can-hit-a-fresh-high-before-year-en.jpg",
-            "publishedAt": "2025-09-03T14:14:00Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Godfather of AI Geoffrey Hinton warns: Real danger is not killer robots, but…",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/godfather-of-ai-geoffrey-hinton-warns-real-danger-is-not-killer-robots-but/articleshow/123679959.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-123679950,width-1070,height-580,imgsize-35338,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "publishedAt": "2025-09-03T14:12:00Z"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            },
-            "title": "Apple is the big winner in Google antitrust penalty ruling",
-            "url": "https://www.cnbc.com/2025/09/03/apple-is-the-big-winner-in-google-antitrust-penalty-ruling.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108170751-1752235564971-gettyimages-2223867522-20090101250711-99-426957.jpeg?v=1756903211&w=1920&h=1080",
-            "publishedAt": "2025-09-03T14:09:56Z"
-        },
-        {
-            "source": {
-                "id": "f4d035ae0463df22c36ae97972a33ba6",
-                "name": "PR Newswire UK",
-                "url": "https://www.prnewswire.co.uk",
-                "country": "gb"
-            },
-            "title": "Soracom Applauded by Frost & Sullivan for Enabling Deeply Embedded GenAI Capabilities to Build Low-Code IoT Applications with Its Cloud-Native Platform-as-a-Service (PaaS) Platform",
-            "url": "https://www.prnewswire.co.uk/news-releases/soracom-applauded-by-frost--sullivan-for-enabling-deeply-embedded-genai-capabilities-to-build-low-code-iot-applications-with-its-cloud-native-platform-as-a-service-paas-platform-302544983.html",
-            "urlToImage": "https://www.prnewswire.co.uk/content/dam/prnewswire/icons/2019-Q4-PRN-Icon-32-32.png",
-            "publishedAt": "2025-09-03T14:00:00Z"
-        },
-        {
-            "source": {
-                "id": "f4d035ae0463df22c36ae97972a33ba6",
-                "name": "PR Newswire UK",
-                "url": "https://www.prnewswire.co.uk",
-                "country": "gb"
-            },
-            "title": "MBZUAI opens admissions for Fall 2026 intake, inviting top students worldwide to shape the future through its undergraduate and graduate programs",
-            "url": "https://www.prnewswire.co.uk/news-releases/mbzuai-opens-admissions-for-fall-2026-intake-inviting-top-students-worldwide-to-shape-the-future-through-its-undergraduate-and-graduate-programs-302545269.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2763705/MBZUAI_opens_admissions.jpg?p=facebook",
-            "publishedAt": "2025-09-03T13:54:00Z"
-        },
-        {
-            "source": {
-                "id": "c97ef3cad273a1993c998ca7ddcc5212",
-                "name": "Daily Express",
-                "url": "https://www.express.co.uk",
-                "country": "gb"
-            },
-            "title": "HMRC 'using AI to spot tax cheats' by picking out 'inconsistencies'",
-            "url": "https://www.express.co.uk/finance/personalfinance/2103907/hmrc-using-new-ai-tool-crack-down-lifestyle-inconsistencies",
-            "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/23/1200x630/6403074.jpg",
-            "publishedAt": "2025-09-03T13:41:00Z"
-        },
-        {
-            "source": {
-                "id": "76684855c5d801b81fd06490668d04fe",
-                "name": "TechRadar",
-                "url": "https://www.techradar.com",
-                "country": "au"
-            },
-            "title": "Wix adds Artificial Intelligence to its email editor",
-            "url": "https://www.techradar.com/pro/website-building/wix-adds-artificial-intelligence-to-its-email-editor",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Wcc69A4Ts8bhSbGgJeGkoZ.jpg",
-            "publishedAt": "2025-09-03T13:07:47Z"
-        },
-        {
-            "source": {
-                "id": "ac7b96be74f81cabb4e02b818a3ff6d7",
-                "name": "MarketBeat",
-                "url": "https://www.marketbeat.com",
-                "country": "us"
-            },
-            "title": "Institutional Buying, Short Interest, and Upside",
-            "url": "https://www.marketbeat.com/originals/a-bull-case-for-quantum-computing-stock-is-still-alive/",
-            "urlToImage": "https://www.marketbeat.com/logos/articles/med_20250902134532_a-bull-case-for-quantum-computing-stock-is-still-a.jpg",
-            "publishedAt": "2025-09-03T13:02:00Z"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            },
-            "title": "How one CRE giant is finding undervalued assets in unlikely areas",
-            "url": "https://www.cnbc.com/2025/09/03/cre-giant-bgo-ai-undervalued-assets.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108192506-1756481961614-gettyimages-940972230-zc6a6165-1.jpeg?v=1756819308&w=1920&h=1080",
-            "publishedAt": "2025-09-03T13:00:01Z"
-        },
-        {
-            "source": {
-                "id": "1b97b25c0ec482f85326378f82f7f815",
-                "name": "Fox Business",
-                "url": "https://www.foxbusiness.com",
-                "country": "us"
-            },
-            "title": "Salesforce cuts 4,000 jobs due to AI, CEO says",
-            "url": "https://www.foxbusiness.com/economy/salesforce-cuts-4000-jobs-due-ai-ceo-says",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/09/0/0/marc-benioff-world-economic-forum.jpg?ve=1&tl=1",
-            "publishedAt": "2025-09-03T12:59:21Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "AI is triggering bizarre mental disorders that defy explanation, and experts are struggling to decide what to call it",
-            "url": "https://economictimes.indiatimes.com/magazines/panache/ai-is-triggering-bizarre-mental-disorders-that-defy-explanation-and-experts-are-struggling-to-decide-what-to-call-it/articleshow/123678644.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-123678733,width-1200,height-630,imgsize-1162875,overlay-etpanache/articleshow.jpg",
-            "publishedAt": "2025-09-03T12:54:00Z"
         }
     ]
 }
