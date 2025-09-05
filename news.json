@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-09-05T10:15:31.740269Z",
+    "lastUpdatedAt": "2025-09-05T11:12:14.499827Z",
     "articles": [
+        {
+            "source": {
+                "id": "26269dbc42635df9af8c24f3cdab8e37",
+                "name": "Cable News Network",
+                "url": "https://edition.cnn.com",
+                "country": "us"
+            },
+            "title": "Power politics: Rising electricity bills are central to this year’s elections",
+            "url": "https://edition.cnn.com/2025/09/05/politics/electricity-bills-politics-virginia-new-jersey",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2231894704.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2025-09-05T11:00:06Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Tesla Shareholders to Vote on xAI Investment in November",
+            "url": "https://www.bloomberg.com/news/articles/2025-09-05/tesla-shareholders-to-vote-on-xai-investment-in-november",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFvTEqllPsdo/v1/1200x821.jpg",
+            "publishedAt": "2025-09-05T10:46:14Z"
+        },
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "Tesla floats new pay plan for Musk that would expand his voting power",
+            "url": "https://www.cnbc.com/2025/09/05/tesla-musk-pay.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108168277-17518962972025-05-13t150806z_1042401118_rc23heap82k4_rtrmadp_0_usa-trump-gulf-investment.jpeg?v=1751896328&w=1920&h=1080",
+            "publishedAt": "2025-09-05T10:28:03Z"
+        },
         {
             "source": {
                 "id": "c5725557f39c24c8b029ee39900a8406",
@@ -60,6 +96,18 @@
             "url": "https://www.reuters.com/business/broadcom-shares-rally-new-ai-deal-ceos-assurance-2025-09-05/",
             "urlToImage": "https://www.reuters.com/resizer/v2/KUJ7W5FOW5NEPOIITDB3JG4YHY.jpg?auth=a03aa85b49f7a69a9390381a7d803d12ccdd49ff50124681b242a7f7f012467a&height=1005&width=1920&quality=80&smart=true",
             "publishedAt": "2025-09-05T09:05:24Z"
+        },
+        {
+            "source": {
+                "id": "eaeeaeaa1e329f65d3a921c9c867fd7b",
+                "name": "Washington Examiner",
+                "url": "https://www.washingtonexaminer.com",
+                "country": "us"
+            },
+            "title": "AI needs a warning label before it’s too late",
+            "url": "https://www.washingtonexaminer.com/restoring-america/community-family/3793207/artificial-intelligence-warning-label-needed/",
+            "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2025/01/AP25028395434149.webp",
+            "publishedAt": "2025-09-05T09:00:00Z"
         },
         {
             "source": {
@@ -2295,6 +2343,15 @@
         },
         {
             "source": {
+                "name": "thehindu"
+            },
+            "title": "Researchers develop performance metrics to test traffic control algorithms",
+            "url": "https://www.thehindu.com/sci-tech/science/researchers-develop-performance-metrics-to-test-traffic-control-algorithms/article70011615.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/sfqq1z/article68482649.ece/alternates/FREE_1200/_KMK7087.jpg",
+            "publishedAt": "2025-09-04 23:01:00"
+        },
+        {
+            "source": {
                 "name": "biztoc"
             },
             "title": "AI Could Cause 99% of All Workers to Be Unemployed in the Next Five Years, Says Computer Science Professor",
@@ -3228,51 +3285,6 @@
             "url": "https://godanriver.com/article_7f43b1af-f423-5360-8de9-a74a360e232c.html",
             "urlToImage": "https://bloximages.newyork1.vip.townnews.com/godanriver.com/content/tncms/assets/v3/editorial/6/c9/6c90621b-3700-5831-ad59-ebad9a526bda/68b945de442b2.image.jpg?resize=300%2C198",
             "publishedAt": "2025-09-04 07:55:46"
-        },
-        {
-            "source": {
-                "name": "dailyprogress"
-            },
-            "title": "HIDDEN COSTS OF AI",
-            "url": "https://dailyprogress.com/article_d4e2279c-6ba5-56df-a005-84bbcaf93672.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/dailyprogress.com/content/tncms/assets/v3/editorial/2/95/29552eca-06a0-5ee9-a488-e8591ee91fe1/68b944de1bfe2.image.jpg?resize=300%2C206",
-            "publishedAt": "2025-09-04 07:51:42"
-        },
-        {
-            "source": {
-                "name": "starexponent"
-            },
-            "title": "HIDDEN COSTS OF AI",
-            "url": "https://starexponent.com/article_4d6e44bb-2efe-53f1-8bea-f24bb06cd656.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/starexponent.com/content/tncms/assets/v3/editorial/6/eb/6ebd729a-8d4f-5b09-b89b-7f81af4e40ff/68b944c5c3450.image.jpg?resize=300%2C201",
-            "publishedAt": "2025-09-04 07:51:08"
-        },
-        {
-            "source": {
-                "name": "ndtv"
-            },
-            "title": "Apple Plans AI-Powered Web Search Tool To Rival OpenAI, Perplexity",
-            "url": "https://www.ndtv.com/world-news/apple-plans-ai-powered-web-search-tool-to-rival-openai-perplexity-9214565",
-            "urlToImage": "https://c.ndtvimg.com/2025-09/d1tmjvh4_craig-federighi-apple_625x300_04_September_25.jpeg",
-            "publishedAt": "2025-09-04 07:08:43"
-        },
-        {
-            "source": {
-                "name": "siliconangle"
-            },
-            "title": "Neo4j unifies real-time transactions and graph analytics at scale",
-            "url": "https://siliconangle.com/2025/09/04/neo4j-unifies-real-time-transactions-graph-analytics-scale/",
-            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/Neo4j-Bloom.png",
-            "publishedAt": "2025-09-04 07:00:04"
-        },
-        {
-            "source": {
-                "name": "news4social"
-            },
-            "title": "Acurast Launches ‘Staked Compute’ To Challenge AWS, Azure and Google Cloud With Decentralized Smartphone Network.",
-            "url": "https://en.news4social.com/acurast-launches-staked-compute-to-challenge-aws-azure-and-google-cloud-with-decentralized-smartphone-network/",
-            "urlToImage": "https://i0.wp.com/thenewscrypto.com/wp-content/uploads/2025/09/Banner-V3-1.jpg?resize=750%2C375&ssl=1&w=750",
-            "publishedAt": "2025-09-04 06:38:00"
         }
     ]
 }
