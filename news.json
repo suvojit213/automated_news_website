@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-09-06T12:26:21.280197Z",
+    "lastUpdatedAt": "2025-09-06T13:17:22.153250Z",
     "articles": [
+        {
+            "source": {
+                "id": "8da923084554b2821233d6c5c5f02c97",
+                "name": "Fox News",
+                "url": "https://www.foxnews.com",
+                "country": "us"
+            },
+            "title": "Melania Trump puts AI front and center at White House meeting",
+            "url": "https://www.foxnews.com/tech/ai-newsletter-melania-trump-puts-ai-front-center",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/melania-trump-artificial-intelligence-ai-event.jpg",
+            "publishedAt": "2025-09-06T12:30:11Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Indian Bank Secures Digital Presence with New Domain",
+            "url": "https://www.devdiscourse.com/article/headlines/3617766-indian-bank-secures-digital-presence-with-new-domain",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/25_08_2025_11_11_40_4500427.png?width=920&format=jpeg",
+            "publishedAt": "2025-09-06T12:22:52Z"
+        },
+        {
+            "source": {
+                "id": "9962a9b594044b42e892f4760e2dfd7e",
+                "name": "Sputnik News",
+                "url": "https://sputnikglobe.com",
+                "country": "ru"
+            },
+            "title": "AI ‘Future of Humanity,’ Can Accelerate Development of Many Countries - UN ESCAP",
+            "url": "https://sputnikglobe.com/20250906/ai-future-of-humanity-can-accelerate-development-of-many-countries--un-escap-1122739734.html",
+            "urlToImage": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1122739734.jpg?10782790531757161323",
+            "publishedAt": "2025-09-06T12:22:00Z"
+        },
         {
             "source": {
                 "id": "85e5403407038478a5e7d8d100ff8e8f",
@@ -336,6 +372,15 @@
             "url": "https://www.forbes.com/sites/jayadkisson/2025/09/06/artificial-intelligence-communications-are-not-protected-by-any-privilege/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68bbbaf77929b5b18f46ae1a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-09-06T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "laweekly"
+            },
+            "title": "Ben Lamm Expands His Frontier With $30M AI Venture",
+            "url": "https://www.laweekly.com/ben-lamm-expands-his-frontier-with-30m-ai-venture/",
+            "urlToImage": "https://www.laweekly.com/wp-content/uploads/2025/09/image1-09-05-25.jpg?x91878=",
+            "publishedAt": "2025-09-06 00:32:31"
         },
         {
             "source": {
@@ -3186,42 +3231,6 @@
             "url": "https://www.hindustantimes.com/technology/top-5-printers-under-rs-5000-that-bring-you-the-best-of-both-worlds-with-quality-prints-and-budget-friendly-prices-101757054433687.html",
             "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/09/05/1600x900/Printers_Under_Rs_5000_1757054510775_1757054517102.png",
             "publishedAt": "2025-09-05 07:11:39"
-        },
-        {
-            "source": {
-                "name": "techgenyz"
-            },
-            "title": "Revolutionary Laptop Trends 2025: Foldable Screens & Dual-display Designs Empowering the Future",
-            "url": "https://techgenyz.com/revolutionary-laptop-trends-foldable-dual-display/",
-            "urlToImage": "https://techgenyz.com/wp-content/uploads/2025/03/sahil-rumba.jpeg",
-            "publishedAt": "2025-09-05 07:00:00"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "The TechBeat: What Happens When Blockchain Becomes Mutable? (9/5/2025)",
-            "url": "https://hackernoon.com/9-5-2025-techbeat",
-            "urlToImage": "https://hackernoon.imgix.net/images/hackernoon_newsletter_55_bgnkbdi566nualxux0aurrl2.png",
-            "publishedAt": "2025-09-05 06:10:57"
-        },
-        {
-            "source": {
-                "name": "digit_in"
-            },
-            "title": "OpenAI to launch its first in-house AI chip in 2026 with Broadcom: Here’s what we know",
-            "url": "https://www.digit.in/news/general/openai-to-launch-its-first-in-house-ai-chip-in-2026-with-broadcom-heres-what-we-know.html",
-            "urlToImage": "https://static.digit.in/Nvidia-Apple-and-Microsoft-in-talks-to-invest-in-OpenAI.png",
-            "publishedAt": "2025-09-05 06:08:33"
-        },
-        {
-            "source": {
-                "name": "techaeris"
-            },
-            "title": "IFA 2025: New ThinkPad laptops, ThinkVision, and AI innovations announced by Lenovo",
-            "url": "https://techaeris.com/2025/09/05/ifa-2025-new-thinkpad-laptops-thinkvision/",
-            "urlToImage": "https://techaeris.com/wp-content/uploads/2025/08/Lenovo-ThinkPad-X9-Aura-Glaciar-White-IFA-2025.jpg",
-            "publishedAt": "2025-09-05 06:01:00"
         }
     ]
 }
