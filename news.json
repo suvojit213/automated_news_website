@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-09-06T18:17:57.041195Z",
+    "lastUpdatedAt": "2025-09-06T19:10:23.624607Z",
     "articles": [
+        {
+            "source": {
+                "id": "3989f52bbec2d3be8442e2851b59e79e",
+                "name": "CBS Sports",
+                "url": "https://www.cbssports.com",
+                "country": "us"
+            },
+            "title": "NFL player props, odds, bets: Week 1, 2025 NFL picks, SportsLine Machine Learning Model AI predictions, SGP",
+            "url": "https://www.cbssports.com/nfl/news/nfl-player-props-odds-bets-week-1-2025-nfl-picks-sportsline-machine-learning-model-ai-predictions-sgp/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/07/15/e02184b1-7700-419a-943a-5f02d135b681/thumbnail/1200x675/f690861f00c5d863ec06a4f756cd6d5e/tee-higgins-cincinnati-bengals-usatsi.jpg",
+            "publishedAt": "2025-09-06T18:28:00Z"
+        },
         {
             "source": {
                 "id": "e1b896cc9b8775d3aaac2320e6dcf1f6",
@@ -24,6 +36,30 @@
             "url": "https://phys.org/news/2025-09-ai-day-reliability-lags.html",
             "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2022/ai.jpg",
             "publishedAt": "2025-09-06T16:30:01Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "OpenAI expects business to burn $115 billion through 2029",
+            "url": "https://www.manilatimes.net/2025/09/07/business/openai-expects-business-to-burn-115-billion-through-2029/2180211",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/09/07/738916.jpg",
+            "publishedAt": "2025-09-06T16:11:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Apple sued by authors over use of books in AI training",
+            "url": "https://www.manilatimes.net/2025/09/07/business/apple-sued-by-authors-over-use-of-books-in-ai-training/2180210",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/09/07/738915.jpg",
+            "publishedAt": "2025-09-06T16:10:00Z"
         },
         {
             "source": {
@@ -555,12 +591,57 @@
         },
         {
             "source": {
+                "name": "pocketgamer"
+            },
+            "title": "Edifier MR5 review - \"Sizable, high-quality speakers\"",
+            "url": "https://www.pocketgamer.com/hardware-reviews/edifier-mr5/",
+            "urlToImage": "https://media.pocketgamer.com/artwork/ra-103683-1757001091/edifier-mr5-speakers-with-banner.jpg",
+            "publishedAt": "2025-09-06 07:00:00"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "AI, Simulation, And The Generative Adversarial Network",
+            "url": "https://www.forbes.com/sites/johnwerner/2025/09/06/ai-simulation-and-the-generative-adversarial-network/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68bbd27213fa454f0e86c6d0/0x0.jpg?width=960",
+            "publishedAt": "2025-09-06 06:20:53"
+        },
+        {
+            "source": {
+                "name": "abc7news"
+            },
+            "title": "BART director speaks on systemwide failure that impacted Bay Area morning commute",
+            "url": "https://abc7news.com/post/bart-director-speaks-systemwide-failure-impacted-bay-area-morning-commute/17752677/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/17748377_090525-kgo-bart-outage-split-img.jpg?w=608",
+            "publishedAt": "2025-09-06 06:19:54"
+        },
+        {
+            "source": {
                 "name": "geeky_gadgets"
             },
             "title": "Gemini CLI Model Context Protocol (MCP) : The Secret to Smarter AI Workflows",
             "url": "https://www.geeky-gadgets.com/gemini-cli-model-context-protocol-mcp/",
             "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/09/gemini-cli-ai-integration.webp",
             "publishedAt": "2025-09-06 06:01:56"
+        },
+        {
+            "source": {
+                "name": "techannouncer"
+            },
+            "title": "Reddit’s Top Picks: Finding the Best Gaming PC for Your Budget in 2025",
+            "url": "https://techannouncer.com/reddits-top-picks-finding-the-best-gaming-pc-for-your-budget-in-2025/",
+            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/09/fbe44506thumbnail-332x187.jpeg",
+            "publishedAt": "2025-09-06 06:01:28"
+        },
+        {
+            "source": {
+                "name": "techannouncer"
+            },
+            "title": "Finding the Best Printer for Your Cricut Projects: A Comprehensive Guide",
+            "url": "https://techannouncer.com/finding-the-best-printer-for-your-cricut-projects-a-comprehensive-guide/",
+            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/09/ef7f3c16thumbnail-332x187.jpeg",
+            "publishedAt": "2025-09-06 06:01:16"
         },
         {
             "source": {
@@ -3204,78 +3285,6 @@
             "url": "https://www.techtarget.com/searchvirtualdesktop/definition/GPU-graphics-processing-unit",
             "urlToImage": "https://www.techtarget.com/rms/onlineimages/enterprise_ai-cpu_vs_gpu_chips_mobile.png",
             "publishedAt": "2025-09-05 13:00:00"
-        },
-        {
-            "source": {
-                "name": "expresscomputer"
-            },
-            "title": "Mercedes-Benz Research and Development India and TERI publish a whitepaper on skilling for EV charging infrastructure",
-            "url": "https://www.expresscomputer.in/news/mercedes-benz-research-and-development-india-and-teri-publish-a-whitepaper-on-skilling-for-ev-charging-infrastructure/127554/",
-            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2025/09/05182113/New-Project-2025-09-05T170157.102-1.jpg",
-            "publishedAt": "2025-09-05 12:51:29"
-        },
-        {
-            "source": {
-                "name": "thelincolnianonline"
-            },
-            "title": "Contrasting Modine Manufacturing (NYSE:MOD) & Wabash National (NYSE:WNC)",
-            "url": "https://www.thelincolnianonline.com/2025/09/05/contrasting-modine-manufacturing-nysemod-wabash-national-nysewnc.html",
-            "urlToImage": "https://www.marketbeat.com/logos/modine-manufacturing-logo-1200x675.png?v=20240507142136",
-            "publishedAt": "2025-09-05 12:44:57"
-        },
-        {
-            "source": {
-                "name": "fortune"
-            },
-            "title": "The labor market is on a knife edge, and the factors weakening it aren’t going anywhere",
-            "url": "https://fortune.com/2025/09/05/labor-market-balance-unemployment-payroll-jobs-immigration/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-2221192072.jpg?w=2048",
-            "publishedAt": "2025-09-05 12:42:24"
-        },
-        {
-            "source": {
-                "name": "wired"
-            },
-            "title": "The 29 Best Energy Drinks, Tested and Reviewed (2025)",
-            "url": "https://www.wired.com/story/best-energy-drinks/",
-            "urlToImage": "https://media.wired.com/photos/68b9d9ac17d2db8dc97afaab/3:4/w_120,c_limit/Update-%20The%20Best%20Energy%20Drinks.png",
-            "publishedAt": "2025-09-05 12:39:00"
-        },
-        {
-            "source": {
-                "name": "thelincolnianonline"
-            },
-            "title": "5G Stocks Worth Watching – September 4th",
-            "url": "https://www.thelincolnianonline.com/2025/09/05/5g-stocks-worth-watching-september-4th.html",
-            "urlToImage": "https://www.marketbeat.com/logos/super-micro-computer-inc-logo-1200x675.png?v=20240102162614",
-            "publishedAt": "2025-09-05 12:38:58"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "How Syed Faiz Turned His Tech-Driven Journey into Financial Excellence",
-            "url": "https://www.analyticsinsight.net/tech-news/how-syed-faiz-turned-his-tech-driven-journey-into-financial-excellence",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-09-05%2Fbttiy68m%2FHow-Syed-Faiz-Turned-His-Tech-Driven-Journey-into-Financial-Excellence?ar=40%3A21&auto=format%2Ccompress&enlarge=true&mode=crop&ogImage=true&overlay=false&overlay_position=bottom&overlay_width=100&w=1200",
-            "publishedAt": "2025-09-05 11:11:10"
-        },
-        {
-            "source": {
-                "name": "thelincolnianonline"
-            },
-            "title": "Analyzing Tencent (OTCMKTS:TCEHY) & Bridgeline Digital (NASDAQ:BLIN)",
-            "url": "https://www.thelincolnianonline.com/2025/09/05/analyzing-tencent-otcmktstcehy-bridgeline-digital-nasdaqblin.html",
-            "urlToImage": "https://www.marketbeat.com/logos/bridgeline-digital-inc-logo-1200x675.png?v=20230119150728",
-            "publishedAt": "2025-09-05 11:09:49"
-        },
-        {
-            "source": {
-                "name": "cnbctv18"
-            },
-            "title": "BMW unveils iX3, first Neue Klasse EV with 805km range and fast charging",
-            "url": "https://www.cnbctv18.com/auto/bmw-launches-ix3-neue-klasse-electric-suv-with-long-range-fast-charging-in-india-2026-19665475.htm",
-            "urlToImage": "https://images.cnbctv18.com/uploads/2025/09/p90615630-highres-the-new-bmw-ix3-50-x-2025-09-450280e7a86cd64e4bd8ed5c43c7a23a.jpg",
-            "publishedAt": "2025-09-05 11:08:29"
         }
     ]
 }
