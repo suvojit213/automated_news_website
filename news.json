@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-09-06T04:16:56.282104Z",
+    "lastUpdatedAt": "2025-09-06T05:13:03.452788Z",
     "articles": [
+        {
+            "source": {
+                "id": "d090731490a57c9141fbb97449f07e98",
+                "name": "iefimerida",
+                "url": "https://www.iefimerida.gr",
+                "country": "gr"
+            },
+            "title": "Greece Partners with OpenAI to Bring AI Tools to Public Schools",
+            "url": "https://www.iefimerida.gr/english/greece-partners-openai-bring-ai-tools-public-schools",
+            "urlToImage": "https://www.iefimerida.gr/sites/default/files/styles/facebook/public/2025-09/ai-open-greece.jpg?itok=_-tFc-xq",
+            "publishedAt": "2025-09-06T04:58:53Z"
+        },
+        {
+            "source": {
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
+                "country": "us"
+            },
+            "title": "Cathie Wood Says Inflation Could Fall To 'Zero Or Even Negative' As AI Boom And Trump's Policies Could Push GDP Growth To 7%",
+            "url": "https://www.benzinga.com/markets/economic-data/25/09/47535921/cathie-wood-says-inflation-could-fall-to-zero-or-even-negative-as-ai-boom-and-trumps-policies-could-push-gdp-growth-to-7",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/09/06/Economic-Inflation-Rise-In-Interest-Rate.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2025-09-06T04:49:37Z"
+        },
         {
             "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -84,6 +108,18 @@
             "url": "https://www.activistpost.com/stanford-universitys-ai-job-warning/",
             "urlToImage": "https://www.activistpost.com/wp-content/uploads/2025/08/artificialintelligence.jpg",
             "publishedAt": "2025-09-06T00:02:00Z"
+        },
+        {
+            "source": {
+                "id": "a0300bc9a6e9d5b317bd6f614767231f",
+                "name": "Forbes",
+                "url": "https://www.forbes.com",
+                "country": "us"
+            },
+            "title": "Artificial Intelligence Communications Are Not Protected By Any Privilege",
+            "url": "https://www.forbes.com/sites/jayadkisson/2025/09/06/artificial-intelligence-communications-are-not-protected-by-any-privilege/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68bbbaf77929b5b18f46ae1a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-09-06T00:00:00Z"
         },
         {
             "source": {
@@ -1839,6 +1875,69 @@
         },
         {
             "source": {
+                "name": "theverge"
+            },
+            "title": "The best Nintendo Switch controllers to buy right now",
+            "url": "https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25490155/247143_Buying_Guide_Switch_Controllers_CVirginia.jpg?crop=0%2C10.732984293194%2C100%2C78.534031413613&quality=90&strip=all&w=1200",
+            "publishedAt": "2025-09-05 17:08:29"
+        },
+        {
+            "source": {
+                "name": "thehindu"
+            },
+            "title": "AMD offers 100K hours of free developer cloud access to Indian researchers, startups to democratise compute",
+            "url": "https://www.thehindu.com/business/amd-offers-100k-hours-of-free-developer-cloud-access-to-indian-researchers-startups-to-democratise-compute/article70017119.ece",
+            "urlToImage": "https://www.thehindu.com/theme/images/og-image.png",
+            "publishedAt": "2025-09-05 16:59:43"
+        },
+        {
+            "source": {
+                "name": "thepilotnews"
+            },
+            "title": "Don't look now, but there's an AI-generated Italian teacup on your child's phone. What does it mean?",
+            "url": "https://www.thepilotnews.com/entertainment/dont-look-now-but-theres-an-ai-generated-italian-teacup-on-your-childs-phone-what/article_be8b35f2-8263-450c-8854-23eb27336ef0.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/thepilotnews.com/content/tncms/assets/v3/editorial/0/1b/01b535ef-4b82-4ae5-a2d8-8e39520534f2/68b199f76df7b.image.jpg?crop=375%2C375%2C113%2C107&order=crop%2Cresize&resize=150%2C150",
+            "publishedAt": "2025-09-05 16:50:00"
+        },
+        {
+            "source": {
+                "name": "biztoc"
+            },
+            "title": "Europe’s Jupiter supercomputer hits exascale threshold at inauguration",
+            "url": "https://biztoc.com/x/96ed69feaec4a887",
+            "urlToImage": "https://biztoc.com/cdn/950/og.png",
+            "publishedAt": "2025-09-05 16:46:53"
+        },
+        {
+            "source": {
+                "name": "pcgamer"
+            },
+            "title": "Somehow, MindsEye is not dead: A new update promises to improve performance by removing 'ambient rubbish'",
+            "url": "https://www.pcgamer.com/games/third-person-shooter/somehow-mindseye-is-not-dead-a-new-update-promises-to-improve-performance-by-removing-ambient-rubbish/",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/AouFrHWQbromyvERgYGvqL-1280-80.jpg",
+            "publishedAt": "2025-09-05 16:38:24"
+        },
+        {
+            "source": {
+                "name": "economictimes_indiatimes"
+            },
+            "title": "AMD to offer 1 lakh hours of free developer cloud access to Indian researchers, startups",
+            "url": "https://economictimes.indiatimes.com/tech/startups/amd-to-offer-1-lakh-hours-of-free-developer-cloud-access-to-indian-researchers-startups/articleshow/123723351.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-192884,resizemode-75,msid-123723351/tech/startups/amd-to-offer-1-lakh-hours-of-free-developer-cloud-access-to-indian-researchers-startups.jpg",
+            "publishedAt": "2025-09-05 16:34:42"
+        },
+        {
+            "source": {
+                "name": "cnet"
+            },
+            "title": "This Pricey Thermostat Has Nearly Paid for Itself by Saving Me Money, and It's on Sale Right Now",
+            "url": "https://www.cnet.com/deals/this-pricey-thermostat-has-nearly-paid-for-itself-by-saving-me-money-and-its-on-sale-for-right-now/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/e50aeca5d9af36723c8a20605d4bff68f81eceac/hub/2025/05/21/4d53f6bf-7789-4df7-867b-2f29c32178e4/nest-thermostat-cloud-blue-sky.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-09-05 16:31:00"
+        },
+        {
+            "source": {
                 "name": "forbes"
             },
             "title": "Will Amazon’s Prime Model Drive Growth In Same-Day Grocery Delivery?",
@@ -3159,126 +3258,6 @@
             "url": "https://www.manilatimes.net/2025/09/05/tmt-newswire/globenewswire/mark-your-calendars-cios-invited-to-hmg-strategys-bringing-structure-to-ai-free-webinar-on-september-9/2179322",
             "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/09/05/736844.jpg",
             "publishedAt": "2025-09-04T16:35:56Z"
-        },
-        {
-            "source": {
-                "id": "93e59eaaf800fc544a6df1a4fc5c0cdc",
-                "name": "Toronto Star",
-                "url": "https://www.thestar.com",
-                "country": "ca"
-            },
-            "title": "Mark your calendars. CIOs invited to HMG Strategy’s Bringing Structure to AI free webinar on September 9",
-            "url": "https://www.thestar.com/globenewswire/mark-your-calendars-cios-invited-to-hmg-strategy-s-bringing-structure-to-ai-free-webinar/article_d0ddd96c-8996-5ce6-b7e0-5e1c347ef6eb.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/custom/image/f84403b8-7d76-11ee-9d02-a72a4951957f.png?resize=600%2C600",
-            "publishedAt": "2025-09-04T16:27:58Z"
-        },
-        {
-            "source": {
-                "id": "17d7c2645f485578130862e0c8dd9480",
-                "name": "The Mercury News",
-                "url": "https://www.mercurynews.com",
-                "country": "us"
-            },
-            "title": "AI boom can deliver $100 billion-plus deal, says Barclays banker Woeber",
-            "url": "https://www.mercurynews.com/2025/09/04/ai-boom-can-deliver-100-billion-plus-deal-says-barclays-banker-woeber/",
-            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/07/SJM-L-HYDRODATA-07XX-5.jpg?w=1024&h=683",
-            "publishedAt": "2025-09-04T16:17:16Z"
-        },
-        {
-            "source": {
-                "id": "8da923084554b2821233d6c5c5f02c97",
-                "name": "Fox News",
-                "url": "https://www.foxnews.com",
-                "country": "us"
-            },
-            "title": "Google CEO, major tech leaders join first lady Melania Trump at White House AI meeting",
-            "url": "https://www.foxnews.com/politics/google-ceo-major-tech-leaders-join-first-lady-melania-trump-white-house-ai-meeting",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/10/3a86342c-melania-trump.jpg",
-            "publishedAt": "2025-09-04T16:16:19Z"
-        },
-        {
-            "source": {
-                "id": "17d7c2645f485578130862e0c8dd9480",
-                "name": "The Mercury News",
-                "url": "https://www.mercurynews.com",
-                "country": "us"
-            },
-            "title": "Salesforce projects weak sales growth, fueling AI anxiety",
-            "url": "https://www.mercurynews.com/2025/09/04/salesforce-projects-weak-sales-growth-fueling-ai-anxiety/",
-            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/04/OCR-Z-SANFRAN-COMMERCIAL.jpg?w=1024&h=683",
-            "publishedAt": "2025-09-04T16:15:59Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "The Klaus Hoffarth Center for Critical Thinking",
-            "url": "https://www.manilatimes.net/2025/09/05/opinion/columns/the-klaus-hoffarth-center-for-critical-thinking/2179271",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/09/04/736744.jfif",
-            "publishedAt": "2025-09-04T16:08:00Z"
-        },
-        {
-            "source": {
-                "id": "f4d035ae0463df22c36ae97972a33ba6",
-                "name": "PR Newswire UK",
-                "url": "https://www.prnewswire.co.uk",
-                "country": "gb"
-            },
-            "title": "Cureus Updates Terms & Conditions to Prohibit AI Use",
-            "url": "https://www.prnewswire.co.uk/news-releases/cureus-updates-terms--conditions-to-prohibit-ai-use-302546487.html",
-            "urlToImage": "https://www.prnewswire.co.uk/content/dam/prnewswire/icons/2019-Q4-PRN-Icon-32-32.png",
-            "publishedAt": "2025-09-04T16:00:00Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "Study maps the happiest and saddest national anthems from around the globe",
-            "url": "https://phys.org/news/2025-09-happiest-saddest-national-anthems-globe.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/study-maps-the-happies-2.jpg",
-            "publishedAt": "2025-09-04T15:51:44Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "New AI tool addresses accuracy and fairness in data to improve health algorithms",
-            "url": "https://medicalxpress.com/news/2025-09-ai-tool-accuracy-fairness-health.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/new-ai-tool-addresses.jpg",
-            "publishedAt": "2025-09-04T15:21:04Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "Light-based insect analysis sharpens forensic timelines",
-            "url": "https://phys.org/news/2025-09-based-insect-analysis-sharpens-forensic.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/light-based-insect-ana.jpg",
-            "publishedAt": "2025-09-04T15:18:04Z"
-        },
-        {
-            "source": {
-                "id": "047d6e639890c69a677fd83c37dac5c2",
-                "name": "Hot Hardware",
-                "url": "https://hothardware.com",
-                "country": "us"
-            },
-            "title": "Apple's Siri Overhaul With Google Gemini Will Take The AI Fight To OpenAI And Perplexity",
-            "url": "https://hothardware.com/news/apples-siri-overhaul-could-use-google-gemini",
-            "urlToImage": "https://images.hothardware.com/contentimages/newsitem/68556/content/hero-siri.jpg",
-            "publishedAt": "2025-09-04T15:10:00Z"
         }
     ]
 }
