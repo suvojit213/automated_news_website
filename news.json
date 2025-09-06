@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-09-06T07:12:41.042302Z",
+    "lastUpdatedAt": "2025-09-06T08:16:46.017716Z",
     "articles": [
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "AstraZeneca to invest Rs 176 cr to expand GITC in Chennai",
+            "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/astrazeneca-to-invest-rs-176-cr-to-expand-gitc-in-chennai/articleshow/123732385.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-123732398,width-1200,height-630,imgsize-759591,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-09-06T07:48:00Z"
+        },
         {
             "source": {
                 "id": "73aabc646bff1356a46223f250cc6b52",
@@ -60,6 +72,18 @@
             "url": "https://www.benzinga.com/markets/economic-data/25/09/47535921/cathie-wood-says-inflation-could-fall-to-zero-or-even-negative-as-ai-boom-and-trumps-policies-could-push-gdp-growth-to-7",
             "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/09/06/Economic-Inflation-Rise-In-Interest-Rate.jpeg?width=1200&height=800&fit=crop",
             "publishedAt": "2025-09-06T04:49:37Z"
+        },
+        {
+            "source": {
+                "id": "f8a6832b0baf1b65435fdffa15b36068",
+                "name": "Pagenews.gr",
+                "url": "https://www.pagenews.gr",
+                "country": "gr"
+            },
+            "title": "Digital Teachers, Smarter States: Greece Partners with OpenAI to Lead in Artificial Intelligence",
+            "url": "https://www.pagenews.gr/2025/09/06/english-edition/digital-teachers-smarter-states-greece-partners-with-openai-to-lead-in-artificial-intelligence/",
+            "urlToImage": "https://www.pagenews.gr/wp-content/uploads/2025/09/6647464-1-1198x630.jpg",
+            "publishedAt": "2025-09-06T04:31:43Z"
         },
         {
             "source": {
@@ -1913,6 +1937,60 @@
             "source": {
                 "name": "analyticsinsight"
             },
+            "title": "Is Bitcoin Turning Bullish Amid September Surge?",
+            "url": "https://www.analyticsinsight.net/bitcoin/is-bitcoin-turning-bullish-amid-september-surge",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-09-05%2Fgvy7r6s8%2FSeptember-Surgs-Bitcoin-Turning-Bullish-This-Mont.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-09-05 20:15:00"
+        },
+        {
+            "source": {
+                "name": "tbnewswatch"
+            },
+            "title": "MP announces big federal investment in AI",
+            "url": "https://www.tbnewswatch.com/local-news/mp-announces-big-federal-investment-in-ai-11172966",
+            "urlToImage": "https://www.vmcdn.ca/f/files/tbnewswatch/images/local-news/2025/september/confederation-college/powlowski-confederation-college-sept-2025.jpg;w=960",
+            "publishedAt": "2025-09-05 20:00:00"
+        },
+        {
+            "source": {
+                "name": "digitaltrends"
+            },
+            "title": "The best tech of IFA 2025: a lightweight laptop, thin tablet, unique drone, and more",
+            "url": "https://www.digitaltrends.com/news/the-best-tech-of-ifa-2025/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/09/DT-IFA-Berlin-2025-Feature-Image_69401c.jpg?p=1&resize=1200%2C630",
+            "publishedAt": "2025-09-05 19:39:45"
+        },
+        {
+            "source": {
+                "name": "techcrunch"
+            },
+            "title": "Personalized AI companion app Dot is shutting down",
+            "url": "https://techcrunch.com/2025/09/05/personalized-ai-companion-app-dot-is-shutting-down/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/06/hero.png?resize=1200%2C675",
+            "publishedAt": "2025-09-05 19:27:47"
+        },
+        {
+            "source": {
+                "name": "bitcoinworld"
+            },
+            "title": "AI Safety for Kids: Urgent Warning as Google Gemini Faces ‘High Risk’ Assessment",
+            "url": "https://bitcoinworld.co.in/ai-safety-gemini-risk/",
+            "urlToImage": "https://bitcoinworld.co.in/wp-content/uploads/ai-safety-gemini-risk.jpg",
+            "publishedAt": "2025-09-05 19:25:12"
+        },
+        {
+            "source": {
+                "name": "futurism"
+            },
+            "title": "Leaked DMs Show Elon Musk Blatantly Lying About Self-Driving Safety",
+            "url": "https://futurism.com/leaked-elon-musk-self-driving",
+            "urlToImage": "https://wordpress-assets.futurism.com/2025/09/leaked-elon-musk-lying-self-driving.jpg",
+            "publishedAt": "2025-09-05 19:23:48"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
             "title": "Best Dell Laptops for AI Programming",
             "url": "https://www.analyticsinsight.net/programming/best-dell-laptops-for-ai-programming",
             "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-09-05%2Fwkjdgv97%2FBest-Dell-Laptops-for-AI-Programmingw.jpg?auto=format%2Ccompress&fit=max&w=320",
@@ -3120,102 +3198,6 @@
             "url": "https://www.cbssports.com/nfl/news/eagles-vs-cowboys-props-odds-sportsline-machine-learning-model-ai-predictions-nfl-kickoff-game-sgp-picks/",
             "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/08/23/acc14c9d-7693-4676-bef6-b81d0640e32e/thumbnail/1200x675/8f3ea6beeb00a4ce1c382fe30b0f585c/usatsi-dak-preseason.jpg",
             "publishedAt": "2025-09-04T21:48:04Z"
-        },
-        {
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            },
-            "title": "Blaming AI a popular strategy for politicians seeking to dodge responsibility for something embarrassing",
-            "url": "https://japantoday.com/category/features/opinions/the-president-blamed-ai-and-embraced-doing-so.-is-it-becoming-the-new-'fake-news'",
-            "urlToImage": "https://media.japantoday.com/img/store/7d/a7/9e4785e011429e98a09a26603e1de3d48461/download/_w1700.jpeg",
-            "publishedAt": "2025-09-04T21:29:47Z"
-        },
-        {
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            },
-            "title": "Blaming AI a popular strategy for politicians seeking to dodge responsibility for something embarrassing",
-            "url": "https://japantoday.com/category/features/opinions/the-president-blamed-ai-and-embraced-doing-so.-is-it-becoming-the-new-%27fake-news%27",
-            "urlToImage": "https://media.japantoday.com/img/store/7d/a7/9e4785e011429e98a09a26603e1de3d48461/download/_w1700.jpeg",
-            "publishedAt": "2025-09-04T21:29:47Z"
-        },
-        {
-            "source": {
-                "id": "549a7a859b2345bbe231b00e7244ef99",
-                "name": "Engadget",
-                "url": "https://www.engadget.com",
-                "country": "us"
-            },
-            "title": "Big tech signs on to White House plan for AI education in US schools",
-            "url": "https://www.engadget.com/ai/big-tech-signs-on-to-white-house-plan-for-ai-education-in-us-schools-212646999.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Ic.TwPSu9NOb8.mrfdWcWA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-09/b8f99ff0-89d2-11f0-a7cd-7c5bfcd7972a",
-            "publishedAt": "2025-09-04T21:26:46Z"
-        },
-        {
-            "source": {
-                "id": "b419a989918b3665a34559f5047546b6",
-                "name": "The Sunday Times",
-                "url": "https://www.thetimes.com",
-                "country": "gb"
-            },
-            "title": "Dyson hopes to clean up with UK launch of pencil-thin vacuum",
-            "url": "https://www.thetimes.com/uk/technology-uk/article/dyson-hopes-to-clean-up-with-uk-launch-of-pencil-thin-vacuum-l9fg0p2t7",
-            "urlToImage": "https://www.thetimes.com/imageserver/image/%2F1a9dfcdd-78c2-468f-8d15-e1187c2fde03.jpg?crop=4252%2C2392%2C0%2C222&resize=1200",
-            "publishedAt": "2025-09-04T21:05:48Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Broadcom sees fourth-quarter revenue above estimates on growing AI chip demand",
-            "url": "https://www.reuters.com/business/media-telecom/broadcom-sees-fourth-quarter-revenue-above-estimates-growing-ai-chip-demand-2025-09-04/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/ICVKNMMIIRJNFCZZZVO5I4HKMI.jpg?auth=c4b6b8f2e08e3eedf5b3ba92be0892b4033b30cc6b2de9a90b3e5fe61ddeb197&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-09-04T20:35:19Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Broadcom forecasts upbeat fourth-quarter revenue as AI chip demand soars",
-            "url": "https://www.reuters.com/business/media-telecom/broadcom-forecasts-upbeat-fourth-quarter-revenue-ai-chip-demand-soars-2025-09-04/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/ICVKNMMIIRJNFCZZZVO5I4HKMI.jpg?auth=c4b6b8f2e08e3eedf5b3ba92be0892b4033b30cc6b2de9a90b3e5fe61ddeb197&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-09-04T20:35:19Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Broadcom sees strong AI growth for fiscal 2026 on new customer addition",
-            "url": "https://www.reuters.com/business/media-telecom/broadcom-sees-strong-ai-growth-fiscal-2026-new-customer-addition-2025-09-04/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/ICVKNMMIIRJNFCZZZVO5I4HKMI.jpg?auth=c4b6b8f2e08e3eedf5b3ba92be0892b4033b30cc6b2de9a90b3e5fe61ddeb197&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-09-04T20:35:19Z"
-        },
-        {
-            "source": {
-                "id": "e83df266d4bbd78d7528c3ee4fc0fc5f",
-                "name": "The Hollywood Reporter",
-                "url": "https://www.hollywoodreporter.com",
-                "country": "us"
-            },
-            "title": "Warner Bros. Discovery Sues Midjourney for Copyright Infringement",
-            "url": "https://www.hollywoodreporter.com/business/business-news/warner-bros-discovery-sues-ai-company-copyright-infringement-1236361610/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/09/Blank-2000-x-1127.jpg?w=1440&h=810&crop=1",
-            "publishedAt": "2025-09-04T20:02:29Z"
         }
     ]
 }
