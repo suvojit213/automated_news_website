@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-09-06T17:10:45.082636Z",
+    "lastUpdatedAt": "2025-09-06T18:17:57.041195Z",
     "articles": [
+        {
+            "source": {
+                "id": "e1b896cc9b8775d3aaac2320e6dcf1f6",
+                "name": "Crypto News",
+                "url": "https://crypto.news",
+                "country": "lt"
+            },
+            "title": "Quality data, not the model",
+            "url": "https://crypto.news/ai-billion-dollar-bottleneck-quality-data-not-model/",
+            "urlToImage": "https://media.crypto.news/2025/09/crypto-news-AIs-billion-dollar-bottleneck-option01.webp",
+            "publishedAt": "2025-09-06T18:03:10Z"
+        },
         {
             "source": {
                 "id": "263578fdccd92a76494cd34055806fcc",
@@ -543,6 +555,15 @@
         },
         {
             "source": {
+                "name": "geeky_gadgets"
+            },
+            "title": "Gemini CLI Model Context Protocol (MCP) : The Secret to Smarter AI Workflows",
+            "url": "https://www.geeky-gadgets.com/gemini-cli-model-context-protocol-mcp/",
+            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/09/gemini-cli-ai-integration.webp",
+            "publishedAt": "2025-09-06 06:01:56"
+        },
+        {
+            "source": {
                 "name": "interestingengineering"
             },
             "title": "Photos: BMW debuts EV with 500 miles range, 400 kW charging, and 6th-gen drive tech",
@@ -585,6 +606,15 @@
             "url": "https://techannouncer.com/how-ai-utility-is-transforming-modern-infrastructure-and-everyday-services/",
             "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/09/22f10d16thumbnail-332x187.jpeg",
             "publishedAt": "2025-09-06 01:36:19"
+        },
+        {
+            "source": {
+                "name": "techannouncer"
+            },
+            "title": "Analog Computing: Exploring the Revival and Future Applications of a Classic Technology",
+            "url": "https://techannouncer.com/analog-computing-exploring-the-revival-and-future-applications-of-a-classic-technology/",
+            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/09/a964ab8ethumbnail-332x187.jpeg",
+            "publishedAt": "2025-09-06 01:35:34"
         },
         {
             "source": {
@@ -3246,33 +3276,6 @@
             "url": "https://www.cnbctv18.com/auto/bmw-launches-ix3-neue-klasse-electric-suv-with-long-range-fast-charging-in-india-2026-19665475.htm",
             "urlToImage": "https://images.cnbctv18.com/uploads/2025/09/p90615630-highres-the-new-bmw-ix3-50-x-2025-09-450280e7a86cd64e4bd8ed5c43c7a23a.jpg",
             "publishedAt": "2025-09-05 11:08:29"
-        },
-        {
-            "source": {
-                "name": "fastcompany"
-            },
-            "title": "AI is quietly reshaping the way we talk",
-            "url": "https://www.fastcompany.com/91398460/ai-is-quietly-reshaping-the-way-we-talk",
-            "urlToImage": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2025/09/p-2-91398460-ai-is-quietly-reshaping-the-way-we-talk.jpg",
-            "publishedAt": "2025-09-05 11:00:00"
-        },
-        {
-            "source": {
-                "name": "the_tob"
-            },
-            "title": "Lenovo Unveils Full Portfolio of AI-Powered Devices and Experiences Across Consumer, Business, and Mobile",
-            "url": "https://thetimesofbengal.com/2025/09/05/lenovo-unveils-full-portfolio-of-ai-powered-devices-and-experiences-across-consumer-business-and-mobile/",
-            "urlToImage": "https://thetimesofbengal.com/wp-content/uploads/2025/09/baddd183-df0f-46ad-b2e3-2d8fe8cf2c2c.jpg",
-            "publishedAt": "2025-09-05 10:50:27"
-        },
-        {
-            "source": {
-                "name": "news9live"
-            },
-            "title": "Global experts convene at TEAIF 2023 to reimagine digital transformation",
-            "url": "https://www.news9live.com/india/global-experts-convene-at-teaif-2023-to-reimagine-digital-transformation-2886669",
-            "urlToImage": "https://images.news9live.com/wp-content/uploads/2025/09/Your-paragraph-textlkjmlkm-2025-09-05T161557.697.jpg?enlarge=true&w=802",
-            "publishedAt": "2025-09-05 10:44:00"
         }
     ]
 }
