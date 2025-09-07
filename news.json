@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-09-07T13:17:59.768267Z",
+    "lastUpdatedAt": "2025-09-07T14:11:48.117766Z",
     "articles": [
+        {
+            "source": {
+                "id": "18c2a6429621fbedc49891aa7c847ec6",
+                "name": "Gizmodo",
+                "url": "https://gizmodo.com",
+                "country": "us"
+            },
+            "title": "Here's How Much More AI-Skilled Workers Make",
+            "url": "https://gizmodo.com/heres-how-much-more-ai-skilled-workers-make-2000653586",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/09/jobs2.jpg",
+            "publishedAt": "2025-09-07T14:05:13Z"
+        },
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "AI helps older adults report accurate blood pressure readings at home",
+            "url": "https://medicalxpress.com/news/2025-09-ai-older-adults-accurate-blood.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/home-blood-pressure-mo.jpg",
+            "publishedAt": "2025-09-07T14:00:01Z"
+        },
+        {
+            "source": {
+                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+                "name": "NDTV.com",
+                "url": "https://www.ndtv.com",
+                "country": "in"
+            },
+            "title": "Indian-American Techie Weighs In On Impact Of Artificial Intelligence On Software Development",
+            "url": "https://www.ndtv.com/offbeat/indian-american-techie-weighs-in-on-impact-of-artificial-intelligence-on-software-development-9232772",
+            "urlToImage": "https://c.ndtvimg.com/2025-09/1u5r9qds_artificial-intelligence_625x300_07_September_25.jpeg",
+            "publishedAt": "2025-09-07T13:27:33Z"
+        },
+        {
+            "source": {
+                "id": "3989f52bbec2d3be8442e2851b59e79e",
+                "name": "CBS Sports",
+                "url": "https://www.cbssports.com",
+                "country": "us"
+            },
+            "title": "Bills vs. Ravens NFL props, odds, SportsLine Machine Learning Model AI predictions: Jackson over 234.5 yards",
+            "url": "https://www.cbssports.com/nfl/news/bills-vs-ravens-nfl-props-odds-sportsline-machine-learning-model-ai-predictions-jackson-over-234-5-yards/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/08/05/fdf69538-0237-4a43-94c1-7ae6732b577c/thumbnail/1200x675/b853b12f52f5e9434d9739fd07903587/lamar-jackson-1.jpg",
+            "publishedAt": "2025-09-07T13:26:00Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -3318,42 +3366,6 @@
             "url": "https://www.thestreet.com/technology/nvidias-new-investment-is-a-game-changer-for-quantum-stocks",
             "urlToImage": "https://www.thestreet.com/.image/c_fit,h_800,w_1200/MjE3NDcxODQzODI3NzIxNTg0/nvidia-ceo-jensen-huang-lead.jpg",
             "publishedAt": "2025-09-05 23:03:00"
-        },
-        {
-            "source": {
-                "name": "newsargus"
-            },
-            "title": "Europe bets on supercomputer to catch up in AI race",
-            "url": "https://www.newsargus.com/news/national/europe-bets-on-supercomputer-to-catch-up-in-ai-race/article_aaa1a99f-aedb-5cdb-b90e-9077450fd09a.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/newsargus.com/content/tncms/assets/v3/editorial/7/05/7056a904-465a-50e6-a870-ffbe8d62b6d0/68ba8001923f5.image.jpg?resize=300%2C200",
-            "publishedAt": "2025-09-05 22:48:55"
-        },
-        {
-            "source": {
-                "name": "carrollspaper"
-            },
-            "title": "Europe bets on supercomputer to catch up in AI race",
-            "url": "https://carrollspaper.com/news/national/europe-bets-on-supercomputer-to-catch-up-in-ai-race/article_c832a470-af1e-5325-ad59-c5f2724ba6ec.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/carrollspaper.com/content/tncms/assets/v3/editorial/5/79/5795172f-a038-5aaf-90eb-2c0ac904c6f1/68ba7fe9e4d20.image.jpg?resize=300%2C200",
-            "publishedAt": "2025-09-05 22:48:55"
-        },
-        {
-            "source": {
-                "name": "kdhnews"
-            },
-            "title": "Europe bets on supercomputer to catch up in AI race",
-            "url": "https://kdhnews.com/news/nation/europe-bets-on-supercomputer-to-catch-up-in-ai-race/article_67e8b61a-0850-5456-b22b-e17429e49ffd.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/assets/v3/editorial/9/66/966324b8-c6f8-54a8-8444-39b70a4c4887/68ba807d5e3bf.image.jpg",
-            "publishedAt": "2025-09-05 22:48:55"
-        },
-        {
-            "source": {
-                "name": "communitynewspapergroup"
-            },
-            "title": "Europe bets on supercomputer to catch up in AI race",
-            "url": "https://www.communitynewspapergroup.com/news/nation/europe-bets-on-supercomputer-to-catch-up-in-ai-race/article_dac5577c-4f92-5c72-8eb8-4edc78542b8e.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/communitynewspapergroup.com/content/tncms/assets/v3/editorial/a/37/a37c1ad3-9e3a-597f-b00b-f6d5e3980ae4/68ba809809673.image.jpg?resize=300%2C200",
-            "publishedAt": "2025-09-05 22:48:55"
         }
     ]
 }
