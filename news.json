@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-09-07T22:12:59.784709Z",
+    "lastUpdatedAt": "2025-09-07T23:12:57.078898Z",
     "articles": [
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Gurgaon govt schools set to transform education with AI curriculum rollout",
+            "url": "https://timesofindia.indiatimes.com/city/gurgaon/gurgaon-govt-schools-set-to-transform-education-with-ai-curriculum-rollout/articleshow/123751922.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-123751921,width-1070,height-580,imgsize-22448,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-09-07T22:32:00Z"
+        },
         {
             "source": {
                 "id": "9962a9b594044b42e892f4760e2dfd7e",
@@ -408,6 +420,96 @@
             "url": "https://www.leicestermercury.co.uk/news/uk-world-news/hmrc-employs-ai-detect-tax-10473520",
             "urlToImage": "https://i2-prod.nottinghampost.com/news/uk-world-news/article10473519.ece/ALTERNATES/s1200/0_HM-Revenue-and-Customs-Government-department-in-London.jpg",
             "publishedAt": "2025-09-07T03:00:00Z"
+        },
+        {
+            "source": {
+                "name": "wired"
+            },
+            "title": "The New Math of Quantum Cryptography",
+            "url": "https://www.wired.com/story/the-new-math-of-quantum-cryptography/",
+            "urlToImage": "https://media.wired.com/photos/68b18dd8848cb7db8ce4d2a6/3:4/w_120,c_limit/BetterQuantumSecrets-crWei-AnJin-Lede.jpeg",
+            "publishedAt": "2025-09-07 11:00:00"
+        },
+        {
+            "source": {
+                "name": "qctimes"
+            },
+            "title": "MARK-TO-MARKET: Trump leads global rush for rare-earth elements",
+            "url": "https://qctimes.com/news/local/business/article_d83facbf-bce7-48c7-9da3-5c4e2cbf1f9c.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/d/83/d83facbf-bce7-48c7-9da3-5c4e2cbf1f9c/68715a246d39a.preview.jpg?crop=1920%2C1008%2C0%2C35&order=crop%2Cresize&resize=1200%2C630",
+            "publishedAt": "2025-09-07 11:00:00"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "Apple Vision Pro 2 could launch soon — here’s what a former Apple engineering manager says it must fix",
+            "url": "https://www.tomsguide.com/computing/vr-ar/apple-vision-pro-2-could-launch-soon-heres-what-a-former-apple-engineering-manager-says-it-must-fix",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/bGq8CC3bVe5FWUY4ixhs2n-1280-80.jpg",
+            "publishedAt": "2025-09-07 11:00:00"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "When Random Isn’t Random: How Weak Keys Still Drain Crypto Wallets",
+            "url": "https://hackernoon.com/when-random-isnt-random-how-weak-keys-still-drain-crypto-wallets",
+            "urlToImage": "https://hackernoon.imgix.net/images/KTsAalOsFZcNRUZ8VTJlXGrvLZo1-8q03bj8.png",
+            "publishedAt": "2025-09-07 10:50:11"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "15 laptop deals I'd buy with my own money — save on Alienware, Dell, Apple and more this weekend",
+            "url": "https://www.tomsguide.com/computing/laptops/15-laptop-deals-id-buy-with-my-own-money-save-on-alienware-dell-apple-and-more-this-weekend",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Hm8Zi9B5FkDe4Cd7MvpDxf-1280-80.jpg",
+            "publishedAt": "2025-09-07 10:30:00"
+        },
+        {
+            "source": {
+                "name": "joplinglobe"
+            },
+            "title": "Pope Leo XIV declares teen computer whiz Carlo Acutis the first millennial saint",
+            "url": "https://www.joplinglobe.com/region/pope-leo-xiv-declares-teen-computer-whiz-carlo-acutis-the-first-millennial-saint/article_41c0f3e3-ca38-5670-979c-07059708620d.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/d/45/d4502688-ae5b-5c78-b6e0-9de48f79fd0c/68bd2fcb4ed91.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-09-07 10:14:33"
+        },
+        {
+            "source": {
+                "name": "union_bulletin"
+            },
+            "title": "Pope Leo XIV declares teen computer whiz Carlo Acutis the first millennial saint",
+            "url": "https://www.union-bulletin.com/news/world/pope-leo-xiv-declares-teen-computer-whiz-carlo-acutis-the-first-millennial-saint/article_afb94e3e-f0c4-5f06-8412-29116d704d77.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/union-bulletin.com/content/tncms/assets/v3/editorial/2/c4/2c4877b5-204a-5fdc-b3c4-6e7c0d191018/68bd324d7c9b5.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-09-07 10:14:33"
+        },
+        {
+            "source": {
+                "name": "djournal"
+            },
+            "title": "Pope Leo XIV declares teen computer whiz Carlo Acutis the first millennial saint",
+            "url": "https://www.djournal.com/news/nation-world/pope-leo-xiv-declares-teen-computer-whiz-carlo-acutis-the-first-millennial-saint/article_58f4eb5a-145d-5330-9a82-f8ac9a049f9f.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/4/d1/4d17816f-953c-5a7c-97ff-4ba172747ea2/68bd334d71be2.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-09-07 10:14:33"
+        },
+        {
+            "source": {
+                "name": "caledonianrecord"
+            },
+            "title": "Pope Leo XIV declares teen computer whiz Carlo Acutis the first millennial saint",
+            "url": "https://www.caledonianrecord.com/news/national/pope-leo-xiv-declares-teen-computer-whiz-carlo-acutis-the-first-millennial-saint/article_331fcef3-03c5-5a05-a833-0a71d0245028.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/caledonianrecord.com/content/tncms/custom/image/97f38b88-9339-11ec-91bb-637c1bf4402d.jpg?resize=600%2C306",
+            "publishedAt": "2025-09-07 10:14:33"
+        },
+        {
+            "source": {
+                "name": "hjnews"
+            },
+            "title": "Pope Leo XIV declares teen computer whiz Carlo Acutis the first millennial saint",
+            "url": "https://www.hjnews.com/world/pope-leo-xiv-declares-teen-computer-whiz-carlo-acutis-the-first-millennial-saint/article_661717e4-c9ed-5e7c-8d13-d176ea6f49cc.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/hjnews.com/content/tncms/assets/v3/editorial/7/3a/73a9fe1b-0189-519d-a3fb-144252a0457c/68b9720ce6b0e.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-09-07 10:14:33"
         },
         {
             "source": {
@@ -3129,138 +3231,6 @@
             "url": "https://www.thehindubusinessline.com/money-and-banking/indian-bank-migrates-its-corporate-website-to-bankin-domain/article70015636.ece",
             "urlToImage": "https://bl-i.thgim.com/public/incoming/rct74o/article70015665.ece/alternates/LANDSCAPE_1200/IMG_IMG_iStock-120413447_2_1_QV9LK2B9.jpg",
             "publishedAt": "2025-09-05T09:30:26Z"
-        },
-        {
-            "source": {
-                "id": "7eeaf9a839918543cc708f2d331c3be4",
-                "name": "Free Press Journal",
-                "url": "https://www.freepressjournal.in",
-                "country": "in"
-            },
-            "title": "Who Is Mitesh Khapra? TIME Magazine Lists IIT Madras Professor Among Top 100 AI Leaders",
-            "url": "https://www.freepressjournal.in/education/who-is-mitesh-khapra-time-magazine-lists-iit-madras-professor-among-top-100-ai-leaders",
-            "urlToImage": "https://media.assettype.com/freepressjournal/2025-09-05/ecsb40ob/Edu-2025-09-05T144147.584.jpg",
-            "publishedAt": "2025-09-05T09:18:15Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Broadcom shares rally on new AI deal, CEO's assurance",
-            "url": "https://www.reuters.com/business/broadcom-shares-rally-new-ai-deal-ceos-assurance-2025-09-05/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/KUJ7W5FOW5NEPOIITDB3JG4YHY.jpg?auth=a03aa85b49f7a69a9390381a7d803d12ccdd49ff50124681b242a7f7f012467a&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-09-05T09:05:24Z"
-        },
-        {
-            "source": {
-                "id": "eaeeaeaa1e329f65d3a921c9c867fd7b",
-                "name": "Washington Examiner",
-                "url": "https://www.washingtonexaminer.com",
-                "country": "us"
-            },
-            "title": "AI needs a warning label before it’s too late",
-            "url": "https://www.washingtonexaminer.com/restoring-america/community-family/3793207/artificial-intelligence-warning-label-needed/",
-            "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2025/01/AP25028395434149.webp",
-            "publishedAt": "2025-09-05T09:00:00Z"
-        },
-        {
-            "source": {
-                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
-                "name": "Firstpost",
-                "url": "https://www.firstpost.com",
-                "country": "in"
-            },
-            "title": "Teachers’ Day 2025: Will AI disrupt teaching jobs?",
-            "url": "https://www.firstpost.com/explainers/teachers-artificial-intelligence-jobs-impact-13931064.html",
-            "urlToImage": "https://images.firstpost.com/uploads/2025/09/Untitled-design-2025-09-05T114000.144-2025-09-23bb4f82c738e69f22a1c12b7412b4e5.jpg?im=FitAndFill=(1200,675)",
-            "publishedAt": "2025-09-05T08:49:27Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "Can courts safeguard fairness in an AI age?",
-            "url": "https://phys.org/news/2025-09-courts-safeguard-fairness-ai-age.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/blind-justice.jpg",
-            "publishedAt": "2025-09-05T08:32:05Z"
-        },
-        {
-            "source": {
-                "id": "72ea416416ab0eec8fe687d6262961e8",
-                "name": "Finbold",
-                "url": "https://finbold.com",
-                "country": "bg"
-            },
-            "title": "Machine learning algorithm sets Dogecoin price for September 30, 2025",
-            "url": "https://finbold.com/machine-learning-algorithm-sets-dogecoin-price-for-september-30-2025/",
-            "urlToImage": "https://assets.finbold.com/uploads/2025/09/Machine-learning-algorithm-sets-Dogecoin-price-for-September-30-2025.jpg",
-            "publishedAt": "2025-09-05T08:25:40Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "From Bill Gates to Mark Zuckerberg, Donald Trump dines with AI and tech leaders - In pics",
-            "url": "https://timesofindia.indiatimes.com/world/us/from-bill-gates-to-mark-zuckerberg-donald-trump-dines-with-ai-and-tech-leaders-in-pics/photostory/123715431.cms",
-            "urlToImage": "https://static.toiimg.com/photo/123715460.cms",
-            "publishedAt": "2025-09-05T08:22:24Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "India Leads with Innovation as AcademIQ.io Brings AI to Every Classroom",
-            "url": "https://www.tribuneindia.com/news/business/india-leads-with-innovation-as-academiq-io-brings-ai-to-every-classroom/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTY5NDIwYjMwLThhMmUtMTFmMC04NDliLWQxMWMzZjNiMjVlNy5qcGc=",
-            "publishedAt": "2025-09-05T08:00:18Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Who is Mitesh Khapra? The IIT Madras professor featured in TIME Magazine’s top 100 AI leaders",
-            "url": "https://timesofindia.indiatimes.com/education/news/who-is-mitesh-khapra-the-iit-madras-professor-featured-in-time-magazines-top-100-ai-leaders/articleshow/123714984.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-123714996,width-1070,height-580,imgsize-36390,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "publishedAt": "2025-09-05T08:00:00Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "India Leads with Innovation as AcademIQ.io Brings AI to Every Classroom",
-            "url": "https://www.lokmattimes.com/business/india-leads-with-innovation-as-academiqio-brings-ai-to-every-classroom/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20250905075706_202509.jpg",
-            "publishedAt": "2025-09-05T07:58:06Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "Council Invests Over $20 Million in FireCompass to Scale Offensive Security with Agentic AI",
-            "url": "https://www.lokmattimes.com/business/ec-council-invests-over-20-million-in-firecompass-to-scale-offensive-security-with-agentic-ai/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20250905075449_202509.jpg",
-            "publishedAt": "2025-09-05T07:55:40Z"
         }
     ]
 }
