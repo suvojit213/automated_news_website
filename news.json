@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-09-08T14:15:38.369367Z",
+    "lastUpdatedAt": "2025-09-08T15:14:29.995199Z",
     "articles": [
+        {
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            },
+            "title": "Kerala’s AI prodigy Raul John Aju urges India to lead in AI",
+            "url": "https://www.indiatoday.in/education-today/news/story/keralas-ai-prodigy-raul-john-aju-urges-india-to-lead-in-ai-2783989-2025-09-08",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202509/raul-john-aju-at-india-today-south-conclave-2025-081451309-16x9_0.jpg?VersionId=FaPFA_DwtQEupOfM9HDh4a8vNSV0IXd2",
+            "publishedAt": "2025-09-08T14:28:09Z"
+        },
         {
             "source": {
                 "id": "73aabc646bff1356a46223f250cc6b52",
@@ -166,6 +178,18 @@
             },
             "title": "iExec launches its privacy framework on Arbitrum",
             "url": "https://finbold.com/iexec-launches-its-privacy-framework-on-arbitrum/",
+            "urlToImage": "https://assets.finbold.com/uploads/2025/09/iExec-launches-its-privacy-framework-on-Arbitrum.jpg",
+            "publishedAt": "2025-09-08T12:00:00Z"
+        },
+        {
+            "source": {
+                "id": "72ea416416ab0eec8fe687d6262961e8",
+                "name": "Finbold",
+                "url": "https://finbold.com",
+                "country": "bg"
+            },
+            "title": "iExec brings TEE-based privacy tools to Arbitrum",
+            "url": "https://finbold.com/iexec-brings-tee-based-privacy-tools-to-arbitrum/",
             "urlToImage": "https://assets.finbold.com/uploads/2025/09/iExec-launches-its-privacy-framework-on-Arbitrum.jpg",
             "publishedAt": "2025-09-08T12:00:00Z"
         },
@@ -768,6 +792,15 @@
             "url": "https://www.forbes.com/sites/ericsiegel/2025/09/08/how-to-overcome-predictive-ais-everyday-failure/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68bde4c0a0d351c238f73d2f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-09-08T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "thestatesman"
+            },
+            "title": "Time to regulate AI",
+            "url": "https://www.thestatesman.com/opinion/time-to-regulate-ai-1503482824.html",
+            "urlToImage": "https://www.thestatesman.com/wp-content/uploads/2025/05/IMG_3062-jpeg.webp",
+            "publishedAt": "2025-09-08 02:49:40"
         },
         {
             "source": {
@@ -3132,33 +3165,6 @@
             "url": "https://www.webpronews.com/system76-launches-pop_os-24-04-beta-with-rust-powered-cosmic-desktop/",
             "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-56a6ada9-d160-4ce9-a854-d3f236b9353a.jpeg?fit=720%2C960&ssl=1",
             "publishedAt": "2025-09-06 14:30:00"
-        },
-        {
-            "source": {
-                "name": "bgr_com"
-            },
-            "title": "Ranking 13 Of The Most Powerful Smartphone Processors From Worst To Best",
-            "url": "https://www.bgr.com/1958511/ranking-13-most-powerful-smartphone-processors/",
-            "urlToImage": "https://www.bgr.com/img/gallery/ranking-13-of-the-most-powerful-smartphone-processors-from-worst-to-best/l-intro-1756971444.jpg",
-            "publishedAt": "2025-09-06 14:02:00"
-        },
-        {
-            "source": {
-                "name": "geeky_gadgets"
-            },
-            "title": "How to Build a High-Performance AI Server and Save Big on Costs",
-            "url": "https://www.geeky-gadgets.com/how-to-build-a-high-performance-ai-server-and-save-big-on-costs/",
-            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/09/high-performance-ai-server-hardware.webp",
-            "publishedAt": "2025-09-06 14:01:40"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "OpenAI to Produce Custom AI Chips in 2026, Partners with Broadcom and TSMC",
-            "url": "https://www.webpronews.com/openai-to-produce-custom-ai-chips-in-2026-partners-with-broadcom-and-tsmc/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-fadc35d5-549a-42c5-b5ba-3b6c5116e45c.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-09-06 14:00:00"
         }
     ]
 }
