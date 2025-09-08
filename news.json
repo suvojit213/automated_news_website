@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-09-08T06:23:56.703586Z",
+    "lastUpdatedAt": "2025-09-08T07:15:18.999142Z",
     "articles": [
+        {
+            "source": {
+                "id": "b41851fb2662ea502db29f71ec4d1583",
+                "name": "NPR",
+                "url": "https://www.npr.org",
+                "country": "us"
+            },
+            "title": "How AI slop is clogging your brain",
+            "url": "https://www.npr.org/2025/09/08/nx-s1-5528762/how-ai-slop-is-clogging-your-brain",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3b%2Fe3%2F5c52f9054bc1ab4e695161f049f3%2Fdfbadc19-2db8-4136-9999-52467bdda4d4.jpg",
+            "publishedAt": "2025-09-08T07:00:00Z"
+        },
+        {
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            },
+            "title": "Activists go on hunger strike outside DeepMind office, demand Google to stop making AI",
+            "url": "https://www.indiatoday.in/technology/news/story/activists-go-on-hunger-strike-outside-deepmind-office-demand-google-to-stop-making-ai-2783635-2025-09-08",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202509/google-deepmind-154127100-16x9.jpg?VersionId=3i8dxAtsksISivEx6d3ZqACKVE7XEcJu",
+            "publishedAt": "2025-09-08T06:36:02Z"
+        },
         {
             "source": {
                 "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
@@ -96,6 +120,18 @@
             "url": "https://economictimes.indiatimes.com/tech/technology/alibaba-leads-140-million-funding-round-in-chinese-ecommerce-major-x-square-robot/articleshow/123756827.cms",
             "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-43268,resizemode-75,msid-123756827/tech/technology/alibaba-leads-140-million-funding-round-in-chinese-ecommerce-major-x-square-robot.jpg",
             "publishedAt": "2025-09-08T04:08:09Z"
+        },
+        {
+            "source": {
+                "id": "1b40b878c09151e8cf44a095bc8569a5",
+                "name": "ETF Daily News",
+                "url": "https://www.etfdailynews.com",
+                "country": "us"
+            },
+            "title": "Artificial Intelligence Stocks To Watch Now - September 6th",
+            "url": "https://www.etfdailynews.com/2025/09/08/artificial-intelligence-stocks-to-watch-now-september-6th/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/salesforcecom-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2025-09-08T03:10:52Z"
         },
         {
             "source": {
@@ -636,6 +672,60 @@
             "url": "https://www.leicestermercury.co.uk/news/uk-world-news/hmrc-employs-ai-detect-tax-10473520",
             "urlToImage": "https://i2-prod.nottinghampost.com/news/uk-world-news/article10473519.ece/ALTERNATES/s1200/0_HM-Revenue-and-Customs-Government-department-in-London.jpg",
             "publishedAt": "2025-09-07T03:00:00Z"
+        },
+        {
+            "source": {
+                "name": "digitaltrends"
+            },
+            "title": "This week in EV tech: Highlights from IAA Mobility",
+            "url": "https://www.digitaltrends.com/cars/this-week-in-ev-tech-highlights-from-iaa-mobility/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/09/pre-media_25c0192_101.jpeg?p=1&resize=1200%2C630",
+            "publishedAt": "2025-09-07 19:00:00"
+        },
+        {
+            "source": {
+                "name": "fortune"
+            },
+            "title": "Gen Z’s beloved ‘Italian Brain Rot’ is unproductive and pointless—and that may be the point",
+            "url": "https://fortune.com/2025/09/07/what-is-italian-brain-rot-gen-z-social-media-tiktok/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/AP25248495713079.jpg?w=2048",
+            "publishedAt": "2025-09-07 18:59:18"
+        },
+        {
+            "source": {
+                "name": "fortune"
+            },
+            "title": "First-of-its-kind study finds ‘secret fresh water’ that may stretch from New Jersey to Maine",
+            "url": "https://fortune.com/2025/09/07/secret-fresh-water-under-the-sea-from-new-jersey-to-maine/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/AP25248408938287-e1757271155335.jpg?w=2048",
+            "publishedAt": "2025-09-07 18:57:40"
+        },
+        {
+            "source": {
+                "name": "notebookcheck"
+            },
+            "title": "Insta360 X5 Satin White Limited Edition Review: The best 360 camera on the market but there’s a catch",
+            "url": "https://www.notebookcheck.net/Insta360-X5-Satin-White-Limited-Edition-Review-The-best-360-camera-on-the-market-but-there-s-a-catch.1106079.0.html",
+            "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc4/Insta360-X5-Satin-White-intro.JPG",
+            "publishedAt": "2025-09-07 18:51:00"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Top 5 Cryptos to Buy and Hold for 10x Gains — Analysts Add MAGACOIN FINANCE",
+            "url": "https://www.analyticsinsight.net/cryptocurrency-analytics-insight/top-5-cryptos-to-buy-and-hold-for-10x-gains-analysts-add-magacoin-finance",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-09-06%2Fbb76sloz%2FMAGACOIN-FINANCE-1.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-09-07 18:34:00"
+        },
+        {
+            "source": {
+                "name": "techannouncer"
+            },
+            "title": "Money20/20 USA 2025: What to Expect from the Premier Fintech Event",
+            "url": "https://techannouncer.com/money20-20-usa-2025-what-to-expect-from-the-premier-fintech-event/",
+            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/09/b2e08952thumbnail-332x187.jpeg",
+            "publishedAt": "2025-09-07 18:26:08"
         },
         {
             "source": {
@@ -2985,114 +3075,6 @@
             "url": "https://wjla.com/news/nation-world/ais-impact-on-children-in-the-spotlight-amid-debate-over-regulation-artificial-intelligence-chatbot-regulation",
             "urlToImage": "https://wjla.com/resources/media2/16x9/2000/986/0x104/90/25eaaf54-87a1-44ca-8d35-257b6ef6f60b-AP25217544741949.jpg",
             "publishedAt": "2025-09-05T20:06:06Z"
-        },
-        {
-            "source": {
-                "id": "17d7c2645f485578130862e0c8dd9480",
-                "name": "The Mercury News",
-                "url": "https://www.mercurynews.com",
-                "country": "us"
-            },
-            "title": "Anthropic tells US judge it will pay $1.5 billion to settle author class action",
-            "url": "https://www.mercurynews.com/2025/09/05/anthropic-tells-us-judge-it-will-pay-1-5-billion-to-settle-author-class-action/",
-            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/07/One_Tech_Tip_Cleaning_Your_Devices_55946_41566e-1.jpg?w=1024&h=756",
-            "publishedAt": "2025-09-05T20:05:55Z"
-        },
-        {
-            "source": {
-                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-                "name": "New York Post",
-                "url": "https://nypost.com",
-                "country": "us"
-            },
-            "title": "Amazon-backed Anthropic agrees to pay authors $1.5B to settle AI copyright lawsuit",
-            "url": "https://nypost.com/2025/09/05/business/amazon-backed-anthropic-agrees-to-pay-authors-1-5b-to-settle-ai-copyright-lawsuit/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/09/anthropic-ai-authors.jpg?quality=75&strip=all&1757086976&w=1024",
-            "publishedAt": "2025-09-05T20:01:03Z"
-        },
-        {
-            "source": {
-                "id": "26269dbc42635df9af8c24f3cdab8e37",
-                "name": "Cable News Network",
-                "url": "https://edition.cnn.com",
-                "country": "us"
-            },
-            "title": "Anthropic tells US judge it will pay $1.5 billion to settle author class action",
-            "url": "https://edition.cnn.com/2025/09/05/business/anthropic-ai-settlement-authors-claude",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1570465904.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2025-09-05T20:01:01Z"
-        },
-        {
-            "source": {
-                "id": "d5a02d07558c5563d72576efc406e608",
-                "name": "ABC17News.com",
-                "url": "https://abc17news.com",
-                "country": "us"
-            },
-            "title": "Anthropic tells US judge it will pay $1.5 billion to settle author class action",
-            "url": "https://abc17news.com/money/cnn-business-consumer/2025/09/05/anthropic-tells-us-judge-it-will-pay-1-5-billion-to-settle-author-class-action/",
-            "urlToImage": "https://abc17news.b-cdn.net/abc17news.com/2023/08/kmiz-860x484.webp",
-            "publishedAt": "2025-09-05T20:01:01Z"
-        },
-        {
-            "source": {
-                "id": "3989f52bbec2d3be8442e2851b59e79e",
-                "name": "CBS Sports",
-                "url": "https://www.cbssports.com",
-                "country": "us"
-            },
-            "title": "Chiefs vs. Chargers in Brazil NFL props, odds, SportsLine Machine Learning Model AI predictions, SGP picks",
-            "url": "https://www.cbssports.com/nfl/news/chiefs-vs-chargers-in-brazil-nfl-props-odds-sportsline-machine-learning-model-ai-predictions-sgp-picks/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/09/05/4137c802-90f9-49b6-bf8a-6d5b81475589/thumbnail/1200x675/bb6c9cafe0b94dcf8ed631e9140c936f/patrick-mahomes-chiefs-imagn-images-1.jpg",
-            "publishedAt": "2025-09-05T20:00:55Z"
-        },
-        {
-            "source": {
-                "id": "77b86639d1384ac68141803ec5db27c0",
-                "name": "NBC News",
-                "url": "https://www.nbcnews.com",
-                "country": "us"
-            },
-            "title": "AI company Anthropic agrees to pay $1.5 billion to settle lawsuit from authors",
-            "url": "https://www.nbcnews.com/tech/tech-news/anthropic-settlement-lawsuit-authors-rcna229422",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250826-Anthropic-ch-1533-2ea8e0.jpg",
-            "publishedAt": "2025-09-05T19:55:09Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "DIAGNOS Announces Closing of Private Placement",
-            "url": "https://www.manilatimes.net/2025/09/06/tmt-newswire/globenewswire/diagnos-announces-closing-of-private-placement/2179956",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/09/06/738221.png",
-            "publishedAt": "2025-09-05T19:53:44Z"
-        },
-        {
-            "source": {
-                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-                "name": "WTOP",
-                "url": "https://wtop.com",
-                "country": "us"
-            },
-            "title": "Anthropic to pay authors $1.5 billion to settle lawsuit over pirated chatbot training material",
-            "url": "https://wtop.com/national/2025/09/anthropic-to-pay-1-5-billion-to-settle-lawsuit-over-pirated-chatbot-training-material/",
-            "urlToImage": "https://wtop.com/wp-content/uploads/2025/09/Anthropic_Authors_Copyright_22658-scaled.jpg",
-            "publishedAt": "2025-09-05T19:43:31Z"
-        },
-        {
-            "source": {
-                "id": "300a668ea1fb6b59c9da32db8e856d66",
-                "name": "GuelphToday",
-                "url": "https://www.guelphtoday.com",
-                "country": "ca"
-            },
-            "title": "Anthropic to pay authors $1.5 billion to settle lawsuit over pirated chatbot training material",
-            "url": "https://www.guelphtoday.com/national-business/anthropic-to-pay-authors-15-billion-to-settle-lawsuit-over-pirated-chatbot-training-material-11173758",
-            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/09/83d57d2837cbb2d58a9222a4b0183ca5b881525b60df396c137be7bb7ab36cb6.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2025-09-05T19:33:17Z"
         }
     ]
 }
