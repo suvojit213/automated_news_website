@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2025-09-09T16:18:54.666452Z",
+    "lastUpdatedAt": "2025-09-09T17:13:12.604333Z",
     "articles": [
+        {
+            "source": {
+                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+                "name": "Firstpost",
+                "url": "https://www.firstpost.com",
+                "country": "in"
+            },
+            "title": "Microsoft signs $20 bn AI cloud power deal with Nebius, the firm that spun out from Russian internet giant",
+            "url": "https://www.firstpost.com/tech/microsoft-signs-20-billion-ai-cloud-power-deal-with-nebius-the-firm-that-spun-out-from-russian-internet-giant-13932038.html",
+            "urlToImage": "https://images.firstpost.com/uploads/2025/02/Microsoft-prepares-itself-to-host-OpenAIs-GPT-5-and-other-models-increasing-server-capacity-2025-02-5efe3c6d7bc7902237607247bd3dfafd-1200x675.jpg?im=FitAndFill=(1200,675)",
+            "publishedAt": "2025-09-09T05:09:47Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "ASML becomes biggest Mistral investor in boost to Europe's AI ambitions",
+            "url": "https://www.reuters.com/technology/asml-becomes-biggest-mistral-investor-boost-europes-ai-ambitions-2025-09-09/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/D25CQTGQ6FLN3MIMZL26FVURHE.jpg?auth=226cac452c6ea27b66aa1afff6f16ba85e14e1910c4921f106183e0f4a90db18&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-09-09T05:08:04Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Mistral AI raises 1.7 billion euros as ASML becomes its top shareholder",
+            "url": "https://www.reuters.com/technology/mistral-ai-raises-17-billion-euros-asml-becomes-its-top-shareholder-2025-09-09/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/D25CQTGQ6FLN3MIMZL26FVURHE.jpg?auth=226cac452c6ea27b66aa1afff6f16ba85e14e1910c4921f106183e0f4a90db18&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-09-09T05:08:04Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "ASML Pumps €1.3 Billion Into Mistral in Boost for European AI",
+            "url": "https://www.bloomberg.com/news/articles/2025-09-09/asml-pumps-1-3-billion-into-mistral-in-boost-for-european-ai",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLf2b.ZNoFzw/v0/1200x800.jpg",
+            "publishedAt": "2025-09-09T05:00:00Z"
+        },
+        {
+            "source": {
+                "id": "10cbfb3760cfcdeb78c733c527f0e814",
+                "name": "iTWire",
+                "url": "https://itwire.com",
+                "country": "au"
+            },
+            "title": "Cybersecurity specialist Exclusive Networks appoints new APAC Head",
+            "url": "https://itwire.com/it-people-news/people-moves/cybersecurity-specialist-exclusive-networks-appoints-new-apac-head.html",
+            "urlToImage": "https://itwire.com/media/k2/items/cache/fa6ed8d10fdfe56c87def0aa2bc7fe3b_XS.jpg",
+            "publishedAt": "2025-09-09T04:37:47Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "OpenAI backs AI-animated film for Cannes debut",
+            "url": "https://www.manilatimes.net/2025/09/09/entertainment-lifestyle/openai-backs-ai-animated-film-for-cannes-debut/2181108",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/09/09/740950.jpg",
+            "publishedAt": "2025-09-09T04:21:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "OpenAI backs AI-animated film for Cannes debut",
+            "url": "https://www.manilatimes.net/2025/09/09/entertainment-lifestyle/show-times/openai-backs-ai-animated-film-for-cannes-debut/2181108",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/09/09/740950.jpg",
+            "publishedAt": "2025-09-09T04:21:00Z"
+        },
         {
             "source": {
                 "id": "73aabc646bff1356a46223f250cc6b52",
@@ -252,6 +336,90 @@
             "url": "https://www.nationalobserver.com/2025/09/09/news/ottawa-drafts-public-registry-ai-projects-tech-spreads-through-government",
             "urlToImage": "https://www.nationalobserver.com/sites/default/files/img/2025/09/09/dd6e94012f46422d871ec407cde5733c189eac4e291cf84d379bba9556ce15f4.jpg",
             "publishedAt": "2025-09-09T00:00:00Z"
+        },
+        {
+            "source": {
+                "id": "8e9ab8327c5f7903cc1b50470411d165",
+                "name": "GlobeNewswire",
+                "url": "https://www.globenewswire.com",
+                "country": "us"
+            },
+            "title": "Top 19 Companies Leading the Middle East Cybersecurity",
+            "url": "https://www.globenewswire.com/news-release/2025/09/09/3147218/28124/en/Top-19-Companies-Leading-the-Middle-East-Cybersecurity-Market-in-2025-and-Beyond-Middle-East-CyberSecurity-Company-Evaluation-Report-2025.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+            "publishedAt": "2025-09-09T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "kdhnews"
+            },
+            "title": "US tech companies enabled the surveillance and detention of hundreds of thousands in China",
+            "url": "https://kdhnews.com/news/science/us-tech-companies-enabled-the-surveillance-and-detention-of-hundreds-of-thousands-in-china/article_3f370639-0df6-5155-920f-153ec7d41ed3.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/assets/v3/editorial/6/65/665fc450-868f-5bfa-8be5-338e0792d591/68bfa78f6a4dc.image.jpg?resize=750%2C500",
+            "publishedAt": "2025-09-09 05:05:57"
+        },
+        {
+            "source": {
+                "name": "idahostatejournal"
+            },
+            "title": "US tech companies enabled the surveillance and detention of hundreds of thousands in China",
+            "url": "https://www.idahostatejournal.com/news/world/us-tech-companies-enabled-the-surveillance-and-detention-of-hundreds-of-thousands-in-china/article_13641d85-015e-54d6-a25d-79c90251d552.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/idahostatejournal.com/content/tncms/assets/v3/editorial/1/78/1783e050-f7c5-5095-85f6-c6581dcfa1fa/68bfa80a594e0.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-09-09 05:05:57"
+        },
+        {
+            "source": {
+                "name": "messenger_inquirer"
+            },
+            "title": "US tech companies enabled the surveillance and detention of hundreds of thousands in China",
+            "url": "https://www.messenger-inquirer.com/ap/ap_international_news/us-tech-companies-enabled-the-surveillance-and-detention-of-hundreds-of-thousands-in-china/article_e5fa97dd-f8e6-5bd1-9895-c05a5bd57a60.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/messenger-inquirer.com/content/tncms/assets/v3/editorial/5/b9/5b9273b4-ab41-5916-98c6-5484cbdb8b3a/68bfa903e2f42.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-09-09 05:05:57"
+        },
+        {
+            "source": {
+                "name": "guardonline"
+            },
+            "title": "US tech companies enabled the surveillance and detention of hundreds of thousands in China",
+            "url": "https://www.guardonline.com/news/world/us-tech-companies-enabled-the-surveillance-and-detention-of-hundreds-of-thousands-in-china/article_0cc92768-c81c-52cd-b623-2741e0ec832a.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/guardonline.com/content/tncms/assets/v3/editorial/c/cd/ccd21e34-3875-5cbe-b0e9-c4d87d76a0c3/68bfaad6dd159.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-09-09 05:05:57"
+        },
+        {
+            "source": {
+                "name": "geeky_gadgets"
+            },
+            "title": "Leaked Hands-On Video Shows Bold New iPhone 17 Design",
+            "url": "https://www.geeky-gadgets.com/iphone-17-design-4/",
+            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/09/iphone-17-pro-max-bold-design-upgrade.webp",
+            "publishedAt": "2025-09-09 05:00:27"
+        },
+        {
+            "source": {
+                "name": "computerweekly"
+            },
+            "title": "Nokia readies for comms AI super cycle with R&D facility",
+            "url": "https://www.computerweekly.com/news/366630230/Nokia-readies-for-comms-AI-super-cycle-with-RD-facility",
+            "urlToImage": "https://www.computerweekly.com/visuals/LeMagIT/hero_article/Nokia-logo_searchsitetablet_520X173.jpg",
+            "publishedAt": "2025-09-09 04:45:00"
+        },
+        {
+            "source": {
+                "name": "freepressjournal"
+            },
+            "title": "More Than 22.76 Lakh Stolen & Lost Devices Traced Through Sanchar Saathi Mobile Application, Crosses 50 Lakh Downloads",
+            "url": "https://www.freepressjournal.in/business/more-than-2276-lakh-stolen-lost-devices-traced-through-sanchar-saathi-mobile-application-crosses-50-lakh-downloads",
+            "urlToImage": "https://media.assettype.com/freepressjournal/2025-09-09/mbwx8h9e/Sanchar-Sathi-Cybercrime-Fraud.jpg?width=1200",
+            "publishedAt": "2025-09-09 04:41:24"
+        },
+        {
+            "source": {
+                "name": "thehindu"
+            },
+            "title": "Intel announces key executive shake-up, says products chief Holthaus will exit",
+            "url": "https://www.thehindu.com/sci-tech/technology/intel-announces-key-executive-shake-up-says-products-chief-holthaus-will-exit/article70028337.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/x7ivnc/article70028339.ece/alternates/LANDSCAPE_1200/2025-09-08T203111Z_612722689_RC2LEGA42SOY_RTRMADP_3_INTEL-MANAGEMENT.JPG",
+            "publishedAt": "2025-09-09 04:19:48"
         },
         {
             "source": {
@@ -2979,150 +3147,6 @@
             "url": "https://lacrossetribune.com/article_7d10fd66-1afe-5973-af24-b15d99e37254.html",
             "urlToImage": "https://bloximages.chicago2.vip.townnews.com/lacrossetribune.com/content/tncms/assets/v3/editorial/f/93/f935b0ac-f630-538f-8ecd-f81d7f8951e8/68be8d41e1a07.image.jpg?crop=742%2C390%2C0%2C61",
             "publishedAt": "2025-09-08 08:01:07"
-        },
-        {
-            "source": {
-                "name": "chippewa"
-            },
-            "title": "Pope declares teen computer whiz first millennial saint",
-            "url": "https://chippewa.com/article_dbecd763-5335-5795-ab97-c5d9bec3e6fc.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/chippewa.com/content/tncms/assets/v3/editorial/1/bc/1bc80905-4a2a-5627-912b-7074b0753735/68be8bfbd6223.image.jpg?crop=737%2C387%2C0%2C54",
-            "publishedAt": "2025-09-08 07:55:41"
-        },
-        {
-            "source": {
-                "name": "hickoryrecord"
-            },
-            "title": "Pope declares teen computer whiz first millennial saint",
-            "url": "https://hickoryrecord.com/article_8406c459-a2aa-5924-9653-e3faa3dc141e.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/hickoryrecord.com/content/tncms/assets/v3/editorial/9/33/933651d0-46f4-58fb-be85-00665e6a0353/68be8be7aba6c.image.jpg?resize=300%2C202",
-            "publishedAt": "2025-09-08 07:55:21"
-        },
-        {
-            "source": {
-                "name": "geeky_gadgets"
-            },
-            "title": "Orange Pi RV2 $40 RISC-V SBC : Friendly Gateway to IoT and AI Projects",
-            "url": "https://www.geeky-gadgets.com/orange-pi-rv2-risc-v-sbc-features-for-developers/",
-            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/09/orange-pi-rv2-single-board-computer-features.webp",
-            "publishedAt": "2025-09-08 07:46:44"
-        },
-        {
-            "source": {
-                "name": "mcdowellnews"
-            },
-            "title": "Pope declares teen computer whiz first millennial saint",
-            "url": "https://mcdowellnews.com/article_b0bab0c5-fb25-5b31-a275-6705726f1347.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/mcdowellnews.com/content/tncms/assets/v3/editorial/1/cc/1cc83e3d-534a-50fc-8b41-119f1a6fc882/68be8152bed55.image.jpg?resize=300%2C198",
-            "publishedAt": "2025-09-08 07:10:12"
-        },
-        {
-            "source": {
-                "name": "tdn"
-            },
-            "title": "Pope declares teen computer whiz first millennial saint",
-            "url": "https://tdn.com/article_6abd8413-2fb0-5f8d-9b99-229fa781e404.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/tdn.com/content/tncms/assets/v3/editorial/6/9f/69fa8ec2-e6ee-57b7-834a-027303dbab5e/68be8034d7c10.image.jpg?crop=748%2C393%2C0%2C65",
-            "publishedAt": "2025-09-08 07:05:26"
-        },
-        {
-            "source": {
-                "name": "democratherald"
-            },
-            "title": "Pope declares teen computer whiz first millennial saint",
-            "url": "https://democratherald.com/article_bc55b2ac-4dc7-5591-a5f8-407322ab711f.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/democratherald.com/content/tncms/assets/v3/editorial/a/06/a06cb7bd-6d7f-5b10-a73f-0e2743711ae4/68be803406725.image.jpg?resize=300%2C212",
-            "publishedAt": "2025-09-08 07:05:26"
-        },
-        {
-            "source": {
-                "name": "computerweekly"
-            },
-            "title": "Gibraltar government backs plans to build 250MW datacentre on island to tap into AI boom",
-            "url": "https://www.computerweekly.com/news/366630492/Gibraltar-government-backs-plans-to-build-250MW-datacentre-on-island-to-tap-into-AI-boom",
-            "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/HeroImages/Gibraltar-rock-pano-Aerial-Film-Studio-adobe_searchsitetablet_520X173.jpg",
-            "publishedAt": "2025-09-08 07:02:00"
-        },
-        {
-            "source": {
-                "name": "pcquest"
-            },
-            "title": "iPhone 17 vs Samsung Galaxy S26: Avoid the confusion and pick the best!",
-            "url": "https://www.pcquest.com/smartphones/iphone-17-vs-samsung-galaxy-s26-avoid-the-confusion-and-pick-the-best-10058953",
-            "urlToImage": "https://img-cdn.publive.online/pcq/media/media_files/2025/09/08/iphone-17-vs-samsung-galaxy-s26-2025-09-08-11-15-14.jpg",
-            "publishedAt": "2025-09-08 07:00:37"
-        },
-        {
-            "source": {
-                "name": "thehindubusinessline"
-            },
-            "title": "India can disrupt semicon race, lead in post-silicon tech with 2D materials: NITI Aayog",
-            "url": "https://www.thehindubusinessline.com/info-tech/india-can-disrupt-semicon-race-lead-in-post-silicon-tech-with-2d-materials-niti-aayog/article70024923.ece",
-            "urlToImage": "https://bl-i.thgim.com/public/incoming/hu8fch/article70024961.ece/alternates/LANDSCAPE_1200/IMG_BL18_Think_semicondu_2_1_8KDBF3EE.jpg",
-            "publishedAt": "2025-09-08 06:44:48"
-        },
-        {
-            "source": {
-                "name": "geeky_gadgets"
-            },
-            "title": "iOS 26 & iPadOS 26: The Shortcuts That Will Change Your Workflow",
-            "url": "https://www.geeky-gadgets.com/ipados-ios-26-new-shortcuts/",
-            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/09/1-1.webp",
-            "publishedAt": "2025-09-08 06:30:18"
-        },
-        {
-            "source": {
-                "name": "cnbctv18"
-            },
-            "title": "Alibaba shares rose after release of its biggest AI model yet",
-            "url": "https://www.cnbctv18.com/market/alibaba-shares-qwen-3-max-preview-biggest-ai-model-yet-19665533.htm",
-            "urlToImage": "https://images.cnbctv18.com/uploads/2023/05/alibaba.jpg",
-            "publishedAt": "2025-09-08 06:14:32"
-        },
-        {
-            "source": {
-                "name": "inventiva"
-            },
-            "title": "Predictive Maintenance and Industry 4.0 in Energy Sector: Enabling Future Energy Industry",
-            "url": "https://www.inventiva.co.in/stories/predictive-maintenance-and-industry-4-0-in-energy-sector-enabling-future-energy-industry/",
-            "urlToImage": "https://www.inventiva.co.in/wp-content/uploads/2025/09/1_XuHJa3I-gMU8QnBK0QXkSA-780x470.png",
-            "publishedAt": "2025-09-08 06:14:17"
-        },
-        {
-            "source": {
-                "name": "toi"
-            },
-            "title": "AI godfather Geoffrey Hinton reveals once a girlfriend used AI to dump him: ‘I don’t think I had been...’",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/ai-godfather-geoffrey-hinton-reveals-once-a-girlfriend-used-ai-to-dump-him-i-dont-think-i-had-been/articleshow/123758509.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-123758505,imgsize-27466,width-400,resizemode-4/geoffrey-hinton.jpg",
-            "publishedAt": "2025-09-08 05:50:14"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "3 Cryptos Could Beat the S&P 500 by 2030 — Hedge Funds Quietly Buying MAGACOIN FINANCE",
-            "url": "https://www.analyticsinsight.net/cryptocurrency-analytics-insight/3-cryptos-could-beat-the-sp-500-by-2030-hedge-funds-quietly-buying-magacoin-finance",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-09-06%2Frv6mxoyz%2FMAGACOIN-FINANCE-1.png?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-09-08 05:45:00"
-        },
-        {
-            "source": {
-                "name": "yourstory"
-            },
-            "title": "IIIT Bhagalpur Builds 32-bit Semiconductor Chip in Just 2 Years",
-            "url": "https://yourstory.com/2025/09/iiit-bhagalpur-32bit-semiconductor-chip-design",
-            "urlToImage": "https://images.yourstory.com/cs/2/1a70b4f0170611edbdd8b5d28d859895/Untitleddesign2-1757309344470.png",
-            "publishedAt": "2025-09-08 05:30:06"
-        },
-        {
-            "source": {
-                "name": "mid_day"
-            },
-            "title": "Pope declares teen computer wizard saint",
-            "url": "https://www.mid-day.com/news/world-news/article/pope-declares-teen-computer-wizard-saint-23592922",
-            "urlToImage": "https://images.mid-day.com/images/images/2025/sep/Pope-Leo-X-1757260895883_d.png",
-            "publishedAt": "2025-09-08 05:06:08"
         }
     ]
 }
