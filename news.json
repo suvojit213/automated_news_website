@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-09-10T10:15:22.588752Z",
+    "lastUpdatedAt": "2025-09-10T11:12:20.484143Z",
     "articles": [
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Broadcom CEO Poised for Payout If He Reaches 2030 AI Sales Goal",
+            "url": "https://www.bloomberg.com/news/articles/2025-09-09/broadcom-ceo-poised-for-payout-if-he-reaches-2030-ai-sales-goal",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iy3C7vAKbDDE/v1/1200x799.jpg",
+            "publishedAt": "2025-09-09T22:28:34Z"
+        },
+        {
+            "source": {
+                "id": "0d429ea54fdbe8e34c582aa31bc81aba",
+                "name": "The Boston Globe",
+                "url": "https://www.bostonglobe.com",
+                "country": "us"
+            },
+            "title": "Reading skills of 12th",
+            "url": "https://www.bostonglobe.com/2025/09/09/nation/reading-skills-12th-graders-hit-new-low/",
+            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/WVHNI2OZBIEAOOQLWSUC56U5PU.jpg?auth=629f940e5cfda58dbea49bae4ebd19e45e1362983a380fbe2f5dd3d9b5d196bf&width=1440",
+            "publishedAt": "2025-09-09T22:17:25Z"
+        },
         {
             "source": {
                 "id": "c5725557f39c24c8b029ee39900a8406",
@@ -1803,6 +1827,60 @@
         },
         {
             "source": {
+                "name": "siliconangle"
+            },
+            "title": "Nvidia previews Rubin CPX graphics card for disaggregated inference",
+            "url": "https://siliconangle.com/2025/09/09/nvidia-previews-rubin-cpx-graphics-card-disaggregated-inference/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/09/Nvidia.png",
+            "publishedAt": "2025-09-09 22:59:57"
+        },
+        {
+            "source": {
+                "name": "deccanherald"
+            },
+            "title": "Apple A19-powered iPhone 17, 17 Air, 17 Pro series launched; India price and availability details",
+            "url": "https://www.deccanherald.com/technology/gadgets/apple-a19-powered-iphone-17-17-air-17-pro-series-launched-india-price-and-availability-details-3720388",
+            "urlToImage": "https://media.assettype.com/deccanherald%2F2025-09-09%2F532xu88z%2FScreenshot-2025-09-09-at-11.41.39-PM.png?ar=40%3A21&auto=format%2Ccompress&mode=crop&ogImage=true&rect=0%2C18%2C1221%2C641&w=1200",
+            "publishedAt": "2025-09-09 22:59:34"
+        },
+        {
+            "source": {
+                "name": "dailybreeze"
+            },
+            "title": "John Seiler: How California can still win the global AI race",
+            "url": "https://www.dailybreeze.com/2025/09/09/john-seiler-how-california-can-still-win-the-global-ai-race/",
+            "urlToImage": "https://www.dailybreeze.com/wp-content/uploads/2025/09/AP25233515383323.jpg?w=525",
+            "publishedAt": "2025-09-09 22:40:54"
+        },
+        {
+            "source": {
+                "name": "whittierdailynews"
+            },
+            "title": "John Seiler: How California can still win the global AI race",
+            "url": "https://www.whittierdailynews.com/2025/09/09/john-seiler-how-california-can-still-win-the-global-ai-race/",
+            "urlToImage": "https://www.whittierdailynews.com/wp-content/uploads/2025/09/AP25233515383323.jpg?strip=all&w=1400px",
+            "publishedAt": "2025-09-09 22:40:54"
+        },
+        {
+            "source": {
+                "name": "dailynews_com"
+            },
+            "title": "John Seiler: How California can still win the global AI race",
+            "url": "https://www.dailynews.com/2025/09/09/john-seiler-how-california-can-still-win-the-global-ai-race/",
+            "urlToImage": "https://www.dailynews.com/wp-content/uploads/2025/09/AP25233515383323.jpg?strip=all&w=1400px",
+            "publishedAt": "2025-09-09 22:40:54"
+        },
+        {
+            "source": {
+                "name": "unionleader"
+            },
+            "title": "United Way of Greater Nashua launches free digital literacy classes",
+            "url": "https://www.unionleader.com/news/local/nashua/united-way-of-greater-nashua-launches-free-digital-literacy-classes/article_513e2ecf-1972-46c5-8f55-69a32e98d8fb.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/custom/image/595a0f6c-8b6f-11e8-996b-c70bb6ec20ab.jpg?resize=600%2C315",
+            "publishedAt": "2025-09-09 22:21:00"
+        },
+        {
+            "source": {
                 "name": "gizmodotech"
             },
             "title": "AirPods Pro 3 Vs. AirPods Pro 2: Which Wireless Earbuds Are Better?",
@@ -1827,6 +1905,15 @@
             "url": "https://techcrunch.com/2025/09/09/help-i-have-been-charmed-by-the-iphone-air/",
             "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/iphone-air-on-finger.jpg?resize=1200%2C673",
             "publishedAt": "2025-09-09 22:07:42"
+        },
+        {
+            "source": {
+                "name": "timeswv"
+            },
+            "title": "Apple's iPhone 17 line-up includes a new ultra-thin model and $100 price hike for Pro model",
+            "url": "https://www.timeswv.com/news/business/apples-iphone-17-line-up-includes-a-new-ultra-thin-model-and-100-price-hike/article_023e141c-8878-5020-ae87-a33dd71097d8.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/timeswv.com/content/tncms/assets/v3/editorial/a/8c/a8c120a4-6649-5f5e-a71f-875ab3931cb6/68c0a09186ace.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-09-09 22:00:00"
         },
         {
             "source": {
@@ -3069,87 +3156,6 @@
             "url": "https://timesofindia.indiatimes.com/technology/tech-news/intel-announces-leadership-changes-ceo-of-intel-products-johnston-holthaus-to-leave-after-30-plus-years-at-the-chip-company/articleshow/123779712.cms",
             "urlToImage": "https://static.toiimg.com/thumb/msid-123779661,imgsize-52696,width-400,resizemode-4/intel.jpg",
             "publishedAt": "2025-09-09 06:14:56"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "The TechBeat: Embedded Gen AI: Smarter Predictive Maintenance Apps for Manufacturing (9/9/2025)",
-            "url": "https://hackernoon.com/9-9-2025-techbeat",
-            "urlToImage": "https://hackernoon.imgix.net/images/hackernoon_newsletter_348_bk21eggwn0i8h6y6mhrs2mf8.png",
-            "publishedAt": "2025-09-09 06:10:56"
-        },
-        {
-            "source": {
-                "name": "eagletribune"
-            },
-            "title": "Alset AI Provides Corporate Update Highlighting Foundation for Growth",
-            "url": "https://www.eagletribune.com/region/alset-ai-provides-corporate-update-highlighting-foundation-for-growth/article_64676849-dbd4-5880-8af0-f625460ab8c0.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/6/62/6625d1ab-f212-5c07-950e-1ffdf7befe07/68bfc851db1b9.image.jpg?resize=400%2C126",
-            "publishedAt": "2025-09-09 06:10:53"
-        },
-        {
-            "source": {
-                "name": "joplinglobe"
-            },
-            "title": "Alset AI Provides Corporate Update Highlighting Foundation for Growth",
-            "url": "https://www.joplinglobe.com/region/alset-ai-provides-corporate-update-highlighting-foundation-for-growth/article_db7d4938-c74f-55ba-94ba-7bb127752d05.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/7/62/762b93a2-78c6-56cf-a510-fed8af8f91f5/68bfc56937f56.image.jpg?resize=300%2C94",
-            "publishedAt": "2025-09-09 06:10:53"
-        },
-        {
-            "source": {
-                "name": "milescitystar"
-            },
-            "title": "Alset AI Provides Corporate Update Highlighting Foundation for Growth",
-            "url": "https://www.milescitystar.com/ap_news/montana/alset-ai-provides-corporate-update-highlighting-foundation-for-growth/article_e919b5f7-6f1b-52bd-8d15-1e07c46d8198.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/milescitystar.com/content/tncms/assets/v3/editorial/b/6c/b6c06ce4-ecf9-5440-be77-8479cd2a9b13/68bfc6e7759fb.image.jpg?resize=300%2C94",
-            "publishedAt": "2025-09-09 06:10:53"
-        },
-        {
-            "source": {
-                "name": "guardonline"
-            },
-            "title": "Alset AI Provides Corporate Update Highlighting Foundation for Growth",
-            "url": "https://www.guardonline.com/news/national/alset-ai-provides-corporate-update-highlighting-foundation-for-growth/article_afd0fc03-e1e7-5dec-933f-32452288eb21.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/guardonline.com/content/tncms/assets/v3/editorial/8/5f/85f2462e-4aae-5a20-8390-97b6f303b873/68bfc6d15be55.image.jpg?resize=300%2C94",
-            "publishedAt": "2025-09-09 06:10:53"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "What Investors and AI Researchers Can Learn from Low-Rank Optimization",
-            "url": "https://hackernoon.com/what-investors-and-ai-researchers-can-learn-from-low-rank-optimization",
-            "urlToImage": "https://hackernoon.imgix.net/images/5wpKgV75aONqkTJlafw2yQmK9yd2-ft03bb4.png",
-            "publishedAt": "2025-09-09 06:00:06"
-        },
-        {
-            "source": {
-                "name": "computerweekly"
-            },
-            "title": "Rimini Street CEO sounds death knell on ERP software",
-            "url": "https://www.computerweekly.com/news/366630301/Rimini-Street-CEO-sounds-death-knell-on-ERP-software",
-            "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero%20Images/business-applications-1-fotolia_searchsitetablet_520X173.jpg",
-            "publishedAt": "2025-09-09 05:45:00"
-        },
-        {
-            "source": {
-                "name": "mtdemocrat"
-            },
-            "title": "AI and iPhones likely stars of Apple event",
-            "url": "https://www.mtdemocrat.com/news/national/ai-and-iphones-likely-stars-of-apple-event/article_44e1ea78-9a20-5765-90c4-601578dc2223.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/mtdemocrat.com/content/tncms/assets/v3/editorial/3/34/3344169a-19fd-5a71-95ca-c67f3a9210e8/68bfc64ae6f13.image.jpg?resize=300%2C200",
-            "publishedAt": "2025-09-09 05:40:24"
-        },
-        {
-            "source": {
-                "name": "kdhnews"
-            },
-            "title": "US tech companies enabled the surveillance and detention of hundreds of thousands in China",
-            "url": "https://kdhnews.com/news/science/us-tech-companies-enabled-the-surveillance-and-detention-of-hundreds-of-thousands-in-china/article_3f370639-0df6-5155-920f-153ec7d41ed3.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/assets/v3/editorial/6/65/665fc450-868f-5bfa-8be5-338e0792d591/68bfa78f6a4dc.image.jpg?resize=750%2C500",
-            "publishedAt": "2025-09-09 05:05:57"
         }
     ]
 }
