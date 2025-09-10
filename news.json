@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-09-10T06:22:15.069041Z",
+    "lastUpdatedAt": "2025-09-10T07:14:23.309769Z",
     "articles": [
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "AI Image Generators: Transforming Ideas into Visual Masterpieces",
+            "url": "https://techbullion.com/ai-image-generators-transforming-ideas-into-visual-masterpieces/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/289846-595xh.png",
+            "publishedAt": "2025-09-09T19:09:45Z"
+        },
+        {
+            "source": {
+                "id": "0a3d33fe1c810a63c8623b16334a218c",
+                "name": "Parade",
+                "url": "https://parade.com",
+                "country": "us"
+            },
+            "title": "World’s First Klingon-Speaking AI Debuts on 'Star Trek’s' 59th Anniversary",
+            "url": "https://parade.com/news/star-trek-59th-anniversary-klingon-ai",
+            "urlToImage": "https://parade.com/.image/w_1200,h_630,g_auto,c_fill/ODowMDAwMDAwMDAxMDY4OTE3/star-trek-cast.jpg",
+            "publishedAt": "2025-09-09T18:41:08Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Microsoft to use AI from Anthropic in shift from OpenAI, the Information reports",
+            "url": "https://www.reuters.com/business/microsoft-use-ai-anthropic-shift-openai-information-reports-2025-09-09/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/4IPU6TLHSVNRDPNNB2ZGYPESZU.jpg?auth=ec7aae4a7188b1636403242bf62e1f4b40f941d9c9d22624f75ddce095241f0c&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-09-09T18:34:44Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Microsoft to use some AI from Anthropic in shift from OpenAI, the Information reports",
+            "url": "https://www.reuters.com/business/microsoft-use-some-ai-anthropic-shift-openai-information-reports-2025-09-09/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/4IPU6TLHSVNRDPNNB2ZGYPESZU.jpg?auth=ec7aae4a7188b1636403242bf62e1f4b40f941d9c9d22624f75ddce095241f0c&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-09-09T18:34:44Z"
+        },
         {
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -1599,6 +1647,96 @@
         },
         {
             "source": {
+                "name": "zdnet"
+            },
+            "title": "Apple Events live updates: iPhone 17, iPhone Air, AirPods Pro 3, and new wearables just unveiled",
+            "url": "https://www.zdnet.com/article/apple-events-live-updates-iphone-17-iphone-air-airpods-pro-3-and-new-wearables-just-unveiled/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/1aaf27bf734de4c9a6c52c7141c87bc9b021cff6/2025/09/08/d1ab785a-a97d-4f0a-890b-d7a37c5edd54/apple-intelligence-on-iphone-16.jpg?auto=webp&width=1280",
+            "publishedAt": "2025-09-09 19:10:00"
+        },
+        {
+            "source": {
+                "name": "siliconangle"
+            },
+            "title": "Mitsubishi Electric acquires cybersecurity provider Nozomi Networks for $883M",
+            "url": "https://siliconangle.com/2025/09/09/mitsubishi-electric-acquires-cybersecurity-provider-nozomi-networks-883m/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/09/Image.jpg",
+            "publishedAt": "2025-09-09 19:08:53"
+        },
+        {
+            "source": {
+                "name": "ucf"
+            },
+            "title": "How UCF’s National Center for Forensic Science Helps Solve Crimes",
+            "url": "https://www.ucf.edu/news/how-ucfs-national-center-for-forensic-science-helps-solve-crimes/",
+            "urlToImage": "https://www.ucf.edu/wp-content/blogs.dir/20/files/2025/09/UCF_Foresnic-Science-300x200.jpg",
+            "publishedAt": "2025-09-09 19:03:43"
+        },
+        {
+            "source": {
+                "name": "india"
+            },
+            "title": "Meet IIT Madras Associate Professor who is on TIME’s AI 2025 list alongside Elon Musk, Mark Zuckerberg, and Sam Altman; his name...",
+            "url": "https://www.india.com/viral/meet-iit-madras-associate-professor-who-is-on-times-ai-2025-list-alongside-elon-musk-mark-zuckerberg-sam-altman-his-name-mitesh-khapra-machine-learning-artificial-intelligence-8065226/",
+            "urlToImage": "https://static.india.com/wp-content/uploads/2025/09/QT-mitesh-khapra-BEFUN.jpg",
+            "publishedAt": "2025-09-09 19:03:23"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Optimizing AI Inference on Non-GPU Architectures by Rajalakshmi Srinivasaraghavan",
+            "url": "https://hackernoon.com/optimizing-ai-inference-on-non-gpu-architectures-by-rajalakshmi-srinivasaraghavan",
+            "urlToImage": "https://hackernoon.imgix.net/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-qp03bcv.png",
+            "publishedAt": "2025-09-09 19:00:35"
+        },
+        {
+            "source": {
+                "name": "phys"
+            },
+            "title": "AI tool helps astronomers find supernovae in a sky full of noise",
+            "url": "https://phys.org/news/2025-09-ai-tool-astronomers-supernovae-sky.html",
+            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2025/ai-tool-helps-astronom.jpg",
+            "publishedAt": "2025-09-09 19:00:01"
+        },
+        {
+            "source": {
+                "name": "andhrabhoomi"
+            },
+            "title": "Apple Launches 'Game Changer' Slimmer iPhone Air for $999 With Denser Battery",
+            "url": "https://www.deccanchronicle.com/technology/gadgets/apple-launches-game-changer-slimmer-iphone-air-for-999-with-denser-battery-1902658",
+            "urlToImage": "https://www.deccanchronicle.com/h-upload/2025/09/09/1956298-iphone.jpg",
+            "publishedAt": "2025-09-09 18:57:06"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "iPhone 17 Pro, iPhone 17 Pro Max with iOS 26 & A19 Pro Chipset Launched",
+            "url": "https://www.analyticsinsight.net/gadgets/iphone-17-pro-iphone-17-pro-max-with-ios-26-a19-pro-chipset-launched",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-09-09%2F7o6oxlo1%2FiPhone-17-Pro.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-09-09 18:50:20"
+        },
+        {
+            "source": {
+                "name": "cnet"
+            },
+            "title": "Apple Debuts the iPhone Air, AirPods 3 and Much More at Its 'Awe Dropping' Event",
+            "url": "https://www.cnet.com/tech/mobile/apple-debuts-the-iphone-air-airpods-3-and-much-more-at-its-awe-dropping-event/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/6e3e0b07aea57f052655962349aa6d3ffecac6f9/hub/2025/09/09/26f5fbfe-ffa2-4236-abf4-96a7fa6a735b/everything-annouced-appleevent25-cnet.png?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-09-09 18:49:00"
+        },
+        {
+            "source": {
+                "name": "thestreet"
+            },
+            "title": "Apple just raised the price of the iPhone for this interesting reason",
+            "url": "https://www.thestreet.com/markets/apple-just-raised-the-price-of-the-iphone-for-this-interesting-reason",
+            "urlToImage": "https://www.thestreet.com/.image/c_fit,h_800,w_1200/MjE3NjM2NDA1NzY4MTAzMDUw/screenshot-2025-09-09-at-105937ampng.jpg",
+            "publishedAt": "2025-09-09 18:48:38"
+        },
+        {
+            "source": {
                 "name": "india"
             },
             "title": "Apple Event 2025 LIVE: iPhone 17 Air price, features, design, display, colour, camera and other specifications",
@@ -3009,174 +3147,6 @@
             "url": "https://www.cnbc.com/2025/09/08/nebius-stock-soars-on-ai-infrastructure-deal-with-microsoft-.html",
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/108195794-1757366109302-gettyimages-2202932465-TFSPI_05032025-5194.jpeg?v=1757366150&w=1920&h=1080",
             "publishedAt": "2025-09-08T21:36:16Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Opening Stargate to India: Altman Co in Tieup Talks",
-            "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2025/sep/09/et-front/opening-stargate-to-india-altman-co-in-tieup-talks/articleshow/123773429.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-123773800,width-1200,height-630,imgsize-129382,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2025-09-08T21:35:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "VCI Global Showcases Integrated AI and Cybersecurity Platforms at Smart City Expo KL 2025",
-            "url": "https://www.manilatimes.net/2025/09/09/tmt-newswire/globenewswire/vci-global-showcases-integrated-ai-and-cybersecurity-platforms-at-smart-city-expo-kl-2025/2181025",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/09/09/740815.png",
-            "publishedAt": "2025-09-08T21:18:47Z"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            },
-            "title": "Ex-Meta employee whistleblower suit alleged security flaws WhatsApp",
-            "url": "https://www.cnbc.com/2025/09/08/ex-meta-employee-whistleblower-suit-alleged-security-flaws-whatsapp-.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108159984-1750095898627-gettyimages-2211245220-TFSPI_24042025-6837.jpeg?v=1757356727&w=1920&h=1080",
-            "publishedAt": "2025-09-08T21:14:32Z"
-        },
-        {
-            "source": {
-                "id": "c24832368cd2d9132598ad4bef08e0ab",
-                "name": "Investopedia",
-                "url": "https://www.investopedia.com",
-                "country": "us"
-            },
-            "title": "Why Analysts Call Broadcom a 'Magnificent Eight' Stock That Can Challenge Nvidia",
-            "url": "https://www.investopedia.com/why-analysts-call-broadcom-a-magnificent-eight-stock-that-can-challenge-nvidia-11805620",
-            "urlToImage": "https://www.investopedia.com/thmb/QcgWnMuPLFa8__l7135yb7fVxns=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Nvidia-Broadcom-bd863beb92a74c26afa5cfac467658a1.jpg",
-            "publishedAt": "2025-09-08T20:57:33Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "AI assessment indicates stress levels in farmed Amazonian fish",
-            "url": "https://phys.org/news/2025-09-ai-stress-farmed-amazonian-fish.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/artificial-intelligenc-26.jpg",
-            "publishedAt": "2025-09-08T20:51:03Z"
-        },
-        {
-            "source": {
-                "id": "3989f52bbec2d3be8442e2851b59e79e",
-                "name": "CBS Sports",
-                "url": "https://www.cbssports.com",
-                "country": "us"
-            },
-            "title": "Bears vs. Vikings NFL props, top SportsLine Machine Learning Model AI predictions: Williams under 214.5 yards",
-            "url": "https://www.cbssports.com/nfl/news/bears-vs-vikings-nfl-props-top-sportsline-machine-learning-model-ai-predictions-williams-under-214-5-yards/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/09/08/47f0f520-93a8-431f-89ea-f3b75b48568a/thumbnail/1200x675/9197a6564946a182eacddd96d8573b28/caleb-williams-bears-imagn-images-2.jpg",
-            "publishedAt": "2025-09-08T20:41:15Z"
-        },
-        {
-            "source": {
-                "id": "b7a61248c3383fb45a09d6a35a7e14df",
-                "name": "Ars Technica",
-                "url": "https://arstechnica.com",
-                "country": "us"
-            },
-            "title": "Former WhatsApp security boss sues Meta for “systemic cybersecurity failures”",
-            "url": "https://arstechnica.com/security/2025/09/former-whatsapp-security-boss-sues-meta-for-systemic-cybersecurity-failures/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/getty-whatsapp-1152x648.jpg",
-            "publishedAt": "2025-09-08T20:26:02Z"
-        },
-        {
-            "source": {
-                "id": "01558c024928d45cf320f6f75eede787",
-                "name": "The Guardian",
-                "url": "https://www.theguardian.com",
-                "country": "gb"
-            },
-            "title": "Ex-WhatsApp cybersecurity head says Meta endangered billions of users in new suit",
-            "url": "https://www.theguardian.com/technology/2025/sep/08/meta-user-data-lawsuit-whatsapp",
-            "urlToImage": "https://i.guim.co.uk/img/media/d30aba9e41b5737a74291ff062a26aad7a2dfe6a/279_0_1441_1153/master/1441.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4fd56f9ab98ea26cdedfed88a2340996",
-            "publishedAt": "2025-09-08T20:17:24Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "A new tool can predict the infection risks oral mucositis poses to stem cell transplant patients",
-            "url": "https://medicalxpress.com/news/2025-09-tool-infection-oral-mucositis-poses.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/mouth-sore.jpg",
-            "publishedAt": "2025-09-08T20:09:04Z"
-        },
-        {
-            "source": {
-                "id": "49a7f1ba9210f605feb836064eb8351e",
-                "name": "Euro Weekly News",
-                "url": "https://euroweeklynews.com",
-                "country": "es"
-            },
-            "title": "Businesses incorporate AI to boost growth",
-            "url": "https://euroweeklynews.com/2025/09/08/businesses-incorporate-ai-to-boost-growth/",
-            "urlToImage": "https://cdn.euroweeklynews.com/wp-content/uploads/2025/09/Nati-Algado-Vivero-Finestrat-Ext-copia-1024x683-1.jpg",
-            "publishedAt": "2025-09-08T19:53:32Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com",
-                "country": "ca"
-            },
-            "title": "Ex-WhatsApp executive sues Meta over alleged security failures",
-            "url": "https://www.cp24.com/news/world/2025/09/08/ex-whatsapp-executive-sues-meta-over-alleged-security-failures/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/EU74Y7IPPVAWJBFYINRZ727YTM.jpg?smart=true&auth=3cb4093ee1d78edebb25a6b80aef1678c74262ead7b8d8f456db33702d07f65d&width=1200&height=630",
-            "publishedAt": "2025-09-08T19:36:05Z"
-        },
-        {
-            "source": {
-                "id": "933344203c2b862af768b5e662a162a4",
-                "name": "International Business Times",
-                "url": "https://www.ibtimes.com",
-                "country": "us"
-            },
-            "title": "Ex-WhatsApp Executive Sues Meta Over Alleged Security Failures",
-            "url": "https://www.ibtimes.com/ex-whatsapp-executive-sues-meta-over-alleged-security-failures-3782827",
-            "urlToImage": "https://d.ibtimes.com/en/full/4620424/lawsuit-alleges-meta-failed-implement-basic-cybersecurity-measures-its-whatsapp-messaging.jpg",
-            "publishedAt": "2025-09-08T19:30:21Z"
-        },
-        {
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            },
-            "title": "Anthropic to pay authors $1.5 billion to settle lawsuit over pirated chatbot training material",
-            "url": "https://japantoday.com/category/tech/anthropic-to-pay-1.5-billion-to-settle-lawsuit-over-pirated-chatbot-training-material",
-            "urlToImage": "https://media.japantoday.com/img/store/0f/33/ecc6be646d3b75e85c0f54db0d7ba3b17be8/download/_w1700.jpeg",
-            "publishedAt": "2025-09-08T19:25:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Raymond James Hires David Solganik as Head of AI Strategy",
-            "url": "https://www.manilatimes.net/2025/09/09/tmt-newswire/globenewswire/raymond-james-hires-david-solganik-as-head-of-ai-strategy/2180966",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/09/09/740721.jpg",
-            "publishedAt": "2025-09-08T19:17:06Z"
         }
     ]
 }
