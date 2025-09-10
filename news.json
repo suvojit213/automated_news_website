@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-09-10T12:29:48.331626Z",
+    "lastUpdatedAt": "2025-09-10T13:23:16.472793Z",
     "articles": [
+        {
+            "source": {
+                "id": "91120a92e0d24e24fbffb6d0affabfe6",
+                "name": "Bangkok Post",
+                "url": "https://www.bangkokpost.com",
+                "country": "th"
+            },
+            "title": "Agency blueprint seeks to develop regional AI hub",
+            "url": "https://www.bangkokpost.com/business/general/3101752/agency-blueprint-seeks-to-develop-regional-ai-hub",
+            "urlToImage": "https://static.bangkokpost.com/media/content/20250910/c1_3101752_250910081625_700.jpg",
+            "publishedAt": "2025-09-10T01:06:00Z"
+        },
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "'We're all kind of in shock.' Oracle projections analysts slackjawed",
+            "url": "https://www.cnbc.com/2025/09/09/were-all-kind-of-in-shock-oracle-projections-analysts-slackjawed.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108031077-1725900073732-gettyimages-1175129162-img_6550_2019091665104569.jpeg?v=1735066603&w=1920&h=1080",
+            "publishedAt": "2025-09-10T00:30:15Z"
+        },
         {
             "source": {
                 "id": "28bc60a23a7bf89e60f893506992a3fe",
@@ -48,6 +72,15 @@
             "url": "https://www.globenewswire.com/news-release/2025/09/10/3147462/0/en/WatchGuard-Becomes-Official-Cybersecurity-Supplier-of-Girona-FC-with-New-Partnership.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/fe4ffa29-bc1f-405e-90c0-c4b8cd08af64",
             "publishedAt": "2025-09-10T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "eagletribune"
+            },
+            "title": "Credo Unveils Bluebird 1.6T Optical DSP for Low-Power, High-Bandwidth, and Ultra-low Latency AI Networks",
+            "url": "https://www.eagletribune.com/region/credo-unveils-bluebird-1-6t-optical-dsp-for-low-power-high-bandwidth-and-ultra-low/article_dccefa52-9634-5a35-bdfc-6edf64e51585.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/7/f9/7f94c9ab-f435-58ba-a3ac-17b2d64af0a6/68c0cedc5ee4e.image.jpg?resize=400%2C200",
+            "publishedAt": "2025-09-10 00:59:31"
         },
         {
             "source": {
@@ -3144,33 +3177,6 @@
             "url": "https://www.emporiagazette.com/news/national/article_21839423-0e20-5595-a014-bd18bc349169.html",
             "urlToImage": "https://bloximages.newyork1.vip.townnews.com/emporiagazette.com/content/tncms/assets/v3/editorial/a/1e/a1ef3c66-ccfb-53c7-bf1f-45d2105ff544/68bfd427cb343.image.jpg?resize=400%2C266",
             "publishedAt": "2025-09-09 08:59:48"
-        },
-        {
-            "source": {
-                "name": "newsbytesapp"
-            },
-            "title": "Why Intel's products chief is leaving after 30 years",
-            "url": "https://www.newsbytesapp.com/news/business/intel-s-products-chief-to-leave-after-3-decades/story",
-            "urlToImage": "https://i.cdn.newsbytesapp.com/images/l85520250909113001.jpeg",
-            "publishedAt": "2025-09-09 08:15:38"
-        },
-        {
-            "source": {
-                "name": "analyticsindiamag"
-            },
-            "title": "OpenAI in Talks with Reliance and Other Data Centres to Bring Stargate in India",
-            "url": "https://analyticsindiamag.com/ai-news-updates/openai-in-talks-with-reliance-and-other-data-centres-to-bring-stargate-in-india/",
-            "urlToImage": "https://analyticsindiamag.com/wp-content/uploads/2025/03/OpenAI-and-Reliance-in-Talks-for-AI-Partnership-in-India.jpg",
-            "publishedAt": "2025-09-09 08:13:48"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "I replaced my Samsung S25 Ultra with the Pixel 10 Pro XL for weeks - and don't regret it",
-            "url": "https://www.zdnet.com/article/i-replaced-my-samsung-s25-ultra-with-the-pixel-10-pro-xl-for-weeks-and-dont-regret-it/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/69fbf0655b5d012c0470d671726456475dc9b50c/2025/08/27/3bf0038e-5a28-487d-b6b4-ea16fe834bf3/dsc07299.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-09-09 08:00:17"
         }
     ]
 }
