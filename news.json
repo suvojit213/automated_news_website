@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-09-10T02:52:07.201455Z",
+    "lastUpdatedAt": "2025-09-10T03:24:01.869518Z",
     "articles": [
+        {
+            "source": {
+                "id": "a6d401909ca644c4ffb332486c9cfaea",
+                "name": "Seeking Alpha",
+                "url": "https://seekingalpha.com",
+                "country": "us"
+            },
+            "title": "Nvidia unveils new Rubin CPX chip system aimed at AI videos, software",
+            "url": "https://seekingalpha.com/news/4493427-nvidia-unveils-new-rubin-cpx-chip-system-aimed-at-ai-videos-software",
+            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2214434126/image_2214434126.jpg?io=getty-c-w750",
+            "publishedAt": "2025-09-09T15:21:56Z"
+        },
+        {
+            "source": {
+                "id": "c24832368cd2d9132598ad4bef08e0ab",
+                "name": "Investopedia",
+                "url": "https://www.investopedia.com",
+                "country": "us"
+            },
+            "title": "CoreWeave Stock Rises on News of Nvidia-Backed Firm's VC Fund for AI Investments",
+            "url": "https://www.investopedia.com/coreweave-stock-rises-on-news-of-nvidia-backed-firms-vc-fund-for-ai-investments-11806230",
+            "urlToImage": "https://www.investopedia.com/thmb/tQFa6EYTht9FIJSWbjdtBJ7VLKI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2229019704-10f46697c42b45e6a39b9f588e5f7062.jpg",
+            "publishedAt": "2025-09-09T15:16:04Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Nvidia Unveils New Chip System for AI Video, Software Creation",
+            "url": "https://www.bloomberg.com/news/articles/2025-09-09/nvidia-unveils-new-chip-system-for-ai-video-software-creation",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ieI2cjr8IuBs/v1/1200x800.jpg",
+            "publishedAt": "2025-09-09T15:00:00Z"
+        },
+        {
+            "source": {
+                "id": "f4d035ae0463df22c36ae97972a33ba6",
+                "name": "PR Newswire UK",
+                "url": "https://www.prnewswire.co.uk",
+                "country": "gb"
+            },
+            "title": "MBZUAI and G42 Launch K2 Think: A Leading Open-Source System for Advanced AI Reasoning",
+            "url": "https://www.prnewswire.co.uk/news-releases/mbzuai-and-g42-launch-k2-think-a-leading-open-source-system-for-advanced-ai-reasoning-302551091.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2768900/MBZUAI_G42_K2THINK.jpg?p=facebook",
+            "publishedAt": "2025-09-09T14:57:00Z"
+        },
         {
             "source": {
                 "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
@@ -1236,6 +1284,87 @@
             "url": "https://www.globenewswire.com/news-release/2025/09/09/3147218/28124/en/Top-19-Companies-Leading-the-Middle-East-Cybersecurity-Market-in-2025-and-Beyond-Middle-East-CyberSecurity-Company-Evaluation-Report-2025.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
             "publishedAt": "2025-09-09T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "en_prnasisa"
+            },
+            "title": "MBZUAI and G42 Launch K2 Think: A Leading Open-Source System for Advanced AI Reasoning",
+            "url": "https://en.prnasia.com/story/502817-0.shtml",
+            "urlToImage": "https://mma.prnasia.com/media2/2768900/MBZUAI_G42_K2THINK.jpg?p=medium600",
+            "publishedAt": "2025-09-09 15:22:00"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Tesla’s AI5 and AI6 Chips Boost Autonomous Driving and Robotics Milestones",
+            "url": "https://www.webpronews.com/teslas-ai5-and-ai6-chips-boost-autonomous-driving-and-robotics-milestones/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-f48ec743-bee9-40f5-8930-873dfe5990e9.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-09-09 15:20:39"
+        },
+        {
+            "source": {
+                "name": "postregister"
+            },
+            "title": "Generative AI Drives Record Data Center Ethernet Switch Results in 1H25, Crehan Research Reports",
+            "url": "https://www.postregister.com/businessreport/technology/generative-ai-drives-record-data-center-ethernet-switch-results-in-1h25-crehan-research-reports/article_4c7e7626-3682-5c5c-8dc9-261bed967f49.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
+            "publishedAt": "2025-09-09 15:16:50"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "MKBHD Warns: EV LiDAR Sensors Can Permanently Damage iPhone 16 Pro Camera",
+            "url": "https://www.webpronews.com/mkbhd-warns-ev-lidar-sensors-can-permanently-damage-iphone-16-pro-camera/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-2a69a0af-605e-4bd3-9b85-82a6ba357745.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-09-09 15:16:26"
+        },
+        {
+            "source": {
+                "name": "fastcompany"
+            },
+            "title": "How IBM, Dell, and Cisco helped China with the surveillance and detention of thousands",
+            "url": "https://www.fastcompany.com/91400720/how-ibm-dell-cisco-helped-china-surveillance-detention-thousands",
+            "urlToImage": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2025/09/AP25251717556035.jpg",
+            "publishedAt": "2025-09-09 15:15:04"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Palmer Luckey Buys First Jetson One eVTOL Aircraft for $128K",
+            "url": "https://www.webpronews.com/palmer-luckey-buys-first-jetson-one-evtol-aircraft-for-128k/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-ab3fed54-123a-4583-b2a7-53919cc7d72c.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-09-09 15:13:01"
+        },
+        {
+            "source": {
+                "name": "bitcoinworld"
+            },
+            "title": "Apple Intelligence: Unveiling Apple’s Revolutionary AI for Enhanced User Experience",
+            "url": "https://bitcoinworld.co.in/apple-intelligence-explained/",
+            "urlToImage": "https://bitcoinworld.co.in/wp-content/uploads/apple-intelligence-explained.jpg",
+            "publishedAt": "2025-09-09 15:10:11"
+        },
+        {
+            "source": {
+                "name": "cornelledu"
+            },
+            "title": "Cornell’s Ignite Innovation Acceleration program supports inventors, early-stage innovations",
+            "url": "https://news.cornell.edu/stories/2025/09/cornells-ignite-innovation-acceleration-program-supports-inventors-early-stage",
+            "urlToImage": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_home/public/2025-09/ia_thumbnail.jpg?itok=g9IPzeiP",
+            "publishedAt": "2025-09-09 15:09:00"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "GE, Nvidia, Tesla Pioneer Aviation, AI, and Robotaxi Innovations",
+            "url": "https://www.webpronews.com/ge-nvidia-tesla-pioneer-aviation-ai-and-robotaxi-innovations/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-28a15dc1-bc49-448e-be95-03a89a270fbf.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-09-09 15:08:56"
         },
         {
             "source": {
@@ -3132,162 +3261,6 @@
             "url": "https://economictimes.indiatimes.com/tech/technology/cybersecurity-firm-netskope-eyes-up-to-6-5-billion-valuation-in-us-ipo/articleshow/123764601.cms",
             "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-77028,resizemode-75,msid-123764601/tech/technology/cybersecurity-firm-netskope-eyes-up-to-6-5-billion-valuation-in-us-ipo.jpg",
             "publishedAt": "2025-09-08T11:04:34Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Apple iPhone event may lack sparkle, but rumored iPhone Air likely to spur upgrades",
-            "url": "https://www.reuters.com/business/apple-iphone-event-may-lack-sparkle-rumored-iphone-air-likely-spur-upgrades-2025-09-08/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/G2WQVHRTFZLMNOKE4CYXBFGO3I.jpg?auth=ab28cb39f95f0de38faf2c14377e2817f2266cb4028b9b6feeb1e2e1f4cd47e9&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-09-08T11:04:03Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Tesla Investors Debate Whether to Throw a Lifeline to xAI",
-            "url": "https://www.bloomberg.com/news/newsletters/2025-09-08/tesla-investors-debate-whether-to-throw-a-lifeline-to-xai",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYsmcG.RzRtY/v1/1200x780.jpg",
-            "publishedAt": "2025-09-08T11:02:18Z"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            },
-            "title": "AI's workforce impact is ‘small,' but it’s not ‘zero,’ economist says",
-            "url": "https://www.cnbc.com/2025/09/08/ai-artificial-intelligence-workforce-impact.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108194398-1757002257477-GettyImages-1138353976.jpg?v=1757002354&w=1920&h=1080",
-            "publishedAt": "2025-09-08T11:00:01Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Explainable AI: The Next Competitive Edge in Regulated Industries",
-            "url": "https://techbullion.com/explainable-ai-the-next-competitive-edge-in-regulated-industries/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/IMG_1996-1000x600.jpg",
-            "publishedAt": "2025-09-08T10:35:03Z"
-        },
-        {
-            "source": {
-                "id": "9a1d5b164276d1c4f3394dd496e931e0",
-                "name": "Patrika News",
-                "url": "https://www.patrika.com",
-                "country": "in"
-            },
-            "title": "Free Ethical Hacking Courses: Learn Hacking for Free from IIT and Other Institutes",
-            "url": "https://www.patrika.com/en/education-news/free-ethical-hacking-courses-learn-hacking-for-free-from-iit-and-other-institutes-19927897",
-            "urlToImage": "https://cms.patrika.com/wp-content/uploads/2025/09/free-ethical-hacking-courses-.jpg",
-            "publishedAt": "2025-09-08T10:25:21Z"
-        },
-        {
-            "source": {
-                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-                "name": "NDTV.com",
-                "url": "https://www.ndtv.com",
-                "country": "in"
-            },
-            "title": "Indian-Origin Neuroscientist Akshay Jagadeesh Joins OpenAI As Researcher: \"Thrilled To Share...\"",
-            "url": "https://www.ndtv.com/feature/indian-origin-neuroscientist-akshay-jagadeesh-joins-openai-as-researcher-thrilled-to-share-9237097",
-            "urlToImage": "https://c.ndtvimg.com/2025-09/rabn3onk_-akshay-jagadeesh_625x300_08_September_25.jpeg",
-            "publishedAt": "2025-09-08T10:25:01Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "Apple’s Plan B for AI Is Actually Pretty Great",
-            "url": "https://www.livemint.com/technology/tech-news/apples-plan-b-for-ai-is-actually-pretty-great-11757326489607.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/tech1_1734536428801_1734536438047.jpg",
-            "publishedAt": "2025-09-08T10:14:49Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Apple’s Plan B for AI Is Actually Pretty Great",
-            "url": "https://www.bloomberg.com/opinion/articles/2025-09-08/apple-iphone-ai-with-google-gemini-is-a-great-idea",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwAZ._zDbXOU/v1/1200x856.jpg",
-            "publishedAt": "2025-09-08T09:30:18Z"
-        },
-        {
-            "source": {
-                "id": "027234d3c0a6aefa3d7ab81380e63d86",
-                "name": "LBC",
-                "url": "https://www.lbc.co.uk",
-                "country": "gb"
-            },
-            "title": "Nation states are ‘weaponising AI and social media to target UK children’ in 'sophisticated' attacks",
-            "url": "https://www.lbc.co.uk/article/nation-states-weaponising-ai-social-media-target-uk-children-5HjdChp_2/",
-            "urlToImage": "https://images.globalplayer.com/images/752534?crop=16_9&width=1200&signature=-1fIjy_OW1tfhDKtmQG-W-vVw2g=",
-            "publishedAt": "2025-09-08T09:19:44Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "RRP Electronics' Strategic MoUs Bolster India's Semiconductor Ecosystem",
-            "url": "https://www.devdiscourse.com/article/technology/3619186-rrp-electronics-strategic-mous-bolster-indias-semiconductor-ecosystem",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/05_09_2025_15_05_13_4645324.png?width=920&format=jpeg",
-            "publishedAt": "2025-09-08T08:57:08Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "RRP Electronics signs 4 pivotal MoU, in Semicon India (one with TIFR) attesting and strengthening their Atmanirbhar dream of Make in India",
-            "url": "https://www.tribuneindia.com/news/business/rrp-electronics-signs-4-pivotal-mou-in-semicon-india-one-with-tifr-attesting-and-strengthening-their-atmanirbhar-dream-of-make-in-india/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTA4YjEzMzcwLThjOTItMTFmMC04NDliLWQxMWMzZjNiMjVlNy5qcGc=",
-            "publishedAt": "2025-09-08T08:55:07Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "How is Ai Transforming the Logistics Industry?",
-            "url": "https://techbullion.com/how-is-ai-transforming-the-logistics-industry/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/Screenshot-2025-09-08-132806-616x600.jpg",
-            "publishedAt": "2025-09-08T08:29:04Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Emerging Trends in Cybersecurity Solutions for Businesses",
-            "url": "https://techbullion.com/emerging-trends-in-cybersecurity-solutions-for-businesses/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/Screenshot_2025-09-08-13-21-04-82_a1b1bbe5f63d5b96c1a0f87c197ebfae-912x600.jpg",
-            "publishedAt": "2025-09-08T08:23:36Z"
         }
     ]
 }
