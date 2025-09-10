@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-09-10T13:23:16.472793Z",
+    "lastUpdatedAt": "2025-09-10T14:14:30.522478Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Arm launches new generation of mobile chip designs geared for AI",
+            "url": "https://www.reuters.com/business/arm-launches-new-generation-mobile-chip-designs-geared-ai-2025-09-10/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/ANJ7ZDVWORMBVFP4M5YFYIOZDE.jpg?auth=fadd76c82ee8d776f55fc1c688278c2bb87250940ecf19b84e66e48fc27aee49&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-09-10T02:05:17Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Wall Street indexes notch record high closes, investors bet rate cut",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/wall-street-indexes-notch-record-high-closes-investors-bet-rate-cut/articleshow/123797708.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-123797711,width-1200,height-630,imgsize-114698,overlay-etmarkets/articleshow.jpg",
+            "publishedAt": "2025-09-10T01:54:00Z"
+        },
         {
             "source": {
                 "id": "91120a92e0d24e24fbffb6d0affabfe6",
@@ -72,6 +96,81 @@
             "url": "https://www.globenewswire.com/news-release/2025/09/10/3147462/0/en/WatchGuard-Becomes-Official-Cybersecurity-Supplier-of-Girona-FC-with-New-Partnership.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/fe4ffa29-bc1f-405e-90c0-c4b8cd08af64",
             "publishedAt": "2025-09-10T00:00:00Z"
+        },
+        {
+            "source": {
+                "id": "a0300bc9a6e9d5b317bd6f614767231f",
+                "name": "Forbes",
+                "url": "https://www.forbes.com",
+                "country": "us"
+            },
+            "title": "Palo Alto Networks: Is PANW Stock The Best Bet In Cybersecurity?",
+            "url": "https://www.forbes.com/sites/greatspeculations/2025/09/10/palo-alto-networks-is-panw-stock-the-best-bet-in-cybersecurity/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68c1687c7017e86daada3316/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-09-10T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "hindustantimes"
+            },
+            "title": "A19 Pro chip is why Apple aren’t kidding about iPhone 17 Pro and MacBook parity",
+            "url": "https://www.hindustantimes.com/technology/a19-pro-chip-is-why-apple-aren-t-kidding-about-iphone-17-pro-and-macbook-parity-101757469975298.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/09/10/1600x900/Apple_iPhone17_Pro_1757470191221_1757470202160.jpg",
+            "publishedAt": "2025-09-10 02:13:05"
+        },
+        {
+            "source": {
+                "name": "knowledia"
+            },
+            "title": "LLMs are the users now",
+            "url": "https://news.knowledia.com/all/all/articles/llms-are-the-users-now-ead5f36f4972f0ac13e2886ae80f11744be57715",
+            "urlToImage": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2025/09/p-1-91397818-were-all-now-techs-unpaid-chatbot-trainers.jpg",
+            "publishedAt": "2025-09-10 02:12:35"
+        },
+        {
+            "source": {
+                "name": "newswire_telecomramblings"
+            },
+            "title": "Nokia expands defense portfolio with two advanced tactical communication solutions",
+            "url": "https://newswire.telecomramblings.com/2025/09/nokia-expands-defense-portfolio-with-two-advanced-tactical-communication-solutions/",
+            "urlToImage": "https://content.presspage.com/uploads/3180/2fb69586-0e40-473a-8f34-00e9883ff886/1920_nokiamission-safephone.png?10000=",
+            "publishedAt": "2025-09-10 02:11:07"
+        },
+        {
+            "source": {
+                "name": "xda_developers"
+            },
+            "title": "Arm skipped the NPU hype, making the CPU great at AI instead",
+            "url": "https://www.xda-developers.com/arm-answer-to-npu-something-even-better/",
+            "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/09/arm-sme2-feature-image.jpg",
+            "publishedAt": "2025-09-10 02:00:28"
+        },
+        {
+            "source": {
+                "name": "pcworld_us"
+            },
+            "title": "Arm’s bid for smarter, AI-powered phones and PCs begins with Lumex",
+            "url": "https://www.pcworld.com/article/2902362/arm-3.html",
+            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/09/Arm-Lumex-1.png",
+            "publishedAt": "2025-09-10 02:00:00"
+        },
+        {
+            "source": {
+                "name": "economictimes_indiatimes"
+            },
+            "title": "Grok can rewrite Wikipedia to remove falsehoods and add missing context: Elon Musk",
+            "url": "https://economictimes.indiatimes.com/tech/tech-bytes/grok-can-rewrite-wikipedia-to-remove-falsehoods-and-add-missing-context-elon-musk/articleshow/123802978.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-74654,resizemode-75,msid-123802978/tech/tech-bytes/grok-can-rewrite-wikipedia-to-remove-falsehoods-and-add-missing-context-elon-musk.jpg",
+            "publishedAt": "2025-09-10 01:55:59"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Mount Sinai AI Tool Scores Rare Genetic Mutations for Precision Medicine",
+            "url": "https://www.webpronews.com/mount-sinai-ai-tool-scores-rare-genetic-mutations-for-precision-medicine/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-efae1559-3e45-4f4d-8ca8-6c5dbf58bd73.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-09-10 01:47:51"
         },
         {
             "source": {
@@ -3087,96 +3186,6 @@
             "url": "https://www.analyticsinsight.net/bitcoin/bitcoin-price-at-112000-as-microstrategy-buys-more-is-the-next-stop-120000",
             "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-09-09%2Fqn07los0%2FBitcoin-Price-Analysis9sep.jpg?auto=format%2Ccompress&fit=max&w=480",
             "publishedAt": "2025-09-09 09:48:10"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Dataset Splits, Vision Encoder, and Hyper-PELT Implementation Details",
-            "url": "https://hackernoon.com/dataset-splits-vision-encoder-and-hyper-pelt-implementation-details",
-            "urlToImage": "https://hackernoon.imgix.net/images/sinW25rWovdN38P2ArzdPSCP3hi1-go034xw.jpeg",
-            "publishedAt": "2025-09-09 09:08:26"
-        },
-        {
-            "source": {
-                "name": "eagletribune"
-            },
-            "title": "MINISFORUM's AI-Powered N5 Pro Wins AI Storage Technology Innovation Award at IFA 2025",
-            "url": "https://www.eagletribune.com/region/minisforums-ai-powered-n5-pro-wins-ai-storage-technology-innovation-award-at-ifa-2025/article_16661ea8-337c-5492-9287-f4048ba9c6a2.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333",
-            "publishedAt": "2025-09-09 09:05:17"
-        },
-        {
-            "source": {
-                "name": "engadget"
-            },
-            "title": "The best SSDs in 2025",
-            "url": "https://www.engadget.com/computing/accessories/best-ssds-140014262.html",
-            "urlToImage": "https://o.aolcdn.com/images/dims?client=19f2b5e49a271b2bde77&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-12%2F07428d20-b97c-11ef-b7df-506b1f1b07b8&resize=1400%2C787&signature=4f8f052b8d1deb1e2a879181bdbb94e2dbfadc26",
-            "publishedAt": "2025-09-09 09:00:36"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "Finally, a Windows desktop I can confidently put away my iMac for",
-            "url": "https://www.zdnet.com/article/finally-a-windows-desktop-i-can-confidently-put-away-my-imac-for/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/0974afef66b03e5e49818af1233d0d6a741e5303/2025/09/04/e61f33fb-9926-47f6-9426-de5354b3fa7a/lenovo-legion-t5-image-3.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-09-09 09:00:18"
-        },
-        {
-            "source": {
-                "name": "athensmessenger"
-            },
-            "title": "How Ohio universities are embracing artificial intelligence",
-            "url": "https://www.athensmessenger.com/how-ohio-universities-are-embracing-artificial-intelligence/article_fe2a77ae-9c98-57ba-b0cd-7685e2aea07c.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/athensmessenger.com/content/tncms/assets/v3/editorial/3/2d/32d6ffe6-9532-54f5-9f1c-ee67e36f590f/68bf3d621a2e8.image.jpg?resize=300%2C200",
-            "publishedAt": "2025-09-09 09:00:00"
-        },
-        {
-            "source": {
-                "name": "computerweekly"
-            },
-            "title": "UK AI sector balloons by 85% to 5,800 companies from 2023 to 2025",
-            "url": "https://www.computerweekly.com/news/366630458/UK-AI-sector-balloons-by-85-to-5800-companies-from-2023-to-2025",
-            "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero%20Images/industrial-machine-AI-AR-robot-adobe_searchsitetablet_520X173.jpg",
-            "publishedAt": "2025-09-09 09:00:00"
-        },
-        {
-            "source": {
-                "name": "kdhnews"
-            },
-            "title": "Mistral cements AI lead in Europe with cash infusion",
-            "url": "https://kdhnews.com/news/nation/mistral-cements-ai-lead-in-europe-with-cash-infusion/article_44b1d619-ef20-5779-940a-70eaf37bb77f.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/assets/v3/editorial/2/ff/2ff6bc77-b27e-51d5-8e77-925267c2b405/68bfd4385b5c0.image.jpg?resize=400%2C266",
-            "publishedAt": "2025-09-09 08:59:48"
-        },
-        {
-            "source": {
-                "name": "newsargus"
-            },
-            "title": "Mistral cements AI lead in Europe with cash infusion",
-            "url": "https://www.newsargus.com/news/national/mistral-cements-ai-lead-in-europe-with-cash-infusion/article_88084e4f-da92-50d3-941a-216d17f3d239.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/newsargus.com/content/tncms/assets/v3/editorial/2/d8/2d87140e-ff8d-5855-8c83-afe9e51ae92d/68bfd44808ddd.image.jpg?resize=300%2C200",
-            "publishedAt": "2025-09-09 08:59:48"
-        },
-        {
-            "source": {
-                "name": "columbiagorgenews"
-            },
-            "title": "Mistral cements AI lead in Europe with cash infusion",
-            "url": "https://www.columbiagorgenews.com/news/national/mistral-cements-ai-lead-in-europe-with-cash-infusion/article_0d3f2661-6544-5b8e-a592-b671ed3dcfda.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/columbiagorgenews.com/content/tncms/assets/v3/editorial/2/c0/2c0bbf64-a553-5360-8056-5a660c6329a8/68bfd48450d0a.image.jpg?resize=300%2C200",
-            "publishedAt": "2025-09-09 08:59:48"
-        },
-        {
-            "source": {
-                "name": "emporiagazette"
-            },
-            "title": "Mistral cements AI lead in Europe with cash infusion",
-            "url": "https://www.emporiagazette.com/news/national/article_21839423-0e20-5595-a014-bd18bc349169.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/emporiagazette.com/content/tncms/assets/v3/editorial/a/1e/a1ef3c66-ccfb-53c7-bf1f-45d2105ff544/68bfd427cb343.image.jpg?resize=400%2C266",
-            "publishedAt": "2025-09-09 08:59:48"
         }
     ]
 }
