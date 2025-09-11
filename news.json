@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-09-11T10:15:11.980439Z",
+    "lastUpdatedAt": "2025-09-11T11:12:10.044473Z",
     "articles": [
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "‘Morning Show’ cast, crew talks about Artificial Intelligence",
+            "url": "https://www.thenews.com.pk/latest/1342773-morning-show-cast-crew-talks-about-artificial-intelligence",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/updates/2025-09-11/1342773_040507_updates.jpg",
+            "publishedAt": "2025-09-10T23:04:00Z"
+        },
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "Study sheds light on hurdles faced in transforming NHS health care with AI",
+            "url": "https://medicalxpress.com/news/2025-09-hurdles-nhs-health-ai.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2018/2-hospital.jpg",
+            "publishedAt": "2025-09-10T23:00:04Z"
+        },
+        {
+            "source": {
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
+                "country": "us"
+            },
+            "title": "Why Zscaler Stock (ZS) Bulls Aren’t Waiting for Lower Multiples",
+            "url": "https://markets.businessinsider.com/news/stocks/why-zscaler-stock-zs-bulls-aren-t-waiting-for-lower-multiples-1035135010",
+            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/09/Image-9-9-25-at-10-4-1024x600.jpeg?utm_source=markets.businessinsider.com&utm_medium=referral",
+            "publishedAt": "2025-09-10T22:49:00Z"
+        },
+        {
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            },
+            "title": "US Senator urges probing Microsoft over cybersecurity negligence, ransomware risks",
+            "url": "https://www.indiatoday.in/world/story/us-senator-urges-probing-microsoft-over-cybersecurity-negligence-ransomware-risks-glbs-2785410-2025-09-11",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202509/microsoft-101441488-16x9_0.png?VersionId=Kvfz.S4wQ2P8dBYP.2iiFyFdFPUXBbXR",
+            "publishedAt": "2025-09-10T22:20:09Z"
+        },
         {
             "source": {
                 "id": "c45dc51281d68ce51bff0cc4fe959bbf",
@@ -1479,6 +1527,15 @@
         },
         {
             "source": {
+                "name": "engadget"
+            },
+            "title": "As Apple pursues AI, spare a thought for the poor HomePod",
+            "url": "https://www.engadget.com/home/smart-home/as-apple-pursues-ai-spare-a-thought-for-the-poor-homepod-223250670.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?client=19f2b5e49a271b2bde77&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-09%2F86738a50-8e8c-11f0-bfff-019d4746cb6f&resize=1400%2C933&signature=64a2c50c7075025ff05891aaee345dee4f480c51",
+            "publishedAt": "2025-09-10 22:32:50"
+        },
+        {
+            "source": {
                 "name": "tucson"
             },
             "title": "Auterion and Point One Navigation partner to deliver centimeter-accurate positioning for next-gen autonomy",
@@ -1529,6 +1586,42 @@
             "title": "Auterion and Point One Navigation partner to deliver centimeter-accurate positioning for next-gen autonomy",
             "url": "https://www.aspendailynews.com/online_features/press_releases/auterion-and-point-one-navigation-partner-to-deliver-centimeter-accurate-positioning-for-next-gen-autonomy/article_80725056-2ac7-541b-a2ca-12847589ca0d.html",
             "urlToImage": "https://bloximages.newyork1.vip.townnews.com/aspendailynews.com/content/tncms/assets/v3/editorial/4/48/448f178d-5bb8-53ff-aaf2-c7ec669f1b1a/68c2899e553a1.image.jpg?resize=300%2C225",
+            "publishedAt": "2025-09-10 22:01:00"
+        },
+        {
+            "source": {
+                "name": "uniondemocrat"
+            },
+            "title": "Auterion and Point One Navigation partner to deliver centimeter-accurate positioning for next-gen autonomy",
+            "url": "https://www.uniondemocrat.com/online_features/press_releases/article_a261e5c6-bb17-59a1-ba96-0dac92edf7d8.html",
+            "urlToImage": "https://edge.prnewswire.com/c/img/favicon.png?sd=2025-09-10&sn=SF71053",
+            "publishedAt": "2025-09-10 22:01:00"
+        },
+        {
+            "source": {
+                "name": "elkodaily"
+            },
+            "title": "Auterion and Point One Navigation partner to deliver centimeter-accurate positioning for next-gen autonomy",
+            "url": "https://elkodaily.com/online_features/press_releases/article_03cec40d-cee3-5bf8-9cc7-f42686813edd.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/elkodaily.com/content/tncms/assets/v3/editorial/0/a5/0a5d8753-82f4-53ee-bf34-4e2af54b003f/68c29857220f5.image.jpg?resize=300%2C225",
+            "publishedAt": "2025-09-10 22:01:00"
+        },
+        {
+            "source": {
+                "name": "recorderonline"
+            },
+            "title": "Auterion and Point One Navigation partner to deliver centimeter-accurate positioning for next-gen autonomy",
+            "url": "https://www.recorderonline.com/online_features/press_releases/auterion-and-point-one-navigation-partner-to-deliver-centimeter-accurate-positioning-for-next-gen-autonomy/article_7d1b5886-7004-55cf-a630-de0234c0094a.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/recorderonline.com/content/tncms/assets/v3/editorial/0/cd/0cd43620-32c5-52b3-aede-4a9d7fd55132/68c29843702ef.image.jpg?crop=1200%2C630%2C0%2C135",
+            "publishedAt": "2025-09-10 22:01:00"
+        },
+        {
+            "source": {
+                "name": "rdrnews"
+            },
+            "title": "Auterion and Point One Navigation partner to deliver centimeter-accurate positioning for next-gen autonomy",
+            "url": "https://www.rdrnews.com/online_features/press_releases/auterion-and-point-one-navigation-partner-to-deliver-centimeter-accurate-positioning-for-next-gen-autonomy/article_b29fbfea-0f6e-5f51-8f36-ccf166fef0c3.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/rdrnews.com/content/tncms/assets/v3/editorial/c/2e/c2efa4c1-0cba-5987-99b7-6495f5c1f3f3/68c289ce8e299.image.jpg?resize=300%2C225",
             "publishedAt": "2025-09-10 22:01:00"
         },
         {
@@ -2988,99 +3081,6 @@
             "url": "https://www.businessworld.in/article/apples-new-airpods-pro-3-announced-india-price-is-rs-25900-570864",
             "urlToImage": "https://static.businessworld.in/Airpods%20Pro%203_20250910003025_original_image_16.webp",
             "publishedAt": "2025-09-10 00:00:00"
-        },
-        {
-            "source": {
-                "name": "davisenterprise"
-            },
-            "title": "Lam Research Introduces VECTOR® TEOS 3D to Address Critical Advanced Packaging Challenges in Chipmaking",
-            "url": "https://www.davisenterprise.com/online_features/press_releases/lam-research-introduces-vector-teos-3d-to-address-critical-advanced-packaging-challenges-in-chipmaking/article_c34c03ed-713f-5280-bb5d-191279666f29.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/davisenterprise.com/content/tncms/assets/v3/editorial/0/b0/0b0b3ebf-7887-5f54-858c-1842ad2287e6/686f8a11c40cd.image.jpg?resize=300%2C132",
-            "publishedAt": "2025-09-10 00:00:00"
-        },
-        {
-            "source": {
-                "name": "financialcontent"
-            },
-            "title": "This Infrastructure Stock Might Be the Easiest Way to Own the AI Boom",
-            "url": "https://www.fool.com/investing/2025/09/10/amazon-amzn-infrastructure-stock-ai-boom-aws-cloud/",
-            "urlToImage": "https://g.foolcdn.com/image/?h=400&op=resize&url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F830437%2Fgettyimages-2086323995-1200x800-5b2df79.jpg&w=400",
-            "publishedAt": "2025-09-10 00:00:00"
-        },
-        {
-            "source": {
-                "name": "dailyrepublic"
-            },
-            "title": "Lam Research Introduces VECTOR® TEOS 3D to Address Critical Advanced Packaging Challenges in Chipmaking",
-            "url": "https://www.dailyrepublic.com/online_features/press_releases/lam-research-introduces-vector-teos-3d-to-address-critical-advanced-packaging-challenges-in-chipmaking/article_478d3022-67fe-5239-8ff9-f8e8a97c2aaa.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/dailyrepublic.com/content/tncms/assets/v3/editorial/f/d4/fd4ab856-c5d2-59dc-805f-7d17830b4522/686f8a6088084.image.jpg?resize=300%2C132",
-            "publishedAt": "2025-09-10 00:00:00"
-        },
-        {
-            "source": {
-                "name": "thehindu"
-            },
-            "title": "Could AI chatbots become conscious?",
-            "url": "https://www.thehindu.com/sci-tech/science/could-ai-chatbots-become-conscious/article70029154.ece",
-            "urlToImage": "https://th-i.thgim.com/public/sci-tech/science/w16pc2/article70029145.ece/alternates/LANDSCAPE_1200/shubham-dhage-2sz-3NrmZYU-unsplash.jpg",
-            "publishedAt": "2025-09-10 00:00:00"
-        },
-        {
-            "source": {
-                "name": "rdrnews"
-            },
-            "title": "Lam Research Introduces VECTOR® TEOS 3D to Address Critical Advanced Packaging Challenges in Chipmaking",
-            "url": "https://www.rdrnews.com/online_features/press_releases/lam-research-introduces-vector-teos-3d-to-address-critical-advanced-packaging-challenges-in-chipmaking/article_f8e4533c-288e-5430-9d49-427b62404e74.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/rdrnews.com/content/tncms/assets/v3/editorial/c/5b/c5b986fa-43cd-50d5-b9a7-b3dfe5772514/686f7b09c2664.image.jpg?resize=300%2C132",
-            "publishedAt": "2025-09-10 00:00:00"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Global Trustnet Reinforces Role as a Trusted Leader in Cybersecurity and Blockchain Analysis",
-            "url": "https://www.manilatimes.net/2025/09/10/tmt-newswire/globenewswire/global-trustnet-reinforces-role-as-a-trusted-leader-in-cybersecurity-and-blockchain-analysis/2181849",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/09/10/742414.png",
-            "publishedAt": "2025-09-09T23:24:48Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Broadcom CEO Poised for Payout If He Reaches 2030 AI Sales Goal",
-            "url": "https://www.bloomberg.com/news/articles/2025-09-09/broadcom-ceo-poised-for-payout-if-he-reaches-2030-ai-sales-goal",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iy3C7vAKbDDE/v1/1200x799.jpg",
-            "publishedAt": "2025-09-09T22:28:34Z"
-        },
-        {
-            "source": {
-                "id": "0d429ea54fdbe8e34c582aa31bc81aba",
-                "name": "The Boston Globe",
-                "url": "https://www.bostonglobe.com",
-                "country": "us"
-            },
-            "title": "Reading skills of 12th",
-            "url": "https://www.bostonglobe.com/2025/09/09/nation/reading-skills-12th-graders-hit-new-low/",
-            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/WVHNI2OZBIEAOOQLWSUC56U5PU.jpg?auth=629f940e5cfda58dbea49bae4ebd19e45e1362983a380fbe2f5dd3d9b5d196bf&width=1440",
-            "publishedAt": "2025-09-09T22:17:25Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "A first: UT takes to AI for smarter road development",
-            "url": "https://www.tribuneindia.com/news/chandigarh/a-first-ut-takes-to-ai-for-smarter-road-development/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTYzNjFhNGYwLThkYzYtMTFmMC04NDliLWQxMWMzZjNiMjVlNy5qcGc=",
-            "publishedAt": "2025-09-09T21:45:30Z"
         }
     ]
 }
