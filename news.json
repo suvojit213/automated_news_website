@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-09-11T07:14:36.635164Z",
+    "lastUpdatedAt": "2025-09-11T08:19:48.677961Z",
     "articles": [
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "6 Things About Artificial Intelligence People Get Wrong",
+            "url": "https://techbullion.com/6-things-about-artificial-intelligence-people-get-wrong/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/pexels-tara-winstead-8849295.jpg",
+            "publishedAt": "2025-09-10T20:01:10Z"
+        },
+        {
+            "source": {
+                "id": "c24832368cd2d9132598ad4bef08e0ab",
+                "name": "Investopedia",
+                "url": "https://www.investopedia.com",
+                "country": "us"
+            },
+            "title": "The AI Trade Picks Up Steam After Oracle's 'Truly Historic' Quarter",
+            "url": "https://www.investopedia.com/ai-stocks-soar-on-oracle-truly-historic-quarter-11807386",
+            "urlToImage": "https://www.investopedia.com/thmb/c0lkZnjGwrfCyJdl7QKBTKZHEzM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2223939863-8b06a985d41e4467beb64cfdf6e0d65b.jpg",
+            "publishedAt": "2025-09-10T19:56:32Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "OpenAI backs AI-animated film for Cannes debut",
+            "url": "https://japantoday.com/category/tech/openai-backs-ai-animated-film-for-cannes-debut",
+            "urlToImage": "https://media.japantoday.com/img/store/d8/bc/3f49c7eacc9861ff36bb7487266ae6eb5e5f/70df185c1887bc46b5c45b6cc11fe4b093e4528e/_w1700.jpeg",
+            "publishedAt": "2025-09-10T19:51:00Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "Hochul Vies to Make New York an AI Hub With Energy Push",
+            "url": "https://www.livemint.com/companies/news/hochul-vies-to-make-new-york-an-ai-hub-with-energy-push-11757533671054.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/company_4_1733465206851_1733465215415.png",
+            "publishedAt": "2025-09-10T19:47:50Z"
+        },
         {
             "source": {
                 "id": "263578fdccd92a76494cd34055806fcc",
@@ -1380,6 +1428,60 @@
             "url": "https://www.globenewswire.com/news-release/2025/09/10/3148277/0/en/Lynch-Carpenter-Investigates-Claims-in-Retina-Group-of-Florida-Data-Breach.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/c7859457-8a76-48a5-b4e7-d3be8aa7a7a7",
             "publishedAt": "2025-09-10T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "benzinga"
+            },
+            "title": "CoreWeave Stock Ignites, Fueled By Venture Fund And AI Cloud Frenzy",
+            "url": "https://www.benzinga.com/markets/tech/25/09/47608485/coreweave-stock-ignites-fueled-by-venture-fund-and-ai-cloud-frenzy",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/09/10/CoreWeave-New-York-City--New-York---July.jpeg?auto=jpg&dpr=1&fit=crop&height=480&optimize=medium&width=720",
+            "publishedAt": "2025-09-10 20:05:24"
+        },
+        {
+            "source": {
+                "name": "cision"
+            },
+            "title": "Aviat Networks Announces Fiscal 2025 Fourth Quarter and Twelve Months Financial Results",
+            "url": "https://www.prnewswire.com/news-releases/aviat-networks-announces-fiscal-2025-fourth-quarter-and-twelve-months-financial-results-302552923.html",
+            "urlToImage": "https://mma.prnewswire.com/media/354515/Aviat_Networks_Logo.jpg?p=original",
+            "publishedAt": "2025-09-10 20:01:00"
+        },
+        {
+            "source": {
+                "name": "sdxcentral"
+            },
+            "title": "AT&T dismissive of SpaceX challenge, but maintains open RAN love",
+            "url": "https://www.sdxcentral.com/news/att-dismissive-of-spacex-challenge-but-maintains-open-ran-love/",
+            "urlToImage": "https://media.datacenterdynamics.com/media/images/ATT_vans.2e16d0ba.fill-1200x630.jpg",
+            "publishedAt": "2025-09-10 19:40:13"
+        },
+        {
+            "source": {
+                "name": "engadget"
+            },
+            "title": "A closer look at the AirPods Pro 3: ANC, Live Translation and heart-rate tracking",
+            "url": "https://www.engadget.com/audio/headphones/a-closer-look-at-the-airpods-pro-3-anc-live-translation-and-heart-rate-tracking-193956229.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?client=19f2b5e49a271b2bde77&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-09%2F055a8640-8e72-11f0-b9e8-32822d01088d&resize=1400%2C840&signature=9d22192c4c08065e8c7951c7db19c9b3c571afe8",
+            "publishedAt": "2025-09-10 19:39:56"
+        },
+        {
+            "source": {
+                "name": "siliconangle"
+            },
+            "title": "‘Kicking our butts’: Rapid pace of AI development sparks an urgent push to build better infrastructure",
+            "url": "https://siliconangle.com/2025/09/10/kicking-butts-rapid-pace-ai-development-sparks-urgent-push-build-better-infrastructure/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/09/Yee-Jiun-Song-Meta.jpg",
+            "publishedAt": "2025-09-10 19:28:24"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "10 Ways To Improve The College-To-Career Pipeline In The AI Age",
+            "url": "https://www.forbes.com/sites/avivalegatt/2025/09/10/10-actions-to-improve-the-college-to-career-pipeline-in-the-ai-age/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66a3dae53197d9da9c82e7a1/0x0.jpg?width=960",
+            "publishedAt": "2025-09-10 19:26:20"
         },
         {
             "source": {
@@ -3018,126 +3120,6 @@
             "url": "https://timesofindia.indiatimes.com/city/goa/goa-police-to-tap-young-minds-for-ai-prototypes-to-improve-investigations/articleshow/123792603.cms",
             "urlToImage": "https://static.toiimg.com/thumb/msid-123792668,width-1070,height-580,imgsize-163618,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
             "publishedAt": "2025-09-09T18:12:00Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Mistral Emerges as Last, Best Hope for European AI Contender",
-            "url": "https://www.bloomberg.com/news/articles/2025-09-09/mistral-emerges-as-last-best-hope-for-european-ai-contender",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4Zr7L9n0MUA/v0/1200x800.jpg",
-            "publishedAt": "2025-09-09T17:48:18Z"
-        },
-        {
-            "source": {
-                "id": "a1dd1cfddd85ce2d4ada87bc9f6a9d43",
-                "name": "Belfast Telegraph",
-                "url": "https://www.belfasttelegraph.co.uk",
-                "country": "gb"
-            },
-            "title": "UK to crack down on networks profiting from online child sex abuse",
-            "url": "https://www.belfasttelegraph.co.uk/news/uk/uk-to-crack-down-on-networks-profiting-from-online-child-sex-abuse/a263876598.html",
-            "urlToImage": "https://focus.belfasttelegraph.co.uk/thumbor/3z4Y8QQAVjF312T4jrsTbcccYrM=/0x0:3699x2466/629x0/prod-mh-ireland/b2f53171-3f08-4049-882e-31356cffebc2/1b860dfc-6521-40ce-86fc-cf653b5f6c61/2.81087462.jpg",
-            "publishedAt": "2025-09-09T17:40:14Z"
-        },
-        {
-            "source": {
-                "id": "a1dd1cfddd85ce2d4ada87bc9f6a9d43",
-                "name": "Belfast Telegraph",
-                "url": "https://www.belfasttelegraph.co.uk",
-                "country": "gb"
-            },
-            "title": "Tory MP accuses Labour backbenchers of using ChatGPT to write speeches",
-            "url": "https://www.belfasttelegraph.co.uk/news/uk/tory-mp-accuses-labour-backbenchers-of-using-chatgpt-to-write-speeches/a1361630694.html",
-            "urlToImage": "https://focus.belfasttelegraph.co.uk/thumbor/PyGgyaPcqPeJ0fbgPZv576CXoTg=/629x460/smart/prod-mh-ireland/88988b65-2a45-4265-99a3-a47fc816321b/688cca52-be24-40d4-8703-635a07a813cc/2.80750803.jpg",
-            "publishedAt": "2025-09-09T17:35:12Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "First global medical AI foundation model drives 100-country research collaboration",
-            "url": "https://medicalxpress.com/news/2025-09-global-medical-ai-foundation-country.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/nus-co-leads-push-to-b.jpg",
-            "publishedAt": "2025-09-09T17:16:04Z"
-        },
-        {
-            "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
-                "country": "in"
-            },
-            "title": "Nvidia Unveils New Chip System For AI Video, Software Creation",
-            "url": "https://www.ndtvprofit.com/technology/nvidia-unveils-new-chip-system-for-ai-video-software-creation",
-            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-09-09%2Fisde0ypf%2F439498162.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
-            "publishedAt": "2025-09-09T17:15:01Z"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            },
-            "title": "This cybersecurity stock reporting after the bell is showing good price action into report",
-            "url": "https://www.cnbc.com/2025/09/09/this-cybersecurity-stock-reporting-after-the-bell-is-showing-good-price-action-into-report.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107406479-17140670682024-04-25t131304z_430915483_rc2od7auvqaj_rtrmadp_0_rubrik-ipo.jpeg?v=1714067179&w=1920&h=1080",
-            "publishedAt": "2025-09-09T17:10:50Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Anthropic's $1.5 billion copyright settlement faces judge's scrutiny",
-            "url": "https://www.reuters.com/legal/government/anthropics-15-billion-copyright-settlement-faces-judges-scrutiny-2025-09-09/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/G7IUYWWX75PXTJCVXMKMECAIQ4.jpg?auth=b3acbcf92f3b3c380402989132207d776d39cab0d1873fb414c0e53dd9b702e1&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-09-09T17:06:05Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Nvidia unveils AI chips for video, software generation",
-            "url": "https://www.reuters.com/business/nvidia-unveils-ai-chips-video-software-generation-2025-09-09/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/U3U6ETLDEZJUPMDXHRSTMSLTLE.jpg?auth=72de864ac0aaa254564cfa5a706d433608d6d52c81655f69bc6aa30621af4f62&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-09-09T16:58:34Z"
-        },
-        {
-            "source": {
-                "id": "09131c39169c9c96230862dc4c1fa727",
-                "name": "CNA",
-                "url": "https://www.channelnewsasia.com",
-                "country": "sg"
-            },
-            "title": "Exercise Forging Sabre: Advanced digital tools, drones to feature in SAF military drill in US",
-            "url": "https://www.channelnewsasia.com/watch/exercise-forging-sabre-advanced-digital-tools-drones-feature-in-saf-military-drill-in-us-5340421",
-            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--Tu9_LkjK--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2025/09/09/1757430133-image.jpg?itok=nsX6AOY5",
-            "publishedAt": "2025-09-09T16:50:57Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Umesh Kumar: AI in Clinical Development - Transforming Research with Intelligence",
-            "url": "https://techbullion.com/umesh-kumar-ai-in-clinical-development-transforming-research-with-intelligence/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/IMG_2021-1000x600.jpeg",
-            "publishedAt": "2025-09-09T16:46:28Z"
         }
     ]
 }
