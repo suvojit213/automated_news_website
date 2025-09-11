@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2025-09-11T22:13:48.496783Z",
+    "lastUpdatedAt": "2025-09-11T23:14:04.575168Z",
     "articles": [
+        {
+            "source": {
+                "id": "5b07f2eba74fc799fd5d1ee46c5bafc3",
+                "name": "Newsweek",
+                "url": "https://www.newsweek.com",
+                "country": "us"
+            },
+            "title": "Millions of Students To Have Safer Rides to School With New AI Tech",
+            "url": "https://www.newsweek.com/millions-students-have-safer-rides-school-new-ai-tech-2127060",
+            "urlToImage": "https://d.newsweek.com/en/full/2718937/first-student-samsara-technology.png",
+            "publishedAt": "2025-09-11T11:00:01Z"
+        },
+        {
+            "source": {
+                "id": "5ac5f32ba74846cef441099f666f2d98",
+                "name": "Fast Company",
+                "url": "https://www.fastcompany.com",
+                "country": "us"
+            },
+            "title": "Research shows humans are far superior to AI on this business task",
+            "url": "https://www.fastcompany.com/91402088/research-shows-humans-are-far-superior-to-ai-artificial-intelligence-on-this-business-task",
+            "urlToImage": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2025/09/p-1-91402088-Research-shows-humans-are-far-superior-to-AI-on-this-business-task.jpg",
+            "publishedAt": "2025-09-11T11:00:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Anosh Ahmed, CEO of PFOAA, Presents New Industry Survey Revealing AI Adoption to Double in Financial Services by 2026",
+            "url": "https://www.manilatimes.net/2025/09/11/tmt-newswire/globenewswire/anosh-ahmed-ceo-of-pfoaa-presents-new-industry-survey-revealing-ai-adoption-to-double-in-financial-services-by-2026/2182807",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/09/11/744460.jpg",
+            "publishedAt": "2025-09-11T10:45:53Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "What's viral Nano Banana’ AI trend? Check how to create 3D image for free in 7 easy steps",
+            "url": "https://economictimes.indiatimes.com/news/new-updates/whats-viral-nano-banana-ai-trend-check-how-to-create-3d-image-for-free-in-7-easy-steps/articleshow/123828561.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-123829257,width-1200,height-630,imgsize-1487796,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-09-11T10:43:00Z"
+        },
+        {
+            "source": {
+                "id": "a6d401909ca644c4ffb332486c9cfaea",
+                "name": "Seeking Alpha",
+                "url": "https://seekingalpha.com",
+                "country": "us"
+            },
+            "title": "AI-simulated Fed meeting shows political pressure leads to doves and dissent",
+            "url": "https://seekingalpha.com/news/4494013-ai-simulated-fed-meeting-shows-political-pressure-leads-to-doves-and-dissent",
+            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1703718027/image_1703718027.jpg?io=getty-c-w750",
+            "publishedAt": "2025-09-11T10:42:51Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "At Kole Royale, Kole Samman Says AI Isn’t Just a Tool It’s the Backbone",
+            "url": "https://techbullion.com/at-kole-royale-kole-samman-says-ai-isnt-just-a-tool-its-the-backbone/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/Screenshot-2025-09-11-151257.png",
+            "publishedAt": "2025-09-11T10:13:47Z"
+        },
         {
             "source": {
                 "id": "d6397b77175680e2678c0d60edcee7af",
@@ -516,6 +588,69 @@
             "url": "https://www.globenewswire.com/news-release/2025/09/11/3148945/0/en/Machine-Learning-Engineering-Interview-Prep-Course-2025-Featuring-FAANG-Instructors-and-Live-Mock-Interviews.html",
             "urlToImage": "https://s.yimg.com/ny/api/res/1.2/VanRxI6jLVMP8AGiwVB3ag--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTMzNA--/https://media.zenfs.com/en/globenewswire.com/4953354188a217f7edf8abd45320db27",
             "publishedAt": "2025-09-11T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "computerweekly"
+            },
+            "title": "Nokia ups the ante in AI-optimised datacentre networking",
+            "url": "https://www.computerweekly.com/news/366630503/Nokia-ups-the-ante-in-AI-optimised-datacentre-networking",
+            "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/HeroImages/NBN-Nokia-cables-hardware-PR-hero_searchsitetablet_520X173.jpg",
+            "publishedAt": "2025-09-11 11:09:00"
+        },
+        {
+            "source": {
+                "name": "insider"
+            },
+            "title": "Sam Altman predicts AI will kill customer service jobs first — and speed up a 'historical' rate of job turnover",
+            "url": "https://www.businessinsider.com/sam-altman-says-ai-will-speed-up-job-turnover-hit-service-roles-first-2025-9",
+            "urlToImage": "https://i.insider.com/68c297ad57d362d375e7f36d?width=700",
+            "publishedAt": "2025-09-11 11:01:20"
+        },
+        {
+            "source": {
+                "name": "wired"
+            },
+            "title": "Status Audio Pro X Review: The Best High-End Earbuds?",
+            "url": "https://www.wired.com/review/status-audio-pro-x/",
+            "urlToImage": "https://media.wired.com/photos/68c22d453c869b3df397f9e2/master/w_120,c_limit/Status%20Audio's%20Pro%20X%20Are%20Excellent%20Multi-Driver%20Wireless%20Earbuds.png",
+            "publishedAt": "2025-09-11 11:00:00"
+        },
+        {
+            "source": {
+                "name": "businesstoday"
+            },
+            "title": "Acer Nitro V 15 gaming laptop launched with Nvidia 50 series GPU, AI features at ₹89,999",
+            "url": "https://www.businesstoday.in/technology/news/story/acer-nitro-v-15-gaming-laptop-launched-with-nvidia-50-series-gpu-ai-features-at-rs89999-493611-2025-09-11",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202509/68c2aaf7b5775-acer-nitro-v-15-gaming-laptop-launched-115649916-16x9.jpeg",
+            "publishedAt": "2025-09-11 10:57:05"
+        },
+        {
+            "source": {
+                "name": "pcworld_us"
+            },
+            "title": "MSI Pro MP165 E6 review: A portable monitor you can slap on anything",
+            "url": "https://www.pcworld.com/article/2900743/msi-pro-mp165-e6-review.html",
+            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/09/msi-pro-mp165-e6-1.jpg?quality=50&strip=all",
+            "publishedAt": "2025-09-11 10:30:00"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "Nvidia RTX 50 SUPER GPUs may not arrive until 2026 after all — what we know",
+            "url": "https://www.tomsguide.com/computing/gpus/nvidia-rtx-50-super-gpus-may-not-arrive-until-2026-after-all-what-we-know",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/ZeHAezdrSFQ9busZoowYUH-1280-80.jpg",
+            "publishedAt": "2025-09-11 10:16:57"
+        },
+        {
+            "source": {
+                "name": "fortune"
+            },
+            "title": "Is there a crypto bubble? Yes, says CEO of $15 billion exchange Kraken",
+            "url": "https://fortune.com/2025/09/11/kraken-arjun-sethi-digital-currency-group-barry-silbert-fortune-brainstorm-tech/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/54777215923_573573f75d_o-e1757562185518.jpg?w=2048",
+            "publishedAt": "2025-09-11 10:13:27"
         },
         {
             "source": {
@@ -3099,123 +3234,6 @@
             "url": "https://www.cnet.com/tech/mobile/everything-announced-at-apple-event-2025-iphone-air-iphone-17-airpods-pro-3-and-new-apple-watches/",
             "urlToImage": "https://www.cnet.com/a/img/resize/6e3e0b07aea57f052655962349aa6d3ffecac6f9/hub/2025/09/09/26f5fbfe-ffa2-4236-abf4-96a7fa6a735b/everything-annouced-appleevent25-cnet.png?auto=webp&fit=crop&height=675&width=1200",
             "publishedAt": "2025-09-10 19:03:21"
-        },
-        {
-            "source": {
-                "name": "esecurityplanet"
-            },
-            "title": "New Claude Feature Turns Into a Hacker’s Playground",
-            "url": "https://www.esecurityplanet.com/news/claude-ai-file-creation-security-risks/",
-            "urlToImage": "https://assets.esecurityplanet.com/uploads/2025/09/Untitled-design-71.png",
-            "publishedAt": "2025-09-10 18:37:23"
-        },
-        {
-            "source": {
-                "name": "theverge"
-            },
-            "title": "The best iPad to buy",
-            "url": "https://www.theverge.com/23639378/best-ipad-apple-buy-model-price",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2024/04/257557_ipad_buying_guide_CVirginia.jpg?crop=0%2C10.732984293194%2C100%2C78.534031413613&quality=90&strip=all&w=1200",
-            "publishedAt": "2025-09-10 18:32:51"
-        },
-        {
-            "source": {
-                "name": "wired"
-            },
-            "title": "SpaceX Targets an Orbital Starship Flight with a Next-Gen Vehicle in 2026",
-            "url": "https://www.wired.com/story/spacex-targets-an-orbital-starship-flight-with-a-next-gen-vehicle-in-2026/",
-            "urlToImage": "https://media.wired.com/photos/68c1a79782c1abee12931e76/3:4/w_120,c_limit/starship-1536x864.jpg",
-            "publishedAt": "2025-09-10 18:30:00"
-        },
-        {
-            "source": {
-                "name": "pcworld_us"
-            },
-            "title": "Best free password managers 2025: Online security doesn’t have to cost a thing",
-            "url": "https://www.pcworld.com/article/394076/best-free-password-managers.html",
-            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/09/dan-nelson-ah-heguoe9k-unsplash-rsz-100877558-orig.jpg?quality=50&strip=all",
-            "publishedAt": "2025-09-10 18:30:00"
-        },
-        {
-            "source": {
-                "name": "siliconangle"
-            },
-            "title": "CuspAI raises $100M to build AI ‘search engine’ to transform materials science",
-            "url": "https://siliconangle.com/2025/09/10/cuspai-raises-100m-build-ai-search-engine-transform-materials-science/",
-            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/06/ai-generated-8353545_1280.jpg",
-            "publishedAt": "2025-09-10 18:25:48"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "AI’s Explosive Growth Reshapes 2025 Tech Sector Innovations",
-            "url": "https://www.webpronews.com/ais-explosive-growth-reshapes-2025-tech-sector-innovations/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-01861b8f-4b03-47b0-9ea7-9032d418f310.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-09-10 18:20:37"
-        },
-        {
-            "source": {
-                "name": "bgr_com"
-            },
-            "title": "What Does A Lightning Bolt On USB Port Mean?",
-            "url": "https://www.bgr.com/1963095/lightning-bolt-usb-port-meaning-explained/",
-            "urlToImage": "https://www.bgr.com/img/gallery/what-does-a-lightning-bolt-on-usb-port-mean/l-intro-1757425790.jpg",
-            "publishedAt": "2025-09-10 18:17:00"
-        },
-        {
-            "source": {
-                "name": "freepressjournal"
-            },
-            "title": "Mumbai: SIWS College In Wadala To Host International Conference On IPR In The Age Of AI",
-            "url": "https://www.freepressjournal.in/mumbai/mumbai-siws-college-in-wadala-to-host-international-conference-on-ipr-in-the-age-of-ai",
-            "urlToImage": "https://media.assettype.com/freepressjournal/2025-06-12/98hvv1xr/AI-AI-AI-AI.jpg?width=1200",
-            "publishedAt": "2025-09-10 18:05:11"
-        },
-        {
-            "source": {
-                "name": "bitcoinworld"
-            },
-            "title": "Anthropic Outage: Critical Service Disruption Impacts Claude AI Users",
-            "url": "https://bitcoinworld.co.in/anthropic-outage-claude-impact/",
-            "urlToImage": "https://bitcoinworld.co.in/wp-content/uploads/anthropic-outage-claude-impact.jpg",
-            "publishedAt": "2025-09-10 18:00:12"
-        },
-        {
-            "source": {
-                "name": "newscientist"
-            },
-            "title": "Even in our digital world, materials still matter",
-            "url": "https://www.newscientist.com/article/mg26735602-700-even-in-our-digital-world-materials-still-matter/",
-            "urlToImage": "https://images.newscientist.com/wp-content/uploads/2025/09/09163814/SEI_265244501.jpg",
-            "publishedAt": "2025-09-10 18:00:00"
-        },
-        {
-            "source": {
-                "name": "cadillacnews"
-            },
-            "title": "AP Technology SummaryBrief at 1:59 p.m. EDT",
-            "url": "https://www.cadillacnews.com/ap/business/ap-technology-summarybrief-at-1-59-p-m-edt/article_eaafc6c9-62f7-5305-8b21-49de052b3a00.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/cadillacnews.com/content/tncms/custom/image/2f32a658-47ab-11e7-abb1-ef25bc001cf2.png?resize=600%2C99",
-            "publishedAt": "2025-09-10 17:59:40"
-        },
-        {
-            "source": {
-                "name": "insider"
-            },
-            "title": "How to preorder the Apple Watch Ultra 3",
-            "url": "https://www.businessinsider.com/guides/tech/how-to-preorder-apple-watch-ultra-3",
-            "urlToImage": "https://i.insider.com/68c190f832af4d666ef79e3f?width=700",
-            "publishedAt": "2025-09-10 17:52:12"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Google Cloud Launches GKE Tools for 30% Faster AI Inference",
-            "url": "https://www.webpronews.com/google-cloud-launches-gke-tools-for-30-faster-ai-inference/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-a5bf474e-1d83-40fc-ac34-7fe35158295b.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-09-10 17:51:33"
         }
     ]
 }
