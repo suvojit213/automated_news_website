@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-09-12T10:16:05.724609Z",
+    "lastUpdatedAt": "2025-09-12T11:12:07.909266Z",
     "articles": [
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Hong Kong Stock ETFs Get Record China Money on AI, Biotech Craze",
+            "url": "https://www.bloomberg.com/news/articles/2025-09-11/hong-kong-stock-etfs-get-record-china-money-on-ai-biotech-craze",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iffIxSEVIHPI/v0/1200x785.jpg",
+            "publishedAt": "2025-09-11T23:00:00Z"
+        },
+        {
+            "source": {
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
+                "country": "in"
+            },
+            "title": "Delhi high court bars use of Aishwarya Rai’s name, image and voice without consent",
+            "url": "https://www.hindustantimes.com/india-news/hc-bars-use-of-aishwarya-s-name-image-and-voice-without-consent-101757616518391.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/09/11/1600x900/Aishwarya_Rai_Bachchan_1757414551526_1757414551759_1757626711291.jpg",
+            "publishedAt": "2025-09-11T22:30:07Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Daystar University and MindHYVE.ai Launch AI-Powered Higher Education Transformation in Kenya",
+            "url": "https://www.manilatimes.net/2025/09/12/tmt-newswire/pr-newswire/daystar-university-and-mindhyveai-launch-ai-powered-higher-education-transformation-in-kenya/2183230",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/09/12/745258.jpg",
+            "publishedAt": "2025-09-11T22:28:18Z"
+        },
         {
             "source": {
                 "id": "3989f52bbec2d3be8442e2851b59e79e",
@@ -1383,6 +1419,33 @@
         },
         {
             "source": {
+                "name": "hackaday"
+            },
+            "title": "6502 Puts on an SDR Hat",
+            "url": "https://hackaday.com/2025/09/11/6502-puts-on-an-sdr-hat/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2025/09/6502-sdr-main.jpeg",
+            "publishedAt": "2025-09-11 23:00:39"
+        },
+        {
+            "source": {
+                "name": "thestreet"
+            },
+            "title": "Meta Platforms CEO hypes Superintelligence AI while others see doom",
+            "url": "https://www.thestreet.com/technology/meta-platforms-ceo-hypes-superintelligence-ai-while-others-see-doom",
+            "urlToImage": "https://www.thestreet.com/.image/c_fit,h_800,w_1200/MjEyMzA3ODY5ODkzMTQyMDI1/key-speakers-at-the-meta-connect-event.jpg",
+            "publishedAt": "2025-09-11 22:37:00"
+        },
+        {
+            "source": {
+                "name": "arstechnica"
+            },
+            "title": "OpenAI and Microsoft sign preliminary deal to revise partnership terms",
+            "url": "https://arstechnica.com/ai/2025/09/openai-and-microsoft-sign-preliminary-deal-to-revise-partnership-terms/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/openai_microsoft_3-1152x648.jpg",
+            "publishedAt": "2025-09-11 22:27:53"
+        },
+        {
+            "source": {
                 "name": "economictimes_indiatimes"
             },
             "title": "Databricks AI chief to exit, launch a new computer startup",
@@ -1415,6 +1478,60 @@
             "title": "Position2 Adds Industry Veterans to Board to Accelerate AI-Driven Marketing",
             "url": "https://www.wvnews.com/news/around_the_web/partners/pr_newswire/subject/personnel_announcements/position-adds-industry-veterans-to-board-to-accelerate-ai-driven-marketing/article_03c3d744-724a-5243-940e-d2c58909195d.html",
             "urlToImage": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/assets/v3/editorial/a/6a/a6a658ba-7132-569b-bed9-638d4f56ad32/68c347084b193.image.jpg?resize=300%2C122",
+            "publishedAt": "2025-09-11 21:47:00"
+        },
+        {
+            "source": {
+                "name": "avpress"
+            },
+            "title": "Position2 Adds Industry Veterans to Board to Accelerate AI-Driven Marketing",
+            "url": "https://www.avpress.com/online_features/press_releases/position-adds-industry-veterans-to-board-to-accelerate-ai-driven-marketing/article_21b342cc-8e17-54ce-a094-8df63cb27ade.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/avpress.com/content/tncms/assets/v3/editorial/b/c7/bc766d32-85a1-54f8-9d55-ad1672fe2228/68c3e8a9c2f8c.image.jpg?resize=300%2C122",
+            "publishedAt": "2025-09-11 21:47:00"
+        },
+        {
+            "source": {
+                "name": "missoulian"
+            },
+            "title": "Position2 Adds Industry Veterans to Board to Accelerate AI-Driven Marketing",
+            "url": "https://missoulian.com/online_features/press_releases/article_bc1f01bb-dfd1-558c-8372-fd0a0a2a9d93.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/missoulian.com/content/tncms/assets/v3/editorial/c/4a/c4a0f0de-b8b4-5e70-ae34-0f048df09997/68c3daff03a8d.image.jpg?resize=300%2C122",
+            "publishedAt": "2025-09-11 21:47:00"
+        },
+        {
+            "source": {
+                "name": "davisenterprise"
+            },
+            "title": "Position2 Adds Industry Veterans to Board to Accelerate AI-Driven Marketing",
+            "url": "https://www.davisenterprise.com/online_features/press_releases/position-adds-industry-veterans-to-board-to-accelerate-ai-driven-marketing/article_e552d6db-92c7-50f0-b882-3c8e96d6ade6.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/davisenterprise.com/content/tncms/assets/v3/editorial/7/c6/7c645ec3-f059-5b2e-ad85-4b4e22c7373b/68c3ea0b67c0f.image.jpg?resize=300%2C122",
+            "publishedAt": "2025-09-11 21:47:00"
+        },
+        {
+            "source": {
+                "name": "rdrnews"
+            },
+            "title": "Position2 Adds Industry Veterans to Board to Accelerate AI-Driven Marketing",
+            "url": "https://www.rdrnews.com/online_features/press_releases/position-adds-industry-veterans-to-board-to-accelerate-ai-driven-marketing/article_d4a3158e-fbbf-5fc7-a391-e81031386ed9.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/rdrnews.com/content/tncms/assets/v3/editorial/0/b5/0b5818ee-c550-53e1-af12-1ba914c377f0/68c3dab9be978.image.jpg?resize=300%2C122",
+            "publishedAt": "2025-09-11 21:47:00"
+        },
+        {
+            "source": {
+                "name": "dailyrepublic"
+            },
+            "title": "Position2 Adds Industry Veterans to Board to Accelerate AI-Driven Marketing",
+            "url": "https://www.dailyrepublic.com/online_features/press_releases/position-adds-industry-veterans-to-board-to-accelerate-ai-driven-marketing/article_01d89625-c31d-5d3f-b59e-15469db53190.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/dailyrepublic.com/content/tncms/assets/v3/editorial/8/17/817c8c85-741b-57ff-aa0f-e9a97b613690/68c3e89e504f2.image.jpg?resize=300%2C122",
+            "publishedAt": "2025-09-11 21:47:00"
+        },
+        {
+            "source": {
+                "name": "magicvalley"
+            },
+            "title": "Position2 Adds Industry Veterans to Board to Accelerate AI-Driven Marketing",
+            "url": "https://magicvalley.com/online_features/press_releases/article_dbacbbd4-245b-5ece-b355-310ea441909f.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/magicvalley.com/content/tncms/assets/v3/editorial/c/c9/cc9598a3-edf1-5f54-a2c3-2b24e49bad64/68c3db67c0e97.image.jpg?crop=1747%2C917%2C257%2C0&order=crop%2Cresize&resize=1200%2C630",
             "publishedAt": "2025-09-11 21:47:00"
         },
         {
@@ -2955,150 +3072,6 @@
             "url": "https://www.indiatoday.in/world/story/us-senator-urges-probing-microsoft-over-cybersecurity-negligence-ransomware-risks-glbs-2785410-2025-09-11",
             "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202509/microsoft-101441488-16x9_0.png?VersionId=Kvfz.S4wQ2P8dBYP.2iiFyFdFPUXBbXR",
             "publishedAt": "2025-09-10T22:20:09Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "CYSEC GLOBAL Returns with Its 17th Global Edition of CYSEC UAE to Strengthen the Nation’s Cyber Resilience",
-            "url": "https://techbullion.com/cysec-global-returns-with-its-17th-global-edition-of-cysec-uae-to-strengthen-the-nations-cyber-resilience/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/cyber-1000x600.png",
-            "publishedAt": "2025-09-10T21:18:48Z"
-        },
-        {
-            "source": {
-                "id": "2f5884e252590f739df55c0e7db375df",
-                "name": "WJLA",
-                "url": "https://wjla.com",
-                "country": "us"
-            },
-            "title": "Lawmakers weigh AI regulation as White House tries to propel industry forward",
-            "url": "https://wjla.com/news/connect-to-congress/lawmakers-weigh-ai-regulation-as-white-house-tries-to-propel-industry-forward-artificial-intelligence-data-privacy-ai-action-plan",
-            "urlToImage": "https://wjla.com/resources/media2/16x9/3840/986/0x200/90/a1381abe-c07e-471f-9ebf-9d19de2dc00c-AP25204775894895.jpg",
-            "publishedAt": "2025-09-10T20:55:07Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "AI model helps identify therapeutic antibodies to boost pandemic preparedness",
-            "url": "https://medicalxpress.com/news/2025-09-ai-therapeutic-antibodies-boost-pandemic.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/ai-model-helps-boost-p-1.jpg",
-            "publishedAt": "2025-09-10T20:46:04Z"
-        },
-        {
-            "source": {
-                "id": "1b697445987e8a33f6c82842e17d60d9",
-                "name": "Bnn Bloomberg",
-                "url": "https://www.bnnbloomberg.ca",
-                "country": "ca"
-            },
-            "title": "U.S. stocks inch to more records as inflation slows",
-            "url": "https://www.bnnbloomberg.ca/investing/2025/09/10/stocks-head-for-more-records-after-an-encouraging-report-on-inflation/",
-            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/BXWHPASBPFCJJFZ5BPV5P2B55E.jpg?smart=true&auth=70ec8d0630feb0c1ef8b2e1c40f30e72bfeb4365e65bc6aadc76da0a869757a9&width=1200&height=630",
-            "publishedAt": "2025-09-10T20:26:42Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "6 Things About Artificial Intelligence People Get Wrong",
-            "url": "https://techbullion.com/6-things-about-artificial-intelligence-people-get-wrong/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/pexels-tara-winstead-8849295.jpg",
-            "publishedAt": "2025-09-10T20:01:10Z"
-        },
-        {
-            "source": {
-                "id": "c24832368cd2d9132598ad4bef08e0ab",
-                "name": "Investopedia",
-                "url": "https://www.investopedia.com",
-                "country": "us"
-            },
-            "title": "The AI Trade Picks Up Steam After Oracle's 'Truly Historic' Quarter",
-            "url": "https://www.investopedia.com/ai-stocks-soar-on-oracle-truly-historic-quarter-11807386",
-            "urlToImage": "https://www.investopedia.com/thmb/c0lkZnjGwrfCyJdl7QKBTKZHEzM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2223939863-8b06a985d41e4467beb64cfdf6e0d65b.jpg",
-            "publishedAt": "2025-09-10T19:56:32Z"
-        },
-        {
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            },
-            "title": "OpenAI backs AI-animated film for Cannes debut",
-            "url": "https://japantoday.com/category/tech/openai-backs-ai-animated-film-for-cannes-debut",
-            "urlToImage": "https://media.japantoday.com/img/store/d8/bc/3f49c7eacc9861ff36bb7487266ae6eb5e5f/70df185c1887bc46b5c45b6cc11fe4b093e4528e/_w1700.jpeg",
-            "publishedAt": "2025-09-10T19:51:00Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "Hochul Vies to Make New York an AI Hub With Energy Push",
-            "url": "https://www.livemint.com/companies/news/hochul-vies-to-make-new-york-an-ai-hub-with-energy-push-11757533671054.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/company_4_1733465206851_1733465215415.png",
-            "publishedAt": "2025-09-10T19:47:50Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "Equipping artificial intelligence with the lens of evolution",
-            "url": "https://phys.org/news/2025-09-equipping-artificial-intelligence-lens-evolution.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/equipping-artificial-i.jpg",
-            "publishedAt": "2025-09-10T19:10:01Z"
-        },
-        {
-            "source": {
-                "id": "3989f52bbec2d3be8442e2851b59e79e",
-                "name": "CBS Sports",
-                "url": "https://www.cbssports.com",
-                "country": "us"
-            },
-            "title": "Commanders vs. Packers NFL props, SportsLine Machine Learning Model AI picks: Jordan Love Over 223.5 passing",
-            "url": "https://www.cbssports.com/nfl/news/commanders-vs-packers-nfl-props-sportsline-machine-learning-model-ai-picks-jordan-love-over-223-5-passing/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/09/06/61125880-8cc3-4bb3-b630-e6e80ad7fbff/thumbnail/1200x675/3243c9cd2bfb59f83aa9e02354523246/jordan-love-packers-imagn-images.jpg",
-            "publishedAt": "2025-09-10T18:34:00Z"
-        },
-        {
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            },
-            "title": "271 foreign students take admission to professional courses in state, institutions from Pune most popular",
-            "url": "https://indianexpress.com/article/cities/mumbai/271-foreign-students-take-admission-to-professional-courses-in-state-institutions-from-pune-most-popular-10242597/",
-            "urlToImage": "https://images.indianexpress.com/2025/09/Exam-1.jpg",
-            "publishedAt": "2025-09-10T18:31:52Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "ALL4 Mining Launches AI-Powered Mobile XRP Cloud Mining Platform Powered by Renewable Energy",
-            "url": "https://techbullion.com/all4-mining-launches-ai-powered-mobile-xrp-cloud-mining-platform-powered-by-renewable-energy/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/e18d83afd6c517d4c43675b19ff6b5fdf2d73ce8-1000x600.jpg",
-            "publishedAt": "2025-09-10T18:24:37Z"
         }
     ]
 }
