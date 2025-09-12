@@ -1,6 +1,102 @@
 {
-    "lastUpdatedAt": "2025-09-12T19:11:21.647367Z",
+    "lastUpdatedAt": "2025-09-12T20:15:59.802244Z",
     "articles": [
+        {
+            "source": {
+                "id": "ca84296ef941bfa461f4239a2290cb99",
+                "name": "News18",
+                "url": "https://www.news18.com",
+                "country": "in"
+            },
+            "title": "INTOSAI adopts cybersecurity, remote audits work plan for 2026-28",
+            "url": "https://www.news18.com/agency-feeds/intosai-adopts-cybersecurity-remote-audits-work-plan-for-2026-28-9567488.html",
+            "urlToImage": "https://images.news18.com/ibnlive/uploads/2025/07/News18_Business_Section_Default_Image_1600x900-2025-07-454f4d093355309283e1b9f3be42698a-16x9.jpg",
+            "publishedAt": "2025-09-12T08:15:07Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "INTOSAI adopts cybersecurity, remote audits work plan for 2026-28",
+            "url": "https://www.livemint.com/focus/intosai-adopts-cybersecurity-remote-audits-work-plan-for-202628-11757664646735.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/10/1600x900/news2_1733829221757_1733829242164.jpg",
+            "publishedAt": "2025-09-12T08:10:46Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "INTOSAI's 2026-28 Work Plan: Pioneering Cybersecurity and IoT Audits",
+            "url": "https://www.devdiscourse.com/article/technology/3625272-intosais-2026-28-work-plan-pioneering-cybersecurity-and-iot-audits",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/12_09_2025_08_10_08_8925344.png?width=920&format=jpeg",
+            "publishedAt": "2025-09-12T08:10:13Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "AI-powered digital inspections: How connected worker platforms transform compliance in manufacturing",
+            "url": "https://techbullion.com/ai-powered-digital-inspections-how-connected-worker-platforms-transform-compliance-in-manufacturing/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/BL-Discovering-the-Future-of-Mining-With-an-AI-Powered-Connected-Worker-Platform-20240624-1.webp",
+            "publishedAt": "2025-09-12T08:02:44Z"
+        },
+        {
+            "source": {
+                "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
+                "name": "BayToday",
+                "url": "https://www.baytoday.ca",
+                "country": "ca"
+            },
+            "title": "Some public service jobs will be cut as Ottawa adopts AI: chief data officer",
+            "url": "https://www.baytoday.ca/national-news/some-public-service-jobs-will-be-cut-as-ottawa-adopts-ai-chief-data-officer-11202118",
+            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/09/f2ba05687d4286d62b345b3a6513cbc735fd1c8f91466dfe828711db377460b6.jpg;w=1200;h=800;mode=crop",
+            "publishedAt": "2025-09-12T08:00:13Z"
+        },
+        {
+            "source": {
+                "id": "614a4b10b69af6cc657068ec6a59eaff",
+                "name": "Lawfare",
+                "url": "https://www.lawfaremedia.org",
+                "country": "us"
+            },
+            "title": "Exploiting Authorization Sprawl Is the New Black",
+            "url": "https://www.lawfaremedia.org/article/exploiting-authorization-sprawl-is-the-new-black",
+            "urlToImage": "https://www.lawfaremedia.org/assets/icons/favicon-32x32.png",
+            "publishedAt": "2025-09-12T08:00:00Z"
+        },
+        {
+            "source": {
+                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+                "name": "NDTV.com",
+                "url": "https://www.ndtv.com",
+                "country": "in"
+            },
+            "title": "Meet Diella, World's 1st AI-Made 'Minister' Tasked To Curb Albania Corruption",
+            "url": "https://www.ndtv.com/world-news/meet-diella-worlds-1st-ai-made-minister-tasked-to-curb-albania-corruption-9263791",
+            "urlToImage": "https://c.ndtvimg.com/2025-09/a9a09r3o_ai-minister-diella_625x300_12_September_25.jpeg",
+            "publishedAt": "2025-09-12T07:54:14Z"
+        },
+        {
+            "source": {
+                "id": "e479ce8332aab31d8bac6ba9584cedbb",
+                "name": "Republic World",
+                "url": "https://www.republicworld.com",
+                "country": "in"
+            },
+            "title": "Semiconductor Market To Grow From USD 627 Billion In 2024 To USD 1,030 Billion By 2030: PwC",
+            "url": "https://www.republicworld.com/business/semiconductor-market-to-grow-from-usd-627-billion-in-2024-to-usd-1030-billion-by-2030-pwc",
+            "urlToImage": "https://img.republicworld.com/all_images/india-s-homegrown-d2m-chip-overcomes-major-development-hurdles-deployment-soon-report-1746513005714-16_9.webp",
+            "publishedAt": "2025-09-12T07:18:01Z"
+        },
         {
             "source": {
                 "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
@@ -456,6 +552,96 @@
             "url": "https://www.globenewswire.com/news-release/2025/09/12/3149342/0/en/Lynch-Carpenter-Investigates-Claims-in-Fairmont-Federal-Credit-Union-Data-Breach.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/c7859457-8a76-48a5-b4e7-d3be8aa7a7a7",
             "publishedAt": "2025-09-12T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "news24online"
+            },
+            "title": "Gemini Nano Banana AI 3D figurines: Step-by-step guide to create yours for free",
+            "url": "https://news24online.com/tech/google-gemini-nano-banana-ai-3d-figurines-viral-trend-step-by-step-guide-to-create-yours-for-free/631540/",
+            "urlToImage": "https://news24online.com/wp-content/uploads/2025/09/gemini-nano-banana-ai-3d-figurines_3e767b.jpg",
+            "publishedAt": "2025-09-12 08:08:34"
+        },
+        {
+            "source": {
+                "name": "timesnownews"
+            },
+            "title": "'Nano Banana' Trend Goes Viral: Why Is Internet So Obsessed?",
+            "url": "https://www.timesnownews.com/viral/nano-banana-trend-goes-viral-why-is-internet-so-obsessed-gemini-nano-banana-ai-3d-figurines-google-ai-photos-gemini-2-5-flash-image-article-152787468",
+            "urlToImage": "https://images.timesnownews.com/thumb/msid-152787570,thumbsize-63662,width-1280,height-720,resizemode-75/152787570.jpg",
+            "publishedAt": "2025-09-12 08:04:02"
+        },
+        {
+            "source": {
+                "name": "computerweekly"
+            },
+            "title": "How AI can help to optimise supply chains under pressure",
+            "url": "https://www.computerweekly.com/feature/How-AI-can-help-to-optimise-supply-chains-under-pressure",
+            "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero%20Images/container-ship-cargo-transport-logistics-PhotoGallery-adobe_searchsitetablet_520X173.jpg",
+            "publishedAt": "2025-09-12 08:00:00"
+        },
+        {
+            "source": {
+                "name": "macrumors"
+            },
+            "title": "iPhone 17 Models Launch on September 19 With These New Features",
+            "url": "https://www.macrumors.com/2025/09/12/iphone-17-models-launch-sept-19-new-features/",
+            "urlToImage": "https://images.macrumors.com/t/jLjY9hcH8I1odrQifU5YRIWGudI=/1600x/article-new/2025/09/iphone-17-lineup.jpg",
+            "publishedAt": "2025-09-12 07:58:06"
+        },
+        {
+            "source": {
+                "name": "zeenews"
+            },
+            "title": "What Is The 'Nano Banana' Trend? 5 Must-Try Viral Prompts On Google Gemini App",
+            "url": "https://zeenews.india.com/technology/what-is-the-nano-banana-trend-5-must-try-viral-prompts-on-google-gemini-app-2958828.html",
+            "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2025/09/12/1827181-image.jpg",
+            "publishedAt": "2025-09-12 07:56:00"
+        },
+        {
+            "source": {
+                "name": "computerweekly"
+            },
+            "title": "TechUK report on datacentre water usage habits criticised",
+            "url": "https://www.computerweekly.com/news/366630713/TechUK-report-on-datacentre-water-usage-habits-criticised",
+            "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/HeroImages/water-drop-ripples-willyam-adobe_searchsitetablet_520X173.jpg",
+            "publishedAt": "2025-09-12 07:45:00"
+        },
+        {
+            "source": {
+                "name": "techannouncer"
+            },
+            "title": "The Evolving Landscape of Content and Technology: Trends and Innovations",
+            "url": "https://techannouncer.com/the-evolving-landscape-of-content-and-technology-trends-and-innovations/",
+            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/09/fbebd7c2thumbnail-332x187.jpeg",
+            "publishedAt": "2025-09-12 07:42:09"
+        },
+        {
+            "source": {
+                "name": "toi"
+            },
+            "title": "DeepMind CEO Demis Hassabis: ‘AI could cut drug discovery from years to...’; how it is changing medicine worldwide",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/deepmind-ceo-demis-hassabis-ai-could-cut-drug-discovery-from-years-to-how-it-is-changing-medicine-worldwide/articleshow/123846367.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-123846661,imgsize-90990,width-400,resizemode-4/deepmind-ceo-demis-hassabis-ai-could-cut-drug-discovery-from-years-to-how-it-is-changing-medicine-worldwide.jpg",
+            "publishedAt": "2025-09-12 07:34:58"
+        },
+        {
+            "source": {
+                "name": "techannouncer"
+            },
+            "title": "Unlocking Growth: The Top 10 Fast Growing SaaS Companies of 2025",
+            "url": "https://techannouncer.com/unlocking-growth-the-top-10-fast-growing-saas-companies-of-2025/",
+            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/09/0795e6c7thumbnail-332x187.jpeg",
+            "publishedAt": "2025-09-12 07:31:12"
+        },
+        {
+            "source": {
+                "name": "techannouncer"
+            },
+            "title": "Navigating the Future: Essential AI Strategies for Business Leaders",
+            "url": "https://techannouncer.com/navigating-the-future-essential-ai-strategies-for-business-leaders/",
+            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/09/d8ed6265thumbnail-332x187.jpeg",
+            "publishedAt": "2025-09-12 07:29:09"
         },
         {
             "source": {
@@ -3018,168 +3204,6 @@
             "url": "https://www.postregister.com/businessreport/technology/pearl-launches-imagecheck-real-time-dental-x-ray-quality-assurance-ai-platform/article_1558f4f2-e2bd-5629-a03d-f17418220cb9.html",
             "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/assets/v3/editorial/8/bb/8bba8a2c-721f-5a38-b4eb-3dcef41db860/68c2e2c291587.image.jpg?resize=300%2C195",
             "publishedAt": "2025-09-11 14:46:26"
-        },
-        {
-            "source": {
-                "name": "insideevs"
-            },
-            "title": "Lyft's Robotaxi Era Has Finally Arrived",
-            "url": "https://insideevs.com/news/771853/lyft-robotaxi-race-toyota-maas/",
-            "urlToImage": "https://cdn.motor1.com/images/mgl/g4glvo/s1/lyft-may-mobility-cm-hero.jpg",
-            "publishedAt": "2025-09-11 14:35:18"
-        },
-        {
-            "source": {
-                "name": "digitaltrends"
-            },
-            "title": "Qualcomm QuickCharge 5+ pairs fast top-up with cooling and cost savings",
-            "url": "https://www.digitaltrends.com/phones/qualcomm-quickcharge-5-promises/",
-            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/09/quickcharge.jpg?p=1&resize=1200%2C630",
-            "publishedAt": "2025-09-11 14:30:47"
-        },
-        {
-            "source": {
-                "name": "xda_developers"
-            },
-            "title": "6 essential services to run on a cheap VPS for your home lab",
-            "url": "https://www.xda-developers.com/services-you-should-run-on-a-cheap-vps/",
-            "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/07/dell-poweredge-r210-ii-server-ram.jpg",
-            "publishedAt": "2025-09-11 14:30:19"
-        },
-        {
-            "source": {
-                "name": "deccanherald"
-            },
-            "title": "Netizens are going 'Nano' bananas over Google's latest gen AI image creator tool",
-            "url": "https://www.deccanherald.com/technology/artificial-intelligence/netizens-are-going-nano-bananas-over-googles-latest-gen-ai-image-creator-tool-3723368",
-            "urlToImage": "https://media.assettype.com/deccanherald%2F2025-09-11%2F7phq6kme%2FGoogle-Nano-Banana-AI-tool-feature-3.jpg?ar=40%3A21&auto=format%2Ccompress&mode=crop&ogImage=true&w=1200",
-            "publishedAt": "2025-09-11 14:15:07"
-        },
-        {
-            "source": {
-                "name": "fortune"
-            },
-            "title": "Changing face of America revealed by Census Bureau: White population dips to 56.3%, numbers of non-married grow",
-            "url": "https://fortune.com/2025/09/11/census-bureau-changing-face-of-america-white-married-population-falls/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/AP25253638284586-e1757599957513.jpg?w=2048",
-            "publishedAt": "2025-09-11 14:13:50"
-        },
-        {
-            "source": {
-                "name": "en_prnasisa"
-            },
-            "title": "Artificial Analysis Ranks Clarifai's gpt-oss-120b Model at Top for Performance and Cost-Efficiency",
-            "url": "https://en.prnasia.com/story/503222-0.shtml",
-            "urlToImage": "https://mma.prnasia.com/media2/2771096/Latency_vs_Output_Speed__10_Sep__25____1.jpg?p=medium600",
-            "publishedAt": "2025-09-11 14:00:00"
-        },
-        {
-            "source": {
-                "name": "wired"
-            },
-            "title": "Apple’s Big Bet to Eliminate the iPhone’s Most Targeted Vulnerabilities",
-            "url": "https://www.wired.com/story/apple-iphone-17-memory-integrity-enforcement/",
-            "urlToImage": "https://media.wired.com/photos/68c09a4280d4121aa5a6c04f/3:4/w_120,c_limit/spyware-apple-sec-2210115059.jpg",
-            "publishedAt": "2025-09-11 13:59:23"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "Norton VPN servers — all you need to know about the provider's network",
-            "url": "https://www.tomsguide.com/computing/vpns/norton-vpn-servers-all-you-need-to-know-about-the-providers-network",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/SqLfLP2vMKwVS4wZvfH9iN-1280-80.jpg",
-            "publishedAt": "2025-09-11 13:55:13"
-        },
-        {
-            "source": {
-                "name": "xda_developers"
-            },
-            "title": "A NAS can replace half of your cloud subscriptions",
-            "url": "https://www.xda-developers.com/nas-replace-cloud-subscription-services/",
-            "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/07/synology-ds925-bays-open.JPG",
-            "publishedAt": "2025-09-11 13:00:19"
-        },
-        {
-            "source": {
-                "name": "cnet"
-            },
-            "title": "More Than 200 Essential Alexa Commands to Make Your Life Easier",
-            "url": "https://www.cnet.com/home/smart-home/200-essential-alexa-commands-to-make-your-life-easier/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/8513b1f1c4252e7c461dcc6fdbb0ccfc352bd3de/hub/2022/09/28/2da9106a-c646-435f-99b3-c88a36ab519d/echo-dot-1920x1080-301.png?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-09-11 13:00:04"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "AI Chatbots Tackle HPV Vaccine Hesitancy Among US Parents",
-            "url": "https://www.webpronews.com/ai-chatbots-tackle-hpv-vaccine-hesitancy-among-us-parents/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-df980fef-b4ce-4edb-8a89-a238c553afaf.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-09-11 12:59:12"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Arm Unveils Lumex CSS: 5x Faster AI for Smartphones and Laptops",
-            "url": "https://www.webpronews.com/arm-unveils-lumex-css-5x-faster-ai-for-smartphones-and-laptops/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-7c806e28-892d-418d-93e7-a80204b88f57.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-09-11 12:55:38"
-        },
-        {
-            "source": {
-                "name": "republicworld"
-            },
-            "title": "AIIMS NORCET 9 Admit Card 2025 Expected to Be Out Soon at aiimsexams.ac.in, Know How to Download",
-            "url": "https://www.republicworld.com/education/aiims-norcet-9-admit-card-2025-download-steps-sept-14-exam",
-            "urlToImage": "https://img.republicworld.com/all_images/laptop-1738740099456-16_9.webp?format=webp&h=720&q=75&w=1280",
-            "publishedAt": "2025-09-11 12:55:33"
-        },
-        {
-            "source": {
-                "name": "benzinga"
-            },
-            "title": "Report Highlights Growth in AI Biomarker Monitoring as Industry Giant's GPUs Power Next-Gen Platform",
-            "url": "https://www.benzinga.com/pressreleases/25/09/n47618459/report-highlights-growth-in-ai-biomarker-monitoring-as-industry-giants-gpus-power-next-gen-platfor",
-            "urlToImage": "https://mma.prnewswire.com/media/2737336/MarketNewsUpdates.jpg",
-            "publishedAt": "2025-09-11 12:45:00"
-        },
-        {
-            "source": {
-                "name": "analyticsindiamag"
-            },
-            "title": "TCS Launches Chiplet-Based Engineering Services to Boost Semiconductor Innovation",
-            "url": "https://analyticsindiamag.com/ai-news-updates/tcs-launches-chiplet-based-engineering-services-to-boost-semiconductor-innovation/",
-            "urlToImage": "https://analyticsindiamag.com/wp-content/uploads/2025/04/Mohit-35-e1751618377969.jpg",
-            "publishedAt": "2025-09-11 12:40:01"
-        },
-        {
-            "source": {
-                "name": "cmu"
-            },
-            "title": "BNY and Carnegie Mellon University Join Forces To Advance AI Education and Research",
-            "url": "https://www.cmu.edu/news/stories/archives/2025/september/bny-and-carnegie-mellon-university-join-forces-to-advance-ai-education-and-research",
-            "urlToImage": "https://www.cmu.edu/news/sites/default/files/styles/listings_desktop_1x_/public/2025-09/Autumn-Campus--105.jpg.webp?itok=v2Z6tl4g",
-            "publishedAt": "2025-09-11 12:33:00"
-        },
-        {
-            "source": {
-                "name": "cmu"
-            },
-            "title": "BNY and Carnegie Mellon University Join Forces To Advance Research and Development in AI",
-            "url": "https://www.cmu.edu/news/stories/archives/2025/september/bny-and-carnegie-mellon-university-join-forces-to-advance-research-and-development-in-ai",
-            "urlToImage": "https://www.cmu.edu/news/sites/default/files/styles/listings_desktop_1x_/public/2025-09/Autumn-Campus--105.jpg.webp?itok=v2Z6tl4g",
-            "publishedAt": "2025-09-11 12:33:00"
-        },
-        {
-            "source": {
-                "name": "computerweekly"
-            },
-            "title": "Nokia ups the ante in AI-optimised datacentre networking",
-            "url": "https://www.computerweekly.com/news/366630503/Nokia-ups-the-ante-in-AI-optimised-datacentre-networking",
-            "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/HeroImages/NBN-Nokia-cables-hardware-PR-hero_searchsitetablet_520X173.jpg",
-            "publishedAt": "2025-09-11 11:09:00"
         }
     ]
 }
