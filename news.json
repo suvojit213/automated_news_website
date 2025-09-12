@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-09-12T08:19:05.716878Z",
+    "lastUpdatedAt": "2025-09-12T09:15:31.293870Z",
     "articles": [
+        {
+            "source": {
+                "id": "7f6e8514e9d8f8376aaa9a7229861518",
+                "name": "PerthNow",
+                "url": "https://www.perthnow.com.au",
+                "country": "au"
+            },
+            "title": "AI financial advice not always right on the money",
+            "url": "https://www.perthnow.com.au/news/business/ai-financial-advice-not-always-right-on-the-money-c-19993226",
+            "urlToImage": "https://images.perthnow.com.au/publication/C-19993226/3a2ca1ea6d73315ec81e2ca950ac7bda7c0e811c-16x9-x0y0w1280h720.jpg?imwidth=1200",
+            "publishedAt": "2025-09-11T21:01:16Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - Health Sector Headlines: Drug Withdrawals, AI Devices, and Job Cuts",
+            "url": "https://www.devdiscourse.com/live-discourse/8922-artificial-intelligence-revolutionizing-every-aspect-of-life",
+            "urlToImage": "https://www.devdiscourse.com?width=1280&format=jpeg",
+            "publishedAt": "2025-09-11T21:00:13Z"
+        },
+        {
+            "source": {
+                "id": "92021aca7322dc2b29226023c35d9a4a",
+                "name": "The Canberra Times",
+                "url": "https://www.canberratimes.com.au",
+                "country": "au"
+            },
+            "title": "AI financial advice not always right on the money",
+            "url": "https://www.canberratimes.com.au/story/9064409/ai-financial-advice-not-always-right-on-the-money/",
+            "urlToImage": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/5eb175d1-55dc-4d04-ab5a-ea2a8c3376f8.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+            "publishedAt": "2025-09-11T21:00:03Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Adobe raises annual revenue and profit forecasts on strong design software demand",
+            "url": "https://www.reuters.com/business/adobe-raises-annual-revenue-profit-forecasts-strong-design-software-demand-2025-09-11/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/U5L4DJ56QNNDHG7SSVV6LJIDBE.jpg?auth=c460710e92967969dfe7756b299e85f42b1bdd2958286643ef710c89dac1ce4a&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-09-11T20:41:31Z"
+        },
         {
             "source": {
                 "id": "7006f2c40c7cc01195608dbfd60259b3",
@@ -1227,6 +1275,42 @@
         },
         {
             "source": {
+                "name": "siliconangle"
+            },
+            "title": "Splunk exec says Cisco acquisition has ignited platform expansion",
+            "url": "https://siliconangle.com/2025/09/11/splunk-exec-says-cisco-acquisition-ignited-platform-expansion/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/09/Splunk-logo-at-.conf25.jpg",
+            "publishedAt": "2025-09-11 21:06:40"
+        },
+        {
+            "source": {
+                "name": "xda_developers"
+            },
+            "title": "If I could only keep one, this is the Raspberry Pi project I'd choose above all else",
+            "url": "https://www.xda-developers.com/this-is-my-favorite-raspberry-pi-project-of-all-time/",
+            "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/04/raspberry-pi-5-24.jpg",
+            "publishedAt": "2025-09-11 21:00:19"
+        },
+        {
+            "source": {
+                "name": "postregister"
+            },
+            "title": "Planet Releases First Light Image From Pelican-3; Multiple Pelican Launches Slated for the Next Year",
+            "url": "https://www.postregister.com/businessreport/government/planet-releases-first-light-image-from-pelican-3-multiple-pelican-launches-slated-for-the-next/article_67fa3582-79f9-5094-b5b5-326abd6f63f2.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/assets/v3/editorial/1/8b/18b19074-fe25-5857-a8cd-4f65c1bdcd3c/68c333f75be9e.image.jpg?resize=300%2C169",
+            "publishedAt": "2025-09-11 20:29:29"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "94% of IT Leaders Grapple with Soaring Cloud Costs from AI Demands",
+            "url": "https://www.webpronews.com/94-of-it-leaders-grapple-with-soaring-cloud-costs-from-ai-demands/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-7b1e12f4-2ed3-4e0f-83b8-d6060bae8978.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-09-11 20:28:17"
+        },
+        {
+            "source": {
                 "name": "webpronews"
             },
             "title": "AMD CEO Hints at Radeon RX 9080 XT Reveal at CES 2026 to Challenge Nvidia",
@@ -1241,6 +1325,15 @@
             "title": "Supermicro Begins Volume Shipments of NVIDIA Blackwell Ultra Systems and Rack Plug-and-Play Data Center-Scale Solutions",
             "url": "https://en.prnasia.com/story/503251-0.shtml",
             "urlToImage": "https://mma.prnasia.com/media2/2771381/Supermicro_NVIDIA_Blackwell_Solutions.jpg?p=medium600",
+            "publishedAt": "2025-09-11 20:05:00"
+        },
+        {
+            "source": {
+                "name": "aspendailynews"
+            },
+            "title": "Supermicro Begins Volume Shipments of NVIDIA Blackwell Ultra Systems and Rack Plug-and-Play Data Center-Scale Solutions",
+            "url": "https://www.aspendailynews.com/online_features/press_releases/supermicro-begins-volume-shipments-of-nvidia-blackwell-ultra-systems-and-rack-plug-and-play-data/article_6888d489-34b2-58f9-a7df-c66bad3a597f.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/aspendailynews.com/content/tncms/assets/v3/editorial/a/52/a523073d-636a-5c0e-ba56-6110870e8bf8/68c3db02265ca.image.jpg?resize=300%2C300",
             "publishedAt": "2025-09-11 20:05:00"
         },
         {
@@ -3030,114 +3123,6 @@
             "url": "https://www.manilatimes.net/2025/09/11/business/foreign-business/microsoft-to-use-some-ai-from-anthropic-in-shift-from-openai/2182423",
             "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
             "publishedAt": "2025-09-10T16:09:00Z"
-        },
-        {
-            "source": {
-                "id": "c24832368cd2d9132598ad4bef08e0ab",
-                "name": "Investopedia",
-                "url": "https://www.investopedia.com",
-                "country": "us"
-            },
-            "title": "Is AI To Blame For The Lousy Job Market?",
-            "url": "https://www.investopedia.com/ai-impact-on-jobs-numbers-11806190",
-            "urlToImage": "https://www.investopedia.com/thmb/c5jOiIn313O2PhHwxnXdwe402as=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2175168300-cb41d78e4049411d8dac9a02f06128ad.jpg",
-            "publishedAt": "2025-09-10T16:07:32Z"
-        },
-        {
-            "source": {
-                "id": "0aab1d72ae666208d1824f73c0ea4209",
-                "name": "Kotaku",
-                "url": "https://kotaku.com",
-                "country": "au"
-            },
-            "title": "Don’t Let Hackers Win, This 60% Off Solution Keeps Your Identity Safe at All Times",
-            "url": "https://kotaku.com/dont-let-hackers-win-this-60-off-solution-keeps-your-identity-safe-at-all-times-2000624647",
-            "urlToImage": "https://kotaku.com/app/uploads/2025/09/scam-hackers.jpg",
-            "publishedAt": "2025-09-10T15:40:46Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Sweden's Klarna shifts AI focus from cost cuts to growth",
-            "url": "https://www.reuters.com/business/swedens-klarna-shifts-ai-focus-cost-cuts-growth-2025-09-10/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/2OP3NSZPKZJJTAN6TX6QWTJD7A.jpg?auth=caa80e32f4c603f67302e4047463670892e8b8324ab977374ba3a453f2988307&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-09-10T15:40:35Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Europe's AI poster child Klarna taps the brakes on chatbots",
-            "url": "https://www.reuters.com/business/europes-ai-poster-child-klarna-taps-brakes-chatbots-2025-09-10/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/5HYGLGXWUVMNJNXZPITDE6JD6M.jpg?auth=810702d234db69543c5c6b5ad55bb1f61b4a4086867afe9423cdf1d02f929acc&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-09-10T15:40:35Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Brookfield Says It Already Lined Up Backers for New AI Strategy",
-            "url": "https://www.bloomberg.com/news/articles/2025-09-10/brookfield-says-it-already-lined-up-backers-for-new-ai-strategy",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKce.JUF.4I8/v1/1200x800.jpg",
-            "publishedAt": "2025-09-10T15:37:40Z"
-        },
-        {
-            "source": {
-                "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
-                "name": "BayToday",
-                "url": "https://www.baytoday.ca",
-                "country": "ca"
-            },
-            "title": "Canada to convene G7 energy, environment ministers in Toronto next month",
-            "url": "https://www.baytoday.ca/national-news/canada-to-convene-g7-energy-environment-ministers-in-toronto-next-month-11191939",
-            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/09/4d7e042ae6aab697119e195263898a353758a9107d5d2967cfa664c328dbb71e.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2025-09-10T15:26:01Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "Can you say no to your doctor using an AI scribe?",
-            "url": "https://medicalxpress.com/news/2025-09-doctor-ai-scribe.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/doctor-appointment-2.jpg",
-            "publishedAt": "2025-09-10T15:01:09Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "AI Coding Startup Replit Valued at $3 Billion With New Funding",
-            "url": "https://www.bloomberg.com/news/articles/2025-09-10/ai-coding-startup-replit-valued-at-3-billion-with-new-funding",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/im.wNZmdzChU/v1/1200x800.jpg",
-            "publishedAt": "2025-09-10T15:00:18Z"
-        },
-        {
-            "source": {
-                "id": "b29eaeaa36b9be93ac681e263151f897",
-                "name": "India.com",
-                "url": "https://www.india.com",
-                "country": "in"
-            },
-            "title": "Amid AI push in AGM, Mukesh Ambani’s Reliance Industries takes BIG step, incorporates Reliance Intelligence as…",
-            "url": "https://www.india.com/business/amid-ai-push-in-agm-mukesh-ambanis-reliance-industries-takes-big-step-incorporates-reliance-intelligence-as-wholly-owned-subsidiary-8067296/",
-            "urlToImage": "https://static.india.com/wp-content/uploads/2025/07/mukesh-ambani-2.png",
-            "publishedAt": "2025-09-10T14:40:18Z"
         }
     ]
 }
