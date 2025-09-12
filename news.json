@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-09-12T14:14:11.438017Z",
+    "lastUpdatedAt": "2025-09-12T15:14:24.389875Z",
     "articles": [
+        {
+            "source": {
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
+                "country": "us"
+            },
+            "title": "Alibaba Stock Pops 6% In Hong Kong As Homegrown AI Chips Rival Nvidia's H20, $3.2 Billion Bond Raise Fuels Rally",
+            "url": "https://www.benzinga.com/markets/equities/25/09/47635862/alibaba-stock-pops-6-in-hong-kong-as-homegrown-ai-chips-rival-nvidias-h20-3-2-billion-bond-raise-fuels-rally",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/09/11/alibaba-logo.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2025-09-12T03:10:12Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Vietnam's Credit Database Breach: A Cybersecurity Threat Unfolding",
+            "url": "https://www.devdiscourse.com/article/technology/3624973-vietnams-credit-database-breach-a-cybersecurity-threat-unfolding",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/16_04_2025_23_42_15_0853166.png?width=920&format=jpeg",
+            "publishedAt": "2025-09-12T02:47:56Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Malaysia reins in data centre growth, complicating China's AI chip access",
+            "url": "https://www.reuters.com/world/china/malaysia-reins-data-centre-growth-complicating-chinas-ai-chip-access-2025-09-12/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/DQ4ZQ7J2UBPB5KPHX4LOZDWSWI.jpg?auth=64ab50c5cd460d473525dae8ac22eaf6632991189e1e21572ac839a13c0cb2f5&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-09-12T02:46:38Z"
+        },
+        {
+            "source": {
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
+                "country": "us"
+            },
+            "title": "Alibaba and Baidu Turn to Own Chips - Trouble Ahead for Nvidia?",
+            "url": "https://markets.businessinsider.com/news/stocks/alibaba-and-baidu-turn-to-own-chips-trouble-ahead-for-nvidia-1035139176",
+            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/09/comp-4.jpg?utm_source=markets.businessinsider.com&utm_medium=referral",
+            "publishedAt": "2025-09-12T02:45:41Z"
+        },
         {
             "source": {
                 "id": "3bd4bd306c42647825fa42989624c036",
@@ -132,6 +180,42 @@
             "url": "https://www.dailypioneer.com/2025/business/india-inc-needs-to-ensure-ai-becomes-tool-for-empowerment-than-anxiety.html",
             "urlToImage": "https://www.dailypioneer.com/uploads/2025/story/images/big/india-inc-needs-to-ensure-ai-becomes-tool-for-empowerment-than-anxiety-2025-09-12.jpg",
             "publishedAt": "2025-09-12T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "republicworld"
+            },
+            "title": "OpenAI and Nvidia to Announce UK Data Center Push; India in Line for 1GW AI Hub",
+            "url": "https://www.republicworld.com/tech/openai-and-nvidia-to-announce-uk-data-center-push-india-in-line-for-1gw-ai-hub",
+            "urlToImage": "https://img.republicworld.com/all_images/sam-altman-announces-openais-first-india-office-to-open-in-2025-1755887624980-16_9.webp?format=webp&h=720&q=75&w=1280",
+            "publishedAt": "2025-09-12 03:03:17"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Akira Ransomware Exploits SonicWall CVE-2024-40766 in 2025 Attack Surge",
+            "url": "https://www.webpronews.com/akira-ransomware-exploits-sonicwall-cve-2024-40766-in-2025-attack-surge/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-94c44b30-046c-43d9-a324-4ed87e6f92fd.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-09-12 02:40:34"
+        },
+        {
+            "source": {
+                "name": "siliconangle"
+            },
+            "title": "Anthropic lets Claude remember previous interactions to streamline work",
+            "url": "https://siliconangle.com/2025/09/11/anthropic-lets-claude-remember-previous-interactions-streamline-work/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/09/Screenshot-from-2025-09-12-09-27-52.png",
+            "publishedAt": "2025-09-12 02:30:50"
+        },
+        {
+            "source": {
+                "name": "hindustantimes"
+            },
+            "title": "USB hard drives with fast transfer speeds and compact design for easy daily use: Top 8 picks for secure file storage",
+            "url": "https://www.hindustantimes.com/technology/usb-hard-drives-with-fast-transfer-speeds-and-compact-design-for-easy-daily-use-top-8-picks-for-secure-file-storage-101757585894824.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/09/11/1600x900/usb_hard_drive_1757585937420_1757585945845.jpg",
+            "publishedAt": "2025-09-12 02:30:16"
         },
         {
             "source": {
@@ -3027,78 +3111,6 @@
             "url": "https://www.dtnext.in/technology/what-comes-after-the-smartphone-846219",
             "urlToImage": "https://media.dtnext.in/h-upload/2024/05/03/750x450_820223-globalsmartphone.webp",
             "publishedAt": "2025-09-11 04:18:15"
-        },
-        {
-            "source": {
-                "name": "thenewsminute"
-            },
-            "title": "Kerala: Eight Central institutions join hands for research collaboration",
-            "url": "https://www.thenewsminute.com/kerala/kerala-eight-central-institutions-join-hands-for-research-collaboration",
-            "urlToImage": "https://media.assettype.com/thenewsminute%2F2025-09-11%2F1xu5rk50%2F202509103506673.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-09-11 04:17:44"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "Amazon could reportedly launch its own AR glasses to take on Meta next year",
-            "url": "https://www.tomsguide.com/computing/smart-glasses/amazon-could-reportedly-launch-its-own-ar-glasses-to-take-on-meta-next-year",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/SoHBMpKTtJwkyYUK6M9Sng-1280-80.jpg",
-            "publishedAt": "2025-09-11 04:15:00"
-        },
-        {
-            "source": {
-                "name": "digitaltrends"
-            },
-            "title": "Claude’s impressive file tools will make ChatGPT and Gemini jealous",
-            "url": "https://www.digitaltrends.com/computing/claudes-impressive-file-tools-will-make-chatgpt-and-gemini-jealous/",
-            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/09/claude-e1757569995662.jpg?p=1&resize=1200%2C630",
-            "publishedAt": "2025-09-11 04:15:00"
-        },
-        {
-            "source": {
-                "name": "freepressjournal"
-            },
-            "title": "AI Likely To Add $15.7 Trillion To Global GDP By 2030: Report",
-            "url": "https://www.freepressjournal.in/tech/ai-likely-to-add-157-trillion-to-global-gdp-by-2030-report",
-            "urlToImage": "https://media.assettype.com/freepressjournal/2025-05-06/8fxw2zby/ai-sys.jpg?width=1200",
-            "publishedAt": "2025-09-11 04:13:42"
-        },
-        {
-            "source": {
-                "name": "newspressnow"
-            },
-            "title": "Income inequality dipped and fewer people moved, according to largest survey of US life",
-            "url": "https://www.newspressnow.com/ap/ap-nebraska-news/2025/09/10/income-inequality-dipped-and-fewer-people-moved-according-to-largest-survey-of-us-life/",
-            "urlToImage": "https://newspressnow.b-cdn.net/wp-content/uploads/2025/09/Census_American_Survey_84586-1.jpg",
-            "publishedAt": "2025-09-11 04:01:23"
-        },
-        {
-            "source": {
-                "name": "analyticsindiamag"
-            },
-            "title": "Oracle Lands $300 Billion OpenAI Cloud Deal, One of the Largest in History",
-            "url": "https://analyticsindiamag.com/ai-news-updates/oracle-lands-300-billion-openai-cloud-deal-one-of-the-largest-in-history/",
-            "urlToImage": "https://analyticsindiamag.com/wp-content/uploads/2024/12/Oracles-Multi-Cloud-Strategy-Will-Make-It-a-Cloud-Leader.jpg",
-            "publishedAt": "2025-09-11 03:57:40"
-        },
-        {
-            "source": {
-                "name": "cxotoday"
-            },
-            "title": "Microsoft Aims to Harness Smartwatch Tech to Cut Datacenter Energy Needs",
-            "url": "https://cxotoday.com/news-analysis/microsoft-aims-to-harness-smartwatch-tech-to-cut-datacenter-energy-needs/",
-            "urlToImage": "https://cxotoday.com/wp-content/uploads/2025/09/iStock-1225555081.jpg",
-            "publishedAt": "2025-09-11 03:34:56"
-        },
-        {
-            "source": {
-                "name": "en_prnasisa"
-            },
-            "title": "YOFC Showcases Diverse End-to-End Portfolio at CIOE 2025",
-            "url": "https://en.prnasia.com/story/503105-0.shtml",
-            "urlToImage": "https://mma.prnasia.com/media2/2770835/Overview.jpg?p=medium600",
-            "publishedAt": "2025-09-11 03:09:00"
         }
     ]
 }
