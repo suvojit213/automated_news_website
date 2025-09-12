@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-09-12T16:14:46.764753Z",
+    "lastUpdatedAt": "2025-09-12T17:12:33.102343Z",
     "articles": [
+        {
+            "source": {
+                "id": "e3ea77287229069329f8a7580f62ec08",
+                "name": "ZDNet",
+                "url": "https://www.zdnet.com",
+                "country": "us"
+            },
+            "title": "The IT job market keeps shrinking, but not for everyone - or everywhere",
+            "url": "https://www.zdnet.com/education/professional-development/the-it-job-market-keeps-shrinking-but-not-for-everyone-or-everywhere/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/618db5f3905cdd5a3d887a6f509ab6a3f148e549/2025/09/11/ed69117b-7891-4f37-bca5-ff8b247c62a1/gettyimages-1498386151.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-09-12T05:10:00Z"
+        },
+        {
+            "source": {
+                "id": "e479ce8332aab31d8bac6ba9584cedbb",
+                "name": "Republic World",
+                "url": "https://www.republicworld.com",
+                "country": "in"
+            },
+            "title": "As AI Tools Reshape Education, Schools Struggle to Draw the Line on Cheating",
+            "url": "https://www.republicworld.com/education/as-ai-tools-reshape-education-schools-struggle-with-how-to-draw-the-line-on-cheating",
+            "urlToImage": "https://img.republicworld.com/all_images/cbse-class-12-results-2025-what-s-next-for-students-college-applications-and-cut-offs-1746511400574-16_9.webp",
+            "publishedAt": "2025-09-12T04:39:16Z"
+        },
         {
             "source": {
                 "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
@@ -240,6 +264,87 @@
             "url": "https://www.globenewswire.com/news-release/2025/09/12/3149342/0/en/Lynch-Carpenter-Investigates-Claims-in-Fairmont-Federal-Credit-Union-Data-Breach.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/c7859457-8a76-48a5-b4e7-d3be8aa7a7a7",
             "publishedAt": "2025-09-12T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "republicworld"
+            },
+            "title": "New Quick Charge 5+ from Qualcomm Delivers 5-Minute Charging to 50% with Enhanced Safety and Heat Control",
+            "url": "https://www.republicworld.com/tech/new-quick-charge-5-from-qualcomm-delivers-5-minute-charging-to-50-with-enhanced-safety-and-heat-control",
+            "urlToImage": "https://img.republicworld.com/all_images/qualcomm-launches-quick-charge-5-that-promises-to-charge-your-phone-from-0-to-50-in-just-5-minutes-without-overheating-1757653787241-16_9.webp?format=webp&h=720&q=75&w=1280",
+            "publishedAt": "2025-09-12 05:09:55"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Beyond the Hype: How Small Language Models and Knowledge Graphs are Redefining Domain-Specific AI",
+            "url": "https://hackernoon.com/beyond-the-hype-how-small-language-models-and-knowledge-graphs-are-redefining-domain-specific-ai",
+            "urlToImage": "https://hackernoon.imgix.net/images/wCBwna64Mzf5EFCG6QdcY2jQE7B3-up63ann.png",
+            "publishedAt": "2025-09-12 05:08:55"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Global Talent, Local Impact: The Future of Startup Teams in 2025",
+            "url": "https://hackernoon.com/global-talent-local-impact-the-future-of-startup-teams-in-2025",
+            "urlToImage": "https://hackernoon.imgix.net/images/oqxc347yWNf65zIjYo1OxPzanuH3-4c53bcv.png",
+            "publishedAt": "2025-09-12 05:06:45"
+        },
+        {
+            "source": {
+                "name": "hackaday"
+            },
+            "title": "How the TI-99/4A Home Computer Worked",
+            "url": "https://hackaday.com/2025/09/11/how-the-ti-99-4a-home-computer-worked/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2025/09/TI-99A4-banner.jpg",
+            "publishedAt": "2025-09-12 05:00:41"
+        },
+        {
+            "source": {
+                "name": "postregister"
+            },
+            "title": "AP Technology SummaryBrief at 12:50 a.m. EDT",
+            "url": "https://www.postregister.com/businessreport/business/ap-technology-summarybrief-at-12-50-a-m-edt/article_5f9c928b-637b-5d5f-a38e-660c5d4062ec.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
+            "publishedAt": "2025-09-12 04:50:11"
+        },
+        {
+            "source": {
+                "name": "thehackernews"
+            },
+            "title": "Cursor AI Code Editor Flaw Enables Silent Code Execution via Malicious Repositories",
+            "url": "https://thehackernews.com/2025/09/cursor-ai-code-editor-flaw-enables.html",
+            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHAKp4IJAmSiZWoK0v8XwpRWrn3YLZ3PZpvLMobinGLjEO70UTmZ36b5CVT00TuJSGsFuBPHO26VzxBZQ3OCgnLB09bj9R0OPIuyO3dm9sTyhvqdttKb1MH2xW6LVamsUJmZweRAreHKA5ddL9T3PMgRwwS6p45PailemmFl61xIGqWOTBmkeangb6d42Q/s1600/editor.jpg",
+            "publishedAt": "2025-09-12 04:49:00"
+        },
+        {
+            "source": {
+                "name": "biztoc"
+            },
+            "title": "OpenAI Needs Data Centers So Much, It Signed a $300B Deal With Oracle",
+            "url": "https://biztoc.com/x/b010c2b485f9fd14",
+            "urlToImage": "https://cdn.biztoc.com/b010c2b485f9fd14_sq.webp",
+            "publishedAt": "2025-09-12 04:40:07"
+        },
+        {
+            "source": {
+                "name": "computerweekly"
+            },
+            "title": "GenAI in banking: A Computer Weekly Downtime Upload podcast",
+            "url": "https://www.computerweekly.com/podcast/GenAI-in-banking-A-Computer-Weekly-Downtime-Upload-podcast",
+            "urlToImage": "https://www.computerweekly.com/visuals/German/article/chatbot-mobile-phone-adobe_searchsitetablet_520X173.jpg",
+            "publishedAt": "2025-09-12 04:39:00"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "We Are At Acute Agency Decay Amid AI. 4 Ways To Preserve Your Brain",
+            "url": "https://www.forbes.com/sites/corneliawalther/2025/09/12/we-are-at-acute-agency-decay-amid-ai-4-ways-to-preserve-your-brain/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68c39daf00e0206d549123f4/0x0.jpg?width=960",
+            "publishedAt": "2025-09-12 04:14:15"
         },
         {
             "source": {
@@ -3027,105 +3132,6 @@
             "url": "https://www.pcquest.com/artificial-intelligence/how-to-use-google-nano-banana-ai-to-create-free-3d-figurines-that-are-going-viral-in-india-10235793",
             "urlToImage": "https://img-cdn.publive.online/pcq/media/media_files/2025/09/11/google-nano-banana-ai-2025-09-11-11-56-59.webp",
             "publishedAt": "2025-09-11 06:47:49"
-        },
-        {
-            "source": {
-                "name": "headtopics"
-            },
-            "title": "Claude’s impressive file tools will make ChatGPT and Gemini jealous",
-            "url": "https://us.headtopics.com/news/claude-s-impressive-file-tools-will-make-chatgpt-and-gemini-72888667",
-            "urlToImage": "https://i.headtopics.com/images/2025/9/9/digitaltrends/google-s-gemini-ai-can-now-process-and-talk-about--google-s-gemini-ai-can-now-process-and-talk-about--9E837D79D910C09474A861D53BD11A69.webp?w=640",
-            "publishedAt": "2025-09-11 06:39:30"
-        },
-        {
-            "source": {
-                "name": "computerweekly"
-            },
-            "title": "Storage is key to AI projects that succeed",
-            "url": "https://www.computerweekly.com/feature/Storage-is-key-to-AI-projects-that-succeed",
-            "urlToImage": "https://www.computerweekly.com/visuals/German/article/tools-toolbox-fotolia_searchsitetablet_520X173.jpg",
-            "publishedAt": "2025-09-11 06:33:00"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Convenience: The Leading Cause of Death in 2045?",
-            "url": "https://hackernoon.com/convenience-the-leading-cause-of-death-in-2045",
-            "urlToImage": "https://hackernoon.imgix.net/images/iNs5vViQnVRCGru4Z1eBrlD3sBw1-nb43sct.jpeg",
-            "publishedAt": "2025-09-11 06:26:04"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Unveiling the Future: Top 2030 Predictions You Need to Know",
-            "url": "https://techannouncer.com/unveiling-the-future-top-2030-predictions-you-need-to-know/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/09/dddf0a98thumbnail-332x187.jpeg",
-            "publishedAt": "2025-09-11 06:25:09"
-        },
-        {
-            "source": {
-                "name": "news9live"
-            },
-            "title": "Intel’s Xeon 6 CPUs, Arc Pro-B series GPUS crush MLPerf benchmarks",
-            "url": "https://www.news9live.com/technology/intels-xeon-6-cpus-arc-pro-b-series-gpus-crush-mlperf-benchmarks-2887780",
-            "urlToImage": "https://images.news9live.com/wp-content/uploads/2025/09/Intel-Arc-Pro-B60.jpg?enlarge=true&w=802",
-            "publishedAt": "2025-09-11 06:22:00"
-        },
-        {
-            "source": {
-                "name": "postregister"
-            },
-            "title": "Asian E-Wallets, Ant International Launch Payment Safety Partnership to Protect Cross-Border Digital Transactions",
-            "url": "https://www.postregister.com/businessreport/technology/asian-e-wallets-ant-international-launch-payment-safety-partnership-to-protect-cross-border-digital-transactions/article_b8042b2e-8f6d-5da8-8570-fe4686401e43.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
-            "publishedAt": "2025-09-11 06:21:26"
-        },
-        {
-            "source": {
-                "name": "hastingstribune"
-            },
-            "title": "Asian E-Wallets, Ant International Launch Payment Safety Partnership to Protect Cross-Border Digital Transactions",
-            "url": "https://www.hastingstribune.com/ap/business/asian-e-wallets-ant-international-launch-payment-safety-partnership-to-protect-cross-border-digital-transactions/article_fdaa0aba-d871-57c1-a55f-ea234bf7e091.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/hastingstribune.com/content/tncms/custom/image/7b43d562-eeac-11e4-8a7b-970670abfcb2.jpg?resize=600%2C315",
-            "publishedAt": "2025-09-11 06:21:26"
-        },
-        {
-            "source": {
-                "name": "newindianexpress"
-            },
-            "title": "Eight institutions form 'Thiruvananthapuram cluster' to drive interdisciplinary innovation",
-            "url": "https://www.newindianexpress.com/cities/thiruvananthapuram/2025/Sep/11/eight-institutions-form-thiruvananthapuram-cluster-to-drive-interdisciplinary-innovation-2",
-            "urlToImage": "https://media.newindianexpress.com/newindianexpress/2025-09-11/j0cy4k4f/IMG-20250910-WA0038.jpg",
-            "publishedAt": "2025-09-11 06:17:01"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "The TechBeat: Can ChatGPT Outperform the Market? Week 4 (9/11/2025)",
-            "url": "https://hackernoon.com/9-11-2025-techbeat",
-            "urlToImage": "https://hackernoon.imgix.net/images/hackernoon_newsletter_118_nvpan9o9ws57evrrfj7gzjqs.png",
-            "publishedAt": "2025-09-11 06:11:07"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "QAI’s Terrifying Fate That’s Hiding in Plain Sight",
-            "url": "https://hackernoon.com/qais-terrifying-fate-thats-hiding-in-plain-sight",
-            "urlToImage": "https://hackernoon.imgix.net/images/9SBj6OzMvXOEhDxTjjuu75pLYnp1-3n0393a.jpeg",
-            "publishedAt": "2025-09-11 06:09:25"
-        },
-        {
-            "source": {
-                "name": "computerweekly"
-            },
-            "title": "The UK government’s AI Growth Zones strategy: Everything you need to know",
-            "url": "https://www.computerweekly.com/news/366628066/The-UK-governments-AI-Growth-Zones-strategy-Everything-you-need-to-know",
-            "urlToImage": "https://www.computerweekly.com/visuals/German/article/green-datacentre-sustainable-cloud-adobe_searchsitetablet_520X173.jpg",
-            "publishedAt": "2025-09-11 06:00:00"
         }
     ]
 }
