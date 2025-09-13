@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-09-13T07:12:04.813587Z",
+    "lastUpdatedAt": "2025-09-13T08:17:01.118360Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Apple's AI and search executive Robby Walker to leave, Bloomberg News reports",
+            "url": "https://www.reuters.com/business/apples-ai-search-executive-robby-walker-leave-bloomberg-news-reports-2025-09-12/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/GL74QVE3SFPIJHXXKIKYQ67MW4.jpg?auth=32ed3b334bf1827cd020d91502e5734e0b86a2bf4f3020a7814337c4cddb66b1&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-09-12T19:53:55Z"
+        },
+        {
+            "source": {
+                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+                "name": "The Financial Express",
+                "url": "https://www.financialexpress.com",
+                "country": "in"
+            },
+            "title": "‘The longer I stay, the more draining it is’: Indian employee opens up about horrible experience under Pakistani manager",
+            "url": "https://www.financialexpress.com/trending/the-longer-i-stay-the-more-draining-it-is-indian-employee-opens-up-about-horrible-experience-under-pakistani-manager/3976186/",
+            "urlToImage": "https://images.financialexpressdigital.com/2025/09/Copy-of-.-2025-09-12T225447.229.jpg",
+            "publishedAt": "2025-09-12T19:34:11Z"
+        },
+        {
+            "source": {
+                "id": "010284b7a4ddb4771793c29b39893951",
+                "name": "CHEK News",
+                "url": "https://cheknews.ca",
+                "country": "ca"
+            },
+            "title": "Some public service jobs will be cut as Ottawa adopts AI: chief data officer",
+            "url": "https://cheknews.ca/some-public-service-jobs-will-be-cut-as-ottawa-adopts-ai-chief-data-officer-1277884/",
+            "urlToImage": "https://cheknews.ca/wp-content/uploads/2025/09/f5ad5166-f1d9-4ad0-8482-abd74da9e11f-scaled-e1757705161288.jpg",
+            "publishedAt": "2025-09-12T19:27:37Z"
+        },
         {
             "source": {
                 "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
@@ -1308,6 +1344,69 @@
             "url": "https://www.globenewswire.com/news-release/2025/09/12/3149342/0/en/Lynch-Carpenter-Investigates-Claims-in-Fairmont-Federal-Credit-Union-Data-Breach.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/c7859457-8a76-48a5-b4e7-d3be8aa7a7a7",
             "publishedAt": "2025-09-12T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "fstoppers"
+            },
+            "title": "We Review DJI’s Latest Mic 3: A Sleek, Compact Wireless Mic with Smart Features Designed for Creators",
+            "url": "https://fstoppers.com/reviews/review-djis-latest-mic-3-sleek-compact-wireless-mic-smart-features-designed-711416",
+            "urlToImage": "https://cdn.fstoppers.com/styles/large-16-9/s3/lead/2025/09/img-120925_cr5_5686-edit.jpg",
+            "publishedAt": "2025-09-12 20:06:01"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Google Cloud Integrates OpenTelemetry for Streamlined Observability",
+            "url": "https://www.webpronews.com/google-cloud-integrates-opentelemetry-for-streamlined-observability/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-7111207d-3816-4528-804a-90acd36813f9.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-09-12 20:00:00"
+        },
+        {
+            "source": {
+                "name": "fortune"
+            },
+            "title": "Ray Dalio calls for wealth ‘redistribution policy’ when AI and humanoid robots start to benefit the 1% to 10% more than everyone else",
+            "url": "https://fortune.com/2025/09/12/ray-dalio-ai-winners-losers-jobs-redistribution-policy/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-2216117034-e1757706090395.jpg?w=2048",
+            "publishedAt": "2025-09-12 19:55:08"
+        },
+        {
+            "source": {
+                "name": "techannouncer"
+            },
+            "title": "CES 2025 Recap: The Biggest Innovations and Trends You Missed",
+            "url": "https://techannouncer.com/ces-2025-recap-the-biggest-innovations-and-trends-you-missed/",
+            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/09/46d286adthumbnail-332x187.jpeg",
+            "publishedAt": "2025-09-12 19:52:06"
+        },
+        {
+            "source": {
+                "name": "wsav"
+            },
+            "title": "Widespread availability of graphic Charlie Kirk shooting video shows content moderation challenges",
+            "url": "https://www.wsav.com/news/technology/ap-widespread-availability-of-graphic-charlie-kirk-shooting-video-shows-content-moderation-challenges/",
+            "urlToImage": "https://www.wsav.com/wp-content/uploads/sites/75/2025/09/68c47a37d11cd7.92819267.jpeg?w=900",
+            "publishedAt": "2025-09-12 19:51:59"
+        },
+        {
+            "source": {
+                "name": "techannouncer"
+            },
+            "title": "Stay Updated with the Latest NASA Space News and Discoveries",
+            "url": "https://techannouncer.com/stay-updated-with-the-latest-nasa-space-news-and-discoveries/",
+            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/09/0a91e0f6thumbnail-332x187.jpeg",
+            "publishedAt": "2025-09-12 19:45:05"
+        },
+        {
+            "source": {
+                "name": "xda_developers"
+            },
+            "title": "4 automation tricks I configured once, and now use every day",
+            "url": "https://www.xda-developers.com/x-automation-tricks-configured-once-use-everyday/",
+            "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/01/automate-windows-update-1.jpg",
+            "publishedAt": "2025-09-12 19:30:20"
         },
         {
             "source": {
@@ -3072,126 +3171,6 @@
             "url": "https://www.ndtvprofit.com/business/google-meta-openai-face-ftc-inquiry-on-chatbot-impact-on-kids",
             "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-09-11%2Fmwqwd0al%2F439630262.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
             "publishedAt": "2025-09-11T15:53:17Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "US stock market rally to new highs: Dow hits record, S&P 500 and Nasdaq reach all-time highs as Nvidia and Micron jump ahead of bigger-than-expected Fed rate cut after jobless claims rise",
-            "url": "https://economictimes.indiatimes.com/news/international/us/us-stock-market-rally-to-new-highs-dow-hits-record-sp-500-and-nasdaq-reach-all-time-highs-as-nvidia-and-micron-jump-ahead-of-bigger-than-expected-fed-rate-cut-after-jobless-claims-rise/articleshow/123833651.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-123833663,width-1200,height-630,imgsize-106692,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2025-09-11T15:41:00Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Repeat History: How Early DOGE Investors Used Ozak AI to 300x Their Portfolios-And Why Newcomers Can Follow Their Lead Today",
-            "url": "https://techbullion.com/repeat-history-how-early-doge-investors-used-ozak-ai-to-300x-their-portfolios-and-why-newcomers-can-follow-their-lead-today/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/unnamed-2-8.jpg",
-            "publishedAt": "2025-09-11T15:13:48Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "The myth of the perfect credit model",
-            "url": "https://techbullion.com/the-myth-of-the-perfect-credit-model/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/jakub-zerdzicki-zd-QsNq50bA-unsplash-1000x600.jpg",
-            "publishedAt": "2025-09-11T15:12:22Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Invested Early? Here’s How Ozak AI’s 2025 Presale Has Delivered Massive Returns With Over $2.7 Million Now Raised",
-            "url": "https://techbullion.com/invested-early-heres-how-ozak-ais-2025-presale-has-delivered-massive-returns-with-over-2-7-million-now-raised/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/unnamed-1-7.jpg",
-            "publishedAt": "2025-09-11T15:09:24Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Google, Meta, OpenAI Face FTC Inquiry on Chatbot Impact on Kids",
-            "url": "https://www.bloomberg.com/news/articles/2025-09-11/google-meta-openai-face-ftc-inquiry-on-chatbot-impact-on-kids",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iD_qVExP9oqs/v1/1200x799.jpg",
-            "publishedAt": "2025-09-11T15:00:02Z"
-        },
-        {
-            "source": {
-                "id": "839b9d172147498877bab641815b0631",
-                "name": "Entrepreneur",
-                "url": "https://www.entrepreneur.com",
-                "country": "us"
-            },
-            "title": "How AI Helped Me Get 7 Million Views on Instagram Reels",
-            "url": "https://www.entrepreneur.com/science-technology/how-ai-helped-me-get-7-million-views-on-instagram-reels/495700",
-            "urlToImage": "https://assets.entrepreneur.com/content/3x2/2000/1757535936-using-instagram-reels-to-get-views-0925-g1388580714.jpg?format=pjeg&auto=webp",
-            "publishedAt": "2025-09-11T15:00:00Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Encyclopedia Britannica sues Perplexity over AI 'answer engine'",
-            "url": "https://www.reuters.com/legal/litigation/encyclopedia-britannica-sues-perplexity-over-ai-answer-engine-2025-09-11/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/Z2335JHVHNKN7LIPQ6KRIYDWXM.jpg?auth=af2c11b191518534d465ccb94ff441e75b3094d86e8b8900a593b2173d0f1a20&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-09-11T14:51:40Z"
-        },
-        {
-            "source": {
-                "id": "bc002b453215c04fa081a97f2c6679b9",
-                "name": "The Hacker News",
-                "url": "https://thehackernews.com",
-                "country": "us"
-            },
-            "title": "Senator Wyden Urges FTC to Probe Microsoft for Ransomware-Linked Cybersecurity Negligence",
-            "url": "https://thehackernews.com/2025/09/senator-wyden-urges-ftc-to-probe.html",
-            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsjO2JHH1Cq9urNh3ZmyoP7Q6yq88mGNehISBb9dYOZU1yHCvbXsb6aO6tl9ujto-InJLL7FJmu0_y8SeEfWwVRI8y8GOSKV5Ig20mItluQXly5w7u3CSWAKodvGV6yFw8gSenHkuxG3XCPYZWGZ_NGEBOjAAniMbtkWi2oFtqEEstr9qmachxCvrwnyHP/s728-rw-e365/ransomware-healthcare.jpg",
-            "publishedAt": "2025-09-11T14:51:00Z"
-        },
-        {
-            "source": {
-                "id": "732b46cdef66b68ee2fbc940e79f81de",
-                "name": "TechCrunch",
-                "url": "https://techcrunch.com",
-                "country": "us"
-            },
-            "title": "Kids in the UK are hacking their own schools for dares and notoriety",
-            "url": "https://techcrunch.com/2025/09/11/kids-in-the-uk-are-hacking-their-own-schools-for-dares-and-notoriety/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-179543227.jpg?resize=1200,1200",
-            "publishedAt": "2025-09-11T14:42:14Z"
-        },
-        {
-            "source": {
-                "id": "c24832368cd2d9132598ad4bef08e0ab",
-                "name": "Investopedia",
-                "url": "https://www.investopedia.com",
-                "country": "us"
-            },
-            "title": "Micron Technology Stock Jumps on Price Target Increase From Citi",
-            "url": "https://www.investopedia.com/micron-technology-stock-jumps-on-price-target-increase-from-citi-11807966",
-            "urlToImage": "https://www.investopedia.com/thmb/4V4sAU4BgE-GnoQxGv6uioAlpUo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2225143290-0784aefe32014ad681f73e7b40ef65ac.jpg",
-            "publishedAt": "2025-09-11T14:35:43Z"
         }
     ]
 }
