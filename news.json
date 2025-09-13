@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-09-13T03:17:56.361883Z",
+    "lastUpdatedAt": "2025-09-13T04:16:24.910365Z",
     "articles": [
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Adobe raises annual revenue and profit forecasts on strong design software demand",
+            "url": "https://www.manilatimes.net/2025/09/13/business/foreign-business/adobe-raises-annual-revenue-and-profit-forecasts-on-strong-design-software-demand/2183524",
+            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+            "publishedAt": "2025-09-12T16:15:00Z"
+        },
+        {
+            "source": {
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
+                "country": "us"
+            },
+            "title": "Fashion embraces artificial intelligence at NYFW",
+            "url": "https://nypost.com/2025/09/12/business/fashion-embraces-artificial-intelligence-at-nyfw/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/09/On-Site-Short-Video-22.png?w=1024",
+            "publishedAt": "2025-09-12T15:59:35Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "FinMin for creation of two globally competitive banks as part of Viksit Bharat vision",
+            "url": "https://economictimes.indiatimes.com/news/economy/policy/finmin-for-creation-of-two-globally-competitive-banks-as-part-of-viksit-bharat-vision/articleshow/123855385.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-123855403,width-1200,height-630,imgsize-54640,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-09-12T15:43:00Z"
+        },
         {
             "source": {
                 "id": "d6397b77175680e2678c0d60edcee7af",
@@ -1092,6 +1128,78 @@
             "url": "https://www.globenewswire.com/news-release/2025/09/12/3149342/0/en/Lynch-Carpenter-Investigates-Claims-in-Fairmont-Federal-Credit-Union-Data-Breach.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/c7859457-8a76-48a5-b4e7-d3be8aa7a7a7",
             "publishedAt": "2025-09-12T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "CIBC CIO Richard Jardim On Building A Bank For The Modern World",
+            "url": "https://www.forbes.com/sites/peterhigh/2025/09/12/cibc-cio-richard-jardim-on-building-a-bank-for-the-modern-world/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68c444547ef71ea8eb0e6d91/0x0.jpg?width=960",
+            "publishedAt": "2025-09-12 16:12:23"
+        },
+        {
+            "source": {
+                "name": "pcgamer"
+            },
+            "title": "Europe's first exascale supercomputer is now up and running, using 24,000 Nvidia GH200 Superchips to perform more than one quintillion operations per second with nearly 1,000,000 terabytes of storage",
+            "url": "https://www.pcgamer.com/hardware/europes-first-exascale-supercomputer-is-now-up-and-running-using-24-000-nvidia-gh200-superchips-to-perform-more-than-one-quintillion-operations-per-second-with-nearly-1-000-000-terabytes-of-storage/",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/d7wLd6xHzST7cE7gXWAhDn-1280-80.jpg",
+            "publishedAt": "2025-09-12 16:05:26"
+        },
+        {
+            "source": {
+                "name": "itpro"
+            },
+            "title": "What will the Quantum-Safe 360 Alliance mean for your business and its post-quantum security posture?",
+            "url": "https://www.itpro.com/technology/what-quantum-safe-360-alliance-means-for-your-business-post-quantum-security",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/mDJJrKFoJh9gAZfJnnDtSj-1280-80.jpg",
+            "publishedAt": "2025-09-12 16:05:07"
+        },
+        {
+            "source": {
+                "name": "siliconangle"
+            },
+            "title": "The AI infrastructure scramble, Oracle’s OpenAI bonanza, and the return of IPOs",
+            "url": "https://siliconangle.com/2025/09/12/ai-infrastructure-scramble-oracles-openai-bonanza-return-ipos/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/09/datacenterconstruction.png",
+            "publishedAt": "2025-09-12 16:03:49"
+        },
+        {
+            "source": {
+                "name": "businessinsider_us"
+            },
+            "title": "The AI message from Silicon Valley: 'No one's slowing down'",
+            "url": "https://www.businessinsider.com/ai-message-from-silicon-valley-no-one-slowing-down-2025-9",
+            "urlToImage": "https://i.insider.com/68c44001183847aa39d6ab88?width=700",
+            "publishedAt": "2025-09-12 15:55:23"
+        },
+        {
+            "source": {
+                "name": "fortune"
+            },
+            "title": "OpenAI’s deal with Microsoft could pave the way for a potential IPO",
+            "url": "https://fortune.com/2025/09/12/openai-microsoft-deal-ipo-restructuring-nonprofit/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-1778707567.jpg?w=2048",
+            "publishedAt": "2025-09-12 15:53:29"
+        },
+        {
+            "source": {
+                "name": "news_ncsu"
+            },
+            "title": "Ethics in Artificial Intelligence",
+            "url": "https://news.ncsu.edu/2025/09/ethics-in-ai/",
+            "urlToImage": "https://news.ncsu.edu/wp-content/uploads/2025/09/Ethics-in-AI-hero-1-scaled.jpg",
+            "publishedAt": "2025-09-12 15:45:20"
+        },
+        {
+            "source": {
+                "name": "foxnews"
+            },
+            "title": "Amazon backs AI startup that lets you make TV shows",
+            "url": "https://www.foxnews.com/tech/amazon-backs-ai-startup-lets-you-make-tv-shows",
+            "urlToImage": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/08/931/523/istock-man-watching-tv-507831621.jpg?tl=1&ve=1",
+            "publishedAt": "2025-09-12 15:40:28"
         },
         {
             "source": {
@@ -3135,138 +3243,6 @@
             "url": "https://www.prnewswire.co.uk/news-releases/flipster-secures-aaa-security-rating-from-cerlive-placing-among-top-13-most-secure-global-exchanges-302553755.html",
             "urlToImage": "https://mma.prnewswire.com/media/2770040/Flipster_Secures_AAA_Security_Rating_From_CER_live_Placing_Among.jpg?p=facebook",
             "publishedAt": "2025-09-11T09:12:00Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "Microsoft AI CEO Warns Against Granting Rights to AI, Calling It 'Dangerous and Misguided'",
-            "url": "https://www.breitbart.com/tech/2025/09/11/microsoft-ai-ceo-warns-against-granting-rights-to-ai-calling-it-dangerous-and-misguided/",
-            "urlToImage": "https://media.breitbart.com/media/2025/09/Mustafa-Suleyman-Microsoft-AI-CEO-640x335.jpg",
-            "publishedAt": "2025-09-11T09:05:47Z"
-        },
-        {
-            "source": {
-                "id": "ca84296ef941bfa461f4239a2290cb99",
-                "name": "News18",
-                "url": "https://www.news18.com",
-                "country": "in"
-            },
-            "title": "How AI and Machine Learning are Shaping the Future of Mobile Apps",
-            "url": "https://www.news18.com/agency-feeds/how-ai-and-machine-learning-are-shaping-the-future-of-mobile-apps-9565120.html",
-            "urlToImage": "https://images.news18.com/ibnlive/uploads/2025/05/News18_India_Section_Default_Image_1600x900-2025-05-b4faf46d67a95708181b01e36cf20c4b.jpg",
-            "publishedAt": "2025-09-11T08:45:06Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "How AI and Machine Learning are Shaping the Future of Mobile Apps",
-            "url": "https://www.tribuneindia.com/news/business/how-ai-and-machine-learning-are-shaping-the-future-of-mobile-apps/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTQ1ODM3NTYwLThlZWEtMTFmMC04NDliLWQxMWMzZjNiMjVlNy5qcGc=",
-            "publishedAt": "2025-09-11T08:35:24Z"
-        },
-        {
-            "source": {
-                "id": "7f6e8514e9d8f8376aaa9a7229861518",
-                "name": "PerthNow",
-                "url": "https://www.perthnow.com.au",
-                "country": "au"
-            },
-            "title": "Embrace AI or risk future ruin, tech billionaire warns",
-            "url": "https://www.perthnow.com.au/news/business/embrace-ai-or-risk-future-ruin-tech-billionaire-warns-c-19989336",
-            "urlToImage": "https://images.perthnow.com.au/publication/C-19989336/0dfb63d3318736e1920d0e7faa70feb000068a84-16x9-x0y0w1280h720.jpg?imwidth=1200",
-            "publishedAt": "2025-09-11T08:34:35Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "How AI and Machine Learning are Shaping the Future of Mobile Apps",
-            "url": "https://www.lokmattimes.com/business/how-ai-and-machine-learning-are-shaping-the-future-of-mobile-apps/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20250911083210_202509.jpg",
-            "publishedAt": "2025-09-11T08:32:49Z"
-        },
-        {
-            "source": {
-                "id": "92021aca7322dc2b29226023c35d9a4a",
-                "name": "The Canberra Times",
-                "url": "https://www.canberratimes.com.au",
-                "country": "au"
-            },
-            "title": "Embrace AI or risk future ruin, tech billionaire warns",
-            "url": "https://www.canberratimes.com.au/story/9064338/embrace-ai-or-risk-future-ruin-tech-billionaire-warns/",
-            "urlToImage": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/061a6e0c-6f25-4d59-94fa-6045d04f599c.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
-            "publishedAt": "2025-09-11T08:32:22Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Surya Narayana Chakka presents his visionary book which examines AI and ML applications for ERP system transformation",
-            "url": "https://techbullion.com/surya-narayana-chakka-presents-his-visionary-book-which-examines-ai-and-ml-applications-for-erp-system-transformation/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/unnamed-2025-09-11T012821.775.jpg",
-            "publishedAt": "2025-09-11T08:29:48Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Jinyan Lyu: A Professional Data Scientist And Specialist In Machine Learning",
-            "url": "https://techbullion.com/jinyan-lyu-a-professional-data-scientist-and-specialist-in-machine-learning/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/Jinyan-Lyu-1000x600.jpg",
-            "publishedAt": "2025-09-11T08:13:29Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "How to make free 3D figurines with Google nano banana AI",
-            "url": "https://www.indiatoday.in/information/story/nano-banana-ai-guide-step-by-step-tutorial-to-make-3d-figurines-2785626-2025-09-11",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202509/bhtr-114827762-16x9_0.jpeg?VersionId=I00ErDHPsziTOQaa1eQCXathrKpatKQE",
-            "publishedAt": "2025-09-11T07:56:54Z"
-        },
-        {
-            "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
-                "country": "in"
-            },
-            "title": "ITR Filing Before Sept. 15 Deadline: Step-By-Step Guide To Using AI Tax Advisors",
-            "url": "https://www.ndtvprofit.com/personal-finance/itr-filing-before-sept-15-deadline-step-by-step-guide-to-using-ai-tax-advisors",
-            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-08-11%2Fihoxwap4%2Fimage-source-Unsplash?w=1200&auto=format%2Ccompress&ogImage=true",
-            "publishedAt": "2025-09-11T06:53:37Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Larry Ellison beats Elon Musk in billionaire's game. Is Oracle ready to dethrone Tesla from the world's top 10 list?",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/larry-ellison-beats-elon-musk-in-billionaires-game-is-oracle-ready-to-dethrone-tesla-from-the-worlds-top-10-list/articleshow/123824343.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-123824322,width-1200,height-630,imgsize-23972,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2025-09-11T06:48:00Z"
         }
     ]
 }
