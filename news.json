@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-09-13T02:42:37.809805Z",
+    "lastUpdatedAt": "2025-09-13T03:17:56.361883Z",
     "articles": [
+        {
+            "source": {
+                "id": "d6397b77175680e2678c0d60edcee7af",
+                "name": "South China Morning Post",
+                "url": "https://www.scmp.com",
+                "country": "hk"
+            },
+            "title": "‘What’s this?’ AI in Malawi helps farmers weather changing climate",
+            "url": "https://www.scmp.com/news/world/africa/article/3325394/whats-ai-malawi-helps-farmers-weather-changing-climate",
+            "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/09/12/60e5bad4-ef43-4ab0-ac4a-2c545457092b_bb38fd4a.jpg?itok=EEDZXCEk&v=1757690071",
+            "publishedAt": "2025-09-12T15:14:33Z"
+        },
+        {
+            "source": {
+                "id": "76684855c5d801b81fd06490668d04fe",
+                "name": "TechRadar",
+                "url": "https://www.techradar.com",
+                "country": "au"
+            },
+            "title": "US Senator says Microsoft should be probed for 'gross cybersecurity negligence' after hospital ransomware attacks",
+            "url": "https://www.techradar.com/pro/security/us-senator-says-microsoft-should-be-probed-for-gross-cybersecurity-negligence-after-hospital-ransomware-attacks",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/h9ZSmL6QuQyNqeo6FAbnke.jpg",
+            "publishedAt": "2025-09-12T15:00:00Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "Tencent Hires OpenAI Researcher as China Steps Up Talent Search",
+            "url": "https://www.livemint.com/technology/tech-news/tencent-hires-openai-researcher-as-china-steps-up-talent-search-11757689035858.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/tech3_1734536499109_1734536513984.jpg",
+            "publishedAt": "2025-09-12T14:57:15Z"
+        },
+        {
+            "source": {
+                "id": "c24832368cd2d9132598ad4bef08e0ab",
+                "name": "Investopedia",
+                "url": "https://www.investopedia.com",
+                "country": "us"
+            },
+            "title": "Supermicro Stock Rises on News of Product Shipments Using Nvidia Blackwell Chips",
+            "url": "https://www.investopedia.com/supermicro-stock-rises-on-news-of-product-shipments-using-nvidia-blackwell-chips-11808812",
+            "urlToImage": "https://www.investopedia.com/thmb/5oUHqYCrNSYnrN7l_rw3w1f2cE0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2227994858-af8b8e51e9864d59ad8ef5d96312e8ad.jpg",
+            "publishedAt": "2025-09-12T14:44:26Z"
+        },
         {
             "source": {
                 "id": "7006f2c40c7cc01195608dbfd60259b3",
@@ -1044,6 +1092,60 @@
             "url": "https://www.globenewswire.com/news-release/2025/09/12/3149342/0/en/Lynch-Carpenter-Investigates-Claims-in-Fairmont-Federal-Credit-Union-Data-Breach.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/c7859457-8a76-48a5-b4e7-d3be8aa7a7a7",
             "publishedAt": "2025-09-12T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "popsci"
+            },
+            "title": "A single DNA cassette tape could store billions of photos",
+            "url": "https://www.popsci.com/technology/dna-cassette-data-storage/",
+            "urlToImage": "https://www.popsci.com/wp-content/uploads/2025/09/cassette-tape.png?quality=85",
+            "publishedAt": "2025-09-12 15:03:00"
+        },
+        {
+            "source": {
+                "name": "techspot"
+            },
+            "title": "SK hynix edges out rivals with first-to-market HBM4 chips for Nvidia and others",
+            "url": "https://www.techspot.com/news/109441-sk-hynix-edges-out-rivals-first-market-hbm4.html",
+            "urlToImage": "https://www.techspot.com/images2/news/ts3_thumbs/2025/09/2025-09-12-ts3_thumbs-d42.jpg",
+            "publishedAt": "2025-09-12 15:01:00"
+        },
+        {
+            "source": {
+                "name": "wired"
+            },
+            "title": "I Wasn’t Sure I Wanted Anthropic to Pay Me for My Books—I Do Now",
+            "url": "https://www.wired.com/story/anthropic-settlement-books-copyright/",
+            "urlToImage": "https://media.wired.com/photos/68c19d3ef77f56e7951587a0/master/w_120,c_limit/Backchannel-What-I-Think-About-Anthropic-Settlement-Business-2194795244.jpg",
+            "publishedAt": "2025-09-12 15:00:00"
+        },
+        {
+            "source": {
+                "name": "postregister"
+            },
+            "title": "AP Technology SummaryBrief at 10:56 a.m. EDT",
+            "url": "https://www.postregister.com/businessreport/business/ap-technology-summarybrief-at-10-56-a-m-edt/article_5f9c928b-637b-5d5f-a38e-660c5d4062ec.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
+            "publishedAt": "2025-09-12 14:56:01"
+        },
+        {
+            "source": {
+                "name": "benzinga"
+            },
+            "title": "Zeno Flow Engine: Why Traders Are Backing This AI-Based Trading App for Security and ROI – Read France Zeno Flow Engine Report!",
+            "url": "https://www.benzinga.com/pressreleases/25/09/g47644864/zeno-flow-engine-why-traders-are-backing-this-ai-based-trading-app-for-security-and-roi-read-franc",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/dfa4c4c1-42c8-4951-b077-c2f1b7e15210/zeno.png",
+            "publishedAt": "2025-09-12 14:50:58"
+        },
+        {
+            "source": {
+                "name": "postandcourier"
+            },
+            "title": "About Summerville Communications Inc.",
+            "url": "https://www.postandcourier.com/journal-scene/about-us/about-summerville-communications-inc/article_8fc0bd54-a75a-11ef-95e2-bf88623786e4.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/8/d4/8d4882c8-bd21-4eda-b358-c7873d611b89/68c4570b2b534.image.jpg",
+            "publishedAt": "2025-09-12 14:48:00"
         },
         {
             "source": {
@@ -3165,126 +3267,6 @@
             "url": "https://economictimes.indiatimes.com/markets/stocks/news/larry-ellison-beats-elon-musk-in-billionaires-game-is-oracle-ready-to-dethrone-tesla-from-the-worlds-top-10-list/articleshow/123824343.cms",
             "urlToImage": "https://img.etimg.com/thumb/msid-123824322,width-1200,height-630,imgsize-23972,overlay-etmarkets/articleshow.jpg",
             "publishedAt": "2025-09-11T06:48:00Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Empowering Educators: Unveiling AI's Role in Modern Classrooms",
-            "url": "https://www.devdiscourse.com/article/education/3623637-empowering-educators-unveiling-ais-role-in-modern-classrooms",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/22_04_2025_12_16_46_1290003.png?width=920&format=jpeg",
-            "publishedAt": "2025-09-11T06:40:25Z"
-        },
-        {
-            "source": {
-                "id": "10cbfb3760cfcdeb78c733c527f0e814",
-                "name": "iTWire",
-                "url": "https://itwire.com",
-                "country": "au"
-            },
-            "title": "New Sophos report finds AI adoption and increased threat activity amongst drivers keeping cybersecurity burnout high in Australia in 2025",
-            "url": "https://itwire.com/business-intelligence/new-sophos-report-finds-ai-adoption-and-increased-threat-activity-amongst-drivers-keeping-cybersecurity-burnout-high-in-australia-in-2025.html",
-            "urlToImage": "https://itwire.com/media/k2/items/cache/9c59f19fe3dff8d4d283180f5bebcb4d_XS.jpg",
-            "publishedAt": "2025-09-11T06:31:07Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "AI tools can help, but they can also cause trouble. What advisors need to know.",
-            "url": "https://www.livemint.com/ai/ai-tools-can-help-but-they-can-also-cause-trouble-what-advisors-need-to-know-11757569391129.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2025/09/11/1600x900/im-838587_1757569395160_1757569415031.jpg",
-            "publishedAt": "2025-09-11T06:30:10Z"
-        },
-        {
-            "source": {
-                "id": "37128a060981dbbe79321f096e7d1108",
-                "name": "U.S. News & World Report",
-                "url": "https://www.usnews.com",
-                "country": "us"
-            },
-            "title": "Asian Shares Are Mostly up After US Stocks Inch to More Records as Inflation Slows and Oracle Soars",
-            "url": "https://www.usnews.com/news/business/articles/2025-09-11/asian-shares-are-mostly-up-after-us-stocks-inch-to-more-records-as-inflation-slows-and-oracle-soars",
-            "urlToImage": "https://www.usnews.com/dims4/USNEWS/966c72d/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Fe8%2F70c4aa028a48477b4357eef96298fb%2F0188826c1313413995927726c7967818South_Korea_Financial_Markets_73530.jpg",
-            "publishedAt": "2025-09-11T06:22:00Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "ChatGPT and Claude Built a $250K Side Hustle - No Ads, No Team",
-            "url": "https://techbullion.com/chatgpt-and-claude-built-a-250k-side-hustle-no-ads-no-team/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/side.png",
-            "publishedAt": "2025-09-11T06:07:30Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "How Modern IT Solutions Drive Business Growth",
-            "url": "https://techbullion.com/how-modern-it-solutions-drive-business-growth/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/a35c9651-78dc-431c-9d90-1e823a599345.png",
-            "publishedAt": "2025-09-11T06:01:43Z"
-        },
-        {
-            "source": {
-                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-                "name": "The Financial Express",
-                "url": "https://www.financialexpress.com",
-                "country": "in"
-            },
-            "title": "‘Only around 28% companies are scaling up AI in a big way’, says Sandip Patel, Managing Director, IBM India",
-            "url": "https://www.financialexpress.com/business/industry-only-around-28-companies-are-scaling-up-ai-in-a-big-way-says-sandip-patel-managing-director-ibm-india-3974081/",
-            "urlToImage": "https://images.financialexpressdigital.com/2025/09/Sandip-Patel-managing-director-IBM-India.jpg",
-            "publishedAt": "2025-09-11T05:58:33Z"
-        },
-        {
-            "source": {
-                "id": "ead461b236347a41a0e3561761126583",
-                "name": "Independent.ie",
-                "url": "https://www.independent.ie",
-                "country": "ie"
-            },
-            "title": "Multinational Equifax establishes its first AI Innovation Lab outside the US in Wexford",
-            "url": "https://www.independent.ie/business/technology/multinational-equifax-establishes-its-first-ai-innovation-lab-outside-the-us-in-wexford/a1201328568.html",
-            "urlToImage": "https://focus.independent.ie/thumbor/QM6zOHpPRop5Xo1lEG3sDwU55J8=/0x5:2000x1338/629x0/prod-mh-ireland/de67fbd4-9dae-4b6c-a345-db03091c9908/7da002c3-a567-4352-b293-1b02196ff3ed/de67fbd4-9dae-4b6c-a345-db03091c9908.jpg",
-            "publishedAt": "2025-09-11T05:40:00Z"
-        },
-        {
-            "source": {
-                "id": "b33a42ef1c098421f66aad47a76d6a3c",
-                "name": "The Hindu",
-                "url": "https://www.thehindu.com",
-                "country": "in"
-            },
-            "title": "U.S. Senator pushes FTC to investigate Microsoft for 'gross cybersecurity negligence'",
-            "url": "https://www.thehindu.com/sci-tech/technology/us-senator-pushes-ftc-to-investigate-microsoft-for-gross-cybersecurity-negligence/article70036315.ece",
-            "urlToImage": "https://th-i.thgim.com/public/incoming/gwl71i/article70036317.ece/alternates/LANDSCAPE_1200/2025-07-31T084055Z_2126348847_RC29TY9OKS5Q_RTRMADP_3_TECH-RESULTS-AI.JPG",
-            "publishedAt": "2025-09-11T05:34:29Z"
-        },
-        {
-            "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
-                "country": "in"
-            },
-            "title": "Vijay Kedia Backed TechD Cybersecurity IPO To Open Next Week-Check Price Band, Key Dates And More",
-            "url": "https://www.ndtvprofit.com/ipos/vijay-kedia-backed-techd-cybersecurity-ipo-to-open-next-weekcheck-price-band-key-dates-and-more",
-            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-07-14%2F5e5gb15c%2FIPO-canva.png?rect=0%2C42%2C1115%2C585&w=1200&auto=format%2Ccompress&ogImage=true",
-            "publishedAt": "2025-09-11T04:55:51Z"
         }
     ]
 }
