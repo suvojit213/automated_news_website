@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-09-14T04:17:18.485684Z",
+    "lastUpdatedAt": "2025-09-14T05:13:24.311733Z",
     "articles": [
+        {
+            "source": {
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
+                "country": "in"
+            },
+            "title": "Proposals for AI solutions invited under Kerala AI initiative",
+            "url": "https://www.thehindu.com/news/national/kerala/proposals-for-ai-solutions-invited-under-kerala-ai-initiative/article70046819.ece",
+            "urlToImage": "https://www.thehindu.com/theme/images/og-image.png",
+            "publishedAt": "2025-09-13T17:10:38Z"
+        },
+        {
+            "source": {
+                "id": "26269dbc42635df9af8c24f3cdab8e37",
+                "name": "Cable News Network",
+                "url": "https://edition.cnn.com",
+                "country": "us"
+            },
+            "title": "Vatican gathers world’s big thinkers ahead of first-ever pop concert",
+            "url": "https://edition.cnn.com/2025/09/13/europe/vatican-ai-summit-intl",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2025-09-12t165731z-735230979-rc29qgaq0g93-rtrmadp-3-pope-leo.JPG?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2025-09-13T16:38:45Z"
+        },
+        {
+            "source": {
+                "id": "d5a02d07558c5563d72576efc406e608",
+                "name": "ABC17News.com",
+                "url": "https://abc17news.com",
+                "country": "us"
+            },
+            "title": "Vatican gathers world’s big thinkers ahead of first-ever pop concert",
+            "url": "https://abc17news.com/news/national-world/cnn-world/2025/09/13/vatican-gathers-worlds-big-thinkers-ahead-of-first-ever-pop-concert/",
+            "urlToImage": "https://abc17news.b-cdn.net/abc17news.com/2025/09/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWZpaDI3ZnMwMDB0Mzk2bmtqMXIxejdl-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtZmlmbjd0bzAwMXgyZHA5MXRrbWRwMTg-scaled.jpg",
+            "publishedAt": "2025-09-13T16:38:45Z"
+        },
         {
             "source": {
                 "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
@@ -408,6 +444,33 @@
             "url": "https://wattsupwiththat.com/2025/09/12/germany-just-noticed-renewable-energy-has-a-cybersecurity-problem/",
             "urlToImage": "https://wattsupwiththat.com/wp-content/uploads/2025/09/xi-jinping-and-vladimir-putin.webp",
             "publishedAt": "2025-09-13T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "newser"
+            },
+            "title": "The Bots Are Changing the Way We Talk",
+            "url": "https://www.newser.com/story/375034/ai-models-are-changing-our-speech.html",
+            "urlToImage": "https://img1-azrcdn.newser.com/image/1633516-11-20250911083254-ai-models-changing-speech.jpeg",
+            "publishedAt": "2025-09-13 17:10:00"
+        },
+        {
+            "source": {
+                "name": "limaohio"
+            },
+            "title": "US electric grids under pressure from energy-hungry data centers are changing strategy",
+            "url": "https://www.limaohio.com/top-stories/2025/09/13/us-electric-grids-under-pressure-from-energy-hungry-data-centers-are-changing-strategy/",
+            "urlToImage": "https://www.limaohio.com/wp-content/uploads/2025/09/135361304_web1_AP25254502230745-600x400.jpg",
+            "publishedAt": "2025-09-13 17:06:00"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "European Provider Thwarts 1.5B PPS DDoS from 11K Hacked IoT Devices",
+            "url": "https://www.webpronews.com/european-provider-thwarts-1-5b-pps-ddos-from-11k-hacked-iot-devices/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-c98385a3-abd9-428a-83f3-07a19e5ddfd0.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-09-13 16:46:55"
         },
         {
             "source": {
@@ -3123,60 +3186,6 @@
             "url": "https://news.abplive.com/technology/gemini-ai-images-studio-nano-banana-3d-model-figurines-photo-editing-picture-generation-1800050",
             "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2025/09/12/2ab137564fd7d5d0feb93806903ad5b717576810007081297_original.jpg",
             "publishedAt": "2025-09-12 12:44:54"
-        },
-        {
-            "source": {
-                "name": "technologyreview"
-            },
-            "title": "The Download: America’s gun crisis, and how AI video models work",
-            "url": "https://www.technologyreview.com/2025/09/12/1123577/the-download-americas-gun-crisis-and-how-ai-video-models-work/",
-            "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2025/09/GettyImages-695270060.jpg?resize=1200%2C600",
-            "publishedAt": "2025-09-12 12:10:00"
-        },
-        {
-            "source": {
-                "name": "newswise"
-            },
-            "title": "Exploring the factors of major road traffic accidents: A case study of China",
-            "url": "https://www.newswise.com/articles/exploring-the-factors-of-major-road-traffic-accidents-a-case-study-of-china/?sc=rssn",
-            "urlToImage": "https://www.newswise.com/legacy/image.php?height=334&image=%2Fimages%2Fuploads%2F2025%2F09%2F12%2F68c3acf4119cf_image29.png&width=502",
-            "publishedAt": "2025-09-12 12:07:14"
-        },
-        {
-            "source": {
-                "name": "newswise"
-            },
-            "title": "The Transformative Power of Generative AI for Supply Chain Management: Theoretical Framework and Agenda",
-            "url": "https://www.newswise.com/articles/the-transformative-power-of-generative-ai-for-supply-chain-management-theoretical-framework-and-agenda/?sc=rssn",
-            "urlToImage": "https://www.newswise.com/legacy/image.php?height=334&image=%2Fimages%2Fuploads%2F2025%2F09%2F12%2F68c3ad7d2cfbf_image30.png&width=502",
-            "publishedAt": "2025-09-12 12:07:13"
-        },
-        {
-            "source": {
-                "name": "timesnownews"
-            },
-            "title": "OnePlus 15 Leaks: Price, Release Date In India, Design, Camera, Specs, Everything You Need To Know",
-            "url": "https://www.timesnownews.com/technology-science/oneplus-15-leaks-price-release-date-in-india-design-camera-specs-everything-you-need-to-know-article-152788667",
-            "urlToImage": "https://images.timesnownews.com/thumb/msid-152788661,thumbsize-21312,width-1280,height-720,resizemode-75/152788661.jpg",
-            "publishedAt": "2025-09-12 11:10:58"
-        },
-        {
-            "source": {
-                "name": "sdxcentral"
-            },
-            "title": "Oracle wins NATO cloud contract for mission-critical systems",
-            "url": "https://www.sdxcentral.com/news/oracle-wins-nato-cloud-contract-for-mission-critical-systems/",
-            "urlToImage": "https://media.datacenterdynamics.com/media/images/GettyImages-2207831418.2e16d0ba.fill-1200x630.jpg",
-            "publishedAt": "2025-09-12 11:07:24"
-        },
-        {
-            "source": {
-                "name": "livemint"
-            },
-            "title": "How many images can you generate using Gemini Nano Banana? Check daily limit for free, Pro and Ultra users",
-            "url": "https://www.livemint.com/technology/tech-news/how-many-images-can-you-generate-using-gemini-nano-banana-check-daily-limit-for-free-pro-and-ultra-users-11757672514496.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2025/09/12/1600x900/logo/Gemini_Nano_Banana_1757674810585_1757674810759.jpg",
-            "publishedAt": "2025-09-12 11:05:45"
         }
     ]
 }
