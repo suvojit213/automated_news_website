@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-09-14T08:17:07.402752Z",
+    "lastUpdatedAt": "2025-09-14T09:13:15.233763Z",
     "articles": [
+        {
+            "source": {
+                "id": "e1b896cc9b8775d3aaac2320e6dcf1f6",
+                "name": "Crypto News",
+                "url": "https://crypto.news",
+                "country": "lt"
+            },
+            "title": "Nvidia researchers call SLMs the future of AI: Here's why",
+            "url": "https://crypto.news/nvidia-researchers-call-slms-future-ai-heres-why/",
+            "urlToImage": "https://crypto.news/app/uploads/2022/08/Nvidia.jpg",
+            "publishedAt": "2025-09-13T21:00:00Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "AI shakes up call center industry, but some tasks are still better left to the humans",
+            "url": "https://japantoday.com/category/tech/ai-shakes-up-the-call-center-industry-but-some-tasks-are-still-better-left-to-the-humans",
+            "urlToImage": "https://media.japantoday.com/img/store/f2/be/4b941e4a366e3046f1be556509d34e68b230/download/_w1700.jpeg",
+            "publishedAt": "2025-09-13T20:30:00Z"
+        },
         {
             "source": {
                 "id": "c477009a98f37b19212d8ae20ce8c018",
@@ -504,6 +528,42 @@
             "url": "https://wattsupwiththat.com/2025/09/12/germany-just-noticed-renewable-energy-has-a-cybersecurity-problem/",
             "urlToImage": "https://wattsupwiththat.com/wp-content/uploads/2025/09/xi-jinping-and-vladimir-putin.webp",
             "publishedAt": "2025-09-13T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "Apple iPhone 17 Pro vs. iPhone 16 Pro: I compared both models, and there's a big difference",
+            "url": "https://www.zdnet.com/article/apple-iphone-17-pro-vs-iphone-16-pro-i-compared-both-models-and-theres-a-big-difference/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/747d75eb60a49b9849dcf2a0e755d5bf34aa0777/2025/09/09/bc3f3a8d-d072-4ba0-b689-5507085ac9d5/17pro.jpg?auto=webp&width=1280",
+            "publishedAt": "2025-09-13 20:31:36"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "iPhone 17 Pro Max vs. Google Pixel 10 Pro XL: I compared both and here's the winner",
+            "url": "https://www.zdnet.com/article/iphone-17-pro-max-vs-google-pixel-10-pro-xl-i-compared-both-and-heres-the-winner/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/98a446859f99794310732ba5c2f0b11da9095495/2025/09/10/40a427c5-76d6-426f-be16-f4cc69550c65/iphone-17-pro-max-vs-google-pixel-10-pro-xl.jpg?auto=webp&width=1280",
+            "publishedAt": "2025-09-13 20:31:13"
+        },
+        {
+            "source": {
+                "name": "enewscourier"
+            },
+            "title": "(Guest Column) We can’t let China lead in future of automobile industry",
+            "url": "https://enewscourier.com/2025/09/13/guest-column-we-cant-let-china-lead-in-future-of-automobile-industry/",
+            "urlToImage": "https://enewscourier.com/wp-content/uploads/sites/9/2025/09/Mike-Shaw-Headshot.jpg?w=680",
+            "publishedAt": "2025-09-13 20:24:21"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Databricks AI Chief Naveen Rao Exits to Launch Hardware Startup",
+            "url": "https://www.webpronews.com/databricks-ai-chief-naveen-rao-exits-to-launch-hardware-startup/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-52752c2f-f5b2-45c1-84cd-1ae77b1764df.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-09-13 20:19:14"
         },
         {
             "source": {
@@ -3147,60 +3207,6 @@
             "url": "https://www.pcgamer.com/hardware/europes-first-exascale-supercomputer-is-now-up-and-running-using-24-000-nvidia-gh200-superchips-to-perform-more-than-one-quintillion-operations-per-second-with-nearly-1-000-000-terabytes-of-storage/",
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/d7wLd6xHzST7cE7gXWAhDn-1280-80.jpg",
             "publishedAt": "2025-09-12 16:05:26"
-        },
-        {
-            "source": {
-                "name": "itpro"
-            },
-            "title": "What will the Quantum-Safe 360 Alliance mean for your business and its post-quantum security posture?",
-            "url": "https://www.itpro.com/technology/what-quantum-safe-360-alliance-means-for-your-business-post-quantum-security",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/mDJJrKFoJh9gAZfJnnDtSj-1280-80.jpg",
-            "publishedAt": "2025-09-12 16:05:07"
-        },
-        {
-            "source": {
-                "name": "siliconangle"
-            },
-            "title": "The AI infrastructure scramble, Oracle’s OpenAI bonanza, and the return of IPOs",
-            "url": "https://siliconangle.com/2025/09/12/ai-infrastructure-scramble-oracles-openai-bonanza-return-ipos/",
-            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/09/datacenterconstruction.png",
-            "publishedAt": "2025-09-12 16:03:49"
-        },
-        {
-            "source": {
-                "name": "businessinsider_us"
-            },
-            "title": "The AI message from Silicon Valley: 'No one's slowing down'",
-            "url": "https://www.businessinsider.com/ai-message-from-silicon-valley-no-one-slowing-down-2025-9",
-            "urlToImage": "https://i.insider.com/68c44001183847aa39d6ab88?width=700",
-            "publishedAt": "2025-09-12 15:55:23"
-        },
-        {
-            "source": {
-                "name": "fortune"
-            },
-            "title": "OpenAI’s deal with Microsoft could pave the way for a potential IPO",
-            "url": "https://fortune.com/2025/09/12/openai-microsoft-deal-ipo-restructuring-nonprofit/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-1778707567.jpg?w=2048",
-            "publishedAt": "2025-09-12 15:53:29"
-        },
-        {
-            "source": {
-                "name": "news_ncsu"
-            },
-            "title": "Ethics in Artificial Intelligence",
-            "url": "https://news.ncsu.edu/2025/09/ethics-in-ai/",
-            "urlToImage": "https://news.ncsu.edu/wp-content/uploads/2025/09/Ethics-in-AI-hero-1-scaled.jpg",
-            "publishedAt": "2025-09-12 15:45:20"
-        },
-        {
-            "source": {
-                "name": "foxnews"
-            },
-            "title": "Amazon backs AI startup that lets you make TV shows",
-            "url": "https://www.foxnews.com/tech/amazon-backs-ai-startup-lets-you-make-tv-shows",
-            "urlToImage": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/08/931/523/istock-man-watching-tv-507831621.jpg?tl=1&ve=1",
-            "publishedAt": "2025-09-12 15:40:28"
         }
     ]
 }
