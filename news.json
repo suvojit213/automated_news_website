@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2025-09-13T23:12:20.776871Z",
+    "lastUpdatedAt": "2025-09-14T01:13:40.985817Z",
     "articles": [
+        {
+            "source": {
+                "id": "839b9d172147498877bab641815b0631",
+                "name": "Entrepreneur",
+                "url": "https://www.entrepreneur.com",
+                "country": "us"
+            },
+            "title": "Future-Proof Your IT Career with Lifetime Access to 90+ Cybersecurity Courses",
+            "url": "https://www.entrepreneur.com/science-technology/future-proof-your-it-career-with-lifetime-access-to-90/496962",
+            "urlToImage": "https://assets.entrepreneur.com/content/3x2/2000/1757520497-InfoSec4TCPlatinumMembership1.png?format=pjeg&auto=webp",
+            "publishedAt": "2025-09-13T13:00:00Z"
+        },
+        {
+            "source": {
+                "id": "8da923084554b2821233d6c5c5f02c97",
+                "name": "Fox News",
+                "url": "https://www.foxnews.com",
+                "country": "us"
+            },
+            "title": "Mystery company's Wisconsin data center draws backlash",
+            "url": "https://www.foxnews.com/tech/ai-newsletter-backlash-over-mystery-companys-data-center",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/data-center-ashburn-virginia.jpg",
+            "publishedAt": "2025-09-13T12:30:15Z"
+        },
+        {
+            "source": {
+                "id": "01558c024928d45cf320f6f75eede787",
+                "name": "The Guardian",
+                "url": "https://www.theguardian.com",
+                "country": "gb"
+            },
+            "title": "‘It’s going to be a life skill’: educators discuss the impact of AI on university education",
+            "url": "https://www.theguardian.com/education/2025/sep/13/its-going-to-be-a-life-skill-educators-discuss-the-impact-of-ai-on-university-education",
+            "urlToImage": "https://i.guim.co.uk/img/media/1a4dadba361b8d8cdacd142af1599f6747d11439/1469_144_7321_5857/master/7321.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fb05853f7267f0ba18478bb55fd79da0",
+            "publishedAt": "2025-09-13T12:00:05Z"
+        },
+        {
+            "source": {
+                "id": "ead461b236347a41a0e3561761126583",
+                "name": "Independent.ie",
+                "url": "https://www.independent.ie",
+                "country": "ie"
+            },
+            "title": "Luke O’Neill: Forget real ale - try the AI version as brewers get a taste for the new technology",
+            "url": "https://www.independent.ie/opinion/analysis/luke-oneill-forget-real-ale-try-the-ai-version-as-brewers-get-a-taste-for-the-new-technology/a738824974.html",
+            "urlToImage": "https://focus.independent.ie/thumbor/pt1wN6j-bBgRIpN_SZ4K4zY28II=/0x0:3238x2158/629x0/prod-mh-ireland/e502d081-879b-4d7c-80cc-3e43bcac7129/1e0005f7-b9e3-468e-bbda-d171c79d6025/e502d081-879b-4d7c-80cc-3e43bcac7129.jpg",
+            "publishedAt": "2025-09-13T12:00:00Z"
+        },
+        {
+            "source": {
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
+            },
+            "title": "New cyber-security campaign launched to remind public to Stop and Check suspicious messages, calls",
+            "url": "https://www.straitstimes.com/tech/new-cyber-security-campaign-launched-to-remind-public-to-stop-and-check-suspicious-messages-calls",
+            "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/aca4786ec72552544a486253e3b94c9ef911bbcecc5de056de31b71f6de32d1e",
+            "publishedAt": "2025-09-13T12:00:00Z"
+        },
         {
             "source": {
                 "id": "63361c66f51ee0c82a5325ba1c7b8d06",
@@ -276,6 +336,87 @@
             "url": "https://wattsupwiththat.com/2025/09/12/germany-just-noticed-renewable-energy-has-a-cybersecurity-problem/",
             "urlToImage": "https://wattsupwiththat.com/wp-content/uploads/2025/09/xi-jinping-and-vladimir-putin.webp",
             "publishedAt": "2025-09-13T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "nbcphiladelphia"
+            },
+            "title": "Data centers threaten to overload US electricity grids",
+            "url": "https://www.nbcphiladelphia.com/news/national-international/us-electric-grids-under-pressure-energy-hungry-data-centers/4268670/",
+            "urlToImage": "https://media.nbcphiladelphia.com/2025/09/AP25254502230745.jpg?fit=4000%2C2667&quality=85&strip=all",
+            "publishedAt": "2025-09-13 12:53:12"
+        },
+        {
+            "source": {
+                "name": "nbcnewyork"
+            },
+            "title": "Data centers threaten to overload US electricity grids",
+            "url": "https://www.nbcnewyork.com/news/national-international/us-electric-grids-under-pressure-energy-hungry-data-centers/6391156/",
+            "urlToImage": "https://media.nbcnewyork.com/2025/09/AP25254502230745.jpg?fit=4000%2C2667&quality=85&strip=all",
+            "publishedAt": "2025-09-13 12:53:12"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "OpenAI Inks $300B Oracle Deal for 4.5GW AI Data Centers",
+            "url": "https://www.webpronews.com/openai-inks-300b-oracle-deal-for-4-5gw-ai-data-centers/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-56d37852-2794-4de2-942d-5845cf90e152.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-09-13 12:44:07"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Top 10 Eye Care Monitors in India",
+            "url": "https://www.analyticsinsight.net/gadgets/top-10-eye-care-monitors-in-india",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-09-13%2F7znb3ide%2FTop-10-Eye-Care-Monitors-in-India.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-09-13 12:00:00"
+        },
+        {
+            "source": {
+                "name": "cnet"
+            },
+            "title": "These 2 Cities Are Pushing Back on Data Centers. Here's What They're Worried About",
+            "url": "https://www.cnet.com/tech/services-and-software/these-2-cities-are-pushing-back-on-data-centers-heres-what-theyre-worried-about/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/85d2f4e43d0dd7590a82f5bc41c23a87f0063ba3/hub/2025/09/11/f840fd48-7ecc-4601-88d8-7898a42b812d/gettyimages-1314761254.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-09-13 12:00:00"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "Apple could make Wi-Fi “just work” with a new take on AirPort — and the iPhone Air’s wireless chips might be the key",
+            "url": "https://www.tomsguide.com/computing/routers/apple-could-make-wi-fi-just-work-with-a-new-take-on-airport-and-the-iphone-airs-wireless-chips-might-be-the-key",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/ijymLiojaAUmsmqYDSyqFP-1280-80.jpg",
+            "publishedAt": "2025-09-13 12:00:00"
+        },
+        {
+            "source": {
+                "name": "digitaltrends"
+            },
+            "title": "Scientists invent a wearable sub-woofer for epic bass while gaming in VR",
+            "url": "https://www.digitaltrends.com/home-theater/scientists-invent-a-wearable-sub-woofer-for-epic-bass-while-gaming-in-vr/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/09/bass-skin-title.jpg?p=1&resize=1200%2C630",
+            "publishedAt": "2025-09-13 11:45:50"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Arm Holdings Invests £100M in Bristol AI Chip Design Center, Creating 100 Jobs",
+            "url": "https://www.webpronews.com/arm-holdings-invests-100m-in-bristol-ai-chip-design-center-creating-100-jobs/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-7eb94b88-9fe8-4339-a85d-0cb755f4e08f.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-09-13 11:44:45"
+        },
+        {
+            "source": {
+                "name": "cxotoday"
+            },
+            "title": "What is agentic AI and how is it helping organisations in efficient functioning?",
+            "url": "https://cxotoday.com/news-analysis/what-is-agentic-ai-and-how-is-it-helping-organisations-in-efficient-functioning/",
+            "urlToImage": "https://cxotoday.com/wp-content/uploads/2025/09/iStock-2193795785.jpg",
+            "publishedAt": "2025-09-13 11:44:28"
         },
         {
             "source": {
@@ -3018,132 +3159,6 @@
             "url": "https://pragativadi.com/nano-banana-3d-figurine-trend-takes-over-social-media-heres-how-to-try-it/",
             "urlToImage": "https://pragativadi.com/wp-content/uploads/2025/09/%E2%80%98Nano-Banana-3D-Figurine-Trend-Takes-Over-Social-Media-%E2%80%94-Heres-How-To-Try-It-1-750x375.jpg",
             "publishedAt": "2025-09-12 09:21:57"
-        },
-        {
-            "source": {
-                "name": "whathifi"
-            },
-            "title": "AirPods Pro 3 vs AirPods 4 with ANC: what are the differences between Apple's noise-cancelling earbuds?",
-            "url": "https://www.whathifi.com/headphones/wireless-earbuds/airpods-pro-3-vs-airpods-4-with-anc-what-are-the-differences-between-apples-noise-cancelling-earbuds",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/qkkqs2UJ2p5ggUhDHHpkUk-1280-80.jpg",
-            "publishedAt": "2025-09-12 09:07:00"
-        },
-        {
-            "source": {
-                "name": "thehindu"
-            },
-            "title": "100Unicorns portfolio VideoVerse acquired by Blackrock funded Minutes Media",
-            "url": "https://www.thehindu.com/brandhub/100unicorns-portfolio-videoverse-acquired-by-blackrock-funded-minutes-media/article70040758.ece",
-            "urlToImage": "https://th-i.thgim.com/public/brandhub/md3mhn/article70040865.ece/alternates/LANDSCAPE_1200/lead-3-1%201.jpg",
-            "publishedAt": "2025-09-12 09:05:38"
-        },
-        {
-            "source": {
-                "name": "courant"
-            },
-            "title": "Car Doctor: ‘What are the most common issues you see on newer cars?’",
-            "url": "https://www.courant.com/2025/09/12/car-doctor-what-are-the-most-common-issues-you-see-on-newer-cars/",
-            "urlToImage": "https://www.courant.com/wp-content/uploads/2025/07/Media_Nextdoor_News_18787.jpg?strip=all&w=1400px",
-            "publishedAt": "2025-09-12 09:05:09"
-        },
-        {
-            "source": {
-                "name": "engadget"
-            },
-            "title": "The best laptop power banks for 2025",
-            "url": "https://www.engadget.com/computing/accessories/best-laptop-power-bank-120040388.html",
-            "urlToImage": "https://o.aolcdn.com/images/dims?client=19f2b5e49a271b2bde77&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-12%2Fb671f2e0-bdeb-11ef-bfff-8f744e496670&resize=1400%2C787&signature=a7f24feeb89a2ed71389ebd5ada4f9a0f042bc73",
-            "publishedAt": "2025-09-12 09:01:25"
-        },
-        {
-            "source": {
-                "name": "theguardian"
-            },
-            "title": "MP3 players are making a comeback – I tested 15 to find the best",
-            "url": "https://www.theguardian.com/thefilter/2025/sep/12/best-mp3-players-uk",
-            "urlToImage": "https://i.guim.co.uk/img/media/d2853bf24c7cd4b8b919ae1a40ef0273615eda97/0_0_5000_4000/master/5000.jpg?crop=none&dpr=2&s=none&width=1020",
-            "publishedAt": "2025-09-12 09:00:31"
-        },
-        {
-            "source": {
-                "name": "insider"
-            },
-            "title": "As its Microsoft nightmare nears an end, OpenAI's 'full stack' dream comes into view",
-            "url": "https://www.businessinsider.com/openai-full-stack-dream-microsoft-nightmare-2025-9",
-            "urlToImage": "https://i.insider.com/68c36a6557d362d375e80584?width=700",
-            "publishedAt": "2025-09-12 09:00:02"
-        },
-        {
-            "source": {
-                "name": "insider"
-            },
-            "title": "Anthropic bot crawlers feast on web content and give little back, a new ranking shows",
-            "url": "https://www.businessinsider.com/anthropic-bot-crawlers-feast-on-web-give-little-back-ranking-2025-9",
-            "urlToImage": "https://i.insider.com/68bf50b957d362d375e7c3cd?width=700",
-            "publishedAt": "2025-09-12 09:00:02"
-        },
-        {
-            "source": {
-                "name": "macrumors"
-            },
-            "title": "How to Get Your iPhone Ready for iOS 26",
-            "url": "https://www.macrumors.com/how-to/get-your-iphone-ready-for-ios-26/",
-            "urlToImage": "https://images.macrumors.com/t/AvsVlDLYUDnH9IDgGXWrzEf6q7k=/2500x/article-new/2025/09/iOS-26-on-iPhone-Feature.jpg",
-            "publishedAt": "2025-09-12 09:00:00"
-        },
-        {
-            "source": {
-                "name": "techtarget"
-            },
-            "title": "What is computerized physician order entry (CPOE)?",
-            "url": "https://www.techtarget.com/searchhealthit/definition/computerized-physician-order-entry-CPOE",
-            "urlToImage": "https://www.techtarget.com/rms/onlineimages/awati_rahul.jpg",
-            "publishedAt": "2025-09-12 09:00:00"
-        },
-        {
-            "source": {
-                "name": "telegraph"
-            },
-            "title": "The best 4K TVs of 2025, tried and tested with expert advice on how to choose",
-            "url": "https://www.telegraph.co.uk/recommended/tech/best-4k-ultra-hd-tvs/",
-            "urlToImage": "https://www.telegraph.co.uk/content/dam/recommended/2025/06/10/TELEMMGLPICT000428149662_17495688587530_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg?impolicy=OG-Standard",
-            "publishedAt": "2025-09-12 08:59:21"
-        },
-        {
-            "source": {
-                "name": "news24online"
-            },
-            "title": "Gemini Nano Banana AI 3D figurines: Step-by-step guide to create yours for free",
-            "url": "https://news24online.com/tech/google-gemini-nano-banana-ai-3d-figurines-viral-trend-step-by-step-guide-to-create-yours-for-free/631540/",
-            "urlToImage": "https://news24online.com/wp-content/uploads/2025/09/gemini-nano-banana-ai-3d-figurines_3e767b.jpg",
-            "publishedAt": "2025-09-12 08:08:34"
-        },
-        {
-            "source": {
-                "name": "timesnownews"
-            },
-            "title": "'Nano Banana' Trend Goes Viral: Why Is Internet So Obsessed?",
-            "url": "https://www.timesnownews.com/viral/nano-banana-trend-goes-viral-why-is-internet-so-obsessed-gemini-nano-banana-ai-3d-figurines-google-ai-photos-gemini-2-5-flash-image-article-152787468",
-            "urlToImage": "https://images.timesnownews.com/thumb/msid-152787570,thumbsize-63662,width-1280,height-720,resizemode-75/152787570.jpg",
-            "publishedAt": "2025-09-12 08:04:02"
-        },
-        {
-            "source": {
-                "name": "computerweekly"
-            },
-            "title": "How AI can help to optimise supply chains under pressure",
-            "url": "https://www.computerweekly.com/feature/How-AI-can-help-to-optimise-supply-chains-under-pressure",
-            "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero%20Images/container-ship-cargo-transport-logistics-PhotoGallery-adobe_searchsitetablet_520X173.jpg",
-            "publishedAt": "2025-09-12 08:00:00"
-        },
-        {
-            "source": {
-                "name": "macrumors"
-            },
-            "title": "iPhone 17 Models Launch on September 19 With These New Features",
-            "url": "https://www.macrumors.com/2025/09/12/iphone-17-models-launch-sept-19-new-features/",
-            "urlToImage": "https://images.macrumors.com/t/jLjY9hcH8I1odrQifU5YRIWGudI=/1600x/article-new/2025/09/iphone-17-lineup.jpg",
-            "publishedAt": "2025-09-12 07:58:06"
         }
     ]
 }
