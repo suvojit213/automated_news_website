@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-09-14T09:13:15.233763Z",
+    "lastUpdatedAt": "2025-09-14T10:13:00.253903Z",
     "articles": [
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "Open-source power: How Ivan Isaev’s AI Projects are shaping the future",
+            "url": "https://techbullion.com/open-source-power-how-ivan-isaevs-ai-projects-are-shaping-the-future-2/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/IMG_2042-1000x600.jpeg",
+            "publishedAt": "2025-09-13T22:03:57Z"
+        },
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "AI can spot which patients need treatment to prevent vision loss in young adults",
+            "url": "https://medicalxpress.com/news/2025-09-ai-patients-treatment-vision-loss.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/ai-can-spot-which-pati.jpg",
+            "publishedAt": "2025-09-13T22:00:06Z"
+        },
         {
             "source": {
                 "id": "e1b896cc9b8775d3aaac2320e6dcf1f6",
@@ -528,6 +552,24 @@
             "url": "https://wattsupwiththat.com/2025/09/12/germany-just-noticed-renewable-energy-has-a-cybersecurity-problem/",
             "urlToImage": "https://wattsupwiththat.com/wp-content/uploads/2025/09/xi-jinping-and-vladimir-putin.webp",
             "publishedAt": "2025-09-13T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "knowledia"
+            },
+            "title": "Big Tech's energy-hungry data centers could be bumped off grids during emergencies",
+            "url": "https://news.knowledia.com/US/en/articles/big-tech-s-energy-hungry-data-centers-could-be-bumped-off-grids-during-4add799442e472e92c5aa8004a619ca615c38078",
+            "urlToImage": "https://i.abcnewsfe.com/a/77efdc39-5bac-409a-a19c-449354c55307/wirestory_46b42f141d0301d4c59314cc90e3eab5_16x9.jpg?w=1600",
+            "publishedAt": "2025-09-13 22:05:53"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Tesla Proxy Mistake Labels Musk’s xAI as ‘eXploratory AI,’ Sparks Synergy Talk",
+            "url": "https://www.webpronews.com/tesla-proxy-mistake-labels-musks-xai-as-exploratory-ai-sparks-synergy-talk/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-63126454-ef18-469a-b8e2-bd62c51c17b2.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-09-13 21:52:54"
         },
         {
             "source": {
@@ -3171,42 +3213,6 @@
             "url": "https://www.prnewswire.com/news-releases/asus-announces-the-most-powerful-proart-p16-to-date-featuring-the-new-asus-lumina-pro-oled-touchscreen-display-and-nvidia-geforce-rtx-5090-laptop-gpu-302555318.html",
             "urlToImage": "https://mma.prnewswire.com/media/2770744/ASUS_Computer_International___ASUS_ProArt_P16.jpg?p=original",
             "publishedAt": "2025-09-12 16:42:00"
-        },
-        {
-            "source": {
-                "name": "clickondetroit"
-            },
-            "title": "OpenAI reaches new agreement with Microsoft to change its corporate structure",
-            "url": "https://www.clickondetroit.com/business/2025/09/12/openai-reaches-new-agreement-with-microsoft-to-change-its-corporate-structure/",
-            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/LBQBHUJ4DBFQJF3RWWA6HT3NAA.jpg",
-            "publishedAt": "2025-09-12 16:33:35"
-        },
-        {
-            "source": {
-                "name": "deccanherald"
-            },
-            "title": "Google Pixel 10 Review: AI power and premium design shine",
-            "url": "https://www.deccanherald.com/technology/gadgets/google-pixel-10-review-ai-power-and-premium-design-shine-3725484",
-            "urlToImage": "https://media.assettype.com/deccanherald%2F2025-09-12%2F0yx8783x%2FPixel-10-Cover-Photo-Selected-1.jpg?ar=40%3A21&auto=format%2Ccompress&mode=crop&ogImage=true&w=1200",
-            "publishedAt": "2025-09-12 16:18:15"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "CIBC CIO Richard Jardim On Building A Bank For The Modern World",
-            "url": "https://www.forbes.com/sites/peterhigh/2025/09/12/cibc-cio-richard-jardim-on-building-a-bank-for-the-modern-world/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68c444547ef71ea8eb0e6d91/0x0.jpg?width=960",
-            "publishedAt": "2025-09-12 16:12:23"
-        },
-        {
-            "source": {
-                "name": "pcgamer"
-            },
-            "title": "Europe's first exascale supercomputer is now up and running, using 24,000 Nvidia GH200 Superchips to perform more than one quintillion operations per second with nearly 1,000,000 terabytes of storage",
-            "url": "https://www.pcgamer.com/hardware/europes-first-exascale-supercomputer-is-now-up-and-running-using-24-000-nvidia-gh200-superchips-to-perform-more-than-one-quintillion-operations-per-second-with-nearly-1-000-000-terabytes-of-storage/",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/d7wLd6xHzST7cE7gXWAhDn-1280-80.jpg",
-            "publishedAt": "2025-09-12 16:05:26"
         }
     ]
 }
