@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-09-15T07:15:00.557048Z",
+    "lastUpdatedAt": "2025-09-15T08:20:26.996375Z",
     "articles": [
+        {
+            "source": {
+                "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
+                "name": "Fortune",
+                "url": "https://fortune.com",
+                "country": "us"
+            },
+            "title": "North Korean hackers used ChatGPT to help forge deepfake ID",
+            "url": "https://fortune.com/2025/09/14/north-korean-hackers-openai-chatgpt-deepfake-id-south-korea-military/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-2234092483-e1757880790575.jpg?resize=1200,600",
+            "publishedAt": "2025-09-14T20:19:50Z"
+        },
+        {
+            "source": {
+                "id": "d5f1f8579b4e9b390feccfa1c0cf8028",
+                "name": "Arab News",
+                "url": "https://www.arabnews.com",
+                "country": "ar"
+            },
+            "title": "The US government vetting paradox",
+            "url": "https://www.arabnews.com/node/2615290",
+            "urlToImage": "https://www.arabnews.com/sites/default/files/authors/4634116-4362531-nadimshehadionline1copy.png",
+            "publishedAt": "2025-09-14T19:17:41Z"
+        },
         {
             "source": {
                 "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
@@ -108,6 +132,18 @@
             "url": "https://www.bloomberg.com/news/articles/2025-09-14/north-korean-hackers-used-chatgpt-to-help-forge-deepfake-id",
             "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/inQIMXmfzeN8/v0/1200x792.jpg",
             "publishedAt": "2025-09-14T15:00:00Z"
+        },
+        {
+            "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+            },
+            "title": "China This Week | A summit and a parade, and China’s cybersecurity strategy",
+            "url": "https://indianexpress.com/article/explained/explained-global/china-this-week-sco-parade-cyber-attacks-10235634/",
+            "urlToImage": "https://images.indianexpress.com/2025/09/china-tracker.jpg",
+            "publishedAt": "2025-09-14T14:51:26Z"
         },
         {
             "source": {
@@ -504,6 +540,69 @@
             "url": "https://www.forbes.com/sites/francoisbotha/2025/09/14/bringing-family-office-swissness-into-the-agentic-era/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68c6fd1823d2e4b94746cdb7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-09-14T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "benzinga"
+            },
+            "title": "Alibaba's $100M Investment Fuels X Square Robot's Push For Embodied AI, Global Sales, And Next-Gen Humanoids",
+            "url": "https://www.benzinga.com/news/topics/25/09/47659057/alibabas-100m-investment-fuels-x-square-robots-push-for-embodied-ai-global-sales-and-next-gen-humanoi",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/09/14/Alibaba-Cloud.jpeg?auto=jpg&dpr=1&fit=crop&height=480&optimize=medium&width=720",
+            "publishedAt": "2025-09-14 20:02:26"
+        },
+        {
+            "source": {
+                "name": "xda_developers"
+            },
+            "title": "This is the strangest operating system I've ever tried on my PC",
+            "url": "https://www.xda-developers.com/this-is-the-strangest-operating-system-ive-ever-tried-on-my-pc/",
+            "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/09/img_0836.jpg",
+            "publishedAt": "2025-09-14 20:00:19"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Karen Hao’s ‘Empire of AI’ Critiques OpenAI’s Rise to AGI Power",
+            "url": "https://www.webpronews.com/karen-haos-empire-of-ai-critiques-openais-rise-to-agi-power/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-00e055ee-bbd3-4801-a040-33071976ee86.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-09-14 19:42:53"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Qualcomm to Lead 2025 AI Edge Computing with Snapdragon Innovations",
+            "url": "https://www.webpronews.com/qualcomm-to-lead-2025-ai-edge-computing-with-snapdragon-innovations/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-4b3af77a-e1d0-43b0-a250-faa3350e4d8c.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-09-14 19:42:44"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "UT Austin’s RiboNN AI Speeds mRNA-Based Therapy Development",
+            "url": "https://www.webpronews.com/ut-austins-ribonn-ai-speeds-mrna-based-therapy-development/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-8d002082-fd81-4297-a956-986fa5f8339b.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-09-14 19:41:05"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Los Alamos Deploys OpenAI AI on Venado Supercomputer for Nuclear Research",
+            "url": "https://www.webpronews.com/los-alamos-deploys-openai-ai-on-venado-supercomputer-for-nuclear-research/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-57545ee7-ade3-4c90-b726-671cdd12de66.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-09-14 19:40:01"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Apple iPhone 17 Rumors: Slim Air Model, A19 Chips, and M5 iPad Pro Debut in 2025",
+            "url": "https://www.webpronews.com/apple-iphone-17-rumors-slim-air-model-a19-chips-and-m5-ipad-pro-debut-in-2025/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-9887b8ca-bb68-4cb8-9433-7dd451e125d4.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-09-14 19:30:33"
         },
         {
             "source": {
@@ -3012,126 +3111,6 @@
             "url": "https://timesofindia.indiatimes.com/india/cags-of-29-nations-pledge-focus-on-cybersecurity-audits-adopt-ai-and-ml/articleshow/123853560.cms",
             "urlToImage": "https://static.toiimg.com/thumb/msid-123853632,width-1070,height-580,imgsize-118313,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
             "publishedAt": "2025-09-12T13:25:00Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "Atom-thin crystals provide new way to power the future of computer memory",
-            "url": "https://phys.org/news/2025-09-atom-thin-crystals-power-future.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/atom-thin-crystals-sho.jpg",
-            "publishedAt": "2025-09-12T13:14:04Z"
-        },
-        {
-            "source": {
-                "id": "e553cce06d349ac1f7fbb7618a979256",
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com",
-                "country": "us"
-            },
-            "title": "Believe in A.I.? Buy Beaten-Down Value Stocks.",
-            "url": "https://www.nytimes.com/2025/09/12/business/ai-investing-value-stocks.html",
-            "urlToImage": "https://static01.nyt.com/images/2025/09/14/business/14strategies-illo/14strategies-illo-facebookJumbo.jpg",
-            "publishedAt": "2025-09-12T13:00:06Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Not just AI: 200-year-old middle-market trap can threaten Indian IT jobs, AI founder flags hidden warning signs",
-            "url": "https://economictimes.indiatimes.com/magazines/panache/not-just-ai-200-year-old-middle-market-trap-can-threaten-indian-it-jobs-ai-founder-flags-hidden-warning-signs/articleshow/123850531.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-123852770,width-1200,height-630,imgsize-49558,overlay-etpanache/articleshow.jpg",
-            "publishedAt": "2025-09-12T12:41:00Z"
-        },
-        {
-            "source": {
-                "id": "90a6e6fbc82cfa821ac49fdb5c404789",
-                "name": "NewsX",
-                "url": "https://www.newsx.com",
-                "country": "in"
-            },
-            "title": "Cyber Protectors - Building the Next Generation of Ethical Hackers in India PNN Digital",
-            "url": "https://www.newsx.com/business/cyber-protectors-building-the-next-generation-of-ethical-hackers-in-india-66719/",
-            "urlToImage": "https://www.newsx.com/wp-content/uploads/2025/09/Cyber-Protectors-Building-the-Next-Generation-of-Ethical-Hackers.avif",
-            "publishedAt": "2025-09-12T12:40:01Z"
-        },
-        {
-            "source": {
-                "id": "59749bcce0ec90ed59071c45c44738b7",
-                "name": "Siliconrepublic.com",
-                "url": "https://www.siliconrepublic.com",
-                "country": "ie"
-            },
-            "title": "Why autonomous vehicle security needs to be hard and soft",
-            "url": "https://www.siliconrepublic.com/enterprise/autonomous-vehicle-security-hardware-software-tesla-cruise-waymo-flexxon",
-            "urlToImage": "https://www.siliconrepublic.com/wp-content/uploads/2025/09/waymo_driverless_car_white_street.jpeg",
-            "publishedAt": "2025-09-12T12:30:22Z"
-        },
-        {
-            "source": {
-                "id": "28bc60a23a7bf89e60f893506992a3fe",
-                "name": "Daily Excelsior",
-                "url": "https://www.dailyexcelsior.com",
-                "country": "in"
-            },
-            "title": "Albania's leader says his new Cabinet includes AI 'minister' to fight corruption",
-            "url": "https://www.dailyexcelsior.com/albanias-leader-says-his-new-cabinet-includes-ai-minister-to-fight-corruption/",
-            "urlToImage": "https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2025/09/Minister-1.jpg",
-            "publishedAt": "2025-09-12T12:24:36Z"
-        },
-        {
-            "source": {
-                "id": "e553cce06d349ac1f7fbb7618a979256",
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com",
-                "country": "us"
-            },
-            "title": "The Billion-Dollar Stakes for OpenAI",
-            "url": "https://www.nytimes.com/2025/09/12/business/dealbook/openai-microsoft-governance-costs.html",
-            "urlToImage": "https://static01.nyt.com/images/2025/09/12/multimedia/12db-altman-jvhp/12db-altman-jvhp-facebookJumbo.jpg",
-            "publishedAt": "2025-09-12T12:01:56Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "AI and Ethanol Fuel: Gadkari's Vision for Agricultural Transformation",
-            "url": "https://www.devdiscourse.com/article/headlines/3625618-ai-and-ethanol-fuel-gadkaris-vision-for-agricultural-transformation",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/11_09_2025_21_12_52_3211792.jpg?width=920&format=jpeg",
-            "publishedAt": "2025-09-12T11:51:03Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "generated minister to curb corruption",
-            "url": "https://www.lokmattimes.com/international/albania-appoints-worlds-first-ai-generated-minister-to-curb-corruption/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202509123508154_202509.jpg",
-            "publishedAt": "2025-09-12T11:15:17Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "generated minister to curb corruption",
-            "url": "https://www.lokmattimes.com/technology/albania-appoints-worlds-first-ai-generated-minister-to-curb-corruption-1/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202509123508154_202509.jpg",
-            "publishedAt": "2025-09-12T11:15:17Z"
         }
     ]
 }
