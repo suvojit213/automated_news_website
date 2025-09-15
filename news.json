@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-09-15T06:24:12.382522Z",
+    "lastUpdatedAt": "2025-09-15T07:15:00.557048Z",
     "articles": [
+        {
+            "source": {
+                "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
+                "name": "Fortune",
+                "url": "https://fortune.com",
+                "country": "us"
+            },
+            "title": "Housing market: the 'most critical' variable for predicting recessions is at lowest since pandemic",
+            "url": "https://fortune.com/2025/09/14/housing-market-recession-warning-building-permits-residential-investment-zandi/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-2229115477-e1757871936432.jpg?resize=1200,600",
+            "publishedAt": "2025-09-14T19:09:33Z"
+        },
+        {
+            "source": {
+                "id": "6534c1541b974602cc2ed040c2e4038f",
+                "name": "Livescience.com",
+                "url": "https://www.livescience.com",
+                "country": "gb"
+            },
+            "title": "AI could use online images as a backdoor into your computer, alarming new study suggests",
+            "url": "https://www.livescience.com/technology/artificial-intelligence/ai-could-use-online-images-as-a-backdoor-into-your-computer-alarming-new-study-suggests",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/hb89B7aMthcdUR3mfh89FX.jpg",
+            "publishedAt": "2025-09-14T18:33:00Z"
+        },
         {
             "source": {
                 "id": "3989f52bbec2d3be8442e2851b59e79e",
@@ -480,6 +504,24 @@
             "url": "https://www.forbes.com/sites/francoisbotha/2025/09/14/bringing-family-office-swissness-into-the-agentic-era/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68c6fd1823d2e4b94746cdb7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-09-14T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Vibe Coding: AI’s Role in Boosting Developer Productivity and Innovation",
+            "url": "https://www.webpronews.com/vibe-coding-ais-role-in-boosting-developer-productivity-and-innovation/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-ae687ad5-9c37-4be8-88fd-2714d16fdb99.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-09-14 19:13:26"
+        },
+        {
+            "source": {
+                "name": "zephyrnet"
+            },
+            "title": "Advancements in Quantum Education Across Japan, Korea, and the U.S.",
+            "url": "https://zephyrnet.com/advancements-in-quantum-education-across-japan-korea-and-the-u-s/",
+            "urlToImage": "https://zephyrnet.com/wp-content/uploads/img-isI8vEj9I3QvmqL8GgyzZdMa.png",
+            "publishedAt": "2025-09-14 18:56:39"
         },
         {
             "source": {
@@ -3090,54 +3132,6 @@
             "url": "https://www.lokmattimes.com/technology/albania-appoints-worlds-first-ai-generated-minister-to-curb-corruption-1/",
             "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202509123508154_202509.jpg",
             "publishedAt": "2025-09-12T11:15:17Z"
-        },
-        {
-            "source": {
-                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-                "name": "Benzinga",
-                "url": "https://www.benzinga.com",
-                "country": "us"
-            },
-            "title": "FTC Launches Probe Into OpenAI, Google, Meta, Snapchat",
-            "url": "https://www.benzinga.com/markets/tech/25/09/47639420/ftc-launches-probe-into-openai-google-meta-snapchat-over-fears-ai-chatbots-could-harm-kids-and-teens",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/09/12/Kid-Boy-Using-Digital-Tablet--Blue-Hud-W.jpeg?width=1200&height=800&fit=crop",
-            "publishedAt": "2025-09-12T11:03:09Z"
-        },
-        {
-            "source": {
-                "id": "9ced38a34d90982504f8670109a9bfcd",
-                "name": "Money Week",
-                "url": "https://moneyweek.com",
-                "country": "gb"
-            },
-            "title": "Okta: an undervalued cybersecurity play",
-            "url": "https://moneyweek.com/investments/tech-stocks/okta-an-undervalued-cybersecurity-play",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/iSgiz7BpfWyvJD2s53NTvC.jpg",
-            "publishedAt": "2025-09-12T10:46:29Z"
-        },
-        {
-            "source": {
-                "id": "f8a6832b0baf1b65435fdffa15b36068",
-                "name": "Pagenews.gr",
-                "url": "https://www.pagenews.gr",
-                "country": "gr"
-            },
-            "title": "Google DeepMind CEO at Maximos Mansion: Greece Can Become an AI Innovation Hub",
-            "url": "https://www.pagenews.gr/2025/09/12/english-edition/google-deepmind-ceo-at-maximos-mansion-greece-can-become-an-ai-innovation-hub/",
-            "urlToImage": "https://www.pagenews.gr/wp-content/uploads/2025/09/6652950-1-1200x630.jpg",
-            "publishedAt": "2025-09-12T10:38:25Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "AI will bring revolution in agriculture, make farmers' conditions better: Nitin Gadkari",
-            "url": "https://economictimes.indiatimes.com/news/economy/agriculture/ai-will-bring-revolution-in-agriculture-make-farmers-conditions-better-nitin-gadkari/articleshow/123850262.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-123850280,width-1200,height-630,imgsize-79870,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2025-09-12T10:36:00Z"
         }
     ]
 }
