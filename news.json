@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2025-09-16T18:21:35.515269Z",
+    "lastUpdatedAt": "2025-09-16T19:12:02.963262Z",
     "articles": [
+        {
+            "source": {
+                "id": "63fec970d50112ee9b8bc1418d9c5872",
+                "name": "Scientific Computing World",
+                "url": "https://www.scientific-computing.com",
+                "country": "us"
+            },
+            "title": "Lila Sciences secures $235m Series A to advance autonomous science platform",
+            "url": "https://www.scientific-computing.com/article/lila-sciences-secures-235m-series-advance-autonomous-science-platform",
+            "urlToImage": "https://www.scientific-computing.com/themes/custom/bootstrap_sass_lse/images/faviconSCW.ico",
+            "publishedAt": "2025-09-16T07:11:49Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Tata-owned JLR extends production halt a week after cybersecurity incident",
+            "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/tata-owned-jlr-extends-production-halt-after-cybersecurity-incident/articleshow/123916273.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-123916427,width-1200,height-630,imgsize-66252,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-09-16T07:03:00Z"
+        },
+        {
+            "source": {
+                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+                "name": "Australian Financial Review",
+                "url": "https://www.afr.com",
+                "country": "au"
+            },
+            "title": "Cybersecurity an illusion as ‘Q day’ looms",
+            "url": "https://www.afr.com/technology/cybersecurity-an-illusion-as-q-day-looms-20250916-p5mvh6",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.231%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_689%2C$y_180/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/a346630a1ec00bd361419325f07c7b1d4a7a179a",
+            "publishedAt": "2025-09-16T07:01:33Z"
+        },
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "CNBC Daily Open: Falling behind in AI is still good for Google",
+            "url": "https://www.cnbc.com/2025/09/16/cnbc-daily-open-falling-behind-in-ai-is-still-good-for-google-.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108198796-1757946596020-gettyimages-2218001209-BLOOMBERG_TECH.jpeg?v=1757946638&w=1920&h=1080",
+            "publishedAt": "2025-09-16T06:30:01Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "Unlocking AI Creativity with Seedream 4.0: ByteDance’s Next-Gen Image Editor",
+            "url": "https://techbullion.com/unlocking-ai-creativity-with-seedream-4-0-bytedances-next-gen-image-editor/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/ai-image-generator-1u355p-1000x600.webp",
+            "publishedAt": "2025-09-16T06:23:40Z"
+        },
         {
             "source": {
                 "id": "01558c024928d45cf320f6f75eede787",
@@ -420,6 +480,96 @@
             "url": "https://www.globenewswire.com/news-release/2025/09/16/3151105/0/en/Harborstone-Society-Showcases-Erydon-AILegacyX-Advancement-Under-Merrick-Hollander.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/20520348-5811-4a8e-bbfe-a4e326269b46",
             "publishedAt": "2025-09-16T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "computerweekly"
+            },
+            "title": "Startup Carbon3.ai sets sights on building UK-wide sovereign ‘national grid for AI’",
+            "url": "https://www.computerweekly.com/news/366631218/Startup-Carbon3ai-sets-sights-on-building-UK-wide-sovereign-national-grid-for-AI",
+            "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero%20Images/technology-digital-network-adobe_searchsitetablet_520X173.jpg",
+            "publishedAt": "2025-09-16 07:06:00"
+        },
+        {
+            "source": {
+                "name": "telanganatoday"
+            },
+            "title": "Nagaland University’s new research to aid advancement of quantum tech for devices, algorithms",
+            "url": "https://telanganatoday.com/nagaland-universitys-new-research-to-aid-advancement-of-quantum-tech-for-devices-algorithms",
+            "urlToImage": "https://media.telanganatoday.com/wp-content/uploads/2025/09/Nagaland.jpg",
+            "publishedAt": "2025-09-16 07:05:21"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "01C Launches Amara, A Voice-Prompt Platform For 3D Worldbuilding",
+            "url": "https://www.forbes.com/sites/charliefink/2025/09/16/01c-launches-amara-a-voice-prompt-platform-for-3d-worldbuilding/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68c87fd5dc98a4d244622113/0x0.jpg?width=960",
+            "publishedAt": "2025-09-16 07:00:00"
+        },
+        {
+            "source": {
+                "name": "thehansindia"
+            },
+            "title": "Nagaland University’s new research to aid advancement of quantum tech for devices, algorithms",
+            "url": "https://www.thehansindia.com/news/national/nagaland-universitys-new-research-to-aid-advancement-of-quantum-tech-for-devices-algorithms-1006920",
+            "urlToImage": "https://assets.thehansindia.com/h-upload/2025/09/16/1585602-nagaland-university.webp",
+            "publishedAt": "2025-09-16 06:59:11"
+        },
+        {
+            "source": {
+                "name": "cnbctv18"
+            },
+            "title": "How Gemini 2.5 Flash ended up as 'Nano Banana' and took the internet by storm",
+            "url": "https://www.cnbctv18.com/technology/google-gemini-2-5-flash-nano-banana-nickname-viral-trend-19675915.htm",
+            "urlToImage": "https://images.cnbctv18.com/uploads/2025/09/nano-banana-2025-09-32ad78baf961d97e34e84c4458a873a2.jpg",
+            "publishedAt": "2025-09-16 06:58:45"
+        },
+        {
+            "source": {
+                "name": "munsifdaily"
+            },
+            "title": "Nagaland University’s new research to aid advancement of quantum tech for devices, algorithms",
+            "url": "https://munsifdaily.com/nagaland-universitys-new-research-to-aid-advancement/",
+            "urlToImage": "https://de42e344.delivery.rocketcdn.me/wp-content/uploads/2025/09/121-186.gif",
+            "publishedAt": "2025-09-16 06:52:14"
+        },
+        {
+            "source": {
+                "name": "startupnews"
+            },
+            "title": "Nvidia Rubin CPX die shot reveals graphics-specific hardware blocks not needed for an AI GPU — Rubin CPX may form the foundation of next-gen RTX 6090",
+            "url": "https://startupnews.fyi/2025/09/16/nvidia-rubin-cpx-die-shot-reveals-graphics-specific-hardware-blocks-not-needed-for-an-ai-gpu-rubin-cpx-may-form-the-foundation-of-next-gen-rtx-6090/",
+            "urlToImage": "https://startupnews.fyi/wp-content/uploads/2025/09/KqJDwXZFYjzKYmLP8nUyM4.png",
+            "publishedAt": "2025-09-16 06:46:04"
+        },
+        {
+            "source": {
+                "name": "latestly"
+            },
+            "title": "Business News | La Mer Doubles Down On Miracle BrothTM With New Bioenergetics Research Platform And Landmark Partnership With The Salk Institute",
+            "url": "https://www.latestly.com/agency-news/business-news-la-mer-doubles-down-on-miracle-broth-with-new-bioenergetics-research-platform-and-landmark-partnership-with-the-salk-institute-7113622.html",
+            "urlToImage": "https://st1.latestly.com/wp-content/uploads/2025/09/ANI-20250916062111.jpg",
+            "publishedAt": "2025-09-16 06:34:28"
+        },
+        {
+            "source": {
+                "name": "livemint"
+            },
+            "title": "Mint Explainer | Is OpenAI creating jobs or simply protecting its own?",
+            "url": "https://www.livemint.com/ai/artificial-intelligence/openai-jobs-platform-microsoft-linkedin-tech-jobs-ai-skills-11758000822269.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2025/09/16/1600x900/logo/SKOREA-OPENAI-16_1758002931714_1758002945814.jpg",
+            "publishedAt": "2025-09-16 06:33:08"
+        },
+        {
+            "source": {
+                "name": "geeky_gadgets"
+            },
+            "title": "iPhone 17 Pro Max’s A19 Pro Chip Benchmarks Are INSANE",
+            "url": "https://www.geeky-gadgets.com/breaking-iphone-17-pro-max-performance-leaked/",
+            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/09/a19-pro-chip-smartphone-innovation.webp",
+            "publishedAt": "2025-09-16 06:30:08"
         },
         {
             "source": {
@@ -3012,141 +3162,6 @@
             "url": "https://techxplore.com/news/2025-09-nasa-flight-safety.html",
             "urlToImage": "https://scx1.b-cdn.net/csz/news/tmb/2025/nasas-x-59-moves-towar.jpg",
             "publishedAt": "2025-09-15 11:11:04"
-        },
-        {
-            "source": {
-                "name": "nytimes"
-            },
-            "title": "We Answer Your Questions About A.I.",
-            "url": "https://www.nytimes.com/2025/09/15/briefing/we-answer-your-questions-about-ai.html",
-            "urlToImage": "https://static01.nyt.com/images/2025/09/15/multimedia/15themorning-nl-gtfl/15themorning-nl-gtfl-articleLarge-v2.jpg?auto=webp&disable=upscale&quality=75",
-            "publishedAt": "2025-09-15 11:08:46"
-        },
-        {
-            "source": {
-                "name": "livescience"
-            },
-            "title": "Potentially habitable, Earth-size exoplanet TRAPPIST-1e may have an atmosphere, James Webb telescope hints",
-            "url": "https://www.livescience.com/space/potentially-habitable-earth-size-exoplanet-trappist-1e-may-have-an-atmosphere-james-webb-telescope-hints",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/iFPWkZ8EgxdWqaiJMGgYZP-1280-80.jpg",
-            "publishedAt": "2025-09-15 11:00:00"
-        },
-        {
-            "source": {
-                "name": "computerweekly"
-            },
-            "title": "Forrester Technology & Innovation Summit preview: Digital sovereignty in the public cloud",
-            "url": "https://www.computerweekly.com/news/366631275/Forrester-Technology-Innovation-Summit-preview-Digital-sovereignty-in-the-public-cloud",
-            "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/HeroImages/digital-files-documents-storage-lucadp-adobe_searchsitetablet_520X173.jpg",
-            "publishedAt": "2025-09-15 11:00:00"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "Want the Pixel 10 Pro? I recommend buying these 5 phones instead - here's why",
-            "url": "https://www.zdnet.com/article/want-the-pixel-10-pro-i-recommend-buying-these-5-phones-instead-heres-why/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/1c66430ffab3f057efb5535ff98911003013c404/2025/08/19/5bac109e-570b-4c32-b0a5-7f7fccb2cedb/made-by-google-pixel-event-2025-photo-33.jpg?auto=webp&width=1280",
-            "publishedAt": "2025-09-15 11:00:00"
-        },
-        {
-            "source": {
-                "name": "hindustantimes"
-            },
-            "title": "Top 5 Apple MacBook in 2025, perfect for professionals and creative workflows",
-            "url": "https://www.hindustantimes.com/technology/top-5-apple-macbook-in-2025-perfect-for-professionals-and-creative-workflows-101757928579806.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/09/15/1600x900/best_Apple_laptops_1757928698875_1757928709198.png",
-            "publishedAt": "2025-09-15 10:50:30"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "2025 Tech Trends: AI, Quantum Computing, and Sustainability Drive Innovation",
-            "url": "https://www.webpronews.com/2025-tech-trends-ai-quantum-computing-and-sustainability-drive-innovation/",
-            "urlToImage": "https://www.webpronews.com/2025-tech-trends-ai-quantum-computing-and-sustainability-drive-innovation/",
-            "publishedAt": "2025-09-15 10:44:06"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Semiconductor Industry Eyes 1nm Chips with Beyond EUV Lithography",
-            "url": "https://www.webpronews.com/semiconductor-industry-eyes-1nm-chips-with-beyond-euv-lithography/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-2607e623-4268-4afe-9b5e-3c009f1817f9.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-09-15 10:42:49"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "2025 Cybersecurity Challenges: AI Threats, Ransomware, and Strategies",
-            "url": "https://www.webpronews.com/2025-cybersecurity-challenges-ai-threats-ransomware-and-strategies/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-f0f8f00e-d0a4-4f36-b8cf-48a52f2ed3c4.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-09-15 10:39:53"
-        },
-        {
-            "source": {
-                "name": "freepressjournal"
-            },
-            "title": "L&T Semiconductor, C-DAC, IIT Gandhinagar Join Hands To Build Fully Indigenous Secure Chip For E-passports",
-            "url": "https://www.freepressjournal.in/business/lt-semiconductor-c-dac-iit-gandhinagar-join-hands-to-build-fully-indigenous-secure-chip-for-e-passports",
-            "urlToImage": "https://media.assettype.com/freepressjournal/2025-04-12/kakvv55d/Untitled_design___2023_07_28T121040_223.jpg?width=1200",
-            "publishedAt": "2025-09-15 10:09:34"
-        },
-        {
-            "source": {
-                "name": "newswise"
-            },
-            "title": "High-Throughput Phenotyping Unlocks Drought Secrets in Norway Spruce",
-            "url": "https://www.newswise.com/articles/high-throughput-phenotyping-unlocks-drought-secrets-in-norway-spruce/?sc=rsla",
-            "urlToImage": "https://www.newswise.com/legacy/image.php?height=334&image=%2Fimages%2Fuploads%2F2025%2F09%2F14%2F68c6c095ccda2_1.png&width=502",
-            "publishedAt": "2025-09-15 10:06:37"
-        },
-        {
-            "source": {
-                "name": "newswise"
-            },
-            "title": "Smart Phenotyping Predicts Cold Damage Risk in Strawberries",
-            "url": "https://www.newswise.com/articles/smart-phenotyping-predicts-cold-damage-risk-in-strawberries/?sc=rsla",
-            "urlToImage": "https://www.newswise.com/legacy/image.php?height=334&image=%2Fimages%2Fuploads%2F2025%2F09%2F14%2F68c6c3be3f369_2.png&width=502",
-            "publishedAt": "2025-09-15 10:06:36"
-        },
-        {
-            "source": {
-                "name": "macrumors"
-            },
-            "title": "Apple Releases watchOS 26 With Sleep Score, Workout Buddy, Hypertension Alerts, New Watch Faces and More",
-            "url": "https://www.macrumors.com/2025/09/15/apple-releases-watchos-26/",
-            "urlToImage": "https://images.macrumors.com/t/1DYzz_xWBhRkY6QIEUVA7LcMW5o=/1600x/article-new/2025/06/watchos-26-gradient-light.jpg",
-            "publishedAt": "2025-09-15 10:04:00"
-        },
-        {
-            "source": {
-                "name": "thelincolnianonline"
-            },
-            "title": "Manufacturing Stocks To Consider – September 12th",
-            "url": "https://www.thelincolnianonline.com/2025/09/15/manufacturing-stocks-to-consider-september-12th.html",
-            "urlToImage": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
-            "publishedAt": "2025-09-15 10:00:46"
-        },
-        {
-            "source": {
-                "name": "thelincolnianonline"
-            },
-            "title": "Silicon Motion Technology (NASDAQ:SIMO) and CSP (NASDAQ:CSPI) Head to Head Review",
-            "url": "https://www.thelincolnianonline.com/2025/09/15/silicon-motion-technology-nasdaqsimo-and-csp-nasdaqcspi-head-to-head-review.html",
-            "urlToImage": "https://www.marketbeat.com/logos/csp-inc-logo-1200x675.png?v=20241009133329",
-            "publishedAt": "2025-09-15 09:58:59"
-        },
-        {
-            "source": {
-                "name": "cnet"
-            },
-            "title": "These Are the 8 Best Places to Buy Reading Glasses Online in 2025",
-            "url": "https://www.cnet.com/health/personal-care/best-reading-glasses/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/ae500c12373b76d6407b8f60821bd02833abb1d4/hub/2024/05/02/7dd5313e-29e8-4af9-b24a-f7dd22d75e4d/glasses2.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-09-15 09:52:00"
         }
     ]
 }
