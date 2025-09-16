@@ -1,6 +1,102 @@
 {
-    "lastUpdatedAt": "2025-09-16T17:13:08.862257Z",
+    "lastUpdatedAt": "2025-09-16T18:21:35.515269Z",
     "articles": [
+        {
+            "source": {
+                "id": "01558c024928d45cf320f6f75eede787",
+                "name": "The Guardian",
+                "url": "https://www.theguardian.com",
+                "country": "gb"
+            },
+            "title": "To understand how AI will reconfigure humanity, try this German fairytale",
+            "url": "https://www.theguardian.com/books/2025/sep/16/ai-artificial-intelligence-fairytale-fisherman",
+            "urlToImage": "https://i.guim.co.uk/img/media/761873f01280bd5ef45518071bb88d15cba9410c/236_0_4202_3361/master/4202.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=89d88cd733e45055723e9a71f468a19e",
+            "publishedAt": "2025-09-16T06:00:00Z"
+        },
+        {
+            "source": {
+                "id": "a3391c15eb1d3136f9b9dd080940d0e8",
+                "name": "The Nation",
+                "url": "https://www.nation.com.pk",
+                "country": "pk"
+            },
+            "title": "China releases new edition of AI Safety Governance Framework",
+            "url": "https://www.nation.com.pk/16-Sep-2025/china-releases-new-edition-of-ai-safety-governance-framework",
+            "urlToImage": "https://www.nation.com.pk/digital_images/large/2025-09-16/china-releases-new-edition-of-ai-safety-governance-framework-1758002314-5043.jpg",
+            "publishedAt": "2025-09-16T05:58:41Z"
+        },
+        {
+            "source": {
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
+                "country": "in"
+            },
+            "title": "OpenAI hires former xAI CFO Mike Liberatore as business finance officer",
+            "url": "https://www.thehindu.com/sci-tech/technology/openai-hires-former-xai-cfo-mike-liberatore-as-business-finance-officer/article70055663.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/5003l0/article70055664.ece/alternates/LANDSCAPE_1200/2025-09-16T044728Z_673323241_RC2RSGAMLIVX_RTRMADP_3_OPENAI-EXECUTIVES-LIBERATORE.JPG",
+            "publishedAt": "2025-09-16T05:56:03Z"
+        },
+        {
+            "source": {
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
+                "country": "in"
+            },
+            "title": "IIT Hyderabad develops 6G prototypes, targets readiness for 2030 rollout",
+            "url": "https://www.hindustantimes.com/education/news/iit-hyderabad-develops-6g-prototypes-targets-readiness-for-2030-rollout-101758001729279.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/09/16/1600x900/_03802414-a805-11ea-99ce-29fdcc9e82d1_1758001899672.jpg",
+            "publishedAt": "2025-09-16T05:52:04Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Jack Ma returns with a vengeance to ‘Make Alibaba Great Again’",
+            "url": "https://economictimes.indiatimes.com/news/international/business/jack-ma-returns-with-a-vengeance-to-make-alibaba-great-again/articleshow/123914681.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-123914750,width-1200,height-630,imgsize-153442,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-09-16T05:47:00Z"
+        },
+        {
+            "source": {
+                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+                "name": "Australian Financial Review",
+                "url": "https://www.afr.com",
+                "country": "au"
+            },
+            "title": "Cyber sector luring career changers to plug skills gap",
+            "url": "https://www.afr.com/technology/cyber-sector-luring-career-changers-to-plug-skills-gap-20250916-p5mvfk",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.4696%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_253%2C$y_65/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/e0f4958d0f8fd92feab50d554e5342f27d0dd7e6",
+            "publishedAt": "2025-09-16T05:31:32Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "TAC InfoSec Limited Board Approves 1:1 Bonus Issue",
+            "url": "https://www.tribuneindia.com/news/business/tac-infosec-limited-board-approves-11-bonus-issue/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTQ1OWNjOTcwLTkyYmUtMTFmMC04ZWJlLWYzMjRlZjRkM2RjZS5qcGc=",
+            "publishedAt": "2025-09-16T05:30:25Z"
+        },
+        {
+            "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+            },
+            "title": "Online marketplace Fiverr to lay off 30% of workforce in AI push",
+            "url": "https://indianexpress.com/article/technology/online-marketplace-fiverr-to-lay-off-30-of-workforce-in-ai-push-10252685/",
+            "urlToImage": "https://images.indianexpress.com/2025/09/Office.jpg",
+            "publishedAt": "2025-09-16T05:21:50Z"
+        },
         {
             "source": {
                 "id": "7006f2c40c7cc01195608dbfd60259b3",
@@ -324,6 +420,69 @@
             "url": "https://www.globenewswire.com/news-release/2025/09/16/3151105/0/en/Harborstone-Society-Showcases-Erydon-AILegacyX-Advancement-Under-Merrick-Hollander.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/20520348-5811-4a8e-bbfe-a4e326269b46",
             "publishedAt": "2025-09-16T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "analyticsindiamag"
+            },
+            "title": "India’s IITs are Great But...",
+            "url": "https://analyticsindiamag.com/deep-tech/indias-iits-are-great-but/",
+            "urlToImage": "https://analyticsindiamag.com/wp-content/uploads/2024/12/Top-AI-Developments-from-IITs-in-2024.jpg",
+            "publishedAt": "2025-09-16 06:16:42"
+        },
+        {
+            "source": {
+                "name": "latestly"
+            },
+            "title": "Business News | Izmomicro Announces Breakthrough in High-Power Motor Control Technology",
+            "url": "https://www.latestly.com/agency-news/business-news-izmomicro-announces-breakthrough-in-high-power-motor-control-technology-7113559.html",
+            "urlToImage": "https://st1.latestly.com/wp-content/uploads/2025/09/ANI-20250916055154.jpg",
+            "publishedAt": "2025-09-16 06:10:27"
+        },
+        {
+            "source": {
+                "name": "businesstoday"
+            },
+            "title": "Klarna CEO joins Sundar Pichai, embraces AI vibe coding to speed up product development",
+            "url": "https://www.businesstoday.in/technology/news/story/klarna-ceo-joins-sundar-pichai-embraces-ai-vibe-coding-to-speed-up-product-development-494152-2025-09-16",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202509/68c8fe3feff10-klarna-ceo-160546699-16x9.jpg",
+            "publishedAt": "2025-09-16 06:06:09"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "I almost got hit with a phishing attack and a malicious app last week — here’s how I knew not to click",
+            "url": "https://www.tomsguide.com/computing/online-security/i-almost-got-hit-with-a-phishing-attack-and-a-malicious-app-last-week-heres-how-i-knew-not-to-click",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/m6Kyu58S6jyoyKHFGzRC7M-1280-80.jpg",
+            "publishedAt": "2025-09-16 05:45:00"
+        },
+        {
+            "source": {
+                "name": "freepressjournal"
+            },
+            "title": "Nothing Secures $200 Million Series C Funding, Zerodha's Nikhil Kamath Joins As Investor",
+            "url": "https://www.freepressjournal.in/tech/nothing-secures-200-million-series-c-funding-zerodhas-nikhil-kamath-joins-as-investor",
+            "urlToImage": "https://media.assettype.com/freepressjournal/2025-09-16/1blu4nig/carlpeinikhilkamath.jpg?width=1200",
+            "publishedAt": "2025-09-16 05:42:39"
+        },
+        {
+            "source": {
+                "name": "en_prnasisa"
+            },
+            "title": "Cornami and DESILO Bring Encrypted AI to Scale with Deployable FHE-Based LLM",
+            "url": "https://en.prnasia.com/story/503638-0.shtml",
+            "urlToImage": "https://mma.prnasia.com/media2/2773961/image.jpg?p=medium600",
+            "publishedAt": "2025-09-16 05:37:00"
+        },
+        {
+            "source": {
+                "name": "expresscomputer"
+            },
+            "title": "Harnessing AI—and Agentic AI—for safer pipelines",
+            "url": "https://www.expresscomputer.in/guest-blogs/harnessing-ai-and-agentic-ai-for-safer-pipelines/127811/",
+            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2023/09/28225315/Artificial.jpg",
+            "publishedAt": "2025-09-16 05:29:25"
         },
         {
             "source": {
@@ -2988,141 +3147,6 @@
             "url": "https://www.cnet.com/health/personal-care/best-reading-glasses/",
             "urlToImage": "https://www.cnet.com/a/img/resize/ae500c12373b76d6407b8f60821bd02833abb1d4/hub/2024/05/02/7dd5313e-29e8-4af9-b24a-f7dd22d75e4d/glasses2.jpg?auto=webp&fit=crop&height=675&width=1200",
             "publishedAt": "2025-09-15 09:52:00"
-        },
-        {
-            "source": {
-                "name": "geeky_gadgets"
-            },
-            "title": "Why Qwen3 Next Is the Future of AI Efficiency and Performance",
-            "url": "https://www.geeky-gadgets.com/qwen3-next-ai-model-efficiency/",
-            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/09/artificial-intelligence-sparse-inference.webp",
-            "publishedAt": "2025-09-15 09:40:27"
-        },
-        {
-            "source": {
-                "name": "slate_usa"
-            },
-            "title": "They Had a Mysterious Illness. Someone Finally Told Them It Was Real—and There Was a Cure. They Got Something Very Different.",
-            "url": "https://slate.com/technology/2025/09/children-health-hospitals-treatment-chronic-pain.html?via=rss",
-            "urlToImage": "https://compote.slate.com/images/bbd4562a-fc8a-422f-909c-95d6c7e27090.jpeg",
-            "publishedAt": "2025-09-15 09:40:00"
-        },
-        {
-            "source": {
-                "name": "fortune"
-            },
-            "title": "Is America’s loss really Europe’s gain? Why the EU’s AI talent strategy needs a reality check",
-            "url": "https://fortune.com/2025/09/15/european-union-eu-ai-artificial-intelligence-tech-talent-strategy/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-1220226004-e1757684804444.jpg?w=2048",
-            "publishedAt": "2025-09-15 09:30:00"
-        },
-        {
-            "source": {
-                "name": "indianexpress"
-            },
-            "title": "Forget the Nano Banana AI saree trend, try these 10 new Gemini image-editing tricks instead",
-            "url": "https://indianexpress.com/article/technology/artificial-intelligence/google-nano-banana-ai-saree-trend-10-new-gemini-editing-tricks-10251094/",
-            "urlToImage": "https://images.indianexpress.com/2025/09/Tech-feature-images26.jpg",
-            "publishedAt": "2025-09-15 09:12:21"
-        },
-        {
-            "source": {
-                "name": "cornelledu"
-            },
-            "title": "Ultrafast infrared light pulses cause thin film to ‘breathe’",
-            "url": "https://news.cornell.edu/stories/2025/09/ultrafast-infrared-light-pulses-cause-thin-film-breathe",
-            "urlToImage": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_home/public/2025-09/0915_film_tnd.jpg?itok=1u-G3nNI",
-            "publishedAt": "2025-09-15 09:09:53"
-        },
-        {
-            "source": {
-                "name": "cnn"
-            },
-            "title": "US drone dilemma: Why the most advanced military in the world is playing catchup on the modern battlefield",
-            "url": "https://www.cnn.com/2025/09/15/politics/drone-us-military-russia-ukraine",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/113359-armydrone-05-mss0.jpg?c=16x9",
-            "publishedAt": "2025-09-15 09:00:05"
-        },
-        {
-            "source": {
-                "name": "postandcourier"
-            },
-            "title": "Sumter County rejected plans for a solar farm. Now the Texas developer is appealing to the state.",
-            "url": "https://www.postandcourier.com/columbia/business/sumter-county-rejected-plans-for-a-solar-farm-now-the-texas-developer-is-appealing-to/article_b5148a37-65dd-4ddc-954d-c669da086dda.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/6/e5/6e5312d8-2519-4be6-ad8d-1c8f75f61de4/5eceb6f3f0027.image.jpg?resize=400%2C240",
-            "publishedAt": "2025-09-15 09:00:00"
-        },
-        {
-            "source": {
-                "name": "expresscomputer"
-            },
-            "title": "Cadence Expands Digital Twin Platform Library with NVIDIA DGX SuperPOD Model to Accelerate AI Data Center Deployment and Operations",
-            "url": "https://www.expresscomputer.in/news/cadence-expands-digital-twin-platform-library-with-nvidia-dgx-superpod-model-to-accelerate-ai-data-center-deployment-and-operations/127796/",
-            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2025/09/15142911/Untitled-design-4.jpg",
-            "publishedAt": "2025-09-15 08:59:40"
-        },
-        {
-            "source": {
-                "name": "cadillacnews"
-            },
-            "title": "Quantum Motion Delivers the Industry’s First Full-Stack Silicon CMOS Quantum Computer",
-            "url": "https://www.cadillacnews.com/ap/business/quantum-motion-delivers-the-industry-s-first-full-stack-silicon-cmos-quantum-computer/article_93a32068-4e1f-57e2-a979-b068ab86b664.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/cadillacnews.com/content/tncms/assets/v3/editorial/7/3d/73d56825-2102-5ed4-adc7-09d4353ce07d/68c7d6e975f98.image.jpg?resize=300%2C200",
-            "publishedAt": "2025-09-15 08:59:25"
-        },
-        {
-            "source": {
-                "name": "thelincolnianonline"
-            },
-            "title": "Head to Head Analysis: Sono-Tek (NASDAQ:SOTK) and ARM (NASDAQ:ARM)",
-            "url": "https://www.thelincolnianonline.com/2025/09/15/head-to-head-analysis-sono-tek-nasdaqsotk-and-arm-nasdaqarm.html",
-            "urlToImage": "https://www.marketbeat.com/logos/sono-tek-co-logo-1200x675.png?v=20240830134417",
-            "publishedAt": "2025-09-15 08:48:42"
-        },
-        {
-            "source": {
-                "name": "computerweekly"
-            },
-            "title": "Serving up tennis improvements through AI",
-            "url": "https://www.computerweekly.com/feature/Serving-up-tennis-improvements-through-AI",
-            "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/HeroImages/Wimbledon-tennis-AI-overlay-clrcrmck_searchsitetablet_520X173.jpg",
-            "publishedAt": "2025-09-15 08:40:00"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "Photosynthesis May Limit Complex Life Around Red Dwarf Stars",
-            "url": "https://www.forbes.com/sites/brucedorminey/2025/09/15/photosynthesis-may-limit-complex-life-around-red-dwarf-stars/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68c7cf63cec8702405d9364a/0x0.jpg?width=960",
-            "publishedAt": "2025-09-15 08:39:37"
-        },
-        {
-            "source": {
-                "name": "pcworld_us"
-            },
-            "title": "LaCie Rugged SSD4 review: Fantastic, weatherwized performer — and eye-catching!",
-            "url": "https://www.pcworld.com/article/2899312/lacie-rugged-ssd4-review.html",
-            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/09/LaCie-Rugged-SSD4.jpg?quality=50&strip=all",
-            "publishedAt": "2025-09-15 08:30:00"
-        },
-        {
-            "source": {
-                "name": "indianexpress"
-            },
-            "title": "The Google Gemini Nano Banana AI saree trend is taking over social media; here’s how you can be a part of it",
-            "url": "https://indianexpress.com/article/lifestyle/fashion/google-gemini-nano-banana-ai-saree-trend-social-media-10250683/",
-            "urlToImage": "https://images.indianexpress.com/2025/09/Sonakshi-AI.jpg",
-            "publishedAt": "2025-09-15 08:00:15"
-        },
-        {
-            "source": {
-                "name": "geeky_gadgets"
-            },
-            "title": "The TRUTH About the M5 Mac Mini’s Release Date",
-            "url": "https://www.geeky-gadgets.com/m5-mac-minis-release-date/",
-            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/09/m5-vs-m4-mac-mini-comparison.webp",
-            "publishedAt": "2025-09-15 08:00:11"
         }
     ]
 }
