@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-09-16T06:22:37.479890Z",
+    "lastUpdatedAt": "2025-09-16T07:15:04.043425Z",
     "articles": [
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "Machine-learning tool gives doctors a more detailed 3D picture of fetal health",
+            "url": "https://medicalxpress.com/news/2025-09-machine-tool-doctors-3d-picture.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/ai-tool-enhances-3d-fe.jpg",
+            "publishedAt": "2025-09-15T18:33:04Z"
+        },
+        {
+            "source": {
+                "id": "89726dd24a4d78041c65af3b4a364b31",
+                "name": "Cointelegraph",
+                "url": "https://cointelegraph.com",
+                "country": "us"
+            },
+            "title": "Ethereum Foundation Forms AI Research Team to Blend Blockchain, AI",
+            "url": "https://cointelegraph.com/news/ethereum-foundation-forms-ai-research-blockchain-ai",
+            "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-09/01994e56-ffc3-7858-84a4-ee1190c80599",
+            "publishedAt": "2025-09-15T18:22:43Z"
+        },
         {
             "source": {
                 "id": "b33a42ef1c098421f66aad47a76d6a3c",
@@ -1188,6 +1212,60 @@
             "url": "https://www.forbes.com/sites/lesliekatz/2025/09/15/darwin-awards-for-ai-celebrate-epic-artificial-intelligence-fails/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68c790d1a58e5e99381fc4ff/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-09-15T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Snap OS 2.0 Debuts for Spectacles: WebXR Support, App Upgrades, Travel Mode",
+            "url": "https://www.webpronews.com/snap-os-2-0-debuts-for-spectacles-webxr-support-app-upgrades-travel-mode/",
+            "urlToImage": "https://www.webpronews.com/snap-os-2-0-debuts-for-spectacles-webxr-support-app-upgrades-travel-mode/",
+            "publishedAt": "2025-09-15 19:09:56"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Google DeepMind’s AI Innovations Boost Science in Genomics, Climate, and Astrophysics",
+            "url": "https://www.webpronews.com/google-deepminds-ai-innovations-boost-science-in-genomics-climate-and-astrophysics/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-780c9145-ad37-4048-98c0-7304859a0ab6.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-09-15 19:09:27"
+        },
+        {
+            "source": {
+                "name": "clickondetroit"
+            },
+            "title": "Abortion advocates raise alarm about social platforms removing posts in apparent overreach",
+            "url": "https://www.clickondetroit.com/business/2025/09/15/abortion-advocates-raise-alarm-about-social-platforms-removing-posts-in-apparent-overreach/",
+            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/2A2DBCKK6FFKPACANP5NLTPSEA.jpg",
+            "publishedAt": "2025-09-15 19:04:03"
+        },
+        {
+            "source": {
+                "name": "cision"
+            },
+            "title": "Spelman College wins 7th annual Moguls in the Making entrepreneurial pitch competition",
+            "url": "https://www.prnewswire.com/news-releases/spelman-college-wins-7th-annual-moguls-in-the-making-entrepreneurial-pitch-competition-302556575.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2773116/Ally_Financial_2025_Moguls_in_the_Making_winning_teams.jpg?p=original",
+            "publishedAt": "2025-09-15 19:00:00"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "How people actually use ChatGPT vs Claude - and what the differences tell us",
+            "url": "https://www.zdnet.com/article/how-people-actually-use-chatgpt-vs-claude-and-what-the-differences-tell-us/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/816a1d76e2293472c1bbf32042412fb53c5a4330/2025/09/15/facad5d2-d094-4ef6-bb6d-b03522238349/chatgpt-and-claude-are-being-used-very-differently-heres-how.jpg?auto=webp&width=1280",
+            "publishedAt": "2025-09-15 18:48:00"
+        },
+        {
+            "source": {
+                "name": "therobotreport"
+            },
+            "title": "Symage to spotlight future of vision model training at RoboBusiness",
+            "url": "https://www.therobotreport.com/symage-to-spotlight-future-of-vision-model-training-at-robobusiness/",
+            "urlToImage": "https://www.therobotreport.com/wp-content/uploads/2025/09/warehouse.png",
+            "publishedAt": "2025-09-15 18:35:26"
         },
         {
             "source": {
@@ -3081,78 +3159,6 @@
             "url": "https://www.webpronews.com/los-alamos-deploys-openai-ai-on-venado-supercomputer-for-nuclear-research/",
             "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-57545ee7-ade3-4c90-b726-671cdd12de66.jpeg?fit=720%2C960&ssl=1",
             "publishedAt": "2025-09-14 19:40:01"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Apple iPhone 17 Rumors: Slim Air Model, A19 Chips, and M5 iPad Pro Debut in 2025",
-            "url": "https://www.webpronews.com/apple-iphone-17-rumors-slim-air-model-a19-chips-and-m5-ipad-pro-debut-in-2025/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-9887b8ca-bb68-4cb8-9433-7dd451e125d4.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-09-14 19:30:33"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Vibe Coding: AI’s Role in Boosting Developer Productivity and Innovation",
-            "url": "https://www.webpronews.com/vibe-coding-ais-role-in-boosting-developer-productivity-and-innovation/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-ae687ad5-9c37-4be8-88fd-2714d16fdb99.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-09-14 19:13:26"
-        },
-        {
-            "source": {
-                "name": "zephyrnet"
-            },
-            "title": "Advancements in Quantum Education Across Japan, Korea, and the U.S.",
-            "url": "https://zephyrnet.com/advancements-in-quantum-education-across-japan-korea-and-the-u-s/",
-            "urlToImage": "https://zephyrnet.com/wp-content/uploads/img-isI8vEj9I3QvmqL8GgyzZdMa.png",
-            "publishedAt": "2025-09-14 18:56:39"
-        },
-        {
-            "source": {
-                "name": "techcrunch"
-            },
-            "title": "Karen Hao on the Empire of AI, AGI evangelists, and the cost of belief",
-            "url": "https://techcrunch.com/2025/09/14/karen-hao-on-the-empire-of-ai-agi-evangelists-and-the-cost-of-belief/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/KarenHao-BW.png?resize=1200%2C900",
-            "publishedAt": "2025-09-14 17:00:34"
-        },
-        {
-            "source": {
-                "name": "zephyrnet"
-            },
-            "title": "Mechanical Quantum Memories with Mohammad Mirhosseini",
-            "url": "https://zephyrnet.com/mechanical-quantum-memories-with-mohammad-mirhosseini/",
-            "urlToImage": "https://zephyrnet.com/wp-content/uploads/2025/04/zephyrnet-default-img-3-1.jpg-1.jpg",
-            "publishedAt": "2025-09-14 16:57:57"
-        },
-        {
-            "source": {
-                "name": "gizmochina"
-            },
-            "title": "Lenovo Launches Legion R9000P 2025 Ultimate Edition with Ryzen 9 9955HX3D & RTX 5080",
-            "url": "https://www.gizmochina.com/2025/09/14/lenovo-legion-r9000p-2025-ultimate-launched-specs-price/",
-            "urlToImage": "https://www.gizmochina.com/wp-content/uploads/2025/09/Lenovo-Legion-R9000P-2025-2.jpeg",
-            "publishedAt": "2025-09-14 16:44:53"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "AI Robots Master Complex Tasks via Reinforcement Learning Breakthrough",
-            "url": "https://www.webpronews.com/ai-robots-master-complex-tasks-via-reinforcement-learning-breakthrough/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-28589af7-7b95-4945-ad99-55b91b9418b7.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-09-14 16:38:21"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "USC’s MOTIF Hand: Optical Fiber Sensory Breakthrough for AI Robotics",
-            "url": "https://www.webpronews.com/uscs-motif-hand-optical-fiber-sensory-breakthrough-for-ai-robotics/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-845ac254-6408-4aef-a277-73453070eba4.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-09-14 16:37:34"
         }
     ]
 }
