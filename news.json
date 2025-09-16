@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-09-16T09:16:32.489346Z",
+    "lastUpdatedAt": "2025-09-16T10:15:50.396278Z",
     "articles": [
+        {
+            "source": {
+                "id": "91120a92e0d24e24fbffb6d0affabfe6",
+                "name": "Bangkok Post",
+                "url": "https://www.bangkokpost.com",
+                "country": "th"
+            },
+            "title": "New initiative targets nationwide AI adoption",
+            "url": "https://www.bangkokpost.com/business/general/3105138/new-initiative-targets-nationwide-ai-adoption",
+            "urlToImage": "https://static.bangkokpost.com/media/content/20250916/c1_3105138_250916054812_700.jpg",
+            "publishedAt": "2025-09-15T22:14:00Z"
+        },
+        {
+            "source": {
+                "id": "b683218c3952d77a76b7bda7512f2f6e",
+                "name": "WIRED",
+                "url": "https://www.wired.com",
+                "country": "us"
+            },
+            "title": "How AI Is Upending Politics, Tech, the Media, and More",
+            "url": "https://www.wired.com/story/wired-ai-summit-tech-politics-media/",
+            "urlToImage": "https://media.wired.com/photos/68c86db22eb1f38f93ca5ecb/191:100/w_1280,c_limit/WIRED-AI-Summit-Roundup-Business-2235586965.jpg",
+            "publishedAt": "2025-09-15T21:54:25Z"
+        },
+        {
+            "source": {
+                "id": "3989f52bbec2d3be8442e2851b59e79e",
+                "name": "CBS Sports",
+                "url": "https://www.cbssports.com",
+                "country": "us"
+            },
+            "title": "Monday Night Football player props: AI predictions, Buccaneers vs. Texans, Raiders vs. Chargers picks, SGPs",
+            "url": "https://www.cbssports.com/nfl/news/monday-night-football-player-props-ai-predictions-buccaneers-vs-texans-raiders-vs-chargers-picks-sgps/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/09/15/b7f4366a-5868-4b15-9557-9eb09c1c2f7f/thumbnail/1200x675/1f043788b7146c2ebd2542ae90c3b72c/justin-herbert-chargers-imagn-images.jpg",
+            "publishedAt": "2025-09-15T21:20:32Z"
+        },
         {
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -1284,6 +1320,51 @@
             "url": "https://www.forbes.com/sites/lesliekatz/2025/09/15/darwin-awards-for-ai-celebrate-epic-artificial-intelligence-fails/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68c790d1a58e5e99381fc4ff/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-09-15T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "pcworld_us"
+            },
+            "title": "Best PC computer deals: Top picks from desktops to all-in-ones",
+            "url": "https://www.pcworld.com/article/813362/best-pc-computer-deals.html",
+            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/09/pcw-desktoppc-prime-1-3.jpg?quality=50&strip=all",
+            "publishedAt": "2025-09-15 22:09:56"
+        },
+        {
+            "source": {
+                "name": "space"
+            },
+            "title": "'We are ready to drive': Take a look inside Lunar Outpost's moon rover mission control (photos)",
+            "url": "https://www.space.com/astronomy/moon/we-are-ready-to-drive-take-a-look-inside-lunar-outposts-moon-rover-mission-control-photos",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/jjehna6Z6nGjqrcYmDmoqU-1280-80.jpg",
+            "publishedAt": "2025-09-15 22:00:00"
+        },
+        {
+            "source": {
+                "name": "yahoo"
+            },
+            "title": "'We are ready to drive': Take a look inside Lunar Outpost's moon rover mission control (photos)",
+            "url": "https://tech.yahoo.com/science/articles/ready-drive-look-inside-lunar-220000392.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/xnPmX7GVE9qYEv8zypn2pg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://media.zenfs.com/en/space_311/d724287b5ccc7521a3fd2e90e07dddef",
+            "publishedAt": "2025-09-15 22:00:00"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "Persona Vectors Cleverly Reveal How AI Such As ChatGPT Becomes Emotionally Charged",
+            "url": "https://www.forbes.com/sites/lanceeliot/2025/09/15/persona-vectors-cleverly-reveal-how-ai-such-as-chatgpt-becomes-emotionally-charged/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67aed2f1d3b1a85b6cb09f8e/0x0.jpg?width=960",
+            "publishedAt": "2025-09-15 21:47:24"
+        },
+        {
+            "source": {
+                "name": "newswise"
+            },
+            "title": "AI's Ballooning Energy Consumption Puts Spotlight On Data Center Efficiency",
+            "url": "https://www.newswise.com/articles/ai-s-ballooning-energy-consumption-puts-spotlight-on-data-center-efficiency/?sc=rssn",
+            "urlToImage": "https://www.newswise.com/legacy/image.php?image=https%3A%2F%2Fresearch.gatech.edu%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fnews_first_image%2Fpublic%2Fnews-images%2Ffile-20250902-56-fgh9og.jpg%3Fitok%3DnHUzI9A1",
+            "publishedAt": "2025-09-15 21:36:37"
         },
         {
             "source": {
@@ -3036,102 +3117,6 @@
             "url": "https://www.dailyexcelsior.com/par-panel-urges-govt-to-develop-legal-tech-solutions-to-act-against-those-behind-ai-based-fake-news/",
             "urlToImage": "https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2021/10/FAKE-NEWS.jpg",
             "publishedAt": "2025-09-14T12:16:06Z"
-        },
-        {
-            "source": {
-                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-                "name": "The Financial Express",
-                "url": "https://www.financialexpress.com",
-                "country": "in"
-            },
-            "title": "Hiring in India’s IT industry sees a 2-3% dip due to AI, economic uncertainties",
-            "url": "https://www.financialexpress.com/india-news/hiring-in-indias-it-industry-sees-a-2-3-dip-due-to-ai-economic-uncertainties/3977444/",
-            "urlToImage": "https://images.financialexpressdigital.com/2025/09/IT-industry-sluggish-growth-viral.png",
-            "publishedAt": "2025-09-14T11:11:16Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Parliament panel urges govt to develop legal, tech solutions to act against those behind AI-based fake news",
-            "url": "https://economictimes.indiatimes.com/industry/media/entertainment/media/parliament-panel-urges-govt-to-develop-legal-tech-solutions-to-act-against-those-behind-ai-based-fake-news/articleshow/123881572.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-123881582,width-1200,height-630,imgsize-52412,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2025-09-14T11:02:00Z"
-        },
-        {
-            "source": {
-                "id": "7eeaf9a839918543cc708f2d331c3be4",
-                "name": "Free Press Journal",
-                "url": "https://www.freepressjournal.in",
-                "country": "in"
-            },
-            "title": "OpenAI Partners With ARISE To Empower Indian Educators With AI Tools",
-            "url": "https://www.freepressjournal.in/education/openai-partners-with-arise-to-empower-indian-educators-with-ai-tools",
-            "urlToImage": "https://media.assettype.com/freepressjournal/2025-09-14/1t42o0d1/Untitled design - 2024-02-13T175701.664.jpg",
-            "publishedAt": "2025-09-14T10:59:42Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "Spotted: ChatGPT comes to India",
-            "url": "https://www.livemint.com/ai/chatgpt-india-openai-artificial-intelligence-ads-advertising-marketing-ott-platforms-generative-ai-11757836435021.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2025/09/14/1600x900/chatgpt_1757836497710_1757836510077.JPG",
-            "publishedAt": "2025-09-14T10:43:22Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "India's reliance on US software, cloud services, social media platforms poses economic vulnerability: GTRI",
-            "url": "https://economictimes.indiatimes.com/tech/technology/indias-reliance-on-us-software-cloud-services-social-media-platforms-poses-economic-vulnerability-gtri/articleshow/123881413.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-131035,resizemode-75,msid-123881413/tech/technology/indias-reliance-on-us-software-cloud-services-social-media-platforms-poses-economic-vulnerability-gtri.jpg",
-            "publishedAt": "2025-09-14T10:42:46Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "OpenAI and ARISE collaborate to empower K",
-            "url": "https://www.tribuneindia.com/news/business/openai-and-arise-collaborate-to-empower-k-12-educators-in-india-with-ai-integration/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTE2NmI5ZGYwLTkxNTMtMTFmMC04NDliLWQxMWMzZjNiMjVlNy5qcGc=",
-            "publishedAt": "2025-09-14T10:10:42Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "OpenAI and ARISE collaborate to empower K",
-            "url": "https://www.lokmattimes.com/business/openai-and-arise-collaborate-to-empower-k-12-educators-in-india-with-ai-integration/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20250914100351_202509.jpg",
-            "publishedAt": "2025-09-14T10:04:34Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "FutureScape 2047: Redefining Hospitality for a New India",
-            "url": "https://www.devdiscourse.com/article/entertainment/3627427-futurescape-2047-redefining-hospitality-for-a-new-india",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/26_06_2024_08_32_07_6940742.png?width=920&format=jpeg",
-            "publishedAt": "2025-09-14T10:00:35Z"
         }
     ]
 }
