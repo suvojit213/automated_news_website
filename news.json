@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-09-16T12:30:51.923588Z",
+    "lastUpdatedAt": "2025-09-16T13:25:10.488619Z",
     "articles": [
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "CNBC Daily Open: Surge in most tech lifts the S&P 500 beyond 6,600 level",
+            "url": "https://www.cnbc.com/2025/09/16/cnbc-daily-open-surge-in-most-tech-lifts-the-sp-500-beyond-6600-level.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108198799-17579466992025-02-11t084316z_788639167_rc28sca9ziz6_rtrmadp_0_ai-summit.jpeg?v=1757946732&w=1920&h=1080",
+            "publishedAt": "2025-09-16T01:15:26Z"
+        },
+        {
+            "source": {
+                "id": "1b40b878c09151e8cf44a095bc8569a5",
+                "name": "ETF Daily News",
+                "url": "https://www.etfdailynews.com",
+                "country": "us"
+            },
+            "title": "Cybersecurity Stocks To Follow Today - September 14th",
+            "url": "https://www.etfdailynews.com/2025/09/16/cybersecurity-stocks-to-follow-today-september-14th/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/google-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2025-09-16T01:02:50Z"
+        },
+        {
+            "source": {
+                "id": "1b40b878c09151e8cf44a095bc8569a5",
+                "name": "ETF Daily News",
+                "url": "https://www.etfdailynews.com",
+                "country": "us"
+            },
+            "title": "Artificial Intelligence Stocks To Add to Your Watchlist - September 14th",
+            "url": "https://www.etfdailynews.com/2025/09/16/artificial-intelligence-stocks-to-add-to-your-watchlist-september-14th/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/arista-networks-inc-logo-1200x675.gif&w=240&h=240&zc=2",
+            "publishedAt": "2025-09-16T01:00:42Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "To stop lock-up deaths, SC eyes AI-controlled CCTVs at thanas",
+            "url": "https://timesofindia.indiatimes.com/india/to-stop-lock-up-deaths-sc-eyes-ai-controlled-cctvs-at-thanas/articleshow/123911281.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-123911288,width-1070,height-580,imgsize-10496,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-09-16T00:52:00Z"
+        },
         {
             "source": {
                 "id": "10cbfb3760cfcdeb78c733c527f0e814",
@@ -24,6 +72,72 @@
             "url": "https://www.globenewswire.com/news-release/2025/09/16/3150507/33891/en/FTI-Consulting-Strengthens-Capabilities-in-Germany-with-Addition-of-Senior-Cybersecurity-Expert.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/7baf2810-17ee-492d-8c50-d64cadf49073",
             "publishedAt": "2025-09-16T00:00:00Z"
+        },
+        {
+            "source": {
+                "id": "28e6020d9bb5ca0074bc34f8478ec6b8",
+                "name": "The Pioneer",
+                "url": "https://www.dailypioneer.com",
+                "country": "in"
+            },
+            "title": "India must learn from Albania’s bold AI",
+            "url": "https://www.dailypioneer.com/2025/columnists/india-must-learn-from-albania---s-bold--ai-powered-governance-leap.html",
+            "urlToImage": "https://www.dailypioneer.com/uploads/2025/story/images/big/india-must-learn-from-albania---s-bold--ai-powered-governance-leap-2025-09-16.jpg",
+            "publishedAt": "2025-09-16T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "The Boundless Horizon: Overseeing the Social and Ethical Implications of Technology's Future",
+            "url": "https://hackernoon.com/the-boundless-horizon-overseeing-the-social-and-ethical-implications-of-technologys-future",
+            "urlToImage": "https://hackernoon.imgix.net/images/t7jZ6Z0gw7MqEHrMGVUphVUiw4x2-3i33g1d.jpeg",
+            "publishedAt": "2025-09-16 01:19:41"
+        },
+        {
+            "source": {
+                "name": "dtnext"
+            },
+            "title": "AI hype has just shaken up the world’s rich list. What if the boom is really a bubble?",
+            "url": "https://www.dtnext.in/edit/ai-hype-has-just-shaken-up-the-worlds-rich-list-what-if-the-boom-is-really-a-bubble-846673",
+            "urlToImage": "https://media.dtnext.in/h-upload/2024/04/29/750x450_819304-openai.webp",
+            "publishedAt": "2025-09-16 01:10:07"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Google Launches VaultGemma: Privacy-Enhanced 1B-Parameter LLM",
+            "url": "https://www.webpronews.com/google-launches-vaultgemma-privacy-enhanced-1b-parameter-llm/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-6f82057c-3725-4c78-b60d-0fd4ba164ae8.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-09-16 01:06:45"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Lasers Induce Visual Illusions in Mouse Brains, Reveal Perception Secrets",
+            "url": "https://www.webpronews.com/lasers-induce-visual-illusions-in-mouse-brains-reveal-perception-secrets/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-0a395758-036c-4661-94f1-89307d8ca446.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-09-16 01:05:09"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "CoreWeave Secures $6.3B Nvidia Contract for AI Cloud Capacity to 2032",
+            "url": "https://www.webpronews.com/coreweave-secures-6-3b-nvidia-contract-for-ai-cloud-capacity-to-2032/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-3de5a521-44a4-4e50-9004-a65577343068.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-09-16 01:03:18"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Meta’s Leaked AR Smart Glasses: Ray-Ban, Oakley Models with HUD and AI",
+            "url": "https://www.webpronews.com/metas-leaked-ar-smart-glasses-ray-ban-oakley-models-with-hud-and-ai/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-43c8d488-13fd-4ae8-b1ac-661dbc3e3ad1.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-09-16 00:59:42"
         },
         {
             "source": {
@@ -2949,132 +3063,6 @@
             "url": "https://www.businessinsider.com/how-to-get-job-ai-startup-google-internships-tips-tech-2025-9",
             "urlToImage": "https://i.insider.com/68bfa281f9db348adc0b1659?width=700",
             "publishedAt": "2025-09-15 00:00:01"
-        },
-        {
-            "source": {
-                "name": "financialcontent"
-            },
-            "title": "Nvidia Has $4.3 Billion Invested in These 6 Artificial Intelligence (AI) Stocks. Here's the Best of the Bunch.",
-            "url": "https://www.fool.com/investing/2025/09/15/nvidia-invest-artificial-intelligence-ai-stocks/",
-            "urlToImage": "https://g.foolcdn.com/image/?h=400&op=resize&url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F833175%2Fai-icons-hand.jpg&w=400",
-            "publishedAt": "2025-09-15 00:00:00"
-        },
-        {
-            "source": {
-                "name": "macrumors"
-            },
-            "title": "Here's When iOS 26 Rolls Out Today in Every Time Zone",
-            "url": "https://www.macrumors.com/2025/09/15/ios-26-release-date-time-zones/",
-            "urlToImage": "https://images.macrumors.com/t/AvsVlDLYUDnH9IDgGXWrzEf6q7k=/2500x/article-new/2025/09/iOS-26-on-iPhone-Feature.jpg",
-            "publishedAt": "2025-09-15 00:00:00"
-        },
-        {
-            "source": {
-                "id": "28bc60a23a7bf89e60f893506992a3fe",
-                "name": "Daily Excelsior",
-                "url": "https://www.dailyexcelsior.com",
-                "country": "in"
-            },
-            "title": "Parl Panel for action in AI-based fake news",
-            "url": "https://www.dailyexcelsior.com/parl-panel-for-action-in-ai-based-fake-news/",
-            "urlToImage": "https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2025/09/fake-newsss.jpg",
-            "publishedAt": "2025-09-14T23:37:00Z"
-        },
-        {
-            "source": {
-                "id": "3989f52bbec2d3be8442e2851b59e79e",
-                "name": "CBS Sports",
-                "url": "https://www.cbssports.com",
-                "country": "us"
-            },
-            "title": "Vikings vs. Falcons props, bets, SportsLine Machine Learning Model AI predictions: Robinson over 68.5 rushing",
-            "url": "https://www.cbssports.com/nfl/news/vikings-vs-falcons-props-bets-sportsline-machine-learning-model-ai-predictions-robinson-over-68-5-rushing/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/12/16/3ad9b030-82bd-4fc2-87ce-a2b9cdf1831c/thumbnail/1200x675/d1052ea9af0b644901eb9f59d459b24f/bijan-robinson-usatsi-cbs.jpg",
-            "publishedAt": "2025-09-14T23:24:21Z"
-        },
-        {
-            "source": {
-                "id": "d6397b77175680e2678c0d60edcee7af",
-                "name": "South China Morning Post",
-                "url": "https://www.scmp.com",
-                "country": "hk"
-            },
-            "title": "Zheng Yongnian on why China must look beyond the West to build a better AI",
-            "url": "https://www.scmp.com/news/china/diplomacy/article/3325111/zheng-yongnian-why-china-must-look-beyond-west-build-better-ai",
-            "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/09/11/45b0d066-085e-48cf-adb4-5f3c9cc0caed_65c935b9.jpg?itok=bP5b3hW_&v=1757556829",
-            "publishedAt": "2025-09-14T22:00:15Z"
-        },
-        {
-            "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
-            },
-            "title": "The tech and trends driving growth in aerospace MRO",
-            "url": "https://www.straitstimes.com/business/the-tech-and-trends-driving-growth-in-aerospace-mro",
-            "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/b829e32e0799a1102d83f55ed1508a064c5a705828eec2442085e3db1ed29005",
-            "publishedAt": "2025-09-14T21:00:00Z"
-        },
-        {
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            },
-            "title": "Google's top AI scientist says ‘learning how to learn’ will be next generation's most needed skill",
-            "url": "https://japantoday.com/category/tech/google%27s-top-ai-scientist-says-%E2%80%98learning-how-to-learn%E2%80%99-will-be-next-generation%27s-most-needed-skill",
-            "urlToImage": "https://media.japantoday.com/img/store/ca/d9/eb8c72b870d9aa2645db3dda08b5bc3eceff/download/_w1700.jpeg",
-            "publishedAt": "2025-09-14T20:30:00Z"
-        },
-        {
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            },
-            "title": "Google's top AI scientist says ‘learning how to learn’ will be next generation's most needed skill",
-            "url": "https://japantoday.com/category/tech/google's-top-ai-scientist-says-%E2%80%98learning-how-to-learn%E2%80%99-will-be-next-generation's-most-needed-skill",
-            "urlToImage": "https://media.japantoday.com/img/store/ca/d9/eb8c72b870d9aa2645db3dda08b5bc3eceff/download/_w1700.jpeg",
-            "publishedAt": "2025-09-14T20:30:00Z"
-        },
-        {
-            "source": {
-                "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
-                "name": "Fortune",
-                "url": "https://fortune.com",
-                "country": "us"
-            },
-            "title": "North Korean hackers used ChatGPT to help forge deepfake ID",
-            "url": "https://fortune.com/2025/09/14/north-korean-hackers-openai-chatgpt-deepfake-id-south-korea-military/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-2234092483-e1757880790575.jpg?resize=1200,600",
-            "publishedAt": "2025-09-14T20:19:50Z"
-        },
-        {
-            "source": {
-                "id": "51aadd014176eb61b32255e2791b7207",
-                "name": "Newser",
-                "url": "https://www.newser.com",
-                "country": "us"
-            },
-            "title": "Prime Minister Appoints AI-Generated Aide",
-            "url": "https://www.newser.com/story/375150/albanias-cabinet-adds-ai-generated-minister.html",
-            "urlToImage": "https://img2-azrcdn.newser.com/image/1633895-12-20250914103002.jpeg",
-            "publishedAt": "2025-09-14T20:00:00Z"
-        },
-        {
-            "source": {
-                "id": "d5f1f8579b4e9b390feccfa1c0cf8028",
-                "name": "Arab News",
-                "url": "https://www.arabnews.com",
-                "country": "ar"
-            },
-            "title": "The US government vetting paradox",
-            "url": "https://www.arabnews.com/node/2615290",
-            "urlToImage": "https://www.arabnews.com/sites/default/files/authors/4634116-4362531-nadimshehadionline1copy.png",
-            "publishedAt": "2025-09-14T19:17:41Z"
         }
     ]
 }
