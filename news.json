@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-09-16T03:25:48.957158Z",
+    "lastUpdatedAt": "2025-09-16T04:18:01.690963Z",
     "articles": [
+        {
+            "source": {
+                "id": "6fea3ee012f060c6309366516e8d00be",
+                "name": "News-Medical.net",
+                "url": "https://www.news-medical.net",
+                "country": "gb"
+            },
+            "title": "How Artificial Intelligence Is Revolutionizing Emergency Medicine",
+            "url": "https://www.news-medical.net/health/How-Artificial-Intelligence-Is-Revolutionizing-Emergency-Medicine.aspx",
+            "urlToImage": "https://www.news-medical.net/images/Article_Images/ImageForArticle_26563_17577801986219753.jpg",
+            "publishedAt": "2025-09-15T16:07:00Z"
+        },
+        {
+            "source": {
+                "id": "76684855c5d801b81fd06490668d04fe",
+                "name": "TechRadar",
+                "url": "https://www.techradar.com",
+                "country": "au"
+            },
+            "title": "OpenAI makes $300 billion gamble on Oracle computing power to expand artificial intelligence capacity",
+            "url": "https://www.techradar.com/pro/openai-bets-usd300-billion-on-oracle-contract-to-power-artificial-intelligence-expansion-despite-ongoing-losses",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/mM83Xkwt7BYgfzSHfSX755.jpg",
+            "publishedAt": "2025-09-15T16:00:00Z"
+        },
+        {
+            "source": {
+                "id": "a6d401909ca644c4ffb332486c9cfaea",
+                "name": "Seeking Alpha",
+                "url": "https://seekingalpha.com",
+                "country": "us"
+            },
+            "title": "OpenAI's recent hires show push towards humanoid robotics: report",
+            "url": "https://seekingalpha.com/news/4494934-openais-recent-hires-show-push-towards-humanoid-robotics-report",
+            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2225608132/image_2225608132.jpg?io=getty-c-w750",
+            "publishedAt": "2025-09-15T15:45:35Z"
+        },
         {
             "source": {
                 "id": "5ac5f32ba74846cef441099f666f2d98",
@@ -1092,6 +1128,96 @@
             "url": "https://www.forbes.com/sites/lesliekatz/2025/09/15/darwin-awards-for-ai-celebrate-epic-artificial-intelligence-fails/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68c790d1a58e5e99381fc4ff/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-09-15T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "gazette"
+            },
+            "title": "Upcoming tech conference in Colorado Springs aims to foster the next generation of software professionals",
+            "url": "https://gazette.com/business/software-development-tech-industry-conference-in-colorado-springs-aims-to-foster-next-generation-of-professionals/article_41aa1f88-ab7a-4466-b2a5-257c1ff3d725.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/3/bf/3bf151f4-4383-40a7-946d-9bbc3f8a551c/68c0a0d046487.image.jpg?resize=400%2C300",
+            "publishedAt": "2025-09-15 16:15:00"
+        },
+        {
+            "source": {
+                "name": "phys"
+            },
+            "title": "First-principles simulations reveal quantum entanglement in molecular polariton dynamics",
+            "url": "https://phys.org/news/2025-09-principles-simulations-reveal-quantum-entanglement.html",
+            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2025/princeton-chemistrys-h.jpg",
+            "publishedAt": "2025-09-15 16:10:04"
+        },
+        {
+            "source": {
+                "name": "astrobiology"
+            },
+            "title": "How Interstellar Objects Similar To 3I/ATLAS Could Jump-Start Planet Formation Around Infant Stars",
+            "url": "https://astrobiology.com/2025/09/how-interstellar-objects-similar-to-3i-atlas-could-jump-start-planet-formation-around-infant-stars.html",
+            "urlToImage": "https://astrobiology.com/wp-content/uploads/2025/09/How-Interstellar-Objects-Similar.jpg",
+            "publishedAt": "2025-09-15 16:01:00"
+        },
+        {
+            "source": {
+                "name": "newscientist"
+            },
+            "title": "What it’s like to run the world’s best dark matter detector",
+            "url": "https://www.newscientist.com/article/2493944-what-its-like-to-run-the-worlds-best-dark-matter-detector/",
+            "urlToImage": "https://images.newscientist.com/wp-content/uploads/2025/09/15102819/SEI_265620771.jpg",
+            "publishedAt": "2025-09-15 16:00:42"
+        },
+        {
+            "source": {
+                "name": "fortune"
+            },
+            "title": "OpenAI’s ChatGPT dominates personal uses, while Anthropic’s Claude has the edge in business, dueling usage studies show",
+            "url": "https://fortune.com/2025/09/15/openai-chatgpt-claude-anthropic-work-personal-use-new-data/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-2203181438.jpg?w=2048",
+            "publishedAt": "2025-09-15 15:55:39"
+        },
+        {
+            "source": {
+                "name": "newsable_asianetnews"
+            },
+            "title": "Snap Reportedly Releases AR Smart Glasses Software Update Ahead Of 2026 Launch: Retail Chatter Sees 86% Surge",
+            "url": "https://newsable.asianetnews.com/markets/snap-reportedly-releases-ar-smart-glasses-software-update-ahead-of-2026-launch-retail-chatter-sees-86-surge-articleshow-wky4e2u",
+            "urlToImage": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-d380d6c8-7854-40e1-9e5f-f3d65fcb488c.webp",
+            "publishedAt": "2025-09-15 15:54:05"
+        },
+        {
+            "source": {
+                "name": "macworld"
+            },
+            "title": "How to install macOS Tahoe on your Mac",
+            "url": "https://www.macworld.com/article/671172/how-to-update-macos.html",
+            "urlToImage": "https://www.macworld.com/wp-content/uploads/2025/09/macOS-tahoe-installation-2.jpg?quality=50&strip=all&w=1024",
+            "publishedAt": "2025-09-15 15:41:22"
+        },
+        {
+            "source": {
+                "name": "techxplore"
+            },
+            "title": "How to ensure high-quality synthetic wireless data when real-world data runs dry",
+            "url": "https://techxplore.com/news/2025-09-high-quality-synthetic-wireless-real.html",
+            "urlToImage": "https://scx1.b-cdn.net/csz/news/tmb/2025/how-to-ensure-high-qua.jpg",
+            "publishedAt": "2025-09-15 15:39:03"
+        },
+        {
+            "source": {
+                "name": "pcworld_us"
+            },
+            "title": "Microsoft tests on-the-fly AI audio translations for videos in Edge",
+            "url": "https://www.pcworld.com/article/2909285/microsoft-tests-on-the-fly-audio-translations-using-ai-in-edge.html",
+            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/09/Edge-genre-1-1.jpeg?quality=50&strip=all",
+            "publishedAt": "2025-09-15 15:38:23"
+        },
+        {
+            "source": {
+                "name": "toi"
+            },
+            "title": "Driving Collaboration in AI/ML: Why ‘Data Scientists’ and ‘Editors’ Collide",
+            "url": "https://timesofindia.indiatimes.com/blogs/3-sides-of-the-same-coin/driving-collaboration-in-ai-ml-why-data-scientists-and-editors-collide/",
+            "urlToImage": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2025/09/Frame-56.jpg",
+            "publishedAt": "2025-09-15 15:34:28"
         },
         {
             "source": {
@@ -3012,123 +3138,6 @@
             "url": "https://www.livescience.com/space/black-holes/science-history-gravitational-waves-detected-proving-einstein-right-sept-14-2015",
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/CCjVAaAcbDLbVsWARWWGoh-1280-80.gif",
             "publishedAt": "2025-09-14 09:51:00"
-        },
-        {
-            "source": {
-                "name": "newsbytesapp"
-            },
-            "title": "Scientists unlock elusive quantum state, solving a decades-old problem",
-            "url": "https://www.newsbytesapp.com/news/science/scientists-achieve-breakthrough-in-quantum-entanglement-with-w-state-identification/story",
-            "urlToImage": "https://i.cdn.newsbytesapp.com/images/l51220250914145238.jpeg",
-            "publishedAt": "2025-09-14 09:46:22"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Robinhood CEO: AI to Reshape Companies Faster Than Digital Era",
-            "url": "https://www.webpronews.com/robinhood-ceo-ai-to-reshape-companies-faster-than-digital-era/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-ea33e7ab-c0da-4f63-844e-e4cf34947fad.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-09-14 09:21:08"
-        },
-        {
-            "source": {
-                "name": "cleveland"
-            },
-            "title": "If something is labeled smart, does that make it better? Sheldon H. Jacobson",
-            "url": "https://www.cleveland.com/opinion/2025/09/if-something-is-labeled-smart-does-that-make-it-better-sheldon-h-jacobson.html",
-            "urlToImage": "https://www.cleveland.com/resizer/v2/2BJG5OEM7BDR5IEKUIGATZLLJ4.jpg?auth=07876f0f9f45c443241a71fae5eb1252b4ae8a327cc162fa01487cc6bc90b096&height=1200&smart=true",
-            "publishedAt": "2025-09-14 09:19:00"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "China’s SpikingBrain-7B: 100x Faster Brain-Inspired AI Model",
-            "url": "https://www.webpronews.com/chinas-spikingbrain-7b-100x-faster-brain-inspired-ai-model/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-c29d0d8f-93db-42a1-8171-7939dd2653e8.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-09-14 09:15:19"
-        },
-        {
-            "source": {
-                "name": "siasat"
-            },
-            "title": "TN launches pilot AI, robotics programme in govt schools",
-            "url": "https://www.siasat.com/tn-launches-pilot-ai-robotics-programme-in-govt-schools-3271132/",
-            "urlToImage": "https://cdn.siasat.com/wp-content/uploads/2025/06/Untitled-design-2025-06-15T170158.807.jpg",
-            "publishedAt": "2025-09-14 09:02:46"
-        },
-        {
-            "source": {
-                "name": "livescience"
-            },
-            "title": "Why do AI chatbots use so much energy?",
-            "url": "https://www.livescience.com/technology/artificial-intelligence/why-do-ai-chatbots-use-so-much-energy",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Qkt5Pgiim7xzZk7gBAXYER-1280-80.jpg",
-            "publishedAt": "2025-09-14 09:00:00"
-        },
-        {
-            "source": {
-                "name": "zephyrnet"
-            },
-            "title": "Intelligent Machines: The Future of Binding Decisions",
-            "url": "https://zephyrnet.com/intelligent-machines-the-future-of-binding-decisions/",
-            "urlToImage": "https://zephyrnet.com/wp-content/uploads/img-xVqVcciirJBy4ca4TsIj1vIJ.png",
-            "publishedAt": "2025-09-14 08:57:37"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Essential Facts About Internet Safety You Need to Know in 2025",
-            "url": "https://techannouncer.com/essential-facts-about-internet-safety-you-need-to-know-in-2025/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/09/b92e00ecthumbnail-332x187.jpeg",
-            "publishedAt": "2025-09-14 08:52:11"
-        },
-        {
-            "source": {
-                "name": "freepressjournal"
-            },
-            "title": "Tamil Nadu Govt Launches TN SPARK Initiative To Train Govt School Students In AI, Robotics, & Coding",
-            "url": "https://www.freepressjournal.in/education/tamil-nadu-govt-launches-tn-spark-initiative-to-train-govt-school-students-in-ai-robotics-coding",
-            "urlToImage": "https://media.assettype.com/freepressjournal/2025-06-12/98hvv1xr/AI-AI-AI-AI.jpg?width=1200",
-            "publishedAt": "2025-09-14 08:48:56"
-        },
-        {
-            "source": {
-                "name": "thenewsminute"
-            },
-            "title": "TN launches pilot AI, robotics programme in govt schools",
-            "url": "https://www.thenewsminute.com/tamil-nadu/tn-launches-pilot-ai-robotics-programme-in-govt-schools",
-            "urlToImage": "https://media.assettype.com/thenewsminute%2F2023-12%2Fabfe0bc4-b72d-4545-8657-2f35e7b98f91%2FAI.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-09-14 08:48:41"
-        },
-        {
-            "source": {
-                "name": "munsifdaily"
-            },
-            "title": "TN launches pilot AI, robotics programme in govt schools",
-            "url": "https://munsifdaily.com/tn-launches-pilot-ai-robotics-programme-in-govt/",
-            "urlToImage": "https://de42e344.delivery.rocketcdn.me/wp-content/uploads/2025/09/1-34.jpg",
-            "publishedAt": "2025-09-14 07:24:54"
-        },
-        {
-            "source": {
-                "name": "bilkulonline"
-            },
-            "title": "TN launches pilot AI, robotics programme in govt schools",
-            "url": "https://bilkulonline.com/2025/09/14/tn-launches-pilot-ai-robotics-programme-in-govt-schools/",
-            "urlToImage": "https://bilkulonline.com/wp-content/uploads/2025/09/TN-govt-school.png",
-            "publishedAt": "2025-09-14 07:13:40"
-        },
-        {
-            "source": {
-                "name": "thehansindia"
-            },
-            "title": "TN launches pilot AI, robotics programme in govt schools",
-            "url": "https://www.thehansindia.com/tamilnadu/tn-launches-pilot-ai-robotics-programme-in-govt-schools-1006269",
-            "urlToImage": "https://assets.thehansindia.com/h-upload/2025/09/14/1584990-robotics.webp",
-            "publishedAt": "2025-09-14 07:00:50"
         }
     ]
 }
