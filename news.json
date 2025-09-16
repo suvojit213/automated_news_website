@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-09-16T04:18:01.690963Z",
+    "lastUpdatedAt": "2025-09-16T05:14:47.887364Z",
     "articles": [
+        {
+            "source": {
+                "id": "d64c9f761b22764bd19004c3945d6428",
+                "name": "Salon",
+                "url": "https://www.salon.com",
+                "country": "us"
+            },
+            "title": "Writing by hand!?: Teachers are going old-school in the fight against AI",
+            "url": "https://www.salon.com/2025/09/15/writing-by-hand-teachers-are-going-old-school-in-the-fight-against-ai/",
+            "urlToImage": "https://www.salon.com/app/uploads/2025/09/college-writing-by-hand-1470097245.jpg",
+            "publishedAt": "2025-09-15T16:30:30Z"
+        },
+        {
+            "source": {
+                "id": "3989f52bbec2d3be8442e2851b59e79e",
+                "name": "CBS Sports",
+                "url": "https://www.cbssports.com",
+                "country": "us"
+            },
+            "title": "Monday Night Football player props: AI predictions, Buccaneers vs. Texans, Raiders vs. Chargers picks, bets",
+            "url": "https://www.cbssports.com/nfl/news/monday-night-football-player-props-ai-predictions-buccaneers-vs-texans-raiders-vs-chargers-picks-bets/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/09/15/ba5ca5c2-3ba5-4c03-bad9-74260ecf7175/thumbnail/1200x675/3dd930ec59bd2cd7b33eef25c51bdf56/justin-herbert-cbs-2.jpg",
+            "publishedAt": "2025-09-15T16:29:21Z"
+        },
         {
             "source": {
                 "id": "6fea3ee012f060c6309366516e8d00be",
@@ -1128,6 +1152,96 @@
             "url": "https://www.forbes.com/sites/lesliekatz/2025/09/15/darwin-awards-for-ai-celebrate-epic-artificial-intelligence-fails/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68c790d1a58e5e99381fc4ff/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-09-15T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "You can get Nvidia's CUDA on three popular enterprise Linux distros now - why it matters",
+            "url": "https://www.zdnet.com/article/you-can-get-nvidias-cuda-on-three-popular-enterprise-linux-distros-now-why-it-matters/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/0ebf8182424bbcd7a7c48bb279b5aece5175b82c/2025/09/15/b617c709-375f-49f5-88f2-2b6bb730e82b/nvidiacuda555gettyimages-2229918821.jpg?auto=webp&width=1280",
+            "publishedAt": "2025-09-15 17:12:48"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "iOS 26 review: Great new features and a brand new look",
+            "url": "https://www.tomsguide.com/phones/iphones/ios-26-review-new-features-liquid-glass",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/aNb7rXWkuNyaef9mq8TRkV-1280-80.jpg",
+            "publishedAt": "2025-09-15 17:08:41"
+        },
+        {
+            "source": {
+                "name": "theverge"
+            },
+            "title": "I’ve been using macOS Tahoe 26 since June and here are the best eight things about it",
+            "url": "https://www.theverge.com/apple-mac-os/777936/apple-macos-tahoe-26-final-release-testing-impressions-liquid-glass",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/091525_MacBook_Air_15_M4_macOS_Tahoe_ADiBenedetto_0001.jpg?crop=0%2C10.732984293194%2C100%2C78.534031413613&quality=90&strip=all&w=1200",
+            "publishedAt": "2025-09-15 17:08:41"
+        },
+        {
+            "source": {
+                "name": "bgr_com"
+            },
+            "title": "iOS 26, iPadOS 26, macOS Tahoe, watchOS 26, tvOS 26, And visionOS 26 Are Now Available",
+            "url": "https://www.bgr.com/1968552/ios-26-ipados-26-macos-tahoe-watchos-26-tvos-26-visionos-26-download-now-available/",
+            "urlToImage": "https://www.bgr.com/img/gallery/ios-26-ipados-26-macos-tahoe-watchos-26-tvos-26-and-visionos-26-are-now-available/l-intro-1757952981.jpg",
+            "publishedAt": "2025-09-15 17:07:08"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "Apple macOS Tahoe review: Apple Intelligence and Liquid Glass upgrades are a winning combo",
+            "url": "https://www.tomsguide.com/computing/macos/apple-macos-tahoe-review",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/DBbJC4Cyamm9EQ3XecAzFh-1280-80.jpg",
+            "publishedAt": "2025-09-15 17:06:16"
+        },
+        {
+            "source": {
+                "name": "arstechnica"
+            },
+            "title": "macOS 26 Tahoe: The Ars Technica Review",
+            "url": "https://arstechnica.com/gadgets/2025/09/macos-26-tahoe-the-ars-technica-review/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/macos-tahoe-default-wallpaper-1152x648.jpg",
+            "publishedAt": "2025-09-15 17:00:27"
+        },
+        {
+            "source": {
+                "name": "applenewsroom"
+            },
+            "title": "New Apple Intelligence features are available today",
+            "url": "https://www.apple.com/newsroom/2025/09/new-apple-intelligence-features-are-available-today/",
+            "urlToImage": "https://www.apple.com/newsroom/images/2025/09/new-apple-intelligence-features-are-available-today/tile/Apple-Intelligence-hero-lp.jpg.landing-big_2x.jpg",
+            "publishedAt": "2025-09-15 17:00:07"
+        },
+        {
+            "source": {
+                "name": "spacenews"
+            },
+            "title": "Inside ESA’s vision with Josef Aschbacher",
+            "url": "https://spacenews.com/inside-esas-vision-with-josef-aschbacher/",
+            "urlToImage": "https://spacenews.com/wp-content/uploads/2025/09/aschbacher-esa-ceo-series-spaceminds-2000-1500-scaled.jpg",
+            "publishedAt": "2025-09-15 16:59:20"
+        },
+        {
+            "source": {
+                "name": "usatoday"
+            },
+            "title": "Security Cameras Are No Longer Just Watching. They're Responding in Real Time",
+            "url": "https://www.usatoday.com/story/special/contributor-content/2025/09/15/security-cameras-are-no-longer-just-watching-theyre-responding-in-real-time/86166302007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/09/15/USAT/86166305007-image-3.jpg?auto=webp&crop=1998%2C1124%2Cx0%2Cy75&format=pjpg&height=1124&width=1998",
+            "publishedAt": "2025-09-15 16:57:01"
+        },
+        {
+            "source": {
+                "name": "joplinglobe"
+            },
+            "title": "Click-Ins Awarded U.S. Patent for Breakthrough DamagePrint(TM) Technology in Image-Based Damage Identification",
+            "url": "https://www.joplinglobe.com/region/click-ins-awarded-u-s-patent-for-breakthrough-damageprint-tm-technology-in-image-based-damage/article_01b20ef1-aff5-54ef-9e35-a7bc09195223.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/2/1e/21e63cb8-57ca-5309-a0a7-964351aa643b/68c845f2bb8ff.image.jpg?resize=300%2C57",
+            "publishedAt": "2025-09-15 16:46:32"
         },
         {
             "source": {
@@ -3030,114 +3144,6 @@
             "url": "https://www.thelincolnianonline.com/2025/09/14/best-cybersecurity-stocks-to-watch-now-september-13th.html",
             "urlToImage": "https://www.marketbeat.com/logos/google-inc-logo-1200x675.png",
             "publishedAt": "2025-09-14 13:46:49"
-        },
-        {
-            "source": {
-                "name": "digitaltrends"
-            },
-            "title": "Apple’s next wave of new devices is imminent and even more exciting",
-            "url": "https://www.digitaltrends.com/computing/apples-next-wave-of-fresh-hardware-is-imminent-and-even-more-exciting/",
-            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/04/ipad-macbook-air-external-display-set-9.jpeg?p=1&resize=1200%2C630",
-            "publishedAt": "2025-09-14 13:27:11"
-        },
-        {
-            "source": {
-                "name": "timesnownews"
-            },
-            "title": "Tamil Nadu Launches Pilot AI, Robotics Programme in Govt Schools",
-            "url": "https://www.timesnownews.com/education/tamil-nadu-launches-pilot-ai-robotics-programme-in-govt-schools-article-152799617",
-            "urlToImage": "https://images.timesnownews.com/thumb/msid-152799617,imgsize-87714,width-1280,height-720/152799617.jpg",
-            "publishedAt": "2025-09-14 12:02:03"
-        },
-        {
-            "source": {
-                "name": "livemint"
-            },
-            "title": "Amid Nano-Banana trend, Google Gemini replaces ChatGPT in top apps months after Ghibli took internet by storm",
-            "url": "https://www.livemint.com/technology/amid-nano-banana-trend-google-gemini-replaces-chatgpt-in-top-apps-months-after-ghibli-took-internet-by-storm-11757846584207.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2025/09/14/1600x900/logo/download_1757847301539_1757847304205.png",
-            "publishedAt": "2025-09-14 11:35:22"
-        },
-        {
-            "source": {
-                "name": "newsable_asianetnews"
-            },
-            "title": "How to Transform Photos Into 3D Models: 25+ Nano Banana Prompts and Tips",
-            "url": "https://newsable.asianetnews.com/technology/how-to-transform-photos-into-3d-models-25-nano-banana-prompts-and-tips-dmn-articleshow-6o31i9v",
-            "urlToImage": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-01k53yqnqyawt9wn7jcxqcs03w,imgname-fotojet---2025-09-14t164021.440-1757848262398.jpg",
-            "publishedAt": "2025-09-14 11:11:05"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "2025 Tech Trends: AI Agents, Edge Computing, and Chip Resilience",
-            "url": "https://www.webpronews.com/2025-tech-trends-ai-agents-edge-computing-and-chip-resilience/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-51727a2f-1d71-4872-b334-756e0578d583.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-09-14 11:05:23"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "EFF Urges Supreme Court to Limit ISP Copyright Liability Risks",
-            "url": "https://www.webpronews.com/eff-urges-supreme-court-to-limit-isp-copyright-liability-risks/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-c52b137d-0cdc-4843-926a-5a1958809ab2.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-09-14 11:00:00"
-        },
-        {
-            "source": {
-                "name": "thelincolnianonline"
-            },
-            "title": "Head-To-Head Analysis: Kyocera (OTCMKTS:KYOCY) and Dais (OTCMKTS:DLYT)",
-            "url": "https://www.thelincolnianonline.com/2025/09/14/head-to-head-analysis-kyocera-otcmktskyocy-and-dais-otcmktsdlyt.html",
-            "urlToImage": "https://www.marketbeat.com/logos/kyocera-co-logo-1200x675.png?v=20250520060613",
-            "publishedAt": "2025-09-14 10:52:49"
-        },
-        {
-            "source": {
-                "name": "charterworks"
-            },
-            "title": "What AI means for productivity and inequality",
-            "url": "https://www.charterworks.com/erik-brynjolfsson-qa/",
-            "urlToImage": "https://www.charterworks.com/content/images/size/w600/2025/09/charter-brynjolfsson-1.jpg",
-            "publishedAt": "2025-09-14 10:30:39"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Best Smartphones for Content Creators Using TikTok and Instagram",
-            "url": "https://www.analyticsinsight.net/gadgets/best-smartphones-for-content-creators-using-tiktok-and-instagram",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-09-14%2F49ftidu4%2FSmartphones-for-Content-Creators-Using-TikTok-Instagram.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-09-14 10:30:00"
-        },
-        {
-            "source": {
-                "name": "interestingengineering"
-            },
-            "title": "Chinese firm’s 440 hp electric SUV promises built-in range extender to ace long drives",
-            "url": "https://interestingengineering.com/transportation/china-440-hp-electric-suv",
-            "urlToImage": "https://cms.interestingengineering.com/wp-content/uploads/2025/09/image-1920x1080-2025-09-14T175032.671.png",
-            "publishedAt": "2025-09-14 10:23:22"
-        },
-        {
-            "source": {
-                "name": "staradvertiser"
-            },
-            "title": "Volcanic Ash: What risk does AI bring? ChatGPT will confess it all",
-            "url": "https://www.staradvertiser.com/2025/09/14/hawaii-news/volcanic-ash/volcanic-ash-what-risk-does-ai-bring-chatgpt-will-confess-it-all/",
-            "urlToImage": "https://www.staradvertiser.com/wp-content/uploads/2025/09/web1_2024-11-20T100129Z_435853067_RC2R3Z9BXYCO_RTRMADP_3_OPENAI-TEACHERS.JPG",
-            "publishedAt": "2025-09-14 10:05:00"
-        },
-        {
-            "source": {
-                "name": "livescience"
-            },
-            "title": "Science history: Gravitational waves detected, proving Einstein right — Sept. 14, 2015",
-            "url": "https://www.livescience.com/space/black-holes/science-history-gravitational-waves-detected-proving-einstein-right-sept-14-2015",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/CCjVAaAcbDLbVsWARWWGoh-1280-80.gif",
-            "publishedAt": "2025-09-14 09:51:00"
         }
     ]
 }
