@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2025-09-17T14:14:50.299849Z",
+    "lastUpdatedAt": "2025-09-17T15:15:28.853484Z",
     "articles": [
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "Baidu shares surge as the company secures major AI partnership, fresh capital",
+            "url": "https://www.cnbc.com/2025/09/17/baidu-shares-ai-partnership-fresh-capital-.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107295593-1693900544756-gettyimages-1251294603-PGONCHAR_7724.jpeg?v=1742279367&w=1920&h=1080",
+            "publishedAt": "2025-09-17T03:11:13Z"
+        },
+        {
+            "source": {
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
+                "country": "in"
+            },
+            "title": "The hidden human cost of Artificial Intelligence",
+            "url": "https://www.thehindu.com/news/national/the-hidden-human-cost-of-artificial-intelligence/article70056676.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/5kj4r5/article70058343.ece/alternates/LANDSCAPE_1200/IMG_iStock-1206796363_2_1_2OCJU4CJ.jpg",
+            "publishedAt": "2025-09-17T03:00:00Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "China Tech Stocks Surge to 2021 Level as Investors Bet on AI",
+            "url": "https://www.bloomberg.com/news/articles/2025-09-17/china-tech-stocks-surge-to-2021-level-as-investors-bet-on-ai",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iAsfzBNqAOE4/v0/1200x800.jpg",
+            "publishedAt": "2025-09-17T02:45:55Z"
+        },
+        {
+            "source": {
+                "id": "2e9e50c94b2fe950c6f3c06660288260",
+                "name": "SiliconANGLE News",
+                "url": "https://siliconangle.com",
+                "country": "us"
+            },
+            "title": "Cybersecurity startup Vega gets $65M in funding to replace SIEM with SAM",
+            "url": "https://siliconangle.com/2025/09/16/cybersecurity-startup-vega-gets-65m-funding-replace-siem-sam/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/09/Screenshot-from-2025-09-17-09-37-10.png",
+            "publishedAt": "2025-09-17T02:40:37Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - Global Developments: AI Progress, Pharma Queries, and Tech Alliances",
+            "url": "https://www.devdiscourse.com/live-discourse/8922-artificial-intelligence-revolutionizing-every-aspect-of-life",
+            "urlToImage": "https://www.devdiscourse.com?width=1280&format=jpeg",
+            "publishedAt": "2025-09-17T02:31:00Z"
+        },
         {
             "source": {
                 "id": "10cbfb3760cfcdeb78c733c527f0e814",
@@ -192,6 +252,24 @@
             "url": "https://www.morningstar.com/stocks/why-next-winners-ai-boom-may-not-be-ai-stocks",
             "urlToImage": "https://morningstar-morningstar-prod.web.arc-cdn.net/resizer/fUrMxSK29V7V6V8ktX2Q40sZU88=/2400x1350/cloudfront-us-east-1.images.arcpublishing.com/morningstar/GDUU7GDSHBAHZOZSANBUEY2KYM.png",
             "publishedAt": "2025-09-17T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "Google just took down 224 malicious apps with 38 million installs from the Play Store — how to stay safe",
+            "url": "https://www.tomsguide.com/computing/malware-adware/google-just-took-down-224-malicious-apps-with-38-million-installs-from-the-play-store-how-to-stay-safe",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/gwfFXM6EmU37ZTAj75i5hQ-1280-80.jpg",
+            "publishedAt": "2025-09-17 02:22:56"
+        },
+        {
+            "source": {
+                "name": "livemint"
+            },
+            "title": "President Trump in UK for historic state visit: What’s on the agenda? What to expect?",
+            "url": "https://www.livemint.com/news/us-news/donald-trump-arrives-for-a-historic-state-visit-to-the-uk-what-s-on-the-agenda-why-to-expect-11758073729649.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2025/09/17/1600x900/logo/UK-TRUMP-2_1758073748811_1758073760486.jpg",
+            "publishedAt": "2025-09-17 02:20:24"
         },
         {
             "source": {
@@ -3162,69 +3240,6 @@
             "url": "https://www.analyticsinsight.net/news/ios-26-officially-released-top-features-rollout-details-easy-guide-to-upgrade",
             "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-09-16%2Friauv64n%2FiOS-26-Officially-Released-Top-Features-Rollout-Details-Easy-Guide-to-Upgrade.jpg?auto=format%2Ccompress&fit=max&w=480",
             "publishedAt": "2025-09-16 08:23:28"
-        },
-        {
-            "source": {
-                "name": "techtarget"
-            },
-            "title": "Is SEO dead? How GenAI changed search",
-            "url": "https://www.techtarget.com/searchcontentmanagement/feature/Is-SEO-dead-How-GenAI-changed-search",
-            "urlToImage": "https://www.techtarget.com/rms/onlineimages/keyboard_g1253608928_searchsitetablet_520X173.jpg",
-            "publishedAt": "2025-09-16 08:07:00"
-        },
-        {
-            "source": {
-                "name": "thelincolnianonline"
-            },
-            "title": "Contrasting Advantagewon Oil (OTCMKTS:ANTGF) & JinkoSolar (NYSE:JKS)",
-            "url": "https://www.thelincolnianonline.com/2025/09/16/contrasting-advantagewon-oil-otcmktsantgf-jinkosolar-nysejks.html",
-            "urlToImage": "https://www.marketbeat.com/logos/advantagewon-oil-co-logo-1200x675.png?v=20230207151353",
-            "publishedAt": "2025-09-16 07:59:07"
-        },
-        {
-            "source": {
-                "name": "latestly"
-            },
-            "title": "Business News | RIT Inaugurated One of India's First Quantum Research Center, Chennai",
-            "url": "https://www.latestly.com/agency-news/business-news-rit-inaugurated-one-of-indias-first-quantum-research-center-chennai-7113804.html",
-            "urlToImage": "https://st1.latestly.com/wp-content/uploads/2025/09/ANI-20250916073542.jpg",
-            "publishedAt": "2025-09-16 07:54:31"
-        },
-        {
-            "source": {
-                "name": "geeky_gadgets"
-            },
-            "title": "Top Pocket MIDI Sequencers and Groove Boxes for Musicians in 2025",
-            "url": "https://www.geeky-gadgets.com/compact-midi-sequencers-2025/",
-            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/09/best-portable-groove-boxes-2023.webp",
-            "publishedAt": "2025-09-16 07:40:27"
-        },
-        {
-            "source": {
-                "name": "news18"
-            },
-            "title": "Google Pixel 10 Pro Shows What AI Can Do With The Right Hardware",
-            "url": "https://www.news18.com/tech/google-pixel-10-pro-shows-what-ai-can-do-with-the-right-hardware-ws-l-9574829.html",
-            "urlToImage": "https://images.news18.com/ibnlive/uploads/2025/09/Google-Pixel-10-Pro-review-2025-09-9c526cfffd9267cc4981b6a6eff3bdf0-3x2.jpg",
-            "publishedAt": "2025-09-16 07:35:40"
-        },
-        {
-            "source": {
-                "name": "assamtribune"
-            },
-            "title": "Nagaland University research to boost quantum tech, devices & algorithms",
-            "url": "https://assamtribune.com/sci-and-tech/nagaland-university-research-to-boost-quantum-tech-devices-algorithms-1591506",
-            "urlToImage": "https://assamtribune.com/h-upload/2025/09/16/1744330-202509163511663.jpg",
-            "publishedAt": "2025-09-16 07:31:59"
-        },
-        {
-            "source": {
-                "name": "geeky_gadgets"
-            },
-            "title": "Apple October Event: Leaks Reveal the Next Wave of Products",
-            "url": "https://www.geeky-gadgets.com/apple-october-event-2/",
-            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/09/m5-ipad-pro-ultra-thin-bezels-performance.webp",
-            "publishedAt": "2025-09-16 07:30:33"
         }
     ]
 }
