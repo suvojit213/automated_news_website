@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-09-17T02:52:11.854732Z",
+    "lastUpdatedAt": "2025-09-17T03:24:29.084416Z",
     "articles": [
+        {
+            "source": {
+                "id": "c792dadf7373fad5b316a63a77688de1",
+                "name": "ABC News",
+                "url": "https://abcnews.go.com",
+                "country": "us"
+            },
+            "title": "Dulce Maria Alavez disappearance marks 6th anniversary, as AI tools revive New Jersey search",
+            "url": "https://abcnews.go.com/US/dulce-maria-alavez-disappearance-marks-6th-anniversary-ai/story?id=125620638",
+            "urlToImage": "https://i.abcnewsfe.com/a/dadfca32-1732-470c-a037-3c2043ecadd8/Dulce-Maria-alavez-1-ht-gmh-250916_1758029007211_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2025-09-16T15:21:00Z"
+        },
+        {
+            "source": {
+                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
+                "name": "TechStartups.com",
+                "url": "https://techstartups.com",
+                "country": "us"
+            },
+            "title": "Israeli security analytics startup Vega raises $65M in funding, hits $400M valuation",
+            "url": "https://techstartups.com/2025/09/16/israeli-cybersecurity-startup-vega-raises-65m-in-funding-hits-400m-valuation/",
+            "urlToImage": "https://techstartups.com/wp-content/uploads/2025/09/Vega-Founders.jpg",
+            "publishedAt": "2025-09-16T15:09:54Z"
+        },
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "Medical AI model achieves sharp, accurate MRI reconstruction for cardiac and blood flow imaging",
+            "url": "https://medicalxpress.com/news/2025-09-medical-ai-sharp-accurate-mri.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/revolutionary-ai-achie.jpg",
+            "publishedAt": "2025-09-16T15:06:03Z"
+        },
         {
             "source": {
                 "id": "d4e7f6a65e15620f4e4044691a99d0fd",
@@ -1260,6 +1296,69 @@
             "url": "https://www.globenewswire.com/news-release/2025/09/16/3151105/0/en/Harborstone-Society-Showcases-Erydon-AILegacyX-Advancement-Under-Merrick-Hollander.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/20520348-5811-4a8e-bbfe-a4e326269b46",
             "publishedAt": "2025-09-16T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Oracle Releases JDK 25: Enhanced Performance, Security, and AI Tools",
+            "url": "https://www.webpronews.com/oracle-releases-jdk-25-enhanced-performance-security-and-ai-tools/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-67821420-a6af-461a-a71a-a8fb8352d7e2.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-09-16 15:14:00"
+        },
+        {
+            "source": {
+                "name": "fortune"
+            },
+            "title": "Why OpenAI’s $300 billion deal with Oracle has set the ‘AI bubble’ alarm bells ringing",
+            "url": "https://fortune.com/2025/09/16/oracle-openai-deal-ai-bubble-alarm-bells/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-1175129157.jpg?w=2048",
+            "publishedAt": "2025-09-16 15:08:15"
+        },
+        {
+            "source": {
+                "name": "spacenews"
+            },
+            "title": "BlackSky wins second NGA ‘Luno’ contract to track global changes with satellites and AI",
+            "url": "https://spacenews.com/blacksky-wins-second-nga-luno-contract-to-track-global-changes-with-satellites-and-ai/",
+            "urlToImage": "https://spacenews.com/wp-content/uploads/2025/09/Gy-EmccXsAkw3pj.jpeg",
+            "publishedAt": "2025-09-16 15:03:21"
+        },
+        {
+            "source": {
+                "name": "therobotreport"
+            },
+            "title": "Figure AI raises $1B in Series C funding toward humanoid robot development",
+            "url": "https://www.therobotreport.com/figure-ai-raises-1b-in-series-c-funding-toward-humanoid-robot-development/",
+            "urlToImage": "https://www.therobotreport.com/wp-content/uploads/2025/09/Laundry_Open_Graph_Image-copy.jpg",
+            "publishedAt": "2025-09-16 15:02:56"
+        },
+        {
+            "source": {
+                "name": "phys"
+            },
+            "title": "Scientists reveal hidden dynamics of the cell's smallest structures",
+            "url": "https://phys.org/news/2025-09-scientists-reveal-hidden-dynamics-cell.html",
+            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2025/scientists-reveal-hidd-3.jpg",
+            "publishedAt": "2025-09-16 15:00:03"
+        },
+        {
+            "source": {
+                "name": "mit"
+            },
+            "title": "How to build AI scaling laws for efficient LLM training and budget maximization",
+            "url": "https://news.mit.edu/2025/how-build-ai-scaling-laws-efficient-llm-training-budget-maximization-0916",
+            "urlToImage": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202509/Increasing-LLM-size.jpg?itok=I-0gEXtr",
+            "publishedAt": "2025-09-16 15:00:00"
+        },
+        {
+            "source": {
+                "name": "slashgear"
+            },
+            "title": "Why You Should Think Twice Before Buying A Cheap Android TV Box",
+            "url": "https://www.slashgear.com/1966721/why-should-not-buy-cheap-android-tv-box-t95-reason/",
+            "urlToImage": "https://www.slashgear.com/img/gallery/why-you-should-think-twice-before-buying-a-cheap-android-tv-box/l-intro-1757743522.jpg",
+            "publishedAt": "2025-09-16 15:00:00"
         },
         {
             "source": {
@@ -3159,126 +3258,6 @@
             "url": "https://www.scientific-computing.com/white-paper/artificial-intelligence-life-sciences-dawn-scientific-ai",
             "urlToImage": "https://www.scientific-computing.com/themes/custom/bootstrap_sass_lse/images/faviconSCW.ico",
             "publishedAt": "2025-09-15T08:59:22Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "Vijay Kedia-backed TechD Cybersecurity IPO booked over 6x so far on Day 1: Check GMP and other details",
-            "url": "https://www.livemint.com/market/ipo/techd-cybersecurity-ipo-vijay-kedia-backed-ipo-opens-check-subscription-status-gmp-price-band-and-other-details-11757923885406.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2025/09/15/1600x900/2-0-1373240263-hires--3--0_1679775725454_1757923959244.jpg",
-            "publishedAt": "2025-09-15T08:16:24Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "AI not static, regulation must match pace of tech advancement: Nirmala Sitharaman",
-            "url": "https://www.tribuneindia.com/news/business/ai-not-static-regulation-must-match-pace-of-tech-advancement-nirmala-sitharaman/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWJmYWE5MDgwLTkyMGEtMTFmMC04NDliLWQxMWMzZjNiMjVlNy5qcGc=",
-            "publishedAt": "2025-09-15T08:05:17Z"
-        },
-        {
-            "source": {
-                "id": "90a6e6fbc82cfa821ac49fdb5c404789",
-                "name": "NewsX",
-                "url": "https://www.newsx.com",
-                "country": "in"
-            },
-            "title": "AI not static, regulation must match pace of tech advancement: Nirmala Sitharaman",
-            "url": "https://www.newsx.com/business/ai-not-static-regulation-must-match-pace-of-tech-advancement-nirmala-sitharaman20250915133014-69620/",
-            "urlToImage": "https://www.newsx.com/wp-content/uploads/2025/09/AI-not-static-regulation-must-match-pace-of-tech-advancement.avif",
-            "publishedAt": "2025-09-15T08:04:04Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Electric Motor Repair Jobs & Generator Technician Careers: Secure, AI-Proof Opportunities on Our #1 Job Board",
-            "url": "https://techbullion.com/electric-motor-repair-jobs-generator-technician-careers-secure-ai-proof-opportunities-on-our-1-job-board/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/Top-of-page-2-jpg-1000x600.png",
-            "publishedAt": "2025-09-15T07:58:29Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Building a Candy AI Clone: Choosing the Right Tech Stack for Scalable Development",
-            "url": "https://techbullion.com/building-a-candy-ai-clone-choosing-the-right-tech-stack-for-scalable-development/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/6863da45631d65001dd89a6e-1000x600.jpg",
-            "publishedAt": "2025-09-15T07:54:14Z"
-        },
-        {
-            "source": {
-                "id": "28bc60a23a7bf89e60f893506992a3fe",
-                "name": "Daily Excelsior",
-                "url": "https://www.dailyexcelsior.com",
-                "country": "in"
-            },
-            "title": "Regulations should foster innovations, not wipe them out: Sitharaman",
-            "url": "https://www.dailyexcelsior.com/regulations-should-foster-innovations-not-wipe-them-out-sitharaman/",
-            "urlToImage": "https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2025/09/Sita-raman-1.jpg",
-            "publishedAt": "2025-09-15T07:53:05Z"
-        },
-        {
-            "source": {
-                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-                "name": "NDTV.com",
-                "url": "https://www.ndtv.com",
-                "country": "in"
-            },
-            "title": "Regulations Should Foster Innovations, Not Wipe Them Out: N Sitharaman",
-            "url": "https://www.ndtv.com/india-news/nirmala-sitharaman-says-regulations-should-foster-innovations-not-wipe-them-out-9279003",
-            "urlToImage": "https://c.ndtvimg.com/2025-09/e8n1aq5s_nirmala-sitharaman_625x300_04_September_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-            "publishedAt": "2025-09-15T07:44:25Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Kardvin Unveils a New Era for E-commerce by Bridging the Real World and the Metaverse",
-            "url": "https://techbullion.com/kardvin-unveils-a-new-era-for-e-commerce-by-bridging-the-real-world-and-the-metaverse/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/IMAGE-1-1000x474.jpg",
-            "publishedAt": "2025-09-15T07:43:28Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "AI to change the way we live and work so we have to become frontrunners in AI tech: Ashwini Vaishnaw",
-            "url": "https://www.livemint.com/technology/tech-news/ai-to-change-the-way-we-live-and-work-so-we-have-to-become-frontrunners-in-ai-tech-ashwini-vaishnaw-11757918741058.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/tech3_1734536499109_1734536513984.jpg",
-            "publishedAt": "2025-09-15T06:45:40Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "AI to change the way we live and work so we have to become frontrunners in AI tech: Ashwini Vaishnaw",
-            "url": "https://www.tribuneindia.com/news/business/ai-to-change-the-way-we-live-and-work-so-we-have-to-become-frontrunners-in-ai-tech-ashwini-vaishnaw/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTkyMDUzYzMwLTkxZmYtMTFmMC04NDliLWQxMWMzZjNiMjVlNy5qcGc=",
-            "publishedAt": "2025-09-15T06:45:18Z"
         }
     ]
 }
