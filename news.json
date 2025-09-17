@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-09-17T09:16:34.720317Z",
+    "lastUpdatedAt": "2025-09-17T10:15:45.514197Z",
     "articles": [
+        {
+            "source": {
+                "id": "e98e9648a83f865332ab00d9eab8cf1f",
+                "name": "Evening Standard",
+                "url": "https://www.standard.co.uk",
+                "country": "gb"
+            },
+            "title": "UK and US strike tech deal as Trump arrives for state visit",
+            "url": "https://www.standard.co.uk/news/tech/donald-trump-keir-starmer-labour-liz-kendall-government-b1248094.html",
+            "urlToImage": "https://static.standard.co.uk/2025/09/16/22/d100a4e47a96d09a0c09be7aee346b00Y29udGVudHNlYXJjaGFwaSwxNzU4MTExNjgx-2.79211246.jpg?width=1200&auto=webp&quality=75",
+            "publishedAt": "2025-09-16T21:30:00Z"
+        },
         {
             "source": {
                 "id": "bce8b9fcd331f3552e3dcf603b83b80e",
@@ -1827,6 +1839,33 @@
         },
         {
             "source": {
+                "name": "bitcoinworld"
+            },
+            "title": "Meta Connect 2025: Unveiling Revolutionary AI Smart Glasses and the Future of AI",
+            "url": "https://bitcoinworld.co.in/meta-connect-2025-ai-glasses/",
+            "urlToImage": "https://bitcoinworld.co.in/wp-content/uploads/meta-connect-2025-ai-glasses.jpg",
+            "publishedAt": "2025-09-16 22:10:12"
+        },
+        {
+            "source": {
+                "name": "computerweekly"
+            },
+            "title": "Exabeam: Treat AI agents as the new insider threat",
+            "url": "https://www.computerweekly.com/news/366631420/Exabeam-Treat-AI-agents-as-the-new-insider-threat",
+            "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/HeroImages/using-AI-agent-chatbot-Looker-Studio-adobe_searchsitetablet_520X173.jpg",
+            "publishedAt": "2025-09-16 21:54:00"
+        },
+        {
+            "source": {
+                "name": "itpro"
+            },
+            "title": "UK to host largest European GPU cluster under £11 billion Nvidia investment plans",
+            "url": "https://www.itpro.com/infrastructure/uk-to-host-largest-european-gpu-cluster-under-gbp11-billion-nvidia-investment-plans",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Aa5mk7nVSmNqotj4ahQQoD-1280-80.jpg",
+            "publishedAt": "2025-09-16 21:30:00"
+        },
+        {
+            "source": {
                 "name": "xda_developers"
             },
             "title": "4 reasons an old laptop makes for a fantastic Proxmox node",
@@ -3120,42 +3159,6 @@
             "url": "https://www.forbes.com/sites/corneliawalther/2025/09/15/september-16-illuminates-our-path-to-prosocial-ai/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68c64e8875ec94cdb0c200a3/0x0.jpg?width=960",
             "publishedAt": "2025-09-16 02:31:44"
-        },
-        {
-            "source": {
-                "name": "yourstory"
-            },
-            "title": "Talent without capital equals brain drain: Why VCs must lead India’s AI and chips race",
-            "url": "https://yourstory.com/2025/09/talent-without-capital-equals-brain-drain-why-vcs-india-ai-chips-race",
-            "urlToImage": "https://images.yourstory.com/cs/2/a0bad530ce5d11e9a3fb4360e4b9139b/GP08052023FeatureImage-1715174245636.jpg",
-            "publishedAt": "2025-09-16 02:30:00"
-        },
-        {
-            "source": {
-                "name": "newswise"
-            },
-            "title": "Securing the Future of AI",
-            "url": "https://www.newswise.com/articles/securing-the-future-of-ai/?sc=rssn",
-            "urlToImage": "https://www.newswise.com/legacy/image.php?height=334&image=%2Fimages%2Fuploads%2F2025%2F09%2F15%2F68c8694de45a8_20250207computersciencealqahtani29.jpg&width=502",
-            "publishedAt": "2025-09-16 01:33:57"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "The Boundless Horizon: Overseeing the Social and Ethical Implications of Technology's Future",
-            "url": "https://hackernoon.com/the-boundless-horizon-overseeing-the-social-and-ethical-implications-of-technologys-future",
-            "urlToImage": "https://hackernoon.imgix.net/images/t7jZ6Z0gw7MqEHrMGVUphVUiw4x2-3i33g1d.jpeg",
-            "publishedAt": "2025-09-16 01:19:41"
-        },
-        {
-            "source": {
-                "name": "dtnext"
-            },
-            "title": "AI hype has just shaken up the world’s rich list. What if the boom is really a bubble?",
-            "url": "https://www.dtnext.in/edit/ai-hype-has-just-shaken-up-the-worlds-rich-list-what-if-the-boom-is-really-a-bubble-846673",
-            "urlToImage": "https://media.dtnext.in/h-upload/2024/04/29/750x450_819304-openai.webp",
-            "publishedAt": "2025-09-16 01:10:07"
         }
     ]
 }
