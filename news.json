@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-09-17T10:15:45.514197Z",
+    "lastUpdatedAt": "2025-09-17T11:12:30.465525Z",
     "articles": [
+        {
+            "source": {
+                "id": "cb749b89c7dc92dc2d517a49bb9a43ab",
+                "name": "The Verge",
+                "url": "https://www.theverge.com",
+                "country": "us"
+            },
+            "title": "BreachForums founder resentenced to three years in prison.",
+            "url": "https://www.theverge.com/news/779461/breachforums-founder-resentenced-to-three-years-in-prison",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
+            "publishedAt": "2025-09-16T23:03:02Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Arm eyes Tieup with India to Widen AI Tech Reach",
+            "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2025/sep/17/et-front/arm-eyes-tieup-with-india-to-widen-ai-tech-reach/articleshow/123931602.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-123932692,width-1200,height-630,imgsize-43106,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-09-16T22:21:00Z"
+        },
         {
             "source": {
                 "id": "e98e9648a83f865332ab00d9eab8cf1f",
@@ -468,6 +492,18 @@
             "url": "https://www.mercurynews.com/2025/09/16/google-details-5-billion-uk-investment-ahead-of-trump-visit/",
             "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/04/Alphabet-Results_96727-1.jpg?w=1024&h=683",
             "publishedAt": "2025-09-16T16:03:34Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Israeli cybersecurity startup Vega raises $65 million, valued at $400 million",
+            "url": "https://economictimes.indiatimes.com/tech/funding/israeli-cybersecurity-startup-vega-raises-65-million-valued-at-400-million/articleshow/123926370.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-34810,resizemode-75,msid-123926370/tech/funding/israeli-cybersecurity-startup-vega-raises-65-million-valued-at-400-million.jpg",
+            "publishedAt": "2025-09-16T16:00:48Z"
         },
         {
             "source": {
@@ -1839,6 +1875,51 @@
         },
         {
             "source": {
+                "name": "chicago_suntimes"
+            },
+            "title": "Hyde Park Labs marks another push to make Chicago a tech hub",
+            "url": "https://chicago.suntimes.com/technology/2025/09/16/hyde-park-labs-university-chicago-science-incubator",
+            "urlToImage": "https://cst.brightspotcdn.com/dims4/default/83d269d/2147483647/strip/true/crop/4665x3110+0+327/resize/840x560!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F58%2Ffe%2F700e43144cbdb5fc6126217a5074%2Fhpl-hero.jpg",
+            "publishedAt": "2025-09-16 23:11:59"
+        },
+        {
+            "source": {
+                "name": "fortune"
+            },
+            "title": "Exclusive: Former Google DeepMind researchers secure $5 million seed round for new company to bring algorithm-designing AI to the masses",
+            "url": "https://fortune.com/2025/09/16/hiverge-google-deepmind-researchers-5-million-seed-round-for-ai-algorithm-design-company/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/Alhussein-Fawzi-photo-for-Hiverge-story-e1758053386199.jpg?w=2048",
+            "publishedAt": "2025-09-16 23:01:00"
+        },
+        {
+            "source": {
+                "name": "newswise"
+            },
+            "title": "Spectral and Machine Learning Approach Enhances Efficiency of Grape Embryo Rescue",
+            "url": "https://www.newswise.com/articles/spectral-and-machine-learning-approach-enhances-efficiency-of-grape-embryo-rescue/?sc=rsla",
+            "urlToImage": "https://www.newswise.com/legacy/image.php?height=334&image=%2Fimages%2Fuploads%2F2025%2F09%2F16%2F68c96dc023771_1.png&width=502",
+            "publishedAt": "2025-09-16 22:53:38"
+        },
+        {
+            "source": {
+                "name": "natlawreview"
+            },
+            "title": "Beijing Internet Court Requires Evidence of Creative Effort to Claim Copyright Protection in AI-Generated Images",
+            "url": "https://natlawreview.com/article/beijing-internet-court-requires-evidence-creative-effort-claim-copyright-protection",
+            "urlToImage": "https://natlawreview.com/sites/default/files/styles/article_image/public/2025-09/AI%20Artificial%20Intelligence-475590125.jpg.webp?itok=_CA_cacX",
+            "publishedAt": "2025-09-16 22:37:17"
+        },
+        {
+            "source": {
+                "name": "hindustantimes"
+            },
+            "title": "‘India goes bananas for Google Gemini’: What are the top trends? What prompts to use? All you need to know",
+            "url": "https://www.hindustantimes.com/trending/india-goes-bananas-for-google-gemini-what-are-the-top-trends-what-prompts-to-use-all-you-need-to-know-101758061332776.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/09/16/1600x900/India_Google_Gemini_Nano_Banana_Prompts_Viral_1758061357650_1758061374286.jpg",
+            "publishedAt": "2025-09-16 22:33:07"
+        },
+        {
+            "source": {
                 "name": "bitcoinworld"
             },
             "title": "Meta Connect 2025: Unveiling Revolutionary AI Smart Glasses and the Future of AI",
@@ -3087,78 +3168,6 @@
             "url": "https://www.romesentinel.com/online_features/press_releases/google-opens-waltham-cross-data-centre-as-part-of-two-year-5-billion-investment-in/article_f3c3ad90-f644-500d-9fc6-8a71a2c5f330.html",
             "urlToImage": "https://bloximages.chicago2.vip.townnews.com/romesentinel.com/content/tncms/assets/v3/editorial/0/e6/0e6edba7-c34e-5a57-b8d0-609af348395a/68a41c6676b26.image.jpg?resize=300%2C53",
             "publishedAt": "2025-09-16 04:00:00"
-        },
-        {
-            "source": {
-                "name": "poststar"
-            },
-            "title": "Google Opens Waltham Cross Data Centre as Part of Two-year £5 Billion Investment in the UK to Help Power its AI Economy",
-            "url": "https://poststar.com/online_features/press_releases/article_f5fed493-153b-594d-86e7-d55f259d589b.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/poststar.com/content/tncms/assets/v3/editorial/9/25/92517bcb-5bca-577a-a11c-25f94a227c6b/68a41b9755acb.image.jpg?resize=300%2C53",
-            "publishedAt": "2025-09-16 04:00:00"
-        },
-        {
-            "source": {
-                "name": "starkvilledailynews"
-            },
-            "title": "Google Opens Waltham Cross Data Centre as Part of Two-year £5 Billion Investment in the UK to Help Power its AI Economy",
-            "url": "https://www.starkvilledailynews.com/online_features/press_releases/google-opens-waltham-cross-data-centre-as-part-of-two-year-5-billion-investment-in/article_e48cdada-4f9d-5f53-9708-f98c6d507ebf.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/starkvilledailynews.com/content/tncms/assets/v3/editorial/b/52/b523874f-4698-5894-9446-a6a47e35451c/68a4294d2111d.image.jpg?resize=300%2C53",
-            "publishedAt": "2025-09-16 04:00:00"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "Quantum Source Delivers Practical Photonic Quantum Computing",
-            "url": "https://www.forbes.com/sites/gilpress/2025/09/16/quantum-source-delivers-practical-photonic-quantum-computing/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68c81c0d7d09065308cbc731/0x0.jpg?width=960",
-            "publishedAt": "2025-09-16 04:00:00"
-        },
-        {
-            "source": {
-                "name": "laconiadailysun"
-            },
-            "title": "Google Opens Waltham Cross Data Centre as Part of Two-year £5 Billion Investment in the UK to Help Power its AI Economy",
-            "url": "https://www.laconiadailysun.com/online_features/press_releases/google-opens-waltham-cross-data-centre-as-part-of-two-year-5-billion-investment-in/article_06e8df72-db41-50ad-9f0c-b130b58c184b.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/laconiadailysun.com/content/tncms/assets/v3/editorial/d/ca/dca6da80-21ae-5fef-9dad-e0ec93e0cb62/68a41c6daf14f.image.jpg?resize=300%2C53",
-            "publishedAt": "2025-09-16 04:00:00"
-        },
-        {
-            "source": {
-                "name": "berkshireeagle"
-            },
-            "title": "Google Opens Waltham Cross Data Centre as Part of Two-year £5 Billion Investment in the UK to Help Power its AI Economy",
-            "url": "https://www.berkshireeagle.com/online_features/press_releases/google-opens-waltham-cross-data-centre-as-part-of-two-year-5-billion-investment-in/article_52b4fb42-012d-5210-aac0-769137111a5b.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/berkshireeagle.com/content/tncms/assets/v3/editorial/1/d8/1d8db83c-b3d5-52d8-a1d0-43626d958a9c/68a41b1bc7e47.image.jpg?resize=400%2C71",
-            "publishedAt": "2025-09-16 04:00:00"
-        },
-        {
-            "source": {
-                "name": "hindustantimes"
-            },
-            "title": "iOS 26 released: Only these iPhone users get new Apple features, iPhone 17 to...",
-            "url": "https://www.hindustantimes.com/technology/ios-26-released-only-these-iphone-users-get-new-apple-features-iphone-17-to-101757993905543.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/09/16/1600x900/iOS_26_1757994096921_1757994097132.jpeg",
-            "publishedAt": "2025-09-16 03:46:59"
-        },
-        {
-            "source": {
-                "name": "cxotoday"
-            },
-            "title": "India Could Become Data Capital of the World",
-            "url": "https://cxotoday.com/news-analysis/india-could-become-data-capital-of-the-world/",
-            "urlToImage": "https://cxotoday.com/wp-content/uploads/2025/09/iStock-2123138553.jpg",
-            "publishedAt": "2025-09-16 02:33:47"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "September 16 Illuminates Our Path To Prosocial AI",
-            "url": "https://www.forbes.com/sites/corneliawalther/2025/09/15/september-16-illuminates-our-path-to-prosocial-ai/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68c64e8875ec94cdb0c200a3/0x0.jpg?width=960",
-            "publishedAt": "2025-09-16 02:31:44"
         }
     ]
 }
