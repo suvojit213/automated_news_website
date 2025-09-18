@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2025-09-18T09:16:01.955191Z",
+    "lastUpdatedAt": "2025-09-18T10:15:40.580814Z",
     "articles": [
+        {
+            "source": {
+                "id": "26269dbc42635df9af8c24f3cdab8e37",
+                "name": "Cable News Network",
+                "url": "https://edition.cnn.com",
+                "country": "us"
+            },
+            "title": "AI CEO says technology ‘moving very quickly,’ could soon replace more jobs",
+            "url": "https://edition.cnn.com/2025/09/17/business/anthropic-warns-ai-could-soon-replace-jobs",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2235057491.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2025-09-17T22:11:14Z"
+        },
+        {
+            "source": {
+                "id": "d5a02d07558c5563d72576efc406e608",
+                "name": "ABC17News.com",
+                "url": "https://abc17news.com",
+                "country": "us"
+            },
+            "title": "AI CEO says technology ‘moving very quickly,’ could soon replace more jobs",
+            "url": "https://abc17news.com/money/cnn-business-consumer/2025/09/17/ai-ceo-says-technology-moving-very-quickly-could-soon-replace-more-jobs/",
+            "urlToImage": "https://abc17news.b-cdn.net/abc17news.com/2023/08/kmiz-860x484.webp",
+            "publishedAt": "2025-09-17T22:11:14Z"
+        },
+        {
+            "source": {
+                "id": "2e9e50c94b2fe950c6f3c06660288260",
+                "name": "SiliconANGLE News",
+                "url": "https://siliconangle.com",
+                "country": "us"
+            },
+            "title": "Why platform consolidation matters more than ever in cybersecurity",
+            "url": "https://siliconangle.com/2025/09/17/why-platform-consolidation-matters-more-than-ever-in-cybersecurity-crowdstrikefalcon/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/09/Screenshot-2025-09-17-at-17.24.53.png",
+            "publishedAt": "2025-09-17T21:45:03Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "AI Rush Prompts More Investors to Increase Focus",
+            "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2025/sep/18/et-front/ai-rush-prompts-more-investors-to-increase-focus/articleshow/123956230.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-123956945,width-1200,height-630,imgsize-15656,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-09-17T21:35:00Z"
+        },
+        {
+            "source": {
+                "id": "91120a92e0d24e24fbffb6d0affabfe6",
+                "name": "Bangkok Post",
+                "url": "https://www.bangkokpost.com",
+                "country": "th"
+            },
+            "title": "Phuket forges ahead with AI City plan",
+            "url": "https://www.bangkokpost.com/thailand/general/3106432/phuket-forges-ahead-with-ai-city-plan",
+            "urlToImage": "https://static.bangkokpost.com/media/content/20250918/c1_3106432_250918044625_700.jpg",
+            "publishedAt": "2025-09-17T21:26:00Z"
+        },
         {
             "source": {
                 "id": "10cbfb3760cfcdeb78c733c527f0e814",
@@ -1743,6 +1803,87 @@
         },
         {
             "source": {
+                "name": "thepcenthusiast"
+            },
+            "title": "Unleashes Fury Renegade G5 Gen5 Ssd",
+            "url": "https://thepcenthusiast.com/kingston-unleashes-fury-renegade-g5-gen5-ssd/",
+            "urlToImage": "https://cdn.thepcenthusiast.com/wp-content/uploads/2025/05/Kingston-FURY-Renegade-G5-Gen5-SSD-980x551.jpg",
+            "publishedAt": "2025-09-17 22:10:51"
+        },
+        {
+            "source": {
+                "name": "siliconangle"
+            },
+            "title": "Irregular raises $80M to set AI security standards for frontier models",
+            "url": "https://siliconangle.com/2025/09/17/irregular-raises-80m-set-ai-security-standards-frontier-models/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/09/irregular.png",
+            "publishedAt": "2025-09-17 22:01:29"
+        },
+        {
+            "source": {
+                "name": "news_utulsa"
+            },
+            "title": "Math faculty inspire undergraduate research through zero-one matrix exploration",
+            "url": "https://utulsa.edu/news/math-faculty-undergraduate-research-zero-one-matrix/",
+            "urlToImage": "https://utulsa.edu/wp-content/uploads/2023/10/tu_faculty_710x588_redner_richard.jpg",
+            "publishedAt": "2025-09-17 21:46:42"
+        },
+        {
+            "source": {
+                "name": "siliconangle"
+            },
+            "title": "Macroscope raises $30M to speed up software projects with AI",
+            "url": "https://siliconangle.com/2025/09/17/macroscope-raises-30m-speed-software-projects-ai/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/09/Macroscope.png",
+            "publishedAt": "2025-09-17 21:43:33"
+        },
+        {
+            "source": {
+                "name": "economictimes_indiatimes"
+            },
+            "title": "Huawei announces two new supercomputing AI nodes, say they are the world's most powerful",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/huawei-announces-two-new-supercomputing-ai-nodes-say-they-are-the-worlds-most-powerful/articleshow/123962117.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-292690,resizemode-75,msid-123962117/tech/artificial-intelligence/huawei-announces-two-new-supercomputing-ai-nodes-say-they-are-the-worlds-most-powerful.jpg",
+            "publishedAt": "2025-09-17 21:43:12"
+        },
+        {
+            "source": {
+                "name": "thestreet"
+            },
+            "title": "Claude creator Anthropic reveals what jobs are most likely to use AI",
+            "url": "https://www.thestreet.com/economy/claude-creator-anthropic-reveals-what-jobs-are-most-likely-to-use-ai",
+            "urlToImage": "https://www.thestreet.com/.image/c_fit,h_800,w_1200/MjEyNzQ2NjA4MzE4NjIxMTkz/in-this-photo-illustration-a-anthropic-logo-is-displayed-on.jpg",
+            "publishedAt": "2025-09-17 21:41:57"
+        },
+        {
+            "source": {
+                "name": "cision"
+            },
+            "title": "[Free] How to Remove iOS 26 From My iPhone to a Stable Version?",
+            "url": "https://www.prnewswire.com/news-releases/free-how-to-remove-ios-26-from-my-iphone-to-a-stable-version-302559735.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2775750/Tenorshare__How_to_Remove_iOS_26_From_My_iPhone_to_a_Stable_Version.jpg?p=original",
+            "publishedAt": "2025-09-17 21:25:00"
+        },
+        {
+            "source": {
+                "name": "wvnews"
+            },
+            "title": "[Free] How to Remove iOS 26 From My iPhone to a Stable Version?",
+            "url": "https://www.wvnews.com/news/around_the_web/partners/pr_newswire/subject/new_products_services/free-how-to-remove-ios-26-from-my-iphone-to-a-stable-version/article_facb587a-2286-5c5d-b2e7-af76287c97e2.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/assets/v3/editorial/1/f9/1f90ee9b-d150-5037-9118-112eb619980b/68cb2c3a122d5.image.jpg?resize=300%2C225",
+            "publishedAt": "2025-09-17 21:25:00"
+        },
+        {
+            "source": {
+                "name": "zephyrnet"
+            },
+            "title": "Automating Construction: A Guide to Scripting for Effective Publishing",
+            "url": "https://zephyrnet.com/automating-construction-a-guide-to-scripting-for-effective-publishing/",
+            "urlToImage": "https://zephyrnet.com/wp-content/uploads/img-kkRfuTgZQm8GotVKOj0gEgsQ.png",
+            "publishedAt": "2025-09-17 21:21:54"
+        },
+        {
+            "source": {
                 "name": "digitaltrends"
             },
             "title": "The next wave of desktop CPUs is all about more cores, and I can’t wait",
@@ -3009,171 +3150,6 @@
             "url": "https://techannouncer.com/the-symbiotic-relationship-how-data-centers-and-ai-are-shaping-the-future/",
             "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/09/a6c1f0a1thumbnail-332x187.jpeg",
             "publishedAt": "2025-09-17 00:26:10"
-        },
-        {
-            "source": {
-                "name": "financialcontent"
-            },
-            "title": "Is IBM the Best Quantum Computing Stock?",
-            "url": "https://www.fool.com/investing/2025/09/17/is-ibm-the-best-quantum-computing-stock/",
-            "urlToImage": "https://g.foolcdn.com/image/?h=400&op=resize&url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F833757%2Fgettyimages-2156615862.jpg&w=400",
-            "publishedAt": "2025-09-17 00:00:00"
-        },
-        {
-            "source": {
-                "id": "c6075ba0dc9d123bb327faaa419d3d07",
-                "name": "The Motley Fool Australia",
-                "url": "https://www.fool.com.au",
-                "country": "au"
-            },
-            "title": "2 multitrillion-dollar \"Magnificent Seven\" stocks with 19% and 31% upside, according to certain Wall Street analysts",
-            "url": "https://www.fool.com.au/2025/09/17/2-multitrillion-dollar-magnificent-seven-stocks-with-19-and-31-upside-according-to-certain-wall-street-analysts-usfeed/",
-            "urlToImage": "https://www.fool.com.au/wp-content/uploads/2023/10/bargain-4-16.9-1200x675.jpg",
-            "publishedAt": "2025-09-16T23:50:00Z"
-        },
-        {
-            "source": {
-                "id": "57f726ae1c2926b0eba0b6cd65467921",
-                "name": "CryptoSlate",
-                "url": "https://cryptoslate.com",
-                "country": "us"
-            },
-            "title": "Ozak AI Partners with Pyth Network to Deliver Real-Time Market Data Across 100+ Blockchains",
-            "url": "https://cryptoslate.com/press-releases/ozak-ai-partners-with-pyth-network-to-deliver-real-time-market-data-across-100-blockchains/",
-            "urlToImage": "https://cryptoslate.com/wp-content/uploads/2025/09/ozak-pr.jpg",
-            "publishedAt": "2025-09-16T23:47:31Z"
-        },
-        {
-            "source": {
-                "id": "8058567c977e70457c45c65529cb9946",
-                "name": "ITV News",
-                "url": "https://www.itv.com",
-                "country": "gb"
-            },
-            "title": "UK and US strike tech deal as Trump arrives for state visit",
-            "url": "https://www.itv.com/news/2025-09-16/uk-and-us-strike-tech-deal-as-trump-arrives-for-state-visit",
-            "urlToImage": "https://images.ctfassets.net/pjshm78m9jt4/headerImage-c2690277-500e-4ec1-bfa9-b8bc314f40b4/39952d71e10ba2d44af9e9b053eb621a/headerImage-c2690277-500e-4ec1-bfa9-b8bc314f40b4?fm=jpg&fit=fill&w=1600&h=1067&q=80",
-            "publishedAt": "2025-09-16T23:32:23Z"
-        },
-        {
-            "source": {
-                "id": "cb749b89c7dc92dc2d517a49bb9a43ab",
-                "name": "The Verge",
-                "url": "https://www.theverge.com",
-                "country": "us"
-            },
-            "title": "BreachForums founder resentenced to three years in prison.",
-            "url": "https://www.theverge.com/news/779461/breachforums-founder-resentenced-to-three-years-in-prison",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
-            "publishedAt": "2025-09-16T23:03:02Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Arm eyes Tieup with India to Widen AI Tech Reach",
-            "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2025/sep/17/et-front/arm-eyes-tieup-with-india-to-widen-ai-tech-reach/articleshow/123931602.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-123932692,width-1200,height-630,imgsize-43106,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2025-09-16T22:21:00Z"
-        },
-        {
-            "source": {
-                "id": "e98e9648a83f865332ab00d9eab8cf1f",
-                "name": "Evening Standard",
-                "url": "https://www.standard.co.uk",
-                "country": "gb"
-            },
-            "title": "UK and US strike tech deal as Trump arrives for state visit",
-            "url": "https://www.standard.co.uk/news/tech/donald-trump-keir-starmer-labour-liz-kendall-government-b1248094.html",
-            "urlToImage": "https://static.standard.co.uk/2025/09/16/22/d100a4e47a96d09a0c09be7aee346b00Y29udGVudHNlYXJjaGFwaSwxNzU4MTExNjgx-2.79211246.jpg?width=1200&auto=webp&quality=75",
-            "publishedAt": "2025-09-16T21:30:00Z"
-        },
-        {
-            "source": {
-                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-                "name": "Markets Insider",
-                "url": "https://markets.businessinsider.com",
-                "country": "us"
-            },
-            "title": "Microsoft (MSFT) Announces Massive $30B AI Infrastructure Investment in the UK",
-            "url": "https://markets.businessinsider.com/news/stocks/microsoft-msft-announces-massive-30b-ai-infrastructure-investment-in-the-uk-1035155983",
-            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/09/image-1362-1024x765.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-            "publishedAt": "2025-09-16T20:40:24Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Netskope IPO In Demand as AI Era Heightens Cyber Threats",
-            "url": "https://www.bloomberg.com/news/articles/2025-09-16/netskope-ipo-in-demand-as-ai-era-heightens-cyber-threats",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iABOhziXWuds/v1/1200x900.jpg",
-            "publishedAt": "2025-09-16T20:31:05Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "based system exposes flaws in driving licence test",
-            "url": "https://www.tribuneindia.com/news/punjab/ai-based-system-exposes-flaws-in-driving-licence-test/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWZiNzJlNTkwLTkzM2ItMTFmMC04ZWJlLWYzMjRlZjRkM2RjZS5qcGc=",
-            "publishedAt": "2025-09-16T20:30:16Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "Machine learning and quantum chemistry unite to simulate catalyst dynamics",
-            "url": "https://phys.org/news/2025-09-machine-quantum-chemistry-simulate-catalyst.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/new-method-improves-th.jpg",
-            "publishedAt": "2025-09-16T20:30:01Z"
-        },
-        {
-            "source": {
-                "id": "8058567c977e70457c45c65529cb9946",
-                "name": "ITV News",
-                "url": "https://www.itv.com",
-                "country": "gb"
-            },
-            "title": "UK agrees tech deal with the US as Trump arrives for state visit",
-            "url": "https://www.itv.com/news/2025-09-16/uk-agrees-tech-deal-with-the-us-as-trump-arrives-for-state-visit",
-            "urlToImage": "https://images.ctfassets.net/pjshm78m9jt4/4wfTFAvObP61Hke3RJgHuI/fce7d52e91429dca83c00e38865443e5/FotoJet__27_.jpg?fm=jpg&fit=fill&w=1600&h=900&q=80",
-            "publishedAt": "2025-09-16T20:15:38Z"
-        },
-        {
-            "source": {
-                "id": "d450a3b06d0af449e32342c47df2baf4",
-                "name": "Detroit Free Press",
-                "url": "https://www.freep.com",
-                "country": "us"
-            },
-            "title": "South Lyon Schools closed as officials investigate cyber security incident",
-            "url": "https://www.freep.com/story/news/2025/09/16/south-lyon-schools-closed-cyber-security-incident/86184616007/",
-            "urlToImage": "https://www.freep.com/gcdn/authoring/authoring-images/2025/06/23/POEN/84322992007-south-lyon-high-school.jpg?crop=4031,2269,x0,y377&width=3200&height=1802&format=pjpg&auto=webp",
-            "publishedAt": "2025-09-16T20:10:50Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "Disney, Warner Bros and NBCUniversal unite in lawsuit against Chinese AI firm",
-            "url": "https://www.thenews.com.pk/latest/1344171-disney-warner-bros-and-nbcuniversal-unite-in-lawsuit-against-chinese-ai-firm",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/updates/2025-09-17/1344171_125932_updates.jpg",
-            "publishedAt": "2025-09-16T20:10:00Z"
         }
     ]
 }
