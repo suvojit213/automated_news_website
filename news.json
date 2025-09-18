@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2025-09-18T20:16:35.380418Z",
+    "lastUpdatedAt": "2025-09-18T21:13:18.247159Z",
     "articles": [
+        {
+            "source": {
+                "id": "3271eb2093cfa66b030a37cf84a8df5e",
+                "name": "Baltimore Sun",
+                "url": "https://www.baltimoresun.com",
+                "country": "us"
+            },
+            "title": "Could it surpass Jeopardy host Ken Jennings?",
+            "url": "https://www.baltimoresun.com/2025/09/18/can-ai-surpass-human-intelligence-achieving-singularity/",
+            "urlToImage": "https://www.baltimoresun.com/wp-content/uploads/2025/09/TBS-L-JORDANBOYDGRABER-01.jpg?w=1024&h=739",
+            "publishedAt": "2025-09-18T09:06:27Z"
+        },
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            },
+            "title": "Apple’s New AirPods Offer Impressive Language Translation",
+            "url": "https://www.nytimes.com/2025/09/18/technology/personaltech/new-airpods-language-translation-feature.html",
+            "urlToImage": "https://static01.nyt.com/images/2025/09/20/business/17techfix/17techfix-facebookJumbo.jpg",
+            "publishedAt": "2025-09-18T09:04:35Z"
+        },
+        {
+            "source": {
+                "id": "b41851fb2662ea502db29f71ec4d1583",
+                "name": "NPR",
+                "url": "https://www.npr.org",
+                "country": "us"
+            },
+            "title": "What does the Google antitrust ruling mean for the future of AI?",
+            "url": "https://www.npr.org/2025/09/18/nx-s1-5539869/google-antitrust-ruling-future-of-ai",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5760x3240+0+300/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd4%2F8d%2F66281a7b45b8984c265907fe86e2%2Fap23286617961998.jpg",
+            "publishedAt": "2025-09-18T09:00:00Z"
+        },
+        {
+            "source": {
+                "id": "6534c1541b974602cc2ed040c2e4038f",
+                "name": "Livescience.com",
+                "url": "https://www.livescience.com",
+                "country": "gb"
+            },
+            "title": "'There's no shoving that genie back in the bottle': Readers believe it's too late to stop the progression of AI",
+            "url": "https://www.livescience.com/technology/artificial-intelligence/theres-no-shoving-that-genie-back-in-the-bottle-readers-believe-its-too-late-to-stop-the-progression-of-ai",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/cGyrxr945AG4dYvBNqZaNm.jpg",
+            "publishedAt": "2025-09-18T09:00:00Z"
+        },
+        {
+            "source": {
+                "id": "23ca80edba9c670741bdbfc4acd3e991",
+                "name": "The Statesman",
+                "url": "https://www.thestatesman.com",
+                "country": "in"
+            },
+            "title": "Govt to establish AI R&D hubs across key sectors: Sitharaman",
+            "url": "https://www.thestatesman.com/business/govt-to-establish-ai-rd-hubs-across-key-sectors-sitharaman-1503488022.html",
+            "urlToImage": "https://www.thestatesman.com/wp-content/uploads/2025/09/Blue-Yellow-Modern-Business-YouTube-Thumbnail-1200-x-675-px-1200-x-675-px-50.webp",
+            "publishedAt": "2025-09-18T08:55:18Z"
+        },
+        {
+            "source": {
+                "id": "82dc94c51bef044035e3d16ef869c7a8",
+                "name": "PhoneArena",
+                "url": "https://www.phonearena.com",
+                "country": "us"
+            },
+            "title": "Verizon just mapped the future of 911 - and AI, drones, and robots are taking center stage",
+            "url": "https://www.phonearena.com/news/verizon-just-mapped-future-of-911-ai-drones-robots-are-taking-center-stage_id174158",
+            "urlToImage": "https://m-cdn.phonearena.com/images/article/174158-wide-two_1200/Verizon-just-mapped-the-future-of-911--and-AI-drones-and-robots-are-taking-center-stage.jpg",
+            "publishedAt": "2025-09-18T08:39:24Z"
+        },
+        {
+            "source": {
+                "id": "105bb16685822879671e4bad332aeec9",
+                "name": "The Mirror",
+                "url": "https://www.mirror.co.uk",
+                "country": "gb"
+            },
+            "title": "Social media users warned over AI scam using your pictures and videos",
+            "url": "https://www.mirror.co.uk/news/uk-news/social-media-users-warned-over-35906088",
+            "urlToImage": "https://i2-prod.mirror.co.uk/article26477849.ece/ALTERNATES/s1200/0_Facebook-Reports-First-Ever-Decrease-In-Daily-Active-Users.jpg",
+            "publishedAt": "2025-09-18T08:19:00Z"
+        },
         {
             "source": {
                 "id": "b1fa63410571207862faad9daf9b4527",
@@ -636,6 +720,78 @@
             "url": "https://www.globenewswire.com/news-release/2025/09/18/3152556/0/en/REALTORS-Embrace-AI-Digital-Tools-to-Enhance-Client-Service-NAR-Survey-Finds.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/8a0d04e5-70aa-4d95-b2fd-de8481addefd",
             "publishedAt": "2025-09-18T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "Meta Shares Rise In Premarket After It Unveils New $799 AI Smart Glasses",
+            "url": "https://www.forbes.com/sites/siladityaray/2025/09/18/meta-shares-rise-in-premarket-after-it-unveils-new-799-ai-smart-glasses/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68cbcbf841aac2b8b75f7571/0x0.jpg?precrop=3384%2C1904%2Cx0%2Cy174&width=960",
+            "publishedAt": "2025-09-18 09:09:47"
+        },
+        {
+            "source": {
+                "name": "expresscomputer"
+            },
+            "title": "Vodafone Idea, TCS deepen collaboration with AI-powered customer experience platform",
+            "url": "https://www.expresscomputer.in/news/vodafone-idea-tcs-deepen-collaboration-with-ai-powered-customer-experience-platform/127850/",
+            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2025/06/27174823/EC_Technology_City_750.jpg",
+            "publishedAt": "2025-09-18 09:08:36"
+        },
+        {
+            "source": {
+                "name": "thelincolnianonline"
+            },
+            "title": "Quantum Computing Stocks To Research – September 15th",
+            "url": "https://www.thelincolnianonline.com/2025/09/18/quantum-computing-stocks-to-research-september-15th.html",
+            "urlToImage": "https://www.marketbeat.com/logos/ionq-inc-logo-1200x675.png?v=20211203111404",
+            "publishedAt": "2025-09-18 09:02:55"
+        },
+        {
+            "source": {
+                "name": "nhpr"
+            },
+            "title": "What does the Google antitrust ruling mean for the future of AI?",
+            "url": "https://www.nhpr.org/2025-09-18/what-does-the-google-antitrust-ruling-mean-for-the-future-of-ai",
+            "urlToImage": "https://npr.brightspotcdn.com/dims4/default/ddf735e/2147483647/strip/true/crop/5120x3840+0+0/resize/880x660!/quality/90/?url=https%3A%2F%2Fnpr.brightspotcdn.com%2Fdims3%2Fdefault%2Fstrip%2Ffalse%2Fcrop%2F5120x3840+320+0%2Fresize%2F5120x3840%21%2F%3Furl%3Dhttp%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd4%2F8d%2F66281a7b45b8984c265907fe86e2%2Fap23286617961998.jpg",
+            "publishedAt": "2025-09-18 09:00:00"
+        },
+        {
+            "source": {
+                "name": "geeky_gadgets"
+            },
+            "title": "CubeSats and Raspberry Pi : The Future of Affordable Space Missions",
+            "url": "https://www.geeky-gadgets.com/affordable-satellite-technology-with-raspberry-pi/",
+            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/09/affordable-space-exploration-raspberry-pi.webp",
+            "publishedAt": "2025-09-18 08:46:23"
+        },
+        {
+            "source": {
+                "name": "medianama"
+            },
+            "title": "Key Highlights from Samsung’s AI Forum (2025) Event",
+            "url": "https://www.medianama.com/2025/09/223-samsung-ai-forum-2025-insights/",
+            "urlToImage": "https://www.medianama.com/wp-content/uploads/2025/07/ai-data-exchange-8531013_1920.jpg",
+            "publishedAt": "2025-09-18 08:40:37"
+        },
+        {
+            "source": {
+                "name": "abplive"
+            },
+            "title": "Vedas, Yoga, & Science Converge: How Gurukulam Is Reviving Ancient Values Of Indian Education",
+            "url": "https://news.abplive.com/education/vedas-yoga-science-converge-how-gurukulam-is-reviving-ancient-values-of-indian-education-1800970",
+            "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2025/09/18/5eb1d635ff3cf90f1751d5e9c39fb8261758182052708940_original.jpg",
+            "publishedAt": "2025-09-18 08:39:10"
+        },
+        {
+            "source": {
+                "name": "latestly"
+            },
+            "title": "Business News | Sony India Introduces High-speed, Large-capacity CFexpress 4 Standard Type A Memory Cards or Card Reader Compatible with CFexpress 4",
+            "url": "https://www.latestly.com/agency-news/business-news-sony-india-introduces-high-speed-large-capacity-cfexpress-4-standard-type-a-memory-cards-or-card-reader-compatible-with-cfexpress-4-7117462.html",
+            "urlToImage": "https://st1.latestly.com/wp-content/uploads/2025/09/ANI-20250918081415.jpg",
+            "publishedAt": "2025-09-18 08:30:28"
         },
         {
             "source": {
@@ -3210,141 +3366,6 @@
             "url": "https://herald-review.com/online_features/press_releases/article_452a232f-3ed5-5e03-ab7a-7f52feaf8cff.html",
             "urlToImage": "https://bloximages.chicago2.vip.townnews.com/herald-review.com/content/tncms/assets/v3/editorial/0/c9/0c922832-ae3b-5d2a-accf-bb5415f79064/68cbb605881a2.image.jpg?crop=1585%2C832%2C453%2C0&order=crop%2Cresize&resize=1200%2C630",
             "publishedAt": "2025-09-17 22:37:00"
-        },
-        {
-            "source": {
-                "name": "pantagraph"
-            },
-            "title": "MIDAS and OLEON join forces to advance sustainable immersion cooling for data centers",
-            "url": "https://pantagraph.com/online_features/press_releases/article_29137eac-6fd4-58ee-a4c3-0b862f1b04de.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/pantagraph.com/content/tncms/assets/v3/editorial/7/f3/7f34f8bc-8746-526b-96a1-85179f1d6256/68cbb6cc676e8.image.jpg?crop=1585%2C832%2C453%2C0&order=crop%2Cresize&resize=1200%2C630",
-            "publishedAt": "2025-09-17 22:37:00"
-        },
-        {
-            "source": {
-                "name": "globegazette"
-            },
-            "title": "MIDAS and OLEON join forces to advance sustainable immersion cooling for data centers",
-            "url": "https://globegazette.com/online_features/press_releases/article_9d32e44a-f2e5-5e70-8cc4-df51477ce30e.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/globegazette.com/content/tncms/assets/v3/editorial/6/5a/65afffa8-ff7b-581f-a383-6d9a06789568/68cbb80d7cbd8.image.jpg?crop=1585%2C832%2C453%2C0&order=crop%2Cresize&resize=1200%2C630",
-            "publishedAt": "2025-09-17 22:37:00"
-        },
-        {
-            "source": {
-                "name": "winonadailynews"
-            },
-            "title": "MIDAS and OLEON join forces to advance sustainable immersion cooling for data centers",
-            "url": "https://winonadailynews.com/online_features/press_releases/article_d95bce98-c0db-50a7-a880-bbdd1fe187b8.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/winonadailynews.com/content/tncms/assets/v3/editorial/6/13/6137c71b-9ff6-55d3-aba4-3a02578431fb/68cbb7bcca488.image.jpg?crop=1585%2C832%2C453%2C0&order=crop%2Cresize&resize=1200%2C630",
-            "publishedAt": "2025-09-17 22:37:00"
-        },
-        {
-            "source": {
-                "name": "thepcenthusiast"
-            },
-            "title": "Unleashes Fury Renegade G5 Gen5 Ssd",
-            "url": "https://thepcenthusiast.com/kingston-unleashes-fury-renegade-g5-gen5-ssd/",
-            "urlToImage": "https://cdn.thepcenthusiast.com/wp-content/uploads/2025/05/Kingston-FURY-Renegade-G5-Gen5-SSD-980x551.jpg",
-            "publishedAt": "2025-09-17 22:10:51"
-        },
-        {
-            "source": {
-                "name": "siliconangle"
-            },
-            "title": "Irregular raises $80M to set AI security standards for frontier models",
-            "url": "https://siliconangle.com/2025/09/17/irregular-raises-80m-set-ai-security-standards-frontier-models/",
-            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/09/irregular.png",
-            "publishedAt": "2025-09-17 22:01:29"
-        },
-        {
-            "source": {
-                "name": "news_utulsa"
-            },
-            "title": "Math faculty inspire undergraduate research through zero-one matrix exploration",
-            "url": "https://utulsa.edu/news/math-faculty-undergraduate-research-zero-one-matrix/",
-            "urlToImage": "https://utulsa.edu/wp-content/uploads/2023/10/tu_faculty_710x588_redner_richard.jpg",
-            "publishedAt": "2025-09-17 21:46:42"
-        },
-        {
-            "source": {
-                "name": "siliconangle"
-            },
-            "title": "Macroscope raises $30M to speed up software projects with AI",
-            "url": "https://siliconangle.com/2025/09/17/macroscope-raises-30m-speed-software-projects-ai/",
-            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/09/Macroscope.png",
-            "publishedAt": "2025-09-17 21:43:33"
-        },
-        {
-            "source": {
-                "name": "economictimes_indiatimes"
-            },
-            "title": "Huawei announces two new supercomputing AI nodes, say they are the world's most powerful",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/huawei-announces-two-new-supercomputing-ai-nodes-say-they-are-the-worlds-most-powerful/articleshow/123962117.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-292690,resizemode-75,msid-123962117/tech/artificial-intelligence/huawei-announces-two-new-supercomputing-ai-nodes-say-they-are-the-worlds-most-powerful.jpg",
-            "publishedAt": "2025-09-17 21:43:12"
-        },
-        {
-            "source": {
-                "name": "thestreet"
-            },
-            "title": "Claude creator Anthropic reveals what jobs are most likely to use AI",
-            "url": "https://www.thestreet.com/economy/claude-creator-anthropic-reveals-what-jobs-are-most-likely-to-use-ai",
-            "urlToImage": "https://www.thestreet.com/.image/c_fit,h_800,w_1200/MjEyNzQ2NjA4MzE4NjIxMTkz/in-this-photo-illustration-a-anthropic-logo-is-displayed-on.jpg",
-            "publishedAt": "2025-09-17 21:41:57"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "[Free] How to Remove iOS 26 From My iPhone to a Stable Version?",
-            "url": "https://www.prnewswire.com/news-releases/free-how-to-remove-ios-26-from-my-iphone-to-a-stable-version-302559735.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2775750/Tenorshare__How_to_Remove_iOS_26_From_My_iPhone_to_a_Stable_Version.jpg?p=original",
-            "publishedAt": "2025-09-17 21:25:00"
-        },
-        {
-            "source": {
-                "name": "wvnews"
-            },
-            "title": "[Free] How to Remove iOS 26 From My iPhone to a Stable Version?",
-            "url": "https://www.wvnews.com/news/around_the_web/partners/pr_newswire/subject/new_products_services/free-how-to-remove-ios-26-from-my-iphone-to-a-stable-version/article_facb587a-2286-5c5d-b2e7-af76287c97e2.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/assets/v3/editorial/1/f9/1f90ee9b-d150-5037-9118-112eb619980b/68cb2c3a122d5.image.jpg?resize=300%2C225",
-            "publishedAt": "2025-09-17 21:25:00"
-        },
-        {
-            "source": {
-                "name": "zephyrnet"
-            },
-            "title": "Automating Construction: A Guide to Scripting for Effective Publishing",
-            "url": "https://zephyrnet.com/automating-construction-a-guide-to-scripting-for-effective-publishing/",
-            "urlToImage": "https://zephyrnet.com/wp-content/uploads/img-kkRfuTgZQm8GotVKOj0gEgsQ.png",
-            "publishedAt": "2025-09-17 21:21:54"
-        },
-        {
-            "source": {
-                "name": "digitaltrends"
-            },
-            "title": "The next wave of desktop CPUs is all about more cores, and I can’t wait",
-            "url": "https://www.digitaltrends.com/computing/the-next-wave-of-desktop-cpus-is-all-about-more-cores-and-i-cant-wait/",
-            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/10/core-ultra-9-285k-review-2.jpg?p=1&resize=1200%2C630",
-            "publishedAt": "2025-09-17 21:00:00"
-        },
-        {
-            "source": {
-                "name": "auburnpub"
-            },
-            "title": "Expedition Infrastructure Partners Supports OTG Acquisition Corp. I, a Newly Closed $230 mm SPAC Targeting the Digital Infrastructure Ecosystem",
-            "url": "https://auburnpub.com/online_features/press_releases/article_26fb17cd-89e8-50cb-adf6-3be20c9aafe4.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/auburnpub.com/content/tncms/assets/v3/editorial/d/c8/dc8f645b-7eec-5c38-aabe-d8adf02864ae/68cba826a0574.image.jpg?crop=1150%2C604%2C115%2C0",
-            "publishedAt": "2025-09-17 20:45:00"
-        },
-        {
-            "source": {
-                "name": "thechronicle"
-            },
-            "title": "Expedition Infrastructure Partners Supports OTG Acquisition Corp. I, a Newly Closed $230 mm SPAC Targeting the Digital Infrastructure Ecosystem",
-            "url": "https://www.thechronicle.com/online_features/press_releases/expedition-infrastructure-partners-supports-otg-acquisition-corp-i-a-newly-closed-230-mm-spac-targeting/article_2f4f46bc-f402-5a9c-aab9-ee38759ed44a.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thechronicle.com/content/tncms/assets/v3/editorial/3/76/3763bbca-6638-5193-93b1-9e47464db2e9/68cba7e4d52bb.image.jpg?resize=400%2C175",
-            "publishedAt": "2025-09-17 20:45:00"
         }
     ]
 }
