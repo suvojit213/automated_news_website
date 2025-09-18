@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2025-09-18T02:54:01.940821Z",
+    "lastUpdatedAt": "2025-09-18T03:27:09.188394Z",
     "articles": [
+        {
+            "source": {
+                "id": "109f2b4a20da4fe1c2fd502b03c07243",
+                "name": "BBC News",
+                "url": "https://www.bbc.com",
+                "country": "gb"
+            },
+            "title": "AI can forecast your future health - just like the weather",
+            "url": "https://www.bbc.com/news/articles/cx2pj502ev6o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3f91/live/56711b40-93a7-11f0-afac-7fc88e0d02fd.jpg",
+            "publishedAt": "2025-09-17T15:19:58Z"
+        },
+        {
+            "source": {
+                "id": "63fb9bccf05610a30851df4c2d33289f",
+                "name": "MIT Technology Review",
+                "url": "https://www.technologyreview.com",
+                "country": "us"
+            },
+            "title": "AI-designed viruses are here and already killing bacteria",
+            "url": "https://www.technologyreview.com/2025/09/17/1123801/ai-virus-bacteriophage-life/",
+            "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2025/09/generate-phage.jpg?resize=1200,600",
+            "publishedAt": "2025-09-17T15:14:29Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Israel's Glilot Capital raises $500 million for new AI and cybersecurity investments",
+            "url": "https://economictimes.indiatimes.com/tech/funding/israels-glilot-capital-raises-500-million-for-new-ai-and-cybersecurity-investments/articleshow/123949246.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-9092,resizemode-75,msid-123949246/tech/funding/israels-glilot-capital-raises-500-million-for-new-ai-and-cybersecurity-investments.jpg",
+            "publishedAt": "2025-09-17T15:06:58Z"
+        },
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "Our new study found AI is wreaking havoc on uni assessments. Here's how we should respond",
+            "url": "https://phys.org/news/2025-09-ai-wreaking-havoc-uni.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/computer-in-library.jpg",
+            "publishedAt": "2025-09-17T15:04:04Z"
+        },
+        {
+            "source": {
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
+                "country": "us"
+            },
+            "title": "Meta set to unveil new smart glasses at Connect event",
+            "url": "https://nypost.com/2025/09/17/tech/meta-set-to-unveil-new-smart-glasses-at-connect-event/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/09/meta-glasses-comp.jpg?quality=75&strip=all&1758105300&w=1024",
+            "publishedAt": "2025-09-17T15:02:26Z"
+        },
+        {
+            "source": {
+                "id": "a1dd1cfddd85ce2d4ada87bc9f6a9d43",
+                "name": "Belfast Telegraph",
+                "url": "https://www.belfasttelegraph.co.uk",
+                "country": "gb"
+            },
+            "title": "New AI tool ‘can estimate the risk of more than 1,000 diseases for people in one go’",
+            "url": "https://www.belfasttelegraph.co.uk/news/uk/new-ai-tool-can-estimate-the-risk-of-more-than-1000-diseases-for-people-in-one-go/a2145831272.html",
+            "urlToImage": "https://focus.belfasttelegraph.co.uk/thumbor/S2gE0DsjuroA3p7fjzMu2VG5xoY=/0x0:3699x2466/629x0/prod-mh-ireland/d70e2294-02ac-42a6-b1d5-272a785a7344/dd68602d-bc24-4138-9452-08ffb6cad374/2.81093700.jpg",
+            "publishedAt": "2025-09-17T15:00:00Z"
+        },
         {
             "source": {
                 "id": "aa569bbaa7b7ef97f7cf8df3cf902947",
@@ -1236,6 +1308,60 @@
             "url": "https://www.morningstar.com/stocks/why-next-winners-ai-boom-may-not-be-ai-stocks",
             "urlToImage": "https://morningstar-morningstar-prod.web.arc-cdn.net/resizer/fUrMxSK29V7V6V8ktX2Q40sZU88=/2400x1350/cloudfront-us-east-1.images.arcpublishing.com/morningstar/GDUU7GDSHBAHZOZSANBUEY2KYM.png",
             "publishedAt": "2025-09-17T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "benzinga"
+            },
+            "title": "Immutable Azopt: Why Traders Are Turning to Immutable Azopt AI-Powered Platform for Smarter Investing – Read France Report!",
+            "url": "https://www.benzinga.com/pressreleases/25/09/g47718470/immutable-azopt-why-traders-are-turning-to-immutable-azopt-ai-powered-platform-for-smarter-investi",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/9540ae24-58b2-47f6-abf9-7921c094eec5/immutable-azop.png",
+            "publishedAt": "2025-09-17 15:24:25"
+        },
+        {
+            "source": {
+                "name": "knowledia"
+            },
+            "title": "Government confirms North East as location of second AI growth zone",
+            "url": "https://news.knowledia.com/US/en/articles/government-confirms-north-east-as-location-of-second-ai-growth-zone-9d97977fb1bbed56717f3ff295118e6644b6a07d",
+            "urlToImage": "https://cdn.ttgtmedia.com/visuals/ComputerWeekly/Hero%20Images/Newcastle-skyline-Fotolia.jpg",
+            "publishedAt": "2025-09-17 15:14:40"
+        },
+        {
+            "source": {
+                "name": "engadget"
+            },
+            "title": "Inside the Apple audio lab where AirPods are tested and tuned",
+            "url": "https://www.engadget.com/audio/inside-the-apple-audio-lab-where-airpods-are-tested-and-tuned-150025891.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?client=19f2b5e49a271b2bde77&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-09%2Fedc2ff30-9358-11f0-b94f-b3951d8ef49f&resize=1400%2C1050&signature=06e2daee1e6e8525a6c63a1a86f3b02268ec12bd",
+            "publishedAt": "2025-09-17 15:00:25"
+        },
+        {
+            "source": {
+                "name": "en_prnasisa"
+            },
+            "title": "GIGABYTE Announces the Availability of its AI-enhanced AORUS X870E X3D Series Motherboards for AMD RyzenTM X3D Processors",
+            "url": "https://en.prnasia.com/story/503924-0.shtml",
+            "urlToImage": "https://mma.prnasia.com/media2/2773970/GIGABYTE.jpg?p=medium600",
+            "publishedAt": "2025-09-17 15:00:00"
+        },
+        {
+            "source": {
+                "name": "thehindu"
+            },
+            "title": "How the DeepSeek-R1 AI model was taught to teach itself to reason | Explained",
+            "url": "https://www.thehindu.com/sci-tech/science/how-the-deepseek-r1-ai-model-was-taught-to-teach-itself-to-reason-explained/article70061424.ece",
+            "urlToImage": "https://th-i.thgim.com/public/sci-tech/science/be9gar/article70061449.ece/alternates/LANDSCAPE_1200/igor-omilaev-FHgWFzDDAOs-unsplash.jpg",
+            "publishedAt": "2025-09-17 15:00:00"
+        },
+        {
+            "source": {
+                "name": "prnewswire_apac"
+            },
+            "title": "GIGABYTE Announces the Availability of its AI-enhanced AORUS X870E X3D Series Motherboards for AMD RyzenTM X3D Processors",
+            "url": "https://www.prnewswire.com/apac/news-releases/gigabyte-announces-the-availability-of-its-ai-enhanced-aorus-x870e-x3d-series-motherboards-for-amd-ryzen-x3d-processors-302557141.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2773970/GIGABYTE.jpg?p=original",
+            "publishedAt": "2025-09-17 15:00:00"
         },
         {
             "source": {
@@ -3216,150 +3342,6 @@
             "url": "https://techbullion.com/trafficdefi-revolutionizes-crypto-web3-marketing-with-ai-driven-efficiency-and-transparency/",
             "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/trafficdefi.jpg",
             "publishedAt": "2025-09-16T08:33:23Z"
-        },
-        {
-            "source": {
-                "id": "7eeaf9a839918543cc708f2d331c3be4",
-                "name": "Free Press Journal",
-                "url": "https://www.freepressjournal.in",
-                "country": "in"
-            },
-            "title": "How AI Helped Crowd Management & Safety At Mumbai's Lalbaugcha Raja| Explained",
-            "url": "https://www.freepressjournal.in/mumbai/how-ai-helped-crowd-management-safety-at-mumbais-lalbaugcha-raja-explained",
-            "urlToImage": "https://media.assettype.com/freepressjournal/2025-09-08/hazjwafi/IMG20250903160558.jpg",
-            "publishedAt": "2025-09-16T08:24:50Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "Jaguar Land Rover extends production halt until Sep 24 over cybersecurity breach",
-            "url": "https://www.lokmattimes.com/technology/jaguar-land-rover-extends-production-halt-until-sep-24-over-cybersecurity-breach-1/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202509163511759_202509.jpg",
-            "publishedAt": "2025-09-16T08:23:36Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "Jaguar Land Rover extends production halt until Sep 24 over cybersecurity breach",
-            "url": "https://www.lokmattimes.com/business/jaguar-land-rover-extends-production-halt-until-sep-24-over-cybersecurity-breach/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202509163511759_202509.jpg",
-            "publishedAt": "2025-09-16T08:23:36Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "India tops Asia Pacific in AI adoption with 56 pc of city adults using Gen AI: Report",
-            "url": "https://www.lokmattimes.com/technology/india-tops-asia-pacific-in-ai-adoption-with-56-pc-of-city-adults-using-gen-ai-report-1/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202509163511733_202509.jpg",
-            "publishedAt": "2025-09-16T08:07:16Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "India tops Asia Pacific in AI adoption with 56 pc of city adults using Gen AI: Report",
-            "url": "https://www.lokmattimes.com/business/india-tops-asia-pacific-in-ai-adoption-with-56-pc-of-city-adults-using-gen-ai-report/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202509163511733_202509.jpg",
-            "publishedAt": "2025-09-16T08:07:16Z"
-        },
-        {
-            "source": {
-                "id": "e479ce8332aab31d8bac6ba9584cedbb",
-                "name": "Republic World",
-                "url": "https://www.republicworld.com",
-                "country": "in"
-            },
-            "title": "AI Use Can Boost Efficiency, Break Cost Barriers & Enhance Profitability Of Asset Managers: McKinsey Report",
-            "url": "https://www.republicworld.com/tech/ai-use-can-boost-efficiency-break-cost-barriers-enhance-profitability-of-asset-managers-mckinsey-report",
-            "urlToImage": "https://img.republicworld.com/rimages/artificial-intelligence-6767502_1280-169838806962416_9.webp",
-            "publishedAt": "2025-09-16T08:06:44Z"
-        },
-        {
-            "source": {
-                "id": "ca84296ef941bfa461f4239a2290cb99",
-                "name": "News18",
-                "url": "https://www.news18.com",
-                "country": "in"
-            },
-            "title": "Opinion | Why India Needs An Employment-Linked Incentive Policy For The Electro-Intelligence Stack",
-            "url": "https://www.news18.com/opinion/opinion-why-india-needs-an-employment-linked-incentive-policy-for-the-electro-intelligence-stack-ws-el-9575424.html",
-            "urlToImage": "https://images.news18.com/ibnlive/uploads/2025/09/image-2025-09-ea7d85e995a948aa7d85583142d02b33-16x9.jpg",
-            "publishedAt": "2025-09-16T07:54:21Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "AI use can boost efficiency, break cost barriers & enhance profitability of Asset managers: McKinsey Report",
-            "url": "https://www.tribuneindia.com/news/business/ai-use-can-boost-efficiency-break-cost-barriers-enhance-profitability-of-asset-managers-mckinsey-report/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWRmYTQ0M2YwLTkyZDEtMTFmMC04ZWJlLWYzMjRlZjRkM2RjZS5qcGc=",
-            "publishedAt": "2025-09-16T07:50:50Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "AI Revolution: Unlocking Potential for Asset Managers",
-            "url": "https://www.devdiscourse.com/article/business/3629476-ai-revolution-unlocking-potential-for-asset-managers",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/16_09_2025_13_18_08_672429.jpg?width=920&format=jpeg",
-            "publishedAt": "2025-09-16T07:48:34Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "AI use can boost efficiency, break cost barriers & enhance profitability of Asset managers: McKinsey Report",
-            "url": "https://www.lokmattimes.com/business/ai-use-can-boost-efficiency-break-cost-barriers-enhance-profitability-of-asset-managers-mckinsey-report/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20250916074113_202509.jpg",
-            "publishedAt": "2025-09-16T07:42:15Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "FanCode partners with CAMB.AI to provide multilingual commentary using AI for live matches",
-            "url": "https://economictimes.indiatimes.com/industry/media/entertainment/fancode-partners-with-camb-ai-to-provide-multilingual-commentary-using-ai-for-live-matches/articleshow/123916873.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-123916998,width-1200,height-630,imgsize-12040,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2025-09-16T07:32:00Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Maman Ibrahim: Enhancing Data Privacy Measures to Build Customer Trust​",
-            "url": "https://techbullion.com/maman-ibrahim-enhancing-data-privacy-measures-to-build-customer-trust/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/IMG_2064-1000x600.png",
-            "publishedAt": "2025-09-16T07:27:22Z"
         }
     ]
 }
