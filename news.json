@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2025-09-19T19:11:28.788209Z",
+    "lastUpdatedAt": "2025-09-19T20:16:06.042775Z",
     "articles": [
+        {
+            "source": {
+                "id": "614a4b10b69af6cc657068ec6a59eaff",
+                "name": "Lawfare",
+                "url": "https://www.lawfaremedia.org",
+                "country": "us"
+            },
+            "title": "Good News: U.S. Investment in Spyware Skyrockets!",
+            "url": "https://www.lawfaremedia.org/article/good-news--u.s.-investment-in-spyware-skyrockets!",
+            "urlToImage": "https://www.lawfaremedia.org/assets/icons/favicon-32x32.png",
+            "publishedAt": "2025-09-19T08:00:00Z"
+        },
+        {
+            "source": {
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
+                "country": "in"
+            },
+            "title": "Orient Tech Eyes 30% Topline Growth In Three Years, Order Book To Swell In FY26",
+            "url": "https://www.ndtvprofit.com/business/orient-tech-eyes-30-topline-growth-in-three-years-order-book-to-swell-in-fy26",
+            "urlToImage": "https://media.assettype.com/bloombergquint%2F2024-08-19%2F3tdr6c06%2FWhatsApp%20Image%202024-08-19%20at%209.06.51%20PM.jpeg?w=1200&auto=format%2Ccompress&ogImage=true",
+            "publishedAt": "2025-09-19T07:58:12Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "Beyond the Code: How Klever Boy AI Is Humanizing Artificial Intelligence for Business",
+            "url": "https://techbullion.com/beyond-the-code-how-klever-boy-ai-is-humanizing-artificial-intelligence-for-business/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/IMG_2106-1000x600.jpeg",
+            "publishedAt": "2025-09-19T07:49:59Z"
+        },
+        {
+            "source": {
+                "id": "91120a92e0d24e24fbffb6d0affabfe6",
+                "name": "Bangkok Post",
+                "url": "https://www.bangkokpost.com",
+                "country": "th"
+            },
+            "title": "Meta unveils smart glasses with apps and artificial intelligence assistant",
+            "url": "https://www.bangkokpost.com/life/tech/3107370/meta-unveils-smart-glasses-with-apps-and-artificial-intelligence-assistant",
+            "urlToImage": "https://static.bangkokpost.com/media/content/20250919/c1_3107370_700.jpg",
+            "publishedAt": "2025-09-19T07:31:00Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "The Evolution of IT Outsourcing in the AI and Automation Era",
+            "url": "https://techbullion.com/the-evolution-of-it-outsourcing-in-the-ai-and-automation-era/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/QoAyblxOT8-5QW4fDadlwA-1000x600.webp",
+            "publishedAt": "2025-09-19T07:14:52Z"
+        },
         {
             "source": {
                 "id": "63361c66f51ee0c82a5325ba1c7b8d06",
@@ -456,6 +516,69 @@
             "url": "https://www.globenewswire.com/news-release/2025/09/19/3153324/28124/en/Space-and-Satellite-Security-Industry-Analysis-by-Product-Application-and-Country-2025-2035-Case-Studies-Competitive-Strategies-and-Growth-Outlook.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
             "publishedAt": "2025-09-19T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "New frontiers in Human AI Interface",
+            "url": "https://hackernoon.com/new-frontiers-in-human-ai-interface",
+            "urlToImage": "https://hackernoon.imgix.net/images/bI3BzyBanbVxEZqmLV7jRnw6d9o2-r303nyf.png",
+            "publishedAt": "2025-09-19 08:14:10"
+        },
+        {
+            "source": {
+                "name": "latestly"
+            },
+            "title": "Business News | BharatGen Building Indigenous AI Stack Rooted in Indian Language and Culture: IIT-B's Ganesh Ramakrishnan",
+            "url": "https://www.latestly.com/agency-news/business-news-bharatgen-building-indigenous-ai-stack-rooted-in-indian-language-and-culture-iit-bs-ganesh-ramakrishnan-7119057.html",
+            "urlToImage": "https://st1.latestly.com/wp-content/uploads/2025/09/ANI-20250919075830.jpg",
+            "publishedAt": "2025-09-19 08:12:30"
+        },
+        {
+            "source": {
+                "name": "en_prnasisa"
+            },
+            "title": "Lenovo GOAST 4.0 Decodes Trillions of Cells, Accelerating Genome Analysis to 24 Minutes",
+            "url": "https://en.prnasia.com/story/504190-0.shtml",
+            "urlToImage": "https://mma.prnasia.com/media2/2777162/Genomics_GOAST.jpg?p=medium600",
+            "publishedAt": "2025-09-19 08:04:00"
+        },
+        {
+            "source": {
+                "name": "knowledia"
+            },
+            "title": "Manus AI: Advanced Autonomous Task Execution",
+            "url": "https://news.knowledia.com/all/all/articles/manus-ai-advanced-autonomous-task-execution-6dcabd38985e4ddb4934ad8ac3290c3709f947a5",
+            "urlToImage": "https://backend.dynamicbusiness.com/wp-content/uploads/2025/09/manusai.io_.jpg",
+            "publishedAt": "2025-09-19 07:53:19"
+        },
+        {
+            "source": {
+                "name": "toi"
+            },
+            "title": "Elon Musk’s one-word comment on Intel-Nvidia partnership",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/elon-musks-one-word-comment-on-intel-nvidia-partnership-calls-ceo-lip-bu-tan-great/articleshow/123993111.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-123993113,imgsize-23894,width-400,resizemode-4/elon-musks-one-word-comment-on-intel-nvidia-partnership-calls-ceo-lip-bu-tan-great.jpg",
+            "publishedAt": "2025-09-19 07:31:45"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "ChatGPT Plus explained — is this the right plan for you?",
+            "url": "https://www.tomsguide.com/ai/chatgpt/chatgpt-plus-explained-is-this-the-right-plan-for-you",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/ggr4w9sQrzz7NMydLJktgB-1280-80.jpg",
+            "publishedAt": "2025-09-19 07:30:00"
+        },
+        {
+            "source": {
+                "name": "thehansindia"
+            },
+            "title": "Nvidia and Intel’s $5 Billion Alliance Could Transform the Future of Laptops and Data Centres",
+            "url": "https://www.thehansindia.com/tech/nvidia-and-intels-5-billion-alliance-could-transform-the-future-of-laptops-and-data-centres-1007918",
+            "urlToImage": "https://assets.thehansindia.com/h-upload/2025/09/19/1586534-nvidia.webp",
+            "publishedAt": "2025-09-19 07:19:41"
         },
         {
             "source": {
@@ -3210,114 +3333,6 @@
             "url": "https://www.wired.com/story/uncanny-valley-podcast-move-aside-chatbots-ai-humanoids-are-here/",
             "urlToImage": "https://media.wired.com/photos/68caf1d48ab34197e02b0be8/master/w_120,c_limit/Uncanny-Valley-OpenAI-Humanoid-Robots-Business-2186604642.jpg",
             "publishedAt": "2025-09-18 19:45:20"
-        },
-        {
-            "source": {
-                "name": "huffpost"
-            },
-            "title": "Women Are More Resistant To AI Than Men — And It Could End Up Hurting Them. Here’s Why.",
-            "url": "https://www.huffpost.com/entry/women-resistant-to-ai_n_68c84a60e4b04bfe9a6f25a5",
-            "urlToImage": "https://img.huffingtonpost.com/asset/68c84c9c19000072d934d076.jpeg?ops=scalefit_720_noupscale",
-            "publishedAt": "2025-09-18 19:35:15"
-        },
-        {
-            "source": {
-                "name": "arstechnica"
-            },
-            "title": "Google announces massive expansion of AI features in Chrome",
-            "url": "https://arstechnica.com/google/2025/09/google-announces-massive-expansion-of-ai-features-in-chrome/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/Gemini-1-1152x648.jpg",
-            "publishedAt": "2025-09-18 19:27:58"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "iPhone 12 mini vs. iPhone 16e: Which Apple Device Reigns Supreme?",
-            "url": "https://techannouncer.com/iphone-12-mini-vs-iphone-16e-which-apple-device-reigns-supreme/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/09/4c5e8512thumbnail-332x187.jpeg",
-            "publishedAt": "2025-09-18 19:23:13"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "The Ultimate PC Builder Guide: Crafting Your Dream Machine",
-            "url": "https://techannouncer.com/the-ultimate-pc-builder-guide-crafting-your-dream-machine/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/09/dd8ebac9thumbnail-332x187.jpeg",
-            "publishedAt": "2025-09-18 19:16:13"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Explore the Future of Microelectronics at the IMAPS Symposium 2025",
-            "url": "https://techannouncer.com/explore-the-future-of-microelectronics-at-the-imaps-symposium-2025/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/09/c994deeathumbnail-332x187.jpeg",
-            "publishedAt": "2025-09-18 19:15:13"
-        },
-        {
-            "source": {
-                "name": "siliconangle"
-            },
-            "title": "Nvidia to invest $5B in Intel as part of new chip partnership",
-            "url": "https://siliconangle.com/2025/09/18/nvidia-invest-5b-intel-part-new-chip-partnership/",
-            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/09/Screenshot-2025-09-18-at-10.09.08-AM.png",
-            "publishedAt": "2025-09-18 19:08:00"
-        },
-        {
-            "source": {
-                "name": "lifehacker_us"
-            },
-            "title": "The Best Meal-Planning Apps (for When You’re Sick of Doing It Yourself)",
-            "url": "https://lifehacker.com/best-meal-planning-apps",
-            "urlToImage": "https://lifehacker.com/imagery/articles/01K5ENZY2QS3V48SX95J2FN89P/hero-image.fill.size_1200x675.jpg",
-            "publishedAt": "2025-09-18 19:00:58"
-        },
-        {
-            "source": {
-                "name": "chromeunboxed"
-            },
-            "title": "The first Android XR headset from Samsung could be just a month away",
-            "url": "https://chromeunboxed.com/the-first-android-xr-headset-from-samsung-could-be-just-a-month-away/",
-            "urlToImage": "https://chromeunboxed.com/wp-content/uploads/2025/09/SamsungProjectMoohanLaunchDate.webp",
-            "publishedAt": "2025-09-18 18:54:33"
-        },
-        {
-            "source": {
-                "name": "gamesindustry"
-            },
-            "title": "BAFTA shares $375,000 in grants to \"86 talented creatives\" to launch their careers in the UK and U.S.",
-            "url": "https://www.gamesindustry.biz/bafta-shares-375000-in-grants-to-86-talented-creatives-to-launch-their-careers-in-the-uk-and-us",
-            "urlToImage": "https://assetsio.gnwcdn.com/bbb-4.jpg?auto=webp&format=jpg&quality=70&width=414",
-            "publishedAt": "2025-09-18 18:46:53"
-        },
-        {
-            "source": {
-                "name": "cio"
-            },
-            "title": "Outpacing Risk: How AI, quantum, and cloud are reshaping data security today",
-            "url": "https://www.cio.com/article/4058010/outpacing-risk-how-ai-quantum-and-cloud-are-reshaping-data-security-today.html",
-            "urlToImage": "https://www.cio.com/wp-content/uploads/2025/09/4058010-0-11752000-1758221046-shutterstock_2003176019.jpg?quality=50&strip=all&w=1024",
-            "publishedAt": "2025-09-18 18:43:48"
-        },
-        {
-            "source": {
-                "name": "computerworld_in"
-            },
-            "title": "Intel will design CPUs with Nvidia NVLink in return for $5 billion investment",
-            "url": "https://www.networkworld.com/article/4059448/intel-will-design-cpus-with-nvidia-nvlink-in-return-for-5-billion-investment.html",
-            "urlToImage": "https://www.computerworld.com/wp-content/uploads/2025/09/4059612-0-00052800-1758221007-Intel-CPU-Schriftzug.jpg?quality=50&strip=all",
-            "publishedAt": "2025-09-18 18:42:52"
-        },
-        {
-            "source": {
-                "name": "gizmochina"
-            },
-            "title": "Apple’s $599 Budget MacBook Could Arrive This Year",
-            "url": "https://www.gizmochina.com/2025/09/18/apples-599-budget-macbook-could-arrive-this-year/",
-            "urlToImage": "https://www.gizmochina.com/wp-content/uploads/2025/01/Apple-MacBook-Air-oxide-TFT-LCD-screen.jpg?x70461=",
-            "publishedAt": "2025-09-18 18:37:20"
         }
     ]
 }
