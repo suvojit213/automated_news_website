@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2025-09-19T06:22:26.711241Z",
+    "lastUpdatedAt": "2025-09-19T07:14:20.020528Z",
     "articles": [
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "CrowdStrike pops 12% on upbeat long-term guidance at investor day",
+            "url": "https://www.cnbc.com/2025/09/18/crowdstrike-investor-day-stock.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108190864-17562241832024-07-29t095328z_1582366033_rc2x49a3ekcj_rtrmadp_0_crowdstrike-hldg-stocks.jpeg?v=1756224214&w=1920&h=1080",
+            "publishedAt": "2025-09-18T19:02:08Z"
+        },
+        {
+            "source": {
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
+                "country": "in"
+            },
+            "title": "Google Adds Gemini To Chrome After Dodging Forced Sale",
+            "url": "https://www.ndtvprofit.com/technology/artificial-intelligence-ai-alphabet-google-adds-gemini-to-chrome-dodging-forced-sale",
+            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-09-18%2F3oxzc0ie%2F439966112.jpg?rect=0%2C437%2C4000%2C2100&w=1200&auto=format%2Ccompress&ogImage=true",
+            "publishedAt": "2025-09-18T19:00:07Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Nvidia to Invest £2 Billion to Boost UK’s AI Startups",
+            "url": "https://www.bloomberg.com/news/articles/2025-09-18/nvidia-to-invest-2-billion-to-boost-uk-s-ai-startups",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7Wl9RiCJLCM/v1/1200x800.jpg",
+            "publishedAt": "2025-09-18T19:00:00Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "US launches effort to speed power grid projects for AI",
+            "url": "https://www.reuters.com/legal/litigation/us-launches-effort-speed-power-grid-projects-ai-2025-09-18/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/FQPKQYQRKJNTNEXOATCMZPVXCQ.jpg?auth=53ba6748e6bd58dd6fd842b931262af05627ff1b52482934c9189ef92c46748b&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-09-18T18:43:40Z"
+        },
+        {
+            "source": {
+                "id": "448094ed3f9461bb87a99a218cdaecfe",
+                "name": "The New Indian Express",
+                "url": "https://www.newindianexpress.com",
+                "country": "in"
+            },
+            "title": "AI teaching tools not a panacea, but can be a force multiplier",
+            "url": "https://www.newindianexpress.com/opinions/2025/Sep/18/ai-teaching-tools-not-a-panacea-but-can-be-a-force-multiplier",
+            "urlToImage": "https://media.newindianexpress.com/newindianexpress%2F2025-09-18%2F6p56qaan%2Fcc1.jpg?rect=0%2C0%2C1024%2C538&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2025-09-18T18:30:00Z"
+        },
         {
             "source": {
                 "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
@@ -1659,6 +1719,78 @@
         },
         {
             "source": {
+                "name": "siliconangle"
+            },
+            "title": "Nvidia to invest $5B in Intel as part of new chip partnership",
+            "url": "https://siliconangle.com/2025/09/18/nvidia-invest-5b-intel-part-new-chip-partnership/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/09/Screenshot-2025-09-18-at-10.09.08-AM.png",
+            "publishedAt": "2025-09-18 19:08:00"
+        },
+        {
+            "source": {
+                "name": "lifehacker_us"
+            },
+            "title": "The Best Meal-Planning Apps (for When You’re Sick of Doing It Yourself)",
+            "url": "https://lifehacker.com/best-meal-planning-apps",
+            "urlToImage": "https://lifehacker.com/imagery/articles/01K5ENZY2QS3V48SX95J2FN89P/hero-image.fill.size_1200x675.jpg",
+            "publishedAt": "2025-09-18 19:00:58"
+        },
+        {
+            "source": {
+                "name": "chromeunboxed"
+            },
+            "title": "The first Android XR headset from Samsung could be just a month away",
+            "url": "https://chromeunboxed.com/the-first-android-xr-headset-from-samsung-could-be-just-a-month-away/",
+            "urlToImage": "https://chromeunboxed.com/wp-content/uploads/2025/09/SamsungProjectMoohanLaunchDate.webp",
+            "publishedAt": "2025-09-18 18:54:33"
+        },
+        {
+            "source": {
+                "name": "gamesindustry"
+            },
+            "title": "BAFTA shares $375,000 in grants to \"86 talented creatives\" to launch their careers in the UK and U.S.",
+            "url": "https://www.gamesindustry.biz/bafta-shares-375000-in-grants-to-86-talented-creatives-to-launch-their-careers-in-the-uk-and-us",
+            "urlToImage": "https://assetsio.gnwcdn.com/bbb-4.jpg?auto=webp&format=jpg&quality=70&width=414",
+            "publishedAt": "2025-09-18 18:46:53"
+        },
+        {
+            "source": {
+                "name": "cio"
+            },
+            "title": "Outpacing Risk: How AI, quantum, and cloud are reshaping data security today",
+            "url": "https://www.cio.com/article/4058010/outpacing-risk-how-ai-quantum-and-cloud-are-reshaping-data-security-today.html",
+            "urlToImage": "https://www.cio.com/wp-content/uploads/2025/09/4058010-0-11752000-1758221046-shutterstock_2003176019.jpg?quality=50&strip=all&w=1024",
+            "publishedAt": "2025-09-18 18:43:48"
+        },
+        {
+            "source": {
+                "name": "computerworld_in"
+            },
+            "title": "Intel will design CPUs with Nvidia NVLink in return for $5 billion investment",
+            "url": "https://www.networkworld.com/article/4059448/intel-will-design-cpus-with-nvidia-nvlink-in-return-for-5-billion-investment.html",
+            "urlToImage": "https://www.computerworld.com/wp-content/uploads/2025/09/4059612-0-00052800-1758221007-Intel-CPU-Schriftzug.jpg?quality=50&strip=all",
+            "publishedAt": "2025-09-18 18:42:52"
+        },
+        {
+            "source": {
+                "name": "gizmochina"
+            },
+            "title": "Apple’s $599 Budget MacBook Could Arrive This Year",
+            "url": "https://www.gizmochina.com/2025/09/18/apples-599-budget-macbook-could-arrive-this-year/",
+            "urlToImage": "https://www.gizmochina.com/wp-content/uploads/2025/01/Apple-MacBook-Air-oxide-TFT-LCD-screen.jpg?x70461=",
+            "publishedAt": "2025-09-18 18:37:20"
+        },
+        {
+            "source": {
+                "name": "techannouncer"
+            },
+            "title": "Money20/20 Europe 2025: What to Expect at the Premier Fintech Event",
+            "url": "https://techannouncer.com/money20-20-europe-2025-what-to-expect-at-the-premier-fintech-event/",
+            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/09/facdb7cbthumbnail-332x187.jpeg",
+            "publishedAt": "2025-09-18 18:34:04"
+        },
+        {
+            "source": {
                 "name": "astrobiology"
             },
             "title": "A Transformer-based Generative Model For Planetary Systems",
@@ -3039,162 +3171,6 @@
             "url": "https://abc17news.com/money/cnn-business-consumer/2025/09/17/ai-ceo-says-technology-moving-very-quickly-could-soon-replace-more-jobs/",
             "urlToImage": "https://abc17news.b-cdn.net/abc17news.com/2023/08/kmiz-860x484.webp",
             "publishedAt": "2025-09-17T22:11:14Z"
-        },
-        {
-            "source": {
-                "id": "2e9e50c94b2fe950c6f3c06660288260",
-                "name": "SiliconANGLE News",
-                "url": "https://siliconangle.com",
-                "country": "us"
-            },
-            "title": "Why platform consolidation matters more than ever in cybersecurity",
-            "url": "https://siliconangle.com/2025/09/17/why-platform-consolidation-matters-more-than-ever-in-cybersecurity-crowdstrikefalcon/",
-            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/09/Screenshot-2025-09-17-at-17.24.53.png",
-            "publishedAt": "2025-09-17T21:45:03Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "AI Rush Prompts More Investors to Increase Focus",
-            "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2025/sep/18/et-front/ai-rush-prompts-more-investors-to-increase-focus/articleshow/123956230.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-123956945,width-1200,height-630,imgsize-15656,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2025-09-17T21:35:00Z"
-        },
-        {
-            "source": {
-                "id": "91120a92e0d24e24fbffb6d0affabfe6",
-                "name": "Bangkok Post",
-                "url": "https://www.bangkokpost.com",
-                "country": "th"
-            },
-            "title": "Phuket forges ahead with AI City plan",
-            "url": "https://www.bangkokpost.com/thailand/general/3106432/phuket-forges-ahead-with-ai-city-plan",
-            "urlToImage": "https://static.bangkokpost.com/media/content/20250918/c1_3106432_250918044625_700.jpg",
-            "publishedAt": "2025-09-17T21:26:00Z"
-        },
-        {
-            "source": {
-                "id": "10cbfb3760cfcdeb78c733c527f0e814",
-                "name": "iTWire",
-                "url": "https://itwire.com",
-                "country": "au"
-            },
-            "title": "Top emerging AI tools that are redefining digital life",
-            "url": "https://itwire.com/guest-articles/guest-opinion/top-emerging-ai-tools-that-are-redefining-digital-life.html",
-            "urlToImage": "https://itwire.com/images/authors-images/stanbeer/Sphere-PR-Anniversary_EDM.jpg",
-            "publishedAt": "2025-09-17T21:10:13Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "China Tells Companies to Stop Buying Nvidia’s Repurposed AI Chip",
-            "url": "https://www.bloomberg.com/news/articles/2025-09-17/china-tells-companies-to-stop-buying-nvidia-s-repurposed-ai-chip",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iylI0_eYxwo8/v0/1200x800.jpg",
-            "publishedAt": "2025-09-17T20:37:11Z"
-        },
-        {
-            "source": {
-                "id": "1b697445987e8a33f6c82842e17d60d9",
-                "name": "Bnn Bloomberg",
-                "url": "https://www.bnnbloomberg.ca",
-                "country": "ca"
-            },
-            "title": "AI may boost global trade by nearly 40 per cent",
-            "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2025/09/17/ai-may-boost-global-trade-value-by-nearly-40-per-cent-wto/",
-            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/VF3YPJTTO6VDOIZ2XQA5KP22O4.jpg?smart=true&auth=ab64b987cec19d34058db187401eb8be7ca97e9da3d1fb6c2ec2147f2cdcdfb9&width=1200&height=630",
-            "publishedAt": "2025-09-17T19:41:54Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com",
-                "country": "ca"
-            },
-            "title": "AI may boost global trade by nearly 40 per cent",
-            "url": "https://www.cp24.com/news/world/2025/09/17/ai-may-boost-global-trade-value-by-nearly-40-per-cent-wto/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/VF3YPJTTO6VDOIZ2XQA5KP22O4.jpg?smart=true&auth=ab64b987cec19d34058db187401eb8be7ca97e9da3d1fb6c2ec2147f2cdcdfb9&width=1200&height=630",
-            "publishedAt": "2025-09-17T19:41:54Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Nvidia’s UK Partner Is a 16-Month-Old Crypto Mining Spinout",
-            "url": "https://www.bloomberg.com/news/articles/2025-09-17/nvidia-s-uk-partner-is-a-16-month-old-crypto-mining-spinout",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaM_WywYjaDE/v1/1200x800.jpg",
-            "publishedAt": "2025-09-17T19:39:19Z"
-        },
-        {
-            "source": {
-                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-                "name": "Benzinga",
-                "url": "https://www.benzinga.com",
-                "country": "us"
-            },
-            "title": "What's Going On With Alibaba Shares Wednesday?",
-            "url": "https://www.benzinga.com/trading-ideas/movers/25/09/47725581/whats-going-on-with-alibaba-shares-wednesday-2",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/09/17/Alibaba-Group-Holding-Ltd-.jpeg?width=1200&height=800&fit=crop",
-            "publishedAt": "2025-09-17T19:37:05Z"
-        },
-        {
-            "source": {
-                "id": "35515662ec044d3f94b543cd8802d63f",
-                "name": "WDIV ClickOnDetroit",
-                "url": "https://www.clickondetroit.com",
-                "country": "us"
-            },
-            "title": "South Lyon Community Schools to reopen after 3-day shutdown due to cyber issue",
-            "url": "https://www.clickondetroit.com/news/local/2025/09/17/south-lyon-community-schools-to-reopen-after-3-day-shutdown-due-to-cyber-issue/",
-            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/anyclip/fstl-tf/IRijVZkBUsrgl_rQF5uz/1758078467061_1920x1080_thumbnail.jpg?_a=DATAg1eAZAA0",
-            "publishedAt": "2025-09-17T19:28:24Z"
-        },
-        {
-            "source": {
-                "id": "70a0fed2567e1f81584197893e1068f9",
-                "name": "Boston.com",
-                "url": "https://www.boston.com",
-                "country": "us"
-            },
-            "title": "More than 1,000 MCAS essays scored incorrectly due to AI mishap",
-            "url": "https://www.boston.com/news/education/2025/09/17/mcas-essays-scored-incorrectly-ai-mishap/",
-            "urlToImage": "https://bdc2020.o0bc.com/wp-content/uploads/2025/09/https___arcmigration-prdweb.bostonglobe.com_r_Boston_2011-2020_2011_09_25_BostonGlobe.com_Regional_Images_25wemcas-68cac9dd7ff0b-768x432.jpg",
-            "publishedAt": "2025-09-17T19:14:34Z"
-        },
-        {
-            "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
-                "country": "in"
-            },
-            "title": "Nokia Hires Intel Executive To Lead Push Into AI Data Centers",
-            "url": "https://www.ndtvprofit.com/business/nokia-hires-intel-executive-to-lead-push-into-ai-data-centers",
-            "urlToImage": "https://media.assettype.com/bloombergquint%2F2024-08-29%2Fcuszw49n%2F_1x_1.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
-            "publishedAt": "2025-09-17T19:01:47Z"
-        },
-        {
-            "source": {
-                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-                "name": "Benzinga",
-                "url": "https://www.benzinga.com",
-                "country": "us"
-            },
-            "title": "Nvidia Shares Are Slipping Wednesday: What's Going On?",
-            "url": "https://www.benzinga.com/trading-ideas/movers/25/09/47724145/nvidia-shares-are-slipping-wednesday-whats-going-on",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/09/17/Nvidias-China-Challenge.jpeg?width=1200&height=800&fit=crop",
-            "publishedAt": "2025-09-17T18:42:47Z"
         }
     ]
 }
