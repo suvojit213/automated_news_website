@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-09-19T02:57:20.472084Z",
+    "lastUpdatedAt": "2025-09-19T03:32:58.676122Z",
     "articles": [
+        {
+            "source": {
+                "id": "e743cde6ee986921721e83d3957862dc",
+                "name": "Zee News",
+                "url": "https://zeenews.india.com",
+                "country": "in"
+            },
+            "title": "AI Could Affect 90% Of Jobs But Also Boost Market Value By USD 16 Trillion: Report",
+            "url": "https://zeenews.india.com/technology/ai-could-affect-90-of-jobs-but-also-boost-market-value-by-usd-16-trillion-report-2961584.html",
+            "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2025/09/18/1831153-ai-ani.jpg",
+            "publishedAt": "2025-09-18T15:16:05Z"
+        },
+        {
+            "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+            },
+            "title": "IIT Kanpur, Vietnam National University sign MoU to strengthen academic & research collaboration",
+            "url": "https://indianexpress.com/article/education/iit-kanpur-vietnam-national-university-sign-mou-jeemain-advanced-10257335/",
+            "urlToImage": "https://images.indianexpress.com/2025/09/iit-kanpur-vietnam-univerity-mou.jpg",
+            "publishedAt": "2025-09-18T15:05:18Z"
+        },
         {
             "source": {
                 "id": "6cbe6dbb9a62f9b5a7d4770ab77a9ad4",
@@ -1236,6 +1260,78 @@
             "url": "https://www.globenewswire.com/news-release/2025/09/18/3152556/0/en/REALTORS-Embrace-AI-Digital-Tools-to-Enhance-Client-Service-NAR-Survey-Finds.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/8a0d04e5-70aa-4d95-b2fd-de8481addefd",
             "publishedAt": "2025-09-18T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "thesun"
+            },
+            "title": "I’ve married an AI version of alleged CEO assassin Luigi Mangione – he fights my battles for me & it feels so natural",
+            "url": "https://www.the-sun.com/news/15212523/woman-marries-ai-version-luigi-mangione-alleged-killer/",
+            "urlToImage": "https://www.the-sun.com/wp-content/uploads/sites/6/2025/09/newspress-collage-80dp7byiv-1758207155303.jpg?w=620",
+            "publishedAt": "2025-09-18 15:24:02"
+        },
+        {
+            "source": {
+                "name": "mercurynews"
+            },
+            "title": "Meta launches $799 glasses with screen and AI integration",
+            "url": "https://www.mercurynews.com/2025/09/18/meta-launches-799-glasses-with-screen-and-ai-integration/",
+            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/09/metaglasses.webp?strip=all&w=1400px",
+            "publishedAt": "2025-09-18 15:10:44"
+        },
+        {
+            "source": {
+                "name": "eastbaytimes"
+            },
+            "title": "Meta launches $799 glasses with screen and AI integration",
+            "url": "https://www.eastbaytimes.com/2025/09/18/meta-launches-799-glasses-with-screen-and-ai-integration/",
+            "urlToImage": "https://www.eastbaytimes.com/wp-content/uploads/2025/09/metaglasses.webp?h=682&w=1024",
+            "publishedAt": "2025-09-18 15:10:44"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Mavryk Closes $10M Strategic Investment Led by MultiBank Group to Power Institutional RWA Tokenization",
+            "url": "https://www.analyticsinsight.net/press-release/mavryk-closes-10m-strategic-investment-led-by-multibank-group-to-power-institutional-rwa-tokenization",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-09-18%2Fhik3z2ed%2FMavryk-Closes-10M-Strategic-Investment.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-09-18 15:07:59"
+        },
+        {
+            "source": {
+                "name": "cyclingnews"
+            },
+            "title": "Opinion: Why Oakley’s new Meta-enabled smart glasses might actually be decent, unlike everything that has come before",
+            "url": "https://www.cyclingnews.com/features/opinion-why-oakleys-new-meta-enabled-smart-glasses-might-actually-be-decent-unlike-everything-that-has-come-before/",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/RpTCcDuHNkPKPDWPx4nuwa.jpg",
+            "publishedAt": "2025-09-18 15:07:24"
+        },
+        {
+            "source": {
+                "name": "futurism"
+            },
+            "title": "ChatGPT Is Blowing Up Marriages as Spouses Use AI to Attack Their Partners",
+            "url": "https://futurism.com/chatgpt-marriages-divorces",
+            "urlToImage": "https://wordpress-assets.futurism.com/2025/09/chatgpt-marriages-divorces.jpg",
+            "publishedAt": "2025-09-18 15:05:22"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Can Cloud Providers Balance AI Innovation and Security?",
+            "url": "https://www.analyticsinsight.net/artificial-intelligence/can-cloud-providers-balance-ai-innovation-and-security",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-09-18%2Fdkmp9hr7%2FCan-Cloud-Providers-Balance-AI-Innovation-and-Security.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-09-18 15:00:00"
+        },
+        {
+            "source": {
+                "name": "pcgamer"
+            },
+            "title": "If you're wondering what those newly announced Intel-Nvidia PC chips might look like, there's already an Nvidia 'Superchip' that could provide the answers",
+            "url": "https://www.pcgamer.com/hardware/processors/if-youre-wondering-what-those-newly-announced-intel-nvidia-pc-chips-might-look-like-theres-already-an-nvidia-superchip-that-could-provide-the-answers/",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Eko8Vu3jdf5vxqZAEZfE59-1280-80.jpg",
+            "publishedAt": "2025-09-18 14:59:14"
         },
         {
             "source": {
@@ -3174,126 +3270,6 @@
             "url": "https://economictimes.indiatimes.com/news/new-updates/google-gemini-ai-from-photos-with-taylor-swift-srk-karan-aujla-to-virat-kohli-messi-10-prompts-to-reimagine-pics-with-celebrities/articleshow/123942956.cms",
             "urlToImage": "https://img.etimg.com/thumb/msid-123943292,width-1200,height-630,imgsize-1796328,overlay-economictimes/articleshow.jpg",
             "publishedAt": "2025-09-17T10:57:00Z"
-        },
-        {
-            "source": {
-                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-                "name": "WTOP",
-                "url": "https://wtop.com",
-                "country": "us"
-            },
-            "title": "Meta expected to unveil new smart glasses at Connect event",
-            "url": "https://wtop.com/business-finance/2025/09/meta-expected-to-unveil-new-smart-glasses-at-connect-event/",
-            "urlToImage": "https://wtop.com/wp-content/uploads/2025/09/Meta-Connect_40901.jpg",
-            "publishedAt": "2025-09-17T10:56:30Z"
-        },
-        {
-            "source": {
-                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
-                "name": "The Associated Press",
-                "url": "https://apnews.com",
-                "country": "us"
-            },
-            "title": "Meta expected to unveil new smart glasses at Connect event",
-            "url": "https://apnews.com/article/meta-connect-zuckerberg-ai-smart-glasses-250fdea4b876ef79457c488a4aca2862",
-            "urlToImage": "https://dims.apnews.com/dims4/default/3dc70df/2147483647/strip/true/crop/2434x1369+0+127/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1b%2Ff7%2Febaa87a881ad3ae8800160eee901%2Fdc864d2e257b44b684627ba3d5e59775",
-            "publishedAt": "2025-09-17T10:55:08Z"
-        },
-        {
-            "source": {
-                "id": "35515662ec044d3f94b543cd8802d63f",
-                "name": "WDIV ClickOnDetroit",
-                "url": "https://www.clickondetroit.com",
-                "country": "us"
-            },
-            "title": "Meta expected to unveil new smart glasses at Connect event",
-            "url": "https://www.clickondetroit.com/business/2025/09/17/meta-expected-to-unveil-new-smart-glasses-at-connect-event/",
-            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/WMJEKD5TPBETXBJIR23GOUIWPU.jpg?_a=DATAg1eAZAA0",
-            "publishedAt": "2025-09-17T10:55:07Z"
-        },
-        {
-            "source": {
-                "id": "37128a060981dbbe79321f096e7d1108",
-                "name": "U.S. News & World Report",
-                "url": "https://www.usnews.com",
-                "country": "us"
-            },
-            "title": "Meta Expected to Unveil New Smart Glasses at Connect Event",
-            "url": "https://www.usnews.com/news/business/articles/2025-09-17/meta-expected-to-unveil-new-smart-glasses-at-connect-event",
-            "urlToImage": "https://www.usnews.com/dims4/USNEWS/1cd31db/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Fcc%2F9a621dc06a643ad9d58a1336cb2f56%2Fdc864d2e257b44b684627ba3d5e59775Meta-Connect_40901.jpg",
-            "publishedAt": "2025-09-17T10:55:00Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "AI bot in the classroom: Time to fight off this attack on education",
-            "url": "https://www.livemint.com/opinion/online-views/online-education-edtech-ai-virtual-e-learning-technology-digital-learning-one-laptop-per-child-chatgpt-gemini-olpc-edu-11758003615678.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2025/09/16/1600x900/logo/ai_robot_teacher_1758022392174_1758022396765.jpeg",
-            "publishedAt": "2025-09-17T10:54:03Z"
-        },
-        {
-            "source": {
-                "id": "90a6e6fbc82cfa821ac49fdb5c404789",
-                "name": "NewsX",
-                "url": "https://www.newsx.com",
-                "country": "in"
-            },
-            "title": "Ashay Mohile Honored for Transformative Impact in Cybersecurity, AI Innovation, and Infrastructure Security Leadership",
-            "url": "https://www.newsx.com/ashay-mohile/ashay-mohile-honored-for-transformative-impact-in-cybersecurity-ai-innovation-and-infrastructure-security-leadership-72261/",
-            "urlToImage": "https://www.newsx.com/wp-content/uploads/2025/09/Ashay-Mohile-Honored-for-Transformative-Impact-in-Cybersecurity-AI-Innovation.avif",
-            "publishedAt": "2025-09-17T10:46:02Z"
-        },
-        {
-            "source": {
-                "id": "91120a92e0d24e24fbffb6d0affabfe6",
-                "name": "Bangkok Post",
-                "url": "https://www.bangkokpost.com",
-                "country": "th"
-            },
-            "title": "Firms warned about using outdated Windows systems",
-            "url": "https://www.bangkokpost.com/life/tech/3106250/firms-warned-about-using-outdated-windows-systems",
-            "urlToImage": "https://static.bangkokpost.com/media/content/20250917/c1_3106250_700.jpg",
-            "publishedAt": "2025-09-17T10:45:00Z"
-        },
-        {
-            "source": {
-                "id": "e0c33fc9d04ac3cbaad8f31915a02767",
-                "name": "7NEWS Australia",
-                "url": "https://7news.com.au",
-                "country": "au"
-            },
-            "title": "South Australian politician and ‘watchdog’ Frank Pangallo caught using unverified AI generated information to prove conspiracy",
-            "url": "https://7news.com.au/news/south-australian-politician-and-watchdog-frank-pangallo-caught-using-unverified-ai-generated-information-to-prove-conspiracy--c-20049787",
-            "urlToImage": "https://images.7news.com.au/publication/C-20049787/de103c6a89d54e664e159431eca18a1fe2d0cc9b-16x9-x0y0w1280h720.jpg?imwidth=1200",
-            "publishedAt": "2025-09-17T10:06:18Z"
-        },
-        {
-            "source": {
-                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-                "name": "NDTV.com",
-                "url": "https://www.ndtv.com",
-                "country": "in"
-            },
-            "title": "Did Jaguar Land Rover Lose 40,000 New Cars? Here's The Truth",
-            "url": "https://www.ndtv.com/auto/did-jaguar-land-rover-lose-40-000-new-cars-heres-the-truth-9293463",
-            "urlToImage": "https://c.ndtvimg.com/2025-09/jv8vjnho_land-rover-defender_625x300_17_September_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=800",
-            "publishedAt": "2025-09-17T10:05:41Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Taiwan GDP per capita lead over Korea attributed to TSMC, AI boom",
-            "url": "https://www.tribuneindia.com/news/business/taiwan-gdp-per-capita-lead-over-korea-attributed-to-tsmc-ai-boom/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWQzNTEyMGEwLTkzYWQtMTFmMC04ZWJlLWYzMjRlZjRkM2RjZS5qcGc=",
-            "publishedAt": "2025-09-17T10:05:17Z"
         }
     ]
 }
