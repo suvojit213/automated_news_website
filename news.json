@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-09-19T10:16:37.954714Z",
+    "lastUpdatedAt": "2025-09-19T11:12:36.122429Z",
     "articles": [
+        {
+            "source": {
+                "id": "4c8b69bf547b577f84acbba5157b439c",
+                "name": "RTE.ie",
+                "url": "https://www.rte.ie",
+                "country": "ie"
+            },
+            "title": "UCD and Met Éireann launch new AI forecasting centre",
+            "url": "https://www.rte.ie/news/2025/0919/1534205-ucd-met-eireann-ai/",
+            "urlToImage": "https://www.rte.ie/images/001f1cb8-1600.jpg",
+            "publishedAt": "2025-09-18T23:01:00Z"
+        },
+        {
+            "source": {
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
+                "country": "in"
+            },
+            "title": "8 more firms added to India AI Mission: Vaishnaw",
+            "url": "https://www.hindustantimes.com/india-news/8-more-firms-added-to-india-ai-missionvaishnaw-101758222069678.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/09/18/1600x900/Union-IT-minister-Ashwini-Vaishnaw-announced-that-_1758222059538.jpg",
+            "publishedAt": "2025-09-18T22:52:21Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "Interview with Itay Haber, CEO of Datanoetic: Redefining Enterprise Software in the Age of AI",
+            "url": "https://techbullion.com/interview-with-itay-haber-ceo-of-datanoetic-redefining-enterprise-software-in-the-age-of-ai/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/Itay-Profile-Picture-scaled-e1758234920469-1000x600.jpg",
+            "publishedAt": "2025-09-18T22:41:38Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "SoftBank Vision Fund to lay off 20% of employees in shift to bold AI bets, source and memo say",
+            "url": "https://www.reuters.com/business/world-at-work/softbank-vision-fund-lay-off-20-employees-shift-bold-ai-bets-source-memo-say-2025-09-18/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/VHQOFULCBVKJXKTAN362B3C3MA.jpg?auth=c619e06d52a1006c896a3e677e7b86e99693c1be87eee1b6edb6ebeb4f614649&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-09-18T22:38:28Z"
+        },
         {
             "source": {
                 "id": "7006f2c40c7cc01195608dbfd60259b3",
@@ -1959,6 +2007,42 @@
         },
         {
             "source": {
+                "name": "hackaday"
+            },
+            "title": "A Deep Dive on Creepy Cameras",
+            "url": "https://hackaday.com/2025/09/18/a-deep-dive-on-creepy-cameras/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2025/09/Breaking-The-Creepy-AI-in-Police-Cameras-Wide.jpg",
+            "publishedAt": "2025-09-18 23:00:26"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Alphabet’s AI Pivot Mirrors Disney, Fuels Growth Despite ChatGPT Risks",
+            "url": "https://www.webpronews.com/alphabets-ai-pivot-mirrors-disney-fuels-growth-despite-chatgpt-risks/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-f388cb75-5b2c-496a-a80d-35285f77df7b.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-09-18 23:00:00"
+        },
+        {
+            "source": {
+                "name": "interestingengineering"
+            },
+            "title": "NVIDIA backs Intel with $5B stake, unveils plan for AI servers and RTX-powered PCs",
+            "url": "https://interestingengineering.com/culture/nvidia-backs-intel-with-5b-stake-unveils-plan-for-ai-servers-and-rtx-powered-pcs",
+            "urlToImage": "https://cms.interestingengineering.com/wp-content/uploads/2025/09/Untitled-design-2025-09-19T015036.636.jpg",
+            "publishedAt": "2025-09-18 22:30:11"
+        },
+        {
+            "source": {
+                "name": "knowledia"
+            },
+            "title": "Cloud file storage: Key benefits and use cases",
+            "url": "https://news.knowledia.com/US/en/articles/cloud-file-storage-key-benefits-and-use-cases-5c1e4bfea95491706888daae01853f2f80d56441",
+            "urlToImage": "https://cdn.ttgtmedia.com/visuals/searchVirtualStorage/file_virtualization/virtualstorage_article_008.jpg",
+            "publishedAt": "2025-09-18 22:18:03"
+        },
+        {
+            "source": {
                 "name": "latimes"
             },
             "title": "Race to make smartglasses relevant heats up again with new tech from Meta and Snap",
@@ -3117,78 +3201,6 @@
             "url": "https://news.knowledia.com/US/en/articles/ai-is-bad-at-data-this-startup-can-fix-that-9a947c467d5b6ee7969d24feae49f2cf4d2f5f73",
             "urlToImage": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2025/09/p-1-91405220-Tech-PREMIUM-How-an-ex-quant-is-tackling-one-of-AIs-biggest-blindspots.jpg",
             "publishedAt": "2025-09-18 04:00:01"
-        },
-        {
-            "source": {
-                "name": "techcrunch"
-            },
-            "title": "India leads the way on Google’s Nano Banana with a local creative twist",
-            "url": "https://techcrunch.com/2025/09/17/india-leads-the-way-on-googles-nano-banana-with-a-local-creative-twist/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/google-gemini-nano-banana-india-trends-techcrunch.jpg?resize=1200%2C800",
-            "publishedAt": "2025-09-18 04:00:00"
-        },
-        {
-            "source": {
-                "name": "startupnews"
-            },
-            "title": "Huawei announces two new supercomputing AI nodes, say they are the world’s most powerful",
-            "url": "https://startupnews.fyi/2025/09/18/huawei-announces-two-new-supercomputing-ai-nodes-say-they-are-the-worlds-most-powerful/",
-            "urlToImage": "https://startupnews.fyi/wp-content/uploads/2025/09/huawei-announces-two-new-supercomputing-ai-nodes-say-they-are-the-worlds-most-powerful.jpg",
-            "publishedAt": "2025-09-18 03:52:03"
-        },
-        {
-            "source": {
-                "name": "thehindubusinessline"
-            },
-            "title": "Meta launches Ray-Ban smart glasses with AI and display, priced at $799",
-            "url": "https://www.thehindubusinessline.com/info-tech/meta-launches-ray-ban-smart-glasses-with-ai-and-display-priced-at-799/article70064154.ece",
-            "urlToImage": "https://bl-i.thgim.com/public/incoming/ra8157/article70064163.ece/alternates/LANDSCAPE_1200/439924776.jpg",
-            "publishedAt": "2025-09-18 03:48:55"
-        },
-        {
-            "source": {
-                "name": "telecom_economictimes"
-            },
-            "title": "Nokia’s chief strategy & technology officer Nishant Batra to quit",
-            "url": "https://telecom.economictimes.indiatimes.com/news/telecom-equipment/nokia-chief-strategy-and-technology-officer-nishant-batra-resigns/123962552",
-            "urlToImage": "https://etimg.etb2bimg.com/photo/123962547.cms",
-            "publishedAt": "2025-09-18 03:36:46"
-        },
-        {
-            "source": {
-                "name": "postandcourier"
-            },
-            "title": "Wilson warns parents recent swatting incident at USC caused by online teen crime group",
-            "url": "https://www.postandcourier.com/kingstree/news/wilson-warns-parents-recent-swatting-incident-at-usc-caused-by-online-teen-crime-group/article_3b2e20fa-d73f-469f-b54c-7f6668e60fe3.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/custom/image/9180ea76-6706-11eb-92d8-7703f7b7f330.jpg?resize=600%2C315",
-            "publishedAt": "2025-09-18 03:20:00"
-        },
-        {
-            "source": {
-                "name": "republicworld"
-            },
-            "title": "Meta AI-powered Smart Glasses With Display And Neural Wristband Launched | 5 Key Features",
-            "url": "https://www.republicworld.com/tech/meta-ai-powered-smart-glasses-with-display-and-neural-wristband-launched-5-key-features",
-            "urlToImage": "https://img.republicworld.com/all_images/meta-ceo-mark-zuckerberg-wears-artificial-intelligence-powered-smart-glasses-as-he-speaks-during-the-company-s-connect-developer-conference-1758165265752-16_9.webp?format=webp&h=720&q=75&w=1280",
-            "publishedAt": "2025-09-18 03:14:30"
-        },
-        {
-            "source": {
-                "name": "6abc"
-            },
-            "title": "University researchers examining injury risks associated with 'Tush Push' play",
-            "url": "https://6abc.com/post/tush-push-controversy-university-rochester-researchers-examining-injury-risks-associated-play/17838025/",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/17838694_091725-wpvi-tush-push-ap-img.jpeg?w=1600",
-            "publishedAt": "2025-09-18 03:10:33"
-        },
-        {
-            "source": {
-                "name": "newsable_asianetnews"
-            },
-            "title": "Meta Stock Inches Up After-Hours As Zuckerberg Unveils $799 AI Glasses: Analyst Calls It ‘Best Bang For The Buck’",
-            "url": "https://newsable.asianetnews.com/markets/meta-stock-inches-up-after-hours-as-zuckerberg-unveils-799-ai-glasses-analyst-calls-it-best-bang-for-the-buck-articleshow-cvbks0t",
-            "urlToImage": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-3a8d7e3d-be27-4f5d-8955-fa7b824441ab.webp",
-            "publishedAt": "2025-09-18 02:57:07"
         }
     ]
 }
