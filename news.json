@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-09-19T13:23:58.484509Z",
+    "lastUpdatedAt": "2025-09-19T14:14:36.883992Z",
     "articles": [
+        {
+            "source": {
+                "id": "4b9101ef61d45607a32072a7504f5fb0",
+                "name": "The Japan Times ",
+                "url": "https://www.japantimes.co.jp",
+                "country": "jp"
+            },
+            "title": "ChatGPT was used ‘to help scammers do their thing’ at Asia fraud compound",
+            "url": "https://www.japantimes.co.jp/news/2025/09/19/asia-pacific/crime-legal/chatgpt-thailand-scammers/",
+            "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2025/09/19/494727.jpg?v=3.1",
+            "publishedAt": "2025-09-19T02:02:16Z"
+        },
+        {
+            "source": {
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
+                "country": "in"
+            },
+            "title": "Nvidia To Invest £2 Billion In UK Firms Including Wayve, Revolut",
+            "url": "https://www.ndtvprofit.com/technology/nvidia-to-invest-2-billion-in-uk-firms-including-wayve-revolut",
+            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-09-05%2F9h6zu91v%2FNvidia-GPUandpassivecooledVRAM.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+            "publishedAt": "2025-09-19T01:53:54Z"
+        },
         {
             "source": {
                 "id": "10cbfb3760cfcdeb78c733c527f0e814",
@@ -120,6 +144,51 @@
             "url": "https://www.forbes.com/sites/sharonedelson/2025/09/19/rokt-deploys-ai-technology-to-power-cinemarks-e-commerce-payment-page/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68cc86b363cdb2e6baa6bbeb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-09-19T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "Luma AI created an AI video model that 'reasons' - what it does differently",
+            "url": "https://www.zdnet.com/article/luma-ai-created-an-ai-video-model-that-reasons-what-it-does-differently/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/9c2172f9430e7e0a8c7b0b82b537f77a00292e8e/2025/09/18/82c2e379-2c93-4db0-bc01-38f34211aff6/gettyimages-2179177944.jpg?auto=webp&precrop=2198%2C1235%2Cx0%2Cy0&width=1280",
+            "publishedAt": "2025-09-19 02:00:40"
+        },
+        {
+            "source": {
+                "name": "yourstory"
+            },
+            "title": "India adds a millionaire every 30 mins; Meet Bengaluru startup Investorant",
+            "url": "https://yourstory.com/2025/09/india-adds-millionaire-every-30-mins-meet-bengaluru-startup-investorant",
+            "urlToImage": "https://images.yourstory.com/cs/2/e4fd1d90231a11efb1991bdbfe47f5e7/CopyofNewPPTTemplates36-1758218438719.jpg",
+            "publishedAt": "2025-09-19 02:00:00"
+        },
+        {
+            "source": {
+                "name": "toi"
+            },
+            "title": "Ignoring AI in Computer Science could cost your career: OpenAI executive warns students risk falling behind",
+            "url": "https://timesofindia.indiatimes.com/education/careers/news/ignoring-ai-in-computer-science-could-cost-your-career-openai-executive-warns-students-risk-falling-behind/articleshow/123987562.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-123987879,imgsize-24192,width-400,resizemode-4/ignoring-ai-in-computer-science-could-cost-your-career-openai-executive-warns-students-risk-falling-behind.jpg",
+            "publishedAt": "2025-09-19 01:59:00"
+        },
+        {
+            "source": {
+                "name": "prnewswire_apac"
+            },
+            "title": "ASUS Redefines Sovereign AI with Next-Generation Professional Services at Inaugural ASUS AI Tech Summit in Dubai",
+            "url": "https://www.prnewswire.com/apac/news-releases/asus-redefines-sovereign-ai-with-next-generation-professional-services-at-inaugural-asus-ai-tech-summit-in-dubai-302561187.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2776197/XA_NB3I_E12_with_NVIDIA_HGX_B300_now_shipping_worldwide.jpg?p=original",
+            "publishedAt": "2025-09-19 01:25:00"
+        },
+        {
+            "source": {
+                "name": "economictimes_indiatimes"
+            },
+            "title": "iPhone 17 series sales start in India: Check price, offers on Redington, Croma, Reliance Digital, bank deals and more here",
+            "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/iphone-17-series-sales-start-in-india-check-price-offers-on-redington-croma-reliance-digital-bank-deals-and-more-here/articleshow/123991774.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-123991764,width-300,height-225,imgsize-880806,resizemode-75/iphone-17-delhi.jpg",
+            "publishedAt": "2025-09-19 01:23:55"
         },
         {
             "source": {
@@ -3171,69 +3240,6 @@
             "url": "https://www.thehindu.com/education/kite-distributes-robotics-kits-to-lakshadweep-schools-to-boost-stem-education/article70065081.ece",
             "urlToImage": "https://th-i.thgim.com/public/education/bsom6k/article70065097.ece/alternates/LANDSCAPE_1200/iStock-1343585806.jpg",
             "publishedAt": "2025-09-18 09:47:21"
-        },
-        {
-            "source": {
-                "name": "computerworld_in"
-            },
-            "title": "The double-sided brilliance of Google’s new native Windows app",
-            "url": "https://www.computerworld.com/article/4058833/google-windows-app.html",
-            "urlToImage": "https://www.computerworld.com/wp-content/uploads/2025/09/4058833-0-65522500-1758188867-google-windows-app.jpg?quality=50&strip=all",
-            "publishedAt": "2025-09-18 09:45:00"
-        },
-        {
-            "source": {
-                "name": "expresscomputer"
-            },
-            "title": "SBI General Insurance launches biometric health scanning feature on mobile app",
-            "url": "https://www.expresscomputer.in/industries/bfsi/sbi-general-insurance-launches-biometric-health-scanning-feature-on-mobile-app/127854/",
-            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2025/07/30190210/EC_technology_illustration_750.jpg",
-            "publishedAt": "2025-09-18 09:30:50"
-        },
-        {
-            "source": {
-                "name": "insider"
-            },
-            "title": "8 phone rules parents should set for kids, according to Facebook's former chief security officer",
-            "url": "https://www.businessinsider.com/phone-rules-for-kids-former-facebook-security-chief-alex-stamos-2025-9",
-            "urlToImage": "https://i.insider.com/68cac55cf9db348adc0ba247?width=700",
-            "publishedAt": "2025-09-18 09:30:02"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "Meta Shares Rise In Premarket After It Unveils New $799 AI Smart Glasses",
-            "url": "https://www.forbes.com/sites/siladityaray/2025/09/18/meta-shares-rise-in-premarket-after-it-unveils-new-799-ai-smart-glasses/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68cbcbf841aac2b8b75f7571/0x0.jpg?precrop=3384%2C1904%2Cx0%2Cy174&width=960",
-            "publishedAt": "2025-09-18 09:09:47"
-        },
-        {
-            "source": {
-                "name": "expresscomputer"
-            },
-            "title": "Vodafone Idea, TCS deepen collaboration with AI-powered customer experience platform",
-            "url": "https://www.expresscomputer.in/news/vodafone-idea-tcs-deepen-collaboration-with-ai-powered-customer-experience-platform/127850/",
-            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2025/06/27174823/EC_Technology_City_750.jpg",
-            "publishedAt": "2025-09-18 09:08:36"
-        },
-        {
-            "source": {
-                "name": "thelincolnianonline"
-            },
-            "title": "Quantum Computing Stocks To Research – September 15th",
-            "url": "https://www.thelincolnianonline.com/2025/09/18/quantum-computing-stocks-to-research-september-15th.html",
-            "urlToImage": "https://www.marketbeat.com/logos/ionq-inc-logo-1200x675.png?v=20211203111404",
-            "publishedAt": "2025-09-18 09:02:55"
-        },
-        {
-            "source": {
-                "name": "nhpr"
-            },
-            "title": "What does the Google antitrust ruling mean for the future of AI?",
-            "url": "https://www.nhpr.org/2025-09-18/what-does-the-google-antitrust-ruling-mean-for-the-future-of-ai",
-            "urlToImage": "https://npr.brightspotcdn.com/dims4/default/ddf735e/2147483647/strip/true/crop/5120x3840+0+0/resize/880x660!/quality/90/?url=https%3A%2F%2Fnpr.brightspotcdn.com%2Fdims3%2Fdefault%2Fstrip%2Ffalse%2Fcrop%2F5120x3840+320+0%2Fresize%2F5120x3840%21%2F%3Furl%3Dhttp%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd4%2F8d%2F66281a7b45b8984c265907fe86e2%2Fap23286617961998.jpg",
-            "publishedAt": "2025-09-18 09:00:00"
         }
     ]
 }
