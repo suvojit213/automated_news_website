@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-09-20T14:12:16.173967Z",
+    "lastUpdatedAt": "2025-09-20T15:13:21.086588Z",
     "articles": [
+        {
+            "source": {
+                "id": "a20567d6dba1eb61fe53af2865f90d74",
+                "name": "The New Paper",
+                "url": "https://www.tnp.sg",
+                "country": "sg"
+            },
+            "title": "NTUC Health deploys new AI software to predict fall risk of seniors",
+            "url": "https://www.tnp.sg/news/ntuc-health-deploys-new-ai-software-predict-fall-risk-seniors",
+            "urlToImage": "https://cassette.sphdigital.com.sg/image/thenewpaper/1567875ec613eb7ced2c550990d8ece77e06c3deb932c2a89cad944fd18df027/NSL1062.jpg",
+            "publishedAt": "2025-09-20T03:05:09Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "How to Use AI for Interior Renovation Success",
+            "url": "https://techbullion.com/how-to-use-ai-for-interior-renovation-success/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/IMG_2113-1000x600.png",
+            "publishedAt": "2025-09-20T02:40:11Z"
+        },
         {
             "source": {
                 "id": "21468bec836de1ebb209ff6f78fbfe3e",
@@ -48,6 +72,42 @@
             "url": "https://www.thehitavada.com/Encyc/2025/9/20/use-of-ai-cutting-edge-tech-vital-for-armed-forces-cds.html",
             "urlToImage": "https://www.thehitavada.com/Encyc/2025/9/20/Union-Minister-of-State-for-Defence-Sanjay-Seth_202509201130018001_H@@IGHT_404_W@@IDTH_999.jpg",
             "publishedAt": "2025-09-20T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "thestatesman"
+            },
+            "title": "Betting on AI",
+            "url": "https://www.thestatesman.com/opinion/betting-on-ai-1503488911.html",
+            "urlToImage": "https://www.thestatesman.com/wp-content/uploads/2025/05/IMG_3062-jpeg.webp",
+            "publishedAt": "2025-09-20 02:58:17"
+        },
+        {
+            "source": {
+                "name": "cision"
+            },
+            "title": "Huawei Unveils Three-step \"ACT\" Pathway and Nine Major Solutions for Industrial Intelligence",
+            "url": "https://www.prnewswire.com/news-releases/huawei-unveils-three-step-act-pathway-and-nine-major-solutions-for-industrial-intelligence-302562097.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2777472/image.jpg?p=publish",
+            "publishedAt": "2025-09-20 02:33:00"
+        },
+        {
+            "source": {
+                "name": "prnewswire_apac"
+            },
+            "title": "Huawei Unveils Upgraded Xinghe Intelligent WAN Solution to Achieve Determinism over Uncertainty",
+            "url": "https://www.prnewswire.com/apac/news-releases/huawei-unveils-upgraded-xinghe-intelligent-wan-solution-to-achieve-determinism-over-uncertainty-302562093.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2777827/John_Cai_President_Router_Domain_Huawei_Data_Communication_Product_Line.jpg?p=original",
+            "publishedAt": "2025-09-20 02:26:00"
+        },
+        {
+            "source": {
+                "name": "en_prnasisa"
+            },
+            "title": "Huawei Unveils Upgraded Xinghe Intelligent WAN Solution to Achieve Determinism over Uncertainty",
+            "url": "https://en.prnasia.com/story/504299-0.shtml",
+            "urlToImage": "https://mma.prnasia.com/media2/2777827/John_Cai_President_Router_Domain_Huawei_Data_Communication_Product_Line.jpg?p=medium600",
+            "publishedAt": "2025-09-20 02:26:00"
         },
         {
             "source": {
@@ -3009,78 +3069,6 @@
             "url": "https://siliconangle.com/2025/09/18/crowdstrike-ushers-agentic-security-keynote-analysis-crowdstrikefalcon/",
             "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/09/Image-18-09-2025-at-20.38.jpeg",
             "publishedAt": "2025-09-18T21:04:09Z"
-        },
-        {
-            "source": {
-                "id": "c85e15f10f76e6bbc0ee7df63f5e2b27",
-                "name": "Watts Up With That",
-                "url": "https://wattsupwiththat.com",
-                "country": "us"
-            },
-            "title": "Europe’s Impossible Choice: AI Development or Net Zero?",
-            "url": "https://wattsupwiththat.com/2025/09/18/europe-ai-development-or-net-zero/",
-            "urlToImage": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2025/09/nyetzero1.webp?fit=1024%2C512&quality=75&ssl=1",
-            "publishedAt": "2025-09-18T21:00:00Z"
-        },
-        {
-            "source": {
-                "id": "189fbafb09ebfd21b3d4eda343f00fb1",
-                "name": "Mid Day",
-                "url": "https://www.mid-day.com",
-                "country": "in"
-            },
-            "title": "Amid India’s AI safety push, Minister Ashwini Vaishnaw says governance framework to be released by Sept 28",
-            "url": "https://www.mid-day.com/news/india-news/article/amid-india-s-ai-safety-push-minister-ashwini-vaishnaw-says-governance-framework-to-be-released-by-sept-28-23594693",
-            "urlToImage": "https://images.mid-day.com/images/images/2025/sep/Ashwini-Vaishnaw-1758208881295_d.png",
-            "publishedAt": "2025-09-18T20:53:12Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Trump's AI plan supports antitrust enforcement, DOJ official says",
-            "url": "https://www.reuters.com/legal/litigation/trumps-ai-plan-supports-antitrust-enforcement-doj-official-says-2025-09-18/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/4CHX5MHESJMU5FV7YPL6QMTUIA.jpg?auth=9e80705a9bc79dbfcc459c334938d2d268d1f4532f129c4478ae0d4678bc20cd&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-09-18T20:52:21Z"
-        },
-        {
-            "source": {
-                "id": "b419a989918b3665a34559f5047546b6",
-                "name": "The Sunday Times",
-                "url": "https://www.thetimes.com",
-                "country": "gb"
-            },
-            "title": "Is Oracle really all-seeing on AI?",
-            "url": "https://www.thetimes.com/business-money/markets/article/is-oracle-really-all-seeing-on-ai-s7sn8tg8q",
-            "urlToImage": "https://www.thetimes.com/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fc6734a39-629e-4faa-9d77-2d923b3f8b73.jpg?crop=1600%2C900%2C0%2C0&resize=1200",
-            "publishedAt": "2025-09-18T20:50:52Z"
-        },
-        {
-            "source": {
-                "id": "d090731490a57c9141fbb97449f07e98",
-                "name": "iefimerida",
-                "url": "https://www.iefimerida.gr",
-                "country": "gr"
-            },
-            "title": "OECD report highlights great progress made by Greece in the use of AI",
-            "url": "https://www.iefimerida.gr/english/oecd-report-highlights-great-progress-made-greece-use-ai",
-            "urlToImage": "https://www.iefimerida.gr/sites/default/files/styles/facebook/public/2025-08/texniti-noimosyni-tablet.jpg?itok=RTlvN1jw",
-            "publishedAt": "2025-09-18T20:20:22Z"
-        },
-        {
-            "source": {
-                "id": "ab6b7d957a91e0dbf63976cb1b9c26f5",
-                "name": "Santa Clarita Valley Signal",
-                "url": "https://signalscv.com",
-                "country": "us"
-            },
-            "title": "Best AI Girlfriend Sites for Realistic Companionship 2025",
-            "url": "https://signalscv.com/2025/09/best-ai-girlfriend-sites-for-realistic-companionship-2025/",
-            "urlToImage": "https://signalscv.com/wp-content/uploads/2025/09/image-53.png",
-            "publishedAt": "2025-09-18T20:10:55Z"
         }
     ]
 }
