@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-09-20T02:51:02.535449Z",
+    "lastUpdatedAt": "2025-09-20T03:24:16.860431Z",
     "articles": [
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Mauritius IT Minister Visits C-DOT, Explores Disaster Alerts & 5G Solutions",
+            "url": "https://www.devdiscourse.com/article/law-order/3633778-mauritius-it-minister-visits-c-dot-explores-disaster-alerts-5g-solutions",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/19_09_2025_20_39_17_5159063.jfif?width=920&format=jpeg",
+            "publishedAt": "2025-09-19T15:22:06Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Seneca Polytechnic launches its first-ever master’s degree - a program in AI",
+            "url": "https://www.manilatimes.net/2025/09/19/tmt-newswire/globenewswire/seneca-polytechnic-launches-its-first-ever-masters-degree-a-program-in-ai/2187432",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/09/19/754107.png",
+            "publishedAt": "2025-09-19T15:03:07Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "AI is changing how Harvard students learn: Professors balance technology with academic integrity",
+            "url": "https://timesofindia.indiatimes.com/education/news/ai-is-changing-how-harvard-students-learn-professors-balance-technology-with-academic-integrity/articleshow/123998476.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-123998459,width-1070,height-580,imgsize-211160,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-09-19T15:00:00Z"
+        },
+        {
+            "source": {
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
+            },
+            "title": "Pet Smart Collar Provides Real-Time Health Data",
+            "url": "https://www.newsmax.com/health/health-news/collar-smart-pets/2025/09/19/id/1227058/",
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=bf847919-a443-4160-b1a2-91c9b3f38ff7&SiteName=Newsmax",
+            "publishedAt": "2025-09-19T14:59:01Z"
+        },
         {
             "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -948,6 +996,87 @@
             "url": "https://www.globenewswire.com/news-release/2025/09/19/3153324/28124/en/Space-and-Satellite-Security-Industry-Analysis-by-Product-Application-and-Country-2025-2035-Case-Studies-Competitive-Strategies-and-Growth-Outlook.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
             "publishedAt": "2025-09-19T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "pcworld_us"
+            },
+            "title": "Is Windows’ Copilot button doomed to the fate of the Cortana key?",
+            "url": "https://www.pcworld.com/article/2876105/is-the-copilot-button-doomed-to-join-microsofts-keyboard-graveyard.html",
+            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/09/Windows-Copilot-Key-on-keyboard-with-a-cancel-sign.jpg?quality=50&strip=all",
+            "publishedAt": "2025-09-19 15:18:03"
+        },
+        {
+            "source": {
+                "name": "arstechnica"
+            },
+            "title": "If you own a Volvo EX90, you’re getting a free computer upgrade",
+            "url": "https://arstechnica.com/cars/2025/09/forget-ota-volvo-is-upgrading-the-core-computer-in-the-ex90-for-free/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/2025-Volvo-EX90-01-1440x1080-1-1152x648.jpg",
+            "publishedAt": "2025-09-19 15:17:44"
+        },
+        {
+            "source": {
+                "name": "news24online"
+            },
+            "title": "Google Gemini Photo Editing: 7 Nano Banana AI prompts to give your pics a dandiya twist this Navratri",
+            "url": "https://news24online.com/tech/google-gemini-photo-editing-7-nano-banana-ai-prompts-dandiya-nights-looks-navratri-2025/636257/",
+            "urlToImage": "https://news24online.com/wp-content/uploads/2025/09/Nano-Banana-Dandiya-nights4.jpg",
+            "publishedAt": "2025-09-19 15:04:05"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "Forget iPhone Air — Galaxy S25 Edge is the thin phone to get now that it’s down to its all-time lowest price",
+            "url": "https://www.tomsguide.com/phones/samsung-phones/forget-iphone-air-galaxy-s25-edge-is-the-thin-phone-to-get-now-that-its-down-to-its-all-time-lowest-price",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/MGtU5bzLF7EUu6QREz2hna-1280-80.jpg",
+            "publishedAt": "2025-09-19 15:01:34"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Godot 4.4 Dev 6 - CollisionShape3D Debug Color Customization and More",
+            "url": "https://hackernoon.com/godot-44-dev-6-collisionshape3d-debug-color-customization-and-more",
+            "urlToImage": "https://hackernoon.imgix.net/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-6g03bx6.jpeg",
+            "publishedAt": "2025-09-19 15:00:07"
+        },
+        {
+            "source": {
+                "name": "siliconangle"
+            },
+            "title": "Nvidia joins the Intel bailout, Meta pitches AI smart glasses, and CrowdStrike pitches ‘security AGI’",
+            "url": "https://siliconangle.com/2025/09/19/nvidia-joins-intel-bailout-meta-pitches-ai-smart-glasses-crowdstrike-pitches-security-agi/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/09/intel-nvidia-reve.png",
+            "publishedAt": "2025-09-19 14:59:17"
+        },
+        {
+            "source": {
+                "name": "siliconangle"
+            },
+            "title": "Nvidia joins the Intel bailout, Meta pitches AI smart glasses, and CrowdStrike aims for ‘security AGI’",
+            "url": "https://siliconangle.com/2025/09/19/nvidia-joins-intel-bailout-meta-pitches-ai-smart-glasses-crowdstrike-aims-security-agi/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/09/intel-nvidia-reve.png",
+            "publishedAt": "2025-09-19 14:59:17"
+        },
+        {
+            "source": {
+                "name": "thestatesman"
+            },
+            "title": "Technology does not take away jobs, it creates new opportunities: CM Yogi",
+            "url": "https://www.thestatesman.com/india/technology-does-not-take-away-jobs-it-creates-new-opportunities-cm-yogi-1503488805.html",
+            "urlToImage": "https://www.thestatesman.com/wp-content/uploads/2025/09/Untitled-design-6-3.webp",
+            "publishedAt": "2025-09-19 14:54:58"
+        },
+        {
+            "source": {
+                "name": "businessinsider_us"
+            },
+            "title": "ZuckVision: Meta's CEO pitches metaverse 3.0, powered by AI 2.0",
+            "url": "https://www.businessinsider.com/mark-zuckerberg-meta-connect-metaverse-ai-ar-glasses-2025-9",
+            "urlToImage": "https://i.insider.com/68cc70a3183847aa39d71100?width=700",
+            "publishedAt": "2025-09-19 14:51:55"
         },
         {
             "source": {
@@ -3105,162 +3234,6 @@
             "url": "https://economictimes.indiatimes.com/ai/ai-insights/the-emmys-crowned-tvs-best-et-ai-awards-2025-will-crown-ais-brightest-/articleshow/123963966.cms",
             "urlToImage": "https://img.etimg.com/thumb/msid-123973852,width-1200,height-630,imgsize-1836728,overlay-economictimes/articleshow.jpg",
             "publishedAt": "2025-09-18T10:57:00Z"
-        },
-        {
-            "source": {
-                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-                "name": "Benzinga",
-                "url": "https://www.benzinga.com",
-                "country": "us"
-            },
-            "title": "Airbnb's Brian Chesky Agrees That Current AI Is 'Overrated,' Predicts 'Sudden' Changes Next Decade",
-            "url": "https://www.benzinga.com/markets/tech/25/09/47734215/airbnbs-brian-chesky-agrees-that-current-ai-is-overrated-predicts-sudden-changes-next-decade",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/09/18/Woman-Holding-A-Mobile-Phone-With-Airbnb.jpeg?width=1200&height=800&fit=crop",
-            "publishedAt": "2025-09-18T10:51:28Z"
-        },
-        {
-            "source": {
-                "id": "a3391c15eb1d3136f9b9dd080940d0e8",
-                "name": "The Nation",
-                "url": "https://www.nation.com.pk",
-                "country": "pk"
-            },
-            "title": "Pakistan’s AI Policy 2025: Bold on vision, thin on law, heavy on hope",
-            "url": "https://www.nation.com.pk/18-Sep-2025/pakistan-s-ai-policy-2025-bold-on-vision-thin-on-law-heavy-on-hope",
-            "urlToImage": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
-            "publishedAt": "2025-09-18T10:45:20Z"
-        },
-        {
-            "source": {
-                "id": "b29eaeaa36b9be93ac681e263151f897",
-                "name": "India.com",
-                "url": "https://www.india.com",
-                "country": "in"
-            },
-            "title": "THIS company stock gains post signing MoU for cybersecurity solutions | Check Details Here",
-            "url": "https://www.india.com/business/apollo-micro-systems-this-company-stock-gains-post-signing-mou-for-cybersecurity-solutions-check-details-here-8083244/",
-            "urlToImage": "https://static.india.com/wp-content/uploads/2025/09/5-168.jpg",
-            "publishedAt": "2025-09-18T10:39:00Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "\"India should embrace indigenous concepts for AI Sovereignty\": Shireesh Kedare, Director IIT Bombay",
-            "url": "https://www.tribuneindia.com/news/business/india-should-embrace-indigenous-concepts-for-ai-sovereignty-shireesh-kedare-director-iit-bombay/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTM4ZDJlOTQwLTk0N2ItMTFmMC04ZWJlLWYzMjRlZjRkM2RjZS5qcGc=",
-            "publishedAt": "2025-09-18T10:35:34Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "TechD Cybersecurity IPO allotment likely today: Check latest GMP, step-by-step guide on how to check allotment status",
-            "url": "https://www.livemint.com/market/ipo/techd-cybersecurity-ipo-allotment-likely-today-check-latest-gmp-step-by-step-guide-on-how-to-check-allotment-status-11758189488619.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2025/09/18/1600x900/logo/SME_IPO_1757393434059_1757393439445_1758190808048.png",
-            "publishedAt": "2025-09-18T10:27:30Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Mohammad Majharul Islam Jabed Pioneers AI-Driven Cybersecurity with Cross-Industry Expertise",
-            "url": "https://techbullion.com/mohammad-majharul-islam-jabed-pioneers-ai-driven-cybersecurity-with-cross-industry-expertise/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/ibuvbv.png",
-            "publishedAt": "2025-09-18T10:24:59Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Solana Investor Cuts Holdings in Half to Go All-In on Ozak AI-Results Reveal Potential for 300x ROI as Presale Surges Past $2.8 Million",
-            "url": "https://techbullion.com/solana-investor-cuts-holdings-in-half-to-go-all-in-on-ozak-ai-results-reveal-potential-for-300x-roi-as-presale-surges-past-2-8-million/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/unnamed-29.jpg",
-            "publishedAt": "2025-09-18T10:22:13Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Disruption or Opportunity? Will AI affect jobs or create billions in value",
-            "url": "https://timesofindia.indiatimes.com/business/international-business/disruption-or-opportunity-will-ai-affect-jobs-or-create-billions-in-value-morgan-stanley-report-weighs-in/articleshow/123972583.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-123973450,width-1070,height-580,imgsize-47216,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "publishedAt": "2025-09-18T10:12:00Z"
-        },
-        {
-            "source": {
-                "id": "027234d3c0a6aefa3d7ab81380e63d86",
-                "name": "LBC",
-                "url": "https://www.lbc.co.uk",
-                "country": "gb"
-            },
-            "title": "US firm’s £1.5bn investment a major boost to UK defence sector, says John Healey",
-            "url": "https://www.lbc.co.uk/article/83d71a18e5fc4ecfb3e0e7ad71120ab8-5HjdDCt_2/",
-            "urlToImage": "https://images.globalplayer.com/images/755164?crop=16_9&width=1200&signature=EavYwmZ-HuIy89Sny9paPsyH-xE=",
-            "publishedAt": "2025-09-18T10:04:06Z"
-        },
-        {
-            "source": {
-                "id": "e98e9648a83f865332ab00d9eab8cf1f",
-                "name": "Evening Standard",
-                "url": "https://www.standard.co.uk",
-                "country": "gb"
-            },
-            "title": "US firm’s £1.5bn investment a major boost to UK defence sector, says John Healey",
-            "url": "https://www.standard.co.uk/news/tech/john-healey-european-ukraine-west-b1248384.html",
-            "urlToImage": "https://static.standard.co.uk/2025/09/18/10/7bf4f50cd9133320ff23c3416469535dY29udGVudHNlYXJjaGFwaSwxNzU4Mjc0NjU2-2.81622613.jpg?width=1200&auto=webp&quality=75",
-            "publishedAt": "2025-09-18T09:55:48Z"
-        },
-        {
-            "source": {
-                "id": "143b993b193f72147f3de29ebcfbf505",
-                "name": "India TV News",
-                "url": "https://www.indiatvnews.com",
-                "country": "in"
-            },
-            "title": "Defence stock Apollo Micro Systems signs MoU for cybersecurity solutions, shares gain",
-            "url": "https://www.indiatvnews.com/business/markets/defence-stock-apollo-micro-systems-signs-mou-for-cybersecurity-solutions-shares-gain-2025-09-18-1008801",
-            "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2025/09/stocksnews-1758188295.jpg",
-            "publishedAt": "2025-09-18T09:39:24Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "200% rally in six months! Multibagger defence stock close to lifetime high; do you own?",
-            "url": "https://www.livemint.com/market/stock-market-news/200-rally-in-six-months-multibagger-defence-stock-close-to-lifetime-high-do-you-own-11758187027541.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2025/09/18/1600x900/logo/gfc19ae5aa246875c327760781b8f327855453ba8b2126f231_1747372937158_1758187052554.jpg",
-            "publishedAt": "2025-09-18T09:38:49Z"
-        },
-        {
-            "source": {
-                "id": "91120a92e0d24e24fbffb6d0affabfe6",
-                "name": "Bangkok Post",
-                "url": "https://www.bangkokpost.com",
-                "country": "th"
-            },
-            "title": "Huawei Empowers SMEs with 4+10+N Solutions",
-            "url": "https://www.bangkokpost.com/thailand/pr/3106802/huawei-empowers-smes-with-410n-solutions",
-            "urlToImage": "https://static.bangkokpost.com/media/content/20250918/c1_3106802_700.jpg",
-            "publishedAt": "2025-09-18T09:27:00Z"
         }
     ]
 }
