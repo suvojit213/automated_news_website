@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-09-21T10:13:42.135858Z",
+    "lastUpdatedAt": "2025-09-21T11:10:37.903461Z",
     "articles": [
+        {
+            "source": {
+                "id": "7f6e8514e9d8f8376aaa9a7229861518",
+                "name": "PerthNow",
+                "url": "https://www.perthnow.com.au",
+                "country": "au"
+            },
+            "title": "Kate Cassidy posts AI images of herself with Liam Payne",
+            "url": "https://www.perthnow.com.au/entertainment/celebrity-gossip/kate-cassidy-posts-ai-images-of-herself-with-liam-payne-c-20092155",
+            "urlToImage": "https://images.perthnow.com.au/publication/C-20092155/7142b411cb7d7974bb144fa43c0f212a2791db63-16x9-x0y192w2048h1152.jpg?imwidth=1200",
+            "publishedAt": "2025-09-20T23:04:48Z"
+        },
+        {
+            "source": {
+                "id": "91120a92e0d24e24fbffb6d0affabfe6",
+                "name": "Bangkok Post",
+                "url": "https://www.bangkokpost.com",
+                "country": "th"
+            },
+            "title": "AI's super brain scoops up the crims",
+            "url": "https://www.bangkokpost.com/thailand/general/3108170/ais-super-brain-scoops-up-the-crims",
+            "urlToImage": "https://static.bangkokpost.com/media/content/dcx/2025/09/20/5787622_700.jpg",
+            "publishedAt": "2025-09-20T22:39:00Z"
+        },
         {
             "source": {
                 "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
@@ -636,6 +660,33 @@
             "url": "https://www.thehitavada.com/Encyc/2025/9/20/use-of-ai-cutting-edge-tech-vital-for-armed-forces-cds.html",
             "urlToImage": "https://www.thehitavada.com/Encyc/2025/9/20/Union-Minister-of-State-for-Defence-Sanjay-Seth_202509201130018001_H@@IGHT_404_W@@IDTH_999.jpg",
             "publishedAt": "2025-09-20T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "hackaday"
+            },
+            "title": "A Ruggedized Raspberry Pi for Sailors",
+            "url": "https://hackaday.com/2025/09/20/a-ruggedized-raspberry-pi-for-sailors/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2025/09/halpi2_front.png",
+            "publishedAt": "2025-09-20 23:00:56"
+        },
+        {
+            "source": {
+                "name": "digitaltrends"
+            },
+            "title": "Experts warn about using ChatGPT to dumb down scientific research",
+            "url": "https://www.digitaltrends.com/computing/experts-warn-about-using-chatgpt-to-dumb-down-scientific-research/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/08/Untitled-design-3.jpeg?p=1&resize=1200%2C630",
+            "publishedAt": "2025-09-20 22:30:00"
+        },
+        {
+            "source": {
+                "name": "hindustantimes"
+            },
+            "title": "28 firms line up to partner with HAL for stealth fighter project",
+            "url": "https://www.hindustantimes.com/india-news/28-firms-line-up-to-partner-with-hal-for-stealth-fighter-project-101758394626252.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/09/20/1600x900/logo/HAL-chairman-DK-Sunil--HT-PHOTO-_1758394618874.jpg",
+            "publishedAt": "2025-09-20 22:26:43"
         },
         {
             "source": {
@@ -3126,51 +3177,6 @@
             "url": "https://telanganatoday.com/editorial-indias-ai-hurdles",
             "urlToImage": "https://media.telanganatoday.com/wp-content/uploads/2025/09/EDIT-PICTURE-AI.jpg",
             "publishedAt": "2025-09-19 15:44:39"
-        },
-        {
-            "source": {
-                "name": "washington"
-            },
-            "title": "Q&A: UW professor’s book explores how ‘technology is never culturally neutral’",
-            "url": "https://www.washington.edu/news/2025/09/19/digital-culture-shock-katharina-reinecke/",
-            "urlToImage": "https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/09/18130402/DCN-cover-1-scaled-e1758225863798-750x610.jpg",
-            "publishedAt": "2025-09-19 15:36:35"
-        },
-        {
-            "source": {
-                "name": "theverge"
-            },
-            "title": "Here are the price-matching policies for Best Buy, GameStop, and others",
-            "url": "https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25746668/247350_CMBF_2024_EWinatacyberMonday.png?crop=0%2C10.732984293194%2C100%2C78.534031413613&quality=90&strip=all&w=1200",
-            "publishedAt": "2025-09-19 15:30:12"
-        },
-        {
-            "source": {
-                "name": "pcworld_us"
-            },
-            "title": "Is Windows’ Copilot button doomed to the fate of the Cortana key?",
-            "url": "https://www.pcworld.com/article/2876105/is-the-copilot-button-doomed-to-join-microsofts-keyboard-graveyard.html",
-            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/09/Windows-Copilot-Key-on-keyboard-with-a-cancel-sign.jpg?quality=50&strip=all",
-            "publishedAt": "2025-09-19 15:18:03"
-        },
-        {
-            "source": {
-                "name": "arstechnica"
-            },
-            "title": "If you own a Volvo EX90, you’re getting a free computer upgrade",
-            "url": "https://arstechnica.com/cars/2025/09/forget-ota-volvo-is-upgrading-the-core-computer-in-the-ex90-for-free/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/2025-Volvo-EX90-01-1440x1080-1-1152x648.jpg",
-            "publishedAt": "2025-09-19 15:17:44"
-        },
-        {
-            "source": {
-                "name": "news24online"
-            },
-            "title": "Google Gemini Photo Editing: 7 Nano Banana AI prompts to give your pics a dandiya twist this Navratri",
-            "url": "https://news24online.com/tech/google-gemini-photo-editing-7-nano-banana-ai-prompts-dandiya-nights-looks-navratri-2025/636257/",
-            "urlToImage": "https://news24online.com/wp-content/uploads/2025/09/Nano-Banana-Dandiya-nights4.jpg",
-            "publishedAt": "2025-09-19 15:04:05"
         }
     ]
 }
