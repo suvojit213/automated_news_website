@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-09-21T13:19:04.742936Z",
+    "lastUpdatedAt": "2025-09-21T14:12:02.939325Z",
     "articles": [
+        {
+            "source": {
+                "id": "a20567d6dba1eb61fe53af2865f90d74",
+                "name": "The New Paper",
+                "url": "https://www.tnp.sg",
+                "country": "sg"
+            },
+            "title": "Mysterious 'ball lightning' spotted at Tampines and Pasir Ris, netizens wonder if it's genuine or AI",
+            "url": "https://www.tnp.sg/news/mysterious-ball-lightning-spotted-tampines-and-pasir-ris-netizens-wonder-if-its-genuine-or-ai",
+            "urlToImage": "https://cassette.sphdigital.com.sg/image/thenewpaper/43c62a77d136c17d82e28f9d73a1b98cc18735d7d99b9fcdfb77756d3aceffa4/balllightningsingapore.jpg",
+            "publishedAt": "2025-09-21T02:04:33Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "Constant Innovation with an AI-First Ethos: The Future of Zil Money",
+            "url": "https://techbullion.com/constant-innovation-with-an-ai-first-ethos-the-future-of-zil-money/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/pexels-ivan-samkov-7621126-1-1000x600.jpg",
+            "publishedAt": "2025-09-21T01:58:28Z"
+        },
         {
             "source": {
                 "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
@@ -12,6 +36,15 @@
             "url": "https://www.thenews.com.pk/latest/1345231-pakistani-firms-exposed-by-poor-cyber-hygiene-report",
             "urlToImage": "https://www.thenews.com.pk/assets/uploads/updates/2025-09-21/1345231_084700_updates.jpg",
             "publishedAt": "2025-09-21T01:00:00Z"
+        },
+        {
+            "source": {
+                "name": "techannouncer"
+            },
+            "title": "Abstracting the Future: Innovations in Smart Parking System Technology",
+            "url": "https://techannouncer.com/abstracting-the-future-innovations-in-smart-parking-system-technology/",
+            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/09/69d43b06thumbnail-332x187.jpeg",
+            "publishedAt": "2025-09-21 01:29:14"
         },
         {
             "source": {
@@ -3153,33 +3186,6 @@
             "url": "https://arstechnica.com/gadgets/2025/09/your-very-own-humane-interface-try-jef-raskins-ideas-at-home/",
             "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/raskinfeature10-1152x648-1757020441.jpg",
             "publishedAt": "2025-09-19 16:58:08"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "Huawei Launches Xinghe AI Fabric 2.0, Empowering Enterprises to Create Always-on Data Center Networks with Full Computing Power",
-            "url": "https://www.prnewswire.com/news-releases/huawei-launches-xinghe-ai-fabric-2-0--empowering-enterprises-to-create-always-on-data-center-networks-with-full-computing-power-302561746.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2777215/Arthur_Wang_President_Data_Center_Network_Domain_Huawei_Data_Communication.jpg?p=original",
-            "publishedAt": "2025-09-19 16:47:00"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "Chrome could soon let you automatically upgrade from passwords to passkeys — here's how",
-            "url": "https://www.tomsguide.com/computing/password-managers/chrome-could-soon-let-you-automatically-upgrade-from-passwords-to-passkeys-heres-how",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/W6JjyA6fWc7yvSauu4zdzT-1280-80.jpg",
-            "publishedAt": "2025-09-19 16:37:58"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "New iPhone 17? These privacy apps should be your first download",
-            "url": "https://www.tomsguide.com/computing/vpns/new-iphone-17-these-privacy-apps-should-be-your-first-download",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/GizBtAtxMTKS5GuA2bw5uT-1280-80.jpg",
-            "publishedAt": "2025-09-19 16:26:51"
         }
     ]
 }
