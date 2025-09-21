@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-09-21T17:11:59.791577Z",
+    "lastUpdatedAt": "2025-09-21T18:18:58.524236Z",
     "articles": [
+        {
+            "source": {
+                "id": "3ae5ebb8ffc400c9f5ec57c1814b41fa",
+                "name": "Anchorage Daily News",
+                "url": "https://www.adn.com",
+                "country": "us"
+            },
+            "title": "Artificial intelligence ushers in a golden age of hacking, experts say",
+            "url": "https://www.adn.com/nation-world/2025/09/20/artificial-intelligence-ushers-in-a-golden-age-of-hacking-experts-say/",
+            "urlToImage": "https://www.adn.com/resizer/v2/MNJECINSIIK4OMDCY6DRQ5FMYM.jpg?smart=true&auth=736bbb907ea055a2b07350fead919145da8c42e47fe62ef0ab4033dc77283e0e&width=1200&height=630",
+            "publishedAt": "2025-09-21T06:12:05Z"
+        },
+        {
+            "source": {
+                "id": "60c457b35b486691319f105c3a760060",
+                "name": "Malayala Manorama",
+                "url": "https://www.onmanorama.com",
+                "country": "in"
+            },
+            "title": "How to help a snakebite victim? Doctors explain",
+            "url": "https://www.onmanorama.com/lifestyle/health/2025/09/21/how-to-help-snakebite-victim-doctors-explain.html",
+            "urlToImage": "https://img.onmanorama.com/content/dam/mm/en/archive/lifestyle/health/images/2025/9/21/snake-bite.jpg",
+            "publishedAt": "2025-09-21T05:23:35Z"
+        },
+        {
+            "source": {
+                "id": "90a6e6fbc82cfa821ac49fdb5c404789",
+                "name": "NewsX",
+                "url": "https://www.newsx.com",
+                "country": "in"
+            },
+            "title": "Maharashtra Dy CM Eknath Shinde's Account Hacked During India Pakistan Asia Cup, Restored in 45 Minutes",
+            "url": "https://www.newsx.com/india/eknath-shinde-account-hacked-during-india-pakistan-asia-cup-cybercrime-cybersecurity-national-flags-of-turkey-and-pakistan-restored-in-45-minutes-75975/",
+            "urlToImage": "https://www.newsx.com/wp-content/uploads/2025/09/add-a-subheading-2_1.jpg",
+            "publishedAt": "2025-09-21T05:18:15Z"
+        },
         {
             "source": {
                 "id": "f2ddccedc9e60d844e7a1045928cad48",
@@ -108,6 +144,78 @@
             "url": "https://www.thenews.com.pk/latest/1345231-pakistani-firms-exposed-by-poor-cyber-hygiene-report",
             "urlToImage": "https://www.thenews.com.pk/assets/uploads/updates/2025-09-21/1345231_084700_updates.jpg",
             "publishedAt": "2025-09-21T01:00:00Z"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "Windows 10 Upgrade Guide: How to delay, avoid or survive the switch to Windows 11",
+            "url": "https://www.tomsguide.com/computing/windows-operating-systems/windows-10-upgrade-guide",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/9Lsu7b4eoVLUYJ86oBhSgj-1280-80.jpg",
+            "publishedAt": "2025-09-21 06:15:00"
+        },
+        {
+            "source": {
+                "name": "thelincolnianonline"
+            },
+            "title": "Quantum Computing (NASDAQ:QUBT) Earns Buy Rating from Analysts at Lake Street Capital",
+            "url": "https://www.thelincolnianonline.com/2025/09/21/quantum-computing-nasdaqqubt-earns-buy-rating-from-analysts-at-lake-street-capital.html",
+            "urlToImage": "https://www.marketbeat.com/logos/quantum-computing-inc-logo.jpg?v=20240611112416",
+            "publishedAt": "2025-09-21 06:14:57"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "The TechBeat: Making LLMs Efficient: Reducing Memory Usage Without Breaking Quality (9/21/2025)",
+            "url": "https://hackernoon.com/9-21-2025-techbeat",
+            "urlToImage": "https://hackernoon.imgix.net/images/hackernoon_newsletter_890_cddy0bkn9010kvojnvqcd4vv.png",
+            "publishedAt": "2025-09-21 06:10:55"
+        },
+        {
+            "source": {
+                "name": "geeky_gadgets"
+            },
+            "title": "OpenAI GPT-5 Codex Tested : Capabilities, Limitations and Real-World Performance",
+            "url": "https://www.geeky-gadgets.com/gpt-5-codex-coding-performance/",
+            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/09/ai-assisted-coding-gpt-5-review.webp",
+            "publishedAt": "2025-09-21 05:58:07"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Consensus Loss Proves AI Can Be Both Accurate and Transparent",
+            "url": "https://hackernoon.com/consensus-loss-proves-ai-can-be-both-accurate-and-transparent",
+            "urlToImage": "https://hackernoon.imgix.net/images/a-whimsical-bar-chart-comparing-two-models-xhlph2yfxbazfupeq8r84ykv.png",
+            "publishedAt": "2025-09-21 05:47:08"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "The Trade-Off Between Accuracy and Agreement in AI Models",
+            "url": "https://hackernoon.com/the-trade-off-between-accuracy-and-agreement-in-ai-models",
+            "urlToImage": "https://hackernoon.imgix.net/images/a-colorful-pear-ai-model-v8w5crpvbu1825l3s8c6dnfg.png",
+            "publishedAt": "2025-09-21 05:47:02"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Notes on Training Neural Networks for Consensus",
+            "url": "https://hackernoon.com/notes-on-training-neural-networks-for-consensus",
+            "urlToImage": "https://hackernoon.imgix.net/images/a-colorful-whimsical-flowchart-of-the-pear-loss-computation-b9w6vl44dn35kx6bvf0h3hos.png",
+            "publishedAt": "2025-09-21 05:46:54"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "New AI Study Tackles the Transparency Problem in Black-Box Models",
+            "url": "https://hackernoon.com/new-ai-study-tackles-the-transparency-problem-in-black-box-models",
+            "urlToImage": "https://hackernoon.imgix.net/images/a-conceptual-diagram-with-a-neural-network-in-the-center-risgs3l1addzcscs0gaqu3wl.png",
+            "publishedAt": "2025-09-21 05:46:39"
         },
         {
             "source": {
@@ -3105,105 +3213,6 @@
             "url": "https://www.zdnet.com/article/best-early-amazon-prime-day-pc-gaming-deals/",
             "urlToImage": "https://www.zdnet.com/a/img/resize/fe4c0d87b064a2c2ac9d3d5fc4b5e6cce9367b30/2025/09/19/bb5508ad-b31c-4bb3-b5fa-6863bd635acb/zdnet-prime-day-pc-gaming.png?auto=webp&fit=crop&height=675&width=1200",
             "publishedAt": "2025-09-19 20:25:49"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Navigating MIT Funding: Opportunities and Strategies for Students",
-            "url": "https://techannouncer.com/navigating-mit-funding-opportunities-and-strategies-for-students/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/09/f5e6ed60thumbnail-332x187.jpeg",
-            "publishedAt": "2025-09-19 20:14:06"
-        },
-        {
-            "source": {
-                "name": "thestreet"
-            },
-            "title": "History of Tesla & its stock: Timeline, facts & milestones",
-            "url": "https://www.thestreet.com/technology/history-of-tesla-15088992",
-            "urlToImage": "https://www.thestreet.com/.image/c_fit,h_800,w_1200/MjE3ODY5Njg4NTI3Mzk4NzQ4/president-trump-speaks-alongside-musk-and-tesla-vehicles-at-the-white-house.jpg",
-            "publishedAt": "2025-09-19 20:12:11"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Samsung vs Hynix RAM: A Deep Dive into DDR5 Performance",
-            "url": "https://techannouncer.com/samsung-vs-hynix-ram-a-deep-dive-into-ddr5-performance/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/09/d829fc42thumbnail-332x187.jpeg",
-            "publishedAt": "2025-09-19 20:05:06"
-        },
-        {
-            "source": {
-                "name": "siliconangle"
-            },
-            "title": "Nvidia may invest $500M in Wayve after reported $900M+ Enfabrica deal",
-            "url": "https://siliconangle.com/2025/09/19/nvidia-may-invest-500m-wayve-reported-900m-enfabrica-deal/",
-            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/09/Wayve.jpg",
-            "publishedAt": "2025-09-19 19:38:40"
-        },
-        {
-            "source": {
-                "name": "slashgear"
-            },
-            "title": "DJI Osmo 360 Review: Is It Great Enough To Overlook The Flaws?",
-            "url": "https://www.slashgear.com/1973074/dji-osmo-360-review-features-flaws-price/",
-            "urlToImage": "https://www.slashgear.com/img/gallery/dji-osmo-360-review-is-it-great-enough-to-overlook-the-flaws/l-intro-1758310280.jpg",
-            "publishedAt": "2025-09-19 19:33:41"
-        },
-        {
-            "source": {
-                "name": "thesun"
-            },
-            "title": "Panicked driver warns of ‘sinking’ issues with new car parts after he ‘learned the hard way’",
-            "url": "https://www.the-sun.com/motors/15220748/diy-mechanic-warns-proper-brake-repair-after-close-call/",
-            "urlToImage": "https://www.the-sun.com/wp-content/uploads/sites/6/2025/09/JA_Sinking_Car_COMP.jpg?w=620",
-            "publishedAt": "2025-09-19 19:09:24"
-        },
-        {
-            "source": {
-                "name": "oregonstate"
-            },
-            "title": "OSU to lead effort aimed at radiation-resilliant electronics",
-            "url": "https://news.oregonstate.edu/news/osu-lead-effort-aimed-radiation-resilliant-electronics",
-            "urlToImage": "https://news.oregonstate.edu/sites/news.oregonstate.edu/files/2025-09/SPACE%20ELECTRONICS%20copy_0.png",
-            "publishedAt": "2025-09-19 19:02:48"
-        },
-        {
-            "source": {
-                "name": "uci"
-            },
-            "title": "Sniffing out danger",
-            "url": "https://news.uci.edu/2025/09/19/sniffing-out-danger/",
-            "urlToImage": "https://news.uci.edu/files/2025/09/250918_Burke_01122_sz-720x480.jpg",
-            "publishedAt": "2025-09-19 19:00:26"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Advancing U.S. Leadership: The National Quantum Initiative Reauthorization Act Explained",
-            "url": "https://techannouncer.com/advancing-u-s-leadership-the-national-quantum-initiative-reauthorization-act-explained/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/09/47b4b5e8thumbnail-332x187.jpeg",
-            "publishedAt": "2025-09-19 18:57:06"
-        },
-        {
-            "source": {
-                "name": "fortune"
-            },
-            "title": "Ramp founder Eric Glyman: How I built a $22.5 billion startup in 2,367 days",
-            "url": "https://fortune.com/article/ramp-founder-eric-glyman-titans-and-disruptors/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/RAMP_Thumbnail1-e1758213518486.png?w=2048",
-            "publishedAt": "2025-09-19 18:40:00"
-        },
-        {
-            "source": {
-                "name": "fortune"
-            },
-            "title": "Meta’s 28-year-old billionaire prodigy says the next Bill Gates will be a 13-year-old who is ‘vibe coding’ right now",
-            "url": "https://fortune.com/2025/09/19/alexandr-wang-ai-vibe-coding-next-bill-gates/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-1540568935-e1758305593707.jpg?w=2048",
-            "publishedAt": "2025-09-19 18:37:17"
         }
     ]
 }
