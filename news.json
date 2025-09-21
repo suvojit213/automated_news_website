@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-09-21T20:15:08.577964Z",
+    "lastUpdatedAt": "2025-09-21T21:12:17.915631Z",
     "articles": [
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Hacked Social Media Account Sparks Cybersecurity Concerns in Maharashtra",
+            "url": "https://www.devdiscourse.com/article/law-order/3635339-hacked-social-media-account-sparks-cybersecurity-concerns-in-maharashtra",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/28_08_2024_14_41_03_7331841.png?width=920&format=jpeg",
+            "publishedAt": "2025-09-21T09:05:53Z"
+        },
         {
             "source": {
                 "id": "e9207083a357fb7e76b38e485888ebe7",
@@ -204,6 +216,42 @@
             "url": "https://www.thenews.com.pk/latest/1345231-pakistani-firms-exposed-by-poor-cyber-hygiene-report",
             "urlToImage": "https://www.thenews.com.pk/assets/uploads/updates/2025-09-21/1345231_084700_updates.jpg",
             "publishedAt": "2025-09-21T01:00:00Z"
+        },
+        {
+            "source": {
+                "name": "capitalgazette"
+            },
+            "title": "How Gov. Wes Moore’s economic growth agenda bets big on quantum computing",
+            "url": "https://www.capitalgazette.com/2025/09/21/moore-economic-growth-bets-on-quantum-computing/",
+            "urlToImage": "https://www.capitalgazette.com/wp-content/uploads/2025/09/TBS-L-G0VMOORE-0909-p1.jpg?strip=all&w=1400px",
+            "publishedAt": "2025-09-21 09:07:06"
+        },
+        {
+            "source": {
+                "name": "zephyrnet"
+            },
+            "title": "Streamlining Quantum Software Creation Using Qiskit: Insights from IBM Quantum Blog",
+            "url": "https://zephyrnet.com/streamlining-quantum-software-creation-using-qiskit-insights-from-ibm-quantum-blog/",
+            "urlToImage": "https://zephyrnet.com/wp-content/uploads/img-QQaH5gxoJShcFMCbBGVhRra5.png",
+            "publishedAt": "2025-09-21 09:01:56"
+        },
+        {
+            "source": {
+                "name": "postandcourier"
+            },
+            "title": "Charleston fundraiser planned for kids of Special Ops fallen",
+            "url": "https://www.postandcourier.com/events/book_author/special-operations-warrior-foundation-charleston-fundraiser/article_05b918f3-684a-48d2-9575-10ccc49770b8.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/custom/image/6903687a-a7dc-11e9-896c-0bef6d6c9301.jpg?resize=600%2C314",
+            "publishedAt": "2025-09-21 09:00:00"
+        },
+        {
+            "source": {
+                "name": "news18"
+            },
+            "title": "India’s Chip Revolution: 10 Projects, Rising Design Innovation & Road To 2 Nm Technology",
+            "url": "https://www.news18.com/india/indias-chip-revolution-10-projects-rising-design-innovation-road-to-2-nm-technology-ws-kl-9586917.html",
+            "urlToImage": "https://images.news18.com/ibnlive/uploads/2025/06/Ashwani-Vaishnaw-2025-06-0434eda6dbb241d2268f083dcef313b5-3x2.jpg",
+            "publishedAt": "2025-09-21 08:32:04"
         },
         {
             "source": {
@@ -3183,51 +3231,6 @@
             "url": "https://www.globenewswire.com/news-release/2025/09/19/3153324/28124/en/Space-and-Satellite-Security-Industry-Analysis-by-Product-Application-and-Country-2025-2035-Case-Studies-Competitive-Strategies-and-Growth-Outlook.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
             "publishedAt": "2025-09-19T00:00:00Z"
-        },
-        {
-            "source": {
-                "name": "bitcoinworld"
-            },
-            "title": "Groundbreaking Flora 0G Investment: $400M Boosts Decentralized AI Future",
-            "url": "https://bitcoinworld.co.in/flora-0g-investment-boosts-ai/",
-            "urlToImage": "https://bitcoinworld.co.in/wp-content/uploads/flora-0g-investment-boosts-ai.jpg",
-            "publishedAt": "2025-09-19 23:40:11"
-        },
-        {
-            "source": {
-                "name": "techradar"
-            },
-            "title": "Nvidia's revolutionary memory format for AI GPUs could come to other platforms, rivaling LPDDR6 on the horizon",
-            "url": "https://www.techradar.com/pro/nvidias-revolutionary-memory-format-for-ai-gpu-could-come-to-other-platforms",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/yg5SStgH2y9dxa2swcdWvK.png",
-            "publishedAt": "2025-09-19 22:03:00"
-        },
-        {
-            "source": {
-                "name": "popsci"
-            },
-            "title": "Researchers created a soft squeezable computer mouse",
-            "url": "https://www.popsci.com/technology/squeezable-computer-mouse/",
-            "urlToImage": "https://www.popsci.com/wp-content/uploads/2025/09/Fleximosue-design.jpg?quality=85",
-            "publishedAt": "2025-09-19 21:14:00"
-        },
-        {
-            "source": {
-                "name": "xda_developers"
-            },
-            "title": "This tiny and cheap x86 mini PC is the best Jellyfin server you're overlooking",
-            "url": "https://www.xda-developers.com/tiny-cheap-x86-mini-pc-best-jellyfin-server-overlooking/",
-            "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/07/5-reasons-my-intel-n100-mini-pc-running-linux-is-perfect-for-streaming.jpeg",
-            "publishedAt": "2025-09-19 21:00:19"
-        },
-        {
-            "source": {
-                "name": "lifehacker_us"
-            },
-            "title": "I Love My Apple Watch Series 11, But You Might Not",
-            "url": "https://lifehacker.com/tech/i-love-my-apple-watch-series-11-but-you-might-not",
-            "urlToImage": "https://lifehacker.com/imagery/articles/01K5HT6Z7YGG40RMY0J51T6FSN/hero-image.fill.size_1200x675.jpg",
-            "publishedAt": "2025-09-19 21:00:00"
         }
     ]
 }
