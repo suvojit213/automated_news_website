@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-09-22T05:15:12.996677Z",
+    "lastUpdatedAt": "2025-09-22T06:24:12.430859Z",
     "articles": [
+        {
+            "source": {
+                "id": "d5f1f8579b4e9b390feccfa1c0cf8028",
+                "name": "Arab News",
+                "url": "https://www.arabnews.com",
+                "country": "ar"
+            },
+            "title": "The first AI government minister",
+            "url": "https://www.arabnews.com/node/2616176",
+            "urlToImage": "https://www.arabnews.com/sites/default/files/authors/4641767-danielinnerarityandfabriziotassinari.png",
+            "publishedAt": "2025-09-21T17:49:29Z"
+        },
         {
             "source": {
                 "id": "44d394a4e765f82b49b452e4302a72b0",
@@ -384,6 +396,42 @@
             "url": "https://www.thenews.com.pk/latest/1345231-pakistani-firms-exposed-by-poor-cyber-hygiene-report",
             "urlToImage": "https://www.thenews.com.pk/assets/uploads/updates/2025-09-21/1345231_084700_updates.jpg",
             "publishedAt": "2025-09-21T01:00:00Z"
+        },
+        {
+            "source": {
+                "name": "kxan"
+            },
+            "title": "Is your favorite new artist actually an AI bot?",
+            "url": "https://www.kxan.com/news/national-news/is-your-favorite-new-artist-actually-an-ai-bot/",
+            "urlToImage": "https://www.kxan.com/wp-content/uploads/sites/40/2025/09/AI-music-e1758221216600.jpg?w=900",
+            "publishedAt": "2025-09-21 18:07:32"
+        },
+        {
+            "source": {
+                "name": "thurrott"
+            },
+            "title": "Google Pixel 10 Pro XL Review",
+            "url": "https://www.thurrott.com/mobile/android/google-pixel/326951/google-pixel-10-pro-xl-review",
+            "urlToImage": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2025/09/p10pxl-hero.jpg",
+            "publishedAt": "2025-09-21 18:05:06"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "The Tortoise and the Hare: An Unexpected Scheduling Race Between MILP and CP Solvers",
+            "url": "https://hackernoon.com/the-tortoise-and-the-hare-an-unexpected-scheduling-race-between-milp-and-cp-solvers",
+            "urlToImage": "https://hackernoon.imgix.net/images/sinW25rWovdN38P2ArzdPSCP3hi1-6h034kg.jpeg",
+            "publishedAt": "2025-09-21 17:51:17"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Pitting Heuristics Against Exact Solvers in the Flexible Job Shop Gauntlet",
+            "url": "https://hackernoon.com/pitting-heuristics-against-exact-solvers-in-the-flexible-job-shop-gauntlet",
+            "urlToImage": "https://hackernoon.imgix.net/images/sinW25rWovdN38P2ArzdPSCP3hi1-jc034cb.jpeg",
+            "publishedAt": "2025-09-21 17:46:11"
         },
         {
             "source": {
@@ -3123,66 +3171,6 @@
             "url": "https://techbullion.com/ai-in-tech-recruitment-how-automation-is-streamlining-hiring-without-sacrificing-human-judgment/",
             "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/663c637c1c4422b1394deac3_My-first-design-2.png",
             "publishedAt": "2025-09-19T06:59:02Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "How AI in Cybersecurity Is Helping Defenders in the Arms Race Against Criminal Actors",
-            "url": "https://techbullion.com/how-ai-in-cybersecurity-is-helping-defenders-in-the-arms-race-against-criminal-actors/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/ai-attackers-defenders-article-875x530-1.jpg",
-            "publishedAt": "2025-09-19T06:47:10Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "General Chauhan Advocates for Modern Defence Enhancements",
-            "url": "https://www.devdiscourse.com/article/technology/3633081-general-chauhan-advocates-for-modern-defence-enhancements",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/18_09_2025_21_05_22_7228518.jpg?width=920&format=jpeg",
-            "publishedAt": "2025-09-19T06:36:56Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "High-level exits at Elon Musk led xAI tied to management clashes and money concerns",
-            "url": "https://www.indiatoday.in/technology/news/story/high-level-exits-at-elon-musk-led-xai-tied-to-management-clashes-and-money-concerns-2789887-2025-09-19",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202509/elon-musks-ai-startup-xai-to-launch-enhanced-grok-15-chatbot-on-platform-x-a-potential-rival-for-123039936-16x9.png?VersionId=jbzl7LusLpkroC1tfK6raszVBnVsvZvt",
-            "publishedAt": "2025-09-19T06:31:45Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Massive Hiring Spree: South Korean Giants to Create 60,000 Jobs by 2029",
-            "url": "https://www.devdiscourse.com/article/business/3633053-massive-hiring-spree-south-korean-giants-to-create-60000-jobs-by-2029",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/19_09_2025_11_40_58_9437316.jpg?width=920&format=jpeg",
-            "publishedAt": "2025-09-19T06:11:24Z"
-        },
-        {
-            "source": {
-                "id": "efaafb02d34a4a267f22c3b80bd225c1",
-                "name": "KRDO",
-                "url": "https://krdo.com",
-                "country": "us"
-            },
-            "title": "AI have a dream? A fringe party in Japan wants a chatbot penguin to be its leader",
-            "url": "https://krdo.com/news/2025/09/18/ai-politics-a-fringe-party-in-japan-wants-a-chatbot-penguin-to-be-its-leader/",
-            "urlToImage": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
-            "publishedAt": "2025-09-19T05:51:53Z"
         }
     ]
 }
