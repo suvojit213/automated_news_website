@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-09-22T18:21:01.877796Z",
+    "lastUpdatedAt": "2025-09-22T19:11:42.944031Z",
     "articles": [
+        {
+            "source": {
+                "id": "b41851fb2662ea502db29f71ec4d1583",
+                "name": "NPR",
+                "url": "https://www.npr.org",
+                "country": "us"
+            },
+            "title": "It's Been a Minute",
+            "url": "https://www.npr.org/2025/09/22/nx-s1-5546753/can-you-trust-ai-search-results",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2f%2Fd3%2Fb941d4a649a282a5c6467d47dfbe%2F0f3d2d05-b686-4cfa-b31c-0c97e4e96674.jpg",
+            "publishedAt": "2025-09-22T07:00:00Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "How Ireland's Leading Car Review Platform Is Using AI and Data Analytics to Transform Automotive Journalism",
+            "url": "https://techbullion.com/how-irelands-leading-car-review-platform-is-using-ai-and-data-analytics-to-transform-automotive-journalism/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/female-traveller-with-laptop-standing-beside-car-1000x600.jpg",
+            "publishedAt": "2025-09-22T06:30:01Z"
+        },
         {
             "source": {
                 "id": "1b40b878c09151e8cf44a095bc8569a5",
@@ -288,6 +312,69 @@
             "url": "https://www.globenewswire.com/news-release/2025/09/22/3154111/0/en/NAVA-Leads-Call-to-Protect-Creators-in-the-Age-of-AI-at-L-A-Comic-Con.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/2e825b4d-e628-4299-8159-91e38fd4a2ab",
             "publishedAt": "2025-09-22T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "usc"
+            },
+            "title": "$4M grant from the John Templeton Foundation funds a new research frontier for the cosmos",
+            "url": "https://today.usc.edu/4m-grant-from-the-john-templeton-foundation-funds-a-new-research-frontier-for-the-cosmos/",
+            "urlToImage": "https://today.usc.edu/wp-content/uploads/2025/09/Glusevic_Lauda_Grant_Central_uscn.jpg",
+            "publishedAt": "2025-09-22 07:06:00"
+        },
+        {
+            "source": {
+                "name": "androidheadlines"
+            },
+            "title": "MediaTek Dimensity 9500 Brings Console-Level Gaming, Ultra-Efficient Performance & Much More",
+            "url": "https://www.androidheadlines.com/mediatek-dimensity-9500-official-specs-features",
+            "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2025/09/MediaTek-Dimensity-9500-featured-1420x799.webp",
+            "publishedAt": "2025-09-22 07:01:19"
+        },
+        {
+            "source": {
+                "name": "en_prnasisa"
+            },
+            "title": "Supermicro INNOVATE! EMEA 2025 - Discover the Latest Expanded AI Portfolio to Power Data Center and Edge Workloads",
+            "url": "https://en.prnasia.com/story/504403-0.shtml",
+            "urlToImage": "https://mma.prnasia.com/media2/2777673/Supermicro_INNOVATE___Latest_GPUs.jpg?p=medium600",
+            "publishedAt": "2025-09-22 07:00:00"
+        },
+        {
+            "source": {
+                "name": "itpro"
+            },
+            "title": "Acer Swift Edge 14 AI review: Maximum impact, minimum weight",
+            "url": "https://www.itpro.com/hardware/laptops/acer-swift-edge-14-ai-review-maximum-impact-minimum-weight",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/dbvwZyyL3KUcCErkfvMb5h-1280-80.jpg",
+            "publishedAt": "2025-09-22 07:00:00"
+        },
+        {
+            "source": {
+                "name": "cision"
+            },
+            "title": "MediaTek Dimensity 9500 Unleashes Best-in-Class Performance, AI Experiences, and Power Efficiency for the Next Generation of Mobile Devices",
+            "url": "https://www.prnewswire.com/news-releases/mediatek-dimensity-9500-unleashes-best-in-class-performance-ai-experiences-and-power-efficiency-for-the-next-generation-of-mobile-devices-302562586.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2778286/MediaTek_Dimensity_9500_AI_Mobile_Devices.jpg?p=original",
+            "publishedAt": "2025-09-22 07:00:00"
+        },
+        {
+            "source": {
+                "name": "en_prnasisa"
+            },
+            "title": "MediaTek Dimensity 9500 Unleashes Best-in-Class Performance, AI Experiences, and Power Efficiency for the Next Generation of Mobile Devices",
+            "url": "https://en.prnasia.com/story/504402-0.shtml",
+            "urlToImage": "https://mma.prnasia.com/media2/2778286/MediaTek_Dimensity_9500_AI_Mobile_Devices.jpg?p=medium600",
+            "publishedAt": "2025-09-22 07:00:00"
+        },
+        {
+            "source": {
+                "name": "expresscomputer"
+            },
+            "title": "AI agents are redefining what’s possible in enterprise automation",
+            "url": "https://www.expresscomputer.in/news/ai-agents-are-redefining-whats-possible-in-enterprise-automation/127965/",
+            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2025/09/22113423/EC_Dominic_Pereira_Automation_Anywhere_750.jpg",
+            "publishedAt": "2025-09-22 06:41:00"
         },
         {
             "source": {
@@ -2973,90 +3060,6 @@
             "url": "https://www.prnewswire.com/apac/news-releases/huawei-unveils-upgraded-xinghe-intelligent-wan-solution-to-achieve-determinism-over-uncertainty-302562093.html",
             "urlToImage": "https://mma.prnewswire.com/media/2777827/John_Cai_President_Router_Domain_Huawei_Data_Communication_Product_Line.jpg?p=original",
             "publishedAt": "2025-09-20 02:26:00"
-        },
-        {
-            "source": {
-                "name": "en_prnasisa"
-            },
-            "title": "Huawei Unveils Upgraded Xinghe Intelligent WAN Solution to Achieve Determinism over Uncertainty",
-            "url": "https://en.prnasia.com/story/504299-0.shtml",
-            "urlToImage": "https://mma.prnasia.com/media2/2777827/John_Cai_President_Router_Domain_Huawei_Data_Communication_Product_Line.jpg?p=medium600",
-            "publishedAt": "2025-09-20 02:26:00"
-        },
-        {
-            "source": {
-                "name": "prnewswire_apac"
-            },
-            "title": "Huawei Unveils Three-step \"ACT\" Pathway and Nine Major Solutions for Industrial Intelligence",
-            "url": "https://www.prnewswire.com/apac/news-releases/huawei-unveils-three-step-act-pathway-and-nine-major-solutions-for-industrial-intelligence-302562091.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2777859/image.jpg?p=original",
-            "publishedAt": "2025-09-20 02:12:00"
-        },
-        {
-            "source": {
-                "name": "en_prnasisa"
-            },
-            "title": "Huawei Unveils Three-step \"ACT\" Pathway and Nine Major Solutions for Industrial Intelligence",
-            "url": "https://en.prnasia.com/story/504298-0.shtml",
-            "urlToImage": "https://mma.prnasia.com/media2/2777859/image.jpg?p=medium600",
-            "publishedAt": "2025-09-20 02:12:00"
-        },
-        {
-            "source": {
-                "name": "economictimes_indiatimes"
-            },
-            "title": "Why 2 nm chips matter in India's chip revolution",
-            "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/why-2-nm-chips-matter-in-indias-chip-revolution/articleshow/124012055.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-124012061,width-300,height-225,imgsize-161638,resizemode-75/import-duty-waivers-can-power-indias-semiconductor-mission.jpg",
-            "publishedAt": "2025-09-20 01:44:41"
-        },
-        {
-            "source": {
-                "name": "freepressjournal"
-            },
-            "title": "Key Highlights From The Two-Day Luxury Innovation Summit 2025 Held In Geneva",
-            "url": "https://www.freepressjournal.in/lifestyle/key-highlights-from-the-two-day-luxury-innovation-summit-2025-held-in-geneva",
-            "urlToImage": "https://media.assettype.com/freepressjournal/2025-09-19/riz4sn70/LIS20254.jpg?width=1200",
-            "publishedAt": "2025-09-20 01:30:00"
-        },
-        {
-            "source": {
-                "name": "newswise"
-            },
-            "title": "Enabling an Electric Future, Researchers Create Electrode-Agnostic Electrolyte",
-            "url": "https://www.newswise.com/articles/enabling-an-electric-future-researchers-create-electrode-agnostic-electrolyte/?sc=rssn",
-            "urlToImage": "https://www.newswise.com/legacy/image.php?height=334&image=%2Fimages%2Fuploads%2F2025%2F09%2F19%2F68cdc5f81f3c7_Liu-lab--479A6891-Edit.jpg&width=502",
-            "publishedAt": "2025-09-20 01:06:11"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "The Essential Guide to Becoming a Successful Biotech Software Engineer",
-            "url": "https://techannouncer.com/the-essential-guide-to-becoming-a-successful-biotech-software-engineer/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/09/df347410thumbnail-332x187.jpeg",
-            "publishedAt": "2025-09-20 00:26:09"
-        },
-        {
-            "source": {
-                "name": "financialcontent"
-            },
-            "title": "This Fantastic Artificial Intelligence (AI) Stock Is on Track for a Blowout Quarter, and It Could Keep Climbing for Years to Come",
-            "url": "https://www.fool.com/investing/2025/09/20/artificial-intelligence-ai-stock-blowout-quarter/",
-            "urlToImage": "https://g.foolcdn.com/image/?h=400&op=resize&url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F833787%2Fgettyimages-artificial-intelligence-ai-motherboard-circuit.jpeg&w=400",
-            "publishedAt": "2025-09-20 00:00:00"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Adopt AI, tech does not take away jobs, Yogi tells youth",
-            "url": "https://timesofindia.indiatimes.com/city/lucknow/adopt-ai-tech-does-not-take-away-jobs-yogi-tells-youth/articleshow/124005448.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-124005446,width-1070,height-580,imgsize-17508,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "publishedAt": "2025-09-19T22:10:00Z"
         }
     ]
 }
