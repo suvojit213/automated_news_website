@@ -1,6 +1,51 @@
 {
-    "lastUpdatedAt": "2025-09-22T11:13:12.151742Z",
+    "lastUpdatedAt": "2025-09-22T12:31:37.507841Z",
     "articles": [
+        {
+            "source": {
+                "id": "a0300bc9a6e9d5b317bd6f614767231f",
+                "name": "Forbes",
+                "url": "https://www.forbes.com",
+                "country": "us"
+            },
+            "title": "AI Isn’t Replacing You, It’s Elevating You As A CEO",
+            "url": "https://www.forbes.com/sites/melissahouston/2025/09/22/ai-isnt-replacing-you-its-elevating-you-as-a-ceo/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68cef6332be642feb8411241/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-09-22T00:00:00Z"
+        },
+        {
+            "source": {
+                "id": "8e9ab8327c5f7903cc1b50470411d165",
+                "name": "GlobeNewswire",
+                "url": "https://www.globenewswire.com",
+                "country": "us"
+            },
+            "title": "Vocalbeats.AI Strengthens Commitment to AI Advancement as",
+            "url": "https://www.globenewswire.com/news-release/2025/09/22/3153724/0/en/Vocalbeats-AI-Strengthens-Commitment-to-AI-Advancement-as-Sponsor-of-Singapore-s-FutureChina-Global-Forum-2025.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/185b1f64-7494-48cc-a5e6-13a06a5326ce",
+            "publishedAt": "2025-09-22T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "financialcontent"
+            },
+            "title": "Samsung Passes Nvidia Test As Its Most Advanced Memory Chip Reportedly Meets Tough Performance Standards, Stock Soars",
+            "url": "https://stocktwits.com/news-articles/markets/equity/samsung-passes-nvidia-test-as-its-most-advanced-memory-chip-reportedly-meets-tough-performance-standards/chDQiTCR3ci",
+            "urlToImage": "https://news.stocktwits-cdn.com/large_Samsung_jpg_54eacf5749.webp",
+            "publishedAt": "2025-09-22 00:00:00"
+        },
+        {
+            "source": {
+                "id": "09131c39169c9c96230862dc4c1fa727",
+                "name": "CNA",
+                "url": "https://www.channelnewsasia.com",
+                "country": "sg"
+            },
+            "title": "A quantum breakthrough: Seizing the AI advantage",
+            "url": "https://www.channelnewsasia.com/brand-studio/quantum-breakthrough-seizing-ai-advantage-5349706",
+            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--7riLwfZQ--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2025/09/15/bstudio_canon-story2_heroimg.jpg?itok=X8dPK-QE",
+            "publishedAt": "2025-09-21T23:51:38Z"
+        },
         {
             "source": {
                 "id": "a1dd1cfddd85ce2d4ada87bc9f6a9d43",
@@ -456,6 +501,60 @@
             "url": "https://www.thenews.com.pk/latest/1345231-pakistani-firms-exposed-by-poor-cyber-hygiene-report",
             "urlToImage": "https://www.thenews.com.pk/assets/uploads/updates/2025-09-21/1345231_084700_updates.jpg",
             "publishedAt": "2025-09-21T01:00:00Z"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "AI Coding Assistants Learn Some Manners with Read-Only Mode",
+            "url": "https://hackernoon.com/ai-coding-assistants-learn-some-manners-with-read-only-mode",
+            "urlToImage": "https://hackernoon.imgix.net/images/2jqChkrv03exBUgkLrDzIbfM99q2-va020i0.jpeg",
+            "publishedAt": "2025-09-21 23:59:59"
+        },
+        {
+            "source": {
+                "name": "biztoc"
+            },
+            "title": "If I Could Only Buy and Hold a Single Stock, This Would Be It",
+            "url": "https://biztoc.com/x/450cd4c36bb83ccc",
+            "urlToImage": "https://cdn.biztoc.com/450cd4c36bb83ccc_sq.webp",
+            "publishedAt": "2025-09-21 23:58:18"
+        },
+        {
+            "source": {
+                "name": "economictimes_indiatimes"
+            },
+            "title": "Nvidia and Abu Dhabi institute launch joint AI and robotics lab in the UAE",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-and-abu-dhabi-institute-launch-joint-ai-and-robotics-lab-in-the-uae/articleshow/124038140.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-14754,resizemode-75,msid-124038140/tech/artificial-intelligence/nvidia-and-abu-dhabi-institute-launch-joint-ai-and-robotics-lab-in-the-uae.jpg",
+            "publishedAt": "2025-09-21 23:44:43"
+        },
+        {
+            "source": {
+                "name": "computerweekly"
+            },
+            "title": "NUS supercomputer enters global Top500",
+            "url": "https://www.computerweekly.com/news/366631370/NUS-supercomputer-enters-global-Top500",
+            "urlToImage": "https://www.computerweekly.com/visuals/German/article/datacentre-storage-adobe_searchsitetablet_520X173.jpg",
+            "publishedAt": "2025-09-21 23:35:00"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "ScaleFlux CSD 5320 SSD: PCIe Gen5 Drive with Compression Hits 14GB/s",
+            "url": "https://www.webpronews.com/scaleflux-csd-5320-ssd-pcie-gen5-drive-with-compression-hits-14gb-s/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-18588bee-851a-4636-8fb9-305c6a4f616c.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-09-21 23:29:29"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Apple’s In-House Silicon Powers AI Edge in iPhone 17 Innovation",
+            "url": "https://www.webpronews.com/apples-in-house-silicon-powers-ai-edge-in-iphone-17-innovation/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-97ee1618-5fc0-4197-b972-f5fb2f7626c7.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-09-21 23:28:08"
         },
         {
             "source": {
@@ -3012,126 +3111,6 @@
             "url": "https://www.shropshirestar.com/news/business/2025/09/19/telford-wrekin-council-launches-free-ai-support-programme-for-small-businesses/",
             "urlToImage": "https://resizer.nationalworld.com/4dec153f-8440-4e85-b20c-ee3d3c4ca15b.jpg?tr=w-1200",
             "publishedAt": "2025-09-19T11:16:32Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Coral Protocol’s Remote Agents Is A Powerful Tool For Agent-To-Agent Collaboration",
-            "url": "https://techbullion.com/coral-protocols-remote-agents-is-a-powerful-tool-for-agent-to-agent-collaboration/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/Screenshot-2025-09-19-160602.png",
-            "publishedAt": "2025-09-19T11:10:00Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Apple used AI to uncover new blood pressure notification feature in Watch",
-            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/apple-used-ai-uncover-new-blood-pressure-notification-feature-watch-2025-09-19/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/7PEJHL2UPFMDDPMKI74QNDBN3I.jpg?auth=05e5110df454541a53024afbe14a874553ab12672c779907fd30fb55cdb88d08&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-09-19T11:04:52Z"
-        },
-        {
-            "source": {
-                "id": "43ce1d937b6aed9ea231b649cb2b7b4b",
-                "name": "The Dallas Morning News",
-                "url": "https://www.dallasnews.com",
-                "country": "us"
-            },
-            "title": "Mary Kay is applying AI: North Texas brand uses tech to simplify makeup choices",
-            "url": "https://www.dallasnews.com/business/retail/2025/09/19/mary-kay-is-applying-ai-north-texas-brand-uses-tech-to-simplify-makeup-choices/",
-            "urlToImage": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/LQYEQQUYMJENJDMZUMK5GRHM3M.png?auth=b3d871bd10be8598d7c9857e0023c80d40cb8af07eb40a4e0f2f798067e17f85&quality=80&width=1200&height=630&smart=true",
-            "publishedAt": "2025-09-19T11:00:01Z"
-        },
-        {
-            "source": {
-                "id": "90a6e6fbc82cfa821ac49fdb5c404789",
-                "name": "NewsX",
-                "url": "https://www.newsx.com",
-                "country": "in"
-            },
-            "title": "iValue Infosolutions IPO: Mix Response On Day 2 Subscription, What’s Next For This IT Solutions Provider?",
-            "url": "https://www.newsx.com/business/ivalue-infosolutions-ipo-mix-response-on-day-2-subscription-whats-next-for-this-it-solutions-provider-74324/",
-            "urlToImage": "https://www.newsx.com/wp-content/uploads/2025/09/ipo-news_14.jpg",
-            "publishedAt": "2025-09-19T10:43:44Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "The Risks and Advantages of A.I. for Content Creators",
-            "url": "https://techbullion.com/the-risks-and-advantages-of-a-i-for-content-creators/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/212-1000x600.webp",
-            "publishedAt": "2025-09-19T10:43:27Z"
-        },
-        {
-            "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
-                "country": "in"
-            },
-            "title": "What fuels AI? Follow the lifecycle of a machine-learning model",
-            "url": "https://www.hindustantimes.com/lifestyle/art-culture/what-fuels-ai-follow-the-lifecycle-of-a-machine-learning-model-101758278541564.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/09/19/1600x900/Through-its-lifecycle--as-the-AI-model-adapts-by--_1758278539416.jpeg",
-            "publishedAt": "2025-09-19T10:42:21Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "New teacher in town: OpenAI’s big test in Indian schools",
-            "url": "https://www.livemint.com/opinion/online-views/ai-education-india-technology-openai-chatgpt-schools-indian-teacher-training-edtech-dpdp-classrooms-copyright-nep-policy-11758256590916.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2025/09/19/1600x900/logo/Pausing-Artificial-Intelligence-Petition-0_1680266_1758258172891_1758258173176.jpg",
-            "publishedAt": "2025-09-19T10:36:28Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "AI in Cybersecurity: Automating Threat Detection and Response",
-            "url": "https://techbullion.com/ai-in-cybersecurity-automating-threat-detection-and-response/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/fkgug2uzTQ6fNfYin7286g-1000x600.webp",
-            "publishedAt": "2025-09-19T09:37:51Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Benefits of Implementing AI in Small Business Operations",
-            "url": "https://techbullion.com/benefits-of-implementing-ai-in-small-business-operations/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/ROGpynv2SEq3wtKyQ0tk2g-1000x600.webp",
-            "publishedAt": "2025-09-19T09:32:15Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Quantum Computing and IT: Unlocking Unprecedented Data Insights",
-            "url": "https://techbullion.com/quantum-computing-and-it-unlocking-unprecedented-data-insights/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/jYAqsJkBQjeD1Wxc1N2jHQ-1000x600.webp",
-            "publishedAt": "2025-09-19T09:22:18Z"
         }
     ]
 }
