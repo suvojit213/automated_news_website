@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-09-22T15:16:44.940874Z",
+    "lastUpdatedAt": "2025-09-22T16:19:25.164409Z",
     "articles": [
+        {
+            "source": {
+                "id": "4b9101ef61d45607a32072a7504f5fb0",
+                "name": "The Japan Times ",
+                "url": "https://www.japantimes.co.jp",
+                "country": "jp"
+            },
+            "title": "Nissan revamps ProPilot to rival Tesla's driver-assist technology",
+            "url": "https://www.japantimes.co.jp/business/2025/09/22/companies/nissan-propilot-driver-assist-tech/",
+            "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2025/09/22/495205.jpg?v=3.1",
+            "publishedAt": "2025-09-22T04:16:59Z"
+        },
+        {
+            "source": {
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
+                "country": "in"
+            },
+            "title": "US Crackdown On H1-B Visa To Fast-Track AI Adoption, Believes Former Tech Mahindra CEO",
+            "url": "https://www.ndtvprofit.com/business/h1b-visa-fee-hike-to-fast-track-ai-adoption-says-former-tech-mahindra-ceo-cp-gurnani",
+            "urlToImage": "https://media.assettype.com/bloombergquint%2F2023-11%2Faae49faa-cc76-44e6-ad9b-461e3e51039a%2F57w_Vr3p_400x400.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+            "publishedAt": "2025-09-22T03:51:58Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "0G Labs Launches Aristotle Mainnet With Largest Day-One Ecosystem for Decentralized AI",
+            "url": "https://techbullion.com/0g-labs-launches-aristotle-mainnet-with-largest-day-one-ecosystem-for-decentralized-ai/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/100partners_1200x720_1_17584786881qSdccIs2E-1000x600.jpg",
+            "publishedAt": "2025-09-22T03:23:07Z"
+        },
         {
             "source": {
                 "id": "57f726ae1c2926b0eba0b6cd65467921",
@@ -96,6 +132,54 @@
             "url": "https://www.globenewswire.com/news-release/2025/09/22/3153724/0/en/Vocalbeats-AI-Strengthens-Commitment-to-AI-Advancement-as-Sponsor-of-Singapore-s-FutureChina-Global-Forum-2025.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/185b1f64-7494-48cc-a5e6-13a06a5326ce",
             "publishedAt": "2025-09-22T00:00:00Z"
+        },
+        {
+            "source": {
+                "id": "8e9ab8327c5f7903cc1b50470411d165",
+                "name": "GlobeNewswire",
+                "url": "https://www.globenewswire.com",
+                "country": "us"
+            },
+            "title": "NAVA Leads Call to Protect Creators in the Age of AI at",
+            "url": "https://www.globenewswire.com/news-release/2025/09/22/3154111/0/en/NAVA-Leads-Call-to-Protect-Creators-in-the-Age-of-AI-at-L-A-Comic-Con.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/2e825b4d-e628-4299-8159-91e38fd4a2ab",
+            "publishedAt": "2025-09-22T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "xda_developers"
+            },
+            "title": "Windows 11 25H2 is in the final stages of release as Microsoft preps for the big day",
+            "url": "https://www.xda-developers.com/windows-11-25h2-final-stages-release/",
+            "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/09/windows-11-update-1.jpg",
+            "publishedAt": "2025-09-22 04:12:42"
+        },
+        {
+            "source": {
+                "name": "abiresearch"
+            },
+            "title": "Top Five AI Server Companies for Data Centers and Enterprises",
+            "url": "https://www.abiresearch.com/blog/top-five-ai-server-companies",
+            "urlToImage": "https://www.abiresearch.com/hubfs/AI-Generated%20Media/Images/The%20image%20depicts%20a%20sleek%20modern%20data%20center%20filled%20with%20rows%20of%20highperformance%20AI%20servers%20Each%20server%20rack%20is%20illuminated%20by%20soft%20blue%20LED%20lights%20showcasing%20the%20advanced%20technology%20within%20The%20environment%20is%20cool%20with%20visible%20air%20conditioning%20units.png",
+            "publishedAt": "2025-09-22 04:00:00"
+        },
+        {
+            "source": {
+                "name": "thestatesman"
+            },
+            "title": "AI, branding will need a human connection",
+            "url": "https://www.thestatesman.com/opinion/ai-branding-will-need-a-human-connection-1503489697.html",
+            "urlToImage": "https://www.thestatesman.com/wp-content/uploads/2025/09/IMG_0281.webp",
+            "publishedAt": "2025-09-22 03:53:58"
+        },
+        {
+            "source": {
+                "name": "thehindu"
+            },
+            "title": "How different are supercomputers to normal computers?",
+            "url": "https://www.thehindu.com/sci-tech/technology/how-different-are-supercomputers-to-normal-computers/article70076989.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/1lzsg7/article70078136.ece/alternates/LANDSCAPE_1200/Super_Computer_3.jpg",
+            "publishedAt": "2025-09-22 03:35:54"
         },
         {
             "source": {
@@ -2991,102 +3075,6 @@
             "url": "https://www.manilatimes.net/2025/09/20/tmt-newswire/nona-launches-as-the-ph-first-home-gpt/2187255",
             "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/09/19/753772.jpeg",
             "publishedAt": "2025-09-19T16:05:00Z"
-        },
-        {
-            "source": {
-                "id": "c24832368cd2d9132598ad4bef08e0ab",
-                "name": "Investopedia",
-                "url": "https://www.investopedia.com",
-                "country": "us"
-            },
-            "title": "Netskope Stock Pops Friday, Extending Post-IPO Gains",
-            "url": "https://www.investopedia.com/netskope-stock-pops-friday-extending-post-ipo-gains-11813426",
-            "urlToImage": "https://www.investopedia.com/thmb/_VgbuZksdWXdXKc-paEdWPM642c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2235544100-96b8946ac11049f5ad3fa409757d089d.jpg",
-            "publishedAt": "2025-09-19T16:00:54Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "OpenAI to spend $100 billion over five years on backup servers: Report",
-            "url": "https://economictimes.indiatimes.com/tech/technology/openai-to-spend-100-billion-over-five-years-on-backup-servers-report/articleshow/124001940.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-17612,resizemode-75,msid-124001940/tech/technology/openai-to-spend-100-billion-over-five-years-on-backup-servers-report.jpg",
-            "publishedAt": "2025-09-19T15:59:59Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Mauritius IT Minister Visits C-DOT, Explores Disaster Alerts & 5G Solutions",
-            "url": "https://www.devdiscourse.com/article/law-order/3633778-mauritius-it-minister-visits-c-dot-explores-disaster-alerts-5g-solutions",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/19_09_2025_20_39_17_5159063.jfif?width=920&format=jpeg",
-            "publishedAt": "2025-09-19T15:22:06Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Seneca Polytechnic launches its first-ever master’s degree - a program in AI",
-            "url": "https://www.manilatimes.net/2025/09/19/tmt-newswire/globenewswire/seneca-polytechnic-launches-its-first-ever-masters-degree-a-program-in-ai/2187432",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/09/19/754107.png",
-            "publishedAt": "2025-09-19T15:03:07Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "AI is changing how Harvard students learn: Professors balance technology with academic integrity",
-            "url": "https://timesofindia.indiatimes.com/education/news/ai-is-changing-how-harvard-students-learn-professors-balance-technology-with-academic-integrity/articleshow/123998476.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-123998459,width-1070,height-580,imgsize-211160,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "publishedAt": "2025-09-19T15:00:00Z"
-        },
-        {
-            "source": {
-                "id": "a8984f03fe66dae9745793f6560aa444",
-                "name": "Newsmax",
-                "url": "https://www.newsmax.com",
-                "country": "us"
-            },
-            "title": "Pet Smart Collar Provides Real-Time Health Data",
-            "url": "https://www.newsmax.com/health/health-news/collar-smart-pets/2025/09/19/id/1227058/",
-            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=bf847919-a443-4160-b1a2-91c9b3f38ff7&SiteName=Newsmax",
-            "publishedAt": "2025-09-19T14:59:01Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "OpenAI taps Apple supplier to make AI device: report",
-            "url": "https://economictimes.indiatimes.com/tech/technology/openai-taps-apple-supplier-to-make-ai-device-report/articleshow/124000881.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-70246,resizemode-75,msid-124000881/tech/technology/openai-taps-apple-supplier-to-make-ai-device-report.jpg",
-            "publishedAt": "2025-09-19T14:40:46Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Bihar's Digital Defense: Unveiling New Cybercrime Combat Cell",
-            "url": "https://www.devdiscourse.com/article/law-order/3633702-bihars-digital-defense-unveiling-new-cybercrime-combat-cell",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/19_09_2025_14_23_37_5548778.png?width=920&format=jpeg",
-            "publishedAt": "2025-09-19T14:23:37Z"
         }
     ]
 }
