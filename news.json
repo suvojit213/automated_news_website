@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-09-22T04:18:17.633227Z",
+    "lastUpdatedAt": "2025-09-22T05:15:12.996677Z",
     "articles": [
+        {
+            "source": {
+                "id": "44d394a4e765f82b49b452e4302a72b0",
+                "name": "Business Standard",
+                "url": "https://www.business-standard.com",
+                "country": "in"
+            },
+            "title": "Auto firms tap digital universe, coaching staff to steer leads to showrooms",
+            "url": "https://www.business-standard.com/specials/news/auto-firms-tap-digital-universe-coaching-staff-to-steer-leads-to-showrooms-125092100796_1.html",
+            "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-09/21/full/1758473195-2913.jpg",
+            "publishedAt": "2025-09-21T16:46:21Z"
+        },
         {
             "source": {
                 "id": "7006f2c40c7cc01195608dbfd60259b3",
@@ -372,6 +384,15 @@
             "url": "https://www.thenews.com.pk/latest/1345231-pakistani-firms-exposed-by-poor-cyber-hygiene-report",
             "urlToImage": "https://www.thenews.com.pk/assets/uploads/updates/2025-09-21/1345231_084700_updates.jpg",
             "publishedAt": "2025-09-21T01:00:00Z"
+        },
+        {
+            "source": {
+                "name": "xda_developers"
+            },
+            "title": "eGPUs over Thunderbolt sound great, but they come with limitations",
+            "url": "https://www.xda-developers.com/egpus-over-thunderbolt-sound-great-but-be-aware-limitations/",
+            "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/07/laptop-with-egpu-3.jpg",
+            "publishedAt": "2025-09-21 16:30:19"
         },
         {
             "source": {
@@ -3162,30 +3183,6 @@
             "url": "https://krdo.com/news/2025/09/18/ai-politics-a-fringe-party-in-japan-wants-a-chatbot-penguin-to-be-its-leader/",
             "urlToImage": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
             "publishedAt": "2025-09-19T05:51:53Z"
-        },
-        {
-            "source": {
-                "id": "d5a02d07558c5563d72576efc406e608",
-                "name": "ABC17News.com",
-                "url": "https://abc17news.com",
-                "country": "us"
-            },
-            "title": "AI have a dream? A fringe party in Japan wants a chatbot penguin to be its leader",
-            "url": "https://abc17news.com/news/national-world/cnn-world/2025/09/19/ai-have-a-dream-a-fringe-party-in-japan-wants-a-chatbot-penguin-to-be-its-leader/",
-            "urlToImage": "https://abc17news.b-cdn.net/abc17news.com/2023/08/kmiz-860x484.webp",
-            "publishedAt": "2025-09-19T05:51:53Z"
-        },
-        {
-            "source": {
-                "id": "26269dbc42635df9af8c24f3cdab8e37",
-                "name": "Cable News Network",
-                "url": "https://edition.cnn.com",
-                "country": "us"
-            },
-            "title": "AI politics: A fringe party in Japan wants a chatbot penguin to be its leader",
-            "url": "https://edition.cnn.com/2025/09/19/asia/japan-political-party-ai-leader-intl-hnk",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25239105473543.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2025-09-19T05:49:00Z"
         }
     ]
 }
