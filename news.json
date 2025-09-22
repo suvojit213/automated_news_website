@@ -1,5 +1,5 @@
 {
-    "lastUpdatedAt": "2025-09-22T03:03:54.470004Z",
+    "lastUpdatedAt": "2025-09-22T04:18:17.633227Z",
     "articles": [
         {
             "source": {
@@ -372,6 +372,33 @@
             "url": "https://www.thenews.com.pk/latest/1345231-pakistani-firms-exposed-by-poor-cyber-hygiene-report",
             "urlToImage": "https://www.thenews.com.pk/assets/uploads/updates/2025-09-21/1345231_084700_updates.jpg",
             "publishedAt": "2025-09-21T01:00:00Z"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "How to Handle Migrations in Express Using Sequelize",
+            "url": "https://hackernoon.com/how-to-handle-migrations-in-express-using-sequelize",
+            "urlToImage": "https://hackernoon.imgix.net/images/Y2OaAQy5glhYt11yJqbznON1vDV2-4m12djb.png",
+            "publishedAt": "2025-09-21 16:12:21"
+        },
+        {
+            "source": {
+                "name": "techaeris"
+            },
+            "title": "Qualcomm announces Quick Charge 5+",
+            "url": "https://techaeris.com/2025/09/21/qualcomm-announces-quick-charge-5/",
+            "urlToImage": "https://techaeris.com/wp-content/uploads/2025/09/Qualcomm-Quick-Charge-5-Plus.jpg",
+            "publishedAt": "2025-09-21 15:41:52"
+        },
+        {
+            "source": {
+                "name": "zephyrnet"
+            },
+            "title": "Exploring the Powerhouse: A Deep Dive into Cutting-Edge AI Chip Technology",
+            "url": "https://zephyrnet.com/exploring-the-powerhouse-a-deep-dive-into-cutting-edge-ai-chip-technology/",
+            "urlToImage": "https://zephyrnet.com/wp-content/uploads/img-0bWWc4rPzmN9tDG9GE6MLnCr.png",
+            "publishedAt": "2025-09-21 15:06:36"
         },
         {
             "source": {
@@ -3159,42 +3186,6 @@
             "url": "https://edition.cnn.com/2025/09/19/asia/japan-political-party-ai-leader-intl-hnk",
             "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25239105473543.jpg?c=16x9&q=w_800,c_fill",
             "publishedAt": "2025-09-19T05:49:00Z"
-        },
-        {
-            "source": {
-                "id": "a3391c15eb1d3136f9b9dd080940d0e8",
-                "name": "The Nation",
-                "url": "https://www.nation.com.pk",
-                "country": "pk"
-            },
-            "title": "Lahore Police launch cutting-edge AI system for crime prediction",
-            "url": "https://www.nation.com.pk/19-Sep-2025/lahore-police-launch-cutting-edge-ai-system-for-crime-prediction",
-            "urlToImage": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
-            "publishedAt": "2025-09-19T05:40:54Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "ChatGPT Helped Me Ace Finals While Sleeping More",
-            "url": "https://techbullion.com/chatgpt-helped-me-ace-finals-while-sleeping-more/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/unnamed-83.png",
-            "publishedAt": "2025-09-19T05:17:36Z"
-        },
-        {
-            "source": {
-                "id": "a3391c15eb1d3136f9b9dd080940d0e8",
-                "name": "The Nation",
-                "url": "https://www.nation.com.pk",
-                "country": "pk"
-            },
-            "title": "New AI tool predicts risk of over 1,000 diseases in advance: Report",
-            "url": "https://www.nation.com.pk/19-Sep-2025/new-ai-tool-predicts-risk-of-over-1-000-diseases-in-advance-report",
-            "urlToImage": "https://www.nation.com.pk/digital_images/large/2025-09-19/new-ai-tool-predicts-risk-of-over-1-000-diseases-in-advance-report-1758257887-1554.jpg",
-            "publishedAt": "2025-09-19T04:58:13Z"
         }
     ]
 }
