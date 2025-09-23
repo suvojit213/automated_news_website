@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-09-23T10:15:47.514664Z",
+    "lastUpdatedAt": "2025-09-23T11:12:31.738995Z",
     "articles": [
+        {
+            "source": {
+                "id": "6f97df9bf07dbbc5b124859805bffd6f",
+                "name": "The Street",
+                "url": "https://www.thestreet.com",
+                "country": "us"
+            },
+            "title": "Hundreds of flights canceled as ransomware drama continues",
+            "url": "https://www.thestreet.com/travel/hundreds-of-flights-canceled-as-ransomware-drama-continues-",
+            "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjE2NDk4NDgwNzU4MTM4MjIz/airport_security_tsa_cp_072225.jpg",
+            "publishedAt": "2025-09-22T22:37:00Z"
+        },
+        {
+            "source": {
+                "id": "0d429ea54fdbe8e34c582aa31bc81aba",
+                "name": "The Boston Globe",
+                "url": "https://www.bostonglobe.com",
+                "country": "us"
+            },
+            "title": "Trump’s nuclear ‘renaissance’ rests on risky plan for radioactive waste",
+            "url": "https://www.bostonglobe.com/2025/09/22/nation/trumps-nuclear-renaissance-rests-risky-plan-radioactive-waste/",
+            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/OSJI3NHHYPKMXGMGNC5BGOTO4A.jpg?auth=be1c9ec6c7781e68b3c844faac0fc5f58c28166c7d9c693133ad3a94cb7f5c9f&width=1440",
+            "publishedAt": "2025-09-22T22:16:44Z"
+        },
         {
             "source": {
                 "id": "f5081afeaba654292dd91fffd29f9dd4",
@@ -1563,6 +1587,24 @@
         },
         {
             "source": {
+                "name": "cnbc"
+            },
+            "title": "India is betting $18 billion to build a chip powerhouse. Here’s what it means",
+            "url": "https://www.cnbc.com/2025/09/23/india-is-betting-18-billion-to-build-a-chip-powerhouse-heres-what-it-means.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108201862-1758524798354-gettyimages-2201335222-talukdar-advantag250225_nprOn.jpeg?h=1080&v=1758524812&w=1920",
+            "publishedAt": "2025-09-22 22:58:37"
+        },
+        {
+            "source": {
+                "name": "kdhnews"
+            },
+            "title": "What to know about the H-1B visa Trump has targeted with $100,000 fees, generating confusion, fear",
+            "url": "https://kdhnews.com/business/technology/what-to-know-about-the-h-1b-visa-trump-has-targeted-with-100-000-fees/article_14f2bddc-c4c5-520b-bfd2-a90904a3ab88.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/assets/v3/editorial/9/36/936b0711-59fa-5e36-9e46-bad5ce2e6953/68d193a8028df.image.jpg?resize=750%2C500",
+            "publishedAt": "2025-09-22 22:34:26"
+        },
+        {
+            "source": {
                 "name": "tomsguide"
             },
             "title": "Walmart's GeForce Week sale has dozens of epic gaming deals — here's 7 laptops I recommend from $599",
@@ -3114,54 +3156,6 @@
             "url": "https://www.telegraph.co.uk/tv/0/actors-living-in-fear-of-robots/",
             "urlToImage": "https://www.telegraph.co.uk/content/dam/tv/2025/09/19/TELEMMGLPICT000440859003_17583009846680_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg?impolicy=OG-Standard",
             "publishedAt": "2025-09-21T10:00:00Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - Balancing AI and Human Judgment in Recruitment: The Genius HRTech Report",
-            "url": "https://www.devdiscourse.com/live-discourse/8922-artificial-intelligence-revolutionizing-every-aspect-of-life",
-            "urlToImage": "https://www.devdiscourse.com?width=1280&format=jpeg",
-            "publishedAt": "2025-09-21T09:17:20Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Hacked Social Media Account Sparks Cybersecurity Concerns in Maharashtra",
-            "url": "https://www.devdiscourse.com/article/law-order/3635339-hacked-social-media-account-sparks-cybersecurity-concerns-in-maharashtra",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/28_08_2024_14_41_03_7331841.png?width=920&format=jpeg",
-            "publishedAt": "2025-09-21T09:05:53Z"
-        },
-        {
-            "source": {
-                "id": "e9207083a357fb7e76b38e485888ebe7",
-                "name": "manilastandard.net",
-                "url": "https://manilastandard.net",
-                "country": "ph"
-            },
-            "title": "AI Headlines the 54th National Marketing Conference",
-            "url": "https://manilastandard.net/spotlight/314645467/ai-headlines-the-54th-national-marketing-conference.html",
-            "urlToImage": "https://cdn.manilastandard.net/wp-content/uploads/2025/09/1000014732.jpg",
-            "publishedAt": "2025-09-21T08:14:10Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "XA37P: Ushering in Inclusive, Scalable, and Transparent Technologies",
-            "url": "https://techbullion.com/xa37p-ushering-in-inclusive-scalable-and-transparent-technologies/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/t-tribe-social-1200x630-1-1000x600.jpg",
-            "publishedAt": "2025-09-21T08:08:41Z"
         }
     ]
 }
