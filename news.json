@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2025-09-23T04:17:58.816174Z",
+    "lastUpdatedAt": "2025-09-23T05:14:59.685989Z",
     "articles": [
+        {
+            "source": {
+                "id": "77b86639d1384ac68141803ec5db27c0",
+                "name": "NBC News",
+                "url": "https://www.nbcnews.com",
+                "country": "us"
+            },
+            "title": "Chipmaker Nvidia to invest $100 billion in OpenAI",
+            "url": "https://www.nbcnews.com/business/business-news/chipmaker-nvidia-invest-100-billion-openai-rcna232974",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250922-altman-huang-mb-1750-fb0d22.jpg",
+            "publishedAt": "2025-09-22T17:11:41Z"
+        },
+        {
+            "source": {
+                "id": "79baacd62152cf257ee35e8c0bec19a2",
+                "name": "UPI News",
+                "url": "https://www.upi.com",
+                "country": "us"
+            },
+            "title": "CEO's in leadership shakeup",
+            "url": "https://www.upi.com/Top_News/US/2025/09/22/Oracle-CEO-Magouyrk-Sicilia-artificial-intelligence-AI-Larry-Ellison/3061758556287/",
+            "urlToImage": "https://cdnph.upi.com/sv/ph/og/upi/3061758556287/2025/1/b98b8715482f741bed4621c0dcadc043/v1.5/Oracle-appoints-two-co-CEOs-in-leadership-shakeup.jpg",
+            "publishedAt": "2025-09-22T17:10:54Z"
+        },
+        {
+            "source": {
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
+                "country": "in"
+            },
+            "title": "Nvidia To Invest $100 Billion In OpenAI For Data Centers",
+            "url": "https://www.ndtvprofit.com/technology/nvidia-to-invest-usd-100-billion-in-openai-for-data-centers",
+            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-09-22%2Fem0kweuo%2F440130931.jpg?rect=0%2C226%2C4000%2C2100&w=1200&auto=format%2Ccompress&ogImage=true",
+            "publishedAt": "2025-09-22T17:06:24Z"
+        },
+        {
+            "source": {
+                "id": "17d7c2645f485578130862e0c8dd9480",
+                "name": "The Mercury News",
+                "url": "https://www.mercurynews.com",
+                "country": "us"
+            },
+            "title": "California issues historic fine over lawyer’s ChatGPT fabrications",
+            "url": "https://www.mercurynews.com/2025/09/22/california-issues-historic-fine-over-lawyers-chatgpt-fabrications/",
+            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/09/10092023_CARE-Court_AH_10.webp?w=1023&h=682",
+            "publishedAt": "2025-09-22T17:00:55Z"
+        },
+        {
+            "source": {
+                "id": "dcb757ba5480d7edec9ca152d58b7d3d",
+                "name": "Swissinfo (EN)",
+                "url": "https://www.swissinfo.ch",
+                "country": "ch"
+            },
+            "title": "Stocks Get Tech Lift as Nvidia Rekindles AI Hopes: Markets Wrap",
+            "url": "https://www.swissinfo.ch/eng/stocks-get-tech-lift-as-nvidia-rekindles-ai-hopes%3a-markets-wrap/90042383",
+            "urlToImage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1756792941",
+            "publishedAt": "2025-09-22T17:00:03Z"
+        },
+        {
+            "source": {
+                "id": "1b697445987e8a33f6c82842e17d60d9",
+                "name": "Bnn Bloomberg",
+                "url": "https://www.bnnbloomberg.ca",
+                "country": "ca"
+            },
+            "title": "Nvidia to invest US$100 billion in OpenAI",
+            "url": "https://www.bnnbloomberg.ca/business/2025/09/22/nvidia-to-invest-us100-billion-in-openai/",
+            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/HOTVFEFCQHYNVWF2UAX4JIAK5U.jpg?smart=true&auth=2eadc7afe5ac42015a78c618c6b3f7308628b05d9db8b1fe161f5b2635c478ea&width=1200&height=630",
+            "publishedAt": "2025-09-22T16:44:47Z"
+        },
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "Diagnostic tool enables rapid leukemia subtype classification",
+            "url": "https://medicalxpress.com/news/2025-09-diagnostic-tool-enables-rapid-leukemia.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/diagnostic-tool-enable.jpg",
+            "publishedAt": "2025-09-22T16:38:04Z"
+        },
         {
             "source": {
                 "id": "72bbcd9c095a3d51c97cdda7a97dba31",
@@ -1104,6 +1188,96 @@
             "url": "https://www.globenewswire.com/news-release/2025/09/22/3154111/0/en/NAVA-Leads-Call-to-Protect-Creators-in-the-Age-of-AI-at-L-A-Comic-Con.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/2e825b4d-e628-4299-8159-91e38fd4a2ab",
             "publishedAt": "2025-09-22T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "pcworld_us"
+            },
+            "title": "Desloc D110 Plus review: There are better inexpensive smart locks",
+            "url": "https://www.pcworld.com/article/2909608/desloc-d110-plus-review.html",
+            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/09/Deslock-interior-and-exterior-escutcheons.jpg?quality=50&strip=all",
+            "publishedAt": "2025-09-22 17:00:00"
+        },
+        {
+            "source": {
+                "name": "analyticsindiamag"
+            },
+            "title": "OpenAI, NVIDIA Sign $100 Billion Deal to Deploy 10 GW of AI Systems",
+            "url": "https://analyticsindiamag.com/ai-news-updates/openai-nvidia-sign-100-billion-deal-to-deploy-10-gw-of-ai-systems/",
+            "urlToImage": "https://analyticsindiamag.com/wp-content/uploads/2024/02/Jensen-Huang-His-Newfound-Obsession-.jpg",
+            "publishedAt": "2025-09-22 16:59:49"
+        },
+        {
+            "source": {
+                "name": "thelincolnianonline"
+            },
+            "title": "Top Industrial Stocks To Follow Today – September 21st",
+            "url": "https://www.thelincolnianonline.com/2025/09/22/top-industrial-stocks-to-follow-today-september-21st.html",
+            "urlToImage": "https://www.marketbeat.com/logos/tesla-inc-logo-1200x675.png?v=20221020135629",
+            "publishedAt": "2025-09-22 16:58:44"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Nvidia and OpenAI’s $100B Deal for 10GW AI Data Centers by 2026",
+            "url": "https://www.webpronews.com/nvidia-and-openais-100b-deal-for-10gw-ai-data-centers-by-2026/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-4cfd30e0-e1e4-4ae3-bebf-8fdcd3f6de83.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-09-22 16:55:47"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Oracle Invests $5B in UK Cloud Expansion for AI and Data Services",
+            "url": "https://www.webpronews.com/oracle-invests-5b-in-uk-cloud-expansion-for-ai-and-data-services/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-3a150295-43c5-4157-a3bb-9e5cfbcd039b.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-09-22 16:54:37"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "FBI warns hackers are impersonating crime reporting sites to steal your personal data — here’s how to tell",
+            "url": "https://www.tomsguide.com/computing/online-security/fbi-warns-hackers-are-impersonating-crime-reporting-sites-to-steal-your-personal-data-heres-how-to-tell",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/gNCNRoAsizedMsrzwHCpMJ-1280-80.jpg",
+            "publishedAt": "2025-09-22 16:52:54"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "MediaTek Dimensity 9500 Challenges Qualcomm with 41% Performance Boost and AI Advancements",
+            "url": "https://www.webpronews.com/mediatek-dimensity-9500-challenges-qualcomm-with-41-performance-boost-and-ai-advancements/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-ca9aed2d-35d1-4931-89f0-61b7cc2e55b8.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-09-22 16:50:44"
+        },
+        {
+            "source": {
+                "name": "businesstoday"
+            },
+            "title": "Nvidia and OpenAI unveil $100 billion partnership to build AI factories powering next-gen models",
+            "url": "https://www.businesstoday.in/tech-today/news/story/nvidia-and-openai-unveil-100-billion-partnership-to-build-ai-factories-powering-next-gen-models-495184-2025-09-22",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202509/68d17dbfbc72a-both-companies-said-they-expect-to-finalise-the-terms-of-the-partnership-in-the-coming-weeks-224756876-16x9.png",
+            "publishedAt": "2025-09-22 16:48:09"
+        },
+        {
+            "source": {
+                "name": "newsable_asianetnews"
+            },
+            "title": "Nvidia Plans $100 Billion Investment To Build 10-Gigawatt AI Network With OpenAI",
+            "url": "https://newsable.asianetnews.com/markets/nvidia-plans-100-billion-investment-to-build-10-gigawatt-ai-network-with-openai-articleshow-9hsa8tf",
+            "urlToImage": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-58e900f2-83cf-4018-9caa-26b41257e4a5.webp",
+            "publishedAt": "2025-09-22 16:41:57"
+        },
+        {
+            "source": {
+                "name": "guardonline"
+            },
+            "title": "Google faces antitrust déjà vu as US seeks to break up its digital advertising business",
+            "url": "https://www.guardonline.com/news/national/google-faces-antitrust-d-j-vu-as-us-seeks-to-break-up-its-digital-advertising/article_64fab134-70f5-5433-9fdf-11d20c0ea511.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/guardonline.com/content/tncms/custom/image/8c85f70a-233c-11ef-856f-1bed8b8f5005.jpg?resize=200%2C75",
+            "publishedAt": "2025-09-22 16:40:05"
         },
         {
             "source": {
@@ -2940,165 +3114,6 @@
             "url": "https://hackernoon.com/9-21-2025-techbeat",
             "urlToImage": "https://hackernoon.imgix.net/images/hackernoon_newsletter_890_cddy0bkn9010kvojnvqcd4vv.png",
             "publishedAt": "2025-09-21 06:10:55"
-        },
-        {
-            "source": {
-                "name": "geeky_gadgets"
-            },
-            "title": "OpenAI GPT-5 Codex Tested : Capabilities, Limitations and Real-World Performance",
-            "url": "https://www.geeky-gadgets.com/gpt-5-codex-coding-performance/",
-            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/09/ai-assisted-coding-gpt-5-review.webp",
-            "publishedAt": "2025-09-21 05:58:07"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Consensus Loss Proves AI Can Be Both Accurate and Transparent",
-            "url": "https://hackernoon.com/consensus-loss-proves-ai-can-be-both-accurate-and-transparent",
-            "urlToImage": "https://hackernoon.imgix.net/images/a-whimsical-bar-chart-comparing-two-models-xhlph2yfxbazfupeq8r84ykv.png",
-            "publishedAt": "2025-09-21 05:47:08"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "The Trade-Off Between Accuracy and Agreement in AI Models",
-            "url": "https://hackernoon.com/the-trade-off-between-accuracy-and-agreement-in-ai-models",
-            "urlToImage": "https://hackernoon.imgix.net/images/a-colorful-pear-ai-model-v8w5crpvbu1825l3s8c6dnfg.png",
-            "publishedAt": "2025-09-21 05:47:02"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Notes on Training Neural Networks for Consensus",
-            "url": "https://hackernoon.com/notes-on-training-neural-networks-for-consensus",
-            "urlToImage": "https://hackernoon.imgix.net/images/a-colorful-whimsical-flowchart-of-the-pear-loss-computation-b9w6vl44dn35kx6bvf0h3hos.png",
-            "publishedAt": "2025-09-21 05:46:54"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "New AI Study Tackles the Transparency Problem in Black-Box Models",
-            "url": "https://hackernoon.com/new-ai-study-tackles-the-transparency-problem-in-black-box-models",
-            "urlToImage": "https://hackernoon.imgix.net/images/a-conceptual-diagram-with-a-neural-network-in-the-center-risgs3l1addzcscs0gaqu3wl.png",
-            "publishedAt": "2025-09-21 05:46:39"
-        },
-        {
-            "source": {
-                "name": "digitaltrends"
-            },
-            "title": "Meta Ray-Ban Display glasses sell personal superintelligence. I’ll skip",
-            "url": "https://www.digitaltrends.com/computing/meta-ray-ban-display-glasses-sell-personal-superintelligence-ill-skip/",
-            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/09/mera-rayban-display.jpg?p=1&resize=1200%2C630",
-            "publishedAt": "2025-09-21 05:00:00"
-        },
-        {
-            "source": {
-                "name": "english_jagran"
-            },
-            "title": "IBPS PO Prelims 2025 Result To Be Declared Soon At ibps.in; Check Expected Date, Steps To Download",
-            "url": "https://www.thedailyjagran.com/education/ibps-po-prelims-2025-result-to-be-declared-soon-at-ibpsin-check-expected-date-steps-to-download-10268490",
-            "urlToImage": "https://imgeng.jagran.com/images/2025/09/21/article/image/ibpsporesult-1758428976452.webp",
-            "publishedAt": "2025-09-21 04:36:35"
-        },
-        {
-            "source": {
-                "name": "asiatimes"
-            },
-            "title": "Huawei’s AI chip plan designed to break US dependence",
-            "url": "https://asiatimes.com/2025/09/huaweis-ai-chip-plan-designed-to-break-us-dependence/",
-            "urlToImage": "https://i0.wp.com/asiatimes.com/wp-content/uploads/2025/09/Huawei-China-China-Tech.jpg?fit=780%2C521&quality=89&ssl=1",
-            "publishedAt": "2025-09-21 04:34:40"
-        },
-        {
-            "source": {
-                "name": "geeky_gadgets"
-            },
-            "title": "Why the M3 iPad Air Remains the Best Value Tablet",
-            "url": "https://www.geeky-gadgets.com/m3-ipad-best-value-tablet/",
-            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/09/m3-ipad-air-performance-and-hardware-analysis.webp",
-            "publishedAt": "2025-09-21 03:00:21"
-        },
-        {
-            "source": {
-                "name": "economictimes_indiatimes"
-            },
-            "title": "China's ByteDance will get 1 of 7 board seats for TikTok's US operations, official says",
-            "url": "https://economictimes.indiatimes.com/tech/technology/chinas-bytedance-will-get-1-of-7-board-seats-for-tiktoks-us-operations-official-says/articleshow/124023385.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-22366,resizemode-75,msid-124023385/tech/technology/chinas-bytedance-will-get-1-of-7-board-seats-for-tiktoks-us-operations-official-says.jpg",
-            "publishedAt": "2025-09-21 02:52:23"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Exploring the Potential of a Doctor AI Chatbot in Modern Healthcare",
-            "url": "https://techannouncer.com/exploring-the-potential-of-a-doctor-ai-chatbot-in-modern-healthcare/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/09/71696a06thumbnail-332x187.jpeg",
-            "publishedAt": "2025-09-21 02:28:10"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Abstracting the Future: Innovations in Smart Parking System Technology",
-            "url": "https://techannouncer.com/abstracting-the-future-innovations-in-smart-parking-system-technology/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/09/69d43b06thumbnail-332x187.jpeg",
-            "publishedAt": "2025-09-21 01:29:14"
-        },
-        {
-            "source": {
-                "name": "geeky_gadgets"
-            },
-            "title": "How to Factory Reset Your iPhone (The 2025 Guide)",
-            "url": "https://www.geeky-gadgets.com/factory-reset-your-iphone/",
-            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/09/iphone-backup-before-reset-guide.webp",
-            "publishedAt": "2025-09-21 01:00:15"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Pattern #2: From Implementation to Intent",
-            "url": "https://hackernoon.com/pattern-2-from-implementation-to-intent",
-            "urlToImage": "https://hackernoon.imgix.net/images/2jqChkrv03exBUgkLrDzIbfM99q2-xc020wx.jpeg",
-            "publishedAt": "2025-09-21 01:00:00"
-        },
-        {
-            "source": {
-                "name": "siliconangle"
-            },
-            "title": "Intel-Nvidia: The baton passes to the CUDA era",
-            "url": "https://siliconangle.com/2025/09/20/intel-nvidia-baton-passes-cuda-era/",
-            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/09/Gemini_Generated_Image_r3eduir3eduir3ed.png",
-            "publishedAt": "2025-09-21 00:44:08"
-        },
-        {
-            "source": {
-                "id": "7f6e8514e9d8f8376aaa9a7229861518",
-                "name": "PerthNow",
-                "url": "https://www.perthnow.com.au",
-                "country": "au"
-            },
-            "title": "Kate Cassidy posts AI images of herself with Liam Payne",
-            "url": "https://www.perthnow.com.au/entertainment/celebrity-gossip/kate-cassidy-posts-ai-images-of-herself-with-liam-payne-c-20092155",
-            "urlToImage": "https://images.perthnow.com.au/publication/C-20092155/7142b411cb7d7974bb144fa43c0f212a2791db63-16x9-x0y192w2048h1152.jpg?imwidth=1200",
-            "publishedAt": "2025-09-20T23:04:48Z"
-        },
-        {
-            "source": {
-                "id": "91120a92e0d24e24fbffb6d0affabfe6",
-                "name": "Bangkok Post",
-                "url": "https://www.bangkokpost.com",
-                "country": "th"
-            },
-            "title": "AI's super brain scoops up the crims",
-            "url": "https://www.bangkokpost.com/thailand/general/3108170/ais-super-brain-scoops-up-the-crims",
-            "urlToImage": "https://static.bangkokpost.com/media/content/dcx/2025/09/20/5787622_700.jpg",
-            "publishedAt": "2025-09-20T22:39:00Z"
         }
     ]
 }
