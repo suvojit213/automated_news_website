@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-09-23T14:15:23.909684Z",
+    "lastUpdatedAt": "2025-09-23T15:15:12.651122Z",
     "articles": [
+        {
+            "source": {
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
+                "country": "in"
+            },
+            "title": "Nvidia to invest $100 billion in OpenAI, linking two artificial intelligence titans",
+            "url": "https://www.thehindu.com/sci-tech/technology/nvidia-to-invest-100-billion-in-openai-linking-two-artificial-intelligence-titans/article70083211.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/clthwy/article70083213.ece/alternates/LANDSCAPE_1200/2025-09-22T201025Z_1861041248_RC28XGAPCY8R_RTRMADP_3_NVIDIA-OPENAI.JPG",
+            "publishedAt": "2025-09-23T03:14:39Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "What you will and won't see at this year's UN General Assembly",
+            "url": "https://economictimes.indiatimes.com/news/international/world-news/what-you-will-and-wont-see-at-this-years-un-general-assembly/articleshow/124060129.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-124060149,width-1200,height-630,imgsize-196826,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-09-23T03:06:00Z"
+        },
+        {
+            "source": {
+                "id": "ca84296ef941bfa461f4239a2290cb99",
+                "name": "News18",
+                "url": "https://www.news18.com",
+                "country": "in"
+            },
+            "title": "Nvidia, OpenAI Announce $100 Billion Partnership For Future AI Infrastructure",
+            "url": "https://www.news18.com/business/nvidia-openai-announce-100-billion-partnership-for-future-ai-infrastructure-9590212.html",
+            "urlToImage": "https://images.news18.com/ibnlive/uploads/2025/02/Sky-Force-marks-Veer-Pahariyas-debut.-2025-02-10T130837.800-2025-02-4c37349fdf201a1ca7169fb27e501039-16x9.jpg",
+            "publishedAt": "2025-09-23T02:23:48Z"
+        },
+        {
+            "source": {
+                "id": "435d508bebcc8689d5c7711d44865b80",
+                "name": "Activist Post",
+                "url": "https://www.activistpost.com",
+                "country": "us"
+            },
+            "title": "China’s 10-Year Plan for AI Dystopia",
+            "url": "https://www.activistpost.com/chinas-10-year-plan-for-ai-dystopia/",
+            "urlToImage": "https://www.activistpost.com/wp-content/uploads/2025/09/TBOT14-China-s-AI-Plan-Goes-All-In.jpg",
+            "publishedAt": "2025-09-23T02:22:00Z"
+        },
         {
             "source": {
                 "id": "3bd4bd306c42647825fa42989624c036",
@@ -144,6 +192,60 @@
             "url": "https://www.globenewswire.com/news-release/2025/09/23/3154523/0/en/BioNTech-to-Host-Second-AI-Day-as-an-Edition-of-Its-Innovation-Series-on-October-1-2025.html",
             "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/b9e2e00e-f790-4d54-a01f-4c85716b01bd",
             "publishedAt": "2025-09-23T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "How HPPK DS Balances Security and Efficiency Across NIST Levels",
+            "url": "https://hackernoon.com/how-hppk-ds-balances-security-and-efficiency-across-nist-levels",
+            "urlToImage": "https://hackernoon.imgix.net/images/illustrate-quantum-phenomena-qred5kz2bj51t0qs5a4mgunh.png",
+            "publishedAt": "2025-09-23 03:03:11"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "A Beginner’s Guide to the HPPK Digital Signature Scheme",
+            "url": "https://hackernoon.com/a-beginners-guide-to-the-hppk-digital-signature-scheme",
+            "urlToImage": "https://hackernoon.imgix.net/images/5wpKgV75aONqkTJlafw2yQmK9yd2-51039wm.png",
+            "publishedAt": "2025-09-23 03:03:05"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "What You Should Know About the Next Generation of Encryption",
+            "url": "https://hackernoon.com/what-you-should-know-about-the-next-generation-of-encryption",
+            "urlToImage": "https://hackernoon.imgix.net/images/illustrate-quantum-phenomena-kj0o0zdqnd90mslw9gmg1dfl.png",
+            "publishedAt": "2025-09-23 03:02:57"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "The Barrett Algorithm Reimagined for Post-Quantum Signatures",
+            "url": "https://hackernoon.com/the-barrett-algorithm-reimagined-for-post-quantum-signatures",
+            "urlToImage": "https://hackernoon.imgix.net/images/illustrate-quantum-phenomena-ld0ype18g8frjqc492cl5n1o.png",
+            "publishedAt": "2025-09-23 03:02:53"
+        },
+        {
+            "source": {
+                "name": "cnbctv18"
+            },
+            "title": "$800 billion revenue shortfall threatens AI future, Bain says",
+            "url": "https://www.cnbctv18.com/technology/800-billion-revenue-shortfall-threatens-ai-future-bain-says-19684213.htm",
+            "urlToImage": "https://images.cnbctv18.com/uploads/2025/07/artificial-intelligence-the-eater-of-jobs-2025-07-22d32e0228ba9ed2d616c39a9573a144.jpg",
+            "publishedAt": "2025-09-23 03:02:44"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "A New Hierarchy of Contextuality in Quantum Foundations",
+            "url": "https://hackernoon.com/a-new-hierarchy-of-contextuality-in-quantum-foundations",
+            "urlToImage": "https://hackernoon.imgix.net/images/illustrate-quantum-computing-gr4b377zaxa9dshlfi00wj0z.png",
+            "publishedAt": "2025-09-23 02:45:25"
         },
         {
             "source": {
@@ -3045,96 +3147,6 @@
             "url": "https://en.prnasia.com/story/504403-0.shtml",
             "urlToImage": "https://mma.prnasia.com/media2/2777673/Supermicro_INNOVATE___Latest_GPUs.jpg?p=medium600",
             "publishedAt": "2025-09-22 07:00:00"
-        },
-        {
-            "source": {
-                "name": "itpro"
-            },
-            "title": "Acer Swift Edge 14 AI review: Maximum impact, minimum weight",
-            "url": "https://www.itpro.com/hardware/laptops/acer-swift-edge-14-ai-review-maximum-impact-minimum-weight",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/dbvwZyyL3KUcCErkfvMb5h-1280-80.jpg",
-            "publishedAt": "2025-09-22 07:00:00"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "MediaTek Dimensity 9500 Unleashes Best-in-Class Performance, AI Experiences, and Power Efficiency for the Next Generation of Mobile Devices",
-            "url": "https://www.prnewswire.com/news-releases/mediatek-dimensity-9500-unleashes-best-in-class-performance-ai-experiences-and-power-efficiency-for-the-next-generation-of-mobile-devices-302562586.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2778286/MediaTek_Dimensity_9500_AI_Mobile_Devices.jpg?p=original",
-            "publishedAt": "2025-09-22 07:00:00"
-        },
-        {
-            "source": {
-                "name": "en_prnasisa"
-            },
-            "title": "MediaTek Dimensity 9500 Unleashes Best-in-Class Performance, AI Experiences, and Power Efficiency for the Next Generation of Mobile Devices",
-            "url": "https://en.prnasia.com/story/504402-0.shtml",
-            "urlToImage": "https://mma.prnasia.com/media2/2778286/MediaTek_Dimensity_9500_AI_Mobile_Devices.jpg?p=medium600",
-            "publishedAt": "2025-09-22 07:00:00"
-        },
-        {
-            "source": {
-                "name": "expresscomputer"
-            },
-            "title": "AI agents are redefining what’s possible in enterprise automation",
-            "url": "https://www.expresscomputer.in/news/ai-agents-are-redefining-whats-possible-in-enterprise-automation/127965/",
-            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2025/09/22113423/EC_Dominic_Pereira_Automation_Anywhere_750.jpg",
-            "publishedAt": "2025-09-22 06:41:00"
-        },
-        {
-            "source": {
-                "name": "economictimes_indiatimes"
-            },
-            "title": "How MediaTek is weaving innovation into India’s growth story",
-            "url": "http://economictimes.indiatimes.com/tech/technology/how-mediatek-is-weaving-innovation-into-indias-growth-story/articleshow/124038755.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-605405,resizemode-75,msid-124038755/tech/technology/how-mediatek-is-weaving-innovation-into-indias-growth-story.jpg",
-            "publishedAt": "2025-09-22 05:54:20"
-        },
-        {
-            "source": {
-                "name": "startupnews"
-            },
-            "title": "Nvidia and Abu Dhabi institute launch joint AI and robotics lab in the UAE",
-            "url": "https://startupnews.fyi/2025/09/22/nvidia-and-abu-dhabi-institute-launch-joint-ai-and-robotics-lab-in-the-uae/",
-            "urlToImage": "https://startupnews.fyi/wp-content/uploads/2025/09/nvidia-and-abu-dhabi-institute-launch-joint-ai-and-robotics-lab-in-the-uae.jpg",
-            "publishedAt": "2025-09-22 05:34:05"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "The Low-cost Path to AI Mastery: Building a Wiki Navigator With Pure Similarity Search",
-            "url": "https://hackernoon.com/the-low-cost-path-to-ai-mastery-building-a-wiki-navigator-with-pure-similarity-search",
-            "urlToImage": "https://hackernoon.imgix.net/images/2jqChkrv03exBUgkLrDzIbfM99q2-d5020o3.png",
-            "publishedAt": "2025-09-22 05:20:52"
-        },
-        {
-            "source": {
-                "name": "menafn"
-            },
-            "title": "Samsung Passes Nvidia Test As Its Most Advanced Memory Chip Reportedly Meets Tough Performance Standards, Stock Soars",
-            "url": "https://menafn.com/1110092645/Samsung-Passes-Nvidia-Test-As-Its-Most-Advanced-Memory-Chip-Reportedly-Meets-Tough-Performance-Standards-Stock-Soars",
-            "urlToImage": "https://menafn.com/updates/pr/2025-09/22/AN_web-p_b0a49image_story.webp",
-            "publishedAt": "2025-09-22 05:00:53"
-        },
-        {
-            "source": {
-                "name": "pcquest"
-            },
-            "title": "iPhone 17 Pro performance boost: Has Apple taken criticism positively?",
-            "url": "https://www.pcquest.com/news-launches/iphone-17-pro-performance-boost-has-apple-taken-criticism-positively-10485717",
-            "urlToImage": "https://img-cdn.publive.online/pcq/media/media_files/2025/09/22/iphone-17-pro-2025-09-22-10-29-32.jpg",
-            "publishedAt": "2025-09-22 04:59:37"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "From Theory to Practice - FSM Utilities AI-Powered DePIN GIS Systems",
-            "url": "https://hackernoon.com/from-theory-to-practice-fsm-utilities-ai-powered-depin-gis-systems",
-            "urlToImage": "https://hackernoon.imgix.net/images/E4pYfD4L6vO8RC4YQzgPS6joiXL2-ms02f73.png",
-            "publishedAt": "2025-09-22 04:57:45"
         }
     ]
 }
