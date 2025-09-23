@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-09-23T02:54:48.307392Z",
+    "lastUpdatedAt": "2025-09-23T03:27:58.339825Z",
     "articles": [
+        {
+            "source": {
+                "id": "3989f52bbec2d3be8442e2851b59e79e",
+                "name": "CBS Sports",
+                "url": "https://www.cbssports.com",
+                "country": "us"
+            },
+            "title": "Meet the new recruit: Artificial intelligence in college football",
+            "url": "https://www.cbssports.com/college-football/news/meet-the-new-recruit-artificial-intelligence-in-college-football/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/09/22/4d81b604-2650-4978-be4d-2444fa3be5b8/thumbnail/1200x675/8fd05a7abeb9c5cb0c4027d76bcef225/chatgpt.png",
+            "publishedAt": "2025-09-22T15:13:00Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "University-Police Partnership: A New Era for Tech-Savvy Policing",
+            "url": "https://www.devdiscourse.com/article/technology/3636806-university-police-partnership-a-new-era-for-tech-savvy-policing",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/05_06_2024_08_56_02_6135565.png?width=920&format=jpeg",
+            "publishedAt": "2025-09-22T15:02:41Z"
+        },
+        {
+            "source": {
+                "id": "f4d035ae0463df22c36ae97972a33ba6",
+                "name": "PR Newswire UK",
+                "url": "https://www.prnewswire.co.uk",
+                "country": "gb"
+            },
+            "title": "AV-Comparatives Publishes 2025 Endpoint Prevention & Response (EPR) Test - The Most Comprehensive Enterprise Cybersecurity Evaluation to Date",
+            "url": "https://www.prnewswire.co.uk/news-releases/av-comparatives-publishes-2025-endpoint-prevention--response-epr-test--the-most-comprehensive-enterprise-cybersecurity-evaluation-to-date-302562364.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2778048/AV_Comparatives.jpg?p=facebook",
+            "publishedAt": "2025-09-22T15:00:00Z"
+        },
         {
             "source": {
                 "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
@@ -960,6 +996,96 @@
             "url": "https://www.globenewswire.com/news-release/2025/09/22/3154111/0/en/NAVA-Leads-Call-to-Protect-Creators-in-the-Age-of-AI-at-L-A-Comic-Con.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/2e825b4d-e628-4299-8159-91e38fd4a2ab",
             "publishedAt": "2025-09-22T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "zephyrnet"
+            },
+            "title": "Beyond Copper: Innovations in Interconnect Technology for Next-Gen CMOS",
+            "url": "https://zephyrnet.com/beyond-copper-innovations-in-interconnect-technology-for-next-gen-cmos/",
+            "urlToImage": "https://zephyrnet.com/wp-content/uploads/img-3OSdRYMymJKP2Mf3oewugDdr.png",
+            "publishedAt": "2025-09-22 15:26:53"
+        },
+        {
+            "source": {
+                "name": "redbluffdailynews"
+            },
+            "title": "Google faces antitrust déjà vu as US seeks to break up its digital advertising business",
+            "url": "https://www.redbluffdailynews.com/2025/09/22/google-monopoly-advertising-penalty/",
+            "urlToImage": "https://www.redbluffdailynews.com/wp-content/uploads/2025/09/Google_Antitrust_Search_Ruling_41728_083a77.jpg?strip=all&w=1400px",
+            "publishedAt": "2025-09-22 15:26:34"
+        },
+        {
+            "source": {
+                "name": "republicanherald"
+            },
+            "title": "Google faces antitrust déjà vu as US seeks to break up its digital advertising business",
+            "url": "https://www.republicanherald.com/2025/09/22/google-monopoly-advertising-penalty/",
+            "urlToImage": "https://www.republicanherald.com/wp-content/uploads/2025/09/Google_Antitrust_Search_Ruling_41728_083a77.jpg?strip=all&w=1400px",
+            "publishedAt": "2025-09-22 15:26:34"
+        },
+        {
+            "source": {
+                "name": "canoncitydailyrecord"
+            },
+            "title": "Google faces antitrust déjà vu as US seeks to break up its digital advertising business",
+            "url": "https://www.canoncitydailyrecord.com/2025/09/22/google-monopoly-advertising-penalty/",
+            "urlToImage": "https://www.canoncitydailyrecord.com/wp-content/uploads/2025/09/Google_Antitrust_Search_Ruling_41728_083a77.jpg?strip=all&w=1400px",
+            "publishedAt": "2025-09-22 15:26:34"
+        },
+        {
+            "source": {
+                "name": "saratogian"
+            },
+            "title": "Google faces antitrust déjà vu as US seeks to break up its digital advertising business",
+            "url": "https://www.saratogian.com/2025/09/22/google-monopoly-advertising-penalty/",
+            "urlToImage": "https://www.saratogian.com/wp-content/uploads/2025/09/Google_Antitrust_Search_Ruling_41728_083a77.jpg?strip=all&w=1400px",
+            "publishedAt": "2025-09-22 15:26:34"
+        },
+        {
+            "source": {
+                "name": "sdxcentral"
+            },
+            "title": "Microsoft teases network behind $3.3B 'world's most powerful' AI data center",
+            "url": "https://www.sdxcentral.com/news/microsoft-teases-network-behind-33b-worlds-most-powerful-ai-data-center/",
+            "urlToImage": "https://media.datacenterdynamics.com/media/images/OMB-Image-2-Datacenter.2e16d0ba.fill-1200x630.jpg",
+            "publishedAt": "2025-09-22 15:21:13"
+        },
+        {
+            "source": {
+                "name": "cision"
+            },
+            "title": "Unit 221B Raises $5M in Seed Funding To Convert Threat Intelligence into Real World Arrests",
+            "url": "https://www.prnewswire.com/news-releases/unit-221b-raises-5m-in-seed-funding-to-convert-threat-intelligence-into-real-world-arrests-302563113.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2778265/Unit_221B_Logo.jpg?p=original",
+            "publishedAt": "2025-09-22 15:18:00"
+        },
+        {
+            "source": {
+                "name": "deccanherald"
+            },
+            "title": "Google Pixel 10 Pro review: Exceptional AI phone",
+            "url": "https://www.deccanherald.com/technology/gadgets/google-pixel-10-pro-review-exceptional-ai-phone-3739104",
+            "urlToImage": "https://media.assettype.com/deccanherald%2F2025-09-22%2Fxmkqiwhr%2FPixel-10-Pro-Cover-Photos-Selected-2.jpg?ar=40%3A21&auto=format%2Ccompress&mode=crop&ogImage=true&w=1200",
+            "publishedAt": "2025-09-22 15:16:28"
+        },
+        {
+            "source": {
+                "name": "nbcnews"
+            },
+            "title": "Nobel Prize winners call for binding international 'red lines' on AI",
+            "url": "https://www.nbcnews.com/tech/tech-news/un-general-assembly-opens-plea-binding-ai-safeguards-red-lines-nobel-rcna231973",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250922-nobel-prize-ai-lr-a8152f.jpg",
+            "publishedAt": "2025-09-22 15:00:40"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "10 Influential Women in The AI Space",
+            "url": "https://hackernoon.com/10-influential-women-in-the-ai-space",
+            "urlToImage": "https://hackernoon.imgix.net/images/ZUe5l1n4sIYKBn1LvI1rfv58CLf2-h5b3bc4.jpeg",
+            "publishedAt": "2025-09-22 15:00:04"
         },
         {
             "source": {
@@ -3003,162 +3129,6 @@
             "url": "https://www.lokmattimes.com/national/nanotech-ai-robotics-shaping-up-healthcare-as-much-as-space-exploration-isro-chairman/",
             "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202509203516326_202509.jpeg",
             "publishedAt": "2025-09-20T13:30:23Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "Nanotech, AI, robotics shaping up healthcare as much as space exploration: ISRO chairman",
-            "url": "https://www.lokmattimes.com/health/nanotech-ai-robotics-shaping-up-healthcare-as-much-as-space-exploration-isro-chairman-1/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202509203516326_202509.jpeg",
-            "publishedAt": "2025-09-20T13:30:23Z"
-        },
-        {
-            "source": {
-                "id": "1b40b878c09151e8cf44a095bc8569a5",
-                "name": "ETF Daily News",
-                "url": "https://www.etfdailynews.com",
-                "country": "us"
-            },
-            "title": "Cybersecurity Stocks To Keep An Eye On - September 17th",
-            "url": "https://www.etfdailynews.com/2025/09/20/cybersecurity-stocks-to-keep-an-eye-on-september-17th/",
-            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/google-inc-logo-1200x675.png&w=240&h=240&zc=2",
-            "publishedAt": "2025-09-20T13:02:48Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "Want to use AI for your personal finances? Choose your questions carefully.",
-            "url": "https://www.livemint.com/ai/artificial-intelligence/ai-financial-planning-investing-with-ai-personal-finance-ai-financial-chatbots-chatgpt-investing-robo-advisor-11758371253393.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2025/09/20/1600x900/logo/im-54632578_1758371257301_1758371286674.jpg",
-            "publishedAt": "2025-09-20T12:31:13Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "China-ASEAN AI Collaboration: A New Era of Cross-Border Cooperation",
-            "url": "https://www.devdiscourse.com/article/technology/3634708-china-asean-ai-collaboration-a-new-era-of-cross-border-cooperation",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/14_09_2025_14_41_53_1742664.png?width=920&format=jpeg",
-            "publishedAt": "2025-09-20T12:19:00Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "ASEAN AI Application Ecosystem Exchange Conference 2025 Kicks Off in Nanning",
-            "url": "https://www.tribuneindia.com/news/business/china-asean-ai-application-ecosystem-exchange-conference-2025-kicks-off-in-nanning/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTFkNjYyNzEwLTk2MWMtMTFmMC04ZWJlLWYzMjRlZjRkM2RjZS5qcGc=",
-            "publishedAt": "2025-09-20T12:16:08Z"
-        },
-        {
-            "source": {
-                "id": "c8c865ed042eb14694b8d596e22efe99",
-                "name": "Spokane Spokesman-Review",
-                "url": "https://www.spokesman.com",
-                "country": "us"
-            },
-            "title": "Artificial intelligence ushers in a golden age of hacking, experts say",
-            "url": "https://www.spokesman.com/stories/2025/sep/20/artificial-intelligence-ushers-in-a-golden-age-of-/",
-            "urlToImage": "https://thumb.spokesman.com/k8pbdpC4AU7SMq933f-pis_p8JI=/1200x630/smart/media.spokesman.com/photos/2025/09/20/68cf4ec62e45b.hires.jpg",
-            "publishedAt": "2025-09-20T11:32:00Z"
-        },
-        {
-            "source": {
-                "id": "ca84296ef941bfa461f4239a2290cb99",
-                "name": "News18",
-                "url": "https://www.news18.com",
-                "country": "in"
-            },
-            "title": "AI To Predict Future? British Startup Could Soon Overtake Human Forecasting Experts",
-            "url": "https://www.news18.com/tech/ai-to-predict-future-british-startup-could-soon-overtake-human-forecasting-experts-ws-l-9585710.html",
-            "urlToImage": "https://images.news18.com/ibnlive/uploads/2025/05/Artificial-intelligence-2025-05-38e3526396ae76a734f91852caa71c0b-16x9.png",
-            "publishedAt": "2025-09-20T11:02:47Z"
-        },
-        {
-            "source": {
-                "id": "f16dc396e088c7c707eabe9d7479e7a2",
-                "name": "The Washington Post",
-                "url": "https://www.washingtonpost.com",
-                "country": "us"
-            },
-            "title": "Artificial intelligence ushers in a golden age of hacking, experts say",
-            "url": "https://www.washingtonpost.com/technology/2025/09/20/ai-hacking-cybersecurity-cyberthreats/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4L3Y3YDN33AVZ7M64K5HNVW73U_size-normalized.jpg&w=1440",
-            "publishedAt": "2025-09-20T10:00:00Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "UAE Public Prosecution Engages in AI and Justice Dialogue at BRICS Meeting",
-            "url": "https://www.devdiscourse.com/article/international/3634575-uae-public-prosecution-engages-in-ai-and-justice-dialogue-at-brics-meeting",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/20_09_2025_15_18_38_2091073.jpg?width=920&format=jpeg",
-            "publishedAt": "2025-09-20T09:48:52Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "Tech Pledges From Trump’s UK Visit Will Test Strained Power Grid",
-            "url": "https://www.livemint.com/companies/company-results/tech-pledges-from-trump-s-uk-visit-will-test-strained-power-grid-11758353090730.html",
-            "urlToImage": "https://images.livemint.com/img/2018/12/28/original/Companies_-_Results_1545999337988.jpg",
-            "publishedAt": "2025-09-20T07:24:50Z"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            },
-            "title": "How AI could help fight burnout",
-            "url": "https://www.cnbc.com/2025/09/20/working-smarter-not-harder-how-ai-could-help-fight-burnout-.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107405101-1713881562604-gettyimages-1394347618-pi-2471784.jpeg?v=1758203448&w=1920&h=1080",
-            "publishedAt": "2025-09-20T07:11:52Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "The Next Big Shift After Cloud, Why AI Infrastructure Is the Smartest Data Center Investment",
-            "url": "https://techbullion.com/the-next-big-shift-after-cloud-why-ai-infrastructure-is-the-smartest-data-center-investment/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-20-at-11.22.43-AM-1000x600.jpeg",
-            "publishedAt": "2025-09-20T07:05:28Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Tech Pledges From Trump’s UK Visit Will Test Strained Power Grid",
-            "url": "https://www.bloomberg.com/news/articles/2025-09-20/tech-pledges-from-trump-s-uk-visit-will-test-strained-power-grid",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1NcLGHPIHU0/v0/1200x800.jpg",
-            "publishedAt": "2025-09-20T07:00:00Z"
         }
     ]
 }
