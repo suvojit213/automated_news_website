@@ -1,6 +1,150 @@
 {
-    "lastUpdatedAt": "2025-09-23T05:14:59.685989Z",
+    "lastUpdatedAt": "2025-09-23T06:22:53.076684Z",
     "articles": [
+        {
+            "source": {
+                "id": "8da923084554b2821233d6c5c5f02c97",
+                "name": "Fox News",
+                "url": "https://www.foxnews.com",
+                "country": "us"
+            },
+            "title": "Beware of fake Wi-Fi networks that steal your data when traveling",
+            "url": "https://www.foxnews.com/tech/beware-fake-wi-fi-networks-steal-your-data-when-traveling",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/austin-airport-airline-passenger-on-phone.jpg",
+            "publishedAt": "2025-09-22T18:20:38Z"
+        },
+        {
+            "source": {
+                "id": "494f687bd1dfaa9f7b4a705c860671d0",
+                "name": "Hartford Courant",
+                "url": "https://www.courant.com",
+                "country": "us"
+            },
+            "title": "Nvidia to invest $100 billion in OpenAI to help expand computing power",
+            "url": "https://www.courant.com/2025/09/22/nvidia-openai-partnership/",
+            "urlToImage": "https://www.courant.com/wp-content/uploads/2025/09/Nvidia_Intel_39467-1-1.jpg?w=1024&h=683",
+            "publishedAt": "2025-09-22T17:55:04Z"
+        },
+        {
+            "source": {
+                "id": "17d7c2645f485578130862e0c8dd9480",
+                "name": "The Mercury News",
+                "url": "https://www.mercurynews.com",
+                "country": "us"
+            },
+            "title": "Nvidia to invest $100 billion in OpenAI to help expand computing power",
+            "url": "https://www.mercurynews.com/2025/09/22/nvidia-openai-partnership/",
+            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/09/Nvidia_Intel_39467-1-1.jpg?w=1024&h=683",
+            "publishedAt": "2025-09-22T17:55:04Z"
+        },
+        {
+            "source": {
+                "id": "b864cc599bc4ba1ff99463aba17ae502",
+                "name": "Reading Eagle",
+                "url": "https://www.readingeagle.com",
+                "country": "us"
+            },
+            "title": "Nvidia to invest $100 billion in OpenAI to help expand computing power",
+            "url": "https://www.readingeagle.com/2025/09/22/nvidia-openai-partnership/",
+            "urlToImage": "https://www.readingeagle.com/wp-content/uploads/2025/09/Nvidia_Intel_39467-1-1.jpg?w=1024&h=683",
+            "publishedAt": "2025-09-22T17:55:04Z"
+        },
+        {
+            "source": {
+                "id": "6cbe6dbb9a62f9b5a7d4770ab77a9ad4",
+                "name": "Norfolk Virginian-Pilot",
+                "url": "https://www.pilotonline.com",
+                "country": "us"
+            },
+            "title": "Nvidia to invest $100 billion in OpenAI to help expand computing power",
+            "url": "https://www.pilotonline.com/2025/09/22/nvidia-openai-partnership/",
+            "urlToImage": "https://www.pilotonline.com/wp-content/uploads/2025/09/Nvidia_Intel_39467-1-1.jpg?w=1024&h=683",
+            "publishedAt": "2025-09-22T17:55:04Z"
+        },
+        {
+            "source": {
+                "id": "3271eb2093cfa66b030a37cf84a8df5e",
+                "name": "Baltimore Sun",
+                "url": "https://www.baltimoresun.com",
+                "country": "us"
+            },
+            "title": "Nvidia to invest $100 billion in OpenAI to help expand computing power",
+            "url": "https://www.baltimoresun.com/2025/09/22/nvidia-openai-partnership/",
+            "urlToImage": "https://www.baltimoresun.com/wp-content/uploads/2025/09/Nvidia_Intel_39467-1-1.jpg?w=1024&h=683",
+            "publishedAt": "2025-09-22T17:55:04Z"
+        },
+        {
+            "source": {
+                "id": "d9acc08d8066fc3620da5e6b20b406ad",
+                "name": "Boulder Daily Camera",
+                "url": "https://www.dailycamera.com",
+                "country": "us"
+            },
+            "title": "Nvidia to invest $100 billion in OpenAI to help expand computing power",
+            "url": "https://www.dailycamera.com/2025/09/22/nvidia-openai-partnership/",
+            "urlToImage": "https://www.dailycamera.com/wp-content/uploads/2025/09/Nvidia_Intel_39467-1-1.jpg?w=1024&h=683",
+            "publishedAt": "2025-09-22T17:55:04Z"
+        },
+        {
+            "source": {
+                "id": "840efb5642a2fd3ae6da920bb4981626",
+                "name": "Santa Ana Orange County Register",
+                "url": "https://www.ocregister.com",
+                "country": "us"
+            },
+            "title": "Nvidia to invest $100 billion in OpenAI to help expand computing power",
+            "url": "https://www.ocregister.com/2025/09/22/nvidia-openai-partnership/",
+            "urlToImage": "https://www.ocregister.com/wp-content/uploads/2025/09/Nvidia_Intel_39467-1-1.jpg?w=1024&h=683",
+            "publishedAt": "2025-09-22T17:55:04Z"
+        },
+        {
+            "source": {
+                "id": "9ab210a1da58b160b3d40bd353f54b38",
+                "name": "St. Paul Pioneer Press",
+                "url": "https://www.twincities.com",
+                "country": "us"
+            },
+            "title": "Nvidia to invest $100 billion in OpenAI to help expand computing power",
+            "url": "https://www.twincities.com/2025/09/22/nvidia-openai-partnership/",
+            "urlToImage": "https://www.twincities.com/wp-content/uploads/2025/09/Nvidia_Intel_39467-1-1.jpg?w=1024&h=683",
+            "publishedAt": "2025-09-22T17:55:04Z"
+        },
+        {
+            "source": {
+                "id": "8fac888ae06647c3a7d6093c60c9d9b5",
+                "name": "San Diego Union-Tribune",
+                "url": "https://www.sandiegouniontribune.com",
+                "country": "us"
+            },
+            "title": "Nvidia to invest $100 billion in OpenAI to help expand computing power",
+            "url": "https://www.sandiegouniontribune.com/2025/09/22/nvidia-openai-partnership/",
+            "urlToImage": "https://www.sandiegouniontribune.com/wp-content/uploads/2025/09/Nvidia_Intel_39467-1-1.jpg?w=1024&h=683",
+            "publishedAt": "2025-09-22T17:55:04Z"
+        },
+        {
+            "source": {
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
+                "country": "us"
+            },
+            "title": "Nvidia investing up to $100B in ChatGPT owner OpenAI",
+            "url": "https://nypost.com/2025/09/22/business/nvidia-investing-up-to-100b-in-chatgpt-owner-openai/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/09/nvidia-openai-investment.jpg?quality=75&strip=all&1758546496&w=1024",
+            "publishedAt": "2025-09-22T17:50:23Z"
+        },
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "From pixels to pumps: Machine learning and satellite imagery help map irrigation",
+            "url": "https://phys.org/news/2025-09-pixels-machine-satellite-imagery-irrigation.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/from-pixels-to-pumps-a.jpg",
+            "publishedAt": "2025-09-22T17:50:08Z"
+        },
         {
             "source": {
                 "id": "77b86639d1384ac68141803ec5db27c0",
@@ -1188,6 +1332,96 @@
             "url": "https://www.globenewswire.com/news-release/2025/09/22/3154111/0/en/NAVA-Leads-Call-to-Protect-Creators-in-the-Age-of-AI-at-L-A-Comic-Con.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/2e825b4d-e628-4299-8159-91e38fd4a2ab",
             "publishedAt": "2025-09-22T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "abcnews"
+            },
+            "title": "Nvidia to invest $100B in OpenAI to help expand ChatGPT maker's computing power",
+            "url": "https://abcnews.go.com/Technology/wireStory/nvidia-invest-100-billion-openai-expand-chatgpt-makers-125822976",
+            "urlToImage": "https://s.abcnews.com/images/Business/wirestory_610d894d93f9be23c46762950997a67f_4x3_384.jpg",
+            "publishedAt": "2025-09-22 18:20:55"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Verizon Launches 6G Innovation Forum with Ericsson, Samsung for AI-Driven Networks by 2030",
+            "url": "https://www.webpronews.com/verizon-launches-6g-innovation-forum-with-ericsson-samsung-for-ai-driven-networks-by-2030/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-252736b6-812f-4cea-8241-d6e30e5c3fb4.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-09-22 18:20:49"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Microsoft Revives Video Wallpaper in Windows 11, Echoing Vista’s DreamScene",
+            "url": "https://www.webpronews.com/microsoft-revives-video-wallpaper-in-windows-11-echoing-vistas-dreamscene/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-37bca980-0250-4722-bc18-db849bc8c5c2.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-09-22 18:17:54"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Nvidia and Intel’s $5B Deal to Merge x86 CPUs with RTX Graphics",
+            "url": "https://www.webpronews.com/nvidia-and-intels-5b-deal-to-merge-x86-cpus-with-rtx-graphics/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-65ab1ea2-5562-4c7a-a35c-4126b98704c0.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-09-22 18:12:54"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "This deal for $200 off the MacBook Air M4 is the best I've ever seen, but you'll want to act fast",
+            "url": "https://www.tomsguide.com/computing/macbooks/this-deal-for-usd200-off-the-macbook-air-m4-is-the-best-ive-ever-seen-but-youll-want-to-act-fast",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/oMbdCgA2nMa5gzodQzBr7W-1280-80.jpg",
+            "publishedAt": "2025-09-22 18:12:37"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "Dell 14 Premium review: An XPS in everything but name",
+            "url": "https://www.tomsguide.com/computing/laptops/dell-14-premium-review",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/23gk86a63kzcxFFdsoFdsH-1280-80.jpg",
+            "publishedAt": "2025-09-22 18:10:19"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Cloudflare’s 15th Anniversary: Co-Founders Tackle Internet Challenges and AI Fairness",
+            "url": "https://www.webpronews.com/cloudflares-15th-anniversary-co-founders-tackle-internet-challenges-and-ai-fairness/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-bb70c23e-1df4-4698-9fc7-a5105f1ef95e.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-09-22 18:08:51"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Businesses Rethink Hardware for On-Device AI Demands with Snapdragon X",
+            "url": "https://www.webpronews.com/businesses-rethink-hardware-for-on-device-ai-demands-with-snapdragon-x/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-f7d8f2cb-615d-413e-99db-ad5a88eaa71c.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-09-22 18:06:57"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Oppo Find X9 Series: Dimensity 9500 AI Powerhouse with Hasselblad Cameras",
+            "url": "https://www.webpronews.com/oppo-find-x9-series-dimensity-9500-ai-powerhouse-with-hasselblad-cameras/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-06ae2c7c-c573-48d5-9af4-a93c9cb5337a.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-09-22 18:01:36"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Google’s AI Edge Gallery: Offline AI Models on Smartphones",
+            "url": "https://www.webpronews.com/googles-ai-edge-gallery-offline-ai-models-on-smartphones/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-a629593e-3579-436f-a825-459edf20478b.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-09-22 17:58:10"
         },
         {
             "source": {
@@ -2916,204 +3150,6 @@
             "url": "https://techaeris.com/2025/09/21/qualcomm-announces-quick-charge-5/",
             "urlToImage": "https://techaeris.com/wp-content/uploads/2025/09/Qualcomm-Quick-Charge-5-Plus.jpg",
             "publishedAt": "2025-09-21 15:41:52"
-        },
-        {
-            "source": {
-                "name": "zephyrnet"
-            },
-            "title": "Exploring the Powerhouse: A Deep Dive into Cutting-Edge AI Chip Technology",
-            "url": "https://zephyrnet.com/exploring-the-powerhouse-a-deep-dive-into-cutting-edge-ai-chip-technology/",
-            "urlToImage": "https://zephyrnet.com/wp-content/uploads/img-0bWWc4rPzmN9tDG9GE6MLnCr.png",
-            "publishedAt": "2025-09-21 15:06:36"
-        },
-        {
-            "source": {
-                "name": "digitaltrends"
-            },
-            "title": "I’m so excited about Google Gemini that I’ll never swap to another AI",
-            "url": "https://www.digitaltrends.com/computing/im-so-excited-about-google-gemini-that-ill-never-swap-to-another-ai/",
-            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/09/templateee.jpg?p=1&resize=1200%2C630",
-            "publishedAt": "2025-09-21 15:00:00"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "How to Use Sound and AI to Protect the Environment",
-            "url": "https://hackernoon.com/how-to-use-sound-and-ai-to-protect-the-environment",
-            "urlToImage": "https://hackernoon.imgix.net/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-pm03bdr.jpeg",
-            "publishedAt": "2025-09-21 14:00:12"
-        },
-        {
-            "source": {
-                "name": "phys"
-            },
-            "title": "Mixing neutrinos of colliding neutron stars changes how merger unfolds, simulations reveal",
-            "url": "https://phys.org/news/2025-09-neutrinos-colliding-neutron-stars-merger.html",
-            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2025/mixing-neutrinos-of-co.jpg",
-            "publishedAt": "2025-09-21 13:40:02"
-        },
-        {
-            "source": {
-                "name": "benzinga"
-            },
-            "title": "Apple's iPhone 17 Series Takes Off, Meta's New Smart Glasses And Major Partnerships In AI Space: This Week In AI",
-            "url": "https://www.benzinga.com/markets/tech/25/09/47779273/apples-iphone-17-series-takes-off-metas-new-smart-glasses-and-major-partnerships-in-ai-space-this-we",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/09/21/AI-CapEx-Explosion-Much-Higher-Than-The-.jpeg?auto=jpg&dpr=1&fit=crop&height=480&optimize=medium&width=720",
-            "publishedAt": "2025-09-21 13:01:16"
-        },
-        {
-            "source": {
-                "name": "gizmochina"
-            },
-            "title": "Rogbid Model S 4G Smartwatch Review",
-            "url": "https://www.gizmochina.com/2025/09/21/rogbid-model-s-4g-smartwatch-review/",
-            "urlToImage": "https://www.gizmochina.com/wp-content/uploads/2025/09/Rogbid-Model-S-4G-Smartwatch-Review-1-1024x769.jpg",
-            "publishedAt": "2025-09-21 12:53:08"
-        },
-        {
-            "source": {
-                "name": "engadget"
-            },
-            "title": "How to combine PDF files",
-            "url": "https://www.engadget.com/computing/how-to-combine-pdf-files-120046452.html",
-            "urlToImage": "https://o.aolcdn.com/images/dims?client=19f2b5e49a271b2bde77&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-09%2Fa74f8830-94c9-11f0-bdf7-a25adadc052e&resize=1400%2C933&signature=99d33a96d7c2879b9d94e53fb59e8aad9fd38cc3",
-            "publishedAt": "2025-09-21 12:00:46"
-        },
-        {
-            "source": {
-                "name": "postandcourier"
-            },
-            "title": "Dorchester County Adult Education celebrates literacy week",
-            "url": "https://www.postandcourier.com/journal-scene/news/dorchester-county-adult-education-celebrates-literacy-week/article_73227d06-d7a7-4f33-ab65-7cc7a22fd2ab.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/5/14/5149d0e1-1a72-4439-a8ec-9659a37e8de7/68ccc4727de99.image.jpg?resize=400%2C267",
-            "publishedAt": "2025-09-21 12:00:00"
-        },
-        {
-            "source": {
-                "name": "slashgear"
-            },
-            "title": "Is Using A Plex Server Legal? It All Depends",
-            "url": "https://www.slashgear.com/1970548/is-using-plex-server-legal-guide/",
-            "urlToImage": "https://www.slashgear.com/img/gallery/is-using-a-plex-server-legal-it-all-depends/l-intro-1758079606.jpg",
-            "publishedAt": "2025-09-21 11:35:00"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Hot Data Science Jobs to Apply For in India",
-            "url": "https://www.analyticsinsight.net/career/hot-data-science-jobs-to-apply-for-in-india",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-09-21%2Fk0tc5g05%2FHot-Data-Science-Jobs-to-Apply-For-in-India.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-09-21 11:00:00"
-        },
-        {
-            "source": {
-                "name": "cnet"
-            },
-            "title": "Best Video Doorbells of 2025: Take Charge of Your Front Door",
-            "url": "https://www.cnet.com/home/security/best-video-doorbell-cameras/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/c856f66a990911455b6648a327c3e423873f4294/hub/2019/12/11/88aefeb3-19e9-4ca5-b4c4-40f5990bb3a8/arlo-video-doorbell-product-photos-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-09-21 11:00:00"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "Firewalla’s Gold Pro Security Firewall Is Designed To Turn Home Networks Into Fort Knox",
-            "url": "https://www.forbes.com/sites/marksparrow/2025/09/21/firewallas-gold-pro-security-firewall-is-designed-to-turn-home-networks-into-fort-knox/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68ca8da6f051017bc7688404/0x0.jpg?width=960",
-            "publishedAt": "2025-09-21 10:00:00"
-        },
-        {
-            "source": {
-                "name": "capitalgazette"
-            },
-            "title": "How Gov. Wes Moore’s economic growth agenda bets big on quantum computing",
-            "url": "https://www.capitalgazette.com/2025/09/21/moore-economic-growth-bets-on-quantum-computing/",
-            "urlToImage": "https://www.capitalgazette.com/wp-content/uploads/2025/09/TBS-L-G0VMOORE-0909-p1.jpg?strip=all&w=1400px",
-            "publishedAt": "2025-09-21 09:07:06"
-        },
-        {
-            "source": {
-                "name": "zephyrnet"
-            },
-            "title": "Streamlining Quantum Software Creation Using Qiskit: Insights from IBM Quantum Blog",
-            "url": "https://zephyrnet.com/streamlining-quantum-software-creation-using-qiskit-insights-from-ibm-quantum-blog/",
-            "urlToImage": "https://zephyrnet.com/wp-content/uploads/img-QQaH5gxoJShcFMCbBGVhRra5.png",
-            "publishedAt": "2025-09-21 09:01:56"
-        },
-        {
-            "source": {
-                "name": "postandcourier"
-            },
-            "title": "Charleston fundraiser planned for kids of Special Ops fallen",
-            "url": "https://www.postandcourier.com/events/book_author/special-operations-warrior-foundation-charleston-fundraiser/article_05b918f3-684a-48d2-9575-10ccc49770b8.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/custom/image/6903687a-a7dc-11e9-896c-0bef6d6c9301.jpg?resize=600%2C314",
-            "publishedAt": "2025-09-21 09:00:00"
-        },
-        {
-            "source": {
-                "name": "readersdigest_in"
-            },
-            "title": "The Human Edge in an AI World",
-            "url": "https://www.readersdigest.in/culturescape/story-the-human-edge-in-an-ai-world-127956",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/sites/rd/resources/202509/image25_220925020445_799x499.jpg?size=684%3A384",
-            "publishedAt": "2025-09-21 08:32:22"
-        },
-        {
-            "source": {
-                "name": "news18"
-            },
-            "title": "India’s Chip Revolution: 10 Projects, Rising Design Innovation & Road To 2 Nm Technology",
-            "url": "https://www.news18.com/india/indias-chip-revolution-10-projects-rising-design-innovation-road-to-2-nm-technology-ws-kl-9586917.html",
-            "urlToImage": "https://images.news18.com/ibnlive/uploads/2025/06/Ashwani-Vaishnaw-2025-06-0434eda6dbb241d2268f083dcef313b5-3x2.jpg",
-            "publishedAt": "2025-09-21 08:32:04"
-        },
-        {
-            "source": {
-                "name": "pcworld_us"
-            },
-            "title": "Get Windows 11 Pro for $12.97 before it’s gone",
-            "url": "https://www.pcworld.com/article/2910951/get-windows-11-pro-for-12-97-before-its-gone.html",
-            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/09/Windows-11-Pro-3-1.jpg?quality=50&strip=all",
-            "publishedAt": "2025-09-21 08:00:00"
-        },
-        {
-            "source": {
-                "name": "analyticsindiamag"
-            },
-            "title": "AIM Print – September 2025 Edition",
-            "url": "https://analyticsindiamag.com/magazine/aim-print-september-2025-edition/",
-            "urlToImage": "https://analyticsindiamag.com/wp-content/uploads/2025/09/AIM-Print-sep-2025.jpg",
-            "publishedAt": "2025-09-21 06:43:28"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "Windows 10 Upgrade Guide: How to delay, avoid or survive the switch to Windows 11",
-            "url": "https://www.tomsguide.com/computing/windows-operating-systems/windows-10-upgrade-guide",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/9Lsu7b4eoVLUYJ86oBhSgj-1280-80.jpg",
-            "publishedAt": "2025-09-21 06:15:00"
-        },
-        {
-            "source": {
-                "name": "thelincolnianonline"
-            },
-            "title": "Quantum Computing (NASDAQ:QUBT) Earns Buy Rating from Analysts at Lake Street Capital",
-            "url": "https://www.thelincolnianonline.com/2025/09/21/quantum-computing-nasdaqqubt-earns-buy-rating-from-analysts-at-lake-street-capital.html",
-            "urlToImage": "https://www.marketbeat.com/logos/quantum-computing-inc-logo.jpg?v=20240611112416",
-            "publishedAt": "2025-09-21 06:14:57"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "The TechBeat: Making LLMs Efficient: Reducing Memory Usage Without Breaking Quality (9/21/2025)",
-            "url": "https://hackernoon.com/9-21-2025-techbeat",
-            "urlToImage": "https://hackernoon.imgix.net/images/hackernoon_newsletter_890_cddy0bkn9010kvojnvqcd4vv.png",
-            "publishedAt": "2025-09-21 06:10:55"
         }
     ]
 }
