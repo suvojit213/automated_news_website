@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-09-24T02:56:15.552758Z",
+    "lastUpdatedAt": "2025-09-24T03:30:24.155294Z",
     "articles": [
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Visakhapatnam Declaration: Paving the Way for India's Digital Future",
+            "url": "https://www.devdiscourse.com/article/technology/3638274-visakhapatnam-declaration-paving-the-way-for-indias-digital-future",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/14_09_2025_03_28_41_9899332.png?width=920&format=jpeg",
+            "publishedAt": "2025-09-23T15:07:44Z"
+        },
+        {
+            "source": {
+                "id": "1d751cfd7add0c9fc31c762ae84100a8",
+                "name": "Nbc Sports",
+                "url": "https://www.nbcsports.com",
+                "country": "us"
+            },
+            "title": "Rafael Nadal alerts about fake videos of him offering financial advice",
+            "url": "https://www.nbcsports.com/tennis/news/rafael-nadal-alerts-about-fake-videos-of-him-offering-financial-advice",
+            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/17110fc/2147483647/strip/true/crop/8640x4860+0+900/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F03%2F47%2F869038d84773bb628815f7bdad64%2Fusatsi-26285104.jpg",
+            "publishedAt": "2025-09-23T15:06:59Z"
+        },
+        {
+            "source": {
+                "id": "8c6e9834b8fccfc4c516038dbb543005",
+                "name": "The London Free Press",
+                "url": "https://lfpress.com",
+                "country": "gb"
+            },
+            "title": "Rafael Nadal warns of fake financial advice videos of him",
+            "url": "https://lfpress.com/sports/tennis/rafael-nadal-warns-fake-videos-financial-advice",
+            "urlToImage": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2025/05/2216322945-e1748260854926.jpg",
+            "publishedAt": "2025-09-23T15:02:16Z"
+        },
+        {
+            "source": {
+                "id": "01558c024928d45cf320f6f75eede787",
+                "name": "The Guardian",
+                "url": "https://www.theguardian.com",
+                "country": "gb"
+            },
+            "title": "‘Tentacles squelching wetly’: the human subtitle writers under threat from AI",
+            "url": "https://www.theguardian.com/film/2025/sep/23/subtitlers-replaced-by-ai-sdh",
+            "urlToImage": "https://i.guim.co.uk/img/media/895cdc01e8d504d540637fb115030a2ead5f9e96/83_0_980_784/master/980.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=656e8d50dcfb96615bdff01baa88003a",
+            "publishedAt": "2025-09-23T15:00:41Z"
+        },
         {
             "source": {
                 "id": "cb749b89c7dc92dc2d517a49bb9a43ab",
@@ -1128,6 +1176,96 @@
             "url": "https://www.globenewswire.com/news-release/2025/09/23/3154523/0/en/BioNTech-to-Host-Second-AI-Day-as-an-Edition-of-Its-Innovation-Series-on-October-1-2025.html",
             "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/b9e2e00e-f790-4d54-a01f-4c85716b01bd",
             "publishedAt": "2025-09-23T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "globalissues"
+            },
+            "title": "The Rise of Androids Among Human Populations",
+            "url": "https://www.globalissues.org/news/2025/09/23/41105",
+            "urlToImage": "https://static.globalissues.org/ips/2025/09/androidhuman.jpg",
+            "publishedAt": "2025-09-23 15:17:31"
+        },
+        {
+            "source": {
+                "name": "executivebiz"
+            },
+            "title": "Intel’s Steve Orrin Stresses Role of Private R&D in US AI Infrastructure Push",
+            "url": "https://www.executivebiz.com/articles/intel-steve-orrin-ai-semiconductor-manufacturing",
+            "urlToImage": "https://media.executivebiz.com/2025/09/steve-orrin-federal-cto-intel.jpg",
+            "publishedAt": "2025-09-23 15:14:53"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "I tested the brand new Breville Oracle Dual Boiler, and it’s the most futuristic espresso machine I’ve ever used... for better or for worse",
+            "url": "https://www.tomsguide.com/home/coffee-makers/breville-oracle-dual-boiler-review",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/rf6rZmSfr9rkMMXDYyDrNa-1280-80.jpg",
+            "publishedAt": "2025-09-23 15:02:40"
+        },
+        {
+            "source": {
+                "name": "colorado_edu"
+            },
+            "title": "14er science: Quantum physicists measure whether time moves faster on a mountaintop",
+            "url": "https://www.colorado.edu/today/node/55262",
+            "urlToImage": "https://www.colorado.edu/today/sites/default/files/2025-09/MtBlueSky_Research16GA.jpg",
+            "publishedAt": "2025-09-23 15:02:37"
+        },
+        {
+            "source": {
+                "name": "biztoc"
+            },
+            "title": "Nvidia Invests in OpenAI With $100 Billion to Build Out More AI Data Centers",
+            "url": "https://biztoc.com/x/18cedd8f23840d2c",
+            "urlToImage": "https://cdn.biztoc.com/18cedd8f23840d2c_sq.webp",
+            "publishedAt": "2025-09-23 15:01:59"
+        },
+        {
+            "source": {
+                "name": "sciencenews"
+            },
+            "title": "This experimental computer chip reuses energy",
+            "url": "https://www.sciencenews.org/article/computer-chip-reuses-energy",
+            "urlToImage": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/09/091825_KH_energychip_main.jpg?fit=800%2C450&ssl=1",
+            "publishedAt": "2025-09-23 15:00:00"
+        },
+        {
+            "source": {
+                "name": "wvnews"
+            },
+            "title": "Efficient Computer and BrightAI Partner to Unlock Scalable, Intelligent Edge Deployments",
+            "url": "https://www.wvnews.com/news/around_the_web/partners/pr_newswire/subject/new_products_services/efficient-computer-and-brightai-partner-to-unlock-scalable-intelligent-edge-deployments/article_9020c720-b1f6-56c4-b11a-026bc68183e1.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/assets/v3/editorial/e/f6/ef6667c4-d1d6-51e4-9608-a1b8db4bbee6/68d2b9ede0bf2.image.jpg?resize=300%2C63",
+            "publishedAt": "2025-09-23 15:00:00"
+        },
+        {
+            "source": {
+                "name": "newspressnow"
+            },
+            "title": "Google says 90% of tech workers are now using AI at work",
+            "url": "https://www.newspressnow.com/cnn/cnn-business-consumer/2025/09/23/google-says-90-of-tech-workers-are-now-using-ai-at-work/",
+            "urlToImage": "https://newspressnow.b-cdn.net/wp-content/uploads/2025/09/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWZtdmwweDQwMDBuM2I2bmFkamhxY2t6-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtZm12OGZ3MTAwNXcyY3FjNDU5bTlpZzE-scaled.jpg",
+            "publishedAt": "2025-09-23 14:59:55"
+        },
+        {
+            "source": {
+                "name": "postregister"
+            },
+            "title": "Solidigm Introduces World’s First Cold-Plate-Cooled eSSD for Next-Generation Fanless Server Designs",
+            "url": "https://www.postregister.com/businessreport/technology/solidigm-introduces-world-s-first-cold-plate-cooled-essd-for-next-generation-fanless-server-designs/article_e50822ef-948f-5834-8be8-00f1e06b376b.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
+            "publishedAt": "2025-09-23 14:59:34"
+        },
+        {
+            "source": {
+                "name": "ijr"
+            },
+            "title": "Secret Service Busts ‘Imminent Threat’ That Could Cripple Cell Networks",
+            "url": "https://ijr.com/secret-service-busts-imminent-threat-that-could-cripple-cell-networks/",
+            "urlToImage": "https://ijr.com/wp-content/uploads/2025/09/secret-service-busts-imminent-threat-that-could-cripple-cell-networks-750x375.jpg",
+            "publishedAt": "2025-09-23 14:56:08"
         },
         {
             "source": {
@@ -3162,174 +3300,6 @@
             "url": "https://www.tribuneindia.com/news/business/india-and-russia-discussed-the-development-of-their-megacities-at-the-brics-urban-future-forum-in-moscow/",
             "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTM3OWRlMGUwLTk3OGEtMTFmMC04ZWJlLWYzMjRlZjRkM2RjZS5qcGc=",
             "publishedAt": "2025-09-22T08:00:29Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "South Korea: Presidential office to unveil cybersecurity measures following hacking incidents",
-            "url": "https://www.lokmattimes.com/international/south-korea-presidential-office-to-unveil-cybersecurity-measures-following-hacking-incidents/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202509223517658_202509.jpg",
-            "publishedAt": "2025-09-22T08:00:01Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "'Everyone thought I was crazy': Sylvester Stallone wished to reprise Rambo with AI de-ageing",
-            "url": "https://www.livemint.com/entertainment/everyone-thought-i-was-crazy-sylvester-stallone-wished-to-reprise-rambo-with-ai-deageing-11758527803035.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2025/03/17/1600x900/logo/entertainmentlm3_1742215964360_1742216012203.webp",
-            "publishedAt": "2025-09-22T07:56:42Z"
-        },
-        {
-            "source": {
-                "id": "bc002b453215c04fa081a97f2c6679b9",
-                "name": "The Hacker News",
-                "url": "https://thehackernews.com",
-                "country": "us"
-            },
-            "title": "Turning Intelligence Into Action with Threat-Informed Defense",
-            "url": "https://thehackernews.com/expert-insights/2025/09/turning-intelligence-into-action-with.html",
-            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMlilGAknBnCu6CDHEwwmAGKpsvNmVt_0Uz6rTNcwBhHGhzz34q0ZhDWebrqcGy6H7R_aVTPk5kqtG8QfmqNIK0TGIUtHFqdFlgVn9PIC-E7uuw9oHGi4TkkbpYJis_l8GkDEAkiOA61GSA3d7gWbrh6Mfs80xtiOWmIEWnK-NyqOLZLOCRfFQkngLl34/s728-rw-e365/filigran-main.jpg",
-            "publishedAt": "2025-09-22T07:43:00Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Ransomware Attack Causes Airport Check-In Disruptions Across EU",
-            "url": "https://www.devdiscourse.com/article/law-order/3636089-ransomware-attack-causes-airport-check-in-disruptions-across-eu",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/22_06_2024_17_54_06_0740046.png?width=920&format=jpeg",
-            "publishedAt": "2025-09-22T07:22:16Z"
-        },
-        {
-            "source": {
-                "id": "c8c865ed042eb14694b8d596e22efe99",
-                "name": "Spokane Spokesman-Review",
-                "url": "https://www.spokesman.com",
-                "country": "us"
-            },
-            "title": "Ransomware hack caused European airport delays, canceled flights",
-            "url": "https://www.spokesman.com/stories/2025/sep/22/ransomware-hack-caused-european-airport-delays-can/",
-            "urlToImage": "https://thumb.spokesman.com/GDojhRh7htgLIpSpY77J_AJxq8Q=/1200x630/smart/media.spokesman.com/photos/2025/09/22/68d19735b851c.hires.jpg",
-            "publishedAt": "2025-09-22T07:11:00Z"
-        },
-        {
-            "source": {
-                "id": "b41851fb2662ea502db29f71ec4d1583",
-                "name": "NPR",
-                "url": "https://www.npr.org",
-                "country": "us"
-            },
-            "title": "It's Been a Minute",
-            "url": "https://www.npr.org/2025/09/22/nx-s1-5546753/can-you-trust-ai-search-results",
-            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2f%2Fd3%2Fb941d4a649a282a5c6467d47dfbe%2F0f3d2d05-b686-4cfa-b31c-0c97e4e96674.jpg",
-            "publishedAt": "2025-09-22T07:00:00Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "How Ireland's Leading Car Review Platform Is Using AI and Data Analytics to Transform Automotive Journalism",
-            "url": "https://techbullion.com/how-irelands-leading-car-review-platform-is-using-ai-and-data-analytics-to-transform-automotive-journalism/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/female-traveller-with-laptop-standing-beside-car-1000x600.jpg",
-            "publishedAt": "2025-09-22T06:30:01Z"
-        },
-        {
-            "source": {
-                "id": "1b40b878c09151e8cf44a095bc8569a5",
-                "name": "ETF Daily News",
-                "url": "https://www.etfdailynews.com",
-                "country": "us"
-            },
-            "title": "Top Cybersecurity Stocks To Keep An Eye On - September 19th",
-            "url": "https://www.etfdailynews.com/2025/09/22/top-cybersecurity-stocks-to-keep-an-eye-on-september-19th/",
-            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/google-inc-logo-1200x675.png&w=240&h=240&zc=2",
-            "publishedAt": "2025-09-22T06:16:59Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Sasken Technologies Joins Forces with VicOne for Cybersecurity Advancement in Automotive Industry",
-            "url": "https://www.devdiscourse.com/article/technology/3636019-sasken-technologies-joins-forces-with-vicone-for-cybersecurity-advancement-in-automotive-industry",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/18_09_2025_23_42_25_3107588.png?width=920&format=jpeg",
-            "publishedAt": "2025-09-22T05:57:30Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Sasken Partners with VicOne to Deliver End",
-            "url": "https://www.tribuneindia.com/news/business/sasken-partners-with-vicone-to-deliver-end-to-end-automotive-cybersecurity-solutions-2/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTgyNzM0ZWYwLTk3NzgtMTFmMC04ZWJlLWYzMjRlZjRkM2RjZS5qcGc=",
-            "publishedAt": "2025-09-22T05:51:46Z"
-        },
-        {
-            "source": {
-                "id": "c6075ba0dc9d123bb327faaa419d3d07",
-                "name": "The Motley Fool Australia",
-                "url": "https://www.fool.com.au",
-                "country": "au"
-            },
-            "title": "Why is this artificial intelligence stock piling on double-digit gains?",
-            "url": "https://www.fool.com.au/2025/09/22/why-is-this-artificial-intelligence-stock-piling-on-double-digit-gains/",
-            "urlToImage": "https://www.fool.com.au/wp-content/uploads/2024/08/AI-touch-16.9-1200x675.jpg",
-            "publishedAt": "2025-09-22T05:36:25Z"
-        },
-        {
-            "source": {
-                "id": "b1fa63410571207862faad9daf9b4527",
-                "name": "Pittsburgh Tribune-Review",
-                "url": "https://triblive.com",
-                "country": "us"
-            },
-            "title": "PennWest, IUP partner with Google to expand AI training",
-            "url": "https://triblive.com/local/regional/pennwest-iup-partner-with-google-to-expand-ai-training/",
-            "urlToImage": "https://assets-varnish.triblive.com/2025/09/8850971_web1_vnd-AIcolleges1.jpg",
-            "publishedAt": "2025-09-22T05:30:00Z"
-        },
-        {
-            "source": {
-                "id": "d894d2a2b7c9ae7ff7505a197738f18c",
-                "name": "Marketing Interactive",
-                "url": "https://www.marketing-interactive.com",
-                "country": "sg"
-            },
-            "title": "UK models launch petition to protect likeness from AI misuse",
-            "url": "https://www.marketing-interactive.com/uk-models-launch-petition-to-protect-likeness-from-ai-misuse",
-            "urlToImage": "https://marketing-interactive-assets.b-cdn.net/article_images/uk-models-launch-petition-to-protect-likeness-from-ai-misuse/1758524907_UK%20models.jpg",
-            "publishedAt": "2025-09-22T05:04:30Z"
-        },
-        {
-            "source": {
-                "id": "01558c024928d45cf320f6f75eede787",
-                "name": "The Guardian",
-                "url": "https://www.theguardian.com",
-                "country": "gb"
-            },
-            "title": "More Britons view AI as economic risk than opportunity, Tony Blair thinktank finds",
-            "url": "https://www.theguardian.com/technology/2025/sep/22/more-britons-view-ai-as-economic-risk-than-opportunity-tony-blair-thinktank-finds",
-            "urlToImage": "https://i.guim.co.uk/img/media/58d13ef7857e98a6afba17991b23e0b81e7acdef/198_24_2442_1954/master/2442.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ace07ee317e55ee324efecfd1d4ae797",
-            "publishedAt": "2025-09-22T05:00:04Z"
         }
     ]
 }
