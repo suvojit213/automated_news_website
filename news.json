@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-09-24T07:15:14.788617Z",
+    "lastUpdatedAt": "2025-09-24T08:20:23.649567Z",
     "articles": [
+        {
+            "source": {
+                "id": "c1903669db0b115cc673ce9c333a70dd",
+                "name": "Charleston Post and Courier",
+                "url": "https://www.postandcourier.com",
+                "country": "us"
+            },
+            "title": "SC must invest in modern energy infrastructure",
+            "url": "https://www.postandcourier.com/opinion/commentary/sc-energy-infrastructure-artificial-intelligence-data-centers/article_18896381-82ba-4a33-ab5e-55798eecf5ad.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/f/8f/f8fae5cd-f329-49e0-947e-19f1856c1da5/66b22c3870bb0.image.jpg?crop=1762%2C925%2C0%2C0&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2025-09-23T20:15:00Z"
+        },
+        {
+            "source": {
+                "id": "0ce70f407e0fa82ddaeeb29243aa8210",
+                "name": "SooToday",
+                "url": "https://www.sootoday.com",
+                "country": "ca"
+            },
+            "title": "Fact File: AI video sparks false rumour of CN Tower fire",
+            "url": "https://www.sootoday.com/national-news/fact-file-ai-video-sparks-false-rumour-of-cn-tower-fire-11253026",
+            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/09/6821416078413ce19996dda566ddb2eb6864584ae2f2b35e478e2cc6ffa15519.jpg;w=1200;h=800;mode=crop",
+            "publishedAt": "2025-09-23T20:12:39Z"
+        },
+        {
+            "source": {
+                "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
+                "name": "BayToday",
+                "url": "https://www.baytoday.ca",
+                "country": "ca"
+            },
+            "title": "Fact File: AI video sparks false rumour of CN Tower fire",
+            "url": "https://www.baytoday.ca/national-news/fact-file-ai-video-sparks-false-rumour-of-cn-tower-fire-11253026",
+            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/09/6821416078413ce19996dda566ddb2eb6864584ae2f2b35e478e2cc6ffa15519.jpg;w=1200;h=800;mode=crop",
+            "publishedAt": "2025-09-23T20:12:39Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Micron forecasts first-quarter revenue above estimates on AI demand",
+            "url": "https://www.reuters.com/technology/micron-forecasts-first-quarter-revenue-above-estimates-2025-09-23/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/QERJCXMWJBMT5KSOGFA54U5ODA.jpg?auth=9aeb4fa0c68af13dbe296e010e3e840ade19fb92af1dace8c5b2463efe0d4805&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-09-23T20:05:52Z"
+        },
         {
             "source": {
                 "id": "11d4381a1e8f7aca7628d0319a52a040",
@@ -1611,6 +1659,69 @@
         },
         {
             "source": {
+                "name": "thurrott"
+            },
+            "title": "Windows ML is Generally Available with Windows App SDK 1.8.1",
+            "url": "https://www.thurrott.com/a-i/327165/windows-ml-is-generally-available-with-windows-app-sdk-1-8-1",
+            "urlToImage": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2025/09/windows-ml-stack.jpg",
+            "publishedAt": "2025-09-23 20:18:42"
+        },
+        {
+            "source": {
+                "name": "futurism"
+            },
+            "title": "Secret Service Says It Destroyed a Secret Cell Phone Doomsday Device in NYC",
+            "url": "https://futurism.com/future-society/secret-service-cell-phone-doomsday-nyc",
+            "urlToImage": "https://futurism.com/wp-content/uploads/2025/09/secret-service-cell-phone-doomsday-nyc.jpg?quality=85",
+            "publishedAt": "2025-09-23 20:05:12"
+        },
+        {
+            "source": {
+                "name": "rand"
+            },
+            "title": "Biosecurity Governance Across Uncertain Artificial Intelligence Futures",
+            "url": "https://www.rand.org/pubs/conf_proceedings/CFA4186-1.html",
+            "urlToImage": "https://www.rand.org/content/rand/pubs/conf_proceedings/CFA4186-1/_jcr_content/par/product.fit.264x264.jpeg/1758655118586.jpeg",
+            "publishedAt": "2025-09-23 20:04:35"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "Healthcare Cybersecurity: The Urgency Of Now",
+            "url": "https://www.forbes.com/sites/chuckbrooks/2025/09/23/healthcare-cybersecurity-the-urgency-of-now/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68d2fa69dab7923f19bc7f12/0x0.jpg?width=960",
+            "publishedAt": "2025-09-23 20:02:35"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "The best phones of 2025: Expert tested and reviewed",
+            "url": "https://www.zdnet.com/article/best-phone/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/40035a009f66b23790425245923c68dd99cbebd7/2025/01/24/661cfb09-5e27-4a18-8e8e-ffe52da165ea/dsc03820-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-09-23 19:30:48"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "Own a PS5? I changed 3 quick settings to give my console a huge performance boost",
+            "url": "https://www.zdnet.com/article/own-a-ps5-i-changed-3-quick-settings-to-give-my-console-a-huge-performance-boost/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/e281936c891c2e5f171f2bc420ebe7ea9371dd99/2022/08/03/75ada6d9-55bd-4797-b856-59bbdea0d760/playstation-5-digital-edition.jpg?auto=webp&width=1280",
+            "publishedAt": "2025-09-23 19:30:00"
+        },
+        {
+            "source": {
+                "name": "arstechnica"
+            },
+            "title": "Review: Apple’s iPhone Air is a bunch of small changes that add up to something big",
+            "url": "https://arstechnica.com/gadgets/2025/09/iphone-air-review-apples-different-est-phone-in-years-is-appealing-despite-itself/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/IMG_3388-1152x648.jpeg",
+            "publishedAt": "2025-09-23 19:17:41"
+        },
+        {
+            "source": {
                 "name": "androidheadlines"
             },
             "title": "Turn your audiophile cans into a PS5-ready headset with Sennheiser’s latest gadget",
@@ -3066,138 +3177,6 @@
             "url": "https://www.thetimes.com/business-money/technology/article/nvidia-to-invest-up-to-100bn-in-openai-to-build-data-centres-wn3vkd6fn",
             "urlToImage": "https://www.thetimes.com/imageserver/image/%2F57690fb5-ac08-4a2b-909e-ec7f519396e4.jpg?crop=4879%2C2744%2C0%2C254&resize=1200",
             "publishedAt": "2025-09-22T18:41:26Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Gen Z Students Drop Traditional Learning for ChatGPT - Now Earn $100K+ Remote",
-            "url": "https://techbullion.com/gen-z-students-drop-traditional-learning-for-chatgpt-now-earn-100k-remote/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/image_68d16dd1d8dd0-1000x536.png",
-            "publishedAt": "2025-09-22T18:27:34Z"
-        },
-        {
-            "source": {
-                "id": "8da923084554b2821233d6c5c5f02c97",
-                "name": "Fox News",
-                "url": "https://www.foxnews.com",
-                "country": "us"
-            },
-            "title": "Beware of fake Wi-Fi networks that steal your data when traveling",
-            "url": "https://www.foxnews.com/tech/beware-fake-wi-fi-networks-steal-your-data-when-traveling",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/austin-airport-airline-passenger-on-phone.jpg",
-            "publishedAt": "2025-09-22T18:20:38Z"
-        },
-        {
-            "source": {
-                "id": "494f687bd1dfaa9f7b4a705c860671d0",
-                "name": "Hartford Courant",
-                "url": "https://www.courant.com",
-                "country": "us"
-            },
-            "title": "Nvidia to invest $100 billion in OpenAI to help expand computing power",
-            "url": "https://www.courant.com/2025/09/22/nvidia-openai-partnership/",
-            "urlToImage": "https://www.courant.com/wp-content/uploads/2025/09/Nvidia_Intel_39467-1-1.jpg?w=1024&h=683",
-            "publishedAt": "2025-09-22T17:55:04Z"
-        },
-        {
-            "source": {
-                "id": "17d7c2645f485578130862e0c8dd9480",
-                "name": "The Mercury News",
-                "url": "https://www.mercurynews.com",
-                "country": "us"
-            },
-            "title": "Nvidia to invest $100 billion in OpenAI to help expand computing power",
-            "url": "https://www.mercurynews.com/2025/09/22/nvidia-openai-partnership/",
-            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/09/Nvidia_Intel_39467-1-1.jpg?w=1024&h=683",
-            "publishedAt": "2025-09-22T17:55:04Z"
-        },
-        {
-            "source": {
-                "id": "b864cc599bc4ba1ff99463aba17ae502",
-                "name": "Reading Eagle",
-                "url": "https://www.readingeagle.com",
-                "country": "us"
-            },
-            "title": "Nvidia to invest $100 billion in OpenAI to help expand computing power",
-            "url": "https://www.readingeagle.com/2025/09/22/nvidia-openai-partnership/",
-            "urlToImage": "https://www.readingeagle.com/wp-content/uploads/2025/09/Nvidia_Intel_39467-1-1.jpg?w=1024&h=683",
-            "publishedAt": "2025-09-22T17:55:04Z"
-        },
-        {
-            "source": {
-                "id": "6cbe6dbb9a62f9b5a7d4770ab77a9ad4",
-                "name": "Norfolk Virginian-Pilot",
-                "url": "https://www.pilotonline.com",
-                "country": "us"
-            },
-            "title": "Nvidia to invest $100 billion in OpenAI to help expand computing power",
-            "url": "https://www.pilotonline.com/2025/09/22/nvidia-openai-partnership/",
-            "urlToImage": "https://www.pilotonline.com/wp-content/uploads/2025/09/Nvidia_Intel_39467-1-1.jpg?w=1024&h=683",
-            "publishedAt": "2025-09-22T17:55:04Z"
-        },
-        {
-            "source": {
-                "id": "3271eb2093cfa66b030a37cf84a8df5e",
-                "name": "Baltimore Sun",
-                "url": "https://www.baltimoresun.com",
-                "country": "us"
-            },
-            "title": "Nvidia to invest $100 billion in OpenAI to help expand computing power",
-            "url": "https://www.baltimoresun.com/2025/09/22/nvidia-openai-partnership/",
-            "urlToImage": "https://www.baltimoresun.com/wp-content/uploads/2025/09/Nvidia_Intel_39467-1-1.jpg?w=1024&h=683",
-            "publishedAt": "2025-09-22T17:55:04Z"
-        },
-        {
-            "source": {
-                "id": "d9acc08d8066fc3620da5e6b20b406ad",
-                "name": "Boulder Daily Camera",
-                "url": "https://www.dailycamera.com",
-                "country": "us"
-            },
-            "title": "Nvidia to invest $100 billion in OpenAI to help expand computing power",
-            "url": "https://www.dailycamera.com/2025/09/22/nvidia-openai-partnership/",
-            "urlToImage": "https://www.dailycamera.com/wp-content/uploads/2025/09/Nvidia_Intel_39467-1-1.jpg?w=1024&h=683",
-            "publishedAt": "2025-09-22T17:55:04Z"
-        },
-        {
-            "source": {
-                "id": "840efb5642a2fd3ae6da920bb4981626",
-                "name": "Santa Ana Orange County Register",
-                "url": "https://www.ocregister.com",
-                "country": "us"
-            },
-            "title": "Nvidia to invest $100 billion in OpenAI to help expand computing power",
-            "url": "https://www.ocregister.com/2025/09/22/nvidia-openai-partnership/",
-            "urlToImage": "https://www.ocregister.com/wp-content/uploads/2025/09/Nvidia_Intel_39467-1-1.jpg?w=1024&h=683",
-            "publishedAt": "2025-09-22T17:55:04Z"
-        },
-        {
-            "source": {
-                "id": "9ab210a1da58b160b3d40bd353f54b38",
-                "name": "St. Paul Pioneer Press",
-                "url": "https://www.twincities.com",
-                "country": "us"
-            },
-            "title": "Nvidia to invest $100 billion in OpenAI to help expand computing power",
-            "url": "https://www.twincities.com/2025/09/22/nvidia-openai-partnership/",
-            "urlToImage": "https://www.twincities.com/wp-content/uploads/2025/09/Nvidia_Intel_39467-1-1.jpg?w=1024&h=683",
-            "publishedAt": "2025-09-22T17:55:04Z"
-        },
-        {
-            "source": {
-                "id": "8fac888ae06647c3a7d6093c60c9d9b5",
-                "name": "San Diego Union-Tribune",
-                "url": "https://www.sandiegouniontribune.com",
-                "country": "us"
-            },
-            "title": "Nvidia to invest $100 billion in OpenAI to help expand computing power",
-            "url": "https://www.sandiegouniontribune.com/2025/09/22/nvidia-openai-partnership/",
-            "urlToImage": "https://www.sandiegouniontribune.com/wp-content/uploads/2025/09/Nvidia_Intel_39467-1-1.jpg?w=1024&h=683",
-            "publishedAt": "2025-09-22T17:55:04Z"
         }
     ]
 }
