@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-09-24T09:16:15.387542Z",
+    "lastUpdatedAt": "2025-09-24T10:15:59.076271Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Meta's Llama to be made available to US allies in Europe, Asia",
+            "url": "https://www.reuters.com/business/retail-consumer/metas-llama-be-made-available-us-allies-europe-asia-2025-09-23/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/UJZVMR3ZHJJZTEOAUZ36YMDUJ4.jpg?auth=ec1e822bd8900ce50b05ac1b2cd87a5f212b06dad0a5c0b24594081cf85a4bb5&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-09-23T22:10:07Z"
+        },
+        {
+            "source": {
+                "id": "1b97b25c0ec482f85326378f82f7f815",
+                "name": "Fox Business",
+                "url": "https://www.foxbusiness.com",
+                "country": "us"
+            },
+            "title": "Stargate project announces 5 new AI data centers across US states",
+            "url": "https://www.foxbusiness.com/economy/openai-announces-five-new-stargate-data-center-locations-multiple-states-ai-project",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/02/0/0/sam-altman-openai.jpg?ve=1&tl=1",
+            "publishedAt": "2025-09-23T21:40:29Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Punjab launches AI-enabled screening devices for early detection of cancer",
+            "url": "https://timesofindia.indiatimes.com/city/chandigarh/punjab-launches-ai-enabled-screening-devices-for-early-detection-of-cancer/articleshow/124078199.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-124078198,width-1070,height-580,imgsize-90244,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-09-23T21:31:00Z"
+        },
+        {
+            "source": {
+                "id": "3f09ae62ee37a33ab191a698fec83f4b",
+                "name": "WEAU",
+                "url": "https://www.weau.com",
+                "country": "us"
+            },
+            "title": "Interview: Women’s Giving Circle to hold cybersecurity education event",
+            "url": "https://www.weau.com/2025/09/23/interview-womens-giving-circle-hold-cybersecurity-education-event/",
+            "urlToImage": "https://gray-weau-prod.gtv-cdn.com/resizer/v2/QRUK62AZFJAFLGQKDAA5OWMSSQ.jpg?auth=33579966684aabeed1d4ff2b56a5763a25231a3799aa653d2a2ede2dd9df7460&width=1200&height=600&smart=true",
+            "publishedAt": "2025-09-23T21:30:00Z"
+        },
         {
             "source": {
                 "id": "35515662ec044d3f94b543cd8802d63f",
@@ -1767,6 +1815,96 @@
         },
         {
             "source": {
+                "name": "webpronews"
+            },
+            "title": "AI Copycat Papers Surge, Threatening Research Integrity in Journals",
+            "url": "https://www.webpronews.com/ai-copycat-papers-surge-threatening-research-integrity-in-journals/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-7d32d2ed-9a67-4a45-8ef1-f2e54884ef17.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-09-23 21:56:36"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "OpenAI Launches $500B Stargate AI Data Center in Texas with Partners",
+            "url": "https://www.webpronews.com/openai-launches-500b-stargate-ai-data-center-in-texas-with-partners/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-e945fa73-d2be-41b9-87f3-7b6041f4af9d.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-09-23 21:52:12"
+        },
+        {
+            "source": {
+                "name": "headtopics"
+            },
+            "title": "OpenAI's first data center in $500B Stargate project is open in Texas, with sites coming in New Mexico and Ohio",
+            "url": "https://us.headtopics.com/news/openai-s-first-data-center-in-500b-stargate-project-is-73432907",
+            "urlToImage": "https://i.headtopics.com/images/2025/9/22/dallasnews/best-in-texas-9-22-texas-tech-vaults-texas-after-b-best-in-texas-9-22-texas-tech-vaults-texas-after-b-1902E9C515CCE04DC620AE7D32C3F961.webp?w=640",
+            "publishedAt": "2025-09-23 21:39:27"
+        },
+        {
+            "source": {
+                "name": "usatoday"
+            },
+            "title": "How the internet and Wi-Fi work: A guide to connections, data and the cloud",
+            "url": "https://www.usatoday.com/story/tech/internet/2025/09/23/how-the-internet-works/86315957007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/09/23/USAT/86317153007-getty-images-2224633749.jpg?auto=webp&crop=5359%2C3016%2Cx0%2Cy278&format=pjpg&height=1801&width=3200",
+            "publishedAt": "2025-09-23 21:38:33"
+        },
+        {
+            "source": {
+                "name": "postregister"
+            },
+            "title": "AP Technology SummaryBrief at 5:21 p.m. EDT",
+            "url": "https://www.postregister.com/businessreport/business/ap-technology-summarybrief-at-5-21-p-m-edt/article_1590b4e5-6bb7-57a9-b181-fbdc11860f67.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
+            "publishedAt": "2025-09-23 21:21:30"
+        },
+        {
+            "source": {
+                "name": "mankatofreepress"
+            },
+            "title": "OpenAI and Oracle show off Stargate AI data center in Texas and plan five more elsewhere",
+            "url": "https://www.mankatofreepress.com/news/business/openai-and-oracle-show-off-stargate-ai-data-center-in-texas-and-plan-five-more/article_33f8d61a-d9df-5efc-9655-42893d7b620d.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/mankatofreepress.com/content/tncms/assets/v3/editorial/1/29/12975222-a595-55c3-a361-2150d197a636/68d30bf777299.image.jpg?resize=300%2C169",
+            "publishedAt": "2025-09-23 21:21:14"
+        },
+        {
+            "source": {
+                "name": "milescitystar"
+            },
+            "title": "OpenAI and Oracle show off Stargate AI data center in Texas and plan five more elsewhere",
+            "url": "https://www.milescitystar.com/ap_news/national/openai-and-oracle-show-off-stargate-ai-data-center-in-texas-and-plan-five-more/article_5a75206d-9456-5cb4-b097-57edf3a83f0d.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/milescitystar.com/content/tncms/assets/v3/editorial/4/31/431b3f7f-3269-5c66-b687-b77b4a638d11/68d30fb61eca8.image.jpg?resize=300%2C169",
+            "publishedAt": "2025-09-23 21:21:14"
+        },
+        {
+            "source": {
+                "name": "reflector"
+            },
+            "title": "OpenAI and Oracle show off Stargate AI data center in Texas and plan five more elsewhere",
+            "url": "https://www.reflector.com/news/national/openai-and-oracle-show-off-stargate-ai-data-center-in-texas-and-plan-five-more/article_73694927-1026-5ca3-a0e7-8f073f0fad30.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/reflector.com/content/tncms/assets/v3/editorial/e/8b/e8be97e2-f9d7-5852-bdde-555193dd82ed/68d30c6edfc2c.image.jpg?resize=300%2C169",
+            "publishedAt": "2025-09-23 21:21:14"
+        },
+        {
+            "source": {
+                "name": "chronicleonline"
+            },
+            "title": "OpenAI and Oracle show off Stargate AI data center in Texas and plan five more elsewhere",
+            "url": "https://www.chronicleonline.com/news/national/openai-and-oracle-show-off-stargate-ai-data-center-in-texas-and-plan-five-more/article_67062c42-a69b-5a6f-bc02-7f95b12f3dd2.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/chronicleonline.com/content/tncms/assets/v3/editorial/0/5a/05a070c0-964c-53ef-9054-24794e3dedee/68d30f5a215d7.image.jpg?resize=300%2C169",
+            "publishedAt": "2025-09-23 21:21:14"
+        },
+        {
+            "source": {
+                "name": "newspressnow"
+            },
+            "title": "OpenAI and Oracle show off Stargate AI data center in Texas and plan five more elsewhere",
+            "url": "https://www.newspressnow.com/ap/ap-us-politics-news/2025/09/23/openai-and-oracle-show-off-stargate-ai-data-center-in-texas-and-plan-five-more-elsewhere/",
+            "urlToImage": "https://newspressnow.b-cdn.net/wp-content/uploads/2025/09/OpenAI_Stargate_43284-1.jpg",
+            "publishedAt": "2025-09-23 21:21:14"
+        },
+        {
+            "source": {
                 "name": "tribuneindia"
             },
             "title": "28 students from state get rare glimpse into ISRO labs, inspired to take up research",
@@ -3015,138 +3153,6 @@
             "url": "https://www.newswise.com/articles/epb-quantum-adds-hybrid-computing-to-comprehensive-quantum-development-platform/?sc=rssn",
             "urlToImage": "https://www.newswise.com/legacy/image.php?image=",
             "publishedAt": "2025-09-23 01:53:05"
-        },
-        {
-            "source": {
-                "name": "siliconangle"
-            },
-            "title": "Enterprise AI consultancy Distyl AI’s valuation soars to $1.8B after bumper funding round",
-            "url": "https://siliconangle.com/2025/09/22/enterprise-ai-consultancy-distyl-ais-valuation-soars-1-8b-bumper-funding-round/",
-            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/09/Screenshot-from-2025-09-23-08-40-56.png",
-            "publishedAt": "2025-09-23 01:41:36"
-        },
-        {
-            "source": {
-                "name": "ibtimes"
-            },
-            "title": "The (Not) Doomed Internet: Can Content Creation and Scraping Join Forces?",
-            "url": "https://www.ibtimes.com/not-doomed-internet-can-content-creation-scraping-join-forces-3784200",
-            "urlToImage": "https://d.ibtimes.com/en/full/4623214/pierluigi-vinciguerra.png",
-            "publishedAt": "2025-09-23 01:26:09"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "AI Red Lines: NVIDIA And OpenAI $100B Push And UN’s Global Warning",
-            "url": "https://www.forbes.com/sites/paulocarvao/2025/09/22/ai-red-lines-nvidia-and-openai-100b-push-and-uns-global-warning/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68d1e55ff4c4e3cf50f65b81/0x0.jpg?width=960",
-            "publishedAt": "2025-09-23 01:23:49"
-        },
-        {
-            "source": {
-                "name": "en_prnasisa"
-            },
-            "title": "Korea's XR Startup DoubleMe To Reveal Breakthrough AI Technology at Tokyo XR Fair",
-            "url": "https://en.prnasia.com/story/504514-0.shtml",
-            "urlToImage": "https://mma.prnasia.com/media2/2778342/Doubleme_ceo.jpg?p=medium600",
-            "publishedAt": "2025-09-23 01:00:00"
-        },
-        {
-            "source": {
-                "name": "economictimes_indiatimes"
-            },
-            "title": "Upskilling cos tailor courses as H-1B fee hike upends plans",
-            "url": "https://economictimes.indiatimes.com/tech/technology/upskilling-cos-tailor-courses-as-h-1b-fee-hike-upends-plans/articleshow/124056089.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-2325562,resizemode-75,msid-124056089/tech/technology/upskilling-cos-tailor-courses-as-h-1b-fee-hike-upends-plans.jpg",
-            "publishedAt": "2025-09-23 00:31:00"
-        },
-        {
-            "source": {
-                "name": "economictimes_indiatimes"
-            },
-            "title": "Silicon saga: From CPU to XPU, challengers chip in",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/silicon-saga-from-cpu-to-xpu-challengers-chip-in/articleshow/124055648.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-63834,resizemode-75,msid-124055648/tech/artificial-intelligence/silicon-saga-from-cpu-to-xpu-challengers-chip-in.jpg",
-            "publishedAt": "2025-09-23 00:30:00"
-        },
-        {
-            "source": {
-                "name": "headtopics"
-            },
-            "title": "The AI-energy apocalypse might be a little overblown",
-            "url": "https://us.headtopics.com/news/the-ai-energy-apocalypse-might-be-a-little-overblown-73386256",
-            "urlToImage": "https://i.headtopics.com/images/2025/9/21/adndotcom/artificial-intelligence-ushers-in-a-golden-age-of--artificial-intelligence-ushers-in-a-golden-age-of--C6EEC631806AB4086F4B51E804AD7E55.webp?w=640",
-            "publishedAt": "2025-09-23 00:10:52"
-        },
-        {
-            "source": {
-                "name": "xda_developers"
-            },
-            "title": "Arm is the future of desktop computing, and the writing is on the wall for x86",
-            "url": "https://www.xda-developers.com/arm-future-desktop-computing-writing-wall-x86/",
-            "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2024/06/qualcomm-snapdragon-x-elite-3.jpg",
-            "publishedAt": "2025-09-23 00:00:19"
-        },
-        {
-            "source": {
-                "name": "digitaltrends"
-            },
-            "title": "As a Windows fan, here’s why macOS 26 Tahoe is tempting me",
-            "url": "https://www.digitaltrends.com/computing/as-a-windows-fan-heres-why-macos-26-tahoe-is-tempting-me/",
-            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/07/Apple-macOS-tahoe-26-public-beta-m4-macbook-air-15-11-e1755493540610.jpg?p=1&resize=1200%2C630",
-            "publishedAt": "2025-09-23 00:00:00"
-        },
-        {
-            "source": {
-                "name": "financialcontent"
-            },
-            "title": "AI Boom Or Bubble? Bain Forecasts Huge $800B Gap Between AI Revenues And Compute Costs By 2030",
-            "url": "https://stocktwits.com/news-articles/markets/equity/ai-boom-or-bubble-bain-forecasts-huge-800b-gap-between-ai-revenues-and-compute-costs/chDhlfzR3PQ",
-            "urlToImage": "https://news.stocktwits-cdn.com/large_Getty_Images_2185274874_jpg_7f6be70ff2.webp",
-            "publishedAt": "2025-09-23 00:00:00"
-        },
-        {
-            "source": {
-                "name": "financialcontent"
-            },
-            "title": "Nvidia Just Got Another Tailwind -- Why Groq's $6.9 Billion Valuation Proves AI Chips Are Still Hot",
-            "url": "https://www.fool.com/investing/2025/09/23/nvidia-just-got-another-tailwind-why-groqs-69-bill/",
-            "urlToImage": "https://g.foolcdn.com/image/?h=400&op=resize&url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F834057%2Fnvidia-headquarters-outside-with-black-nvidia-sign-with-nvidia-logo-1.jpg&w=400",
-            "publishedAt": "2025-09-23 00:00:00"
-        },
-        {
-            "source": {
-                "name": "financialcontent"
-            },
-            "title": "Prediction: Alphabet's AI Advances Could Add $3 Trillion in Market Cap by 2030",
-            "url": "https://www.fool.com/investing/2025/09/23/prediction-alphabets-ai-advances-could-add-3-trill/",
-            "urlToImage": "https://g.foolcdn.com/image/?h=400&op=resize&url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F834457%2Fgettyimages-2155672333.jpg&w=400",
-            "publishedAt": "2025-09-23 00:00:00"
-        },
-        {
-            "source": {
-                "id": "6f97df9bf07dbbc5b124859805bffd6f",
-                "name": "The Street",
-                "url": "https://www.thestreet.com",
-                "country": "us"
-            },
-            "title": "Hundreds of flights canceled as ransomware drama continues",
-            "url": "https://www.thestreet.com/travel/hundreds-of-flights-canceled-as-ransomware-drama-continues-",
-            "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjE2NDk4NDgwNzU4MTM4MjIz/airport_security_tsa_cp_072225.jpg",
-            "publishedAt": "2025-09-22T22:37:00Z"
-        },
-        {
-            "source": {
-                "id": "0d429ea54fdbe8e34c582aa31bc81aba",
-                "name": "The Boston Globe",
-                "url": "https://www.bostonglobe.com",
-                "country": "us"
-            },
-            "title": "Trump’s nuclear ‘renaissance’ rests on risky plan for radioactive waste",
-            "url": "https://www.bostonglobe.com/2025/09/22/nation/trumps-nuclear-renaissance-rests-risky-plan-radioactive-waste/",
-            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/OSJI3NHHYPKMXGMGNC5BGOTO4A.jpg?auth=be1c9ec6c7781e68b3c844faac0fc5f58c28166c7d9c693133ad3a94cb7f5c9f&width=1440",
-            "publishedAt": "2025-09-22T22:16:44Z"
         }
     ]
 }
