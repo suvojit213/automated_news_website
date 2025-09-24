@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2025-09-24T06:22:32.546178Z",
+    "lastUpdatedAt": "2025-09-24T07:15:14.788617Z",
     "articles": [
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "OpenAI and Oracle show off Stargate AI data center in Texas and plan five more elsewhere",
+            "url": "https://japantoday.com/category/tech/openai-and-oracle-show-off-stargate-ai-data-center-in-texas-and-plan-five-more-elsewhere",
+            "urlToImage": "https://media.japantoday.com/img/store/b4/8e/c3bfd75d8d47368a217fae8136e3286d9415/download/_w1700.jpeg",
+            "publishedAt": "2025-09-23T19:10:00Z"
+        },
+        {
+            "source": {
+                "id": "6fea3ee012f060c6309366516e8d00be",
+                "name": "News-Medical.net",
+                "url": "https://www.news-medical.net",
+                "country": "gb"
+            },
+            "title": "UCLA to co-lead a large-scale randomized trial of AI in breast cancer screening",
+            "url": "https://www.news-medical.net/news/20250923/UCLA-to-co-lead-a-large-scale-randomized-trial-of-AI-in-breast-cancer-screening.aspx",
+            "urlToImage": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+            "publishedAt": "2025-09-23T19:01:00Z"
+        },
+        {
+            "source": {
+                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
+                "name": "ABC (Australian Broadcasting Corporation)",
+                "url": "https://www.abc.net.au",
+                "country": "au"
+            },
+            "title": "Could artificial intelligence and a universal basic income eliminate 'meaningless jobs'?",
+            "url": "https://www.abc.net.au/news/2025-09-24/will-we-need-a-universal-basic-income-to-deal-with-ai-job-losses/105747954",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/2f5db49f7cbb6e4a2587805f4e49015d?impolicy=wcms_watermark_news&cropH=1830&cropW=3254&xPos=1&yPos=162&width=862&height=485&imformat=generic",
+            "publishedAt": "2025-09-23T18:52:58Z"
+        },
+        {
+            "source": {
+                "id": "2e9e50c94b2fe950c6f3c06660288260",
+                "name": "SiliconANGLE News",
+                "url": "https://siliconangle.com",
+                "country": "us"
+            },
+            "title": "How ransomware is redefining cybersecurity resilience",
+            "url": "https://siliconangle.com/2025/09/23/ransomware-redefining-cybersecurity-resilience-crowdstrikefalcon/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/09/Screenshot-2025-09-22-at-15.50.06.png",
+            "publishedAt": "2025-09-23T18:45:23Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "MasterQuant Unveils AI-Powered Crypto Trading Mobile App Amid Market Surge",
+            "url": "https://www.manilatimes.net/2025/09/24/tmt-newswire/globenewswire/masterquant-unveils-ai-powered-crypto-trading-mobile-app-amid-market-surge/2189244",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/09/24/758362.jpg",
+            "publishedAt": "2025-09-23T18:26:55Z"
+        },
+        {
+            "source": {
+                "id": "492abf277b7277432148b61b21ddc836",
+                "name": "Los Angeles Times",
+                "url": "https://www.latimes.com",
+                "country": "us"
+            },
+            "title": "How microfluidics could solve AI's overheating crisis in power-hungry data centers",
+            "url": "https://www.latimes.com/business/story/2025-09-23/microsoft-is-turning-to-the-field-of-microfluidics-to-cool-down-ai-chips",
+            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/b9b50a2/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fca%2F33%2Fdca1a664098fc2f5ecbbb06b77d4%2F1x-1.jpg",
+            "publishedAt": "2025-09-23T18:26:00Z"
+        },
         {
             "source": {
                 "id": "85b540771682043e2a9f294068f5345b",
@@ -1539,6 +1611,96 @@
         },
         {
             "source": {
+                "name": "androidheadlines"
+            },
+            "title": "Turn your audiophile cans into a PS5-ready headset with Sennheiser’s latest gadget",
+            "url": "https://www.androidheadlines.com/2025/09/turn-your-audiophile-cans-into-a-ps5-ready-headset-with-sennheisers-latest-gadget.html",
+            "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2025/09/Sennheiser-HD-500-Bam-Microphone-1420x799.jpg",
+            "publishedAt": "2025-09-23 19:10:12"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "How much RAM does your Linux PC really need in 2025? I did the math so you don't have to",
+            "url": "https://www.zdnet.com/article/how-much-ram-does-your-linux-pc-really-need-in-2025-i-did-the-math-so-you-dont-have-to/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/7994ee696532cb05fcbd68b453a019f49b5a7234/2025/09/23/f9680d81-e560-48ff-a3a2-bd060f9bf59e/gettyimages-1434663223.jpg?auto=webp&precrop=2121%2C1192%2Cx0%2Cy189&width=1280",
+            "publishedAt": "2025-09-23 19:09:00"
+        },
+        {
+            "source": {
+                "name": "biztoc"
+            },
+            "title": "What Will Nvidia's $100 Billion OpenAI Investment Reap?",
+            "url": "https://biztoc.com/x/c3e3e4df27ea4544",
+            "urlToImage": "https://cdn.biztoc.com/c3e3e4df27ea4544_sq.webp",
+            "publishedAt": "2025-09-23 19:08:34"
+        },
+        {
+            "source": {
+                "name": "nwahomepage"
+            },
+            "title": "The iPad Air M3 is one of the best tablets you can buy",
+            "url": "https://www.nwahomepage.com/reviews/br/electronics-br/tablets-accessories-br/the-ipad-air-m3-is-one-of-the-best-tablets-you-can-buy/",
+            "urlToImage": "https://www.nwahomepage.com/wp-content/uploads/sites/90/2025/09/feature_ipad-air-m3-review.jpg?w=900",
+            "publishedAt": "2025-09-23 19:06:04"
+        },
+        {
+            "source": {
+                "name": "cbs17"
+            },
+            "title": "The iPad Air M3 is one of the best tablets you can buy",
+            "url": "https://www.cbs17.com/reviews/br/electronics-br/tablets-accessories-br/the-ipad-air-m3-is-one-of-the-best-tablets-you-can-buy/",
+            "urlToImage": "https://www.cbs17.com/wp-content/uploads/sites/29/2025/09/feature_ipad-air-m3-review.jpg?w=900",
+            "publishedAt": "2025-09-23 19:06:04"
+        },
+        {
+            "source": {
+                "name": "investing_us"
+            },
+            "title": "Nvidia: $100B OpenAI Deal Reinforces Its Role as the Core AI Infrastructure Provid",
+            "url": "https://www.investing.com/analysis/nvidia-100b-openai-deal-reinforces-its-role-as-the-core-ai-infrastructure-provid-200667372",
+            "urlToImage": "https://i-invdn-com.investing.com/redesign/images/seo/v2/investingcom_analysis_og.jpg",
+            "publishedAt": "2025-09-23 19:02:00"
+        },
+        {
+            "source": {
+                "name": "thestreet"
+            },
+            "title": "Quantum computing companies looking to finance the future",
+            "url": "https://www.thestreet.com/technology/quantum-computing-companies-looking-to-finance-the-future",
+            "urlToImage": "https://www.thestreet.com/.image/c_fit,h_800,w_1200/MjExNzY3MTMzNTEwNTc1NjUx/quantum_computers_stocks_kl.jpg",
+            "publishedAt": "2025-09-23 18:52:55"
+        },
+        {
+            "source": {
+                "name": "bitcoinworld"
+            },
+            "title": "AI Coding Tools: Unlocking a Transformative Future for Software Development",
+            "url": "https://bitcoinworld.co.in/ai-coding-tools-future/",
+            "urlToImage": "https://bitcoinworld.co.in/wp-content/uploads/ai-coding-tools-future.jpg",
+            "publishedAt": "2025-09-23 18:40:11"
+        },
+        {
+            "source": {
+                "name": "newsable_asianetnews"
+            },
+            "title": "Microsoft Reveals Cooling Breakthrough For AI Hardware: Here’s How It Works",
+            "url": "https://newsable.asianetnews.com/markets/microsoft-reveals-cooling-breakthrough-for-ai-hardware-here-s-how-it-works-articleshow-4v3xxen",
+            "urlToImage": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-6d21b016-fe1b-4c7d-bba3-b704c6493028.webp",
+            "publishedAt": "2025-09-23 18:40:01"
+        },
+        {
+            "source": {
+                "name": "interestingengineering"
+            },
+            "title": "The reagent bottleneck holding back batteries",
+            "url": "https://interestingengineering.com/energy/engineers-salt-industrial-waste-energy",
+            "urlToImage": "https://cms.interestingengineering.com/wp-content/uploads/2025/09/image-30.png",
+            "publishedAt": "2025-09-23 18:38:28"
+        },
+        {
+            "source": {
                 "name": "mathrubhumi"
             },
             "title": "India’s 15th National Statistics Olympiad opens registration for young minds",
@@ -3036,198 +3198,6 @@
             "url": "https://www.sandiegouniontribune.com/2025/09/22/nvidia-openai-partnership/",
             "urlToImage": "https://www.sandiegouniontribune.com/wp-content/uploads/2025/09/Nvidia_Intel_39467-1-1.jpg?w=1024&h=683",
             "publishedAt": "2025-09-22T17:55:04Z"
-        },
-        {
-            "source": {
-                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-                "name": "New York Post",
-                "url": "https://nypost.com",
-                "country": "us"
-            },
-            "title": "Nvidia investing up to $100B in ChatGPT owner OpenAI",
-            "url": "https://nypost.com/2025/09/22/business/nvidia-investing-up-to-100b-in-chatgpt-owner-openai/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/09/nvidia-openai-investment.jpg?quality=75&strip=all&1758546496&w=1024",
-            "publishedAt": "2025-09-22T17:50:23Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "From pixels to pumps: Machine learning and satellite imagery help map irrigation",
-            "url": "https://phys.org/news/2025-09-pixels-machine-satellite-imagery-irrigation.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/from-pixels-to-pumps-a.jpg",
-            "publishedAt": "2025-09-22T17:50:08Z"
-        },
-        {
-            "source": {
-                "id": "77b86639d1384ac68141803ec5db27c0",
-                "name": "NBC News",
-                "url": "https://www.nbcnews.com",
-                "country": "us"
-            },
-            "title": "Chipmaker Nvidia to invest $100 billion in OpenAI",
-            "url": "https://www.nbcnews.com/business/business-news/chipmaker-nvidia-invest-100-billion-openai-rcna232974",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250922-altman-huang-mb-1750-fb0d22.jpg",
-            "publishedAt": "2025-09-22T17:11:41Z"
-        },
-        {
-            "source": {
-                "id": "79baacd62152cf257ee35e8c0bec19a2",
-                "name": "UPI News",
-                "url": "https://www.upi.com",
-                "country": "us"
-            },
-            "title": "CEO's in leadership shakeup",
-            "url": "https://www.upi.com/Top_News/US/2025/09/22/Oracle-CEO-Magouyrk-Sicilia-artificial-intelligence-AI-Larry-Ellison/3061758556287/",
-            "urlToImage": "https://cdnph.upi.com/sv/ph/og/upi/3061758556287/2025/1/b98b8715482f741bed4621c0dcadc043/v1.5/Oracle-appoints-two-co-CEOs-in-leadership-shakeup.jpg",
-            "publishedAt": "2025-09-22T17:10:54Z"
-        },
-        {
-            "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
-                "country": "in"
-            },
-            "title": "Nvidia To Invest $100 Billion In OpenAI For Data Centers",
-            "url": "https://www.ndtvprofit.com/technology/nvidia-to-invest-usd-100-billion-in-openai-for-data-centers",
-            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-09-22%2Fem0kweuo%2F440130931.jpg?rect=0%2C226%2C4000%2C2100&w=1200&auto=format%2Ccompress&ogImage=true",
-            "publishedAt": "2025-09-22T17:06:24Z"
-        },
-        {
-            "source": {
-                "id": "17d7c2645f485578130862e0c8dd9480",
-                "name": "The Mercury News",
-                "url": "https://www.mercurynews.com",
-                "country": "us"
-            },
-            "title": "California issues historic fine over lawyer’s ChatGPT fabrications",
-            "url": "https://www.mercurynews.com/2025/09/22/california-issues-historic-fine-over-lawyers-chatgpt-fabrications/",
-            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/09/10092023_CARE-Court_AH_10.webp?w=1023&h=682",
-            "publishedAt": "2025-09-22T17:00:55Z"
-        },
-        {
-            "source": {
-                "id": "dcb757ba5480d7edec9ca152d58b7d3d",
-                "name": "Swissinfo (EN)",
-                "url": "https://www.swissinfo.ch",
-                "country": "ch"
-            },
-            "title": "Stocks Get Tech Lift as Nvidia Rekindles AI Hopes: Markets Wrap",
-            "url": "https://www.swissinfo.ch/eng/stocks-get-tech-lift-as-nvidia-rekindles-ai-hopes%3a-markets-wrap/90042383",
-            "urlToImage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1756792941",
-            "publishedAt": "2025-09-22T17:00:03Z"
-        },
-        {
-            "source": {
-                "id": "1b697445987e8a33f6c82842e17d60d9",
-                "name": "Bnn Bloomberg",
-                "url": "https://www.bnnbloomberg.ca",
-                "country": "ca"
-            },
-            "title": "Nvidia to invest US$100 billion in OpenAI",
-            "url": "https://www.bnnbloomberg.ca/business/2025/09/22/nvidia-to-invest-us100-billion-in-openai/",
-            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/HOTVFEFCQHYNVWF2UAX4JIAK5U.jpg?smart=true&auth=2eadc7afe5ac42015a78c618c6b3f7308628b05d9db8b1fe161f5b2635c478ea&width=1200&height=630",
-            "publishedAt": "2025-09-22T16:44:47Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "Diagnostic tool enables rapid leukemia subtype classification",
-            "url": "https://medicalxpress.com/news/2025-09-diagnostic-tool-enables-rapid-leukemia.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/diagnostic-tool-enable.jpg",
-            "publishedAt": "2025-09-22T16:38:04Z"
-        },
-        {
-            "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
-            },
-            "title": "Airport chaos highlights rise in high-profile ransomware attacks, cyber experts say",
-            "url": "https://www.straitstimes.com/world/europe/Airport-chaos-highlights-rise-in-high-profile-ransomware-attacks-cyber-experts-say",
-            "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/017da9699b2b3fef1b71ecc86b16bacfda08999f901856bdc5d1644ab247d5f8",
-            "publishedAt": "2025-09-22T16:16:52Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Magnum ice cream company to use NotCo AI for new products",
-            "url": "https://www.reuters.com/business/magnum-ice-cream-company-use-notco-ai-new-products-2025-09-22/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/2PWIHPIQNBP6DFKXW2GQLVK57A.jpg?auth=1b9582403bf61293a321ad0cb69e86845e4ca52d60f4a51acd597a23322186ac&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-09-22T16:15:44Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Airport chaos highlights rise in high-profile ransomware attacks, cyber experts say",
-            "url": "https://www.reuters.com/legal/government/airport-chaos-highlights-rise-high-profile-ransomware-attacks-cyber-experts-say-2025-09-22/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/5CVADZHI7JLVHHYCAFIGEXPDI4.jpg?auth=fede7cebda9bb7386d6bcc1a667defbd010a09c702de02c749cc34447fb6f95e&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-09-22T16:12:45Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "High-Stakes Cyber Heists: The New Frontier for Cybercriminals",
-            "url": "https://www.devdiscourse.com/article/technology/3636897-high-stakes-cyber-heists-the-new-frontier-for-cybercriminals",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/10_07_2024_17_03_06_3107673.png?width=920&format=jpeg",
-            "publishedAt": "2025-09-22T16:07:51Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Nvidia and Abu Dhabi institute launch joint AI and robotics lab in the UAE",
-            "url": "https://www.manilatimes.net/2025/09/23/business/foreign-business/nvidia-and-abu-dhabi-institute-launch-joint-ai-and-robotics-lab-in-the-uae/2188404",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/09/22/756620.png",
-            "publishedAt": "2025-09-22T16:06:00Z"
-        },
-        {
-            "source": {
-                "id": "435d508bebcc8689d5c7711d44865b80",
-                "name": "Activist Post",
-                "url": "https://www.activistpost.com",
-                "country": "us"
-            },
-            "title": "We Don’t Need No Stinkin’ Ethics",
-            "url": "https://www.activistpost.com/we-dont-need-no-stinkin-ethics/",
-            "urlToImage": "https://www.activistpost.com/wp-content/uploads/2025/09/adobestock-don-quixote-scaled-1.jpeg",
-            "publishedAt": "2025-09-22T16:00:00Z"
-        },
-        {
-            "source": {
-                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-                "name": "WTOP",
-                "url": "https://wtop.com",
-                "country": "us"
-            },
-            "title": "driven disinformation from Russia",
-            "url": "https://wtop.com/europe/2025/09/moldovas-election-faces-ai-driven-disinformation-from-russia/",
-            "urlToImage": "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png",
-            "publishedAt": "2025-09-22T15:44:46Z"
         }
     ]
 }
