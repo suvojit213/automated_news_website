@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-09-25T07:15:21.425561Z",
+    "lastUpdatedAt": "2025-09-25T08:20:19.993340Z",
     "articles": [
+        {
+            "source": {
+                "id": "5ac5f32ba74846cef441099f666f2d98",
+                "name": "Fast Company",
+                "url": "https://www.fastcompany.com",
+                "country": "us"
+            },
+            "title": "The death of the dashboard",
+            "url": "https://www.fastcompany.com/91409610/the-death-of-the-dashboard",
+            "urlToImage": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2025/09/EDITED-FC-Executive-Board-Templates-12.png",
+            "publishedAt": "2025-09-24T20:16:00Z"
+        },
+        {
+            "source": {
+                "id": "7f6e8514e9d8f8376aaa9a7229861518",
+                "name": "PerthNow",
+                "url": "https://www.perthnow.com.au",
+                "country": "au"
+            },
+            "title": "More Aussie workers turn to AI but revolution is slow",
+            "url": "https://www.perthnow.com.au/news/business/more-aussie-workers-turn-to-ai-but-revolution-is-slow-c-20134519",
+            "urlToImage": "https://images.perthnow.com.au/publication/C-20134519/383db3ec06675a79acb2fc7eb3381da8c5ec5a93-16x9-x0y0w1280h720.jpg?imwidth=1200",
+            "publishedAt": "2025-09-24T20:02:17Z"
+        },
+        {
+            "source": {
+                "id": "92021aca7322dc2b29226023c35d9a4a",
+                "name": "The Canberra Times",
+                "url": "https://www.canberratimes.com.au",
+                "country": "au"
+            },
+            "title": "More Aussie workers turn to AI but revolution is slow",
+            "url": "https://www.canberratimes.com.au/story/9074338/more-aussie-workers-turn-to-ai-but-revolution-is-slow/",
+            "urlToImage": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/794ad573-6003-45c6-a119-98bd6f830537.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+            "publishedAt": "2025-09-24T20:00:31Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -1599,6 +1635,24 @@
         },
         {
             "source": {
+                "name": "postregister"
+            },
+            "title": "Cadence Partners with TSMC to Power Next-Generation Innovations Using AI Flows and IP for TSMC Advanced Nodes and 3DFabric",
+            "url": "https://www.postregister.com/businessreport/technology/cadence-partners-with-tsmc-to-power-next-generation-innovations-using-ai-flows-and-ip-for/article_1622fa97-2d4c-5f30-9262-b40deb25dde8.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/assets/v3/editorial/8/88/888360b3-12f1-5d69-b3e8-3c01c2e555ed/68d4549f7c025.image.jpg?resize=300%2C169",
+            "publishedAt": "2025-09-24 20:16:17"
+        },
+        {
+            "source": {
+                "name": "siliconangle"
+            },
+            "title": "Modular raises $250M to simplify AI deployment across hardware",
+            "url": "https://siliconangle.com/2025/09/24/modular-raises-250m-simplify-ai-deployment-across-hardware/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/04/A-circuit-board-with-an-AI-model-looking-down-on-it-touching-it-with-a-glowing-hand-abstract-art-mut.jpeg",
+            "publishedAt": "2025-09-24 19:45:47"
+        },
+        {
+            "source": {
                 "name": "cnet"
             },
             "title": "Boost Your Cellphone Signal Anywhere, Anytime With These Steps",
@@ -3096,66 +3150,6 @@
             "url": "https://markets.businessinsider.com/news/stocks/boyd-gaming-announces-cybersecurity-incident-says-no-impact-on-business-1035195378",
             "urlToImage": "https://markets.businessinsider.com/favicon-32x32.png",
             "publishedAt": "2025-09-23T21:05:12Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "OpenAI, Oracle, SoftBank plan five new AI data centers for $500 billion Stargate project",
-            "url": "https://www.reuters.com/business/media-telecom/openai-oracle-softbank-plan-five-new-ai-data-centers-500-billion-stargate-2025-09-23/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/OITQ5R4DU5LUJECJK3MNFT6KPE.jpg?auth=3744b4ae61da607f583b8f3be320b7084efd74da12afffbfd5d4111f65a9e85a&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-09-23T21:04:34Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "OpenAI Expands Stargate With Five New Data Center Sites Across US",
-            "url": "https://www.bloomberg.com/news/articles/2025-09-23/openai-oracle-expand-stargate-with-5-new-data-center-sites-in-us",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqNvUdAGbKcc/v1/1200x800.jpg",
-            "publishedAt": "2025-09-23T21:00:35Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Intelligent Protection Management Corp. to Participate in the Lytham Partners Fall 2025 Investor Conference on September 30, 2025",
-            "url": "https://www.manilatimes.net/2025/09/24/tmt-newswire/globenewswire/intelligent-protection-management-corp-to-participate-in-the-lytham-partners-fall-2025-investor-conference-on-september-30-2025/2189277",
-            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-            "publishedAt": "2025-09-23T20:27:50Z"
-        },
-        {
-            "source": {
-                "id": "f5081afeaba654292dd91fffd29f9dd4",
-                "name": "The Globe and Mail",
-                "url": "https://www.theglobeandmail.com",
-                "country": "ca"
-            },
-            "title": "France’s Mistral AI plans expansion into Canada",
-            "url": "https://www.theglobeandmail.com/business/article-france-mistral-ai-expansion-canada-cohere-openai/",
-            "urlToImage": "https://www.theglobeandmail.com/pf/resources/assets/meta/facebook-1200x630.png?d=766",
-            "publishedAt": "2025-09-23T20:23:30Z"
-        },
-        {
-            "source": {
-                "id": "c1903669db0b115cc673ce9c333a70dd",
-                "name": "Charleston Post and Courier",
-                "url": "https://www.postandcourier.com",
-                "country": "us"
-            },
-            "title": "SC must invest in modern energy infrastructure",
-            "url": "https://www.postandcourier.com/opinion/commentary/sc-energy-infrastructure-artificial-intelligence-data-centers/article_18896381-82ba-4a33-ab5e-55798eecf5ad.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/f/8f/f8fae5cd-f329-49e0-947e-19f1856c1da5/66b22c3870bb0.image.jpg?crop=1762%2C925%2C0%2C0&resize=1200%2C630&order=crop%2Cresize",
-            "publishedAt": "2025-09-23T20:15:00Z"
         }
     ]
 }
