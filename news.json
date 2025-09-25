@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2025-09-25T06:23:02.609710Z",
+    "lastUpdatedAt": "2025-09-25T07:15:21.425561Z",
     "articles": [
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "ICTC and Mila Partner to Advance Responsible AI and Strengthen Canada’s Global Competitiveness",
+            "url": "https://www.manilatimes.net/2025/09/25/tmt-newswire/globenewswire/ictc-and-mila-partner-to-advance-responsible-ai-and-strengthen-canadas-global-competitiveness/2189987",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/09/25/759952.png",
+            "publishedAt": "2025-09-24T19:05:36Z"
+        },
+        {
+            "source": {
+                "id": "49853ffafc28f405ff8ed06043290ae8",
+                "name": "Global News",
+                "url": "https://globalnews.ca",
+                "country": "ca"
+            },
+            "title": "Ottawa planning ‘refreshed’ AI strategy, minister says",
+            "url": "https://globalnews.ca/news/11448831/ottawa-refreshed-ai-strategy-minister/",
+            "urlToImage": "https://globalnews.ca/wp-content/uploads/2025/09/Evan-Solomon-AI-strategy.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+            "publishedAt": "2025-09-24T19:00:42Z"
+        },
+        {
+            "source": {
+                "id": "a6d401909ca644c4ffb332486c9cfaea",
+                "name": "Seeking Alpha",
+                "url": "https://seekingalpha.com",
+                "country": "us"
+            },
+            "title": "Zscaler, Varonis, SailPoint among top cybersecurity stocks to own, JPMorgan says",
+            "url": "https://seekingalpha.com/news/4498572-zscaler-varonis-sailpoint-among-top-cybersecurity-stocks-to-own-jpmorgan-says",
+            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2195228110/image_2195228110.jpg?io=getty-c-w750",
+            "publishedAt": "2025-09-24T18:55:31Z"
+        },
+        {
+            "source": {
+                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
+                "name": "ABC (Australian Broadcasting Corporation)",
+                "url": "https://www.abc.net.au",
+                "country": "au"
+            },
+            "title": "Australia in a 'dangerous place' as AI adoption ramps up, prompting calls to protect jobs",
+            "url": "https://www.abc.net.au/news/2025-09-25/australia-in-dangerous-place-as-ai-adoption-ramps-up/105807430",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/8ea9bd168260291c56c7c41fa16362bf?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+            "publishedAt": "2025-09-24T18:42:36Z"
+        },
+        {
+            "source": {
+                "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
+                "name": "BayToday",
+                "url": "https://www.baytoday.ca",
+                "country": "ca"
+            },
+            "title": "Ottawa planning 'refreshed' AI strategy, data protection bill",
+            "url": "https://www.baytoday.ca/national-news/ottawa-planning-refreshed-ai-strategy-data-protection-bill-11255862",
+            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/09/dc378d4bdd2e6ba723d6baceedf9cdea0b8e76aee03e32efddb684e4f516fd10.jpg;w=1200;h=800;mode=crop",
+            "publishedAt": "2025-09-24T18:39:47Z"
+        },
+        {
+            "source": {
+                "id": "0ce70f407e0fa82ddaeeb29243aa8210",
+                "name": "SooToday",
+                "url": "https://www.sootoday.com",
+                "country": "ca"
+            },
+            "title": "Ottawa planning 'refreshed' AI strategy, data protection bill",
+            "url": "https://www.sootoday.com/national-news/ottawa-planning-refreshed-ai-strategy-data-protection-bill-11255862",
+            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/09/dc378d4bdd2e6ba723d6baceedf9cdea0b8e76aee03e32efddb684e4f516fd10.jpg;w=1200;h=800;mode=crop",
+            "publishedAt": "2025-09-24T18:39:47Z"
+        },
+        {
+            "source": {
+                "id": "90a6e6fbc82cfa821ac49fdb5c404789",
+                "name": "NewsX",
+                "url": "https://www.newsx.com",
+                "country": "in"
+            },
+            "title": "GenAI to shape over 40 million annual car-buying journeys by 2030: Report",
+            "url": "https://www.newsx.com/business/genai-to-shape-over-40-million-annual-car-buying-journeys-by-2030-report20250924184006-79757/",
+            "urlToImage": "https://www.newsx.com/wp-content/uploads/2025/09/GenAI-to-shape-over-40-million-annual-car-buying-journeys-by.avif",
+            "publishedAt": "2025-09-24T18:30:04Z"
+        },
         {
             "source": {
                 "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
@@ -1515,6 +1599,69 @@
         },
         {
             "source": {
+                "name": "cnet"
+            },
+            "title": "Boost Your Cellphone Signal Anywhere, Anytime With These Steps",
+            "url": "https://www.cnet.com/tech/mobile/boost-your-cellphone-signal-anywhere-anytime-with-these-steps/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/249013ee2179b0dc69894371e52a30fb2cd7b19e/hub/2023/08/29/cd6b0f36-3a84-497d-833e-598800a9f60b/cell-phone-searching-gettyimages-506923021.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-09-24 19:05:00"
+        },
+        {
+            "source": {
+                "name": "engadget"
+            },
+            "title": "NordVPN review 2025: Innovative features, a few missteps",
+            "url": "https://www.engadget.com/cybersecurity/vpn/nordvpn-review-2025-innovative-features-a-few-missteps-163000578.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?client=19f2b5e49a271b2bde77&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-06%2Fbbe79c10-487f-11f0-9fed-51cbb087000c&resize=1400%2C1301&signature=cef45a3a9e88677f5c2a7a2f47b8831b1f085246",
+            "publishedAt": "2025-09-24 19:00:36"
+        },
+        {
+            "source": {
+                "name": "space"
+            },
+            "title": "AI is transforming weather forecasting − and that could be a game changer for farmers around the world",
+            "url": "https://www.space.com/science/climate-change/ai-is-transforming-weather-forecasting-and-that-could-be-a-game-changer-for-farmers-around-the-world",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/HhCJtE9xQCiscaEN7YJLNP-1280-80.jpg",
+            "publishedAt": "2025-09-24 19:00:00"
+        },
+        {
+            "source": {
+                "name": "yahoo"
+            },
+            "title": "AI is transforming weather forecasting − and that could be a game changer for farmers around the world",
+            "url": "https://www.yahoo.com/news/articles/ai-transforming-weather-forecasting-could-190000283.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/GONmEqGh_xHIn7tRz5vmrA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MDtjZj13ZWJw/https://media.zenfs.com/en/space_311/9af58ebf8bf1b956f0f4c409965be955",
+            "publishedAt": "2025-09-24 19:00:00"
+        },
+        {
+            "source": {
+                "name": "newsable_asianetnews"
+            },
+            "title": "AMD Deepens Partnership With Cohere: Retail Calls Stock ‘A Serious Player In AI Arms Race’",
+            "url": "https://newsable.asianetnews.com/markets/amd-deepens-partnership-with-cohere-retail-calls-stock-a-serious-player-in-ai-arms-race-articleshow-ndv08zg",
+            "urlToImage": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-1976dc05-e7be-456d-b17a-9a6a58f766fc.webp",
+            "publishedAt": "2025-09-24 18:43:26"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "Does Your Personality Make You More Likely To Be Scammed?",
+            "url": "https://www.forbes.com/sites/davewinsborough/2025/09/24/does-your-personality-make-you-more-likely-to-be-scammed/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68d431f8f3ea94fc8465d08b/0x0.jpg?width=960",
+            "publishedAt": "2025-09-24 18:30:21"
+        },
+        {
+            "source": {
+                "name": "cnet"
+            },
+            "title": "You Can Snag Free Windows 10 Extended Security Updates From Microsoft. Here's How",
+            "url": "https://www.cnet.com/tech/computing/you-can-snag-free-windows-10-extended-security-updates-from-microsoft-heres-how/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/965b4df0b87b04c09c5b4f96b62a785f22b0ebda/hub/2025/05/22/a1523585-f6c5-4a59-9415-def46228e9f0/here-are-your-options-if-youre-running-windows-10-and-cant-upgrade-tg.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-09-24 18:30:00"
+        },
+        {
+            "source": {
                 "name": "spacenews"
             },
             "title": "Space Forge and United Semiconductors to collaborate on space-based semiconductor manufacturing",
@@ -3009,174 +3156,6 @@
             "url": "https://www.postandcourier.com/opinion/commentary/sc-energy-infrastructure-artificial-intelligence-data-centers/article_18896381-82ba-4a33-ab5e-55798eecf5ad.html",
             "urlToImage": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/f/8f/f8fae5cd-f329-49e0-947e-19f1856c1da5/66b22c3870bb0.image.jpg?crop=1762%2C925%2C0%2C0&resize=1200%2C630&order=crop%2Cresize",
             "publishedAt": "2025-09-23T20:15:00Z"
-        },
-        {
-            "source": {
-                "id": "0ce70f407e0fa82ddaeeb29243aa8210",
-                "name": "SooToday",
-                "url": "https://www.sootoday.com",
-                "country": "ca"
-            },
-            "title": "Fact File: AI video sparks false rumour of CN Tower fire",
-            "url": "https://www.sootoday.com/national-news/fact-file-ai-video-sparks-false-rumour-of-cn-tower-fire-11253026",
-            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/09/6821416078413ce19996dda566ddb2eb6864584ae2f2b35e478e2cc6ffa15519.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2025-09-23T20:12:39Z"
-        },
-        {
-            "source": {
-                "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
-                "name": "BayToday",
-                "url": "https://www.baytoday.ca",
-                "country": "ca"
-            },
-            "title": "Fact File: AI video sparks false rumour of CN Tower fire",
-            "url": "https://www.baytoday.ca/national-news/fact-file-ai-video-sparks-false-rumour-of-cn-tower-fire-11253026",
-            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/09/6821416078413ce19996dda566ddb2eb6864584ae2f2b35e478e2cc6ffa15519.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2025-09-23T20:12:39Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Micron forecasts first-quarter revenue above estimates on AI demand",
-            "url": "https://www.reuters.com/technology/micron-forecasts-first-quarter-revenue-above-estimates-2025-09-23/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/QERJCXMWJBMT5KSOGFA54U5ODA.jpg?auth=9aeb4fa0c68af13dbe296e010e3e840ade19fb92af1dace8c5b2463efe0d4805&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-09-23T20:05:52Z"
-        },
-        {
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            },
-            "title": "OpenAI and Oracle show off Stargate AI data center in Texas and plan five more elsewhere",
-            "url": "https://japantoday.com/category/tech/openai-and-oracle-show-off-stargate-ai-data-center-in-texas-and-plan-five-more-elsewhere",
-            "urlToImage": "https://media.japantoday.com/img/store/b4/8e/c3bfd75d8d47368a217fae8136e3286d9415/download/_w1700.jpeg",
-            "publishedAt": "2025-09-23T19:10:00Z"
-        },
-        {
-            "source": {
-                "id": "6fea3ee012f060c6309366516e8d00be",
-                "name": "News-Medical.net",
-                "url": "https://www.news-medical.net",
-                "country": "gb"
-            },
-            "title": "UCLA to co-lead a large-scale randomized trial of AI in breast cancer screening",
-            "url": "https://www.news-medical.net/news/20250923/UCLA-to-co-lead-a-large-scale-randomized-trial-of-AI-in-breast-cancer-screening.aspx",
-            "urlToImage": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-            "publishedAt": "2025-09-23T19:01:00Z"
-        },
-        {
-            "source": {
-                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
-                "name": "ABC (Australian Broadcasting Corporation)",
-                "url": "https://www.abc.net.au",
-                "country": "au"
-            },
-            "title": "Could artificial intelligence and a universal basic income eliminate 'meaningless jobs'?",
-            "url": "https://www.abc.net.au/news/2025-09-24/will-we-need-a-universal-basic-income-to-deal-with-ai-job-losses/105747954",
-            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/2f5db49f7cbb6e4a2587805f4e49015d?impolicy=wcms_watermark_news&cropH=1830&cropW=3254&xPos=1&yPos=162&width=862&height=485&imformat=generic",
-            "publishedAt": "2025-09-23T18:52:58Z"
-        },
-        {
-            "source": {
-                "id": "2e9e50c94b2fe950c6f3c06660288260",
-                "name": "SiliconANGLE News",
-                "url": "https://siliconangle.com",
-                "country": "us"
-            },
-            "title": "How ransomware is redefining cybersecurity resilience",
-            "url": "https://siliconangle.com/2025/09/23/ransomware-redefining-cybersecurity-resilience-crowdstrikefalcon/",
-            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/09/Screenshot-2025-09-22-at-15.50.06.png",
-            "publishedAt": "2025-09-23T18:45:23Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "MasterQuant Unveils AI-Powered Crypto Trading Mobile App Amid Market Surge",
-            "url": "https://www.manilatimes.net/2025/09/24/tmt-newswire/globenewswire/masterquant-unveils-ai-powered-crypto-trading-mobile-app-amid-market-surge/2189244",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/09/24/758362.jpg",
-            "publishedAt": "2025-09-23T18:26:55Z"
-        },
-        {
-            "source": {
-                "id": "492abf277b7277432148b61b21ddc836",
-                "name": "Los Angeles Times",
-                "url": "https://www.latimes.com",
-                "country": "us"
-            },
-            "title": "How microfluidics could solve AI's overheating crisis in power-hungry data centers",
-            "url": "https://www.latimes.com/business/story/2025-09-23/microsoft-is-turning-to-the-field-of-microfluidics-to-cool-down-ai-chips",
-            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/b9b50a2/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fca%2F33%2Fdca1a664098fc2f5ecbbb06b77d4%2F1x-1.jpg",
-            "publishedAt": "2025-09-23T18:26:00Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "Boeing, Palantir collaborate on AI for defense, space and security",
-            "url": "https://www.breitbart.com/news/boeing-palantir-collaborate-on-ai-for-defense-space-and-security/",
-            "urlToImage": "https://media.breitbart.com/media/2025/09/wi/upi/boeing-palantir-collaborate-ai-defense-space-security-boeing-palantir-collaborate-ai-defense.jpg",
-            "publishedAt": "2025-09-23T18:14:21Z"
-        },
-        {
-            "source": {
-                "id": "3feff5846d5b3b177ed9f0b001a4b867",
-                "name": "Reno Gazette-Journal",
-                "url": "https://www.rgj.com",
-                "country": "us"
-            },
-            "title": "Is the apocalypse near? | Faith Forum",
-            "url": "https://www.rgj.com/story/life/2025/09/23/is-the-apocalypse-near-faith-forum/86312885007/",
-            "urlToImage": "https://www.rgj.com/gcdn/authoring/authoring-images/2025/09/23/PREN/86312973007-getty-images-1392133809.jpg?crop=2235,1256,x74,y0&width=2235&height=1256&format=pjpg&auto=webp",
-            "publishedAt": "2025-09-23T18:03:56Z"
-        },
-        {
-            "source": {
-                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
-                "name": "The Associated Press",
-                "url": "https://apnews.com",
-                "country": "us"
-            },
-            "title": "West Texas lacking infrastructure to convert natural gas into electricity to meet data center demand",
-            "url": "https://apnews.com/article/energy-industry-texas-ed-longanecker-data-management-and-storage-general-news-9b732ee4dab07b7bb584eb3d137446d4",
-            "urlToImage": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
-            "publishedAt": "2025-09-23T17:54:14Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "Air quality analysis reveals minimal changes after xAI data center opens in pollution-burdened Memphis",
-            "url": "https://phys.org/news/2025-09-air-quality-analysis-reveals-minimal.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/data-center-6.jpg",
-            "publishedAt": "2025-09-23T17:39:04Z"
-        },
-        {
-            "source": {
-                "id": "389cd8acc16a300e4e2cb4618509de02",
-                "name": "Foreign Policy",
-                "url": "https://foreignpolicy.com",
-                "country": "us"
-            },
-            "title": "Why China Hawks Love Talking About AI",
-            "url": "https://foreignpolicy.com/2025/09/23/china-us-ai-competition-energy-biotechnology/",
-            "urlToImage": "https://foreignpolicy.com/wp-content/uploads/2025/09/china-congress-ai-GettyImages-1471961787.jpg?w=1000",
-            "publishedAt": "2025-09-23T17:39:01Z"
         }
     ]
 }
