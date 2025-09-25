@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2025-09-25T09:16:10.222283Z",
+    "lastUpdatedAt": "2025-09-25T10:16:10.766235Z",
     "articles": [
+        {
+            "source": {
+                "id": "ac7b96be74f81cabb4e02b818a3ff6d7",
+                "name": "MarketBeat",
+                "url": "https://www.marketbeat.com",
+                "country": "us"
+            },
+            "title": "BUG ETF Gains 75% as Cybersecurity Demand Soars",
+            "url": "https://www.marketbeat.com/originals/cybersecurity-market-set-to-double-this-etf-offers-exposure/",
+            "urlToImage": "https://www.marketbeat.com/logos/articles/med_20250922081303_the-cybersecurity-market-is-doubling.jpg",
+            "publishedAt": "2025-09-24T22:12:00Z"
+        },
+        {
+            "source": {
+                "id": "aaa6f2928e430ec2ed450ed89cc822f5",
+                "name": "Salt Lake City Deseret News",
+                "url": "https://www.deseret.com",
+                "country": "us"
+            },
+            "title": "What laws should govern artificial intelligence?",
+            "url": "https://www.deseret.com/opinion/2025/09/24/ai-policy-congress-children-harm-chatbots/",
+            "urlToImage": "https://www.deseret.com/resizer/v2/5MOVSL4BO2XW2LFOKO6XFKICVA.jpg?focal=0%2C0&auth=431e3e565b807cbaea64256bc997c5cca6cb46c1feefed9be881326ecdb9ecfe&width=1200&height=630",
+            "publishedAt": "2025-09-24T21:59:49Z"
+        },
+        {
+            "source": {
+                "id": "f5081afeaba654292dd91fffd29f9dd4",
+                "name": "The Globe and Mail",
+                "url": "https://www.theglobeandmail.com",
+                "country": "ca"
+            },
+            "title": "Ottawa to launch artificial intelligence task force",
+            "url": "https://www.theglobeandmail.com/business/article-canada-artificial-intelligence-task-force/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/v2/JPLP4X3DHBBYRNULRXOUPOITHI.JPG?auth=e34fecc5d3aabfad8314967fa9d9a8b6b6299ed7f629281d7c1dbb7eee4fd5e1&width=1200&height=800&quality=80&smart=true",
+            "publishedAt": "2025-09-24T21:59:16Z"
+        },
+        {
+            "source": {
+                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
+                "name": "ABC (Australian Broadcasting Corporation)",
+                "url": "https://www.abc.net.au",
+                "country": "au"
+            },
+            "title": "Volodymyr Zelenskyy warns UN of 'the most destructive arms race in human history'",
+            "url": "https://www.abc.net.au/news/2025-09-25/united-nations-general-assembly-volodymyr-zelenskyy-speech/105814462",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/a1078e16037f01c3e7c85f2c6244ea14?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+            "publishedAt": "2025-09-24T21:59:04Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "guided knee replacement offers hope to arthritis patients",
+            "url": "https://www.tribuneindia.com/news/jalandhar/ar-guided-knee-replacement-offers-hope-to-arthritis-patients/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTY0NGJhNDUwLTk5OGUtMTFmMC04ZWJlLWYzMjRlZjRkM2RjZS5qcGc=",
+            "publishedAt": "2025-09-24T21:35:28Z"
+        },
+        {
+            "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+            },
+            "title": "As Qualcomm unveils new AI Chips for smartphones and laptops, CEO Cristiano Amon sets course to make company an ecosystem player",
+            "url": "https://indianexpress.com/article/technology/tech-news-technology/as-qualcomm-unveils-new-ai-chips-for-smartphones-and-laptops-ceo-cristiano-amon-sets-course-to-make-company-an-ecosystem-player-10269689/",
+            "urlToImage": "https://images.indianexpress.com/2025/09/qualcom.jpg",
+            "publishedAt": "2025-09-24T21:28:49Z"
+        },
         {
             "source": {
                 "id": "11d4381a1e8f7aca7628d0319a52a040",
@@ -1683,6 +1755,60 @@
         },
         {
             "source": {
+                "name": "theverge"
+            },
+            "title": "X-ray scans reveal the hidden risks of cheap batteries",
+            "url": "https://www.theverge.com/news/784966/lumafield-x-ray-ct-scan-lithium-ion-battery-risks-manufacturing-defect",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/battery_xray_1.jpg?crop=0%2C10.749873332207%2C100%2C78.500253335585&quality=90&strip=all",
+            "publishedAt": "2025-09-24 22:10:13"
+        },
+        {
+            "source": {
+                "name": "theverge"
+            },
+            "title": "Qualcomm announces the Snapdragon 8 Elite Gen 5",
+            "url": "https://www.theverge.com/tech/784997/qualcomm-snapdragon-8-elite-gen-5",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/snapdragon_8_gen5.png?crop=0%2C3.5753801229625%2C100%2C92.849239754075&quality=90&strip=all",
+            "publishedAt": "2025-09-24 22:06:31"
+        },
+        {
+            "source": {
+                "name": "xda_developers"
+            },
+            "title": "Maxon Cinema 4D, ZBrush, and Razer Synapse are all coming to Windows on Arm",
+            "url": "https://www.xda-developers.com/maxon-cinema-4d-zbrush-and-razer-synapse-are-all-coming-to-windows-on-snapdragon/",
+            "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2025/09/screenshot_20250924_224248-2.png",
+            "publishedAt": "2025-09-24 21:50:32"
+        },
+        {
+            "source": {
+                "name": "virginislandsdailynews"
+            },
+            "title": "NASA Launches Mission to Map the Bubble Around Our Solar System",
+            "url": "https://www.virginislandsdailynews.com/nasa-launches-mission-to-map-the-bubble-around-our-solar-system/article_d5c86741-db0e-435b-88e9-f19d2294a77d.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/virginislandsdailynews.com/content/tncms/custom/image/95b63ab2-a8b4-11e5-8204-cfb6801a818b.jpg?resize=600%2C315",
+            "publishedAt": "2025-09-24 21:44:00"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Qualcomm’s 2025 Snapdragon Summit: AI Innovations, 6G Plans, and Growth",
+            "url": "https://www.webpronews.com/qualcomms-2025-snapdragon-summit-ai-innovations-6g-plans-and-growth/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-fc0e0eb0-a47c-4493-868e-ed23d06a1761.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-09-24 21:35:16"
+        },
+        {
+            "source": {
+                "name": "cnet"
+            },
+            "title": "OpenAI Says It'll Build Five More Huge Data Centers. Here's Where",
+            "url": "https://www.cnet.com/tech/services-and-software/openai-says-itll-build-five-more-huge-data-centers-heres-where/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/3b559ec58b4dd58774777079a487154ea7515d63/hub/2025/09/24/94ccadf4-ecb8-410a-a736-747f2bf147ef/gettyimages-2236733194.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-09-24 21:23:22"
+        },
+        {
+            "source": {
                 "name": "prnewswire_apac"
             },
             "title": "Marketable Tantalite Concentrates Successfully Produced from the CV5 Deposit at Shaakichiuwaanaan",
@@ -3012,114 +3138,6 @@
             "url": "https://www.hjnews.com/nation/openai-shows-off-stargate-ai-data-center-in-texas-and-plans-5-more-elsewhere-with/article_d0655eb1-ca8b-5680-b10d-f4eb3b709bdf.html",
             "urlToImage": "https://bloximages.chicago2.vip.townnews.com/hjnews.com/content/tncms/assets/v3/editorial/4/f9/4f906f9f-dd91-5321-88a6-c58dda743253/68d30feb64cf2.image.jpg?resize=300%2C169",
             "publishedAt": "2025-09-24 00:58:27"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Google DORA Report: 90% Tech Workers Use AI for Coding Amid Job Concerns",
-            "url": "https://www.webpronews.com/google-dora-report-90-tech-workers-use-ai-for-coding-amid-job-concerns/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-42a42616-93f6-41ad-8260-f1ccae5eeda2.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-09-24 00:39:47"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "OpenAI, Oracle Expand Stargate AI Data Center in Texas to 5GW",
-            "url": "https://www.webpronews.com/openai-oracle-expand-stargate-ai-data-center-in-texas-to-5gw/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-0a3aadc7-5334-4c7a-9598-261da36718e3.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-09-24 00:34:38"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Microsoft’s Microfluidic Chip Cooling Triples AI Data Center Efficiency",
-            "url": "https://www.webpronews.com/microsofts-microfluidic-chip-cooling-triples-ai-data-center-efficiency/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-35b5dee4-6d3b-40b5-b4a1-f006d84759b2.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-09-24 00:30:42"
-        },
-        {
-            "source": {
-                "name": "starkvilledailynews"
-            },
-            "title": "Landis+Gyr and PLUS ES Announce Grid Edge Intelligence Partnership to Advance Australia's Clean Energy Transition",
-            "url": "https://www.starkvilledailynews.com/online_features/press_releases/landis-gyr-and-plus-es-announce-grid-edge-intelligence-partnership-to-advance-australias-clean-energy/article_0544a9dc-42fa-5f8f-b693-5ef742f73656.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/starkvilledailynews.com/content/tncms/assets/v3/editorial/7/f8/7f8d23fb-70c2-5e1c-8bba-54b27aa827d8/68d39ed3d9f52.image.jpg?resize=300%2C225",
-            "publishedAt": "2025-09-24 00:30:00"
-        },
-        {
-            "source": {
-                "name": "thepilotnews"
-            },
-            "title": "Landis+Gyr and PLUS ES Announce Grid Edge Intelligence Partnership to Advance Australia's Clean Energy Transition",
-            "url": "https://www.thepilotnews.com/online_features/press_releases/landis-gyr-and-plus-es-announce-grid-edge-intelligence-partnership-to-advance-australias-clean-energy/article_2fdb22a5-1c05-546f-bdfd-08486055000b.html",
-            "urlToImage": "https://rt.prnewswire.com/rt.gif?DateId=20250923&NewsItemId=LN79899&Transmission_Id=202509232030PR_NEWS_USPR_____LN79899",
-            "publishedAt": "2025-09-24 00:30:00"
-        },
-        {
-            "source": {
-                "name": "thewesterlysun"
-            },
-            "title": "Landis+Gyr and PLUS ES Announce Grid Edge Intelligence Partnership to Advance Australia's Clean Energy Transition",
-            "url": "https://www.thewesterlysun.com/online_features/press_releases/landis-gyr-and-plus-es-announce-grid-edge-intelligence-partnership-to-advance-australias-clean-energy/article_8cda09ad-c1e2-54b3-a215-b5925710e709.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/thewesterlysun.com/content/tncms/assets/v3/editorial/a/cb/acb97342-0193-5016-91a5-7038964629cd/68d390d2c6cab.image.jpg?resize=300%2C225",
-            "publishedAt": "2025-09-24 00:30:00"
-        },
-        {
-            "source": {
-                "name": "poststar"
-            },
-            "title": "Landis+Gyr and PLUS ES Announce Grid Edge Intelligence Partnership to Advance Australia's Clean Energy Transition",
-            "url": "https://poststar.com/online_features/press_releases/article_4bcd2a8c-177f-593e-8348-1d1d1d26963d.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/poststar.com/content/tncms/assets/v3/editorial/d/9c/d9c5aa32-662e-5107-8844-cdc1bcb4056a/68d394641bdca.image.jpg?resize=300%2C225",
-            "publishedAt": "2025-09-24 00:30:00"
-        },
-        {
-            "source": {
-                "name": "thechronicle"
-            },
-            "title": "Landis+Gyr and PLUS ES Announce Grid Edge Intelligence Partnership to Advance Australia's Clean Energy Transition",
-            "url": "https://www.thechronicle.com/online_features/press_releases/landis-gyr-and-plus-es-announce-grid-edge-intelligence-partnership-to-advance-australias-clean-energy/article_13f8e024-4020-54f1-a422-84095c7196c4.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thechronicle.com/content/tncms/assets/v3/editorial/9/35/9356467f-dced-50bc-914f-94f4df547803/68d393525bfd3.image.jpg?resize=666%2C500",
-            "publishedAt": "2025-09-24 00:30:00"
-        },
-        {
-            "source": {
-                "name": "prnewswire_apac"
-            },
-            "title": "Landis+Gyr and PLUS ES Announce Grid Edge Intelligence Partnership to Advance Australia's Clean Energy Transition",
-            "url": "https://www.prnewswire.com/apac/news-releases/landisgyr-and-plus-es-announce-grid-edge-intelligence-partnership-to-advance-australias-clean-energy-transition-302564677.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2778508/Landis_Gyr_Group_AG.jpg?p=publish",
-            "publishedAt": "2025-09-24 00:30:00"
-        },
-        {
-            "source": {
-                "name": "en_prnasisa"
-            },
-            "title": "Landis+Gyr and PLUS ES Announce Grid Edge Intelligence Partnership to Advance Australia's Clean Energy Transition",
-            "url": "https://en.prnasia.com/story/504709-0.shtml",
-            "urlToImage": "https://mma.prnasia.com/media2/2778508/Landis_Gyr_Group_AG.jpg?p=medium600",
-            "publishedAt": "2025-09-24 00:30:00"
-        },
-        {
-            "source": {
-                "name": "newsargus"
-            },
-            "title": "Landis+Gyr and PLUS ES Announce Grid Edge Intelligence Partnership to Advance Australia's Clean Energy Transition",
-            "url": "https://www.newsargus.com/online_features/press_releases/landis-gyr-and-plus-es-announce-grid-edge-intelligence-partnership-to-advance-australias-clean-energy/article_93465192-c133-5cc9-bf38-890723291528.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/newsargus.com/content/tncms/assets/v3/editorial/5/59/5593b5fc-9b98-5fb9-b7c3-888e4f818210/68d391d8f1654.image.jpg?resize=300%2C225",
-            "publishedAt": "2025-09-24 00:30:00"
-        },
-        {
-            "source": {
-                "name": "nvdaily"
-            },
-            "title": "Landis+Gyr and PLUS ES Announce Grid Edge Intelligence Partnership to Advance Australia's Clean Energy Transition",
-            "url": "https://www.nvdaily.com/online_features/press_releases/landis-gyr-and-plus-es-announce-grid-edge-intelligence-partnership-to-advance-australias-clean-energy/article_5cbc1aea-f9f4-5c68-b094-e68208cb391e.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/nvdaily.com/content/tncms/assets/v3/editorial/d/cc/dcc55b3b-49b8-5af7-b3d6-1814d941f67f/68d39351d9fb6.image.jpg?resize=300%2C225",
-            "publishedAt": "2025-09-24 00:30:00"
         }
     ]
 }
