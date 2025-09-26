@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-09-26T13:24:13.247525Z",
+    "lastUpdatedAt": "2025-09-26T14:13:30.200459Z",
     "articles": [
+        {
+            "source": {
+                "id": "6fea3ee012f060c6309366516e8d00be",
+                "name": "News-Medical.net",
+                "url": "https://www.news-medical.net",
+                "country": "gb"
+            },
+            "title": "Simple tweak to how AI assigns diagnostic codes could improve accuracy",
+            "url": "https://www.news-medical.net/news/20250925/Simple-tweak-to-how-AI-assigns-diagnostic-codes-could-improve-accuracy.aspx",
+            "urlToImage": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+            "publishedAt": "2025-09-26T02:08:00Z"
+        },
         {
             "source": {
                 "id": "79baacd62152cf257ee35e8c0bec19a2",
@@ -48,6 +60,54 @@
             "url": "https://www.hindustantimes.com/business/llms-may-be-the-hype-but-cybersecurity-doesn-t-work-on-hype-sujatha-s-iyer-101758874868346.html",
             "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/09/26/550x309/Iyer-talks-to-HT-about-using-AI-to-combat-threats-_1758874862069.jpg",
             "publishedAt": "2025-09-26T00:00:00Z"
+        },
+        {
+            "source": {
+                "id": "8e9ab8327c5f7903cc1b50470411d165",
+                "name": "GlobeNewswire",
+                "url": "https://www.globenewswire.com",
+                "country": "us"
+            },
+            "title": "France Artificial Intelligence in Diagnostics Market",
+            "url": "https://www.globenewswire.com/news-release/2025/09/26/3157095/28124/en/France-Artificial-Intelligence-in-Diagnostics-Market-Research-Report-2025-2033-Component-Application-End-Use-States-and-Company-Analysis.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+            "publishedAt": "2025-09-26T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "Job hunting? Nothing beats human networks - here are 8 places to start",
+            "url": "https://www.zdnet.com/article/job-hunting-nothing-beats-human-networks-here-are-8-places-to-start/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/675051a55e7d76f4b2c14507333ef9252cca54fe/2025/09/25/00a68575-cdc3-4cf9-8140-246e0d1d07bb/littlepeople5gettyimages-941218518.jpg?auto=webp&width=1280",
+            "publishedAt": "2025-09-26 02:00:36"
+        },
+        {
+            "source": {
+                "name": "newspressnow"
+            },
+            "title": "SMBs won’t scale you: The hard truth about expanding upmarket to win enterprise customers",
+            "url": "https://www.newspressnow.com/stacker-money/2025/09/25/smbs-wont-scale-you-the-hard-truth-about-expanding-upmarket-to-win-enterprise-customers/",
+            "urlToImage": "https://newspressnow.b-cdn.net/wp-content/uploads/2025/09/oso-smbs.jpg",
+            "publishedAt": "2025-09-26 01:52:20"
+        },
+        {
+            "source": {
+                "name": "newswise"
+            },
+            "title": "New ORNL Aluminum Alloy to Strengthen Domestic Auto Supply Chain",
+            "url": "https://www.newswise.com/articles/new-ornl-aluminum-alloy-to-strengthen-domestic-auto-supply-chain/?sc=rssn",
+            "urlToImage": "https://www.newswise.com/legacy/image.php?height=334&image=%2Fimages%2Fuploads%2F2025%2F09%2F25%2F68d58915b31ab_RidgeAlloyPart.jpg&time=09%3A36%3A12pm&width=502",
+            "publishedAt": "2025-09-26 01:36:12"
+        },
+        {
+            "source": {
+                "name": "livemint"
+            },
+            "title": "How the H-1B squeeze could make India an AI hub; Agentic AI completes a year",
+            "url": "https://www.livemint.com/technology/how-the-h-1b-squeeze-could-make-india-an-ai-hub-agentic-ai-completes-a-year-11758823760012.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2025/09/25/1600x900/logo/tk1_1758823860101_1758823914553.webp",
+            "publishedAt": "2025-09-26 01:30:00"
         },
         {
             "source": {
@@ -3129,60 +3189,6 @@
             "url": "https://www.pcquest.com/news-launches/oneplus-15-camera-do-triple-lenses-give-maximum-clarity-10498613",
             "urlToImage": "https://img-cdn.publive.online/pcq/media/media_files/2025/09/25/oneplus-15-2025-09-25-10-24-50.jpg",
             "publishedAt": "2025-09-25 07:01:37"
-        },
-        {
-            "source": {
-                "name": "ibtimes"
-            },
-            "title": "Nvidia's Rs 8,000 crore masterstroke: Indian talent redefines AI's future",
-            "url": "https://www.ibtimes.co.in/nvidias-rs-8000-crore-masterstroke-indian-talent-redefines-ais-future-889445",
-            "urlToImage": "https://data1.ibtimes.co.in/en/full/692811/nvidia-ai-program.jpg?h=450&l=50&t=40",
-            "publishedAt": "2025-09-25 06:59:55"
-        },
-        {
-            "source": {
-                "name": "andhrabhoomi"
-            },
-            "title": "TSMC, Chip Design Software Firms Tap AI to Help Chips Use Less Energy",
-            "url": "https://www.deccanchronicle.com/technology/tsmc-chip-design-software-firms-tap-ai-to-help-chips-use-less-energy-1906048",
-            "urlToImage": "https://www.deccanchronicle.com/h-upload/2025/09/25/1961511-43953553911zon.jpg",
-            "publishedAt": "2025-09-25 06:51:56"
-        },
-        {
-            "source": {
-                "name": "toi"
-            },
-            "title": "Germany's bid to lead in autonomous driving faces roadblocks",
-            "url": "https://timesofindia.indiatimes.com/world/europe/germanys-bid-to-lead-in-autonomous-driving-faces-roadblocks/articleshow/124106097.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-124106761,imgsize-917785,width-400,resizemode-4/.jpg",
-            "publishedAt": "2025-09-25 06:38:07"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Top News Today: Qualcomm’s 18-Core AI Chip, Emergent AI $23M Funding",
-            "url": "https://www.analyticsinsight.net/top-list/top-news-today-qualcomms-18-core-ai-chip-emergent-ai-23m-funding",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-09-25%2Fnu365l0f%2FTop-News-Today-Qualcomm%E2%80%99s-18-Core-AI-Chip-Emergent-AI-23M-Funding.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-09-25 06:33:24"
-        },
-        {
-            "source": {
-                "name": "moneycontrol"
-            },
-            "title": "Qualcomm announces Snapdragon X2 Elite and X2 Elite Extreme for high-performance Windows PCs",
-            "url": "https://www.moneycontrol.com/technology/qualcomm-announces-snapdragon-x2-elite-and-x2-elite-extreme-for-high-performance-windows-pcs-article-13577896.html",
-            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/07/Collage-Maker-12-Jul-2023-07-19-PM-2586.jpg",
-            "publishedAt": "2025-09-25 06:33:04"
-        },
-        {
-            "source": {
-                "name": "thehansindia"
-            },
-            "title": "Qualcomm Launches Snapdragon 8 Elite Gen 5: Redefining AI, Gaming, and Video for Android Flagships",
-            "url": "https://www.thehansindia.com/technology/tech-news/qualcomm-launches-snapdragon-8-elite-gen-5-redefining-ai-gaming-and-video-for-android-flagships-1009625",
-            "urlToImage": "https://assets.thehansindia.com/h-upload/2025/09/25/1588097-snapdragon-8-elite.webp",
-            "publishedAt": "2025-09-25 06:23:47"
         }
     ]
 }
