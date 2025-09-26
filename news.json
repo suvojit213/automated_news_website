@@ -1,6 +1,198 @@
 {
-    "lastUpdatedAt": "2025-09-25T23:13:22.494248Z",
+    "lastUpdatedAt": "2025-09-26T01:09:30.745319Z",
     "articles": [
+        {
+            "source": {
+                "id": "6fea3ee012f060c6309366516e8d00be",
+                "name": "News-Medical.net",
+                "url": "https://www.news-medical.net",
+                "country": "gb"
+            },
+            "title": "AI will soon have a say in approving or denying Medicare treatments",
+            "url": "https://www.news-medical.net/news/20250925/AI-will-soon-have-a-say-in-approving-or-denying-Medicare-treatments.aspx",
+            "urlToImage": "https://www.news-medical.net/image-handler/picture/2018/10/shutterstock_532679098_573152c4350d4fe79b49ad0eacf10282-620x480.jpg",
+            "publishedAt": "2025-09-25T13:08:00Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Databricks, OpenAI team up to deliver AI models for enterprise clients",
+            "url": "https://www.reuters.com/business/databricks-openai-team-up-deliver-ai-models-enterprise-clients-2025-09-25/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/L6BOTP5ACVNAPMYVCFPHGLK43Y.jpg?auth=bc034cfcff2569073ded243e17a1df10051768b9b408817f26c4dfbd1cb8509d&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-09-25T13:03:39Z"
+        },
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "Adding a lookup step makes AI better at assigning medical diagnosis codes",
+            "url": "https://medicalxpress.com/news/2025-09-adding-lookup-ai-assigning-medical.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/doctors-office.jpg",
+            "publishedAt": "2025-09-25T13:00:03Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Musk’s Grok AI Cleared for Use Across US Government Agencies",
+            "url": "https://www.bloomberg.com/news/articles/2025-09-25/musk-s-grok-ai-cleared-for-use-across-us-government-agencies",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iirYaMs1O0oc/v0/1200x800.jpg",
+            "publishedAt": "2025-09-25T13:00:00Z"
+        },
+        {
+            "source": {
+                "id": "a6d401909ca644c4ffb332486c9cfaea",
+                "name": "Seeking Alpha",
+                "url": "https://seekingalpha.com",
+                "country": "us"
+            },
+            "title": "CrowdStrike in spotlight as Scotiabank upgrades after latest field checks",
+            "url": "https://seekingalpha.com/news/4498876-crowdstrike-in-spotlight-as-scotiabank-upgrades-after-latest-field-checks",
+            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1255728449/image_1255728449.jpg?io=getty-c-w750",
+            "publishedAt": "2025-09-25T12:55:04Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "Alphabet Is ‘Most Valuable Company’ on AI Strength, Moffett Says",
+            "url": "https://www.livemint.com/companies/company-results/alphabet-is-most-valuable-company-on-ai-strength-moffett-says-11758804551876.html",
+            "urlToImage": "https://images.livemint.com/img/2018/12/28/1600x900/Companies_-_Results_1545999337988.jpg",
+            "publishedAt": "2025-09-25T12:49:11Z"
+        },
+        {
+            "source": {
+                "id": "7eeaf9a839918543cc708f2d331c3be4",
+                "name": "Free Press Journal",
+                "url": "https://www.freepressjournal.in",
+                "country": "in"
+            },
+            "title": "IIT Delhi Opens Registration For Second Batch Of Certificate Programme In Applied Data Science & AI",
+            "url": "https://www.freepressjournal.in/education/iit-delhi-opens-registration-for-second-batch-of-certificate-programme-in-applied-data-science-ai",
+            "urlToImage": "https://media.assettype.com/freepressjournal/2025-09-25/mv5jnhik/IIT-Delhi-2-.jpg",
+            "publishedAt": "2025-09-25T12:37:01Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Jabil forecasts upbeat full-year results on AI-driven data center demand",
+            "url": "https://www.reuters.com/technology/jabil-forecasts-upbeat-full-year-results-ai-driven-data-center-demand-2025-09-25/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-09-25T12:36:40Z"
+        },
+        {
+            "source": {
+                "id": "28bc60a23a7bf89e60f893506992a3fe",
+                "name": "Daily Excelsior",
+                "url": "https://www.dailyexcelsior.com",
+                "country": "in"
+            },
+            "title": "J&K’s Innovation Ecosystem Is Steadily Transforming At School Level By Atal Tinkering Labs: LG",
+            "url": "https://www.dailyexcelsior.com/jks-innovation-ecosystem-is-steadily-transforming-at-school-level-by-atal-tinkering-labs-lg/",
+            "urlToImage": "https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2025/09/lg-15.jpg",
+            "publishedAt": "2025-09-25T12:30:52Z"
+        },
+        {
+            "source": {
+                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+                "name": "The Financial Express",
+                "url": "https://www.financialexpress.com",
+                "country": "in"
+            },
+            "title": "ChatGPT will show advertisements soon and OpenAI is already hiring people to execute it",
+            "url": "https://www.financialexpress.com/life/technology-chatgpt-will-show-advertisements-soon-and-openai-is-already-hiring-people-to-execute-it-3989331/",
+            "urlToImage": "https://images.financialexpressdigital.com/2025/08/chatgpt-5.jpg",
+            "publishedAt": "2025-09-25T12:30:52Z"
+        },
+        {
+            "source": {
+                "id": "23ca80edba9c670741bdbfc4acd3e991",
+                "name": "The Statesman",
+                "url": "https://www.thestatesman.com",
+                "country": "in"
+            },
+            "title": "Reliance Consumer Products announces Rs 40,000",
+            "url": "https://www.thestatesman.com/business/reliance-consumer-products-announces-rs-40000-cr-investment-in-food-parks-1503491490.html",
+            "urlToImage": "https://www.thestatesman.com/wp-content/uploads/2025/09/Untitled-design-43.webp",
+            "publishedAt": "2025-09-25T12:29:52Z"
+        },
+        {
+            "source": {
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
+                "country": "in"
+            },
+            "title": "Scientifically Speaking | What if your health could be forecast like weather?",
+            "url": "https://www.hindustantimes.com/health/scientifically-speaking-what-if-your-health-could-be-forecast-like-weather-101758803209775.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/09/25/1600x900/logo/The-system--called-Delphi-2M--represents-the-most-_1758803202495.jpg",
+            "publishedAt": "2025-09-25T12:26:49Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "BlackBerry raises annual revenue forecast on resilient software spending",
+            "url": "https://www.thestar.com.my/tech/tech-news/2025/09/25/blackberry-raises-annual-revenue-forecast-on-resilient-software-spending",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/09/25/3539898.jpg",
+            "publishedAt": "2025-09-25T12:12:00Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Packaging industry must harness AI to meet circular economy goals",
+            "url": "https://www.devdiscourse.com/article/technology/3637339-packaging-industry-must-harness-ai-to-meet-circular-economy-goals",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/23_09_2025_10_35_48_073685.png?width=920&format=jpeg",
+            "publishedAt": "2025-09-25T12:00:19Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "BlackBerry raises annual revenue forecast on resilient software spending",
+            "url": "https://www.reuters.com/world/americas/blackberry-raises-annual-revenue-forecast-resilient-software-spending-2025-09-25/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/FNUQ3M6VA5PW7KL62ETADUZRVI.jpg?auth=82453535c961eebf306a970e1dd58dd9a5759e942a74fac74a32f5a5fb94ca87&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-09-25T11:59:25Z"
+        },
+        {
+            "source": {
+                "id": "3989f52bbec2d3be8442e2851b59e79e",
+                "name": "CBS Sports",
+                "url": "https://www.cbssports.com",
+                "country": "us"
+            },
+            "title": "Seahawks vs. Cardinals NFL props, SportsLine Machine Learning Model AI picks: Darnold Over 217.5 passing yards",
+            "url": "https://www.cbssports.com/nfl/news/seahawks-vs-cardinals-nfl-props-sportsline-machine-learning-model-ai-picks-darnold-over-217-5-passing-yards/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/09/17/ca0edc2a-099a-4087-a1f5-6fd817b0f34f/thumbnail/1200x675/fda1107d771e27a9457e68029b1a4728/sam-darnold-seahawks-imagn-images.jpg",
+            "publishedAt": "2025-09-25T11:40:02Z"
+        },
         {
             "source": {
                 "id": "1e30d944d63d9090db5a2c2e28a8772f",
@@ -612,6 +804,99 @@
             "url": "https://www.globenewswire.com/news-release/2025/09/25/3156050/28124/en/China-Smart-Car-Information-Security-Cybersecurity-and-Data-Security-Research-Report-2025-AI-Fusion-Intelligent-Protection-and-Ecological-Collaboration-Ensure-Cybersecurity-and-Dat.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
             "publishedAt": "2025-09-25T00:00:00Z"
+        },
+        {
+            "source": {
+                "id": "0a1d38750c798242e5ac5c5d47477eeb",
+                "name": "ScienceDaily",
+                "url": "https://www.sciencedaily.com",
+                "country": "us"
+            },
+            "title": "Goodbye colonoscopy? Simple stool test detects 90% of colorectal cancers",
+            "url": "https://www.sciencedaily.com/releases/2025/09/250916221920.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/1920/colon-cancer-bacteria-viruses.webp",
+            "publishedAt": "2025-09-25T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "fortune"
+            },
+            "title": "‘Dad bod’ and ‘rizz’ are part of rare Merriam-Webster addition of 5,000 new dictionary words",
+            "url": "https://fortune.com/2025/09/25/merriam-webster-dictionary-dad-bod-rizz-cancel-culture-wfh/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/AP25267669792562.jpg?w=2048",
+            "publishedAt": "2025-09-25 13:08:33"
+        },
+        {
+            "source": {
+                "name": "postregister"
+            },
+            "title": "Corintis raises $24M to target the next AI bottleneck, and collaborates with Microsoft for chip ...",
+            "url": "https://www.postregister.com/businessreport/technology/corintis-raises-24m-to-target-the-next-ai-bottleneck-and-collaborates-with-microsoft-for-chip/article_96a5c7c4-3733-5dda-9549-9bd0e198f324.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
+            "publishedAt": "2025-09-25 13:04:06"
+        },
+        {
+            "source": {
+                "name": "engadget"
+            },
+            "title": "Surfshark VPN review: A fast VPN for casual users",
+            "url": "https://www.engadget.com/cybersecurity/vpn/surfshark-vpn-review-a-fast-vpn-for-casual-users-170022675.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?client=19f2b5e49a271b2bde77&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-07%2F60bf4d70-68b3-11f0-aaff-bddfb8a2dd62&resize=1400%2C787&signature=642ecf04d7d1589a2eca7ec30d0b901189bbc071",
+            "publishedAt": "2025-09-25 13:01:25"
+        },
+        {
+            "source": {
+                "name": "techradar"
+            },
+            "title": "PS5 Pro games list: all of the PS5 Pro enhanced titles in 2025",
+            "url": "https://www.techradar.com/gaming/ps5/ps5-pro-games-list",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/2mNAFVq7cvgMwtRgfyYqjL.jpg",
+            "publishedAt": "2025-09-25 13:01:12"
+        },
+        {
+            "source": {
+                "name": "siliconangle"
+            },
+            "title": "Pure Storage launches cyber resilience, IT efficiency and hybrid cloud capabilities",
+            "url": "https://siliconangle.com/2025/09/25/pure-storage-launches-cyber-resilience-efficiency-hybrid-cloud-capabilities/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/04/14184363_1443765015637024_7982363373833705110_n.jpg",
+            "publishedAt": "2025-09-25 13:00:33"
+        },
+        {
+            "source": {
+                "name": "en_prnasisa"
+            },
+            "title": "Clarifai Launches Reasoning Engine Optimized for Agentic AI Inference",
+            "url": "https://en.prnasia.com/story/505043-0.shtml",
+            "urlToImage": "https://mma.prnasia.com/media2/2782060/CLARIFAI_End_to_End_Response.jpg?p=medium600",
+            "publishedAt": "2025-09-25 13:00:00"
+        },
+        {
+            "source": {
+                "name": "cnet"
+            },
+            "title": "Are the AirPods Pro 3 Steve Jobs' Ultimate Audio Legacy?",
+            "url": "https://www.cnet.com/tech/mobile/are-the-airpods-pro-3-steve-jobs-ultimate-audio-legacy/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/a9130b498837523275edf39e240d5a4216b69b54/hub/2025/09/23/af0a83e6-c45d-409f-ae38-15af05229f3f/steve-jobs-martin-logan-speakers.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-09-25 13:00:00"
+        },
+        {
+            "source": {
+                "name": "digit_in"
+            },
+            "title": "How to remove unwanted apps from Windows 11 laptop and make it faster",
+            "url": "https://www.digit.in/features/general/how-to-remove-unwanted-apps-from-windows-11-laptop-and-make-it-faster.html",
+            "urlToImage": "https://static.digit.in/windows-debloating-1.png",
+            "publishedAt": "2025-09-25 12:59:06"
+        },
+        {
+            "source": {
+                "name": "greaterkashmir"
+            },
+            "title": "Lieutenant Governor attends launch ceremony of ATL Sarthi at University of Kashmir",
+            "url": "https://www.greaterkashmir.com/jammu-kashmir/lieutenant-governor-attends-launch-ceremony-of-atl-sarthi-at-university-of-kashmir/",
+            "urlToImage": "https://greaterkashmir.imagibyte.sortdcdn.net/wp-content/uploads/2025/09/Lieutenant-Governor-Shri-Manoj-Sinha-attended-launch-ceremony-of-ATL-Sarthi-at-University-of-Kashmir-4.jpg",
+            "publishedAt": "2025-09-25 12:56:58"
         },
         {
             "source": {
@@ -3024,273 +3309,6 @@
             "url": "https://www.news-medical.net/news/20250923/Sylvester-part-of-major-national-study-on-AI-use-in-breast-cancer-screening.aspx",
             "urlToImage": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
             "publishedAt": "2025-09-24T01:37:00Z"
-        },
-        {
-            "source": {
-                "id": "10cbfb3760cfcdeb78c733c527f0e814",
-                "name": "iTWire",
-                "url": "https://itwire.com",
-                "country": "au"
-            },
-            "title": "quarters of companies now consider ‘AI essential to operations’",
-            "url": "https://itwire.com/it-industry-news/strategy/pagerduty-survey-three-quarters-of-companies-now-consider-%e2%80%98ai-essential-to-operations%e2%80%99.html",
-            "urlToImage": "https://itwire.com/media/k2/items/cache/5610747f918d3ebdc9d50b8d11cddac2_XS.jpg",
-            "publishedAt": "2025-09-24T01:28:22Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Xinhua Silk Road: Guotai Haitong Securities hosts conference on biopharma and AI in E. China's Shanghai",
-            "url": "https://www.manilatimes.net/2025/09/24/tmt-newswire/pr-newswire/xinhua-silk-road-guotai-haitong-securities-hosts-conference-on-biopharma-and-ai-in-e-chinas-shanghai/2189330",
-            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-            "publishedAt": "2025-09-24T01:21:28Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com",
-                "country": "ca"
-            },
-            "title": "Melania Trump tries to bring together first spouses",
-            "url": "https://www.cp24.com/news/world/2025/09/24/as-melania-trump-tries-to-enlist-other-first-spouses-to-her-coalition-one-urgently-seeks-her-attention/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/HKRMSFAMJ5BFDNZ64JEZV4RICU.JPG?smart=true&auth=213b76f5970ba239e18ed856bd7ffce71c71c632f077220018d742b23b64f4c3&width=1200&height=630",
-            "publishedAt": "2025-09-24T00:44:46Z"
-        },
-        {
-            "source": {
-                "id": "8e9ab8327c5f7903cc1b50470411d165",
-                "name": "GlobeNewswire",
-                "url": "https://www.globenewswire.com",
-                "country": "us"
-            },
-            "title": "Atos secures major European Commission cybersecurity",
-            "url": "https://www.globenewswire.com/news-release/2025/09/24/3155200/0/en/Atos-secures-major-European-Commission-cybersecurity-contract-for-technical-operations-services.html",
-            "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/7bfbf7a2-4bbd-4e56-b847-63e271a8e3fd",
-            "publishedAt": "2025-09-24T00:00:00Z"
-        },
-        {
-            "source": {
-                "id": "8e9ab8327c5f7903cc1b50470411d165",
-                "name": "GlobeNewswire",
-                "url": "https://www.globenewswire.com",
-                "country": "us"
-            },
-            "title": "Adapt Forward welcomes back cybersecurity veteran Micheal",
-            "url": "https://www.globenewswire.com/news-release/2025/09/24/3155400/0/en/Adapt-Forward-welcomes-back-cybersecurity-veteran-Micheal-Small-as-technical-lead-of-detection-and-response.html",
-            "urlToImage": "https://ml.globenewswire.com/Resource/Download/8f1e6a25-36fc-463a-8cb0-48cb0362fdaf",
-            "publishedAt": "2025-09-24T00:00:00Z"
-        },
-        {
-            "source": {
-                "id": "8e9ab8327c5f7903cc1b50470411d165",
-                "name": "GlobeNewswire",
-                "url": "https://www.globenewswire.com",
-                "country": "us"
-            },
-            "title": "Global Artificial Intelligence Fintech Market Expected to",
-            "url": "https://www.globenewswire.com/news-release/2025/09/24/3155554/0/en/Global-Artificial-Intelligence-Fintech-Market-Expected-to-Reach-76-Billion-By-2033-as-AI-Adoption-in-the-Financial-Industry-Expands.html",
-            "urlToImage": "https://ml.globenewswire.com/Resource/Download/f326183f-8829-42af-8851-525b1d7503ed",
-            "publishedAt": "2025-09-24T00:00:00Z"
-        },
-        {
-            "source": {
-                "id": "8e9ab8327c5f7903cc1b50470411d165",
-                "name": "GlobeNewswire",
-                "url": "https://www.globenewswire.com",
-                "country": "us"
-            },
-            "title": "Registration Opens for 2026 MITRE Embedded Capture the Flag",
-            "url": "https://www.globenewswire.com/news-release/2025/09/24/3155538/0/en/Registration-Opens-for-2026-MITRE-Embedded-Capture-the-Flag-Competition.html",
-            "urlToImage": "https://ml.globenewswire.com/Resource/Download/28b9a784-5597-43ff-86f8-8f52f996a3e1",
-            "publishedAt": "2025-09-24T00:00:00Z"
-        },
-        {
-            "source": {
-                "id": "a0300bc9a6e9d5b317bd6f614767231f",
-                "name": "Forbes",
-                "url": "https://www.forbes.com",
-                "country": "us"
-            },
-            "title": "Fortinet: What’s Next For FTNT Stock?",
-            "url": "https://www.forbes.com/sites/greatspeculations/2025/09/24/fortinet-whats-next-for-ftnt-stock/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68d3ee9f3f3e549987408aaf/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2025-09-24T00:00:00Z"
-        },
-        {
-            "source": {
-                "id": "8e9ab8327c5f7903cc1b50470411d165",
-                "name": "GlobeNewswire",
-                "url": "https://www.globenewswire.com",
-                "country": "us"
-            },
-            "title": "Quantum Communications Market Forecasts and Competitive",
-            "url": "https://www.globenewswire.com/news-release/2025/09/24/3155662/28124/en/Quantum-Communications-Market-Forecasts-and-Competitive-Strategy-Report-2025-2033-Aliro-Quantum-Arqit-ID-Quantique-and-KETS-Lead-Growing-Field-of-Encryption-and-Secure-Data-Transmi.html",
-            "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-            "publishedAt": "2025-09-24T00:00:00Z"
-        },
-        {
-            "source": {
-                "id": "8e9ab8327c5f7903cc1b50470411d165",
-                "name": "GlobeNewswire",
-                "url": "https://www.globenewswire.com",
-                "country": "us"
-            },
-            "title": "DTEX Spotlights Risk-Adaptive Cybersecurity for the AI Era",
-            "url": "https://www.globenewswire.com/news-release/2025/09/24/3155685/0/en/DTEX-Spotlights-Risk-Adaptive-Cybersecurity-for-the-AI-Era-at-DTEX-NEXT.html",
-            "urlToImage": "https://ml.globenewswire.com/Resource/Download/d7c691dd-e6ca-4c38-b88f-e6563c7aa41c",
-            "publishedAt": "2025-09-24T00:00:00Z"
-        },
-        {
-            "source": {
-                "id": "8e9ab8327c5f7903cc1b50470411d165",
-                "name": "GlobeNewswire",
-                "url": "https://www.globenewswire.com",
-                "country": "us"
-            },
-            "title": "Lynch Carpenter Investigates Claims in Outcomes One Data",
-            "url": "https://www.globenewswire.com/news-release/2025/09/24/3155782/0/en/Lynch-Carpenter-Investigates-Claims-in-Outcomes-One-Data-Breach.html",
-            "urlToImage": "https://ml.globenewswire.com/Resource/Download/c7859457-8a76-48a5-b4e7-d3be8aa7a7a7",
-            "publishedAt": "2025-09-24T00:00:00Z"
-        },
-        {
-            "source": {
-                "name": "newsx"
-            },
-            "title": "Sundar Pichai Tries Google Gemini AI's Nano Banana Tool, Creates Viral Figurine Photo Of Himself",
-            "url": "https://www.newsx.com/tech-and-auto/sundar-pichai-tries-google-gemini-ais-nano-banana-tool-creates-viral-figurine-photo-of-himself-79974/",
-            "urlToImage": "https://www.newsx.com/wp-content/uploads/2025/09/image-2025-09-25t051046728.jpg",
-            "publishedAt": "2025-09-24 23:45:25"
-        },
-        {
-            "source": {
-                "name": "headtopics"
-            },
-            "title": "Apple Watch Ultra 3 Review: Biggest Is Best, Except If It’s Not",
-            "url": "https://us.headtopics.com/news/apple-watch-ultra-3-review-biggest-is-best-except-if-it-s-73487176",
-            "urlToImage": "https://i.headtopics.com/images/2025/9/23/phonearena/galaxy-s25-ultra-leaked-ui-reveals-design-changes--galaxy-s25-ultra-leaked-ui-reveals-design-changes--8B65096C8D35F8B3D054D8AACA6D3338.webp?w=640",
-            "publishedAt": "2025-09-24 23:39:56"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "Your next Windows PC may rival M4 MacBooks thanks to this chipset - here's how",
-            "url": "https://www.zdnet.com/article/your-next-windows-pc-may-rival-m4-macbooks-thanks-to-this-chipset-heres-how/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/2fbfa1b786b44cc416a3c4f53493bd360c81c390/2025/03/03/e77fb3c4-ca79-45c4-b378-5fd2624ac666/dsc04272.jpg?auto=webp&width=1280",
-            "publishedAt": "2025-09-24 23:34:00"
-        },
-        {
-            "source": {
-                "name": "headtopics"
-            },
-            "title": "Qualcomm Debuts Snapdragon X2 Elite and X2 Elite Extreme, Its Next-Gen Laptop Chips",
-            "url": "https://us.headtopics.com/news/qualcomm-debuts-snapdragon-x2-elite-and-x2-elite-extreme-73486253",
-            "urlToImage": "https://i.headtopics.com/images/2025/9/24/bgr/qualcomm-s-new-mobile-chip-could-give-android-phon-qualcomm-s-new-mobile-chip-could-give-android-phon-AF9B757DC5F1B13EF0DC0F80DC91CBCE.webp?w=640",
-            "publishedAt": "2025-09-24 23:09:22"
-        },
-        {
-            "source": {
-                "name": "gizmodotech"
-            },
-            "title": "Apple Watch Ultra 3 Review: Biggest Is Best, Except If It’s Not",
-            "url": "https://gizmodo.com/apple-watch-ultra-3-review-biggest-is-best-except-if-its-not-2000663354",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/09/apple-watch-ultra-3-review-10.jpg",
-            "publishedAt": "2025-09-24 23:00:56"
-        },
-        {
-            "source": {
-                "name": "headtopics"
-            },
-            "title": "X-ray scans reveal the hidden risks of cheap batteries",
-            "url": "https://us.headtopics.com/news/x-ray-scans-reveal-the-hidden-risks-of-cheap-batteries-73485819",
-            "urlToImage": "https://i.headtopics.com/images/2025/9/23/usweekly/priscilla-presley-remembers-daughter-lisa-marie-in-priscilla-presley-remembers-daughter-lisa-marie-in-5B78C6A2BB5AD0CA35270BBABFE4341D.webp?w=640",
-            "publishedAt": "2025-09-24 22:39:04"
-        },
-        {
-            "source": {
-                "name": "cnet"
-            },
-            "title": "5 Features Coming to Your New Laptop in 2026 Thanks to Snapdragon X2 Elite",
-            "url": "https://www.cnet.com/tech/computing/5-features-coming-to-your-new-laptop-in-2026-thanks-to-snapdragon-x2-elite/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/7579bc004bfaae9074d8b7c4ea01693b12e3e676/hub/2025/09/24/981435d6-34e9-4323-b8f5-e72e525a3ca4/img-0078.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-09-24 22:33:10"
-        },
-        {
-            "source": {
-                "name": "biztoc"
-            },
-            "title": "OpenAI's Sam Altman and the father of quantum computing just agreed on a Turing Test 2.0",
-            "url": "https://biztoc.com/x/8a767d468f9a9cc0",
-            "urlToImage": "https://biztoc.com/cdn/950/og.png",
-            "publishedAt": "2025-09-24 22:30:51"
-        },
-        {
-            "source": {
-                "name": "businessinsider_us"
-            },
-            "title": "OpenAI's Sam Altman and the father of quantum computing just agreed on a Turing Test 2.0",
-            "url": "https://www.businessinsider.com/sam-altman-openai-david-deutsch-turing-test-for-agi-2025-9",
-            "urlToImage": "https://i.insider.com/68d46ccaf9db348adc0c1ee0?width=700",
-            "publishedAt": "2025-09-24 22:24:44"
-        },
-        {
-            "source": {
-                "name": "theverge"
-            },
-            "title": "X-ray scans reveal the hidden risks of cheap batteries",
-            "url": "https://www.theverge.com/news/784966/lumafield-x-ray-ct-scan-lithium-ion-battery-risks-manufacturing-defect",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/battery_xray_1.jpg?crop=0%2C10.749873332207%2C100%2C78.500253335585&quality=90&strip=all",
-            "publishedAt": "2025-09-24 22:10:13"
-        },
-        {
-            "source": {
-                "name": "theverge"
-            },
-            "title": "Qualcomm announces the Snapdragon 8 Elite Gen 5",
-            "url": "https://www.theverge.com/tech/784997/qualcomm-snapdragon-8-elite-gen-5",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/snapdragon_8_gen5.png?crop=0%2C3.5753801229625%2C100%2C92.849239754075&quality=90&strip=all",
-            "publishedAt": "2025-09-24 22:06:31"
-        },
-        {
-            "source": {
-                "name": "xda_developers"
-            },
-            "title": "Maxon Cinema 4D, ZBrush, and Razer Synapse are all coming to Windows on Arm",
-            "url": "https://www.xda-developers.com/maxon-cinema-4d-zbrush-and-razer-synapse-are-all-coming-to-windows-on-snapdragon/",
-            "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2025/09/screenshot_20250924_224248-2.png",
-            "publishedAt": "2025-09-24 21:50:32"
-        },
-        {
-            "source": {
-                "name": "virginislandsdailynews"
-            },
-            "title": "NASA Launches Mission to Map the Bubble Around Our Solar System",
-            "url": "https://www.virginislandsdailynews.com/nasa-launches-mission-to-map-the-bubble-around-our-solar-system/article_d5c86741-db0e-435b-88e9-f19d2294a77d.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/virginislandsdailynews.com/content/tncms/custom/image/95b63ab2-a8b4-11e5-8204-cfb6801a818b.jpg?resize=600%2C315",
-            "publishedAt": "2025-09-24 21:44:00"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Qualcomm’s 2025 Snapdragon Summit: AI Innovations, 6G Plans, and Growth",
-            "url": "https://www.webpronews.com/qualcomms-2025-snapdragon-summit-ai-innovations-6g-plans-and-growth/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-fc0e0eb0-a47c-4493-868e-ed23d06a1761.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-09-24 21:35:16"
-        },
-        {
-            "source": {
-                "name": "cnet"
-            },
-            "title": "OpenAI Says It'll Build Five More Huge Data Centers. Here's Where",
-            "url": "https://www.cnet.com/tech/services-and-software/openai-says-itll-build-five-more-huge-data-centers-heres-where/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/3b559ec58b4dd58774777079a487154ea7515d63/hub/2025/09/24/94ccadf4-ecb8-410a-a736-747f2bf147ef/gettyimages-2236733194.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-09-24 21:23:22"
         }
     ]
 }
