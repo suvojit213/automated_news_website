@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-09-27T06:19:33.158112Z",
+    "lastUpdatedAt": "2025-09-27T07:11:59.223770Z",
     "articles": [
+        {
+            "source": {
+                "id": "63fb9bccf05610a30851df4c2d33289f",
+                "name": "MIT Technology Review",
+                "url": "https://www.technologyreview.com",
+                "country": "us"
+            },
+            "title": "US investigators are using AI to detect child abuse images made by AI",
+            "url": "https://www.technologyreview.com/2025/09/26/1124343/us-investigators-are-using-ai-to-detect-child-abuse-images-made-by-ai/",
+            "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2025/09/detect-kids.jpg?resize=1200,600",
+            "publishedAt": "2025-09-26T19:03:34Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "Judge approves $1.5 billion copyright settlement between AI company Anthropic and authors",
+            "url": "https://japantoday.com/category/tech/judge-approves-1.5-billion-copyright-settlement-between-ai-company-anthropic-and-authors",
+            "urlToImage": "https://media.japantoday.com/img/store/0f/33/ecc6be646d3b75e85c0f54db0d7ba3b17be8/download-1/_w1700.jpeg",
+            "publishedAt": "2025-09-26T18:50:00Z"
+        },
+        {
+            "source": {
+                "id": "2e9e50c94b2fe950c6f3c06660288260",
+                "name": "SiliconANGLE News",
+                "url": "https://siliconangle.com",
+                "country": "us"
+            },
+            "title": "Cybersecurity adapts to AI",
+            "url": "https://siliconangle.com/2025/09/26/securing-future-identity-accenture-cybersecurity-oktaoktane/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/09/IMG_4197.jpg",
+            "publishedAt": "2025-09-26T18:20:48Z"
+        },
         {
             "source": {
                 "id": "5ac5f32ba74846cef441099f666f2d98",
@@ -1092,6 +1128,78 @@
             "url": "https://www.globenewswire.com/news-release/2025/09/26/3157095/28124/en/France-Artificial-Intelligence-in-Diagnostics-Market-Research-Report-2025-2033-Component-Application-End-Use-States-and-Company-Analysis.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
             "publishedAt": "2025-09-26T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "foxnews"
+            },
+            "title": "Scammers are abusing iCloud Calendar to send phishing emails",
+            "url": "https://www.foxnews.com/tech/scammers-abusing-icloud-calendar-send-phishing-emails",
+            "urlToImage": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/931/523/1-why-iphone-users-are-the-new-prime-scam-targets.jpg?tl=1&ve=1",
+            "publishedAt": "2025-09-26 19:07:31"
+        },
+        {
+            "source": {
+                "name": "fstoppers"
+            },
+            "title": "Nikon Is So Close to Something Special...",
+            "url": "https://fstoppers.com/gear/nikon-so-close-something-special-711954",
+            "urlToImage": "https://cdn.fstoppers.com/styles/large-16-9/s3/lead/2025/09/dsc07995.jpg",
+            "publishedAt": "2025-09-26 19:06:02"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Meet Google Mixboard: The New AI-Powered Mood Board App Competing with Pinterest",
+            "url": "https://www.analyticsinsight.net/apps/meet-google-mixboard-the-new-ai-powered-mood-board-app-competing-with-pinterest",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-09-26%2Fnlnzs59n%2FMeet-Google-Mixboard-The-New-AI-Powered-Mood-Board-App-Competing-with-Pinterest.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-09-26 19:02:22"
+        },
+        {
+            "source": {
+                "name": "techgenyz"
+            },
+            "title": "The AI CEO Innovation: Transforming Business with Intelligent Leadership",
+            "url": "https://techgenyz.com/the-ai-ceo-innovation-transforming-business/",
+            "urlToImage": "https://techgenyz.com/wp-content/uploads/2022/06/ananya-sengupta.jpg",
+            "publishedAt": "2025-09-26 19:00:00"
+        },
+        {
+            "source": {
+                "name": "gsmarena"
+            },
+            "title": "Apple iPhone 17 review",
+            "url": "https://www.gsmarena.com/apple_iphone_17-review-2886.php",
+            "urlToImage": "https://fdn.gsmarena.com/imgroot/reviews/25/apple-iphone-17/-728x314/gsmarena_001.jpg",
+            "publishedAt": "2025-09-26 18:51:39"
+        },
+        {
+            "source": {
+                "name": "rd"
+            },
+            "title": "This One Common Habit Shortens the Life of Your Phone (Hint: There’s a Good Chance You’re Doing It Right Now!)",
+            "url": "https://www.rd.com/article/this-one-common-habit-shortens-the-life-of-your-phone/",
+            "urlToImage": "https://www.rd.com/wp-content/uploads/2025/09/This-One-Common-Habit-Shortens-the-Life-of-Your-Phone_GettyImages-2187328275_FT.jpg",
+            "publishedAt": "2025-09-26 18:46:51"
+        },
+        {
+            "source": {
+                "name": "wired"
+            },
+            "title": "Is Silicon Valley Still the Tech Capital?",
+            "url": "https://www.wired.com/story/uncanny-valley-podcast-is-silicon-valley-still-the-tech-capital/",
+            "urlToImage": "https://media.wired.com/photos/68c1f74bca24fc3ce92058f1/master/w_120,c_limit/Uncanny-Valley-Live-KQED-Business-9095.jpg",
+            "publishedAt": "2025-09-26 18:45:06"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Google’s Search Dominance: 14B Daily Queries Dwarf ChatGPT’s 66M",
+            "url": "https://www.webpronews.com/googles-search-dominance-14b-daily-queries-dwarf-chatgpts-66m/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-8f9f3990-9af0-4ef1-a1c2-ff5da11d1fa5.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-09-26 18:22:04"
         },
         {
             "source": {
@@ -3183,138 +3291,6 @@
             "url": "https://www.devdiscourse.com/article/technology/3637339-packaging-industry-must-harness-ai-to-meet-circular-economy-goals",
             "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/23_09_2025_10_35_48_073685.png?width=920&format=jpeg",
             "publishedAt": "2025-09-25T12:00:19Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "BlackBerry raises annual revenue forecast on resilient software spending",
-            "url": "https://www.reuters.com/world/americas/blackberry-raises-annual-revenue-forecast-resilient-software-spending-2025-09-25/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/FNUQ3M6VA5PW7KL62ETADUZRVI.jpg?auth=82453535c961eebf306a970e1dd58dd9a5759e942a74fac74a32f5a5fb94ca87&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-09-25T11:59:25Z"
-        },
-        {
-            "source": {
-                "id": "3989f52bbec2d3be8442e2851b59e79e",
-                "name": "CBS Sports",
-                "url": "https://www.cbssports.com",
-                "country": "us"
-            },
-            "title": "Seahawks vs. Cardinals NFL props, SportsLine Machine Learning Model AI picks: Darnold Over 217.5 passing yards",
-            "url": "https://www.cbssports.com/nfl/news/seahawks-vs-cardinals-nfl-props-sportsline-machine-learning-model-ai-picks-darnold-over-217-5-passing-yards/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/09/17/ca0edc2a-099a-4087-a1f5-6fd817b0f34f/thumbnail/1200x675/fda1107d771e27a9457e68029b1a4728/sam-darnold-seahawks-imagn-images.jpg",
-            "publishedAt": "2025-09-25T11:40:02Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Chip cooling startup Corintis raises $24 million, adds Intel CEO Lip-Bu Tan to board",
-            "url": "https://www.thestar.com.my/tech/tech-news/2025/09/25/chip-cooling-startup-corintis-raises-24-million-adds-intel-ceo-lip-bu-tan-to-board",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/09/25/3539821.jpg",
-            "publishedAt": "2025-09-25T11:13:00Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Generation AEO & GEO Services, With Rank Up Academy Set to Empower SEOs Worldwide",
-            "url": "https://www.tribuneindia.com/news/business/bloomx-solutions-and-rank-up-announce-launch-of-next-generation-aeo-geo-services-with-rank-up-academy-set-to-empower-seos-worldwide/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTQyOGY5OTMwLTlhMDAtMTFmMC04ZWJlLWYzMjRlZjRkM2RjZS5qcGc=",
-            "publishedAt": "2025-09-25T11:10:29Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "Generation AEO & GEO Services, With Rank Up Academy Set to Empower SEOs Worldwide",
-            "url": "https://www.lokmattimes.com/business/bloomx-solutions-and-rank-up-announce-launch-of-next-generation-aeo-geo-services-with-rank-up-academy-set-to-empower-seos-worldwide/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20250925110048_202509.jpg",
-            "publishedAt": "2025-09-25T11:06:05Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Chip cooling startup Corintis raises $24 million, adds Intel CEO Lip-Bu Tan to board",
-            "url": "https://www.reuters.com/business/chip-cooling-startup-corintis-raises-24-million-adds-intel-ceo-lip-bu-tan-board-2025-09-25/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/GEC47ONSJVJORJXYAEFOSEM56E.jpg?auth=e855cbce1f8332bce0cd1ab9d99ff943f4cc982ae08bff1edf69f4871e0a0384&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-09-25T11:03:40Z"
-        },
-        {
-            "source": {
-                "id": "a3391c15eb1d3136f9b9dd080940d0e8",
-                "name": "The Nation",
-                "url": "https://www.nation.com.pk",
-                "country": "pk"
-            },
-            "title": "Russia warns AI could deepen global inequality, destabilize international relations",
-            "url": "https://www.nation.com.pk/25-Sep-2025/russia-warns-ai-deepen-global-inequality-destabilize-international-relations",
-            "urlToImage": "https://www.nation.com.pk/digital_images/large/2025-09-25/russia-warns-ai-deepen-global-inequality-destabilize-international-relations-1758797991-7078.jpg",
-            "publishedAt": "2025-09-25T11:00:50Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "AI Revolutionizes Health Optimization: The Future of Personalized Longevity Medicine",
-            "url": "https://techbullion.com/ai-revolutionizes-health-optimization-the-future-of-personalized-longevity-medicine/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/image-66.webp",
-            "publishedAt": "2025-09-25T10:55:32Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Cubera Cube Launches in India: Ushering a New Era of Audience Discovery and Creative Campaigning",
-            "url": "https://www.tribuneindia.com/news/business/cubera-cube-launches-in-india-ushering-a-new-era-of-audience-discovery-and-creative-campaigning/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTY1ZjkxOGIwLTk5ZmItMTFmMC04ZWJlLWYzMjRlZjRkM2RjZS5qcGc=",
-            "publishedAt": "2025-09-25T10:35:42Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Guotai Haitong Securities hosts conference on biopharma and AI in E. China's Shanghai",
-            "url": "https://www.manilatimes.net/2025/09/25/tmt-newswire/globenewswire/guotai-haitong-securities-hosts-conference-on-biopharma-and-ai-in-e-chinas-shanghai/2190309",
-            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-            "publishedAt": "2025-09-25T10:32:26Z"
-        },
-        {
-            "source": {
-                "id": "f4d035ae0463df22c36ae97972a33ba6",
-                "name": "PR Newswire UK",
-                "url": "https://www.prnewswire.co.uk",
-                "country": "gb"
-            },
-            "title": "UK business 'confident' in AI, but divided on cybersecurity benefits according to new AI sentiment tracker",
-            "url": "https://www.prnewswire.co.uk/news-releases/uk-business-confident-in-ai-but-divided-on-cybersecurity-benefits-according-to-new-ai-sentiment-tracker-302567009.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2782059/Expleo_AI_Index.jpg?p=facebook",
-            "publishedAt": "2025-09-25T10:32:00Z"
         }
     ]
 }
