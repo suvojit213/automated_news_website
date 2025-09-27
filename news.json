@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2025-09-27T01:06:17.723382Z",
+    "lastUpdatedAt": "2025-09-27T02:50:52.621165Z",
     "articles": [
+        {
+            "source": {
+                "id": "6fea3ee012f060c6309366516e8d00be",
+                "name": "News-Medical.net",
+                "url": "https://www.news-medical.net",
+                "country": "gb"
+            },
+            "title": "Optogenetics and artificial intelligence open path to personalized Parkinson’s treatment",
+            "url": "https://www.news-medical.net/news/20250926/Optogenetics-and-artificial-intelligence-open-path-to-personalized-Parkinsone28099s-treatment.aspx",
+            "urlToImage": "https://www.news-medical.net/image-handler/picture/2015/7/image_28620e4b6b0047f7ab9154b41d739db1-620x480.jpg",
+            "publishedAt": "2025-09-26T14:32:00Z"
+        },
+        {
+            "source": {
+                "id": "d9e5f124fd3af657d83b8787fbbae53d",
+                "name": "Raw Story",
+                "url": "https://www.rawstory.com",
+                "country": "us"
+            },
+            "title": "Trump launches AI program to deny Medicare services",
+            "url": "https://www.rawstory.com/trump-launches-ai-program-to-deny-medicare-services/",
+            "urlToImage": "https://www.rawstory.com/media-library/a-nurse-holds-an-elderly-woman-s-hand-shutterstock.jpg?id=55304547&width=1200&height=600&coordinates=0%2C54%2C0%2C55",
+            "publishedAt": "2025-09-26T14:28:51Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "OpenAI CEO Sam Altman’s AI warning: Superintelligence is coming faster than you think",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/openai-ceo-sam-altmans-ai-warning-superintelligence-is-coming-faster-than-you-think/articleshow/124161627.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-124161616,width-1070,height-580,imgsize-724851,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-09-26T14:05:00Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Global equity funds log weekly inflows as AI optimism, Fed cut bets boost sentiment",
+            "url": "https://www.reuters.com/world/china/global-markets-flows-graphic-2025-09-26/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/5HJMTEYL65ISZFASMSQ6MNC6OI.jpg?auth=c7d5747dd924da78779e5ec6460ab1b533e4147ff187e256eb594db004a3b012&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-09-26T14:00:44Z"
+        },
+        {
+            "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+            },
+            "title": "OpenAI’s Sam Altman becomes first to receive honorary PhD from Abu Dhabi’s AI university",
+            "url": "https://indianexpress.com/article/world/sam-altman-receives-phd-abu-dhabi-ai-university-10273215/",
+            "urlToImage": "https://images.indianexpress.com/2025/09/G1xFI0_WIAAIxnJ.jpg",
+            "publishedAt": "2025-09-26T13:40:00Z"
+        },
+        {
+            "source": {
+                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+                "name": "NDTV.com",
+                "url": "https://www.ndtv.com",
+                "country": "in"
+            },
+            "title": "What Queen's University's GIFT City Campus Offers Indian Students: Dean Explains",
+            "url": "https://www.ndtv.com/education/what-queens-universitys-gift-city-campus-offers-indian-students-dean-explains-9350481",
+            "urlToImage": "https://c.ndtvimg.com/2025-09/pdhrvd3g_queens-universitys-gift-city-campus_625x300_26_September_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+            "publishedAt": "2025-09-26T13:33:41Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "AI Cloud Firm Northern Data Raided by German Investigators",
+            "url": "https://www.livemint.com/companies/news/ai-cloud-firm-northern-data-raided-by-german-investigators-11758893566942.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_4_1733465206851_1733465215415.png",
+            "publishedAt": "2025-09-26T13:32:46Z"
+        },
+        {
+            "source": {
+                "id": "f4967fce32bfc735983f0f39dcdba127",
+                "name": "pv magazine",
+                "url": "https://www.pv-magazine.com",
+                "country": "de"
+            },
+            "title": "AI platform compiles data on Spain’s renewable energy projects",
+            "url": "https://www.pv-magazine.com/2025/09/26/ai-platform-compiles-data-on-spains-renewable-energy-projects/",
+            "urlToImage": "https://www.pv-magazine.com/wp-content/uploads/2025/09/vlad-burac-rIVlxt5ROrM-unsplash-1200x675.jpg",
+            "publishedAt": "2025-09-26T13:30:59Z"
+        },
+        {
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            },
+            "title": "How a 16-year-old AI prodigy is shaping the future of technology",
+            "url": "https://www.indiatoday.in/education-today/news/story/how-16-year-old-ai-prodigy-is-shaping-the-future-of-technology-2794048-2025-09-26",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202509/how-16-year-old-ai-prodigy-is-shaping-the-future-of-technology-261426818-16x9_0.jpeg?VersionId=.2Yyo_o4GMyTqMZDbaoJJNN1i0IBqp5W",
+            "publishedAt": "2025-09-26T13:16:57Z"
+        },
+        {
+            "source": {
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
+                "country": "us"
+            },
+            "title": "Akido Labs Uses Meta's Llama And Anthropic's Claude To Diagnose Patients As AI System ScopeAI Promises Faster Medicaid Care",
+            "url": "https://www.benzinga.com/news/topics/25/09/47888085/akido-labs-uses-metas-llama-and-anthropics-claude-to-diagnose-patients-as-ai-system-scopeai-promises-faster-medicaid-care",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/09/26/Medicaid-Cuts-Strain-Hospitals.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2025-09-26T13:16:36Z"
+        },
         {
             "source": {
                 "id": "c73686fdf0e30639d57eddaf7a77236e",
@@ -840,6 +960,96 @@
             "url": "https://www.globenewswire.com/news-release/2025/09/26/3157095/28124/en/France-Artificial-Intelligence-in-Diagnostics-Market-Research-Report-2025-2033-Component-Application-End-Use-States-and-Company-Analysis.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
             "publishedAt": "2025-09-26T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "astrobiology"
+            },
+            "title": "Minute Witnesses From Earth’s Primordial Sea",
+            "url": "https://astrobiology.com/2025/09/minute-witnesses-from-earths-primordial-sea.html",
+            "urlToImage": "https://astrobiology.com/wp-content/uploads/2025/09/Minute-witnesses.jpg",
+            "publishedAt": "2025-09-26 14:19:53"
+        },
+        {
+            "source": {
+                "name": "chicagotribune"
+            },
+            "title": "David McGrath: AI’s making the purchase of college term papers look like child’s play",
+            "url": "https://www.chicagotribune.com/2025/09/26/mcgrath-ai-plagiarism-cheating-colleges-term-papers/",
+            "urlToImage": "https://www.chicagotribune.com/wp-content/uploads/2025/08/lns-l-d112-ai-schools-02.jpg?strip=all&w=1400px",
+            "publishedAt": "2025-09-26 14:19:49"
+        },
+        {
+            "source": {
+                "name": "time"
+            },
+            "title": "The UN’s AI warnings grow louder",
+            "url": "https://time.com/7320747/un-ai-2025/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2025/09/GettyImages-2236923336.jpg?h=675&w=1200",
+            "publishedAt": "2025-09-26 14:19:02"
+        },
+        {
+            "source": {
+                "name": "digit_in"
+            },
+            "title": "Oppo Find X9 India launch timeline, specifications, price and all other details we know so far",
+            "url": "https://www.digit.in/news/mobile-phones/oppo-find-x9-india-launch-timeline-specifications-price-and-all-other-details-we-know-so-far.html",
+            "urlToImage": "https://static.digit.in/Oppo-Find-X8-2.jpg",
+            "publishedAt": "2025-09-26 14:02:00"
+        },
+        {
+            "source": {
+                "name": "hackaday"
+            },
+            "title": "This Week in Security: Randomness is Hard, SNMP Shouldn’t Be Public, and GitHub Malware Delivery",
+            "url": "https://hackaday.com/2025/09/26/this-week-in-security-randomness-is-hard-snmp-shouldnt-be-public-and-github-malware-delivery/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg",
+            "publishedAt": "2025-09-26 14:00:09"
+        },
+        {
+            "source": {
+                "name": "digitaltrends"
+            },
+            "title": "These are my favorite Google Gemini prompts after 100 hours using the AI chatbot",
+            "url": "https://www.digitaltrends.com/computing/these-are-my-favorite-google-gemini-prompts-after-100-hours-using-the-ai-chatbot/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/04/Opera-Aria-vs-ChatGPT-vs-Google-Gemini-web-search.jpg?p=1&resize=1200%2C630",
+            "publishedAt": "2025-09-26 14:00:00"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "Slow Wi-Fi? 10 tricks I use to get internet speeds as fast and reliable as wired",
+            "url": "https://www.zdnet.com/article/slow-wi-fi-10-tricks-i-use-to-get-internet-speeds-as-fast-and-reliable-as-wired/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/c094a6a91cb0e3dc1b8932a6233661b699e65885/2025/09/26/1acf2a86-5d5f-45b1-bf6f-d2c433800bae/gettyimages-2207609146.jpg?auto=webp&width=1280",
+            "publishedAt": "2025-09-26 13:58:00"
+        },
+        {
+            "source": {
+                "name": "benzinga"
+            },
+            "title": "Meta Wins EU Approval For AI Joint Venture With Reliance",
+            "url": "https://www.benzinga.com/markets/tech/25/09/47890032/meta-wins-eu-approval-for-ai-joint-venture-with-reliance",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/09/26/Meta-Platforms-Inc--META.jpeg?auto=jpg&dpr=1&fit=crop&height=480&optimize=medium&width=720",
+            "publishedAt": "2025-09-26 13:56:18"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Top Monitors with Built-in Docking Stations for 2025",
+            "url": "https://www.analyticsinsight.net/gadgets/top-monitors-with-built-in-docking-stations-for-2025",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-09-26%2Fzr74ps2a%2FTop-Monitors-with-Built-in-Docking-Stations-for-2025.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-09-26 13:54:48"
+        },
+        {
+            "source": {
+                "name": "wired"
+            },
+            "title": "11 Best 2-in-1 Laptops (2025), WIRED-Approved and Tested",
+            "url": "https://www.wired.com/gallery/best-2-in-1-laptops/",
+            "urlToImage": "https://media.wired.com/photos/6849bc049ce5751a283a2465/4:3/w_120,c_limit/Yoga%209i%20(14-inch,%202025)%20Luke%20Larsen.png",
+            "publishedAt": "2025-09-26 13:30:00"
         },
         {
             "source": {
@@ -3168,219 +3378,6 @@
             "url": "https://www.thestar.com.my/tech/tech-news/2025/09/25/ai039s-double-edged-sword-un-leaders-weigh-its-promise-and-peril",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/09/25/3538590.jpg",
             "publishedAt": "2025-09-25T02:00:00Z"
-        },
-        {
-            "source": {
-                "id": "4b9101ef61d45607a32072a7504f5fb0",
-                "name": "The Japan Times ",
-                "url": "https://www.japantimes.co.jp",
-                "country": "jp"
-            },
-            "title": "Top Japanese fund looks to small and midsized caps on improving valuations",
-            "url": "https://www.japantimes.co.jp/business/2025/09/25/companies/japan-top-fund-investment-in-small-cap-stocks/",
-            "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2025/09/25/495801.jpg?v=3.1",
-            "publishedAt": "2025-09-25T01:58:35Z"
-        },
-        {
-            "source": {
-                "id": "6fea3ee012f060c6309366516e8d00be",
-                "name": "News-Medical.net",
-                "url": "https://www.news-medical.net",
-                "country": "gb"
-            },
-            "title": "AI-guided platform improves design and efficiency of therapeutic nanoparticles",
-            "url": "https://www.news-medical.net/news/20250924/AI-guided-platform-improves-design-and-efficiency-of-therapeutic-nanoparticles.aspx",
-            "urlToImage": "https://www.news-medical.net/image-handler/picture/2014/7/PLGA_nanoparticles_for_delivery_of_drugs-620x480.jpg",
-            "publishedAt": "2025-09-25T01:42:00Z"
-        },
-        {
-            "source": {
-                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-                "name": "Markets Insider",
-                "url": "https://markets.businessinsider.com",
-                "country": "us"
-            },
-            "title": "Microsoft Adds Anthropic AI Model to Its Copilot Digital Assistant",
-            "url": "https://markets.businessinsider.com/news/stocks/microsoft-adds-anthropic-ai-model-to-its-copilot-digital-assistant-1035201169",
-            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/09/image-1572-1024x795.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-            "publishedAt": "2025-09-25T01:30:00Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "TSMC, chip design software firms tap AI to help chips use less energy",
-            "url": "https://www.thestar.com.my/tech/tech-news/2025/09/25/tsmc-chip-design-software-firms-tap-ai-to-help-chips-use-less-energy-",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/09/25/3538586.jpg",
-            "publishedAt": "2025-09-25T01:11:00Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "TSMC, chip design software firms tap AI to help chips use less energy",
-            "url": "https://www.reuters.com/world/asia-pacific/tsmc-chip-design-software-firms-tap-ai-help-chips-use-less-energy-2025-09-25/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/3VUR2YTAMRKFZF5SOMO36EDV54.jpg?auth=a2eee5b56cd38e5fd15bc5963b978c115af8f58979771ffbe1bfc80567673359&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-09-25T01:10:19Z"
-        },
-        {
-            "source": {
-                "id": "28bc60a23a7bf89e60f893506992a3fe",
-                "name": "Daily Excelsior",
-                "url": "https://www.dailyexcelsior.com",
-                "country": "in"
-            },
-            "title": "Two-day International Conference organized by Vidyapith concludes",
-            "url": "https://www.dailyexcelsior.com/two-day-international-conference-organized-by-vidyapith-concludes/",
-            "urlToImage": "https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2025/09/page9-3-7.jpg",
-            "publishedAt": "2025-09-25T01:08:11Z"
-        },
-        {
-            "source": {
-                "id": "10cbfb3760cfcdeb78c733c527f0e814",
-                "name": "iTWire",
-                "url": "https://itwire.com",
-                "country": "au"
-            },
-            "title": "Barracuda announces CEO transition: Rohit Ghai appointed CEO as Hatem Naguib steps down",
-            "url": "https://itwire.com/it-people-news/people-moves/barracuda-announces-ceo-transition-rohit-ghai-appointed-ceo-as-hatem-naguib-steps-down.html",
-            "urlToImage": "https://itwire.com/media/k2/items/cache/2bde68b33bbbaa464b6738bb67f132a0_XS.jpg",
-            "publishedAt": "2025-09-25T00:46:13Z"
-        },
-        {
-            "source": {
-                "id": "0c9364fff53c0e5a3450947d9a54e795",
-                "name": "Daily Mail Online",
-                "url": "https://www.dailymail.co.uk",
-                "country": "gb"
-            },
-            "title": "The threat of artificial intelligence wiping us out is so grave governments must bomb any labs suspected of developing it, by two top academics who've studied the threat for 25 years... and spell out",
-            "url": "https://www.dailymail.co.uk/news/article-15130353/Tom-Leonard-AI-robots-tech-artificial-intelligence-chatgpt.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2025/09/24/17/102421353-0-image-m-16_1758731663367.jpg",
-            "publishedAt": "2025-09-25T00:41:59Z"
-        },
-        {
-            "source": {
-                "id": "79baacd62152cf257ee35e8c0bec19a2",
-                "name": "UPI News",
-                "url": "https://www.upi.com",
-                "country": "us"
-            },
-            "title": "Google's experimental Mixboard uses AI to visualize ideas",
-            "url": "https://www.upi.com/Top_News/US/2025/09/24/Google-launches-Mixboard-artificial-intelligence/2141758756815/",
-            "urlToImage": "https://cdnph.upi.com/sv/ph/og/upi_com/2141758756815/2025/1/0b850d912592f13dbdf61e381298664d/v1.5/Googles-experimental-Mixboard-uses-AI-to-visualize-ideas.jpg",
-            "publishedAt": "2025-09-25T00:16:07Z"
-        },
-        {
-            "source": {
-                "id": "8e9ab8327c5f7903cc1b50470411d165",
-                "name": "GlobeNewswire",
-                "url": "https://www.globenewswire.com",
-                "country": "us"
-            },
-            "title": "China Smart Car Information Security (Cybersecurity and",
-            "url": "https://www.globenewswire.com/news-release/2025/09/25/3156050/28124/en/China-Smart-Car-Information-Security-Cybersecurity-and-Data-Security-Research-Report-2025-AI-Fusion-Intelligent-Protection-and-Ecological-Collaboration-Ensure-Cybersecurity-and-Dat.html",
-            "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-            "publishedAt": "2025-09-25T00:00:00Z"
-        },
-        {
-            "source": {
-                "id": "0a1d38750c798242e5ac5c5d47477eeb",
-                "name": "ScienceDaily",
-                "url": "https://www.sciencedaily.com",
-                "country": "us"
-            },
-            "title": "Goodbye colonoscopy? Simple stool test detects 90% of colorectal cancers",
-            "url": "https://www.sciencedaily.com/releases/2025/09/250916221920.htm",
-            "urlToImage": "https://www.sciencedaily.com/images/1920/colon-cancer-bacteria-viruses.webp",
-            "publishedAt": "2025-09-25T00:00:00Z"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Cloudflare Launches NET Dollar Stablecoin for AI Agent Micropayments",
-            "url": "https://www.webpronews.com/cloudflare-launches-net-dollar-stablecoin-for-ai-agent-micropayments/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-f6d78820-4755-48da-8e84-14e240e8f004.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-09-25 23:36:42"
-        },
-        {
-            "source": {
-                "name": "headtopics"
-            },
-            "title": "Microsoft reduces Israel's access to AI products over Gaza mass surveillance",
-            "url": "https://us.headtopics.com/news/microsoft-reduces-israel-s-access-to-ai-products-over-gaza-73537546",
-            "urlToImage": "https://i.headtopics.com/images/2025/9/24/trtworld/israeli-genocide-ravages-gaza-children-hunger-israeli-genocide-ravages-gaza-children-hunger-E56C564F0BC873570889C04C8440C395.webp?w=640",
-            "publishedAt": "2025-09-25 23:08:56"
-        },
-        {
-            "source": {
-                "name": "newswise"
-            },
-            "title": "LLNL's Xiaoxing Xia named among MIT Technology Review's top Innovators Under 35",
-            "url": "https://www.newswise.com/articles/llnl-s-xiaoxing-xia-named-among-mit-technology-review-s-top-innovators-under-35/?sc=rsla",
-            "urlToImage": "https://www.newswise.com/legacy/image.php?image=https%3A%2F%2Fcontenthub.llnl.gov%2Fsites%2Fcontenthub%2Ffiles%2Fstyles%2Fscaled_3_2_ratio_at_350x233%2Fpublic%2F2025-09%2FExternal_PlasmaDiagnostic_1280x720_0.jpg%3Fitok%3DaqDGFqBi",
-            "publishedAt": "2025-09-25 22:53:44"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "NVIDIA Stock Analysis: NVDA Trades at $176 Amid Bold $100B AI Bets",
-            "url": "https://www.analyticsinsight.net/stocks/nvidia-stock-analysis-nvda-trades-at-176-amid-bold-100b-ai-bets",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-09-25%2F40fl58ho%2FNVIDIA-Stockwgew.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-09-25 22:45:00"
-        },
-        {
-            "source": {
-                "name": "headtopics"
-            },
-            "title": "AI Cracks the Code for the Next Generation of Solar Power",
-            "url": "https://us.headtopics.com/news/ai-cracks-the-code-for-the-next-generation-of-solar-power-73536679",
-            "urlToImage": "https://i.headtopics.com/images/2025/9/24/carscoop/bentley-s-ev-only-strategy-just-fell-apart-and-the-bentley-s-ev-only-strategy-just-fell-apart-and-the-5498BF6F62197DACE0FC85909A75E661.webp?w=640",
-            "publishedAt": "2025-09-25 22:39:32"
-        },
-        {
-            "source": {
-                "name": "xda_developers"
-            },
-            "title": "Using my own NTP server for precise time synchronization",
-            "url": "https://www.xda-developers.com/my-own-ntp-server-to-keep-all-devices-synchronized/",
-            "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/07/windows-11-task-scheduler-clock.jpg",
-            "publishedAt": "2025-09-25 22:30:19"
-        },
-        {
-            "source": {
-                "name": "techcrunch"
-            },
-            "title": "Trump signs executive order to approve TikTok deal",
-            "url": "https://techcrunch.com/2025/09/25/trump-signs-executive-order-approving-tiktok-deal/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2182948673-tiktok.jpg?resize=1200%2C800",
-            "publishedAt": "2025-09-25 22:27:15"
-        },
-        {
-            "source": {
-                "name": "thestreet"
-            },
-            "title": "This bold Oracle move could be the beginning of something big",
-            "url": "https://www.thestreet.com/technology/this-bold-oracle-move-could-be-the-beginning-of-something-big-",
-            "urlToImage": "https://www.thestreet.com/.image/c_fit,h_800,w_1200/MTgxNzUxNzM1MjM1MTI2ODkx/oracle_3.jpg",
-            "publishedAt": "2025-09-25 22:03:00"
-        },
-        {
-            "source": {
-                "name": "cleveland"
-            },
-            "title": "Is your favorite new artist actually an AI robot?",
-            "url": "https://www.cleveland.com/news/2025/09/is-your-favorite-new-artist-actually-an-ai-robot.html",
-            "urlToImage": "https://www.cleveland.com/resizer/v2/U7SOFN3JYZAYZNJCTJ2JWL6XPY.jpg?auth=5473e471c9133884428e414764f64f0cd147481b49cd8add7031024d1ef179a8&height=1200&smart=true",
-            "publishedAt": "2025-09-25 22:00:00"
         }
     ]
 }
