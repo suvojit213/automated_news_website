@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-09-28T16:16:00.962794Z",
+    "lastUpdatedAt": "2025-09-28T17:11:28.292034Z",
     "articles": [
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "UAE President Sheikh Mohamed meets OpenAI CEO Sam Altman; awarded honorary doctorate for AI leadership",
+            "url": "https://timesofindia.indiatimes.com/world/middle-east/uae-president-sheikh-mohamed-meets-openai-ceo-sam-altman-awarded-honorary-doctorate-for-ai-leadership/articleshow/124190487.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-124190935,width-1070,height-580,imgsize-895971,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-09-28T04:58:00Z"
+        },
         {
             "source": {
                 "id": "1b40b878c09151e8cf44a095bc8569a5",
@@ -120,6 +132,15 @@
             "url": "https://www.thestar.com.my/news/focus/2025/09/28/wnd2025-you-deserve-the-truth-not-ais-interpretation-of-it",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/09/28/3542925.jpg",
             "publishedAt": "2025-09-28T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "toi"
+            },
+            "title": "OpenAI CEO Sam Altman warns AI could replace 40% of jobs: Is yours on the list?",
+            "url": "https://timesofindia.indiatimes.com/education/news/openai-ceo-sam-altman-warns-ai-could-replace-40-of-jobs-is-yours-on-the-list/articleshow/124190547.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-124190686,imgsize-567334,width-400,resizemode-4/openai-ceo-sam-altman-warns-ai-could-replace-40-of-jobs-is-yours-on-the-list.jpg",
+            "publishedAt": "2025-09-28 04:29:28"
         },
         {
             "source": {
@@ -3195,24 +3216,6 @@
             "url": "https://www.techradar.com/computing/gaming-pcs/walmart-has-an-rtx-5070-gaming-pc-on-sale-for-usd1-099-right-now-yep-really",
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/sd9whEsnBHbuPBnhUeG86i.jpg",
             "publishedAt": "2025-09-26 16:05:24"
-        },
-        {
-            "source": {
-                "name": "macworld"
-            },
-            "title": "5 Mac antivirus apps that beat Apple’s built-in security",
-            "url": "https://www.macworld.com/article/668850/best-mac-antivirus-software.html",
-            "urlToImage": "https://www.macworld.com/wp-content/uploads/2025/09/Best-Mac-Antivirus-software-1.jpg?quality=50&strip=all&w=1024",
-            "publishedAt": "2025-09-26 15:49:53"
-        },
-        {
-            "source": {
-                "name": "biztoc"
-            },
-            "title": "Can Qualcomm’s (QCOM) Automotive Bet Deliver the Next Big Growth Wave?",
-            "url": "https://biztoc.com/x/f0490749164362e0",
-            "urlToImage": "https://cdn.biztoc.com/f0490749164362e0_sq.webp",
-            "publishedAt": "2025-09-26 15:24:21"
         }
     ]
 }
