@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-09-28T05:13:45.510590Z",
+    "lastUpdatedAt": "2025-09-28T06:20:46.426962Z",
     "articles": [
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Data breach exposes 2.73 lakh bank records",
+            "url": "https://economictimes.indiatimes.com/tech/technology/data-breach-exposes-2-73-lakh-bank-records/articleshow/124184985.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-46002,resizemode-75,msid-124184985/tech/technology/data-breach-exposes-2-73-lakh-bank-records.jpg",
+            "publishedAt": "2025-09-27T17:56:36Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "The Future of Front Desk Management with AI Receptionists",
+            "url": "https://techbullion.com/the-future-of-front-desk-management-with-ai-receptionists/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/67fcda2d957ce3bce529b136_getImage-1080x658-1-1000x600.jpg",
+            "publishedAt": "2025-09-27T17:44:08Z"
+        },
         {
             "source": {
                 "id": "bce8b9fcd331f3552e3dcf603b83b80e",
@@ -636,6 +660,15 @@
             "url": "https://www.hindustantimes.com/cities/pune-news/mahametro-iit-kanpur-sign-first-cybersecurity-pact-101758994991576.html",
             "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/09/27/550x309/Hardikar-said-cybersecurity-is-becoming-increasing_1758994988241.jpg",
             "publishedAt": "2025-09-27T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "thestreet"
+            },
+            "title": "Wall Street billionaire sends one-word AI warning",
+            "url": "https://www.thestreet.com/technology/wall-street-billionaire-sends-one-word-ai-warning",
+            "urlToImage": "https://www.thestreet.com/.image/c_fit,h_800,w_1200/MjE4MDMyODM0NDcwNzQ5Nzk4/david-einhorn-lead-1.jpg",
+            "publishedAt": "2025-09-27 18:03:00"
         },
         {
             "source": {
@@ -3141,33 +3174,6 @@
             "url": "https://news.abplive.com/technology/what-ai-skills-do-employers-really-want-in-2025-how-you-can-build-them-through-apprenticeships-1802521",
             "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2025/04/25/9c4aacbee1dafb1ab88a04ddef8480c51745560349567402_original.jpg",
             "publishedAt": "2025-09-26 09:37:47"
-        },
-        {
-            "source": {
-                "name": "fortune"
-            },
-            "title": "Under the radar, CEOs have growing concerns about U.S. commitment to free speech, science, and rule of law",
-            "url": "https://fortune.com/2025/09/26/ceo-concern-free-speech-science-rule-of-law/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg?w=2048",
-            "publishedAt": "2025-09-26 09:36:32"
-        },
-        {
-            "source": {
-                "name": "cnn"
-            },
-            "title": "AI isn’t replacing your job, but ‘workslop’ may be taking it over",
-            "url": "https://www.cnn.com/2025/09/26/business/ai-workslop-nightcap",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-685007437.jpg?c=16x9&q=w_800%2Cc_fill",
-            "publishedAt": "2025-09-26 09:30:51"
-        },
-        {
-            "source": {
-                "name": "digit_in"
-            },
-            "title": "OpenAI’s GPT-5 matches human performance in jobs: What it means for work and AI",
-            "url": "https://www.digit.in/openais-gpt-5-matches-human-performance-in-jobs-what-it-means-for-work-and-ai/",
-            "urlToImage": "https://static.digit.in/AI-programming-2.png",
-            "publishedAt": "2025-09-26 09:02:34"
         }
     ]
 }
