@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2025-09-27T23:13:19.487936Z",
+    "lastUpdatedAt": "2025-09-28T01:16:15.158385Z",
     "articles": [
+        {
+            "source": {
+                "id": "90a6e6fbc82cfa821ac49fdb5c404789",
+                "name": "NewsX",
+                "url": "https://www.newsx.com",
+                "country": "in"
+            },
+            "title": "China-linked hackers exploit zero-day flaws, CISA warns of national security threat",
+            "url": "https://www.newsx.com/world/china-linked-hackers-exploit-zero-day-flaws-cisa-warns-of-national-security-threat20250927175645-82591/",
+            "urlToImage": "https://www.newsx.com/wp-content/uploads/2025/09/China-linked-hackers-exploit-zero-day-flaws-CISA-warns-of-national-security.avif",
+            "publishedAt": "2025-09-27T13:14:03Z"
+        },
+        {
+            "source": {
+                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+                "name": "The Financial Express",
+                "url": "https://www.financialexpress.com",
+                "country": "in"
+            },
+            "title": "The AI tracker: From classrooms to culture, insurance to entertainment, this is where artificial intelligence is making news",
+            "url": "https://www.financialexpress.com/life/technology/the-ai-trackernbspfrom-classrooms-to-culture-insurance-to-entertainment-this-is-where-artificial-intelligence-is-making-news/3991592/",
+            "urlToImage": "https://images.financialexpressdigital.com/2025/09/Anchor_-ld-1.jpg",
+            "publishedAt": "2025-09-27T13:05:59Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "US Cybersecurity Agency Urges Immediate Action After Major Hacking Campaign",
+            "url": "https://www.devdiscourse.com/article/international/3643918-us-cybersecurity-agency-urges-immediate-action-after-major-hacking-campaign",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/27_09_2025_18_03_31_8455647.jpg?width=920&format=jpeg",
+            "publishedAt": "2025-09-27T12:33:58Z"
+        },
+        {
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            },
+            "title": "day flaws, CISA warns of national security threat",
+            "url": "https://www.lokmattimes.com/international/china-linked-hackers-exploit-zero-day-flaws-cisa-warns-of-national-security-threat/",
+            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20250927122628_202509.jpg",
+            "publishedAt": "2025-09-27T12:26:45Z"
+        },
+        {
+            "source": {
+                "id": "aa569bbaa7b7ef97f7cf8df3cf902947",
+                "name": "Investor's Business Daily",
+                "url": "https://www.investors.com",
+                "country": "us"
+            },
+            "title": "Nvidia, These Other AI Plays Lead 5 Stocks Near Buy Points",
+            "url": "https://www.investors.com/news/nvidia-ai-stocks-buy-points/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2025/09/stock-cloud-tech-adobe.jpg",
+            "publishedAt": "2025-09-27T12:00:43Z"
+        },
+        {
+            "source": {
+                "id": "77b86639d1384ac68141803ec5db27c0",
+                "name": "NBC News",
+                "url": "https://www.nbcnews.com",
+                "country": "us"
+            },
+            "title": "U.S. rejects international AI oversight at U.N. General Assembly",
+            "url": "https://www.nbcnews.com/tech/tech-news/us-rejects-international-ai-oversight-un-general-assembly-rcna233478",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250924-donald-trump-vl-1246p-411d40.jpg",
+            "publishedAt": "2025-09-27T11:30:00Z"
+        },
         {
             "source": {
                 "id": "7daf04fa6272ed0a29583b211dcfe1d4",
@@ -348,6 +420,96 @@
             "url": "https://www.hindustantimes.com/cities/pune-news/mahametro-iit-kanpur-sign-first-cybersecurity-pact-101758994991576.html",
             "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/09/27/550x309/Hardikar-said-cybersecurity-is-becoming-increasing_1758994988241.jpg",
             "publishedAt": "2025-09-27T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "wired"
+            },
+            "title": "Lenovo Legion 7i Gen 10 Review: An All-White Wonder",
+            "url": "https://www.wired.com/review/lenovo-legion-7i-gen-10/",
+            "urlToImage": "https://media.wired.com/photos/68d7586d37166682a3691f81/master/w_120,c_limit/Review-%20Lenovo%20Legion%207i%20Gen%2010%20(16%20Inch,%20Intel).png",
+            "publishedAt": "2025-09-27 13:00:00"
+        },
+        {
+            "source": {
+                "name": "futurism"
+            },
+            "title": "Experts Alarmed That AI Is Now Producing Functional Viruses",
+            "url": "https://futurism.com/health-medicine/experts-alarmed-ai-viruses",
+            "urlToImage": "https://futurism.com/wp-content/uploads/2025/09/experts-alarmed-ai-viruses.jpg?quality=85",
+            "publishedAt": "2025-09-27 13:00:00"
+        },
+        {
+            "source": {
+                "name": "therobotreport"
+            },
+            "title": "It’s time to recreate China’s robotics strategy in the U.S.",
+            "url": "https://www.therobotreport.com/its-time-to-recreate-chinas-robotics-strategy-u-s/",
+            "urlToImage": "https://www.therobotreport.com/wp-content/uploads/2025/09/Terabase_robot.jpg",
+            "publishedAt": "2025-09-27 12:30:48"
+        },
+        {
+            "source": {
+                "name": "wired"
+            },
+            "title": "Inside the Nuclear Bunkers, Mines, and Mountains Being Retrofitted as Data Centers",
+            "url": "https://www.wired.com/story/inside-the-nuclear-bunkers-mines-and-mountains-being-retrofitted-as-data-centers/",
+            "urlToImage": "https://media.wired.com/photos/68d67a6e8c02238b253dac4a/3:4/w_120,c_limit/GettyImages-964843586.jpg",
+            "publishedAt": "2025-09-27 12:00:00"
+        },
+        {
+            "source": {
+                "name": "popsci"
+            },
+            "title": "The best powered bookshelf speakers for 2025, tested and reviewed",
+            "url": "https://www.popsci.com/gear/best-powered-bookshelf-speakers/",
+            "urlToImage": "https://www.popsci.com/wp-content/uploads/2025/09/best-powered-bookshelf-speakers-hero.jpg?quality=85",
+            "publishedAt": "2025-09-27 12:00:00"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "AI Deems Badminton Painting 85.7% Likely Authentic Caravaggio Original",
+            "url": "https://www.webpronews.com/ai-deems-badminton-painting-85-7-likely-authentic-caravaggio-original/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-c40ec846-8a8e-45a8-bd30-a4c78f0e35a2.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-09-27 11:54:09"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "US AI Adoption Nears 10% Tipping Point for Exponential Surge",
+            "url": "https://www.webpronews.com/us-ai-adoption-nears-10-tipping-point-for-exponential-surge/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-11c1f366-e126-418d-9cbd-9f22b3c01740.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-09-27 11:51:53"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "95% of Telecom AI Pilots Fail to Scale, But Market Eyes Billions by 2033",
+            "url": "https://www.webpronews.com/95-of-telecom-ai-pilots-fail-to-scale-but-market-eyes-billions-by-2033/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-92b56c45-abd5-4174-963f-70efe8212788.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-09-27 11:49:33"
+        },
+        {
+            "source": {
+                "name": "thelincolnianonline"
+            },
+            "title": "Head-To-Head Comparison: Hoya (OTCMKTS:HOCPY) vs. Rockwell Automation (NYSE:ROK)",
+            "url": "https://www.thelincolnianonline.com/2025/09/27/head-to-head-comparison-hoya-otcmktshocpy-vs-rockwell-automation-nyserok.html",
+            "urlToImage": "https://www.marketbeat.com/logos/hoya-corp-logo-1200x675.jpg",
+            "publishedAt": "2025-09-27 11:44:50"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Google Launches AI-Powered Search Live for Real-Time Queries in US",
+            "url": "https://www.webpronews.com/google-launches-ai-powered-search-live-for-real-time-queries-in-us/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-f24d8f18-0b6b-48da-b8f5-592846a0ec76.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-09-27 11:13:34"
         },
         {
             "source": {
@@ -2952,174 +3114,6 @@
             "url": "https://www.fool.com/investing/2025/09/26/billionaires-are-buying-3-unstoppable-ai-stocks/",
             "urlToImage": "https://g.foolcdn.com/image/?h=400&op=resize&url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F832967%2Ftwo-people-in-suits-looking-at-data.jpg&w=400",
             "publishedAt": "2025-09-26 00:00:00"
-        },
-        {
-            "source": {
-                "name": "financialcontent"
-            },
-            "title": "2 No-Brainer AI Stocks to Buy Right Now",
-            "url": "https://www.fool.com/investing/2025/09/26/2-no-brainer-ai-stocks-to-buy-right-now/",
-            "urlToImage": "https://g.foolcdn.com/image/?h=400&op=resize&url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F834496%2Fai-computer-chip.jpg&w=400",
-            "publishedAt": "2025-09-26 00:00:00"
-        },
-        {
-            "source": {
-                "name": "financialcontent"
-            },
-            "title": "Prediction: 2 Artificial Intelligence (AI) Stocks That Will Be Worth More Than Palantir By the End of 2026",
-            "url": "https://www.fool.com/investing/2025/09/26/artificial-intelligence-ai-stocks-worth-palantir/",
-            "urlToImage": "https://g.foolcdn.com/image/?h=400&op=resize&url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F834565%2Fgetty-images-investing-screen-analysis-investor-growth-stocks-1200x800-5b2df79.jpg&w=400",
-            "publishedAt": "2025-09-26 00:00:00"
-        },
-        {
-            "source": {
-                "name": "financialcontent"
-            },
-            "title": "FuriosaAI Unveils Enterprise-Ready NXT RNGD Server As Global Demand For Energy-Efficient AI Inference Surges Beyond Traditional GPU Systems",
-            "url": "https://www.benzinga.com/news/topics/25/09/47886378/furiosaai-unveils-enterprise-ready-nxt-rngd-server-as-global-demand-for-energy-efficient-ai-inference",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/09/26/AI-artificial-intellitence--Man-Using-Ha.jpeg?fit=crop&height=800&width=1200",
-            "publishedAt": "2025-09-26 00:00:00"
-        },
-        {
-            "source": {
-                "name": "financialcontent"
-            },
-            "title": "How Vertiv Became the Bedrock of a Tech Mega-Trend",
-            "url": "https://www.marketbeat.com/stock-ideas/how-vertiv-became-the-bedrock-of-a-tech-mega-trend/",
-            "urlToImage": "https://www.marketbeat.com/logos/articles/med_20250925092829_how-vertiv-became-the-bedrock-of-a-tech-mega-trend.jpg",
-            "publishedAt": "2025-09-26 00:00:00"
-        },
-        {
-            "source": {
-                "name": "benzinga"
-            },
-            "title": "ROG Xbox Ally and ROG Xbox Ally X Now Available for Pre-Order in Canada",
-            "url": "https://www.benzinga.com/pressreleases/25/09/g47881077/rog-xbox-ally-and-rog-xbox-ally-x-now-available-for-pre-order-in-canada",
-            "urlToImage": "https://ml.globenewswire.com/Resource/Download/c096f65e-05c5-4550-bd80-74b6cb61f84f/rog-xbox-ally-and-rog-xbox-ally-x-now-available-for-pre-order-in-canada.png",
-            "publishedAt": "2025-09-26 00:00:00"
-        },
-        {
-            "source": {
-                "name": "financialcontent"
-            },
-            "title": "2 Top Passive Income Stocks to Buy Now",
-            "url": "https://www.fool.com/investing/2025/09/26/2-top-passive-income-stocks-to-buy-now/",
-            "urlToImage": "https://g.foolcdn.com/image/?h=400&op=resize&url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F835076%2Fpassive-income.jpg&w=400",
-            "publishedAt": "2025-09-26 00:00:00"
-        },
-        {
-            "source": {
-                "name": "financialcontent"
-            },
-            "title": "IBM Just Made a Quantum Computing Breakthrough",
-            "url": "https://www.fool.com/investing/2025/09/26/ibm-just-made-a-quantum-computing-breakthrough/",
-            "urlToImage": "https://g.foolcdn.com/image/?h=400&op=resize&url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F835124%2Fgettyimages-2156615862-4.jpg&w=400",
-            "publishedAt": "2025-09-26 00:00:00"
-        },
-        {
-            "source": {
-                "name": "financialcontent"
-            },
-            "title": "Billionaire David Tepper Is Loading Up on These 3 Artificial Intelligence (AI) Stocks That Have Increased 158% or More",
-            "url": "https://www.fool.com/investing/2025/09/26/billionaire-david-tepper-is-loading-up-on-these-3/",
-            "urlToImage": "https://g.foolcdn.com/image/?h=400&op=resize&url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F832961%2Fconsultant-explanining-in-a-meeting-room-with-a-laptop.jpg&w=400",
-            "publishedAt": "2025-09-26 00:00:00"
-        },
-        {
-            "source": {
-                "id": "28bc60a23a7bf89e60f893506992a3fe",
-                "name": "Daily Excelsior",
-                "url": "https://www.dailyexcelsior.com",
-                "country": "in"
-            },
-            "title": "Innovation not limited to industries, but permanent part of society: LG",
-            "url": "https://www.dailyexcelsior.com/innovation-not-limited-to-industries-but-permanent-part-of-society-lg/",
-            "urlToImage": "https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2025/09/page1-2-21.jpg",
-            "publishedAt": "2025-09-25T23:35:56Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "David Einhorn Sees ‘Tremendous’ Capital Losses From AI Spending",
-            "url": "https://www.livemint.com/companies/news/david-einhorn-sees-tremendous-capital-losses-from-ai-spending-11758843228012.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_3_1733465099406_1733465108677.png",
-            "publishedAt": "2025-09-25T23:33:47Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "David Einhorn Sees ‘Tremendous’ Capital Losses From AI Spending",
-            "url": "https://www.bloomberg.com/news/articles/2025-09-25/david-einhorn-sees-tremendous-capital-losses-from-ai-spending",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/inCKqSV2evao/v0/1200x800.jpg",
-            "publishedAt": "2025-09-25T23:09:51Z"
-        },
-        {
-            "source": {
-                "id": "f35c9e0c433f608ad7c48c3d4818bec4",
-                "name": "The Sun",
-                "url": "https://www.thesun.co.uk",
-                "country": "gb"
-            },
-            "title": "How getting a job in the Artificial Intelligence sector can safeguard your future",
-            "url": "https://www.thesun.co.uk/money/36836772/job-artificial-intelligence-sector-career-employment/",
-            "urlToImage": "https://www.thesun.co.uk/wp-content/uploads/2025/09/young-asian-couple-managing-finance-1026532835.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-            "publishedAt": "2025-09-25T23:05:04Z"
-        },
-        {
-            "source": {
-                "id": "7f6e8514e9d8f8376aaa9a7229861518",
-                "name": "PerthNow",
-                "url": "https://www.perthnow.com.au",
-                "country": "au"
-            },
-            "title": "‘Life and death’: Penny Wong’s nuclear AI warning to UN Security Council",
-            "url": "https://www.perthnow.com.au/news/life-and-death-penny-wongs-nuclear-ai-warning-to-un-security-council-c-20147072",
-            "urlToImage": "https://images.perthnow.com.au/publication/C-20147072/fc7130379b46491331a3b14beee9aa17fcd254fb-16x9-x0y15w2048h1152.jpg?imwidth=1200",
-            "publishedAt": "2025-09-25T23:02:59Z"
-        },
-        {
-            "source": {
-                "id": "aaa6f2928e430ec2ed450ed89cc822f5",
-                "name": "Salt Lake City Deseret News",
-                "url": "https://www.deseret.com",
-                "country": "us"
-            },
-            "title": "Audit reveals Utah schools remain at risk for cyberattacks",
-            "url": "https://www.deseret.com/utah/2025/09/25/education-utah-cybersecurity-audit/",
-            "urlToImage": "https://www.deseret.com/resizer/v2/QNPDXK4XTJDZHOMSP6MRMMUXFA.jpg?focal=0%2C0&auth=fe0e58486df1405eea46fd8b5785378ca3a949fc35d7e5d2277273841598d718&width=1200&height=630",
-            "publishedAt": "2025-09-25T22:53:58Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - Landmark $1.5 Billion Settlement Paves New Path for AI Accountability",
-            "url": "https://www.devdiscourse.com/live-discourse/8922-artificial-intelligence-revolutionizing-every-aspect-of-life",
-            "urlToImage": "https://www.devdiscourse.com?width=1280&format=jpeg",
-            "publishedAt": "2025-09-25T22:50:48Z"
-        },
-        {
-            "source": {
-                "id": "e553cce06d349ac1f7fbb7618a979256",
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com",
-                "country": "us"
-            },
-            "title": "Countries Consider A.I.’s Dangers and Benefits at U.N.",
-            "url": "https://www.nytimes.com/2025/09/25/business/un-artificial-intelligence.html",
-            "urlToImage": "https://static01.nyt.com/images/2025/09/25/multimedia/25biz-ai-un-2-mtwg/25biz-ai-un-2-mtwg-facebookJumbo.jpg",
-            "publishedAt": "2025-09-25T22:44:09Z"
         }
     ]
 }
