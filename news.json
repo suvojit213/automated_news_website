@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-09-29T06:24:34.428596Z",
+    "lastUpdatedAt": "2025-09-29T07:15:59.526805Z",
     "articles": [
+        {
+            "source": {
+                "id": "92021aca7322dc2b29226023c35d9a4a",
+                "name": "The Canberra Times",
+                "url": "https://www.canberratimes.com.au",
+                "country": "au"
+            },
+            "title": "AI, housing among Aussie's greatest ethical concerns",
+            "url": "https://www.canberratimes.com.au/story/9076578/ai-housing-among-aussies-greatest-ethical-concerns/",
+            "urlToImage": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/e7bac577-4c9d-4caf-a8b6-27defd873c62.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+            "publishedAt": "2025-09-28T19:00:05Z"
+        },
+        {
+            "source": {
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
+                "country": "in"
+            },
+            "title": "An Engels’ pause in an AI-shaped world",
+            "url": "https://www.thehindu.com/opinion/lead/an-engels-pause-in-an-ai-shaped-world/article70106049.ece",
+            "urlToImage": "https://th-i.thgim.com/public/opinion/op-ed/x67o0g/article70106054.ece/alternates/LANDSCAPE_1200/iStock-2224574999.jpg",
+            "publishedAt": "2025-09-28T18:46:00Z"
+        },
         {
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -768,6 +792,51 @@
             "url": "https://www.hindustantimes.com/business/llms-may-be-the-hype-but-cybersecurity-doesn-t-work-on-hype-sujatha-s-iyer-101758874868346.html",
             "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/09/26/550x309/Iyer-talks-to-HT-about-using-AI-to-combat-threats-_1758874862069.jpg",
             "publishedAt": "2025-09-28T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "IBM Targets $1T AI Market with Watsonx and Hybrid Cloud Push",
+            "url": "https://www.webpronews.com/ibm-targets-1t-ai-market-with-watsonx-and-hybrid-cloud-push/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-2c0ca6ef-9ed2-483d-8130-8b0008597234.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-09-28 18:33:59"
+        },
+        {
+            "source": {
+                "name": "insideevs"
+            },
+            "title": "Why The Volvo EX60 Will Take Volvo's Battery Game To The Next Level",
+            "url": "https://insideevs.com/news/773884/volvo-ex60-two-battery-chemistry-prismatic-cells/",
+            "urlToImage": "https://cdn.motor1.com/images/mgl/VARWG/s1/volvo-concept-recharge-side-view.jpg",
+            "publishedAt": "2025-09-28 18:32:03"
+        },
+        {
+            "source": {
+                "name": "wvnews"
+            },
+            "title": "Leo Cancer Care Introduces GraceTM, the First Upright Photon Therapy System, at ASTRO 2025",
+            "url": "https://www.wvnews.com/news/around_the_web/partners/pr_newswire/subject/new_products_services/leo-cancer-care-introduces-grace-the-first-upright-photon-therapy-system-at-astro-2025/article_737b0df6-e571-5c4e-80f8-e0b63f3fb35a.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/assets/v3/editorial/f/8a/f8ae5819-2355-58e3-a61b-a274ea6ae556/68d982664c8e0.image.jpg?resize=300%2C169",
+            "publishedAt": "2025-09-28 18:30:00"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Generative AI’s Economic Value Debated: Potential Bust Could Spark Innovation",
+            "url": "https://www.webpronews.com/generative-ais-economic-value-debated-potential-bust-could-spark-innovation/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-e84ed9d9-271c-477d-9031-37f6c9427d61.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-09-28 18:28:20"
+        },
+        {
+            "source": {
+                "name": "easternherald"
+            },
+            "title": "Nvidia and Openai’s $100 billion bet aims to lock up the ai future",
+            "url": "https://easternherald.com/2025/09/28/nvidia-openai-100b-ai-bet-10gw-vera-rubin-2026/",
+            "urlToImage": "https://i0.wp.com/easternherald.com/wp-content/uploads/2025/09/nvidia-openai-100b-ai-factory-hero.webp?fit=1280%2C720&ssl=1",
+            "publishedAt": "2025-09-28 18:24:53"
         },
         {
             "source": {
@@ -3105,90 +3174,6 @@
             "url": "https://www.indiatoday.in/movies/bollywood/story/cinema-and-the-big-ai-question-can-machines-make-movies-with-heart-2793927-2025-09-26",
             "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202509/cinema-and-the-big-ai-question-can-machines-make-movies-with-heart-260041485-16x9_0.jpg?VersionId=SaiTIfhJOC55.zI03lgLnnNsw9ulPhoU",
             "publishedAt": "2025-09-26T13:01:28Z"
-        },
-        {
-            "source": {
-                "id": "72ea416416ab0eec8fe687d6262961e8",
-                "name": "Finbold",
-                "url": "https://finbold.com",
-                "country": "bg"
-            },
-            "title": "Wall Street sets Microsoft (MSFT) stock price for next 12 months",
-            "url": "https://finbold.com/wall-street-sets-microsoft-msft-stock-price-for-next-12-months/",
-            "urlToImage": "https://assets.finbold.com/uploads/2025/09/Wall-Street-sets-Microsoft-MSFT-stock-price-for-next-12-months.jpg",
-            "publishedAt": "2025-09-26T12:39:20Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "KraneShares Artificial Intelligence & Technology ETF (AGIX) Joins LPL Financial’s No-Transaction-Fee Platform",
-            "url": "https://www.manilatimes.net/2025/09/26/tmt-newswire/globenewswire/kraneshares-artificial-intelligence-technology-etf-agix-joins-lpl-financials-no-transaction-fee-platform/2191093",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/09/26/762298.png",
-            "publishedAt": "2025-09-26T12:33:09Z"
-        },
-        {
-            "source": {
-                "id": "e9207083a357fb7e76b38e485888ebe7",
-                "name": "manilastandard.net",
-                "url": "https://manilastandard.net",
-                "country": "ph"
-            },
-            "title": "device AI performance at Snapdragon Summit 2025",
-            "url": "https://manilastandard.net/tech/314647816/oppo-demos-industry-leading-on-device-ai-performance-at-snapdragon-summit-2025-china.html",
-            "urlToImage": "https://cdn.manilastandard.net/wp-content/uploads/2025/09/snapdragon-summit-2025-china.jpg",
-            "publishedAt": "2025-09-26T12:25:00Z"
-        },
-        {
-            "source": {
-                "id": "d5f1f8579b4e9b390feccfa1c0cf8028",
-                "name": "Arab News",
-                "url": "https://www.arabnews.com",
-                "country": "ar"
-            },
-            "title": "AI is pointless if it does not boost productivity",
-            "url": "https://www.arabnews.com/node/2616837",
-            "urlToImage": "https://www.arabnews.com/sites/default/files/authors/4643378-jimoneillonline.png",
-            "publishedAt": "2025-09-26T12:17:38Z"
-        },
-        {
-            "source": {
-                "id": "6b5614f288c2ce8fcedc9909a3e2696b",
-                "name": "Metro.co.uk",
-                "url": "https://metro.co.uk",
-                "country": "gb"
-            },
-            "title": "Is the digital ID good move for Britain - or Orwellian ploy? People have their say",
-            "url": "https://metro.co.uk/2025/09/26/digital-id-good-move-britain-orwellian-ploy-people-say-24267847/",
-            "urlToImage": "https://metro.co.uk/wp-content/uploads/2025/09/SEI_267738666-991e_1758888863.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
-            "publishedAt": "2025-09-26T12:14:16Z"
-        },
-        {
-            "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
-            },
-            "title": "NTUC to help senior workers flourish with AI: Desmond Tan",
-            "url": "https://www.straitstimes.com/singapore/politics/ntuc-to-help-senior-workers-flourish-with-ai-desmond-tan",
-            "urlToImage": "https://www.straitstimes.com/favicon.ico",
-            "publishedAt": "2025-09-26T12:10:00Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "Will India lead or lag in the global race for artificial intelligence?",
-            "url": "https://www.indiatoday.in/education-today/news/story/india-and-the-future-of-artificial-intelligence-opportunities-challenges-and-way-forward-2793965-2025-09-26",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202509/india-artificial-intelligence-26534125-16x9_0.jpg?VersionId=e7t0uc3xeHZloA8wmj24T_Tdsce4Lke1",
-            "publishedAt": "2025-09-26T12:04:55Z"
         }
     ]
 }
