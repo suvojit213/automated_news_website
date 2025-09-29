@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-09-29T22:13:17.865634Z",
+    "lastUpdatedAt": "2025-09-29T23:13:31.724924Z",
     "articles": [
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Blue Owl, xAI Deals Solidify Qatar Fund’s $500 Billion US Pledge",
+            "url": "https://www.bloomberg.com/news/articles/2025-09-29/ai-investments-blue-owl-xai-deals-solidify-qia-s-500-billion-us-pledge",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iyCHCjvORGXQ/v0/1200x791.jpg",
+            "publishedAt": "2025-09-29T11:08:38Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Jaguar Land Rover Gears Up for Production Restart After Devastating Cyber Attack",
+            "url": "https://www.devdiscourse.com/article/business/3645754-jaguar-land-rover-gears-up-for-production-restart-after-devastating-cyber-attack",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/10_04_2025_06_05_10_9859107.png?width=920&format=jpeg",
+            "publishedAt": "2025-09-29T11:06:46Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Beware this festive season! Cyber criminals go personal with a new wave of frauds; here’s what you should know",
+            "url": "https://timesofindia.indiatimes.com/business/cybersecurity/beware-this-festive-season-cyber-criminals-go-personal-with-a-new-wave-of-frauds-heres-what-you-should-know/articleshow/124210120.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-124211736,width-1070,height-580,imgsize-181496,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-09-29T10:38:00Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "UDAAN: Giving wings to India’s MSMEs",
+            "url": "https://www.livemint.com/focus/udaan-giving-wings-to-india-s-msmes-11759140135743.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2025/09/29/1600x900/logo/Lead_Image_-_Dell_1759140155836_1759140164025.jpg",
+            "publishedAt": "2025-09-29T10:15:52Z"
+        },
         {
             "source": {
                 "id": "63361c66f51ee0c82a5325ba1c7b8d06",
@@ -708,6 +756,60 @@
             "url": "https://www.globenewswire.com/news-release/2025/09/29/3158068/0/en/Stuart-Piltch-Launches-Comprehensive-Veterans-Scholarship-Initiative-Supporting-Technology-Career-Advancement.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/e972d5d7-250e-4ee4-b706-96b6ede7d669",
             "publishedAt": "2025-09-29T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "digitaltrends"
+            },
+            "title": "ChatGPT’s parental controls sound great, but there’s one problem",
+            "url": "https://www.digitaltrends.com/computing/chatgpts-parental-controls-sound-great-but-theres-one-problem/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/09/chatgpt-parental-control-41.jpg?p=1&resize=1200%2C630",
+            "publishedAt": "2025-09-29 10:55:36"
+        },
+        {
+            "source": {
+                "name": "worldpharmatoday"
+            },
+            "title": "Digital Twins Transforming Next-Gen Pharma Packaging Lines",
+            "url": "https://www.worldpharmatoday.com/biopharma/digital-twins-transforming-next-gen-pharma-packaging-lines/",
+            "urlToImage": "https://www.worldpharmatoday.com/wp-content/uploads/2025/09/Digital-Twins-Transforming-Next-Gen-Pharma-Packaging-Lines.jpg",
+            "publishedAt": "2025-09-29 10:49:37"
+        },
+        {
+            "source": {
+                "name": "techxplore"
+            },
+            "title": "Using generative AI to diversify virtual training grounds for robots",
+            "url": "https://techxplore.com/news/2025-09-generative-ai-diversify-virtual-grounds.html",
+            "urlToImage": "https://scx1.b-cdn.net/csz/news/tmb/2025/using-generative-ai-to-1.jpg",
+            "publishedAt": "2025-09-29 10:46:06"
+        },
+        {
+            "source": {
+                "name": "pcquest"
+            },
+            "title": "Next-gen power with Snapdragon X Elite",
+            "url": "https://www.pcquest.com/news-launches/next-gen-power-with-snapdragon-x-elite-10513231",
+            "urlToImage": "https://img-cdn.publive.online/pcq/media/media_files/2025/09/29/snapdragon-x-elite-2025-09-29-16-12-06.webp",
+            "publishedAt": "2025-09-29 10:42:15"
+        },
+        {
+            "source": {
+                "name": "channelnewsasia"
+            },
+            "title": "China's DeepSeek releases 'intermediate' AI model on route to next generation",
+            "url": "https://www.channelnewsasia.com/business/chinas-deepseek-releases-intermediate-ai-model-route-next-generation-5375536",
+            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--F9LxGC8O--/c_crop,h_449,w_799,x_1,y_84/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2025-09-29T114832Z_1_LYNXNPEL8S0G8_RTROPTP_3_DEEPSEEK-CHINA-RELEASE.JPG?itok=nA93A9zU",
+            "publishedAt": "2025-09-29 10:31:00"
+        },
+        {
+            "source": {
+                "name": "geeky_gadgets"
+            },
+            "title": "China’s AI Breakthrough : Meet the Brain-Inspired AI That’s 100x Faster",
+            "url": "https://www.geeky-gadgets.com/china-spiking-brain-ai-model-breakthrough/",
+            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/09/neuromorphic-computing-ai-innovation.webp",
+            "publishedAt": "2025-09-29 10:15:45"
         },
         {
             "source": {
@@ -3099,126 +3201,6 @@
             "url": "https://www.nbcnews.com/tech/tech-news/us-rejects-international-ai-oversight-un-general-assembly-rcna233478",
             "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250924-donald-trump-vl-1246p-411d40.jpg",
             "publishedAt": "2025-09-27T11:30:00Z"
-        },
-        {
-            "source": {
-                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-                "name": "NDTV.com",
-                "url": "https://www.ndtv.com",
-                "country": "in"
-            },
-            "title": "China Has It, Russia Building It, India Working On It: The Small Nuclear Reactor Race",
-            "url": "https://www.ndtv.com/world-news/china-has-it-russia-building-it-india-working-on-it-the-small-nuclear-reactor-race-9354989",
-            "urlToImage": "https://c.ndtvimg.com/2025-09/9l7n4g5k_small-modular-reactor_625x300_27_September_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-            "publishedAt": "2025-09-27T10:48:45Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "Accenture says it will lay off employees who cannot adapt to AI as it doubles down on upskilling",
-            "url": "https://www.indiatoday.in/technology/news/story/accenture-says-it-will-lay-off-employees-who-cannot-adapt-to-ai-as-it-doubles-down-on-upskilling-2794379-2025-09-27",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202509/accenture-rolls-out-promotions-211059966-16x9.jpg?VersionId=yUjI9IOvQjT.8rEYkSJ0ZkHM7lBYlP_8",
-            "publishedAt": "2025-09-27T10:29:31Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Balancing Technology in Education: Human First, Tech Forward",
-            "url": "https://www.devdiscourse.com/article/education/3643793-balancing-technology-in-education-human-first-tech-forward",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/26_08_2025_12_02_48_8074073.png?width=920&format=jpeg",
-            "publishedAt": "2025-09-27T10:25:21Z"
-        },
-        {
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            },
-            "title": "BTech Information Technology vs BTech Cybersecurity: Which one will you choose?",
-            "url": "https://indianexpress.com/article/education/btech-information-technology-vs-btech-cybersecurity-relevant-the-right-choice-jeemain-2026-advanced-10274717/",
-            "urlToImage": "https://images.indianexpress.com/2025/09/The-right-choice.jpg",
-            "publishedAt": "2025-09-27T09:45:56Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "E Fund HK's Two ETFs List Simultaneously on HKEX, with an Initial Offering Size Exceeding HK$1.369 Billion",
-            "url": "https://www.manilatimes.net/2025/09/27/tmt-newswire/pr-newswire/e-fund-hks-two-etfs-list-simultaneously-on-hkex-with-an-initial-offering-size-exceeding-hk1369-billion/2191410",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/09/27/763066.jpg",
-            "publishedAt": "2025-09-27T09:39:51Z"
-        },
-        {
-            "source": {
-                "id": "6536182115f7e8188f38d864bab0e1c6",
-                "name": "DAWN.com",
-                "url": "https://www.dawn.com",
-                "country": "pk"
-            },
-            "title": "PM Shehbaz terms meeting with US President Trump ‘very encouraging’",
-            "url": "https://www.dawn.com/news/1944954/pm-shehbaz-terms-meeting-with-us-president-trump-very-encouraging",
-            "urlToImage": "https://i.dawn.com/large/2025/09/2713442950da749.webp",
-            "publishedAt": "2025-09-27T08:44:00Z"
-        },
-        {
-            "source": {
-                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-                "name": "The Financial Express",
-                "url": "https://www.financialexpress.com",
-                "country": "in"
-            },
-            "title": "Apple H-1B salaries revealed: Here’s how much iPhone maker pays engineers, designers and data scientists",
-            "url": "https://www.financialexpress.com/life/technology-apple-h-1b-salaries-revealed-heres-how-much-iphone-maker-pays-engineers-designers-and-data-scientists-3991438/",
-            "urlToImage": "https://images.financialexpressdigital.com/2025/09/Ahead-of-the-iPhone-17s-release-next-week-Apple-has-officially-added-four-products-to-its-list-of-vintage-and-obsolete-devices.png",
-            "publishedAt": "2025-09-27T08:41:22Z"
-        },
-        {
-            "source": {
-                "id": "cc0de8416f75329df7c88d7524745d12",
-                "name": "Birmingham Live",
-                "url": "https://www.birminghammail.co.uk",
-                "country": "gb"
-            },
-            "title": "Millions of car journeys could be stopped across UK after groundbreaking trial",
-            "url": "https://www.birminghammail.co.uk/motoring/motoring-news/millions-car-journeys-could-stopped-32508217",
-            "urlToImage": "https://i2-prod.birminghammail.co.uk/article32508233.ece/ALTERNATES/s1200/0_exhaust.jpg",
-            "publishedAt": "2025-09-27T07:53:00Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "AI for Trading: How Courses in AI and Machine Learning Are Changing Algorithmic Strategies",
-            "url": "https://techbullion.com/ai-for-trading-how-courses-in-ai-and-machine-learning-are-changing-algorithmic-strategies/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/Featured-Image-6.jpg",
-            "publishedAt": "2025-09-27T07:16:13Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "The AI Alignment Problem: HAL's Dilemma in Real-World AI Models",
-            "url": "https://www.devdiscourse.com/article/technology/3643614-the-ai-alignment-problem-hals-dilemma-in-real-world-ai-models",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/27_09_2025_06_40_44_0351124.png?width=920&format=jpeg",
-            "publishedAt": "2025-09-27T06:40:44Z"
         }
     ]
 }
