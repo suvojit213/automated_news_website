@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-09-29T07:15:59.526805Z",
+    "lastUpdatedAt": "2025-09-29T08:22:21.100264Z",
     "articles": [
+        {
+            "source": {
+                "id": "bc49d994b41ac710f5c89f6e6adeece4",
+                "name": "The Boston Herald",
+                "url": "https://www.bostonherald.com",
+                "country": "us"
+            },
+            "title": "Preparing for a future shaped by AI",
+            "url": "https://www.bostonherald.com/2025/09/28/preparing-for-a-future-shaped-by-ai/",
+            "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/09/AP25269531025342.jpg?w=1024&h=683",
+            "publishedAt": "2025-09-28T19:27:25Z"
+        },
+        {
+            "source": {
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
+                "country": "us"
+            },
+            "title": "Apple Inc. Revamps AI Strategy, Emphasizing Chatbots and Overhauling Siri",
+            "url": "https://www.benzinga.com/markets/tech/25/09/47907267/apple-revamps-ai-strategy-emphasizing-chatbots-and-overhauling-siri",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/09/28/Apple-Siri.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2025-09-28T19:21:09Z"
+        },
         {
             "source": {
                 "id": "92021aca7322dc2b29226023c35d9a4a",
@@ -792,6 +816,33 @@
             "url": "https://www.hindustantimes.com/business/llms-may-be-the-hype-but-cybersecurity-doesn-t-work-on-hype-sujatha-s-iyer-101758874868346.html",
             "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/09/26/550x309/Iyer-talks-to-HT-about-using-AI-to-combat-threats-_1758874862069.jpg",
             "publishedAt": "2025-09-28T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "benzinga"
+            },
+            "title": "Highmark Bitspire: How Highmark Bitspire UK AI Platform Is Transforming Automated Trading Systems",
+            "url": "https://www.benzinga.com/pressreleases/25/09/g47907379/highmark-bitspire-how-highmark-bitspire-uk-ai-platform-is-transforming-automated-trading-systems",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/b7ead5be-59ff-4a4b-a6b3-4a64568c29d0/highmark-bitspire.png",
+            "publishedAt": "2025-09-28 20:17:28"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "PostgreSQL 18 Released: 3x Faster Reads, Async I/O, and More",
+            "url": "https://www.webpronews.com/postgresql-18-released-3x-faster-reads-async-i-o-and-more/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-cbf84033-33a1-4b16-92fb-5fdcbdafb471.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-09-28 19:38:09"
+        },
+        {
+            "source": {
+                "name": "zephyrnet"
+            },
+            "title": "Navigating the Peaks: VC Investment Trends Through the Gartner Hype Lens",
+            "url": "https://zephyrnet.com/navigating-the-peaks-vc-investment-trends-through-the-gartner-hype-lens/",
+            "urlToImage": "https://zephyrnet.com/wp-content/uploads/img-eTZUVqBPVlDe2jJSnB5DCpBx.png",
+            "publishedAt": "2025-09-28 19:32:50"
         },
         {
             "source": {
@@ -3114,66 +3165,6 @@
             "url": "https://www.ndtv.com/education/what-queens-universitys-gift-city-campus-offers-indian-students-dean-explains-9350481",
             "urlToImage": "https://c.ndtvimg.com/2025-09/pdhrvd3g_queens-universitys-gift-city-campus_625x300_26_September_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
             "publishedAt": "2025-09-26T13:33:41Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "AI Cloud Firm Northern Data Raided by German Investigators",
-            "url": "https://www.livemint.com/companies/news/ai-cloud-firm-northern-data-raided-by-german-investigators-11758893566942.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_4_1733465206851_1733465215415.png",
-            "publishedAt": "2025-09-26T13:32:46Z"
-        },
-        {
-            "source": {
-                "id": "f4967fce32bfc735983f0f39dcdba127",
-                "name": "pv magazine",
-                "url": "https://www.pv-magazine.com",
-                "country": "de"
-            },
-            "title": "AI platform compiles data on Spain’s renewable energy projects",
-            "url": "https://www.pv-magazine.com/2025/09/26/ai-platform-compiles-data-on-spains-renewable-energy-projects/",
-            "urlToImage": "https://www.pv-magazine.com/wp-content/uploads/2025/09/vlad-burac-rIVlxt5ROrM-unsplash-1200x675.jpg",
-            "publishedAt": "2025-09-26T13:30:59Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "How a 16-year-old AI prodigy is shaping the future of technology",
-            "url": "https://www.indiatoday.in/education-today/news/story/how-16-year-old-ai-prodigy-is-shaping-the-future-of-technology-2794048-2025-09-26",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202509/how-16-year-old-ai-prodigy-is-shaping-the-future-of-technology-261426818-16x9_0.jpeg?VersionId=.2Yyo_o4GMyTqMZDbaoJJNN1i0IBqp5W",
-            "publishedAt": "2025-09-26T13:16:57Z"
-        },
-        {
-            "source": {
-                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-                "name": "Benzinga",
-                "url": "https://www.benzinga.com",
-                "country": "us"
-            },
-            "title": "Akido Labs Uses Meta's Llama And Anthropic's Claude To Diagnose Patients As AI System ScopeAI Promises Faster Medicaid Care",
-            "url": "https://www.benzinga.com/news/topics/25/09/47888085/akido-labs-uses-metas-llama-and-anthropics-claude-to-diagnose-patients-as-ai-system-scopeai-promises-faster-medicaid-care",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/09/26/Medicaid-Cuts-Strain-Hospitals.jpeg?width=1200&height=800&fit=crop",
-            "publishedAt": "2025-09-26T13:16:36Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "Cinema and the big AI question: Can machines make movies with heart?",
-            "url": "https://www.indiatoday.in/movies/bollywood/story/cinema-and-the-big-ai-question-can-machines-make-movies-with-heart-2793927-2025-09-26",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202509/cinema-and-the-big-ai-question-can-machines-make-movies-with-heart-260041485-16x9_0.jpg?VersionId=SaiTIfhJOC55.zI03lgLnnNsw9ulPhoU",
-            "publishedAt": "2025-09-26T13:01:28Z"
         }
     ]
 }
