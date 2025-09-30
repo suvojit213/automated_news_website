@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-09-30T14:15:33.501432Z",
+    "lastUpdatedAt": "2025-09-30T15:13:49.520627Z",
     "articles": [
+        {
+            "source": {
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
+                "country": "us"
+            },
+            "title": "Gavin Newsom Says He's Signing A Law To Install 'Common-Sense Guardrails' For AI Safety: What This Means For Google, Meta And Nvidia",
+            "url": "https://www.benzinga.com/markets/tech/25/09/47933116/gavin-newsom-says-hes-signing-a-law-to-install-common-sense-guardrails-for-ai-safety-what-this-means-for-google-meta-and-nvidia",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/09/29/Larkspur--Ca---April-16--2024-Governor-G.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2025-09-30T02:30:05Z"
+        },
+        {
+            "source": {
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
+                "country": "in"
+            },
+            "title": "Lufthansa Set To Cut 4,000 Jobs By 2030 As AI And Automation Take Over",
+            "url": "https://www.ndtvprofit.com/markets/lufthansa-set-to-cut-4000-jobs-by-2030-as-artificial-intelligence-and-automation-take-over",
+            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-09-30%2F7fpj38f4%2F1920csmLufthansaA38024772d42469-258396.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+            "publishedAt": "2025-09-30T02:29:27Z"
+        },
         {
             "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -144,6 +168,63 @@
             "url": "https://www.globenewswire.com/news-release/2025/09/30/3158381/0/en/Quest-Software-Announces-New-AI-Enabled-Capabilities-Across-Identity-Data-and-Migration-Platforms.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/5c1e2431-35e4-4bc9-a92e-f96820f62c7d",
             "publishedAt": "2025-09-30T00:00:00Z"
+        },
+        {
+            "source": {
+                "id": "8e9ab8327c5f7903cc1b50470411d165",
+                "name": "GlobeNewswire",
+                "url": "https://www.globenewswire.com",
+                "country": "us"
+            },
+            "title": "Just One Week Away! Silicon Valley C-suite executives",
+            "url": "https://www.globenewswire.com/news-release/2025/09/30/3158798/0/en/Just-One-Week-Away-Silicon-Valley-C-suite-executives-invited-to-HMG-Strategy-s-17th-Annual-C-Level-Technology-Leadership-Summit-on-October-7-2025-Register-Now.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/4b886685-faf4-4f80-8e8a-77cac364fa1b",
+            "publishedAt": "2025-09-30T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "digit_in"
+            },
+            "title": "Qualcomm’s Kedar Kondap on gaming, AI and how Snapdragon X2 Elite raises the bar for PCs",
+            "url": "https://www.digit.in/features/general/qualcomms-kedar-kondap-on-gaming-ai-and-how-snapdragon-x2-elite-raises-the-bar-for-pcs.html",
+            "urlToImage": "https://static.digit.in/Qualcomms-Kedar-Kondap-on-gaming-AI-and-how-Snapdragon-X2-Elite-raises-the-bar-for-PCs-1-1.png",
+            "publishedAt": "2025-09-30 02:37:52"
+        },
+        {
+            "source": {
+                "name": "toi"
+            },
+            "title": "Microsoft launches ‘vibe working’ with Agent Mode and Office Agent in Microsoft 365 Copilot",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-launches-vibe-working-with-agent-mode-and-office-agent-in-microsoft-365-copilot/articleshow/124223823.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-124223820,imgsize-21818,width-400,resizemode-4/agent-mode.jpg",
+            "publishedAt": "2025-09-30 02:32:21"
+        },
+        {
+            "source": {
+                "name": "benzinga"
+            },
+            "title": "Otto Aerospace Launches Phantom 3500 Aircraft at UP.Summit",
+            "url": "https://www.benzinga.com/pressreleases/25/09/g47933114/otto-aerospace-launches-phantom-3500-aircraft-at-up-summit",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/50fb37b8-32bb-4ce2-8920-d01f2b471e73/otto-at-up-summit.jpg",
+            "publishedAt": "2025-09-30 02:30:00"
+        },
+        {
+            "source": {
+                "name": "timesnownews"
+            },
+            "title": "BMW Plans Major Tech Upgrade Across Its Entire Lineup, Inspired By The iX3",
+            "url": "https://www.timesnownews.com/auto/car-news/bmw-plans-major-tech-upgrade-across-its-entire-lineup-inspired-by-the-ix3-article-152914737",
+            "urlToImage": "https://images.timesnownews.com/thumb/msid-152914720,thumbsize-61614,width-1280,height-720,resizemode-75/152914720.jpg",
+            "publishedAt": "2025-09-30 02:30:00"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "The Rise Of AI-Powered Ransomware: The Need To Adapt.",
+            "url": "https://www.forbes.com/sites/chuckbrooks/2025/09/29/the-rise-of-ai-powered-ransomware-the-need-to-adapt/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67f1bc4cf0b5d3d4f7a35175/0x0.jpg?width=960",
+            "publishedAt": "2025-09-30 02:15:45"
         },
         {
             "source": {
@@ -3120,78 +3201,6 @@
             "url": "https://www.computerweekly.com/opinion/Why-SLA-gaps-should-not-hinder-cloud-innovation",
             "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero%20Images/Security-Think-Tank-hero_searchsitetablet_520X173.jpg",
             "publishedAt": "2025-09-29 08:48:00"
-        },
-        {
-            "source": {
-                "name": "mathrubhumi"
-            },
-            "title": "Why AI failing could be good for society: The collapse of the generative AI bubble",
-            "url": "https://english.mathrubhumi.com/technology/ai-hype-reality-monetization-challenge-e6tdyzus",
-            "urlToImage": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1m6eo1o9z19lp9kz7ur/0/ai-jpg.jpg?w=900",
-            "publishedAt": "2025-09-29 08:47:44"
-        },
-        {
-            "source": {
-                "name": "indianexpress"
-            },
-            "title": "Knowledge Nugget: Generations of Telecom Technology — A must-know for UPSC exam",
-            "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/knowledge-nugget-generations-of-telecom-technology-4g-upsc-10277944/",
-            "urlToImage": "https://images.indianexpress.com/2025/09/Knowledge-Nugget-Generations-of-Telecom-Technology-%E2%80%94-A-Must-Know-for-the-UPSC-Exam.jpg",
-            "publishedAt": "2025-09-29 08:06:21"
-        },
-        {
-            "source": {
-                "name": "ndtv"
-            },
-            "title": "The Future of Laptops Is Here: Windows 11 Copilot Plus PCs",
-            "url": "https://www.gadgets360.com/laptops/sponsored/the-future-of-laptops-is-here-windows-11-copilot-plus-pcs-9363674",
-            "urlToImage": "https://i.gadgets360cdn.com/large/1000x1000_2_1759132297839.png?downsize=950%3A%2A",
-            "publishedAt": "2025-09-29 07:52:53"
-        },
-        {
-            "source": {
-                "name": "computerworld_in"
-            },
-            "title": "Why ChatGPT beats Copilot",
-            "url": "https://www.computerworld.com/article/4061628/why-chatgpt-beats-copilot.html",
-            "urlToImage": "https://www.computerworld.com/wp-content/uploads/2025/09/4061628-0-89270100-1759131824-Bildschirmfoto-2025-08-13-um-16.09.38.png",
-            "publishedAt": "2025-09-29 07:41:00"
-        },
-        {
-            "source": {
-                "name": "yourstory"
-            },
-            "title": "These Tamil Nadu startups show the future of innovation is personal",
-            "url": "https://yourstory.com/2025/09/tamil-nadu-startups-show-future-of-innovation-personal",
-            "urlToImage": "https://images.yourstory.com/cs/2/21ccd920843c11ec88170b5512a0f9d5/TN-GSS-3rdarticle-1759125342687.jpg",
-            "publishedAt": "2025-09-29 07:13:55"
-        },
-        {
-            "source": {
-                "name": "newsable_asianetnews"
-            },
-            "title": "Scientists Rethink Heisenberg’s Limit, Opening Door to Quantum Super-Sensors",
-            "url": "https://newsable.asianetnews.com/international/science/scientists-rethink-heisenbergs-limit-opening-door-to-quantum-super-sensors-articleshow-beyfp0w",
-            "urlToImage": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-01k6a4kc80jx11jjz3n1gmcr9r,imgname-gettyimages-1481362053-1759129481472.jpg",
-            "publishedAt": "2025-09-29 07:05:28"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "The 5 Technology Trends For 2026 Everyone Must Prepare For Now",
-            "url": "https://www.forbes.com/sites/bernardmarr/2025/09/29/the-top-5-technology-trends-for-2026/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68da249fefdd7d3d83e31ccd/0x0.jpg?width=960",
-            "publishedAt": "2025-09-29 06:22:15"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "5 things I wish I knew about Windows 11 when I upgraded from Windows 10",
-            "url": "https://www.tomsguide.com/computing/windows-operating-systems/5-things-i-wish-i-knew-about-windows-11-when-i-upgraded-from-windows-10",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/sN6famZzB72kSNZMLrvXs3-1280-80.jpg",
-            "publishedAt": "2025-09-29 06:15:00"
         }
     ]
 }
