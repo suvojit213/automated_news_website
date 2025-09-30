@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-09-30T06:23:30.442125Z",
+    "lastUpdatedAt": "2025-09-30T07:15:03.865514Z",
     "articles": [
+        {
+            "source": {
+                "id": "f1bf32bc7d2c9750240a24442fde5232",
+                "name": "Calgary Herald",
+                "url": "https://calgaryherald.com",
+                "country": "ca"
+            },
+            "title": "WestJet alerts U.S. passengers of data breach of some personal info",
+            "url": "https://calgaryherald.com/news/westjet-alerts-us-passengers-cyber-security-breach",
+            "urlToImage": "https://smartcdn.gprod.postmedia.digital/calgaryherald/wp-content/uploads/2025/09/westjet.jpg",
+            "publishedAt": "2025-09-29T19:05:22Z"
+        },
+        {
+            "source": {
+                "id": "8da923084554b2821233d6c5c5f02c97",
+                "name": "Fox News",
+                "url": "https://www.foxnews.com",
+                "country": "us"
+            },
+            "title": "Schools turn to AI gun detection for safety",
+            "url": "https://www.foxnews.com/tech/schools-turn-ai-gun-detection-safety",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/school-ai-photo-1.jpg",
+            "publishedAt": "2025-09-29T19:00:46Z"
+        },
+        {
+            "source": {
+                "id": "2f5884e252590f739df55c0e7db375df",
+                "name": "WJLA",
+                "url": "https://wjla.com",
+                "country": "us"
+            },
+            "title": "AI Set to Revolutionize Drug Approvals",
+            "url": "https://wjla.com/good-morning-washington/ai-set-to-revolutionize-drug-approvals-ai-in-drug-approval-i-drug-development-ai-pharmaceutical-industry-ai-fda-approval-process-au-biotech-innovation-ai-healthcare-transformation",
+            "urlToImage": "https://wjla.com/resources/media2/16x9/1280/986/center/90/bc5ab1d7-f447-4798-ac3d-a82fecb2b406-4c7da67a7a7b471f9f66786deace3a3b.png",
+            "publishedAt": "2025-09-29T18:32:47Z"
+        },
+        {
+            "source": {
+                "id": "d5f1f8579b4e9b390feccfa1c0cf8028",
+                "name": "Arab News",
+                "url": "https://www.arabnews.com",
+                "country": "ar"
+            },
+            "title": "AWS and IBM partner over Riyadh innovation hub to fast-track cloud adoption",
+            "url": "https://www.arabnews.com/node/2617186/business-economy",
+            "urlToImage": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2025/09/29/4644237-516378504.png?itok=XlgjafDK",
+            "publishedAt": "2025-09-29T18:30:15Z"
+        },
         {
             "source": {
                 "id": "7006f2c40c7cc01195608dbfd60259b3",
@@ -1428,6 +1476,96 @@
             "url": "https://journals.plos.org/plosntds/article?id=10.1371%2Fjournal.pntd.0013571",
             "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013571.g006&size=inline",
             "publishedAt": "2025-09-29T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Tech Giants Invest $736B in AI Data Centers Amid Global Race",
+            "url": "https://www.webpronews.com/tech-giants-invest-736b-in-ai-data-centers-amid-global-race/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-e04e1b96-f14b-47d4-90b9-6c162c2a2e58.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-09-29 19:14:46"
+        },
+        {
+            "source": {
+                "name": "thurrott"
+            },
+            "title": "Report: Microsoft 365 Copilot Has Only 8 Million Paying Subscribers",
+            "url": "https://www.thurrott.com/a-i/microsoft-copilot-a-i/327524/report-microsoft-365-copilot-has-only-8-million-paying-subscribers",
+            "urlToImage": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2025/09/copilot-broken-down.jpg",
+            "publishedAt": "2025-09-29 19:14:45"
+        },
+        {
+            "source": {
+                "name": "therobotreport"
+            },
+            "title": "NVIDIA launches Newton physics engine and GR00T AI at CoRL 2025",
+            "url": "https://www.therobotreport.com/nvidia-launches-newton-physics-engine-gr00t-ai-corl-2025/",
+            "urlToImage": "https://www.therobotreport.com/wp-content/uploads/2025/09/nvidia-CoRL.jpg",
+            "publishedAt": "2025-09-29 19:09:29"
+        },
+        {
+            "source": {
+                "name": "laweekly"
+            },
+            "title": "From Engineer to Mentor: Srinivas Potluri’s Journey in AI and Security",
+            "url": "https://www.laweekly.com/from-engineer-to-mentor-srinivas-potluris-journey-in-ai-and-security/",
+            "urlToImage": "https://www.laweekly.com/wp-content/uploads/2025/09/Srinivas-Potluri.jpeg?x38489=",
+            "publishedAt": "2025-09-29 19:05:00"
+        },
+        {
+            "source": {
+                "name": "wsav"
+            },
+            "title": "AI is transforming how software engineers do their jobs. Just don't call it 'vibe-coding'",
+            "url": "https://www.wsav.com/news/technology/ap-ai-is-transforming-how-software-engineers-do-their-jobs-just-dont-call-it-vibe-coding/",
+            "urlToImage": "https://www.wsav.com/wp-content/uploads/sites/75/2025/09/68dad84a2d49d2.77119365.jpeg?w=900",
+            "publishedAt": "2025-09-29 19:04:10"
+        },
+        {
+            "source": {
+                "name": "mankatofreepress"
+            },
+            "title": "AI is transforming how software engineers do their jobs. Just don't call it 'vibe-coding'",
+            "url": "https://www.mankatofreepress.com/news/business/ai-is-transforming-how-software-engineers-do-their-jobs-just-dont-call-it-vibe-coding/article_a1649982-6bd4-58f1-9348-f78ea481e1eb.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/mankatofreepress.com/content/tncms/assets/v3/editorial/6/e8/6e868444-0fe1-5da9-9bf8-40d406a8cd46/68dac89a25a27.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-09-29 19:04:10"
+        },
+        {
+            "source": {
+                "name": "newsgazette"
+            },
+            "title": "AI is transforming how software engineers do their jobs. Just don't call it 'vibe-coding'",
+            "url": "https://www.news-gazette.com/news/nation-world/ai-is-transforming-how-software-engineers-do-their-jobs-just-dont-call-it-vibe-coding/article_3a7624af-5905-51df-ae39-a9c5fa84cdd3.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/news-gazette.com/content/tncms/custom/image/3d3bfbd4-3cf5-11ec-9461-574a9d514a20.jpg?resize=600%2C315",
+            "publishedAt": "2025-09-29 19:04:10"
+        },
+        {
+            "source": {
+                "name": "milescitystar"
+            },
+            "title": "AI is transforming how software engineers do their jobs. Just don't call it 'vibe-coding'",
+            "url": "https://www.milescitystar.com/ap_news/montana/ai-is-transforming-how-software-engineers-do-their-jobs-just-dont-call-it-vibe-coding/article_3154020d-1bc3-54c9-aca9-e014afd8cf16.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/milescitystar.com/content/tncms/assets/v3/editorial/5/f3/5f3e52cc-38c1-5eee-99f1-95d29281961c/68dac7616caeb.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-09-29 19:04:10"
+        },
+        {
+            "source": {
+                "name": "vanderbilt"
+            },
+            "title": "Search begins for Vanderbilt’s new vice provost for research and innovation, committee named",
+            "url": "https://news.vanderbilt.edu/2025/09/29/search-begins-for-vanderbilts-new-vice-provost-for-research-and-innovation-committee-named/",
+            "urlToImage": "https://cdn.vanderbilt.edu/vu-news/files/20230922111048/Campus_Aerial_SQUARE.png",
+            "publishedAt": "2025-09-29 18:47:31"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Apple’s iOS 26 Unlocks On-Device AI for Third-Party Apps and Privacy Boost",
+            "url": "https://www.webpronews.com/apples-ios-26-unlocks-on-device-ai-for-third-party-apps-and-privacy-boost/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-fe6110d4-4248-43fb-9eb1-fb37c53a6032.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-09-29 18:34:19"
         },
         {
             "source": {
@@ -3102,174 +3240,6 @@
             "url": "https://www.tribuneindia.com/news/business/ai-chip-designed-by-iit-innovator-unveiled-at-t-chip-semicon-summit/",
             "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTk1N2JkMmEwLTljNDItMTFmMC04ZWJlLWYzMjRlZjRkM2RjZS5qcGc=",
             "publishedAt": "2025-09-28T08:10:17Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "AI chip designed by IIT innovator unveiled at T",
-            "url": "https://www.lokmattimes.com/business/ai-chip-designed-by-iit-innovator-unveiled-at-t-chip-semicon-summit/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20250928080740_202509.jpg",
-            "publishedAt": "2025-09-28T08:07:50Z"
-        },
-        {
-            "source": {
-                "id": "143b993b193f72147f3de29ebcfbf505",
-                "name": "India TV News",
-                "url": "https://www.indiatvnews.com",
-                "country": "in"
-            },
-            "title": "Government warns 'Shai Hulud' virus poses significant cyber threat on Indian IT systems",
-            "url": "https://www.indiatvnews.com/technology/news/government-warns-shai-hulud-virus-poses-significant-cyber-threat-on-indian-it-systems-2025-09-28-1010405",
-            "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2025/09/government-warns-shai-hulud-virus-poses-cyber-threat-1759046068.jpg",
-            "publishedAt": "2025-09-28T07:54:42Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "GE Aerospace's AI-Powered Flight: India-Driven Innovations in Aircraft Engines",
-            "url": "https://www.devdiscourse.com/article/technology/3644566-ge-aerospaces-ai-powered-flight-india-driven-innovations-in-aircraft-engines",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/26_03_2025_10_36_41_0566111.png?width=920&format=jpeg",
-            "publishedAt": "2025-09-28T07:11:18Z"
-        },
-        {
-            "source": {
-                "id": "93a4f054e09bde095cda5265e575a952",
-                "name": "Telegraph India",
-                "url": "https://www.telegraphindia.com",
-                "country": "in"
-            },
-            "title": "Data breach leaks sensitive bank records",
-            "url": "https://www.telegraphindia.com/business/data-breach-leaks-sensitive-bank-records-experts-fail-to-identify-source-of-the-leak-prnt/cid/2125399",
-            "urlToImage": "https://assets.telegraphindia.com/telegraph/2025/Sep/1759039985_data-breach-data-security.jpg",
-            "publishedAt": "2025-09-28T06:39:08Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Business, abcademe back blockchain initiative to monitor govt projects",
-            "url": "https://www.manilatimes.net/2025/09/28/news/business-abcademe-back-blockchain-initiative-to-monitor-govt-projects/2191567",
-            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-            "publishedAt": "2025-09-28T05:41:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Business, academe back blockchain initiative to monitor govt projects",
-            "url": "https://www.manilatimes.net/2025/09/28/news/business-academe-back-blockchain-initiative-to-monitor-govt-projects/2191567",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/09/28/763505.jpg",
-            "publishedAt": "2025-09-28T05:41:00Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "UAE President Sheikh Mohamed meets OpenAI CEO Sam Altman; awarded honorary doctorate for AI leadership",
-            "url": "https://timesofindia.indiatimes.com/world/middle-east/uae-president-sheikh-mohamed-meets-openai-ceo-sam-altman-awarded-honorary-doctorate-for-ai-leadership/articleshow/124190487.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-124190935,width-1070,height-580,imgsize-895971,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "publishedAt": "2025-09-28T04:58:00Z"
-        },
-        {
-            "source": {
-                "id": "1b40b878c09151e8cf44a095bc8569a5",
-                "name": "ETF Daily News",
-                "url": "https://www.etfdailynews.com",
-                "country": "us"
-            },
-            "title": "Perigon Wealth Management LLC Raises Holdings in Amplify Cybersecurity ETF $HACK",
-            "url": "https://www.etfdailynews.com/2025/09/28/perigon-wealth-management-llc-raises-holdings-in-amplify-cybersecurity-etf-hack/",
-            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/etfmg-prime-cyber-security-etf-logo-1200x675.png?v=20210802161204&w=240&h=240&zc=2",
-            "publishedAt": "2025-09-28T04:04:50Z"
-        },
-        {
-            "source": {
-                "id": "1b40b878c09151e8cf44a095bc8569a5",
-                "name": "ETF Daily News",
-                "url": "https://www.etfdailynews.com",
-                "country": "us"
-            },
-            "title": "Cybersecurity Stocks To Watch Today - September 25th",
-            "url": "https://www.etfdailynews.com/2025/09/28/cybersecurity-stocks-to-watch-today-september-25th/",
-            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/crowdstrike-holdings-inc-logo-1200x675.png?v=20240415153340&w=240&h=240&zc=2",
-            "publishedAt": "2025-09-28T03:05:00Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "AI users more inclined to dishonesty, study finds",
-            "url": "https://www.thestar.com.my/tech/tech-news/2025/09/28/ai-users-more-inclined-to-dishonesty-study-finds",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/09/25/3539354.jpeg",
-            "publishedAt": "2025-09-28T03:00:00Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "Is artificial intelligence quietly reshaping campus placements?",
-            "url": "https://www.indiatoday.in/education-today/featurephilia/story/campus-placements-india-2025-how-ai-is-impacting-salaries-and-hiring-2794184-2025-09-28",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202509/campus-placements-2025-265427461-16x9_0.png?VersionId=u89bKGu8VoKkG4nVAoU423yawGv6Fd7w",
-            "publishedAt": "2025-09-28T02:30:02Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Chatbots cannot stop making up fake facts, OpenAI researchers admit",
-            "url": "https://www.thestar.com.my/tech/tech-news/2025/09/28/chatbots-cannot-stop-making-up-fake-facts-openai-researchers-admit",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/09/25/3539315.jpeg",
-            "publishedAt": "2025-09-28T02:00:00Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "China wants its companies to use local AI chips. Tech firms signal that they hear the call",
-            "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2025/09/28/china-wants-its-companies-to-use-local-ai-chips-tech-firms-signal-that-they-hear-the-call",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/09/28/3543198.jpg",
-            "publishedAt": "2025-09-28T01:43:00Z"
-        },
-        {
-            "source": {
-                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-                "name": "The Financial Express",
-                "url": "https://www.financialexpress.com",
-                "country": "in"
-            },
-            "title": "‘In December, a visit from Mr Putin is being planned to New Delhi’: Russian FM Lavrov at UNGA",
-            "url": "https://www.financialexpress.com/india-news/in-december-a-visit-from-mr-putin-is-being-planned-to-new-delhi-russian-fm-lavrov-at-unga/3991886/",
-            "urlToImage": "https://images.financialexpressdigital.com/2025/09/Russian-Foreign-Minister-Sergey-Lavro.jpg",
-            "publishedAt": "2025-09-28T01:18:53Z"
         }
     ]
 }
