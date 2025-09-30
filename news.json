@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-09-30T02:54:59.620320Z",
+    "lastUpdatedAt": "2025-09-30T03:28:43.018698Z",
     "articles": [
+        {
+            "source": {
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com",
+                "country": "us"
+            },
+            "title": "California enacts AI safety law targeting tech giants",
+            "url": "https://www.breitbart.com/news/california-enacts-ai-safety-law-targeting-tech-giants/",
+            "urlToImage": "https://media.breitbart.com/media/2025/09/wi/afp/california-governor-gavin-newsom-vetoed-previous-ai-safety-bill-furious-pushback-industry-california-640x335.jpg",
+            "publishedAt": "2025-09-29T15:11:07Z"
+        },
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "Smart blood: How AI reads your body's aging signals",
+            "url": "https://medicalxpress.com/news/2025-09-smart-blood-ai-body-aging.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/smart-blood-how-ai-rea-1.jpg",
+            "publishedAt": "2025-09-29T15:06:04Z"
+        },
         {
             "source": {
                 "id": "17d7c2645f485578130862e0c8dd9480",
@@ -1068,6 +1092,69 @@
             "url": "https://journals.plos.org/plosntds/article?id=10.1371%2Fjournal.pntd.0013571",
             "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013571.g006&size=inline",
             "publishedAt": "2025-09-29T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "nvdaily"
+            },
+            "title": "Why NoVa can't get enough of online casinos",
+            "url": "https://www.nvdaily.com/why-nova-cant-get-enough-of-online-casinos/article_9b5e3764-1d8c-4dcf-b918-8837c7750910.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/nvdaily.com/content/tncms/assets/v3/editorial/2/8e/28e6368d-19d9-4609-a664-4e60da090ac9/68daa5c741f55.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-09-29 15:26:00"
+        },
+        {
+            "source": {
+                "name": "businesstoday"
+            },
+            "title": "The silent revolution: Why agentic AI will define the next decade",
+            "url": "https://www.businesstoday.in/tech-today/news/story/the-silent-revolution-why-agentic-ai-will-define-the-next-decade-496203-2025-09-29",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202509/68daa496b079c-ranjit-tinaikar--ceo-of-ness-digital-engineering-292400823-16x9.jpg",
+            "publishedAt": "2025-09-29 15:24:32"
+        },
+        {
+            "source": {
+                "name": "news_clemson"
+            },
+            "title": "Clemson faculty awarded grant to develop virtual teaching assistant for medical biophysics graduate students",
+            "url": "https://news.clemson.edu/clemson-faculty-awarded-grant-to-develop-virtual-teaching-assistant-for-medical-biophysics-graduate-students/",
+            "urlToImage": "https://news.clemson.edu/wp-content/uploads/2025/09/AdobeStock_1180829692.jpeg",
+            "publishedAt": "2025-09-29 15:05:55"
+        },
+        {
+            "source": {
+                "name": "digitaltrends"
+            },
+            "title": "Microsoft makes it even easier to cheat at your job with AI agents in Office",
+            "url": "https://www.digitaltrends.com/computing/microsoft-makes-it-even-easier-to-cheat-at-your-job-with-ai-agents-in-office/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/09/Agent-AI-office.jpg?p=1&resize=1200%2C630",
+            "publishedAt": "2025-09-29 15:03:45"
+        },
+        {
+            "source": {
+                "name": "wvnews"
+            },
+            "title": "Tanka Launches World's First AI-Native × Memory-Native OS, Ushering in the Era of Unlimited, Actionable Memory for Startups",
+            "url": "https://www.wvnews.com/news/around_the_web/partners/pr_newswire/subject/new_products_services/tanka-launches-worlds-first-ai-native-memory-native-os-ushering-in-the-era-of-unlimited/article_93ba1bea-8d5a-516e-a79f-dcc6b75176f9.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/assets/v3/editorial/0/c3/0c31f119-ee7d-521a-b479-83e2e9374ae5/68daa6453fec9.image.jpg?resize=300%2C169",
+            "publishedAt": "2025-09-29 15:00:00"
+        },
+        {
+            "source": {
+                "name": "wvnews"
+            },
+            "title": "Linux Foundation Announces Contribution of Newton by Disney Research, Google DeepMind and NVIDIA to Accelerate Open Robot Learning",
+            "url": "https://www.wvnews.com/news/around_the_web/partners/pr_newswire/subject/not_for_profit/linux-foundation-announces-contribution-of-newton-by-disney-research-google-deepmind-and-nvidia-to-accelerate/article_1e2510db-0ec2-5a71-a76a-943198b61ffd.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/assets/v3/editorial/5/89/589dc858-1687-56c5-897d-607b6104bad1/66e7dea35e3ab.image.jpg?resize=300%2C99",
+            "publishedAt": "2025-09-29 15:00:00"
+        },
+        {
+            "source": {
+                "name": "pcworld_us"
+            },
+            "title": "Arzopa Z3FC review: A portable monitor with a 180Hz refresh rate",
+            "url": "https://www.pcworld.com/article/2915268/arzopa-z3fc-review-a-portable-monitor-with-a-180hz-refresh-rate.html",
+            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/09/arzopa-z3fc-1.jpeg?quality=50&strip=all",
+            "publishedAt": "2025-09-29 15:00:00"
         },
         {
             "source": {
@@ -3111,87 +3198,6 @@
             "url": "https://www.thehindu.com/news/cities/Mangalore/undersea-cable-connectivity-will-position-mangaluru-as-global-data-centre-hub-says-kdems-vision-document/article70104790.ece",
             "urlToImage": "https://th-i.thgim.com/public/incoming/yid11e/article70105033.ece/alternates/LANDSCAPE_1200/IMG-20181017-180717-HDR-Original.jpg",
             "publishedAt": "2025-09-28 10:21:37"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Accenture's $865M AI Overhaul: 11,000 Jobs Gone, More to Follow",
-            "url": "https://www.analyticsinsight.net/news/accentures-865m-ai-overhaul-11000-jobs-gone-more-to-follow",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-09-25%2Fqnvfnpao%2FAccenture-Q4-Revenue-Tops-Forecasts-at-17.6B-Sets-865M-AI-Restructuring-Plan.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-09-28 10:08:02"
-        },
-        {
-            "source": {
-                "name": "cnet"
-            },
-            "title": "The Only Alexa Command List You'll Ever Need: 200+ Voice Commands for Your Echo",
-            "url": "https://www.cnet.com/home/smart-home/the-only-alexa-command-list-youll-ever-need-200-voice-commands-for-your-echo/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/8513b1f1c4252e7c461dcc6fdbb0ccfc352bd3de/hub/2022/09/28/2da9106a-c646-435f-99b3-c88a36ab519d/echo-dot-1920x1080-301.png?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-09-28 10:00:04"
-        },
-        {
-            "source": {
-                "name": "thelincolnianonline"
-            },
-            "title": "Head to Head Analysis: Malibu Boats (NASDAQ:MBUU) & Johnson Outdoors (NASDAQ:JOUT)",
-            "url": "https://www.thelincolnianonline.com/2025/09/28/head-to-head-analysis-malibu-boats-nasdaqmbuu-johnson-outdoors-nasdaqjout.html",
-            "urlToImage": "https://www.marketbeat.com/logos/malibu-boats-inc-logo-1200x675.jpg",
-            "publishedAt": "2025-09-28 09:58:55"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "The Economic Singularity And The Five As",
-            "url": "https://www.forbes.com/sites/calumchace/2025/09/28/the-economic-singularity-and-the-five-as/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68d902a83c4883da46c1e932/0x0.jpg?width=960",
-            "publishedAt": "2025-09-28 09:56:34"
-        },
-        {
-            "source": {
-                "name": "thelincolnianonline"
-            },
-            "title": "Comparing Exro Technologies (OTCMKTS:EXROF) and Teradyne (NASDAQ:TER)",
-            "url": "https://www.thelincolnianonline.com/2025/09/28/comparing-exro-technologies-otcmktsexrof-and-teradyne-nasdaqter.html",
-            "urlToImage": "https://www.marketbeat.com/logos/exro-technologies-inc-logo-1200x675.png?v=20240611082853",
-            "publishedAt": "2025-09-28 09:52:54"
-        },
-        {
-            "source": {
-                "name": "thelincolnianonline"
-            },
-            "title": "Lumentum (NASDAQ:LITE) versus AltiGen Communications (OTCMKTS:ATGN) Critical Comparison",
-            "url": "https://www.thelincolnianonline.com/2025/09/28/lumentum-nasdaqlite-versus-altigen-communications-otcmktsatgn-critical-comparison.html",
-            "urlToImage": "https://www.marketbeat.com/logos/altigen-communications-inc-logo-1200x675.png",
-            "publishedAt": "2025-09-28 09:18:52"
-        },
-        {
-            "source": {
-                "name": "businessinsider_us"
-            },
-            "title": "Goldman's tech boss discusses the future of AI on Wall Street — and how it will reshape careers",
-            "url": "https://www.businessinsider.com/goldman-sachs-marco-argenti-cio-interview-ai-engineers-careers-2025-9",
-            "urlToImage": "https://i.insider.com/68d6d9595dbc4fd10da9adac?width=700",
-            "publishedAt": "2025-09-28 09:07:02"
-        },
-        {
-            "source": {
-                "name": "economictimes_indiatimes"
-            },
-            "title": "Samsung Galaxy Z Fold 8 features crease-free display technology and Snapdragon 8 Elite Gen 5 processor",
-            "url": "https://economictimes.indiatimes.com/news/international/us/samsung-galaxy-z-fold-8-features-crease-free-display-technology-and-snapdragon-8-elite-gen-5-processor/articleshow/124193036.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-5714,resizemode-75,msid-124193036/news/international/us/samsung-galaxy-z-fold-8-features-crease-free-display-technology-and-snapdragon-8-elite-gen-5-processor.jpg",
-            "publishedAt": "2025-09-28 09:04:56"
-        },
-        {
-            "source": {
-                "name": "postandcourier"
-            },
-            "title": "South Carolina is becoming a data center hotspot. But the state doesn't know how many are coming.",
-            "url": "https://www.postandcourier.com/news/south-carolina-data-center-tracking/article_49400885-c55a-44f1-9569-3c42f1ddc682.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/c/1a/c1ae6da7-037d-4ffc-9566-e47ce7517962/68ac9e8902a2f.image.png?resize=400%2C226",
-            "publishedAt": "2025-09-28 09:00:00"
         }
     ]
 }
