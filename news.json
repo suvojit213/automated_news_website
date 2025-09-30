@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2025-09-30T10:15:55.426104Z",
+    "lastUpdatedAt": "2025-09-30T11:13:07.231235Z",
     "articles": [
+        {
+            "source": {
+                "id": "79baacd62152cf257ee35e8c0bec19a2",
+                "name": "UPI News",
+                "url": "https://www.upi.com",
+                "country": "us"
+            },
+            "title": "California Gov. Gavin Newsom signs nation's first AI safety law",
+            "url": "https://www.upi.com/Top_News/US/2025/09/29/california-governor-Gavin-Newsom-AI-law/9231759185728/",
+            "urlToImage": "https://cdnph.upi.com/sv/ph/og/upi/9231759185728/2025/1/a300840d22aed76fe5efbceeb8de80f3/v1.5/California-Gov-Gavin-Newsom-signs-nations-first-AI-safety-law.jpg",
+            "publishedAt": "2025-09-29T23:11:45Z"
+        },
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "Jim Cramer explains why he thinks the AI boom is different than the dotcom bubble",
+            "url": "https://www.cnbc.com/2025/09/29/jim-cramer-explains-why-he-thinks-the-ai-boom-is-different-than-the-dotcom-bubble.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/104741396-IMG_8427-jim-cramer.jpg?v=1694213619&w=1920&h=1080",
+            "publishedAt": "2025-09-29T23:10:07Z"
+        },
+        {
+            "source": {
+                "id": "109f2b4a20da4fe1c2fd502b03c07243",
+                "name": "BBC News",
+                "url": "https://www.bbc.com",
+                "country": "gb"
+            },
+            "title": "Why burnout is a growing problem in cybersecurity",
+            "url": "https://www.bbc.com/news/articles/cgqn8e4e700o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/61b9/live/4b808b10-87d3-11f0-b391-6936825093bd.jpg",
+            "publishedAt": "2025-09-29T23:02:20Z"
+        },
+        {
+            "source": {
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
+                "country": "us"
+            },
+            "title": "Walmart Plans To Grow Revenue Without Hiring More People, Pointing To AI As The Future Of Its Workforce",
+            "url": "https://www.benzinga.com/news/topics/25/09/47931793/walmart-plans-to-grow-revenue-without-hiring-more-people-pointing-to-ai-as-the-future-of-its-workforce",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/09/29/Cashier-Becomes-A-Walmart-Convert.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2025-09-29T22:31:46Z"
+        },
+        {
+            "source": {
+                "id": "c6075ba0dc9d123bb327faaa419d3d07",
+                "name": "The Motley Fool Australia",
+                "url": "https://www.fool.com.au",
+                "country": "au"
+            },
+            "title": "Macquarie says artificial intelligence boom has further to run; reveals top 3 AI ASX stock picks",
+            "url": "https://www.fool.com.au/2025/09/30/macquarie-says-artificial-intelligence-boom-has-further-to-run-reveals-top-3-ai-asx-stock-picks/",
+            "urlToImage": "https://www.fool.com.au/wp-content/uploads/2025/05/AI-16.9.png",
+            "publishedAt": "2025-09-29T22:30:00Z"
+        },
         {
             "source": {
                 "id": "bce8b9fcd331f3552e3dcf603b83b80e",
@@ -1767,6 +1827,69 @@
         },
         {
             "source": {
+                "name": "mercurynews"
+            },
+            "title": "Newsom signs landmark bill creating AI safety measures",
+            "url": "https://www.mercurynews.com/2025/09/29/california-law-ai-safety-measures-newsom/",
+            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/09/Philanthropy_Clinton_Global_Initiative_96265.jpg?strip=all&w=1400px",
+            "publishedAt": "2025-09-29 23:09:38"
+        },
+        {
+            "source": {
+                "name": "eastbaytimes"
+            },
+            "title": "Newsom signs landmark bill creating AI safety measures",
+            "url": "https://www.eastbaytimes.com/2025/09/29/california-law-ai-safety-measures-newsom/",
+            "urlToImage": "https://www.eastbaytimes.com/wp-content/uploads/2025/09/Philanthropy_Clinton_Global_Initiative_96265.jpg?h=682&w=1024",
+            "publishedAt": "2025-09-29 23:09:38"
+        },
+        {
+            "source": {
+                "name": "newswise"
+            },
+            "title": "A New Era in ASU X-Ray Science Officially Begins",
+            "url": "https://www.newswise.com/articles/a-new-era-in-asu-x-ray-science-officially-begins/?sc=rsla",
+            "urlToImage": "https://www.newswise.com/legacy/image.php?height=334&image=%2Fimages%2Fuploads%2F2025%2F09%2F29%2F68dabce53fc05_ScreenShot2025-09-26at10.10.40AM.png&width=502",
+            "publishedAt": "2025-09-29 23:03:38"
+        },
+        {
+            "source": {
+                "name": "bgr_com"
+            },
+            "title": "Snapdragon X2 Elite Extreme Benchmarks Show M4 Max-Like Performance For Windows",
+            "url": "https://www.bgr.com/1982282/snapdragon-x2-elite-extreme-benchmarks-windows/",
+            "urlToImage": "https://www.bgr.com/img/gallery/snapdragon-x2-elite-extreme-benchmarks-show-m4-max-like-performance-for-windows/l-intro-1759186719.jpg",
+            "publishedAt": "2025-09-29 23:00:57"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "NVIDIA vs AMD Graphics Cards: Which GPU Should You Pick?",
+            "url": "https://www.analyticsinsight.net/gadgets/nvidia-vs-amd-graphics-cards-which-gpu-should-you-pick",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-09-29%2Fmpjuo9us%2FNVIDIA-vs-AMD-Graphics-Cards.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-09-29 22:45:00"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "Are Uber And Lyft Becoming Obsolete?",
+            "url": "https://www.forbes.com/sites/johnwerner/2025/09/29/are-uber-and-lyft-becoming-obsolete/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68db085d0ef19f19d70d4d5f/0x0.jpg?width=960",
+            "publishedAt": "2025-09-29 22:31:27"
+        },
+        {
+            "source": {
+                "name": "abcnews"
+            },
+            "title": "California Gov. Gavin Newsom signs landmark bill creating AI safety measures",
+            "url": "https://abcnews.go.com/Technology/wireStory/california-gov-gavin-newsom-signs-landmark-bill-creating-126057805",
+            "urlToImage": "https://s.abcnews.com/images/US/wirestory_9f888a7cbaa57a7dec9e210785b83280_4x3_384.jpg",
+            "publishedAt": "2025-09-29 22:30:27"
+        },
+        {
+            "source": {
                 "name": "newsvirginian"
             },
             "title": "AI is transforming how software engineers do their jobs. Just don't call it 'vibe-coding'",
@@ -3033,144 +3156,6 @@
             "url": "https://www.fool.com/investing/2025/09/29/nvidia-rare-price-target-cut-wall-street-analyst/",
             "urlToImage": "https://g.foolcdn.com/image/?h=400&op=resize&url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F834903%2Fnyse-floor-trader-stock-market-invest-buy-sell-fed-wall-street-getty.jpg&w=400",
             "publishedAt": "2025-09-29 00:00:00"
-        },
-        {
-            "source": {
-                "name": "financialcontent"
-            },
-            "title": "Buy and Hold: 3 Artificial Intelligence (AI) Stocks to Own Through 2035",
-            "url": "https://www.fool.com/investing/2025/09/29/buy-and-hold-3-ai-stocks-2030/",
-            "urlToImage": "https://g.foolcdn.com/image/?h=400&op=resize&url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F834047%2Fgettyimages-1056449108.jpg&w=400",
-            "publishedAt": "2025-09-29 00:00:00"
-        },
-        {
-            "source": {
-                "name": "financialcontent"
-            },
-            "title": "AI Roars Back: A Deep Dive into the Resurgence of Artificial Intelligence Stocks",
-            "url": "https://www.financialcontent.com/article/marketminute-2025-9-29-ai-roars-back-a-deep-dive-into-the-resurgence-of-artificial-intelligence-stocks",
-            "urlToImage": "https://cdn.newsrpm.com/image/164768?maxWidth=1200",
-            "publishedAt": "2025-09-29 00:00:00"
-        },
-        {
-            "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
-                "country": "in"
-            },
-            "title": "Why stars are turning to courts for personality rights",
-            "url": "https://www.hindustantimes.com/india-news/why-stars-are-turning-to-courts-for-personality-rights-101759085678831.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/06/30/1600x900/logo/ht-generic_india3_1751287297962_1751287304722.jpg",
-            "publishedAt": "2025-09-28T23:44:05Z"
-        },
-        {
-            "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
-                "country": "in"
-            },
-            "title": "To make them future ready, girls school in city sets up STEM innovation lab",
-            "url": "https://www.hindustantimes.com/cities/pune-news/to-make-them-future-ready-girls-school-in-city-sets-up-stem-innovation-lab-101759085255310.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/09/28/550x309/-p-To-make-them-future-ready--girls-school-in-city_1759085252778.jpg",
-            "publishedAt": "2025-09-28T23:28:05Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "moving and complicated landscape of AI therapy apps",
-            "url": "https://www.breitbart.com/news/regulators-struggle-to-keep-up-with-the-fast-moving-and-complicated-landscape-of-ai-therapy-apps/",
-            "urlToImage": "https://media.breitbart.com/media/2025/09/wi/ap/ai-therapy-chatbots-16367-ai-therapy-chatbots-image-by-dartmouth-september-2025-depicts-text-message-640x335.jpg",
-            "publishedAt": "2025-09-28T23:26:01Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "AI Boom Powers Triple-Digit Gains in China’s Hardware Stocks",
-            "url": "https://www.bloomberg.com/news/articles/2025-09-28/ai-boom-powers-triple-digit-gains-in-china-s-hardware-stocks",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQumoeBlJdbM/v0/1200x800.jpg",
-            "publishedAt": "2025-09-28T23:00:00Z"
-        },
-        {
-            "source": {
-                "id": "3989f52bbec2d3be8442e2851b59e79e",
-                "name": "CBS Sports",
-                "url": "https://www.cbssports.com",
-                "country": "us"
-            },
-            "title": "Cowboys vs. Packers NFL player props: Self-Learning AI backs Jordan Love under 234.5 passing yards on SNF",
-            "url": "https://www.cbssports.com/nfl/news/cowboys-vs-packers-nfl-player-props-self-learning-ai-backs-jordan-love-under-234-5-passing-yards-on-snf/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/09/09/bfcb3512-f324-4355-bc0a-1d1354ed9a72/thumbnail/1200x675/6cac7387c3597f4e38d4e49e93700461/jordan-love-cbs.jpg",
-            "publishedAt": "2025-09-28T22:15:32Z"
-        },
-        {
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            },
-            "title": "Has Japan already capitulated in great global AI race?",
-            "url": "https://japantoday.com/category/features/opinions/opinion-has-japan-already-capitulated-in-great-global-ai-race",
-            "urlToImage": "https://media.japantoday.com/img/store/ca/a7/5d94d6960630e8ec445c7c87f56244f1727f/istock-2185337747/_w1700.jpeg",
-            "publishedAt": "2025-09-28T21:13:16Z"
-        },
-        {
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            },
-            "title": "Co-existence with AI: What will it look like?",
-            "url": "https://japantoday.com/category/features/kuchikomi/co-existence-with-ai-what-will-it-look-like",
-            "urlToImage": "https://media.japantoday.com/img/store/69/0f/16d3a78f52ec517a58082ff95adfa03e7298/istock-1152951190/_w1700.jpeg",
-            "publishedAt": "2025-09-28T21:00:00Z"
-        },
-        {
-            "source": {
-                "id": "bc49d994b41ac710f5c89f6e6adeece4",
-                "name": "The Boston Herald",
-                "url": "https://www.bostonherald.com",
-                "country": "us"
-            },
-            "title": "Preparing for a future shaped by AI",
-            "url": "https://www.bostonherald.com/2025/09/28/preparing-for-a-future-shaped-by-ai/",
-            "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/09/AP25269531025342.jpg?w=1024&h=683",
-            "publishedAt": "2025-09-28T19:27:25Z"
-        },
-        {
-            "source": {
-                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-                "name": "Benzinga",
-                "url": "https://www.benzinga.com",
-                "country": "us"
-            },
-            "title": "Apple Inc. Revamps AI Strategy, Emphasizing Chatbots and Overhauling Siri",
-            "url": "https://www.benzinga.com/markets/tech/25/09/47907267/apple-revamps-ai-strategy-emphasizing-chatbots-and-overhauling-siri",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/09/28/Apple-Siri.jpeg?width=1200&height=800&fit=crop",
-            "publishedAt": "2025-09-28T19:21:09Z"
-        },
-        {
-            "source": {
-                "id": "92021aca7322dc2b29226023c35d9a4a",
-                "name": "The Canberra Times",
-                "url": "https://www.canberratimes.com.au",
-                "country": "au"
-            },
-            "title": "AI, housing among Aussie's greatest ethical concerns",
-            "url": "https://www.canberratimes.com.au/story/9076578/ai-housing-among-aussies-greatest-ethical-concerns/",
-            "urlToImage": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/e7bac577-4c9d-4caf-a8b6-27defd873c62.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
-            "publishedAt": "2025-09-28T19:00:05Z"
         }
     ]
 }
