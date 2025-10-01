@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-10-01T13:26:14.647348Z",
+    "lastUpdatedAt": "2025-10-01T14:15:21.971199Z",
     "articles": [
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Amazon adds AI muscle to connected home lineup",
+            "url": "https://economictimes.indiatimes.com/tech/technology/amazon-adds-ai-muscle-to-connected-home-lineup/articleshow/124245987.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-45718,resizemode-75,msid-124245987/tech/technology/amazon-adds-ai-muscle-to-connected-home-lineup.jpg",
+            "publishedAt": "2025-10-01T02:11:55Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Quiet Skies Ahead: Machine Learning Enables Noise-Aware UAM Flight Planning",
+            "url": "https://www.devdiscourse.com/article/technology/3646882-quiet-skies-ahead-machine-learning-enables-noise-aware-uam-flight-planning",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/30_09_2025_14_05_19_086837.png?width=920&format=jpeg",
+            "publishedAt": "2025-10-01T02:07:26Z"
+        },
+        {
+            "source": {
+                "id": "23ca80edba9c670741bdbfc4acd3e991",
+                "name": "The Statesman",
+                "url": "https://www.thestatesman.com",
+                "country": "in"
+            },
+            "title": "Trump signs executive order to accelerate pediatric cancer research",
+            "url": "https://www.thestatesman.com/world/trump-signs-executive-order-to-accelerate-pediatric-cancer-research-1503493675.html",
+            "urlToImage": "https://www.thestatesman.com/wp-content/uploads/2025/09/IMG_0579.webp",
+            "publishedAt": "2025-10-01T02:06:44Z"
+        },
         {
             "source": {
                 "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
@@ -204,6 +240,51 @@
             "url": "https://www.globenewswire.com/news-release/2025/10/01/3159543/0/en/SANS-releases-the-Secure-the-Generations-toolkit-to-provide-resources-for-every-stage-of-life-on-Cybersecurity-Awareness-Month.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/f2cad82a-fac0-4f3b-922c-a705ede9ae0e",
             "publishedAt": "2025-10-01T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "channelnewsasia"
+            },
+            "title": "Seize the AI advantage with business-ready solutions that are practical, affordable and made easy for SMEs",
+            "url": "https://www.channelnewsasia.com/brand-studio/seize-ai-advantage-business-ready-solutions-are-practical-affordable-and-made-easy-smes-5349706",
+            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--iCYf5o79--/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2025/09/15/bstudio_canon-story2_heroimg.jpg?itok=ZHqiHI3T",
+            "publishedAt": "2025-10-01 01:59:00"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "Massive Leap For AI Neoclouds With Deal Between Nebius And Microsoft",
+            "url": "https://www.forbes.com/sites/tiriasresearch/2025/09/30/massive-leap-for-ai-neoclouds-with-deal-between-nebius-and-microsoft/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68dc866b4b03029c6beacc71/0x0.jpg?width=960",
+            "publishedAt": "2025-10-01 01:47:35"
+        },
+        {
+            "source": {
+                "name": "dailygazette"
+            },
+            "title": "Amazon is overhauling its devices to take on Apple in the AI era",
+            "url": "https://www.dailygazette.com/tribune/amazon-is-overhauling-its-devices-to-take-on-apple-in-the-ai-era/article_378fbf10-1a21-50d4-9b9d-4b677a50468b.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/dailygazette.com/content/tncms/assets/v3/editorial/a/7d/a7d3d130-6c1c-5a34-b3bd-c43ebca6cf63/68dc886d17632.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-10-01 01:32:00"
+        },
+        {
+            "source": {
+                "name": "hindustantimes"
+            },
+            "title": "Neural Dispatch: AI’s shabby week, featuring Meta, OpenAI and dreams of replacing your doctor",
+            "url": "https://www.hindustantimes.com/technology/neural-dispatch-ai-s-shabby-week-featuring-meta-openai-and-dreams-of-replacing-your-doctor-101759249176817.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/09/30/1600x900/logo/PROMPT_-_Meta_AI_Vibes_1759249238904_1759249278395.png",
+            "publishedAt": "2025-10-01 01:30:12"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Best Books to Master Computer Vision and Deep Learning in 2025",
+            "url": "https://www.analyticsinsight.net/education/best-books-to-master-computer-vision-and-deep-learning-in-2025",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-09-30%2Finyvukd2%2FBest-Books-to-Master-Computer-Vision-and-Deep-Learning-in-2025.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-10-01 01:30:00"
         },
         {
             "source": {
@@ -3123,78 +3204,6 @@
             "url": "https://www.republicworld.com/india/99-isn-t-enough-air-marshal-bharti-pushes-for-total-indigenisation-at-aero-tech-india-2025",
             "urlToImage": "https://img.republicworld.com/all_images/indigenisation-the-way-ahead-to-win-future-wars-air-marshal-awadhesh-bharti-1759226155742-16_9.webp?format=webp&h=720&q=75&w=1280",
             "publishedAt": "2025-09-30 09:56:05"
-        },
-        {
-            "source": {
-                "name": "newsable_asianetnews"
-            },
-            "title": "From Drones to Directed Energy Weapons: IAF Charts Roadmap for Indigenous Defence Capabilities",
-            "url": "https://newsable.asianetnews.com/india/iaf-deputy-chief-air-marshal-awadhesh-kumar-bharti-pitrches-indigenous-defence-articleshow-k0mi9kx",
-            "urlToImage": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-ani20250930085535,imgname-image-c7e1dd4c-ce01-426f-81f6-ce6748eb977e.jpg",
-            "publishedAt": "2025-09-30 09:44:42"
-        },
-        {
-            "source": {
-                "name": "geeky_gadgets"
-            },
-            "title": "Intel Arc Pro B50 16GB Low-Profile Review : A SFF Gaming Secret Weapon?",
-            "url": "https://www.geeky-gadgets.com/intel-arc-pro-b50-low-profile-gpu-review/",
-            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/09/compact-gpu-for-sff-builds-intel-arc-pro-b50.webp",
-            "publishedAt": "2025-09-30 09:43:37"
-        },
-        {
-            "source": {
-                "name": "phys"
-            },
-            "title": "Changes in wing shape help small hoverflies stay aloft",
-            "url": "https://phys.org/news/2025-09-wing-small-hoverflies-stay-aloft.html",
-            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2025/changes-in-wing-shape.jpg",
-            "publishedAt": "2025-09-30 09:30:03"
-        },
-        {
-            "source": {
-                "name": "techtarget"
-            },
-            "title": "Strategic IT outlook: Tech conferences and events calendar",
-            "url": "https://www.techtarget.com/searchcio/feature/Strategic-IT-outlook-Tech-conferences-and-events-calendar",
-            "urlToImage": "https://cdn.ttgtmedia.com/rms/onlineImages/odonnell_jim.jpg",
-            "publishedAt": "2025-09-30 09:22:00"
-        },
-        {
-            "source": {
-                "name": "latestly"
-            },
-            "title": "Business News | Indigenisation the Way Ahead to Win Future Wars: Air Marshal Awadhesh Bharti",
-            "url": "https://www.latestly.com/agency-news/business-news-indigenisation-the-way-ahead-to-win-future-wars-air-marshal-awadhesh-bharti-7137168.html",
-            "urlToImage": "https://st1.latestly.com/wp-content/uploads/2025/09/ANI-20250930085535.jpg",
-            "publishedAt": "2025-09-30 09:16:28"
-        },
-        {
-            "source": {
-                "name": "geeky_gadgets"
-            },
-            "title": "Local LLMs vs Cloud AI : How Local LLMs Are Changing AI Workflows",
-            "url": "https://www.geeky-gadgets.com/benefits-of-running-ai-models-locally/",
-            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/09/running-ai-locally-benefits.webp",
-            "publishedAt": "2025-09-30 09:15:42"
-        },
-        {
-            "source": {
-                "name": "medianama"
-            },
-            "title": "Why CERT-In Is Warning Startups and IT Companies About Dune-Inspired Malware ‘Shai-Hulud’",
-            "url": "https://www.medianama.com/2025/09/223-cert-in-shai-hulud-malware-javascript-npm/",
-            "urlToImage": "https://www.medianama.com/wp-content/uploads/2022/06/hacking-malware-.jpg",
-            "publishedAt": "2025-09-30 09:12:36"
-        },
-        {
-            "source": {
-                "name": "cornelledu"
-            },
-            "title": "‘Bottling’ human intuition for AI-led materials discovery",
-            "url": "https://news.cornell.edu/stories/2025/09/bottling-human-intuition-ai-led-materials-discovery",
-            "urlToImage": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_home/public/2025-05/istock-2054876919-ai-sorting-1280x720.jpg?itok=lBlydMAT",
-            "publishedAt": "2025-09-30 09:09:32"
         }
     ]
 }
