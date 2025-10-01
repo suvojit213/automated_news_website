@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2025-10-01T14:15:21.971199Z",
+    "lastUpdatedAt": "2025-10-01T15:14:44.597385Z",
     "articles": [
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "half revenue rises 16% to about $4.3 billion: Report",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openais-first-half-revenue-rises-16-to-about-4-3-billion-report/articleshow/124246782.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-507625,resizemode-75,msid-124246782/tech/artificial-intelligence/openais-first-half-revenue-rises-16-to-about-4-3-billion-report.jpg",
+            "publishedAt": "2025-10-01T03:11:29Z"
+        },
+        {
+            "source": {
+                "id": "5ef93dac613cd24454e0d42ebc372612",
+                "name": "ScienceAlert",
+                "url": "https://www.sciencealert.com",
+                "country": "au"
+            },
+            "title": "New AI Tool Finds Hidden Brain Lesions That Doctors Miss in Children With Epilepsy",
+            "url": "https://www.sciencealert.com/new-ai-tool-finds-hidden-brain-lesions-that-doctors-miss-in-children-with-epilepsy",
+            "urlToImage": "https://www.sciencealert.com/images/2025/10/AI-Brain-Scan-Of-Adolescent.jpg",
+            "publishedAt": "2025-10-01T03:09:44Z"
+        },
+        {
+            "source": {
+                "id": "1b40b878c09151e8cf44a095bc8569a5",
+                "name": "ETF Daily News",
+                "url": "https://www.etfdailynews.com",
+                "country": "us"
+            },
+            "title": "Best Cybersecurity Stocks To Follow Today - September 28th",
+            "url": "https://www.etfdailynews.com/2025/10/01/best-cybersecurity-stocks-to-follow-today-september-28th/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/crowdstrike-holdings-inc-logo-1200x675.png?v=20240415153340&w=240&h=240&zc=2",
+            "publishedAt": "2025-10-01T03:02:52Z"
+        },
+        {
+            "source": {
+                "id": "6fea3ee012f060c6309366516e8d00be",
+                "name": "News-Medical.net",
+                "url": "https://www.news-medical.net",
+                "country": "gb"
+            },
+            "title": "Science and artificial intelligence could help personalize brain stimulation for smokers",
+            "url": "https://www.news-medical.net/news/20250930/Science-and-artificial-intelligence-could-help-personalize-brain-stimulation-for-smokers.aspx",
+            "urlToImage": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+            "publishedAt": "2025-10-01T02:52:00Z"
+        },
+        {
+            "source": {
+                "id": "2f5884e252590f739df55c0e7db375df",
+                "name": "WJLA",
+                "url": "https://wjla.com",
+                "country": "us"
+            },
+            "title": "Large AI-operated lawnmowers are being tested at national parks, including National Mall",
+            "url": "https://wjla.com/news/local/national-mall-lawnmowers-autonomous-tested-ai-maryland-dmv-dc-washington-autonomous-bergum-video-grant-technical-park-foundation-wright-frederick-grass-cut-employee-technology",
+            "urlToImage": "https://wjla.com/resources/media2/16x9/1280/986/center/90/f5f76307-660f-43d2-adf4-4fbd01245d18-vlcsnap2025093022h37m59s743.png",
+            "publishedAt": "2025-10-01T02:48:35Z"
+        },
         {
             "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -240,6 +300,33 @@
             "url": "https://www.globenewswire.com/news-release/2025/10/01/3159543/0/en/SANS-releases-the-Secure-the-Generations-toolkit-to-provide-resources-for-every-stage-of-life-on-Cybersecurity-Awareness-Month.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/f2cad82a-fac0-4f3b-922c-a705ede9ae0e",
             "publishedAt": "2025-10-01T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "How I Trained A Small Language Model From Scratch",
+            "url": "https://hackernoon.com/how-i-trained-a-small-language-model-from-scratch",
+            "urlToImage": "https://hackernoon.imgix.net/images/jWT6jJ6PpWP1LeYHD6r2CKVsV2r2-u703eog.jpeg",
+            "publishedAt": "2025-10-01 03:08:52"
+        },
+        {
+            "source": {
+                "name": "newswise"
+            },
+            "title": "Next Generation of Exascale Computing Experts Inspired by Speakers, Hands-on Learning at Argonne Training Program",
+            "url": "https://www.newswise.com/articles/next-generation-of-exascale-computing-experts-inspired-by-speakers-hands-on-learning-at-argonne-training-program/?sc=rsla",
+            "urlToImage": "https://www.newswise.com/legacy/image.php?height=334&image=%2Fimages%2Fuploads%2F2025%2F09%2F30%2F68dc071565715_16x9-ATPESC2025GROUPSt.CharlesILandANLTourPRINT.jpg&time=11%3A12%3A28pm&width=502",
+            "publishedAt": "2025-10-01 02:53:34"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Exploring Machine Learning Techniques for LTV/CLV Prediction",
+            "url": "https://hackernoon.com/exploring-machine-learning-techniques-for-ltvclv-prediction",
+            "urlToImage": "https://hackernoon.imgix.net/images/SZePNvD5QddwfAVEJH4NuxB3oTX2-az03gcs.png",
+            "publishedAt": "2025-10-01 02:39:36"
         },
         {
             "source": {
@@ -3132,78 +3219,6 @@
             "url": "https://www.webpronews.com/california-passes-first-us-ai-transparency-law-for-frontier-models/",
             "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-7eaa2d88-cf56-4a92-816e-ed873e4487ad.jpeg?fit=720%2C960&ssl=1",
             "publishedAt": "2025-09-30 11:10:05"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Opera Launches Neon: AI-Powered Agentic Browser for Everyday Tasks",
-            "url": "https://www.webpronews.com/opera-launches-neon-ai-powered-agentic-browser-for-everyday-tasks/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-2e47cd33-1337-4c05-9210-d5802bf6f008.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-09-30 11:06:21"
-        },
-        {
-            "source": {
-                "name": "milescitystar"
-            },
-            "title": "Nextech3D.ai Signs Binding LOI to Acquire Eventdex in All-Cash Deal, Accelerating Its Growth As a One-Stop Event Tech Suite and the Launch of Its Blockchain Ticketing Solution",
-            "url": "https://www.milescitystar.com/ap_news/montana/nextech3d-ai-signs-binding-loi-to-acquire-eventdex-in-all-cash-deal-accelerating-its-growth/article_9eabb4f1-73c6-5f2f-ad4a-40da624fca07.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/milescitystar.com/content/tncms/custom/image/d356975e-8c50-11ed-9099-03a8030ff894.png?resize=600%2C315",
-            "publishedAt": "2025-09-30 11:01:57"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "AI Meets Oral Health: The Race To Redefine Digital Dentistry",
-            "url": "https://www.forbes.com/sites/kolawolesamueladebayo/2025/09/30/ai-meets-oral-health-the-race-to-redefine-digital-dentistry/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68db9b0483378b82f90a6591/0x0.jpg?width=960",
-            "publishedAt": "2025-09-30 11:00:15"
-        },
-        {
-            "source": {
-                "name": "timesnownews"
-            },
-            "title": "Volvo EX90 Gets Faster Charging And Smarter Tech- Details Inside",
-            "url": "https://www.timesnownews.com/auto/car-news/volvo-ex90-gets-faster-charging-and-smarter-tech-details-inside-article-152919579",
-            "urlToImage": "https://images.timesnownews.com/thumb/msid-152919579,imgsize-71868,width-1280,height-720/152919579.jpg",
-            "publishedAt": "2025-09-30 11:00:00"
-        },
-        {
-            "source": {
-                "name": "techexplorist"
-            },
-            "title": "Diamonds may hold the key to ultra-fast, 1,000x faster tech",
-            "url": "https://www.techexplorist.com/diamonds-hold-key-ultra-fast-1000x-faster-tech/101143/",
-            "urlToImage": "https://www.techexplorist.com/www.techexplorist.com/wp-content/uploads/2025/09/diamond.webp",
-            "publishedAt": "2025-09-30 10:54:58"
-        },
-        {
-            "source": {
-                "name": "newswise"
-            },
-            "title": "Fractal-Based 3d Modeling Delivers High-Fidelity Tree Reconstructions",
-            "url": "https://www.newswise.com/articles/fractal-based-3d-modeling-delivers-high-fidelity-tree-reconstructions/?sc=rssn",
-            "urlToImage": "https://www.newswise.com/legacy/image.php?height=334&image=%2Fimages%2Fuploads%2F2025%2F09%2F29%2F68db467aac97b_5.png&width=502",
-            "publishedAt": "2025-09-30 10:08:12"
-        },
-        {
-            "source": {
-                "name": "newswise"
-            },
-            "title": "Unsupervised AI Network Separates Wood and Leaves in 3d Forest Scans",
-            "url": "https://www.newswise.com/articles/unsupervised-ai-network-separates-wood-and-leaves-in-3d-forest-scans/?sc=rssn",
-            "urlToImage": "https://www.newswise.com/legacy/image.php?height=334&image=%2Fimages%2Fuploads%2F2025%2F09%2F29%2F68db4c43164d6_6.png&width=502",
-            "publishedAt": "2025-09-30 10:08:10"
-        },
-        {
-            "source": {
-                "name": "republicworld"
-            },
-            "title": "99% Isnt Enough : Air Marshal Bharti Pushes for Total Indigenisation at Aero Tech India 2025",
-            "url": "https://www.republicworld.com/india/99-isn-t-enough-air-marshal-bharti-pushes-for-total-indigenisation-at-aero-tech-india-2025",
-            "urlToImage": "https://img.republicworld.com/all_images/indigenisation-the-way-ahead-to-win-future-wars-air-marshal-awadhesh-bharti-1759226155742-16_9.webp?format=webp&h=720&q=75&w=1280",
-            "publishedAt": "2025-09-30 09:56:05"
         }
     ]
 }
