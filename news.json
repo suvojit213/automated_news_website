@@ -1,6 +1,138 @@
 {
-    "lastUpdatedAt": "2025-10-01T08:20:34.858250Z",
+    "lastUpdatedAt": "2025-10-01T09:17:09.182077Z",
     "articles": [
+        {
+            "source": {
+                "id": "8da923084554b2821233d6c5c5f02c97",
+                "name": "Fox News",
+                "url": "https://www.foxnews.com",
+                "country": "us"
+            },
+            "title": "Trump signs executive order using AI for pediatric cancer",
+            "url": "https://www.foxnews.com/politics/trump-signs-executive-order-harness-ai-fight-against-childhood-cancers",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/trump-letter-new-citizens.jpg",
+            "publishedAt": "2025-09-30T21:16:33Z"
+        },
+        {
+            "source": {
+                "id": "37128a060981dbbe79321f096e7d1108",
+                "name": "U.S. News & World Report",
+                "url": "https://www.usnews.com",
+                "country": "us"
+            },
+            "title": "OpenAI's Sora Joins Meta in Pushing AI-Generated Videos. Some Are Worried About a Flood of 'AI Slop'",
+            "url": "https://www.usnews.com/news/business/articles/2025-09-30/openais-sora-joins-meta-in-pushing-ai-generated-videos-some-are-worried-about-a-flood-of-ai-slop",
+            "urlToImage": "https://www.usnews.com/dims4/USNEWS/2f6e31f/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F89%2F7949b81a426ccaec2caeb112639334%2Faae28ea251fd4358b0b5367d8733d665Trump_14943.jpg",
+            "publishedAt": "2025-09-30T21:14:00Z"
+        },
+        {
+            "source": {
+                "id": "732b46cdef66b68ee2fbc940e79f81de",
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com",
+                "country": "us"
+            },
+            "title": "A breach every month raises doubts about South Korea's digital defenses",
+            "url": "https://techcrunch.com/2025/09/30/a-breach-every-month-raises-doubts-about-south-koreas-digital-defenses/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/sk-telecom-breach-2211811483.jpg?resize=1200,840",
+            "publishedAt": "2025-09-30T21:09:00Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "Amazon unveils new generation of AI-powered Kindle and other devices",
+            "url": "https://japantoday.com/category/tech/amazon-unveils-new-generation-of-ai-powered-kindle-and-other-devices",
+            "urlToImage": "https://media.japantoday.com/img/store/22/2f/0743cfc286ceeb2bb3a058caca2a59822ef4/download/_w1700.jpeg",
+            "publishedAt": "2025-09-30T21:00:00Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "'AI actor' Tilly Norwood stirs outrage in Hollywood",
+            "url": "https://japantoday.com/category/entertainment/%27ai-actor%27-tilly-norwood-stirs-outrage-in-hollywood",
+            "urlToImage": "https://media.japantoday.com/img/store/e4/95/3b9f1901fee4e2c5f87bec83c9386e1b21f5/download/_w1700.jpeg",
+            "publishedAt": "2025-09-30T21:00:00Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "'AI actor' Tilly Norwood stirs outrage in Hollywood",
+            "url": "https://japantoday.com/category/entertainment/'ai-actor'-tilly-norwood-stirs-outrage-in-hollywood",
+            "urlToImage": "https://media.japantoday.com/img/store/e4/95/3b9f1901fee4e2c5f87bec83c9386e1b21f5/download/_w1700.jpeg",
+            "publishedAt": "2025-09-30T21:00:00Z"
+        },
+        {
+            "source": {
+                "id": "6f97df9bf07dbbc5b124859805bffd6f",
+                "name": "The Street",
+                "url": "https://www.thestreet.com",
+                "country": "us"
+            },
+            "title": "Etsy shares swing on bold AI bet",
+            "url": "https://www.thestreet.com/investing/stocks/etsy-shares-swing-on-bold-ai-bet",
+            "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MTgyOTM1NjgxODkzNDEwMTQ0/etsy_2.jpg",
+            "publishedAt": "2025-09-30T20:52:01Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Trump executive order aims to use AI to boost childhood cancer research",
+            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/trump-executive-order-aims-use-ai-boost-childhood-cancer-research-2025-09-30/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/7SQGCZZRV5KWTBZQR23W5AYD5M.jpg?auth=bdbd4ae096690a8f88f640dd7513102ddc55006b36ae2c680708be14c714573d&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-09-30T20:49:10Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Trump Order Directs Use of AI to Boost Childhood Cancer Research",
+            "url": "https://www.bloomberg.com/news/articles/2025-09-30/trump-order-directs-use-of-ai-to-boost-childhood-cancer-research",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTF6mNqhW.0E/v0/1200x800.jpg",
+            "publishedAt": "2025-09-30T20:46:02Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "OpenAI launches Sora 2 with TikTok-style app",
+            "url": "https://japantoday.com/category/tech/openai-launches-sora-2-with-tiktok-style-app",
+            "urlToImage": "https://media.japantoday.com/img/store/29/6e/22e1f61e9cc37b499006fbcb264696d982cc/c95f4b31c178a1c7c518568d06038f2050179166/_w1700.jpeg",
+            "publishedAt": "2025-09-30T20:45:00Z"
+        },
+        {
+            "source": {
+                "id": "d5a02d07558c5563d72576efc406e608",
+                "name": "ABC17News.com",
+                "url": "https://abc17news.com",
+                "country": "us"
+            },
+            "title": "Hollywood is fuming over a new ‘AI actress’",
+            "url": "https://abc17news.com/money/cnn-business-consumer/2025/09/30/hollywood-is-fuming-over-a-new-ai-actress/",
+            "urlToImage": "https://abc17news.b-cdn.net/abc17news.com/2023/08/kmiz-860x484.webp",
+            "publishedAt": "2025-09-30T20:37:20Z"
+        },
         {
             "source": {
                 "id": "2f5884e252590f739df55c0e7db375df",
@@ -1452,6 +1584,96 @@
             "url": "https://www.globenewswire.com/news-release/2025/09/30/3159020/0/en/Cyber-A-I-Group-Announces-LOI-to-Acquire-Prominent-AI-Driven-Cybersecurity-Company-in-Abu-Dhabi.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/766d037b-b84e-41f5-acd9-d40e32007a66",
             "publishedAt": "2025-09-30T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "bgr_com"
+            },
+            "title": "How To Turn Off YouTube's Restricted Mode (And Why You Might Need To)",
+            "url": "https://www.bgr.com/1981549/how-to-turn-off-youtube-restricted-mode-guide/",
+            "urlToImage": "https://www.bgr.com/img/gallery/how-to-turn-off-youtubes-restricted-mode-and-why-you-might-need-to/l-intro-1759157921.jpg",
+            "publishedAt": "2025-09-30 21:17:00"
+        },
+        {
+            "source": {
+                "name": "gizmodotech"
+            },
+            "title": "OpenAI Officially Launches Video Generator Sora 2, Now With Social Feed",
+            "url": "https://gizmodo.com/openai-officially-launches-video-generator-sora-2-now-with-social-feed-2000665823",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/09/Screenshot-2025-09-30-at-3.13.55%20PM-1280x713.jpg",
+            "publishedAt": "2025-09-30 21:15:53"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Spacecoin’s Satellite Network Could Rewrite the Rules of Global Communication and Disaster Relief",
+            "url": "https://hackernoon.com/spacecoins-satellite-network-could-rewrite-the-rules-of-global-communication-and-disaster-relief",
+            "urlToImage": "https://hackernoon.imgix.net/images/mCgXovxRzaUalbCzNWoo2Mwmj6P2-pj224a7.png",
+            "publishedAt": "2025-09-30 21:12:03"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "How Spacecoin Could Help Conserve Biodiversity and Nature’s Wisdom",
+            "url": "https://hackernoon.com/how-spacecoin-could-help-conserve-biodiversity-and-natures-wisdom",
+            "urlToImage": "https://hackernoon.imgix.net/images/ywzf2Wmk2AecBNXbMjpWtrBaq9G3-vml2eum.jpeg",
+            "publishedAt": "2025-09-30 20:54:51"
+        },
+        {
+            "source": {
+                "name": "arstechnica"
+            },
+            "title": "How “prebunking” can restore public trust and other September highlights",
+            "url": "https://arstechnica.com/science/2025/09/research-roundup-six-cool-stories-we-almost-missed/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/prebunking-1152x648.jpg",
+            "publishedAt": "2025-09-30 20:49:54"
+        },
+        {
+            "source": {
+                "name": "androidheadlines"
+            },
+            "title": "New Samsung Galaxy S26 Leak Confirms Minimal Camera Upgrades",
+            "url": "https://www.androidheadlines.com/2025/09/samsung-galaxy-s26-series-leak-camera-specs-upgrades.html",
+            "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2025/09/Samsung-Galaxy-S25-Ultra-vs-Galaxy-S26-Ultra-corners-AH-exclusive-1-1420x792.jpg",
+            "publishedAt": "2025-09-30 20:46:55"
+        },
+        {
+            "source": {
+                "name": "postregister"
+            },
+            "title": "AP Technology SummaryBrief at 4:44 p.m. EDT",
+            "url": "https://www.postregister.com/businessreport/business/ap-technology-summarybrief-at-4-44-p-m-edt/article_f017493b-756d-58b0-9335-835d7a6eafee.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
+            "publishedAt": "2025-09-30 20:44:08"
+        },
+        {
+            "source": {
+                "name": "thurrott"
+            },
+            "title": "Google Pixel 10 Review",
+            "url": "https://www.thurrott.com/mobile/android/google-pixel/327592/google-pixel-10-review",
+            "urlToImage": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2025/09/pixel10-front-angled.jpg",
+            "publishedAt": "2025-09-30 20:40:03"
+        },
+        {
+            "source": {
+                "name": "arstechnica"
+            },
+            "title": "Intel and AMD trusted enclaves, the backbone of network security, fall to physical attacks",
+            "url": "https://arstechnica.com/security/2025/09/intel-and-amd-trusted-enclaves-the-backbone-of-network-security-fall-to-physical-attacks/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/enclave-cpu-spy-1152x648.jpg",
+            "publishedAt": "2025-09-30 20:25:08"
+        },
+        {
+            "source": {
+                "name": "caledonianrecord"
+            },
+            "title": "Amazon adds AI muscle to connected home lineup",
+            "url": "https://www.caledonianrecord.com/news/national/amazon-adds-ai-muscle-to-connected-home-lineup/article_49bf4998-4002-56c9-bd81-d176b48d8896.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/caledonianrecord.com/content/tncms/assets/v3/editorial/6/b9/6b9e7116-5d84-587a-9b7e-6f96a6129f3d/68dc488a852f6.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-09-30 20:20:32"
         },
         {
             "source": {
@@ -2910,258 +3132,6 @@
             "url": "https://www.dailymail.co.uk/debate/article-15146359/DAILY-MAIL-COMMENT-Rachel-Wonderland.html",
             "urlToImage": "https://i.dailymail.co.uk/1s/2025/09/29/22/102554385-0-image-m-36_1759180145909.jpg",
             "publishedAt": "2025-09-29T21:10:49Z"
-        },
-        {
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            },
-            "title": "How Walmart plans to prepare America's largest private workforce for an AI-driven future",
-            "url": "https://japantoday.com/category/business/how-walmart-plans-to-prepare-america%27s-largest-private-workforce-for-an-ai-driven-future",
-            "urlToImage": "https://media.japantoday.com/img/store/03/09/31996c7ef28897912c6545d1f5235e28f9c8/download/_w1700.jpeg",
-            "publishedAt": "2025-09-29T21:00:00Z"
-        },
-        {
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            },
-            "title": "California enacts AI safety law targeting tech giants",
-            "url": "https://japantoday.com/category/tech/california-enacts-ai-safety-law-targeting-tech-giants",
-            "urlToImage": "https://media.japantoday.com/img/store/df/b2/c40b7590d76dff6ac4c661eaa9e3e97d6472/2b819fc10e8ec4da67c018fb26bbb1c506ea0387/_w1700.jpeg",
-            "publishedAt": "2025-09-29T21:00:00Z"
-        },
-        {
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            },
-            "title": "Anthropic launches new AI model, touting coding supremacy",
-            "url": "https://japantoday.com/category/tech/anthropic-launches-new-ai-model-touting-coding-supremacy",
-            "urlToImage": "https://media.japantoday.com/img/store/bf/61/bffcbae6b525a76929c4a086afe6545f9026/f86921af321fcd97396e9926f6bbb31cadc23276/_w1700.jpeg",
-            "publishedAt": "2025-09-29T21:00:00Z"
-        },
-        {
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            },
-            "title": "How Walmart plans to prepare America's largest private workforce for an AI-driven future",
-            "url": "https://japantoday.com/category/business/how-walmart-plans-to-prepare-america's-largest-private-workforce-for-an-ai-driven-future",
-            "urlToImage": "https://media.japantoday.com/img/store/03/09/31996c7ef28897912c6545d1f5235e28f9c8/download/_w1700.jpeg",
-            "publishedAt": "2025-09-29T21:00:00Z"
-        },
-        {
-            "source": {
-                "id": "e553cce06d349ac1f7fbb7618a979256",
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com",
-                "country": "us"
-            },
-            "title": "California’s Gavin Newsom Signs Major AI Safety Law",
-            "url": "https://www.nytimes.com/2025/09/29/technology/california-ai-safety-law.html",
-            "urlToImage": "https://static01.nyt.com/images/2025/09/29/multimedia/OakArticle-68dad325-1-fbmc/OakArticle-68dad325-1-fbmc-facebookJumbo.jpg",
-            "publishedAt": "2025-09-29T20:53:13Z"
-        },
-        {
-            "source": {
-                "id": "016c9538dd6aa60fb4f29fca8674d6b7",
-                "name": "Mechanicsburg Patriot News ",
-                "url": "https://www.pennlive.com",
-                "country": "us"
-            },
-            "title": "She thought she was talking to her favorite celebrity. It cost her everything",
-            "url": "https://www.pennlive.com/nation-world/2025/09/she-thought-she-was-talking-to-her-favorite-celebrity-it-cost-her-everything.html",
-            "urlToImage": "https://www.pennlive.com/resizer/v2/VQZZGC53N5GZHG35Q6UPZHUKLM.jpg?auth=ecd1220c43019623037078d1ba1e47a3d337b2489bec9769643de20dc5095210&width=1280&smart=true&quality=90",
-            "publishedAt": "2025-09-29T20:29:45Z"
-        },
-        {
-            "source": {
-                "id": "0ce70f407e0fa82ddaeeb29243aa8210",
-                "name": "SooToday",
-                "url": "https://www.sootoday.com",
-                "country": "ca"
-            },
-            "title": "Ottawa gets nearly 1,000 federal budget briefs, with many AI and digital policy asks",
-            "url": "https://www.sootoday.com/national-news/ottawa-gets-nearly-1000-federal-budget-briefs-with-many-ai-and-digital-policy-asks-11279903",
-            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/09/2bf10462a34b7927acf6216d464d49776d1cc73db4146058e635aacf613426f2.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2025-09-29T20:28:54Z"
-        },
-        {
-            "source": {
-                "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
-                "name": "BayToday",
-                "url": "https://www.baytoday.ca",
-                "country": "ca"
-            },
-            "title": "Ottawa gets nearly 1,000 federal budget briefs, with many AI and digital policy asks",
-            "url": "https://www.baytoday.ca/national-news/ottawa-gets-nearly-1000-federal-budget-briefs-with-many-ai-and-digital-policy-asks-11279903",
-            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/09/2bf10462a34b7927acf6216d464d49776d1cc73db4146058e635aacf613426f2.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2025-09-29T20:28:54Z"
-        },
-        {
-            "source": {
-                "id": "19d1f502a5658ccbfaaa50f77b89993f",
-                "name": "The Motley Fool Canada",
-                "url": "https://www.fool.ca",
-                "country": "ca"
-            },
-            "title": "Celestica Stock Is Hitting New Highs: Too Late to Buy?",
-            "url": "https://www.fool.ca/2025/09/29/celestica-stock-is-hitting-new-highs-too-late-to-buy/",
-            "urlToImage": "https://www.fool.ca/wp-content/uploads/2024/10/GettyImages-1780035607-1200x694.jpg",
-            "publishedAt": "2025-09-29T20:20:11Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "The Trust Imperative: Chiru Bhavansikar on Building Reliable Foundations for Enterprise AI Through Data Trust",
-            "url": "https://techbullion.com/the-trust-imperative-chiru-bhavansikar-on-building-reliable-foundations-for-enterprise-ai-through-data-trust/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/image-87-800x600.png",
-            "publishedAt": "2025-09-29T19:51:12Z"
-        },
-        {
-            "source": {
-                "id": "a6d401909ca644c4ffb332486c9cfaea",
-                "name": "Seeking Alpha",
-                "url": "https://seekingalpha.com",
-                "country": "us"
-            },
-            "title": "OpenAI's Sora AI video generator will use copyrighted content by default: report",
-            "url": "https://seekingalpha.com/news/4499949-openais-sora-ai-video-generator-will-use-copyrighted-content-by-default-report",
-            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2232623679/image_2232623679.jpg?io=getty-c-w750",
-            "publishedAt": "2025-09-29T19:45:28Z"
-        },
-        {
-            "source": {
-                "id": "933344203c2b862af768b5e662a162a4",
-                "name": "International Business Times",
-                "url": "https://www.ibtimes.com",
-                "country": "us"
-            },
-            "title": "Anthropic Launches New AI Model, Touting Coding Supremacy",
-            "url": "https://www.ibtimes.com/anthropic-launches-new-ai-model-touting-coding-supremacy-3784784",
-            "urlToImage": "https://d.ibtimes.com/en/full/4624439/dario-amodei-co-founder-ceo-anthropic-former-staffer-openai-creator-chatgpt.jpg",
-            "publishedAt": "2025-09-29T19:45:19Z"
-        },
-        {
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            },
-            "title": "AI is transforming how software engineers do their jobs. Just don't call it 'vibe-coding'",
-            "url": "https://japantoday.com/category/tech/ai-is-transforming-how-software-engineers-do-their-jobs.-just-don't-call-it-'vibe-coding'",
-            "urlToImage": "https://media.japantoday.com/img/store/79/79/34ccad598881195fe90aa6a4736bb139f317/download/_w1700.jpeg",
-            "publishedAt": "2025-09-29T19:36:00Z"
-        },
-        {
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            },
-            "title": "AI is transforming how software engineers do their jobs. Just don't call it 'vibe-coding'",
-            "url": "https://japantoday.com/category/tech/ai-is-transforming-how-software-engineers-do-their-jobs.-just-don%27t-call-it-%27vibe-coding%27",
-            "urlToImage": "https://media.japantoday.com/img/store/79/79/34ccad598881195fe90aa6a4736bb139f317/download/_w1700.jpeg",
-            "publishedAt": "2025-09-29T19:36:00Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Google DeepMind CEO Demis Hassabis reveals 4 ways graduates can unlock an edge in the age of AI",
-            "url": "https://timesofindia.indiatimes.com/education/news/google-deepmind-ceo-demis-hassabis-reveals-4-ways-graduates-can-unlock-an-edge-in-the-age-of-ai/articleshow/124217778.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-124217788,width-1070,height-580,imgsize-90990,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "publishedAt": "2025-09-29T19:30:00Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "AI advance: Anthropic says Claude Sonnet 4.5 'best coding model' in world",
-            "url": "https://www.breitbart.com/news/ai-advance-anthropic-says-claude-sonnet-4-5-best-coding-model-in-world/",
-            "urlToImage": "https://media.breitbart.com/media/2025/09/wi/upi/ai-advance-anthropic-claude-sonnet-coding-model-ai-advance-anthropic-claude-sonnet.jpg",
-            "publishedAt": "2025-09-29T19:25:29Z"
-        },
-        {
-            "source": {
-                "id": "1b697445987e8a33f6c82842e17d60d9",
-                "name": "Bnn Bloomberg",
-                "url": "https://www.bnnbloomberg.ca",
-                "country": "ca"
-            },
-            "title": "AI is transforming how software engineers work",
-            "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2025/09/29/ai-is-transforming-how-software-engineers-do-their-jobs-just-dont-call-it-vibe-coding/",
-            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/XZS4XZ62DJ5IJ2733P2FSMSI4I.jpg?smart=true&auth=bd2108ff5dd8dbef2df6482de7ee6971e5aa403e3a66cd5832eb579bbe4a1848&width=1200&height=630",
-            "publishedAt": "2025-09-29T19:17:45Z"
-        },
-        {
-            "source": {
-                "id": "f1bf32bc7d2c9750240a24442fde5232",
-                "name": "Calgary Herald",
-                "url": "https://calgaryherald.com",
-                "country": "ca"
-            },
-            "title": "WestJet alerts U.S. passengers of data breach of some personal info",
-            "url": "https://calgaryherald.com/news/westjet-alerts-us-passengers-cyber-security-breach",
-            "urlToImage": "https://smartcdn.gprod.postmedia.digital/calgaryherald/wp-content/uploads/2025/09/westjet.jpg",
-            "publishedAt": "2025-09-29T19:05:22Z"
-        },
-        {
-            "source": {
-                "id": "8da923084554b2821233d6c5c5f02c97",
-                "name": "Fox News",
-                "url": "https://www.foxnews.com",
-                "country": "us"
-            },
-            "title": "Schools turn to AI gun detection for safety",
-            "url": "https://www.foxnews.com/tech/schools-turn-ai-gun-detection-safety",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/school-ai-photo-1.jpg",
-            "publishedAt": "2025-09-29T19:00:46Z"
-        },
-        {
-            "source": {
-                "id": "2f5884e252590f739df55c0e7db375df",
-                "name": "WJLA",
-                "url": "https://wjla.com",
-                "country": "us"
-            },
-            "title": "AI Set to Revolutionize Drug Approvals",
-            "url": "https://wjla.com/good-morning-washington/ai-set-to-revolutionize-drug-approvals-ai-in-drug-approval-i-drug-development-ai-pharmaceutical-industry-ai-fda-approval-process-au-biotech-innovation-ai-healthcare-transformation",
-            "urlToImage": "https://wjla.com/resources/media2/16x9/1280/986/center/90/bc5ab1d7-f447-4798-ac3d-a82fecb2b406-4c7da67a7a7b471f9f66786deace3a3b.png",
-            "publishedAt": "2025-09-29T18:32:47Z"
-        },
-        {
-            "source": {
-                "id": "d5f1f8579b4e9b390feccfa1c0cf8028",
-                "name": "Arab News",
-                "url": "https://www.arabnews.com",
-                "country": "ar"
-            },
-            "title": "AWS and IBM partner over Riyadh innovation hub to fast-track cloud adoption",
-            "url": "https://www.arabnews.com/node/2617186/business-economy",
-            "urlToImage": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2025/09/29/4644237-516378504.png?itok=XlgjafDK",
-            "publishedAt": "2025-09-29T18:30:15Z"
         }
     ]
 }
