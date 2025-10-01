@@ -1,6 +1,102 @@
 {
-    "lastUpdatedAt": "2025-10-01T18:21:24.719509Z",
+    "lastUpdatedAt": "2025-10-01T19:12:11.168857Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Amazon adds AI muscle to connected home lineup",
+            "url": "https://www.thestar.com.my/tech/tech-news/2025/10/01/amazon-adds-ai-muscle-to-connected-home-lineup",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/01/3548684.jpg",
+            "publishedAt": "2025-10-01T07:00:00Z"
+        },
+        {
+            "source": {
+                "id": "3d24c816061d69b2e23b8583aed9b447",
+                "name": "Euronews",
+                "url": "https://www.euronews.com",
+                "country": "fr"
+            },
+            "title": "Euronews at the Global Cybersecurity Forum",
+            "url": "https://www.euronews.com/next/2025/10/01/euronews-at-the-global-cybersecurity-forum",
+            "urlToImage": "https://static.euronews.com/articles/stories/09/48/83/66/1200x675_cmsv2_831c99e1-f90f-59fb-add8-81792eb14130-9488366.jpg",
+            "publishedAt": "2025-10-01T06:51:43Z"
+        },
+        {
+            "source": {
+                "id": "214d496d625fc657723cf4da80cff8ce",
+                "name": "Deccan Chronicle",
+                "url": "https://www.deccanchronicle.com",
+                "country": "in"
+            },
+            "title": "Trump Visa Curbs Push US Firms to Consider Shifting More Work to India",
+            "url": "https://www.deccanchronicle.com/jobs-and-education/trump-visa-curbs-push-us-firms-to-consider-shifting-more-work-to-india-1907348",
+            "urlToImage": "https://www.deccanchronicle.com/h-upload/2025/10/01/1963549-aa-5598831.jpg",
+            "publishedAt": "2025-10-01T06:40:16Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "Can AI Really Be Used To Predict Outcomes?",
+            "url": "https://techbullion.com/can-ai-really-be-used-to-predict-outcomes/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/10/Screenshot-2025-10-01-113607.png",
+            "publishedAt": "2025-10-01T06:36:36Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "PowerSchool Expands India Footprint with New Chennai Centre of Excellence",
+            "url": "https://www.devdiscourse.com/article/business/3648303-powerschool-expands-india-footprint-with-new-chennai-centre-of-excellence",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/01_10_2025_12_04_30_2054189.jpg?width=920&format=jpeg",
+            "publishedAt": "2025-10-01T06:34:44Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "PowerSchool Expands India Footprint with Launch of New Centre of Excellence in Chennai",
+            "url": "https://www.tribuneindia.com/news/business/powerschool-expands-india-footprint-with-launch-of-new-centre-of-excellence-in-chennai/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTFiZTA1MDEwLTllOTAtMTFmMC04ZWJlLWYzMjRlZjRkM2RjZS5qcGc=",
+            "publishedAt": "2025-10-01T06:30:17Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "TAC Security: Pioneering Cybersecurity's Global AI-Driven Future",
+            "url": "https://www.devdiscourse.com/article/technology/3648291-tac-security-pioneering-cybersecuritys-global-ai-driven-future",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/14_07_2025_05_13_59_2010356.png?width=920&format=jpeg",
+            "publishedAt": "2025-10-01T06:29:34Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "TAC InfoSec Limited AGM Highlights: Reports 172% Surge in FY25 Revenue; Targets $100M ARR and Global AI",
+            "url": "https://www.tribuneindia.com/news/business/tac-infosec-limited-agm-highlights-reports-172-surge-in-fy25-revenue-targets-100m-arr-and-global-ai-driven-cybersecurity-leadership-by-2030-2/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWUzZmU0ODUwLTllOGYtMTFmMC04ZWJlLWYzMjRlZjRkM2RjZS5qcGc=",
+            "publishedAt": "2025-10-01T06:27:29Z"
+        },
         {
             "source": {
                 "id": "1e30d944d63d9090db5a2c2e28a8772f",
@@ -492,6 +588,87 @@
             "url": "https://www.globenewswire.com/news-release/2025/10/01/3159818/0/en/Lynch-Carpenter-Investigates-Claims-in-Georgetown-Brewing-Data-Breach.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/c7859457-8a76-48a5-b4e7-d3be8aa7a7a7",
             "publishedAt": "2025-10-01T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "engadget"
+            },
+            "title": "The best power banks and portable chargers for every device in 2025",
+            "url": "https://www.engadget.com/computing/accessories/best-power-bank-143048526.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?client=19f2b5e49a271b2bde77&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-12%2F7c215f60-bd2b-11ef-9f2b-a76113bb7c9b&resize=1400%2C787&signature=09dae6d7c1545763a0dbcf388fecbe6b61969482",
+            "publishedAt": "2025-10-01 07:00:38"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "How to Improve AI Models While Training Only 0.1% of Parameters",
+            "url": "https://hackernoon.com/how-to-improve-ai-models-while-training-only-01percent-of-parameters",
+            "urlToImage": "https://hackernoon.imgix.net/images/5wpKgV75aONqkTJlafw2yQmK9yd2-w203a6w.png",
+            "publishedAt": "2025-10-01 07:00:04"
+        },
+        {
+            "source": {
+                "name": "itpro"
+            },
+            "title": "HPE ProLiant Compute DL360 Gen12 review: A versatile Xeon 6 rack-optimised power plant",
+            "url": "https://www.itpro.com/infrastructure/servers-and-storage/hpe-proliant-compute-dl360-gen12-review-a-versatile-xeon-6-rack-optimised-power-plant",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/LFnrQKjGEEbsy4VjPqNq8U-1280-80.jpg",
+            "publishedAt": "2025-10-01 07:00:00"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "Roland Taps Out A New Rhythm With Its TR-1000 Drum Machine With Analog And Digital Samples",
+            "url": "https://www.forbes.com/sites/marksparrow/2025/10/01/roland-taps-out-a-new-rhythm-with-its-tr-1000-drum-machine-with-analog-and-digital-samples/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68d6a6c7ec51d47566f28828/0x0.jpg?width=960",
+            "publishedAt": "2025-10-01 07:00:00"
+        },
+        {
+            "source": {
+                "name": "livemint"
+            },
+            "title": "Engineers are chasing ₹30 lakh offers—but not from startups",
+            "url": "https://www.livemint.com/technology/tech-news/ai-chips-nvidia-intel-engineering-colleges-it-jobs-placements-recruitment-bits-pilani-iit-11759217345473.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2025/10/01/1600x900/logo/2-0-1255603870-20180216-DLI-SKH-MN-Job-Fair-67-A-0_1679608558893_1759299485122.jpg",
+            "publishedAt": "2025-10-01 06:51:45"
+        },
+        {
+            "source": {
+                "name": "thehansindia"
+            },
+            "title": "INST researchers develop nanomaterial that stimulates brain cells without surgery",
+            "url": "https://www.thehansindia.com/hans/young-hans/inst-researchers-develop-nanomaterial-that-stimulates-brain-cells-without-surgery-1011144",
+            "urlToImage": "https://assets.thehansindia.com/h-upload/2025/10/01/1589637-y-hans.webp",
+            "publishedAt": "2025-10-01 06:46:45"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "How AI Boosts NRI Property Campaigns Across Global Markets",
+            "url": "https://www.analyticsinsight.net/real-estate/how-ai-boosts-nri-property-campaigns-across-global-markets",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-10-01%2Fkppxor0y%2FHow-AI-Boosts-NRI-Property-Campaigns-Across-Global-Markets?ar=40%3A21&auto=format%2Ccompress&enlarge=true&mode=crop&ogImage=true&overlay=false&overlay_position=bottom&overlay_width=100&w=1200",
+            "publishedAt": "2025-10-01 06:37:37"
+        },
+        {
+            "source": {
+                "name": "phys"
+            },
+            "title": "Key steps towards the realization of a high-precision optical clock based on Ni12+",
+            "url": "https://phys.org/news/2025-09-key-high-precision-optical-clock.html",
+            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2025/key-steps-towards-the-1.jpg",
+            "publishedAt": "2025-10-01 06:30:01"
+        },
+        {
+            "source": {
+                "name": "newsable_asianetnews"
+            },
+            "title": "Amazon Unveils Next-Gen Echo Lineup With Smarter Features Powered by Alexa+",
+            "url": "https://newsable.asianetnews.com/gadget-technology/amazon-unveils-next-gen-echo-lineup-with-smarter-features-powered-by-alexa-dmn-articleshow-ymskpp3",
+            "urlToImage": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-01k6f76k0rkx8ja31bryke3ad9,imgname-amazon-s-echo-devices-1759299980312.jpg",
+            "publishedAt": "2025-10-01 06:26:38"
         },
         {
             "source": {
@@ -3114,159 +3291,6 @@
             "url": "https://www.standardspeaker.com/2025/09/30/ai-deepfakes-romance-scams/",
             "urlToImage": "https://www.standardspeaker.com/wp-content/uploads/2025/09/202509290415MCT_____PHOTO____US-NEWS-CELEBRITY-ROMANCE-SCAM-DMT-1.jpg?strip=all&w=1400px",
             "publishedAt": "2025-09-30 16:55:49"
-        },
-        {
-            "source": {
-                "name": "pottsmerc"
-            },
-            "title": "She thought she was talking to her favorite celebrity. It cost her everything",
-            "url": "https://www.pottsmerc.com/2025/09/30/ai-deepfakes-romance-scams/",
-            "urlToImage": "https://www.pottsmerc.com/wp-content/uploads/2025/09/202509290415MCT_____PHOTO____US-NEWS-CELEBRITY-ROMANCE-SCAM-DMT-1.jpg?strip=all&w=1400px",
-            "publishedAt": "2025-09-30 16:55:49"
-        },
-        {
-            "source": {
-                "name": "times_standard"
-            },
-            "title": "She thought she was talking to her favorite celebrity. It cost her everything",
-            "url": "https://www.times-standard.com/2025/09/30/ai-deepfakes-romance-scams/",
-            "urlToImage": "https://www.times-standard.com/wp-content/uploads/2025/09/202509290415MCT_____PHOTO____US-NEWS-CELEBRITY-ROMANCE-SCAM-DMT-1.jpg?strip=all&w=1400px",
-            "publishedAt": "2025-09-30 16:55:49"
-        },
-        {
-            "source": {
-                "name": "sun_sentinel"
-            },
-            "title": "She thought she was talking to her favorite celebrity. It cost her everything",
-            "url": "https://www.sun-sentinel.com/2025/09/30/ai-deepfakes-romance-scams/",
-            "urlToImage": "https://www.sun-sentinel.com/wp-content/uploads/2025/09/202509290415MCT_____PHOTO____US-NEWS-CELEBRITY-ROMANCE-SCAM-DMT-1.jpg?strip=all&w=1400px",
-            "publishedAt": "2025-09-30 16:55:49"
-        },
-        {
-            "source": {
-                "name": "chicoer"
-            },
-            "title": "She thought she was talking to her favorite celebrity. It cost her everything",
-            "url": "https://www.chicoer.com/2025/09/30/ai-deepfakes-romance-scams/",
-            "urlToImage": "https://www.chicoer.com/wp-content/uploads/2025/09/202509290415MCT_____PHOTO____US-NEWS-CELEBRITY-ROMANCE-SCAM-DMT-1.jpg?strip=all&w=1400px",
-            "publishedAt": "2025-09-30 16:55:49"
-        },
-        {
-            "source": {
-                "name": "greeleytribune"
-            },
-            "title": "She thought she was talking to her favorite celebrity. It cost her everything",
-            "url": "https://www.greeleytribune.com/2025/09/30/ai-deepfakes-romance-scams/",
-            "urlToImage": "https://www.greeleytribune.com/wp-content/uploads/2025/09/202509290415MCT_____PHOTO____US-NEWS-CELEBRITY-ROMANCE-SCAM-DMT-1.jpg?strip=all&w=1400px",
-            "publishedAt": "2025-09-30 16:55:49"
-        },
-        {
-            "source": {
-                "name": "timesherald"
-            },
-            "title": "She thought she was talking to her favorite celebrity. It cost her everything",
-            "url": "https://www.timesherald.com/2025/09/30/ai-deepfakes-romance-scams/",
-            "urlToImage": "https://www.timesherald.com/wp-content/uploads/2025/09/202509290415MCT_____PHOTO____US-NEWS-CELEBRITY-ROMANCE-SCAM-DMT-1.jpg?strip=all&w=1400px",
-            "publishedAt": "2025-09-30 16:55:49"
-        },
-        {
-            "source": {
-                "name": "morningjournal"
-            },
-            "title": "She thought she was talking to her favorite celebrity. It cost her everything",
-            "url": "https://www.morningjournal.com/2025/09/30/ai-deepfakes-romance-scams/",
-            "urlToImage": "https://www.morningjournal.com/wp-content/uploads/2025/09/202509290415MCT_____PHOTO____US-NEWS-CELEBRITY-ROMANCE-SCAM-DMT-1.jpg?w=620",
-            "publishedAt": "2025-09-30 16:55:49"
-        },
-        {
-            "source": {
-                "name": "dailylocal"
-            },
-            "title": "She thought she was talking to her favorite celebrity. It cost her everything",
-            "url": "https://www.dailylocal.com/2025/09/30/ai-deepfakes-romance-scams/",
-            "urlToImage": "https://www.dailylocal.com/wp-content/uploads/2025/09/202509290415MCT_____PHOTO____US-NEWS-CELEBRITY-ROMANCE-SCAM-DMT-1.jpg?strip=all&w=1400px",
-            "publishedAt": "2025-09-30 16:55:49"
-        },
-        {
-            "source": {
-                "name": "capitalgazette"
-            },
-            "title": "She thought she was talking to her favorite celebrity. It cost her everything",
-            "url": "https://www.capitalgazette.com/2025/09/30/ai-deepfakes-romance-scams/",
-            "urlToImage": "https://www.capitalgazette.com/wp-content/uploads/2025/09/202509290415MCT_____PHOTO____US-NEWS-CELEBRITY-ROMANCE-SCAM-DMT-1.jpg?strip=all&w=1400px",
-            "publishedAt": "2025-09-30 16:55:49"
-        },
-        {
-            "source": {
-                "name": "news24online"
-            },
-            "title": "Claude Sonnet 4.5 by Anthropic: Feature upgrades and free access, here’s whats new with the version 4.5",
-            "url": "https://news24online.com/tech/claude-sonnet-4-5-by-anthropic-feature-upgrades-and-free-access-heres-whats-new-with-the-version-4-5/643861/",
-            "urlToImage": "https://news24online.com/wp-content/uploads/2025/09/Calude-4.5.jpg",
-            "publishedAt": "2025-09-30 16:12:58"
-        },
-        {
-            "source": {
-                "name": "techradar"
-            },
-            "title": "Criminals looking to disturb holidaymakers with devious AI-powered cyberattacks - here's what you need to know",
-            "url": "https://www.techradar.com/pro/security/criminals-looking-to-disturb-holidaymakers-with-devious-ai-powered-cyberattacks-heres-what-you-need-to-know",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/oaWWhLpQud7jvU5QxdVDNj.jpg",
-            "publishedAt": "2025-09-30 16:04:00"
-        },
-        {
-            "source": {
-                "name": "cnbc"
-            },
-            "title": "How this $130 billion energy management company is fueling Nvidia’s infrastructure growth",
-            "url": "https://www.cnbc.com/2025/09/30/how-schneider-electric-is-fueling-nvidia-infrastructure-growth.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108205349-1759177757245-PROPERTY_PLAY_SCHNEIDER_ELECTRIC_JEAN_PASCAL_TRICOIRE_STILL_4.jpg?h=422&v=1759177791&vtcrop=y&w=750",
-            "publishedAt": "2025-09-30 16:00:01"
-        },
-        {
-            "source": {
-                "name": "sdxcentral"
-            },
-            "title": "IBM shoots for autonomous networks with new agentic AI tool",
-            "url": "https://www.sdxcentral.com/news/ibm-shoots-for-autonomous-networks-with-new-agentic-ai-tool/",
-            "urlToImage": "https://media.datacenterdynamics.com/media/images/IBM_IN.2e16d0ba.fill-1200x630.png",
-            "publishedAt": "2025-09-30 15:49:06"
-        },
-        {
-            "source": {
-                "name": "prnewswire_apac"
-            },
-            "title": "BRUNEI SUBSIDIARY OF GLOBAL ENERGY COMPANY, HIBISCUS PETROLEUM, EXPANDS GEP'S AI-DRIVEN PROCUREMENT SOFTWARE TO MANAGE SOURCE TO CONTRACT AND DRIVE NEW VALUE WORLDWIDE",
-            "url": "https://www.prnewswire.com/apac/news-releases/brunei-subsidiary-of-global-energy-company-hibiscus-petroleum-expands-geps-ai-driven-procurement-software-to-manage-source-to-contract-and-drive-new-value-worldwide-302571159.html",
-            "urlToImage": "https://mma.prnewswire.com/media/518346/GEP_Logo.jpg?p=publish",
-            "publishedAt": "2025-09-30 15:43:00"
-        },
-        {
-            "source": {
-                "name": "itpro"
-            },
-            "title": "Logitech's MX Master 4 mouse and its 'Action Ring' is a game-changer for modern work",
-            "url": "https://www.itpro.com/hardware/logitechs-mx-master-4-mouse-and-its-action-ring-is-a-game-changer-for-modern-work",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/t9WfvYsM2cTYkC9vMC7XoE-1280-80.jpg",
-            "publishedAt": "2025-09-30 15:39:46"
-        },
-        {
-            "source": {
-                "name": "economictimes_indiatimes"
-            },
-            "title": "Top AI researchers leave OpenAI, Google and Meta for new startup",
-            "url": "http://economictimes.indiatimes.com/tech/artificial-intelligence/top-ai-researchers-leave-openai-google-and-meta-for-new-startup/articleshow/124238666.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-32026,resizemode-75,msid-124238666/tech/artificial-intelligence/top-ai-researchers-leave-openai-google-and-meta-for-new-startup.jpg",
-            "publishedAt": "2025-09-30 15:35:17"
-        },
-        {
-            "source": {
-                "name": "masslive"
-            },
-            "title": "This iconic sound of your childhood is officially disappearing forever",
-            "url": "https://www.masslive.com/news/2025/09/the-end-of-an-era-aol-ends-technology-that-shaped-an-entire-generation.html",
-            "urlToImage": "https://www.masslive.com/resizer/v2/UR2H2YHGKNDQLL6L7NPVL7QHOY.png?auth=2016608c1bf648aa2cfd34c3df88818064e9c8ad6022cb2aa982591f838d959e&height=1200&smart=true",
-            "publishedAt": "2025-09-30 15:35:15"
         }
     ]
 }
