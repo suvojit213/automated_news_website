@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-10-01T15:14:44.597385Z",
+    "lastUpdatedAt": "2025-10-01T16:19:20.228934Z",
     "articles": [
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Global study finds GenAI trust surging, but AI safeguards lag behind",
+            "url": "https://timesofindia.indiatimes.com/business/global-study-finds-genai-trust-surging-but-ai-safeguards-lag-behind/articleshow/124234136.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-124234110,width-1070,height-580,imgsize-30092,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-10-01T04:00:00Z"
+        },
+        {
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            },
+            "title": "OpenAI launches new social app Sora, lets you add friends to videos using AI",
+            "url": "https://www.indiatoday.in/technology/news/story/openai-launches-new-social-app-sora-lets-you-add-friends-to-videos-using-ai-2796009-2025-10-01",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202510/openai-051501292-16x9.jpg?VersionId=WXnPgfyMDsGxK1Vr.TgB6z0galfShPM5",
+            "publishedAt": "2025-10-01T03:45:01Z"
+        },
         {
             "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -300,6 +324,42 @@
             "url": "https://www.globenewswire.com/news-release/2025/10/01/3159543/0/en/SANS-releases-the-Secure-the-Generations-toolkit-to-provide-resources-for-every-stage-of-life-on-Cybersecurity-Awareness-Month.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/f2cad82a-fac0-4f3b-922c-a705ede9ae0e",
             "publishedAt": "2025-10-01T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Moxie Marlinspike: The Cypherpunk Pirate Who Built Signal",
+            "url": "https://hackernoon.com/moxie-marlinspike-the-cypherpunk-pirate-who-built-signal",
+            "urlToImage": "https://hackernoon.imgix.net/images/AO3i53agltRgq8NH0cq0AaViIh42-g85360s.jpeg",
+            "publishedAt": "2025-10-01 04:15:23"
+        },
+        {
+            "source": {
+                "name": "expresscomputer"
+            },
+            "title": "Check Point Enters Next Level of Strategic Partnership with Wiz to Deliver Integrated CNAPP and Cloud Network Security Solution",
+            "url": "https://www.expresscomputer.in/news/check-point-enters-next-level-of-strategic-partnership-with-wiz-to-deliver-integrated-cnapp-and-cloud-network-security-solution/128265/",
+            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2021/06/24123442/partnership-EC.jpg",
+            "publishedAt": "2025-10-01 04:01:11"
+        },
+        {
+            "source": {
+                "name": "toi"
+            },
+            "title": "Amazon launches four new Echo devices powered Alexa+",
+            "url": "https://timesofindia.indiatimes.com/technology/audio/amazon-launches-four-new-echo-devices-powered-by-its-ai-alexa/articleshow/124247340.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-124247322,imgsize-117254,width-400,resizemode-4/amazon.jpg",
+            "publishedAt": "2025-10-01 03:57:38"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Hands-On WPA Cracking — Capture, Convert, Crack with Hashcat",
+            "url": "https://hackernoon.com/hands-on-wpa-cracking-capture-convert-crack-with-hashcat",
+            "urlToImage": "https://hackernoon.imgix.net/images/na1LA50pIxdXCxwaer7ISkWR5q52-3t03k1w.png",
+            "publishedAt": "2025-10-01 03:29:56"
         },
         {
             "source": {
@@ -3165,60 +3225,6 @@
             "url": "https://www.prnewswire.com/news-releases/c1-marks-five-years-of-partnership-with-moreno-valley-unified-school-district-esports-program-302570403.html",
             "urlToImage": "https://mma.prnewswire.com/media/2212656/ConvergeOne_Logo.jpg?p=original",
             "publishedAt": "2025-09-30 13:03:00"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "Greater Choice, Scalability, Speed: Why Legrand is Doubling Down on Open Compute Project Innovations",
-            "url": "https://www.prnewswire.com/news-releases/greater-choice-scalability-speed-why-legrand-is-doubling-down-on-open-compute-project-innovations-302570756.html",
-            "urlToImage": "https://mma.prnewswire.com/media/1906781/Legrand_Red_JPG_Logo.jpg?p=original",
-            "publishedAt": "2025-09-30 13:02:00"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "These brain-reading headphones track mental burnout - and warn you before exhaustion hits",
-            "url": "https://www.zdnet.com/article/these-brain-reading-headphones-track-mental-burnout-and-warn-you-before-exhaustion-hits/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/760a72942796b8eb018cd66e5298002dd1ac4706/2025/09/29/56bd6530-dbbd-4500-a417-6ae4c6a80ff5/mwlt.jpg?auto=webp&width=1280",
-            "publishedAt": "2025-09-30 13:00:44"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Anthropic’s Claude Sonnet 4.5 Launches on Amazon Bedrock for AI Excellence",
-            "url": "https://www.webpronews.com/anthropics-claude-sonnet-4-5-launches-on-amazon-bedrock-for-ai-excellence/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-ca270fa5-224e-4e28-a1ea-01766443f839.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-09-30 11:12:18"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Anthropic’s Claude Sonnet 4.5 Tackles 30-Hour AI Coding Marathons",
-            "url": "https://www.webpronews.com/anthropics-claude-sonnet-4-5-tackles-30-hour-ai-coding-marathons/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-6144ab6e-de6c-4605-9a45-3d1466e8504c.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-09-30 11:10:25"
-        },
-        {
-            "source": {
-                "name": "phys"
-            },
-            "title": "Positive charge carriers stabilize instantly in key solar fuel catalyst",
-            "url": "https://phys.org/news/2025-09-positive-carriers-stabilize-instantly-key.html",
-            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2025/positive-charges-stabi.jpg",
-            "publishedAt": "2025-09-30 11:10:06"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "California Passes First US AI Transparency Law for Frontier Models",
-            "url": "https://www.webpronews.com/california-passes-first-us-ai-transparency-law-for-frontier-models/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-7eaa2d88-cf56-4a92-816e-ed873e4487ad.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-09-30 11:10:05"
         }
     ]
 }
