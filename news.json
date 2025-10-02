@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2025-10-02T04:17:24.455257Z",
+    "lastUpdatedAt": "2025-10-02T05:14:12.522894Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Exclusive: AI data analytics startup Dataiku picked banks for US IPO, sources say",
+            "url": "https://www.reuters.com/business/finance/ai-data-analytics-startup-dataiku-picked-banks-us-ipo-sources-say-2025-10-01/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/BGKOW7KYVNPLVA7IYVW36IGCMM.jpg?auth=543ea8a308aa907ed95817b6363b720e39ebdfa13459f675e360c61118b212ee&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-10-01T17:08:55Z"
+        },
+        {
+            "source": {
+                "id": "0cecf842c67e3d7cc093daca6d9bdf9c",
+                "name": "Android Headlines",
+                "url": "https://www.androidheadlines.com",
+                "country": "us"
+            },
+            "title": "Google Search to Get AI Image Generation with Nano Banana",
+            "url": "https://www.androidheadlines.com/2025/10/google-search-ai-mode-image-generation-nano-banana.html",
+            "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2025/09/Google-Search-Live-camera-video-real-time-featured.webp",
+            "publishedAt": "2025-10-01T16:43:31Z"
+        },
+        {
+            "source": {
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
+                "country": "us"
+            },
+            "title": "Plug Power Stock Is Surging Wednesday: What's Going On?",
+            "url": "https://www.benzinga.com/trading-ideas/movers/25/10/47975657/plug-power-stock-is-surging-wednesday-whats-going-on-2",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/10/01/Stuttgart--Germany---03-17-2024-Mobile-P.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2025-10-01T16:40:34Z"
+        },
+        {
+            "source": {
+                "id": "492abf277b7277432148b61b21ddc836",
+                "name": "Los Angeles Times",
+                "url": "https://www.latimes.com",
+                "country": "us"
+            },
+            "title": "Google brings AI to the home with new cameras, doorbell and speaker",
+            "url": "https://www.latimes.com/business/story/2025-10-01/google-brings-gemini-ai-to-the-home-with-new-cameras-doorbell-and-speaker",
+            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/482934d/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F65%2Fd3%2Fd10d83afafaf1ccbcd414dbf4a17%2F1x-1.jpg",
+            "publishedAt": "2025-10-01T16:36:04Z"
+        },
+        {
+            "source": {
+                "id": "97497c18f5cb431f5f324b3d8643c24f",
+                "name": "The Independent",
+                "url": "https://www.independent.co.uk",
+                "country": "gb"
+            },
+            "title": "Google AI Overview appears to block results on searches for ‘Trump cognitive decline’ but not for Biden",
+            "url": "https://www.independent.co.uk/news/world/americas/us-politics/google-trump-ai-search-cognitive-decline-biden-b2837381.html",
+            "urlToImage": "https://static.independent.co.uk/2025/10/01/14/59/President-Trump-Signs-Executive-Order-In-Oval-Office-3ya577ly.jpeg?width=1200&height=800&crop=1200:800",
+            "publishedAt": "2025-10-01T16:27:49Z"
+        },
         {
             "source": {
                 "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
@@ -1320,6 +1380,69 @@
             "url": "https://www.globenewswire.com/news-release/2025/10/01/3159818/0/en/Lynch-Carpenter-Investigates-Claims-in-Georgetown-Brewing-Data-Breach.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/c7859457-8a76-48a5-b4e7-d3be8aa7a7a7",
             "publishedAt": "2025-10-01T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "livemint"
+            },
+            "title": "Amazon is overhauling its devices to take on Apple in the AI era",
+            "url": "https://www.livemint.com/ai/artificial-intelligence/amazon-is-overhauling-its-devices-to-take-on-apple-in-the-ai-era-11759336755216.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2025/10/01/1600x900/logo/AMAZON-FALL-PRODUCT-13_1759338025964_1759338051182.jpg",
+            "publishedAt": "2025-10-01 17:09:25"
+        },
+        {
+            "source": {
+                "name": "usatoday"
+            },
+            "title": "The Security Startup That Found Early Traction with Developer Communities",
+            "url": "https://www.usatoday.com/story/special/contributor-content/2025/10/01/the-security-startup-that-found-early-traction-with-developer-communities/86459169007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/10/01/USAT/86459171007-whats-app-image-20250804-at-93841-pm-1.png?auto=webp&crop=1158%2C651%2Cx0%2Cy0&format=pjpg&height=651&width=1158",
+            "publishedAt": "2025-10-01 17:04:20"
+        },
+        {
+            "source": {
+                "name": "engadget"
+            },
+            "title": "Best October Prime Day SSD deals: Discounts on gear from Crucial, Samsung and more",
+            "url": "https://www.engadget.com/deals/best-october-prime-day-ssd-deals-discounts-on-gear-from-crucial-samsung-and-more-170039440.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?client=19f2b5e49a271b2bde77&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-10%2F633e4e30-9ecc-11f0-bfef-d73d9b240932&resize=1400%2C787&signature=803758604f6581db1b061947c7c5a0a1339f2cd9",
+            "publishedAt": "2025-10-01 17:00:39"
+        },
+        {
+            "source": {
+                "name": "onclive"
+            },
+            "title": "UCSF Radiation Oncology Specialists Share Innovative Research and Clinical Expertise at National Radiation Oncology Conference",
+            "url": "https://www.onclive.com/view/ucsf-radiation-oncology-specialists-share-innovative-research-and-clinical-expertise-at-national-radiation-oncology-conference",
+            "urlToImage": "https://cdn.sanity.io/images/0vv8moc6/onclive/9ad900362e180a5b21cdd1027eec07023cb13e4c-1280x720.jpg",
+            "publishedAt": "2025-10-01 16:54:31"
+        },
+        {
+            "source": {
+                "name": "techxplore"
+            },
+            "title": "Q&A: Can AI persuade you to go vegan—or harm yourself?",
+            "url": "https://techxplore.com/news/2025-10-qa-ai-vegan.html",
+            "urlToImage": "https://scx1.b-cdn.net/csz/news/tmb/2022/chatbot-2.jpg",
+            "publishedAt": "2025-10-01 16:49:04"
+        },
+        {
+            "source": {
+                "name": "startupnews"
+            },
+            "title": "Qualcomm shifts chips to newer Arm tech as competition with Apple, MediaTek heats up",
+            "url": "https://startupnews.fyi/2025/10/01/qualcomm-shifts-chips-to-newer-arm-tech-as-competition-with-apple-mediatek-heats-up/",
+            "urlToImage": "https://startupnews.fyi/wp-content/uploads/2025/10/Qualcomm-5G.jpg",
+            "publishedAt": "2025-10-01 16:49:03"
+        },
+        {
+            "source": {
+                "name": "techtarget"
+            },
+            "title": "How to build a virtual network lab in the AI era",
+            "url": "https://www.techtarget.com/searchnetworking/tip/How-to-build-a-virtual-network-lab-in-the-AI-era",
+            "urlToImage": "https://www.techtarget.com/rms/onlineimages/disaster_recovery_a379640336_searchsitetablet_520X173.jpg",
+            "publishedAt": "2025-10-01 16:45:00"
         },
         {
             "source": {
@@ -3102,150 +3225,6 @@
             "url": "https://www.twincities.com/2025/09/30/ai-deepfakes-romance-scams/",
             "urlToImage": "https://www.twincities.com/wp-content/uploads/2025/09/202509290415MCT_____PHOTO____US-NEWS-CELEBRITY-ROMANCE-SCAM-DMT-1.jpg?w=1024&h=566",
             "publishedAt": "2025-09-30T16:55:49Z"
-        },
-        {
-            "source": {
-                "id": "d9acc08d8066fc3620da5e6b20b406ad",
-                "name": "Boulder Daily Camera",
-                "url": "https://www.dailycamera.com",
-                "country": "us"
-            },
-            "title": "She thought she was talking to her favorite celebrity. It cost her everything",
-            "url": "https://www.dailycamera.com/2025/09/30/ai-deepfakes-romance-scams/",
-            "urlToImage": "https://www.dailycamera.com/wp-content/uploads/2025/09/202509290415MCT_____PHOTO____US-NEWS-CELEBRITY-ROMANCE-SCAM-DMT-1.jpg?w=1024&h=566",
-            "publishedAt": "2025-09-30T16:55:49Z"
-        },
-        {
-            "source": {
-                "id": "602d1de710d66397a00201d8efdd36ee",
-                "name": "Inc. Magazine",
-                "url": "https://www.inc.com",
-                "country": "us"
-            },
-            "title": "The Data Powerhouse That Turned Charitable Donations Into a Science",
-            "url": "https://www.inc.com/inc-custom-studio/the-data-powerhouse-that-turned-charitable-donations-into-a-science/91246065",
-            "urlToImage": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit,w_1024/vip/2025/09/VeraData-Executive-Photo-1.jpeg",
-            "publishedAt": "2025-09-30T16:13:57Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Legal AI startup Eve for plaintiffs' lawyers hits $1 billion valuation with new funding",
-            "url": "https://www.reuters.com/legal/legalindustry/legal-ai-startup-eve-plaintiffs-lawyers-hits-1-billion-valuation-with-new-2025-09-30/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/3UMNW3FAVVJZDN5ZGX67NTH52U.jpg?auth=0c66ebe41e5ad71aff17a444a8ba76452ea3c890bcc42751102854fba99c2a50&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-09-30T16:06:35Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Meta Is Said to Acquire Chips Startup Rivos to Push AI Effort",
-            "url": "https://www.bloomberg.com/news/articles/2025-09-30/meta-is-said-to-acquire-chips-startup-rivos-to-push-ai-effort",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3pdithCYYA8/v0/1200x800.jpg",
-            "publishedAt": "2025-09-30T16:06:07Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "Doctors and nurses are better than AI at triaging patients, research indicates",
-            "url": "https://medicalxpress.com/news/2025-09-doctors-nurses-ai-triaging-patients.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/triage-nurse.jpg",
-            "publishedAt": "2025-09-30T16:00:01Z"
-        },
-        {
-            "source": {
-                "id": "732b46cdef66b68ee2fbc940e79f81de",
-                "name": "TechCrunch",
-                "url": "https://techcrunch.com",
-                "country": "us"
-            },
-            "title": "Why you can’t miss the aerospace content at TechCrunch Disrupt 2025",
-            "url": "https://techcrunch.com/2025/09/30/why-you-cant-miss-the-aerospace-content-at-techcrunch-disrupt-2025/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/TC25_Disrupt_General_Article_No-Anniversary_Headers_1920x1080.png?resize=1200,675",
-            "publishedAt": "2025-09-30T16:00:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Tata Motors to infuse additional Rs 120 crores in Freight Tiger",
-            "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/tata-motors-to-infuse-additional-rs-120-crores-in-freight-tiger/articleshow/124238965.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-124239002,width-1200,height-630,imgsize-42262,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2025-09-30T15:57:00Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - AI Innovation Takes Center Stage at IIFT's 15th Indian Management Conclave",
-            "url": "https://www.devdiscourse.com/live-discourse/8922-artificial-intelligence-revolutionizing-every-aspect-of-life",
-            "urlToImage": "https://www.devdiscourse.com?width=1280&format=jpeg",
-            "publishedAt": "2025-09-30T15:44:46Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "Alphabet’s AI Strength Fuels Biggest Quarterly Jump Since 2005",
-            "url": "https://www.livemint.com/companies/company-results/alphabets-ai-strength-fuels-biggest-quarterly-jump-since-2005-11759245416219.html",
-            "urlToImage": "https://images.livemint.com/img/2018/12/28/original/Companies_-_Results_1545999337988.jpg",
-            "publishedAt": "2025-09-30T15:16:55Z"
-        },
-        {
-            "source": {
-                "id": "839b9d172147498877bab641815b0631",
-                "name": "Entrepreneur",
-                "url": "https://www.entrepreneur.com",
-                "country": "us"
-            },
-            "title": "cyber security month",
-            "url": "https://www.entrepreneur.com/growing-a-business/why-are-cybercriminals-going-after-smaller-targets/497760",
-            "urlToImage": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2025/03/cropped-Ent_Logo_Circle_Black_300.png?w=32",
-            "publishedAt": "2025-09-30T14:52:57Z"
-        },
-        {
-            "source": {
-                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-                "name": "WTOP",
-                "url": "https://wtop.com",
-                "country": "us"
-            },
-            "title": "OpenAI’s ChatGPT now lets users buy from Etsy, Shopify in push for chatbot shopping",
-            "url": "https://wtop.com/lifestyle/2025/09/openais-chatgpt-now-lets-users-buy-from-etsy-shopify-in-push-for-chatbot-shopping/",
-            "urlToImage": "https://wtop.com/wp-content/uploads/2025/09/ChatGPT-Shopping_19314-scaled.jpg",
-            "publishedAt": "2025-09-30T14:37:54Z"
-        },
-        {
-            "source": {
-                "id": "37128a060981dbbe79321f096e7d1108",
-                "name": "U.S. News & World Report",
-                "url": "https://www.usnews.com",
-                "country": "us"
-            },
-            "title": "OpenAI's ChatGPT Now Lets Users Buy From Etsy, Shopify in Push for Chatbot Shopping",
-            "url": "https://www.usnews.com/news/business/articles/2025-09-30/openais-chatgpt-now-lets-users-buy-from-etsy-shopify-in-push-for-chatbot-shopping",
-            "urlToImage": "https://www.usnews.com/dims4/USNEWS/b1b621e/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Fe2%2F5119fafb26c2db5ce662ce79355ef7%2Ffa49c33c5f1d419c8c365fd45b5cf255ChatGPT-Shopping_19314.jpg",
-            "publishedAt": "2025-09-30T14:35:00Z"
         }
     ]
 }
