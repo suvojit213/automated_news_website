@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-10-02T09:15:50.850148Z",
+    "lastUpdatedAt": "2025-10-02T10:14:44.808005Z",
     "articles": [
+        {
+            "source": {
+                "id": "5ac5f32ba74846cef441099f666f2d98",
+                "name": "Fast Company",
+                "url": "https://www.fastcompany.com",
+                "country": "us"
+            },
+            "title": "U.S. cybersecurity was bad during Trump, 1.0. It’s getting worse.",
+            "url": "https://www.fastcompany.com/91411935/cybersecurity-trump-cisa-doge-krebs-black-hat",
+            "urlToImage": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2025/09/p-91411935-trump-second-term-cybersecurity.jpg",
+            "publishedAt": "2025-10-01T21:25:48Z"
+        },
+        {
+            "source": {
+                "id": "9f53afb019d44feb16bcc7da150e679a",
+                "name": "Baltimore News",
+                "url": "https://foxbaltimore.com",
+                "country": "us"
+            },
+            "title": "First ever 'AI' actor sparks anger in the film industry",
+            "url": "https://foxbaltimore.com/news/nation-world/first-ever-ai-actor-sparks-anger-in-the-film-industry-artificial-intelligence-filmmakers-emotion",
+            "urlToImage": "https://foxbaltimore.com/resources/media2/16x9/6174/986/0x8/90/b2862368-c6e6-483b-b7ba-77b3234ccd3b-GettyImages1498392477.jpg",
+            "publishedAt": "2025-10-01T21:23:35Z"
+        },
+        {
+            "source": {
+                "id": "2f5884e252590f739df55c0e7db375df",
+                "name": "WJLA",
+                "url": "https://wjla.com",
+                "country": "us"
+            },
+            "title": "First ever 'AI' actor sparks anger in the film industry",
+            "url": "https://wjla.com/news/nation-world/first-ever-ai-actor-sparks-anger-in-the-film-industry-artificial-intelligence-filmmakers-emotion",
+            "urlToImage": "https://wjla.com/resources/media2/16x9/6174/986/0x8/90/b2862368-c6e6-483b-b7ba-77b3234ccd3b-GettyImages1498392477.jpg",
+            "publishedAt": "2025-10-01T21:23:35Z"
+        },
+        {
+            "source": {
+                "id": "c477009a98f37b19212d8ae20ce8c018",
+                "name": "POLITICO",
+                "url": "https://www.politico.com",
+                "country": "us"
+            },
+            "title": "Trump officials move to kill plan for industry-led regulation of AI",
+            "url": "https://www.politico.com/news/2025/10/01/trump-ai-artificial-intelligence-regulation-hhs-00590902",
+            "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F58%2F3e%2F09e56656494a89873aa7401ed6b8%2Fmaha-24078.jpg",
+            "publishedAt": "2025-10-01T21:20:00Z"
+        },
         {
             "source": {
                 "id": "95a96a1867c4dac6f720e9d08d4c1b96",
@@ -1587,6 +1635,78 @@
         },
         {
             "source": {
+                "name": "nwitimes"
+            },
+            "title": "PsiQuantum breaks ground on quantum computing park at former U.S. Steel South Works mill",
+            "url": "https://www.nwitimes.com/news/local/business/article_dccfc880-5b11-4db8-a399-a30f366f8fa6.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/d/cc/dccfc880-5b11-4db8-a399-a30f366f8fa6/68dd8633070a3.preview.jpg?crop=1215%2C638%2C0%2C23&order=crop%2Cresize&resize=1200%2C630",
+            "publishedAt": "2025-10-01 22:02:00"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Why SCL Uses Lamport Clocks (Not Vector Clocks) to Stay Consistent",
+            "url": "https://hackernoon.com/why-scl-uses-lamport-clocks-not-vector-clocks-to-stay-consistent",
+            "urlToImage": "https://hackernoon.imgix.net/images/5wpKgV75aONqkTJlafw2yQmK9yd2-dq039xt.png",
+            "publishedAt": "2025-10-01 22:00:03"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "OpenAI Partners with Samsung, SK Hynix for $500B Stargate AI Project",
+            "url": "https://www.webpronews.com/openai-partners-with-samsung-sk-hynix-for-500b-stargate-ai-project/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-93b9963a-1913-44b3-9619-fb53e35b2876.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-10-01 21:46:33"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Cognixion Trials EEG Brain Interface for Apple Vision Pro in Paralyzed Patients",
+            "url": "https://www.webpronews.com/cognixion-trials-eeg-brain-interface-for-apple-vision-pro-in-paralyzed-patients/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-70a63064-0bd5-4b35-bc15-1877fff62942.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-10-01 21:45:57"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Amazon Unveils Four New Echo Devices Optimized for Alexa+ AI",
+            "url": "https://www.webpronews.com/amazon-unveils-four-new-echo-devices-optimized-for-alexa-ai/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-fcccc142-e30e-45a9-af6c-2ad193c59c59.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-10-01 21:43:32"
+        },
+        {
+            "source": {
+                "name": "thestreet"
+            },
+            "title": "Amazon’s new Alexa feature impacts Nvidia",
+            "url": "https://www.thestreet.com/technology/amazons-new-alexa-feature-impacts-nvidia",
+            "urlToImage": "https://www.thestreet.com/.image/c_fit,h_800,w_1200/MjE2ODE2NDkxNDExMDIzMzc5/amazon-echo-lead-.jpg",
+            "publishedAt": "2025-10-01 21:37:00"
+        },
+        {
+            "source": {
+                "name": "capjournal"
+            },
+            "title": "Amazon’s new Alexa feature impacts Nvidia",
+            "url": "https://www.capjournal.com/arena/finance/amazon-s-new-alexa-feature-impacts-nvidia/article_c5af021e-75e9-5e37-b55d-b2efd1d64f85.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/capjournal.com/content/tncms/assets/v3/editorial/d/83/d83925f0-7c39-541c-bb95-dea4f3dda509/68dda9e0d4007.image.jpg?resize=300%2C169",
+            "publishedAt": "2025-10-01 21:37:00"
+        },
+        {
+            "source": {
+                "name": "techcrunch"
+            },
+            "title": "OpenAI staff grapples with the company’s social media push",
+            "url": "https://techcrunch.com/2025/10/01/openai-staff-grapples-with-the-companys-social-media-push/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024",
+            "publishedAt": "2025-10-01 21:33:11"
+        },
+        {
+            "source": {
                 "name": "pcmag"
             },
             "title": "Sam Altman Admits Sora 2 'Slop' Feed Is a Money Grab to Fund GPUs",
@@ -2991,150 +3111,6 @@
             "url": "https://www.dailyexcelsior.com/himachal-kullu-police-to-use-ai-for-surveillance-during-international-dussehra-festival/",
             "urlToImage": "https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2025/09/kullu.jpg",
             "publishedAt": "2025-09-30T23:57:38Z"
-        },
-        {
-            "source": {
-                "id": "9a0aedadcf2d0a6144f3064cb144bae4",
-                "name": "Deadline",
-                "url": "https://deadline.com",
-                "country": "us"
-            },
-            "title": "New Artificial Intelligence Law In California Warns Of \"Catastrophic Risks\"",
-            "url": "https://deadline.com/2025/09/california-artificial-intelligence-safety-law-sb53-1236566835/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2025/06/GettyImages-2162166878.jpg?w=1024",
-            "publishedAt": "2025-09-30T23:53:18Z"
-        },
-        {
-            "source": {
-                "id": "10cbfb3760cfcdeb78c733c527f0e814",
-                "name": "iTWire",
-                "url": "https://itwire.com",
-                "country": "au"
-            },
-            "title": "Australians Voice Rising Cybersecurity Concerns as AI Fuels Surge in Phishing Threats ahead of Cybersecurity Awareness Month",
-            "url": "https://itwire.com/guest-articles/guest-research/australians-voice-rising-cybersecurity-concerns-as-ai-fuels-surge-in-phishing-threats-ahead-of-cybersecurity-awareness-month.html",
-            "urlToImage": "https://itwire.com/media/k2/items/cache/bd707faef0221da660d2bb80cbb077a4_XS.jpg",
-            "publishedAt": "2025-09-30T23:49:59Z"
-        },
-        {
-            "source": {
-                "id": "1a6c3258d04827f52d40713ad8166b1b",
-                "name": "Interesting Engineering",
-                "url": "https://interestingengineering.com",
-                "country": "us"
-            },
-            "title": "Machine learning enables 'mind reading' in mice using facial cues",
-            "url": "https://interestingengineering.com/science/machine-learning-thought-maps-mouse-study",
-            "urlToImage": "https://cms.interestingengineering.com/wp-content/uploads/2025/09/Untitled-design-12.jpg",
-            "publishedAt": "2025-09-30T23:49:52Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Pharmacists should co-opt AI, not compete, to improve patient interactions, say experts in Bengaluru",
-            "url": "https://timesofindia.indiatimes.com/city/bengaluru/pharmacists-should-co-opt-ai-not-compete-to-improve-patient-interactions-say-experts-in-bengaluru/articleshow/124241937.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-124241936,width-1070,height-580,imgsize-55722,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "publishedAt": "2025-09-30T23:40:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "‘India Biggest User Base; Perplexity Plans Local Fund’",
-            "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2025/oct/01/front-page/india-biggest-user-base-perplexity-plans-local-fund/articleshow/124245234.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-124245238,width-1200,height-630,imgsize-63758,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2025-09-30T23:34:00Z"
-        },
-        {
-            "source": {
-                "id": "17d7c2645f485578130862e0c8dd9480",
-                "name": "The Mercury News",
-                "url": "https://www.mercurynews.com",
-                "country": "us"
-            },
-            "title": "OpenAI’s Sora joins Meta in pushing AI-generated videos. Some are worried about a flood of ‘AI slop’",
-            "url": "https://www.mercurynews.com/2025/09/30/openais-sora-joins-meta-in-pushing-ai-generated-videos-some-are-worried-about-a-flood-of-ai-slop/",
-            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/09/Trump_14943_32c0ff.jpg?w=1024&h=682",
-            "publishedAt": "2025-09-30T23:18:53Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com",
-                "country": "ca"
-            },
-            "title": "Sora joins Meta in pushing AI-generated videos",
-            "url": "https://www.cp24.com/news/world/2025/09/30/openais-sora-joins-meta-in-pushing-ai-generated-videos-some-are-worried-about-a-flood-of-ai-slop/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/GV6OCAC7LGIM3L2AU54TKCXWU4.jpg?smart=true&auth=8b34f7846904f4a7e5901c7661e11dcbd4ad9e52b7e555efb5e83b217303133e&width=1200&height=630",
-            "publishedAt": "2025-09-30T23:11:19Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Amazon refreshes device lineup to integrate new AI-powered Alexa+",
-            "url": "https://www.thestar.com.my/tech/tech-news/2025/10/01/amazon-refreshes-device-lineup-for-alexa-ai-home-security-",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/01/3548232.jpg",
-            "publishedAt": "2025-09-30T23:04:00Z"
-        },
-        {
-            "source": {
-                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
-                "name": "ABC (Australian Broadcasting Corporation)",
-                "url": "https://www.abc.net.au",
-                "country": "au"
-            },
-            "title": "Ransomware hackers strike Toowoomba pharmacy as businesses warned of new tactics",
-            "url": "https://www.abc.net.au/news/2025-10-01/ransomware-attacks-on-small-businesses-cybersecurity/105835708",
-            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/7fab6345423c2b379e7af08ca3028684?impolicy=wcms_watermark_news&cropH=2813&cropW=5001&xPos=0&yPos=358&width=862&height=485&imformat=generic",
-            "publishedAt": "2025-09-30T22:59:52Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "South Korean president to meet with OpenAI CEO on Wednesday",
-            "url": "https://www.reuters.com/business/media-telecom/south-korean-president-meet-with-openai-ceo-wednesday-2025-09-30/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/PBIJUIMA2ZNLFL4M34WYJJXQXY.jpg?auth=3f0fa60237a1b0b510a579495a3ea3c975d4a2c2dbf0e9e01882d72a7b8800b9&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-09-30T22:49:41Z"
-        },
-        {
-            "source": {
-                "id": "492abf277b7277432148b61b21ddc836",
-                "name": "Los Angeles Times",
-                "url": "https://www.latimes.com",
-                "country": "us"
-            },
-            "title": "AI startup Character.AI removes Disney characters from its chatbot platform after legal letter",
-            "url": "https://www.latimes.com/entertainment-arts/business/story/2025-09-30/ai-startup-character-ai-removes-disney-characters-from-its-chatbot-platform-after-legal-letter",
-            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/43e9c28/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd8%2F54%2Fd12af898421180bb79b4384c427d%2Fartificial-intelligence-teens-65790.jpg",
-            "publishedAt": "2025-09-30T22:49:39Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "AI meets pediatric cancer: Trump signs order to accelerate research and cure",
-            "url": "https://www.livemint.com/news/us-news/ai-meets-pediatric-cancer-trump-signs-order-to-accelerate-research-and-cure-11759268144651.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2025/09/30/1600x900/logo/US-POITICS-TRUMP-16_1759268624514_1759268635444.jpg",
-            "publishedAt": "2025-09-30T21:44:47Z"
         }
     ]
 }
