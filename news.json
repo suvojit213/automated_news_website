@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2025-10-02T21:13:16.392150Z",
+    "lastUpdatedAt": "2025-10-02T22:13:17.983381Z",
     "articles": [
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "India's Stars and AI: Bollywood vs. Technology",
+            "url": "https://www.devdiscourse.com/article/technology/3649889-indias-stars-and-ai-bollywood-vs-technology",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/25_09_2025_10_03_27_9374807.png?width=920&format=jpeg",
+            "publishedAt": "2025-10-02T10:11:33Z"
+        },
+        {
+            "source": {
+                "id": "28bc60a23a7bf89e60f893506992a3fe",
+                "name": "Daily Excelsior",
+                "url": "https://www.dailyexcelsior.com",
+                "country": "in"
+            },
+            "title": "IT sector sees subdued growth in FY26, AI-powered rebound in next fiscal: Report",
+            "url": "https://www.dailyexcelsior.com/it-sector-sees-subdued-growth-in-fy26-ai-powered-rebound-in-next-fiscal-report/",
+            "urlToImage": "https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2025/10/IT-1.jpg",
+            "publishedAt": "2025-10-02T10:07:47Z"
+        },
+        {
+            "source": {
+                "id": "eaeeaeaa1e329f65d3a921c9c867fd7b",
+                "name": "Washington Examiner",
+                "url": "https://www.washingtonexaminer.com",
+                "country": "us"
+            },
+            "title": "Small Modular Reactors are Gatorade for the AI race",
+            "url": "https://www.washingtonexaminer.com/restoring-america/courage-strength-optimism/3832675/small-modular-reactors-artificial-intelligence-race/",
+            "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2025/09/AP25253738144713-1.jpg?resize=1024,683",
+            "publishedAt": "2025-10-02T10:00:00Z"
+        },
+        {
+            "source": {
+                "id": "70f0e86899d38a3c4301bfc5b89b2ff4",
+                "name": "Daily Record",
+                "url": "https://www.dailyrecord.co.uk",
+                "country": "gb"
+            },
+            "title": "Microsoft Teams users warned over new threat that could infect your PC",
+            "url": "https://www.dailyrecord.co.uk/lifestyle/microsoft-teams-users-warned-over-36000873",
+            "urlToImage": "https://i2-prod.dailyrecord.co.uk/article36000981.ece/ALTERNATES/s1200/0_GettyImages-691573537.jpg",
+            "publishedAt": "2025-10-02T09:52:18Z"
+        },
+        {
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            },
+            "title": "OpenAI hits $500 billion mark as SoftBank, others buy shares: Report",
+            "url": "https://www.indiatoday.in/business/story/openai-valuation-usd-500-billion-share-sale-softbank-sam-altman-2796731-2025-10-02",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202510/openai-record-valuation-02505169-16x9_0.jpg?VersionId=vF2g1ZmcIzcPNNho_Fu_5tkc7aGq5SrK",
+            "publishedAt": "2025-10-02T09:51:59Z"
+        },
+        {
+            "source": {
+                "id": "90a6e6fbc82cfa821ac49fdb5c404789",
+                "name": "NewsX",
+                "url": "https://www.newsx.com",
+                "country": "in"
+            },
+            "title": "Can Artificial Intelligence 'Pray' To God? Gemini’s Response To Kerala Priest Goes Viral",
+            "url": "https://www.newsx.com/offbeat/can-artificial-intelligence-pray-to-god-geminis-response-to-kerala-priest-goes-viral-85797/",
+            "urlToImage": "https://www.newsx.com/wp-content/uploads/2025/10/ai-news.jpg",
+            "publishedAt": "2025-10-02T09:33:58Z"
+        },
+        {
+            "source": {
+                "id": "53145d6e104c81ebd118041fcf32414e",
+                "name": "Majorca Daily Bulletin",
+                "url": "https://www.majorcadailybulletin.com",
+                "country": "es"
+            },
+            "title": "More cameras and artificial intelligence to boost Palma city security",
+            "url": "https://www.majorcadailybulletin.com/news/local/2025/10/02/136893/more-cameras-and-artificial-intelligence-boost-palma-city-security.html",
+            "urlToImage": "https://md.gsstatic.es/sfAttachPlugin/social/178611.jpg",
+            "publishedAt": "2025-10-02T09:29:48Z"
+        },
         {
             "source": {
                 "id": "b33a42ef1c098421f66aad47a76d6a3c",
@@ -72,6 +156,18 @@
             "url": "https://www.thestar.com.my/business/business-news/2025/10/02/ai-frenzy-sends-skorea-taiwan-stocks-to-record-highs",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/02/3550930.jpg",
             "publishedAt": "2025-10-02T07:59:00Z"
+        },
+        {
+            "source": {
+                "id": "c8c865ed042eb14694b8d596e22efe99",
+                "name": "Spokane Spokesman-Review",
+                "url": "https://www.spokesman.com",
+                "country": "us"
+            },
+            "title": "Shutdown guts U.S. cybersecurity agency at perilous time",
+            "url": "https://www.spokesman.com/stories/2025/oct/02/shutdown-guts-us-cybersecurity-agency-at-perilous-/",
+            "urlToImage": "https://thumb.spokesman.com/l2sMHX5ZvY-IivJJOF8GNS33NSY=/600x0/media.spokesman.com/graphics/2020/08/sr_placeholder.png",
+            "publishedAt": "2025-10-02T07:49:00Z"
         },
         {
             "source": {
@@ -492,6 +588,96 @@
             "url": "https://www.forbes.com/sites/thomasbrewster/2025/10/02/government-shutdown-cisa-weaker-insiders-say/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68ded5a83b6527a85f70cf17/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-10-02T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "siliconangle"
+            },
+            "title": "AI startup Axiom gets $64M to develop new knowledge with advanced mathematics",
+            "url": "https://siliconangle.com/2025/10/02/ai-startup-axiom-gets-64m-develop-new-knowledge-advanced-mathematics/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/10/Screenshot-from-2025-10-02-17-09-42.png",
+            "publishedAt": "2025-10-02 10:11:23"
+        },
+        {
+            "source": {
+                "name": "cornelledu"
+            },
+            "title": "NIH grant to fund autism research center",
+            "url": "https://news.cornell.edu/stories/2025/10/nih-grant-fund-autism-research-center",
+            "urlToImage": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_home/public/2025-10/1002_autism_tnd.jpg?itok=cv379WI3",
+            "publishedAt": "2025-10-02 10:10:41"
+        },
+        {
+            "source": {
+                "name": "fstoppers"
+            },
+            "title": "Photoshop’s New AI Models Change How You Edit",
+            "url": "https://fstoppers.com/artificial-intelligence/photoshops-new-ai-models-change-how-edit-712975",
+            "urlToImage": "https://cdn.fstoppers.com/styles/large-16-9/s3/lead/2025/10/gemini-photoshop.jpg",
+            "publishedAt": "2025-10-02 10:06:01"
+        },
+        {
+            "source": {
+                "name": "nbcnews"
+            },
+            "title": "Pikachu at war and Mario on the street: OpenAI’s Sora 2 thrills and alarms the internet",
+            "url": "https://www.nbcnews.com/tech/tech-news/openai-sora-2-app-video-chatgpt-creation-rcna234973",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251001-mario-pikachu-vl-218p-f28acb.jpg",
+            "publishedAt": "2025-10-02 10:00:00"
+        },
+        {
+            "source": {
+                "name": "roboticsandautomationnews"
+            },
+            "title": "Linux Foundation launches Newton with Disney, DeepMind and Nvidia to advance robotics AI",
+            "url": "https://roboticsandautomationnews.com/2025/10/02/linux-foundation-launches-newton-with-disney-deepmind-and-nvidia-to-advance-robotics-ai/95112/",
+            "urlToImage": "https://roboticsandautomationnews.com/wp-content/uploads/2025/10/linux-penguins-1.jpeg",
+            "publishedAt": "2025-10-02 09:50:48"
+        },
+        {
+            "source": {
+                "name": "thelincolnianonline"
+            },
+            "title": "Shutterstock (NYSE:SSTK) and The9 (NASDAQ:NCTY) Head to Head Comparison",
+            "url": "https://www.thelincolnianonline.com/2025/10/02/shutterstock-nysesstk-and-the9-nasdaqncty-head-to-head-comparison.html",
+            "urlToImage": "https://www.marketbeat.com/logos/shutterstock-inc-logo-1200x675.jpg",
+            "publishedAt": "2025-10-02 09:44:54"
+        },
+        {
+            "source": {
+                "name": "insider"
+            },
+            "title": "Is OpenAI the new Amazon? The ChatGPT maker keeps branching out and erasing market value from competitors.",
+            "url": "https://www.businessinsider.com/openai-chatgpt-saas-ai-tools-software-stock-selloff-amazon-effect-2025-10",
+            "urlToImage": "https://i.insider.com/68dd36275dbc4fd10da9f01d?width=700",
+            "publishedAt": "2025-10-02 09:40:01"
+        },
+        {
+            "source": {
+                "name": "prospect"
+            },
+            "title": "Microsoft Is Abandoning Windows 10. Hackers Are Celebrating.",
+            "url": "https://prospect.org/power/2025-10-02-microsoft-abandoning-windows-10-hackers-celebrating/",
+            "urlToImage": "https://prospect.org/downloads/23604/download/Wimbish-Bethune-Windows%20100225.png?cb=02774673607af146900068a14b2946a1",
+            "publishedAt": "2025-10-02 09:30:00"
+        },
+        {
+            "source": {
+                "name": "medicalxpress"
+            },
+            "title": "AI-powered automated hearing test approved by scientists",
+            "url": "https://medicalxpress.com/news/2025-10-ai-powered-automated-scientists.html",
+            "urlToImage": "https://scx1.b-cdn.net/csz/news/tmb/2025/ai-powered-automated-h.jpg",
+            "publishedAt": "2025-10-02 09:21:05"
+        },
+        {
+            "source": {
+                "name": "businessinsider_us"
+            },
+            "title": "Inside the rise of Ashok Elluswamy, the Elon Musk lieutenant leading Tesla's self-driving gamble",
+            "url": "https://www.businessinsider.com/ashok-elluswamy-tesla-autopilot-elon-musk-ai-2025-10",
+            "urlToImage": "https://i.insider.com/68baf89bf9db348adc0ae837?width=700",
+            "publishedAt": "2025-10-02 09:21:01"
         },
         {
             "source": {
@@ -3081,168 +3267,6 @@
             "url": "https://www.upi.com/Top_News/US/2025/10/01/Meta-ads-advertising-Facebook-Insagram-social-media-chat-AI-artificial-intelligence-privacy/9321759327684/",
             "urlToImage": "https://cdnph.upi.com/svc/sv/upi/9321759327684/2025/1/d234e26e5deb013e8966ea21a7d2b884/Meta-to-target-Facebook-Instagram-ads-using-AI-chat-tool.jpg",
             "publishedAt": "2025-10-01 15:22:18"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "Own a Roku TV? This 30-second routine will keep it running like new",
-            "url": "https://www.zdnet.com/article/own-a-roku-tv-this-30-second-routine-will-keep-it-running-like-new/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/b84faa2f90753dcedbab907212130ecd2dd75db3/2024/10/25/66abb68f-576f-4b51-afbe-72cd526cfa3d/3.jpg?auto=webp&width=1280",
-            "publishedAt": "2025-10-01 15:18:00"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Agentic AI Success Hinges on High-Quality Data Governance",
-            "url": "https://www.webpronews.com/agentic-ai-success-hinges-on-high-quality-data-governance/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-f318ae25-f327-4623-a2fe-712e94a479f3.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-10-01 15:16:47"
-        },
-        {
-            "source": {
-                "name": "abcnews"
-            },
-            "title": "AOL's dial up internet takes its last bow, marking the end of an era",
-            "url": "https://abcnews.go.com/Technology/wireStory/aols-dial-internet-takes-bow-marking-end-era-126118836",
-            "urlToImage": "https://s.abcnews.com/images/US/wirestory_08162912737f2fb221f10ba87ce5fc41_4x3_384.jpg",
-            "publishedAt": "2025-10-01 15:16:17"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "AT&T Uses Gaming Ray Tracing to Enhance 5G Network Coverage",
-            "url": "https://www.webpronews.com/att-uses-gaming-ray-tracing-to-enhance-5g-network-coverage/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-f2b4cfa3-728c-4868-8d1e-ead32909fba6.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-10-01 15:12:13"
-        },
-        {
-            "source": {
-                "name": "bleepingcomputer"
-            },
-            "title": "Google Drive for desktop gets AI-powered ransomware detection",
-            "url": "https://www.bleepingcomputer.com/news/security/google-drive-for-desktop-gets-ai-powered-ransomware-detection/",
-            "urlToImage": "https://www.bleepstatic.com/content/hl-images/2025/10/01/Google-Drive.jpg",
-            "publishedAt": "2025-10-01 15:10:45"
-        },
-        {
-            "source": {
-                "name": "livemint"
-            },
-            "title": "OpenAI signs deal with Samsung, SK Hynix to source memory chips for Stargate project",
-            "url": "https://www.livemint.com/technology/tech-news/openai-signs-deal-with-samsung-sk-hynix-to-source-memory-chips-for-stargate-project-11759329858830.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2025/10/01/1600x900/logo/Samsung-OpenAI_LOI_1759331266820_1759331274157.jpg",
-            "publishedAt": "2025-10-01 15:08:39"
-        },
-        {
-            "source": {
-                "name": "executivebiz"
-            },
-            "title": "IonQ Recruits Retired Space Force Gen. John Raymond as Board Director",
-            "url": "https://www.executivebiz.com/articles/john-raymond-ionq-board-appointment",
-            "urlToImage": "https://media.executivebiz.com/2025/10/john-raymond-board-member-ionq.jpg",
-            "publishedAt": "2025-10-01 15:06:11"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "Physical AI - Building The Energy Infrastructure For Data Centers",
-            "url": "https://www.forbes.com/sites/sabbirrangwala/2025/10/01/physical-aibuilding-the-energy-infrastructure-for-data-centers/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68be0043ab37e18b7c7491f9/0x0.jpg?width=960",
-            "publishedAt": "2025-10-01 15:00:59"
-        },
-        {
-            "source": {
-                "name": "berkeley"
-            },
-            "title": "Former Air Force chief scientist to guide program development at Berkeley Space Center",
-            "url": "https://news.berkeley.edu/2025/10/01/former-air-force-chief-scientist-to-guide-program-development-at-berkeley-space-center/",
-            "urlToImage": "https://news.berkeley.edu/wp-content/uploads/2025/09/coleman-in-flight-suit-large-1024x585.jpg",
-            "publishedAt": "2025-10-01 15:00:00"
-        },
-        {
-            "source": {
-                "name": "news_fsu"
-            },
-            "title": "FSU ignites campus innovation with Google Gemini AI training event",
-            "url": "https://news.fsu.edu/news/science-technology/2025/10/01/fsu-ignites-campus-innovation-with-google-gemini-ai-training-event/",
-            "urlToImage": "http://news.fsu.edu/wp-content/uploads/2025/09/Under-Tent-edited-gemini-900x600.jpg",
-            "publishedAt": "2025-10-01 14:48:57"
-        },
-        {
-            "source": {
-                "name": "theguardian"
-            },
-            "title": "US jobs market yet to be seriously disrupted by AI, finds Yale study",
-            "url": "https://www.theguardian.com/technology/2025/oct/01/us-jobs-market-yet-to-be-seriously-disrupted-by-ai-yale-study-chatgpt",
-            "urlToImage": "https://i.guim.co.uk/img/media/748d484e08e1eeb3f46de8990a7ec1baf16ba43d/222_0_3237_2592/master/3237.jpg?crop=none&dpr=2&s=none&width=620",
-            "publishedAt": "2025-10-01 14:38:34"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Speedrun Your RAG: Build an AI Recommender for your Steam Library",
-            "url": "https://hackernoon.com/speedrun-your-rag-build-an-ai-recommender-for-your-steam-library",
-            "urlToImage": "https://hackernoon.imgix.net/images/1zg0gTsmPbNVlzBSOipPMvT2ymW2-dk03b2v.png",
-            "publishedAt": "2025-10-01 14:34:49"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "Gaming Worlds Could Be The Answer To AI’s Data Problem",
-            "url": "https://www.forbes.com/sites/rashishrivastava/2025/10/01/gaming-worlds-could-be-the-answer-to-ais-data-problem/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68dd3a0fb6ec642c14d7ca90/0x0.jpg?width=960",
-            "publishedAt": "2025-10-01 14:31:05"
-        },
-        {
-            "source": {
-                "name": "fortune"
-            },
-            "title": "Hollywood erupts as talent agents circle ‘AI actor’ Tilly Norwood: ‘Not surprised the first major AI actor is a young woman they can fully control’",
-            "url": "https://fortune.com/2025/10/01/tilly-norwood-ai-actress-backlash-hollywood-eline-van-der-velden-sag-aftra/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/tilly-norwood-ai-actress-1146558.jpg?w=2048",
-            "publishedAt": "2025-10-01 14:27:54"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "Maker Faires Could Help IEEE Create The Future",
-            "url": "https://www.forbes.com/sites/tomcoughlin/2025/10/01/maker-faires-could-help-ieee-create-the-future/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68dce98864ac23670becea90/0x0.jpg?width=960",
-            "publishedAt": "2025-10-01 14:18:59"
-        },
-        {
-            "source": {
-                "name": "bgr_com"
-            },
-            "title": "5 Best Apple AirTag Alternatives For Android That Cost Less Than $30",
-            "url": "https://www.bgr.com/1982082/best-apple-airtag-alternatives-android-cost-less-than-30-dollars/",
-            "urlToImage": "https://www.bgr.com/img/gallery/5-best-apple-airtag-alternatives-for-android-that-cost-less-than-30/l-intro-1759148546.jpg",
-            "publishedAt": "2025-10-01 14:17:00"
-        },
-        {
-            "source": {
-                "name": "fortune"
-            },
-            "title": "How this startup CTO went on to lead technology and AI for Thomson Reuters",
-            "url": "https://fortune.com/2025/10/01/how-this-startup-cto-went-on-to-lead-technology-and-ai-for-thomson-reuters/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/Joel-Hron-CTO-headshot-1.jpg?w=2048",
-            "publishedAt": "2025-10-01 14:13:12"
-        },
-        {
-            "source": {
-                "name": "lightreading"
-            },
-            "title": "FCC's Gomez warns cablecos about free speech attacks and broadband affordability",
-            "url": "https://www.lightreading.com/regulatory-politics/fcc-s-gomez-warns-cablecos-about-free-speech-attacks-and-broadband-affordability",
-            "urlToImage": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt00940ec72fef9bc3/68dd2f5d074fdc2ae2e9a65a/gomez-at-ncta-stage-scte-2025.png?auto=webp&disable=upscale&quality=80&width=1280",
-            "publishedAt": "2025-10-01 14:04:19"
         }
     ]
 }
