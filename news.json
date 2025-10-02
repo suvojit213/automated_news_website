@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-10-02T10:14:44.808005Z",
+    "lastUpdatedAt": "2025-10-02T11:11:59.236486Z",
     "articles": [
+        {
+            "source": {
+                "id": "85e5403407038478a5e7d8d100ff8e8f",
+                "name": "CP24 Toronto",
+                "url": "https://www.cp24.com",
+                "country": "ca"
+            },
+            "title": "Conversations will be used to sell you stuff",
+            "url": "https://www.cp24.com/news/world/2025/10/01/meta-will-soon-use-your-conversations-with-its-ai-chatbot-to-sell-you-stuff/",
+            "urlToImage": "https://www.cp24.com/resizer/v2/FD5XQX7LHZC75L4S3UVBNH7SVA.jpg?smart=true&auth=2a9639ff60180610a672078711d5b754f69a3651b68f292affdd737cf89da865&width=1200&height=630",
+            "publishedAt": "2025-10-01T23:06:38Z"
+        },
+        {
+            "source": {
+                "id": "26269dbc42635df9af8c24f3cdab8e37",
+                "name": "Cable News Network",
+                "url": "https://edition.cnn.com",
+                "country": "us"
+            },
+            "title": "Meta will soon use your conversations with its AI chatbot to sell you stuff",
+            "url": "https://edition.cnn.com/2025/10/01/tech/meta-ai-chatbot-targeted-ads",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2232888181.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2025-10-01T22:36:58Z"
+        },
+        {
+            "source": {
+                "id": "d5a02d07558c5563d72576efc406e608",
+                "name": "ABC17News.com",
+                "url": "https://abc17news.com",
+                "country": "us"
+            },
+            "title": "Meta will soon use your conversations with its AI chatbot to sell you stuff",
+            "url": "https://abc17news.com/money/cnn-business-consumer/2025/10/01/meta-will-soon-use-your-conversations-with-its-ai-chatbot-to-sell-you-stuff/",
+            "urlToImage": "https://abc17news.b-cdn.net/abc17news.com/2023/08/kmiz-860x484.webp",
+            "publishedAt": "2025-10-01T22:36:58Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Stock Market Today: Dow, S&P Live Updates for Oct. 2",
+            "url": "https://www.bloomberg.com/news/articles/2025-10-01/stock-market-today-dow-s-p-live-updates",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iIrIVHo8cK2w/v1/1200x800.jpg",
+            "publishedAt": "2025-10-01T22:30:03Z"
+        },
         {
             "source": {
                 "id": "5ac5f32ba74846cef441099f666f2d98",
@@ -1635,6 +1683,42 @@
         },
         {
             "source": {
+                "name": "headtopics"
+            },
+            "title": "Apple sidelines lighter Vision Pro to prioritize smart glasses",
+            "url": "https://us.headtopics.com/news/apple-sidelines-lighter-vision-pro-to-prioritize-smart-73810300",
+            "urlToImage": "https://i.headtopics.com/images/2025/9/30/cnbc/here-are-tuesday-s-biggest-analyst-calls-nvidia-ap-here-are-tuesday-s-biggest-analyst-calls-nvidia-ap-6E53523F604B5F1242482059DE2A7BF9.webp?w=640",
+            "publishedAt": "2025-10-01 23:09:23"
+        },
+        {
+            "source": {
+                "name": "headtopics"
+            },
+            "title": "T-Mobile whips out a forgotten tactic to make some of you pay more",
+            "url": "https://us.headtopics.com/news/t-mobile-whips-out-a-forgotten-tactic-to-make-some-of-you-73810456",
+            "urlToImage": "https://i.headtopics.com/images/2025/9/30/phonearena/t-mobile-s-mobile-cleaning-kit-giveaway-delayed-t-mobile-s-mobile-cleaning-kit-giveaway-delayed-A426717CA51BA108A795F986BA50C0EB.webp?w=640",
+            "publishedAt": "2025-10-01 23:09:14"
+        },
+        {
+            "source": {
+                "name": "androidheadlines"
+            },
+            "title": "Qualcomm to Adopt Arm's v9 for its Next-Gen Flagship Chips",
+            "url": "https://www.androidheadlines.com/2025/10/qualcomm-adopt-arm-v9-architecture-flagship-chips.html",
+            "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2024/02/AH-Qualcomm-Logo-2-1-1420x799.webp",
+            "publishedAt": "2025-10-01 22:42:40"
+        },
+        {
+            "source": {
+                "name": "headtopics"
+            },
+            "title": "Polestar 3 gets high-powered update for 2026 | Car News",
+            "url": "https://us.headtopics.com/news/polestar-3-gets-high-powered-update-for-2026-car-news-73809762",
+            "urlToImage": "https://i.headtopics.com/images/2025/9/30/motortrend/2026-subaru-crosstrek-hybrid-first-drive-finally-p-2026-subaru-crosstrek-hybrid-first-drive-finally-p-89E25130B0865E5EC36A088B41CB05A2.webp?w=640",
+            "publishedAt": "2025-10-01 22:39:34"
+        },
+        {
+            "source": {
                 "name": "nwitimes"
             },
             "title": "PsiQuantum breaks ground on quantum computing park at former U.S. Steel South Works mill",
@@ -3036,81 +3120,6 @@
             "url": "https://elkodaily.com/article_03ff6d44-50a5-4f09-a8ab-04250c564245.html",
             "urlToImage": "https://bloximages.chicago2.vip.townnews.com/elkodaily.com/content/tncms/custom/image/dee0d580-d317-11e9-afab-e39e7dd6e3ca.png?resize=200%2C200",
             "publishedAt": "2025-10-01 00:34:57"
-        },
-        {
-            "source": {
-                "name": "magicvalley"
-            },
-            "title": "Amazon unveils new AI-powered devices",
-            "url": "https://magicvalley.com/article_523177b2-6462-44cd-9ab7-f396b6d766d7.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/magicvalley.com/content/tncms/custom/image/598cea12-c548-11ea-8c5d-3f5d3349e5f2.jpg?resize=600%2C315",
-            "publishedAt": "2025-10-01 00:34:05"
-        },
-        {
-            "source": {
-                "name": "globegazette"
-            },
-            "title": "Amazon unveils new AI-powered devices",
-            "url": "https://globegazette.com/article_ff7f8d25-aaef-47d7-8e36-9f2818bbe93b.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/globegazette.com/content/tncms/custom/image/4a008fc8-c542-11ea-80d0-f71aedfaa0ef.jpg?resize=600%2C315",
-            "publishedAt": "2025-10-01 00:12:47"
-        },
-        {
-            "source": {
-                "name": "headtopics"
-            },
-            "title": "New lab-built neuron mirrors real brain cells in energy, runs on just 0.1 volts",
-            "url": "https://us.headtopics.com/news/new-lab-built-neuron-mirrors-real-brain-cells-in-energy-73758470",
-            "urlToImage": "https://i.headtopics.com/images/2025/9/29/pagesix/how-to-watch-below-deck-mediterranean-season-10-fo-how-to-watch-below-deck-mediterranean-season-10-fo-24D3F39F963AAA3010ED136E451D467C.webp?w=640",
-            "publishedAt": "2025-10-01 00:09:54"
-        },
-        {
-            "source": {
-                "name": "auburnpub"
-            },
-            "title": "Amazon unveils new AI-powered devices",
-            "url": "https://auburnpub.com/article_13ba4798-13fb-4d07-a32e-5b4f553827ef.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/auburnpub.com/content/tncms/custom/image/d462ca50-9db1-11ee-8fb0-3769c4efa055.png?resize=600%2C315",
-            "publishedAt": "2025-10-01 00:07:33"
-        },
-        {
-            "source": {
-                "name": "newswise"
-            },
-            "title": "New Grant Supports Study of AI's Role in Protecting Cybersecurity Systems",
-            "url": "https://www.newswise.com/articles/new-grant-supports-study-of-ai-s-role-in-protecting-cybersecurity-systems/?sc=rsla",
-            "urlToImage": "https://www.newswise.com/legacy/image.php?image=https%3A%2F%2Fnews.vt.edu%2Fcontent%2Fnews_vt_edu%2Fen%2Farticles%2F2025%2F09%2Feng-cs-beyond-harms-Viswanath-AI-security-systems%2Fjcr%3Acontent%2Farticle-image.transform%2Fxl-medium%2Fimage.jpg",
-            "publishedAt": "2025-10-01 00:06:48"
-        },
-        {
-            "source": {
-                "name": "fastcompany"
-            },
-            "title": "The rise of the “new-collar” workforce",
-            "url": "https://www.fastcompany.com/91413610/the-rise-of-the-new-collar-workforce",
-            "urlToImage": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2025/09/INC-Masters-Fast-Company-publishing-19-1.png",
-            "publishedAt": "2025-10-01 00:00:00"
-        },
-        {
-            "source": {
-                "name": "financialcontent"
-            },
-            "title": "A Once-in-a-Decade Opportunity: 17 Billion Reasons to Pay Attention to This Monster Artificial Intelligence (AI) Infrastructure Company (Hint: Not Nvidia)",
-            "url": "https://www.fool.com/investing/2025/10/01/a-once-in-a-decade-opportunity-17-billion-reasons/",
-            "urlToImage": "https://g.foolcdn.com/image/?h=400&op=resize&url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F835258%2Fbusinesswoman_talking_with_a_colleague_in_a_meeting.jpg&w=400",
-            "publishedAt": "2025-10-01 00:00:00"
-        },
-        {
-            "source": {
-                "id": "28bc60a23a7bf89e60f893506992a3fe",
-                "name": "Daily Excelsior",
-                "url": "https://www.dailyexcelsior.com",
-                "country": "in"
-            },
-            "title": "Himachal: Kullu police to use AI for surveillance during international Dussehra festival",
-            "url": "https://www.dailyexcelsior.com/himachal-kullu-police-to-use-ai-for-surveillance-during-international-dussehra-festival/",
-            "urlToImage": "https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2025/09/kullu.jpg",
-            "publishedAt": "2025-09-30T23:57:38Z"
         }
     ]
 }
