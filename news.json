@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-10-02T08:19:53.877329Z",
+    "lastUpdatedAt": "2025-10-02T09:15:50.850148Z",
     "articles": [
+        {
+            "source": {
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
+                "country": "us"
+            },
+            "title": "Elon Musk announces xAI building 'Grokipedia' to rival Wikipedia amid bias accusations",
+            "url": "https://nypost.com/2025/10/01/business/elon-musk-announces-xai-building-grokipedia-to-rival-wikipedia-amid-bias-accusations/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/10/2025-washington-dc-musk-served-112585589.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2025-10-01T20:24:27Z"
+        },
         {
             "source": {
                 "id": "f1bf32bc7d2c9750240a24442fde5232",
@@ -1575,6 +1587,33 @@
         },
         {
             "source": {
+                "name": "pcmag"
+            },
+            "title": "Sam Altman Admits Sora 2 'Slop' Feed Is a Money Grab to Fund GPUs",
+            "url": "https://www.pcmag.com/news/sam-altman-admits-sora-2-slop-feed-is-a-money-grab-to-fund-gpus",
+            "urlToImage": "https://i.pcmag.com/imagery/articles/01JWWfDgydDMmlfLHSkPdNq-1..v1759349187.jpg",
+            "publishedAt": "2025-10-01 21:05:23"
+        },
+        {
+            "source": {
+                "name": "siliconangle"
+            },
+            "title": "AI inference boom sparks wave of global data center expansion",
+            "url": "https://siliconangle.com/2025/10/01/inference-demand-data-center-aifactoriesdatacenters/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/09/Andrew-Feldman-founder-and-chief-executive-officer-of-Cerebras-Systems-Inc-theCUBE-and-NYSE-Wired-AI-Factories-Data-Centers-of-the-Future.jpg",
+            "publishedAt": "2025-10-01 21:00:37"
+        },
+        {
+            "source": {
+                "name": "bleepingcomputer"
+            },
+            "title": "Data breach at dealership software provider impacts 766k clients",
+            "url": "https://www.bleepingcomputer.com/news/security/data-breach-at-dealership-software-provider-impacts-766k-clients/",
+            "urlToImage": "https://www.bleepstatic.com/content/hl-images/2025/10/01/Motility.jpg",
+            "publishedAt": "2025-10-01 20:37:08"
+        },
+        {
+            "source": {
                 "name": "analyticsinsight"
             },
             "title": "Top Data Analytics Tools in 2025",
@@ -3096,54 +3135,6 @@
             "url": "https://www.livemint.com/news/us-news/ai-meets-pediatric-cancer-trump-signs-order-to-accelerate-research-and-cure-11759268144651.html",
             "urlToImage": "https://www.livemint.com/lm-img/img/2025/09/30/1600x900/logo/US-POITICS-TRUMP-16_1759268624514_1759268635444.jpg",
             "publishedAt": "2025-09-30T21:44:47Z"
-        },
-        {
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            },
-            "title": "AI tool helps researchers treat child epilepsy",
-            "url": "https://japantoday.com/category/features/health/ai-tool-helps-researchers-treat-child-epilepsy",
-            "urlToImage": "https://media.japantoday.com/img/store/9b/04/9ae159f76657eb9cba74bc3978ffa6885452/ce2facff1fa61d26a961db1b63380d57f76b2e1f/_w1700.jpeg",
-            "publishedAt": "2025-09-30T21:24:00Z"
-        },
-        {
-            "source": {
-                "id": "2b8e9cf94b4b7463c6aee33c1d6df71b",
-                "name": "Chicago Tribune",
-                "url": "https://www.chicagotribune.com",
-                "country": "us"
-            },
-            "title": "Amazon unveils new generation of AI-powered Kindle",
-            "url": "https://www.chicagotribune.com/2025/09/30/amazon-ai-powered-kindle/",
-            "urlToImage": "https://www.chicagotribune.com/wp-content/uploads/2025/09/Amazon_New_Devices_01426-1.jpg?w=1024&h=683",
-            "publishedAt": "2025-09-30T21:23:02Z"
-        },
-        {
-            "source": {
-                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-                "name": "WTOP",
-                "url": "https://wtop.com",
-                "country": "us"
-            },
-            "title": "generated videos. Some are worried about a flood of ‘AI slop’",
-            "url": "https://wtop.com/lifestyle/2025/09/openais-sora-joins-meta-in-pushing-ai-generated-videos-some-are-worried-about-a-flood-of-ai-slop/",
-            "urlToImage": "https://wtop.com/wp-content/uploads/2025/09/Trump_14943-scaled.jpg",
-            "publishedAt": "2025-09-30T21:18:16Z"
-        },
-        {
-            "source": {
-                "id": "8da923084554b2821233d6c5c5f02c97",
-                "name": "Fox News",
-                "url": "https://www.foxnews.com",
-                "country": "us"
-            },
-            "title": "Trump signs executive order using AI for pediatric cancer",
-            "url": "https://www.foxnews.com/politics/trump-signs-executive-order-harness-ai-fight-against-childhood-cancers",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/trump-letter-new-citizens.jpg",
-            "publishedAt": "2025-09-30T21:16:33Z"
         }
     ]
 }
