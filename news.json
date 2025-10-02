@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-10-02T13:23:30.788521Z",
+    "lastUpdatedAt": "2025-10-02T14:14:34.568776Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "How to use tech in the garden and still keep your serenity",
+            "url": "https://www.thestar.com.my/tech/tech-news/2025/10/02/how-to-use-tech-in-the-garden-and-still-keep-your-serenity",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/01/3548549.jpg",
+            "publishedAt": "2025-10-02T02:00:00Z"
+        },
+        {
+            "source": {
+                "id": "1b40b878c09151e8cf44a095bc8569a5",
+                "name": "ETF Daily News",
+                "url": "https://www.etfdailynews.com",
+                "country": "us"
+            },
+            "title": "Short Interest in Artificial Intelligence Technology Solutions Inc. (OTCMKTS:AITX) Increases By 6,612.2%",
+            "url": "https://www.etfdailynews.com/2025/10/02/short-interest-in-artificial-intelligence-technology-solutions-inc-otcmktsaitx-increases-by-6612-2/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/artificial-intelligence-technology-solutions-inc-logo-1200x675.png?v=20211103153737&w=240&h=240&zc=2",
+            "publishedAt": "2025-10-02T01:56:56Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Cyber Group Extorts Executives After Claiming Oracle Apps Breach",
+            "url": "https://www.bloomberg.com/news/articles/2025-10-02/cyber-group-extorting-executives-with-claims-of-stolen-data",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/it2kAxCT5C0A/v0/1200x796.jpg",
+            "publishedAt": "2025-10-02T01:37:37Z"
+        },
         {
             "source": {
                 "id": "3bd4bd306c42647825fa42989624c036",
@@ -96,6 +132,24 @@
             "url": "https://www.globenewswire.com/news-release/2025/10/02/3160366/0/en/Acronis-and-CyberCert-Partner-to-Empower-MSPs-in-Australia-with-SMB1001-Certification-Pathways.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/f70be083-b458-42fe-b575-529c5c261088",
             "publishedAt": "2025-10-02T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "Forensic vibers wanted - and 10 other new job roles AI could create",
+            "url": "https://www.zdnet.com/article/forensic-vibers-wanted-and-10-other-new-job-roles-ai-could-create/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/87d32643a27e5b48a5bbec9361a510ea79920fa3/2025/10/01/5853f888-dbab-4f6b-ad54-f6d7311fe681/walktodigitalgettyimages-2212586587.jpg?auto=webp&width=1280",
+            "publishedAt": "2025-10-02 02:00:27"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "How to record a phone call on your iPhone (and check if it's even legal)",
+            "url": "https://www.zdnet.com/article/how-to-record-a-phone-call-on-your-iphone-and-check-if-its-even-legal/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/b7536e8871dcc4af147e6f1b44372867f27006a4/2025/10/01/cedf5032-d6d0-475a-905a-1428c7bffc72/9.jpg?auto=webp&width=1280",
+            "publishedAt": "2025-10-02 02:00:00"
         },
         {
             "source": {
@@ -3099,51 +3153,6 @@
             "url": "https://www.deccanchronicle.com/technology/openai-launches-sora-2-with-tiktok-style-app-1907330",
             "urlToImage": "https://www.deccanchronicle.com/h-upload/2025/10/01/1963526-screenshot-2025-10-01-at-110706.jpg",
             "publishedAt": "2025-10-01 05:39:42"
-        },
-        {
-            "source": {
-                "name": "menafn"
-            },
-            "title": "Amazon Unveils Next-Gen Echo Lineup With Smarter Features Powered By Alexa+",
-            "url": "https://menafn.com/1110134744/Amazon-Unveils-Next-Gen-Echo-Lineup-With-Smarter-Features-Powered-By-Alexa",
-            "urlToImage": "https://menafn.com/updates/pr/2025-10/01/AN_f9dccimage_story.jpg",
-            "publishedAt": "2025-10-01 05:00:54"
-        },
-        {
-            "source": {
-                "name": "economictimes_indiatimes"
-            },
-            "title": "Together Fund launches programme to back early-stage AI startups",
-            "url": "https://economictimes.indiatimes.com/tech/funding/together-fund-launches-programme-to-back-early-stage-ai-startups/articleshow/124255984.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-29596,resizemode-75,msid-124255984/tech/funding/together-fund-launches-programme-to-back-early-stage-ai-startups.jpg",
-            "publishedAt": "2025-10-01 04:49:09"
-        },
-        {
-            "source": {
-                "name": "expresscomputer"
-            },
-            "title": "The Future of Data Center Security: What Businesses Must Know",
-            "url": "https://www.expresscomputer.in/news/the-future-of-data-center-security-what-businesses-must-know/128277/",
-            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2014/07/06102054/data-centre.jpg",
-            "publishedAt": "2025-10-01 04:23:49"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Moxie Marlinspike: The Cypherpunk Pirate Who Built Signal",
-            "url": "https://hackernoon.com/moxie-marlinspike-the-cypherpunk-pirate-who-built-signal",
-            "urlToImage": "https://hackernoon.imgix.net/images/AO3i53agltRgq8NH0cq0AaViIh42-g85360s.jpeg",
-            "publishedAt": "2025-10-01 04:15:23"
-        },
-        {
-            "source": {
-                "name": "expresscomputer"
-            },
-            "title": "Check Point Enters Next Level of Strategic Partnership with Wiz to Deliver Integrated CNAPP and Cloud Network Security Solution",
-            "url": "https://www.expresscomputer.in/news/check-point-enters-next-level-of-strategic-partnership-with-wiz-to-deliver-integrated-cnapp-and-cloud-network-security-solution/128265/",
-            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2021/06/24123442/partnership-EC.jpg",
-            "publishedAt": "2025-10-01 04:01:11"
         }
     ]
 }
