@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2025-10-02T12:30:04.433417Z",
+    "lastUpdatedAt": "2025-10-02T13:23:30.788521Z",
     "articles": [
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "In a sea of tech talent, companies can’t find the workers they want",
+            "url": "https://www.livemint.com/global/in-a-sea-of-tech-talent-companies-can-t-find-the-workers-they-want-11759367419417.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2025/10/02/1600x900/logo/g5913419e953482a873e5bc4f8800ff2bed44949f96260fbac_1759367587273_1759367587370.png",
+            "publishedAt": "2025-10-02T01:15:02Z"
+        },
+        {
+            "source": {
+                "id": "dcb757ba5480d7edec9ca152d58b7d3d",
+                "name": "Swissinfo (EN)",
+                "url": "https://www.swissinfo.ch",
+                "country": "ch"
+            },
+            "title": "Asian Shares Gain, Tech Rallies on Samsung-OpenAI: Markets Wrap",
+            "url": "https://www.swissinfo.ch/eng/asian-shares-gain%2c-tech-rallies-on-samsung-openai%3a-markets-wrap/90101331",
+            "urlToImage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1756933286",
+            "publishedAt": "2025-10-02T01:02:33Z"
+        },
+        {
+            "source": {
+                "id": "c6075ba0dc9d123bb327faaa419d3d07",
+                "name": "The Motley Fool Australia",
+                "url": "https://www.fool.com.au",
+                "country": "au"
+            },
+            "title": "Macquarie tips 24% upside on NextDC shares",
+            "url": "https://www.fool.com.au/2025/10/02/macquarie-tips-24-upside-on-nextdc-shares/",
+            "urlToImage": "https://www.fool.com.au/wp-content/uploads/2021/11/Data-Centre-16.9-1200x675.jpg",
+            "publishedAt": "2025-10-02T00:59:46Z"
+        },
+        {
+            "source": {
+                "id": "10cbfb3760cfcdeb78c733c527f0e814",
+                "name": "iTWire",
+                "url": "https://itwire.com",
+                "country": "au"
+            },
+            "title": "Balancing Innovation and Risk with GenAI",
+            "url": "https://itwire.com/guest-articles/guest-opinion/balancing-innovation-and-risk-with-genai.html",
+            "urlToImage": "https://itwire.com/media/k2/items/cache/cd63a5c7d3cffd5ba5fb0fbe049857d8_XS.jpg",
+            "publishedAt": "2025-10-02T00:51:10Z"
+        },
+        {
+            "source": {
+                "id": "60c457b35b486691319f105c3a760060",
+                "name": "Malayala Manorama",
+                "url": "https://www.onmanorama.com",
+                "country": "in"
+            },
+            "title": "‘Virtual arrest’ horror: How Kochi woman was duped of ₹2.88 cr by fake judge and cops",
+            "url": "https://www.onmanorama.com/news/kerala/2025/10/01/virtual-arrest-scam-kochi.html",
+            "urlToImage": "https://img.onmanorama.com/content/dam/mm/en/archive/kerala/top-news/images/2025/8/27/digital-arrest.jpg",
+            "publishedAt": "2025-10-02T00:41:26Z"
+        },
         {
             "source": {
                 "id": "736870a2b1a320473f05d8f8015bf089",
@@ -24,6 +84,36 @@
             "url": "https://www.globenewswire.com/news-release/2025/10/02/3160174/0/en/Scality-and-Inria-partner-to-develop-intelligent-sovereign-and-eco-responsible-data-storage-powered-by-AI-for-France-2030.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/861fce33-59c5-4b5e-a806-b43d0ed56ed4",
             "publishedAt": "2025-10-02T00:00:00Z"
+        },
+        {
+            "source": {
+                "id": "8e9ab8327c5f7903cc1b50470411d165",
+                "name": "GlobeNewswire",
+                "url": "https://www.globenewswire.com",
+                "country": "us"
+            },
+            "title": "Acronis and CyberCert Partner to Empower MSPs in Australia",
+            "url": "https://www.globenewswire.com/news-release/2025/10/02/3160366/0/en/Acronis-and-CyberCert-Partner-to-Empower-MSPs-in-Australia-with-SMB1001-Certification-Pathways.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/f70be083-b458-42fe-b575-529c5c261088",
+            "publishedAt": "2025-10-02T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "xda_developers"
+            },
+            "title": "4 Docker containers that actually make use of your GPU",
+            "url": "https://www.xda-developers.com/docker-containers-that-use-your-gpu/",
+            "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/05/ollama-home-assistant.jpg",
+            "publishedAt": "2025-10-02 01:00:20"
+        },
+        {
+            "source": {
+                "name": "hindustantimes"
+            },
+            "title": "End of the road for Windows 10, OpenAI’s priorities and YouTube Premium Lite",
+            "url": "https://www.hindustantimes.com/technology/end-of-the-road-for-windows-10-openai-s-priorities-and-youtube-premium-lite-101759342168096.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/10/01/1600x900/logo/Windows10_1759342216423_1759342260712.png",
+            "publishedAt": "2025-10-02 00:30:20"
         },
         {
             "source": {
@@ -3054,78 +3144,6 @@
             "url": "https://www.expresscomputer.in/news/check-point-enters-next-level-of-strategic-partnership-with-wiz-to-deliver-integrated-cnapp-and-cloud-network-security-solution/128265/",
             "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2021/06/24123442/partnership-EC.jpg",
             "publishedAt": "2025-10-01 04:01:11"
-        },
-        {
-            "source": {
-                "name": "toi"
-            },
-            "title": "Amazon launches four new Echo devices powered Alexa+",
-            "url": "https://timesofindia.indiatimes.com/technology/audio/amazon-launches-four-new-echo-devices-powered-by-its-ai-alexa/articleshow/124247340.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-124247322,imgsize-117254,width-400,resizemode-4/amazon.jpg",
-            "publishedAt": "2025-10-01 03:57:38"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Hands-On WPA Cracking — Capture, Convert, Crack with Hashcat",
-            "url": "https://hackernoon.com/hands-on-wpa-cracking-capture-convert-crack-with-hashcat",
-            "urlToImage": "https://hackernoon.imgix.net/images/na1LA50pIxdXCxwaer7ISkWR5q52-3t03k1w.png",
-            "publishedAt": "2025-10-01 03:29:56"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "How I Trained A Small Language Model From Scratch",
-            "url": "https://hackernoon.com/how-i-trained-a-small-language-model-from-scratch",
-            "urlToImage": "https://hackernoon.imgix.net/images/jWT6jJ6PpWP1LeYHD6r2CKVsV2r2-u703eog.jpeg",
-            "publishedAt": "2025-10-01 03:08:52"
-        },
-        {
-            "source": {
-                "name": "newswise"
-            },
-            "title": "Next Generation of Exascale Computing Experts Inspired by Speakers, Hands-on Learning at Argonne Training Program",
-            "url": "https://www.newswise.com/articles/next-generation-of-exascale-computing-experts-inspired-by-speakers-hands-on-learning-at-argonne-training-program/?sc=rsla",
-            "urlToImage": "https://www.newswise.com/legacy/image.php?height=334&image=%2Fimages%2Fuploads%2F2025%2F09%2F30%2F68dc071565715_16x9-ATPESC2025GROUPSt.CharlesILandANLTourPRINT.jpg&time=11%3A12%3A28pm&width=502",
-            "publishedAt": "2025-10-01 02:53:34"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Exploring Machine Learning Techniques for LTV/CLV Prediction",
-            "url": "https://hackernoon.com/exploring-machine-learning-techniques-for-ltvclv-prediction",
-            "urlToImage": "https://hackernoon.imgix.net/images/SZePNvD5QddwfAVEJH4NuxB3oTX2-az03gcs.png",
-            "publishedAt": "2025-10-01 02:39:36"
-        },
-        {
-            "source": {
-                "name": "channelnewsasia"
-            },
-            "title": "Seize the AI advantage with business-ready solutions that are practical, affordable and made easy for SMEs",
-            "url": "https://www.channelnewsasia.com/brand-studio/seize-ai-advantage-business-ready-solutions-are-practical-affordable-and-made-easy-smes-5349706",
-            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--iCYf5o79--/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2025/09/15/bstudio_canon-story2_heroimg.jpg?itok=ZHqiHI3T",
-            "publishedAt": "2025-10-01 01:59:00"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "Massive Leap For AI Neoclouds With Deal Between Nebius And Microsoft",
-            "url": "https://www.forbes.com/sites/tiriasresearch/2025/09/30/massive-leap-for-ai-neoclouds-with-deal-between-nebius-and-microsoft/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68dc866b4b03029c6beacc71/0x0.jpg?width=960",
-            "publishedAt": "2025-10-01 01:47:35"
-        },
-        {
-            "source": {
-                "name": "dailygazette"
-            },
-            "title": "Amazon is overhauling its devices to take on Apple in the AI era",
-            "url": "https://www.dailygazette.com/tribune/amazon-is-overhauling-its-devices-to-take-on-apple-in-the-ai-era/article_378fbf10-1a21-50d4-9b9d-4b677a50468b.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/dailygazette.com/content/tncms/assets/v3/editorial/a/7d/a7d3d130-6c1c-5a34-b3bd-c43ebca6cf63/68dc886d17632.image.jpg?resize=300%2C200",
-            "publishedAt": "2025-10-01 01:32:00"
         }
     ]
 }
