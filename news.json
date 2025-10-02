@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-10-02T20:16:02.289205Z",
+    "lastUpdatedAt": "2025-10-02T21:13:16.392150Z",
     "articles": [
+        {
+            "source": {
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
+                "country": "in"
+            },
+            "title": "Actor Shraddha Srinath interview: On ‘The Game’, cybersecurity and completing 10 years in films",
+            "url": "https://www.thehindu.com/entertainment/movies/actor-shraddha-srinath-interview-on-the-game-cybersecurity-and-completing-10-years-in-films/article70116719.ece",
+            "urlToImage": "https://th-i.thgim.com/public/entertainment/movies/na3yxu/article70116727.ece/alternates/LANDSCAPE_1200/DSC_3994.JPG",
+            "publishedAt": "2025-10-02T08:52:17Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Germany's DeepL is considering going public in US, Bloomberg reports",
+            "url": "https://www.reuters.com/en/germanys-deepl-is-considering-going-public-us-bloomberg-reports-2025-10-02/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-10-02T08:42:53Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Samsung, SK hynix to supply chips to OpenAI",
+            "url": "https://www.tribuneindia.com/news/business/samsung-sk-hynix-to-supply-chips-to-openai/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWEzZThiZjAwLTlmNjgtMTFmMC04NjMyLTFiZGZhNzM3NzM5Zi5qcGc=",
+            "publishedAt": "2025-10-02T08:20:17Z"
+        },
         {
             "source": {
                 "id": "73aabc646bff1356a46223f250cc6b52",
@@ -444,6 +480,45 @@
             "url": "https://www.globenewswire.com/news-release/2025/10/02/3160366/0/en/Acronis-and-CyberCert-Partner-to-Empower-MSPs-in-Australia-with-SMB1001-Certification-Pathways.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/f70be083-b458-42fe-b575-529c5c261088",
             "publishedAt": "2025-10-02T00:00:00Z"
+        },
+        {
+            "source": {
+                "id": "a0300bc9a6e9d5b317bd6f614767231f",
+                "name": "Forbes",
+                "url": "https://www.forbes.com",
+                "country": "us"
+            },
+            "title": "Government Shutdown Leaves US Cyber Defenses Weaker, Insiders Say",
+            "url": "https://www.forbes.com/sites/thomasbrewster/2025/10/02/government-shutdown-cisa-weaker-insiders-say/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68ded5a83b6527a85f70cf17/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-10-02T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "thecsrjournal"
+            },
+            "title": "Meet the Chennai Boy Who Became India’s Youngest Billionaire at 31 with an AI Startup",
+            "url": "https://thecsrjournal.in/aravind-srinivas-chennai-boy-became-india-youngest-billionaire-ai-startup/",
+            "urlToImage": "https://thecsrjournal.in/wp-content/uploads/2025/10/perplexity-PM-featured.jpg",
+            "publishedAt": "2025-10-02 09:05:04"
+        },
+        {
+            "source": {
+                "name": "postandcourier"
+            },
+            "title": "Editorial: Since SC doesn't even know how many data centers we have, how can we need more?",
+            "url": "https://www.postandcourier.com/opinion/editorials/editorial-since-sc-doesnt-even-know-how-many-data-centers-we-have-how-can-we/article_a218de88-42b6-49bb-adb8-9ba80fecd256.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/f/96/f967d5b9-f7bc-42ec-9acf-e99bb4df381e/67b773f915b11.image.jpg?resize=400%2C267",
+            "publishedAt": "2025-10-02 09:02:00"
+        },
+        {
+            "source": {
+                "name": "news18"
+            },
+            "title": "Opinion | India’s AI Strategy Has To Incorporate Job Losses And Social Impact",
+            "url": "https://www.news18.com/opinion/opinion-indias-ai-strategy-has-to-incorporate-job-losses-and-social-impact-ws-kl-9610032.html",
+            "urlToImage": "https://images.news18.com/ibnlive/uploads/2025/08/Artificial-Intelligence-2025-08-834371137027a35e3ee79273bb078921-3x2.jpg",
+            "publishedAt": "2025-10-02 08:43:37"
         },
         {
             "source": {
@@ -3168,69 +3243,6 @@
             "url": "https://www.lightreading.com/regulatory-politics/fcc-s-gomez-warns-cablecos-about-free-speech-attacks-and-broadband-affordability",
             "urlToImage": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt00940ec72fef9bc3/68dd2f5d074fdc2ae2e9a65a/gomez-at-ncta-stage-scte-2025.png?auto=webp&disable=upscale&quality=80&width=1280",
             "publishedAt": "2025-10-01 14:04:19"
-        },
-        {
-            "source": {
-                "name": "phys"
-            },
-            "title": "Laser pulses in graphene control electrons with lightning speed and nanometer precision",
-            "url": "https://phys.org/news/2025-10-laser-pulses-graphene-electrons-lightning.html",
-            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2025/graphene-steers-electr.jpg",
-            "publishedAt": "2025-10-01 13:06:03"
-        },
-        {
-            "source": {
-                "name": "eagletribune"
-            },
-            "title": "EdgeMode and SUB1 Announce Strategic Partnership to Accelerate Data Center Projects in Europe",
-            "url": "https://www.eagletribune.com/region/edgemode-and-sub1-announce-strategic-partnership-to-accelerate-data-center-projects-in-europe/article_a308772d-2976-5d32-a11a-df457d01ec02.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333",
-            "publishedAt": "2025-10-01 13:03:02"
-        },
-        {
-            "source": {
-                "name": "economictimes_indiatimes"
-            },
-            "title": "Qualcomm shifts chips to newer Arm tech as competition with Apple, MediaTek heats up",
-            "url": "https://economictimes.indiatimes.com/tech/technology/qualcomm-shifts-chips-to-newer-arm-tech-as-competition-with-apple-mediatek-heats-up/articleshow/124259991.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-70192,resizemode-75,msid-124259991/tech/technology/qualcomm-shifts-chips-to-newer-arm-tech-as-competition-with-apple-mediatek-heats-up.jpg",
-            "publishedAt": "2025-10-01 13:02:00"
-        },
-        {
-            "source": {
-                "name": "milescitystar"
-            },
-            "title": "Cubic Rebrands Advanced Communications System to Vector(TM)",
-            "url": "https://www.milescitystar.com/ap_news/montana/cubic-rebrands-advanced-communications-system-to-vector-tm/article_c20437a6-3e5b-5586-a6a5-0c5bcb1e9462.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/milescitystar.com/content/tncms/custom/image/d356975e-8c50-11ed-9099-03a8030ff894.png?resize=600%2C315",
-            "publishedAt": "2025-10-01 13:01:50"
-        },
-        {
-            "source": {
-                "name": "channelnewsasia"
-            },
-            "title": "Exclusive-Qualcomm shifts chips to newer Arm tech as competition with Apple, MediaTek heats up",
-            "url": "https://www.channelnewsasia.com/business/exclusive-qualcomm-shifts-chips-newer-arm-tech-competition-apple-mediatek-heats-up-5380086",
-            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--sp50LRil--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2025-10-01T130030Z_1_LYNXNPEL901TB_RTROPTP_3_QUALCOMM-RESULTS.JPG?itok=d2QuRCBf",
-            "publishedAt": "2025-10-01 13:00:30"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "How to Run a RAG Powered Language Model on Android With the Help of MediaPipe",
-            "url": "https://hackernoon.com/how-to-run-a-rag-powered-language-model-on-android-with-the-help-of-mediapipe",
-            "urlToImage": "https://hackernoon.imgix.net/images/jDpmEvX2s9NOjteuQqYzwKALIDn2-eu522ra.png",
-            "publishedAt": "2025-10-01 13:00:03"
-        },
-        {
-            "source": {
-                "name": "wired"
-            },
-            "title": "This Startup Wants to Put Its Brain-Computer Interface in the Apple Vision Pro",
-            "url": "https://www.wired.com/story/this-startup-wants-to-put-its-brain-computer-interface-in-the-apple-vision-pro/",
-            "urlToImage": "https://media.wired.com/photos/68dc4181ea8a1d24d4f825b1/master/w_120,c_limit/Brain-Computer-Interface-App-in-Apple-Vision-Pro-Science-2198799850.jpg",
-            "publishedAt": "2025-10-01 13:00:00"
         }
     ]
 }
