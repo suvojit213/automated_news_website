@@ -1,6 +1,138 @@
 {
-    "lastUpdatedAt": "2025-10-02T01:07:48.694852Z",
+    "lastUpdatedAt": "2025-10-02T02:53:57.642467Z",
     "articles": [
+        {
+            "source": {
+                "id": "eaeed30dacd1269c1893de860c94a7e7",
+                "name": "USA TODAY",
+                "url": "https://www.usatoday.com",
+                "country": "us"
+            },
+            "title": "ChatGPT is dishing out questionable advice. Parents are eating it up.",
+            "url": "https://www.usatoday.com/story/life/health-wellness/2025/10/01/parenting-ai-artificial-intelligence/86369463007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/10/01/USAT/86454674007-getty-images-1308972353.jpg?crop=2120,1193,x0,y0&width=2120&height=1193&format=pjpg&auto=webp",
+            "publishedAt": "2025-10-01T14:22:21Z"
+        },
+        {
+            "source": {
+                "id": "e98c4d2585c4c5661ffe60fed4d51930",
+                "name": "BOL News",
+                "url": "https://www.bolnews.com",
+                "country": "pk"
+            },
+            "title": "Pakistan’s new AI policy could reshape Economy, Opens 1 Million jobs",
+            "url": "https://www.bolnews.com/technology/2025/10/pakistans-new-ai-policy-could-reshape-economy-opens-1-million-jobs/",
+            "urlToImage": "https://www.bolnews.com/wp-content/uploads/2025/10/FotoJet-2025-10-01T183830.540.jpg",
+            "publishedAt": "2025-10-01T14:18:32Z"
+        },
+        {
+            "source": {
+                "id": "a6d401909ca644c4ffb332486c9cfaea",
+                "name": "Seeking Alpha",
+                "url": "https://seekingalpha.com",
+                "country": "us"
+            },
+            "title": "Snowflake receives Overweight rating due to better execution, end market growth: Wells Fargo",
+            "url": "https://seekingalpha.com/news/4500696-snowflake-receives-overweight-rating-due-to-better-execution-end-market-growth-wells-fargo",
+            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1420340214/image_1420340214.jpg?io=getty-c-w750",
+            "publishedAt": "2025-10-01T14:16:16Z"
+        },
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "Microsoft wants to mainly use its own AI chips in the future",
+            "url": "https://www.cnbc.com/2025/10/01/microsoft-wants-to-mainly-use-its-own-ai-chips-in-the-future.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107418128-1716325455581-gettyimages-2153485310-AFP_34TF72X.jpeg?v=1759323413&w=1920&h=1080",
+            "publishedAt": "2025-10-01T14:07:20Z"
+        },
+        {
+            "source": {
+                "id": "a6d401909ca644c4ffb332486c9cfaea",
+                "name": "Seeking Alpha",
+                "url": "https://seekingalpha.com",
+                "country": "us"
+            },
+            "title": "Meta to use data from AI interactions to show ads on its apps",
+            "url": "https://seekingalpha.com/news/4500675-meta-to-use-data-from-ai-interactions-to-show-ads-on-its-apps",
+            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1349800127/image_1349800127.jpg?io=getty-c-w750",
+            "publishedAt": "2025-10-01T14:06:32Z"
+        },
+        {
+            "source": {
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
+                "country": "in"
+            },
+            "title": "Elon Musk Says He Is Building Grokipedia, An AI-Powered Wikipedia Rival",
+            "url": "https://www.ndtvprofit.com/technology/elon-musk-says-he-is-building-grokipedia-an-ai-powered-wikipedia-rival",
+            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-07-08%2F19k5v02r%2FElon-Musk-2.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+            "publishedAt": "2025-10-01T13:46:41Z"
+        },
+        {
+            "source": {
+                "id": "391302f06b19835f4e0d9f8b4aa57091",
+                "name": "Breaking Defense",
+                "url": "https://breakingdefense.com",
+                "country": "us"
+            },
+            "title": "Army says it's mitigated 'critical' cybersecurity deficiencies in early NGC2 prototype",
+            "url": "https://breakingdefense.com/2025/10/army-says-its-mitigated-critical-cybersecurity-deficiencies-in-early-ngc2-prototype/",
+            "urlToImage": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/09/250306-A-BN574-1007-scaled-e1756840509239.jpg",
+            "publishedAt": "2025-10-01T13:40:37Z"
+        },
+        {
+            "source": {
+                "id": "d5f1f8579b4e9b390feccfa1c0cf8028",
+                "name": "Arab News",
+                "url": "https://www.arabnews.com",
+                "country": "ar"
+            },
+            "title": "Cybersecurity: Shielding societies and shaping the future",
+            "url": "https://www.arabnews.com/node/2617441",
+            "urlToImage": "https://www.arabnews.com/sites/default/files/authors/3790381-dya-eddinesaidbamakhrama2.png",
+            "publishedAt": "2025-10-01T13:36:40Z"
+        },
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "AI tool detects hidden warning signs of disease by analyzing genetic building blocks within cells",
+            "url": "https://medicalxpress.com/news/2025-10-ai-tool-hidden-disease-genetic.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/new-ai-tool-detects-hi.jpg",
+            "publishedAt": "2025-10-01T13:30:04Z"
+        },
+        {
+            "source": {
+                "id": "a6d401909ca644c4ffb332486c9cfaea",
+                "name": "Seeking Alpha",
+                "url": "https://seekingalpha.com",
+                "country": "us"
+            },
+            "title": "Rapid7 expands into UAE to support region's growing cybersecurity market",
+            "url": "https://seekingalpha.com/news/4500632-rapid7-expands-into-uae-to-support-regions-growing-cybersecurity-market",
+            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2050409696/image_2050409696.jpg?io=getty-c-w750",
+            "publishedAt": "2025-10-01T13:21:41Z"
+        },
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "New AI enhances the view inside fusion energy systems",
+            "url": "https://phys.org/news/2025-10-ai-view-fusion-energy.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/new-ai-enhances-the-vi.jpg",
+            "publishedAt": "2025-10-01T13:16:05Z"
+        },
         {
             "source": {
                 "id": "7daf04fa6272ed0a29583b211dcfe1d4",
@@ -1140,6 +1272,87 @@
             "url": "https://www.globenewswire.com/news-release/2025/10/01/3159818/0/en/Lynch-Carpenter-Investigates-Claims-in-Georgetown-Brewing-Data-Breach.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/c7859457-8a76-48a5-b4e7-d3be8aa7a7a7",
             "publishedAt": "2025-10-01T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "news_fsu"
+            },
+            "title": "FSU ignites campus innovation with Google Gemini AI training event",
+            "url": "https://news.fsu.edu/news/science-technology/2025/10/01/fsu-ignites-campus-innovation-with-google-gemini-ai-training-event/",
+            "urlToImage": "http://news.fsu.edu/wp-content/uploads/2025/09/Under-Tent-edited-gemini-900x600.jpg",
+            "publishedAt": "2025-10-01 14:48:57"
+        },
+        {
+            "source": {
+                "name": "theguardian"
+            },
+            "title": "US jobs market yet to be seriously disrupted by AI, finds Yale study",
+            "url": "https://www.theguardian.com/technology/2025/oct/01/us-jobs-market-yet-to-be-seriously-disrupted-by-ai-yale-study-chatgpt",
+            "urlToImage": "https://i.guim.co.uk/img/media/748d484e08e1eeb3f46de8990a7ec1baf16ba43d/222_0_3237_2592/master/3237.jpg?crop=none&dpr=2&s=none&width=620",
+            "publishedAt": "2025-10-01 14:38:34"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Speedrun Your RAG: Build an AI Recommender for your Steam Library",
+            "url": "https://hackernoon.com/speedrun-your-rag-build-an-ai-recommender-for-your-steam-library",
+            "urlToImage": "https://hackernoon.imgix.net/images/1zg0gTsmPbNVlzBSOipPMvT2ymW2-dk03b2v.png",
+            "publishedAt": "2025-10-01 14:34:49"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "Gaming Worlds Could Be The Answer To AI’s Data Problem",
+            "url": "https://www.forbes.com/sites/rashishrivastava/2025/10/01/gaming-worlds-could-be-the-answer-to-ais-data-problem/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68dd3a0fb6ec642c14d7ca90/0x0.jpg?width=960",
+            "publishedAt": "2025-10-01 14:31:05"
+        },
+        {
+            "source": {
+                "name": "fortune"
+            },
+            "title": "Hollywood erupts as talent agents circle ‘AI actor’ Tilly Norwood: ‘Not surprised the first major AI actor is a young woman they can fully control’",
+            "url": "https://fortune.com/2025/10/01/tilly-norwood-ai-actress-backlash-hollywood-eline-van-der-velden-sag-aftra/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/tilly-norwood-ai-actress-1146558.jpg?w=2048",
+            "publishedAt": "2025-10-01 14:27:54"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "Maker Faires Could Help IEEE Create The Future",
+            "url": "https://www.forbes.com/sites/tomcoughlin/2025/10/01/maker-faires-could-help-ieee-create-the-future/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68dce98864ac23670becea90/0x0.jpg?width=960",
+            "publishedAt": "2025-10-01 14:18:59"
+        },
+        {
+            "source": {
+                "name": "bgr_com"
+            },
+            "title": "5 Best Apple AirTag Alternatives For Android That Cost Less Than $30",
+            "url": "https://www.bgr.com/1982082/best-apple-airtag-alternatives-android-cost-less-than-30-dollars/",
+            "urlToImage": "https://www.bgr.com/img/gallery/5-best-apple-airtag-alternatives-for-android-that-cost-less-than-30/l-intro-1759148546.jpg",
+            "publishedAt": "2025-10-01 14:17:00"
+        },
+        {
+            "source": {
+                "name": "fortune"
+            },
+            "title": "How this startup CTO went on to lead technology and AI for Thomson Reuters",
+            "url": "https://fortune.com/2025/10/01/how-this-startup-cto-went-on-to-lead-technology-and-ai-for-thomson-reuters/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/Joel-Hron-CTO-headshot-1.jpg?w=2048",
+            "publishedAt": "2025-10-01 14:13:12"
+        },
+        {
+            "source": {
+                "name": "lightreading"
+            },
+            "title": "FCC's Gomez warns cablecos about free speech attacks and broadband affordability",
+            "url": "https://www.lightreading.com/regulatory-politics/fcc-s-gomez-warns-cablecos-about-free-speech-attacks-and-broadband-affordability",
+            "urlToImage": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt00940ec72fef9bc3/68dd2f5d074fdc2ae2e9a65a/gomez-at-ncta-stage-scte-2025.png?auto=webp&disable=upscale&quality=80&width=1280",
+            "publishedAt": "2025-10-01 14:04:19"
         },
         {
             "source": {
@@ -3093,246 +3306,6 @@
             "url": "https://techbullion.com/why-3d-ai-studio-is-becoming-essential-for-architecture-and-interior-design-firms/",
             "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/9d4e9e5553f5afcfa1f4e84159d6b941.jpg",
             "publishedAt": "2025-09-30T11:07:27Z"
-        },
-        {
-            "source": {
-                "id": "b1fa63410571207862faad9daf9b4527",
-                "name": "Pittsburgh Tribune-Review",
-                "url": "https://triblive.com",
-                "country": "us"
-            },
-            "title": "Panini A. Chowdhury: Southwestern Pa. must plan smarter for data centers",
-            "url": "https://triblive.com/opinion/panini-a-chowdhury-southwestern-pa-must-plan-smarter-for-data-centers/",
-            "urlToImage": "https://assets-varnish.triblive.com/2025/09/8904015_web1_gtr-HomerCityHearing-090925.jpg",
-            "publishedAt": "2025-09-30T11:00:00Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "AI-Fixated Traders Pile Into Teradyne, Other Obscure Chip Stocks",
-            "url": "https://www.bloomberg.com/news/articles/2025-09-30/ai-fixated-traders-pile-into-teradyne-other-obscure-chip-stocks",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaLUTevSwYDY/v1/1200x800.jpg",
-            "publishedAt": "2025-09-30T10:53:39Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "Will AI replace software engineers or make them more powerful",
-            "url": "https://www.indiatoday.in/education-today/featurephilia/story/ai-transforming-software-engineering-augmenting-human-creativity-2795745-2025-09-30",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202509/ai-and-ml-are-transforming-supply-chain-jobs-heres-what-you-need-to-know-041901609-original-sixteen-to-nine.png?VersionId=FqBi_Tw8uef0fwk3P40xrepbpoz58Lhh",
-            "publishedAt": "2025-09-30T10:52:51Z"
-        },
-        {
-            "source": {
-                "id": "10cbfb3760cfcdeb78c733c527f0e814",
-                "name": "iTWire",
-                "url": "https://itwire.com",
-                "country": "au"
-            },
-            "title": "new research and expert insights in our Q&A with a Nokia VP",
-            "url": "https://itwire.com/it-industry-news/telecoms-and-nbn/how-cybersecurity-is-driving-telco-automation-in-australia-new-research-and-expert-insights-in-our-q-a-with-a-nokia-vp.html",
-            "urlToImage": "https://itwire.com/media/k2/items/cache/599c64dadcc13d3765b67360ce3cd39b_XS.jpg",
-            "publishedAt": "2025-09-30T10:22:36Z"
-        },
-        {
-            "source": {
-                "id": "494f687bd1dfaa9f7b4a705c860671d0",
-                "name": "Hartford Courant",
-                "url": "https://www.courant.com",
-                "country": "us"
-            },
-            "title": "AI is transforming how software engineers do their jobs. Just don’t call it ‘vibe-coding’",
-            "url": "https://www.courant.com/2025/09/30/ai-is-transforming-how-software-engineers-do-their-jobs-just-dont-call-it-vibe-coding/",
-            "urlToImage": "https://www.courant.com/wp-content/uploads/2025/09/AI_Vibe_Coding_54680-1.jpg?w=1024&h=683",
-            "publishedAt": "2025-09-30T10:20:05Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "The Dual Reality: Booming U.S. Economy vs. Stagnant Job Growth",
-            "url": "https://www.devdiscourse.com/article/business/3647025-the-dual-reality-booming-us-economy-vs-stagnant-job-growth",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/30_05_2024_12_38_14_4619982.png?width=920&format=jpeg",
-            "publishedAt": "2025-09-30T10:12:32Z"
-        },
-        {
-            "source": {
-                "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
-                "name": "Fortune",
-                "url": "https://fortune.com",
-                "country": "us"
-            },
-            "title": "Inside the cybersecurity boom, strong team, and bold gamble that helped Wiz CEO Assaf Rappaport win a $32 billion deal with Google",
-            "url": "https://fortune.com/article/wiz-cloud-security-ceo-assaf-rappaport-google-sundar-pichai/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/Wiz-Founders.-Credit-Avishag-Shaar-Yashuv_v1-e1759171558268.jpg?resize=1200,600",
-            "publishedAt": "2025-09-30T09:30:00Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "UNESCO Seeks to Control AI Rollout in Africa with 'Youth Coding Initiative'",
-            "url": "https://www.breitbart.com/africa/2025/09/30/unesco-seeks-to-control-ai-rollout-in-africa-with-youth-coding-initiative/",
-            "urlToImage": "https://media.breitbart.com/media/2025/09/GettyImages-2222783928-640x335.png",
-            "publishedAt": "2025-09-30T09:11:24Z"
-        },
-        {
-            "source": {
-                "id": "e553cce06d349ac1f7fbb7618a979256",
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com",
-                "country": "us"
-            },
-            "title": "Top A.I. Researchers Leave OpenAI, Google and Meta for New Start-Up",
-            "url": "https://www.nytimes.com/2025/09/30/technology/ai-meta-google-openai-periodic.html",
-            "urlToImage": "https://static01.nyt.com/images/2025/09/24/multimedia/24BIZ-PERIODIC-tjlp/24BIZ-PERIODIC-tjlp-facebookJumbo-v2.jpg",
-            "publishedAt": "2025-09-30T09:03:06Z"
-        },
-        {
-            "source": {
-                "id": "93a4f054e09bde095cda5265e575a952",
-                "name": "Telegraph India",
-                "url": "https://www.telegraphindia.com",
-                "country": "in"
-            },
-            "title": "Donald Trump H-1B visa curbs push US firms to consider shifting more work to India",
-            "url": "https://www.telegraphindia.com/world/donald-trump-h-1b-visa-curbs-push-us-firms-to-consider-shifting-more-work-to-india/cid/2125637",
-            "urlToImage": "https://assets.telegraphindia.com/telegraph/2025/Sep/1758520755_h1b-visa-us.jpg",
-            "publishedAt": "2025-09-30T08:42:11Z"
-        },
-        {
-            "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
-                "country": "in"
-            },
-            "title": "Here's How Much ChatGPT-Maker OpenAI Made In First Half Of 2025",
-            "url": "https://www.ndtvprofit.com/technology/here-is-how-much-artificial-intelligence-chatbot-chatgpt-maker-openai-made-in-first-half-of-2025",
-            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-06-10%2Fmaw7r5sh%2FChatGPT%20and%20WhatsApp.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
-            "publishedAt": "2025-09-30T08:35:24Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Opera launches Neon AI browser to join agentic web browsing race",
-            "url": "https://www.thestar.com.my/tech/tech-news/2025/09/30/opera-launches-neon-ai-browser-to-join-agentic-web-browsing-race",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/09/30/3547161.jpg",
-            "publishedAt": "2025-09-30T08:10:00Z"
-        },
-        {
-            "source": {
-                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-                "name": "Benzinga",
-                "url": "https://www.benzinga.com",
-                "country": "us"
-            },
-            "title": "Apple Risks Falling Behind In AI Arms Race, Says Wedbush's Dan Ives: 'Biggest Strategic Mistake' Was Not Buying Netflix",
-            "url": "https://www.benzinga.com/markets/tech/25/09/47935082/apple-risks-falling-behind-in-ai-arms-race-says-wedbushs-dan-ives-biggest-strategic-mistake-was-not-buying-netflix",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/09/30/Apple.jpeg?width=1200&height=800&fit=crop",
-            "publishedAt": "2025-09-30T08:06:25Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Opera launches Neon AI browser to join agentic web browsing race",
-            "url": "https://www.reuters.com/technology/opera-launches-neon-ai-browser-join-agentic-web-browsing-race-2025-09-30/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/XNM5G2C24ZNFTDSMOTHO344NZA.jpg?auth=e0679be03965fa4ebb9dc1cc26c66a4c10164d54d0a3fe1cd3c97343217a046d&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-09-30T08:02:59Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "How healthcare is being shifted by artificial intelligence",
-            "url": "https://techbullion.com/how-healthcare-is-being-shifted-by-artificial-intelligence/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/09/robot-performing-surgery-patient-1000x600.jpg",
-            "publishedAt": "2025-09-30T07:35:19Z"
-        },
-        {
-            "source": {
-                "id": "e9207083a357fb7e76b38e485888ebe7",
-                "name": "manilastandard.net",
-                "url": "https://manilastandard.net",
-                "country": "ph"
-            },
-            "title": "world AI Vulnerabilities Call for more Proactive Cybersecurity",
-            "url": "https://manilastandard.net/tech/314649228/real-world-ai-vulnerabilities-call-for-more-proactive-cybersecurity.html",
-            "urlToImage": "https://cdn.manilastandard.net/wp-content/uploads/2025/09/TrendMicro.png",
-            "publishedAt": "2025-09-30T06:44:04Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "How to explain 4% growth and no jobs",
-            "url": "https://www.reuters.com/markets/europe/how-explain-4-growth-no-jobs-2025-09-30/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/GAGXOJ3C5VNNBMETLEC3AYPKUY.jpg?auth=3fb407d814541ed105935a2e14bc2cdad4f7122ed7f35ceb319d842cf0dde947&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-09-30T06:29:14Z"
-        },
-        {
-            "source": {
-                "id": "44d394a4e765f82b49b452e4302a72b0",
-                "name": "Business Standard",
-                "url": "https://www.business-standard.com",
-                "country": "in"
-            },
-            "title": "Trump visa curbs push US firms to consider shifting more work to India",
-            "url": "https://www.business-standard.com/immigration/trump-visa-curbs-push-us-firms-to-consider-shifting-more-work-to-india-125093000339_1.html",
-            "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-07/14/thumb/featurecrop/1200X630/1752477521-6104.jpg",
-            "publishedAt": "2025-09-30T06:12:56Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "AI Boom or Bust: The Economic Enigma of 2025",
-            "url": "https://www.devdiscourse.com/article/business/3646740-ai-boom-or-bust-the-economic-enigma-of-2025",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/30_05_2024_12_38_14_4619982.png?width=920&format=jpeg",
-            "publishedAt": "2025-09-30T06:02:56Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "US state enacts AI safety law targeting tech giants",
-            "url": "https://www.thestar.com.my/tech/tech-news/2025/09/30/us-state-enacts-ai-safety-law-targeting-tech-giants",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/09/30/3546889.jpg",
-            "publishedAt": "2025-09-30T06:00:00Z"
         }
     ]
 }
