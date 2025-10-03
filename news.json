@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2025-10-03T10:15:23.065781Z",
+    "lastUpdatedAt": "2025-10-03T11:12:18.754440Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "AI startup DualEntry raises $90 million to deepen ERP market push",
+            "url": "https://www.thestar.com.my/tech/tech-news/2025/10/03/ai-startup-dualentry-raises-90-million-to-deepen-erp-market-push",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/03/3552002.jpg",
+            "publishedAt": "2025-10-02T23:05:00Z"
+        },
+        {
+            "source": {
+                "id": "2f5884e252590f739df55c0e7db375df",
+                "name": "WJLA",
+                "url": "https://wjla.com",
+                "country": "us"
+            },
+            "title": "AI use in schools growing 'pretty rapidly' as policies lag: RAND report",
+            "url": "https://wjla.com/news/nation-world/ai-use-in-schools-growing-pretty-rapidly-as-policies-lag-rand-report-artificial-intelligence-education-students-teachers-technology",
+            "urlToImage": "https://wjla.com/resources/media2/16x9/5184/986/0x270/90/8d40d1de-bc7e-44e1-b184-09f420c2f381-AP19050711230378.jpg",
+            "publishedAt": "2025-10-02T23:03:14Z"
+        },
+        {
+            "source": {
+                "id": "9f53afb019d44feb16bcc7da150e679a",
+                "name": "Baltimore News",
+                "url": "https://foxbaltimore.com",
+                "country": "us"
+            },
+            "title": "AI use in schools growing 'pretty rapidly' as policies lag: RAND report",
+            "url": "https://foxbaltimore.com/news/nation-world/ai-use-in-schools-growing-pretty-rapidly-as-policies-lag-rand-report-artificial-intelligence-education-students-teachers-technology",
+            "urlToImage": "https://foxbaltimore.com/resources/media2/16x9/5184/986/0x270/90/8d40d1de-bc7e-44e1-b184-09f420c2f381-AP19050711230378.jpg",
+            "publishedAt": "2025-10-02T23:03:14Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "OpenAI asks court to dismiss trade-secret lawsuit from Musk's xAI",
+            "url": "https://www.reuters.com/sustainability/boards-policy-regulation/openai-asks-court-dismiss-trade-secret-lawsuit-musks-xai-2025-10-02/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/D454743B55OTPC4N6OPQQSELNU.jpg?auth=895efd527a91fb645eee2c54a738d9527ffa269501094f0a70a6e6e2bdc5bbfa&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-10-02T22:58:02Z"
+        },
+        {
+            "source": {
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
+                "country": "us"
+            },
+            "title": "U.S. Stock Futures Steady as Market Brushes Off Government Shutdown Worries",
+            "url": "https://markets.businessinsider.com/news/stocks/u-s-stock-futures-steady-as-market-brushes-off-government-shutdown-worries-1035249416",
+            "urlToImage": "https://markets.businessinsider.com/favicon-32x32.png",
+            "publishedAt": "2025-10-02T22:17:17Z"
+        },
         {
             "source": {
                 "id": "6956007add5fc13a6721202ec906b1c4",
@@ -1167,6 +1227,24 @@
         },
         {
             "source": {
+                "name": "siliconangle"
+            },
+            "title": "OpenAI reportedly closes new $6.6B secondary sale at $500B valuation",
+            "url": "https://siliconangle.com/2025/10/02/openai-reportedly-closes-new-6-6b-secondary-sale-500b-valuation/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/10/52660764045_a9fd79f194_c-1-1-1.jpg",
+            "publishedAt": "2025-10-02 22:26:05"
+        },
+        {
+            "source": {
+                "name": "hastingstribune"
+            },
+            "title": "Datavault AI Converts $13.3 Million in Convertible Debt, Strengthens Balance Sheet",
+            "url": "https://www.hastingstribune.com/ap/business/datavault-ai-converts-13-3-million-in-convertible-debt-strengthens-balance-sheet/article_9644ee81-92ff-5e83-93d7-47e66ad1b793.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/hastingstribune.com/content/tncms/custom/image/7b43d562-eeac-11e4-8a7b-970670abfcb2.jpg?resize=600%2C315",
+            "publishedAt": "2025-10-02 22:20:20"
+        },
+        {
+            "source": {
                 "name": "headtopics"
             },
             "title": "Creator of “AI Actress” Responds to Near-Universal Backlash",
@@ -1244,6 +1322,24 @@
             "title": "GDIT Awarded $1.25 Billion Enterprise Mission Information Technology Services 2 Task Order to Support U.S. Army Europe and Africa",
             "url": "https://www.berkshireeagle.com/online_features/press_releases/gdit-awarded-1-25-billion-enterprise-mission-information-technology-services-2-task-order-to-support/article_5ea9eacb-350e-5d53-977f-716581e55820.html",
             "urlToImage": "https://bloximages.newyork1.vip.townnews.com/berkshireeagle.com/content/tncms/assets/v3/editorial/3/25/325876fc-3367-5dc7-a056-93d6a293c4a4/68df6f38c1c5c.image.jpg?resize=750%2C500",
+            "publishedAt": "2025-10-02 21:15:00"
+        },
+        {
+            "source": {
+                "name": "auburnpub"
+            },
+            "title": "GDIT Awarded $1.25 Billion Enterprise Mission Information Technology Services 2 Task Order to Support U.S. Army Europe and Africa",
+            "url": "https://auburnpub.com/online_features/press_releases/article_8c76e014-6cea-5302-a96a-27b617b11a5f.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/auburnpub.com/content/tncms/assets/v3/editorial/d/73/d7383e8d-560a-5852-8645-33ba57d5d4b4/68df6f7799166.image.jpg?crop=1763%2C926%2C0%2C124&order=crop%2Cresize&resize=1200%2C630",
+            "publishedAt": "2025-10-02 21:15:00"
+        },
+        {
+            "source": {
+                "name": "samessenger"
+            },
+            "title": "GDIT Awarded $1.25 Billion Enterprise Mission Information Technology Services 2 Task Order to Support U.S. Army Europe and Africa",
+            "url": "https://www.samessenger.com/online_features/press_releases/gdit-awarded-1-25-billion-enterprise-mission-information-technology-services-2-task-order-to-support/article_43a52075-9aad-565d-8f30-c3a91100c076.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/samessenger.com/content/tncms/assets/v3/editorial/c/4b/c4ba4e9e-ca24-5278-a702-b2cbf3059c72/68df6e040df16.image.jpg?resize=300%2C200",
             "publishedAt": "2025-10-02 21:15:00"
         },
         {
@@ -3063,114 +3159,6 @@
             "url": "https://www.arabnews.com/node/2617438",
             "urlToImage": "https://www.arabnews.com/sites/default/files/authors/4629537-turkifaisalal-rasheednewest.png",
             "publishedAt": "2025-10-01T12:58:28Z"
-        },
-        {
-            "source": {
-                "id": "a6d401909ca644c4ffb332486c9cfaea",
-                "name": "Seeking Alpha",
-                "url": "https://seekingalpha.com",
-                "country": "us"
-            },
-            "title": "CISO global strengthens balance sheet, positions for growth and strategic opportunities",
-            "url": "https://seekingalpha.com/news/4500615-ciso-global-strengthens-balance-sheet-positions-for-growth-and-strategic-opportunities",
-            "urlToImage": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-            "publishedAt": "2025-10-01T12:54:56Z"
-        },
-        {
-            "source": {
-                "id": "a6d401909ca644c4ffb332486c9cfaea",
-                "name": "Seeking Alpha",
-                "url": "https://seekingalpha.com",
-                "country": "us"
-            },
-            "title": "Actelis wins $0.3M cybersecurity order from European carrier",
-            "url": "https://seekingalpha.com/news/4500613-actelis-wins-03m-cybersecurity-order-from-european-carrier",
-            "urlToImage": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-            "publishedAt": "2025-10-01T12:50:39Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "TAC InfoSec's Bold Vision: USD 100 Million ARR and Global Expansion by 2030",
-            "url": "https://www.devdiscourse.com/article/technology/3648849-tac-infosecs-bold-vision-usd-100-million-arr-and-global-expansion-by-2030",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/04_05_2025_07_48_06_9381318.png?width=920&format=jpeg",
-            "publishedAt": "2025-10-01T12:49:00Z"
-        },
-        {
-            "source": {
-                "id": "ca84296ef941bfa461f4239a2290cb99",
-                "name": "News18",
-                "url": "https://www.news18.com",
-                "country": "in"
-            },
-            "title": "Cybersecurity firm TAC InfoSec Targets USD 100 mn annual revenue by 2030",
-            "url": "https://www.news18.com/agency-feeds/cybersecurity-firm-tac-infosec-targets-usd-100-mn-annual-revenue-by-2030-9608834.html",
-            "urlToImage": "https://images.news18.com/ibnlive/uploads/2025/07/News18_Business_Section_Default_Image_1600x900-2025-07-454f4d093355309283e1b9f3be42698a-16x9.jpg",
-            "publishedAt": "2025-10-01T12:45:05Z"
-        },
-        {
-            "source": {
-                "id": "7eeaf9a839918543cc708f2d331c3be4",
-                "name": "Free Press Journal",
-                "url": "https://www.freepressjournal.in",
-                "country": "in"
-            },
-            "title": "Govt To Launch NIELIT Digital University On October 2, Will Offer AI, Cybersecurity & Data Science Courses",
-            "url": "https://www.freepressjournal.in/education/govt-to-launch-nielit-digital-university-on-october-2-will-offer-ai-cybersecurity-data-science-courses",
-            "urlToImage": "https://media.assettype.com/freepressjournal/2025-06-12/98hvv1xr/AI-AI-AI-AI.jpg",
-            "publishedAt": "2025-10-01T12:32:35Z"
-        },
-        {
-            "source": {
-                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-                "name": "Benzinga",
-                "url": "https://www.benzinga.com",
-                "country": "us"
-            },
-            "title": "EXCLUSIVE: IQSTEL Announces Stock-Swap Cybersecurity Partnership With Cycurion, Plans $0.5 Million Stock Dividend",
-            "url": "https://www.benzinga.com/markets/small-cap/25/10/47965815/exclusive-iqstel-cycurion-stock-swap-cybersecurity-partnership-plans-stock-dividend",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/10/01/Endpoint-Security---Endpoint-Protection-.jpeg?width=1200&height=800&fit=crop",
-            "publishedAt": "2025-10-01T12:31:05Z"
-        },
-        {
-            "source": {
-                "id": "d6397b77175680e2678c0d60edcee7af",
-                "name": "South China Morning Post",
-                "url": "https://www.scmp.com",
-                "country": "hk"
-            },
-            "title": "Opinion | Without the public’s trust, AI is doomed to fail",
-            "url": "https://www.scmp.com/opinion/world-opinion/article/3327370/without-publics-trust-ai-doomed-fail",
-            "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/canvas/2025/09/30/5a8713a9-6d7c-4a70-a6f4-847f99261857_88c420c9.jpg?itok=kO3ca1ds&v=1759218283",
-            "publishedAt": "2025-10-01T12:30:09Z"
-        },
-        {
-            "source": {
-                "id": "c477009a98f37b19212d8ae20ce8c018",
-                "name": "POLITICO",
-                "url": "https://www.politico.com",
-                "country": "us"
-            },
-            "title": "POLITICO's Policy Outlook Cybersecurity",
-            "url": "https://www.politico.com/live-events/2025/10/01/politicos-policy-outlook-cybersecurity-00001625",
-            "urlToImage": "https://static.politico.com/3d/ee/f4d549cf4e548af6712990ce5b9e/politico-cms-shared-graphic-1120x629.jpg",
-            "publishedAt": "2025-10-01T12:30:00Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Google’s Europe Boss Calls for Changes to ‘Problematic’ EU Rules",
-            "url": "https://www.bloomberg.com/news/articles/2025-10-01/google-s-europe-boss-calls-for-changes-to-problematic-eu-rules",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ig3UlTJSQ3Kw/v0/1200x800.jpg",
-            "publishedAt": "2025-10-01T12:04:33Z"
         }
     ]
 }
