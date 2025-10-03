@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-10-03T04:17:39.886285Z",
+    "lastUpdatedAt": "2025-10-03T05:14:45.134693Z",
     "articles": [
+        {
+            "source": {
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
+                "country": "us"
+            },
+            "title": "AI Daily: OpenAI hits $500B valuation, Apple shelves Vision headset revamp",
+            "url": "https://markets.businessinsider.com/news/stocks/ai-daily-openai-hits-500b-valuation-apple-shelves-vision-headset-revamp-1035249024",
+            "urlToImage": "https://markets.businessinsider.com/favicon-32x32.png",
+            "publishedAt": "2025-10-02T17:10:28Z"
+        },
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "Scalable AI tracks motion from single molecules to wildebeests",
+            "url": "https://phys.org/news/2025-10-scalable-ai-tracks-motion-molecules.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2019/wildebeest.jpg",
+            "publishedAt": "2025-10-02T17:07:10Z"
+        },
+        {
+            "source": {
+                "id": "17d7c2645f485578130862e0c8dd9480",
+                "name": "The Mercury News",
+                "url": "https://www.mercurynews.com",
+                "country": "us"
+            },
+            "title": "Tech stocks jump on AI euphoria as traders brush off shutdown",
+            "url": "https://www.mercurynews.com/2025/10/02/tech-stocks-jump-on-ai-euphoria-as-traders-brush-off-shutdown/",
+            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2023/02/Tech-Job-Cuts.jpg?w=1024&h=682",
+            "publishedAt": "2025-10-02T16:45:37Z"
+        },
+        {
+            "source": {
+                "id": "5ac5f32ba74846cef441099f666f2d98",
+                "name": "Fast Company",
+                "url": "https://www.fastcompany.com",
+                "country": "us"
+            },
+            "title": "Who controls the machines that control Artificial Intelligence?",
+            "url": "https://www.fastcompany.com/91413477/who-controls-machines-that-control-artificial-intelligence",
+            "urlToImage": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2025/09/p-1-91413477-who-controls-the-machines-that-control-artificial-intelligence.jpg",
+            "publishedAt": "2025-10-02T16:22:40Z"
+        },
         {
             "source": {
                 "id": "97497c18f5cb431f5f324b3d8643c24f",
@@ -70,6 +118,18 @@
             },
             "title": "Artificial Intelligence and the Erosion of Trust",
             "url": "https://www.breitbart.com/tech/2025/10/02/exclusive-dr-ben-carson-artificial-intelligence-and-the-erosion-of-trust/",
+            "urlToImage": "https://media.breitbart.com/media/2025/10/ben-carson-speaking-lights-AP-640x335.jpg",
+            "publishedAt": "2025-10-02T15:25:14Z"
+        },
+        {
+            "source": {
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com",
+                "country": "us"
+            },
+            "title": "Artificial Intelligence and the Erosion of Trust",
+            "url": "https://www.breitbart.com/health/2025/10/02/exclusive-dr-ben-carson-artificial-intelligence-and-the-erosion-of-trust/",
             "urlToImage": "https://media.breitbart.com/media/2025/10/ben-carson-speaking-lights-AP-640x335.jpg",
             "publishedAt": "2025-10-02T15:25:14Z"
         },
@@ -936,6 +996,96 @@
             "url": "https://www.forbes.com/sites/thomasbrewster/2025/10/02/government-shutdown-cisa-weaker-insiders-say/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68ded5a83b6527a85f70cf17/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-10-02T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "slate_usa"
+            },
+            "title": "This Controversial Actress Looks Exactly Like Me. I’m Horrified.",
+            "url": "https://slate.com/technology/2025/10/tilly-norwood-ai-actress-doppelganger-stella-hennen-tiktok.html?via=rss",
+            "urlToImage": "https://compote.slate.com/images/6f49417f-ba57-4ad7-a52e-f0c8b321ee2f.jpeg?crop=1560%2C1040%2Cx0%2Cy0",
+            "publishedAt": "2025-10-02 17:04:41"
+        },
+        {
+            "source": {
+                "name": "lifehacker_us"
+            },
+            "title": "Apple Is Reportedly Pausing the Vision Pro 2 to Fast-Track Smart Glasses",
+            "url": "https://lifehacker.com/tech/apple-reportedly-pauses-vision-pro-2-to-fast-track-smart-glasses",
+            "urlToImage": "https://lifehacker.com/imagery/articles/01K6JV72AZWQQBH3XSECFZ2EWZ/hero-image.fill.size_1200x675.png",
+            "publishedAt": "2025-10-02 17:00:08"
+        },
+        {
+            "source": {
+                "name": "ieee_spectrum"
+            },
+            "title": "Where Will Taiwan Get Energy After Its Failed Nuclear Referendum?",
+            "url": "https://spectrum.ieee.org/nuclear-energy-taiwan-maanshan-plant",
+            "urlToImage": "https://spectrum.ieee.org/media-library/a-nuclear-power-plant-looming-over-a-small-beach.jpg?id=61689905&width=980",
+            "publishedAt": "2025-10-02 17:00:05"
+        },
+        {
+            "source": {
+                "name": "onclive"
+            },
+            "title": "New Diagnostic Tool Developed at Dana-Farber Revolutionizes Acute Leukemia Diagnosis",
+            "url": "https://www.onclive.com/view/new-diagnostic-tool-developed-at-dana-farber-revolutionizes-acute-leukemia-diagnosis",
+            "urlToImage": "https://cdn.sanity.io/images/0vv8moc6/onclive/1d610d6065875774e11d865d4dd196ac52ca3002-1280x720.jpg",
+            "publishedAt": "2025-10-02 17:00:00"
+        },
+        {
+            "source": {
+                "name": "mtdemocrat"
+            },
+            "title": "AI Can Plan a Trip. Would You Lend It Your Credit Card to Book It?",
+            "url": "https://www.mtdemocrat.com/news/national/ai-can-plan-a-trip-would-you-lend-it-your-credit-card-to-book-it/article_2ec8a49a-1d3c-555b-ba00-fb83244ad03c.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/mtdemocrat.com/content/tncms/assets/v3/editorial/b/df/bdf27ed0-19cf-5dc1-a9f2-0f3257c4c3f3/68de88e828723.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-10-02 16:55:01"
+        },
+        {
+            "source": {
+                "name": "fbherald"
+            },
+            "title": "AI Can Plan a Trip. Would You Lend It Your Credit Card to Book It?",
+            "url": "https://www.fbherald.com/news/national/ai-can-plan-a-trip-would-you-lend-it-your-credit-card-to-book-it/article_a6dfef1b-56f3-5d31-9cda-15d54073a503.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/fbherald.com/content/tncms/assets/v3/editorial/f/1f/f1f76fa4-487d-5a58-8836-05a4261e8e6f/68de88eb87726.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-10-02 16:55:01"
+        },
+        {
+            "source": {
+                "name": "emporiagazette"
+            },
+            "title": "AI Can Plan a Trip. Would You Lend It Your Credit Card to Book It?",
+            "url": "https://www.emporiagazette.com/news/national/article_90d1e1fd-3ea7-5dae-a2d5-b7383312a382.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/emporiagazette.com/content/tncms/assets/v3/editorial/d/28/d287c18c-07cf-5b85-a586-c06f38a016a0/68de8938a957d.image.jpg?resize=400%2C267",
+            "publishedAt": "2025-10-02 16:55:01"
+        },
+        {
+            "source": {
+                "name": "manchestertimes"
+            },
+            "title": "AI Can Plan a Trip. Would You Lend It Your Credit Card to Book It?",
+            "url": "https://www.manchestertimes.com/news/national/ai-can-plan-a-trip-would-you-lend-it-your-credit-card-to-book-it/article_a80a4a97-8772-5e14-b8ee-a93b5867d238.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/manchestertimes.com/content/tncms/assets/v3/editorial/d/52/d5243cff-9e61-5083-85ad-5cc725db3392/68de89893a897.image.jpg?resize=400%2C267",
+            "publishedAt": "2025-10-02 16:55:01"
+        },
+        {
+            "source": {
+                "name": "communitynewspapergroup"
+            },
+            "title": "AI Can Plan a Trip. Would You Lend It Your Credit Card to Book It?",
+            "url": "https://www.communitynewspapergroup.com/news/nation/ai-can-plan-a-trip-would-you-lend-it-your-credit-card-to-book-it/article_5b547ad1-7ea1-5c32-9444-c7b8c5ad010c.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/communitynewspapergroup.com/content/tncms/assets/v3/editorial/8/94/89427d5c-5cbc-5801-9eed-d247245011e1/68de893f4be57.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-10-02 16:55:01"
+        },
+        {
+            "source": {
+                "name": "wyomingnews"
+            },
+            "title": "AI Can Plan a Trip. Would You Lend It Your Credit Card to Book It?",
+            "url": "https://www.wyomingnews.com/news/national/ai-can-plan-a-trip-would-you-lend-it-your-credit-card-to-book-it/article_35c39780-9fed-54cc-ac0f-5d03976d66d2.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/3/6a/36a51915-5089-5513-8f55-7b890b1152c8/68de89a6a28a1.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-10-02 16:55:01"
         },
         {
             "source": {
@@ -3144,186 +3294,6 @@
             "url": "https://www.sciencealert.com/new-ai-tool-finds-hidden-brain-lesions-that-doctors-miss-in-children-with-epilepsy",
             "urlToImage": "https://www.sciencealert.com/images/2025/10/AI-Brain-Scan-Of-Adolescent.jpg",
             "publishedAt": "2025-10-01T03:09:44Z"
-        },
-        {
-            "source": {
-                "id": "1b40b878c09151e8cf44a095bc8569a5",
-                "name": "ETF Daily News",
-                "url": "https://www.etfdailynews.com",
-                "country": "us"
-            },
-            "title": "Best Cybersecurity Stocks To Follow Today - September 28th",
-            "url": "https://www.etfdailynews.com/2025/10/01/best-cybersecurity-stocks-to-follow-today-september-28th/",
-            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/crowdstrike-holdings-inc-logo-1200x675.png?v=20240415153340&w=240&h=240&zc=2",
-            "publishedAt": "2025-10-01T03:02:52Z"
-        },
-        {
-            "source": {
-                "id": "6fea3ee012f060c6309366516e8d00be",
-                "name": "News-Medical.net",
-                "url": "https://www.news-medical.net",
-                "country": "gb"
-            },
-            "title": "Science and artificial intelligence could help personalize brain stimulation for smokers",
-            "url": "https://www.news-medical.net/news/20250930/Science-and-artificial-intelligence-could-help-personalize-brain-stimulation-for-smokers.aspx",
-            "urlToImage": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-            "publishedAt": "2025-10-01T02:52:00Z"
-        },
-        {
-            "source": {
-                "id": "2f5884e252590f739df55c0e7db375df",
-                "name": "WJLA",
-                "url": "https://wjla.com",
-                "country": "us"
-            },
-            "title": "Large AI-operated lawnmowers are being tested at national parks, including National Mall",
-            "url": "https://wjla.com/news/local/national-mall-lawnmowers-autonomous-tested-ai-maryland-dmv-dc-washington-autonomous-bergum-video-grant-technical-park-foundation-wright-frederick-grass-cut-employee-technology",
-            "urlToImage": "https://wjla.com/resources/media2/16x9/1280/986/center/90/f5f76307-660f-43d2-adf4-4fbd01245d18-vlcsnap2025093022h37m59s743.png",
-            "publishedAt": "2025-10-01T02:48:35Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Amazon adds AI muscle to connected home lineup",
-            "url": "https://economictimes.indiatimes.com/tech/technology/amazon-adds-ai-muscle-to-connected-home-lineup/articleshow/124245987.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-45718,resizemode-75,msid-124245987/tech/technology/amazon-adds-ai-muscle-to-connected-home-lineup.jpg",
-            "publishedAt": "2025-10-01T02:11:55Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Quiet Skies Ahead: Machine Learning Enables Noise-Aware UAM Flight Planning",
-            "url": "https://www.devdiscourse.com/article/technology/3646882-quiet-skies-ahead-machine-learning-enables-noise-aware-uam-flight-planning",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/30_09_2025_14_05_19_086837.png?width=920&format=jpeg",
-            "publishedAt": "2025-10-01T02:07:26Z"
-        },
-        {
-            "source": {
-                "id": "23ca80edba9c670741bdbfc4acd3e991",
-                "name": "The Statesman",
-                "url": "https://www.thestatesman.com",
-                "country": "in"
-            },
-            "title": "Trump signs executive order to accelerate pediatric cancer research",
-            "url": "https://www.thestatesman.com/world/trump-signs-executive-order-to-accelerate-pediatric-cancer-research-1503493675.html",
-            "urlToImage": "https://www.thestatesman.com/wp-content/uploads/2025/09/IMG_0579.webp",
-            "publishedAt": "2025-10-01T02:06:44Z"
-        },
-        {
-            "source": {
-                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-                "name": "WTOP",
-                "url": "https://wtop.com",
-                "country": "us"
-            },
-            "title": "Not just a government town: DC mayor says city is ‘open for business’",
-            "url": "https://wtop.com/dc/2025/09/not-just-a-government-town-dcs-mayor-says-dc-is-open-for-business/",
-            "urlToImage": "https://wtop.com/wp-content/uploads/2025/09/GettyImages-2233872168-scaled.jpg",
-            "publishedAt": "2025-10-01T01:14:20Z"
-        },
-        {
-            "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
-                "country": "in"
-            },
-            "title": "Stock Futures Slip As US Government Nears Shutdown: Markets Wrap",
-            "url": "https://www.ndtvprofit.com/markets/global-stock-markets-asian-indices-hang-sheng-nikkei-dax-ftse-nasdaq-s-and-p-dow-jones-news-today-1-october-2025",
-            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-09-23%2F658c7c4a%2F440148537.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
-            "publishedAt": "2025-10-01T01:11:47Z"
-        },
-        {
-            "source": {
-                "id": "1b40b878c09151e8cf44a095bc8569a5",
-                "name": "ETF Daily News",
-                "url": "https://www.etfdailynews.com",
-                "country": "us"
-            },
-            "title": "Top Artificial Intelligence Stocks To Add to Your Watchlist - September 29th",
-            "url": "https://www.etfdailynews.com/2025/10/01/top-artificial-intelligence-stocks-to-add-to-your-watchlist-september-29th/",
-            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/upstart-holdings-inc-logo-1200x675.png?v=20210319145224&w=240&h=240&zc=2",
-            "publishedAt": "2025-10-01T01:00:43Z"
-        },
-        {
-            "source": {
-                "id": "04c17c43a7507fac95fd9ba5d47715b5",
-                "name": "WIS10",
-                "url": "https://www.wistv.com",
-                "country": "us"
-            },
-            "title": "‘AI actor’ Tilly Norwood stirs outrage in Hollywood",
-            "url": "https://www.wistv.com/2025/10/01/ai-actor-tilly-norwood-stirs-outrage-hollywood/",
-            "urlToImage": "https://gray-wistv-prod.gtv-cdn.com/resizer/v2/HYY3HLLYKNEW5AAZI2ZKZB6ILE.jpg?auth=5af237c95c396d43e3320642046c24221632cc622881a7349d105d430d59ac23&width=1200&height=600&smart=true",
-            "publishedAt": "2025-10-01T00:50:53Z"
-        },
-        {
-            "source": {
-                "id": "e7b4d14003cc89c64a689f1c38723ef5",
-                "name": "Live 5 News WCSC",
-                "url": "https://www.live5news.com",
-                "country": "us"
-            },
-            "title": "‘AI actor’ Tilly Norwood stirs outrage in Hollywood",
-            "url": "https://www.live5news.com/2025/10/01/ai-actor-tilly-norwood-stirs-outrage-hollywood/",
-            "urlToImage": "https://gray-wcsc-prod.gtv-cdn.com/resizer/v2/HYY3HLLYKNEW5AAZI2ZKZB6ILE.jpg?auth=5af237c95c396d43e3320642046c24221632cc622881a7349d105d430d59ac23&width=1200&height=600&smart=true",
-            "publishedAt": "2025-10-01T00:50:53Z"
-        },
-        {
-            "source": {
-                "id": "3f09ae62ee37a33ab191a698fec83f4b",
-                "name": "WEAU",
-                "url": "https://www.weau.com",
-                "country": "us"
-            },
-            "title": "‘AI actor’ Tilly Norwood stirs outrage in Hollywood",
-            "url": "https://www.weau.com/2025/10/01/ai-actor-tilly-norwood-stirs-outrage-hollywood/",
-            "urlToImage": "https://gray-weau-prod.gtv-cdn.com/resizer/v2/HYY3HLLYKNEW5AAZI2ZKZB6ILE.jpg?auth=5af237c95c396d43e3320642046c24221632cc622881a7349d105d430d59ac23&width=1200&height=600&smart=true",
-            "publishedAt": "2025-10-01T00:50:53Z"
-        },
-        {
-            "source": {
-                "id": "26269dbc42635df9af8c24f3cdab8e37",
-                "name": "Cable News Network",
-                "url": "https://edition.cnn.com",
-                "country": "us"
-            },
-            "title": "After cuts to research funding, Trump pledges millions for pediatric cancer initiative involving AI",
-            "url": "https://edition.cnn.com/2025/09/30/health/pediatric-cancer-initiative-ai",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap23242617005362.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2025-10-01T00:04:24Z"
-        },
-        {
-            "source": {
-                "id": "d5a02d07558c5563d72576efc406e608",
-                "name": "ABC17News.com",
-                "url": "https://abc17news.com",
-                "country": "us"
-            },
-            "title": "After cuts to research funding, Trump pledges millions for pediatric cancer initiative involving AI",
-            "url": "https://abc17news.com/cnn-health/2025/09/30/after-cuts-to-research-funding-trump-pledges-millions-for-pediatric-cancer-initiative-involving-ai/",
-            "urlToImage": "https://abc17news.b-cdn.net/abc17news.com/2025/10/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWc3MjV1cGowMDBuMzM2bjc2eDQ5cGZr-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtZzcyM29razAwMXoyN3AwOHNuMGFma2g-scaled.jpg",
-            "publishedAt": "2025-10-01T00:04:24Z"
-        },
-        {
-            "source": {
-                "id": "8e9ab8327c5f7903cc1b50470411d165",
-                "name": "GlobeNewswire",
-                "url": "https://www.globenewswire.com",
-                "country": "us"
-            },
-            "title": "Inuvo Appoints Rob Buchner as Chief Operating Officer to",
-            "url": "https://www.globenewswire.com/news-release/2025/10/01/3159499/0/en/Inuvo-Appoints-Rob-Buchner-as-Chief-Operating-Officer-to-Accelerate-Growth-of-IntentKey.html",
-            "urlToImage": "https://ml.globenewswire.com/Resource/Download/903acacb-bfd5-44e6-b66d-7c0e2ab2317b",
-            "publishedAt": "2025-10-01T00:00:00Z"
         }
     ]
 }
