@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-10-03T20:15:49.773129Z",
+    "lastUpdatedAt": "2025-10-03T21:12:11.534437Z",
     "articles": [
+        {
+            "source": {
+                "id": "091dc78b9d3467c25d28c392b1c1c4c2",
+                "name": "The Philadelphia Inquirer",
+                "url": "https://www.inquirer.com",
+                "country": "us"
+            },
+            "title": "‘AI actor’ Tilly Norwood stirs outrage in Hollywood",
+            "url": "https://www.inquirer.com/business/ai-actor-tilly-norwood-hollywood-outrage-sag-aftra-20251003.html",
+            "urlToImage": "https://www.inquirer.com/resizer/v2/N3YQGNJ665Z7KR72M6D5IKHGRA.jpg?auth=66f34a176f6cd15c67a3edf767af167eef7614551d893ca8395939a116d327ca&width=760&height=507&smart=true",
+            "publishedAt": "2025-10-03T09:00:01Z"
+        },
+        {
+            "source": {
+                "id": "dcb757ba5480d7edec9ca152d58b7d3d",
+                "name": "Swissinfo (EN)",
+                "url": "https://www.swissinfo.ch",
+                "country": "ch"
+            },
+            "title": "Stocks Rally Further as AI Deal Spree Rolls On: Markets Wrap",
+            "url": "https://www.swissinfo.ch/eng/stocks-rally-further-as-ai-deal-spree-rolls-on%3a-markets-wrap/90106678",
+            "urlToImage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1756933286",
+            "publishedAt": "2025-10-03T08:59:50Z"
+        },
+        {
+            "source": {
+                "id": "e479ce8332aab31d8bac6ba9584cedbb",
+                "name": "Republic World",
+                "url": "https://www.republicworld.com",
+                "country": "in"
+            },
+            "title": "Ashwini Vaishnaw Launches NIELIT Digital University to Boost High-Quality Digital Education, Inaugurates Five New Centres",
+            "url": "https://www.republicworld.com/education/ashwini-vaishnaw-launches-nielit-digital-university-to-boost-high-quality-digital-education-inaugurates-five-new-centres",
+            "urlToImage": "https://img.republicworld.com/all_images/union-minister-shri-ashwini-vaishnaw-launches-the-nielit-digital-university-1759480004692-16_9.webp",
+            "publishedAt": "2025-10-03T08:26:50Z"
+        },
         {
             "source": {
                 "id": "1e30d944d63d9090db5a2c2e28a8772f",
@@ -636,6 +672,78 @@
             "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1013541",
             "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1013541.g008&size=inline",
             "publishedAt": "2025-10-03T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "nytimes"
+            },
+            "title": "OpenAI’s Sora Makes Disinformation Extremely Easy and Extremely Real",
+            "url": "https://www.nytimes.com/2025/10/03/technology/sora-openai-video-disinformation.html",
+            "urlToImage": "https://static01.nyt.com/images/2025/10/03/multimedia/03biz-sora-disinfo-fzbk/03biz-sora-disinfo-fzbk-articleLarge.jpg?auto=webp&disable=upscale&quality=75",
+            "publishedAt": "2025-10-03 09:03:26"
+        },
+        {
+            "source": {
+                "name": "techxplore"
+            },
+            "title": "Cracking a long-standing weakness in a classic algorithm for programming reconfigurable chips",
+            "url": "https://techxplore.com/news/2025-10-weakness-classic-algorithm-reconfigurable-chips.html",
+            "urlToImage": "https://scx1.b-cdn.net/csz/news/tmb/2024/algorithm-data-1.jpg",
+            "publishedAt": "2025-10-03 08:57:05"
+        },
+        {
+            "source": {
+                "name": "abcnews"
+            },
+            "title": "Nvidia and Fujitsu agree to work together on AI robots and other technology",
+            "url": "https://abcnews.go.com/Technology/wireStory/nvidia-fujitsu-agree-work-ai-robots-technology-126173402",
+            "urlToImage": "https://s.abcnews.com/images/International/wirestory_3e800f495124c9f66fa654deaec41e52_4x3_384.jpg",
+            "publishedAt": "2025-10-03 08:53:47"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "From Cloud to Government Systems: Reinventing Public Infrastructure",
+            "url": "https://www.analyticsinsight.net/press-release/from-cloud-to-government-systems-reinventing-public-infrastructure",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-10-03%2F3ufdqu97%2FSrinivas.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-10-03 08:45:00"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "Mira Murati’s Thinking Machines Lab Unveils New AI Tinker Product Which Is Useful But Not A Big-Time Blockbuster",
+            "url": "https://www.forbes.com/sites/lanceeliot/2025/10/03/mira-muratis-thinking-machines-lab-unveils-new-ai-tinker-product-which-is-useful-but-not-a-big-time-blockbuster/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68df87b92ce8e1251c23de40/0x0.jpg?width=960",
+            "publishedAt": "2025-10-03 08:44:24"
+        },
+        {
+            "source": {
+                "name": "expresscomputer"
+            },
+            "title": "Salesforce launches MuleSoft agent fabric to orchestrate and govern any AI agent across the agentic enterprise",
+            "url": "https://www.expresscomputer.in/news/salesforce-launches-mulesoft-agent-fabric-to-orchestrate-and-govern-any-ai-agent-across-the-agentic-enterprise/128350/",
+            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2024/11/28133454/EC-digital-art-ai-technology-750.jpg",
+            "publishedAt": "2025-10-03 08:31:47"
+        },
+        {
+            "source": {
+                "name": "cyclingnews"
+            },
+            "title": "Strava sues Garmin, demands it stops selling nearly every device - Here's why",
+            "url": "https://www.cyclingnews.com/news/strava-sues-garmin-demands-it-stops-selling-nearly-every-device-heres-why/",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/efKj3rsLBGHJbWovRVGwfR-1600-80.jpg",
+            "publishedAt": "2025-10-03 08:23:47"
+        },
+        {
+            "source": {
+                "name": "techradar"
+            },
+            "title": "Amazon's October Prime Day deals are live – I've hand-picked 50 tech gadgets that are actually worth buying",
+            "url": "https://www.techradar.com/live/news/best-october-prime-day-tech-deals-live-2025",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/6v5s4p6BeKgaJapCwpgvsg-2000-80.png",
+            "publishedAt": "2025-10-03 08:15:28"
         },
         {
             "source": {
@@ -3078,105 +3186,6 @@
             "url": "https://www.foxnews.com/tech/update-chrome-now-google-patches-new-zero-day-threat",
             "urlToImage": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/04/931/523/1-these-browser-extensions-put-millions-of-google-chrome-users-at-risk-how-to-stay-safe-intro.jpg?tl=1&ve=1",
             "publishedAt": "2025-10-02 13:03:28"
-        },
-        {
-            "source": {
-                "name": "bozemandailychronicle"
-            },
-            "title": "How VR and AI could help the next generation grow kinder and more connected",
-            "url": "https://www.bozemandailychronicle.com/ap_news/conversation/how-vr-and-ai-could-help-the-next-generation-grow-kinder-and-more-connected/article_9e88fe9f-c305-5c67-9d3d-c8b434d21a62.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png?resize=600%2C315",
-            "publishedAt": "2025-10-02 13:01:11"
-        },
-        {
-            "source": {
-                "name": "ieee_spectrum"
-            },
-            "title": "The Quest to Sequence the Genomes of Everything",
-            "url": "https://spectrum.ieee.org/whole-genome-sequencing",
-            "urlToImage": "https://spectrum.ieee.org/media-library/a-young-man-kneels-while-attempting-to-capture-in-a-plastic-vial-a-moth-perched-on-a-cylindrical-tentlike-structure-lit-from.png?id=61630853&width=980",
-            "publishedAt": "2025-10-02 13:00:04"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "How We Built a Gaming Platform That Never Takes Your Money (But Still Makes Millions)",
-            "url": "https://hackernoon.com/how-we-built-a-gaming-platform-that-never-takes-your-money-but-still-makes-millions",
-            "urlToImage": "https://hackernoon.imgix.net/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-rr03bjc.png",
-            "publishedAt": "2025-10-02 12:59:59"
-        },
-        {
-            "source": {
-                "name": "roboticstomorrow"
-            },
-            "title": "Lantronix Edge AI Drone Solution Integrates Gremsy and Teledyne FLIR Platforms for Longer, More Efficient Flight Times",
-            "url": "http://www.roboticstomorrow.com/news/2025/10/02/lantronix-edge-ai-drone-solution-integrates-gremsy-and-teledyne-flir-platforms-for-longer-more-efficient-flight-times/25621",
-            "urlToImage": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
-            "publishedAt": "2025-10-02 12:56:01"
-        },
-        {
-            "source": {
-                "name": "investing_us"
-            },
-            "title": "CoreWeave: Why the New King of AI Infrastructure Has Room to Run",
-            "url": "https://www.investing.com/analysis/coreweave-why-the-new-king-of-ai-infrastructure-has-room-to-run-200667882",
-            "urlToImage": "https://i-invdn-com.investing.com/redesign/images/seo/v2/investingcom_analysis_og.jpg",
-            "publishedAt": "2025-10-02 12:51:00"
-        },
-        {
-            "source": {
-                "name": "vice"
-            },
-            "title": "OpenAI’s New Sora 2 AI Video Generator Still Uses Copyrighted Work by Default",
-            "url": "https://www.vice.com/en/article/openai-sora-2-copyrighted-source-material/",
-            "urlToImage": "https://www.vice.com/wp-content/uploads/sites/2/2025/10/openai-sora-2-copyrighted-source-material.png?w=1024",
-            "publishedAt": "2025-10-02 12:49:14"
-        },
-        {
-            "source": {
-                "name": "insider"
-            },
-            "title": "2 top execs at Vanguard lay out their vision for quantum-powered investing",
-            "url": "https://www.businessinsider.com/quantum-computing-financial-markets-portfolio-optimization-vanguard-ibm-hsbc-2025-10",
-            "urlToImage": "https://i.insider.com/68dc1ecacc993f9955cf38bd?width=700",
-            "publishedAt": "2025-10-02 12:36:14"
-        },
-        {
-            "source": {
-                "name": "latestly"
-            },
-            "title": "xAI Hiring Alert: Elon Musk-Run AI Company Hiring Candidates for Video Games; Check Qualifications and Other Details",
-            "url": "https://www.latestly.com/socially/technology/xai-hiring-alert-elon-musk-run-ai-company-hiring-candidates-for-video-games-check-qualifications-and-other-details-7140639.html",
-            "urlToImage": "https://st1.latestly.com/wp-content/uploads/2025/09/79-1.jpg",
-            "publishedAt": "2025-10-02 12:34:11"
-        },
-        {
-            "source": {
-                "name": "cnet"
-            },
-            "title": "AI Might Not Steal as Many Jobs as You Think. Here's What Gets in Its Way",
-            "url": "https://www.cnet.com/tech/services-and-software/ai-might-not-steal-as-many-jobs-as-you-think-heres-what-gets-in-its-way/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/9197c99cfab747a0a548cde28d7f705b543122c9/hub/2025/09/26/9e0c0cc8-3d85-4259-9348-4503cb23d538/ai-cnet-1.png?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-10-02 12:30:03"
-        },
-        {
-            "source": {
-                "name": "neowin"
-            },
-            "title": "Ocenaudio 3.16.0",
-            "url": "https://www.neowin.net/forum/topic/1459769-ocenaudio-3160/?comment=599018623&do=findComment",
-            "urlToImage": "https://cdn.neowin.com/news/images/uploaded/2025/07/1752047920_ocenaudio.webp",
-            "publishedAt": "2025-10-02 11:06:02"
-        },
-        {
-            "source": {
-                "name": "hackaday"
-            },
-            "title": "The Internet We Didn’t Get",
-            "url": "https://hackaday.com/2025/10/02/the-internet-we-didnt-get/",
-            "urlToImage": "https://hackaday.com/wp-content/uploads/2025/09/xanadu-main.webp",
-            "publishedAt": "2025-10-02 11:00:36"
         }
     ]
 }
