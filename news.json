@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2025-10-03T22:13:05.182716Z",
+    "lastUpdatedAt": "2025-10-03T23:12:50.396437Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Database startup Supabase valued at $5 billion in funding led by Accel, Peak XV",
+            "url": "https://www.reuters.com/business/database-startup-supabase-notches-5-billion-valuation-funding-round-2025-10-03/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-10-03T11:12:34Z"
+        },
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "Anthropologist addresses artificial intelligence and the authority we give to it",
+            "url": "https://phys.org/news/2025-10-anthropologist-artificial-intelligence-authority.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/anthropologist-address.jpg",
+            "publishedAt": "2025-10-03T11:06:04Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "Ethereum Research Expands as Projects Like Ozak AI Explore Blockchain Use Cases",
+            "url": "https://techbullion.com/ethereum-research-expands-as-projects-like-ozak-ai-explore-blockchain-use-cases/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/10/unnamed-1-1.png",
+            "publishedAt": "2025-10-03T11:01:38Z"
+        },
+        {
+            "source": {
+                "id": "fca9664a9e215efa308045911cfc7fc3",
+                "name": "Star Tribune",
+                "url": "https://www.startribune.com",
+                "country": "us"
+            },
+            "title": "Today's college students need AI skills, but also integrity",
+            "url": "https://www.startribune.com/ai-use-college-university-chat-gpt/601485101",
+            "urlToImage": "https://arc.stimg.co/startribunemedia/ZP7BMU7HIVAKLH433JO6DQHLTA.JPG?&w=1200&ar=1.91:1&fit=crop",
+            "publishedAt": "2025-10-03T10:58:00Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "EU's Von der Leyen urges European push on AI-driven cars",
+            "url": "https://www.reuters.com/business/retail-consumer/eus-von-der-leyen-urges-european-push-ai-driven-cars-2025-10-03/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/L2S2WIOPLRMSLF7XVBEKOI2NTY.jpg?auth=2663c35f29226261b5e4e4c585d424d641fd21d39a3704874c803e484d5dbb90&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-10-03T10:46:56Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Revving Up Europe's Future with AI-Powered Cars",
+            "url": "https://www.devdiscourse.com/article/technology/3651183-revving-up-europes-future-with-ai-powered-cars",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/18_03_2025_14_05_02_5682322.png?width=920&format=jpeg",
+            "publishedAt": "2025-10-03T10:45:53Z"
+        },
+        {
+            "source": {
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com",
+                "country": "us"
+            },
+            "title": "OpenAI’s Video Generation App Sora 2 to Is ‘Hollywood’s Most Terrifying Nightmare’ - Here’s Everything We Know",
+            "url": "https://www.breitbart.com/entertainment/2025/10/03/openais-video-generation-app-sora-2-to-is-hollywoods-most-terrifying-nightmare-heres-everything-we-know/",
+            "urlToImage": "https://media.breitbart.com/media/2025/10/openaisora2-640x335.jpg",
+            "publishedAt": "2025-10-03T10:38:51Z"
+        },
         {
             "source": {
                 "id": "1b697445987e8a33f6c82842e17d60d9",
@@ -756,6 +840,87 @@
             "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1013541",
             "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1013541.g008&size=inline",
             "publishedAt": "2025-10-03T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "economictimes_indiatimes"
+            },
+            "title": "OpenAI's Sora makes disinformation extremely easy and extremely real",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openais-sora-makes-disinformation-extremely-easy-and-extremely-real/articleshow/124295103.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-55862,resizemode-75,msid-124295103/tech/artificial-intelligence/openais-sora-makes-disinformation-extremely-easy-and-extremely-real.jpg",
+            "publishedAt": "2025-10-03 11:06:59"
+        },
+        {
+            "source": {
+                "name": "thelincolnianonline"
+            },
+            "title": "Promising Blockchain Stocks To Research – October 2nd",
+            "url": "https://www.thelincolnianonline.com/2025/10/03/promising-blockchain-stocks-to-research-october-2nd.html",
+            "urlToImage": "https://www.marketbeat.com/logos/globant-sa-logo-1200x675.png?v=20240202075256",
+            "publishedAt": "2025-10-03 11:06:52"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Astronomers Discover Rare Five-Image Einstein Cross Revealing Dark Matter Halo",
+            "url": "https://www.webpronews.com/astronomers-discover-rare-five-image-einstein-cross-revealing-dark-matter-halo/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-a33db19e-4a47-43f1-938a-92c269c20fda.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-10-03 11:00:50"
+        },
+        {
+            "source": {
+                "name": "xda_developers"
+            },
+            "title": "4 things I want to see improved with Intel’s Arrow Lake Refresh",
+            "url": "https://www.xda-developers.com/things-i-want-to-see-improved-with-intels-arrow-lake-refresh/",
+            "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2024/11/intel-core-ultra-9-285k-socket-centered.jpg",
+            "publishedAt": "2025-10-03 11:00:22"
+        },
+        {
+            "source": {
+                "name": "en_prnasisa"
+            },
+            "title": "SuperX Launches the Latest XN9160-B300 AI Server, Blackwell Ultra Delivers 50% More Compute Over Blackwell",
+            "url": "https://en.prnasia.com/story/506032-0.shtml",
+            "urlToImage": "https://mma.prnasia.com/media2/2788421/B300.jpg?p=medium600",
+            "publishedAt": "2025-10-03 10:58:00"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Apple’s M5 MacBook Air: AI Upgrades, 20% Better Battery, 2025 Release",
+            "url": "https://www.webpronews.com/apples-m5-macbook-air-ai-upgrades-20-better-battery-2025-release/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-d41cd9d9-7336-488d-b46d-80d6f8ac6245.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-10-03 10:55:49"
+        },
+        {
+            "source": {
+                "name": "cision"
+            },
+            "title": "SuperX Launches the Latest XN9160-B300 AI Server, Blackwell Ultra Delivers 50% More Compute Over Blackwell",
+            "url": "https://www.prnewswire.com/news-releases/superx-launches-the-latest-xn9160-b300-ai-server-blackwell-ultra-delivers-50-more-compute-over-blackwell-302574654.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2788392/B300.jpg?p=original",
+            "publishedAt": "2025-10-03 10:35:00"
+        },
+        {
+            "source": {
+                "name": "pcworld_us"
+            },
+            "title": "Your OLED display’s worst enemy: burn-in. Here’s how to fight back",
+            "url": "https://www.pcworld.com/article/2918628/your-oled-displays-worst-enemy-burn-in-heres-how-to-fight-back.html",
+            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/10/asus-rog-swift-oled-pg27ucdm-3.jpg?quality=50&strip=all",
+            "publishedAt": "2025-10-03 10:30:00"
+        },
+        {
+            "source": {
+                "name": "cision"
+            },
+            "title": "Infosys Collaborates with Telenor Shared Services to Modernize its HR Operations with a new Oracle Fusion Cloud Human Capital Management (HCM) Solution",
+            "url": "https://www.prnewswire.com/news-releases/infosys-collaborates-with-telenor-shared-services-to-modernize-its-hr-operations-with-a-new-oracle-fusion-cloud-human-capital-management-hcm-solution-302574693.html",
+            "urlToImage": "https://mma.prnewswire.com/media/633365/5460444/Infosys_Logo.jpg?p=publish",
+            "publishedAt": "2025-10-03 10:25:00"
         },
         {
             "source": {
@@ -3063,150 +3228,6 @@
             "url": "https://www.fbherald.com/news/national/ai-can-plan-a-trip-would-you-lend-it-your-credit-card-to-book-it/article_a6dfef1b-56f3-5d31-9cda-15d54073a503.html",
             "urlToImage": "https://bloximages.chicago2.vip.townnews.com/fbherald.com/content/tncms/assets/v3/editorial/f/1f/f1f76fa4-487d-5a58-8836-05a4261e8e6f/68de88eb87726.image.jpg?resize=300%2C200",
             "publishedAt": "2025-10-02 16:55:01"
-        },
-        {
-            "source": {
-                "name": "emporiagazette"
-            },
-            "title": "AI Can Plan a Trip. Would You Lend It Your Credit Card to Book It?",
-            "url": "https://www.emporiagazette.com/news/national/article_90d1e1fd-3ea7-5dae-a2d5-b7383312a382.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/emporiagazette.com/content/tncms/assets/v3/editorial/d/28/d287c18c-07cf-5b85-a586-c06f38a016a0/68de8938a957d.image.jpg?resize=400%2C267",
-            "publishedAt": "2025-10-02 16:55:01"
-        },
-        {
-            "source": {
-                "name": "manchestertimes"
-            },
-            "title": "AI Can Plan a Trip. Would You Lend It Your Credit Card to Book It?",
-            "url": "https://www.manchestertimes.com/news/national/ai-can-plan-a-trip-would-you-lend-it-your-credit-card-to-book-it/article_a80a4a97-8772-5e14-b8ee-a93b5867d238.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/manchestertimes.com/content/tncms/assets/v3/editorial/d/52/d5243cff-9e61-5083-85ad-5cc725db3392/68de89893a897.image.jpg?resize=400%2C267",
-            "publishedAt": "2025-10-02 16:55:01"
-        },
-        {
-            "source": {
-                "name": "communitynewspapergroup"
-            },
-            "title": "AI Can Plan a Trip. Would You Lend It Your Credit Card to Book It?",
-            "url": "https://www.communitynewspapergroup.com/news/nation/ai-can-plan-a-trip-would-you-lend-it-your-credit-card-to-book-it/article_5b547ad1-7ea1-5c32-9444-c7b8c5ad010c.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/communitynewspapergroup.com/content/tncms/assets/v3/editorial/8/94/89427d5c-5cbc-5801-9eed-d247245011e1/68de893f4be57.image.jpg?resize=300%2C200",
-            "publishedAt": "2025-10-02 16:55:01"
-        },
-        {
-            "source": {
-                "name": "wyomingnews"
-            },
-            "title": "AI Can Plan a Trip. Would You Lend It Your Credit Card to Book It?",
-            "url": "https://www.wyomingnews.com/news/national/ai-can-plan-a-trip-would-you-lend-it-your-credit-card-to-book-it/article_35c39780-9fed-54cc-ac0f-5d03976d66d2.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/3/6a/36a51915-5089-5513-8f55-7b890b1152c8/68de89a6a28a1.image.jpg?resize=300%2C200",
-            "publishedAt": "2025-10-02 16:55:01"
-        },
-        {
-            "source": {
-                "name": "texastribune"
-            },
-            "title": "Economic boom or environmental disaster? Rural Texas grapples with pros, cons of data centers",
-            "url": "https://feeds.texastribune.org/link/16799/17176227/rural-texas-data-centers-water",
-            "urlToImage": "https://thumbnails.texastribune.org/iN1Ry3LaRPibtJhjrvTYBcx-g6Q=/850x570/smart/filters:quality(75)/https://static.texastribune.org/media/files/d325aa0f0a16f76ff52d267d870f641a/20250923%20Kendra%20City%20Hall%20PT%2003.jpg",
-            "publishedAt": "2025-10-02 16:15:18"
-        },
-        {
-            "source": {
-                "name": "hastingstribune"
-            },
-            "title": "Boyd to Present Rack Emulator for Multigenerational NVIDIA Blackwell and Rubin Rack Architectures at the 2025 OCP Global Summit",
-            "url": "https://www.hastingstribune.com/ap/business/boyd-to-present-rack-emulator-for-multigenerational-nvidia-blackwell-and-rubin-rack-architectures-at-the/article_d580f46c-80e3-519a-920d-032c515ff5f3.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/hastingstribune.com/content/tncms/assets/v3/editorial/0/93/093f14fd-f78a-589a-8c89-44fbf282d920/68dea6f62aa91.image.jpg?resize=255%2C500",
-            "publishedAt": "2025-10-02 16:13:01"
-        },
-        {
-            "source": {
-                "name": "english_jagran"
-            },
-            "title": "Windows 10 Support Ends In 2025 What Every User Needs To Know",
-            "url": "https://www.thedailyjagran.com/technology/windows-10-support-ends-in-2025-what-every-user-needs-to-know-10271118",
-            "urlToImage": "https://imgeng.jagran.com/images/2025/06/03/article/image/Windows11-1748955091579.webp",
-            "publishedAt": "2025-10-02 16:04:07"
-        },
-        {
-            "source": {
-                "name": "ieee_spectrum"
-            },
-            "title": "The Story of Engineering Is the Story of Scale",
-            "url": "https://spectrum.ieee.org/engineering-scale",
-            "urlToImage": "https://spectrum.ieee.org/media-library/robot-head-made-from-measuring-tools-rulers-and-protractors-against-a-dark-blue-background.png?id=61617637&width=980",
-            "publishedAt": "2025-10-02 16:00:03"
-        },
-        {
-            "source": {
-                "name": "techradar"
-            },
-            "title": "Sora 2 has arrived - can the uncanny valley explain why AI images and videos feel so weird?",
-            "url": "https://www.techradar.com/ai-platforms-assistants/sora-2-has-arrived-can-the-uncanny-valley-explain-why-ai-images-and-videos-feel-so-weird",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/LJ7xXkLMRdgVo8vT4Ccgrb.jpg",
-            "publishedAt": "2025-10-02 16:00:00"
-        },
-        {
-            "source": {
-                "name": "breitbart"
-            },
-            "title": "Meta to Use AI Chats for Personalized Ads on Facebook, Instagram",
-            "url": "https://www.breitbart.com/tech/2025/10/02/meta-to-use-ai-chats-for-personalized-ads-on-facebook-instagram/",
-            "urlToImage": "https://media.breitbart.com/media/2025/10/Mark-Zuckerberg-leverages-Meta-AI-for-ads-640x480.jpg",
-            "publishedAt": "2025-10-02 15:55:13"
-        },
-        {
-            "source": {
-                "name": "slashgear"
-            },
-            "title": "Why You Should Keep Android's Private DNS Mode Turned On (And How To Change Providers)",
-            "url": "https://www.slashgear.com/1981907/android-private-dns-mode-reason-why-important-have-turned-on/",
-            "urlToImage": "https://www.slashgear.com/img/gallery/why-you-should-keep-androids-private-dns-mode-turned-on-and-how-to-change-providers/l-intro-1759169001.jpg",
-            "publishedAt": "2025-10-02 15:45:00"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Alexander Jabbour on Building Real-Time Sales AI From 0-to-1 at Rilla",
-            "url": "https://hackernoon.com/alexander-jabbour-on-building-real-time-sales-ai-from-0-to-1-at-rilla",
-            "urlToImage": "https://hackernoon.imgix.net/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-3503bc5.png",
-            "publishedAt": "2025-10-02 15:44:59"
-        },
-        {
-            "source": {
-                "name": "siliconangle"
-            },
-            "title": "Botnets are getting smarter and more dangerous",
-            "url": "https://siliconangle.com/2025/10/02/botnets-getting-smarter-dangerous/",
-            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/03/bots.png",
-            "publishedAt": "2025-10-02 15:41:27"
-        },
-        {
-            "source": {
-                "name": "techcrunch"
-            },
-            "title": "Perplexity’s Comet AI browser now free; Max users get new ‘background assistant’",
-            "url": "https://techcrunch.com/2025/10/02/perplexitys-comet-ai-browser-now-free-max-users-get-new-background-assistant/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2181313521.jpg?w=1024",
-            "publishedAt": "2025-10-02 15:36:09"
-        },
-        {
-            "source": {
-                "name": "interestingengineering"
-            },
-            "title": "Airbus bets on 3D-printed heat exchanger to cool future hydrogen-electric jets",
-            "url": "https://interestingengineering.com/innovation/3d-printed-heat-exchanger-for-airbus",
-            "urlToImage": "https://cms.interestingengineering.com/wp-content/uploads/2025/10/Thumbnails-for-IE-articles-Airbus-Zero-E-Heat-exchange-electric-plane-3D-printed.jpg",
-            "publishedAt": "2025-10-02 15:22:30"
-        },
-        {
-            "source": {
-                "name": "pcgamer"
-            },
-            "title": "Nonprofit turned investment magnet OpenAI is now valued at $500 billion",
-            "url": "https://www.pcgamer.com/software/ai/nonprofit-turned-investment-magnet-openai-is-now-valued-at-usd500-billion/",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/42d22FVSdk7rEGAUQyVYPA-1280-80.jpg",
-            "publishedAt": "2025-10-02 15:19:02"
         }
     ]
 }
