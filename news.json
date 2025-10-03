@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2025-10-03T02:53:26.595950Z",
+    "lastUpdatedAt": "2025-10-03T03:25:16.722727Z",
     "articles": [
+        {
+            "source": {
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com",
+                "country": "us"
+            },
+            "title": "Artificial Intelligence and the Erosion of Trust",
+            "url": "https://www.breitbart.com/tech/2025/10/02/exclusive-dr-ben-carson-artificial-intelligence-and-the-erosion-of-trust/",
+            "urlToImage": "https://media.breitbart.com/media/2025/10/ben-carson-speaking-lights-AP-640x335.jpg",
+            "publishedAt": "2025-10-02T15:25:14Z"
+        },
+        {
+            "source": {
+                "id": "72ea416416ab0eec8fe687d6262961e8",
+                "name": "Finbold",
+                "url": "https://finbold.com",
+                "country": "bg"
+            },
+            "title": "Machine learning algorithm predicts Bitcoin price for October 31, 2025",
+            "url": "https://finbold.com/machine-learning-algorithm-predicts-bitcoin-price-for-october-31-2025/",
+            "urlToImage": "https://assets.finbold.com/uploads/2025/10/Machine-learning-algorithm-predicts-Bitcoin-price-for-October-31-2025.jpg",
+            "publishedAt": "2025-10-02T15:12:19Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Vaishnaw asks NIELIT to partner with 500 top firms to impart industry",
+            "url": "https://economictimes.indiatimes.com/tech/technology/vaishnaw-asks-nielit-to-partner-with-500-top-firms-to-impart-industry-driven-training/articleshow/124275962.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-103,resizemode-75,msid-124275962/tech/technology/vaishnaw-asks-nielit-to-partner-with-500-top-firms-to-impart-industry-driven-training.jpg",
+            "publishedAt": "2025-10-02T15:06:02Z"
+        },
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "From job ads to press releases: AI-written content rises sharply across multiple sectors",
+            "url": "https://phys.org/news/2025-09-job-ads-ai-written-content.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/office-slacker.jpg",
+            "publishedAt": "2025-10-02T15:00:08Z"
+        },
+        {
+            "source": {
+                "id": "c24832368cd2d9132598ad4bef08e0ab",
+                "name": "Investopedia",
+                "url": "https://www.investopedia.com",
+                "country": "us"
+            },
+            "title": "OpenAI Is World's Top Startup With $500B Valuation After Employee Share Sale",
+            "url": "https://www.investopedia.com/openai-is-worlds-top-startup-with-500b-valuation-after-employee-share-sale-11822885",
+            "urlToImage": "https://www.investopedia.com/thmb/QAY7rvYK5XqZT9RVJdaJfBUqy5c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2197366908-759e5afee06647bc9689a4fa2e3461c2.jpg",
+            "publishedAt": "2025-10-02T14:54:23Z"
+        },
         {
             "source": {
                 "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
@@ -816,6 +876,69 @@
             "url": "https://www.forbes.com/sites/thomasbrewster/2025/10/02/government-shutdown-cisa-weaker-insiders-say/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68ded5a83b6527a85f70cf17/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-10-02T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "interestingengineering"
+            },
+            "title": "Airbus bets on 3D-printed heat exchanger to cool future hydrogen-electric jets",
+            "url": "https://interestingengineering.com/innovation/3d-printed-heat-exchanger-for-airbus",
+            "urlToImage": "https://cms.interestingengineering.com/wp-content/uploads/2025/10/Thumbnails-for-IE-articles-Airbus-Zero-E-Heat-exchange-electric-plane-3D-printed.jpg",
+            "publishedAt": "2025-10-02 15:22:30"
+        },
+        {
+            "source": {
+                "name": "pcgamer"
+            },
+            "title": "Nonprofit turned investment magnet OpenAI is now valued at $500 billion",
+            "url": "https://www.pcgamer.com/software/ai/nonprofit-turned-investment-magnet-openai-is-now-valued-at-usd500-billion/",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/42d22FVSdk7rEGAUQyVYPA-1280-80.jpg",
+            "publishedAt": "2025-10-02 15:19:02"
+        },
+        {
+            "source": {
+                "name": "techxplore"
+            },
+            "title": "Boom or bubble: How long can the AI investment craze last?",
+            "url": "https://techxplore.com/news/2025-10-boom-ai-investment-craze.html",
+            "urlToImage": "https://scx1.b-cdn.net/csz/news/tmb/2025/openai-led-by-ceo-sam.jpg",
+            "publishedAt": "2025-10-02 15:14:51"
+        },
+        {
+            "source": {
+                "name": "techtarget"
+            },
+            "title": "How effective is your AI agent? 9 benchmarks to consider",
+            "url": "https://www.techtarget.com/searchsoftwarequality/tip/How-effective-is-your-AI-agent-benchmarks-to-consider",
+            "urlToImage": "https://www.techtarget.com/rms/onlineimages/ai_a311883856_searchsitetablet_520X173.jpg",
+            "publishedAt": "2025-10-02 15:14:00"
+        },
+        {
+            "source": {
+                "name": "cyclingnews"
+            },
+            "title": "Wahoo Elemnt Bolt V3 Review: Baby Bear is probably all you need, but there are still some teething troubles with the user interface",
+            "url": "https://www.cyclingnews.com/reviews/wahoo-bolt-v3-review/",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/L6GZerJe5CABhrmtBydHZN-2560-80.jpg",
+            "publishedAt": "2025-10-02 15:11:34"
+        },
+        {
+            "source": {
+                "name": "phys"
+            },
+            "title": "Social media surveillance is ubiquitous, according to research literature review",
+            "url": "https://phys.org/news/2025-10-social-media-surveillance-ubiquitous-literature.html",
+            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2024/surveillance.jpg",
+            "publishedAt": "2025-10-02 15:09:02"
+        },
+        {
+            "source": {
+                "name": "fortune"
+            },
+            "title": "More bad news for Gen Z grads: Even LinkedIn’s CEO is saying the future of work won’t belong to people with degrees anymore",
+            "url": "https://fortune.com/2025/10/02/gen-z-graduates-linkedin-ceo-college-degrees-future-of-work-ai-skills-hiring-career-advice/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-1341518520-e1759417019552.jpg?w=2048",
+            "publishedAt": "2025-10-02 15:07:01"
         },
         {
             "source": {
@@ -3216,114 +3339,6 @@
             "url": "https://in.mashable.com/tech/100517/sora-2-vibes-feed-how-much-ai-video-do-we-need",
             "urlToImage": "https://sm.mashable.com/mashable_in/article/s/sora-2-vib/sora-2-vibes-feed-how-much-ai-video-do-we-need_njad.jpg",
             "publishedAt": "2025-10-01 23:13:31"
-        },
-        {
-            "source": {
-                "name": "mashable_me"
-            },
-            "title": "Sora 2, Vibes, Feed: How much AI video do we need?",
-            "url": "https://me.mashable.com/tech/61809/sora-2-vibes-feed-how-much-ai-video-do-we-need",
-            "urlToImage": "https://sm.mashable.com/mashable_me/article/s/sora-2-vib/sora-2-vibes-feed-how-much-ai-video-do-we-need_em2z.jpg",
-            "publishedAt": "2025-10-01 23:13:31"
-        },
-        {
-            "source": {
-                "name": "headtopics"
-            },
-            "title": "Apple sidelines lighter Vision Pro to prioritize smart glasses",
-            "url": "https://us.headtopics.com/news/apple-sidelines-lighter-vision-pro-to-prioritize-smart-73810300",
-            "urlToImage": "https://i.headtopics.com/images/2025/9/30/cnbc/here-are-tuesday-s-biggest-analyst-calls-nvidia-ap-here-are-tuesday-s-biggest-analyst-calls-nvidia-ap-6E53523F604B5F1242482059DE2A7BF9.webp?w=640",
-            "publishedAt": "2025-10-01 23:09:23"
-        },
-        {
-            "source": {
-                "name": "headtopics"
-            },
-            "title": "T-Mobile whips out a forgotten tactic to make some of you pay more",
-            "url": "https://us.headtopics.com/news/t-mobile-whips-out-a-forgotten-tactic-to-make-some-of-you-73810456",
-            "urlToImage": "https://i.headtopics.com/images/2025/9/30/phonearena/t-mobile-s-mobile-cleaning-kit-giveaway-delayed-t-mobile-s-mobile-cleaning-kit-giveaway-delayed-A426717CA51BA108A795F986BA50C0EB.webp?w=640",
-            "publishedAt": "2025-10-01 23:09:14"
-        },
-        {
-            "source": {
-                "name": "androidheadlines"
-            },
-            "title": "Qualcomm to Adopt Arm's v9 for its Next-Gen Flagship Chips",
-            "url": "https://www.androidheadlines.com/2025/10/qualcomm-adopt-arm-v9-architecture-flagship-chips.html",
-            "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2024/02/AH-Qualcomm-Logo-2-1-1420x799.webp",
-            "publishedAt": "2025-10-01 22:42:40"
-        },
-        {
-            "source": {
-                "name": "headtopics"
-            },
-            "title": "Polestar 3 gets high-powered update for 2026 | Car News",
-            "url": "https://us.headtopics.com/news/polestar-3-gets-high-powered-update-for-2026-car-news-73809762",
-            "urlToImage": "https://i.headtopics.com/images/2025/9/30/motortrend/2026-subaru-crosstrek-hybrid-first-drive-finally-p-2026-subaru-crosstrek-hybrid-first-drive-finally-p-89E25130B0865E5EC36A088B41CB05A2.webp?w=640",
-            "publishedAt": "2025-10-01 22:39:34"
-        },
-        {
-            "source": {
-                "name": "nwitimes"
-            },
-            "title": "PsiQuantum breaks ground on quantum computing park at former U.S. Steel South Works mill",
-            "url": "https://www.nwitimes.com/news/local/business/article_dccfc880-5b11-4db8-a399-a30f366f8fa6.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/d/cc/dccfc880-5b11-4db8-a399-a30f366f8fa6/68dd8633070a3.preview.jpg?crop=1215%2C638%2C0%2C23&order=crop%2Cresize&resize=1200%2C630",
-            "publishedAt": "2025-10-01 22:02:00"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Why SCL Uses Lamport Clocks (Not Vector Clocks) to Stay Consistent",
-            "url": "https://hackernoon.com/why-scl-uses-lamport-clocks-not-vector-clocks-to-stay-consistent",
-            "urlToImage": "https://hackernoon.imgix.net/images/5wpKgV75aONqkTJlafw2yQmK9yd2-dq039xt.png",
-            "publishedAt": "2025-10-01 22:00:03"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "OpenAI Partners with Samsung, SK Hynix for $500B Stargate AI Project",
-            "url": "https://www.webpronews.com/openai-partners-with-samsung-sk-hynix-for-500b-stargate-ai-project/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-93b9963a-1913-44b3-9619-fb53e35b2876.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-10-01 21:46:33"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Cognixion Trials EEG Brain Interface for Apple Vision Pro in Paralyzed Patients",
-            "url": "https://www.webpronews.com/cognixion-trials-eeg-brain-interface-for-apple-vision-pro-in-paralyzed-patients/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-70a63064-0bd5-4b35-bc15-1877fff62942.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-10-01 21:45:57"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Amazon Unveils Four New Echo Devices Optimized for Alexa+ AI",
-            "url": "https://www.webpronews.com/amazon-unveils-four-new-echo-devices-optimized-for-alexa-ai/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-fcccc142-e30e-45a9-af6c-2ad193c59c59.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-10-01 21:43:32"
-        },
-        {
-            "source": {
-                "name": "thestreet"
-            },
-            "title": "Amazon’s new Alexa feature impacts Nvidia",
-            "url": "https://www.thestreet.com/technology/amazons-new-alexa-feature-impacts-nvidia",
-            "urlToImage": "https://www.thestreet.com/.image/c_fit,h_800,w_1200/MjE2ODE2NDkxNDExMDIzMzc5/amazon-echo-lead-.jpg",
-            "publishedAt": "2025-10-01 21:37:00"
-        },
-        {
-            "source": {
-                "name": "capjournal"
-            },
-            "title": "Amazon’s new Alexa feature impacts Nvidia",
-            "url": "https://www.capjournal.com/arena/finance/amazon-s-new-alexa-feature-impacts-nvidia/article_c5af021e-75e9-5e37-b55d-b2efd1d64f85.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/capjournal.com/content/tncms/assets/v3/editorial/d/83/d83925f0-7c39-541c-bb95-dea4f3dda509/68dda9e0d4007.image.jpg?resize=300%2C169",
-            "publishedAt": "2025-10-01 21:37:00"
         }
     ]
 }
