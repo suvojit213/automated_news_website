@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2025-10-03T21:12:11.534437Z",
+    "lastUpdatedAt": "2025-10-03T22:13:05.182716Z",
     "articles": [
+        {
+            "source": {
+                "id": "1b697445987e8a33f6c82842e17d60d9",
+                "name": "Bnn Bloomberg",
+                "url": "https://www.bnnbloomberg.ca",
+                "country": "ca"
+            },
+            "title": "Nvidia and Fujitsu agree to work together on AI",
+            "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2025/10/03/nvidia-and-fujitsu-agree-to-work-together-on-ai-robots-and-other-technology/",
+            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/KKQMFZ2RNHU3NHN2KGEFZBOZWE.jpg?smart=true&auth=fabefa24887e22422a124008a136854977619913dfbac96bdf3b7bc37cf88324&width=1200&height=630",
+            "publishedAt": "2025-10-03T10:09:23Z"
+        },
+        {
+            "source": {
+                "id": "85e5403407038478a5e7d8d100ff8e8f",
+                "name": "CP24 Toronto",
+                "url": "https://www.cp24.com",
+                "country": "ca"
+            },
+            "title": "Nvidia and Fujitsu agree to work together on AI",
+            "url": "https://www.cp24.com/news/money/2025/10/03/nvidia-and-fujitsu-agree-to-work-together-on-ai-robots-and-other-technology/",
+            "urlToImage": "https://www.cp24.com/resizer/v2/KKQMFZ2RNHU3NHN2KGEFZBOZWE.jpg?smart=true&auth=fabefa24887e22422a124008a136854977619913dfbac96bdf3b7bc37cf88324&width=1200&height=630",
+            "publishedAt": "2025-10-03T10:09:23Z"
+        },
+        {
+            "source": {
+                "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
+                "name": "Fortune",
+                "url": "https://fortune.com",
+                "country": "us"
+            },
+            "title": "Meet Mira Murati, the 36-year-old tech prodigy who shot to fame at OpenAI and now runs a startup that's a poaching target for Mark Zuckerberg",
+            "url": "https://fortune.com/2025/10/03/mira-murati-career-ai-thinking-machines-goldman-sachs-tesla-leap-openai/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-2151935071-e1759430729242.jpg?resize=1200,600",
+            "publishedAt": "2025-10-03T10:05:00Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "Tax Bots Are Coming for Your Accountant (And They Work Weekends)",
+            "url": "https://techbullion.com/tax-bots-are-coming-for-your-accountant-and-they-work-weekends/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/10/IMG-20251003-WA0001-1000x600.jpg",
+            "publishedAt": "2025-10-03T09:56:47Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "'We all should stand together for a safer digital world': Rani Mukerji",
+            "url": "https://www.livemint.com/entertainment/we-all-should-stand-together-for-a-safer-digital-world-rani-mukerji-11759485037302.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2025/03/17/1600x900/logo/entertainmentlm2_1742216253443_1742216302206.webp",
+            "publishedAt": "2025-10-03T09:50:36Z"
+        },
+        {
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            },
+            "title": "'We all should stand together for a safer digital world': Rani Mukerji",
+            "url": "https://www.lokmattimes.com/entertainment/we-all-should-stand-together-for-a-safer-digital-world-rani-mukerji/",
+            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20251003094235_202510.jpg",
+            "publishedAt": "2025-10-03T09:42:51Z"
+        },
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "AI tools predict seizure outcomes in mouse models by recognizing fine motor differences",
+            "url": "https://medicalxpress.com/news/2025-10-ai-tools-seizure-outcomes-mouse.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/ai-tools-predict-seizu.jpg",
+            "publishedAt": "2025-10-03T09:13:06Z"
+        },
         {
             "source": {
                 "id": "091dc78b9d3467c25d28c392b1c1c4c2",
@@ -672,6 +756,87 @@
             "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1013541",
             "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1013541.g008&size=inline",
             "publishedAt": "2025-10-03T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "benzinga"
+            },
+            "title": "Nvidia And Fujitsu Team Up To Build AI Systems For The Future",
+            "url": "https://www.benzinga.com/markets/tech/25/10/48012320/nvidia-and-fujitsu-team-up-to-build-ai-systems-for-the-future",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/10/03/Nvidia-Corporation-Logo-Displayed-On-Sma.jpeg?auto=jpg&dpr=1&fit=crop&height=480&optimize=medium&width=720",
+            "publishedAt": "2025-10-03 10:09:03"
+        },
+        {
+            "source": {
+                "name": "newswise"
+            },
+            "title": "New Antibiotic Targets IBD -- and AI Predicted How It Would Work Before Scientists Could Prove It",
+            "url": "https://www.newswise.com/articles/new-antibiotic-targets-ibd-and-ai-predicted-how-it-would-work-before-scientists-could-prove-it/?sc=rsla",
+            "urlToImage": "https://www.newswise.com/legacy/image.php?height=334&image=%2Fimages%2Fuploads%2F2025%2F10%2F1%2FStokes-Catacutan+FINAL.jpg&width=502",
+            "publishedAt": "2025-10-03 10:06:14"
+        },
+        {
+            "source": {
+                "name": "xda_developers"
+            },
+            "title": "6 laptop accessories that are absolutely gamechanging",
+            "url": "https://www.xda-developers.com/laptop-accessories-that-are-absolutely-gamechanging/",
+            "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2024/03/desklabs-portable-monitor-showing-netflix-2.jpg",
+            "publishedAt": "2025-10-03 10:01:22"
+        },
+        {
+            "source": {
+                "name": "newscientist"
+            },
+            "title": "Kids as young as 4 innately use sorting algorithms to solve problems",
+            "url": "https://www.newscientist.com/article/2498204-kids-as-young-as-4-innately-use-sorting-algorithms-to-solve-problems/",
+            "urlToImage": "https://images.newscientist.com/wp-content/uploads/2025/10/02200745/SEI_268673545.jpg",
+            "publishedAt": "2025-10-03 10:00:11"
+        },
+        {
+            "source": {
+                "name": "computerworld_in"
+            },
+            "title": "Switching places: Intel fades as Apple rises",
+            "url": "https://www.computerworld.com/article/4067467/switching-places-intel-fades-as-apple-rises.html",
+            "urlToImage": "https://www.computerworld.com/wp-content/uploads/2025/10/4067467-0-68976700-1759485911-shutterstock_2652866305.jpg?quality=50&strip=all",
+            "publishedAt": "2025-10-03 10:00:00"
+        },
+        {
+            "source": {
+                "name": "cio_in"
+            },
+            "title": "Are your agentic AI projects driving toward success?",
+            "url": "https://www.cio.com/article/4067338/ai-agentics-key-factors-for-steering-projects-toward-success.html",
+            "urlToImage": "https://www.cio.com/wp-content/uploads/2025/10/4067338-0-21355200-1759485818-shutterstock_1675947640.jpg?quality=50&strip=all&w=1024",
+            "publishedAt": "2025-10-03 10:00:00"
+        },
+        {
+            "source": {
+                "name": "roboticsandautomationnews"
+            },
+            "title": "Fujitsu expands partnership with Nvidia to build ‘full-stack AI infrastructure’",
+            "url": "https://roboticsandautomationnews.com/2025/10/03/fujitsu-expands-partnership-with-nvidia-to-build-full-stack-ai-infrastructure/95131/",
+            "urlToImage": "https://roboticsandautomationnews.com/wp-content/uploads/2025/10/fujitsu-nvidia-ai-partnership-1.jpg",
+            "publishedAt": "2025-10-03 09:39:57"
+        },
+        {
+            "source": {
+                "name": "fortune"
+            },
+            "title": "Tilly Norwood is a warning and a lesson to humans about the future power of AI",
+            "url": "https://fortune.com/2025/10/03/tilly-norwood-ai-warning-lesson/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/tilly-norwood-ai-actress-1146558.jpg?w=2048",
+            "publishedAt": "2025-10-03 09:22:38"
+        },
+        {
+            "source": {
+                "name": "techxplore"
+            },
+            "title": "Humanoid robots in the home? Not so fast, says expert",
+            "url": "https://techxplore.com/news/2025-10-humanoid-robots-home-fast-expert.html",
+            "urlToImage": "https://scx1.b-cdn.net/csz/news/tmb/2023/humanoid.jpg",
+            "publishedAt": "2025-10-03 09:19:41"
         },
         {
             "source": {
@@ -3042,150 +3207,6 @@
             "url": "https://www.pcgamer.com/software/ai/nonprofit-turned-investment-magnet-openai-is-now-valued-at-usd500-billion/",
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/42d22FVSdk7rEGAUQyVYPA-1280-80.jpg",
             "publishedAt": "2025-10-02 15:19:02"
-        },
-        {
-            "source": {
-                "name": "techxplore"
-            },
-            "title": "Boom or bubble: How long can the AI investment craze last?",
-            "url": "https://techxplore.com/news/2025-10-boom-ai-investment-craze.html",
-            "urlToImage": "https://scx1.b-cdn.net/csz/news/tmb/2025/openai-led-by-ceo-sam.jpg",
-            "publishedAt": "2025-10-02 15:14:51"
-        },
-        {
-            "source": {
-                "name": "techtarget"
-            },
-            "title": "How effective is your AI agent? 9 benchmarks to consider",
-            "url": "https://www.techtarget.com/searchsoftwarequality/tip/How-effective-is-your-AI-agent-benchmarks-to-consider",
-            "urlToImage": "https://www.techtarget.com/rms/onlineimages/ai_a311883856_searchsitetablet_520X173.jpg",
-            "publishedAt": "2025-10-02 15:14:00"
-        },
-        {
-            "source": {
-                "name": "cyclingnews"
-            },
-            "title": "Wahoo Elemnt Bolt V3 Review: Baby Bear is probably all you need, but there are still some teething troubles with the user interface",
-            "url": "https://www.cyclingnews.com/reviews/wahoo-bolt-v3-review/",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/L6GZerJe5CABhrmtBydHZN-2560-80.jpg",
-            "publishedAt": "2025-10-02 15:11:34"
-        },
-        {
-            "source": {
-                "name": "phys"
-            },
-            "title": "Social media surveillance is ubiquitous, according to research literature review",
-            "url": "https://phys.org/news/2025-10-social-media-surveillance-ubiquitous-literature.html",
-            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2024/surveillance.jpg",
-            "publishedAt": "2025-10-02 15:09:02"
-        },
-        {
-            "source": {
-                "name": "fortune"
-            },
-            "title": "More bad news for Gen Z grads: Even LinkedIn’s CEO is saying the future of work won’t belong to people with degrees anymore",
-            "url": "https://fortune.com/2025/10/02/gen-z-graduates-linkedin-ceo-college-degrees-future-of-work-ai-skills-hiring-career-advice/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-1341518520-e1759417019552.jpg?w=2048",
-            "publishedAt": "2025-10-02 15:07:01"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "AI Data Crisis Looms: Exhaustion by 2028 Risks $800B Shortfall",
-            "url": "https://www.webpronews.com/ai-data-crisis-looms-exhaustion-by-2028-risks-800b-shortfall/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-d3f83ab6-2c6b-4049-8d51-ed88c203bde9.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-10-02 14:52:12"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Google Lays Off 100+ Cloud Staff to Focus on AI Infrastructure",
-            "url": "https://www.webpronews.com/google-lays-off-100-cloud-staff-to-focus-on-ai-infrastructure/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-94b3ae60-f3cf-48e9-ab0c-91515b2b8258.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-10-02 14:43:27"
-        },
-        {
-            "source": {
-                "name": "gatech"
-            },
-            "title": "What Happens When AI Comes to the Cotton Fields",
-            "url": "http://news.gatech.edu/news/2025/09/23/what-happens-when-ai-comes-cotton-fields",
-            "urlToImage": "https://news.gatech.edu/sites/default/files/styles/xlarge/public/hg_media/2025-02/file-20250915-56-jv2dth1.jpg?itok=1UT7Y8ab",
-            "publishedAt": "2025-10-02 14:38:58"
-        },
-        {
-            "source": {
-                "name": "digitaltrends"
-            },
-            "title": "Good news GeForce gamers, Nvidia has a significant update for your gaming laptop",
-            "url": "https://www.digitaltrends.com/computing/good-news-geforce-gamers-nvidia-has-a-significant-update-for-your-gaming-laptop/",
-            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/11/nvidia-app-desktop.jpg?p=1&resize=1200%2C630",
-            "publishedAt": "2025-10-02 14:29:22"
-        },
-        {
-            "source": {
-                "name": "slashgear"
-            },
-            "title": "What Is A Coil Pack And What Happens When One Goes Bad?",
-            "url": "https://www.slashgear.com/1981670/ignition-coil-pack-purpose-what-happens-when-bad/",
-            "urlToImage": "https://www.slashgear.com/img/gallery/what-is-a-coil-pack-and-what-happens-when-one-goes-bad/l-intro-1759163369.jpg",
-            "publishedAt": "2025-10-02 14:15:00"
-        },
-        {
-            "source": {
-                "name": "mercurynews"
-            },
-            "title": "Data centers’ huge appetite for power concerns South Bay youth",
-            "url": "https://www.mercurynews.com/2025/10/02/data-centers-huge-appetite-for-power-concerns-south-bay-youth/",
-            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/07/SJM-L-HYDRODATA-07XX-10.jpg?strip=all&w=1400px",
-            "publishedAt": "2025-10-02 14:05:16"
-        },
-        {
-            "source": {
-                "name": "bitcoinworld"
-            },
-            "title": "Psy Protocol Testnet Combines Internet Scale and Speed with Bitcoin-Level Security",
-            "url": "https://bitcoinworld.co.in/psy-protocol-testnet-combines-internet-scale-and-speed-with-bitcoin-level-security/",
-            "urlToImage": "https://bitcoinworld.co.in/wp-content/uploads/Psy_Testnet_1759339508LrqhZZaPaq.jpg",
-            "publishedAt": "2025-10-02 14:00:47"
-        },
-        {
-            "source": {
-                "name": "hackaday"
-            },
-            "title": "On 3D Scanners and Giving Kinects a New Purpose In Life",
-            "url": "https://hackaday.com/2025/10/02/on-3d-scanners-and-giving-kinects-a-new-purpose-in-life/",
-            "urlToImage": "https://hackaday.com/wp-content/uploads/2025/10/kinect.png",
-            "publishedAt": "2025-10-02 14:00:13"
-        },
-        {
-            "source": {
-                "name": "ieee_spectrum"
-            },
-            "title": "11 Oddball Technology Records You Probably Didn’t Know",
-            "url": "https://spectrum.ieee.org/11-oddball-technology-records-you-probably-didnt-know",
-            "urlToImage": "https://spectrum.ieee.org/media-library/pixel-art-trophies-and-medals-on-a-blue-background-with-various-shapes-and-designs.png?id=61609765&width=980",
-            "publishedAt": "2025-10-02 14:00:04"
-        },
-        {
-            "source": {
-                "name": "phys"
-            },
-            "title": "Fossilized ear bones rewrite the history of freshwater fish",
-            "url": "https://phys.org/news/2025-09-tiny-prehistoric-fish-fossil-catfish.html",
-            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2025/fossilized-ear-bones-r.jpg",
-            "publishedAt": "2025-10-02 14:00:03"
-        },
-        {
-            "source": {
-                "name": "foxnews"
-            },
-            "title": "Update Chrome now: Google patches new zero-day threat",
-            "url": "https://www.foxnews.com/tech/update-chrome-now-google-patches-new-zero-day-threat",
-            "urlToImage": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/04/931/523/1-these-browser-extensions-put-millions-of-google-chrome-users-at-risk-how-to-stay-safe-intro.jpg?tl=1&ve=1",
-            "publishedAt": "2025-10-02 13:03:28"
         }
     ]
 }
