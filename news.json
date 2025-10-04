@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-10-04T16:16:15.685438Z",
+    "lastUpdatedAt": "2025-10-04T17:11:40.269708Z",
     "articles": [
+        {
+            "source": {
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
+                "country": "us"
+            },
+            "title": "Jeff Bezos Calls AI Boom A Bubble - But Says It's A Good One",
+            "url": "https://www.benzinga.com/markets/tech/25/10/48031278/jeff-bezos-calls-ai-boom-a-bubble-but-says-its-a-good-one",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/10/04/Jeff-Bezos-Is-An-American-Entrepreneur-A.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2025-10-04T04:34:58Z"
+        },
+        {
+            "source": {
+                "id": "e9207083a357fb7e76b38e485888ebe7",
+                "name": "manilastandard.net",
+                "url": "https://manilastandard.net",
+                "country": "ph"
+            },
+            "title": "Sophos launches Advisory Services to deliver proactive cybersecurity resilience",
+            "url": "https://manilastandard.net/tech/314651057/sophos-launches-advisory-services-to-deliver-proactive-cybersecurity-resilience.html",
+            "urlToImage": "https://cdn.manilastandard.net/wp-content/uploads/2025/10/Sophos.jpeg",
+            "publishedAt": "2025-10-04T04:34:25Z"
+        },
         {
             "source": {
                 "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
@@ -36,6 +60,15 @@
             "url": "https://www.forbes.com/sites/lesliekatz/2025/10/04/openais-fine-print-this-time-sung-as-a-satiric-opera/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68e046c5ea7c440db8569a0e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-10-04T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "devdiscourse"
+            },
+            "title": "OpenAI's Altman seeks funds for infrastructure expansion on Asia, Middle East tour, WSJ reports",
+            "url": "https://www.devdiscourse.com/article/headlines/3652288-openais-altman-seeks-funds-for-infrastructure-expansion-on-asia-middle-east-tour-wsj-reports",
+            "urlToImage": "https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_00_51_6514463.png",
+            "publishedAt": "2025-10-04 04:46:33"
         },
         {
             "source": {
@@ -3105,33 +3138,6 @@
             "url": "https://www.xda-developers.com/signs-buying-fake-ssd-new-used-online/",
             "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2024/05/32-22.png",
             "publishedAt": "2025-10-03 00:00:20"
-        },
-        {
-            "source": {
-                "name": "financialcontent"
-            },
-            "title": "Generative AI Set to Unleash a Trillion-Dollar Transformation in Global Trading, Projecting a Staggering CAGR Through 2031",
-            "url": "https://www.financialcontent.com/article/tokenring-2025-10-3-generative-ai-set-to-unleash-a-trillion-dollar-transformation-in-global-trading-projecting-a-staggering-cagr-through-2031",
-            "urlToImage": "https://cdn.newsrpm.com/image/170167?maxWidth=1200",
-            "publishedAt": "2025-10-03 00:00:00"
-        },
-        {
-            "source": {
-                "name": "financialcontent"
-            },
-            "title": "Europe’s Chip Dream at Risk: ASML Leaders Decry EU Policy Barriers and Lack of Engagement",
-            "url": "https://www.financialcontent.com/article/tokenring-2025-10-3-europes-chip-dream-at-risk-asml-leaders-decry-eu-policy-barriers-and-lack-of-engagement",
-            "urlToImage": "https://cdn.newsrpm.com/image/170141?maxWidth=1200",
-            "publishedAt": "2025-10-03 00:00:00"
-        },
-        {
-            "source": {
-                "name": "financialcontent"
-            },
-            "title": "Apple Pivots from Vision Pro Overhaul to Accelerate AI Glasses Development",
-            "url": "https://www.financialcontent.com/article/tokenring-2025-10-3-apple-pivots-from-vision-pro-overhaul-to-accelerate-ai-glasses-development",
-            "urlToImage": "https://cdn.newsrpm.com/image/170165?maxWidth=1200",
-            "publishedAt": "2025-10-03 00:00:00"
         }
     ]
 }
