@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-10-04T17:11:40.269708Z",
+    "lastUpdatedAt": "2025-10-04T18:18:47.099241Z",
     "articles": [
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Cybersecurity in the festive season - A strategic imperative for MSMEs",
+            "url": "https://economictimes.indiatimes.com/small-biz/sme-sector/cybersecurity-in-the-festive-season-a-strategic-imperative-for-msmes/articleshow/124302741.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-124303112,width-1200,height-630,imgsize-32834,overlay-etrise/articleshow.jpg",
+            "publishedAt": "2025-10-04T05:59:00Z"
+        },
+        {
+            "source": {
+                "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
+                "name": "Outlook Business",
+                "url": "https://www.outlookbusiness.com",
+                "country": "in"
+            },
+            "title": "The Inference | AI Enters The Gym, Inside India’s Consumer AI Paradox, And More",
+            "url": "https://www.outlookbusiness.com/newsletter/the-inference-ai-enters-the-gym-inside-indias-consumer-ai-paradox-and-more",
+            "urlToImage": "https://media.assettype.com/outlookbusiness/2025-10-04/v9wq8oge/newslatter120251004.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2025-10-04T05:19:07Z"
+        },
         {
             "source": {
                 "id": "d4e7f6a65e15620f4e4044691a99d0fd",
@@ -60,6 +84,51 @@
             "url": "https://www.forbes.com/sites/lesliekatz/2025/10/04/openais-fine-print-this-time-sung-as-a-satiric-opera/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68e046c5ea7c440db8569a0e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-10-04T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "thehindu"
+            },
+            "title": "The quick-service delivery of mental health",
+            "url": "https://www.thehindu.com/sci-tech/health/mental-health-quick-service-delivery-india-ai-therapist-wysa-amaha/article70111769.ece",
+            "urlToImage": "https://th-i.thgim.com/public/life-and-style/j74s5d/article70124095.ece/alternates/LANDSCAPE_1200/Mental%20Health.jpg",
+            "publishedAt": "2025-10-04 05:57:50"
+        },
+        {
+            "source": {
+                "name": "mankatofreepress"
+            },
+            "title": "AP Business SummaryBrief at 1:26 a.m. EDT",
+            "url": "https://www.mankatofreepress.com/news/business/ap-business-summarybrief-at-1-26-a-m-edt/article_efd3c712-9558-5d02-863a-7873c10883f2.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/mankatofreepress.com/content/tncms/custom/image/5e42277e-6153-11e5-b349-8f12bc751eed.jpg?resize=600%2C315",
+            "publishedAt": "2025-10-04 05:26:42"
+        },
+        {
+            "source": {
+                "name": "postregister"
+            },
+            "title": "AP Business SummaryBrief at 1:26 a.m. EDT",
+            "url": "https://www.postregister.com/businessreport/business/ap-business-summarybrief-at-1-26-a-m-edt/article_4ee8e054-c19b-5a31-bd67-c3565726c349.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
+            "publishedAt": "2025-10-04 05:26:42"
+        },
+        {
+            "source": {
+                "name": "wvnews"
+            },
+            "title": "AP Business SummaryBrief at 1:26 a.m. EDT",
+            "url": "https://www.wvnews.com/business/ap-business-summarybrief-at-1-26-a-m-edt/article_b18add1e-ad7b-5d98-a6b2-1890dc21c5be.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/custom/image/dd23b0fa-a76a-11ea-b298-6f7943d03f88.jpg",
+            "publishedAt": "2025-10-04 05:26:42"
+        },
+        {
+            "source": {
+                "name": "hastingstribune"
+            },
+            "title": "AP Business SummaryBrief at 1:26 a.m. EDT",
+            "url": "https://www.hastingstribune.com/ap/business/ap-business-summarybrief-at-1-26-a-m-edt/article_87506829-77d0-5aaf-a032-68aa6c9c1d77.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/hastingstribune.com/content/tncms/custom/image/7b43d562-eeac-11e4-8a7b-970670abfcb2.jpg?resize=600%2C315",
+            "publishedAt": "2025-10-04 05:26:42"
         },
         {
             "source": {
@@ -3075,69 +3144,6 @@
             "url": "https://news.mit.edu/2025/secretary-energy-chris-wright-visits-mit-1003",
             "urlToImage": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202510/MIT-Energy%20Secretary-01-press.jpg?itok=2hyM-X-H",
             "publishedAt": "2025-10-03 04:00:00"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "How to Fix Gmail When It’s Not Syncing: Troubleshooting Tips",
-            "url": "https://www.analyticsinsight.net/apps/how-to-fix-gmail-when-its-not-syncing-troubleshooting-tips",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-10-01%2F2kkk1xth%2FHow-to-Fix-Gmail-When-It%E2%80%99s-Not-Syncing-Troubleshooting-Tips.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-10-03 04:00:00"
-        },
-        {
-            "source": {
-                "name": "siliconangle"
-            },
-            "title": "With new open models and simulation libraries, Nvidia aims to accelerate robotics R&D",
-            "url": "https://siliconangle.com/2025/10/02/new-open-models-simulation-libraries-nvidia-aims-accelerate-robotics-rd/",
-            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/10/Screenshot-2025-10-02-at-7.29.45-PM.png",
-            "publishedAt": "2025-10-03 03:21:48"
-        },
-        {
-            "source": {
-                "name": "chronicleonline"
-            },
-            "title": "Why academic debates about AI mislead",
-            "url": "https://www.chronicleonline.com/opinion/columnists/why-academic-debates-about-ai-mislead/article_586540d8-cf8d-5076-ae78-66ba49890576.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/chronicleonline.com/content/tncms/assets/v3/editorial/d/90/d901ad05-23e5-5304-ae15-755836a6ab5d/68dea5b7e31f7.image.png?resize=300%2C400",
-            "publishedAt": "2025-10-03 03:00:00"
-        },
-        {
-            "source": {
-                "name": "thehindu"
-            },
-            "title": "How to safeguard India’s digital economy",
-            "url": "https://www.thehindu.com/sci-tech/technology/how-to-safeguard-indias-digital-economy/article70117823.ece",
-            "urlToImage": "https://th-i.thgim.com/public/incoming/ariv7q/article70118968.ece/alternates/LANDSCAPE_1200/iStock-2153231940.jpg",
-            "publishedAt": "2025-10-03 03:00:00"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "How Model Predictive Control Stabilizes Token Prices",
-            "url": "https://hackernoon.com/how-model-predictive-control-stabilizes-token-prices",
-            "urlToImage": "https://hackernoon.imgix.net/images/5wpKgV75aONqkTJlafw2yQmK9yd2-ps03be4.png",
-            "publishedAt": "2025-10-03 02:22:52"
-        },
-        {
-            "source": {
-                "name": "newswise"
-            },
-            "title": "Parallel Atom-Photon Entanglement Paves Way for Future Quantum Networking",
-            "url": "https://www.newswise.com/articles/parallel-atom-photon-entanglement-paves-way-for-future-quantum-networking/?sc=rsla",
-            "urlToImage": "https://www.newswise.com/legacy/image.php?height=334&image=%2Fimages%2Fuploads%2F2025%2F10%2F02%2F68de9ea2e5a77_covey.png&width=502",
-            "publishedAt": "2025-10-03 00:28:31"
-        },
-        {
-            "source": {
-                "name": "xda_developers"
-            },
-            "title": "6 signs the SSD you're about to buy is fake",
-            "url": "https://www.xda-developers.com/signs-buying-fake-ssd-new-used-online/",
-            "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2024/05/32-22.png",
-            "publishedAt": "2025-10-03 00:00:20"
         }
     ]
 }
