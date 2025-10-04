@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-10-04T22:12:53.215363Z",
+    "lastUpdatedAt": "2025-10-04T23:13:28.488249Z",
     "articles": [
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "CT scan changes over one year predict outcomes in fibrotic lung disease",
+            "url": "https://medicalxpress.com/news/2025-10-ct-scan-year-outcomes-fibrotic.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/lung.jpg",
+            "publishedAt": "2025-10-04T10:24:24Z"
+        },
         {
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -168,6 +180,78 @@
             "url": "https://www.forbes.com/sites/lesliekatz/2025/10/04/openais-fine-print-this-time-sung-as-a-satiric-opera/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68e046c5ea7c440db8569a0e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-10-04T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "The best power banks of 2025: Expert tested and reviewed",
+            "url": "https://www.zdnet.com/article/best-power-banks/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/d7f59dc4aaa98c31b3cb3702cc734d458249b46e/2024/11/09/99e9e605-5997-4b0c-93c2-6b1894d5263c/img-1835.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-10-04 11:00:32"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Microsoft Shifts to Custom Chips for AI, Reducing Nvidia and AMD Reliance",
+            "url": "https://www.webpronews.com/microsoft-shifts-to-custom-chips-for-ai-reducing-nvidia-and-amd-reliance/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-832cd492-1611-4e2d-ab77-836b4a253def.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-10-04 11:00:00"
+        },
+        {
+            "source": {
+                "name": "cnet"
+            },
+            "title": "Best Outdoor Home Security Cameras of 2025: From Floodlights to Night Vision",
+            "url": "https://www.cnet.com/home/security/best-outdoor-home-security-cameras/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/1d987f6b810455d2bc45360bcbd823ae4fa797e3/hub/2025/08/29/17a46f99-4782-4151-8f3c-d7152a4cb1bf/nest-cam-floodlight-outdoors-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-10-04 11:00:00"
+        },
+        {
+            "source": {
+                "name": "statnews"
+            },
+            "title": "Opinion: Morgan ‘Dr. Noc’ McSweeney’s advice on becoming a science-based social media influencer",
+            "url": "https://www.statnews.com/2025/10/04/dr-noc-morgan-mcsweeney-interview-transcript/",
+            "urlToImage": "https://www.statnews.com/wp-content/uploads/2025/10/FOP_Wordpress_Transcript_Featured_Image_Ep1-1024x576.jpg",
+            "publishedAt": "2025-10-04 11:00:00"
+        },
+        {
+            "source": {
+                "name": "techxplore"
+            },
+            "title": "Amazon is overhauling its devices to take on Apple in the AI era",
+            "url": "https://techxplore.com/news/2025-10-amazon-overhauling-devices-apple-ai.html",
+            "urlToImage": "https://scx1.b-cdn.net/csz/news/tmb/2022/alexa.jpg",
+            "publishedAt": "2025-10-04 10:30:02"
+        },
+        {
+            "source": {
+                "name": "thelincolnianonline"
+            },
+            "title": "Comparing CLPS Incorporation (NASDAQ:CLPS) and Cognizant Technology Solutions (NASDAQ:CTSH)",
+            "url": "https://www.thelincolnianonline.com/2025/10/04/comparing-clps-incorporation-nasdaqclps-and-cognizant-technology-solutions-nasdaqctsh.html",
+            "urlToImage": "https://www.marketbeat.com/logos/clps-incorporation-logo-1200x675.png",
+            "publishedAt": "2025-10-04 10:24:59"
+        },
+        {
+            "source": {
+                "name": "thelincolnianonline"
+            },
+            "title": "Metaverse Stocks To Add to Your Watchlist – October 1st",
+            "url": "https://www.thelincolnianonline.com/2025/10/04/metaverse-stocks-to-add-to-your-watchlist-october-1st.html",
+            "urlToImage": "https://www.marketbeat.com/logos/robot-consulting-co-ltd-logo-1200x675.png?v=20250908052323",
+            "publishedAt": "2025-10-04 10:19:06"
+        },
+        {
+            "source": {
+                "name": "bgr_com"
+            },
+            "title": "4 Unexpected Uses For Your Xbox's USB Port",
+            "url": "https://www.bgr.com/1982861/ways-to-use-xbox-series-console-usb-ports/",
+            "urlToImage": "https://www.bgr.com/img/gallery/4-unexpected-uses-for-your-xboxs-usb-port/l-intro-1759245845.jpg",
+            "publishedAt": "2025-10-04 10:17:00"
         },
         {
             "source": {
@@ -3084,87 +3168,6 @@
             "url": "https://abcnews.go.com/Technology/wireStory/nvidia-fujitsu-agree-work-ai-robots-technology-126173402",
             "urlToImage": "https://s.abcnews.com/images/International/wirestory_3e800f495124c9f66fa654deaec41e52_4x3_384.jpg",
             "publishedAt": "2025-10-03 08:53:47"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "From Cloud to Government Systems: Reinventing Public Infrastructure",
-            "url": "https://www.analyticsinsight.net/press-release/from-cloud-to-government-systems-reinventing-public-infrastructure",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-10-03%2F3ufdqu97%2FSrinivas.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-10-03 08:45:00"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "Mira Murati’s Thinking Machines Lab Unveils New AI Tinker Product Which Is Useful But Not A Big-Time Blockbuster",
-            "url": "https://www.forbes.com/sites/lanceeliot/2025/10/03/mira-muratis-thinking-machines-lab-unveils-new-ai-tinker-product-which-is-useful-but-not-a-big-time-blockbuster/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68df87b92ce8e1251c23de40/0x0.jpg?width=960",
-            "publishedAt": "2025-10-03 08:44:24"
-        },
-        {
-            "source": {
-                "name": "expresscomputer"
-            },
-            "title": "Salesforce launches MuleSoft agent fabric to orchestrate and govern any AI agent across the agentic enterprise",
-            "url": "https://www.expresscomputer.in/news/salesforce-launches-mulesoft-agent-fabric-to-orchestrate-and-govern-any-ai-agent-across-the-agentic-enterprise/128350/",
-            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2024/11/28133454/EC-digital-art-ai-technology-750.jpg",
-            "publishedAt": "2025-10-03 08:31:47"
-        },
-        {
-            "source": {
-                "name": "cyclingnews"
-            },
-            "title": "Strava sues Garmin, demands it stops selling nearly every device - Here's why",
-            "url": "https://www.cyclingnews.com/news/strava-sues-garmin-demands-it-stops-selling-nearly-every-device-heres-why/",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/efKj3rsLBGHJbWovRVGwfR-1600-80.jpg",
-            "publishedAt": "2025-10-03 08:23:47"
-        },
-        {
-            "source": {
-                "name": "techradar"
-            },
-            "title": "Amazon's October Prime Day deals are live – I've hand-picked 50 tech gadgets that are actually worth buying",
-            "url": "https://www.techradar.com/live/news/best-october-prime-day-tech-deals-live-2025",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/6v5s4p6BeKgaJapCwpgvsg-2000-80.png",
-            "publishedAt": "2025-10-03 08:15:28"
-        },
-        {
-            "source": {
-                "name": "digit_in"
-            },
-            "title": "Microsoft on AI in Biology: Understanding the risks of zero-day threats",
-            "url": "https://www.digit.in/features/general/microsoft-on-ai-in-biology-understanding-the-risks-of-zero-day-threats.html",
-            "urlToImage": "https://static.digit.in/Microsoft-Zero-Day-threats-.png",
-            "publishedAt": "2025-10-03 08:12:17"
-        },
-        {
-            "source": {
-                "name": "expresscomputer"
-            },
-            "title": "Gartner survey finds just 15% of IT application leaders are considering, piloting, or deploying fully autonomous AI agents",
-            "url": "https://www.expresscomputer.in/news/gartner-survey-finds-just-15-of-it-application-leaders-are-considering-piloting-or-deploying-fully-autonomous-ai-agents-2/128348/",
-            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2024/03/08132622/ec-digital-transformation-technology-ai-750.jpg",
-            "publishedAt": "2025-10-03 08:07:10"
-        },
-        {
-            "source": {
-                "name": "livemint"
-            },
-            "title": "Nvidia and Fujitsu agree to work together on AI robots and other technology",
-            "url": "https://www.livemint.com/technology/tech-news/nvidia-and-fujitsu-agree-to-work-together-on-ai-robots-and-other-technology-11759478355358.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg",
-            "publishedAt": "2025-10-03 07:59:14"
-        },
-        {
-            "source": {
-                "name": "kdhnews"
-            },
-            "title": "Nvidia and Fujitsu agree to work together on AI robots and other technology",
-            "url": "https://kdhnews.com/business/technology/nvidia-and-fujitsu-agree-to-work-together-on-ai-robots-and-other-technology/article_c335b3c3-034b-502e-8d63-37a0d321b5dd.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/assets/v3/editorial/c/c0/cc0a8a12-2881-53c5-a86a-c35e30af3357/68cab1826ff73.image.jpg?resize=750%2C500",
-            "publishedAt": "2025-10-03 07:54:28"
         }
     ]
 }
