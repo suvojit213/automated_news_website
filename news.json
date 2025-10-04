@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-10-04T18:18:47.099241Z",
+    "lastUpdatedAt": "2025-10-04T19:10:19.512904Z",
     "articles": [
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "Nvidia, Fujitsu to work together on AI robots and other technology",
+            "url": "https://japantoday.com/category/tech/nvidia-and-fujitsu-agree-to-work-together-on-ai-robots-and-other-technology",
+            "urlToImage": "https://japantoday.com/images/japan-today-social.jpg",
+            "publishedAt": "2025-10-04T06:58:00Z"
+        },
         {
             "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -84,6 +96,24 @@
             "url": "https://www.forbes.com/sites/lesliekatz/2025/10/04/openais-fine-print-this-time-sung-as-a-satiric-opera/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68e046c5ea7c440db8569a0e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-10-04T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "newsbytesapp"
+            },
+            "title": "OpenAI's DevDay 2025 is on October 6: What to expect",
+            "url": "https://www.newsbytesapp.com/news/science/openai-s-devday-2025-is-around-the-corner-what-to-expect/story",
+            "urlToImage": "https://i.cdn.newsbytesapp.com/images/l35720251004102249.jpeg",
+            "publishedAt": "2025-10-04 06:46:11"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "Jane Goodall’s Lesson: Rethinking Intelligence",
+            "url": "https://www.forbes.com/sites/corneliawalther/2025/10/04/jane-goodalls-lesson-rethinking-intelligence/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68e0bc067acd4df105da2787/0x0.jpg?width=960",
+            "publishedAt": "2025-10-04 06:18:39"
         },
         {
             "source": {
@@ -3117,33 +3147,6 @@
             "url": "https://www.latestly.com/agency-news/business-news-black-box-partners-with-wind-river-to-accelerate-edge-and-cloud-innovation-globally-7141455.html",
             "urlToImage": "https://st1.latestly.com/wp-content/uploads/2020/10/news-default-img-380x214.jpg",
             "publishedAt": "2025-10-03 04:40:27"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Stemming vs. Lemmatization: What Healthcare Text Data Taught Me About NLP Choices",
-            "url": "https://hackernoon.com/stemming-vs-lemmatization-what-healthcare-text-data-taught-me-about-nlp-choices",
-            "urlToImage": "https://hackernoon.imgix.net/images/033FrKsfkwPA6xlU45o0h7poZao1-8mb3agv.png",
-            "publishedAt": "2025-10-03 04:28:44"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "The Fundamentals of AI Product Management for PM Leaders",
-            "url": "https://hackernoon.com/the-fundamentals-of-ai-product-management-for-pm-leaders",
-            "urlToImage": "https://hackernoon.imgix.net/images/fundamentals-of-ai-product-management-d1cdqmugwvfyxh4cli2zlowq.png",
-            "publishedAt": "2025-10-03 04:07:11"
-        },
-        {
-            "source": {
-                "name": "mit"
-            },
-            "title": "Secretary of Energy Chris Wright ’85 visits MIT",
-            "url": "https://news.mit.edu/2025/secretary-energy-chris-wright-visits-mit-1003",
-            "urlToImage": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202510/MIT-Energy%20Secretary-01-press.jpg?itok=2hyM-X-H",
-            "publishedAt": "2025-10-03 04:00:00"
         }
     ]
 }
