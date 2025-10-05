@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-10-04T23:13:28.488249Z",
+    "lastUpdatedAt": "2025-10-05T01:15:30.851708Z",
     "articles": [
+        {
+            "source": {
+                "id": "8da923084554b2821233d6c5c5f02c97",
+                "name": "Fox News",
+                "url": "https://www.foxnews.com",
+                "country": "us"
+            },
+            "title": "Fighting childhood cancer is focus of Trump AI executive order",
+            "url": "https://www.foxnews.com/tech/ai-newsletter-trump-order-harnesses-ai-fight-childhood-cancer",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/05/trump-signing.jpg",
+            "publishedAt": "2025-10-04T12:30:59Z"
+        },
+        {
+            "source": {
+                "id": "ca35c66a2b26e8274365e937357cf9c5",
+                "name": "SlashGear",
+                "url": "https://www.slashgear.com",
+                "country": "us"
+            },
+            "title": "5 Of The Weirdest Ways People Are Using AI Tools In 2025",
+            "url": "https://www.slashgear.com/1985358/weirdest-ways-people-are-using-ai-tools/",
+            "urlToImage": "https://www.slashgear.com/img/gallery/5-of-the-weirdest-ways-people-are-using-ai-tools-in-2025/l-intro-1759437835.jpg",
+            "publishedAt": "2025-10-04T12:30:00Z"
+        },
         {
             "source": {
                 "id": "0a4c92a1a91d0994627a96e134064d69",
@@ -180,6 +204,60 @@
             "url": "https://www.forbes.com/sites/lesliekatz/2025/10/04/openais-fine-print-this-time-sung-as-a-satiric-opera/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68e046c5ea7c440db8569a0e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-10-04T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "techradar"
+            },
+            "title": "Testing the HP EliteBook X G1a 14 revealed an AI-centric business laptop designed for early adopters",
+            "url": "https://www.techradar.com/pro/hp-elitebook-x-g1a-ai-14-business-laptop-review",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/VjtK8W9xosiVgub7x2pmgP.jpg",
+            "publishedAt": "2025-10-04 13:03:00"
+        },
+        {
+            "source": {
+                "name": "therobotreport"
+            },
+            "title": "Diligent Robotics adds two members to AI advisory board",
+            "url": "https://www.therobotreport.com/diligent-robotics-adds-two-members-ai-advisory-board/",
+            "urlToImage": "https://www.therobotreport.com/wp-content/uploads/2025/10/aiadvisoryboard-featured.jpg",
+            "publishedAt": "2025-10-04 12:30:03"
+        },
+        {
+            "source": {
+                "name": "cnet"
+            },
+            "title": "Skip the Monthly Cloud Fees: There's a Better Way to Store Your Photos and Videos",
+            "url": "https://www.cnet.com/tech/services-and-software/skip-the-monthly-cloud-fees-theres-a-better-way-to-store-your-photos-and-videos/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/64decfb3278c8e390414926a5c8e0e9b2cd10f78/hub/2025/09/26/9899b302-e818-493c-82b4-98d3207da23e/image-5.png?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-10-04 12:15:03"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "Best Buy's weekend laptop deals are almost gone — 11 last-minute deals from $349 to shop today",
+            "url": "https://www.tomsguide.com/computing/laptops/best-buys-weekend-laptop-deals-are-almost-gone-11-last-minute-deals-from-usd349-to-shop-today",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Rz2fA3UYLV68aKHDhYWFS3-1280-80.jpg",
+            "publishedAt": "2025-10-04 12:00:00"
+        },
+        {
+            "source": {
+                "name": "wired"
+            },
+            "title": "15 Best Office Chairs of 2025— I’ve Tested Nearly 60 to Pick Them",
+            "url": "https://www.wired.com/gallery/best-office-chairs/",
+            "urlToImage": "https://media.wired.com/photos/688bf496d0c9039583731876/4:3/w_320,c_limit/1-Branch%20Ergonomic%20Chair%20Pro%20SOURCE%20Julian%20Chokkattu.png",
+            "publishedAt": "2025-10-04 12:00:00"
+        },
+        {
+            "source": {
+                "name": "thelincolnianonline"
+            },
+            "title": "Analyzing Archer Aviation (NYSE:ACHR) & General Dynamics (NYSE:GD)",
+            "url": "https://www.thelincolnianonline.com/2025/10/04/analyzing-archer-aviation-nyseachr-general-dynamics-nysegd.html",
+            "urlToImage": "https://www.marketbeat.com/logos/archer-aviation-inc-logo-1200x675.png?v=20240515095216",
+            "publishedAt": "2025-10-04 11:22:57"
         },
         {
             "source": {
@@ -3096,78 +3174,6 @@
             "url": "https://www.newscientist.com/article/2498204-kids-as-young-as-4-innately-use-sorting-algorithms-to-solve-problems/",
             "urlToImage": "https://images.newscientist.com/wp-content/uploads/2025/10/02200745/SEI_268673545.jpg",
             "publishedAt": "2025-10-03 10:00:11"
-        },
-        {
-            "source": {
-                "name": "computerworld_in"
-            },
-            "title": "Switching places: Intel fades as Apple rises",
-            "url": "https://www.computerworld.com/article/4067467/switching-places-intel-fades-as-apple-rises.html",
-            "urlToImage": "https://www.computerworld.com/wp-content/uploads/2025/10/4067467-0-68976700-1759485911-shutterstock_2652866305.jpg?quality=50&strip=all",
-            "publishedAt": "2025-10-03 10:00:00"
-        },
-        {
-            "source": {
-                "name": "cio_in"
-            },
-            "title": "Are your agentic AI projects driving toward success?",
-            "url": "https://www.cio.com/article/4067338/ai-agentics-key-factors-for-steering-projects-toward-success.html",
-            "urlToImage": "https://www.cio.com/wp-content/uploads/2025/10/4067338-0-21355200-1759485818-shutterstock_1675947640.jpg?quality=50&strip=all&w=1024",
-            "publishedAt": "2025-10-03 10:00:00"
-        },
-        {
-            "source": {
-                "name": "roboticsandautomationnews"
-            },
-            "title": "Fujitsu expands partnership with Nvidia to build ‘full-stack AI infrastructure’",
-            "url": "https://roboticsandautomationnews.com/2025/10/03/fujitsu-expands-partnership-with-nvidia-to-build-full-stack-ai-infrastructure/95131/",
-            "urlToImage": "https://roboticsandautomationnews.com/wp-content/uploads/2025/10/fujitsu-nvidia-ai-partnership-1.jpg",
-            "publishedAt": "2025-10-03 09:39:57"
-        },
-        {
-            "source": {
-                "name": "fortune"
-            },
-            "title": "Tilly Norwood is a warning and a lesson to humans about the future power of AI",
-            "url": "https://fortune.com/2025/10/03/tilly-norwood-ai-warning-lesson/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/tilly-norwood-ai-actress-1146558.jpg?w=2048",
-            "publishedAt": "2025-10-03 09:22:38"
-        },
-        {
-            "source": {
-                "name": "techxplore"
-            },
-            "title": "Humanoid robots in the home? Not so fast, says expert",
-            "url": "https://techxplore.com/news/2025-10-humanoid-robots-home-fast-expert.html",
-            "urlToImage": "https://scx1.b-cdn.net/csz/news/tmb/2023/humanoid.jpg",
-            "publishedAt": "2025-10-03 09:19:41"
-        },
-        {
-            "source": {
-                "name": "nytimes"
-            },
-            "title": "OpenAI’s Sora Makes Disinformation Extremely Easy and Extremely Real",
-            "url": "https://www.nytimes.com/2025/10/03/technology/sora-openai-video-disinformation.html",
-            "urlToImage": "https://static01.nyt.com/images/2025/10/03/multimedia/03biz-sora-disinfo-fzbk/03biz-sora-disinfo-fzbk-articleLarge.jpg?auto=webp&disable=upscale&quality=75",
-            "publishedAt": "2025-10-03 09:03:26"
-        },
-        {
-            "source": {
-                "name": "techxplore"
-            },
-            "title": "Cracking a long-standing weakness in a classic algorithm for programming reconfigurable chips",
-            "url": "https://techxplore.com/news/2025-10-weakness-classic-algorithm-reconfigurable-chips.html",
-            "urlToImage": "https://scx1.b-cdn.net/csz/news/tmb/2024/algorithm-data-1.jpg",
-            "publishedAt": "2025-10-03 08:57:05"
-        },
-        {
-            "source": {
-                "name": "abcnews"
-            },
-            "title": "Nvidia and Fujitsu agree to work together on AI robots and other technology",
-            "url": "https://abcnews.go.com/Technology/wireStory/nvidia-fujitsu-agree-work-ai-robots-technology-126173402",
-            "urlToImage": "https://s.abcnews.com/images/International/wirestory_3e800f495124c9f66fa654deaec41e52_4x3_384.jpg",
-            "publishedAt": "2025-10-03 08:53:47"
         }
     ]
 }
