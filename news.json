@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-10-05T07:12:40.996185Z",
+    "lastUpdatedAt": "2025-10-05T08:17:18.360011Z",
     "articles": [
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "Virtual Jesus? People of faith divided as AI enters religion",
+            "url": "https://japantoday.com/category/tech/virtual-jesus-people-of-faith-divided-as-ai-enters-religion",
+            "urlToImage": "https://media.japantoday.com/img/store/cf/4d/fe2683487a27d8dfb2550cef3840ee731fd0/b4ca4f56fc359a16f4bfa8c1836d08e5d4aba295/_w1700.jpeg",
+            "publishedAt": "2025-10-04T19:44:00Z"
+        },
         {
             "source": {
                 "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
@@ -300,6 +312,15 @@
             "url": "https://www.forbes.com/sites/lesliekatz/2025/10/04/openais-fine-print-this-time-sung-as-a-satiric-opera/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68e046c5ea7c440db8569a0e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-10-04T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "xda_developers"
+            },
+            "title": "7 unusual Linux distros built for one purpose (and why you should try them)",
+            "url": "https://www.xda-developers.com/unusual-linux-distros-built-one-purpose-why-you-should-try-them/",
+            "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/07/proxmox-and-truenas.jpg",
+            "publishedAt": "2025-10-04 20:00:20"
         },
         {
             "source": {
@@ -3180,24 +3201,6 @@
             "url": "https://siliconangle.com/2025/10/03/openai-battles-anthropic-model-supremacy-ai-chips-stay-hot-california-passes-landmark-ai-safety-bill/",
             "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/10/altmanvsamodei.png",
             "publishedAt": "2025-10-03 15:35:15"
-        },
-        {
-            "source": {
-                "name": "insider"
-            },
-            "title": "Anthropic executive spills the tea on how he uses AI in his personal life",
-            "url": "https://www.businessinsider.com/anthropic-executive-alex-albert-uses-ai-personal-life-2025-10",
-            "urlToImage": "https://i.insider.com/68deddffcc993f9955cf6cb7?width=700",
-            "publishedAt": "2025-10-03 15:30:01"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Transform Your Text with AI: The Power of Font Generators and AI Calligraphy",
-            "url": "https://www.analyticsinsight.net/artificial-intelligence/transform-your-text-with-ai-the-power-of-font-generators-and-ai-calligraphy",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-10-03%2F65jhx47y%2FScreenshot-2025-10-03-205606.png?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-10-03 15:26:47"
         }
     ]
 }
