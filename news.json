@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-10-06T18:22:19.479860Z",
+    "lastUpdatedAt": "2025-10-06T19:12:15.720567Z",
     "articles": [
+        {
+            "source": {
+                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+                "name": "NDTV.com",
+                "url": "https://www.ndtv.com",
+                "country": "in"
+            },
+            "title": "Does AI Pose An Existential Risk? What Experts Say",
+            "url": "https://www.ndtv.com/world-news/does-ai-pose-an-existential-risk-what-experts-say-9403269",
+            "urlToImage": "https://c.ndtvimg.com/2025-09/u9vtorio_artificial-intelligence_625x300_02_September_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+            "publishedAt": "2025-10-06T07:07:07Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Competition heats up to challenge Nvidia's AI chip dominance",
+            "url": "https://www.thestar.com.my/tech/tech-news/2025/10/06/competition-heats-up-to-challenge-nvidia039s-ai-chip-dominance",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/06/3556768.jpg",
+            "publishedAt": "2025-10-06T07:00:00Z"
+        },
         {
             "source": {
                 "id": "030c5dba023e9d86baf723c66c9de9f4",
@@ -288,6 +312,60 @@
             "url": "https://www.globenewswire.com/news-release/2025/10/06/3162015/0/en/Reemo-Unveils-Bastion-A-Scalable-Solution-for-Global-Privileged-Access-Management.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/15e0d50b-dedf-4bd7-8586-d28fae9fb18e",
             "publishedAt": "2025-10-06T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "postregister"
+            },
+            "title": "Advantest Pioneers a New Era of AI-Powered Semiconductor Testing",
+            "url": "https://www.postregister.com/businessreport/technology/advantest-pioneers-a-new-era-of-ai-powered-semiconductor-testing/article_ba1b3cde-a30f-5651-ae59-91359b23ebf7.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
+            "publishedAt": "2025-10-06 07:01:10"
+        },
+        {
+            "source": {
+                "name": "investing_us"
+            },
+            "title": "Why the AI Boom May Defy History: 4 Reasons This Time Could Be Different",
+            "url": "https://www.investing.com/analysis/why-the-ai-boom-may-defy-history-4-reasons-this-time-could-be-different-200667991",
+            "urlToImage": "https://i-invdn-com.investing.com/redesign/images/seo/v2/investingcom_analysis_og.jpg",
+            "publishedAt": "2025-10-06 06:39:00"
+        },
+        {
+            "source": {
+                "name": "hindustantimes"
+            },
+            "title": "India must treat ‘Right to Compute’ as essential as books and pencils, says Intel India head",
+            "url": "https://www.hindustantimes.com/education/features/intel-india-chief-on-why-access-to-computing-is-key-for-the-ai-age-in-classrooms-101759730403557.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/10/06/1600x900/logo/intel_India_head_1759731931830_1759731978855.JPG",
+            "publishedAt": "2025-10-06 06:37:17"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Sora 2 Beats ChatGPT to Top App Store, Sparks Copyright Controversy",
+            "url": "https://www.analyticsinsight.net/news/sora-2-beats-chatgpt-to-top-app-store-sparks-copyright-controversy",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-10-06%2Fe04p0b9h%2FSora-2-Beats-ChatGPT-to-Top-App-Store-Sparks-Copyright-Controversy.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-10-06 06:34:54"
+        },
+        {
+            "source": {
+                "name": "newsable_asianetnews"
+            },
+            "title": "Netweb Technologies Dominates AI Infrastructure Race; SEBI Analysts See More Fuel Left In The Rally",
+            "url": "https://newsable.asianetnews.com/markets/netweb-technologies-dominates-ai-infrastructure-race-sebi-analysts-see-more-fuel-left-in-the-rally-articleshow-tl7uzbx",
+            "urlToImage": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-a5ec0cd1-161b-4591-b6ab-6d38f18eb3ab.webp",
+            "publishedAt": "2025-10-06 06:30:07"
+        },
+        {
+            "source": {
+                "name": "newznew"
+            },
+            "title": "Jobs After AWS Training: High Paying Roles in Cloud Computing",
+            "url": "https://www.newznew.com/jobs-after-aws-training/",
+            "urlToImage": "https://www.newznew.com/wp-content/uploads/2025/10/Jobs-After-AWS-Training.jpeg?v=1759731834",
+            "publishedAt": "2025-10-06 06:24:15"
         },
         {
             "source": {
@@ -2967,78 +3045,6 @@
             "url": "https://www.cnbctv18.com/storyboard18/storyboard18-artificial-intelligence-chip-race-how-qualcomm-snapdragon-smartphones-user-interface-19702468.htm",
             "urlToImage": "https://images.cnbctv18.com/uploads/2025/07/artificial-intelligence-2025-07-9777fb4fa5d52dbf1c5bdf2bd09f7242.jpg",
             "publishedAt": "2025-10-04 07:41:01"
-        },
-        {
-            "source": {
-                "name": "hindustantimes"
-            },
-            "title": "DeepSeek releases new AI model in fresh challenge for Alibaba's Qwen, OpenAI",
-            "url": "https://www.hindustantimes.com/business/deepseek-releases-new-ai-model-in-fresh-challenge-for-alibaba-qwen-openai-chatgpt-101759555818863.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/10/04/1600x900/logo/DeepSeek_1759562727118_1759562727278.jpg",
-            "publishedAt": "2025-10-04 07:28:22"
-        },
-        {
-            "source": {
-                "name": "freepressjournal"
-            },
-            "title": "Quantum Computing & Biotechnology Collaboration Between Imperial College London & IIT Bombay In Focus Ahead Of UK PM Keir Starmer's Mumbai Visit",
-            "url": "https://www.freepressjournal.in/education/study-abroad/quantum-computing-biotechnology-collaboration-between-imperial-college-london-iit-bombay-in-focus-ahead-of-pm-keir-starmers-mumbai-visit",
-            "urlToImage": "https://media.assettype.com/freepressjournal/2024-07/281d0bb6-a682-4247-a1b1-f7c9be77ea89/keir-starmer-054350386-16x9_0.webp",
-            "publishedAt": "2025-10-04 07:18:10"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "Devious Mind Games Expected Once We Attain AGI And AI Superintelligence",
-            "url": "https://www.forbes.com/sites/lanceeliot/2025/10/04/devious-mind-games-expected-once-we-attain-agi-and-ai-superintelligence/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6854579ab343515b4ba853f5/0x0.jpg?width=960",
-            "publishedAt": "2025-10-04 07:15:00"
-        },
-        {
-            "source": {
-                "name": "newsbytesapp"
-            },
-            "title": "OpenAI's DevDay 2025 is on October 6: What to expect",
-            "url": "https://www.newsbytesapp.com/news/science/openai-s-devday-2025-is-around-the-corner-what-to-expect/story",
-            "urlToImage": "https://i.cdn.newsbytesapp.com/images/l35720251004102249.jpeg",
-            "publishedAt": "2025-10-04 06:46:11"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "Jane Goodall’s Lesson: Rethinking Intelligence",
-            "url": "https://www.forbes.com/sites/corneliawalther/2025/10/04/jane-goodalls-lesson-rethinking-intelligence/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68e0bc067acd4df105da2787/0x0.jpg?width=960",
-            "publishedAt": "2025-10-04 06:18:39"
-        },
-        {
-            "source": {
-                "name": "thehindu"
-            },
-            "title": "The quick-service delivery of mental health",
-            "url": "https://www.thehindu.com/sci-tech/health/mental-health-quick-service-delivery-india-ai-therapist-wysa-amaha/article70111769.ece",
-            "urlToImage": "https://th-i.thgim.com/public/life-and-style/j74s5d/article70124095.ece/alternates/LANDSCAPE_1200/Mental%20Health.jpg",
-            "publishedAt": "2025-10-04 05:57:50"
-        },
-        {
-            "source": {
-                "name": "mankatofreepress"
-            },
-            "title": "AP Business SummaryBrief at 1:26 a.m. EDT",
-            "url": "https://www.mankatofreepress.com/news/business/ap-business-summarybrief-at-1-26-a-m-edt/article_efd3c712-9558-5d02-863a-7873c10883f2.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/mankatofreepress.com/content/tncms/custom/image/5e42277e-6153-11e5-b349-8f12bc751eed.jpg?resize=600%2C315",
-            "publishedAt": "2025-10-04 05:26:42"
-        },
-        {
-            "source": {
-                "name": "postregister"
-            },
-            "title": "AP Business SummaryBrief at 1:26 a.m. EDT",
-            "url": "https://www.postregister.com/businessreport/business/ap-business-summarybrief-at-1-26-a-m-edt/article_4ee8e054-c19b-5a31-bd67-c3565726c349.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
-            "publishedAt": "2025-10-04 05:26:42"
         }
     ]
 }
