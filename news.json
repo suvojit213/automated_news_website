@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-10-06T10:16:58.456947Z",
+    "lastUpdatedAt": "2025-10-06T11:12:46.018389Z",
     "articles": [
+        {
+            "source": {
+                "id": "b419a989918b3665a34559f5047546b6",
+                "name": "The Sunday Times",
+                "url": "https://www.thetimes.com",
+                "country": "gb"
+            },
+            "title": "Banks scrambling to hire directors with technology experience",
+            "url": "https://www.thetimes.com/business-money/companies/article/banks-hire-directors-with-technology-experience-cyberattacks-bx39pzzd9",
+            "urlToImage": "https://www.thetimes.com/imageserver/image/%2Fbb799f55-9abe-4c31-a00d-5961a566159a.jpg?crop=4608%2C2592%2C0%2C163&resize=1200",
+            "publishedAt": "2025-10-05T23:01:00Z"
+        },
+        {
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            },
+            "title": "Indian consulate in New York holds session on AI's role in healthcare",
+            "url": "https://www.lokmattimes.com/international/indian-consulate-in-new-york-holds-session-on-ais-role-in-healthcare/",
+            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20251005221700_202510.jpg",
+            "publishedAt": "2025-10-05T22:17:14Z"
+        },
         {
             "source": {
                 "id": "4300aa22a5f803b09a37ff0632b44685",
@@ -648,6 +672,33 @@
             "url": "https://www.globenewswire.com/news-release/2025/10/05/3161317/0/en/Bravent-Continues-to-Enhance-Business-ROI-in-South-Florida-with-AI-Solutions.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/e3af6c0d-7578-4d6d-8ea1-76f85459bdbd",
             "publishedAt": "2025-10-05T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "headtopics"
+            },
+            "title": "Test Driving The Mercedes-AMG S 63 S E, Most Powerful S-Class Ever",
+            "url": "https://us.headtopics.com/news/test-driving-the-mercedes-amg-s-63-s-e-most-powerful-73978525",
+            "urlToImage": "https://i.headtopics.com/images/2025/10/4/intengineering/self-driving-military-vehicle-that-can-conduct-hig-self-driving-military-vehicle-that-can-conduct-hig-14EB215010DAA7422FF5CC724CE7153C.webp?w=640",
+            "publishedAt": "2025-10-05 23:08:56"
+        },
+        {
+            "source": {
+                "name": "deccanherald"
+            },
+            "title": "Bengaluru scientists show quantum path to 'unhackable' OTP",
+            "url": "https://www.deccanherald.com/india/karnataka/bengaluru/b-luru-scientists-show-quantum-path-to-unhackable-otp-3753765",
+            "urlToImage": "https://media.assettype.com/deccanherald%2F2025-10-05%2Fxgcfbaw2%2Fdeccanherald2024-12-16x0wqwxbkistockphoto-1312488680-612x612.avif?ar=40%3A21&auto=format%2Ccompress&mode=crop&ogImage=true&rect=0%2C0%2C900%2C473&w=1200",
+            "publishedAt": "2025-10-05 22:48:52"
+        },
+        {
+            "source": {
+                "name": "headtopics"
+            },
+            "title": "These Are The Startups Merging Your Brain With AI",
+            "url": "https://us.headtopics.com/news/these-are-the-startups-merging-your-brain-with-ai-73977596",
+            "urlToImage": "https://i.headtopics.com/images/2025/10/3/sciencealert/scientists-identified-structural-brain-wide-change-scientists-identified-structural-brain-wide-change-962B8C33D1B55415994C9442C0717A5A.webp?w=640",
+            "publishedAt": "2025-10-05 22:40:02"
         },
         {
             "source": {
@@ -3030,66 +3081,6 @@
             "url": "https://www.swissinfo.ch/eng/stocks-bull-run-extends-on-latest-ai-deal-spree%3a-markets-wrap/90106678",
             "urlToImage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1756933286",
             "publishedAt": "2025-10-03T16:00:24Z"
-        },
-        {
-            "source": {
-                "id": "17d7c2645f485578130862e0c8dd9480",
-                "name": "The Mercury News",
-                "url": "https://www.mercurynews.com",
-                "country": "us"
-            },
-            "title": "Bezos says AI spending boom is a bubble that will pay off",
-            "url": "https://www.mercurynews.com/2025/10/03/bezos-says-ai-spending-boom-is-a-bubble-that-will-pay-off/",
-            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2024/12/Trump_Meta_Donation_31065_22d5d6.jpg?w=1024&h=711",
-            "publishedAt": "2025-10-03T15:53:18Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Artificial Intelligence for all: CPRG hosts inclusion dialogue; sets tone for India-AI Impact Summit 2026",
-            "url": "https://timesofindia.indiatimes.com/india/artificial-intelligence-for-all-cprg-hosts-inclusion-dialogue-sets-tone-for-india-ai-impact-summit-2026/articleshow/124294198.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-124294239,width-1070,height-580,imgsize-29664,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "publishedAt": "2025-10-03T15:36:00Z"
-        },
-        {
-            "source": {
-                "id": "a6d401909ca644c4ffb332486c9cfaea",
-                "name": "Seeking Alpha",
-                "url": "https://seekingalpha.com",
-                "country": "us"
-            },
-            "title": "Bezos admits AI is in 'industrial bubble,' but eventual societal benefits remain 'real'",
-            "url": "https://seekingalpha.com/news/4501741-bezos-admits-ai-is-in-industrial-bubble-but-eventual-societal-benefits-remain-real",
-            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2188276560/image_2188276560.jpg?io=getty-c-w750",
-            "publishedAt": "2025-10-03T15:27:09Z"
-        },
-        {
-            "source": {
-                "id": "1b697445987e8a33f6c82842e17d60d9",
-                "name": "Bnn Bloomberg",
-                "url": "https://www.bnnbloomberg.ca",
-                "country": "ca"
-            },
-            "title": "Nazi killer in Holocaust image identified using AI: researcher",
-            "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2025/10/03/ai-helps-german-historian-identify-nazi-killer-in-infamous-holocaust-image/",
-            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/YV3PBNKFYZCM7H5QTQXDDLDBOU.jpg?smart=true&auth=ea5cef5f4bea3a390f01af47d0f221705d44c83f8b2a994192fb0648672a1763&width=1200&height=630",
-            "publishedAt": "2025-10-03T14:43:41Z"
-        },
-        {
-            "source": {
-                "id": "76684855c5d801b81fd06490668d04fe",
-                "name": "TechRadar",
-                "url": "https://www.techradar.com",
-                "country": "au"
-            },
-            "title": "US Department of War reduces cybersecurity training, tells soldiers to focus on their mission",
-            "url": "https://www.techradar.com/pro/security/us-department-of-war-reduces-cybersecurity-training-tells-soldiers-to-focus-on-their-mission",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/2tU6QMFtYxP35p2qFB2Uv7-1077-80.jpg",
-            "publishedAt": "2025-10-03T14:32:00Z"
         }
     ]
 }
