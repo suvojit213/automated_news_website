@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2025-10-07T03:28:09.750155Z",
+    "lastUpdatedAt": "2025-10-07T04:18:14.439564Z",
     "articles": [
+        {
+            "source": {
+                "id": "dcb757ba5480d7edec9ca152d58b7d3d",
+                "name": "Swissinfo (EN)",
+                "url": "https://www.swissinfo.ch",
+                "country": "ch"
+            },
+            "title": "Stocks Rise to Record as AMD Deal Powers AI Bets: Markets Wrap",
+            "url": "https://www.swissinfo.ch/eng/stocks-rise-to-record-as-amd-deal-powers-ai-bets%3a-markets-wrap/90118987",
+            "urlToImage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1756933286",
+            "publishedAt": "2025-10-06T16:00:39Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "BOE’s Bailey Says UK Must Step Up Investment to Ride AI Boom",
+            "url": "https://www.bloomberg.com/news/articles/2025-10-06/boe-s-bailey-says-uk-must-step-up-investment-to-ride-ai-boom",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iO7Sro8jlDj4/v1/1200x800.jpg",
+            "publishedAt": "2025-10-06T15:57:59Z"
+        },
+        {
+            "source": {
+                "id": "17d7c2645f485578130862e0c8dd9480",
+                "name": "The Mercury News",
+                "url": "https://www.mercurynews.com",
+                "country": "us"
+            },
+            "title": "US stocks advance on AMD-OpenAI partnership, big bank deal",
+            "url": "https://www.mercurynews.com/2025/10/06/us-stocks-advance-amd-openai-partnership/",
+            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2024/08/AMD_ZT_Systems_26615.jpg?w=1024&h=682",
+            "publishedAt": "2025-10-06T15:52:17Z"
+        },
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "Universities can turn AI from a threat to an opportunity by teaching critical thinking",
+            "url": "https://phys.org/news/2025-10-universities-ai-threat-opportunity-critical.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/graduation-black-stude.jpg",
+            "publishedAt": "2025-10-06T15:45:05Z"
+        },
+        {
+            "source": {
+                "id": "17d7c2645f485578130862e0c8dd9480",
+                "name": "The Mercury News",
+                "url": "https://www.mercurynews.com",
+                "country": "us"
+            },
+            "title": "OpenAI and chipmaker AMD sign chip supply partnership for AI infrastructure",
+            "url": "https://www.mercurynews.com/2025/10/06/openai-chipmaker-amd-sign-chip-supply-deal/",
+            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/10/OpenAI_69614_9a3c30-1.jpg?w=1024&h=683",
+            "publishedAt": "2025-10-06T15:44:43Z"
+        },
+        {
+            "source": {
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
+                "country": "in"
+            },
+            "title": "CCI Urges Self-Audits Of AI Systems To Prevent Anti-Competitive Practices",
+            "url": "https://www.ndtvprofit.com/business/cci-urges-self-audits-of-ai-systems-to-prevent-anti-competitive-practices",
+            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-03-18%2Fom7ti2ml%2Fai-71118021280.jpg?rect=0%2C0%2C1280%2C672&w=1200&auto=format%2Ccompress&ogImage=true",
+            "publishedAt": "2025-10-06T15:36:53Z"
+        },
         {
             "source": {
                 "id": "09dc1bda762f4f787cec10477a894d96",
@@ -1116,6 +1188,96 @@
             "url": "https://www.globenewswire.com/news-release/2025/10/06/3162015/0/en/Reemo-Unveils-Bastion-A-Scalable-Solution-for-Global-Privileged-Access-Management.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/15e0d50b-dedf-4bd7-8586-d28fae9fb18e",
             "publishedAt": "2025-10-06T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "digitaltrends"
+            },
+            "title": "Google’s answer to GPT-5 might be days away as Gemini 3 launch touted",
+            "url": "https://www.digitaltrends.com/computing/googles-answer-to-gpt-5-might-be-days-away-as-gemini-3-launch-touted/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/10/Gemini.jpg?p=1&resize=1200%2C630",
+            "publishedAt": "2025-10-06 16:15:19"
+        },
+        {
+            "source": {
+                "name": "itpro"
+            },
+            "title": "Agentic AI poses major challenge for security professionals, says Palo Alto Networks’ EMEA CISO",
+            "url": "https://www.itpro.com/security/agentic-ai-poses-major-challenge-for-security-professionals-says-palo-alto-networks-emea-ciso",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/QgRpkMAZqm4QRspWZeQA34-1280-80.jpg",
+            "publishedAt": "2025-10-06 16:12:02"
+        },
+        {
+            "source": {
+                "name": "futurism"
+            },
+            "title": "OpenAI’s Huge New Project Is Running Into Trouble Behind the Scenes",
+            "url": "https://futurism.com/artificial-intelligence/openai-device-trouble",
+            "urlToImage": "https://futurism.com/wp-content/uploads/2025/10/openai-device-trouble.jpg?quality=85",
+            "publishedAt": "2025-10-06 16:02:01"
+        },
+        {
+            "source": {
+                "name": "thestatesman"
+            },
+            "title": "Indian Army maps six key lines of effort to drive AI integration and operational readiness",
+            "url": "https://www.thestatesman.com/india/indian-army-maps-six-key-lines-of-effort-to-drive-ai-integration-and-operational-readiness-1503495789.html",
+            "urlToImage": "https://www.thestatesman.com/wp-content/uploads/2025/10/Untitled-design-47-1.webp",
+            "publishedAt": "2025-10-06 16:01:44"
+        },
+        {
+            "source": {
+                "name": "xda_developers"
+            },
+            "title": "This new Linux desktop environment gives us what Microsoft never did with Windows",
+            "url": "https://www.xda-developers.com/new-linux-distros-gives-us-what-microsoft-never-did-windows/",
+            "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/10/cosmic-desktop-1.jpg",
+            "publishedAt": "2025-10-06 16:00:21"
+        },
+        {
+            "source": {
+                "name": "supplychainbrain"
+            },
+            "title": "OpenAI Commits to Buying AMD Chips",
+            "url": "https://www.supplychainbrain.com/articles/42622-openai-commits-to-buying-amd-chips",
+            "urlToImage": "https://www.supplychainbrain.com/ext/resources/2024/10/17/data-center-iStock-1902257051.webp?t=1729185032&width=1080",
+            "publishedAt": "2025-10-06 16:00:00"
+        },
+        {
+            "source": {
+                "name": "pcworld_us"
+            },
+            "title": "Best SSDs: From SATA to PCIe 5.0, from budget to premium",
+            "url": "https://www.pcworld.com/article/407542/best-ssds.html",
+            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/10/ssd-aufmacher.png",
+            "publishedAt": "2025-10-06 16:00:00"
+        },
+        {
+            "source": {
+                "name": "pcworld_us"
+            },
+            "title": "OpenAI wants to buy 10% of AMD. That should make PC gamers nervous",
+            "url": "https://www.pcworld.com/article/2931083/openai-wants-to-buy-10-of-amd-that-should-make-pc-gamers-nervous.html",
+            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/10/DSCF6446-1.jpg?quality=50&strip=all",
+            "publishedAt": "2025-10-06 15:58:12"
+        },
+        {
+            "source": {
+                "name": "pcworld_us"
+            },
+            "title": "OpenAI may gain 10% of AMD and gamers won’t like it",
+            "url": "https://www.pcworld.com/article/2931083/openai-could-take-10-of-amd-and-thats-not-great-news-for-pc-gamers.html",
+            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/10/Sora-2-Sam-Altman.jpg?quality=50&strip=all",
+            "publishedAt": "2025-10-06 15:58:12"
+        },
+        {
+            "source": {
+                "name": "insider"
+            },
+            "title": "The best 48- and 50-inch TVs of 2025",
+            "url": "https://www.businessinsider.com/guides/tech/best-50-inch-tvs",
+            "urlToImage": "https://i.insider.com/687659c6f748d8c055f59f05?width=700",
+            "publishedAt": "2025-10-06 15:53:35"
         },
         {
             "source": {
@@ -3003,150 +3165,6 @@
             "url": "https://spectrum.ieee.org/wi-fi-signal-heartbeat-detection",
             "urlToImage": "https://spectrum.ieee.org/media-library/over-the-shoulder-view-of-researching-reviewing-line-graph-data-on-their-laptop.jpg?id=61696168&width=980",
             "publishedAt": "2025-10-05 13:00:04"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Google’s NotebookLM: Text Summaries Excel, Visual Analysis Lags",
-            "url": "https://www.webpronews.com/googles-notebooklm-text-summaries-excel-visual-analysis-lags/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-a2dd0cd7-cdf1-4f9d-b00f-14125ed527ac.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-10-05 13:00:00"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "AI Benchmarks: Why Useless, Personalized Agents Prevail",
-            "url": "https://hackernoon.com/ai-benchmarks-why-useless-personalized-agents-prevail",
-            "urlToImage": "https://hackernoon.imgix.net/images/nHGuWYVEUQZmmtpQsV42vRQ05r33-k163gpb.jpeg",
-            "publishedAt": "2025-10-05 12:31:49"
-        },
-        {
-            "source": {
-                "name": "eastbaytimes"
-            },
-            "title": "Chatbot dreams generate AI nightmares for Bay Area lawyers",
-            "url": "https://www.eastbaytimes.com/2025/10/05/chatbot-dreams-ai-nightmares-bay-area-lawyers/",
-            "urlToImage": "https://www.eastbaytimes.com/wp-content/uploads/2025/06/Education-Artificial_Intelligence_48229.jpg?h=682&w=1024",
-            "publishedAt": "2025-10-05 12:30:12"
-        },
-        {
-            "source": {
-                "name": "mercurynews"
-            },
-            "title": "Chatbot dreams generate AI nightmares for Bay Area lawyers",
-            "url": "https://www.mercurynews.com/2025/10/05/chatbot-dreams-ai-nightmares-bay-area-lawyers/",
-            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/06/Education-Artificial_Intelligence_48229.jpg?strip=all&w=1400px",
-            "publishedAt": "2025-10-05 12:30:12"
-        },
-        {
-            "source": {
-                "name": "slashgear"
-            },
-            "title": "6 Reasons You Need An Ad Blocker (And It's Not Just For Ads)",
-            "url": "https://www.slashgear.com/1986139/reasons-everyone-should-use-ad-blockers/",
-            "urlToImage": "https://www.slashgear.com/img/gallery/6-reasons-you-need-an-ad-blocker-and-its-not-just-for-ads/l-intro-1759519021.jpg",
-            "publishedAt": "2025-10-05 12:30:00"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Revolutionizing Healthcare: The Impact of AI in Medical Diagnostics Today and Beyond",
-            "url": "https://techannouncer.com/revolutionizing-healthcare-the-impact-of-ai-in-medical-diagnostics-today-and-beyond/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/10/08d39946thumbnail-332x187.jpeg",
-            "publishedAt": "2025-10-05 12:02:10"
-        },
-        {
-            "source": {
-                "name": "engadget"
-            },
-            "title": "How to change your Apple Account password",
-            "url": "https://www.engadget.com/computing/how-to-change-your-apple-account-password-120010992.html",
-            "urlToImage": "https://o.aolcdn.com/images/dims?client=19f2b5e49a271b2bde77&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-06%2F26e13e10-4ba8-11f0-af67-e4739c3bbb12&resize=1400%2C787&signature=80538cce7bdf5e3aa117f4af96db58ea11c61f67",
-            "publishedAt": "2025-10-05 12:00:10"
-        },
-        {
-            "source": {
-                "name": "wired"
-            },
-            "title": "Best iPad to Buy (and Some to Avoid) in 2025",
-            "url": "https://www.wired.com/gallery/the-best-ipad/",
-            "urlToImage": "https://media.wired.com/photos/68019521a6645a4ab2bb7df9/4:3/w_320,c_limit/Apple-iPad_Front-on-table_Photo-SOURCE-Brenda-Stolyar.jpg",
-            "publishedAt": "2025-10-05 11:33:00"
-        },
-        {
-            "source": {
-                "name": "ndtv"
-            },
-            "title": "Quantum Computers Achieve Unconditional Advantage Over Classical Machines, Study Shows",
-            "url": "https://www.gadgets360.com/science/news/scientists-prove-quantum-computers-can-outperform-classical-computers-unconditionally-9383528",
-            "urlToImage": "https://i.gadgets360cdn.com/large/Untitled_design_1_1759398238718.jpg?downsize=950%3A%2A",
-            "publishedAt": "2025-10-05 11:30:01"
-        },
-        {
-            "source": {
-                "name": "yourstory"
-            },
-            "title": "Indian market's shift towards premium devices to drive Snapdragon 8 chipsets adoption: Qualcomm",
-            "url": "https://yourstory.com/2025/10/indian-markets-shift-towards-premium-devices-snapdragon-8-qualcomm",
-            "urlToImage": "https://images.yourstory.com/cs/2/a0bad530ce5d11e9a3fb4360e4b9139b/GP08052023FeatureImage-1715174245636.jpg",
-            "publishedAt": "2025-10-05 11:08:03"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Driving the Future of Clean Energy and Methane Detection: A Conversation with Semiu Temidayo Fasasi",
-            "url": "https://techannouncer.com/driving-the-future-of-clean-energy-and-methane-detection-a-conversation-with-semiu-temidayo-fasasi/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/10/Semiu-Temidayo-Fasasi-332x443.jpeg",
-            "publishedAt": "2025-10-05 11:03:26"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "The best NAS devices of 2025: Expert tested",
-            "url": "https://www.zdnet.com/article/best-network-attached-storage/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/b670c79ee4882009c9c62fce8293fab2710baeec/2023/06/29/6676bbc0-4ad6-4847-832d-1ba109e7e6b5/img-4412.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-10-05 11:00:31"
-        },
-        {
-            "source": {
-                "name": "latimes"
-            },
-            "title": "Want the next breakthrough? Don’t starve the science that makes it possible",
-            "url": "https://www.latimes.com/opinion/story/2025-10-05/breakthrough-science-federal-funding",
-            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/2713bc5/2147483647/strip/true/crop/3000x1575+0+222/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F62%2F4c%2F6ff57b7149df904f23c02c36dbfe%2F137773363.jpg",
-            "publishedAt": "2025-10-05 11:00:00"
-        },
-        {
-            "source": {
-                "name": "livescience"
-            },
-            "title": "Science history: Edwin Hubble uncovers the vastness of the universe with discovery of 'standard candle' — Oct. 5, 1923",
-            "url": "https://www.livescience.com/space/astronomy/science-history-edwin-hubble-uncovers-the-vastness-of-the-universe-with-discovery-of-standard-candle-oct-5-1923",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/J8esP4WHmMiXn2ecW2eAHT-1280-80.jpg",
-            "publishedAt": "2025-10-05 11:00:00"
-        },
-        {
-            "source": {
-                "name": "english_jagran"
-            },
-            "title": "BTech In Artificial Intelligence vs Data Science: Which Career Path To Choose In 2025?",
-            "url": "https://www.thedailyjagran.com/education/btech-in-artificial-intelligence-vs-data-science-which-career-path-to-choose-in2025-10271561",
-            "urlToImage": "https://imgeng.jagran.com/images/2025/10/05/article/image/aivsdatascience-1759661593660.webp",
-            "publishedAt": "2025-10-05 10:49:42"
-        },
-        {
-            "source": {
-                "name": "futurism"
-            },
-            "title": "Lazy Parents Are Giving Their Toddlers ChatGPT on Voice Mode to Keep Them Entertained for Hours",
-            "url": "https://futurism.com/artificial-intelligence/parents-toddlers-chatgpt-voice-mode",
-            "urlToImage": "https://futurism.com/wp-content/uploads/2025/10/parents-toddlers-chatgpt-voice-mode.jpg?quality=85",
-            "publishedAt": "2025-10-05 10:45:00"
         }
     ]
 }
