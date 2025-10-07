@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-10-07T09:16:44.435294Z",
+    "lastUpdatedAt": "2025-10-07T10:16:17.094106Z",
     "articles": [
+        {
+            "source": {
+                "id": "e479ce8332aab31d8bac6ba9584cedbb",
+                "name": "Republic World",
+                "url": "https://www.republicworld.com",
+                "country": "in"
+            },
+            "title": "Indian Army Enhances Technological Capabilities, Proves AI Prowess In Operation Sindoor",
+            "url": "https://www.republicworld.com/defence/indian-army-enhances-technological-capabilities-proves-ai-prowess-in-operation-sindoor",
+            "urlToImage": "https://img.republicworld.com/all_images/indian-army-shares-video-just-before-air-strike-named-operation-sindoor-on-pakistan-pok-terrorist-area-1746595294985-16_9.webp",
+            "publishedAt": "2025-10-06T22:09:56Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "India’s Well-heeled Get Their AI Kicks from Secondary Market",
+            "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2025/oct/07/et-front/indias-well-heeled-get-their-ai-kicks-from-secondary-mkt/articleshow/124348499.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-124348499,width-1200,height-630,imgsize-7378,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-10-06T21:46:00Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "The AI Suicide Problem Knows No Borders",
+            "url": "https://www.livemint.com/technology/tech-news/the-ai-suicide-problem-knows-no-borders-11759785839226.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech1_1734536428801_1734536438047.jpg",
+            "publishedAt": "2025-10-06T21:23:58Z"
+        },
         {
             "source": {
                 "id": "7006f2c40c7cc01195608dbfd60259b3",
@@ -1635,6 +1671,87 @@
         },
         {
             "source": {
+                "name": "interestingengineering"
+            },
+            "title": "AMD secures massive 6-gigawatt GPU deal with OpenAI to power trillion-dollar AI push",
+            "url": "https://interestingengineering.com/culture/amd-openai-6-gigawatt-ai-deal",
+            "urlToImage": "https://cms.interestingengineering.com/wp-content/uploads/2025/10/Untitled-design-63.jpg",
+            "publishedAt": "2025-10-06 22:12:15"
+        },
+        {
+            "source": {
+                "name": "dailytimes"
+            },
+            "title": "There’s an app for that: Technology can up your game — at any age",
+            "url": "https://dailytimes.com/news/there-s-an-app-for-that-technology-can-up-your-game-at-any-age/article_8b43e78e-c4f8-4594-95de-7c4930b25db9.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/dailytimes.com/content/tncms/assets/v3/editorial/6/d1/6d17ac63-648b-4b9a-a625-9231bbfce47f/68e43c9dadc63.image.jpg?resize=300%2C343",
+            "publishedAt": "2025-10-06 22:02:00"
+        },
+        {
+            "source": {
+                "name": "theverge"
+            },
+            "title": "ChatGPT apps are live: Here are the first ones you can try",
+            "url": "https://www.theverge.com/news/793081/chagpt-apps-sdk-spotify-zillow-openai",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_C.jpg?crop=0%2C10.732984293194%2C100%2C78.534031413613&quality=90&strip=all&w=1200",
+            "publishedAt": "2025-10-06 22:00:35"
+        },
+        {
+            "source": {
+                "name": "xda_developers"
+            },
+            "title": "If you only need basic photos and files, these 4 self-hosted tools are better than Nextcloud",
+            "url": "https://www.xda-developers.com/basic-photos-and-files-self-hosted-nextcloud/",
+            "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2024/12/immich-2-2.jpg",
+            "publishedAt": "2025-10-06 22:00:19"
+        },
+        {
+            "source": {
+                "name": "techannouncer"
+            },
+            "title": "AMD vs Intel: 2025 CPU Showdown—Which Processor Reigns Supreme for Gaming and Productivity?",
+            "url": "https://techannouncer.com/amd-vs-intel-2025-cpu-showdown-which-processor-reigns-supreme-for-gaming-and-productivity/",
+            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/10/09d77ce4thumbnail-332x187.jpeg",
+            "publishedAt": "2025-10-06 21:53:08"
+        },
+        {
+            "source": {
+                "name": "thebusinessjournal"
+            },
+            "title": "OpenAI and chipmaker AMD sign chip supply partnership for AI infrastructure",
+            "url": "https://thebusinessjournal.com/openai-and-chipmaker-amd-sign-chip-supply-partnership-for-ai-infrastructure/",
+            "urlToImage": "https://thebusinessjournal.com/wp-content/uploads/2025/09/p24-Cass_Headshot_highres-scaled-1-84x104.jpg",
+            "publishedAt": "2025-10-06 21:46:19"
+        },
+        {
+            "source": {
+                "name": "headtopics"
+            },
+            "title": "AMD, OpenAI leaders celebrate major partnership to drive next wave of AI innovation",
+            "url": "https://us.headtopics.com/news/amd-openai-leaders-celebrate-major-partnership-to-drive-74024434",
+            "urlToImage": "https://i.headtopics.com/images/2025/10/6/businessinsider/openai-just-gave-amd-a-big-win-against-nvidia-s-ai-openai-just-gave-amd-a-big-win-against-nvidia-s-ai-440E6E921CCA9E4BA9794ACAFC922A89.webp?w=640",
+            "publishedAt": "2025-10-06 21:39:31"
+        },
+        {
+            "source": {
+                "name": "techannouncer"
+            },
+            "title": "Mastering Python with FreeCodeCamp: A Comprehensive Guide for Beginners",
+            "url": "https://techannouncer.com/mastering-python-with-freecodecamp-a-comprehensive-guide-for-beginners/",
+            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/10/4e90c4a6thumbnail-332x187.jpeg",
+            "publishedAt": "2025-10-06 21:33:08"
+        },
+        {
+            "source": {
+                "name": "aljazeera_us"
+            },
+            "title": "AMD’s shares surge on deal to supply AI chips to OpenAI",
+            "url": "https://www.aljazeera.com/economy/2025/10/6/amds-shares-surge-on-deal-to-supply-ai-chips-to-openai",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/10/AP25279438211005-1759785204.jpg?quality=80&resize=770%2C513",
+            "publishedAt": "2025-10-06 21:25:43"
+        },
+        {
+            "source": {
                 "name": "slashgear"
             },
             "title": "Who Owns General Dynamics Today? A Look At The Defense Company's History",
@@ -3000,132 +3117,6 @@
             "url": "https://www.romesentinel.com/ce/news/competition-heats-up-to-challenge-nvidias-ai-chip-dominance/article_27b99335-58eb-5687-ae15-f2b1e0cdb555.html",
             "urlToImage": "https://bloximages.chicago2.vip.townnews.com/romesentinel.com/content/tncms/assets/v3/editorial/6/03/60370dc5-07b0-5d8e-8641-fb3c4e7a22a3/68e3262bb5546.image.jpg?resize=300%2C200",
             "publishedAt": "2025-10-06 01:12:59"
-        },
-        {
-            "source": {
-                "name": "communitynewspapergroup"
-            },
-            "title": "Competition heats up to challenge Nvidia's AI chip dominance",
-            "url": "https://www.communitynewspapergroup.com/news/nation/competition-heats-up-to-challenge-nvidias-ai-chip-dominance/article_509109e9-a074-550b-b987-e9a6432b59ef.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/communitynewspapergroup.com/content/tncms/assets/v3/editorial/0/f6/0f6f951b-98b1-57a6-b75d-bb9068ff423d/68e326beb1f9f.image.jpg?resize=300%2C200",
-            "publishedAt": "2025-10-06 01:12:59"
-        },
-        {
-            "source": {
-                "name": "guampdn"
-            },
-            "title": "Competition heats up to challenge Nvidia's AI chip dominance",
-            "url": "https://www.guampdn.com/news/national/competition-heats-up-to-challenge-nvidias-ai-chip-dominance/article_740aef1d-7d5f-594c-bc43-316e4cffdbfc.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/guampdn.com/content/tncms/assets/v3/editorial/5/53/553cfb3a-3b80-5bbe-9ca0-5fe118a5062e/68e32671d3157.image.jpg?resize=300%2C200",
-            "publishedAt": "2025-10-06 01:12:59"
-        },
-        {
-            "source": {
-                "name": "kdhnews"
-            },
-            "title": "Competition heats up to challenge Nvidia's AI chip dominance",
-            "url": "https://kdhnews.com/news/nation/competition-heats-up-to-challenge-nvidias-ai-chip-dominance/article_51939876-5363-5798-8828-351f94f3c25c.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/assets/v3/editorial/2/d2/2d2b4973-3814-5268-9a10-c7636ae8cc9b/68e32636ed91f.image.jpg?resize=400%2C266",
-            "publishedAt": "2025-10-06 01:12:59"
-        },
-        {
-            "source": {
-                "name": "indianagazette"
-            },
-            "title": "Competition heats up to challenge Nvidia's AI chip dominance",
-            "url": "https://www.indianagazette.com/news/national/competition-heats-up-to-challenge-nvidias-ai-chip-dominance/article_8300976c-3c38-599e-828e-1eca62ae36d6.html",
-            "urlToImage": "http://bloximages.newyork1.vip.townnews.com/indianagazette.com/content/tncms/assets/v3/editorial/2/e1/2e18edb9-5989-5ccf-9e0a-6e4ae35ea1b2/68e326667edd6.image.jpg?resize=300%2C200",
-            "publishedAt": "2025-10-06 01:12:59"
-        },
-        {
-            "source": {
-                "name": "rrdailyherald"
-            },
-            "title": "Competition heats up to challenge Nvidia's AI chip dominance",
-            "url": "https://www.rrdailyherald.com/news/national/competition-heats-up-to-challenge-nvidias-ai-chip-dominance/article_49f00764-6975-5bcd-878a-f9ad124666e8.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/rrdailyherald.com/content/tncms/assets/v3/editorial/1/7b/17b9fc95-fd9b-5630-8ccb-5437adf77976/68e326405427d.image.jpg?resize=300%2C200",
-            "publishedAt": "2025-10-06 01:12:59"
-        },
-        {
-            "source": {
-                "name": "financialcontent"
-            },
-            "title": "Netweb Technologies Dominates AI Infrastructure Race; SEBI Analysts See More Fuel Left In The Rally",
-            "url": "https://stocktwits.com/news-articles/markets/equity/netweb-technologies-dominates-ai-infrastructure-race-sebi-analysts-see-more-fuel-left-in-the-rally/ch6bvB1R3Xh",
-            "urlToImage": "https://news.stocktwits-cdn.com/large_stock_generic_resized_jpg_3444b70edf.webp",
-            "publishedAt": "2025-10-06 00:00:00"
-        },
-        {
-            "source": {
-                "id": "b419a989918b3665a34559f5047546b6",
-                "name": "The Sunday Times",
-                "url": "https://www.thetimes.com",
-                "country": "gb"
-            },
-            "title": "Banks scrambling to hire directors with technology experience",
-            "url": "https://www.thetimes.com/business-money/companies/article/banks-hire-directors-with-technology-experience-cyberattacks-bx39pzzd9",
-            "urlToImage": "https://www.thetimes.com/imageserver/image/%2Fbb799f55-9abe-4c31-a00d-5961a566159a.jpg?crop=4608%2C2592%2C0%2C163&resize=1200",
-            "publishedAt": "2025-10-05T23:01:00Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "Indian consulate in New York holds session on AI's role in healthcare",
-            "url": "https://www.lokmattimes.com/international/indian-consulate-in-new-york-holds-session-on-ais-role-in-healthcare/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20251005221700_202510.jpg",
-            "publishedAt": "2025-10-05T22:17:14Z"
-        },
-        {
-            "source": {
-                "id": "4300aa22a5f803b09a37ff0632b44685",
-                "name": "The daily Star",
-                "url": "https://www.dailystar.co.uk",
-                "country": "gb"
-            },
-            "title": "Band 'insulted' as AI group steals their style and overtakes them on Spotify",
-            "url": "https://www.dailystar.co.uk/showbiz/band-insulted-ai-group-steals-36018237",
-            "urlToImage": "https://i2-prod.dailystar.co.uk/article36018215.ece/ALTERNATES/s1200/0_Creeper-Perform-At-The-O2-Forum-Kentish-Town.jpg",
-            "publishedAt": "2025-10-05T21:45:08Z"
-        },
-        {
-            "source": {
-                "id": "b33a42ef1c098421f66aad47a76d6a3c",
-                "name": "The Hindu",
-                "url": "https://www.thehindu.com",
-                "country": "in"
-            },
-            "title": "High Court steps in as artificial intelligence, deepfakes threaten image rights of celebrities",
-            "url": "https://www.thehindu.com/news/cities/Delhi/high-court-steps-in-as-artificial-intelligence-deepfakes-threaten-image-rights-of-celebrities/article70128437.ece",
-            "urlToImage": "https://www.thehindu.com/theme/images/og-image.png",
-            "publishedAt": "2025-10-05T20:06:35Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "AI cameras: 1 crore challans issued, fine collection falters",
-            "url": "https://timesofindia.indiatimes.com/city/thiruvananthapuram/ai-cameras-1-crore-challans-issued-fine-collection-falters/articleshow/124325531.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-124325530,width-1070,height-580,imgsize-60434,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "publishedAt": "2025-10-05T19:09:00Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "SaaS consolidates as AI adoption & talent war intensifies",
-            "url": "https://timesofindia.indiatimes.com/city/chennai/saas-consolidates-as-ai-adoption-talent-war-intensifies/articleshow/124324537.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-117517372,width-1070,height-580,imgsize-231270,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "publishedAt": "2025-10-05T17:57:00Z"
         }
     ]
 }
