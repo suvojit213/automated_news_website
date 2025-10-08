@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2025-10-08T18:22:32.132218Z",
+    "lastUpdatedAt": "2025-10-08T19:11:52.304294Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Government drafts AI law to govern responsible use, says Gobind",
+            "url": "https://www.thestar.com.my/news/nation/2025/10/08/government-drafts-ai-law-to-govern-responsible-use-says-gobind",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/08/3560184.JPG",
+            "publishedAt": "2025-10-08T06:38:00Z"
+        },
+        {
+            "source": {
+                "id": "d5a02d07558c5563d72576efc406e608",
+                "name": "ABC17News.com",
+                "url": "https://abc17news.com",
+                "country": "us"
+            },
+            "title": "Hack on Japan’s biggest brewer renews concerns over cyberattack readiness",
+            "url": "https://abc17news.com/money/cnn-business-consumer/2025/10/08/hack-on-japans-biggest-brewer-renews-concerns-over-cyberattack-readiness/",
+            "urlToImage": "https://abc17news.b-cdn.net/abc17news.com/2023/08/kmiz-860x484.webp",
+            "publishedAt": "2025-10-08T06:34:06Z"
+        },
+        {
+            "source": {
+                "id": "26269dbc42635df9af8c24f3cdab8e37",
+                "name": "Cable News Network",
+                "url": "https://edition.cnn.com",
+                "country": "us"
+            },
+            "title": "Hack on Japan’s popular Asahi beer firm renews concerns over cyberattack readiness",
+            "url": "https://edition.cnn.com/2025/10/08/business/japan-asahi-cyberattack-readiness-intl-hnk",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2238539589.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2025-10-08T06:34:06Z"
+        },
+        {
+            "source": {
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
+                "country": "in"
+            },
+            "title": "Deloitte's AI-Generated Errors In Australia Echo Troubled History Worldwide",
+            "url": "https://www.ndtvprofit.com/business/deloittes-ai-generated-errors-in-australia-echo-troubled-history-worldwide",
+            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-10-08%2Fdumpv4ld%2FGX2zaVhWIAAmfRv.jpg?rect=59%2C0%2C3021%2C1586&w=1200&auto=format%2Ccompress&ogImage=true",
+            "publishedAt": "2025-10-08T06:33:18Z"
+        },
+        {
+            "source": {
+                "id": "a6d401909ca644c4ffb332486c9cfaea",
+                "name": "Seeking Alpha",
+                "url": "https://seekingalpha.com",
+                "country": "us"
+            },
+            "title": "Asia markets retreat tracking Wall Street tech decline, Japan rally pa",
+            "url": "https://seekingalpha.com/news/4502515-asia-markets-retreat-tracking-wall-street-tech-decline-japan-rally-pauses",
+            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2151886786/image_2151886786.jpg?io=getty-c-w750",
+            "publishedAt": "2025-10-08T06:28:11Z"
+        },
         {
             "source": {
                 "id": "7daf04fa6272ed0a29583b211dcfe1d4",
@@ -360,6 +420,96 @@
             "url": "https://www.forbes.com/sites/lbsbusinessstrategyreview/2025/10/08/cybersecurity-needs-a-supply-chain-perspective-jlr-attack-shows-why/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68e6919b3e1546fb4277e317/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-10-08T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "thehansindia"
+            },
+            "title": "Memes, AI, and apps: How gen Z learners are coding differently",
+            "url": "https://www.thehansindia.com/hans/young-hans/memes-ai-and-apps-how-gen-z-learners-are-coding-differently-1012828",
+            "urlToImage": "https://assets.thehansindia.com/h-upload/2025/10/08/1591245-y-hans.webp",
+            "publishedAt": "2025-10-08 07:10:38"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "AI Just Got Better at Counting Trees",
+            "url": "https://hackernoon.com/ai-just-got-better-at-counting-trees",
+            "urlToImage": "https://hackernoon.imgix.net/images/an-isolated-tree-in-a-forest-lcaqo5jt7glflpxe1u7b92bo.png",
+            "publishedAt": "2025-10-08 07:00:07"
+        },
+        {
+            "source": {
+                "name": "itpro"
+            },
+            "title": "Dynabook Portégé Z40L-N review: Featherweight and underpowered",
+            "url": "https://www.itpro.com/hardware/laptops/dynabook-portege-z40l-n-review-featherweight-and-underpowered",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/bZcWNkb8AiX5p84S7zgeph-1280-80.jpg",
+            "publishedAt": "2025-10-08 07:00:00"
+        },
+        {
+            "source": {
+                "name": "prnewswire_apac"
+            },
+            "title": "Delta Electronics Showcases Energy-Saving Power, Cooling and Infrastructure Solutions for High-Density, Sustainable Data Centers at Data Centre World Asia 2025",
+            "url": "https://www.prnewswire.com/apac/news-releases/delta-electronics-showcases-energy-saving-power-cooling-and-infrastructure-solutions-for-high-density-sustainable-data-centers-at-data-centre-world-asia-2025-302578010.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2791383/Delta_DCW_Day_1.jpg?p=original",
+            "publishedAt": "2025-10-08 07:00:00"
+        },
+        {
+            "source": {
+                "name": "en_prnasisa"
+            },
+            "title": "Delta Electronics Showcases Energy-Saving Power, Cooling and Infrastructure Solutions for High-Density, Sustainable Data Centers at Data Centre World Asia 2025",
+            "url": "https://en.prnasia.com/story/506317-0.shtml",
+            "urlToImage": "https://mma.prnasia.com/media2/2791383/Delta_DCW_Day_1.jpg?p=medium600",
+            "publishedAt": "2025-10-08 07:00:00"
+        },
+        {
+            "source": {
+                "name": "computerweekly"
+            },
+            "title": "Interview: Change management for digitisation and agentic AI",
+            "url": "https://www.computerweekly.com/news/366632254/Interview-Change-management-for-digitisation-and-agentic-AI",
+            "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero%20Images/technology-digital-network-data-adobe_searchsitetablet_520X173.jpg",
+            "publishedAt": "2025-10-08 06:45:00"
+        },
+        {
+            "source": {
+                "name": "techxplore"
+            },
+            "title": "Chatbot dreams generate AI nightmares for Bay Area lawyers",
+            "url": "https://techxplore.com/news/2025-10-chatbot-generate-ai-nightmares-bay.html",
+            "urlToImage": "https://scx1.b-cdn.net/csz/news/tmb/2025/court-room.jpg",
+            "publishedAt": "2025-10-08 06:40:02"
+        },
+        {
+            "source": {
+                "name": "phys"
+            },
+            "title": "Algorithm reveals 'magic sizes' for assembling programmable icosahedral shells at minimal cost",
+            "url": "https://phys.org/news/2025-10-algorithm-reveals-magic-sizes-programmable.html",
+            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2025/a-new-algorithm-for-th.jpg",
+            "publishedAt": "2025-10-08 06:30:02"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "Don’t wait! I found 17 Sony TV and audio Prime Day deals knocking up to 50% our favorite tech",
+            "url": "https://www.tomsguide.com/tvs/4k-tvs/dont-wait-i-found-17-sony-tv-and-audio-prime-day-deals-knocking-up-to-50-percent-our-favorite-tech",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/a8EcgaFE2X5APdGVFwxYuS-1280-80.jpg",
+            "publishedAt": "2025-10-08 06:30:00"
+        },
+        {
+            "source": {
+                "name": "en_prnasisa"
+            },
+            "title": "MindHYVE.aiTM and the California Institute of Artificial Intelligence (CIAI) Announces Strategic Partnership to Close the Global AI Fluency Gap",
+            "url": "https://en.prnasia.com/story/506312-0.shtml",
+            "urlToImage": "https://mma.prnasia.com/media2/2791313/MindHYVE_ai_Inc_PRelease_MH_CIAI.jpg?p=medium600",
+            "publishedAt": "2025-10-08 06:23:00"
         },
         {
             "source": {
@@ -3120,141 +3270,6 @@
             "url": "https://zephyrnet.com/quantum-kiutra-raises-e13m-for-helium-3-free-cooling/",
             "urlToImage": "https://zephyrnet.com/wp-content/uploads/2025/04/zephyrnet-default-img-3-1.jpg-1.jpg",
             "publishedAt": "2025-10-07 18:19:33"
-        },
-        {
-            "source": {
-                "name": "newscientist"
-            },
-            "title": "Is the universe really one big black hole?",
-            "url": "https://www.newscientist.com/article/2499032-is-the-universe-really-one-big-black-hole/",
-            "urlToImage": "https://images.newscientist.com/wp-content/uploads/2025/10/06204031/SEI_269290123.jpg",
-            "publishedAt": "2025-10-07 18:00:57"
-        },
-        {
-            "source": {
-                "name": "newsday"
-            },
-            "title": "Musk and other tech gurus say humanlike robots are the next big thing. Don't hold your breath",
-            "url": "https://www.newsday.com/opinion/commentary/humanlike-robots-elon-musk-olkorf3f",
-            "urlToImage": "https://www.newsday.com/_next/image?q=80&url=https%3A%2F%2Fcdn.newsday.com%2Fimage-service%2Fversion%2Fc%3AMWI3MjJkZjctZWRkOS00%3AZWM4YWM2NTgtY2Y1OC00%2Fcopy-of-bzbuzz250520.jpg%3Ff%3DLandscape%2B16%253A9%26w%3D770%26q%3D1&w=1920",
-            "publishedAt": "2025-10-07 18:00:00"
-        },
-        {
-            "source": {
-                "name": "berkeley"
-            },
-            "title": "Former Berkeley Lab Scientist John Clarke Wins 2025 Nobel Prize in Physics",
-            "url": "https://newscenter.lbl.gov/2025/10/07/former-berkeley-lab-scientist-john-clarke-wins-2025-nobel-prize-in-physics/",
-            "urlToImage": "https://newscenter.lbl.gov/wp-content/uploads/2025/10/Clarke_John-1025x685px.jpg",
-            "publishedAt": "2025-10-07 17:59:10"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "We May Need Data Centers in Space to Build Better AI",
-            "url": "https://hackernoon.com/we-may-need-data-centers-in-space-to-build-better-ai",
-            "urlToImage": "https://hackernoon.imgix.net/images/22qULrU2ZPb8VRsSedCeA6x7AJ13-on43bma.png",
-            "publishedAt": "2025-10-07 17:41:53"
-        },
-        {
-            "source": {
-                "name": "digit_in"
-            },
-            "title": "OpenAI device missing: Inventing the future’s hard, even for Sam Altman-Jony Ive",
-            "url": "https://www.digit.in/features/general/openai-hardware-device-missing-inventing-the-futures-hard-even-for-sam-altman-jony-ive.html",
-            "urlToImage": "https://static.digit.in/sam-altman-jony-ive-ai-hardware-device.png",
-            "publishedAt": "2025-10-07 17:36:22"
-        },
-        {
-            "source": {
-                "name": "berkeley"
-            },
-            "title": "With these devices, the doctor is always in: Berkeley engineer Rikky Muller explains how implantable and wearable technologies are redefining patient care",
-            "url": "https://engineering.berkeley.edu/news/2025/10/with-these-devices-the-doctor-is-always-in/",
-            "urlToImage": "https://engineering.berkeley.edu/wp-content/uploads/2025/10/20190308_RikkyMuller_AVL_0506_cropped.jpg",
-            "publishedAt": "2025-10-07 17:34:27"
-        },
-        {
-            "source": {
-                "name": "thestreet"
-            },
-            "title": "CoreWeave’s quiet AI deal hints at a much bigger play",
-            "url": "https://www.thestreet.com/technology/coreweaves-quiet-ai-deal-hints-at-a-much-bigger-play-",
-            "urlToImage": "https://www.thestreet.com/.image/c_fit,h_800,w_1200/MjE4Mjc3NTkyNTc3NDE5MTAw/coreweave-lede-2.jpg",
-            "publishedAt": "2025-10-07 17:23:00"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "OpenAI’s ChatGPT Evolves into App-Running Platform at DevDay",
-            "url": "https://www.webpronews.com/openais-chatgpt-evolves-into-app-running-platform-at-devday/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-f1c21c94-c610-467b-aa5d-95e0f5ceda45.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-10-07 17:10:14"
-        },
-        {
-            "source": {
-                "name": "dailygazette"
-            },
-            "title": "Founder of TELF AG Stanislav Kondrashov on Elements Classified as Rare Earth Metals",
-            "url": "https://www.dailygazette.com/news/national/founder-of-telf-ag-stanislav-kondrashov-on-elements-classified-as-rare-earth-metals/article_1aae1abb-68de-5c1a-bac6-a1339cf8a37e.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/dailygazette.com/content/tncms/assets/v3/editorial/d/bc/dbc5f9ba-2a0c-5a47-b888-0005af47123f/68e551a1054d2.image.jpg?resize=300%2C168",
-            "publishedAt": "2025-10-07 17:10:01"
-        },
-        {
-            "source": {
-                "name": "citizentribune"
-            },
-            "title": "Founder of TELF AG Stanislav Kondrashov on Elements Classified as Rare Earth Metals",
-            "url": "https://www.citizentribune.com/news/business/founder-of-telf-ag-stanislav-kondrashov-on-elements-classified-as-rare-earth-metals/article_7f7770c0-83d3-5bea-9387-9cf6192f3ff1.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/citizentribune.com/content/tncms/assets/v3/editorial/d/03/d03cde2e-e4a3-55ec-af12-2ea388c77e61/68e551fa820cb.image.jpg?resize=300%2C168",
-            "publishedAt": "2025-10-07 17:10:01"
-        },
-        {
-            "source": {
-                "name": "messenger_inquirer"
-            },
-            "title": "Founder of TELF AG Stanislav Kondrashov on Elements Classified as Rare Earth Metals",
-            "url": "https://www.messenger-inquirer.com/news/national/founder-of-telf-ag-stanislav-kondrashov-on-elements-classified-as-rare-earth-metals/article_241e90da-bdde-51ab-8bf3-8cbcee587003.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/messenger-inquirer.com/content/tncms/assets/v3/editorial/d/66/d667d60a-27d7-5396-b9f5-b76142ace76d/68e552131964b.image.jpg?resize=300%2C168",
-            "publishedAt": "2025-10-07 17:10:01"
-        },
-        {
-            "source": {
-                "name": "wyomingnews"
-            },
-            "title": "Founder of TELF AG Stanislav Kondrashov on Elements Classified as Rare Earth Metals",
-            "url": "https://www.wyomingnews.com/news/national/founder-of-telf-ag-stanislav-kondrashov-on-elements-classified-as-rare-earth-metals/article_5a845106-51de-5bfe-9361-896e9fab8e3d.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/9/08/90857ee5-5322-5076-94a8-4d8ee2d2033d/68e551eb521b5.image.jpg?resize=300%2C168",
-            "publishedAt": "2025-10-07 17:10:01"
-        },
-        {
-            "source": {
-                "name": "columbiagorgenews"
-            },
-            "title": "Founder of TELF AG Stanislav Kondrashov on Elements Classified as Rare Earth Metals",
-            "url": "https://www.columbiagorgenews.com/news/national/founder-of-telf-ag-stanislav-kondrashov-on-elements-classified-as-rare-earth-metals/article_a6b46188-8641-5ff0-b72f-fa53762ab742.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/columbiagorgenews.com/content/tncms/assets/v3/editorial/8/cd/8cd5a217-1475-555e-a6d6-116612698541/68e551ba57618.image.jpg?resize=300%2C168",
-            "publishedAt": "2025-10-07 17:10:01"
-        },
-        {
-            "source": {
-                "name": "wired"
-            },
-            "title": "You Can Save Big on Apple's AirPods Pro 2 for Prime Day",
-            "url": "https://www.wired.com/story/airpods-pro-prime-day-sale-october-2025/",
-            "urlToImage": "https://media.wired.com/photos/68e5488e667861a674821ea8/3:4/w_120,c_limit/Apple's%20Still-Sweet%20AirPods%20Pro%202%20Get%20a%20Serious%20Prime%20Day%20Discount.png",
-            "publishedAt": "2025-10-07 17:08:50"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "Tech Trends 2026 Report Released: Eight Emerging Trends Redefining the Future of IT, According to Findings by Info-Tech Research Group",
-            "url": "https://www.prnewswire.com/news-releases/tech-trends-2026-report-released-eight-emerging-trends-redefining-the-future-of-it-according-to-findings-by-info-tech-research-group-302577278.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2790689/Info_Tech_Research_Group_Tech_Trends_2026_Report_Released__Eight.jpg?p=original",
-            "publishedAt": "2025-10-07 17:06:00"
         }
     ]
 }
