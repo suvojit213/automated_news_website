@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-10-08T13:26:16.935242Z",
+    "lastUpdatedAt": "2025-10-08T14:15:40.633631Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Exclusive: Data streaming software maker Confluent explores sale, sources say",
+            "url": "https://www.reuters.com/business/data-streaming-software-maker-confluent-explores-sale-sources-say-2025-10-08/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/QYBD6R64YJJA7KT3CO3SXNDMT4.jpg?auth=951b3b561967c054c994ecbc18336ccb3e6c0ebf62b2f52986a817415427b4c7&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-10-08T02:15:15Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Anthropic Expands AI Influence with New India Office",
+            "url": "https://www.devdiscourse.com/article/technology/3655835-anthropic-expands-ai-influence-with-new-india-office",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/07_04_2025_22_07_11_397655.png?width=920&format=jpeg",
+            "publishedAt": "2025-10-08T01:57:01Z"
+        },
+        {
+            "source": {
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
+                "country": "in"
+            },
+            "title": "Nvidia To Finance Musk’s xAI Chips As Part Of $20 Billion Deal",
+            "url": "https://www.ndtvprofit.com/business/nvidia-to-finance-musks-xai-chips-as-part-of-20-billion-deal",
+            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-10-08%2Fyygzg3r5%2F441549790.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+            "publishedAt": "2025-10-08T01:53:59Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "China vs U.S. again: Chinese hackers target over dozen U.S. law firms, claim reports",
+            "url": "https://economictimes.indiatimes.com/news/international/us/china-vs-u-s-again-chinese-hackers-target-over-dozen-u-s-law-firms-claim-reports/articleshow/124374517.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-124374555,width-1200,height-630,imgsize-82452,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-10-08T01:43:00Z"
+        },
         {
             "source": {
                 "id": "c45dc51281d68ce51bff0cc4fe959bbf",
@@ -60,6 +108,96 @@
             "url": "https://www.forbes.com/councils/forbescommunicationscouncil/2025/10/08/when-your-logo-becomes-a-weapon-why-brand-impersonation-is-a-marketing-crisis-not-just-a-cybersecurity-problem/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68e54a488861883187b8b9cd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-10-08T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "theverge"
+            },
+            "title": "We dug through thousands of Prime Day deals to find 60 standouts for $50 or less",
+            "url": "https://www.theverge.com/tech/793435/amazon-october-prime-day-best-cheap-tech-deals-under-50-2025",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25810375/blink_outdoor_4.jpg?crop=0%2C10.707269155206%2C100%2C78.585461689587&quality=90&strip=all",
+            "publishedAt": "2025-10-08 02:01:20"
+        },
+        {
+            "source": {
+                "name": "communitynewspapergroup"
+            },
+            "title": "Is AI Really Coming After Your Job?",
+            "url": "https://www.communitynewspapergroup.com/news/nation/is-ai-really-coming-after-your-job/article_ba8dad42-8e7b-50fc-a5dc-f68baf97a62f.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/communitynewspapergroup.com/content/tncms/custom/image/bae0892a-80e8-11e6-87b9-6bebc8172e5b.png?crop=320%2C320%2C0%2C70&order=crop%2Cresize&resize=200%2C200",
+            "publishedAt": "2025-10-08 01:50:59"
+        },
+        {
+            "source": {
+                "name": "romesentinel"
+            },
+            "title": "Is AI Really Coming After Your Job?",
+            "url": "https://www.romesentinel.com/ce/news/is-ai-really-coming-after-your-job/article_67be7fa6-4e9f-53cf-bdee-1c5639827cdd.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/romesentinel.com/content/tncms/custom/image/419ec284-f5a3-11ed-a31e-ab8ff79ed4fa.jpg?resize=600%2C315",
+            "publishedAt": "2025-10-08 01:50:59"
+        },
+        {
+            "source": {
+                "name": "messenger_inquirer"
+            },
+            "title": "Is AI Really Coming After Your Job?",
+            "url": "https://www.messenger-inquirer.com/news/national/is-ai-really-coming-after-your-job/article_87e67ec3-fdb5-5f35-a1c7-8e531a1fe28c.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/messenger-inquirer.com/content/tncms/custom/image/d3438092-9ea6-11ee-95f8-b788831de3bd.jpg?resize=600%2C338",
+            "publishedAt": "2025-10-08 01:50:59"
+        },
+        {
+            "source": {
+                "name": "columbiagorgenews"
+            },
+            "title": "Is AI Really Coming After Your Job?",
+            "url": "https://www.columbiagorgenews.com/news/national/is-ai-really-coming-after-your-job/article_1abcf02f-3465-5869-8c8c-c16836355cbc.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/columbiagorgenews.com/content/tncms/custom/image/6bca8190-c1eb-11ea-bb03-7fd513960224.jpg?resize=600%2C315",
+            "publishedAt": "2025-10-08 01:50:59"
+        },
+        {
+            "source": {
+                "name": "citizentribune"
+            },
+            "title": "Is AI Really Coming After Your Job?",
+            "url": "https://www.citizentribune.com/news/business/is-ai-really-coming-after-your-job/article_bc746fc0-71ec-58bc-bdaa-3362c4072d51.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/citizentribune.com/content/tncms/custom/image/9e99fbb8-cc4a-11e6-91dc-0b1813f59513.jpg?resize=600%2C315",
+            "publishedAt": "2025-10-08 01:50:59"
+        },
+        {
+            "source": {
+                "name": "carrollspaper"
+            },
+            "title": "Is AI Really Coming After Your Job?",
+            "url": "https://carrollspaper.com/news/national/is-ai-really-coming-after-your-job/article_3a1136f3-b4da-57d3-b1aa-24e541b86d0d.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/carrollspaper.com/content/tncms/custom/image/b84154e2-5f07-11ee-be59-138182361bdc.jpg?resize=200%2C32",
+            "publishedAt": "2025-10-08 01:50:59"
+        },
+        {
+            "source": {
+                "name": "hendersondispatch"
+            },
+            "title": "Is AI Really Coming After Your Job?",
+            "url": "https://www.hendersondispatch.com/news/national/is-ai-really-coming-after-your-job/article_bc92a88c-7e2f-5c78-9c99-810b69cbc13d.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/hendersondispatch.com/content/tncms/custom/image/9aef42cc-e96d-11ea-9099-2b53bf5cb610.png?resize=600%2C315",
+            "publishedAt": "2025-10-08 01:50:59"
+        },
+        {
+            "source": {
+                "name": "themercury"
+            },
+            "title": "Is AI Really Coming After Your Job?",
+            "url": "https://themercury.com/news/national/is-ai-really-coming-after-your-job/article_d1839955-a74e-5f62-85e9-a8b05be07ab9.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/themercury.com/content/tncms/custom/image/47283276-d683-11e6-9ad2-7311962f5570.jpg?resize=600%2C315",
+            "publishedAt": "2025-10-08 01:50:59"
+        },
+        {
+            "source": {
+                "name": "kdhnews"
+            },
+            "title": "Is AI Really Coming After Your Job?",
+            "url": "https://kdhnews.com/news/nation/is-ai-really-coming-after-your-job/article_bc6f728c-f802-5fe0-951a-7116b7d59db9.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/custom/image/d24d118c-8888-11e9-94c1-a36b64682479.jpg?resize=600%2C315",
+            "publishedAt": "2025-10-08 01:50:59"
         },
         {
             "source": {
@@ -3054,132 +3192,6 @@
             "url": "https://www.prnewswire.com/news-releases/ibm-unveils-advancements-across-software-and-infrastructure-to-help-enterprises-operationalize-ai-302576865.html",
             "urlToImage": "https://mma.prnewswire.com/media/2790226/IBM_2025_TechXchange.jpg?p=original",
             "publishedAt": "2025-10-07 10:00:00"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "Hyperscale Data's Bitcoin Holdings Increase 312% as Company Advances Toward Full Bitcoin Pairing with Market Capitalization as Digital Asset Treasury Allocation Climbs to $41 Million",
-            "url": "https://www.prnewswire.com/news-releases/hyperscale-datas-bitcoin-holdings-increase-312-as-company-advances-toward-full-bitcoin-pairing-with-market-capitalization-as-digital-asset-treasury-allocation-climbs-to-41-million-302576563.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2734592/Hyperscale_Data_Inc_Blue_Stacked_Logo.jpg?p=original",
-            "publishedAt": "2025-10-07 10:00:00"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "IBM and Anthropic Partner to Advance Enterprise Software Development with Proven Security and Governance",
-            "url": "https://www.prnewswire.com/news-releases/ibm-and-anthropic-partner-to-advance-enterprise-software-development-with-proven-security-and-governance-302576868.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2319830/IBM_LOGO_1.jpg?p=original",
-            "publishedAt": "2025-10-07 10:00:00"
-        },
-        {
-            "source": {
-                "name": "en_prnasisa"
-            },
-            "title": "IBM and Anthropic Partner to Advance Enterprise Software Development with Proven Security and Governance",
-            "url": "https://en.prnasia.com/story/506197-0.shtml",
-            "urlToImage": "https://mma.prnasia.com/media2/2319830/IBM_LOGO_1.jpg?p=medium600",
-            "publishedAt": "2025-10-07 10:00:00"
-        },
-        {
-            "source": {
-                "name": "fortune"
-            },
-            "title": "Ex-PayPal chief Dan Schulman appointed CEO of Verizon",
-            "url": "https://fortune.com/2025/10/07/ex-paypal-chief-dan-schulman-appointed-ceo-of-verizon/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-1251819602.jpg?w=2048",
-            "publishedAt": "2025-10-07 09:03:45"
-        },
-        {
-            "source": {
-                "name": "techxplore"
-            },
-            "title": "Back to the future: Is light-speed analog computing on the horizon?",
-            "url": "https://techxplore.com/news/2025-10-future-analog-horizon.html",
-            "urlToImage": "https://scx1.b-cdn.net/csz/news/tmb/2025/back-to-the-future-is.jpg",
-            "publishedAt": "2025-10-07 09:02:04"
-        },
-        {
-            "source": {
-                "name": "cnet"
-            },
-            "title": "Score Up to $495 Off Your Next Laptop and More With Acer’s October Prime Day Discounts",
-            "url": "https://www.cnet.com/deals/save-up-to-495-on-your-next-laptop-and-more-with-acers-october-prime-day-discounts/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/cb57913e1000b9709c6973cac6e677f7cf1d9522/hub/2025/10/05/4122dbb1-6d77-442a-92c7-07174a52b4b0/acer-laptops-and-monitors-october-prime-day.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-10-07 09:01:00"
-        },
-        {
-            "source": {
-                "name": "prospect"
-            },
-            "title": "Brown Stage Capitalism",
-            "url": "https://prospect.org/culture/books/2025-10-07-brown-stage-capitalism-enshittification-doctorow-review/",
-            "urlToImage": "https://prospect.org/downloads/23643/download/OCT25%20Tkacik.jpg?cb=7e490ed0985eb8f40eb2fcc1f4e59a34",
-            "publishedAt": "2025-10-07 09:00:00"
-        },
-        {
-            "source": {
-                "name": "livescience"
-            },
-            "title": "Scientists used AI to map uncharted areas of the mouse brain",
-            "url": "https://www.livescience.com/health/neuroscience/scientists-used-ai-to-map-uncharted-areas-of-the-mouse-brain",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/2yvxkwGTEHRZL2xCbKAEo7-1280-80.jpg",
-            "publishedAt": "2025-10-07 09:00:00"
-        },
-        {
-            "source": {
-                "name": "digit_in"
-            },
-            "title": "ASUS ROG Xbox Ally and Ally X pre-orders are live in India, price starts from Rs 69,990",
-            "url": "https://www.digit.in/news/gaming/asus-rog-xbox-ally-and-ally-x-pre-orders-are-live-in-india-price-starts-from-rs-69990.html",
-            "urlToImage": "https://static.digit.in/Ally-Hero-cf171ede4ff754c27339.jpg",
-            "publishedAt": "2025-10-07 08:59:00"
-        },
-        {
-            "source": {
-                "name": "digitaltrends"
-            },
-            "title": "The Sora videos you create could change dramatically with new update",
-            "url": "https://www.digitaltrends.com/computing/the-sora-videos-you-create-could-change-dramatically-with-new-update/",
-            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/02/sora.jpg?p=1&resize=1200%2C630",
-            "publishedAt": "2025-10-07 08:56:56"
-        },
-        {
-            "source": {
-                "name": "hendersondispatch"
-            },
-            "title": "OpenAI's Fidji Simo says AI investment frenzy 'new normal,' not bubble",
-            "url": "https://www.hendersondispatch.com/news/national/openais-fidji-simo-says-ai-investment-frenzy-new-normal-not-bubble/article_31ea0109-4026-5240-bb99-548fd1d6579b.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/hendersondispatch.com/content/tncms/assets/v3/editorial/9/5d/95dab153-1f39-599d-a064-5afd3293cd3a/68e494160c0a5.image.jpg?resize=400%2C266",
-            "publishedAt": "2025-10-07 08:47:53"
-        },
-        {
-            "source": {
-                "name": "columbiagorgenews"
-            },
-            "title": "OpenAI's Fidji Simo says AI investment frenzy 'new normal,' not bubble",
-            "url": "https://www.columbiagorgenews.com/news/national/openais-fidji-simo-says-ai-investment-frenzy-new-normal-not-bubble/article_f1cdafa3-5027-5aeb-a478-ca6ad92f720a.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/columbiagorgenews.com/content/tncms/assets/v3/editorial/8/81/8815a353-e111-5b2e-8f03-71a2bda4ab91/68e493fd8e85b.image.jpg?resize=300%2C200",
-            "publishedAt": "2025-10-07 08:47:53"
-        },
-        {
-            "source": {
-                "name": "rrdailyherald"
-            },
-            "title": "OpenAI's Fidji Simo says AI investment frenzy 'new normal,' not bubble",
-            "url": "https://www.rrdailyherald.com/news/national/openais-fidji-simo-says-ai-investment-frenzy-new-normal-not-bubble/article_52181876-257e-5449-aac5-bc77525946f6.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/rrdailyherald.com/content/tncms/assets/v3/editorial/b/92/b9291d48-9e27-5f95-b5a9-a42db495d60d/68e493eb911a1.image.jpg?resize=300%2C200",
-            "publishedAt": "2025-10-07 08:47:53"
-        },
-        {
-            "source": {
-                "name": "businessinsider_us"
-            },
-            "title": "Amazon, Meta, Microsoft, and Google are gambling $320 billion on AI infrastructure. The payoff isn't there yet",
-            "url": "https://www.businessinsider.com/big-tech-ai-capex-infrastructure-data-center-wars-2025-10",
-            "urlToImage": "https://i.insider.com/6824f56a3fe8d3928365de60?width=700",
-            "publishedAt": "2025-10-07 08:12:02"
         }
     ]
 }
