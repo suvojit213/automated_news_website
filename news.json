@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-10-08T05:14:54.462748Z",
+    "lastUpdatedAt": "2025-10-08T06:23:15.278065Z",
     "articles": [
+        {
+            "source": {
+                "id": "6fea3ee012f060c6309366516e8d00be",
+                "name": "News-Medical.net",
+                "url": "https://www.news-medical.net",
+                "country": "gb"
+            },
+            "title": "Advancing disease research with AI and Bayesian modeling at UT Arlington",
+            "url": "https://www.news-medical.net/news/20251007/Advancing-disease-research-with-AI-and-Bayesian-modeling-at-UT-Arlington.aspx",
+            "urlToImage": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+            "publishedAt": "2025-10-07T18:17:00Z"
+        },
+        {
+            "source": {
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
+                "country": "in"
+            },
+            "title": "Deloitte To Repay Australian Government After AI-Generated Errors Found In Official Report",
+            "url": "https://www.ndtvprofit.com/business/deloitte-to-repay-australian-government-after-ai-generated-errors-found-in-official-report",
+            "urlToImage": "https://media.assettype.com/bloombergquint%2F2023-12%2F4dd33f32-bea6-46da-8d9d-820c13ba5004%2Finclusion_leadership_development_video_thumnail.webp?rect=0%2C0%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true",
+            "publishedAt": "2025-10-07T17:45:48Z"
+        },
+        {
+            "source": {
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
+                "country": "us"
+            },
+            "title": "Use of AI in Cybersecurity Surges in Singapore",
+            "url": "https://markets.businessinsider.com/news/currencies/use-of-ai-in-cybersecurity-surges-in-singapore-1035274580",
+            "urlToImage": "https://app.chainwire.org/storage/uploads/users/1200x720_px_14_1759786258rjQmyGCa70.jpg",
+            "publishedAt": "2025-10-07T17:31:17Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Fed's Kashkari says he's skeptical AI is replacing workers, but it may push up rates",
+            "url": "https://www.reuters.com/business/feds-kashkari-says-hes-skeptical-ai-is-replacing-workers-it-may-push-up-rates-2025-10-07/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/SPTB2MASGRIALIRKMHMWHIJWCA.jpg?auth=7dfb094f02fd0892196765fec7d46bf031731bfb096424dc6fef8a4da830846c&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-10-07T17:31:08Z"
+        },
         {
             "source": {
                 "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
@@ -1577,6 +1625,87 @@
             "source": {
                 "name": "webpronews"
             },
+            "title": "Qualcomm Acquires Arduino to Advance Edge AI and IoT Development",
+            "url": "https://www.webpronews.com/qualcomm-acquires-arduino-to-advance-edge-ai-and-iot-development/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-1db89e0a-ef4e-4e85-8746-7c8aabaec6c1.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-10-07 18:21:28"
+        },
+        {
+            "source": {
+                "name": "zephyrnet"
+            },
+            "title": "Quantum: kiutra Raises €13M for Helium-3-Free Cooling",
+            "url": "https://zephyrnet.com/quantum-kiutra-raises-e13m-for-helium-3-free-cooling/",
+            "urlToImage": "https://zephyrnet.com/wp-content/uploads/2025/04/zephyrnet-default-img-3-1.jpg-1.jpg",
+            "publishedAt": "2025-10-07 18:19:33"
+        },
+        {
+            "source": {
+                "name": "newscientist"
+            },
+            "title": "Is the universe really one big black hole?",
+            "url": "https://www.newscientist.com/article/2499032-is-the-universe-really-one-big-black-hole/",
+            "urlToImage": "https://images.newscientist.com/wp-content/uploads/2025/10/06204031/SEI_269290123.jpg",
+            "publishedAt": "2025-10-07 18:00:57"
+        },
+        {
+            "source": {
+                "name": "newsday"
+            },
+            "title": "Musk and other tech gurus say humanlike robots are the next big thing. Don't hold your breath",
+            "url": "https://www.newsday.com/opinion/commentary/humanlike-robots-elon-musk-olkorf3f",
+            "urlToImage": "https://www.newsday.com/_next/image?q=80&url=https%3A%2F%2Fcdn.newsday.com%2Fimage-service%2Fversion%2Fc%3AMWI3MjJkZjctZWRkOS00%3AZWM4YWM2NTgtY2Y1OC00%2Fcopy-of-bzbuzz250520.jpg%3Ff%3DLandscape%2B16%253A9%26w%3D770%26q%3D1&w=1920",
+            "publishedAt": "2025-10-07 18:00:00"
+        },
+        {
+            "source": {
+                "name": "berkeley"
+            },
+            "title": "Former Berkeley Lab Scientist John Clarke Wins 2025 Nobel Prize in Physics",
+            "url": "https://newscenter.lbl.gov/2025/10/07/former-berkeley-lab-scientist-john-clarke-wins-2025-nobel-prize-in-physics/",
+            "urlToImage": "https://newscenter.lbl.gov/wp-content/uploads/2025/10/Clarke_John-1025x685px.jpg",
+            "publishedAt": "2025-10-07 17:59:10"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "We May Need Data Centers in Space to Build Better AI",
+            "url": "https://hackernoon.com/we-may-need-data-centers-in-space-to-build-better-ai",
+            "urlToImage": "https://hackernoon.imgix.net/images/22qULrU2ZPb8VRsSedCeA6x7AJ13-on43bma.png",
+            "publishedAt": "2025-10-07 17:41:53"
+        },
+        {
+            "source": {
+                "name": "digit_in"
+            },
+            "title": "OpenAI device missing: Inventing the future’s hard, even for Sam Altman-Jony Ive",
+            "url": "https://www.digit.in/features/general/openai-hardware-device-missing-inventing-the-futures-hard-even-for-sam-altman-jony-ive.html",
+            "urlToImage": "https://static.digit.in/sam-altman-jony-ive-ai-hardware-device.png",
+            "publishedAt": "2025-10-07 17:36:22"
+        },
+        {
+            "source": {
+                "name": "berkeley"
+            },
+            "title": "With these devices, the doctor is always in: Berkeley engineer Rikky Muller explains how implantable and wearable technologies are redefining patient care",
+            "url": "https://engineering.berkeley.edu/news/2025/10/with-these-devices-the-doctor-is-always-in/",
+            "urlToImage": "https://engineering.berkeley.edu/wp-content/uploads/2025/10/20190308_RikkyMuller_AVL_0506_cropped.jpg",
+            "publishedAt": "2025-10-07 17:34:27"
+        },
+        {
+            "source": {
+                "name": "thestreet"
+            },
+            "title": "CoreWeave’s quiet AI deal hints at a much bigger play",
+            "url": "https://www.thestreet.com/technology/coreweaves-quiet-ai-deal-hints-at-a-much-bigger-play-",
+            "urlToImage": "https://www.thestreet.com/.image/c_fit,h_800,w_1200/MjE4Mjc3NTkyNTc3NDE5MTAw/coreweave-lede-2.jpg",
+            "publishedAt": "2025-10-07 17:23:00"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
             "title": "OpenAI’s ChatGPT Evolves into App-Running Platform at DevDay",
             "url": "https://www.webpronews.com/openais-chatgpt-evolves-into-app-running-platform-at-devday/",
             "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-f1c21c94-c610-467b-aa5d-95e0f5ceda45.jpeg?fit=720%2C960&ssl=1",
@@ -3036,162 +3165,6 @@
             "url": "https://www.marketbeat.com/articles/how-major-us-stock-indexes-fared-monday-1062025-2025-10-06/",
             "urlToImage": "https://www.marketbeat.com/images/MarketBeat-icon-256x256.png",
             "publishedAt": "2025-10-06T20:19:19Z"
-        },
-        {
-            "source": {
-                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-                "name": "The Financial Express",
-                "url": "https://www.financialexpress.com",
-                "country": "in"
-            },
-            "title": "Airtel Business bags multi-year cybersecurity deal from Indian Railways",
-            "url": "https://www.financialexpress.com/business/industry-airtel-business-bags-multi-year-cybersecurity-deal-from-indian-railways-4000684/",
-            "urlToImage": "https://images.financialexpressdigital.com/2025/09/airtel.reuters_2cde13_20250902112850.jpg",
-            "publishedAt": "2025-10-06T20:19:10Z"
-        },
-        {
-            "source": {
-                "id": "dcb757ba5480d7edec9ca152d58b7d3d",
-                "name": "Swissinfo (EN)",
-                "url": "https://www.swissinfo.ch",
-                "country": "ch"
-            },
-            "title": "Stocks Defy AI Bubble Chatter as AMD Powers Rally: Markets Wrap",
-            "url": "https://www.swissinfo.ch/eng/stocks-defy-ai-bubble-chatter-as-amd-powers-rally%3a-markets-wrap/90118987",
-            "urlToImage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1756933286",
-            "publishedAt": "2025-10-06T20:15:47Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "AI streamlines search for catalysts to clear hydrogen production hurdles",
-            "url": "https://phys.org/news/2025-10-ai-catalysts-hydrogen-production-hurdles.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/using-ai-to-optimize-h.jpg",
-            "publishedAt": "2025-10-06T19:34:04Z"
-        },
-        {
-            "source": {
-                "id": "6fea3ee012f060c6309366516e8d00be",
-                "name": "News-Medical.net",
-                "url": "https://www.news-medical.net",
-                "country": "gb"
-            },
-            "title": "AI-generated visual anagrams reveal new insights into human perception",
-            "url": "https://www.news-medical.net/news/20251006/AI-generated-visual-anagrams-reveal-new-insights-into-human-perception.aspx",
-            "urlToImage": "https://www.news-medical.net/image-handler/picture/2016/3/Artificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg",
-            "publishedAt": "2025-10-06T19:27:00Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "GROK16T, GROK86K, GROK15F Ecosystem: Uniting AI and Blockchain to Reshape Digital Finance",
-            "url": "https://techbullion.com/grok16t-grok86k-grok15f-ecosystem-uniting-ai-and-blockchain-to-reshape-digital-finance/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/10/VHVHVH-1000x600.png",
-            "publishedAt": "2025-10-06T19:19:12Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "US senator asks judges if they used AI in withdrawn court rulings",
-            "url": "https://www.reuters.com/legal/government/us-senator-asks-judges-if-they-used-ai-withdrawn-court-rulings-2025-10-06/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/XZAB6W45Y5OAZD56STZWTO6HUI.jpg?auth=91315eff901d7290002b50dc0ef579c18922b0b2386db4d359ef9bc617fdaea4&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-10-06T19:06:35Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Belvarium: Everything explained and how to buy",
-            "url": "https://techbullion.com/belvarium-everything-explained-and-how-to-buy/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/10/VJHJHVVH-1000x600.png",
-            "publishedAt": "2025-10-06T19:05:50Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "OpenAI’s Golden Touch Spreads as Stocks Soar Off Mere Mentions",
-            "url": "https://www.bloomberg.com/news/articles/2025-10-06/openai-s-golden-touch-spreads-as-stocks-soar-off-mere-mentions",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iECQxYt7IJ4E/v1/1200x792.jpg",
-            "publishedAt": "2025-10-06T18:59:12Z"
-        },
-        {
-            "source": {
-                "id": "1b697445987e8a33f6c82842e17d60d9",
-                "name": "Bnn Bloomberg",
-                "url": "https://www.bnnbloomberg.ca",
-                "country": "ca"
-            },
-            "title": "Mattel partners with OpenAI",
-            "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2025/10/06/mattel-partners-with-openai-on-sora-2-ai-video-model/",
-            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/2VTQ7JY7PZCUHO2V72EVWWNH5U.jpg?smart=true&auth=1364d80febadc09ef65c8963c53d2dcbd8048ad274e6e8b82270a675b07069d3&width=1200&height=630",
-            "publishedAt": "2025-10-06T18:57:02Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "XA35P Token: Uniting AI and Blockchain to Reshape Digital Finance",
-            "url": "https://techbullion.com/xa35p-token-uniting-ai-and-blockchain-to-reshape-digital-finance/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/10/HVJVHJVH-1000x600.png",
-            "publishedAt": "2025-10-06T18:50:12Z"
-        },
-        {
-            "source": {
-                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-                "name": "The Financial Express",
-                "url": "https://www.financialexpress.com",
-                "country": "in"
-            },
-            "title": "FTA with Qatar to be finalised by mid-2026: Goyal",
-            "url": "https://www.financialexpress.com/policy/economy-fta-with-qatar-to-be-finalised-by-mid-2026-goyal-4000642/",
-            "urlToImage": "https://images.financialexpressdigital.com/2025/09/goyal.ptiis__20250924063642.jpg",
-            "publishedAt": "2025-10-06T18:48:45Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Mattel partners with OpenAI on Sora 2 AI video model",
-            "url": "https://www.reuters.com/business/mattel-partners-with-openai-sora-2-ai-video-model-2025-10-06/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/RQ55E4APZVKN5N4A3EDON7XIBI.jpg?auth=012edb1949ff1eaa7f9523252004dfb3904d430e3b7a57c8914978529a4d0e56&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-10-06T18:42:14Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Music publishers fend off Anthropic's bid to dismiss some AI copyright claims",
-            "url": "https://www.reuters.com/legal/litigation/music-publishers-fend-off-anthropics-bid-dismiss-some-ai-copyright-claims-2025-10-06/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/G7IUYWWX75PXTJCVXMKMECAIQ4.jpg?auth=b3acbcf92f3b3c380402989132207d776d39cab0d1873fb414c0e53dd9b702e1&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-10-06T18:28:31Z"
         }
     ]
 }
