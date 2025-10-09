@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2025-10-09T16:19:45.311829Z",
+    "lastUpdatedAt": "2025-10-09T17:13:32.071609Z",
     "articles": [
+        {
+            "source": {
+                "id": "3d24c816061d69b2e23b8583aed9b447",
+                "name": "Euronews",
+                "url": "https://www.euronews.com",
+                "country": "fr"
+            },
+            "title": "CEOs double down on AI as confidence in global economy slips, report",
+            "url": "https://www.euronews.com/business/2025/10/09/ceos-double-down-on-ai-as-confidence-in-global-economy-slips-report",
+            "urlToImage": "https://static.euronews.com/articles/stories/09/50/00/31/1200x675_cmsv2_2f0a8bb4-23f8-565c-af1a-edf91abe3172-9500031.jpg",
+            "publishedAt": "2025-10-09T05:00:19Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Is there an AI bubble? Financial institutions sound a warning",
+            "url": "https://www.thestar.com.my/tech/tech-news/2025/10/09/is-there-an-ai-bubble-financial-institutions-sound-a-warning",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/09/3561579.jpg",
+            "publishedAt": "2025-10-09T05:00:00Z"
+        },
+        {
+            "source": {
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
+                "country": "in"
+            },
+            "title": "EU wants key sectors to use made-in-Europe AI",
+            "url": "https://www.thehindu.com/sci-tech/technology/eu-wants-key-sectors-to-use-made-in-europe-ai/article70142187.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/uhgwqc/article70142188.ece/alternates/LANDSCAPE_1200/2025-10-08T214356Z_52778049_RC2ONFAH1AWX_RTRMADP_3_EU-SUSTAINABILITY-LAWMAKING.JPG",
+            "publishedAt": "2025-10-09T04:52:34Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "US approves some Nvidia UAE sales, Bloomberg News reports",
+            "url": "https://economictimes.indiatimes.com/tech/technology/us-approves-some-nvidia-uae-sales-bloomberg-news-reports/articleshow/124405043.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-87680,resizemode-75,msid-124405043/tech/technology/us-approves-some-nvidia-uae-sales-bloomberg-news-reports.jpg",
+            "publishedAt": "2025-10-09T04:49:03Z"
+        },
+        {
+            "source": {
+                "id": "23ca80edba9c670741bdbfc4acd3e991",
+                "name": "The Statesman",
+                "url": "https://www.thestatesman.com",
+                "country": "in"
+            },
+            "title": "generated content: political parties warned to comply with MCC guidelines",
+            "url": "https://www.thestatesman.com/india/eci-cracks-down-on-ai-generated-content-political-parties-warned-to-comply-with-mcc-guidelines-1503496779.html",
+            "urlToImage": "https://www.thestatesman.com/wp-content/uploads/2025/10/Untitled-design-5-4.webp",
+            "publishedAt": "2025-10-09T04:39:21Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "US Greenlights Major Nvidia Chip Exports to UAE",
+            "url": "https://www.devdiscourse.com/article/law-order/3657331-us-greenlights-major-nvidia-chip-exports-to-uae",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/09_10_2025_03_44_51_9953841.png?width=920&format=jpeg",
+            "publishedAt": "2025-10-09T04:32:57Z"
+        },
         {
             "source": {
                 "id": "10cbfb3760cfcdeb78c733c527f0e814",
@@ -228,6 +300,45 @@
             "url": "https://www.globenewswire.com/news-release/2025/10/09/3164324/0/en/Aqua-Security-Named-CyberSecurity-Solution-of-the-Year-for-Artificial-Intelligence.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/7765e9d0-693e-4388-9f4c-abbb559eb4a2",
             "publishedAt": "2025-10-09T00:00:00Z"
+        },
+        {
+            "source": {
+                "id": "8e9ab8327c5f7903cc1b50470411d165",
+                "name": "GlobeNewswire",
+                "url": "https://www.globenewswire.com",
+                "country": "us"
+            },
+            "title": "Greymatter.io Recognized for Cybersecurity Innovation in",
+            "url": "https://www.globenewswire.com/news-release/2025/10/09/3164444/0/en/Greymatter-io-Recognized-for-Cybersecurity-Innovation-in-9th-Annual-CyberSecurity-Breakthrough-Awards-Program.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/b9fb65e3-82d3-420e-b8ff-4551b2cd3397",
+            "publishedAt": "2025-10-09T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "techannouncer"
+            },
+            "title": "How to Use Anandtech Bench for In-Depth Hardware Performance Comparisons in 2025",
+            "url": "https://techannouncer.com/how-to-use-anandtech-bench-for-in-depth-hardware-performance-comparisons-in-2025/",
+            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/10/b18b876cthumbnail-332x187.jpeg",
+            "publishedAt": "2025-10-09 05:05:05"
+        },
+        {
+            "source": {
+                "name": "thehindu"
+            },
+            "title": "SoftBank buys $5.4 billion robotics firm to advance 'physical AI'",
+            "url": "https://www.thehindu.com/sci-tech/technology/softbank-buys-54-billion-robotics-firm-to-advance-physical-ai/article70142191.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/8lvac9/article70142194.ece/alternates/LANDSCAPE_1200/2025-09-18T223821Z_844287461_RC2TICA7RPPS_RTRMADP_3_SOFTBANK-LAYOFFS.JPG",
+            "publishedAt": "2025-10-09 04:54:34"
+        },
+        {
+            "source": {
+                "name": "techxplore"
+            },
+            "title": "One Tech Tip: Annoyed by junk calls to your iPhone? Try the new iOS 26 call screen feature",
+            "url": "https://techxplore.com/news/2025-10-tech-annoyed-junk-iphone-ios.html",
+            "urlToImage": "https://scx1.b-cdn.net/csz/news/tmb/2025/one-tech-tip-annoyed-b.jpg",
+            "publishedAt": "2025-10-09 04:27:16"
         },
         {
             "source": {
@@ -3144,96 +3255,6 @@
             "url": "https://www.freepressjournal.in/education/india-mobile-congress-2025-jio-launches-ai-classroom-powered-by-jiopc-to-make-every-learner-ai-ready",
             "urlToImage": "https://media.assettype.com/freepressjournal/2025-10-08/q6wlt56a/Untitled-design-80.jpg?width=1200",
             "publishedAt": "2025-10-08 11:02:50"
-        },
-        {
-            "source": {
-                "name": "insider"
-            },
-            "title": "We found the best Prime Day tech deals on headphones, laptops, tablets, and more",
-            "url": "https://www.businessinsider.com/guides/deals/prime-day-tech-deals-october-2025",
-            "urlToImage": "https://i.insider.com/68e5a269cc993f9955cfbc17?width=700",
-            "publishedAt": "2025-10-08 11:00:01"
-        },
-        {
-            "source": {
-                "name": "informationweek"
-            },
-            "title": "Human-AI Collaboration Is the New Teamwork. Are We Ready?",
-            "url": "https://www.informationweek.com/it-leadership/human-ai-collaboration-is-the-new-teamwork-are-we-ready-",
-            "urlToImage": "https://eu-images.contentstack.com/v3/assets/blt69509c9116440be8/bltf45f220a71e72877/68e421d109ac9e0bdba17817/AI_forHR-TanapongSungkaew-AlamyStockPhoto_(1).jpg?auto=webp&disable=upscale&quality=80&width=1280",
-            "publishedAt": "2025-10-08 11:00:00"
-        },
-        {
-            "source": {
-                "name": "benzinga"
-            },
-            "title": "Waterlily Launches \"Quote-and-Apply\" to Simplify Long-Term Care Insurance Shopping",
-            "url": "https://www.benzinga.com/pressreleases/25/10/n48095671/waterlily-launches-quote-and-apply-to-simplify-long-term-care-insurance-shopping",
-            "urlToImage": "https://mma.prnewswire.com/media/2789602/Waterlily__Logo.jpg",
-            "publishedAt": "2025-10-08 11:00:00"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "Waterlily Launches \"Quote-and-Apply\" to Simplify Long-Term Care Insurance Shopping",
-            "url": "https://www.prnewswire.com/news-releases/waterlily-launches-quote-and-apply-to-simplify-long-term-care-insurance-shopping-302576110.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2789602/Waterlily__Logo.jpg?p=original",
-            "publishedAt": "2025-10-08 11:00:00"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Exploring the Main Categories of SaaS in Cloud Computing for 2025",
-            "url": "https://techannouncer.com/exploring-the-main-categories-of-saas-in-cloud-computing-for-2025/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/10/7fd0dfc9thumbnail-332x187.jpeg",
-            "publishedAt": "2025-10-08 10:56:05"
-        },
-        {
-            "source": {
-                "name": "wallst_247"
-            },
-            "title": "Microsoft (NASDAQ: MSFT) Stock Price Prediction and Forecast 2025-2030 (Oct 2025)",
-            "url": "https://247wallst.com/forecasts/2025/10/08/microsoft-msft-price-prediction-and-forecast/",
-            "urlToImage": "https://247wallst.com/wp-content/uploads/2022/10/imageForEntry49-azN.jpg",
-            "publishedAt": "2025-10-08 10:55:13"
-        },
-        {
-            "source": {
-                "name": "itpro"
-            },
-            "title": "Critical networks face unprecedented threat as DDoS attacks are getting shorter and more intense",
-            "url": "https://www.itpro.com/security/critical-networks-face-unprecedented-threat-as-ddos-attacks-are-getting-shorter-and-more-intense",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/FauqjYD2S8W7aG8iNVmUJY-1280-80.jpg",
-            "publishedAt": "2025-10-08 10:54:19"
-        },
-        {
-            "source": {
-                "name": "foreignpolicy"
-            },
-            "title": "The Future of Intelligence Is Open",
-            "url": "https://foreignpolicy.com/2025/10/08/intelligence-spying-ai-spying-open/",
-            "urlToImage": "https://foreignpolicy.com/wp-content/uploads/2025/10/GettyImages-492588418.jpg?w=800%3Fquality%3D90",
-            "publishedAt": "2025-10-08 10:11:28"
-        },
-        {
-            "source": {
-                "name": "thehansindia"
-            },
-            "title": "Why the iPhone 17 Series Might Make You Ditch Your Old iPhone",
-            "url": "https://www.thehansindia.com/tech/why-the-iphone-17-series-might-make-you-ditch-your-old-iphone-1012890",
-            "urlToImage": "https://assets.thehansindia.com/h-upload/2025/10/08/1591330-untitled-design134-min.webp",
-            "publishedAt": "2025-10-08 10:11:03"
-        },
-        {
-            "source": {
-                "name": "economictimes_indiatimes"
-            },
-            "title": "Nvidia CEO Jensen Huang says AI computing demand surged in past six months",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-ceo-jensen-huang-says-ai-computing-demand-surged-in-past-six-months/articleshow/124391244.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-828709,resizemode-75,msid-124391244/tech/artificial-intelligence/nvidia-ceo-jensen-huang-says-ai-computing-demand-surged-in-past-six-months.jpg",
-            "publishedAt": "2025-10-08 10:10:20"
         }
     ]
 }
