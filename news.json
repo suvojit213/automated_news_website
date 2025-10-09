@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-10-09T14:15:21.666781Z",
+    "lastUpdatedAt": "2025-10-09T15:28:41.762407Z",
     "articles": [
+        {
+            "source": {
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
+                "country": "in"
+            },
+            "title": "Is there an AI bubble? Financial institutions sound a warning",
+            "url": "https://www.thehindu.com/sci-tech/technology/is-there-an-ai-bubble-financial-institutions-sound-a-warning/article70142183.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/99w4mg/article70142185.ece/alternates/LANDSCAPE_1200/2025-10-08T084426Z_2115709774_RC21P1AJJK7N_RTRMADP_3_AI-COMPANIES-EY-SURVEY.JPG",
+            "publishedAt": "2025-10-09T03:21:58Z"
+        },
+        {
+            "source": {
+                "id": "10cbfb3760cfcdeb78c733c527f0e814",
+                "name": "iTWire",
+                "url": "https://itwire.com",
+                "country": "au"
+            },
+            "title": "Barracuda Introduces ‘Barracuda Research’ - A Unified Resource for Global Threat Intelligence and Insights",
+            "url": "https://itwire.com/guest-articles/guest-research/barracuda-introduces-%E2%80%98barracuda-research%E2%80%99-%E2%80%93-a-unified-resource-for-global-threat-intelligence-and-insights.html",
+            "urlToImage": "https://itwire.com/media/k2/items/cache/7c1fab60fe0da8653b0a71b4dd9bc3b9_XS.jpg",
+            "publishedAt": "2025-10-09T03:03:54Z"
+        },
+        {
+            "source": {
+                "id": "e0c33fc9d04ac3cbaad8f31915a02767",
+                "name": "7NEWS Australia",
+                "url": "https://7news.com.au",
+                "country": "au"
+            },
+            "title": "Cybersecurity expert reveals shocking possible effects for victims caught up in reported Salesforce hack",
+            "url": "https://7news.com.au/news/cybersecurity-expert-reveals-shocking-possible-effects-for-victims-caught-up-in-reported-salesforce-hack-c-20280529",
+            "urlToImage": "https://images.7news.com.au/publication/C-20280529/c0e7a12f9c8043e6533f819e330a6e79bfed3534-16x9-x0y0w1280h720.png?imwidth=1200",
+            "publishedAt": "2025-10-09T02:19:52Z"
+        },
         {
             "source": {
                 "id": "73aabc646bff1356a46223f250cc6b52",
@@ -96,6 +132,84 @@
             "url": "https://www.globenewswire.com/news-release/2025/10/09/3164306/0/en/CloudBees-Named-Compliance-Software-Solution-of-the-Year-in-9th-Annual-CyberSecurity-Breakthrough-Awards-Program.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/03571e59-a8f0-4199-8b69-733b114dddc0",
             "publishedAt": "2025-10-09T00:00:00Z"
+        },
+        {
+            "source": {
+                "id": "8e9ab8327c5f7903cc1b50470411d165",
+                "name": "GlobeNewswire",
+                "url": "https://www.globenewswire.com",
+                "country": "us"
+            },
+            "title": "NopalCyber Wins Cybersecurity Solution of the Year for",
+            "url": "https://www.globenewswire.com/news-release/2025/10/09/3164314/0/en/NopalCyber-Wins-Cybersecurity-Solution-of-the-Year-for-Financial-Services-Expanding-Track-Record-of-Industry-Recognition-for-Protecting-High-Risk-Sectors.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/e3978cf6-963d-4c42-8fc6-e7acd2800517",
+            "publishedAt": "2025-10-09T00:00:00Z"
+        },
+        {
+            "source": {
+                "id": "8e9ab8327c5f7903cc1b50470411d165",
+                "name": "GlobeNewswire",
+                "url": "https://www.globenewswire.com",
+                "country": "us"
+            },
+            "title": "Aqua Security Named CyberSecurity Solution of the Year for",
+            "url": "https://www.globenewswire.com/news-release/2025/10/09/3164324/0/en/Aqua-Security-Named-CyberSecurity-Solution-of-the-Year-for-Artificial-Intelligence.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/7765e9d0-693e-4388-9f4c-abbb559eb4a2",
+            "publishedAt": "2025-10-09T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "republicworld"
+            },
+            "title": "India Emerging As Global Hub For AI And Fintech Innovation, Says Experts",
+            "url": "https://www.republicworld.com/business/india-emerging-as-global-hub-for-ai-and-fintech-innovation-says-experts",
+            "urlToImage": "https://img.republicworld.com/all_images/venture-capital-1759980162645-16_9.webp?format=webp&h=225&q=75&w=400",
+            "publishedAt": "2025-10-09 03:22:50"
+        },
+        {
+            "source": {
+                "name": "digitaltrends"
+            },
+            "title": "Watch this humanoid robot show off its new, advanced hand",
+            "url": "https://www.digitaltrends.com/computing/watch-this-humanoid-robot-show-off-its-new-advanced-grippers/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/10/atlas-robot-gripper-gen-2.jpg?p=1&resize=1200%2C630",
+            "publishedAt": "2025-10-09 03:05:00"
+        },
+        {
+            "source": {
+                "name": "economictimes_indiatimes"
+            },
+            "title": "India emerging as global hub for AI, fintech innovation: SC Ventures' top execs",
+            "url": "http://economictimes.indiatimes.com/tech/technology/india-emerging-as-global-hub-for-ai-fintech-innovation-sc-ventures-top-execs/articleshow/124403488.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-67592,resizemode-75,msid-124403488/tech/technology/india-emerging-as-global-hub-for-ai-fintech-innovation-sc-ventures-top-execs.jpg",
+            "publishedAt": "2025-10-09 03:04:26"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "How to Unblock Pop-Ups on Google Chrome: Mobile and Desktop Guide",
+            "url": "https://www.analyticsinsight.net/apps/how-to-unblock-pop-ups-on-google-chrome-mobile-and-desktop-guide",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-10-08%2F0hihsgxz%2FHow-to-Unblock-Pop-Ups-on-Google-Chrome.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-10-09 03:00:00"
+        },
+        {
+            "source": {
+                "name": "cnbctv18"
+            },
+            "title": "Netweb Tech shares in focus after Bud Ecosystem partnership for affordable AI infrastructure",
+            "url": "https://www.cnbctv18.com/market/netweb-technologies-share-price-bud-ecosystem-partnership-affordable-ai-infra-ipo-returns-19708507.htm",
+            "urlToImage": "https://images.cnbctv18.com/uploads/2024/11/stock-market-shutterstock-2024-11-404ef13c918e55a2f46d625fa042a4bb.jpg",
+            "publishedAt": "2025-10-09 02:57:43"
+        },
+        {
+            "source": {
+                "name": "kedglobal"
+            },
+            "title": "Samsung, SK Hynix to enjoy major boon from OpenAI-AMD chip pact",
+            "url": "https://www.kedglobal.com/korean-chipmakers/newsView/ked202510090001",
+            "urlToImage": "https://www.kedglobal.com/data/ked/image/2025/10/09/ked202510090005.jpg",
+            "publishedAt": "2025-10-09 02:38:57"
         },
         {
             "source": {
@@ -3102,105 +3216,6 @@
             "url": "https://www.prnewswire.com/news-releases/pateo-and-sensetime-join-forces-to-create-an-automotive-ai-super-brain-reshaping-intelligent-cockpits-with-qinggan-large-model-302578158.html",
             "urlToImage": "https://mma.prnewswire.com/media/2791381/20251008125132.jpg?p=original",
             "publishedAt": "2025-10-08 09:11:00"
-        },
-        {
-            "source": {
-                "name": "postregister"
-            },
-            "title": "Unlock Ultra-Reliable Low-Latency Communication with Cavli CQM212 and CQM215 5G NR IoT Modules",
-            "url": "https://www.postregister.com/businessreport/technology/unlock-ultra-reliable-low-latency-communication-with-cavli-cqm212-and-cqm215-5g-nr-iot-modules/article_06d20949-65f2-5e7a-b3ed-7ca6afb8c250.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
-            "publishedAt": "2025-10-08 09:10:33"
-        },
-        {
-            "source": {
-                "name": "expresscomputer"
-            },
-            "title": "Everything is a Canary: Rethinking Alerts in a World of Noise",
-            "url": "https://www.expresscomputer.in/news/everything-is-a-canary-rethinking-alerts-in-a-world-of-noise/128533/",
-            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2025/10/08193549/EC_Namit_DCruz_Datadog_750.jpg",
-            "publishedAt": "2025-10-08 09:04:32"
-        },
-        {
-            "source": {
-                "name": "mathrubhumi"
-            },
-            "title": "Applications open for CSIR UGC NET December 2025: Apply online before October 24",
-            "url": "https://english.mathrubhumi.com/education/news/applications-open-for-csir-ugc-net-december-2025-apply-online-before-october-24-czsgmr6z",
-            "urlToImage": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1mdgc3cjvq8no9ieg31/0/apply-admit-card-jpg.jpg?w=900",
-            "publishedAt": "2025-10-08 09:02:06"
-        },
-        {
-            "source": {
-                "name": "engadget"
-            },
-            "title": "The best gaming mouse in 2025",
-            "url": "https://www.engadget.com/gaming/pc/best-gaming-mouse-140004638.html",
-            "urlToImage": "https://o.aolcdn.com/images/dims?client=19f2b5e49a271b2bde77&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-12%2F9da8ded0-bd2e-11ef-9ff1-37ed48b1b220&resize=1400%2C787&signature=2ca13a778d61ab94675eb1e91bb26bec2b86fc4b",
-            "publishedAt": "2025-10-08 09:01:26"
-        },
-        {
-            "source": {
-                "name": "newsvirginian"
-            },
-            "title": "Eric Bonds and Nabil Al-Tikriti: Are data centers the devil’s bargains for the next generation?",
-            "url": "https://newsvirginian.com/article_ee16758a-a478-5d6a-9bc9-6b1719038576.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/newsvirginian.com/content/tncms/assets/v3/editorial/e/e1/ee16758a-a478-5d6a-9bc9-6b1719038576/68e58fc7730db.preview.jpg?crop=1921%2C1009%2C0%2C35&order=crop%2Cresize&resize=1200%2C630",
-            "publishedAt": "2025-10-08 09:00:00"
-        },
-        {
-            "source": {
-                "name": "techtarget"
-            },
-            "title": "Top 15 IT security frameworks and standards explained",
-            "url": "https://www.techtarget.com/searchsecurity/tip/IT-security-frameworks-and-standards-Choosing-the-right-one",
-            "urlToImage": "https://cdn.ttgtmedia.com/rms/onlineImages/kirvan_paul.jpg",
-            "publishedAt": "2025-10-08 09:00:00"
-        },
-        {
-            "source": {
-                "name": "rand"
-            },
-            "title": "Quantifying AI’s Economic Potential",
-            "url": "https://www.rand.org/pubs/research_reports/RRA4220-1.html",
-            "urlToImage": "https://www.rand.org/content/rand/pubs/research_reports/RRA4220-1/_jcr_content/par/product.fit.264x264.jpeg/1759776432905.jpeg",
-            "publishedAt": "2025-10-08 09:00:00"
-        },
-        {
-            "source": {
-                "name": "cnet"
-            },
-            "title": "Our Experts Tracked Down 70+ of the Best Prime Day Deals Actually Worth Grabbing",
-            "url": "https://www.cnet.com/deals/best-amazon-prime-day-deals-2025-10-08/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/47da8d79c0a605153d99cc3ecf8bf9e8937ede69/hub/2025/09/12/821a9cb1-0ff8-4acc-a966-8ea1f6c4e601/main-deals-page.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-10-08 08:59:00"
-        },
-        {
-            "source": {
-                "name": "digit_in"
-            },
-            "title": "Dell Pro 14 Essential and Dell Pro 15 Essential laptops launch in India, price starts from Rs 31,999",
-            "url": "https://www.digit.in/news/laptops/dell-pro-14-essential-and-dell-pro-15-essential-laptops-launch-in-india-price-starts-from-rs-31999.html",
-            "urlToImage": "https://static.digit.in/xbox-4-3.png",
-            "publishedAt": "2025-10-08 08:57:00"
-        },
-        {
-            "source": {
-                "name": "dailygazette"
-            },
-            "title": "Chatbot dreams generate AI nightmares for Bay Area lawyers",
-            "url": "https://www.dailygazette.com/tribune/chatbot-dreams-generate-ai-nightmares-for-bay-area-lawyers/article_02003fc0-9f4c-5c3b-9915-53c8f190e1dc.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/dailygazette.com/content/tncms/assets/v3/editorial/f/75/f75d3358-a4f8-58a0-9d88-5e236ca1b4f8/68e625731b524.image.jpg?resize=300%2C200",
-            "publishedAt": "2025-10-08 08:15:00"
-        },
-        {
-            "source": {
-                "name": "wired"
-            },
-            "title": "We Found the 267 Best Prime Day Deals of 2025: Up To 55% Off",
-            "url": "https://www.wired.com/story/prime-day-deals-october-2025-1/",
-            "urlToImage": "https://media.wired.com/photos/68e56e09df80a9674d4e0c73/master/pass/ABSOLUTE-BEST-PRIME-DEALS_NEW.png",
-            "publishedAt": "2025-10-08 08:12:21"
         }
     ]
 }
