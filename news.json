@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-10-09T19:12:58.894515Z",
+    "lastUpdatedAt": "2025-10-09T20:17:11.452401Z",
     "articles": [
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "IMF and Bank of England join growing chorus warning of an AI bubble",
+            "url": "https://www.cnbc.com/2025/10/09/imf-and-bank-of-england-join-growing-chorus-warning-of-an-ai-bubble.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108209810-1759994151411-gettyimages-2239418163-IMF_WORLD_BANK.jpeg?v=1759994561&w=1920&h=1080",
+            "publishedAt": "2025-10-09T07:54:32Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Japan's Nikkei rallies to record high as SoftBank surges amid AI fever",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/japans-nikkei-rallies-to-record-high-as-softbank-surges-amid-ai-fever/articleshow/124408776.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-124408792,width-1200,height-630,imgsize-110444,overlay-etmarkets/articleshow.jpg",
+            "publishedAt": "2025-10-09T07:54:00Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "How the A.I Exit Plan Is Helping Everyday People Build 6-Figure Agencies Without a Team or Tech Skills",
+            "url": "https://techbullion.com/how-the-a-i-exit-plan-is-helping-everyday-people-build-6-figure-agencies-without-a-team-or-tech-skills/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/10/How-to-Build-an-AI-Agent-Without-Being-an-AI-Expert.webp",
+            "publishedAt": "2025-10-09T07:50:46Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "Revolutionizing Video Generation: An In-Depth Look at OpenAI's Sora 2",
+            "url": "https://techbullion.com/revolutionizing-video-generation-an-in-depth-look-at-openais-sora-2/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/10/sora.png",
+            "publishedAt": "2025-10-09T07:40:12Z"
+        },
         {
             "source": {
                 "id": "e6688d6db992f469baa7352aac100378",
@@ -492,6 +540,96 @@
             "url": "https://www.globenewswire.com/news-release/2025/10/09/3164444/0/en/Greymatter-io-Recognized-for-Cybersecurity-Innovation-in-9th-Annual-CyberSecurity-Breakthrough-Awards-Program.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/b9fb65e3-82d3-420e-b8ff-4551b2cd3397",
             "publishedAt": "2025-10-09T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "english_jagran"
+            },
+            "title": "Google’s Gemini 2.5 Computer Use Can Now Navigate The Web Just Like You Do",
+            "url": "https://www.thedailyjagran.com/technology/googles-gemini-25-computer-use-can-now-navigate-the-web-just-like-you-do-10272458",
+            "urlToImage": "https://imgeng.jagran.com/images/2025/10/09/article/image/geminicomputer-1759997227232.webp",
+            "publishedAt": "2025-10-09 08:08:14"
+        },
+        {
+            "source": {
+                "name": "economictimes_indiatimes"
+            },
+            "title": "TCS's muted Q2 results; chipmaker Graphcore's India bet",
+            "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/tcss-muted-q2-results-chipmaker-graphcores-india-bet/articleshow/124418719.cms",
+            "urlToImage": "https://img.etimg.com/photo/msid-124418709/TCS.jpg",
+            "publishedAt": "2025-10-09 08:07:59"
+        },
+        {
+            "source": {
+                "name": "piunikaweb"
+            },
+            "title": "Google support links Pixel 10 Pro video stutter bug to EIS/OIS conflict, says it’s not an isolated issue",
+            "url": "https://piunikaweb.com/?p=1416593",
+            "urlToImage": "https://piunikaweb.com/wp-content/uploads/2025/09/Google-Pixel-10-back-panel.jpg",
+            "publishedAt": "2025-10-09 08:00:16"
+        },
+        {
+            "source": {
+                "name": "a12news"
+            },
+            "title": "One Tech Tip: Annoyed by junk calls to your iPhone? Try the new iOS 26 call screen feature",
+            "url": "https://www.12news.com/article/syndication/associatedpress/one-tech-tip-annoyed-by-junk-calls-to-your-iphone-try-the-new-ios-26-call-screen-feature/616-6ff937db-05be-416e-9bc8-ad27ebfdec30",
+            "urlToImage": "https://media.tegna-media.com/assets/AssociatedPress/images/a317141a-81b1-4aef-b7c5-ba9647d985fe/20251009T080505/a317141a-81b1-4aef-b7c5-ba9647d985fe_750x422.jpg",
+            "publishedAt": "2025-10-09 08:00:08"
+        },
+        {
+            "source": {
+                "name": "milescitystar"
+            },
+            "title": "One Tech Tip: Annoyed by junk calls to your iPhone? Try the new iOS 26 call screen feature",
+            "url": "https://www.milescitystar.com/ap_news/montana/one-tech-tip-annoyed-by-junk-calls-to-your-iphone-try-the-new-ios-26/article_ebcb61ee-8a4d-55e9-824a-719b3835b965.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/milescitystar.com/content/tncms/assets/v3/editorial/1/ea/1ea3a1a3-ec0f-5dad-aeed-86fd2cb29f0e/68e76d3f3db6b.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-10-09 08:00:08"
+        },
+        {
+            "source": {
+                "name": "guardonline"
+            },
+            "title": "One Tech Tip: Annoyed by junk calls to your iPhone? Try the new iOS 26 call screen feature",
+            "url": "https://www.guardonline.com/news/national/one-tech-tip-annoyed-by-junk-calls-to-your-iphone-try-the-new-ios-26/article_28d6ea79-ffee-5488-a496-872bc319574f.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/guardonline.com/content/tncms/custom/image/8c85f70a-233c-11ef-856f-1bed8b8f5005.jpg?resize=200%2C75",
+            "publishedAt": "2025-10-09 08:00:08"
+        },
+        {
+            "source": {
+                "name": "hjnews"
+            },
+            "title": "One Tech Tip: Annoyed by junk calls to your iPhone? Try the new iOS 26 call screen feature",
+            "url": "https://www.hjnews.com/nation/one-tech-tip-annoyed-by-junk-calls-to-your-iphone-try-the-new-ios-26/article_c3dcba85-aeee-555b-be94-487b20006b7c.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/hjnews.com/content/tncms/assets/v3/editorial/8/cd/8cdb6bcb-a881-53d8-a961-fc5218e8ac98/68c07f1a3a964.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-10-09 08:00:08"
+        },
+        {
+            "source": {
+                "name": "apnews"
+            },
+            "title": "How to use the iPhone's new call screening feature",
+            "url": "https://apnews.com/article/apple-iphone-robocall-screening-4f395e9c6154a8a21db933dc4bd44868",
+            "urlToImage": "https://dims.apnews.com/dims4/default/539ea1d/2147483647/strip/true/crop/8640x5751+0+5/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff2%2F34%2Facfed5e303fc9872c375c0c070b0%2F24488a7d7559422080330c677279fb07",
+            "publishedAt": "2025-10-09 08:00:08"
+        },
+        {
+            "source": {
+                "name": "chronicleonline"
+            },
+            "title": "One Tech Tip: Annoyed by junk calls to your iPhone? Try the new iOS 26 call screen feature",
+            "url": "https://www.chronicleonline.com/news/world/one-tech-tip-annoyed-by-junk-calls-to-your-iphone-try-the-new-ios-26/article_f9d524d5-ea8f-546d-88af-cc1a7faf6367.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/chronicleonline.com/content/tncms/assets/v3/editorial/0/9c/09cb39ee-bc12-5657-b09a-dffaeff68279/68e76d0c7bbc3.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-10-09 08:00:08"
+        },
+        {
+            "source": {
+                "name": "kvue"
+            },
+            "title": "One Tech Tip: Annoyed by junk calls to your iPhone? Try the new iOS 26 call screen feature",
+            "url": "https://www.kvue.com/article/syndication/associatedpress/one-tech-tip-annoyed-by-junk-calls-to-your-iphone-try-the-new-ios-26-call-screen-feature/616-6ff937db-05be-416e-9bc8-ad27ebfdec30",
+            "urlToImage": "https://media.tegna-media.com/assets/AssociatedPress/images/a317141a-81b1-4aef-b7c5-ba9647d985fe/20251009T080505/a317141a-81b1-4aef-b7c5-ba9647d985fe_750x422.jpg",
+            "publishedAt": "2025-10-09 08:00:08"
         },
         {
             "source": {
@@ -3174,132 +3312,6 @@
             "url": "https://gizmodo.com/google-pixel-10-pro-fold-review-not-enough-when-samsung-galaxy-z-fold-7-exists-2000669716",
             "urlToImage": "https://gizmodo.com/app/uploads/2025/10/Google-Pixel-10-Pro-Fold-Watch-4-50-1280x853.jpg",
             "publishedAt": "2025-10-08 17:00:48"
-        },
-        {
-            "source": {
-                "name": "hackaday"
-            },
-            "title": "Ask Hackaday: Why is TTL 5 Volts?",
-            "url": "https://hackaday.com/2025/10/08/ask-hackaday-why-is-ttl-5-volts/",
-            "urlToImage": "https://hackaday.com/wp-content/uploads/2015/12/volts.jpg",
-            "publishedAt": "2025-10-08 17:00:34"
-        },
-        {
-            "source": {
-                "name": "androidheadlines"
-            },
-            "title": "Phone Brands to Quickly Adopt Samsung's HP5 200MP Camera Sensor",
-            "url": "https://www.androidheadlines.com/2025/10/samsung-isocell-hp5-camera-sensor-adoption-telephoto.html",
-            "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2025/04/OPPO-Find-X8-Ultra-AM-AH-19-1420x799.webp",
-            "publishedAt": "2025-10-08 16:17:17"
-        },
-        {
-            "source": {
-                "name": "cnet"
-            },
-            "title": "You Can Keep Free Windows 10 Extended Security Updates From Microsoft – Here's How",
-            "url": "https://www.cnet.com/tech/computing/you-can-keep-free-windows-10-extended-security-updates-from-microsoft-heres-how/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/965b4df0b87b04c09c5b4f96b62a785f22b0ebda/hub/2025/05/22/a1523585-f6c5-4a59-9415-def46228e9f0/here-are-your-options-if-youre-running-windows-10-and-cant-upgrade-tg.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-10-08 16:15:02"
-        },
-        {
-            "source": {
-                "name": "eastbaytimes"
-            },
-            "title": "OpenAI wants to build the next era of the web, and it’s shelling out billions to do it",
-            "url": "https://www.eastbaytimes.com/2025/10/08/openai-next-era-web-billions/",
-            "urlToImage": "https://www.eastbaytimes.com/wp-content/uploads/2025/10/OpenAI_wants_to_build_the_next_era_of_the_web_and_it8217s_shelling_out_billions_to_do_it1-1.jpg?h=682&w=1024",
-            "publishedAt": "2025-10-08 16:10:11"
-        },
-        {
-            "source": {
-                "name": "npr"
-            },
-            "title": "1 in 5 high schoolers has had a romantic AI relationship, or knows someone who has",
-            "url": "https://www.npr.org/2025/10/08/nx-s1-5561981/ai-students-schools-teachers",
-            "urlToImage": "https://media.npr.org/assets/img/2020/03/19/hardtoteachonline-nprlajohnson_wide-1493a7b72e8078e474664dd4d6ebe485e9392e87.jpg?c=100&f=jpeg&s=1400",
-            "publishedAt": "2025-10-08 16:09:56"
-        },
-        {
-            "source": {
-                "name": "nhpr"
-            },
-            "title": "1 in 5 high schoolers has had a romantic AI relationship, or knows someone who has",
-            "url": "https://www.nhpr.org/2025-10-08/1-in-5-high-schoolers-has-had-a-romantic-ai-relationship-or-knows-someone-who-has",
-            "urlToImage": "https://npr.brightspotcdn.com/dims4/default/ffbdd99/2147483647/strip/true/crop/2481x1861+0+0/resize/880x660!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2020%2F03%2F19%2Fhardtoteachonline-nprlajohnson-f19c882dbbf2bd3bf938905a0ac91c26a04869c4.jpg",
-            "publishedAt": "2025-10-08 16:09:56"
-        },
-        {
-            "source": {
-                "name": "benzinga"
-            },
-            "title": "The Future of Investing: How Artificial Intelligence Is Reshaping Stock Analysis and Portfolio Management",
-            "url": "https://www.benzinga.com/news/25/10/48105392/the-future-of-investing-how-artificial-intelligence-is-reshaping-stock-analysis-and-portfolio-management",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/10/08/AI-innovation-1-andrebourque.jpeg?auto=jpg&dpr=1&fit=crop&height=480&optimize=medium&width=720",
-            "publishedAt": "2025-10-08 16:00:00"
-        },
-        {
-            "source": {
-                "name": "theverge"
-            },
-            "title": "The problems with AI in the smart home and how Amazon and Google plan to fix them",
-            "url": "https://www.theverge.com/report/796138/alexa-plus-gemini-for-home-problmes-solutions-smart-home",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258001_ai_smart_home_CVirginia.jpg?crop=0%2C10.732984293194%2C100%2C78.534031413613&quality=90&strip=all&w=1200",
-            "publishedAt": "2025-10-08 15:57:16"
-        },
-        {
-            "source": {
-                "name": "siliconangle"
-            },
-            "title": "Neocloud strategies reshape the future of compute efficiency",
-            "url": "https://siliconangle.com/2025/10/08/neocloud-marks-turning-point-data-infrastructure-aifactoriesdatacenters/",
-            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/09/Screenshot-2025-09-29-at-15.17.46.png",
-            "publishedAt": "2025-10-08 15:55:30"
-        },
-        {
-            "source": {
-                "name": "moneycontrol"
-            },
-            "title": "OpenAI's GPT-5 Pro and Sora 2 aims to strengthen its developer ecosystem",
-            "url": "https://www.moneycontrol.com/technology/openai-s-gpt-5-pro-and-sora-2-aims-to-strengthen-its-developer-ecosystem-article-13604680.html",
-            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2025/10/20251008105047_openai3-2.jpg",
-            "publishedAt": "2025-10-08 15:55:07"
-        },
-        {
-            "source": {
-                "name": "techtarget"
-            },
-            "title": "Configure AD sites for optimized replication topology",
-            "url": "https://www.techtarget.com/searchwindowsserver/tutorial/Configure-AD-sites-for-optimized-replication-topology",
-            "urlToImage": "https://www.techtarget.com/rms/onlineimages/disaster_recovery_g175031469_searchsitetablet_520X173.jpg",
-            "publishedAt": "2025-10-08 15:31:00"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Collaborative Research in Accelerator Physics: Acknowledgments and DOE Funding",
-            "url": "https://hackernoon.com/collaborative-research-in-accelerator-physics-acknowledgments-and-doe-funding",
-            "urlToImage": "https://hackernoon.imgix.net/images/particle-accelerator-science-fiction-ib944z2hrd5xzur54qmigs3e.png",
-            "publishedAt": "2025-10-08 15:30:03"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Top 10 Crypto Presales in 2025: Mandala Chain Joins the Elite List With Its Real Use Case Vision",
-            "url": "https://www.analyticsinsight.net/cryptocurrency-analytics-insight/top-10-crypto-presales-in-2025-mandala-chain-joins-the-elite-list-with-its-real-use-case-vision",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-10-08%2Fimhf587g%2Fundefined-2025-10-08T145253.902.png?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-10-08 15:30:00"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Tiny Recursive Model Outperforms LLMs on Reasoning Tasks with Efficiency",
-            "url": "https://www.webpronews.com/tiny-recursive-model-outperforms-llms-on-reasoning-tasks-with-efficiency/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-db160a7d-d1ba-4f69-80a0-2794654c3864.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-10-08 15:26:38"
         }
     ]
 }
