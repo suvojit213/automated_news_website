@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-10-10T12:31:38.211062Z",
+    "lastUpdatedAt": "2025-10-10T13:25:02.026620Z",
     "articles": [
+        {
+            "source": {
+                "id": "933344203c2b862af768b5e662a162a4",
+                "name": "International Business Times",
+                "url": "https://www.ibtimes.com",
+                "country": "us"
+            },
+            "title": "A New Era of Business: The AI & Data Revolution",
+            "url": "https://www.ibtimes.com/new-era-business-ai-data-revolution-3786400",
+            "urlToImage": "https://d.ibtimes.com/en/full/4627372/new-era-business-ai-data-revolution.jpg",
+            "publishedAt": "2025-10-10T01:20:23Z"
+        },
+        {
+            "source": {
+                "id": "3a3847d645a619320aa3b3484581e395",
+                "name": "CBS News",
+                "url": "https://www.cbsnews.com",
+                "country": "us"
+            },
+            "title": "Baltimore communities push back on Johns Hopkins' construction of DSAI project",
+            "url": "https://www.cbsnews.com/baltimore/news/baltimore-wyman-remington-maryland-dsai-artifical-johns-hopkins/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/10/10/7ca597b1-07fc-4583-a858-0e846cb1222d/thumbnail/1200x630/f07917f813b20a044a4eeed9768f6a95/hopkins.png",
+            "publishedAt": "2025-10-10T00:47:54Z"
+        },
+        {
+            "source": {
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
+                "country": "us"
+            },
+            "title": "Reba McEntire slams 'AI mess' while supporting Dolly Parton",
+            "url": "https://nypost.com/2025/10/09/entertainment/reba-mcentire-slams-ai-mess-while-supporting-dolly-parton/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/10/113146949.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2025-10-10T00:40:09Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Can TCS’ $6.5 billion AI data centre push revive its growth momentum?",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/can-tcs-6-5-billion-ai-data-centre-push-revive-its-growth-momentum/articleshow/124441697.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-124441716,width-1200,height-630,imgsize-12822,overlay-etmarkets/articleshow.jpg",
+            "publishedAt": "2025-10-10T00:38:00Z"
+        },
         {
             "source": {
                 "id": "8e9ab8327c5f7903cc1b50470411d165",
@@ -36,6 +84,54 @@
             "url": "https://www.forbes.com/sites/andrewfennell/2025/10/10/7-digital-skills-every-professional-needs-in-2025-beyond-just-coding/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68e7a4cb1926c06054e73ec4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-10-10T00:00:00Z"
+        },
+        {
+            "source": {
+                "id": "8e9ab8327c5f7903cc1b50470411d165",
+                "name": "GlobeNewswire",
+                "url": "https://www.globenewswire.com",
+                "country": "us"
+            },
+            "title": "Surfshark launches the world’s first 100Gbps VPN servers",
+            "url": "https://www.globenewswire.com/news-release/2025/10/10/3164883/0/en/Surfshark-launches-the-world-s-first-100Gbps-VPN-servers.html",
+            "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/75b87eb0-cfa7-440b-8c16-4611c7780e8a",
+            "publishedAt": "2025-10-10T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "techannouncer"
+            },
+            "title": "MOCVD: Advancements, Applications, and Future Trends in Semiconductor Manufacturing",
+            "url": "https://techannouncer.com/mocvd-advancements-applications-and-future-trends-in-semiconductor-manufacturing/",
+            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/10/71d8ebbathumbnail-332x187.jpeg",
+            "publishedAt": "2025-10-10 01:05:13"
+        },
+        {
+            "source": {
+                "name": "xda_developers"
+            },
+            "title": "Intel's Lunar Lake isn't as efficient as Arm, but it's getting surprisingly close",
+            "url": "https://www.xda-developers.com/intel-lunar-lake-isnt-efficient-arm-close/",
+            "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/03/macbook-air-m4-2025-xda-review09092.jpg",
+            "publishedAt": "2025-10-10 01:00:19"
+        },
+        {
+            "source": {
+                "name": "newsgazette"
+            },
+            "title": "Capitol News Illinois | French tech company announces new headquarters at Chicago quantum research park",
+            "url": "https://www.news-gazette.com/news/local/university-illinois/capitol-news-illinois-french-tech-company-announces-new-headquarters-at-chicago-quantum-research-park/article_cc2990b6-4b9c-4100-88fa-95a8aa4051ca.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/news-gazette.com/content/tncms/assets/v3/editorial/9/a4/9a4afb5f-eb8f-453d-abfd-03f758614029/68e85aa123bd4.image.jpg?resize=300%2C150",
+            "publishedAt": "2025-10-10 00:56:00"
+        },
+        {
+            "source": {
+                "name": "devdiscourse"
+            },
+            "title": "What Comes After 5G? The World Is Preparing for 6G",
+            "url": "https://www.devdiscourse.com/article/technology/3659038-what-comes-after-5g-the-world-is-preparing-for-6g",
+            "urlToImage": "https://devdiscourse.blob.core.windows.net/devnews/10_10_2025_11_52_10_1031266.png",
+            "publishedAt": "2025-10-10 00:52:10"
         },
         {
             "source": {
@@ -3018,87 +3114,6 @@
             "url": "https://hackaday.com/2025/10/08/where-is-mathematics-going-large-language-models-and-lean-proof-assistant/",
             "urlToImage": "https://hackaday.com/wp-content/uploads/2025/10/kevin-buzzard-featured.jpg",
             "publishedAt": "2025-10-09 02:00:26"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Tech vs Branding: BlockDAG’s BWT Alpine Formula 1® Team Deal Outpaces ICP and Kaspa in the 2025 Investing in Crypto Arena",
-            "url": "https://www.analyticsinsight.net/cryptocurrency-analytics-insight/tech-vs-branding-blockdags-bwt-alpine-formula-1-team-deal-outpaces-icp-and-kaspa-in-the-2025-investing-in-crypto-arena",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-10-08%2Ftvr3r0z1%2FTech-vs-Branding-BlockDAG%E2%80%99s-BWT-Alpine-Formula-1%C2%AE-Team-Deal-Outpaces-ICP-and-Kaspa-in-the-2025-Investing-in-Crypto-Arena?ar=40%3A21&auto=format%2Ccompress&enlarge=true&mode=crop&ogImage=true&overlay=false&overlay_position=bottom&overlay_width=100&w=1200",
-            "publishedAt": "2025-10-09 02:00:00"
-        },
-        {
-            "source": {
-                "name": "yahoo"
-            },
-            "title": "Metal-organic frameworks: Nobel-winning tiny ‘sponge crystals’ with an astonishing amount of inner space",
-            "url": "https://www.yahoo.com/news/articles/metal-organic-frameworks-nobel-winning-015746982.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/xMdV.zODdG5JZ3JTkSLnyA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg7Y2Y9d2VicA--/https://media.zenfs.com/en/the_conversation_us_articles_815/a42f83e90382849bbbe4d48c06c54e51",
-            "publishedAt": "2025-10-09 01:57:46"
-        },
-        {
-            "source": {
-                "name": "gatech"
-            },
-            "title": "Cybersecurity Pioneer Engages Georgia Tech Graduate Students in Fireside Chat",
-            "url": "http://news.gatech.edu/news/2025/09/29/cybersecurity-pioneer-engages-georgia-tech-graduate-students-fireside-chat",
-            "urlToImage": "https://news.gatech.edu/sites/default/files/styles/xlarge/public/hg_media/2025-08/Dmitri-Visit-2025-34-web-copy.jpg?itok=UNzV4waE",
-            "publishedAt": "2025-10-09 01:38:58"
-        },
-        {
-            "source": {
-                "name": "gatech"
-            },
-            "title": "Once-in-a-Decade Conference Spotlights Interactive Computing Researchers",
-            "url": "http://news.gatech.edu/news/2025/10/01/once-decade-conference-spotlights-interactive-computing-researchers",
-            "urlToImage": "https://news.gatech.edu/sites/default/files/styles/xlarge/public/hg_media/2025-08/Summit-on-Responsible-Computing--AI--and-Society_86A0003-Enhanced-NR.jpg?itok=rg0qaPL2",
-            "publishedAt": "2025-10-09 01:38:58"
-        },
-        {
-            "source": {
-                "name": "gatech"
-            },
-            "title": "When a Video Isn’t Real: Georgia Tech Alum Innovates Deepfake Detection for a New Era of Fraud",
-            "url": "http://news.gatech.edu/news/2025/10/08/when-video-isnt-real-georgia-tech-alum-innovates-deepfake-detection-new-era-fraud",
-            "urlToImage": "https://news.gatech.edu/sites/default/files/styles/xlarge/public/hg_media/2025-08/Unknown.jpeg?itok=avpejJjZ",
-            "publishedAt": "2025-10-09 01:38:58"
-        },
-        {
-            "source": {
-                "name": "prnewswire_apac"
-            },
-            "title": "Getac's S510AD Blends Outstanding AI-Powered Performance with Sustainable Manufacturing in a Versatile Rugged Form Factor",
-            "url": "https://www.prnewswire.com/apac/news-releases/getacs-s510ad-blends-outstanding-ai-powered-performance-with-sustainable-manufacturing-in-a-versatile-rugged-form-factor-302575866.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2788422/Getac_S510AD_Scenario_Automotive_240917.jpg?p=original",
-            "publishedAt": "2025-10-09 01:00:00"
-        },
-        {
-            "source": {
-                "name": "en_prnasisa"
-            },
-            "title": "Getac's S510AD Blends Outstanding AI-Powered Performance with Sustainable Manufacturing in a Versatile Rugged Form Factor",
-            "url": "https://en.prnasia.com/story/506415-0.shtml",
-            "urlToImage": "https://mma.prnasia.com/media2/2788422/Getac_S510AD_Scenario_Automotive_240917.jpg?p=medium600",
-            "publishedAt": "2025-10-09 01:00:00"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "OpenAI’s Sam Altman Reveals $1T AI Partnerships with Microsoft, Nvidia",
-            "url": "https://www.webpronews.com/openais-sam-altman-reveals-1t-ai-partnerships-with-microsoft-nvidia/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-c74367b2-6aa0-4227-82b7-5eba483e8b4c.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-10-09 00:00:24"
-        },
-        {
-            "source": {
-                "name": "financialcontent"
-            },
-            "title": "3 Artificial Intelligence (AI) Stocks That Surged More Than 2,000% Since the Launch of ChatGPT. (Hint: Nvidia Isn't One of Them.)",
-            "url": "https://www.fool.com/investing/2025/10/09/3-artificial-intelligence-ai-stocks-that-surged-mo/",
-            "urlToImage": "https://g.foolcdn.com/image/?h=400&op=resize&url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F835969%2Fa-person-involved-in-a-chat-with-artificial-intelligence.jpg&w=400",
-            "publishedAt": "2025-10-09 00:00:00"
         }
     ]
 }
