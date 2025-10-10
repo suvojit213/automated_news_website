@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-10-10T06:23:07.167729Z",
+    "lastUpdatedAt": "2025-10-10T07:15:02.347982Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "US companies' profit growth seen softer, spotlight on AI spending",
+            "url": "https://www.reuters.com/business/us-companies-profit-growth-seen-softer-spotlight-ai-spending-2025-10-09/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/SQUZXZF6CZMMTPIENRGTEBHGXM.jpg?auth=f4fdf86b19ee647ec415d1fa3c35b82eaf6f4422da7d57d8933252a7668d5619&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-10-09T19:14:10Z"
+        },
+        {
+            "source": {
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
+                "country": "us"
+            },
+            "title": "CEO Eric Schmidt shares warns of homicidal AI models",
+            "url": "https://nypost.com/2025/10/09/business/googles-ex-ceo-eric-schmidt-shares-warns-of-homicidal-ai-models/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/10/113126974.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2025-10-09T18:38:12Z"
+        },
         {
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -1248,6 +1272,78 @@
             "url": "https://www.globenewswire.com/news-release/2025/10/09/3164444/0/en/Greymatter-io-Recognized-for-Cybersecurity-Innovation-in-9th-Annual-CyberSecurity-Breakthrough-Awards-Program.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/b9fb65e3-82d3-420e-b8ff-4551b2cd3397",
             "publishedAt": "2025-10-09T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "t_g"
+            },
+            "title": "Metal-organic frameworks: Nobel-winning tiny ‘sponge crystals’ with an astonishing amount of inner space",
+            "url": "http://shelbyville.staging.communityq.com/premium/theconversation/stories/metal-organic-frameworks-nobel-winning-tiny-sponge-crystals-with-an-astonishing-amount-of,187838",
+            "urlToImage": "https://images.theconversation.com/files/695223/original/file-20251008-64-gg29g9.jpg?ixlib=rb-4.1.0%3D248%2C0%2C5184%2C3456%3D45%3Dformat%3D1050%3D700%3Dcrop",
+            "publishedAt": "2025-10-09 19:11:18"
+        },
+        {
+            "source": {
+                "name": "slashgear"
+            },
+            "title": "Google Made The Best Smartwatch For Android, And It Did It Without Gimmicks",
+            "url": "https://www.slashgear.com/1992014/google-pixel-watch-4-review/",
+            "urlToImage": "https://www.slashgear.com/img/gallery/google-made-the-best-smartwatch-for-android-and-it-did-it-without-gimmicks/l-intro-1760036303.jpg",
+            "publishedAt": "2025-10-09 19:02:13"
+        },
+        {
+            "source": {
+                "name": "techradar"
+            },
+            "title": "Need a new laptop? Check out this amazing value HP Chromebook for $399 at Best Buy",
+            "url": "https://www.techradar.com/computing/chromebooks/need-a-new-laptop-check-out-this-amazing-value-hp-chromebook-for-usd399-at-best-buy",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/M3N4HhnvaUrAtYfpQGTuq9-2000-80.jpg",
+            "publishedAt": "2025-10-09 19:02:00"
+        },
+        {
+            "source": {
+                "name": "cnet"
+            },
+            "title": "PIA VPN Review: Essential Privacy on a Budget, but Middling Speeds",
+            "url": "https://www.cnet.com/tech/services-and-software/pia-vpn-review/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/0d0b3154431cb347f55661c512ce33c0e145943b/hub/2024/02/15/061f0844-9301-402f-bb48-6c42f8eb5a44/private-internet-access-vpn-orange.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-10-09 18:53:00"
+        },
+        {
+            "source": {
+                "name": "castanet"
+            },
+            "title": "One Tech Tip: Annoyed by junk calls to your iPhone? Try the new iOS 26 call screen feature (Business)",
+            "url": "https://www.castanet.net/news/Business/577177/One-Tech-Tip-Annoyed-by-junk-calls-to-your-iPhone-Try-the-new-iOS-26-call-screen-feature",
+            "urlToImage": "https://www.castanet.net/content/2025/10/577177_0.jpg",
+            "publishedAt": "2025-10-09 18:36:00"
+        },
+        {
+            "source": {
+                "name": "cnet"
+            },
+            "title": "Best MacBooks We’ve Tested (October 2025)",
+            "url": "https://www.cnet.com/tech/computing/best-macbook/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/7d24581ad34bbb3933a7c9e4aa7e0d8f449db08c/hub/2025/03/10/fb112d5c-2bc7-4f46-af87-76dda0e865fc/m4-macbook-air-15-01.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-10-09 18:33:00"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Intel Launches Fab 52 in Arizona to Reclaim Chip Leadership",
+            "url": "https://www.webpronews.com/intel-launches-fab-52-in-arizona-to-reclaim-chip-leadership/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-1f474db2-a6ad-4f25-a3fd-5348957632d6.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-10-09 18:24:49"
+        },
+        {
+            "source": {
+                "name": "insider"
+            },
+            "title": "The hidden engine behind AI's rise",
+            "url": "https://www.businessinsider.com/sc/how-sandisk-storage-drives-the-ai-industry-forward",
+            "urlToImage": "https://i.insider.com/68cdafcc57d362d375e88ba5?width=700",
+            "publishedAt": "2025-10-09 18:23:37"
         },
         {
             "source": {
@@ -3102,126 +3198,6 @@
             "url": "https://www.thestar.com.my/tech/tech-news/2025/10/08/cisco-rolls-out-chip-designed-to-connect-ai-data-centers-over-vast-distances-",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/08/3560908.jpg",
             "publishedAt": "2025-10-08T13:09:00Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Cisco rolls out chip designed to connect AI data centers over vast distances",
-            "url": "https://www.reuters.com/world/china/cisco-rolls-out-chip-designed-connect-ai-data-centers-over-vast-distances-2025-10-08/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/H32KIETGHJMGNPRCC2IO5NXKPU.jpg?auth=cd9d4614479d1158876427cec1db91a45d221f2fb8b0064d7995135fb9adf970&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-10-08T13:04:27Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "Forget the degree, learn a trade: Nvidia CEO's message to the next generation",
-            "url": "https://www.indiatoday.in/education-today/news/story/nvidia-ceo-questions-college-degrees-says-electricians-could-power-the-ai-era-2799900-2025-10-08",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202510/nvidia-ceo-084858745-16x9_0.jpeg?VersionId=0Z2XLt6Pl6yjIt.e7BdZiWu2fiaMNLIw",
-            "publishedAt": "2025-10-08T12:50:47Z"
-        },
-        {
-            "source": {
-                "id": "59749bcce0ec90ed59071c45c44738b7",
-                "name": "Siliconrepublic.com",
-                "url": "https://www.siliconrepublic.com",
-                "country": "ie"
-            },
-            "title": "How to stay ahead of NIS2 and the latest EU cybersecurity rules",
-            "url": "https://www.siliconrepublic.com/enterprise/nis2-latest-eu-cybersecurity-rules-legal-advice-data-privacy-business",
-            "urlToImage": "https://www.siliconrepublic.com/wp-content/uploads/2025/10/Ricky_Kelly77.jpg.jpeg",
-            "publishedAt": "2025-10-08T12:46:29Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "1200 Students of CBitss Artificial Intelligence Program Secure Placements with Packages Ranging from INR 10",
-            "url": "https://www.tribuneindia.com/news/business/1200-students-of-cbitss-artificial-intelligence-program-secure-placements-with-packages-ranging-from-inr-10-15-lakh-per-annum/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTkwNDY1MmQwLWE0NDItMTFmMC04NjMyLTFiZGZhNzM3NzM5Zi5qcGc=",
-            "publishedAt": "2025-10-08T12:30:18Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "1200 Students of CBitss Artificial Intelligence Program Secure Placements with Packages Ranging from INR 10",
-            "url": "https://www.lokmattimes.com/business/1200-students-of-cbitss-artificial-intelligence-program-secure-placements-with-packages-ranging-from-inr-10-15-lakh-per-annum/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20251008115351_202510.jpg",
-            "publishedAt": "2025-10-08T12:28:52Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "SoftBank to acquire ABB’s robotics arm in $5.4 billion deal: All about Masayoshi Son's latest AI push",
-            "url": "https://www.livemint.com/companies/news/softbank-to-acquire-abb-s-robotics-arm-in-5-4-billion-deal-all-about-masayoshi-sons-latest-ai-push-11759922007011.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2025/10/08/1600x900/logo/SOFTBANK-LAYOFFS--0_1758259986808_1758259998961_1759923170640.JPG",
-            "publishedAt": "2025-10-08T12:21:43Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "NITI Aayog unveils roadmap on AI to empower 490 million informal workers",
-            "url": "https://www.lokmattimes.com/national/niti-aayog-unveils-roadmap-on-ai-to-empower-490-million-informal-workers/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/20251008177F_202510.jpg",
-            "publishedAt": "2025-10-08T12:19:24Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "NITI Aayog unveils roadmap on AI to empower 490 million informal workers",
-            "url": "https://www.lokmattimes.com/business/niti-aayog-unveils-roadmap-on-ai-to-empower-490-million-informal-workers-1/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/20251008177F_202510.jpg",
-            "publishedAt": "2025-10-08T12:19:24Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "NITI Aayog unveils roadmap on AI to empower 490 million informal workers",
-            "url": "https://www.lokmattimes.com/technology/niti-aayog-unveils-roadmap-on-ai-to-empower-490-million-informal-workers-2/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/20251008177F_202510.jpg",
-            "publishedAt": "2025-10-08T12:19:24Z"
-        },
-        {
-            "source": {
-                "id": "f4d035ae0463df22c36ae97972a33ba6",
-                "name": "PR Newswire UK",
-                "url": "https://www.prnewswire.co.uk",
-                "country": "gb"
-            },
-            "title": "Kahua Expands UK Presence and Achieves Ministry of Defence Cybersecurity Accreditation",
-            "url": "https://www.prnewswire.co.uk/news-releases/kahua-expands-uk-presence-and-achieves-ministry-of-defence-cybersecurity-accreditation-302578083.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2790896/Kahua_Expands_UK_Presence.jpg?p=facebook",
-            "publishedAt": "2025-10-08T12:13:00Z"
         }
     ]
 }
