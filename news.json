@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-10-10T05:15:13.835983Z",
+    "lastUpdatedAt": "2025-10-10T06:23:07.167729Z",
     "articles": [
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Sorry Sam Altman, Amazon Web Services marketing head Julia White says: ChatGPT is great, but, you know, you can’t ...",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/sorry-sam-altman-amazon-web-services-marketing-head-julia-white-says-chatgpt-is-great-but-you-know-you-cant-/articleshow/124433362.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-124433486,width-1070,height-580,imgsize-46768,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-10-09T18:18:00Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "AI & sustainability will be growth story of this century, says Nicholas Stern",
+            "url": "https://economictimes.indiatimes.com/news/india/ai-sustainability-will-be-growth-story-of-this-century-says-nicholas-stern/articleshow/124433335.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-124433795,width-1200,height-630,imgsize-365086,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-10-09T18:14:00Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "AI debuts in evaluation for HS, CISCE papers",
+            "url": "https://timesofindia.indiatimes.com/city/kolkata/ai-debuts-in-evaluation-for-hs-cisce-papers/articleshow/124432149.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-117517794,width-1070,height-580,imgsize-557796,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-10-09T17:49:00Z"
+        },
+        {
+            "source": {
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
+                "country": "in"
+            },
+            "title": "Google Cloud Battles Microsoft, OpenAI For Workplace AI",
+            "url": "https://www.ndtvprofit.com/technology/google-launches-gemini-enterprise-as-it-battles-microsoft-openai-for-workplace-ai",
+            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-10-09%2Fcxlen37c%2F441653928-1.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+            "publishedAt": "2025-10-09T17:18:58Z"
+        },
         {
             "source": {
                 "id": "7eeaf9a839918543cc708f2d331c3be4",
@@ -1200,6 +1248,96 @@
             "url": "https://www.globenewswire.com/news-release/2025/10/09/3164444/0/en/Greymatter-io-Recognized-for-Cybersecurity-Innovation-in-9th-Annual-CyberSecurity-Breakthrough-Awards-Program.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/b9fb65e3-82d3-420e-b8ff-4551b2cd3397",
             "publishedAt": "2025-10-09T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Andreessen Horowitz Hires Ex-VMware CEO for AI Infrastructure Push",
+            "url": "https://www.webpronews.com/andreessen-horowitz-hires-ex-vmware-ceo-for-ai-infrastructure-push/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-e0fe531a-a10d-45f7-9fe4-1f40fbb7af68.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-10-09 18:22:35"
+        },
+        {
+            "source": {
+                "name": "engadget"
+            },
+            "title": "Tensor's Robocar will be 'Lyft-ready' out of the factory",
+            "url": "https://www.engadget.com/transportation/evs/tensors-robocar-will-be-lyft-ready-out-of-the-factory-182010143.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?client=19f2b5e49a271b2bde77&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-10%2F92047550-a539-11f0-bc57-e35fd9251384&resize=1400%2C932&signature=5e44ca6562d32d2915b304c1e44b4c1ca629fb40",
+            "publishedAt": "2025-10-09 18:20:10"
+        },
+        {
+            "source": {
+                "name": "news_wm"
+            },
+            "title": "‘Here Comes the Sun’: Tack Faculty Lecture to explore the science of building a star on Earth",
+            "url": "https://news.wm.edu/2025/10/09/here-comes-the-sun-tack-faculty-lecture-to-explore-the-science-of-building-a-star-on-earth/",
+            "urlToImage": "https://wmit-news-prod.s3.amazonaws.com/wp-content/uploads/2025/10/09141714/fall-25-tack-presentation-900-360x240.jpg",
+            "publishedAt": "2025-10-09 18:19:35"
+        },
+        {
+            "source": {
+                "name": "bgr_com"
+            },
+            "title": "5 Best Uses For Your Android Phone's USB Port That Aren't Charging",
+            "url": "https://www.bgr.com/1985541/best-uses-android-phone-usb-c-port-charging/",
+            "urlToImage": "https://www.bgr.com/img/gallery/5-best-uses-for-your-android-phones-usb-port-that-arent-charging/l-intro-1759485175.jpg",
+            "publishedAt": "2025-10-09 18:17:00"
+        },
+        {
+            "source": {
+                "name": "headtopics"
+            },
+            "title": "Diamonds could be the secret sauce to make your PC run faster and cooler in the future",
+            "url": "https://headtopics.com/news/diamonds-could-be-the-secret-sauce-to-make-your-pc-run-74167397",
+            "urlToImage": "https://i.headtopics.com/images/2025/10/9/digitaltrends/diamonds-could-be-the-secret-sauce-to-make-your-pc-diamonds-could-be-the-secret-sauce-to-make-your-pc-22564AE9E2AED3AB58406AE5DEC3DF7A.webp",
+            "publishedAt": "2025-10-09 18:09:21"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "Samsung Galaxy XR headset specs just leaked ahead of launch — here's everything that’s coming",
+            "url": "https://www.tomsguide.com/computing/vr-ar/samsung-galaxy-xr-headset-specs-just-leaked-ahead-of-launch-heres-everything-thats-coming",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/nM2dzdAWQggFqQjCedyCY7-1280-80.jpg",
+            "publishedAt": "2025-10-09 18:00:59"
+        },
+        {
+            "source": {
+                "name": "xda_developers"
+            },
+            "title": "There has never been a better time to start self-hosting",
+            "url": "https://www.xda-developers.com/there-has-never-been-a-better-time-to-start-self-hosting/",
+            "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/07/i-discovered-6-jellyfin-features-not-using-but-definitely-should-be.jpeg",
+            "publishedAt": "2025-10-09 18:00:19"
+        },
+        {
+            "source": {
+                "name": "benzinga"
+            },
+            "title": "ASUS Brings AI-Powered ExpertCenter P600 AiO Business PC to Canada",
+            "url": "https://www.benzinga.com/pressreleases/25/10/g48133429/asus-brings-ai-powered-expertcenter-p600-aio-business-pc-to-canada",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/bbcfca25-1129-4d76-b722-a172ba67895e/asus-brings-ai-powered-expertcenter-p600-aio-business-pc-to-canada.jpg",
+            "publishedAt": "2025-10-09 18:00:00"
+        },
+        {
+            "source": {
+                "name": "benzinga"
+            },
+            "title": "ASUS Brings AI-Powered ExpertCenter P700 Business Desktops to Canada",
+            "url": "https://www.benzinga.com/pressreleases/25/10/g48133434/asus-brings-ai-powered-expertcenter-p700-business-desktops-to-canada",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/25c2ac42-cdd4-41b5-b82b-859b53fcd8ad/asus-brings-ai-powered-expertcenter-p700-business-desktops-to-canada.jpg",
+            "publishedAt": "2025-10-09 18:00:00"
+        },
+        {
+            "source": {
+                "name": "benzinga"
+            },
+            "title": "Redwood Fundrelix: Exploring the AI Technology Behind Redwood Fundrelix Trading Platform – Australia Insights!",
+            "url": "https://www.benzinga.com/pressreleases/25/10/g48133277/redwood-fundrelix-exploring-the-ai-technology-behind-redwood-fundrelix-trading-platform-australia-",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/738a4dfc-5885-4929-9a2c-3de513b2f697/redwood-fundrelix.png",
+            "publishedAt": "2025-10-09 17:52:28"
         },
         {
             "source": {
@@ -3084,174 +3222,6 @@
             "url": "https://www.prnewswire.co.uk/news-releases/kahua-expands-uk-presence-and-achieves-ministry-of-defence-cybersecurity-accreditation-302578083.html",
             "urlToImage": "https://mma.prnewswire.com/media/2790896/Kahua_Expands_UK_Presence.jpg?p=facebook",
             "publishedAt": "2025-10-08T12:13:00Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "AI Valuations Soar: BoE Warns of Market Correction Risks",
-            "url": "https://www.devdiscourse.com/article/business/3656472-ai-valuations-soar-boe-warns-of-market-correction-risks",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/25_08_2025_08_20_56_3548906.png?width=920&format=jpeg",
-            "publishedAt": "2025-10-08T11:57:26Z"
-        },
-        {
-            "source": {
-                "id": "680f00482cbf9f314921fefd917871d9",
-                "name": "The Hindu Business Line",
-                "url": "https://www.thehindubusinessline.com",
-                "country": "in"
-            },
-            "title": "SEBI prepares quantum-safe action plan for India’s financial market",
-            "url": "https://www.thehindubusinessline.com/markets/sebi-prepares-action-plan-to-make-indias-financial-system-quantum-safe/article70139366.ece",
-            "urlToImage": "https://bl-i.thgim.com/public/incoming/esmvt0/article70139396.ece/alternates/LANDSCAPE_1200/PTI10_08_2025_000173B.jpg",
-            "publishedAt": "2025-10-08T11:57:18Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "The Rise of AI SEO: How Artificial Intelligence Is Rewriting the Rules of Online Visibility",
-            "url": "https://techbullion.com/the-rise-of-ai-seo-how-artificial-intelligence-is-rewriting-the-rules-of-online-visibility/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/10/unnamed-45.png",
-            "publishedAt": "2025-10-08T11:12:30Z"
-        },
-        {
-            "source": {
-                "id": "a8984f03fe66dae9745793f6560aa444",
-                "name": "Newsmax",
-                "url": "https://www.newsmax.com",
-                "country": "us"
-            },
-            "title": "Bank of England Warns of 'Sharp Correction' in Markets if Mood Sours on AI, Fed",
-            "url": "https://www.newsmax.com/world/globaltalk/bank-of-england-ai-federal-reserve/2025/10/08/id/1229452/",
-            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=cd2d75fb-6394-4e5d-8bf7-930796cca567&SiteName=Newsmax",
-            "publishedAt": "2025-10-08T11:08:50Z"
-        },
-        {
-            "source": {
-                "id": "d5029e5cbcb0666e7a5cbd49fab56ad7",
-                "name": "Proto Thema",
-                "url": "https://en.protothema.gr",
-                "country": "gr"
-            },
-            "title": "The parties are just…scraps (Alexis has different tricks), the ‘polls’ of K.M.’s enemies, the Odeon’s spatial planning, the power outage at SEV, and the business deals at the Plaza.",
-            "url": "https://en.protothema.gr/2025/10/08/the-parties-are-justscraps-alexis-has-different-tricks-the-polls-of-k-m-s-enemies-the-odeons-spatial-planning-the-power-outage-at-sev-and-the-busines/",
-            "urlToImage": "https://en.protothema.gr/wp-content/uploads/2024/06/ProtothemaEn.png",
-            "publishedAt": "2025-10-08T10:59:36Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "Securing India’s cyberspace a shared responsibility: Centre",
-            "url": "https://www.lokmattimes.com/technology/securing-indias-cyberspace-a-shared-responsibility-centre-1/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202510083534063_202510.jpg",
-            "publishedAt": "2025-10-08T10:59:16Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "Securing India’s cyberspace a shared responsibility: Centre",
-            "url": "https://www.lokmattimes.com/business/securing-indias-cyberspace-a-shared-responsibility-centre/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202510083534063_202510.jpg",
-            "publishedAt": "2025-10-08T10:59:16Z"
-        },
-        {
-            "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
-                "country": "in"
-            },
-            "title": "VisionAI India hosts the Emerging Tech Conference 2025 at IIT Delhi",
-            "url": "https://www.hindustantimes.com/education/news/visionai-india-hosts-the-emerging-tech-conference-2025-at-iit-delhi-101759918823933.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/10/08/550x309/emerging_tech_conference_visionAI_1759919328165_1759919345593.jpeg",
-            "publishedAt": "2025-10-08T10:53:44Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "EU wants key sectors to use made",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/eu-wants-key-sectors-to-use-made-in-europe-ai/articleshow/124384644.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-69718,resizemode-75,msid-124384644/tech/artificial-intelligence/eu-wants-key-sectors-to-use-made-in-europe-ai.jpg",
-            "publishedAt": "2025-10-08T10:49:42Z"
-        },
-        {
-            "source": {
-                "id": "e9207083a357fb7e76b38e485888ebe7",
-                "name": "manilastandard.net",
-                "url": "https://manilastandard.net",
-                "country": "ph"
-            },
-            "title": "Kaspersky cites need for PH deepfake law",
-            "url": "https://manilastandard.net/business/314652684/kaspersky-cites-need-for-ph-deepfake-law.html",
-            "urlToImage": "https://cdn.manilastandard.net/wp-content/uploads/2025/08/kaspersky-logotype-green.png",
-            "publishedAt": "2025-10-08T10:47:00Z"
-        },
-        {
-            "source": {
-                "id": "030c5dba023e9d86baf723c66c9de9f4",
-                "name": "stiripesurse.ro",
-                "url": "https://www.stiripesurse.ro",
-                "country": "ro"
-            },
-            "title": "Fidalgo (DG Connect): The European Union is a leader in cybersecurity policy",
-            "url": "https://www.stiripesurse.ro/fidalgo-eu-leads-in-cybersecurity-policy-dg-connect_3818868",
-            "urlToImage": "https://www.stiripesurse.ro/media/images/202410/media-172870413762233500.webp",
-            "publishedAt": "2025-10-08T10:44:10Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Hollywood, Bollywood groups lobby Indian panel to protect content from AI models",
-            "url": "https://www.thestar.com.my/tech/tech-news/2025/10/08/hollywood-bollywood-groups-lobby-indian-panel-to-protect-content-from-ai-models",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/08/3560736.jpg",
-            "publishedAt": "2025-10-08T10:42:00Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "India needs clear SATCOM and 6 GHz policies to stay competitive in AI, says IAFI chief Bharat Bhatia",
-            "url": "https://www.tribuneindia.com/news/business/india-needs-clear-satcom-and-6-ghz-policies-to-stay-competitive-in-ai-says-iafi-chief-bharat-bhatia/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWQ1MWZmNzAwLWE0MzEtMTFmMC04NjMyLTFiZGZhNzM3NzM5Zi5qcGc=",
-            "publishedAt": "2025-10-08T10:30:34Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "India needs clear SATCOM and 6 GHz policies to stay competitive in AI, says IAFI chief Bharat Bhatia",
-            "url": "https://www.lokmattimes.com/business/india-needs-clear-satcom-and-6-ghz-policies-to-stay-competitive-in-ai-says-iafi-chief-bharat-bhatia/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20251008102620_202510.jpg",
-            "publishedAt": "2025-10-08T10:26:48Z"
         }
     ]
 }
