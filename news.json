@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-10-10T10:16:54.092138Z",
+    "lastUpdatedAt": "2025-10-10T11:13:00.334764Z",
     "articles": [
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "AI to be integrated across all engineering, BBA and BCA curricula: AICTE chief",
+            "url": "https://timesofindia.indiatimes.com/city/pune/ai-to-be-integrated-across-all-engineering-bba-and-bca-curricula-aicte-chief/articleshow/124435171.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-124435166,width-1070,height-580,imgsize-60286,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-10-09T23:06:00Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Must promote ethical use of AI: LS Speaker",
+            "url": "https://timesofindia.indiatimes.com/india/must-promote-ethical-use-of-ai-ls-speaker/articleshow/124441350.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-124441369,width-1070,height-580,imgsize-507161,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-10-09T23:00:00Z"
+        },
         {
             "source": {
                 "id": "69a24b80e5bce5a07f808f5ea84c434b",
@@ -648,6 +672,18 @@
             "url": "https://www.nytimes.com/2025/10/09/business/dealbook/reflection-ai-2-billion-funding.html",
             "urlToImage": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
             "publishedAt": "2025-10-09T12:01:02Z"
+        },
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "Google launches Gemini Enterprise to boost AI agent use at work",
+            "url": "https://www.cnbc.com/2025/10/09/google-launches-gemini-enterprise-to-boost-ai-agent-use-at-work.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108209783-1759987027007-gettyimages-2209279501-cw1_7703_vcm1yjgr.jpeg?v=1759987093&w=1920&h=1080",
+            "publishedAt": "2025-10-09T12:00:02Z"
         },
         {
             "source": {
@@ -1452,6 +1488,33 @@
             "url": "https://www.globenewswire.com/news-release/2025/10/09/3164444/0/en/Greymatter-io-Recognized-for-Cybersecurity-Innovation-in-9th-Annual-CyberSecurity-Breakthrough-Awards-Program.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/b9fb65e3-82d3-420e-b8ff-4551b2cd3397",
             "publishedAt": "2025-10-09T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "techcrunch"
+            },
+            "title": "Reflection raises $2B to be America’s open frontier AI lab, challenging DeepSeek",
+            "url": "https://techcrunch.com/2025/10/09/reflection-raises-2b-to-be-americas-open-frontier-ai-lab-challenging-deepseek/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1370479417.jpg?resize=1200%2C806",
+            "publishedAt": "2025-10-09 22:35:15"
+        },
+        {
+            "source": {
+                "name": "futurism"
+            },
+            "title": "Top Official Horrified When Trump Thought He Was Sending Direct Message But Accidentally Posted It on Main Account",
+            "url": "https://futurism.com/future-society/trump-truth-social-media",
+            "urlToImage": "https://futurism.com/wp-content/uploads/2025/10/trump-truth-social-media.jpg?quality=85",
+            "publishedAt": "2025-10-09 22:31:21"
+        },
+        {
+            "source": {
+                "name": "cleveland"
+            },
+            "title": "What to know about Ohio’s new law making virtual vet visits easier for pet owners",
+            "url": "https://www.cleveland.com/news/2025/10/what-to-know-about-ohios-new-law-making-virtual-vet-visits-easier-for-pet-owners.html",
+            "urlToImage": "https://www.cleveland.com/resizer/v2/J2FENSV4UBC7TK7RLR7KIH6OLY.jpg?auth=3336329211a2dd970afe90b836c4fc4131475daba990b5954874ba2eb6a758fd&height=1200&smart=true",
+            "publishedAt": "2025-10-09 22:18:02"
         },
         {
             "source": {
@@ -3063,78 +3126,6 @@
             "url": "https://www.independent.co.uk/news/world/americas/chatgpt-ai-legal-advice-lawyer-b2841930.html",
             "urlToImage": "https://static.independent.co.uk/2025/10/08/18/29/GettyImages-53113211.jpg?trim=0,59,0,59&width=1200&height=800&crop=1200:800",
             "publishedAt": "2025-10-08T19:06:10Z"
-        },
-        {
-            "source": {
-                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
-                "name": "ABC (Australian Broadcasting Corporation)",
-                "url": "https://www.abc.net.au",
-                "country": "au"
-            },
-            "title": "University wrongly accuses students of using artificial intelligence to cheat",
-            "url": "https://www.abc.net.au/news/2025-10-09/artificial-intelligence-cheating-australian-catholic-university/105863524",
-            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/e371bc3eb7f650111b00644a6ac4ac7d?impolicy=wcms_watermark_news&cropH=2811&cropW=4997&xPos=1&yPos=0&width=862&height=485&imformat=generic",
-            "publishedAt": "2025-10-08T18:58:31Z"
-        },
-        {
-            "source": {
-                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
-                "name": "The Associated Press",
-                "url": "https://apnews.com",
-                "country": "us"
-            },
-            "title": "Duke researchers receive $15M federal grant to expand AI model designed to predict mental illness",
-            "url": "https://apnews.com/article/duke-university-artificial-intelligence-mental-illness-48d2c2157103fd2eea87a873b2fdd0f5",
-            "urlToImage": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
-            "publishedAt": "2025-10-08T18:47:28Z"
-        },
-        {
-            "source": {
-                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-                "name": "WTOP",
-                "url": "https://wtop.com",
-                "country": "us"
-            },
-            "title": "Is there an AI bubble? Financial institutions sound a warning",
-            "url": "https://wtop.com/europe/2025/10/is-there-an-ai-bubble-financial-institutions-sound-a-warning/",
-            "urlToImage": "https://wtop.com/wp-content/uploads/2025/09/OpenAI_Stargate_43284-scaled.jpg",
-            "publishedAt": "2025-10-08T18:43:17Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "What work means to working-class young men in an age of increasing automation",
-            "url": "https://phys.org/news/2025-10-class-young-men-age-automation.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2020/job.jpg",
-            "publishedAt": "2025-10-08T18:39:04Z"
-        },
-        {
-            "source": {
-                "id": "aa569bbaa7b7ef97f7cf8df3cf902947",
-                "name": "Investor's Business Daily",
-                "url": "https://www.investors.com",
-                "country": "us"
-            },
-            "title": "Morgan Stanley Raises Caution Flag On AI Financing Deals",
-            "url": "https://www.investors.com/news/technology/ai-stocks-morgan-stanley-concerns-about-ai-financing-deals/",
-            "urlToImage": "https://www.investors.com/wp-content/uploads/2019/03/stock-Nvidia-datacenter-01-company.jpg",
-            "publishedAt": "2025-10-08T18:26:55Z"
-        },
-        {
-            "source": {
-                "id": "a6d401909ca644c4ffb332486c9cfaea",
-                "name": "Seeking Alpha",
-                "url": "https://seekingalpha.com",
-                "country": "us"
-            },
-            "title": "Wall Street Lunch: Nvidia CEO Huang Confirms Investment In Musk's XAI",
-            "url": "https://seekingalpha.com/article/4828613-wall-street-lunch-nvidia-ceo-huang-confirms-investment-in-musks-xai",
-            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1412721464/image_1412721464.jpg?io=getty-c-w1536",
-            "publishedAt": "2025-10-08T18:25:49Z"
         }
     ]
 }
