@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-10-11T08:17:32.522642Z",
+    "lastUpdatedAt": "2025-10-11T09:13:53.343439Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "US Supreme Court asked to hear dispute over copyrights for AI creations",
+            "url": "https://www.reuters.com/legal/government/us-supreme-court-asked-hear-dispute-over-copyrights-ai-creations-2025-10-10/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/FQ5IWQR65RLPRFM2FSFT5VBQ7Q.jpg?auth=8a44a4ff929e80408db70e8c47e418e10c48fa12df6dfde8daff5fcd8a3686c3&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-10-10T20:42:45Z"
+        },
+        {
+            "source": {
+                "id": "85e5403407038478a5e7d8d100ff8e8f",
+                "name": "CP24 Toronto",
+                "url": "https://www.cp24.com",
+                "country": "ca"
+            },
+            "title": "Peter Thiel says Greta Thunberg servant of ‘Antichrist’",
+            "url": "https://www.cp24.com/news/world/2025/10/10/tech-billionaire-thiel-says-greta-thunberg-servant-of-antichrist/",
+            "urlToImage": "https://www.cp24.com/resizer/v2/FWSOJLSVKD3ISZ3S6WTUWBERPM.jpg?smart=true&auth=7f281de15c85cf639b25b339138b13e6c4b6af6bd1da12a71df52e93f7c2050b&width=1200&height=630",
+            "publishedAt": "2025-10-10T20:32:41Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Rajnath seeks joint production of military equipment with Australia",
+            "url": "https://www.tribuneindia.com/news/india/rajnath-seeks-joint-production-of-military-equipment-with-australia/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWY5ZTVjOTEwLWE2MTctMTFmMC04NjMyLTFiZGZhNzM3NzM5Zi5qcGc=",
+            "publishedAt": "2025-10-10T20:30:31Z"
+        },
         {
             "source": {
                 "id": "da5c26287bdd02563a2c32b55cb12051",
@@ -1440,6 +1476,60 @@
             "url": "https://www.globenewswire.com/news-release/2025/10/10/3164928/0/en/AI-in-Insurance-Market-Projected-to-Reach-USD-59-50-Billion-by-2033-with-Rapid-27-32-CAGR-SNS-Insider.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
             "publishedAt": "2025-10-10T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "headtopics"
+            },
+            "title": "WIRED Roundup: Are We In An AI Bubble?",
+            "url": "https://us.headtopics.com/news/wired-roundup-are-we-in-an-ai-bubble-74227261",
+            "urlToImage": "https://i.headtopics.com/images/2025/10/8/wwd/nike-s-new-limited-edition-hbcu-yardrunners-collec-nike-s-new-limited-edition-hbcu-yardrunners-collec-0EE9DCAE04C5BDB7F1602B712B9D8191.webp?w=640",
+            "publishedAt": "2025-10-10 21:09:56"
+        },
+        {
+            "source": {
+                "name": "headtopics"
+            },
+            "title": "How Neurosymbolic AI Finds Growth That Others Cannot See - SPONSOR CONTENT FROM EY-PARTHENON",
+            "url": "https://us.headtopics.com/news/how-neurosymbolic-ai-finds-growth-that-others-cannot-see-74226967",
+            "urlToImage": "https://i.headtopics.com/images/2025/10/9/fox10phoenix/tpusa-chapter-denial-tied-to-club-moratorium-not-p-tpusa-chapter-denial-tied-to-club-moratorium-not-p-C8AA42CC51417FBE95F03AB7AEBD9754.webp?w=640",
+            "publishedAt": "2025-10-10 21:09:15"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "The Xreal One And One Pro Continue Xreal’s Progress In Immersive AR",
+            "url": "https://www.forbes.com/sites/moorinsights/2025/10/10/the-xreal-one-and-one-pro-continue-xreals-progress-in-immersive-ar/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68e973618bf4ea7ebffca36e/0x0.jpg?width=960",
+            "publishedAt": "2025-10-10 21:06:12"
+        },
+        {
+            "source": {
+                "name": "usatoday"
+            },
+            "title": "Deep space exploration as NASA’s SPHEREx maps the galaxies",
+            "url": "https://www.usatoday.com/story/studiog/life/2025/10/10/nasas-spherex-goes-deep-into-space/85722894007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/08/28/USAT/85865527007-ksc-20250308-phspx-01-0006-orig.jpg?auto=webp&crop=2132%2C1199%2Cx0%2Cy320&format=pjpg&height=1199&width=2132",
+            "publishedAt": "2025-10-10 21:00:25"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "McAfee+ Ultimate identity theft protection review: Everything you need to stay safe online",
+            "url": "https://www.tomsguide.com/computing/internet/online-security/identity-theft-protection/mcafee-plus-review",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/tdgPMBtAQkoWqheJVHKqHD-1280-80.jpg",
+            "publishedAt": "2025-10-10 20:40:23"
+        },
+        {
+            "source": {
+                "name": "siliconangle"
+            },
+            "title": "Light-based networking takes aim at AI’s growing data bottlenecks",
+            "url": "https://siliconangle.com/2025/10/10/ayar-labs-optical-interconnectivity-aifactoriesdatacenters/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/09/Vladimir-Stojanovic.png",
+            "publishedAt": "2025-10-10 20:17:53"
         },
         {
             "source": {
@@ -3144,114 +3234,6 @@
             "url": "https://www.benzinga.com/markets/tech/25/10/48122631/microsoft-partners-with-harvard-medical-school-to-bolster-ai-sources-report",
             "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/10/09/Washington--United-States---April-04-202.jpeg?width=1200&height=800&fit=crop",
             "publishedAt": "2025-10-09T13:07:59Z"
-        },
-        {
-            "source": {
-                "id": "f4d035ae0463df22c36ae97972a33ba6",
-                "name": "PR Newswire UK",
-                "url": "https://www.prnewswire.co.uk",
-                "country": "gb"
-            },
-            "title": "Global A.I. Influenced Cybersecurity Market Size Projected to Reach $234 Billion By 2032",
-            "url": "https://www.prnewswire.co.uk/news-releases/global-ai-influenced-cybersecurity-market-size-projected-to-reach-234-billion-by-2032-302579253.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2737336/5553450/MarketNewsUpdates.jpg?p=facebook",
-            "publishedAt": "2025-10-09T13:00:00Z"
-        },
-        {
-            "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
-                "country": "in"
-            },
-            "title": "US Not Far Ahead Of China In AI Race: Nvidia CEO Jensen Huang",
-            "url": "https://www.ndtvprofit.com/world/artificial-intelligence-us-not-far-ahead-of-china-in-ai-race-warns-nvidia-ceo-jensen-huang",
-            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-01-16%2F326ngwf0%2FAI-New.jpg?rect=0%2C147%2C2706%2C1421&w=1200&auto=format%2Ccompress&ogImage=true",
-            "publishedAt": "2025-10-09T12:50:38Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - Whatfix's Seek for Salesforce: Transforming Enterprise Automation with AI",
-            "url": "https://www.devdiscourse.com/live-discourse/8922-artificial-intelligence-revolutionizing-every-aspect-of-life",
-            "urlToImage": "https://www.devdiscourse.com?width=1280&format=jpeg",
-            "publishedAt": "2025-10-09T12:44:01Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "AI Voice Agents That Transform Your CRM Workflows",
-            "url": "https://techbullion.com/ai-voice-agents-that-transform-your-crm-workflows/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/10/voice-AI-agent-1680x1120-1.webp",
-            "publishedAt": "2025-10-09T12:13:33Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "IIT Guwahati’s Mehta Family School of Data Science and AI celebrates graduation of inaugural batch",
-            "url": "https://economictimes.indiatimes.com/industry/services/education/iit-guwahatis-mehta-family-school-of-data-science-and-ai-celebrates-graduation-of-inaugural-batch/articleshow/124416109.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-124416183,width-1200,height-630,imgsize-36318,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2025-10-09T12:11:00Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Chevron expands India hub to boost digital and AI capabilities",
-            "url": "https://www.thestar.com.my/tech/tech-news/2025/10/09/chevron-expands-india-hub-to-boost-digital-and-ai-capabilities",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/09/3562551.jpg",
-            "publishedAt": "2025-10-09T12:04:00Z"
-        },
-        {
-            "source": {
-                "id": "e553cce06d349ac1f7fbb7618a979256",
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com",
-                "country": "us"
-            },
-            "title": "Reflection AI Raises $2 Billion as It Aims to Compete With DeepSeek",
-            "url": "https://www.nytimes.com/2025/10/09/business/dealbook/reflection-ai-2-billion-funding.html",
-            "urlToImage": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
-            "publishedAt": "2025-10-09T12:01:02Z"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            },
-            "title": "Google launches Gemini Enterprise to boost AI agent use at work",
-            "url": "https://www.cnbc.com/2025/10/09/google-launches-gemini-enterprise-to-boost-ai-agent-use-at-work.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108209783-1759987027007-gettyimages-2209279501-cw1_7703_vcm1yjgr.jpeg?v=1759987093&w=1920&h=1080",
-            "publishedAt": "2025-10-09T12:00:02Z"
-        },
-        {
-            "source": {
-                "id": "eff9eddd8bffd06060c9c7ba12fd8a16",
-                "name": "Salt Lake Tribune",
-                "url": "https://www.sltrib.com",
-                "country": "us"
-            },
-            "title": "Opinion: Artificial intelligence wants to inhale my Montana book",
-            "url": "https://www.sltrib.com/opinion/commentary/2025/10/08/opinion-artificial-intelligence/",
-            "urlToImage": "https://www.sltrib.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fsltrib%2F5NOG4E375RBVPMLKIYNLHINL34.jpg?auth=04b86ae8928a915c20756cba9cf2a475afbeec5d99575acbc4ace09aeaabf265&width=1200",
-            "publishedAt": "2025-10-09T12:00:00Z"
         }
     ]
 }
