@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-10-11T02:50:31.178031Z",
+    "lastUpdatedAt": "2025-10-11T03:22:49.811868Z",
     "articles": [
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "Physics-informed AI excels at large-scale discovery of new materials",
+            "url": "https://phys.org/news/2025-10-physics-ai-excels-large-scale.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/physics-informed-ai-ex.jpg",
+            "publishedAt": "2025-10-10T15:04:03Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Applied Digital shares rally after upbeat quarterly revenue on AI demand",
+            "url": "https://www.reuters.com/business/applied-digital-shares-rally-after-upbeat-quarterly-revenue-ai-demand-2025-10-10/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-10-10T15:03:02Z"
+        },
+        {
+            "source": {
+                "id": "59749bcce0ec90ed59071c45c44738b7",
+                "name": "Siliconrepublic.com",
+                "url": "https://www.siliconrepublic.com",
+                "country": "ie"
+            },
+            "title": "Cybersecurity experts gather in Kilkenny for CINC 2025",
+            "url": "https://www.siliconrepublic.com/enterprise/cyber-ireland-cybersecurity-events-ai-quantum-2025",
+            "urlToImage": "https://www.siliconrepublic.com/wp-content/uploads/2025/10/cyber_ireland_2025_event.jpg",
+            "publishedAt": "2025-10-10T14:59:14Z"
+        },
         {
             "source": {
                 "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
@@ -996,6 +1032,24 @@
             "url": "https://www.globenewswire.com/news-release/2025/10/10/3164928/0/en/AI-in-Insurance-Market-Projected-to-Reach-USD-59-50-Billion-by-2033-with-Rapid-27-32-CAGR-SNS-Insider.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
             "publishedAt": "2025-10-10T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "starherald"
+            },
+            "title": "Sherry Preston: Does AI have a use at the local library?",
+            "url": "https://starherald.com/news/local/column/article_7e4ac7bb-b295-45f8-88fc-e4461e8267d7.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/starherald.com/content/tncms/assets/v3/editorial/5/8b/58bd6900-5ec7-5d33-9ff1-d35ad04c7df7/6285b9f1aa670.image.jpg?crop=999%2C526%2C0%2C280",
+            "publishedAt": "2025-10-10 15:00:00"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "MrBeast Is Right About AI Content, But Are We Really In ‘Scary Times’?",
+            "url": "https://www.forbes.com/sites/johnbbrandon/2025/10/10/mrbeast-is-right-about-ai-content-but-are-we-really-in-scary-times/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68e6bbe5f7252dac17e8a6ff/0x0.jpg?width=960",
+            "publishedAt": "2025-10-10 14:55:57"
         },
         {
             "source": {
@@ -3294,51 +3348,6 @@
             "url": "https://techcrunch.com/2025/10/09/while-openai-races-to-build-ai-data-centers-nadella-reminds-us-that-microsoft-already-has-them/",
             "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-1066108038.jpg?w=1024",
             "publishedAt": "2025-10-09 23:53:36"
-        },
-        {
-            "source": {
-                "name": "nvidia_developer"
-            },
-            "title": "NVIDIA Blackwell Leads on SemiAnalysis InferenceMAXTM v1 Benchmarks",
-            "url": "https://developer.nvidia.com/blog/nvidia-blackwell-leads-on-new-semianalysis-inferencemax-benchmarks/",
-            "urlToImage": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/10/inference-data-center-think-smart.png",
-            "publishedAt": "2025-10-09 23:33:40"
-        },
-        {
-            "source": {
-                "name": "siliconangle"
-            },
-            "title": "The $500M blueprint: How QumulusAI and USD.AI are forging a new financial model for the AI neocloud",
-            "url": "https://siliconangle.com/2025/10/09/500m-blueprint-qumulusai-usd-ai-forging-new-financial-model-ai-neocloud/",
-            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/10/nvidia-cambridge-1-supercomputer.webp",
-            "publishedAt": "2025-10-09 23:28:44"
-        },
-        {
-            "source": {
-                "name": "techcrunch"
-            },
-            "title": "Reflection raises $2B to be America’s open frontier AI lab, challenging DeepSeek",
-            "url": "https://techcrunch.com/2025/10/09/reflection-raises-2b-to-be-americas-open-frontier-ai-lab-challenging-deepseek/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1370479417.jpg?resize=1200%2C806",
-            "publishedAt": "2025-10-09 22:35:15"
-        },
-        {
-            "source": {
-                "name": "futurism"
-            },
-            "title": "Top Official Horrified When Trump Thought He Was Sending Direct Message But Accidentally Posted It on Main Account",
-            "url": "https://futurism.com/future-society/trump-truth-social-media",
-            "urlToImage": "https://futurism.com/wp-content/uploads/2025/10/trump-truth-social-media.jpg?quality=85",
-            "publishedAt": "2025-10-09 22:31:21"
-        },
-        {
-            "source": {
-                "name": "cleveland"
-            },
-            "title": "What to know about Ohio’s new law making virtual vet visits easier for pet owners",
-            "url": "https://www.cleveland.com/news/2025/10/what-to-know-about-ohios-new-law-making-virtual-vet-visits-easier-for-pet-owners.html",
-            "urlToImage": "https://www.cleveland.com/resizer/v2/J2FENSV4UBC7TK7RLR7KIH6OLY.jpg?auth=3336329211a2dd970afe90b836c4fc4131475daba990b5954874ba2eb6a758fd&height=1200&smart=true",
-            "publishedAt": "2025-10-09 22:18:02"
         }
     ]
 }
