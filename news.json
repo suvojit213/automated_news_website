@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-10-11T09:13:53.343439Z",
+    "lastUpdatedAt": "2025-10-11T10:14:07.104942Z",
     "articles": [
+        {
+            "source": {
+                "id": "d5a02d07558c5563d72576efc406e608",
+                "name": "ABC17News.com",
+                "url": "https://abc17news.com",
+                "country": "us"
+            },
+            "title": "Why is Nvidia, the world’s leading AI chipmaker, entangled in the US-China trade war?",
+            "url": "https://abc17news.com/money/cnn-business-consumer/2025/10/10/why-is-nvidia-the-worlds-leading-ai-chipmaker-entangled-in-the-us-china-trade-war/",
+            "urlToImage": "https://abc17news.b-cdn.net/abc17news.com/2025/10/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWdsYWhzeWgwMDAyM2I2bm1vMng2N2My-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtZ2t6b3U0bzAwM3oyNm5yaHZzamZxeHE-860x573.jpg",
+            "publishedAt": "2025-10-10T21:51:50Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Thales Calls for Liberalising FDI Regime in Defence: Patrice Caine",
+            "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2025/oct/11/satet-front/thales-calls-for-liberalising-fdi-regime-in-defence/articleshow/124466352.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-124467581,width-1200,height-630,imgsize-407314,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-10-10T21:46:00Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Cocon 2025: Report on online child exploitation presented on Day 1",
+            "url": "https://timesofindia.indiatimes.com/city/kochi/cocon-2025-report-on-online-child-exploitation-presented-on-day-1/articleshow/124464340.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-124464339,width-1070,height-580,imgsize-44490,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-10-10T21:43:00Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "The World’s Chip Supply Chain Is Bracing for Fallout From China’s Rare-Earth Curbs",
+            "url": "https://www.livemint.com/companies/news/the-world-s-chip-supply-chain-is-bracing-for-fallout-from-china-s-rare-earth-curbs-11760131065068.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/company_1_1733464951182_1733464958176.png",
+            "publishedAt": "2025-10-10T21:17:44Z"
+        },
         {
             "source": {
                 "id": "da5c26287bdd02563a2c32b55cb12051",
@@ -1476,6 +1524,51 @@
             "url": "https://www.globenewswire.com/news-release/2025/10/10/3164928/0/en/AI-in-Insurance-Market-Projected-to-Reach-USD-59-50-Billion-by-2033-with-Rapid-27-32-CAGR-SNS-Insider.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
             "publishedAt": "2025-10-10T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "citizensvoice"
+            },
+            "title": "Amazon: Data center campus construction in Salem Twp. on ‘rapid pace’",
+            "url": "https://www.citizensvoice.com/2025/10/10/amazon-data-center-campus-construction-in-salem-twp-on-rapid-pace/",
+            "urlToImage": "https://www.citizensvoice.com/wp-content/uploads/2025/10/CVC-L-AMAZON-1012-2.jpg?strip=all&w=1400px",
+            "publishedAt": "2025-10-10 21:53:59"
+        },
+        {
+            "source": {
+                "name": "republicanherald"
+            },
+            "title": "Amazon: Data center campus construction in Salem Twp. on ‘rapid pace’",
+            "url": "https://www.republicanherald.com/2025/10/10/amazon-data-center-campus-construction-in-salem-twp-on-rapid-pace/",
+            "urlToImage": "https://www.republicanherald.com/wp-content/uploads/2025/10/CVC-L-AMAZON-1012-2.jpg?strip=all&w=1400px",
+            "publishedAt": "2025-10-10 21:53:59"
+        },
+        {
+            "source": {
+                "name": "standardspeaker"
+            },
+            "title": "Amazon: Data center campus construction in Salem Twp. on ‘rapid pace’",
+            "url": "https://www.standardspeaker.com/2025/10/10/amazon-data-center-campus-construction-in-salem-twp-on-rapid-pace/",
+            "urlToImage": "https://www.standardspeaker.com/wp-content/uploads/2025/10/CVC-L-AMAZON-1012-2.jpg?strip=all&w=1400px",
+            "publishedAt": "2025-10-10 21:53:59"
+        },
+        {
+            "source": {
+                "name": "sentinelsource"
+            },
+            "title": "AI’s potential for small businesses: A skeptic’s perspective on the transformative power",
+            "url": "https://www.keenesentinel.com/business/ai-s-potential-for-small-businesses-a-skeptic-s-perspective-on-the-transformative-power/article_b0cd18da-2bae-4693-9f1e-bb3c1b482897.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/keenesentinel.com/content/tncms/assets/v3/editorial/f/3a/f3a56ea9-a7d8-585c-9414-193fe40890e2/68e68701d6ff1.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-10-10 21:30:00"
+        },
+        {
+            "source": {
+                "name": "techannouncer"
+            },
+            "title": "Ultimate Free Oculus Quest 2 Games List for 2025: Discover the Best No-Cost VR Experiences",
+            "url": "https://techannouncer.com/ultimate-free-oculus-quest-2-games-list-for-2025-discover-the-best-no-cost-vr-experiences/",
+            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/10/4d49f5afthumbnail-332x187.jpeg",
+            "publishedAt": "2025-10-10 21:24:11"
         },
         {
             "source": {
@@ -3126,114 +3219,6 @@
             "url": "https://www.devdiscourse.com/article/law-order/3658279-mcc-enforced-in-bihar-ec-warns-against-ai-misuse-and-deepfakes-in-polls",
             "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/01_04_2025_20_11_33_3987543.jpg?width=920&format=jpeg",
             "publishedAt": "2025-10-09T14:55:36Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Elon Musk may have agreed with Google CEO Sundar Pichai on future of AI",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/elon-musk-may-have-agreed-with-google-ceo-sundar-pichai-on-future-of-ai/articleshow/124421449.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-124421410,width-1070,height-580,imgsize-22668,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "publishedAt": "2025-10-09T14:08:00Z"
-        },
-        {
-            "source": {
-                "id": "d9e5f124fd3af657d83b8787fbbae53d",
-                "name": "Raw Story",
-                "url": "https://www.rawstory.com",
-                "country": "us"
-            },
-            "title": "Texas cops caught in lie after nationwide hunt for woman who took abortion pill",
-            "url": "https://www.rawstory.com/texas-cops-caught-in-lie-after-nationwide-hunt-for-woman-who-took-abortion-pill/",
-            "urlToImage": "https://www.rawstory.com/media-library/file-photo-a-patient-prepares-to-take-mifepristone-the-first-pill-in-a-medical-abortion-at-alamo-women-s-clinic-in-carbondale.jpg?id=61450104&width=1200&height=600&coordinates=0%2C452%2C0%2C453",
-            "publishedAt": "2025-10-09T13:47:36Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Google launches Gemini Enterprise AI platform for business clients",
-            "url": "https://www.thestar.com.my/tech/tech-news/2025/10/09/google-launches-gemini-enterprise-ai-platform-for-business-clients",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/09/3562650.jpg",
-            "publishedAt": "2025-10-09T13:36:00Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Google launches Gemini Enterprise AI platform for business clients",
-            "url": "https://www.reuters.com/business/google-launches-gemini-enterprise-ai-platform-business-clients-2025-10-09/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/PIP2W7M545LWXKICZVVGKG5BUU.jpg?auth=f7be5eace4fd20a70b83638dbb98f77a746aba0b96898aaa076f47323b26c8fc&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-10-09T13:28:53Z"
-        },
-        {
-            "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
-                "country": "in"
-            },
-            "title": "FIR against Navi Mumbai man for objectionable AI video on CJI Gavai",
-            "url": "https://www.hindustantimes.com/india-news/fir-against-navi-mumbai-man-for-objectionable-ai-video-on-cji-gavai-101760006365908.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/10/09/1600x900/logo/CJI-Bhushan-R-Gavai-speaking-at-the-inaugural-Sir-_1760007965521_1760007977537.jpeg",
-            "publishedAt": "2025-10-09T13:19:40Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "CEO of America’s largest bank Jamie Dimon makes a grim prediction: Says more worried than others about AI investors as ...",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/ceo-of-americas-largest-bank-jamie-dimon-makes-a-grim-prediction-says-more-worried-than-others-about-ai-investors-as-/articleshow/124419046.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-124419029,width-1070,height-580,imgsize-25052,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "publishedAt": "2025-10-09T13:17:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Intel outlines details of first PC chip made on its new manufacturing tech",
-            "url": "https://economictimes.indiatimes.com/tech/technology/intel-outlines-details-of-first-pc-chip-made-on-its-new-manufacturing-tech/articleshow/124418998.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-125800,resizemode-75,msid-124418998/tech/technology/intel-outlines-details-of-first-pc-chip-made-on-its-new-manufacturing-tech.jpg",
-            "publishedAt": "2025-10-09T13:16:04Z"
-        },
-        {
-            "source": {
-                "id": "e9207083a357fb7e76b38e485888ebe7",
-                "name": "manilastandard.net",
-                "url": "https://manilastandard.net",
-                "country": "ph"
-            },
-            "title": "AI adoption in cybersecurity surges across the Philippines: 92% already using It",
-            "url": "https://manilastandard.net/tech/tech-news/314653160/ai-adoption-in-cybersecurity-surges-across-the-philippines-92-already-using-it.html",
-            "urlToImage": "https://cdn.manilastandard.net/wp-content/uploads/2025/10/fortinet.jpg",
-            "publishedAt": "2025-10-09T13:12:04Z"
-        },
-        {
-            "source": {
-                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-                "name": "Benzinga",
-                "url": "https://www.benzinga.com",
-                "country": "us"
-            },
-            "title": "Microsoft Partners With Harvard Medical School To Bolster AI Sources: Report",
-            "url": "https://www.benzinga.com/markets/tech/25/10/48122631/microsoft-partners-with-harvard-medical-school-to-bolster-ai-sources-report",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/10/09/Washington--United-States---April-04-202.jpeg?width=1200&height=800&fit=crop",
-            "publishedAt": "2025-10-09T13:07:59Z"
         }
     ]
 }
