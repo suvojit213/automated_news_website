@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-10-11T12:27:25.017480Z",
+    "lastUpdatedAt": "2025-10-11T13:18:15.414035Z",
     "articles": [
+        {
+            "source": {
+                "id": "6fea3ee012f060c6309366516e8d00be",
+                "name": "News-Medical.net",
+                "url": "https://www.news-medical.net",
+                "country": "gb"
+            },
+            "title": "New AI system revolutionizes drug design and vaccine development",
+            "url": "https://www.news-medical.net/news/20251010/New-AI-system-revolutionizes-drug-design-and-vaccine-development.aspx",
+            "urlToImage": "https://www.news-medical.net/image-handler/picture/2019/5/Drug_use_and_prohibited_substances._-_Image_-_Monika_Gruszewicz_A1_b3acfd6d2daf44ecbd36979af20eb378-620x480.jpg",
+            "publishedAt": "2025-10-11T01:02:00Z"
+        },
+        {
+            "source": {
+                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+                "name": "The Financial Express",
+                "url": "https://www.financialexpress.com",
+                "country": "in"
+            },
+            "title": "‘They started this thing’: Trump blames Democrats as White House lays off thousands amid shutdown",
+            "url": "https://www.financialexpress.com/world-news/us-news/white-house-lays-off-thousands-of-us-government-workers-blaming-shutdown/4006304/",
+            "urlToImage": "https://images.financialexpressdigital.com/2025/10/Donald-trump-3.jpg",
+            "publishedAt": "2025-10-11T00:57:19Z"
+        },
         {
             "source": {
                 "id": "680f00482cbf9f314921fefd917871d9",
@@ -36,6 +60,15 @@
             "url": "https://www.dailypioneer.com/2025/business/india-s-sovereign-ai-model-to-be--ready-by-february-meity-secy.html",
             "urlToImage": "https://www.dailypioneer.com/images/logo.jpg",
             "publishedAt": "2025-10-11T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "macrumors"
+            },
+            "title": "Vision Pro Future Uncertain as All Headset Development Is Seemingly Paused",
+            "url": "https://www.macrumors.com/2025/10/11/vision-pro-future-uncertain/",
+            "urlToImage": "https://images.macrumors.com/t/C4MI0G2qRzWjOocxUtV8KIPvk30=/2500x/article-new/2024/07/apple-vision-pro-orange.jpg",
+            "publishedAt": "2025-10-11 01:00:00"
         },
         {
             "source": {
@@ -3162,42 +3195,6 @@
             "url": "https://www.ndtvprofit.com/technology/google-launches-gemini-enterprise-as-it-battles-microsoft-openai-for-workplace-ai",
             "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-10-09%2Fcxlen37c%2F441653928-1.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
             "publishedAt": "2025-10-09T17:18:58Z"
-        },
-        {
-            "source": {
-                "id": "7eeaf9a839918543cc708f2d331c3be4",
-                "name": "Free Press Journal",
-                "url": "https://www.freepressjournal.in",
-                "country": "in"
-            },
-            "title": "Panvel Police Book Kikki Singh, Others For AI-Generated Video Insulting CJI Bhushan Gavai",
-            "url": "https://www.freepressjournal.in/mumbai/panvel-police-book-kikki-singh-others-for-ai-generated-video-insulting-cji-bhushan-gavai",
-            "urlToImage": "https://media.assettype.com/freepressjournal/2025-10-09/kcyjn5qw/FotoJet-2025-10-09T223757.698.jpg",
-            "publishedAt": "2025-10-09T17:10:20Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "India Shines at GITEX 2025: A Vision of Tech Triumph",
-            "url": "https://www.devdiscourse.com/article/technology/3658579-india-shines-at-gitex-2025-a-vision-of-tech-triumph",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/09_10_2025_17_07_18_6805839.png?width=920&format=jpeg",
-            "publishedAt": "2025-10-09T17:07:23Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Short-bias ETFs see big inflows on stock market pullback bets",
-            "url": "https://www.reuters.com/business/finance/global-markets-shortbias-2025-10-09/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/FUBTGATC45MSXCEDX2I2CX4ZVQ.jpg?auth=cba10a311c21f91601923c24eeddcddfa84783f286a866aec0afce19d913818a&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-10-09T17:03:48Z"
         }
     ]
 }
