@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2025-10-11T04:17:09.514615Z",
+    "lastUpdatedAt": "2025-10-11T05:13:19.017341Z",
     "articles": [
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "Applied Digital stock climbs 16% as AI demand fuels data center growth",
+            "url": "https://www.cnbc.com/2025/10/10/applied-digital-stock-ai-data-center-earnings.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108210640-1760111093462-gettyimages-2237856798-img_8507.jpeg?v=1760111127&w=1920&h=1080",
+            "publishedAt": "2025-10-10T17:11:35Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "Zero Knowledge Proof Whitelist Coming Soon: The Zero-Trust Revolution and the Next 100x Crypto",
+            "url": "https://techbullion.com/zero-knowledge-proof-whitelist-coming-soon-the-zero-trust-revolution-and-the-next-100x-crypto/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/10/image001-32.png",
+            "publishedAt": "2025-10-10T17:00:22Z"
+        },
+        {
+            "source": {
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
+                "country": "us"
+            },
+            "title": "New GPT models show major drop in political bias, OpenAI says",
+            "url": "https://nypost.com/2025/10/10/tech/new-gpt-models-show-major-drop-in-political-bias-openai-says/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/10/113193799.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2025-10-10T17:00:14Z"
+        },
+        {
+            "source": {
+                "id": "b7a61248c3383fb45a09d6a35a7e14df",
+                "name": "Ars Technica",
+                "url": "https://arstechnica.com",
+                "country": "us"
+            },
+            "title": "AMD and Sony tease new chip architecture ahead of PlayStation 6",
+            "url": "https://arstechnica.com/gaming/2025/10/amd-and-sony-tease-new-chip-architecture-ahead-of-playstation-6/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/amethyst-1152x648-1760113343.jpg",
+            "publishedAt": "2025-10-10T16:45:49Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Centre plans AI curriculum from Class III to future-proof students, teachers",
+            "url": "https://timesofindia.indiatimes.com/india/centre-plans-ai-curriculum-from-class-iii-to-future-proof-students-teachers/articleshow/124459321.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-124459780,width-1070,height-580,imgsize-1301055,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-10-10T16:28:00Z"
+        },
+        {
+            "source": {
+                "id": "732b46cdef66b68ee2fbc940e79f81de",
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com",
+                "country": "us"
+            },
+            "title": "Homeland Security reassigns 'hundreds' of CISA cyber staffers to support Trump's deportation crackdown",
+            "url": "https://techcrunch.com/2025/10/10/homeland-security-reassigns-hundreds-of-cisa-cyber-staffers-to-support-trumps-deportation-crackdown/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/07/ice-raids-chicago-2195569552.jpg?resize=1200,873",
+            "publishedAt": "2025-10-10T16:17:09Z"
+        },
         {
             "source": {
                 "id": "0aab1d72ae666208d1824f73c0ea4209",
@@ -1116,6 +1188,60 @@
             "url": "https://www.globenewswire.com/news-release/2025/10/10/3164928/0/en/AI-in-Insurance-Market-Projected-to-Reach-USD-59-50-Billion-by-2033-with-Rapid-27-32-CAGR-SNS-Insider.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
             "publishedAt": "2025-10-10T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "androidheadlines"
+            },
+            "title": "Google Pixel 10 Pro Fold Review: The AI-Powered Foldable That Finally Gets It Right (Mostly)",
+            "url": "https://www.androidheadlines.com/google-pixel-10-pro-fold-review",
+            "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2025/10/Google-Pixel-10-Pro-Fold-AM-AH-33-1420x799.webp",
+            "publishedAt": "2025-10-10 17:09:52"
+        },
+        {
+            "source": {
+                "name": "pcworld_us"
+            },
+            "title": "ADT Smart Home Security System review: Smart home security",
+            "url": "https://www.pcworld.com/article/2929522/adt-smart-home-security-system-review.html",
+            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/10/ADT-Base.jpg?quality=50&strip=all",
+            "publishedAt": "2025-10-10 17:00:00"
+        },
+        {
+            "source": {
+                "name": "cornelledu"
+            },
+            "title": "New Faculty Andrew Owens Makes AI That Sees, Hears, and Feels",
+            "url": "https://tech.cornell.edu/news/andrew-owens-cornell-tech/",
+            "urlToImage": "https://tech.cornell.edu/wp-content/uploads/2025/10/TECH_20250709_037-2-450x300.jpg",
+            "publishedAt": "2025-10-10 16:59:40"
+        },
+        {
+            "source": {
+                "name": "businessinsider_us"
+            },
+            "title": "I attended a training session on how to raise AI-native kids. Parents — many of whom work in tech — were divided.",
+            "url": "https://www.businessinsider.com/ai-workshop-parenting-new-generation-kids-technology-chatgpt-gemini-exposure-2025-10",
+            "urlToImage": "https://i.insider.com/68e917b25dbc4fd10daa9c4d?width=700",
+            "publishedAt": "2025-10-10 16:58:19"
+        },
+        {
+            "source": {
+                "name": "thestatesman"
+            },
+            "title": "Sona Comstar ties up with Neura Of Germany to make robots and humanoids",
+            "url": "https://www.thestatesman.com/business/sona-comstar-ties-up-with-neura-of-germany-to-make-robots-and-humanoids-1503497648.html",
+            "urlToImage": "https://www.thestatesman.com/wp-content/uploads/2025/10/Untitled-design-44-4.webp",
+            "publishedAt": "2025-10-10 16:40:38"
+        },
+        {
+            "source": {
+                "name": "techannouncer"
+            },
+            "title": "How Website Search Engines Work: A Guide to Understanding and Choosing the Right One for Your Needs",
+            "url": "https://techannouncer.com/how-website-search-engines-work-a-guide-to-understanding-and-choosing-the-right-one-for-your-needs/",
+            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/10/9e09aa2dthumbnail-332x187.jpeg",
+            "publishedAt": "2025-10-10 16:33:11"
         },
         {
             "source": {
@@ -3183,150 +3309,6 @@
             "url": "https://www.reuters.com/world/asia-pacific/tsmc-posts-q3-revenue-325-billion-above-forecasts-2025-10-09/",
             "urlToImage": "https://www.reuters.com/resizer/v2/7AAZQQZV55MLZIBURW4UC7QOMI.jpg?auth=b253cf3b431df1f2c1c953af869ebaccd895c92a70025b8aa39c27ff27ae583c&height=1005&width=1920&quality=80&smart=true",
             "publishedAt": "2025-10-09T05:37:56Z"
-        },
-        {
-            "source": {
-                "id": "3d24c816061d69b2e23b8583aed9b447",
-                "name": "Euronews",
-                "url": "https://www.euronews.com",
-                "country": "fr"
-            },
-            "title": "CEOs double down on AI as confidence in global economy slips, report",
-            "url": "https://www.euronews.com/business/2025/10/09/ceos-double-down-on-ai-as-confidence-in-global-economy-slips-report",
-            "urlToImage": "https://static.euronews.com/articles/stories/09/50/00/31/1200x675_cmsv2_2f0a8bb4-23f8-565c-af1a-edf91abe3172-9500031.jpg",
-            "publishedAt": "2025-10-09T05:00:19Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Is there an AI bubble? Financial institutions sound a warning",
-            "url": "https://www.thestar.com.my/tech/tech-news/2025/10/09/is-there-an-ai-bubble-financial-institutions-sound-a-warning",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/09/3561579.jpg",
-            "publishedAt": "2025-10-09T05:00:00Z"
-        },
-        {
-            "source": {
-                "id": "b33a42ef1c098421f66aad47a76d6a3c",
-                "name": "The Hindu",
-                "url": "https://www.thehindu.com",
-                "country": "in"
-            },
-            "title": "EU wants key sectors to use made-in-Europe AI",
-            "url": "https://www.thehindu.com/sci-tech/technology/eu-wants-key-sectors-to-use-made-in-europe-ai/article70142187.ece",
-            "urlToImage": "https://th-i.thgim.com/public/incoming/uhgwqc/article70142188.ece/alternates/LANDSCAPE_1200/2025-10-08T214356Z_52778049_RC2ONFAH1AWX_RTRMADP_3_EU-SUSTAINABILITY-LAWMAKING.JPG",
-            "publishedAt": "2025-10-09T04:52:34Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "US approves some Nvidia UAE sales, Bloomberg News reports",
-            "url": "https://economictimes.indiatimes.com/tech/technology/us-approves-some-nvidia-uae-sales-bloomberg-news-reports/articleshow/124405043.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-87680,resizemode-75,msid-124405043/tech/technology/us-approves-some-nvidia-uae-sales-bloomberg-news-reports.jpg",
-            "publishedAt": "2025-10-09T04:49:03Z"
-        },
-        {
-            "source": {
-                "id": "23ca80edba9c670741bdbfc4acd3e991",
-                "name": "The Statesman",
-                "url": "https://www.thestatesman.com",
-                "country": "in"
-            },
-            "title": "generated content: political parties warned to comply with MCC guidelines",
-            "url": "https://www.thestatesman.com/india/eci-cracks-down-on-ai-generated-content-political-parties-warned-to-comply-with-mcc-guidelines-1503496779.html",
-            "urlToImage": "https://www.thestatesman.com/wp-content/uploads/2025/10/Untitled-design-5-4.webp",
-            "publishedAt": "2025-10-09T04:39:21Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "US Greenlights Major Nvidia Chip Exports to UAE",
-            "url": "https://www.devdiscourse.com/article/law-order/3657331-us-greenlights-major-nvidia-chip-exports-to-uae",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/09_10_2025_03_44_51_9953841.png?width=920&format=jpeg",
-            "publishedAt": "2025-10-09T04:32:57Z"
-        },
-        {
-            "source": {
-                "id": "10cbfb3760cfcdeb78c733c527f0e814",
-                "name": "iTWire",
-                "url": "https://itwire.com",
-                "country": "au"
-            },
-            "title": "powered performance with sustainable manufacturing in a versatile rugged form factor",
-            "url": "https://itwire.com/guest-articles/company-news/getac%E2%80%99s-s510ad-blends-outstanding-artificial-intelligence-powered-performance-with-sustainable-manufacturing-in-a-versatile-rugged-form-factor.html",
-            "urlToImage": "https://itwire.com/media/k2/items/cache/d3bb2eba40e51cde7dd17edc6f8fef37_XS.jpg",
-            "publishedAt": "2025-10-09T04:12:38Z"
-        },
-        {
-            "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
-            },
-            "title": "China honing abilities for a possible future attack, Taiwan defence report warns",
-            "url": "https://www.straitstimes.com/asia/east-asia/china-honing-abilities-for-a-possible-future-attack-taiwan-defence-report-warns",
-            "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/1934ff86ee427e3189d3b3077e7c62f1b58873cec2b9f9e51bb237f04dcbbd15",
-            "publishedAt": "2025-10-09T03:43:00Z"
-        },
-        {
-            "source": {
-                "id": "60c457b35b486691319f105c3a760060",
-                "name": "Malayala Manorama",
-                "url": "https://www.onmanorama.com",
-                "country": "in"
-            },
-            "title": "Don't misuse AI-based tools in Bihar poll campaigning: EC to parties",
-            "url": "https://www.onmanorama.com/news/kerala/2025/10/09/election-ai-misinformation-bihar-polls.html",
-            "urlToImage": "https://img.onmanorama.com/content/dam/mm/en/archive/kerala/top-news/images/2025/10/9/bihar-elections2.jpg",
-            "publishedAt": "2025-10-09T03:40:54Z"
-        },
-        {
-            "source": {
-                "id": "b33a42ef1c098421f66aad47a76d6a3c",
-                "name": "The Hindu",
-                "url": "https://www.thehindu.com",
-                "country": "in"
-            },
-            "title": "Hollywood, Bollywood groups lobby Indian panel to protect content from AI models",
-            "url": "https://www.thehindu.com/sci-tech/technology/hollywood-bollywood-groups-lobby-indian-panel-to-protect-content-from-ai-models/article70142189.ece",
-            "urlToImage": "https://th-i.thgim.com/public/incoming/x1ifvf/article70142192.ece/alternates/LANDSCAPE_1200/2025-10-01T134808Z_1092911105_RC213HAD52Y2_RTRMADP_3_TECH-AI-HOLLYWOOD.JPG",
-            "publishedAt": "2025-10-09T03:39:01Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "India's fintech innovations set global benchmarks, says Kiya.ai CEO",
-            "url": "https://www.tribuneindia.com/news/business/indias-fintech-innovations-set-global-benchmarks-says-kiya-ai-ceo/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWZmYzk4YjgwLWE0YzAtMTFmMC04NjMyLTFiZGZhNzM3NzM5Zi5qcGc=",
-            "publishedAt": "2025-10-09T03:35:23Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "India's fintech innovations set global benchmarks, says Kiya.ai CEO",
-            "url": "https://www.lokmattimes.com/business/indias-fintech-innovations-set-global-benchmarks-says-kiyaai-ceo/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20251009033036_202510.jpg",
-            "publishedAt": "2025-10-09T03:30:52Z"
         }
     ]
 }
