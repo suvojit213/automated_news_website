@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-10-12T19:10:40.070216Z",
+    "lastUpdatedAt": "2025-10-12T20:15:37.760618Z",
     "articles": [
+        {
+            "source": {
+                "id": "0d429ea54fdbe8e34c582aa31bc81aba",
+                "name": "The Boston Globe",
+                "url": "https://www.bostonglobe.com",
+                "country": "us"
+            },
+            "title": "AI can't answer the most important questions in life",
+            "url": "https://www.bostonglobe.com/2025/10/12/opinion/asking-chatgpt-questions-ai-weirdness/",
+            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/IE73QZHK3JGL7CQYGW2BYHDPE4.jpg?auth=e9f092f981958a7e6c8456a63bacf7caea888069ae49ae931857a8d8e083a3f3&width=1440",
+            "publishedAt": "2025-10-12T08:00:00Z"
+        },
+        {
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            },
+            "title": "Is artificial intelligence fading human memory?",
+            "url": "https://www.indiatoday.in/india-today-insight/story/is-artificial-intelligence-fading-human-memory-2801790-2025-10-12",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202510/voice-assistants-remind-us-of-birthdays-apps-keep-medical-records-organised-the-conveniences-of-ar-125334790-16x9_0.png?VersionId=6XssnTLOMH4kXug0l4xdPMrZ7ipc2RTc",
+            "publishedAt": "2025-10-12T07:54:30Z"
+        },
+        {
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            },
+            "title": "How is AI reshaping classrooms without replacing teachers?",
+            "url": "https://www.indiatoday.in/education-today/featurephilia/story/how-is-ai-reshaping-classrooms-without-replacing-teachers-2801765-2025-10-12",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202510/ai--coding--and-more-are-educators-ready-for-emerging-classroom-tech-in-2025-015419669-16x9_1.jpg?VersionId=0Eg8P2jqwY_JsBRiNRJ5OBrcMkuL4n0N",
+            "publishedAt": "2025-10-12T07:20:59Z"
+        },
         {
             "source": {
                 "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
@@ -120,6 +156,42 @@
             "url": "https://www.globenewswire.com/news-release/2025/10/12/3165235/0/en/EarlyHealth-Group-Acquires-CYB3R-Gulf-s-Fastest-Growing-Cybersecurity-Firm.html",
             "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/11f30a0e-e652-4c37-aac6-ed9d35f2eff9",
             "publishedAt": "2025-10-12T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Six Fast Tech Programs Fueling the AI Talent Pipeline",
+            "url": "https://www.analyticsinsight.net/artificial-intelligence/six-fast-tech-programs-fueling-the-ai-talent-pipeline",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-10-12%2Fx1vl48ez%2FScreenshot-2025-10-12-131909.png?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-10-12 08:05:00"
+        },
+        {
+            "source": {
+                "name": "hackaday"
+            },
+            "title": "The Subtle Art of Letterform Design",
+            "url": "https://hackaday.com/2025/10/12/the-subtle-art-of-letterform-design/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2025/10/Ohno-typeography-A-banner.png",
+            "publishedAt": "2025-10-12 08:00:37"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "The Bold Claim That AGI And AI Superintelligence Will Radically Fragment Society",
+            "url": "https://www.forbes.com/sites/lanceeliot/2025/10/12/the-bold-claim-that-agi-and-ai-superintelligence-will-radically-fragment-society/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/683647db8358b6af476829b5/0x0.jpg?width=960",
+            "publishedAt": "2025-10-12 07:15:00"
+        },
+        {
+            "source": {
+                "name": "meridianstar"
+            },
+            "title": "We are foolproof and incapable of error said HAL",
+            "url": "https://meridianstar.com/2025/10/12/we-are-foolproof-and-incapable-of-error-said-hal/",
+            "urlToImage": "https://meridianstar.com/wp-content/uploads/sites/12/2024/11/Bill-Crawford.jpg",
+            "publishedAt": "2025-10-12 07:13:44"
         },
         {
             "source": {
@@ -3207,90 +3279,6 @@
             "url": "https://www.lokmattimes.com/business/ai-will-reshape-future-of-digital-payments-in-india-tanya-naik-pine-labs/",
             "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20251010062039_202510.jpg",
             "publishedAt": "2025-10-10T06:21:19Z"
-        },
-        {
-            "source": {
-                "id": "4c8b69bf547b577f84acbba5157b439c",
-                "name": "RTE.ie",
-                "url": "https://www.rte.ie",
-                "country": "ie"
-            },
-            "title": "The Edge named as co-founder of soil regeneration firm",
-            "url": "https://www.rte.ie/news/business/2025/1010/1537799-oath-soil-regeneration-the-edge/",
-            "urlToImage": "https://www.rte.ie/images/0020f728-1600.jpg",
-            "publishedAt": "2025-10-10T06:14:50Z"
-        },
-        {
-            "source": {
-                "id": "736870a2b1a320473f05d8f8015bf089",
-                "name": "Mash Viral",
-                "url": "https://mashviral.com",
-                "country": "us"
-            },
-            "title": "AI Crypto Millionaire Sparks Legal Battle for Personhood",
-            "url": "https://mashviral.com/ai-crypto-millionaire-sparks-legal-battle-for-personhood/",
-            "urlToImage": "https://mashviral.com/wp-content/uploads/2025/10/kanchanara-QQB01oqSbe8-unsplash-scaled.jpg",
-            "publishedAt": "2025-10-10T05:42:32Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Life in Delhi Metro: Official flags cybersecurity risks after Spain-Portugal blackout strands over 1,50,000 passengers",
-            "url": "https://timesofindia.indiatimes.com/city/delhi/life-in-delhi-metro-official-flags-cybersecurity-risks-after-spain-portugal-blackout-strands-over-150000-passengers/articleshow/124445311.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-124445355,width-1070,height-580,imgsize-1062676,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "publishedAt": "2025-10-10T05:37:00Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "AI Jobs Shock Is Coming and Firms Aren’t Ready, Klarna CEO Says",
-            "url": "https://www.bloomberg.com/news/articles/2025-10-10/ai-jobs-shock-is-coming-and-firms-aren-t-ready-klarna-ceo-says",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibc2oHRJNQPE/v1/1200x800.jpg",
-            "publishedAt": "2025-10-10T05:30:00Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "OpenAI tells EU it is struggling to compete with Google as ChatGPT and Sora usage hits all time high",
-            "url": "https://www.indiatoday.in/technology/news/story/openai-tells-eu-it-is-struggling-to-compete-with-google-as-chatgpt-and-sora-usage-hits-all-time-high-2800865-2025-10-10",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202510/openai-record-valuation-02505168-original-sixteen-to-nine.jpg?VersionId=aGcOQdowN0aLouiJNl.fROhWbULG7.id",
-            "publishedAt": "2025-10-10T05:17:03Z"
-        },
-        {
-            "source": {
-                "id": "09131c39169c9c96230862dc4c1fa727",
-                "name": "CNA",
-                "url": "https://www.channelnewsasia.com",
-                "country": "sg"
-            },
-            "title": "China steps up customs crackdown on Nvidia AI chips: Report",
-            "url": "https://www.channelnewsasia.com/east-asia/china-nvidia-ai-chips-customs-crackdown-ft-5393801",
-            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--UdC_YbYO--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-10-10T041120Z_2_LYNXNPEL99048_RTROPTP_3_NVIDIA-RESULTS.JPG?itok=3wbA2PMk",
-            "publishedAt": "2025-10-10T04:47:55Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Rishi Sunak joins Microsoft and Anthropic as paid adviser; told he must not ...",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/rishi-sunak-joins-microsoft-and-anthropic-as-paid-adviser-told-he-must-not-/articleshow/124444395.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-124444386,width-1070,height-580,imgsize-30462,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "publishedAt": "2025-10-10T04:44:00Z"
         }
     ]
 }
