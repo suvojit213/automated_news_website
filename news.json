@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-10-12T15:13:00.300023Z",
+    "lastUpdatedAt": "2025-10-12T16:16:18.027843Z",
     "articles": [
+        {
+            "source": {
+                "id": "a3391c15eb1d3136f9b9dd080940d0e8",
+                "name": "The Nation",
+                "url": "https://www.nation.com.pk",
+                "country": "pk"
+            },
+            "title": "Pakistani innovators invited for MIT hackathon",
+            "url": "https://www.nation.com.pk/12-Oct-2025/pakistani-innovators-invited-mit-hackathon",
+            "urlToImage": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
+            "publishedAt": "2025-10-12T04:12:55Z"
+        },
         {
             "source": {
                 "id": "94466d37d8c67a438250646866df36df",
@@ -51,6 +63,33 @@
             "url": "https://biztoc.com/x/3095573b63628f4e",
             "urlToImage": "https://cdn.biztoc.com/3095573b63628f4e_sq.webp",
             "publishedAt": "2025-10-12 00:16:06"
+        },
+        {
+            "source": {
+                "name": "financialcontent"
+            },
+            "title": "Investment Company CCM Initiated a Position in AMD. Is the Stock a Buy?",
+            "url": "https://www.fool.com/coverage/filings/2025/10/12/investment-company-ccm-initiated-a-position-in-amd-is-the-stock-a-buy/",
+            "urlToImage": "https://g.foolcdn.com/image/?h=400&op=resize&url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Febd3852cf6acd54a1bea2e90c264ce35c5ee7702-2000x1200.jpg%3Fw%3D2000%26h%3D1200&w=400",
+            "publishedAt": "2025-10-12 00:00:00"
+        },
+        {
+            "source": {
+                "name": "financialcontent"
+            },
+            "title": "Did AMD Just Say Checkmate to Nvidia?",
+            "url": "https://www.fool.com/investing/2025/10/12/did-amd-just-say-checkmate-to-nvidia/",
+            "urlToImage": "https://g.foolcdn.com/image/?h=400&op=resize&url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F837190%2Fnvidia-headquarters-with-nvidia-sign-in-front.png&w=400",
+            "publishedAt": "2025-10-12 00:00:00"
+        },
+        {
+            "source": {
+                "name": "financialcontent"
+            },
+            "title": "Microsoft 365 Premium Marks the Next Phase of AI Monetization",
+            "url": "https://www.marketbeat.com/originals/microsoft-365-premium-marks-the-next-phase-of-ai-monetization/",
+            "urlToImage": "https://www.marketbeat.com/logos/articles/med_20251009151024_microsoft-365-premium-marks-the-next-phase-of-ai-m.jpg",
+            "publishedAt": "2025-10-12 00:00:00"
         },
         {
             "source": {
@@ -3282,42 +3321,6 @@
             "url": "https://us.headtopics.com/news/walmart-slashes-price-of-lenovo-360-hinge-touchscreen-74230038",
             "urlToImage": "https://i.headtopics.com/images/2025/10/9/clevelanddotcom/incredible-65-inch-qled-4k-tv-price-drops-under-38-incredible-65-inch-qled-4k-tv-price-drops-under-38-F3C0C49B463A416FB2BC5AE09430F212.webp?w=640",
             "publishedAt": "2025-10-10 23:09:19"
-        },
-        {
-            "source": {
-                "name": "xda_developers"
-            },
-            "title": "5 quirks of enterprise NICs that can wreak havoc on your home network",
-            "url": "https://www.xda-developers.com/server-network-interfaces-not-designed-home-use/",
-            "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/06/10gbe-adapter-1.jpg",
-            "publishedAt": "2025-10-10 22:30:20"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Top FastAPI Interview Questions to Ace Your 2025 Job Search",
-            "url": "https://techannouncer.com/top-fastapi-interview-questions-to-ace-your-2025-job-search/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/10/768dbeedthumbnail-332x187.jpeg",
-            "publishedAt": "2025-10-10 22:14:05"
-        },
-        {
-            "source": {
-                "name": "citizensvoice"
-            },
-            "title": "Amazon: Data center campus construction in Salem Twp. on ‘rapid pace’",
-            "url": "https://www.citizensvoice.com/2025/10/10/amazon-data-center-campus-construction-in-salem-twp-on-rapid-pace/",
-            "urlToImage": "https://www.citizensvoice.com/wp-content/uploads/2025/10/CVC-L-AMAZON-1012-2.jpg?strip=all&w=1400px",
-            "publishedAt": "2025-10-10 21:53:59"
-        },
-        {
-            "source": {
-                "name": "republicanherald"
-            },
-            "title": "Amazon: Data center campus construction in Salem Twp. on ‘rapid pace’",
-            "url": "https://www.republicanherald.com/2025/10/10/amazon-data-center-campus-construction-in-salem-twp-on-rapid-pace/",
-            "urlToImage": "https://www.republicanherald.com/wp-content/uploads/2025/10/CVC-L-AMAZON-1012-2.jpg?strip=all&w=1400px",
-            "publishedAt": "2025-10-10 21:53:59"
         }
     ]
 }
