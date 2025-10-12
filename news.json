@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-10-12T20:15:37.760618Z",
+    "lastUpdatedAt": "2025-10-12T21:12:08.795491Z",
     "articles": [
+        {
+            "source": {
+                "id": "091dc78b9d3467c25d28c392b1c1c4c2",
+                "name": "The Philadelphia Inquirer",
+                "url": "https://www.inquirer.com",
+                "country": "us"
+            },
+            "title": "AI is watching us. We need city officials watching AI.",
+            "url": "https://www.inquirer.com/opinion/commentary/ai-philadelphia-tech-lobbying-surveillance-public-record-20251012.html",
+            "urlToImage": "https://www.inquirer.com/resizer/v2/K2IJTTBEYFHIXK2OPXSGQTD3GU.jpg?auth=60ea9f1a295e2a5c0c3405ac9fe3fed7b3a3463c25e2a067a4638b2bbf90b852&width=760&height=507&smart=true",
+            "publishedAt": "2025-10-12T09:00:00Z"
+        },
+        {
+            "source": {
+                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+                "name": "Australian Financial Review",
+                "url": "https://www.afr.com",
+                "country": "au"
+            },
+            "title": "Australia’s cybersecurity chief warns of AI supercharging hacking",
+            "url": "https://www.afr.com/policy/foreign-affairs/cybersecurity-chief-warns-ai-powered-hacking-will-be-the-new-normal-20251012-p5n1tp",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.3104%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_540%2C$y_191/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/05128039b5345de663a3d76a0fc004df46e25b26",
+            "publishedAt": "2025-10-12T09:00:00Z"
+        },
+        {
+            "source": {
+                "id": "44d394a4e765f82b49b452e4302a72b0",
+                "name": "Business Standard",
+                "url": "https://www.business-standard.com",
+                "country": "in"
+            },
+            "title": "Irdai asks insurers, distributors to form fraud risk management framework",
+            "url": "https://www.business-standard.com/finance/insurance/irdai-fraud-risk-framework-insurers-reinsurers-cybersecurity-2026-125101200278_1.html",
+            "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-05/28/thumb/fitandfill/1200X630/1748455686-9871.jpg",
+            "publishedAt": "2025-10-12T08:32:09Z"
+        },
+        {
+            "source": {
+                "id": "da182982e3ceb53c6eb8df72aa2030c3",
+                "name": "Indiatimes",
+                "url": "https://www.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Who are Crimson Collective? Hackers behind the Nintendo data breach and Red Hat attack",
+            "url": "https://www.indiatimes.com/trending/who-are-crimson-collective-hackers-behind-the-nintendo-data-breach-and-red-hat-attack/articleshow/124497546.html",
+            "urlToImage": "https://www.indiatimes.com/thumb/124497632.cms?imgsize=28174&width=1280&height=720&resizemode=4",
+            "publishedAt": "2025-10-12T08:22:27Z"
+        },
         {
             "source": {
                 "id": "0d429ea54fdbe8e34c582aa31bc81aba",
@@ -123,6 +171,18 @@
         },
         {
             "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Edu system takes a giant leap with AI, robotics",
+            "url": "https://www.tribuneindia.com/news/himachal/edu-system-takes-a-giant-leap-with-ai-robotics/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWQ1MTU0YzYwLWE3MTUtMTFmMC04NjMyLTFiZGZhNzM3NzM5Zi5qcGc=",
+            "publishedAt": "2025-10-12T02:47:40Z"
+        },
+        {
+            "source": {
                 "id": "94466d37d8c67a438250646866df36df",
                 "name": "SBS Australia",
                 "url": "https://www.sbs.com.au",
@@ -156,6 +216,15 @@
             "url": "https://www.globenewswire.com/news-release/2025/10/12/3165235/0/en/EarlyHealth-Group-Acquires-CYB3R-Gulf-s-Fastest-Growing-Cybersecurity-Firm.html",
             "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/11f30a0e-e652-4c37-aac6-ed9d35f2eff9",
             "publishedAt": "2025-10-12T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "interestingengineering"
+            },
+            "title": "99% fidelity in quantum networking: US Researchers generate telecom-band entangled photons",
+            "url": "https://interestingengineering.com/innovation/telecom-band-entangled-photons",
+            "urlToImage": "https://cms.interestingengineering.com/wp-content/uploads/2025/10/Laser.jpg",
+            "publishedAt": "2025-10-12 08:42:54"
         },
         {
             "source": {
@@ -201,6 +270,15 @@
             "url": "https://www.theguardian.com/thefilter/2025/oct/12/do-you-need-new-laptop-how-to-get-the-most-out-of-current",
             "urlToImage": "https://i.guim.co.uk/img/media/1996a233eb72f1f3a73a319eeda070434d2ecae2/0_0_5000_4000/master/5000.jpg?crop=none&dpr=2&s=none&width=1300",
             "publishedAt": "2025-10-12 07:00:46"
+        },
+        {
+            "source": {
+                "name": "venturebeat"
+            },
+            "title": "Here's what's slowing down your AI strategy — and how to fix it",
+            "url": "https://venturebeat.com/ai/heres-whats-slowing-down-your-ai-strategy-and-how-to-fix-it",
+            "urlToImage": "https://images.ctfassets.net/jdtwqhzvc2n1/77WjI7ALpxOD2JSAUGMDRD/e938cb7b3827956c6043438c7af3f0d6/Velocity_gap.png",
+            "publishedAt": "2025-10-12 07:00:00"
         },
         {
             "source": {
@@ -3195,90 +3273,6 @@
             "url": "https://economictimes.indiatimes.com/nri/tcs-to-create-5000-jobs-in-the-uk-launches-ai-experience-zone-in-london/articleshow/124447907.cms",
             "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-58148,resizemode-75,msid-124447907/nri/tcs-to-create-5000-jobs-in-the-uk-launches-ai-experience-zone-in-london.jpg",
             "publishedAt": "2025-10-10T07:47:39Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Global financial watchdogs to ramp up monitoring of AI",
-            "url": "https://www.reuters.com/business/finance/global-financial-watchdogs-ramp-up-monitoring-ai-2025-10-10/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/PQYIATF5UZPSXNAVJN2WJ566YU.jpg?auth=3d8629660ffaba233494fe5a6e55925fb47f96766714eb989a001f90b6453459&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-10-10T07:46:36Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "AI's Growing Role in Finance: Risk or Opportunity?",
-            "url": "https://www.devdiscourse.com/article/technology/3659158-ais-growing-role-in-finance-risk-or-opportunity",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/26_04_2025_10_37_43_142393.png?width=920&format=jpeg",
-            "publishedAt": "2025-10-10T07:45:26Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "With AI slop on the rise, Elon Musk says Grok will soon detect deepfakes and track down their origin",
-            "url": "https://www.indiatoday.in/technology/news/story/with-ai-slop-on-the-rise-elon-musk-says-grok-will-soon-detect-deepfakes-and-track-down-their-origin-2800969-2025-10-10",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202510/elon-musk-044732475-16x9.png?VersionId=XyJCWi2xouKrOkKH6pvxsP9rMpC8nZIC",
-            "publishedAt": "2025-10-10T07:15:11Z"
-        },
-        {
-            "source": {
-                "id": "a6d401909ca644c4ffb332486c9cfaea",
-                "name": "Seeking Alpha",
-                "url": "https://seekingalpha.com",
-                "country": "us"
-            },
-            "title": "AI buzz powers SK Hynix and Samsung stock to record highs",
-            "url": "https://seekingalpha.com/news/4503193-ai-buzz-powers-sk-hynix-and-samsung-stock-to-record-highs",
-            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/944222540/image_944222540.jpg?io=getty-c-w750",
-            "publishedAt": "2025-10-10T06:48:50Z"
-        },
-        {
-            "source": {
-                "id": "28bc60a23a7bf89e60f893506992a3fe",
-                "name": "Daily Excelsior",
-                "url": "https://www.dailyexcelsior.com",
-                "country": "in"
-            },
-            "title": "Soon, Delhi residents can apply for birth, caste certificates on WhatsApp",
-            "url": "https://www.dailyexcelsior.com/soon-delhi-residents-can-apply-for-birth-caste-certificates-on-whatsapp/",
-            "urlToImage": "https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2022/10/WATSAPP.jpg",
-            "publishedAt": "2025-10-10T06:38:21Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "AI will reshape future of digital payments in India: Tanya Naik, Pine Labs",
-            "url": "https://www.tribuneindia.com/news/business/ai-will-reshape-future-of-digital-payments-in-india-tanya-naik-pine-labs/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWU5ZDQwN2IwLWE1YTEtMTFmMC04NjMyLTFiZGZhNzM3NzM5Zi5qcGc=",
-            "publishedAt": "2025-10-10T06:25:23Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "AI will reshape future of digital payments in India: Tanya Naik, Pine Labs",
-            "url": "https://www.lokmattimes.com/business/ai-will-reshape-future-of-digital-payments-in-india-tanya-naik-pine-labs/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20251010062039_202510.jpg",
-            "publishedAt": "2025-10-10T06:21:19Z"
         }
     ]
 }
