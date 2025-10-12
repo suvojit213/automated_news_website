@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-10-12T06:20:00.887304Z",
+    "lastUpdatedAt": "2025-10-12T07:13:04.301964Z",
     "articles": [
+        {
+            "source": {
+                "id": "a7cfbea87bc15750b7c5fd439a1ccb08",
+                "name": "Nep123.com",
+                "url": "https://nep123.com",
+                "country": "np"
+            },
+            "title": "Asia-Pacific Internet Governance Meet in Nepal",
+            "url": "https://nep123.com/asia-pacific-internet-governance-meet-in-nepal/",
+            "urlToImage": "https://nep123.com/wp-content/uploads/2025/09/basantapur_featured.jpg",
+            "publishedAt": "2025-10-11T18:50:30Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "The Current and Future State of LLMs: A Conversation with Boyan Wan",
+            "url": "https://techbullion.com/the-current-and-future-state-of-llms-a-conversation-with-boyan-wan/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/10/Screenshot-2025-10-11-114431.png",
+            "publishedAt": "2025-10-11T18:45:33Z"
+        },
+        {
+            "source": {
+                "id": "d5f1f8579b4e9b390feccfa1c0cf8028",
+                "name": "Arab News",
+                "url": "https://www.arabnews.com",
+                "country": "ar"
+            },
+            "title": "AI in modern life: a scientific revolution that must balance hope against risk",
+            "url": "https://www.arabnews.com/node/2618551",
+            "urlToImage": "https://www.arabnews.com/sites/default/files/authors/3790381-dya-eddinesaidbamakhrama2.png",
+            "publishedAt": "2025-10-11T18:26:32Z"
+        },
         {
             "source": {
                 "id": "c97ef3cad273a1993c998ca7ddcc5212",
@@ -756,6 +792,33 @@
             "url": "https://www.dailypioneer.com/2025/business/india-s-sovereign-ai-model-to-be--ready-by-february-meity-secy.html",
             "urlToImage": "https://www.dailypioneer.com/images/logo.jpg",
             "publishedAt": "2025-10-11T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Intel Panther Lake CPU: 50% Speed Gains, AI NPU, and Efficiency Boost",
+            "url": "https://www.webpronews.com/intel-panther-lake-cpu-50-speed-gains-ai-npu-and-efficiency-boost/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-6f848e9a-475b-49a5-9b25-a963de5eefa3.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-10-11 19:07:27"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "Artificial Intelligence in Healthcare 101: One Expert’s Perspective",
+            "url": "https://www.forbes.com/sites/sachinjain/2025/10/11/artificial-intelligence-in-healthcare-101-one-experts-perspective/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68eaa17c1b4aab9551db760b/0x0.jpg?width=960",
+            "publishedAt": "2025-10-11 18:37:35"
+        },
+        {
+            "source": {
+                "name": "xda_developers"
+            },
+            "title": "I thought SSD caching would speed up my NAS, but here's what actually helped",
+            "url": "https://www.xda-developers.com/ssd-caching-nas-performance-upgrades/",
+            "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2025/05/synology-ds925-plus-drives.jpg",
+            "publishedAt": "2025-10-11 18:31:19"
         },
         {
             "source": {
@@ -3228,60 +3291,6 @@
             "url": "https://www.usatoday.com/story/special/contributor-content/2025/10/10/from-robotics-to-crypto-how-brindal-patel-is-engineering-the-future-of-u-s-tech/86626950007/",
             "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/10/10/USAT/86626953007-img-5737.jpg?auto=webp&crop=1984%2C1116%2Cx0%2Cy114&format=pjpg&height=1116&width=1984",
             "publishedAt": "2025-10-10 17:34:25"
-        },
-        {
-            "source": {
-                "name": "androidheadlines"
-            },
-            "title": "Google Pixel 10 Pro Fold Review: The AI-Powered Foldable That Finally Gets It Right (Mostly)",
-            "url": "https://www.androidheadlines.com/google-pixel-10-pro-fold-review",
-            "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2025/10/Google-Pixel-10-Pro-Fold-AM-AH-33-1420x799.webp",
-            "publishedAt": "2025-10-10 17:09:52"
-        },
-        {
-            "source": {
-                "name": "pcworld_us"
-            },
-            "title": "ADT Smart Home Security System review: Smart home security",
-            "url": "https://www.pcworld.com/article/2929522/adt-smart-home-security-system-review.html",
-            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/10/ADT-Base.jpg?quality=50&strip=all",
-            "publishedAt": "2025-10-10 17:00:00"
-        },
-        {
-            "source": {
-                "name": "cornelledu"
-            },
-            "title": "New Faculty Andrew Owens Makes AI That Sees, Hears, and Feels",
-            "url": "https://tech.cornell.edu/news/andrew-owens-cornell-tech/",
-            "urlToImage": "https://tech.cornell.edu/wp-content/uploads/2025/10/TECH_20250709_037-2-450x300.jpg",
-            "publishedAt": "2025-10-10 16:59:40"
-        },
-        {
-            "source": {
-                "name": "businessinsider_us"
-            },
-            "title": "I attended a training session on how to raise AI-native kids. Parents — many of whom work in tech — were divided.",
-            "url": "https://www.businessinsider.com/ai-workshop-parenting-new-generation-kids-technology-chatgpt-gemini-exposure-2025-10",
-            "urlToImage": "https://i.insider.com/68e917b25dbc4fd10daa9c4d?width=700",
-            "publishedAt": "2025-10-10 16:58:19"
-        },
-        {
-            "source": {
-                "name": "thestatesman"
-            },
-            "title": "Sona Comstar ties up with Neura Of Germany to make robots and humanoids",
-            "url": "https://www.thestatesman.com/business/sona-comstar-ties-up-with-neura-of-germany-to-make-robots-and-humanoids-1503497648.html",
-            "urlToImage": "https://www.thestatesman.com/wp-content/uploads/2025/10/Untitled-design-44-4.webp",
-            "publishedAt": "2025-10-10 16:40:38"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "How Website Search Engines Work: A Guide to Understanding and Choosing the Right One for Your Needs",
-            "url": "https://techannouncer.com/how-website-search-engines-work-a-guide-to-understanding-and-choosing-the-right-one-for-your-needs/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/10/9e09aa2dthumbnail-332x187.jpeg",
-            "publishedAt": "2025-10-10 16:33:11"
         }
     ]
 }
