@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-10-13T05:16:15.777876Z",
+    "lastUpdatedAt": "2025-10-13T06:24:46.736142Z",
     "articles": [
+        {
+            "source": {
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
+                "country": "in"
+            },
+            "title": "Pact with Google on Vizag data centre will be signed in Delhi on October 14, says Andhra Pradesh Chief Minister Chandrababu Naidu",
+            "url": "https://www.thehindu.com/news/national/andhra-pradesh/pact-with-google-on-vizag-data-centre-will-be-signed-in-delhi-on-october-14-says-andhra-pradesh-chief-minister-chandrababu-naidu/article70156101.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/k7r2jz/article70156187.ece/alternates/LANDSCAPE_1200/IMG_naidu_vj-cabinet__7__2_1_LOF0SP7D.jpg",
+            "publishedAt": "2025-10-12T17:39:12Z"
+        },
         {
             "source": {
                 "id": "d409558fce7a4707e02365c77cc92dfc",
@@ -588,6 +600,15 @@
             "url": "https://www.globenewswire.com/news-release/2025/10/12/3165235/0/en/EarlyHealth-Group-Acquires-CYB3R-Gulf-s-Fastest-Growing-Cybersecurity-Firm.html",
             "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/11f30a0e-e652-4c37-aac6-ed9d35f2eff9",
             "publishedAt": "2025-10-12T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "thestreet"
+            },
+            "title": "Oracle’s AI empire runs on Nvidia, but the numbers don’t add up",
+            "url": "https://www.thestreet.com/investing/oracles-ai-empire-runs-on-nvidia-but-the-numbers-dont-add-up",
+            "urlToImage": "https://www.thestreet.com/.image/c_fit,h_800,w_1200/NDA6MDAwMDAwMDAyNzQzODQy/oracle_cp_101225.jpg",
+            "publishedAt": "2025-10-12 18:03:00"
         },
         {
             "source": {
@@ -3084,30 +3105,6 @@
             "url": "https://www.reuters.com/legal/government/new-york-court-system-sets-rules-ai-use-by-judges-staff-2025-10-10/",
             "urlToImage": "https://www.reuters.com/resizer/v2/SQUZXZF6CZMMTPIENRGTEBHGXM.jpg?auth=f4fdf86b19ee647ec415d1fa3c35b82eaf6f4422da7d57d8933252a7668d5619&height=1005&width=1920&quality=80&smart=true",
             "publishedAt": "2025-10-10T19:40:58Z"
-        },
-        {
-            "source": {
-                "id": "f5081afeaba654292dd91fffd29f9dd4",
-                "name": "The Globe and Mail",
-                "url": "https://www.theglobeandmail.com",
-                "country": "ca"
-            },
-            "title": "Artificial intelligence: the good, the bad and the ugly environmental costs",
-            "url": "https://www.theglobeandmail.com/business/commentary/article-artificial-intelligence-good-bad-ugly-environmental-costs/",
-            "urlToImage": "https://www.theglobeandmail.com/resizer/v2/OIC63BY3WRHTJMNBDBO7Y3K7XU.jpg?auth=c3fe2c326d377ac60b07a97917afc66f163a102a9f596190bc828ba477d287a9&width=1200&height=800&quality=80&smart=true",
-            "publishedAt": "2025-10-10T19:40:30Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Andhra Pradesh clinches $10 billion Google investment",
-            "url": "https://economictimes.indiatimes.com/news/india/andhra-pradesh-clinches-10-billion-google-investment/articleshow/124465791.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-124465802,width-1200,height-630,imgsize-66762,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2025-10-10T19:38:00Z"
         }
     ]
 }
