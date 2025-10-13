@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2025-10-12T23:13:06.250692Z",
+    "lastUpdatedAt": "2025-10-13T01:14:23.002414Z",
     "articles": [
+        {
+            "source": {
+                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+                "name": "NDTV.com",
+                "url": "https://www.ndtv.com",
+                "country": "in"
+            },
+            "title": "Top Court Judge Justice BV Nagarathna",
+            "url": "https://www.ndtv.com/india-news/legislating-deepfakes-artificial-intelligence-enabled-child-abuse-need-of-hour-top-court-judge-justice-bv-nagarathna-9441787",
+            "urlToImage": "https://c.ndtvimg.com/2025-09/dtu50u58_chief-justice-bv-nagarathna_625x300_04_September_25.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+            "publishedAt": "2025-10-12T12:34:40Z"
+        },
+        {
+            "source": {
+                "id": "99e7373ae0bd64167072ee76b85a79f3",
+                "name": "LADbible",
+                "url": "https://www.ladbible.com",
+                "country": "gb"
+            },
+            "title": "The 40 jobs ‘most at risk of being replaced by AI’",
+            "url": "https://www.ladbible.com/news/technology/ai-jobs-at-risk-technology-microsoft-405782-20251012",
+            "urlToImage": "https://images.ladbible.com/ogimage/v3/assets/bltcd74acc1d0a99f3a/blteda1e30bad079cab/68eb8b9c878ecf726c2b0631/artificial-intelligence-jobs-risk.jpg",
+            "publishedAt": "2025-10-12T12:02:20Z"
+        },
+        {
+            "source": {
+                "id": "8da923084554b2821233d6c5c5f02c97",
+                "name": "Fox News",
+                "url": "https://www.foxnews.com",
+                "country": "us"
+            },
+            "title": "Ethernet vs Wi-Fi security: Which internet connection is actually safer?",
+            "url": "https://www.foxnews.com/tech/ethernet-vs-wi-fi-security-comparison-reveals-surprising-results-home-users-seeking-protection",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/wifi-router-wireless-signal.jpg",
+            "publishedAt": "2025-10-12T12:00:40Z"
+        },
+        {
+            "source": {
+                "id": "18c2a6429621fbedc49891aa7c847ec6",
+                "name": "Gizmodo",
+                "url": "https://gizmodo.com",
+                "country": "us"
+            },
+            "title": "Scientists Just Took a Giant Step Toward Scaling Up Nuclear Fusion",
+            "url": "https://gizmodo.com/scientists-just-took-a-giant-step-toward-scaling-up-nuclear-fusion-2000670389",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/west-tokamak-iter-1200x675.jpg",
+            "publishedAt": "2025-10-12T12:00:05Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "Inside India’s quiet new export: human intelligence for artificial minds",
+            "url": "https://www.livemint.com/ai/indian-doctors-engineers-shaping-artificial-intelligence-ai-models-11760263818633.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2025/10/12/1600x900/People_training_AI_algos_1760264176060_1760264197493_1760264299559.jpeg",
+            "publishedAt": "2025-10-12T11:30:29Z"
+        },
         {
             "source": {
                 "id": "85e5403407038478a5e7d8d100ff8e8f",
@@ -276,6 +336,87 @@
             "url": "https://www.globenewswire.com/news-release/2025/10/12/3165235/0/en/EarlyHealth-Group-Acquires-CYB3R-Gulf-s-Fastest-Growing-Cybersecurity-Firm.html",
             "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/11f30a0e-e652-4c37-aac6-ed9d35f2eff9",
             "publishedAt": "2025-10-12T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "vice"
+            },
+            "title": "Microsoft Copilot Can Now Fly in the Right Seat of Your Google Account",
+            "url": "https://www.vice.com/en/article/microsoft-copilot-google-integration/",
+            "urlToImage": "https://www.vice.com/wp-content/uploads/sites/2/2025/10/Microsoft-Connectors.png?w=1024",
+            "publishedAt": "2025-10-12 13:12:13"
+        },
+        {
+            "source": {
+                "name": "techannouncer"
+            },
+            "title": "Master Python with freeCodeCamp’s Comprehensive Guides and Courses",
+            "url": "https://techannouncer.com/master-python-with-freecodecamps-comprehensive-guides-and-courses/",
+            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/10/2ac5b9d3thumbnail-332x187.jpeg",
+            "publishedAt": "2025-10-12 13:11:06"
+        },
+        {
+            "source": {
+                "name": "techannouncer"
+            },
+            "title": "Unlock the Power of Google AI Studio: Your Free Gateway to Gemini API",
+            "url": "https://techannouncer.com/unlock-the-power-of-google-ai-studio-your-free-gateway-to-gemini-api/",
+            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/10/8d1524cdthumbnail-332x187.jpeg",
+            "publishedAt": "2025-10-12 13:08:04"
+        },
+        {
+            "source": {
+                "name": "wired"
+            },
+            "title": "16 Best Laptops (2025), WIRED-Tested and Approved",
+            "url": "https://www.wired.com/gallery/best-laptops/",
+            "urlToImage": "https://media.wired.com/photos/67d04e1c38d5984f21140ee2/4:3/w_320,c_limit/Apple-MacBook-Air-13-Inch-M4-2025-(front-open-screen-desktop)-Reviewer-Photo-SOURCE-Brenda-Stolyar.jpg",
+            "publishedAt": "2025-10-12 13:00:00"
+        },
+        {
+            "source": {
+                "name": "digitaltrends"
+            },
+            "title": "I’m fed up of AI chatbots replacing customer service",
+            "url": "https://www.digitaltrends.com/computing/im-fed-up-of-ai-chatbots-replacing-customer-service/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/04/Opera-Aria-AI-chatbot-long-question-1-e1760118966305.jpg?p=1&resize=1200%2C630",
+            "publishedAt": "2025-10-12 13:00:00"
+        },
+        {
+            "source": {
+                "name": "ndtv"
+            },
+            "title": "Researchers Build Record 6,000-Qubit Quantum Machine That Works at Room Temperature",
+            "url": "https://www.gadgets360.com/science/news/quantum-record-shattered-scientists-build-6100-qubit-array-that-works-at-room-temperature-9417309",
+            "urlToImage": "https://i.gadgets360cdn.com/large/Untitled_design_1759916354626.jpg?downsize=950%3A%2A",
+            "publishedAt": "2025-10-12 12:41:12"
+        },
+        {
+            "source": {
+                "name": "thelincolnianonline"
+            },
+            "title": "Reviewing Elcom International (OTCMKTS:ELCO) & Cadence Design Systems (NASDAQ:CDNS)",
+            "url": "https://www.thelincolnianonline.com/2025/10/12/reviewing-elcom-international-otcmktselco-cadence-design-systems-nasdaqcdns.html",
+            "urlToImage": "https://www.marketbeat.com/logos/elcom-international-inc-logo-1200x675.png?v=20230125071359",
+            "publishedAt": "2025-10-12 12:08:47"
+        },
+        {
+            "source": {
+                "name": "denverpost"
+            },
+            "title": "Stricter visa rules have Colorado employers that rely on foreign workers scrambling",
+            "url": "https://www.denverpost.com/2025/10/12/h1b-visas-trump-immigration-colorado-employers/",
+            "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/10/TDP-L-FAGERBERG-PRODUCE_JAC5844.jpg?h=797&w=1024",
+            "publishedAt": "2025-10-12 12:00:38"
+        },
+        {
+            "source": {
+                "name": "zephyrnet"
+            },
+            "title": "Future Tech Forecasts",
+            "url": "https://zephyrnet.com/future-tech-forecasts/",
+            "urlToImage": "https://zephyrnet.com/wp-content/uploads/img-GRqTcriaSmPnOcuTb34zTyqy.png",
+            "publishedAt": "2025-10-12 11:52:13"
         },
         {
             "source": {
@@ -3057,174 +3198,6 @@
             "url": "https://www.thegatewaypundit.com/2025/10/handcuffs-letitia-james-years-mortgage-fraud-finally-catch/",
             "urlToImage": "https://www.thegatewaypundit.com/wp-content/uploads/2025/10/thumbnail.jpg",
             "publishedAt": "2025-10-10T13:00:19Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "TCS' AI-skilled workforce doubles to 1.6 lakh; 18,500 new hires in Q2 with focus on future-ready skills",
-            "url": "https://economictimes.indiatimes.com/markets/expert-view/tcs-ai-skilled-workforce-doubles-to-1-6-lakh-18500-new-hires-in-q2-with-focus-on-future-ready-skills/articleshow/124453937.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-124453952,width-1200,height-630,imgsize-24870,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2025-10-10T12:17:00Z"
-        },
-        {
-            "source": {
-                "id": "b33a42ef1c098421f66aad47a76d6a3c",
-                "name": "The Hindu",
-                "url": "https://www.thehindu.com",
-                "country": "in"
-            },
-            "title": "Establishing identity of cyber criminals remains a key challenge, says Union Home Secretary",
-            "url": "https://www.thehindu.com/news/national/kerala/establishing-identity-of-cyber-criminals-remains-a-key-challenge-says-union-home-secretary/article70147626.ece",
-            "urlToImage": "https://www.thehindu.com/theme/images/og-image.png",
-            "publishedAt": "2025-10-10T12:05:47Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Vijay Kedia-backed cybersecurity stock announces 1:1 bonus issue. Check details",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/vijay-kedia-backed-cybersecurity-stock-announces-11-bonus-issue-check-details/articleshow/124453274.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-124453257,width-1200,height-630,imgsize-38056,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2025-10-10T11:46:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Nvidia seeks alternative sites for its new Taiwan headquarters",
-            "url": "https://economictimes.indiatimes.com/tech/tech-bytes/nvidia-seeks-alternative-sites-for-its-new-taiwan-headquarters/articleshow/124453187.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-87680,resizemode-75,msid-124453187/tech/tech-bytes/nvidia-seeks-alternative-sites-for-its-new-taiwan-headquarters.jpg",
-            "publishedAt": "2025-10-10T11:42:35Z"
-        },
-        {
-            "source": {
-                "id": "1b697445987e8a33f6c82842e17d60d9",
-                "name": "Bnn Bloomberg",
-                "url": "https://www.bnnbloomberg.ca",
-                "country": "ca"
-            },
-            "title": "Global financial watchdogs to ramp up monitoring",
-            "url": "https://www.bnnbloomberg.ca/business/2025/10/10/global-financial-watchdogs-to-ramp-up-monitoring-of-ai/",
-            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/QFCYELDOU5R3ENTN5TB37U4UF4.jpg?smart=true&auth=9e1eeb97e3185bcae1cfcba90fe27f9458c56ede3cb6521116df507d1cd9e133&width=1200&height=630",
-            "publishedAt": "2025-10-10T11:36:37Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Nvidia seeks alternative sites for its new Taiwan headquarters",
-            "url": "https://www.tribuneindia.com/news/business/nvidia-seeks-alternative-sites-for-its-new-taiwan-headquarters/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTQ3NWU1YTkwLWE1Y2QtMTFmMC04NjMyLTFiZGZhNzM3NzM5Zi5qcGc=",
-            "publishedAt": "2025-10-10T11:35:48Z"
-        },
-        {
-            "source": {
-                "id": "aa569bbaa7b7ef97f7cf8df3cf902947",
-                "name": "Investor's Business Daily",
-                "url": "https://www.investors.com",
-                "country": "us"
-            },
-            "title": "AI Data Centers Continue To Fuel Builders. These Stocks Are In Buy Zones.",
-            "url": "https://www.investors.com/news/ai-data-centers-heavy-construction-stocks/",
-            "urlToImage": "https://www.investors.com/wp-content/uploads/2025/10/Stock-Crane-construct-adobe.jpg",
-            "publishedAt": "2025-10-10T11:29:44Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Cybersecurity Excellence: Highlights from LRQA at Cyber Security World Asia 2025",
-            "url": "https://www.devdiscourse.com/article/technology/3659462-cybersecurity-excellence-highlights-from-lrqa-at-cyber-security-world-asia-2025",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/20_05_2025_05_27_42_1846218.png?width=920&format=jpeg",
-            "publishedAt": "2025-10-10T11:27:48Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "SOC as a Service: Comprehensive 24/7 Threat Monitoring and Cybersecurity Protection for Your Business",
-            "url": "https://techbullion.com/soc-as-a-service-comprehensive-24-7-threat-monitoring-and-cybersecurity-protection-for-your-business/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/10/unnamed-2025-10-10T042501.237.png",
-            "publishedAt": "2025-10-10T11:25:59Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "LRQA Strengthens Cyber Resilience Conversations at Cyber Security World Asia 2025",
-            "url": "https://www.tribuneindia.com/news/business/lrqa-strengthens-cyber-resilience-conversations-at-cyber-security-world-asia-2025/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTVkZGExNDkwLWE1Y2MtMTFmMC04NjMyLTFiZGZhNzM3NzM5Zi5qcGc=",
-            "publishedAt": "2025-10-10T11:25:52Z"
-        },
-        {
-            "source": {
-                "id": "7eeaf9a839918543cc708f2d331c3be4",
-                "name": "Free Press Journal",
-                "url": "https://www.freepressjournal.in",
-                "country": "in"
-            },
-            "title": "Home Ministry Launches Winter Internship 2025 In Cyber Crime; Check Eligibility Criteria, Application Process",
-            "url": "https://www.freepressjournal.in/education/home-ministry-launches-winter-internship-2025-in-cyber-crime-check-eligibility-criteria-application-process",
-            "urlToImage": "https://media.assettype.com/freepressjournal/2025-10-10/sc2unome/Edu-2025-10-10T162749.907.jpg",
-            "publishedAt": "2025-10-10T11:25:08Z"
-        },
-        {
-            "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
-                "country": "in"
-            },
-            "title": "The Hallucination Problem With AI: Cross-Check Numbers During Research, Says Screener AI's Pratyush Mittal",
-            "url": "https://www.ndtvprofit.com/technology/the-hallucination-problem-with-ai-cross-check-numbers-during-research-says-screener-ais-pratyush-mittal",
-            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-10-10%2Fer1zpt0x%2F622fd4eb-fad7-45f9-8752-e4c41523fa20.jpg?rect=0%2C48%2C1280%2C672&w=1200&auto=format%2Ccompress&ogImage=true",
-            "publishedAt": "2025-10-10T11:23:49Z"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            },
-            "title": "Sam Altman-backed college startup taps former Meta AI head as CTO",
-            "url": "https://www.cnbc.com/2025/10/10/sam-altman-college-startup-campus-meta-ai.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108203075-1758667425880-gettyimages-2236544323-STARGATE_DATA_CENTER.jpeg?v=1758900553&w=1920&h=1080",
-            "publishedAt": "2025-10-10T11:22:03Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "Artificial intelligence to control traffic congestion in Rajasthan's Udaipur",
-            "url": "https://www.lokmattimes.com/technology/artificial-intelligence-to-control-traffic-congestion-in-rajasthans-udaipur-1/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202510103536580_202510.jpg",
-            "publishedAt": "2025-10-10T11:12:51Z"
         }
     ]
 }
