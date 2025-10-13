@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2025-10-13T19:11:55.640278Z",
+    "lastUpdatedAt": "2025-10-13T20:16:58.236274Z",
     "articles": [
+        {
+            "source": {
+                "id": "bc002b453215c04fa081a97f2c6679b9",
+                "name": "The Hacker News",
+                "url": "https://thehackernews.com",
+                "country": "us"
+            },
+            "title": "Beyond Tools: Why Testing Human Readiness is the Hidden Superpower of Modern Security Validation",
+            "url": "https://thehackernews.com/expert-insights/2025/10/beyond-tools-why-testing-human.html",
+            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd6NQ2-YjWWn56yxOZhz-It06w97FmIldsUFEgSyBIbzxBvPYVCnn_3LisEZKyo0ymhztpbdu5bf5JyisF4VvpEE4pNh5-UfvF704ZxfLhRRGr_tze7uqeSzk-QKMMrfnxLJ1wegbjcmygnEDrstSrgR4xRvUoCz3UP4eBcNbMPOm8sLIiN4tOy0QqhxE/s728-rw-e365/filigran-main.jpg",
+            "publishedAt": "2025-10-13T08:11:00Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Artificial Intelligence vs. Machine Learning: Which skills will open better career options in the global tech market?",
+            "url": "https://timesofindia.indiatimes.com/education/news/artificial-intelligence-vs-machine-learning-which-skills-will-open-better-career-options-in-the-global-tech-market/articleshow/124521180.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-124521210,width-1070,height-580,imgsize-108936,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-10-13T07:55:00Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "India’s Top AI Teams Redefine Excellence",
+            "url": "https://economictimes.indiatimes.com/ai/ai-insights/indias-ai-teams-redefine-excellence-at-the-et-ai-awards/articleshow/124520581.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-124520712,width-1200,height-630,imgsize-630854,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-10-13T07:41:00Z"
+        },
+        {
+            "source": {
+                "id": "e98e9648a83f865332ab00d9eab8cf1f",
+                "name": "Evening Standard",
+                "url": "https://www.standard.co.uk",
+                "country": "gb"
+            },
+            "title": "China poses threat to UK, minister says amid questions over spy case",
+            "url": "https://www.standard.co.uk/news/politics/china-keir-starmer-jonathan-powell-russia-beijing-b1252599.html",
+            "urlToImage": "https://static.standard.co.uk/2025/10/13/08/745b12f6f8bd6238e179d7369965b2f2Y29udGVudHNlYXJjaGFwaSwxNzYwNDI2NDc1-2.78321123.jpg?width=1200&auto=webp&quality=75",
+            "publishedAt": "2025-10-13T07:36:19Z"
+        },
+        {
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            },
+            "title": "What good is AI without skills? The human gap in India's digital future",
+            "url": "https://www.indiatoday.in/education-today/featurephilia/story/what-good-is-ai-without-skills-the-human-gap-in-indias-digital-future-2802237-2025-10-13",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202510/ai-upskilling-132809512-16x9_0.jpeg?VersionId=55mM_yIwrO5wLkvS.ZvpYnRPHjL3.2mA",
+            "publishedAt": "2025-10-13T07:31:29Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "Japan to promote domestic AI development for national security",
+            "url": "https://japantoday.com/category/tech/japan-to-promote-domestic-ai-development-for-national-security",
+            "urlToImage": "https://media.japantoday.com/img/store/e9/1c/4d6d6a4fb2ccdbba78129dd62c713cdc582b/istock-2196139559-1/_w1700.jpeg",
+            "publishedAt": "2025-10-13T07:28:04Z"
+        },
         {
             "source": {
                 "id": "c45dc51281d68ce51bff0cc4fe959bbf",
@@ -195,6 +267,18 @@
         },
         {
             "source": {
+                "id": "628299239469ffa8b7dbb809aabbcc2e",
+                "name": "Analytics India Magazine",
+                "url": "https://analyticsindiamag.com",
+                "country": "in"
+            },
+            "title": "GCCs Living on Borrowed Force, But for How Long",
+            "url": "https://analyticsindiamag.com/gcc/gccs-living-on-borrowed-force-but-for-how-long/",
+            "urlToImage": "https://analyticsindiamag.com/wp-content/uploads/2025/10/Shalini_GCCs-Living-on-Borrowed-Force-But-for-How-Long.jpg",
+            "publishedAt": "2025-10-13T03:30:00Z"
+        },
+        {
+            "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
                 "name": "The Manila Times",
                 "url": "https://www.manilatimes.net",
@@ -360,6 +444,51 @@
             "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1013038",
             "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1013038.g006&size=inline",
             "publishedAt": "2025-10-13T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "businessinsider_us"
+            },
+            "title": "In Big Tech's knotty game of AI Twister, what happens when a giant slips?",
+            "url": "https://www.businessinsider.com/big-techs-ai-love-fest-getting-messy-openai-oracle-2025-10",
+            "urlToImage": "https://i.insider.com/68e975141c1f80efbec569ba?width=700",
+            "publishedAt": "2025-10-13 08:11:01"
+        },
+        {
+            "source": {
+                "name": "economictimes_indiatimes"
+            },
+            "title": "MIT study reveals chilling cognitive cost of ChatGPT on children: What can parents do?",
+            "url": "https://economictimes.indiatimes.com/magazines/panache/mit-study-reveals-chilling-cognitive-cost-of-chatgpt-on-children-what-can-parents-do/articleshow/124528518.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-124528644,width-1200,height-630,imgsize-109238,overlay-etpanache/articleshow.jpg",
+            "publishedAt": "2025-10-13 08:07:17"
+        },
+        {
+            "source": {
+                "name": "rand"
+            },
+            "title": "Expanding U.S. Net Available Power Capacity by 2030",
+            "url": "https://www.rand.org/pubs/research_reports/RRA3845-2.html",
+            "urlToImage": "https://www.rand.org/content/rand/pubs/research_reports/RRA3845-2/_jcr_content/par/product.fit.264x264.jpeg/1759949625249.jpeg",
+            "publishedAt": "2025-10-13 08:00:00"
+        },
+        {
+            "source": {
+                "name": "techxplore"
+            },
+            "title": "Next-generation memory: Tungsten-based SOT-MRAM achieves nanosecond switching and low-power data storage",
+            "url": "https://techxplore.com/news/2025-10-generation-memory-tungsten-based-sot.html",
+            "urlToImage": "https://scx1.b-cdn.net/csz/news/tmb/2025/a-64-killobit-spin-orb-1.jpg",
+            "publishedAt": "2025-10-13 07:30:01"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Apple’s India Bet Pays Off: $10 Billion iPhone Exports in Just 6 Months!",
+            "url": "https://www.analyticsinsight.net/news/apples-india-bet-pays-off-10-billion-iphone-exports-in-just-6-months",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-10-13%2F66dtqko1%2FApple%E2%80%99s-India-Bet-Pays-Off-10-Billion-iPhone-Exports-in-Just-6-Months.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-10-13 07:20:17"
         },
         {
             "source": {
@@ -3087,114 +3216,6 @@
             "url": "https://www.channelnewsasia.com/wellness/ai-validation-healthy-5380506",
             "urlToImage": "https://dam.mediacorp.sg/image/upload/s--vq2EKUUj--/c_crop,h_1687,w_3000,x_0,y_1053/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2025/10/07/well_chatbots_oct1-0.jpg?itok=-l_d6C2r",
             "publishedAt": "2025-10-11 23:14:38"
-        },
-        {
-            "source": {
-                "name": "headtopics"
-            },
-            "title": "AI With Empathy For Humans",
-            "url": "https://us.headtopics.com/news/ai-with-empathy-for-humans-74264328",
-            "urlToImage": "https://i.headtopics.com/images/2025/10/10/cbsnews/human-heart-monitoring-devices-find-new-life-helpi-human-heart-monitoring-devices-find-new-life-helpi-8A34BFDF4B8981BE04FE64561D822922.webp?w=640",
-            "publishedAt": "2025-10-11 23:08:54"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Unveiling the Top Rated PC Games of All Time: A Definitive List",
-            "url": "https://techannouncer.com/unveiling-the-top-rated-pc-games-of-all-time-a-definitive-list/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/10/4e6be22cthumbnail-332x187.jpeg",
-            "publishedAt": "2025-10-11 22:26:12"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Qualcomm Snapdragon Outperforms Google Tensor in AI and Gaming Benchmarks",
-            "url": "https://www.webpronews.com/qualcomm-snapdragon-outperforms-google-tensor-in-ai-and-gaming-benchmarks/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-ea6394b5-291d-48da-8f11-fb5466f537e9.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-10-11 22:20:03"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "AI With Empathy For Humans",
-            "url": "https://www.forbes.com/sites/johnwerner/2025/10/11/ai-with-empathy-for-humans/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/658f05b4922105bbdbafb0f4/0x0.jpg?width=960",
-            "publishedAt": "2025-10-11 22:19:39"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Google’s Gemini AI Revolutionizes Maps, Android, and Lens: Podcast Dive",
-            "url": "https://www.webpronews.com/googles-gemini-ai-revolutionizes-maps-android-and-lens-podcast-dive/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-f10ec6ea-9bb7-4593-b804-6c1807437a83.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-10-11 22:13:05"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Rude Prompts to ChatGPT Boost Accuracy by 15-20%, Study Finds",
-            "url": "https://www.webpronews.com/rude-prompts-to-chatgpt-boost-accuracy-by-15-20-study-finds/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-be4dcf19-ac00-4351-9d81-90cd66a30210.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-10-11 21:53:45"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Samsung Unveils Galaxy AI Features in One UI 8.5 on Android 16",
-            "url": "https://www.webpronews.com/samsung-unveils-galaxy-ai-features-in-one-ui-8-5-on-android-16/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-4bae913b-7d6a-460c-ae5f-5f9bdd9ec8ac.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-10-11 21:53:28"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "RSA Encryption Evolves: Carmichael’s Function Boosts Efficiency and Security",
-            "url": "https://www.webpronews.com/rsa-encryption-evolves-carmichaels-function-boosts-efficiency-and-security/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-5868a350-71f5-42f3-8778-b43ec5df4948.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-10-11 21:31:50"
-        },
-        {
-            "source": {
-                "name": "andhrabhoomi"
-            },
-            "title": "Lokesh To Set Stone For World-Class Data Centre Hub In Vizag Today",
-            "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/lokesh-to-set-stone-for-world-class-data-centre-hub-in-vizag-today-1909558",
-            "urlToImage": "https://www.deccanchronicle.com/h-upload/2025/10/11/1966621-download-2025-10-12t024944005.jpg",
-            "publishedAt": "2025-10-11 21:21:50"
-        },
-        {
-            "source": {
-                "name": "headtopics"
-            },
-            "title": "These AI Traffic Stop Videos Are Equal Parts Hilarious And Terrifying",
-            "url": "https://us.headtopics.com/news/these-ai-traffic-stop-videos-are-equal-parts-hilarious-and-74261930",
-            "urlToImage": "https://i.headtopics.com/images/2025/10/9/denverchannel/fatal-crash-in-aurora-after-driver-flees-traffic-s-fatal-crash-in-aurora-after-driver-flees-traffic-s-64B5882DB80655DC1F527046CB2B18D1.webp?w=640",
-            "publishedAt": "2025-10-11 21:08:01"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Decoding Apple’s Next Update: When is the Latest iOS Release Expected?",
-            "url": "https://techannouncer.com/decoding-apples-next-update-when-is-the-latest-ios-release-expected/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/10/4937be89thumbnail-332x187.jpeg",
-            "publishedAt": "2025-10-11 20:58:11"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Unveiling the Top Tech YouTube Channels for 2025",
-            "url": "https://techannouncer.com/unveiling-the-top-tech-youtube-channels-for-2025/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/10/71ec1b1bthumbnail-332x187.jpeg",
-            "publishedAt": "2025-10-11 20:05:07"
         }
     ]
 }
