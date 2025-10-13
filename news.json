@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-10-13T08:22:29.099295Z",
+    "lastUpdatedAt": "2025-10-13T09:19:20.268063Z",
     "articles": [
+        {
+            "source": {
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
+            },
+            "title": "Insurers can raise Singapore’s cyber-security defence by providing data of ransomware attacks",
+            "url": "https://www.straitstimes.com/business/should-spore-compel-insurers-to-report-ransomware-incidents",
+            "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/b1dde745faa433012f72ddfd4e0f5f4530c87d0196f30db9e4919cf96238e79c",
+            "publishedAt": "2025-10-12T21:00:00Z"
+        },
         {
             "source": {
                 "id": "7006f2c40c7cc01195608dbfd60259b3",
@@ -672,6 +684,15 @@
             "url": "https://www.globenewswire.com/news-release/2025/10/12/3165235/0/en/EarlyHealth-Group-Acquires-CYB3R-Gulf-s-Fastest-Growing-Cybersecurity-Firm.html",
             "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/11f30a0e-e652-4c37-aac6-ed9d35f2eff9",
             "publishedAt": "2025-10-12T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "headtopics"
+            },
+            "title": "Insider details what we can expect in future Apple Airpods",
+            "url": "https://us.headtopics.com/news/insider-details-what-we-can-expect-in-future-apple-airpods-74295617",
+            "urlToImage": "https://i.headtopics.com/images/2025/10/11/mercnews/opinion-apple-s-translating-airpods-won-t-work-wit-opinion-apple-s-translating-airpods-won-t-work-wit-893E0162B6E19DF6BF75AE5212068DFF.webp?w=640",
+            "publishedAt": "2025-10-12 21:08:07"
         },
         {
             "source": {
@@ -3069,30 +3090,6 @@
             "url": "https://www.fool.com/investing/2025/10/11/supercharged-growth-stock-poised-to-hit-7-trillion/",
             "urlToImage": "https://g.foolcdn.com/image/?h=400&op=resize&url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F837305%2Fnvidia-headquarters-with-grey-nvidia-sign-in-front-with-nvidia-logo.png&w=400",
             "publishedAt": "2025-10-11 00:00:00"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Apple sued over use of copyrighted books to train Apple Intelligence",
-            "url": "https://www.thestar.com.my/tech/tech-news/2025/10/11/apple-sued-over-use-of-copyrighted-books-to-train-apple-intelligence",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/11/3565214.jpg",
-            "publishedAt": "2025-10-10T23:10:00Z"
-        },
-        {
-            "source": {
-                "id": "28bc60a23a7bf89e60f893506992a3fe",
-                "name": "Daily Excelsior",
-                "url": "https://www.dailyexcelsior.com",
-                "country": "in"
-            },
-            "title": "Prince Harry, Meghan Markle ask families to join fight against predatory social media policies",
-            "url": "https://www.dailyexcelsior.com/prince-harry-meghan-markle-ask-families-to-join-fight-against-predatory-social-media-policies/",
-            "urlToImage": "https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2025/10/20.jpg",
-            "publishedAt": "2025-10-10T22:54:26Z"
         }
     ]
 }
