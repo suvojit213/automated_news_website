@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-10-13T07:16:03.137337Z",
+    "lastUpdatedAt": "2025-10-13T08:22:29.099295Z",
     "articles": [
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "AI Promises Productivity. It's Delivering ‘Workslop’",
+            "url": "https://www.bloomberg.com/opinion/articles/2025-10-12/deloitte-ai-promises-productivity-it-s-delivering-workslop",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5MrVqi5Mrd0/v1/1200x808.jpg",
+            "publishedAt": "2025-10-12T20:00:10Z"
+        },
+        {
+            "source": {
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
+                "country": "us"
+            },
+            "title": "Oracle's Hype Machine Preps For AI World 2025",
+            "url": "https://www.benzinga.com/markets/tech/25/10/48167448/oracles-hype-machine-preps-for-ai-world-2025",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/10/12/Oracle.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2025-10-12T19:50:57Z"
+        },
         {
             "source": {
                 "id": "494f687bd1dfaa9f7b4a705c860671d0",
@@ -648,6 +672,24 @@
             "url": "https://www.globenewswire.com/news-release/2025/10/12/3165235/0/en/EarlyHealth-Group-Acquires-CYB3R-Gulf-s-Fastest-Growing-Cybersecurity-Firm.html",
             "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/11f30a0e-e652-4c37-aac6-ed9d35f2eff9",
             "publishedAt": "2025-10-12T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Elon Musk’s xAI is Creating AI-Generated Video Game Built on Nvidia’s World Model Tech",
+            "url": "https://www.analyticsinsight.net/news/elon-musks-xai-is-creating-ai-generated-video-game-built-on-nvidias-world-model-tech",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-02-06%2Fud8unkyp%2FElon-Musk-Tesla-SpaceX-xAI.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-10-12 20:00:00"
+        },
+        {
+            "source": {
+                "name": "universetoday"
+            },
+            "title": "Imaging Dark Matter One Clump at a Time",
+            "url": "https://www.universetoday.com/articles/imaging-dark-matter-one-clump-at-a-time",
+            "urlToImage": "https://www.universetoday.com/article_images/Dark_Mattter_20251012_195400.webp",
+            "publishedAt": "2025-10-12 19:54:21"
         },
         {
             "source": {
@@ -3051,54 +3093,6 @@
             "url": "https://www.dailyexcelsior.com/prince-harry-meghan-markle-ask-families-to-join-fight-against-predatory-social-media-policies/",
             "urlToImage": "https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2025/10/20.jpg",
             "publishedAt": "2025-10-10T22:54:26Z"
-        },
-        {
-            "source": {
-                "id": "28bc60a23a7bf89e60f893506992a3fe",
-                "name": "Daily Excelsior",
-                "url": "https://www.dailyexcelsior.com",
-                "country": "in"
-            },
-            "title": "TCS launches AI hub, design studio in London; to create 5,000 UK jobs in 3 years",
-            "url": "https://www.dailyexcelsior.com/tcs-launches-ai-hub-design-studio-in-london-to-create-5000-uk-jobs-in-3-years/",
-            "urlToImage": "https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2025/10/3-1.jpg",
-            "publishedAt": "2025-10-10T22:53:47Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Trump's Federal Layoff Strategy Amid Government Shutdown",
-            "url": "https://www.devdiscourse.com/article/politics/3660217-trumps-federal-layoff-strategy-amid-government-shutdown",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/10_10_2025_19_15_36_7010607.png?width=920&format=jpeg",
-            "publishedAt": "2025-10-10T22:33:06Z"
-        },
-        {
-            "source": {
-                "id": "d5a02d07558c5563d72576efc406e608",
-                "name": "ABC17News.com",
-                "url": "https://abc17news.com",
-                "country": "us"
-            },
-            "title": "Why is Nvidia, the world’s leading AI chipmaker, entangled in the US-China trade war?",
-            "url": "https://abc17news.com/money/cnn-business-consumer/2025/10/10/why-is-nvidia-the-worlds-leading-ai-chipmaker-entangled-in-the-us-china-trade-war/",
-            "urlToImage": "https://abc17news.b-cdn.net/abc17news.com/2025/10/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWdsYWhzeWgwMDAyM2I2bm1vMng2N2My-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtZ2t6b3U0bzAwM3oyNm5yaHZzamZxeHE-860x573.jpg",
-            "publishedAt": "2025-10-10T21:51:50Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Thales Calls for Liberalising FDI Regime in Defence: Patrice Caine",
-            "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2025/oct/11/satet-front/thales-calls-for-liberalising-fdi-regime-in-defence/articleshow/124466352.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-124467581,width-1200,height-630,imgsize-407314,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2025-10-10T21:46:00Z"
         }
     ]
 }
