@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2025-10-14T05:14:34.682744Z",
+    "lastUpdatedAt": "2025-10-14T06:23:31.119212Z",
     "articles": [
+        {
+            "source": {
+                "id": "4ce3819b1c9751d3ed773d7b33b5796f",
+                "name": "FreightWaves",
+                "url": "https://www.freightwaves.com",
+                "country": "us"
+            },
+            "title": "Technology at the crossroads: How AI and sustainability are transforming trucking",
+            "url": "https://www.freightwaves.com/news/technology-at-the-crossroads-how-ai-and-sustainability-are-transforming-trucking",
+            "urlToImage": "https://www.freightwaves.com/wp-content/uploads/2025/08/25/Highway8-26.jpg",
+            "publishedAt": "2025-10-13T18:14:04Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "French Army chief keen on Indian long-range weapons",
+            "url": "https://economictimes.indiatimes.com/news/defence/french-army-chief-keen-on-indian-long-range-weapons/articleshow/124534920.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-124534960,width-1200,height-630,imgsize-23204,overlay-etdefence/articleshow.jpg",
+            "publishedAt": "2025-10-13T18:13:00Z"
+        },
+        {
+            "source": {
+                "id": "933344203c2b862af768b5e662a162a4",
+                "name": "International Business Times",
+                "url": "https://www.ibtimes.com",
+                "country": "us"
+            },
+            "title": "California Enacts First US Law Requiring AI Chatbot Safety Measures",
+            "url": "https://www.ibtimes.com/california-enacts-first-us-law-requiring-ai-chatbot-safety-measures-3786781",
+            "urlToImage": "https://d.ibtimes.com/en/full/4628089/megan-garcia-hopes-landmark-california-law-establing-safeguards-ai-chatbots-will-prevent-further.jpg",
+            "publishedAt": "2025-10-13T18:10:17Z"
+        },
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "AI nutrition study finds 'five every day' may keep the doctor away",
+            "url": "https://medicalxpress.com/news/2025-10-ai-nutrition-day-doctor.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/ai-nutrition-study-fin.jpg",
+            "publishedAt": "2025-10-13T18:10:01Z"
+        },
+        {
+            "source": {
+                "id": "494f687bd1dfaa9f7b4a705c860671d0",
+                "name": "Hartford Courant",
+                "url": "https://www.courant.com",
+                "country": "us"
+            },
+            "title": "Gov. Newsom signs AI safety bill aimed at protecting children from chatbots",
+            "url": "https://www.courant.com/2025/10/13/gov-newsom-signs-ai-safety-bill-aimed-at-protecting-children-from-chatbots/",
+            "urlToImage": "https://www.courant.com/wp-content/uploads/2025/10/202510131344MCT_____PHOTO____BIZ-CPT-CALIF-AI-SAFETY-LAW-DMT.jpg?w=1024&h=682",
+            "publishedAt": "2025-10-13T17:44:00Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "GITEX 2025: Dubai Ruler Sheikh Mohammed inaugurates world’s largest tech and AI event",
+            "url": "https://timesofindia.indiatimes.com/world/middle-east/gitex-2025-dubai-ruler-sheikh-mohammed-inaugurates-worlds-largest-tech-and-ai-event/articleshow/124532078.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-124533466,width-1070,height-580,imgsize-1024146,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-10-13T17:30:00Z"
+        },
         {
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -1272,6 +1344,69 @@
             "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1013038",
             "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1013038.g006&size=inline",
             "publishedAt": "2025-10-13T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "biztoc"
+            },
+            "title": "Prediction: 2 Stocks That Will Be Worth More Than IonQ 5 Years From Now",
+            "url": "https://biztoc.com/x/60a20835a897dc69",
+            "urlToImage": "https://biztoc.com/cdn/950/og.png",
+            "publishedAt": "2025-10-13 18:13:45"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Apple Releases Third iPadOS 26.1 Beta with Multitasking Enhancements",
+            "url": "https://www.webpronews.com/apple-releases-third-ipados-26-1-beta-with-multitasking-enhancements/",
+            "urlToImage": "https://www.webpronews.com/apple-releases-third-ipados-26-1-beta-with-multitasking-enhancements/",
+            "publishedAt": "2025-10-13 18:10:20"
+        },
+        {
+            "source": {
+                "name": "startupnews"
+            },
+            "title": "ABB to develop next-generation AI data centres with Nvidia",
+            "url": "https://startupnews.fyi/2025/10/13/abb-to-develop-next-generation-ai-data-centres-with-nvidia/",
+            "urlToImage": "https://startupnews.fyi/wp-content/uploads/2025/10/abb-to-develop-next-generation-ai-data-centres-with-nvidia.jpg",
+            "publishedAt": "2025-10-13 17:45:03"
+        },
+        {
+            "source": {
+                "name": "wvnews"
+            },
+            "title": "JETNET to Launch Next-Generation AI Aviation Intelligence at NBAA-BACE 2025",
+            "url": "https://www.wvnews.com/news/around_the_web/partners/pr_newswire/subject/tradeshow_news/jetnet-to-launch-next-generation-ai-aviation-intelligence-at-nbaa-bace-2025/article_233eebae-62d0-55e2-9c22-53da36df5c23.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/assets/v3/editorial/d/2e/d2e1c112-5e50-512f-b08a-2d9e1bd8b0dc/68ed3afa3a627.image.jpg?resize=300%2C52",
+            "publishedAt": "2025-10-13 17:30:00"
+        },
+        {
+            "source": {
+                "name": "economictimes_indiatimes"
+            },
+            "title": "ABB to develop next-generation AI data centres with Nvidia",
+            "url": "http://economictimes.indiatimes.com/tech/artificial-intelligence/abb-to-develop-next-generation-ai-data-centres-with-nvidia/articleshow/124533433.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-58626,resizemode-75,msid-124533433/tech/artificial-intelligence/abb-to-develop-next-generation-ai-data-centres-with-nvidia.jpg",
+            "publishedAt": "2025-10-13 17:26:06"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "\"We Are Very Early in Our Work With LLMs,\" - Prem Ramaswami, Head of Data Commons at Google",
+            "url": "https://hackernoon.com/we-are-very-early-in-our-work-with-llms-prem-ramaswami-head-of-data-commons-at-google",
+            "urlToImage": "https://hackernoon.imgix.net/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-x303nfr.png",
+            "publishedAt": "2025-10-13 17:23:22"
+        },
+        {
+            "source": {
+                "name": "cnbc"
+            },
+            "title": "Quantum stocks surge after JPMorgan investing push into strategic tech",
+            "url": "https://www.cnbc.com/2025/10/13/quantum-stocks-jpmorgan-investing-push.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107300946-1694709033004-gettyimages-1347310377-79.jpeg?h=1080&v=1760368287&w=1920",
+            "publishedAt": "2025-10-13 17:18:15"
         },
         {
             "source": {
@@ -3090,123 +3225,6 @@
             "url": "https://www.universetoday.com/articles/imaging-dark-matter-one-clump-at-a-time",
             "urlToImage": "https://www.universetoday.com/article_images/Dark_Mattter_20251012_195400.webp",
             "publishedAt": "2025-10-12 19:54:21"
-        },
-        {
-            "source": {
-                "name": "venturebeat"
-            },
-            "title": "We keep talking about AI agents, but do we ever know what they are?",
-            "url": "https://venturebeat.com/ai/we-keep-talking-about-ai-agents-but-do-we-ever-know-what-they-are",
-            "urlToImage": "https://images.ctfassets.net/jdtwqhzvc2n1/5b0hTPUKh7PB9D7CfWwO22/3b31fdc3f95c670ce5096758d8760ccd/Agent_autonomy.png",
-            "publishedAt": "2025-10-12 19:00:00"
-        },
-        {
-            "source": {
-                "name": "thestreet"
-            },
-            "title": "Walmart is selling a 14-inch Lenovo business laptop for just $500 this week",
-            "url": "https://www.thestreet.com/deals/lenovo-v14-g4-iru-14-inch-work-laptop-october-walmart-deals-2025",
-            "urlToImage": "https://www.thestreet.com/.image/c_fit,h_800,w_1200/MjA5MjM4MDA1MjQyNjY4OTAw/onson-mopping-robot-vacuum-cleaner-walmart-sale.jpg",
-            "publishedAt": "2025-10-12 18:30:00"
-        },
-        {
-            "source": {
-                "name": "thestreet"
-            },
-            "title": "Oracle’s AI empire runs on Nvidia, but the numbers don’t add up",
-            "url": "https://www.thestreet.com/investing/oracles-ai-empire-runs-on-nvidia-but-the-numbers-dont-add-up",
-            "urlToImage": "https://www.thestreet.com/.image/c_fit,h_800,w_1200/NDA6MDAwMDAwMDAyNzQzODQy/oracle_cp_101225.jpg",
-            "publishedAt": "2025-10-12 18:03:00"
-        },
-        {
-            "source": {
-                "name": "daijiworld"
-            },
-            "title": "India's AI revolution gains momentum with $1.7 trillion potential by 2035",
-            "url": "https://daijiworld.com/news/newsDisplay?newsID=1294939",
-            "urlToImage": "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/rayan_12102025_AI.jpg",
-            "publishedAt": "2025-10-12 17:12:05"
-        },
-        {
-            "source": {
-                "name": "abc4"
-            },
-            "title": "How To Determine Engine Size From a VIN",
-            "url": "https://www.abc4.com/automotive/how-to-determine-engine-size-from-a-vin/",
-            "urlToImage": "https://www.abc4.com/wp-content/uploads/sites/4/2025/10/cars_california_ap_0824-e1661375582392.jpeg?w=900",
-            "publishedAt": "2025-10-12 17:02:22"
-        },
-        {
-            "source": {
-                "name": "kron4"
-            },
-            "title": "How To Determine Engine Size From a VIN",
-            "url": "https://www.kron4.com/automotive/how-to-determine-engine-size-from-a-vin/",
-            "urlToImage": "https://www.kron4.com/wp-content/uploads/sites/11/2025/10/cars_california_ap_0824-e1661375582392.jpeg?w=900",
-            "publishedAt": "2025-10-12 17:02:05"
-        },
-        {
-            "source": {
-                "name": "nwahomepage"
-            },
-            "title": "How To Determine Engine Size From a VIN",
-            "url": "https://www.nwahomepage.com/automotive/how-to-determine-engine-size-from-a-vin/",
-            "urlToImage": "https://www.nwahomepage.com/wp-content/uploads/sites/90/2025/10/cars_california_ap_0824-e1661375582392.jpeg?w=900",
-            "publishedAt": "2025-10-12 17:01:14"
-        },
-        {
-            "source": {
-                "name": "wsav"
-            },
-            "title": "How To Determine Engine Size From a VIN",
-            "url": "https://www.wsav.com/automotive/how-to-determine-engine-size-from-a-vin/",
-            "urlToImage": "https://www.wsav.com/wp-content/uploads/sites/75/2025/10/cars_california_ap_0824-e1661375582392.jpeg?w=900",
-            "publishedAt": "2025-10-12 17:00:58"
-        },
-        {
-            "source": {
-                "name": "wfla"
-            },
-            "title": "How To Determine Engine Size From a VIN",
-            "url": "https://www.wfla.com/automotive/how-to-determine-engine-size-from-a-vin/",
-            "urlToImage": "https://www.wfla.com/wp-content/uploads/sites/71/2025/10/cars_california_ap_0824-e1661375582392.jpeg?w=900",
-            "publishedAt": "2025-10-12 17:00:54"
-        },
-        {
-            "source": {
-                "name": "ktla"
-            },
-            "title": "How To Determine Engine Size From a VIN",
-            "url": "https://ktla.com/automotive/how-to-determine-engine-size-from-a-vin/",
-            "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2025/10/cars_california_ap_0824-e1661375582392.jpeg?w=900",
-            "publishedAt": "2025-10-12 17:00:30"
-        },
-        {
-            "source": {
-                "name": "kfor"
-            },
-            "title": "How To Determine Engine Size From a VIN",
-            "url": "https://kfor.com/automotive/how-to-determine-engine-size-from-a-vin/",
-            "urlToImage": "https://kfor.com/wp-content/uploads/sites/3/2025/10/cars_california_ap_0824-e1661375582392.jpeg?w=900",
-            "publishedAt": "2025-10-12 17:00:30"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Seattle Biotech Uses AI to Speed Up Drug Discovery Advances",
-            "url": "https://www.webpronews.com/seattle-biotech-uses-ai-to-speed-up-drug-discovery-advances/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-716159e7-8064-421e-b21d-bd0bf427c34d.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-10-12 17:00:00"
-        },
-        {
-            "source": {
-                "name": "in_ign"
-            },
-            "title": "Next-Gen Xbox Consoles Could be More Expensive Than PlayStation 6",
-            "url": "https://in.ign.com/xbox/243869/news/next-gen-xbox-consoles-could-be-more-expensive-than-playstation-6",
-            "urlToImage": "https://sm.ign.com/ign_in/news/x/xbox-conso/xbox-console-prices-are-going-up-in-the-usagain_gnc1.jpg",
-            "publishedAt": "2025-10-12 16:36:23"
         }
     ]
 }
