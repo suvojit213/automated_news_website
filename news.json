@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2025-10-14T18:22:23.751111Z",
+    "lastUpdatedAt": "2025-10-14T19:12:26.072196Z",
     "articles": [
+        {
+            "source": {
+                "id": "e479ce8332aab31d8bac6ba9584cedbb",
+                "name": "Republic World",
+                "url": "https://www.republicworld.com",
+                "country": "in"
+            },
+            "title": "Google announces $15 billion investment in AI data hub in Andhra Pradesh",
+            "url": "https://www.republicworld.com/tech/google-announces-15-billion-investment-in-ai-data-hub-in-andhra-pradesh",
+            "urlToImage": "https://img.republicworld.com/all_images/google-1760330347877-16_9.webp",
+            "publishedAt": "2025-10-14T07:11:49Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Citi rolls out generative AI in Malaysia to boost productivity and innovation",
+            "url": "https://www.thestar.com.my/business/business-news/2025/10/14/citi-rolls-out-generative-ai-in-malaysia-to-boost-productivity-and-innovation",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/14/3569883.jpeg",
+            "publishedAt": "2025-10-14T07:03:00Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "AI’s growth leaves financial regulators struggling to catch up",
+            "url": "https://www.thestar.com.my/tech/tech-news/2025/10/14/ais-growth-leaves-financial-regulators-struggling-to-catch-up",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/14/3569810.jpg",
+            "publishedAt": "2025-10-14T07:00:00Z"
+        },
+        {
+            "source": {
+                "id": "4b9101ef61d45607a32072a7504f5fb0",
+                "name": "The Japan Times ",
+                "url": "https://www.japantimes.co.jp",
+                "country": "jp"
+            },
+            "title": "CEATEC digital tech show kicks off near Tokyo",
+            "url": "https://www.japantimes.co.jp/business/2025/10/14/tech/ceatec-digital-tech-show/",
+            "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2025/10/14/499527.jpg?v=3.1",
+            "publishedAt": "2025-10-14T06:57:46Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Google to invest USD 15 billion in Visakhapatnam AI hub; Largest investment outside US",
+            "url": "https://www.tribuneindia.com/news/business/google-to-invest-usd-15-billion-in-visakhapatnam-ai-hub-largest-investment-outside-us/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWM1ODFlNTkwLWE4Y2EtMTFmMC04NjMyLTFiZGZhNzM3NzM5Zi5qcGc=",
+            "publishedAt": "2025-10-14T06:55:24Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Som Satsangi Joins Vehere's Board to Propel Cybersecurity Innovation",
+            "url": "https://www.devdiscourse.com/article/technology/3662667-som-satsangi-joins-veheres-board-to-propel-cybersecurity-innovation",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_00_46_5151186.jpg?width=920&format=jpeg",
+            "publishedAt": "2025-10-14T06:28:06Z"
+        },
+        {
+            "source": {
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
+                "country": "in"
+            },
+            "title": "Google’s new feature can help you bring down your makeup cost, and it’s not a filter",
+            "url": "https://www.hindustantimes.com/technology/googles-new-feature-can-help-you-bring-down-your-makeup-cost-and-it-s-not-a-filter-101760422916189.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/10/14/1600x900/Google_Search_1747649047266_1760422998671.jpg",
+            "publishedAt": "2025-10-14T06:27:48Z"
+        },
         {
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -252,6 +336,78 @@
             "url": "https://www.globenewswire.com/news-release/2025/10/14/3166574/0/en/Lynch-Carpenter-Investigates-Claims-in-PayActiv-Data-Breach.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/c7859457-8a76-48a5-b4e7-d3be8aa7a7a7",
             "publishedAt": "2025-10-14T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "en_prnasisa"
+            },
+            "title": "Toshiba First in Industry to Verify 12-Disk Stacking Technology for Hard Drives",
+            "url": "https://en.prnasia.com/story/507007-0.shtml",
+            "urlToImage": "https://mma.prnasia.com/media2/2479685/Toshiba_Logo_Red_RGB_Logo_Logo.jpg?p=medium600",
+            "publishedAt": "2025-10-14 07:08:00"
+        },
+        {
+            "source": {
+                "name": "prnewswire_apac"
+            },
+            "title": "Toshiba First in Industry to Verify 12-Disk Stacking Technology for Hard Drives",
+            "url": "https://www.prnewswire.com/apac/news-releases/toshiba-first-in-industry-to-verify-12-disk-stacking-technology-for-hard-drives-302583088.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2795493/TOSHIBA_12_disk_stacking_technology_image_logo_web.jpg?p=original",
+            "publishedAt": "2025-10-14 07:08:00"
+        },
+        {
+            "source": {
+                "name": "postregister"
+            },
+            "title": "Advantest Announces Call for Papers for VOICE 2026 Developer Conference in Scottsdale, Ariz.",
+            "url": "https://www.postregister.com/businessreport/technology/advantest-announces-call-for-papers-for-voice-2026-developer-conference-in-scottsdale-ariz/article_a561d974-8a2a-5068-b498-31f7db4f4b3e.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
+            "publishedAt": "2025-10-14 07:06:02"
+        },
+        {
+            "source": {
+                "name": "en_prnasisa"
+            },
+            "title": "SUNON Unveils Next-Generation Liquid Cooling Systems at OCP Global Summit 2025",
+            "url": "https://en.prnasia.com/story/507008-0.shtml",
+            "urlToImage": "https://mma.prnasia.com/media2/2795505/SUNON_Showcase_Liquid_Cooling_Solutions_OCP_Global_Summit_2025_Collaborating.jpg?p=medium600",
+            "publishedAt": "2025-10-14 07:06:00"
+        },
+        {
+            "source": {
+                "name": "prnewswire_apac"
+            },
+            "title": "SUNON Unveils Next-Generation Liquid Cooling Systems at OCP Global Summit 2025",
+            "url": "https://www.prnewswire.com/apac/news-releases/sunon-unveils-next-generation-liquid-cooling-systems-at-ocp-global-summit-2025-302583084.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2795505/SUNON_Showcase_Liquid_Cooling_Solutions_OCP_Global_Summit_2025_Collaborating.jpg?p=original",
+            "publishedAt": "2025-10-14 07:06:00"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "How Present Bias and Memorylessness Shape Miner Behavior in Blockchain Algorithms",
+            "url": "https://hackernoon.com/how-present-bias-and-memorylessness-shape-miner-behavior-in-blockchain-algorithms",
+            "urlToImage": "https://hackernoon.imgix.net/images/blockchain-kxq8ckl9u14udck4406o50vf.png",
+            "publishedAt": "2025-10-14 07:00:22"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Gcore Mitigates Record-Breaking 6 Tbps DDoS Attack",
+            "url": "https://www.analyticsinsight.net/press-release/gcore-mitigates-record-breaking-6-tbps-ddos-attack",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-10-14%2Feisth09j%2FGcore-1.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-10-14 07:00:00"
+        },
+        {
+            "source": {
+                "name": "republicworld"
+            },
+            "title": "Windows 10 Is Officially Dead—What to Do With Your PC Now",
+            "url": "https://www.republicworld.com/tech/windows-10-is-officially-deadwhat-to-do-with-your-pc-now",
+            "urlToImage": "https://img.republicworld.com/all_images/windows-10-1760425260390-16_9.webp?format=webp&h=225&q=75&w=400",
+            "publishedAt": "2025-10-14 06:59:36"
         },
         {
             "source": {
@@ -3033,141 +3189,6 @@
             "url": "https://www.benzinga.com/Opinion/25/10/48171622/yangtze-memory-secures-institutional-backing-ahead-of-an-expected-ipo",
             "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/10/13/YMTC-1010-900x600-1.png?auto=jpg&dpr=1&fit=crop&height=480&optimize=medium&width=720",
             "publishedAt": "2025-10-13 11:06:37"
-        },
-        {
-            "source": {
-                "name": "phys"
-            },
-            "title": "Climate tipping points sound scary, especially for ice sheets and oceans—why there's still room for optimism",
-            "url": "https://phys.org/news/2025-10-climate-scary-ice-sheets-oceans.html",
-            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2025/climate-tipping-points.jpg",
-            "publishedAt": "2025-10-13 11:05:05"
-        },
-        {
-            "source": {
-                "name": "cnet"
-            },
-            "title": "The DIY Cloud: How to Build Your Own Photo Storage and Ditch Subscriptions for Good",
-            "url": "https://www.cnet.com/tech/services-and-software/the-diy-cloud-how-to-build-your-own-photo-storage-and-ditch-subscriptions-for-good/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/64decfb3278c8e390414926a5c8e0e9b2cd10f78/hub/2025/09/26/9899b302-e818-493c-82b4-98d3207da23e/image-5.png?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-10-13 11:00:05"
-        },
-        {
-            "source": {
-                "name": "wired"
-            },
-            "title": "Programming in Assembly Is Brutal, Beautiful, and Maybe Even a Path to Better AI",
-            "url": "https://www.wired.com/story/programming-assembly-artificial-intelligence/",
-            "urlToImage": "https://media.wired.com/photos/68e6c45f693f7ce213ae491f/3:4/w_120,c_limit/MR%20011%20'Assembly%20Codes'.jpg",
-            "publishedAt": "2025-10-13 11:00:00"
-        },
-        {
-            "source": {
-                "name": "livescience"
-            },
-            "title": "$100,000 quadrillion asteroid Psyche may be the product of metal volcanoes, study hints",
-            "url": "https://www.livescience.com/space/asteroids/usd100-000-quadrillion-asteroid-psyche-may-be-the-product-of-metal-volcanoes-study-hints",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/J7AodqhZVM5EioRZpHWrHV-1280-80.jpg",
-            "publishedAt": "2025-10-13 11:00:00"
-        },
-        {
-            "source": {
-                "name": "thelincolnianonline"
-            },
-            "title": "Head-To-Head Survey: OBIC (OTCMKTS:OBIIF) vs. Cass Information Systems (NASDAQ:CASS)",
-            "url": "https://www.thelincolnianonline.com/2025/10/13/head-to-head-survey-obic-otcmktsobiif-vs-cass-information-systems-nasdaqcass.html",
-            "urlToImage": "https://www.marketbeat.com/logos/obic-coltd-logo-1200x675.png?v=20221104145809",
-            "publishedAt": "2025-10-13 10:54:51"
-        },
-        {
-            "source": {
-                "name": "pcquest"
-            },
-            "title": "Acer Iconia Tab iM10-22 Review: The Smart Budget Tablet That Gets the Basics Right",
-            "url": "https://www.pcquest.com/reviews/reviews/acer-iconia-tab-im10-22-review-the-smart-budget-tablet-that-gets-the-basics-right-10556487",
-            "urlToImage": "https://img-cdn.publive.online/pcq/media/media_files/2025/10/13/acer-iconia-im10-22-2025-10-13-15-52-42.jpg",
-            "publishedAt": "2025-10-13 10:54:38"
-        },
-        {
-            "source": {
-                "name": "newswise"
-            },
-            "title": "Two-Stage Deep Learning Boosts Crop Phenotyping Across Species",
-            "url": "https://www.newswise.com/articles/two-stage-deep-learning-boosts-crop-phenotyping-across-species/?sc=rssn",
-            "urlToImage": "https://www.newswise.com/legacy/image.php?height=334&image=%2Fimages%2Fuploads%2F2025%2F10%2F11%2F68ea06a942db9_3.png&width=502",
-            "publishedAt": "2025-10-13 10:53:03"
-        },
-        {
-            "source": {
-                "name": "thehansindia"
-            },
-            "title": "Ex-Apple CEO John Sculley: OpenAI Is Apple’s First Real Rival in Decades",
-            "url": "https://www.thehansindia.com/technology/tech-news/ex-apple-ceo-john-sculley-openai-is-apples-first-real-rival-in-decades-1014171",
-            "urlToImage": "https://assets.thehansindia.com/h-upload/2025/10/13/1592631-john-sculley.webp",
-            "publishedAt": "2025-10-13 10:11:11"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "From Research to Reality: Scaling AI Deployment for a Carbon-Light Future",
-            "url": "https://www.analyticsinsight.net/artificial-intelligence/from-research-to-reality-scaling-ai-deployment-for-a-carbon-light-future",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-10-13%2Fpk4q4kb0%2FUntitled-1.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-10-13 10:03:20"
-        },
-        {
-            "source": {
-                "name": "fortune"
-            },
-            "title": "Wall Street thinks China is winning Trump’s trade war",
-            "url": "https://fortune.com/2025/10/13/stocks-china-trump-trade-war/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/08/GettyImages-1212971284-e1754995152175.jpg?w=2048",
-            "publishedAt": "2025-10-13 10:01:58"
-        },
-        {
-            "source": {
-                "name": "cio"
-            },
-            "title": "How to futureproof your IT team in the AI era",
-            "url": "https://www.cio.com/article/4062363/how-to-futureproof-your-it-team-in-the-ai-era.html",
-            "urlToImage": "https://www.cio.com/wp-content/uploads/2025/10/4062363-0-00339900-1760349935-futureproof-your-IT-team-shutterstock_2688588735.jpg?quality=50&strip=all&w=1024",
-            "publishedAt": "2025-10-13 10:01:00"
-        },
-        {
-            "source": {
-                "name": "cnet"
-            },
-            "title": "Your Phone Signal Doesn't Have to Suck. Here's How to Fix It.",
-            "url": "https://www.cnet.com/tech/mobile/your-phone-signal-doesnt-have-to-suck-heres-how-to-fix-it/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/24edfef2e6fe61b075e86175aeaf2705d9d9cab4/hub/2025/10/04/9490db10-0c15-4803-9643-c70318307775/cellphone-signal-gettyimages-1207118933.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-10-13 10:00:07"
-        },
-        {
-            "source": {
-                "name": "scientificamerican"
-            },
-            "title": "2025 Nobel Prize Winners in Medicine, Physics and Chemistry Explained",
-            "url": "https://www.scientificamerican.com/podcast/episode/2025-nobel-prize-winners-in-medicine-physics-and-chemistry-explained/",
-            "urlToImage": "https://static.scientificamerican.com/dam/m/18d2de2fea1f5e8e/original/2510_SQ_MON_OCT_13_thumbnail.png?m=1760115143.267&w=1200",
-            "publishedAt": "2025-10-13 10:00:00"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "Apple could launch 3 new products with M5 chip this week — here’s what to expect",
-            "url": "https://www.tomsguide.com/computing/hardware/apple-could-launch-3-new-products-with-m5-chip-this-week-heres-what-to-expect",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/r8ST8CZwiGV7DHcb7bqqU9-1280-80.jpg",
-            "publishedAt": "2025-10-13 09:35:30"
-        },
-        {
-            "source": {
-                "name": "phys"
-            },
-            "title": "When minds align: A neural basis for flocking",
-            "url": "https://phys.org/news/2025-10-minds-align-neural-basis-flocking.html",
-            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2025/when-minds-align-a-neu.jpg",
-            "publishedAt": "2025-10-13 09:30:02"
         }
     ]
 }
