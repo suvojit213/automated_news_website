@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2025-10-14T21:13:17.132950Z",
+    "lastUpdatedAt": "2025-10-14T22:14:15.770758Z",
     "articles": [
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "Google to invest $15bn in India, build largest AI hub outside US",
+            "url": "https://www.thenews.com.pk/latest/1350957-google-to-invest-15bn-in-india-build-largest-ai-hub-outside-us",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/updates/2025-10-14/1350957_025544_updates.jpg",
+            "publishedAt": "2025-10-14T10:04:00Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "US senator seeks Commerce Department investigation into Megaspeed",
+            "url": "https://www.reuters.com/world/asia-pacific/us-senator-seeks-commerce-department-investigation-into-megaspeed-2025-10-14/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/GGE5ILN4FRPZHMMZ27MFAYJDGM.jpg?auth=7b2405ecd06f8278d7a0cbe09a30b8abf441451bb0389065f0daa29aec83f7e3&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-10-14T10:03:11Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Cybereason Said to Near Sale to LevelBlue",
+            "url": "https://www.bloomberg.com/news/articles/2025-10-14/mnuchin-backed-cybereason-said-to-near-sale-to-levelblue",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqJOpqfJqw_Y/v0/1200x800.jpg",
+            "publishedAt": "2025-10-14T10:00:21Z"
+        },
+        {
+            "source": {
+                "id": "85e5403407038478a5e7d8d100ff8e8f",
+                "name": "CP24 Toronto",
+                "url": "https://www.cp24.com",
+                "country": "ca"
+            },
+            "title": "AI has role to play in national-interest projects: proponents",
+            "url": "https://www.cp24.com/news/canada/2025/10/14/ai-has-role-to-play-in-speeding-up-national-interest-projects-proponents-say/",
+            "urlToImage": "https://www.cp24.com/resizer/v2/YATAOBTXBNAO5KTN63NL4IDIUE.jpg?smart=true&auth=3b773368f7b49c08a6a74908950bf750d11cd211d9de814480b5d9d82db273ab&width=1200&height=630",
+            "publishedAt": "2025-10-14T09:34:15Z"
+        },
+        {
+            "source": {
+                "id": "1b697445987e8a33f6c82842e17d60d9",
+                "name": "Bnn Bloomberg",
+                "url": "https://www.bnnbloomberg.ca",
+                "country": "ca"
+            },
+            "title": "AI has role to play in national-interest projects: proponents",
+            "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2025/10/14/ai-has-role-to-play-in-speeding-up-national-interest-projects-proponents-say/",
+            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/YATAOBTXBNAO5KTN63NL4IDIUE.jpg?smart=true&auth=3b773368f7b49c08a6a74908950bf750d11cd211d9de814480b5d9d82db273ab&width=1200&height=630",
+            "publishedAt": "2025-10-14T09:34:15Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "How AI is Shaping Personalized Language Learning Experiences",
+            "url": "https://techbullion.com/how-ai-is-shaping-personalized-language-learning-experiences/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/10/IMG_2475-1000x600.jpeg",
+            "publishedAt": "2025-10-14T09:31:03Z"
+        },
         {
             "source": {
                 "id": "7006f2c40c7cc01195608dbfd60259b3",
@@ -588,6 +660,108 @@
             "url": "https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001041",
             "urlToImage": "https://journals.plos.org/digitalhealth/article/figure/image?id=10.1371/journal.pdig.0001041.g012&size=inline",
             "publishedAt": "2025-10-14T00:00:00Z"
+        },
+        {
+            "source": {
+                "id": "f60b85dc559d286e4100ce1120d5caec",
+                "name": "PLOS (Public Library of Science)",
+                "url": "https://journals.plos.org",
+                "country": "us"
+            },
+            "title": "Unraveling the drivers of leptospirosis risk in Thailand using machine learning",
+            "url": "https://journals.plos.org/plosntds/article?id=10.1371%2Fjournal.pntd.0013618",
+            "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013618.g004&size=inline",
+            "publishedAt": "2025-10-14T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "menafn"
+            },
+            "title": "How Google's Mega AI Investment Could Transform India's IT Sector And Economy",
+            "url": "https://menafn.com/1110194646/How-Googles-Mega-AI-Investment-Could-Transform-Indias-IT-Sector-And-Economy",
+            "urlToImage": "https://menafn.com/updates/pr/2025-10/14/AN_878a9image_story.jpg",
+            "publishedAt": "2025-10-14 10:11:22"
+        },
+        {
+            "source": {
+                "name": "abplive"
+            },
+            "title": "Google, Adani Join Forces To Build India's Largest AI & Green Energy Hub In Visakhapatnam",
+            "url": "https://news.abplive.com/business/google-adani-join-forces-to-build-india-s-largest-ai-green-energy-hub-in-visakhapatnam-1806074",
+            "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2025/10/14/a7d7b5b09980fc5175578c07453690a41760435975268402_original.jpg",
+            "publishedAt": "2025-10-14 10:00:39"
+        },
+        {
+            "source": {
+                "name": "time"
+            },
+            "title": "At TIME100 Impact Dinner, AI Leaders Raise a Glass to Centering Humanity",
+            "url": "https://time.com/7322685/time100-ai-impact-dinner-center-humanity/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2025/10/GettyImages-2235121850-1-e1760433644273.jpg?h=675&w=1200",
+            "publishedAt": "2025-10-14 10:00:00"
+        },
+        {
+            "source": {
+                "name": "scientificamerican"
+            },
+            "title": "Why Building an Artificial Pancreas for People with Diabetes Is So Hard—And How Tech Is Finally Catching Up",
+            "url": "https://www.scientificamerican.com/article/why-building-an-artificial-pancreas-for-people-with-diabetes-is-so-hard-and/",
+            "urlToImage": "https://static.scientificamerican.com/dam/m/5361c3099bb4e1c4/original/saw1125Inno_Arno01.jpg?m=1759160749.655&w=1200",
+            "publishedAt": "2025-10-14 10:00:00"
+        },
+        {
+            "source": {
+                "name": "technologyreview"
+            },
+            "title": "Can we repair the internet?",
+            "url": "https://www.technologyreview.com/2025/10/14/1125104/internet-improvement-book-review-regulation-user-responsibility/",
+            "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2025/10/Davis_Internet_Final.jpg",
+            "publishedAt": "2025-10-14 10:00:00"
+        },
+        {
+            "source": {
+                "name": "cision"
+            },
+            "title": "Hyperscale Data Progresses Toward 100% Bitcoin Pairing as Digital Asset Treasury Climbs to $54 Million",
+            "url": "https://www.prnewswire.com/news-releases/hyperscale-data-progresses-toward-100-bitcoin-pairing-as-digital-asset-treasury-climbs-to-54-million-302582756.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2734592/Hyperscale_Data_Inc_Blue_Stacked_Logo.jpg?p=original",
+            "publishedAt": "2025-10-14 10:00:00"
+        },
+        {
+            "source": {
+                "name": "wvnews"
+            },
+            "title": "AP Technology SummaryBrief at 5:58 a.m. EDT",
+            "url": "https://www.wvnews.com/business/ap-technology-summarybrief-at-5-58-a-m-edt/article_6f3e4635-e21d-512f-b820-44d8a6ee5622.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/custom/image/dd23b0fa-a76a-11ea-b298-6f7943d03f88.jpg",
+            "publishedAt": "2025-10-14 09:58:57"
+        },
+        {
+            "source": {
+                "name": "computerweekly"
+            },
+            "title": "Value-based contracts: A Computer Weekly Downtime Upload podcast",
+            "url": "https://www.computerweekly.com/podcast/Value-based-contracts-A-Computer-Weekly-Downtime-Upload-podcast",
+            "urlToImage": "https://www.computerweekly.com/rms/onlineimages/ai_a373894778_searchsitetablet_520X173.jpg",
+            "publishedAt": "2025-10-14 09:56:00"
+        },
+        {
+            "source": {
+                "name": "geeky_gadgets"
+            },
+            "title": "Inside OpenAI & Broadcom’s Bold Partnership : New AI Chips Announced",
+            "url": "https://www.geeky-gadgets.com/openai-broadcom-partnership-ai-chips/",
+            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/10/openai-broadcom-partnership-ai-chips_optimized.webp",
+            "publishedAt": "2025-10-14 09:55:12"
+        },
+        {
+            "source": {
+                "name": "newsable_asianetnews"
+            },
+            "title": "Alphabet Stock Falls 1% Premarket: Google’s $15B AI Push In India Marks Its Largest Bet Yet On The Country",
+            "url": "https://newsable.asianetnews.com/markets/alphabet-stock-falls-1-premarket-google-s-15b-ai-push-in-india-marks-its-largest-bet-yet-on-the-country-articleshow-itq6ux0",
+            "urlToImage": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-508c27cf-ad71-4db2-be28-a068d641629b.webp",
+            "publishedAt": "2025-10-14 09:51:55"
         },
         {
             "source": {
@@ -3099,159 +3273,6 @@
             "url": "https://www.fastcompany.com/91421168/openai-partners-with-broadcom-to-make-an-ideal-ai-chip-and-get-distance-from-nvidia",
             "urlToImage": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2025/10/p-1-91421168-openai-partners-with-broadcom-to-make-an-ideal-ai-chip-and-get-distance-from-nvidia.jpg",
             "publishedAt": "2025-10-13 18:54:20"
-        },
-        {
-            "source": {
-                "name": "cnet"
-            },
-            "title": "It's Easy to Get Free Extended Security Updates for Windows 10. Just Do This One Thing",
-            "url": "https://www.cnet.com/tech/computing/its-easy-to-get-free-extended-security-updates-for-windows-10-just-do-this-one-thing/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/965b4df0b87b04c09c5b4f96b62a785f22b0ebda/hub/2025/05/22/a1523585-f6c5-4a59-9415-def46228e9f0/here-are-your-options-if-youre-running-windows-10-and-cant-upgrade-tg.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-10-13 18:28:58"
-        },
-        {
-            "source": {
-                "name": "news_nau"
-            },
-            "title": "NAU team using citizens scientists to collect crucial data with AI-enabled mobile traffic app",
-            "url": "https://news.nau.edu/traffic-app/",
-            "urlToImage": "https://news.nau.edu/wordpress/wp-content/uploads/2025/10/Traffic-app.jpeg",
-            "publishedAt": "2025-10-13 18:24:51"
-        },
-        {
-            "source": {
-                "name": "robotics247"
-            },
-            "title": "Jabil launches J-422G servers for scalable AI and data center performance",
-            "url": "https://www.robotics247.com/article/jabil_launches_j_422g_servers_for_scalable_ai_and_data_center_performance",
-            "urlToImage": "https://www.robotics247.com/images/2025_article/Jabil-J-422G-server-processor-OCP-Robotics247-2025.jpg",
-            "publishedAt": "2025-10-13 18:24:00"
-        },
-        {
-            "source": {
-                "name": "qconline"
-            },
-            "title": "Upskilling for the AI Era: What Job Seekers Should Learn",
-            "url": "https://qconline.com/exclusive/article_7d36a0ee-1b22-56a8-9460-f20697287deb.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/qconline.com/content/tncms/assets/v3/editorial/2/e4/2e44e652-fc59-57b1-b98c-60bdd730f9a6/68ed43e4cdeef.image.png",
-            "publishedAt": "2025-10-13 18:24:00"
-        },
-        {
-            "source": {
-                "name": "biztoc"
-            },
-            "title": "Prediction: 2 Stocks That Will Be Worth More Than IonQ 5 Years From Now",
-            "url": "https://biztoc.com/x/60a20835a897dc69",
-            "urlToImage": "https://biztoc.com/cdn/950/og.png",
-            "publishedAt": "2025-10-13 18:13:45"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Apple Releases Third iPadOS 26.1 Beta with Multitasking Enhancements",
-            "url": "https://www.webpronews.com/apple-releases-third-ipados-26-1-beta-with-multitasking-enhancements/",
-            "urlToImage": "https://www.webpronews.com/apple-releases-third-ipados-26-1-beta-with-multitasking-enhancements/",
-            "publishedAt": "2025-10-13 18:10:20"
-        },
-        {
-            "source": {
-                "name": "startupnews"
-            },
-            "title": "ABB to develop next-generation AI data centres with Nvidia",
-            "url": "https://startupnews.fyi/2025/10/13/abb-to-develop-next-generation-ai-data-centres-with-nvidia/",
-            "urlToImage": "https://startupnews.fyi/wp-content/uploads/2025/10/abb-to-develop-next-generation-ai-data-centres-with-nvidia.jpg",
-            "publishedAt": "2025-10-13 17:45:03"
-        },
-        {
-            "source": {
-                "name": "wvnews"
-            },
-            "title": "JETNET to Launch Next-Generation AI Aviation Intelligence at NBAA-BACE 2025",
-            "url": "https://www.wvnews.com/news/around_the_web/partners/pr_newswire/subject/tradeshow_news/jetnet-to-launch-next-generation-ai-aviation-intelligence-at-nbaa-bace-2025/article_233eebae-62d0-55e2-9c22-53da36df5c23.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/assets/v3/editorial/d/2e/d2e1c112-5e50-512f-b08a-2d9e1bd8b0dc/68ed3afa3a627.image.jpg?resize=300%2C52",
-            "publishedAt": "2025-10-13 17:30:00"
-        },
-        {
-            "source": {
-                "name": "economictimes_indiatimes"
-            },
-            "title": "ABB to develop next-generation AI data centres with Nvidia",
-            "url": "http://economictimes.indiatimes.com/tech/artificial-intelligence/abb-to-develop-next-generation-ai-data-centres-with-nvidia/articleshow/124533433.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-58626,resizemode-75,msid-124533433/tech/artificial-intelligence/abb-to-develop-next-generation-ai-data-centres-with-nvidia.jpg",
-            "publishedAt": "2025-10-13 17:26:06"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "\"We Are Very Early in Our Work With LLMs,\" - Prem Ramaswami, Head of Data Commons at Google",
-            "url": "https://hackernoon.com/we-are-very-early-in-our-work-with-llms-prem-ramaswami-head-of-data-commons-at-google",
-            "urlToImage": "https://hackernoon.imgix.net/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-x303nfr.png",
-            "publishedAt": "2025-10-13 17:23:22"
-        },
-        {
-            "source": {
-                "name": "cnbc"
-            },
-            "title": "Quantum stocks surge after JPMorgan investing push into strategic tech",
-            "url": "https://www.cnbc.com/2025/10/13/quantum-stocks-jpmorgan-investing-push.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107300946-1694709033004-gettyimages-1347310377-79.jpeg?h=1080&v=1760368287&w=1920",
-            "publishedAt": "2025-10-13 17:18:15"
-        },
-        {
-            "source": {
-                "name": "pcworld_us"
-            },
-            "title": "Beatbot AquaSense 2 Ultra review: A robotic pool cleaner like no other",
-            "url": "https://www.pcworld.com/article/2935539/beatbot-aquasense-2-ultra-review.html",
-            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/10/Beatbot-Aquasense-2-Ultra-in-the-pool.jpg?quality=50&strip=all",
-            "publishedAt": "2025-10-13 17:00:00"
-        },
-        {
-            "source": {
-                "name": "wvnews"
-            },
-            "title": "Fabric8Labs to Showcase Advanced ECAM Cold Plate Solutions with Wiwynn at OCP Global Summit 2025",
-            "url": "https://www.wvnews.com/news/around_the_web/partners/pr_newswire/subject/tradeshow_news/fabric8labs-to-showcase-advanced-ecam-cold-plate-solutions-with-wiwynn-at-ocp-global-summit-2025/article_f466a773-da6a-52c4-99bf-f6b775157f08.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/assets/v3/editorial/b/6d/b6d6a211-c3ae-5ed7-9f57-a046653b2b89/68ed33d06b7ac.image.jpg?resize=300%2C225",
-            "publishedAt": "2025-10-13 17:00:00"
-        },
-        {
-            "source": {
-                "name": "wvnews"
-            },
-            "title": "InPsytech showcases 3nm UCIe 3.0 technology at OCP 2025, Accelerating Innovation in Chiplet Ecosystem",
-            "url": "https://www.wvnews.com/news/around_the_web/partners/pr_newswire/subject/tradeshow_news/inpsytech-showcases-3nm-ucie-3-0-technology-at-ocp-2025-accelerating-innovation-in-chiplet-ecosystem/article_e7495a22-5e0c-54df-b976-5caa99cad972.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/custom/image/dd23b0fa-a76a-11ea-b298-6f7943d03f88.jpg",
-            "publishedAt": "2025-10-13 16:32:00"
-        },
-        {
-            "source": {
-                "name": "onmsft"
-            },
-            "title": "OpenAI and Broadcom Ink 10GW Chip Deal to Power Next-Gen AI Systems",
-            "url": "https://windowsreport.com/openai-and-broadcom-ink-10gw-chip-deal-to-power-next-gen-ai-systems/",
-            "urlToImage": "https://windowsreport.com/wp-content/uploads/2025/10/OpenAI-Broadcom-Deal-700x410.png",
-            "publishedAt": "2025-10-13 16:31:08"
-        },
-        {
-            "source": {
-                "name": "andhrabhoomi"
-            },
-            "title": "OpenAI Partners With Broadcom To Design Its Own AI Chips",
-            "url": "https://www.deccanchronicle.com/business/companies/openai-partners-with-broadcom-to-design-its-own-ai-chips-1909912",
-            "urlToImage": "https://www.deccanchronicle.com/h-upload/2025/09/13/1957466-openai.jpg",
-            "publishedAt": "2025-10-13 16:24:11"
-        },
-        {
-            "source": {
-                "name": "astrobiology"
-            },
-            "title": "The Origin of Biomolecular Homochirality",
-            "url": "https://astrobiology.com/2025/10/the-origin-of-biomolecular-homochirality.html",
-            "urlToImage": "https://astrobiology.com/wp-content/uploads/2025/10/The-Origin-of-Biomolecular.png",
-            "publishedAt": "2025-10-13 16:23:31"
         }
     ]
 }
