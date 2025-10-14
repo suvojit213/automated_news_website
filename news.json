@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-10-14T10:16:23.896320Z",
+    "lastUpdatedAt": "2025-10-14T11:12:44.717839Z",
     "articles": [
+        {
+            "source": {
+                "id": "109f2b4a20da4fe1c2fd502b03c07243",
+                "name": "BBC News",
+                "url": "https://www.bbc.com",
+                "country": "gb"
+            },
+            "title": "Why AI is being trained in rural India",
+            "url": "https://www.bbc.com/news/articles/cqjevxvxw9xo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3d01/live/f5406ab0-9923-11f0-928c-71dbb8619e94.jpg",
+            "publishedAt": "2025-10-13T23:11:46Z"
+        },
+        {
+            "source": {
+                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+                "name": "NDTV.com",
+                "url": "https://www.ndtv.com",
+                "country": "in"
+            },
+            "title": "Nobel Economist Warns Of AI Dangers",
+            "url": "https://www.ndtv.com/world-news/nobel-economist-warns-of-ai-dangers-9449943",
+            "urlToImage": "https://c.ndtvimg.com/2025-10/uqd52ul8_peter-howitt_625x300_14_October_25.jpeg",
+            "publishedAt": "2025-10-13T23:08:43Z"
+        },
         {
             "source": {
                 "id": "6cbe6dbb9a62f9b5a7d4770ab77a9ad4",
@@ -1587,6 +1611,33 @@
         },
         {
             "source": {
+                "name": "venturebeat"
+            },
+            "title": "Self-improving language models are becoming reality with MIT's updated SEAL technique",
+            "url": "https://venturebeat.com/ai/self-improving-language-models-are-becoming-reality-with-mits-updated-seal",
+            "urlToImage": "https://images.ctfassets.net/jdtwqhzvc2n1/4816Y0YfsXKIENLGFsuaG6/a4620bd99d25c8fe32ab054bd16ff390/cfr0z3n_a_cybernetic_seal_looks_up_with_cute_alert_eyes_under_a_a6f43d56-7792-4d4f-bc1e-18b6dd2f5e4e.png",
+            "publishedAt": "2025-10-13 22:51:00"
+        },
+        {
+            "source": {
+                "name": "venturebeat"
+            },
+            "title": "Researchers find that retraining only small parts of AI models can cut costs and prevent forgetting",
+            "url": "https://venturebeat.com/ai/researchers-find-that-retraining-only-small-parts-of-ai-models-can-cut-costs",
+            "urlToImage": "https://images.ctfassets.net/jdtwqhzvc2n1/wvhlzgUGzNikEzmtJxvNB/ed69fb909b090e1e7e6b81ff61abf8b0/crimedy7_illustration_of_a_sculptor_creating_a_robot_from_a_p_501bf165-0b44-4bb1-9608-1025a42400b7_1.png",
+            "publishedAt": "2025-10-13 22:39:00"
+        },
+        {
+            "source": {
+                "name": "siliconangle"
+            },
+            "title": "Nvidia unveils its vision for gigawatt ‘AI factories’ based on its Vera Rubin architecture",
+            "url": "https://siliconangle.com/2025/10/13/nvidia-unveils-vision-gigawatt-ai-factories-based-vera-rubin-architecture/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/10/Screenshot-from-2025-10-13-09-13-33.png",
+            "publishedAt": "2025-10-13 22:30:48"
+        },
+        {
+            "source": {
                 "name": "forbes"
             },
             "title": "AI Platform Resurrects Ancient Rome And Greece Using Scholarly Sources",
@@ -3117,66 +3168,6 @@
             "url": "https://markets.businessinsider.com/news/stocks/leonardo-drs-announces-the-launch-of-sagecore-1035328398",
             "urlToImage": "https://markets.businessinsider.com/favicon-32x32.png",
             "publishedAt": "2025-10-12T15:35:04Z"
-        },
-        {
-            "source": {
-                "id": "df629db3114c958c28ad4d39b3d50ec1",
-                "name": "Greensboro News & Record",
-                "url": "https://greensboro.com",
-                "country": "us"
-            },
-            "title": "Financial institutions sound warning about AI bubble",
-            "url": "https://greensboro.com/news/nation-world/business/article_85d6bad5-a6b6-53be-8bfe-631fe962431d.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/assets/v3/editorial/8/5d/85d6bad5-a6b6-53be-8bfe-631fe962431d/68e9362938406.preview.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
-            "publishedAt": "2025-10-12T15:30:00Z"
-        },
-        {
-            "source": {
-                "id": "9af43a2802617b590f4e74738cf61a47",
-                "name": "Press of Atlantic City",
-                "url": "https://pressofatlanticcity.com",
-                "country": "us"
-            },
-            "title": "Financial institutions sound warning about AI bubble",
-            "url": "https://pressofatlanticcity.com/news/nation-world/business/article_4f880d9d-99ff-52db-8918-afe62a451d45.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/assets/v3/editorial/4/f8/4f880d9d-99ff-52db-8918-afe62a451d45/68e93629caa60.preview.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
-            "publishedAt": "2025-10-12T15:30:00Z"
-        },
-        {
-            "source": {
-                "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
-                "name": "Fortune",
-                "url": "https://fortune.com",
-                "country": "us"
-            },
-            "title": "'You feel kind of forgotten': Meet a California pipe fitter who got to $118k earnings after a decade but doesn't know what's next after the refinery shuts down",
-            "url": "https://fortune.com/2025/10/12/feel-kind-of-forgotten-oil-industry-california-workers-face-refinery-shut-down/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/AP25283205124185-e1760282446488.jpg?resize=1200,600",
-            "publishedAt": "2025-10-12T15:24:27Z"
-        },
-        {
-            "source": {
-                "id": "09131c39169c9c96230862dc4c1fa727",
-                "name": "CNA",
-                "url": "https://www.channelnewsasia.com",
-                "country": "sg"
-            },
-            "title": "Using AI as a 'second pair of eyes' to detect breast cancer earlier and more accurately",
-            "url": "https://www.channelnewsasia.com/watch/using-ai-second-pair-eyes-detect-breast-cancer-earlier-and-more-accurately-5397236",
-            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--OWDu34Ze--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2025/10/12/1760280133-image.jpg?itok=TiU0ce4a",
-            "publishedAt": "2025-10-12T14:49:36Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "AI could add $1.7 trillion to India’s economy by 2035: Govt",
-            "url": "https://www.lokmattimes.com/national/ai-could-add-17-trillion-to-indias-economy-by-2035-govt/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202510123539198_202510.jpg",
-            "publishedAt": "2025-10-12T14:33:37Z"
         }
     ]
 }
