@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-10-14T15:17:26.650469Z",
+    "lastUpdatedAt": "2025-10-14T16:19:10.792449Z",
     "articles": [
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Europe Aims For AI Independence to Avoid Reliance on US and China",
+            "url": "https://www.bloomberg.com/news/articles/2025-10-14/europe-aims-for-ai-independence-to-avoid-reliance-on-us-and-china",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWbdbB90Oc0g/v3/1200x800.jpg",
+            "publishedAt": "2025-10-14T04:01:08Z"
+        },
+        {
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            },
+            "title": "Nvidia and AMD not enough, AI demand is so high OpenAI is building its own chips now",
+            "url": "https://www.indiatoday.in/technology/news/story/nvidia-and-amd-not-enough-ai-demand-is-so-high-openai-is-building-its-own-chips-now-2802728-2025-10-14",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202510/openai-record-valuation-02505169-16x9_2.jpg?VersionId=DZP0Yia59HWXmtzDkv0Q5Xgo34G0K5kk",
+            "publishedAt": "2025-10-14T03:53:22Z"
+        },
         {
             "source": {
                 "id": "da5c26287bdd02563a2c32b55cb12051",
@@ -84,6 +108,24 @@
             "url": "https://www.forbes.com/sites/garydrenik/2025/10/14/ais-promise-vs-reality-and-why-62-say-it-is-overhyped/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68dc1900dc0ec8687bbe96a7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-10-14T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "freepressjournal"
+            },
+            "title": "OpenAI & Broadcom Partner To Develop 10 Gigawatts Of Custom AI Accelerators, Deployment To Begin In 2026",
+            "url": "https://www.freepressjournal.in/tech/openai-broadcom-partner-to-develop-10-gigawatts-of-custom-ai-accelerators-deployment-to-begin-in-2026",
+            "urlToImage": "https://media.assettype.com/freepressjournal/2025-10-14/h6985ebs/openaibroadcom.jpg?width=1200",
+            "publishedAt": "2025-10-14 04:18:48"
+        },
+        {
+            "source": {
+                "name": "thehindu"
+            },
+            "title": "OpenAI announces Broadcom deal as spending spree continues",
+            "url": "https://www.thehindu.com/sci-tech/technology/openai-announces-broadcom-deal-as-spending-spree-continues/article70161144.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/jepo7i/article70161147.ece/alternates/LANDSCAPE_1200/2025-10-09T191354Z_985149527_RC2LU7A0P6I2_RTRMADP_3_OPENAI-EUROPE-ANTITRUST.JPG",
+            "publishedAt": "2025-10-14 03:32:20"
         },
         {
             "source": {
@@ -3090,42 +3132,6 @@
             "url": "https://indianexpress.com/article/technology/tech-news-technology/intels-big-bet-inside-the-chipmakers-make-or-break-factory-10303653/",
             "urlToImage": "https://images.indianexpress.com/2025/10/Tech-feature-images106.jpg",
             "publishedAt": "2025-10-13 04:33:34"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Tracking AMD Market Share: Latest Trends and Future Projections",
-            "url": "https://techannouncer.com/tracking-amd-market-share-latest-trends-and-future-projections/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/10/e6990f9cthumbnail-332x187.jpeg",
-            "publishedAt": "2025-10-13 04:27:06"
-        },
-        {
-            "source": {
-                "name": "mashable"
-            },
-            "title": "The best SSD for gaming",
-            "url": "https://sea.mashable.com/tech/31983/the-best-ssd-for-gaming",
-            "urlToImage": "https://sm.mashable.com/mashable_sea/roundup/t/the-best-s/the-best-ssd-for-gaming_hmkb.jpg",
-            "publishedAt": "2025-10-13 04:00:00"
-        },
-        {
-            "source": {
-                "name": "venturebeat"
-            },
-            "title": "Breaking the bottleneck: Why AI demands an SSD-first future",
-            "url": "https://venturebeat.com/ai/breaking-the-bottleneck-why-ai-demands-an-ssd-first-future",
-            "urlToImage": "https://images.ctfassets.net/jdtwqhzvc2n1/4rRjfWe1S9u2XgvoKASwHM/ddafa77e43acdade763516ae3aa9a5fe/Solidigm_2.png",
-            "publishedAt": "2025-10-13 04:00:00"
-        },
-        {
-            "source": {
-                "name": "siliconangle"
-            },
-            "title": "The zero-loss enterprise: Data resilience as an AI service layer",
-            "url": "https://siliconangle.com/2025/10/12/zero-loss-enterprise-data-resilience-ai-service-layer/",
-            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/10/294-_-Breaking-Analysis-_-The-Zero-Loss-Enterprise-Data-Resilience-as-an-AI-Service-Layer-.jpg",
-            "publishedAt": "2025-10-13 03:12:45"
         }
     ]
 }
