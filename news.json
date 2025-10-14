@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-10-14T14:16:10.052044Z",
+    "lastUpdatedAt": "2025-10-14T15:17:26.650469Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Google to invest $10 billion in data centre and AI project in India",
+            "url": "https://www.reuters.com/world/india/google-invest-10-billion-data-centre-south-india-2025-10-14/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/O5XLG572TZL6XOV4XOM4QTPDB4.jpg?auth=0e1eaddfca0013a1608ef9596775506e7831b0407925cd8fc7904673fa59e715&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-10-14T02:56:42Z"
+        },
         {
             "source": {
                 "id": "105bb16685822879671e4bad332aeec9",
@@ -60,6 +72,36 @@
             "url": "https://economictimes.indiatimes.com/tech/information-tech/hcltech-revenue-up-10-7-in-q2-rakes-in-100-million-from-ai-alone/articleshow/124535659.cms",
             "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-36426,resizemode-75,msid-124535659/tech/information-tech/hcltech-revenue-up-10-7-in-q2-rakes-in-100-million-from-ai-alone.jpg",
             "publishedAt": "2025-10-14T00:30:00Z"
+        },
+        {
+            "source": {
+                "id": "a0300bc9a6e9d5b317bd6f614767231f",
+                "name": "Forbes",
+                "url": "https://www.forbes.com",
+                "country": "us"
+            },
+            "title": "AI’s Promise Vs Reality And Why 62% Say It Is Overhyped",
+            "url": "https://www.forbes.com/sites/garydrenik/2025/10/14/ais-promise-vs-reality-and-why-62-say-it-is-overhyped/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68dc1900dc0ec8687bbe96a7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-10-14T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "abcnews"
+            },
+            "title": "China and the US have long collaborated in 'open research.' Some say that must change",
+            "url": "https://abcnews.go.com/Technology/wireStory/china-us-long-collaborated-open-research-congress-change-126496433",
+            "urlToImage": "https://s.abcnews.com/images/US/wirestory_53ee311ea07f6ceccee4a7fe99f0857d_4x3_384.jpg",
+            "publishedAt": "2025-10-14 03:12:52"
+        },
+        {
+            "source": {
+                "name": "economictimes_indiatimes"
+            },
+            "title": "Airtel, Google to build India’s first AI hub in Visakhapatnam",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/airtel-google-to-build-indias-first-ai-hub-in-visakhapatnam/articleshow/124547580.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-138468,resizemode-75,msid-124547580/tech/artificial-intelligence/airtel-google-to-build-indias-first-ai-hub-in-visakhapatnam.jpg",
+            "publishedAt": "2025-10-14 02:48:58"
         },
         {
             "source": {
@@ -3084,42 +3126,6 @@
             "url": "https://siliconangle.com/2025/10/12/zero-loss-enterprise-data-resilience-ai-service-layer/",
             "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/10/294-_-Breaking-Analysis-_-The-Zero-Loss-Enterprise-Data-Resilience-as-an-AI-Service-Layer-.jpg",
             "publishedAt": "2025-10-13 03:12:45"
-        },
-        {
-            "source": {
-                "name": "zephyrnet"
-            },
-            "title": "Tailoring Unique AI Interactions with the Positron Add-On",
-            "url": "https://zephyrnet.com/tailoring-unique-ai-interactions-with-the-positron-add-on/",
-            "urlToImage": "https://zephyrnet.com/wp-content/uploads/img-tcCFayB4uiEmVUUB2B0tMvQ3.png",
-            "publishedAt": "2025-10-13 02:17:35"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "IEEE Innovation Summit Develops Ways To Make Strategic Initiatives",
-            "url": "https://www.forbes.com/sites/tomcoughlin/2025/10/12/ieee-innovation-summit-develops--ways-to-make-strategic-initiatives/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68ec5fae8885860ec2c626a0/0x0.jpg?width=960",
-            "publishedAt": "2025-10-13 02:16:47"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Beyond 2021: Unpacking the Latest Trends in Technology",
-            "url": "https://techannouncer.com/beyond-2021-unpacking-the-latest-trends-in-technology/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/10/637b4cd8thumbnail-332x187.jpeg",
-            "publishedAt": "2025-10-13 01:55:13"
-        },
-        {
-            "source": {
-                "name": "forexlive"
-            },
-            "title": "As many as 100K cars could be part of Australian class action suit launched against Tesla",
-            "url": "https://investinglive.com/stocks/as-many-as-100k-cars-could-be-part-of-australian-class-action-suit-launched-against-tesla-20251013/",
-            "urlToImage": "https://images.investinglive.com/images/Elon%20Musk_id_a416889f-cf21-4445-948c-2e7b1a293f7c_size50.jpeg",
-            "publishedAt": "2025-10-13 01:24:48"
         }
     ]
 }
