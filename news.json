@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2025-10-14T07:15:53.923225Z",
+    "lastUpdatedAt": "2025-10-14T08:19:11.267610Z",
     "articles": [
+        {
+            "source": {
+                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
+                "name": "ABC (Australian Broadcasting Corporation)",
+                "url": "https://www.abc.net.au",
+                "country": "au"
+            },
+            "title": "Federal politics live: AI fuelling the next wave of cyber threats",
+            "url": "https://www.abc.net.au/news/2025-10-14/federal-politics-live-blog-oct-14/105886082",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/44cd3a5d8bba3ed4d28b66991d7daecd?impolicy=wcms_watermark_news&cropH=576&cropW=1024&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+            "publishedAt": "2025-10-13T20:09:00Z"
+        },
+        {
+            "source": {
+                "id": "85e5403407038478a5e7d8d100ff8e8f",
+                "name": "CP24 Toronto",
+                "url": "https://www.cp24.com",
+                "country": "ca"
+            },
+            "title": "California enacts first U.S. chatbot safety law",
+            "url": "https://www.cp24.com/news/world/2025/10/13/california-enacts-first-us-law-requiring-ai-chatbot-safety-measures/",
+            "urlToImage": "https://www.cp24.com/resizer/v2/AXNPEWB4SRCKRECQNH6BLUXWQM.jpg?smart=true&auth=a16e5739df45c1b4a537ea4c600d6d62c5055fb8accc08f86f85760fe38cd643&width=1200&height=630",
+            "publishedAt": "2025-10-13T20:05:31Z"
+        },
+        {
+            "source": {
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
+            },
+            "title": "How firms can tap unicorn start-up’s initiative for AI-trained interns to help boost work efficiency",
+            "url": "https://www.straitstimes.com/singapore/workato-how-firms-can-tap-unicorn-start-up-initiative-ai-trained-interns-work-efficiency-automation",
+            "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/757543e0ea397513ea16b078844f5f3e7da2e8f9f4bdb27157548b715ae4036d",
+            "publishedAt": "2025-10-13T20:00:00Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "OpenAI partners with Broadcom to design its own AI chips",
+            "url": "https://japantoday.com/category/tech/openai-partners-with-broadcom-to-design-its-own-ai-chips",
+            "urlToImage": "https://media.japantoday.com/img/store/eb/4f/7d83be40ef8c502355c4158afe3564f7f0ed/download/_w1700.jpeg",
+            "publishedAt": "2025-10-13T19:35:00Z"
+        },
+        {
+            "source": {
+                "id": "75ca59dd354694befc1cf6038cf9ca33",
+                "name": "CoinDesk",
+                "url": "https://www.coindesk.com",
+                "country": "us"
+            },
+            "title": "Bitcoin (BTC) Miners BITF, CIFR, IREN, MARA Lead Crypto Stock Rebound on OpenAI Deal",
+            "url": "https://www.coindesk.com/markets/2025/10/13/bitcoin-miners-lead-crypto-stock-bounce-as-openai-broadcom-deal-fuels-ai-trade",
+            "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/a6fce8efe0570bdf6dccecadb5072b55ba54a7ac-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+            "publishedAt": "2025-10-13T19:31:28Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Bridging the AI Regulation Gap: IMF Chief Calls for Action",
+            "url": "https://www.devdiscourse.com/article/technology/3662390-bridging-the-ai-regulation-gap-imf-chief-calls-for-action",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/29_08_2025_11_22_13_2847886.png?width=920&format=jpeg",
+            "publishedAt": "2025-10-13T19:29:33Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "AI users sue Microsoft in antitrust class action over OpenAI deal",
+            "url": "https://www.reuters.com/legal/government/ai-users-sue-microsoft-antitrust-class-action-over-openai-deal-2025-10-13/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/R67X3X7OL5LNLANC32Y3LQ54Q4.jpg?auth=395a369aa54108dd4bdcea8b8f8fc3d1b49e312ea5c9a23aa7eec3faf9bfed50&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-10-13T19:28:35Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -1392,6 +1476,78 @@
             "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1013038",
             "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1013038.g006&size=inline",
             "publishedAt": "2025-10-13T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "bgr_com"
+            },
+            "title": "Meta's New AI Data Center Is The Size Of 70 Football Fields And Residents Are Left 'Scared'",
+            "url": "https://www.bgr.com/1990532/meta-new-aid-data-center-size-70-football-fields-residents-scared-water/",
+            "urlToImage": "https://www.bgr.com/img/gallery/metas-new-ai-data-center-is-the-size-of-70-football-fields-and-residents-are-left-scared/l-intro-1759919012.jpg",
+            "publishedAt": "2025-10-13 20:17:00"
+        },
+        {
+            "source": {
+                "name": "9to5mac"
+            },
+            "title": "Apple Pro Display XDR 2 likely has key hardware upgrade over original $4999 monitor",
+            "url": "https://9to5mac.com/2025/10/13/apple-pro-display-xdr-2-will-have-a-key-hardware-upgrade-over-original-4999-monitor/",
+            "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2024/11/pro-display-xdr.jpg?quality=82&strip=all&w=1600",
+            "publishedAt": "2025-10-13 20:09:10"
+        },
+        {
+            "source": {
+                "name": "lifehacker_us"
+            },
+            "title": "Why You Should Only Use Google’s NotebookLM in a Browser",
+            "url": "https://lifehacker.com/tech/google-notebooklm-mobile-app-review",
+            "urlToImage": "https://lifehacker.com/imagery/articles/01K7FG9C5VVNT0VJ2B59TQE0AA/hero-image.fill.size_1200x675.png",
+            "publishedAt": "2025-10-13 20:00:32"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Google Invests $9B in South Carolina for AI Data Centers and Jobs",
+            "url": "https://www.webpronews.com/google-invests-9b-in-south-carolina-for-ai-data-centers-and-jobs/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-11bdab97-7705-45cd-b48f-0c50596ad418.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-10-13 20:00:00"
+        },
+        {
+            "source": {
+                "name": "space"
+            },
+            "title": "How do asteroids spin in space? The answer could help us prevent a catastrophic Earth impact",
+            "url": "https://www.space.com/astronomy/asteroids/how-do-asteroids-spin-in-space-the-answer-could-help-us-prevent-a-catastrophic-earth-impact",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/THjMY86NsnVfKF9QzzMtt7-1280-80.jpg",
+            "publishedAt": "2025-10-13 20:00:00"
+        },
+        {
+            "source": {
+                "name": "yahoo"
+            },
+            "title": "How do asteroids spin in space? The answer could help us prevent a catastrophic Earth impact",
+            "url": "https://www.yahoo.com/news/articles/asteroids-spin-space-answer-could-200000266.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/F628zvCUGAfvHY4nb085Fg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MDtjZj13ZWJw/https://media.zenfs.com/en/space_311/dca3c0a210ad58df876e9f602cc5d965",
+            "publishedAt": "2025-10-13 20:00:00"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Modeling Miner Incentives in Discounted Transaction Fee Mechanisms",
+            "url": "https://hackernoon.com/modeling-miner-incentives-in-discounted-transaction-fee-mechanisms",
+            "urlToImage": "https://hackernoon.imgix.net/images/5wpKgV75aONqkTJlafw2yQmK9yd2-l203b8a.png",
+            "publishedAt": "2025-10-13 19:53:55"
+        },
+        {
+            "source": {
+                "name": "siliconangle"
+            },
+            "title": "OpenAI partners with Broadcom to deploy 10 gigawatts of AI hardware",
+            "url": "https://siliconangle.com/2025/10/13/openai-partners-broadcom-deploy-10-gigawatts-ai-hardware/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/10/Broadcom.png",
+            "publishedAt": "2025-10-13 19:36:20"
         },
         {
             "source": {
@@ -3054,186 +3210,6 @@
             "url": "https://www.business-standard.com/finance/insurance/irdai-fraud-risk-framework-insurers-reinsurers-cybersecurity-2026-125101200278_1.html",
             "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-05/28/thumb/fitandfill/1200X630/1748455686-9871.jpg",
             "publishedAt": "2025-10-12T08:32:09Z"
-        },
-        {
-            "source": {
-                "id": "da182982e3ceb53c6eb8df72aa2030c3",
-                "name": "Indiatimes",
-                "url": "https://www.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Who are Crimson Collective? Hackers behind the Nintendo data breach and Red Hat attack",
-            "url": "https://www.indiatimes.com/trending/who-are-crimson-collective-hackers-behind-the-nintendo-data-breach-and-red-hat-attack/articleshow/124497546.html",
-            "urlToImage": "https://www.indiatimes.com/thumb/124497632.cms?imgsize=28174&width=1280&height=720&resizemode=4",
-            "publishedAt": "2025-10-12T08:22:27Z"
-        },
-        {
-            "source": {
-                "id": "0d429ea54fdbe8e34c582aa31bc81aba",
-                "name": "The Boston Globe",
-                "url": "https://www.bostonglobe.com",
-                "country": "us"
-            },
-            "title": "AI can't answer the most important questions in life",
-            "url": "https://www.bostonglobe.com/2025/10/12/opinion/asking-chatgpt-questions-ai-weirdness/",
-            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/IE73QZHK3JGL7CQYGW2BYHDPE4.jpg?auth=e9f092f981958a7e6c8456a63bacf7caea888069ae49ae931857a8d8e083a3f3&width=1440",
-            "publishedAt": "2025-10-12T08:00:00Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "Is artificial intelligence fading human memory?",
-            "url": "https://www.indiatoday.in/india-today-insight/story/is-artificial-intelligence-fading-human-memory-2801790-2025-10-12",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202510/voice-assistants-remind-us-of-birthdays-apps-keep-medical-records-organised-the-conveniences-of-ar-125334790-16x9_0.png?VersionId=6XssnTLOMH4kXug0l4xdPMrZ7ipc2RTc",
-            "publishedAt": "2025-10-12T07:54:30Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "How is AI reshaping classrooms without replacing teachers?",
-            "url": "https://www.indiatoday.in/education-today/featurephilia/story/how-is-ai-reshaping-classrooms-without-replacing-teachers-2801765-2025-10-12",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202510/ai--coding--and-more-are-educators-ready-for-emerging-classroom-tech-in-2025-015419669-16x9_1.jpg?VersionId=0Eg8P2jqwY_JsBRiNRJ5OBrcMkuL4n0N",
-            "publishedAt": "2025-10-12T07:20:59Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Cyber Showdown: Qantas Airways' Data Breach Revelations",
-            "url": "https://www.devdiscourse.com/article/health/3661143-cyber-showdown-qantas-airways-data-breach-revelations",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/26_09_2025_01_36_49_6306057.png?width=920&format=jpeg",
-            "publishedAt": "2025-10-12T06:21:25Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "SEBI Chief says, establishing easy, secure KYC access for NRIs for market participation is urgent goal",
-            "url": "https://economictimes.indiatimes.com/nri/invest/sebi-chief-says-establishing-easy-secure-kyc-access-for-nris-for-market-participation-is-urgent-goal/articleshow/124495168.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1292914,resizemode-75,msid-124495168/nri/invest/sebi-chief-says-establishing-easy-secure-kyc-access-for-nris-for-market-participation-is-urgent-goal.jpg",
-            "publishedAt": "2025-10-12T05:21:30Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "NSE's Digital Fort: Battling 170 Million Daily Cyberattacks",
-            "url": "https://www.devdiscourse.com/article/headlines/3661117-nses-digital-fort-battling-170-million-daily-cyberattacks",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/30_07_2025_11_12_00_1615163.png?width=920&format=jpeg",
-            "publishedAt": "2025-10-12T05:20:36Z"
-        },
-        {
-            "source": {
-                "id": "4c8b69bf547b577f84acbba5157b439c",
-                "name": "RTE.ie",
-                "url": "https://www.rte.ie",
-                "country": "ie"
-            },
-            "title": "Tron: Ares director says his film is hopeful about AI",
-            "url": "https://www.rte.ie/entertainment/2025/1012/1538031-tron-ares-director-says-his-film-is-hopeful-about-ai/",
-            "urlToImage": "https://www.rte.ie/images/002347b0-1600.jpg",
-            "publishedAt": "2025-10-12T05:09:28Z"
-        },
-        {
-            "source": {
-                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-                "name": "The Financial Express",
-                "url": "https://www.financialexpress.com",
-                "country": "in"
-            },
-            "title": "Lawyer claims OpenAI called police to his home after advocating for AI regulation: Details inside",
-            "url": "https://www.financialexpress.com/life/technology-lawyer-claims-openai-called-police-to-his-home-after-advocating-for-ai-regulation-details-inside-4007561/",
-            "urlToImage": "https://images.financialexpressdigital.com/2025/10/diya-0001-2025-10-07T062050.325.jpg",
-            "publishedAt": "2025-10-12T04:47:33Z"
-        },
-        {
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            },
-            "title": "A mystery CEO and billions in sales: Is China buying banned Nvidia chips?",
-            "url": "https://indianexpress.com/article/technology/tech-news-technology/a-mystery-ceo-and-billions-in-sales-is-china-buying-banned-nvidia-chips-10302088/",
-            "urlToImage": "https://images.indianexpress.com/2025/10/Tech-feature-images100.jpg",
-            "publishedAt": "2025-10-12T04:35:20Z"
-        },
-        {
-            "source": {
-                "id": "a3391c15eb1d3136f9b9dd080940d0e8",
-                "name": "The Nation",
-                "url": "https://www.nation.com.pk",
-                "country": "pk"
-            },
-            "title": "Pakistani innovators invited for MIT hackathon",
-            "url": "https://www.nation.com.pk/12-Oct-2025/pakistani-innovators-invited-mit-hackathon",
-            "urlToImage": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
-            "publishedAt": "2025-10-12T04:12:55Z"
-        },
-        {
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            },
-            "title": "BTech in Software Engineering vs BTech in Data Science: Which degree would you choose?",
-            "url": "https://indianexpress.com/article/education/btech-in-software-engineering-vs-data-science-the-right-choice-jeemain-2026-jee-advanced-10296409/",
-            "urlToImage": "https://images.indianexpress.com/2025/10/The-right-choice-2.jpg",
-            "publishedAt": "2025-10-12T03:57:37Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Edu system takes a giant leap with AI, robotics",
-            "url": "https://www.tribuneindia.com/news/himachal/edu-system-takes-a-giant-leap-with-ai-robotics/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWQ1MTU0YzYwLWE3MTUtMTFmMC04NjMyLTFiZGZhNzM3NzM5Zi5qcGc=",
-            "publishedAt": "2025-10-12T02:47:40Z"
-        },
-        {
-            "source": {
-                "id": "94466d37d8c67a438250646866df36df",
-                "name": "SBS Australia",
-                "url": "https://www.sbs.com.au",
-                "country": "au"
-            },
-            "title": "'It's all over the place': Concerns over Qantas data access as airline says it's investigating",
-            "url": "https://www.sbs.com.au/news/article/its-all-over-the-place-qantas-customer-data-leaked/yfa1yeucc",
-            "urlToImage": "https://images.sbs.com.au/dims4/default/769ce2b/2147483647/strip/true/crop/9428x5303+0+491/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F33%2F77%2F945abb2148e0a7d21c913afee67e%2F20251010113597610518-original.jpg",
-            "publishedAt": "2025-10-12T02:26:21Z"
-        },
-        {
-            "source": {
-                "id": "60c457b35b486691319f105c3a760060",
-                "name": "Malayala Manorama",
-                "url": "https://www.onmanorama.com",
-                "country": "in"
-            },
-            "title": "How a woman cop helps TN police save cyber fraud victims even before they realise the scam",
-            "url": "https://www.onmanorama.com/news/kerala/2025/10/11/cybercrime-prevention-preemptive-tamil-nadu-police.html",
-            "urlToImage": "https://img.onmanorama.com/content/dam/mm/en/archive/kerala/top-news/images/2025/10/11/cocon-tamil-cop.jpg",
-            "publishedAt": "2025-10-12T00:47:24Z"
         }
     ]
 }
