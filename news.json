@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-10-14T16:19:10.792449Z",
+    "lastUpdatedAt": "2025-10-14T17:13:46.031779Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Europe fights for AI independence to avoid becoming tech ‘colony’",
+            "url": "https://www.thestar.com.my/tech/tech-news/2025/10/14/europe-fights-for-ai-independence-to-avoid-becoming-tech-colony",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/14/3569671.jpg",
+            "publishedAt": "2025-10-14T05:10:00Z"
+        },
+        {
+            "source": {
+                "id": "d6397b77175680e2678c0d60edcee7af",
+                "name": "South China Morning Post",
+                "url": "https://www.scmp.com",
+                "country": "hk"
+            },
+            "title": "Ancient 1,600-year-old love writing restored by Chinese scientists using modern day tools",
+            "url": "https://www.scmp.com/news/china/science/article/3328497/ancient-1600-year-old-love-writing-restored-chinese-scientists-using-modern-day-tools",
+            "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/10/10/b38cc492-49f0-45b0-a687-b373e9a44249_b01eb20c.jpg?itok=TEp7bOeT&v=1760078094",
+            "publishedAt": "2025-10-14T05:00:09Z"
+        },
+        {
+            "source": {
+                "id": "03f4f74aaa0a44ccbb846a1630123293",
+                "name": "Crypto Breaking News",
+                "url": "https://www.cryptobreaking.com",
+                "country": "ae"
+            },
+            "title": "SEAL Unveils New TLS Attestations Tool to Combat Phishing Threats",
+            "url": "https://www.cryptobreaking.com/seal-unveils-new-tls-attestations/",
+            "urlToImage": "https://www.cryptobreaking.com/wp-content/uploads/2025/10/dalle_68edd52d14f823.67204113-scaled-1.jpg",
+            "publishedAt": "2025-10-14T04:44:44Z"
+        },
+        {
+            "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+            },
+            "title": "Top free AI courses from IISc Bangalore, IIT Guwahati, Google & more",
+            "url": "https://indianexpress.com/article/education/free-top-artificial-intelligence-courses-in-2025-iisc-iit-guwahati-google-swayam-10302436/",
+            "urlToImage": "https://images.indianexpress.com/2025/10/artificial-intelligence-free-courses.jpg",
+            "publishedAt": "2025-10-14T04:37:39Z"
+        },
         {
             "source": {
                 "id": "7006f2c40c7cc01195608dbfd60259b3",
@@ -108,6 +156,108 @@
             "url": "https://www.forbes.com/sites/garydrenik/2025/10/14/ais-promise-vs-reality-and-why-62-say-it-is-overhyped/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68dc1900dc0ec8687bbe96a7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-10-14T00:00:00Z"
+        },
+        {
+            "source": {
+                "id": "a0300bc9a6e9d5b317bd6f614767231f",
+                "name": "Forbes",
+                "url": "https://www.forbes.com",
+                "country": "us"
+            },
+            "title": "6 Free Certificates To Learn AI, Cloud, & Cybersecurity This Week",
+            "url": "https://www.forbes.com/sites/rachelwells/2025/10/14/6-free-certificates-to-learn-ai-cloud--cybersecurity-this-week/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68ee72a96c84ce27938087b3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-10-14T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "cxotoday"
+            },
+            "title": "After Nvidia and AMD, OpenAI Now Ties Up with Broadcom for Custom-made AI Microchips",
+            "url": "https://cxotoday.com/news-analysis/after-nvidia-and-amd-openai-now-ties-up-with-broadcom-for-custom-made-ai-microchips/",
+            "urlToImage": "https://cxotoday.com/wp-content/uploads/2025/10/openai-fotor.jpg",
+            "publishedAt": "2025-10-14 05:12:27"
+        },
+        {
+            "source": {
+                "name": "newsbytesapp"
+            },
+            "title": "OpenAI partners with Broadcom to develop custom AI processors",
+            "url": "https://www.newsbytesapp.com/news/science/openai-partners-with-broadcom-to-build-custom-ai-processors/story",
+            "urlToImage": "https://i.cdn.newsbytesapp.com/images/l4420251014101821.png",
+            "publishedAt": "2025-10-14 05:07:24"
+        },
+        {
+            "source": {
+                "name": "freepressjournal"
+            },
+            "title": "Apple Smart Glasses Tipped To Come With Speakers, Cameras, AI-Powered Voice Controls; Likely To Launch Commercially in 2027",
+            "url": "https://www.freepressjournal.in/tech/apple-smart-glasses-tipped-to-come-with-speakers-cameras-ai-powered-voice-controls-likely-to-launch-commercially-in-2027",
+            "urlToImage": "https://media.assettype.com/freepressjournal/2025-10-14/6z8tab06/applesmartglassesai-1.jpg?width=1200",
+            "publishedAt": "2025-10-14 05:04:26"
+        },
+        {
+            "source": {
+                "name": "thehindubusinessline"
+            },
+            "title": "Europe fights for AI independence to avoid becoming tech ‘Colony’",
+            "url": "https://www.thehindubusinessline.com/info-tech/europe-fights-for-ai-independence-to-avoid-becoming-tech-colony/article70161288.ece",
+            "urlToImage": "https://bl-i.thgim.com/public/incoming/frbw6s/article70161308.ece/alternates/LANDSCAPE_1200/BL03_AI_generate.jpg",
+            "publishedAt": "2025-10-14 04:43:54"
+        },
+        {
+            "source": {
+                "name": "thetimesnews"
+            },
+            "title": "ASUS Unveils AI Factory and Next-Gen Servers with NVIDIA HGX B300 systems at OCP 2025",
+            "url": "https://www.thetimesnews.com/online_features/press_releases/asus-unveils-ai-factory-and-next-gen-servers-with-nvidia-hgx-b300-systems-at-ocp/article_bb9ca0b4-955a-5f43-af6e-5b4d01e39f07.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thetimesnews.com/content/tncms/assets/v3/editorial/c/9a/c9a33951-3bcd-5985-879a-7db9b88e3dff/68edf05278d26.image.jpg?resize=300%2C216",
+            "publishedAt": "2025-10-14 04:30:00"
+        },
+        {
+            "source": {
+                "name": "sentinelsource"
+            },
+            "title": "ASUS Unveils AI Factory and Next-Gen Servers with NVIDIA HGX B300 systems at OCP 2025",
+            "url": "https://www.keenesentinel.com/online_features/press_releases/asus-unveils-ai-factory-and-next-gen-servers-with-nvidia-hgx-b300-systems-at-ocp/article_37832df2-0d1f-5ae2-820a-5f231c0b44fb.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/keenesentinel.com/content/tncms/assets/v3/editorial/8/b2/8b22e825-65ed-5ee4-b253-82e803fe5905/68edf0df3b6ff.image.jpg?resize=300%2C216",
+            "publishedAt": "2025-10-14 04:30:00"
+        },
+        {
+            "source": {
+                "name": "kinston"
+            },
+            "title": "ASUS Unveils AI Factory and Next-Gen Servers with NVIDIA HGX B300 systems at OCP 2025",
+            "url": "https://www.kinston.com/online_features/press_releases/asus-unveils-ai-factory-and-next-gen-servers-with-nvidia-hgx-b300-systems-at-ocp/article_9777068b-2a56-59a1-9b25-9da88a7330c4.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/kinston.com/content/tncms/assets/v3/editorial/4/eb/4eb287a0-bfeb-5358-8082-783e30058d55/68edee04ef2e9.image.jpg?resize=300%2C216",
+            "publishedAt": "2025-10-14 04:30:00"
+        },
+        {
+            "source": {
+                "name": "thechronicle"
+            },
+            "title": "ASUS Unveils AI Factory and Next-Gen Servers with NVIDIA HGX B300 systems at OCP 2025",
+            "url": "https://www.thechronicle.com/online_features/press_releases/asus-unveils-ai-factory-and-next-gen-servers-with-nvidia-hgx-b300-systems-at-ocp/article_a07a8e93-f8df-5065-9d12-3f32a6bc271e.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thechronicle.com/content/tncms/assets/v3/editorial/0/e3/0e3188cc-6800-5c44-8793-eac5de71877c/68edf101650d2.image.jpg?resize=400%2C288",
+            "publishedAt": "2025-10-14 04:30:00"
+        },
+        {
+            "source": {
+                "name": "timesargus"
+            },
+            "title": "ASUS Unveils AI Factory and Next-Gen Servers with NVIDIA HGX B300 systems at OCP 2025",
+            "url": "https://www.timesargus.com/online_features/press_releases/asus-unveils-ai-factory-and-next-gen-servers-with-nvidia-hgx-b300-systems-at-ocp/article_a11df5e4-56aa-5bb0-87e1-822b24090934.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/timesargus.com/content/tncms/assets/v3/editorial/2/f3/2f3e3cb1-92d3-5979-acbe-e7d4e4bc0807/68edf1541c5c0.image.jpg?resize=300%2C216",
+            "publishedAt": "2025-10-14 04:30:00"
+        },
+        {
+            "source": {
+                "name": "en_prnasisa"
+            },
+            "title": "ASUS Unveils AI Factory and Next-Gen Servers with NVIDIA HGX B300 systems at OCP 2025",
+            "url": "https://en.prnasia.com/story/506977-0.shtml",
+            "urlToImage": "https://mma.prnasia.com/media2/2795430/ASUS_Unveils_AI_Factory_and_Next_Gen_Servers_with_NVIDIA_HGX_B300_systems_at_OCP_2025.jpg?p=medium600",
+            "publishedAt": "2025-10-14 04:30:00"
         },
         {
             "source": {
@@ -2997,141 +3147,6 @@
             "url": "https://www.rand.org/pubs/research_reports/RRA3845-2.html",
             "urlToImage": "https://www.rand.org/content/rand/pubs/research_reports/RRA3845-2/_jcr_content/par/product.fit.264x264.jpeg/1759949625249.jpeg",
             "publishedAt": "2025-10-13 08:00:00"
-        },
-        {
-            "source": {
-                "name": "techxplore"
-            },
-            "title": "Next-generation memory: Tungsten-based SOT-MRAM achieves nanosecond switching and low-power data storage",
-            "url": "https://techxplore.com/news/2025-10-generation-memory-tungsten-based-sot.html",
-            "urlToImage": "https://scx1.b-cdn.net/csz/news/tmb/2025/a-64-killobit-spin-orb-1.jpg",
-            "publishedAt": "2025-10-13 07:30:01"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Apple’s India Bet Pays Off: $10 Billion iPhone Exports in Just 6 Months!",
-            "url": "https://www.analyticsinsight.net/news/apples-india-bet-pays-off-10-billion-iphone-exports-in-just-6-months",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-10-13%2F66dtqko1%2FApple%E2%80%99s-India-Bet-Pays-Off-10-Billion-iPhone-Exports-in-Just-6-Months.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-10-13 07:20:17"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "Don't want to upgrade to Windows 11? You don't have to, but here's what you should know",
-            "url": "https://www.zdnet.com/article/dont-want-to-upgrade-to-windows-11-you-dont-have-to-but-heres-what-you-should-know/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/1cddafb44d4c185ce54e702029a04d88af79e341/2025/02/04/30842347-2300-4355-805c-b1fb58ff179f/microsoft-has-a-big-windows-10-problem-and-its-running-out-of-time-to-solve-it.jpg?auto=webp&width=1280",
-            "publishedAt": "2025-10-13 07:05:33"
-        },
-        {
-            "source": {
-                "name": "geeky_gadgets"
-            },
-            "title": "M5 Power, Vision Pro 2, and New iPads: Apple October Hardware Event Rumors",
-            "url": "https://www.geeky-gadgets.com/apple-october-2025-event-rumors/",
-            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/10/m5-ipad-pro-new-features.webp",
-            "publishedAt": "2025-10-13 07:00:42"
-        },
-        {
-            "source": {
-                "name": "geeky_gadgets"
-            },
-            "title": "How to Build Intelligent AI Agents in Python That Think and Adapt",
-            "url": "https://www.geeky-gadgets.com/how-to-build-intelligent-ai-agents-in-python-that-think-and-adapt/",
-            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/10/building-intelligent-systems-python.webp",
-            "publishedAt": "2025-10-13 06:41:24"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "The Future of Digital Storytelling with AI Avatars and AI Baby Podcast",
-            "url": "https://www.analyticsinsight.net/artificial-intelligence/the-future-of-digital-storytelling-with-ai-avatars-and-ai-baby-podcast",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-10-13%2Flyntdv8l%2FAI-Avatars.png?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-10-13 06:30:00"
-        },
-        {
-            "source": {
-                "name": "worldpharmatoday"
-            },
-            "title": "AI-Powered Quality Control for Pharma Packaging",
-            "url": "https://www.worldpharmatoday.com/biopharma/ai-powered-quality-control-for-pharma-packaging/",
-            "urlToImage": "https://www.worldpharmatoday.com/wp-content/uploads/2025/10/AI-in-pharmaceutical-packaging-1.webp",
-            "publishedAt": "2025-10-13 06:28:57"
-        },
-        {
-            "source": {
-                "name": "indianexpress"
-            },
-            "title": "‘GPT-6 will be significantly better’: Sam Altman on what OpenAI learned from rocky GPT-5 launch",
-            "url": "https://indianexpress.com/article/technology/artificial-intelligence/gpt-6-will-be-significantly-better-sam-altman-openai-10303859/",
-            "urlToImage": "https://images.indianexpress.com/2025/10/Google-47.jpg",
-            "publishedAt": "2025-10-13 06:18:08"
-        },
-        {
-            "source": {
-                "name": "geeky_gadgets"
-            },
-            "title": "Why Claude Sonnet 4.5 is the AI Tool Every Developer Needs Right Now",
-            "url": "https://www.geeky-gadgets.com/claude-sonnet-4-5-review/",
-            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/10/advanced-ai-for-programmers.webp",
-            "publishedAt": "2025-10-13 06:11:46"
-        },
-        {
-            "source": {
-                "name": "computerworld_in"
-            },
-            "title": "Hybrid workforces demand portable power",
-            "url": "https://www.computerworld.com/article/4069925/hybrid-workforces-demand-portable-power.html",
-            "urlToImage": "https://www.computerworld.com/wp-content/uploads/2025/10/4069925-0-55304600-1760334820-HP-Zbook-X-G1i-16inch-1.jpg?quality=50&strip=all",
-            "publishedAt": "2025-10-13 05:53:03"
-        },
-        {
-            "source": {
-                "name": "yahoo"
-            },
-            "title": "Climate tipping points sound scary, especially for ice sheets and oceans – here’s why there’s still room for optimism",
-            "url": "https://www.yahoo.com/news/articles/climate-tipping-points-sound-scary-052734928.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/7p_5ikZSZgEKShJw0rRQgA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg7Y2Y9d2VicA--/https://media.zenfs.com/en/the_conversation_us_articles_815/5c3a4a261d19887ebc72daf7039a5e05",
-            "publishedAt": "2025-10-13 05:27:34"
-        },
-        {
-            "source": {
-                "name": "trackmyhashtag"
-            },
-            "title": "How AI Helps Brands Understand Audience Sentiment",
-            "url": "https://www.trackmyhashtag.com/blog/how-ai-helps-brands-understand-audience-sentiment/",
-            "urlToImage": "https://www.trackmyhashtag.com/blog/wp-content/uploads/2025/10/Measuring-Event-Audience-Sentiment.png",
-            "publishedAt": "2025-10-13 05:09:13"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Democratize Financial Modeling With Perplexity Pro (100+ Prompts & Templates for Market Analysis)",
-            "url": "https://hackernoon.com/democratize-financial-modeling-with-perplexity-pro-100-prompts-and-templates-for-market-analysis",
-            "urlToImage": "https://hackernoon.imgix.net/images/2jqChkrv03exBUgkLrDzIbfM99q2-gn022gn.jpeg",
-            "publishedAt": "2025-10-13 04:56:47"
-        },
-        {
-            "source": {
-                "name": "newsable_asianetnews"
-            },
-            "title": "Sensex, Nifty Poised For A Cautious Opening; HCL Tech, Tata Motors, DMart, Waaree, Mahindra Lifespace, NTPC Green Stocks Are In Focus",
-            "url": "https://newsable.asianetnews.com/markets/sensex-nifty-poised-for-a-cautious-opening-hcl-tech-tata-motors-dmart-waaree-mahindra-lifespace-ntpc-green-stocks-are-in-focus-articleshow-umhqkq2",
-            "urlToImage": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-59bd97c7-184f-4e2e-a554-0bf554e28408.webp",
-            "publishedAt": "2025-10-13 04:35:02"
-        },
-        {
-            "source": {
-                "name": "indianexpress"
-            },
-            "title": "Intel’s big bet: Inside the chipmaker’s make-or-break factory",
-            "url": "https://indianexpress.com/article/technology/tech-news-technology/intels-big-bet-inside-the-chipmakers-make-or-break-factory-10303653/",
-            "urlToImage": "https://images.indianexpress.com/2025/10/Tech-feature-images106.jpg",
-            "publishedAt": "2025-10-13 04:33:34"
         }
     ]
 }
