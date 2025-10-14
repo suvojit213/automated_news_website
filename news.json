@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-10-14T08:19:11.267610Z",
+    "lastUpdatedAt": "2025-10-14T09:17:21.606354Z",
     "articles": [
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "Mass-produced AI podcasts disrupt a fragile industry",
+            "url": "https://japantoday.com/category/tech/mass-produced-ai-podcasts-disrupt-a-fragile-industry",
+            "urlToImage": "https://media.japantoday.com/img/store/1a/24/a0f188c7fa66c652a29449ca70a3cfddc408/4d97c55114c947429b3e578616dd2aa37812b639/_w1700.jpeg",
+            "publishedAt": "2025-10-13T21:00:00Z"
+        },
+        {
+            "source": {
+                "id": "09131c39169c9c96230862dc4c1fa727",
+                "name": "CNA",
+                "url": "https://www.channelnewsasia.com",
+                "country": "sg"
+            },
+            "title": "IMF chief says world lacks ethical, regulatory base to manage rise of AI",
+            "url": "https://www.channelnewsasia.com/world/imf-chief-says-world-lacks-ethical-regulatory-base-manage-rise-ai-5399576",
+            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--tqzOx1bE--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-10-13T183118Z_1_LYNXNPEL9C0T3_RTROPTP_3_IMF-WORLD-BANK-GEORGIEVA.JPG?itok=bTVmsZ8u",
+            "publishedAt": "2025-10-13T20:32:00Z"
+        },
+        {
+            "source": {
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
+            },
+            "title": "IMF's Georgieva says countries lack regulatory, ethical foundation for AI",
+            "url": "https://www.straitstimes.com/world/IMFs-Georgieva-says-countries-lack-regulatory-ethical-foundation-for-AI",
+            "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/617deb9df60725094b8e659e67579290f99c694ed6a895591fdab069361946cc",
+            "publishedAt": "2025-10-13T20:30:05Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "IMF's Georgieva says countries lack regulatory, ethical foundation for AI",
+            "url": "https://www.reuters.com/business/imfs-georgieva-says-countries-lack-regulatory-ethical-foundation-ai-2025-10-13/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/CQZY5GPIFVPTNPUDUFUR7CWE4I.jpg?auth=641fe12042b1050c298d5d4c0915cbdc5c2bfbd3fbba0bcc5c0978942ef5d99e&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-10-13T20:21:11Z"
+        },
         {
             "source": {
                 "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
@@ -1476,6 +1524,78 @@
             "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1013038",
             "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1013038.g006&size=inline",
             "publishedAt": "2025-10-13T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "headtopics"
+            },
+            "title": "Meta's New AI Data Center Is The Size Of 70 Football Fields And Residents Are Left 'Scared'",
+            "url": "https://us.headtopics.com/news/meta-s-new-ai-data-center-is-the-size-of-70-football-fields-74341894",
+            "urlToImage": "https://i.headtopics.com/images/2025/10/12/cbsnewyork/nor-easter-s-expected-arrival-prompts-new-jersey-o-nor-easter-s-expected-arrival-prompts-new-jersey-o-9A55C95DD51F890C75C2AA7D32DFD9E6.webp?w=640",
+            "publishedAt": "2025-10-13 21:10:16"
+        },
+        {
+            "source": {
+                "name": "headtopics"
+            },
+            "title": "Towns are saying no to AI data centers. One got sued over it.",
+            "url": "https://us.headtopics.com/news/towns-are-saying-no-to-ai-data-centers-one-got-sued-over-74341545",
+            "urlToImage": "https://i.headtopics.com/images/2025/10/12/njdotcom/jersey-shore-towns-hit-with-flooding-during-first--jersey-shore-towns-hit-with-flooding-during-first--8371DD73F3953AFF346380F4B475B4A3.webp?w=640",
+            "publishedAt": "2025-10-13 21:10:14"
+        },
+        {
+            "source": {
+                "name": "xda_developers"
+            },
+            "title": "HP ZBook X G1i review: Business as usual",
+            "url": "https://www.xda-developers.com/hp-zbook-x-g1i-16-review/",
+            "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/10/hp-zbook-x-g1i-hero.jpg",
+            "publishedAt": "2025-10-13 21:00:19"
+        },
+        {
+            "source": {
+                "name": "benzinga"
+            },
+            "title": "Navitas Supports 800 VDC Power Architecture for NVIDIA's Next-Generation AI Factory Computing Platforms",
+            "url": "https://www.benzinga.com/pressreleases/25/10/g48187225/navitas-supports-800-vdc-power-architecture-for-nvidias-next-generation-ai-factory-computing-platf",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/e55848b0-7374-49cc-899c-e764de5c8586/figure-2.jpg",
+            "publishedAt": "2025-10-13 20:36:21"
+        },
+        {
+            "source": {
+                "name": "techannouncer"
+            },
+            "title": "Mastering Machine Learning: Top AI Training Tools for 2025",
+            "url": "https://techannouncer.com/mastering-machine-learning-top-ai-training-tools-for-2025/",
+            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/10/964ac87dthumbnail-332x187.jpeg",
+            "publishedAt": "2025-10-13 20:36:12"
+        },
+        {
+            "source": {
+                "name": "postregister"
+            },
+            "title": "Navitas Supports 800 VDC Power Architecture for NVIDIA’s Next-Generation AI Factory Computing ...",
+            "url": "https://www.postregister.com/businessreport/technology/navitas-supports-800-vdc-power-architecture-for-nvidia-s-next-generation-ai-factory-computing/article_fee1ff97-71c5-5428-98f5-a40bd23d70f2.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
+            "publishedAt": "2025-10-13 20:35:17"
+        },
+        {
+            "source": {
+                "name": "caledonianrecord"
+            },
+            "title": "Navitas Supports 800 VDC Power Architecture for NVIDIA’s Next-Generation AI Factory Computing ...",
+            "url": "https://www.caledonianrecord.com/navitas-supports-800-vdc-power-architecture-for-nvidia-s-next-generation-ai-factory-computing/article_11166e59-9375-5d3d-8b24-808929627f42.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/caledonianrecord.com/content/tncms/custom/image/97f38b88-9339-11ec-91bb-637c1bf4402d.jpg?resize=600%2C306",
+            "publishedAt": "2025-10-13 20:35:17"
+        },
+        {
+            "source": {
+                "name": "eagletribune"
+            },
+            "title": "Navitas Supports 800 VDC Power Architecture for NVIDIA’s Next-Generation AI Factory Computing ...",
+            "url": "https://www.eagletribune.com/region/navitas-supports-800-vdc-power-architecture-for-nvidia-s-next-generation-ai-factory-computing/article_02b7bca0-d3f9-5267-a330-703ecfff6c31.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333",
+            "publishedAt": "2025-10-13 20:35:17"
         },
         {
             "source": {
@@ -3066,150 +3186,6 @@
             "url": "https://www.ndtv.com/india-news/legislating-deepfakes-artificial-intelligence-enabled-child-abuse-need-of-hour-top-court-judge-justice-bv-nagarathna-9441787",
             "urlToImage": "https://c.ndtvimg.com/2025-09/dtu50u58_chief-justice-bv-nagarathna_625x300_04_September_25.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
             "publishedAt": "2025-10-12T12:34:40Z"
-        },
-        {
-            "source": {
-                "id": "99e7373ae0bd64167072ee76b85a79f3",
-                "name": "LADbible",
-                "url": "https://www.ladbible.com",
-                "country": "gb"
-            },
-            "title": "The 40 jobs ‘most at risk of being replaced by AI’",
-            "url": "https://www.ladbible.com/news/technology/ai-jobs-at-risk-technology-microsoft-405782-20251012",
-            "urlToImage": "https://images.ladbible.com/ogimage/v3/assets/bltcd74acc1d0a99f3a/blteda1e30bad079cab/68eb8b9c878ecf726c2b0631/artificial-intelligence-jobs-risk.jpg",
-            "publishedAt": "2025-10-12T12:02:20Z"
-        },
-        {
-            "source": {
-                "id": "8da923084554b2821233d6c5c5f02c97",
-                "name": "Fox News",
-                "url": "https://www.foxnews.com",
-                "country": "us"
-            },
-            "title": "Ethernet vs Wi-Fi security: Which internet connection is actually safer?",
-            "url": "https://www.foxnews.com/tech/ethernet-vs-wi-fi-security-comparison-reveals-surprising-results-home-users-seeking-protection",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/wifi-router-wireless-signal.jpg",
-            "publishedAt": "2025-10-12T12:00:40Z"
-        },
-        {
-            "source": {
-                "id": "18c2a6429621fbedc49891aa7c847ec6",
-                "name": "Gizmodo",
-                "url": "https://gizmodo.com",
-                "country": "us"
-            },
-            "title": "Scientists Just Took a Giant Step Toward Scaling Up Nuclear Fusion",
-            "url": "https://gizmodo.com/scientists-just-took-a-giant-step-toward-scaling-up-nuclear-fusion-2000670389",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/west-tokamak-iter-1200x675.jpg",
-            "publishedAt": "2025-10-12T12:00:05Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "Inside India’s quiet new export: human intelligence for artificial minds",
-            "url": "https://www.livemint.com/ai/indian-doctors-engineers-shaping-artificial-intelligence-ai-models-11760263818633.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2025/10/12/1600x900/People_training_AI_algos_1760264176060_1760264197493_1760264299559.jpeg",
-            "publishedAt": "2025-10-12T11:30:29Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com",
-                "country": "ca"
-            },
-            "title": "AI can be more persuasive than real doctors, even when it's wrong",
-            "url": "https://www.cp24.com/news/canada/2025/10/12/medical-advice-from-ai-can-be-more-persuasive-than-real-doctors-even-when-its-wrong-research/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/HUXHM4YFOBB67FBKEDSJRVGU6Y.jpg?smart=true&auth=ff4a4bba96ab171234cab0ea14bfcec495688840eaca9d82fe3590c6dff1209e&width=1200&height=630",
-            "publishedAt": "2025-10-12T11:00:00Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "NITI Aayog says AI could create 4 million jobs by 2030: What jobs can AI actually create?",
-            "url": "https://timesofindia.indiatimes.com/education/news/niti-aayog-says-ai-could-create-4-million-jobs-by-2030-what-jobs-can-ai-actually-create/articleshow/124499699.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-124499712,width-1070,height-580,imgsize-154282,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "publishedAt": "2025-10-12T10:46:00Z"
-        },
-        {
-            "source": {
-                "id": "494f687bd1dfaa9f7b4a705c860671d0",
-                "name": "Hartford Courant",
-                "url": "https://www.courant.com",
-                "country": "us"
-            },
-            "title": "Lawmakers sound alarm over lapsed cybersecurity law",
-            "url": "https://www.courant.com/2025/10/12/lawmakers-sound-alarm-over-lapsed-cybersecurity-law/",
-            "urlToImage": "https://www.courant.com/wp-content/uploads/2025/10/202510110400MCT_____PHOTO____US-NEWS-CYBERSECURITY-LAW-ABA.jpg?w=1024&h=682",
-            "publishedAt": "2025-10-12T10:45:16Z"
-        },
-        {
-            "source": {
-                "id": "a264eb6813d0472e83bde84a1aef630a",
-                "name": "Akron Beacon Journal",
-                "url": "https://www.beaconjournal.com",
-                "country": "us"
-            },
-            "title": "Artificial intelligence has promises and risks for patients",
-            "url": "https://www.beaconjournal.com/story/opinion/columns/guest/2025/10/12/artificial-intelligence-has-promises-and-risks-for-patients-and-doctors-medical-advice-opinion/86528411007/",
-            "urlToImage": "https://www.beaconjournal.com/gcdn/authoring/authoring-images/2025/01/15/NABJ/77722229007-jason-kolb-book-02.JPG?crop=1503,846,x0,y200&width=1503&height=846&format=pjpg&auto=webp",
-            "publishedAt": "2025-10-12T10:01:46Z"
-        },
-        {
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            },
-            "title": "AI for Free: Top courses from IISc Bangalore, IIT Guwahati, Google & more",
-            "url": "https://indianexpress.com/article/education/free-top-artificial-intelligence-courses-in-2025-iisc-iit-guwahati-google-swayam-10302436/",
-            "urlToImage": "https://images.indianexpress.com/2025/10/artificial-intelligence-free-courses.jpg",
-            "publishedAt": "2025-10-12T09:38:27Z"
-        },
-        {
-            "source": {
-                "id": "091dc78b9d3467c25d28c392b1c1c4c2",
-                "name": "The Philadelphia Inquirer",
-                "url": "https://www.inquirer.com",
-                "country": "us"
-            },
-            "title": "AI is watching us. We need city officials watching AI.",
-            "url": "https://www.inquirer.com/opinion/commentary/ai-philadelphia-tech-lobbying-surveillance-public-record-20251012.html",
-            "urlToImage": "https://www.inquirer.com/resizer/v2/K2IJTTBEYFHIXK2OPXSGQTD3GU.jpg?auth=60ea9f1a295e2a5c0c3405ac9fe3fed7b3a3463c25e2a067a4638b2bbf90b852&width=760&height=507&smart=true",
-            "publishedAt": "2025-10-12T09:00:00Z"
-        },
-        {
-            "source": {
-                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
-                "name": "Australian Financial Review",
-                "url": "https://www.afr.com",
-                "country": "au"
-            },
-            "title": "Australia’s cybersecurity chief warns of AI supercharging hacking",
-            "url": "https://www.afr.com/policy/foreign-affairs/cybersecurity-chief-warns-ai-powered-hacking-will-be-the-new-normal-20251012-p5n1tp",
-            "urlToImage": "https://static.ffx.io/images/$zoom_0.3104%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_540%2C$y_191/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/05128039b5345de663a3d76a0fc004df46e25b26",
-            "publishedAt": "2025-10-12T09:00:00Z"
-        },
-        {
-            "source": {
-                "id": "44d394a4e765f82b49b452e4302a72b0",
-                "name": "Business Standard",
-                "url": "https://www.business-standard.com",
-                "country": "in"
-            },
-            "title": "Irdai asks insurers, distributors to form fraud risk management framework",
-            "url": "https://www.business-standard.com/finance/insurance/irdai-fraud-risk-framework-insurers-reinsurers-cybersecurity-2026-125101200278_1.html",
-            "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-05/28/thumb/fitandfill/1200X630/1748455686-9871.jpg",
-            "publishedAt": "2025-10-12T08:32:09Z"
         }
     ]
 }
