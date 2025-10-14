@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2025-10-14T03:33:54.800715Z",
+    "lastUpdatedAt": "2025-10-14T04:18:26.220421Z",
     "articles": [
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Baba Vanga prediction 2026: Will a “cash crush” trigger a global recession soon?",
+            "url": "https://economictimes.indiatimes.com/news/international/us/baba-vanga-prediction-2026-will-a-cash-crush-trigger-a-global-recession-soon/articleshow/124530892.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-124531775,width-1200,height-630,imgsize-28920,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-10-13T16:16:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Philippines launches National AI Strategy",
+            "url": "https://www.manilatimes.net/2025/10/14/news/national/philippines-launches-national-ai-strategy/2199749",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/10/13/781100.jpg",
+            "publishedAt": "2025-10-13T16:09:00Z"
+        },
+        {
+            "source": {
+                "id": "17d7c2645f485578130862e0c8dd9480",
+                "name": "The Mercury News",
+                "url": "https://www.mercurynews.com",
+                "country": "us"
+            },
+            "title": "OpenAI partners with Broadcom to design its own AI chips",
+            "url": "https://www.mercurynews.com/2025/10/13/openai-partners-with-broadcom-to-design-its-own-ai-chips/",
+            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/10/OpenAI_69614_68bc75.jpg?w=1024&h=682",
+            "publishedAt": "2025-10-13T16:07:01Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "UTM’s teddy helps autistic kids",
+            "url": "https://www.thestar.com.my/news/nation/2025/10/14/utmsteddy-helps-autistic-kids",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/14/3569085.jpeg",
+            "publishedAt": "2025-10-13T16:00:00Z"
+        },
+        {
+            "source": {
+                "id": "97497c18f5cb431f5f324b3d8643c24f",
+                "name": "The Independent",
+                "url": "https://www.independent.co.uk",
+                "country": "gb"
+            },
+            "title": "Squawk Box co-host warns of similarities between today and Wall Street in 1929: ‘I can assure you, unfortunately, we will have a crash’",
+            "url": "https://www.independent.co.uk/news/world/americas/us-politics/andrew-ross-sorkin-stock-market-crash-prediction-b2844463.html",
+            "urlToImage": "https://static.independent.co.uk/2025/10/13/14/29/GettyImages-2188241415.jpg?width=1200&height=800&crop=1200:800",
+            "publishedAt": "2025-10-13T15:35:20Z"
+        },
+        {
+            "source": {
+                "id": "c8c865ed042eb14694b8d596e22efe99",
+                "name": "Spokane Spokesman-Review",
+                "url": "https://www.spokesman.com",
+                "country": "us"
+            },
+            "title": "Microsoft to bring AI to WA classrooms amid urban, rural tech divide",
+            "url": "https://www.spokesman.com/stories/2025/oct/13/microsoft-to-bring-ai-to-wa-classrooms-amid-urban-/",
+            "urlToImage": "https://thumb.spokesman.com/D4UMFHG1woE7wFBy9vTBHrq0bAw=/1200x630/smart/media.spokesman.com/photos/2025/10/13/67057df779a18.hires.jpg",
+            "publishedAt": "2025-10-13T15:35:00Z"
+        },
+        {
+            "source": {
+                "id": "c8c865ed042eb14694b8d596e22efe99",
+                "name": "Spokane Spokesman-Review",
+                "url": "https://www.spokesman.com",
+                "country": "us"
+            },
+            "title": "Pew: Most US workers don’t use AI in their job, but the number is growing",
+            "url": "https://www.spokesman.com/stories/2025/oct/13/pew-most-us-workers-dont-use-ai-in-their-job-but-t/",
+            "urlToImage": "https://thumb.spokesman.com/0bwI8Izp5uh01hBW7Kx5xIrQNmw=/1200x630/smart/media.spokesman.com/photos/2025/10/13/68ed9cad34e21.hires.jpg",
+            "publishedAt": "2025-10-13T15:34:00Z"
+        },
         {
             "source": {
                 "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
@@ -1104,6 +1188,87 @@
             "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1013038",
             "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1013038.g006&size=inline",
             "publishedAt": "2025-10-13T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "arstechnica"
+            },
+            "title": "Why Signal’s post-quantum makeover is an amazing engineering achievement",
+            "url": "https://arstechnica.com/security/2025/10/why-signals-post-quantum-makeover-is-an-amazing-engineering-achievement/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/signal-quantum-security-1152x648.jpg",
+            "publishedAt": "2025-10-13 16:15:53"
+        },
+        {
+            "source": {
+                "name": "wvnews"
+            },
+            "title": "From Vision to Readiness: Vertiv Collaborates with NVIDIA to Advance 800 VDC Platform Designs to Power the Next Generation of AI Factories",
+            "url": "https://www.wvnews.com/business/from-vision-to-readiness-vertiv-collaborates-with-nvidia-to-advance-800-vdc-platform-designs-to/article_5a8b9dd4-669d-5476-9b43-9cab614dcce0.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/custom/image/dd23b0fa-a76a-11ea-b298-6f7943d03f88.jpg",
+            "publishedAt": "2025-10-13 16:09:13"
+        },
+        {
+            "source": {
+                "name": "fortune"
+            },
+            "title": "OpenAI-Broadcom agreement sends shares of chipmaker soaring",
+            "url": "https://fortune.com/2025/10/13/openai-broadcom-chipmaker-artificial-intelligence-data-center/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-2236544077-e1760371654928.jpg?w=2048",
+            "publishedAt": "2025-10-13 16:08:52"
+        },
+        {
+            "source": {
+                "name": "eastbaytimes"
+            },
+            "title": "OpenAI partners with Broadcom to design its own AI chips",
+            "url": "https://www.eastbaytimes.com/2025/10/13/openai-partners-with-broadcom-to-design-its-own-ai-chips/",
+            "urlToImage": "https://www.eastbaytimes.com/wp-content/uploads/2025/10/OpenAI_69614_68bc75.jpg?h=682&w=1024",
+            "publishedAt": "2025-10-13 16:07:01"
+        },
+        {
+            "source": {
+                "name": "reason"
+            },
+            "title": "California Wants To Punish Social Platforms for Aiding and Abetting the First Amendment",
+            "url": "https://reason.com/2025/10/13/california-wants-to-punish-social-platforms-for-aiding-and-abetting-the-first-amendment/",
+            "urlToImage": "https://d2eehagpk5cl65.cloudfront.net/img/c800x450-w800-q80/uploads/2025/10/zumaamericasfortynine766844-800x450.jpg",
+            "publishedAt": "2025-10-13 16:02:08"
+        },
+        {
+            "source": {
+                "name": "eagletribune"
+            },
+            "title": "Wiwynn Showcases Next-Generation AI Infrastructure and Cooling Advances at OCP Global Summit 2025",
+            "url": "https://www.eagletribune.com/region/wiwynn-showcases-next-generation-ai-infrastructure-and-cooling-advances-at-ocp-global-summit-2025/article_14b9e093-3d15-577b-8b50-59b2ca9ad99b.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333",
+            "publishedAt": "2025-10-13 16:00:29"
+        },
+        {
+            "source": {
+                "name": "eagletribune"
+            },
+            "title": "Wiwynn Debuts Double-Wide Rack Architecture for Next‐Generation AI at OCP Global Summit 2025",
+            "url": "https://www.eagletribune.com/region/wiwynn-debuts-double-wide-rack-architecture-for-next-generation-ai-at-ocp-global-summit-2025/article_589496b0-d278-5a43-871b-1be44f48e49c.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333",
+            "publishedAt": "2025-10-13 16:00:29"
+        },
+        {
+            "source": {
+                "name": "en_prnasisa"
+            },
+            "title": "Wiwynn Debuts Double-Wide Rack Architecture for Next‐Generation AI at OCP Global Summit 2025",
+            "url": "https://en.prnasia.com/story/506925-0.shtml",
+            "urlToImage": "https://mma.prnasia.com/media2/2245278/Wiwynn_LOGO.jpg?p=medium600",
+            "publishedAt": "2025-10-13 16:00:00"
+        },
+        {
+            "source": {
+                "name": "en_prnasisa"
+            },
+            "title": "Wiwynn Showcases Next-Generation AI Infrastructure and Cooling Advances at OCP Global Summit 2025",
+            "url": "https://en.prnasia.com/story/506924-0.shtml",
+            "urlToImage": "https://mma.prnasia.com/media2/2245278/Wiwynn_LOGO.jpg?p=medium600",
+            "publishedAt": "2025-10-13 16:00:00"
         },
         {
             "source": {
@@ -3021,150 +3186,6 @@
             "url": "https://www.geeky-gadgets.com/intel-panther-lake-processors/",
             "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/10/intel-panther-lake-processor-closeup_optimized.webp",
             "publishedAt": "2025-10-12 14:02:14"
-        },
-        {
-            "source": {
-                "name": "bgr_com"
-            },
-            "title": "10 Times Nasty Malware Hid In Official Video Games",
-            "url": "https://www.bgr.com/1990467/history-of-maleware-hidden-in-video-games/",
-            "urlToImage": "https://www.bgr.com/img/gallery/10-times-nasty-malware-hid-in-official-video-games/l-intro-1759908811.jpg",
-            "publishedAt": "2025-10-12 14:02:00"
-        },
-        {
-            "source": {
-                "name": "marinij"
-            },
-            "title": "One Tech Tip: Annoyed by junk calls to your iPhone? Try the new iOS 26 call screen feature",
-            "url": "https://www.marinij.com/2025/10/12/ios-26-call-screening/",
-            "urlToImage": "https://www.marinij.com/wp-content/uploads/2025/10/Apple_New_iPhones_94008.jpg?strip=all&w=1400px",
-            "publishedAt": "2025-10-12 13:40:39"
-        },
-        {
-            "source": {
-                "name": "orlandosentinel"
-            },
-            "title": "One Tech Tip: Annoyed by junk calls to your iPhone? Try the new iOS 26 call screen feature",
-            "url": "https://www.orlandosentinel.com/2025/10/12/ios-26-call-screening/",
-            "urlToImage": "https://www.orlandosentinel.com/wp-content/uploads/2025/10/Apple_New_iPhones_94008.jpg?strip=all&w=1400px",
-            "publishedAt": "2025-10-12 13:40:39"
-        },
-        {
-            "source": {
-                "name": "troyrecord"
-            },
-            "title": "One Tech Tip: Annoyed by junk calls to your iPhone? Try the new iOS 26 call screen feature",
-            "url": "https://www.troyrecord.com/2025/10/12/ios-26-call-screening/",
-            "urlToImage": "https://www.troyrecord.com/wp-content/uploads/2025/10/Apple_New_iPhones_94008.jpg?strip=all&w=1400px",
-            "publishedAt": "2025-10-12 13:40:39"
-        },
-        {
-            "source": {
-                "name": "fortmorgantimes"
-            },
-            "title": "One Tech Tip: Annoyed by junk calls to your iPhone? Try the new iOS 26 call screen feature",
-            "url": "https://www.fortmorgantimes.com/2025/10/12/ios-26-call-screening/",
-            "urlToImage": "https://www.fortmorgantimes.com/wp-content/uploads/2025/10/Apple_New_iPhones_94008.jpg?strip=all&w=1400px",
-            "publishedAt": "2025-10-12 13:40:39"
-        },
-        {
-            "source": {
-                "name": "lowellsun"
-            },
-            "title": "One Tech Tip: Annoyed by junk calls to your iPhone? Try the new iOS 26 call screen feature",
-            "url": "https://www.lowellsun.com/2025/10/12/ios-26-call-screening/",
-            "urlToImage": "https://www.lowellsun.com/wp-content/uploads/2025/10/Apple_New_iPhones_94008.jpg?strip=all&w=1400px",
-            "publishedAt": "2025-10-12 13:40:39"
-        },
-        {
-            "source": {
-                "name": "vice"
-            },
-            "title": "Microsoft Copilot Can Now Fly in the Right Seat of Your Google Account",
-            "url": "https://www.vice.com/en/article/microsoft-copilot-google-integration/",
-            "urlToImage": "https://www.vice.com/wp-content/uploads/sites/2/2025/10/Microsoft-Connectors.png?w=1024",
-            "publishedAt": "2025-10-12 13:12:13"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Master Python with freeCodeCamp’s Comprehensive Guides and Courses",
-            "url": "https://techannouncer.com/master-python-with-freecodecamps-comprehensive-guides-and-courses/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/10/2ac5b9d3thumbnail-332x187.jpeg",
-            "publishedAt": "2025-10-12 13:11:06"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Unlock the Power of Google AI Studio: Your Free Gateway to Gemini API",
-            "url": "https://techannouncer.com/unlock-the-power-of-google-ai-studio-your-free-gateway-to-gemini-api/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/10/8d1524cdthumbnail-332x187.jpeg",
-            "publishedAt": "2025-10-12 13:08:04"
-        },
-        {
-            "source": {
-                "name": "wired"
-            },
-            "title": "16 Best Laptops (2025), WIRED-Tested and Approved",
-            "url": "https://www.wired.com/gallery/best-laptops/",
-            "urlToImage": "https://media.wired.com/photos/67d04e1c38d5984f21140ee2/4:3/w_320,c_limit/Apple-MacBook-Air-13-Inch-M4-2025-(front-open-screen-desktop)-Reviewer-Photo-SOURCE-Brenda-Stolyar.jpg",
-            "publishedAt": "2025-10-12 13:00:00"
-        },
-        {
-            "source": {
-                "name": "digitaltrends"
-            },
-            "title": "I’m fed up of AI chatbots replacing customer service",
-            "url": "https://www.digitaltrends.com/computing/im-fed-up-of-ai-chatbots-replacing-customer-service/",
-            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/04/Opera-Aria-AI-chatbot-long-question-1-e1760118966305.jpg?p=1&resize=1200%2C630",
-            "publishedAt": "2025-10-12 13:00:00"
-        },
-        {
-            "source": {
-                "name": "ndtv"
-            },
-            "title": "Researchers Build Record 6,000-Qubit Quantum Machine That Works at Room Temperature",
-            "url": "https://www.gadgets360.com/science/news/quantum-record-shattered-scientists-build-6100-qubit-array-that-works-at-room-temperature-9417309",
-            "urlToImage": "https://i.gadgets360cdn.com/large/Untitled_design_1759916354626.jpg?downsize=950%3A%2A",
-            "publishedAt": "2025-10-12 12:41:12"
-        },
-        {
-            "source": {
-                "name": "thelincolnianonline"
-            },
-            "title": "Reviewing Elcom International (OTCMKTS:ELCO) & Cadence Design Systems (NASDAQ:CDNS)",
-            "url": "https://www.thelincolnianonline.com/2025/10/12/reviewing-elcom-international-otcmktselco-cadence-design-systems-nasdaqcdns.html",
-            "urlToImage": "https://www.marketbeat.com/logos/elcom-international-inc-logo-1200x675.png?v=20230125071359",
-            "publishedAt": "2025-10-12 12:08:47"
-        },
-        {
-            "source": {
-                "name": "denverpost"
-            },
-            "title": "Stricter visa rules have Colorado employers that rely on foreign workers scrambling",
-            "url": "https://www.denverpost.com/2025/10/12/h1b-visas-trump-immigration-colorado-employers/",
-            "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/10/TDP-L-FAGERBERG-PRODUCE_JAC5844.jpg?h=797&w=1024",
-            "publishedAt": "2025-10-12 12:00:38"
-        },
-        {
-            "source": {
-                "name": "zephyrnet"
-            },
-            "title": "Future Tech Forecasts",
-            "url": "https://zephyrnet.com/future-tech-forecasts/",
-            "urlToImage": "https://zephyrnet.com/wp-content/uploads/img-GRqTcriaSmPnOcuTb34zTyqy.png",
-            "publishedAt": "2025-10-12 11:52:13"
-        },
-        {
-            "source": {
-                "name": "thelincolnianonline"
-            },
-            "title": "Best Quantum Computing Stocks To Add to Your Watchlist – October 11th",
-            "url": "https://www.thelincolnianonline.com/2025/10/12/best-quantum-computing-stocks-to-add-to-your-watchlist-october-11th.html",
-            "urlToImage": "https://www.marketbeat.com/logos/ionq-inc-logo-1200x675.png?v=20211203111404",
-            "publishedAt": "2025-10-12 11:08:59"
         }
     ]
 }
