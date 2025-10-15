@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-10-15T10:17:24.422395Z",
+    "lastUpdatedAt": "2025-10-15T11:13:03.903838Z",
     "articles": [
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Health dept develops AI protocol, app for quick breast cancer identification",
+            "url": "https://timesofindia.indiatimes.com/city/kolkata/health-dept-develops-ai-protocol-app-for-quick-breast-cancer-identification/articleshow/124559955.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-124559954,width-1070,height-580,imgsize-66692,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-10-14T22:43:00Z"
+        },
         {
             "source": {
                 "id": "269ea9e0bf9ef1dfb1c11ac207999d23",
@@ -1863,6 +1875,69 @@
         },
         {
             "source": {
+                "name": "siliconangle"
+            },
+            "title": "Nvidia to start shipping AI-optimized DGX Spark desktop computer",
+            "url": "https://siliconangle.com/2025/10/14/nvidia-start-shipping-ai-optimized-dgx-spark-desktop-computer/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/10/DGX-Spark.png",
+            "publishedAt": "2025-10-14 23:07:50"
+        },
+        {
+            "source": {
+                "name": "newswise"
+            },
+            "title": "In This Programming Class, 'Failing' Is Encouraged",
+            "url": "https://www.newswise.com/articles/in-this-programming-class-failing-is-encouraged/?sc=rssn",
+            "urlToImage": "https://www.newswise.com/legacy/image.php?height=334&image=%2Fimages%2Fuploads%2F2025%2F10%2F14%2F68eebe85176d6_SCAI-Erik-Trickel-2025-EG-9038-a1920x1080.jpg&width=502",
+            "publishedAt": "2025-10-14 23:05:28"
+        },
+        {
+            "source": {
+                "name": "prnewswire_apac"
+            },
+            "title": "Suunto launches Vertical 2: the new generation of Suunto's ultimate adventure companion",
+            "url": "https://www.prnewswire.com/apac/news-releases/suunto-launches-vertical-2-the-new-generation-of-suuntos-ultimate-adventure-companion-302583198.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2795574/Suunto_Vertical_2_high_performance_companion.jpg?p=original",
+            "publishedAt": "2025-10-14 23:00:00"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Turso Enables Concurrent Writes in libSQL for Scalable Edge Databases",
+            "url": "https://www.webpronews.com/turso-enables-concurrent-writes-in-libsql-for-scalable-edge-databases/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-35041bda-1b55-4f69-ba7c-2910aa34b463.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-10-14 22:45:00"
+        },
+        {
+            "source": {
+                "name": "xda_developers"
+            },
+            "title": "I made my TrueNAS system virtually immortal",
+            "url": "https://www.xda-developers.com/my-truenas-system-virtually-immortal/",
+            "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/09/crucial-m2-ssds-beelink-mini-pc.jpg",
+            "publishedAt": "2025-10-14 22:30:20"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "How FinOps Platforms Like Vantage Are Changing the Economics of Cloud Computing",
+            "url": "https://www.webpronews.com/finops/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2024/08/cloudcomputing-081924.jpeg?fit=1024%2C768&ssl=1",
+            "publishedAt": "2025-10-14 22:27:08"
+        },
+        {
+            "source": {
+                "name": "venturebeat"
+            },
+            "title": "EAGLET boosts AI agent performance on longer-horizon tasks by generating custom plans",
+            "url": "https://venturebeat.com/ai/eaglet-boosts-ai-agent-performance-on-longer-horizon-tasks-by-generating",
+            "urlToImage": "https://images.ctfassets.net/jdtwqhzvc2n1/1FsFs77cl1uzCE3JPEBnrk/7541c62def835191ff404046af4030c7/cfr0z3n_graphic_novel_hyper_detailed_close_up_on_a_cybernetic_b_9624e28f-5392-4c92-a115-0520c6058152.png",
+            "publishedAt": "2025-10-14 22:27:00"
+        },
+        {
+            "source": {
                 "name": "digitaltrends"
             },
             "title": "Chrome can now summarize articles using Gemini, and it does a better job than Safari",
@@ -3093,78 +3168,6 @@
             "url": "https://www.news9live.com/technology/tech-news/openai-broadcom-ai-chip-project-world-largest-2896882",
             "urlToImage": "https://images.news9live.com/wp-content/uploads/2025/10/OpenAI-and-Broadcom-announced-a-plan-to-co-develop-10GW-of-AI-accelerators.png?enlarge=true&w=802",
             "publishedAt": "2025-10-14 05:36:00"
-        },
-        {
-            "source": {
-                "name": "wvnews"
-            },
-            "title": "ASUS Unveils AI Factory and Next-Gen Servers with NVIDIA HGX B300 systems at OCP 2025",
-            "url": "https://www.wvnews.com/news/around_the_web/partners/pr_newswire/subject/new_products_services/asus-unveils-ai-factory-and-next-gen-servers-with-nvidia-hgx-b300-systems-at-ocp/article_16dd78b2-b605-5f98-b548-0a0307a051fa.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/assets/v3/editorial/d/27/d273a72b-4cf0-53cc-aca4-bf7b8cd025ad/68ede3a3c6ed1.image.jpg?resize=300%2C215",
-            "publishedAt": "2025-10-14 05:30:00"
-        },
-        {
-            "source": {
-                "name": "cxotoday"
-            },
-            "title": "After Nvidia and AMD, OpenAI Now Ties Up with Broadcom for Custom-made AI Microchips",
-            "url": "https://cxotoday.com/news-analysis/after-nvidia-and-amd-openai-now-ties-up-with-broadcom-for-custom-made-ai-microchips/",
-            "urlToImage": "https://cxotoday.com/wp-content/uploads/2025/10/openai-fotor.jpg",
-            "publishedAt": "2025-10-14 05:12:27"
-        },
-        {
-            "source": {
-                "name": "newsbytesapp"
-            },
-            "title": "OpenAI partners with Broadcom to develop custom AI processors",
-            "url": "https://www.newsbytesapp.com/news/science/openai-partners-with-broadcom-to-build-custom-ai-processors/story",
-            "urlToImage": "https://i.cdn.newsbytesapp.com/images/l4420251014101821.png",
-            "publishedAt": "2025-10-14 05:07:24"
-        },
-        {
-            "source": {
-                "name": "freepressjournal"
-            },
-            "title": "Apple Smart Glasses Tipped To Come With Speakers, Cameras, AI-Powered Voice Controls; Likely To Launch Commercially in 2027",
-            "url": "https://www.freepressjournal.in/tech/apple-smart-glasses-tipped-to-come-with-speakers-cameras-ai-powered-voice-controls-likely-to-launch-commercially-in-2027",
-            "urlToImage": "https://media.assettype.com/freepressjournal/2025-10-14/6z8tab06/applesmartglassesai-1.jpg?width=1200",
-            "publishedAt": "2025-10-14 05:04:26"
-        },
-        {
-            "source": {
-                "name": "thehindubusinessline"
-            },
-            "title": "Europe fights for AI independence to avoid becoming tech ‘Colony’",
-            "url": "https://www.thehindubusinessline.com/info-tech/europe-fights-for-ai-independence-to-avoid-becoming-tech-colony/article70161288.ece",
-            "urlToImage": "https://bl-i.thgim.com/public/incoming/frbw6s/article70161308.ece/alternates/LANDSCAPE_1200/BL03_AI_generate.jpg",
-            "publishedAt": "2025-10-14 04:43:54"
-        },
-        {
-            "source": {
-                "name": "thetimesnews"
-            },
-            "title": "ASUS Unveils AI Factory and Next-Gen Servers with NVIDIA HGX B300 systems at OCP 2025",
-            "url": "https://www.thetimesnews.com/online_features/press_releases/asus-unveils-ai-factory-and-next-gen-servers-with-nvidia-hgx-b300-systems-at-ocp/article_bb9ca0b4-955a-5f43-af6e-5b4d01e39f07.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thetimesnews.com/content/tncms/assets/v3/editorial/c/9a/c9a33951-3bcd-5985-879a-7db9b88e3dff/68edf05278d26.image.jpg?resize=300%2C216",
-            "publishedAt": "2025-10-14 04:30:00"
-        },
-        {
-            "source": {
-                "name": "sentinelsource"
-            },
-            "title": "ASUS Unveils AI Factory and Next-Gen Servers with NVIDIA HGX B300 systems at OCP 2025",
-            "url": "https://www.keenesentinel.com/online_features/press_releases/asus-unveils-ai-factory-and-next-gen-servers-with-nvidia-hgx-b300-systems-at-ocp/article_37832df2-0d1f-5ae2-820a-5f231c0b44fb.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/keenesentinel.com/content/tncms/assets/v3/editorial/8/b2/8b22e825-65ed-5ee4-b253-82e803fe5905/68edf0df3b6ff.image.jpg?resize=300%2C216",
-            "publishedAt": "2025-10-14 04:30:00"
-        },
-        {
-            "source": {
-                "name": "kinston"
-            },
-            "title": "ASUS Unveils AI Factory and Next-Gen Servers with NVIDIA HGX B300 systems at OCP 2025",
-            "url": "https://www.kinston.com/online_features/press_releases/asus-unveils-ai-factory-and-next-gen-servers-with-nvidia-hgx-b300-systems-at-ocp/article_9777068b-2a56-59a1-9b25-9da88a7330c4.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/kinston.com/content/tncms/assets/v3/editorial/4/eb/4eb287a0-bfeb-5358-8082-783e30058d55/68edee04ef2e9.image.jpg?resize=300%2C216",
-            "publishedAt": "2025-10-14 04:30:00"
         }
     ]
 }
