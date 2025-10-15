@@ -1,6 +1,114 @@
 {
-    "lastUpdatedAt": "2025-10-15T22:12:42.417738Z",
+    "lastUpdatedAt": "2025-10-15T23:13:20.703940Z",
     "articles": [
+        {
+            "source": {
+                "id": "8da923084554b2821233d6c5c5f02c97",
+                "name": "Fox News",
+                "url": "https://www.foxnews.com",
+                "country": "us"
+            },
+            "title": "Hidden type of breast cancer could be exposed by new breakthrough tech",
+            "url": "https://www.foxnews.com/health/hidden-type-breast-cancer-could-exposed-new-breakthrough-tech",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/woman-breast-cancer-patient.jpg",
+            "publishedAt": "2025-10-15T11:00:43Z"
+        },
+        {
+            "source": {
+                "id": "8da923084554b2821233d6c5c5f02c97",
+                "name": "Fox News",
+                "url": "https://www.foxnews.com",
+                "country": "us"
+            },
+            "title": "Researchers develop AI to help detect hard-to-spot lobular breast cancer",
+            "url": "https://www.foxnews.com/health/stealth-breast-cancer-hides-from-scans-targeted-breakthrough-tech",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/mammogram-breast-scan-dr-roy.jpg",
+            "publishedAt": "2025-10-15T11:00:43Z"
+        },
+        {
+            "source": {
+                "id": "b1fa63410571207862faad9daf9b4527",
+                "name": "Pittsburgh Tribune-Review",
+                "url": "https://triblive.com",
+                "country": "us"
+            },
+            "title": "Tyler Samstag: From Mister Rogers to machine learning - Pittsburgh's next big moment in education",
+            "url": "https://triblive.com/opinion/tyler-samstag-from-mister-rogers-to-machine-learning-pittsburghs-next-big-moment-in-education/",
+            "urlToImage": "https://assets-varnish.triblive.com/2025/10/8948083_web1_gtr-cmns-Morici-120424.jpg",
+            "publishedAt": "2025-10-15T11:00:00Z"
+        },
+        {
+            "source": {
+                "id": "7eeaf9a839918543cc708f2d331c3be4",
+                "name": "Free Press Journal",
+                "url": "https://www.freepressjournal.in",
+                "country": "in"
+            },
+            "title": "AI-Generated Images Fuel Surge Of Anti-Muslim Hate In India, Finds Report",
+            "url": "https://www.freepressjournal.in/india/ai-generated-images-fuel-surge-of-anti-muslim-hate-in-india-finds-report",
+            "urlToImage": "https://media.assettype.com/freepressjournal/2025-10-15/2g14agn1/GeminiGeneratedImageq6v8pwq6v8pwq6v8.png",
+            "publishedAt": "2025-10-15T10:51:21Z"
+        },
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "Smartphone-powered AI predicts avocado ripeness",
+            "url": "https://phys.org/news/2025-10-smartphone-powered-ai-avocado-ripeness.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/smartphone-powered-ai.jpg",
+            "publishedAt": "2025-10-15T10:38:04Z"
+        },
+        {
+            "source": {
+                "id": "1a6c3258d04827f52d40713ad8166b1b",
+                "name": "Interesting Engineering",
+                "url": "https://interestingengineering.com",
+                "country": "us"
+            },
+            "title": "ready robot dog that fires grenades unveiled",
+            "url": "https://interestingengineering.com/military/grenade-launching-robot-dog-us",
+            "urlToImage": "https://cms.interestingengineering.com/wp-content/uploads/2025/10/Canva-Photo-2025-10-15T142016.300.jpg",
+            "publishedAt": "2025-10-15T10:32:25Z"
+        },
+        {
+            "source": {
+                "id": "109f2b4a20da4fe1c2fd502b03c07243",
+                "name": "BBC News",
+                "url": "https://www.bbc.com",
+                "country": "gb"
+            },
+            "title": "Why big tech's nuclear plans could blow up",
+            "url": "https://www.bbc.com/worklife/article/20251008-why-big-tech-is-going-nuclear",
+            "urlToImage": "https://ychef.files.bbci.co.uk/624x351/p0m7fr0l.jpg",
+            "publishedAt": "2025-10-15T10:30:46Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Analysis-Investors on guard for risks that could derail the AI gravy train",
+            "url": "https://www.thestar.com.my/tech/tech-news/2025/10/15/analysis-investors-on-guard-for-risks-that-could-derail-the-ai-gravy-train",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/15/3572116.jpg",
+            "publishedAt": "2025-10-15T10:29:00Z"
+        },
+        {
+            "source": {
+                "id": "6b5614f288c2ce8fcedc9909a3e2696b",
+                "name": "Metro.co.uk",
+                "url": "https://metro.co.uk",
+                "country": "gb"
+            },
+            "title": "ChatGPT update to allow users to make erotica and will 'treat adults like adults'",
+            "url": "https://metro.co.uk/2025/10/15/chatgpt-update-allow-users-make-erotica-will-treat-adults-like-adults-24430694/",
+            "urlToImage": "https://metro.co.uk/wp-content/uploads/2025/10/SEC_270325231-71c8_1760524115.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
+            "publishedAt": "2025-10-15T10:27:36Z"
+        },
         {
             "source": {
                 "id": "da5c26287bdd02563a2c32b55cb12051",
@@ -756,6 +864,96 @@
             "url": "https://www.forbes.com/councils/forbesfinancecouncil/2025/10/15/14-factors-to-consider-when-upskilling-your-team-on-cybersecurity/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68ef8c864f55c3a57826817d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-10-15T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "digit_in"
+            },
+            "title": "Crescent Island: Intel’s bold bet to rival Nvidia in AI chips",
+            "url": "https://www.digit.in/features/general/crescent-island-intels-bold-bet-to-rival-nvidia-in-ai-chips.html",
+            "urlToImage": "https://static.digit.in/Intel-GPU.jpg",
+            "publishedAt": "2025-10-15 11:12:02"
+        },
+        {
+            "source": {
+                "name": "fastcompany"
+            },
+            "title": "Are large language models the problem, not the solution?",
+            "url": "https://www.fastcompany.com/91415127/are-large-language-models-the-problem-not-the-solution-ai-large-language-models?partner=rss",
+            "urlToImage": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2025/10/p-91415127-are-large-language-models-the-problem.jpg",
+            "publishedAt": "2025-10-15 11:12:00"
+        },
+        {
+            "source": {
+                "name": "orissapost"
+            },
+            "title": "Crewed Moon mission by 2040, Gaganyaan in 2027: ISRO chief Narayanan",
+            "url": "https://www.orissapost.com/isro-chief-narayanan-crewed-moon-mission-by-2040-gaganyaan-in-2027/",
+            "urlToImage": "https://www.orissapost.com/wp-content/uploads/2025/03/V-Narayan-300x169.jpg",
+            "publishedAt": "2025-10-15 11:01:38"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Bridging the Gap Between BFS and Indexing for Large Graphs",
+            "url": "https://hackernoon.com/bridging-the-gap-between-bfs-and-indexing-for-large-graphs",
+            "urlToImage": "https://hackernoon.imgix.net/images/5wpKgV75aONqkTJlafw2yQmK9yd2-ze03bks.png",
+            "publishedAt": "2025-10-15 11:00:15"
+        },
+        {
+            "source": {
+                "name": "cision"
+            },
+            "title": "Smartkem to Exhibit and Present at TechBlick Berlin: The Future of Electronics RESHAPED 2025",
+            "url": "https://www.prnewswire.com/news-releases/smartkem-to-exhibit-and-present-at-techblick-berlin-the-future-of-electronics-reshaped-2025-302583950.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2749211/5525639/Smartkem_Logo.jpg?p=publish",
+            "publishedAt": "2025-10-15 11:00:00"
+        },
+        {
+            "source": {
+                "name": "dtnext"
+            },
+            "title": "Crewed Moon mission by 2040; maiden human spaceflight to launch in 2027: ISRO chief Narayanan",
+            "url": "https://www.dtnext.in/news/national/crewed-moon-mission-by-2040-maiden-human-spaceflight-to-launch-in-2027-isro-chief-narayanan-849662",
+            "urlToImage": "https://media.dtnext.in/h-upload/2025/10/15/750x450_875585-narayan-1.jpg",
+            "publishedAt": "2025-10-15 10:57:44"
+        },
+        {
+            "source": {
+                "name": "andhrabhoomi"
+            },
+            "title": "Isro Plans Moon Landing by 2040",
+            "url": "https://www.deccanchronicle.com/nation/isro-plans-moon-landing-by-2040-1910338",
+            "urlToImage": "https://www.deccanchronicle.com/h-upload/2025/10/15/1967826-isro-2.jpg",
+            "publishedAt": "2025-10-15 10:51:56"
+        },
+        {
+            "source": {
+                "name": "economictimes_indiatimes"
+            },
+            "title": "Crewed Moon mission by 2040; maiden human spaceflight to launch in 2027: ISRO chief Narayanan",
+            "url": "http://economictimes.indiatimes.com/news/science/crewed-moon-mission-by-2040-maiden-human-spaceflight-to-launch-in-2027-isro-chief-narayanan/articleshow/124575210.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-124575241,width-300,height-225,imgsize-55330,resizemode-75/isro-chairman-v-narayanan-meets-chief-minister-bhupendra-patel.jpg",
+            "publishedAt": "2025-10-15 10:48:57"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "Looking for a Windows 11 laptop? This Dell checks all the right boxes for me",
+            "url": "https://www.zdnet.com/article/looking-for-a-windows-11-laptop-this-dell-checks-all-the-right-boxes-for-me/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/268c177763a07164e9afa3b804b9828eebf046f6/2025/07/24/6e232056-02a4-47cd-b1a1-a7155e96e957/dell-premium-16-image-5.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-10-15 10:47:00"
+        },
+        {
+            "source": {
+                "name": "in_mashable"
+            },
+            "title": "Samsung’s Project Moohan XR Headset To Launch On Oct 21; Apple Vision Pro Finally Meets Its Android Rival!",
+            "url": "https://in.mashable.com/tech/101092/samsungs-project-moohan-xr-headset-to-launch-on-oct-21-apple-vision-pro-finally-meets-its-android-ri",
+            "urlToImage": "https://sm.mashable.com/mashable_in/photo/default/applevr_sn6e.jpg",
+            "publishedAt": "2025-10-15 10:32:17"
         },
         {
             "source": {
@@ -3123,234 +3321,6 @@
             "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-to-build-mega-ai-hub-in-india-with-10-billion-investment/articleshow/124545422.cms",
             "urlToImage": "https://static.toiimg.com/thumb/msid-124545403,width-1070,height-580,imgsize-107272,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
             "publishedAt": "2025-10-14T06:17:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Nobel economist warns of AI dangers",
-            "url": "https://economictimes.indiatimes.com/news/international/world-news/nobel-economist-warns-of-ai-dangers/articleshow/124545385.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-124545466,width-1200,height-630,imgsize-78840,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2025-10-14T06:15:00Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "France's Publicis says AI drives its growth, raises yearly forecast again",
-            "url": "https://www.thestar.com.my/tech/tech-news/2025/10/14/france039s-publicis-says-ai-drives-its-growth-raises-yearly-forecast-again",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/14/3569704.jpg",
-            "publishedAt": "2025-10-14T05:47:00Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "France's Publicis says AI drives its growth, raises yearly forecast again",
-            "url": "https://www.reuters.com/business/media-telecom/frances-publicis-says-ai-drives-its-growth-raises-yearly-forecast-again-2025-10-14/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/BDORRSO7EVLDDITAAEMZ7BTKFI.jpg?auth=cfce4468f0efd83505c32dc31502b7281520e8452eaffc9a4ae527a9eaaeb7bf&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-10-14T05:32:08Z"
-        },
-        {
-            "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
-                "country": "in"
-            },
-            "title": "Could the study of God help in making AI conscious?",
-            "url": "https://www.hindustantimes.com/india-news/could-the-study-of-god-help-in-making-ai-conscious-101760419300118.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/10/14/550x309/Some-scholars-understand-religious-experiences-and_1760419293572.jpg",
-            "publishedAt": "2025-10-14T05:21:39Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Europe fights for AI independence to avoid becoming tech ‘colony’",
-            "url": "https://www.thestar.com.my/tech/tech-news/2025/10/14/europe-fights-for-ai-independence-to-avoid-becoming-tech-colony",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/14/3569671.jpg",
-            "publishedAt": "2025-10-14T05:10:00Z"
-        },
-        {
-            "source": {
-                "id": "d6397b77175680e2678c0d60edcee7af",
-                "name": "South China Morning Post",
-                "url": "https://www.scmp.com",
-                "country": "hk"
-            },
-            "title": "Ancient 1,600-year-old love writing restored by Chinese scientists using modern day tools",
-            "url": "https://www.scmp.com/news/china/science/article/3328497/ancient-1600-year-old-love-writing-restored-chinese-scientists-using-modern-day-tools",
-            "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/10/10/b38cc492-49f0-45b0-a687-b373e9a44249_b01eb20c.jpg?itok=TEp7bOeT&v=1760078094",
-            "publishedAt": "2025-10-14T05:00:09Z"
-        },
-        {
-            "source": {
-                "id": "03f4f74aaa0a44ccbb846a1630123293",
-                "name": "Crypto Breaking News",
-                "url": "https://www.cryptobreaking.com",
-                "country": "ae"
-            },
-            "title": "SEAL Unveils New TLS Attestations Tool to Combat Phishing Threats",
-            "url": "https://www.cryptobreaking.com/seal-unveils-new-tls-attestations/",
-            "urlToImage": "https://www.cryptobreaking.com/wp-content/uploads/2025/10/dalle_68edd52d14f823.67204113-scaled-1.jpg",
-            "publishedAt": "2025-10-14T04:44:44Z"
-        },
-        {
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            },
-            "title": "Top free AI courses from IISc Bangalore, IIT Guwahati, Google & more",
-            "url": "https://indianexpress.com/article/education/free-top-artificial-intelligence-courses-in-2025-iisc-iit-guwahati-google-swayam-10302436/",
-            "urlToImage": "https://images.indianexpress.com/2025/10/artificial-intelligence-free-courses.jpg",
-            "publishedAt": "2025-10-14T04:37:39Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Europe Aims For AI Independence to Avoid Reliance on US and China",
-            "url": "https://www.bloomberg.com/news/articles/2025-10-14/europe-aims-for-ai-independence-to-avoid-reliance-on-us-and-china",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWbdbB90Oc0g/v3/1200x800.jpg",
-            "publishedAt": "2025-10-14T04:01:08Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "Nvidia and AMD not enough, AI demand is so high OpenAI is building its own chips now",
-            "url": "https://www.indiatoday.in/technology/news/story/nvidia-and-amd-not-enough-ai-demand-is-so-high-openai-is-building-its-own-chips-now-2802728-2025-10-14",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202510/openai-record-valuation-02505169-16x9_2.jpg?VersionId=DZP0Yia59HWXmtzDkv0Q5Xgo34G0K5kk",
-            "publishedAt": "2025-10-14T03:53:22Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Google to invest $10 billion in data centre and AI project in India",
-            "url": "https://www.reuters.com/world/india/google-invest-10-billion-data-centre-south-india-2025-10-14/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/O5XLG572TZL6XOV4XOM4QTPDB4.jpg?auth=0e1eaddfca0013a1608ef9596775506e7831b0407925cd8fc7904673fa59e715&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-10-14T02:56:42Z"
-        },
-        {
-            "source": {
-                "id": "105bb16685822879671e4bad332aeec9",
-                "name": "The Mirror",
-                "url": "https://www.mirror.co.uk",
-                "country": "gb"
-            },
-            "title": "Liam Payne's friend speaks out after Kate Cassidy's 'AI curse' photographs",
-            "url": "https://www.mirror.co.uk/3am/celebrity-news/liam-paynes-friend-speaks-out-36063325",
-            "urlToImage": "https://i2-prod.mirror.co.uk/article36063329.ece/ALTERNATES/s1200/1_Kate-Cassidy-shares-sign-from-late-ex-Liam-Payne-following-will-reveal.jpg",
-            "publishedAt": "2025-10-14T01:57:20Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Top Financial Headlines: EY Scandal, Cybersecurity Warnings, and UK Defense Overhaul",
-            "url": "https://www.devdiscourse.com/article/health/3662489-top-financial-headlines-ey-scandal-cybersecurity-warnings-and-uk-defense-overhaul",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/19_09_2025_02_32_56_5508349.png?width=920&format=jpeg",
-            "publishedAt": "2025-10-14T01:57:04Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "DataGlobal Hub Announces Exclusive Elite Membership for Senior Data and AI Leaders",
-            "url": "https://www.manilatimes.net/2025/10/14/tmt-newswire/globenewswire/dataglobal-hub-announces-exclusive-elite-membership-for-senior-data-and-ai-leaders/2199932",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/10/14/781518.jpg",
-            "publishedAt": "2025-10-14T01:52:14Z"
-        },
-        {
-            "source": {
-                "id": "09131c39169c9c96230862dc4c1fa727",
-                "name": "CNA",
-                "url": "https://www.channelnewsasia.com",
-                "country": "sg"
-            },
-            "title": "Nobel economist Peter Howitt warns of AI dangers",
-            "url": "https://www.channelnewsasia.com/world/nobel-economist-peter-howitt-warns-ai-dangers-5398586",
-            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--mYdIcSz5--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2025/10/14/ap25286765038800.jpg?itok=h7VtEJ5x",
-            "publishedAt": "2025-10-14T01:46:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "HCLTech revenue up 10.7% in Q2, rakes in $100 million from AI alone",
-            "url": "https://economictimes.indiatimes.com/tech/information-tech/hcltech-revenue-up-10-7-in-q2-rakes-in-100-million-from-ai-alone/articleshow/124535659.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-36426,resizemode-75,msid-124535659/tech/information-tech/hcltech-revenue-up-10-7-in-q2-rakes-in-100-million-from-ai-alone.jpg",
-            "publishedAt": "2025-10-14T00:30:00Z"
-        },
-        {
-            "source": {
-                "id": "a0300bc9a6e9d5b317bd6f614767231f",
-                "name": "Forbes",
-                "url": "https://www.forbes.com",
-                "country": "us"
-            },
-            "title": "AI’s Promise Vs Reality And Why 62% Say It Is Overhyped",
-            "url": "https://www.forbes.com/sites/garydrenik/2025/10/14/ais-promise-vs-reality-and-why-62-say-it-is-overhyped/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68dc1900dc0ec8687bbe96a7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2025-10-14T00:00:00Z"
-        },
-        {
-            "source": {
-                "id": "a0300bc9a6e9d5b317bd6f614767231f",
-                "name": "Forbes",
-                "url": "https://www.forbes.com",
-                "country": "us"
-            },
-            "title": "6 Free Certificates To Learn AI, Cloud, & Cybersecurity This Week",
-            "url": "https://www.forbes.com/sites/rachelwells/2025/10/14/6-free-certificates-to-learn-ai-cloud--cybersecurity-this-week/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68ee72a96c84ce27938087b3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2025-10-14T00:00:00Z"
-        },
-        {
-            "source": {
-                "id": "f60b85dc559d286e4100ce1120d5caec",
-                "name": "PLOS (Public Library of Science)",
-                "url": "https://journals.plos.org",
-                "country": "us"
-            },
-            "title": "Are Machine Learning methods effective in detecting undiagnosed atrial fibrillation in primary care settings using electronic health records? A systematic review",
-            "url": "https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001009",
-            "urlToImage": "https://journals.plos.org/digitalhealth/article/figure/image?id=10.1371/journal.pdig.0001009.g007&size=inline",
-            "publishedAt": "2025-10-14T00:00:00Z"
         }
     ]
 }
