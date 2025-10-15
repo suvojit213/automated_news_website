@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2025-10-15T20:17:30.582202Z",
+    "lastUpdatedAt": "2025-10-15T21:13:32.865694Z",
     "articles": [
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            },
+            "title": "How Afraid of the A.I. Apocalypse Should We Be?",
+            "url": "https://www.nytimes.com/2025/10/15/opinion/ezra-klein-podcast-eliezer-yudkowsky.html",
+            "urlToImage": "https://static01.nyt.com/images/2025/10/15/opinion/15eks-yudkowsky/15eks-yudkowsky-facebookJumbo.jpg",
+            "publishedAt": "2025-10-15T09:03:52Z"
+        },
+        {
+            "source": {
+                "id": "77b86639d1384ac68141803ec5db27c0",
+                "name": "NBC News",
+                "url": "https://www.nbcnews.com",
+                "country": "us"
+            },
+            "title": "The sleeper issue that could play a huge role in upcoming elections",
+            "url": "https://www.nbcnews.com/politics/elections/data-centers-utility-costs-sleeper-issue-jersey-virginia-elections-rcna235401",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251003-virginia-data-center-mn-1215-701f27.jpg",
+            "publishedAt": "2025-10-15T09:00:00Z"
+        },
+        {
+            "source": {
+                "id": "b1fa63410571207862faad9daf9b4527",
+                "name": "Pittsburgh Tribune-Review",
+                "url": "https://triblive.com",
+                "country": "us"
+            },
+            "title": "BlackRock, Nvidia-backed group strikes $40 billion AI data center deal",
+            "url": "https://triblive.com/business/technology/blackrock-nvidia-backed-group-strikes-40-billion-ai-data-center-deal/",
+            "urlToImage": "https://assets-varnish.triblive.com/2025/10/8953553_web1_2025-10-15T115948Z_2_LYNXNPEL9E0L7_RTROPTP_4_CHINA-SUPPLY-CHAIN.JPG",
+            "publishedAt": "2025-10-15T08:58:39Z"
+        },
+        {
+            "source": {
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
+                "country": "in"
+            },
+            "title": "Meet the AI chatbots replacing India's call centre workers",
+            "url": "https://www.thehindu.com/sci-tech/technology/meet-the-ai-chatbots-replacing-indias-call-centre-workers/article70166295.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/3ua45q/article70166297.ece/alternates/LANDSCAPE_1200/2012-03-08T221936Z_01_MAN503_RTRMDNP_3_OUTSOURCING-PHILIPPINES.JPG",
+            "publishedAt": "2025-10-15T08:58:15Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "ET AI Awards 2025 set to spotlight India’s most innovative AI startups",
+            "url": "https://economictimes.indiatimes.com/ai/ai-insights/et-ai-awards-2025-set-to-spotlight-indias-most-innovative-ai-startups/articleshow/124571777.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-124572307,width-1200,height-630,imgsize-1121938,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-10-15T08:35:00Z"
+        },
+        {
+            "source": {
+                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+                "name": "NDTV.com",
+                "url": "https://www.ndtv.com",
+                "country": "in"
+            },
+            "title": "IIT Roorkee Launches Advanced Certificate Course In Quantum Computing, Algorithms",
+            "url": "https://www.ndtv.com/education/iit-roorkee-launches-advanced-certificate-course-in-quantum-computing-algorithms-9458996",
+            "urlToImage": "https://c.ndtvimg.com/2024-09/q1oq3o3_iit-roorkee_625x300_18_September_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+            "publishedAt": "2025-10-15T08:24:04Z"
+        },
         {
             "source": {
                 "id": "28bc60a23a7bf89e60f893506992a3fe",
@@ -624,6 +696,87 @@
             "url": "https://www.forbes.com/councils/forbesfinancecouncil/2025/10/15/14-factors-to-consider-when-upskilling-your-team-on-cybersecurity/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68ef8c864f55c3a57826817d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-10-15T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "geeky_gadgets"
+            },
+            "title": "OpenAI’s Secret Weapon : New Custom AI Chips That Could Change Everything",
+            "url": "https://www.geeky-gadgets.com/openai-broadcom-partnership-ai-chip-development/",
+            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/10/openai-custom-ai-chip-technology_optimized.webp",
+            "publishedAt": "2025-10-15 09:12:44"
+        },
+        {
+            "source": {
+                "name": "latestly"
+            },
+            "title": "Business News | Bharti Airtel Partners with IBM to Strengthen Airtel Cloud Services",
+            "url": "https://www.latestly.com/agency-news/business-news-bharti-airtel-partners-with-ibm-to-strengthen-airtel-cloud-services-7160974.html",
+            "urlToImage": "https://st1.latestly.com/wp-content/uploads/2025/10/ANI-20251015083228.jpg",
+            "publishedAt": "2025-10-15 09:12:33"
+        },
+        {
+            "source": {
+                "name": "postregister"
+            },
+            "title": "AP Technology SummaryBrief at 5:02 a.m. EDT",
+            "url": "https://www.postregister.com/businessreport/business/ap-technology-summarybrief-at-5-02-a-m-edt/article_ac0fe5b8-521e-57ec-bba0-15c78cc08674.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
+            "publishedAt": "2025-10-15 09:02:06"
+        },
+        {
+            "source": {
+                "name": "messenger_inquirer"
+            },
+            "title": "AP Technology SummaryBrief at 5:02 a.m. EDT",
+            "url": "https://www.messenger-inquirer.com/ap/elections/ap-technology-summarybrief-at-5-02-a-m-edt/article_8703ecfd-fdf6-589d-ba8c-e8f703a37020.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/messenger-inquirer.com/content/tncms/custom/image/a2a4b15c-9ead-11ee-847f-2b2be1350ebd.jpg?resize=600%2C338",
+            "publishedAt": "2025-10-15 09:02:06"
+        },
+        {
+            "source": {
+                "name": "xda_developers"
+            },
+            "title": "This self-hosted, clientless remote desktop application is even better than RustDesk",
+            "url": "https://www.xda-developers.com/self-hosted-clientless-remote-desktop-application-better-than-rustdesk/",
+            "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/10/getscreen-running-on-a-mac.jpg",
+            "publishedAt": "2025-10-15 09:00:21"
+        },
+        {
+            "source": {
+                "name": "venturebeat"
+            },
+            "title": "Dfinity launches Caffeine, an AI platform that builds production apps from natural language prompts",
+            "url": "https://venturebeat.com/ai/dfinity-launches-caffeine-an-ai-platform-that-builds-production-apps-from",
+            "urlToImage": "https://images.ctfassets.net/jdtwqhzvc2n1/4KtYR3vJAj9O1BxMtYqm9e/aad83e291aadf8fd2f12e6cf45aeede9/nuneybits_Vector_art_of_coffee_made_of_computer_code_87b3e7a8-f103-4de0-ae47-d17717e023f9.webp",
+            "publishedAt": "2025-10-15 09:00:00"
+        },
+        {
+            "source": {
+                "name": "cision"
+            },
+            "title": "ICANN84 in Dublin: A Pivotal Moment for the Future of the Internet",
+            "url": "https://www.prnewswire.com/news-releases/icann84-in-dublin-a-pivotal-moment-for-the-future-of-the-internet-302581358.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2793396/ICANN84_Dublin_Logo.jpg?p=publish",
+            "publishedAt": "2025-10-15 09:00:00"
+        },
+        {
+            "source": {
+                "name": "fortune"
+            },
+            "title": "Want to build your own chatbot for $100? A glimpse into AI’s small, cheap, DIY future",
+            "url": "https://fortune.com/2025/10/15/ai-artificial-intelligence-nanochat-100-dollar-chatbot/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-2178407787-e1760471986511.jpg?w=2048",
+            "publishedAt": "2025-10-15 09:00:00"
+        },
+        {
+            "source": {
+                "name": "phys"
+            },
+            "title": "Fatal attraction: Electric charge connects jumping worm to aerial prey",
+            "url": "https://phys.org/news/2025-10-fatal-electric-worm-aerial-prey.html",
+            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2025/fatal-attraction-elect.jpg",
+            "publishedAt": "2025-10-15 08:46:06"
         },
         {
             "source": {
@@ -3192,141 +3345,6 @@
             "url": "https://columbustelegram.com/article_96c2bdc0-7b7b-4f51-86ef-cb3f52576b1a.html",
             "urlToImage": "https://bloximages.chicago2.vip.townnews.com/columbustelegram.com/content/tncms/custom/image/cd660600-c53c-11ea-a65b-8f6685aff86a.jpg?resize=600%2C315",
             "publishedAt": "2025-10-14 21:58:03"
-        },
-        {
-            "source": {
-                "name": "hastingstribune"
-            },
-            "title": "AP Technology SummaryBrief at 5:57 p.m. EDT",
-            "url": "https://www.hastingstribune.com/ap/business/ap-technology-summarybrief-at-5-57-p-m-edt/article_4b18fa44-29a4-5e36-8bdb-1f0661d3baf8.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/hastingstribune.com/content/tncms/custom/image/7b43d562-eeac-11e4-8a7b-970670abfcb2.jpg?resize=600%2C315",
-            "publishedAt": "2025-10-14 21:57:47"
-        },
-        {
-            "source": {
-                "name": "headtopics"
-            },
-            "title": "Over 50 Percent of the Internet Is Now AI Slop, New Data Finds",
-            "url": "https://us.headtopics.com/news/over-50-percent-of-the-internet-is-now-ai-slop-new-data-74394054",
-            "urlToImage": "https://i.headtopics.com/images/2025/10/13/thr/broadway-musicians-vote-to-authorize-strike-broadway-musicians-vote-to-authorize-strike-CD6E4C6BCC1A76883B52F12413CF7293.webp?w=640",
-            "publishedAt": "2025-10-14 21:39:31"
-        },
-        {
-            "source": {
-                "name": "thedailybeast"
-            },
-            "title": "Sam Altman OKs AI Porn Weeks After Sharing Cancer Cure Dreams",
-            "url": "https://www.thedailybeast.com/sam-altman-oks-ai-porn-weeks-after-sharing-cancer-cure-hopes/",
-            "urlToImage": "https://thedailybeast-thedailybeast-prod.web.arc-cdn.net/resizer/v2//44JXIL6B5JCSPOTX77JNXKEYJM.jpg?auth=61685c67c35d4dcb441bd99d54a7734628ebbcd0f812f06b4988e247e052fe9f&height=1688&smart=true&width=3000",
-            "publishedAt": "2025-10-14 21:31:30"
-        },
-        {
-            "source": {
-                "name": "mankatofreepress"
-            },
-            "title": "When AI therapy helps",
-            "url": "https://www.mankatofreepress.com/when-ai-therapy-helps/article_3eba84d0-d21a-45b3-ad82-2f97260242c0.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/mankatofreepress.com/content/tncms/custom/image/5e42277e-6153-11e5-b349-8f12bc751eed.jpg?resize=600%2C315",
-            "publishedAt": "2025-10-14 21:29:00"
-        },
-        {
-            "source": {
-                "name": "fremonttribune"
-            },
-            "title": "Boom or bubble?",
-            "url": "https://fremonttribune.com/article_88339506-b259-4411-ad11-5c589dbb780b.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/fremonttribune.com/content/tncms/custom/image/c6a6592e-c540-11ea-b1f0-6f388f6ff277.jpg?resize=600%2C315",
-            "publishedAt": "2025-10-14 21:17:16"
-        },
-        {
-            "source": {
-                "name": "futurism"
-            },
-            "title": "Over 50 Percent of the Internet Is Now AI Slop, New Data Finds",
-            "url": "https://futurism.com/artificial-intelligence/over-50-percent-internet-ai-slop",
-            "urlToImage": "https://futurism.com/wp-content/uploads/2025/10/over-50-percent-internet-ai-slop.jpg?quality=85",
-            "publishedAt": "2025-10-14 21:13:21"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "A Real-World Latency Study of Microservice Architectures in Autonomous Driving",
-            "url": "https://hackernoon.com/a-real-world-latency-study-of-microservice-architectures-in-autonomous-driving",
-            "urlToImage": "https://hackernoon.imgix.net/images/5wpKgV75aONqkTJlafw2yQmK9yd2-t003bfu.png",
-            "publishedAt": "2025-10-14 21:10:03"
-        },
-        {
-            "source": {
-                "name": "cadillacnews"
-            },
-            "title": "AP Technology SummaryBrief at 5:04 p.m. EDT",
-            "url": "https://www.cadillacnews.com/ap/business/ap-technology-summarybrief-at-5-04-p-m-edt/article_b73174ef-b204-5816-94ef-66ba03cd6605.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/cadillacnews.com/content/tncms/custom/image/2f32a658-47ab-11e7-abb1-ef25bc001cf2.png?resize=600%2C99",
-            "publishedAt": "2025-10-14 21:04:15"
-        },
-        {
-            "source": {
-                "name": "postregister"
-            },
-            "title": "AP Technology SummaryBrief at 5:04 p.m. EDT",
-            "url": "https://www.postregister.com/businessreport/business/ap-technology-summarybrief-at-5-04-p-m-edt/article_e806d51c-0614-5c30-80f4-0894536d0770.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
-            "publishedAt": "2025-10-14 21:04:15"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Intel Unveils Crescent Island GPU to Challenge Nvidia in AI Inference",
-            "url": "https://www.webpronews.com/intel-unveils-crescent-island-gpu-to-challenge-nvidia-in-ai-inference/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-462944c8-14a2-4717-8155-6600767ebecb.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-10-14 21:00:00"
-        },
-        {
-            "source": {
-                "name": "bangordailynews"
-            },
-            "title": "Maine’s 1st AI data center is coming to Aroostook County",
-            "url": "https://www.bangordailynews.com/2025/10/14/aroostook/aroostook-business/ai-data-center-loring-air-force-base/",
-            "urlToImage": "https://bdn-data.s3.amazonaws.com/uploads/2025/10/Loring.jpg",
-            "publishedAt": "2025-10-14 20:44:18"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Gcore Mitigates Record-Breaking 6 Tbps DDoS Attack",
-            "url": "https://hackernoon.com/gcore-mitigates-record-breaking-6-tbps-ddos-attack",
-            "urlToImage": "https://hackernoon.imgix.net/images/zrmhiGUO5YO0UGWoKCzGMHKsbc63-a41378q.jpeg",
-            "publishedAt": "2025-10-14 20:40:50"
-        },
-        {
-            "source": {
-                "name": "signalscv"
-            },
-            "title": "Seeing is Understanding: The Rise of Intelligent Video Recognition",
-            "url": "https://signalscv.com/2025/10/seeing-is-understanding-the-rise-of-intelligent-video-recognition/",
-            "urlToImage": "https://signalscv.s3.us-west-1.amazonaws.com/wp-content/uploads/2025/10/14133716/image-27.png",
-            "publishedAt": "2025-10-14 20:38:30"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Apple Teases M5 MacBook Pro: AI Enhancements, CPU Boost, Launch This Week",
-            "url": "https://www.webpronews.com/apple-teases-m5-macbook-pro-ai-enhancements-cpu-boost-launch-this-week/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-1ef219e4-443a-4c36-a43f-7f4619a1005d.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-10-14 20:30:00"
-        },
-        {
-            "source": {
-                "name": "startupnews"
-            },
-            "title": "Intel customers to test new GPU late next year",
-            "url": "https://startupnews.fyi/2025/10/15/intel-customers-to-test-new-gpu-late-next-year/",
-            "urlToImage": "https://startupnews.fyi/wp-content/uploads/2025/10/intel-customers-to-test-new-gpu-late-next-year.jpg",
-            "publishedAt": "2025-10-14 20:18:03"
         }
     ]
 }
