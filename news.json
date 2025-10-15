@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2025-10-15T04:18:14.241071Z",
+    "lastUpdatedAt": "2025-10-15T05:15:04.452270Z",
     "articles": [
+        {
+            "source": {
+                "id": "602d1de710d66397a00201d8efdd36ee",
+                "name": "Inc. Magazine",
+                "url": "https://www.inc.com",
+                "country": "us"
+            },
+            "title": "How B2B Tech Vendors Can Succeed in a Fragmented Market",
+            "url": "https://www.inc.com/alex-mosher/how-b2b-tech-vendors-can-succeed-in-a-fragmented-market/91251439",
+            "urlToImage": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit,w_1024/vip/2025/10/INC-Masters-Fast-Company-publishing-64.png",
+            "publishedAt": "2025-10-14T17:11:00Z"
+        },
+        {
+            "source": {
+                "id": "f5081afeaba654292dd91fffd29f9dd4",
+                "name": "The Globe and Mail",
+                "url": "https://www.theglobeandmail.com",
+                "country": "ca"
+            },
+            "title": "Canada signs non-binding artificial intelligence deal with United Arab Emirates",
+            "url": "https://www.theglobeandmail.com/business/article-canada-artificial-intelligence-framework-united-arab-emirates/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/v2/UNMZ7Z5ADFG2TOBGILI75UXOF4.JPG?auth=1e7aa223138981e581882e240fce1120fd78e04744ba9b9ef548c8b5beed7253&width=1200&height=800&quality=80&smart=true",
+            "publishedAt": "2025-10-14T17:00:00Z"
+        },
+        {
+            "source": {
+                "id": "7eeaf9a839918543cc708f2d331c3be4",
+                "name": "Free Press Journal",
+                "url": "https://www.freepressjournal.in",
+                "country": "in"
+            },
+            "title": "Maharashtra Govt Approves 2,228 New Posts To Strengthen Bombay High Court & Benches",
+            "url": "https://www.freepressjournal.in/mumbai/maharashtra-govt-approves-2228-new-posts-to-strengthen-bombay-high-court-benches",
+            "urlToImage": "https://media.assettype.com/freepressjournal/2025-09-25/wmf6aunz/bom-hc.jpg",
+            "publishedAt": "2025-10-14T16:48:33Z"
+        },
+        {
+            "source": {
+                "id": "79baacd62152cf257ee35e8c0bec19a2",
+                "name": "UPI News",
+                "url": "https://www.upi.com",
+                "country": "us"
+            },
+            "title": "Walmart, OpenAI partner to create AI shopper tool",
+            "url": "https://www.upi.com/Top_News/US/2025/10/14/Walmart-ChatGPT-shopper-retail-AI-artificial-intelligence/5961760455166/",
+            "urlToImage": "https://cdnph.upi.com/sv/ph/og/upi/5961760455166/2025/1/230a050ff4f12b51a1d15ac015fdbfb9/v1.5/Walmart-OpenAI-partner-to-create-AI-shopper-tool.jpg",
+            "publishedAt": "2025-10-14T16:39:11Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "AI investment boom may lead to bust, but not likely systemic crisis, IMF chief economist says",
+            "url": "https://www.thestar.com.my/tech/tech-news/2025/10/15/ai-investment-boom-may-lead-to-bust-but-not-likely-systemic-crisis-imf-chief-economist-says",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/15/3571003.jpg",
+            "publishedAt": "2025-10-14T16:26:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Google to invest $15 billion in AI data center capacity in India",
+            "url": "https://www.manilatimes.net/2025/10/15/business/foreign-business/google-to-invest-15-billion-in-ai-data-center-capacity-in-india/2200635",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/10/14/782818.jpg",
+            "publishedAt": "2025-10-14T16:23:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Global smartphone shipments rise in Q3 on AI-driven upgrades",
+            "url": "https://www.manilatimes.net/2025/10/15/business/global-smartphone-shipments-rise-in-q3-on-ai-driven-upgrades/2200633",
+            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+            "publishedAt": "2025-10-14T16:21:00Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -1272,6 +1356,87 @@
             "url": "https://journals.plos.org/plosntds/article?id=10.1371%2Fjournal.pntd.0013618",
             "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013618.g004&size=inline",
             "publishedAt": "2025-10-14T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "roboticsandautomationnews"
+            },
+            "title": "Interview with NexCOBOT’s general manager: ‘Single control platform’",
+            "url": "https://roboticsandautomationnews.com/2025/10/14/interview-with-nexcobots-general-manager-single-control-platform/95511/",
+            "urlToImage": "https://roboticsandautomationnews.com/wp-content/uploads/2025/10/nexcobot-humanoid-1.jpg",
+            "publishedAt": "2025-10-14 17:14:21"
+        },
+        {
+            "source": {
+                "name": "toi"
+            },
+            "title": "Google to spend $15 billion in India to build largest AI hub outside the US",
+            "url": "https://timesofindia.indiatimes.com/business/india-business/google-to-spend-15-billion-in-india-to-build-largest-ai-hub-outside-the-us/articleshow/124557620.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-124557713,imgsize-107272,width-400,resizemode-4/we-haven39t-seen-anything-like-this-ai-startup-ceo-after-google-asks-us-employees-to-transfer-medical-data-with-his-company.jpg",
+            "publishedAt": "2025-10-14 17:10:35"
+        },
+        {
+            "source": {
+                "name": "cnbc"
+            },
+            "title": "OpenAI forms expert council to bolster safety measures after FTC inquiry",
+            "url": "https://www.cnbc.com/2025/10/14/open-ai-expert-council-safety-ftc.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108197560-17576049361757604933-41597234528-1080pnbcnews.jpg?h=422&v=1757604935&vtcrop=y&w=750",
+            "publishedAt": "2025-10-14 17:00:01"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Google Cloud Unveils Query Templates for BigQuery Data Clean Rooms",
+            "url": "https://www.webpronews.com/google-cloud-unveils-query-templates-for-bigquery-data-clean-rooms/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-c115f68c-dd37-464d-9a40-a29675790d6a.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-10-14 16:58:40"
+        },
+        {
+            "source": {
+                "name": "arstechnica"
+            },
+            "title": "Nvidia sells tiny new computer that puts big AI on your desktop",
+            "url": "https://arstechnica.com/ai/2025/10/nvidia-sells-tiny-new-computer-that-puts-big-ai-on-your-desktop/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/dgx_spark-1152x648.jpg",
+            "publishedAt": "2025-10-14 16:58:21"
+        },
+        {
+            "source": {
+                "name": "techxplore"
+            },
+            "title": "Robot 'backpack' drone launches, drives and flies to tackle emergencies",
+            "url": "https://techxplore.com/news/2025-10-robot-backpack-drone-flies-tackle.html",
+            "urlToImage": "https://scx1.b-cdn.net/csz/news/tmb/2025/robot-backpack-drone-l.jpg",
+            "publishedAt": "2025-10-14 16:56:04"
+        },
+        {
+            "source": {
+                "name": "startupnews"
+            },
+            "title": "AMD debuts Helios rack-scale AI hardware platform at OCP Global Summit 2025 — promises easier serviceability and 50% more memory than Nvidia’s Vera Rubin",
+            "url": "https://startupnews.fyi/2025/10/14/amd-debuts-helios-rack-scale-ai-hardware-platform-at-ocp-global-summit-2025-promises-easier-serviceability-and-50-more-memory-than-nvidias-vera-rubin/",
+            "urlToImage": "https://startupnews.fyi/wp-content/uploads/2025/10/KVDkgSDu7PnDSMSF4P8fX4-1920-80.jpg",
+            "publishedAt": "2025-10-14 16:50:04"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Google and Adani Join Forces to Build $15 Billion AI Data Hub in Visakhapatnam",
+            "url": "https://www.analyticsinsight.net/news/google-and-adani-join-forces-to-build-15-billion-ai-data-hub-in-visakhapatnam",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-02-20%2Fhrif4f7x%2FGoogle%E2%80%99s-New-Campus-in-Bengaluru-A-Hub-for-AI-Innovation.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-10-14 16:47:47"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Brevis Achieves Industry-First 99.6% Real-Time Proving for Current Ethereum Blocks with 50% Cost Reduction",
+            "url": "https://www.analyticsinsight.net/cryptocurrency-analytics-insight/brevis-achieves-industry-first-996-real-time-proving-for-current-ethereum-blocks-with-50-cost-reduction",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-10-14%2Fzmqzllv3%2Fundefined-2025-10-14T211952.187.png?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-10-14 16:45:19"
         },
         {
             "source": {
@@ -3051,198 +3216,6 @@
             "url": "https://www.thestar.com.my/tech/tech-news/2025/10/13/salesforce-to-invest-15-billion-in-san-francisco-over-five-years",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/13/3568876.jpg",
             "publishedAt": "2025-10-13T13:17:00Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "How AI, ML Transform SEO Marketing",
-            "url": "https://techbullion.com/how-ai-ml-transform-seo-marketing/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/10/startup-employee-looking-business-charts-using-ai-software-1-1-1000x600.jpg",
-            "publishedAt": "2025-10-13T13:13:44Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "OpenAI taps Broadcom to build its first AI processor in latest chip deal",
-            "url": "https://economictimes.indiatimes.com/tech/technology/openai-taps-broadcom-to-build-its-first-ai-processor-in-latest-chip-deal/articleshow/124528276.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-122228,resizemode-75,msid-124528276/tech/technology/openai-taps-broadcom-to-build-its-first-ai-processor-in-latest-chip-deal.jpg",
-            "publishedAt": "2025-10-13T13:03:12Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "Health care's rush to AI scribes risks patient safety, researchers warn",
-            "url": "https://medicalxpress.com/news/2025-10-health-ai-scribes-patient-safety.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/doctor-computer.jpg",
-            "publishedAt": "2025-10-13T13:03:03Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "OpenAI taps Broadcom to build its first AI processor in latest chip deal",
-            "url": "https://www.reuters.com/business/openai-taps-broadcom-build-its-first-ai-processor-latest-chip-deal-2025-10-13/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/NWXNFURT45IJ5LRDBZPPO6WXLA.jpg?auth=935ecadd208eaa8781b7bc95f17e30226a859e869334f2a18838fa3fc1897328&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-10-13T13:02:00Z"
-        },
-        {
-            "source": {
-                "id": "3e4122758db1be4339b4546c2c317037",
-                "name": "Omaha World-Herald",
-                "url": "https://omaha.com",
-                "country": "us"
-            },
-            "title": "Kearney Public Schools victim of cybersecurity attack",
-            "url": "https://omaha.com/news/state-regional/education/article_728aa863-57c3-5224-bf25-c7b1117332a0.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/7/28/728aa863-57c3-5224-bf25-c7b1117332a0/68ec4184c1d9f.preview.jpg?crop=1741%2C914%2C3%2C180&resize=1200%2C630&order=crop%2Cresize",
-            "publishedAt": "2025-10-13T13:00:00Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Micron’s Newly-Converted Bull Sees 50% Gain on Memory Supercycle",
-            "url": "https://www.bloomberg.com/news/articles/2025-10-13/micron-s-newly-converted-bull-sees-50-gain-on-memory-supercycle",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iumOZGnsg9UA/v1/1200x800.jpg",
-            "publishedAt": "2025-10-13T12:52:33Z"
-        },
-        {
-            "source": {
-                "id": "a6d401909ca644c4ffb332486c9cfaea",
-                "name": "Seeking Alpha",
-                "url": "https://seekingalpha.com",
-                "country": "us"
-            },
-            "title": "VCI Global forecasts 70% revenue growth in 2025 amid tech expansion",
-            "url": "https://seekingalpha.com/news/4503594-vci-global-forecasts-70-revenue-growth-in-2025-amid-tech-expansion",
-            "urlToImage": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-            "publishedAt": "2025-10-13T12:50:45Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Data, IIIT Hyderabad Announces 2nd Cohort of Workshop on IoT",
-            "url": "https://www.tribuneindia.com/news/business/ihub-data-iiit-hyderabad-announces-2nd-cohort-of-workshop-on-iot-ai-for-healthcare-innovation/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTdkYjBkZjIwLWE4MzItMTFmMC04NjMyLTFiZGZhNzM3NzM5Zi5qcGc=",
-            "publishedAt": "2025-10-13T12:45:18Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "VCI Global Issues Full-Year 2025 Guidance with 70% Revenue Growth Target Driven by AI, Cybersecurity, Fintech, and GPU Cloud Expansion",
-            "url": "https://www.manilatimes.net/2025/10/13/tmt-newswire/globenewswire/vci-global-issues-full-year-2025-guidance-with-70-revenue-growth-target-driven-by-ai-cybersecurity-fintech-and-gpu-cloud-expansion/2199583",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/10/13/780791.png",
-            "publishedAt": "2025-10-13T12:24:18Z"
-        },
-        {
-            "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
-                "country": "in"
-            },
-            "title": "AI Isn’t Apple’s Strength, OpenAI 'First Real Competitor' To iPhone Maker, Says John Sculley",
-            "url": "https://www.ndtvprofit.com/technology/ai-isnt-apples-strength-openai-first-real-competitor-to-iphone-maker-says-former-ceo-john-sculley",
-            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-10-13%2Fdtcms45n%2Fpexels-armandvalendez-544295-2.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
-            "publishedAt": "2025-10-13T12:19:40Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Salesforce launches Agentforce 360 AI platform to boost software products",
-            "url": "https://www.thestar.com.my/tech/tech-news/2025/10/13/salesforce-launches-agentforce-360-ai-platform-to-boost-software-products",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/13/3568810.jpg",
-            "publishedAt": "2025-10-13T12:12:00Z"
-        },
-        {
-            "source": {
-                "id": "aa569bbaa7b7ef97f7cf8df3cf902947",
-                "name": "Investor's Business Daily",
-                "url": "https://www.investors.com",
-                "country": "us"
-            },
-            "title": "Salesforce Puts Slack, Voice Tools At Center Of AI Strategy",
-            "url": "https://www.investors.com/news/technology/salesforce-stock-software-maker-puts-slack-voice-tools-center-ai-strategy/",
-            "urlToImage": "https://www.investors.com/wp-content/uploads/2024/12/Stock-salesforcebuilding-03-shutt.jpg",
-            "publishedAt": "2025-10-13T12:01:22Z"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            },
-            "title": "Salesforce adds voice to Agentforce AI customer service software",
-            "url": "https://www.cnbc.com/2025/10/13/salesforce-adds-voice-to-agentforce-ai-customer-service-software.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108077117-1734461643573-gettyimages-2171864881-2024_DREAMFORCE_CONFERENCE.jpeg?v=1760148989&w=1920&h=1080",
-            "publishedAt": "2025-10-13T12:00:01Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Aivista Quant Capital Launches AQC Token at $0.15, Issuing 300 Million Tokens to Revolutionize AI-Driven Wealth Management",
-            "url": "https://techbullion.com/aivista-quant-capital-launches-aqc-token-at-0-15-issuing-300-million-tokens-to-revolutionize-ai-driven-wealth-management/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/10/ok-1000x600.png",
-            "publishedAt": "2025-10-13T11:57:43Z"
-        },
-        {
-            "source": {
-                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-                "name": "The Financial Express",
-                "url": "https://www.financialexpress.com",
-                "country": "in"
-            },
-            "title": "Windows 10 support ends: As millions of PCs face cybersecurity risk, here is what you need to do",
-            "url": "https://www.financialexpress.com/life/technology-windows-10-support-ends-as-millions-of-pcs-face-cybersecurity-risk-here-is-what-you-need-to-do-4009096/",
-            "urlToImage": "https://images.financialexpressdigital.com/2025/10/Untitled-design-2025-10-03T114315.799.jpg",
-            "publishedAt": "2025-10-13T11:07:14Z"
-        },
-        {
-            "source": {
-                "id": "c8c865ed042eb14694b8d596e22efe99",
-                "name": "Spokane Spokesman-Review",
-                "url": "https://www.spokesman.com",
-                "country": "us"
-            },
-            "title": "Two industries were supposed to drive America’s future. One is booming, the other slumping.",
-            "url": "https://www.spokesman.com/stories/2025/oct/13/two-industries-were-supposed-to-drive-americas-fut/",
-            "urlToImage": "https://thumb.spokesman.com/l2sMHX5ZvY-IivJJOF8GNS33NSY=/600x0/media.spokesman.com/graphics/2020/08/sr_placeholder.png",
-            "publishedAt": "2025-10-13T11:03:00Z"
         }
     ]
 }
