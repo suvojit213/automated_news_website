@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2025-10-15T18:22:46.471093Z",
+    "lastUpdatedAt": "2025-10-15T19:12:27.316167Z",
     "articles": [
+        {
+            "source": {
+                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+                "name": "NDTV.com",
+                "url": "https://www.ndtv.com",
+                "country": "in"
+            },
+            "title": "AI Chatbots That Talk Like Humans Pose Threat To India's Call-Centre Workers",
+            "url": "https://www.ndtv.com/india-news/ai-indias-call-centre-industry-ai-chatbots-that-talk-like-humans-pose-threat-to-indias-call-centre-workers-9457506",
+            "urlToImage": "https://c.ndtvimg.com/2025-10/n629nqq8_call-centre-industry-india_625x300_15_October_25.jpeg",
+            "publishedAt": "2025-10-15T07:07:20Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "NuSummit Integrates Origamis AI to Transform Financial Services AI Solutions",
+            "url": "https://www.devdiscourse.com/article/technology/3664275-nusummit-integrates-origamis-ai-to-transform-financial-services-ai-solutions",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/06_08_2025_07_24_56_049711.png?width=920&format=jpeg",
+            "publishedAt": "2025-10-15T07:05:19Z"
+        },
+        {
+            "source": {
+                "id": "8da923084554b2821233d6c5c5f02c97",
+                "name": "Fox News",
+                "url": "https://www.foxnews.com",
+                "country": "us"
+            },
+            "title": "Apocalypse Now? Why the media are suddenly freaking out about AI",
+            "url": "https://www.foxnews.com/media/apocalypse-now-media-suddenly-freaking-out-ai",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/12/Originals-Artificial-intelligence-that-can-do-schoolwork.jpg",
+            "publishedAt": "2025-10-15T07:00:40Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Foundations want to curb AI developers' influence with US$500mil aimed at centering human needs",
+            "url": "https://www.thestar.com.my/tech/tech-news/2025/10/15/foundations-want-to-curb-ai-developers039-influence-with-us500mil-aimed-at-centering-human-needs",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/15/3571622.jpg",
+            "publishedAt": "2025-10-15T07:00:00Z"
+        },
+        {
+            "source": {
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
+            },
+            "title": "Ken Liu on AI, art, and the Singapore Writers Festival",
+            "url": "https://www.straitstimes.com/life/arts/singapore-writers-festival-2025-sci-fi-writer-ken-liu-finds-fears-of-ai-replacing-writers-boring",
+            "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/8e533ae027a13e267b87fedc8c546e837d5ec3d0bb8fa960f2d4959fd0bd10c4",
+            "publishedAt": "2025-10-15T07:00:00Z"
+        },
+        {
+            "source": {
+                "id": "7f6e8514e9d8f8376aaa9a7229861518",
+                "name": "PerthNow",
+                "url": "https://www.perthnow.com.au",
+                "country": "au"
+            },
+            "title": "Australia falling behind as experts call for AI urgency",
+            "url": "https://www.perthnow.com.au/news/technology/australia-falling-behind-as-experts-call-for-ai-urgency-c-20359675",
+            "urlToImage": "https://images.perthnow.com.au/publication/C-20359675/383db3ec06675a79acb2fc7eb3381da8c5ec5a93-16x9-x0y0w1280h720.jpg?imwidth=1200",
+            "publishedAt": "2025-10-15T06:50:59Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "Goldman Tells Staff It Will Cut More Jobs as AI Saves Costs",
+            "url": "https://www.livemint.com/companies/news/goldman-tells-staff-it-will-cut-more-jobs-as-ai-saves-costs-11760510236225.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/company_3_1733465099406_1733465108677.png",
+            "publishedAt": "2025-10-15T06:37:15Z"
+        },
         {
             "source": {
                 "id": "027234d3c0a6aefa3d7ab81380e63d86",
@@ -468,6 +552,60 @@
             "url": "https://www.forbes.com/councils/forbesfinancecouncil/2025/10/15/14-factors-to-consider-when-upskilling-your-team-on-cybersecurity/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68ef8c864f55c3a57826817d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-10-15T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "macrumors"
+            },
+            "title": "Two New Accessories for Vision Pro Now Available, With More Coming",
+            "url": "https://www.macrumors.com/2025/10/15/new-accessories-for-vision-pro-now-available/",
+            "urlToImage": "https://images.macrumors.com/t/iGzoHynYtaO1mi-XBIP2hybXa8Y=/3840x/article-new/2025/10/Apple-Vision-Pro-Dual-Knit-Band.jpg",
+            "publishedAt": "2025-10-15 07:07:11"
+        },
+        {
+            "source": {
+                "name": "techgenyz"
+            },
+            "title": "Nano Banana Breakthrough: Google’s Game-Changing Leap in Creative AI Innovation",
+            "url": "https://techgenyz.com/googles-video-overviews-nano-banana-revolution/",
+            "urlToImage": "https://techgenyz.com/wp-content/uploads/2025/10/nano-banana.webp",
+            "publishedAt": "2025-10-15 07:05:36"
+        },
+        {
+            "source": {
+                "name": "itpro"
+            },
+            "title": "ManageEngine MSP Central review: A big buffet of IT support, endpoint security, and network management services",
+            "url": "https://www.itpro.com/software/manageengine-msp-central-review-a-big-buffet-of-it-support-endpoint-security-and-network-management-services",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/gMRfohgNPBi4dxu6PEQbsm-1280-80.jpg",
+            "publishedAt": "2025-10-15 07:00:00"
+        },
+        {
+            "source": {
+                "name": "itpro"
+            },
+            "title": "Future-proofing cybersecurity: Understanding Quantum-Safe AI and how to create resilient defences.",
+            "url": "https://www.itpro.com/technology/future-proofing-cybersecurity-understanding-quantum-safe-ai-and-how-to-create-resilient-defences",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/8LJDi2bk9mLNKWfovoFvu9-1280-80.jpg",
+            "publishedAt": "2025-10-15 07:00:00"
+        },
+        {
+            "source": {
+                "name": "republicworld"
+            },
+            "title": "India’s Own Tech Revolution: From PM Modi’s Call for Self-Reliance to Swadeshi Apps Taking on Big Tech",
+            "url": "https://www.republicworld.com/tech/indias-own-tech-revolution-from-pm-modis-call-for-self-reliance-to-swadeshi-apps-taking-on-big-tech",
+            "urlToImage": "https://img.republicworld.com/all_images/indias-own-tech-revolution-from-modis-call-for-self-reliance-to-swadeshi-apps-taking-on-big-tech-1760511192266-16_9.webp?format=webp&h=720&q=75&w=1280",
+            "publishedAt": "2025-10-15 06:53:36"
+        },
+        {
+            "source": {
+                "name": "english_jagran"
+            },
+            "title": "Microsoft Teases A Big Announcement: Are Hands-Free Controls The Future Of Computing?",
+            "url": "https://www.thedailyjagran.com/technology/microsoft-teases-a-big-announcement-are-handsfree-controls-the-future-of-computing-10273771",
+            "urlToImage": "https://imgeng.jagran.com/images/2025/06/03/article/image/Windows11-1748955091579.webp",
+            "publishedAt": "2025-10-15 06:42:32"
         },
         {
             "source": {
@@ -3171,123 +3309,6 @@
             "url": "https://www.zdnet.com/article/this-dell-pc-redfines-what-a-premium-windows-11-laptop-can-and-should-be/",
             "urlToImage": "https://www.zdnet.com/a/img/resize/268c177763a07164e9afa3b804b9828eebf046f6/2025/07/24/6e232056-02a4-47cd-b1a1-a7155e96e957/dell-premium-16-image-5.jpg?auto=webp&fit=crop&height=675&width=1200",
             "publishedAt": "2025-10-14 18:24:25"
-        },
-        {
-            "source": {
-                "name": "livemint"
-            },
-            "title": "AMD strengthens AI push: Oracle to deploy 50,000 MI450 AI chips in data centers starting 2026",
-            "url": "https://www.livemint.com/technology/tech-news/amd-strengthens-ai-push-oracle-to-deploy-50-000-mi450-ai-chips-in-data-centers-starting-2026-11760465804074.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2025/10/14/1600x900/im-00049113_1726482216473_1760465957265.jpg",
-            "publishedAt": "2025-10-14 18:24:06"
-        },
-        {
-            "source": {
-                "name": "toi"
-            },
-            "title": "OpenAI is trying to be a Google with its tie-up with Broadcom, says analyst and they don't seem to be pleased",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/openai-is-trying-to-be-a-google-with-its-tie-up-with-broadcom-says-analyst-and-they-dont-seem-to-be-pleased/articleshow/124558977.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-124559016,imgsize-185160,width-400,resizemode-4/open-ai.jpg",
-            "publishedAt": "2025-10-14 18:20:40"
-        },
-        {
-            "source": {
-                "name": "slashgear"
-            },
-            "title": "PCIe 7.0 Is Coming, And It Might Make Future SSDs Incredibly Fast",
-            "url": "https://www.slashgear.com/1988031/pcie-7-everything-we-know/",
-            "urlToImage": "https://www.slashgear.com/img/gallery/pcie-7-0-is-coming-and-it-might-make-future-ssds-incredibly-fast/l-intro-1759766129.jpg",
-            "publishedAt": "2025-10-14 18:15:00"
-        },
-        {
-            "source": {
-                "name": "siliconangle"
-            },
-            "title": "Making AI Real: Dell’s data solutions reshape the role of storage in enterprise analytics",
-            "url": "https://siliconangle.com/2025/10/14/dell-data-solutions-reshape-storage-enterprise-analytics-delloceansofdata/",
-            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/06/StorageStoryImage.jpeg",
-            "publishedAt": "2025-10-14 18:09:13"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "AI Race Heats Up With U.S. Megadeals Vs. China’s Open Source",
-            "url": "https://www.forbes.com/sites/viviantoh/2025/10/14/ai-race-escalated-us-tighten-chip-loop-as-china-bets-on-open-source/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68ea6f48908a21f3d289265f/0x0.jpg?width=960",
-            "publishedAt": "2025-10-14 18:00:39"
-        },
-        {
-            "source": {
-                "name": "ieee_spectrum"
-            },
-            "title": "Nokia Bell Labs Breaks Ground for Its New N.J. Headquarters",
-            "url": "https://spectrum.ieee.org/nokia-bell-labs-new-headquarters",
-            "urlToImage": "https://spectrum.ieee.org/media-library/an-architectural-model-for-a-new-nokia-bell-labs-headquarters-displayed-at-its-construction-site.jpg?id=61745764&width=980",
-            "publishedAt": "2025-10-14 18:00:03"
-        },
-        {
-            "source": {
-                "name": "newsday"
-            },
-            "title": "AI reshapes the American workplace — but where are the jobs?",
-            "url": "https://www.newsday.com/opinion/commentary/ai-workplace-technology-jobs-bvyrb3qt",
-            "urlToImage": "https://www.newsday.com/_next/image?q=80&url=https%3A%2F%2Fcdn.newsday.com%2Fimage-service%2Fversion%2Fc%3AMjI3ZDJlOGUtNWUzMy00%3AN2M1MzQ2ZmQtODdiZS00%2Fcopy-of-webop1230410.jpg%3Ff%3DLandscape%2B16%253A9%26w%3D770%26q%3D1&w=1920",
-            "publishedAt": "2025-10-14 18:00:00"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Nvidia CEO Warns of Trillion-Dollar AI Data Center Boom and Power Surge",
-            "url": "https://www.webpronews.com/nvidia-ceo-warns-of-trillion-dollar-ai-data-center-boom-and-power-surge/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-69f39aba-8094-4da9-8a44-ba5d2ce632d1.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-10-14 17:54:39"
-        },
-        {
-            "source": {
-                "name": "economictimes_indiatimes"
-            },
-            "title": "Intel customers to test new GPU late next year",
-            "url": "http://economictimes.indiatimes.com/tech/technology/intel-customers-to-test-new-gpu-late-next-year/articleshow/124558622.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-125800,resizemode-75,msid-124558622/tech/technology/intel-customers-to-test-new-gpu-late-next-year.jpg",
-            "publishedAt": "2025-10-14 17:54:22"
-        },
-        {
-            "source": {
-                "name": "channelnewsasia"
-            },
-            "title": "Intel customers to test new Crescent Island GPU in second half of next year",
-            "url": "https://www.channelnewsasia.com/business/intel-customers-test-new-crescent-island-gpu-in-second-half-next-year-5402001",
-            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--MKcvgp7o--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2025-10-14T180615Z_2_LYNXNPEL9D0ZY_RTROPTP_3_INTEL-OUTLOOK.JPG?itok=cFVjT22B",
-            "publishedAt": "2025-10-14 17:53:38"
-        },
-        {
-            "source": {
-                "name": "signalscv"
-            },
-            "title": "The Future of Industrial Automation: How Machines Are Redefining Productivity",
-            "url": "https://signalscv.com/2025/10/the-future-of-industrial-automation-how-machines-are-redefining-productivity/",
-            "urlToImage": "https://signalscv.s3.us-west-1.amazonaws.com/wp-content/uploads/2025/10/14104904/image-24.png",
-            "publishedAt": "2025-10-14 17:50:49"
-        },
-        {
-            "source": {
-                "name": "roboticsandautomationnews"
-            },
-            "title": "Interview with NexCOBOT’s general manager: ‘Single control platform’",
-            "url": "https://roboticsandautomationnews.com/2025/10/14/interview-with-nexcobots-general-manager-single-control-platform/95511/",
-            "urlToImage": "https://roboticsandautomationnews.com/wp-content/uploads/2025/10/nexcobot-humanoid-1.jpg",
-            "publishedAt": "2025-10-14 17:14:21"
-        },
-        {
-            "source": {
-                "name": "toi"
-            },
-            "title": "Google to spend $15 billion in India to build largest AI hub outside the US",
-            "url": "https://timesofindia.indiatimes.com/business/india-business/google-to-spend-15-billion-in-india-to-build-largest-ai-hub-outside-the-us/articleshow/124557620.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-124557713,imgsize-107272,width-400,resizemode-4/we-haven39t-seen-anything-like-this-ai-startup-ceo-after-google-asks-us-employees-to-transfer-medical-data-with-his-company.jpg",
-            "publishedAt": "2025-10-14 17:10:35"
         }
     ]
 }
