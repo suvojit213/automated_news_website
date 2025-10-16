@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2025-10-16T15:16:48.438754Z",
+    "lastUpdatedAt": "2025-10-16T16:19:58.024494Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Apple launches iPad Pro, Vision Pro and MacBook Pro with M5 chip",
+            "url": "https://www.thestar.com.my/tech/tech-news/2025/10/16/apple-launches-ipad-pro-vision-pro-and-macbook-pro-with-m5-chip",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/16/3573128.jpg",
+            "publishedAt": "2025-10-16T04:00:00Z"
+        },
+        {
+            "source": {
+                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+                "name": "NDTV.com",
+                "url": "https://www.ndtv.com",
+                "country": "in"
+            },
+            "title": "\"Will Increase Addiction And Loneliness\"",
+            "url": "https://www.ndtv.com/feature/vivek-ramaswamy-slams-chatgpts-new-erotica-feature-will-increase-addiction-and-loneliness-9464243",
+            "urlToImage": "https://c.ndtvimg.com/2023-08/6jgbfcqo_vivek-ramaswamy-afp-_625x300_24_August_23.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+            "publishedAt": "2025-10-16T03:52:19Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Vivo releases OriginOS 6 globally, bringing AI-driven design and smoother performance",
+            "url": "https://economictimes.indiatimes.com/magazines/panache/vivo-releases-originos-6-globally-bringing-ai-driven-design-and-smoother-performance/articleshow/124594715.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-124594718,width-1200,height-630,imgsize-20298,overlay-etpanache/articleshow.jpg",
+            "publishedAt": "2025-10-16T03:52:00Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "OpenAI Pivot to Porn Is Problematic",
+            "url": "https://www.bloomberg.com/opinion/articles/2025-10-16/openai-pivot-to-porn-is-problematic-but-lucrative-for-chatgpt",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izWa2BbWNJfQ/v3/1200x800.jpg",
+            "publishedAt": "2025-10-16T03:30:07Z"
+        },
+        {
+            "source": {
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
+                "country": "in"
+            },
+            "title": "U.S. warns that hackers using F5 devices to target government networks",
+            "url": "https://www.thehindu.com/sci-tech/technology/us-warns-that-hackers-using-f5-devices-to-target-government-networks/article70169839.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/q3038p/article70169846.ece/alternates/LANDSCAPE_1200/2024-12-16T181109Z_649999916_RC2HQBAR2Q01_RTRMADP_3_NIGERIA-CRYPTOCURRENCY-FRAUD.JPG",
+            "publishedAt": "2025-10-16T03:27:54Z"
+        },
+        {
+            "source": {
+                "id": "e9207083a357fb7e76b38e485888ebe7",
+                "name": "manilastandard.net",
+                "url": "https://manilastandard.net",
+                "country": "ph"
+            },
+            "title": "Exclusive Networks names industry veteran as Philippines country manager",
+            "url": "https://manilastandard.net/business/314655843/exclusive-networks-names-industry-veteran-as-philippines-country-manager.html",
+            "urlToImage": "https://cdn.manilastandard.net/wp-content/uploads/2025/10/renato-garcia.jpeg",
+            "publishedAt": "2025-10-16T03:22:49Z"
+        },
         {
             "source": {
                 "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
@@ -72,6 +144,81 @@
             "url": "https://www.forbes.com/sites/greatspeculations/2025/10/16/why-amd-stock-jumped-50/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68933d45cbb4dd139862830c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-10-16T00:00:00Z"
+        },
+        {
+            "source": {
+                "id": "4ecbadd82aa9fe7a52c0a3b5454020ab",
+                "name": "Around Osceola",
+                "url": "https://www.aroundosceola.com",
+                "country": "us"
+            },
+            "title": "Florida law targets using AI to ‘nudify’ people’s photos",
+            "url": "https://www.aroundosceola.com/news/florida-law-targets-using-ai-nudify-peoples-photos",
+            "urlToImage": "http://www.aroundosceola.com/sites/aroundosceola.com/files/4fb86fbf7c_Ar00801012.jpg",
+            "publishedAt": "2025-10-16T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "economictimes_indiatimes"
+            },
+            "title": "OpenAI allows 15-second videos for all Sora 2 users, 25 seconds for Pro users",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-allows-15-second-videos-for-all-sora-2-users-25-seconds-for-pro-users/articleshow/124594772.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-18774,resizemode-75,msid-124594772/tech/artificial-intelligence/openai-allows-15-second-videos-for-all-sora-2-users-25-seconds-for-pro-users.jpg",
+            "publishedAt": "2025-10-16 04:17:09"
+        },
+        {
+            "source": {
+                "name": "analyticsindiamag"
+            },
+            "title": "SmartSoC, CDAC’s ChipIN Centre Partner for Semicon Startups under DLI Scheme",
+            "url": "https://analyticsindiamag.com/ai-news-updates/smartsoc-cdacs-chipin-centre-partner-for-semicon-startups-under-dli-scheme/",
+            "urlToImage": "https://analyticsindiamag.com/wp-content/uploads/2025/09/Semiconductor.jpg",
+            "publishedAt": "2025-10-16 04:08:29"
+        },
+        {
+            "source": {
+                "name": "newsbytesapp"
+            },
+            "title": "Apple introduces M5 chip with massive AI performance boost",
+            "url": "https://www.newsbytesapp.com/news/science/apple-silicon-gains-major-ai-edge-with-3nm-m5-chip/story",
+            "urlToImage": "https://i.cdn.newsbytesapp.com/images/l84620251016092851.jpeg",
+            "publishedAt": "2025-10-16 04:07:49"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "M5 MacBook Pro vs M4: 3 big upgrades you need to know about",
+            "url": "https://www.tomsguide.com/computing/macbooks/m5-macbook-pro-vs-m4-macbook-pro",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/6KtmTiTaV42SnSoEttfzAQ-1280-80.jpg",
+            "publishedAt": "2025-10-16 04:01:00"
+        },
+        {
+            "source": {
+                "name": "mit"
+            },
+            "title": "Method teaches generative AI models to locate personalized objects",
+            "url": "https://news.mit.edu/2025/method-teaches-generative-ai-models-locate-personalized-objects-1016",
+            "urlToImage": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202510/MIT-VLM-local-01-press.jpg?itok=I38AF21h",
+            "publishedAt": "2025-10-16 04:00:00"
+        },
+        {
+            "source": {
+                "name": "techannouncer"
+            },
+            "title": "Finding the Best RX 7600 Equivalent: A Deep Dive into Performance and Value",
+            "url": "https://techannouncer.com/finding-the-best-rx-7600-equivalent-a-deep-dive-into-performance-and-value/",
+            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/10/408dc287thumbnail-332x187.jpeg",
+            "publishedAt": "2025-10-16 03:57:05"
+        },
+        {
+            "source": {
+                "name": "9to5mac"
+            },
+            "title": "M5 vs M4: What’s new with Apple’s latest silicon?",
+            "url": "https://9to5mac.com/2025/10/15/m5-vs-m4-whats-new-with-apples-latest-silicon/",
+            "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/m5-vs-m4.jpg?quality=82&strip=all&w=1600",
+            "publishedAt": "2025-10-16 03:32:33"
         },
         {
             "source": {
@@ -3099,132 +3246,6 @@
             "url": "https://www.prnewswire.com/news-releases/iot-in-construction-market-surges-to-usd-38-9-billion-by-2033--propelled-by-12-5-cagr---verified-market-reports-302584931.html",
             "urlToImage": "https://mma.prnewswire.com/media/2486715/VM_Reports.jpg?p=original",
             "publishedAt": "2025-10-15 14:45:00"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Valve Developer Integrates NVIDIA DLSS into Open-Source NVK for Linux",
-            "url": "https://www.webpronews.com/valve-developer-integrates-nvidia-dlss-into-open-source-nvk-for-linux/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-702a9949-fa21-4bec-b9c2-3751568cb0de.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-10-15 14:45:00"
-        },
-        {
-            "source": {
-                "name": "cumberlink"
-            },
-            "title": "Boom or bubble?",
-            "url": "https://cumberlink.com/article_23f3505a-c64b-4e9b-a8e0-a145d64b7edb.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/cumberlink.com/content/tncms/custom/image/96acbb24-f0f5-11e5-8f05-1b5bd61eb2c5.jpg?resize=600%2C315",
-            "publishedAt": "2025-10-15 14:38:55"
-        },
-        {
-            "source": {
-                "name": "hindustantimes"
-            },
-            "title": "Apple M5 official: 5th gen chip brings more AI power, improved GPU, and more",
-            "url": "https://www.hindustantimes.com/technology/apple-m5-official-5th-gen-chip-brings-more-ai-power-improved-gpu-and-more-101760538567682.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/10/15/1600x900/apple_m5_1760538622387_1760538634515.png",
-            "publishedAt": "2025-10-15 14:34:51"
-        },
-        {
-            "source": {
-                "name": "geeky_gadgets"
-            },
-            "title": "Introducing the M5 iPad Pro: Apple’s Most Advanced Tablet Yet",
-            "url": "https://www.geeky-gadgets.com/introducing-the-m5-ipad-pro-apples-most-advanced-tablet-yet/",
-            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/10/M5-iPad-Pro1.webp",
-            "publishedAt": "2025-10-15 14:33:39"
-        },
-        {
-            "source": {
-                "name": "cxotoday"
-            },
-            "title": "Nvidia Starts Shipping DGX Spark – The sub-$4000 Desktop Supercomputer",
-            "url": "https://cxotoday.com/news-analysis/nvidia-starts-shipping-dgx-spark-the-sub-4000-desktop-supercomputer/",
-            "urlToImage": "https://cxotoday.com/wp-content/uploads/2025/10/Nvidia.jpeg",
-            "publishedAt": "2025-10-15 13:07:03"
-        },
-        {
-            "source": {
-                "name": "benzinga"
-            },
-            "title": "Microsoft And Nvidia-Backed Nscale Announce Large-Scale AI Project In US And Europe",
-            "url": "https://www.benzinga.com/markets/tech/25/10/48223043/microsoft-and-nvidia-backed-nscale-announce-large-scale-ai-project-in-us-and-europe",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/10/15/AI.jpeg?auto=jpg&dpr=1&fit=crop&height=480&optimize=medium&width=720",
-            "publishedAt": "2025-10-15 13:06:49"
-        },
-        {
-            "source": {
-                "name": "9to5mac"
-            },
-            "title": "Apple launches new iPad Pro with M5 chip, C1X modem",
-            "url": "https://9to5mac.com/2025/10/15/apple-launches-new-ipad-pro-with-m5-chip-c1x-modem/",
-            "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/apple-ipad-pro-m5.jpg?quality=82&strip=all&w=1400",
-            "publishedAt": "2025-10-15 13:06:09"
-        },
-        {
-            "source": {
-                "name": "milescitystar"
-            },
-            "title": "Cubic DTECH Mission Solutions Announces Fusion Edge High Performance Compute (eHPC) Platform Receives Amazon Web Services Internet of Things (IoT) Greengrass Certification",
-            "url": "https://www.milescitystar.com/ap_news/montana/cubic-dtech-mission-solutions-announces-fusion-edge-high-performance-compute-ehpc-platform-receives-amazon-web/article_6f919f83-f679-5253-8bc8-5b123c0ca4f0.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/milescitystar.com/content/tncms/custom/image/d356975e-8c50-11ed-9099-03a8030ff894.png?resize=600%2C315",
-            "publishedAt": "2025-10-15 13:02:11"
-        },
-        {
-            "source": {
-                "name": "applenewsroom"
-            },
-            "title": "Apple unleashes M5, the next big leap in AI performance for Apple silicon",
-            "url": "https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/",
-            "urlToImage": "https://www.apple.com/newsroom/images/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/tile/Apple-M5-hero-251015-lp.jpg.landing-big_2x.jpg",
-            "publishedAt": "2025-10-15 13:00:43"
-        },
-        {
-            "source": {
-                "name": "applenewsroom"
-            },
-            "title": "Apple Vision Pro upgraded with the M5 chip and Dual Knit Band",
-            "url": "https://www.apple.com/newsroom/2025/10/apple-vision-pro-upgraded-with-the-m5-chip-and-dual-knit-band/",
-            "urlToImage": "https://www.apple.com/newsroom/images/2025/10/apple-vision-pro-upgraded-with-the-m5-chip-and-dual-knit-band/tile/Apple-Vision-Pro-hero-251015-lp.jpg.landing-big_2x.jpg",
-            "publishedAt": "2025-10-15 13:00:28"
-        },
-        {
-            "source": {
-                "name": "siliconangle"
-            },
-            "title": "Planyear secures $12M to automate the manual drudgery of benefits consulting",
-            "url": "https://siliconangle.com/2025/10/15/planyear-secures-12m-automate-manual-drudgery-benefits-consulting/",
-            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/02/Designer-23.jpeg",
-            "publishedAt": "2025-10-15 13:00:13"
-        },
-        {
-            "source": {
-                "name": "lifehacker_us"
-            },
-            "title": "How Google’s NotebookLM AI Chatbot Became My New Study Buddy",
-            "url": "https://lifehacker.com/tech/google-notebooklm-ai-chat",
-            "urlToImage": "https://lifehacker.com/imagery/articles/01K7HNJKYS0WF9X9CV4653YWV5/hero-image.fill.size_1200x675.jpg",
-            "publishedAt": "2025-10-15 13:00:00"
-        },
-        {
-            "source": {
-                "name": "cmu"
-            },
-            "title": "Amazon and Carnegie Mellon University Launch Strategic AI Innovation Hub",
-            "url": "https://www.cmu.edu/news/stories/archives/2025/october/amazon-and-carnegie-mellon-university-launch-strategic-ai-innovation-hub",
-            "urlToImage": "https://www.cmu.edu/news/sites/default/files/styles/listings_desktop_1x_/public/2025-10/UA_191007D_Fall%20Foliage_0007%20copy.jpg.webp?itok=7bXautZd",
-            "publishedAt": "2025-10-15 13:00:00"
-        },
-        {
-            "source": {
-                "name": "digit_in"
-            },
-            "title": "Crescent Island: Intel’s bold bet to rival Nvidia in AI chips",
-            "url": "https://www.digit.in/features/general/crescent-island-intels-bold-bet-to-rival-nvidia-in-ai-chips.html",
-            "urlToImage": "https://static.digit.in/Intel-GPU.jpg",
-            "publishedAt": "2025-10-15 11:12:02"
         }
     ]
 }
