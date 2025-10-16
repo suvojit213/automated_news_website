@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2025-10-16T08:21:47.692130Z",
+    "lastUpdatedAt": "2025-10-16T09:17:21.283160Z",
     "articles": [
+        {
+            "source": {
+                "id": "6f4f13c21bb217801ab4b37c367f97aa",
+                "name": "CNET",
+                "url": "https://www.cnet.com",
+                "country": "us"
+            },
+            "title": "Scouts Can Now Earn AI and Cybersecurity Badges",
+            "url": "https://www.cnet.com/tech/services-and-software/scouts-can-now-earn-ai-and-cybersecurity-badges/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/8e4205ac62bfb2be28f58e439fc1982c247deb3f/hub/2025/10/15/9df3c2a4-1bac-4dc6-9aa1-66eef0a99b87/gettyimages-459028801.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-10-15T21:05:48Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Is AI taking over Wall Street? Here's how AI keeps up with NYSE’s 1.2 trillion daily order messages",
+            "url": "https://economictimes.indiatimes.com/news/international/us/is-ai-taking-over-wall-street-heres-how-ai-keeps-up-with-nyses-1-2-trillion-daily-order-messages/articleshow/124589543.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-124590517,width-1200,height-630,imgsize-165658,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-10-15T21:05:00Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Adtalem, Google Cloud to launch AI credential program for healthcare professionals",
+            "url": "https://www.reuters.com/technology/adtalem-google-cloud-launch-ai-credential-program-healthcare-professionals-2025-10-15/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/IUWHEG633FMPFH5I627HYVNAFQ.jpg?auth=8ce22c553ffdf0f41c86d29701c17e96333dd93306e825bd9203d9cafc687820&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-10-15T21:01:46Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "5 Ways AI Is Transforming Fintech: Tips for Applying It in Your Business",
+            "url": "https://techbullion.com/5-ways-ai-is-transforming-fintech-tips-for-applying-it-in-your-business/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/10/AI-and-Fintech.jpg",
+            "publishedAt": "2025-10-15T20:46:56Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "Foundations want to curb AI developers' influence with $500 million aimed at centering human needs",
+            "url": "https://japantoday.com/category/tech/foundations-want-to-curb-ai-developers%27-influence-with-500-million-aimed-at-centering-human-needs",
+            "urlToImage": "https://media.japantoday.com/img/store/1c/71/ff898dc2aab13c1093d5cec4cf722ea6e23e/download/_w1700.jpeg",
+            "publishedAt": "2025-10-15T20:45:00Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "Foundations want to curb AI developers' influence with $500 million aimed at centering human needs",
+            "url": "https://japantoday.com/category/tech/foundations-want-to-curb-ai-developers'-influence-with-500-million-aimed-at-centering-human-needs",
+            "urlToImage": "https://media.japantoday.com/img/store/1c/71/ff898dc2aab13c1093d5cec4cf722ea6e23e/download/_w1700.jpeg",
+            "publishedAt": "2025-10-15T20:45:00Z"
+        },
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "Machine learning helps identify 'thermal switch' for next-generation nanomaterials",
+            "url": "https://phys.org/news/2025-10-machine-thermal-generation-nanomaterials.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/machine-learning-helps-3.jpg",
+            "publishedAt": "2025-10-15T20:26:04Z"
+        },
         {
             "source": {
                 "id": "b98becfda029f124cf65538c8af36d20",
@@ -1743,6 +1827,51 @@
         },
         {
             "source": {
+                "name": "pcworld_us"
+            },
+            "title": "Best PC computer deals: Top picks from desktops to all-in-ones",
+            "url": "https://www.pcworld.com/article/813362/best-pc-computer-deals.html",
+            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/10/pcw-desktoppc-prime-1-3.jpg?quality=50&strip=all",
+            "publishedAt": "2025-10-15 21:11:48"
+        },
+        {
+            "source": {
+                "name": "gizmodotech"
+            },
+            "title": "Even the Inventor of ‘Vibe Coding’ Says Vibe Coding Can’t Cut It",
+            "url": "https://gizmodo.com/even-the-inventor-of-vibe-coding-says-vibe-coding-cant-cut-it-2000672821",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/02/4b2984f6d5ecd0ddaf5575d36f06d071-1024x575.jpg",
+            "publishedAt": "2025-10-15 21:10:49"
+        },
+        {
+            "source": {
+                "name": "pressherald"
+            },
+            "title": "Maine’s first large-scale AI data center planned for Aroostook County",
+            "url": "https://www.pressherald.com/2025/10/15/maines-first-large-scale-ai-data-center-planned-for-aroostook-county/",
+            "urlToImage": "https://www.pressherald.com/wp-content/uploads/sites/4/2025/10/AP23200525513571.jpg?w=780",
+            "publishedAt": "2025-10-15 20:37:26"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "BlackRock-Led Consortium Buys Aligned Data Centers for $40 Billion",
+            "url": "https://www.webpronews.com/blackrock-led-consortium-buys-aligned-data-centers-for-40-billion/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-2c13e885-d140-43fc-8f19-55a659da617c.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-10-15 20:28:57"
+        },
+        {
+            "source": {
+                "name": "businesstoday"
+            },
+            "title": "Apple unveils iPad Pro with M5 chip, boosting AI power and performance",
+            "url": "https://www.businesstoday.in/technology/news/story/apple-unveils-ipad-pro-with-m5-chip-boosting-ai-power-and-performance-498343-2025-10-16",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202510/68f002cd40480-the-new-ipad-pro-incorporates-a-third-generation-ray-tracing-engine-for-superfast-3d-rendering-in-ap-152335224-16x9.jpg",
+            "publishedAt": "2025-10-15 20:23:47"
+        },
+        {
+            "source": {
                 "name": "webpronews"
             },
             "title": "Apple M5 Chip Delivers 4x Faster AI Processing Over M4",
@@ -3027,114 +3156,6 @@
             "url": "https://www.dailygazette.com/tribune/the-key-health-bills-california-gov-newsom-signed-this-week-focused-on-how-technology-is/article_8356b0fc-e5c4-5e57-a64c-a1920d1c3aec.html",
             "urlToImage": "https://bloximages.chicago2.vip.townnews.com/dailygazette.com/content/tncms/assets/v3/editorial/3/b3/3b3bb9ff-2317-5778-8b02-e8250ddc4527/68ef13e45f02a.image.jpg?resize=300%2C200",
             "publishedAt": "2025-10-15 02:34:00"
-        },
-        {
-            "source": {
-                "name": "thehansindia"
-            },
-            "title": "The voice within and the need for poetry",
-            "url": "https://www.thehansindia.com/hans/opinion/news-analysis/the-voice-within-and-the-need-for-poetry-1014690",
-            "urlToImage": "https://assets.thehansindia.com/h-upload/2025/10/15/1593132-poetry.webp",
-            "publishedAt": "2025-10-15 02:30:53"
-        },
-        {
-            "source": {
-                "name": "postguam"
-            },
-            "title": "When AI therapy helps",
-            "url": "https://www.postguam.com/forum/world/when-ai-therapy-helps/article_2284d4c9-92af-4b52-bd23-2f6aacfa4234.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/custom/image/f433efec-b17a-11eb-bb56-6f9f445e39b2.jpg?resize=600%2C336",
-            "publishedAt": "2025-10-15 02:09:00"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "Immutable Linux delivers serious security - here are your 5 best options",
-            "url": "https://www.zdnet.com/article/immutable-linux-delivers-serious-security-here-are-your-5-best-options/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/ee1487a469c53b40b46b6bd7da1143932148ad25/2025/08/18/5c81783b-76a7-417f-bc06-122827dee962/5-reasons-you-should-use-immutable-linux-distros.jpg?auto=webp&width=1280",
-            "publishedAt": "2025-10-15 02:00:36"
-        },
-        {
-            "source": {
-                "name": "menafn"
-            },
-            "title": "The AI Final Boss Is Loading... And It's India",
-            "url": "https://menafn.com/1110197952/The-AI-Final-Boss-Is-Loading-And-Its-India",
-            "urlToImage": "https://menafn.com/updates/pr/2025-10/15/AN_3a81cimage_story.jpg",
-            "publishedAt": "2025-10-15 02:00:36"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Navigating the Top SaaS Conferences of 2025: Your Ultimate Guide",
-            "url": "https://techannouncer.com/navigating-the-top-saas-conferences-of-2025-your-ultimate-guide/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/10/c13160b9thumbnail-332x187.jpeg",
-            "publishedAt": "2025-10-15 01:34:27"
-        },
-        {
-            "source": {
-                "name": "hindustantimes"
-            },
-            "title": "AI’s biggest risk isn’t sentience, it’s meaninglessness",
-            "url": "https://www.hindustantimes.com/technology/ais-biggest-risk-isn-t-sentience-it-s-meaninglessness-101760466989834.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/10/14/1600x900/Cognitive_warmup_-_OpenAI_gigawatt_1760467024255_1760467060086.jpg",
-            "publishedAt": "2025-10-15 01:30:11"
-        },
-        {
-            "source": {
-                "name": "latimes"
-            },
-            "title": "The key health bills California Gov. Newsom signed this week focused on how technology is impacting kids",
-            "url": "https://www.latimes.com/science/story/2025-10-14/tech-and-health-bills-wrapup",
-            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/61942dd/2147483647/strip/true/crop/4380x2300+0+310/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F6b%2Fc4%2Fe4fc98684ea3a4b25c37870d29ba%2Fgettyimages-2239444046.jpg",
-            "publishedAt": "2025-10-15 01:26:52"
-        },
-        {
-            "source": {
-                "name": "siliconangle"
-            },
-            "title": "Intel takes another crack at the AI chip market with its new Crescent Island GPUs",
-            "url": "https://siliconangle.com/2025/10/14/intel-takes-another-crack-ai-chip-market-new-crescent-island-gpus/",
-            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/10/Screenshot-from-2025-10-15-08-19-23.png",
-            "publishedAt": "2025-10-15 01:21:08"
-        },
-        {
-            "source": {
-                "name": "prnewswire_apac"
-            },
-            "title": "ASUS Unveils AI Factory and Next-Gen Servers with NVIDIA HGX B300 systems at OCP 2025",
-            "url": "https://www.prnewswire.com/apac/news-releases/asus-unveils-ai-factory-and-next-gen-servers-with-nvidia-hgx-b300-systems-at-ocp-2025-302584194.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2645102/ASUS_logo.jpg?p=original",
-            "publishedAt": "2025-10-15 01:21:00"
-        },
-        {
-            "source": {
-                "name": "messenger_inquirer"
-            },
-            "title": "AP Technology SummaryBrief at 9:14 p.m. EDT",
-            "url": "https://www.messenger-inquirer.com/ap/elections/ap-technology-summarybrief-at-9-14-p-m-edt/article_3315646d-a7d8-50c3-a6a5-2642b1836104.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/messenger-inquirer.com/content/tncms/custom/image/a2a4b15c-9ead-11ee-847f-2b2be1350ebd.jpg?resize=600%2C338",
-            "publishedAt": "2025-10-15 01:14:41"
-        },
-        {
-            "source": {
-                "name": "postregister"
-            },
-            "title": "AP Technology SummaryBrief at 9:14 p.m. EDT",
-            "url": "https://www.postregister.com/businessreport/business/ap-technology-summarybrief-at-9-14-p-m-edt/article_e806d51c-0614-5c30-80f4-0894536d0770.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
-            "publishedAt": "2025-10-15 01:14:41"
-        },
-        {
-            "source": {
-                "name": "cadillacnews"
-            },
-            "title": "AP Technology SummaryBrief at 9:14 p.m. EDT",
-            "url": "https://www.cadillacnews.com/ap/business/ap-technology-summarybrief-at-9-14-p-m-edt/article_b73174ef-b204-5816-94ef-66ba03cd6605.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/cadillacnews.com/content/tncms/custom/image/2f32a658-47ab-11e7-abb1-ef25bc001cf2.png?resize=600%2C99",
-            "publishedAt": "2025-10-15 01:14:41"
         }
     ]
 }
