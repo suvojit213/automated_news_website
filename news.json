@@ -1,6 +1,102 @@
 {
-    "lastUpdatedAt": "2025-10-16T05:14:58.498582Z",
+    "lastUpdatedAt": "2025-10-16T06:23:19.245503Z",
     "articles": [
+        {
+            "source": {
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
+            },
+            "title": "US says ‘significant cyber threat’ hitting federal networks using F5 devices",
+            "url": "https://www.straitstimes.com/world/united-states/us-warns-of-catastrophic-hacks-after-cyber-firm-f5-breach",
+            "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/0233ab59697ca00f0673e93406fe608e00cb55bb283a982ff78858259d110276",
+            "publishedAt": "2025-10-15T18:07:03Z"
+        },
+        {
+            "source": {
+                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+                "name": "Australian Financial Review",
+                "url": "https://www.afr.com",
+                "country": "au"
+            },
+            "title": "Endeavour Energy uses AI and drones to ensure power for the people",
+            "url": "https://www.afr.com/companies/energy/endeavour-energy-uses-ai-and-drones-to-ensure-power-for-the-people-20250930-p5mz1r",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.1492%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/42564906523cfba360ab0d608b2892cb8e00fab1",
+            "publishedAt": "2025-10-15T18:00:00Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "EXCLUSIVE-Anthropic aims to nearly triple annualized revenue in 2026, sources say",
+            "url": "https://www.devdiscourse.com/article/technology/3664812-exclusive-anthropic-aims-to-nearly-triple-annualized-revenue-in-2026-sources-say",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_01_17_7363597.jpg?width=920&format=jpeg",
+            "publishedAt": "2025-10-15T17:53:06Z"
+        },
+        {
+            "source": {
+                "id": "5b07f2eba74fc799fd5d1ee46c5bafc3",
+                "name": "Newsweek",
+                "url": "https://www.newsweek.com",
+                "country": "us"
+            },
+            "title": "Roger Goodell Points to NFL Moving Towards AI Officiating",
+            "url": "https://www.newsweek.com/sports/nfl/roger-goodell-nfl-ai-officiating-10884768",
+            "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2025/10/GettyImages-2192212878.jpg?w=1200crop=1",
+            "publishedAt": "2025-10-15T17:36:00Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Advertising council to use AI, MI tools to tackle digital challenges",
+            "url": "https://economictimes.indiatimes.com/industry/services/advertising/advertising-council-to-use-ai-mi-tools-to-tackle-digital-challenges/articleshow/124586082.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-124586201,width-1200,height-630,imgsize-484786,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-10-15T17:32:00Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "How AI integration in biosensors enhances food safety and accuracy",
+            "url": "https://www.devdiscourse.com/article/technology/3661273-how-ai-integration-in-biosensors-enhances-food-safety-and-accuracy",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/13_10_2025_10_36_00_3831864.png?width=920&format=jpeg",
+            "publishedAt": "2025-10-15T17:22:05Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "Deepika Padukone lends her voice to Meta AI, actress says, 'Try it and let me know what you think!'",
+            "url": "https://www.livemint.com/entertainment/deepika-padukone-lends-her-voice-to-meta-ai-actress-says-try-it-and-let-me-know-what-you-think-11760547396274.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2025/10/15/1600x900/Screenshot_2025-09-25_193617_1758809186812_1758809201672_1760547858275.png",
+            "publishedAt": "2025-10-15T17:20:05Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "How AI is reshaping food production, safety and supply chain efficiency",
+            "url": "https://www.devdiscourse.com/article/technology/3661371-how-ai-is-reshaping-food-production-safety-and-supply-chain-efficiency",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/13_10_2025_12_38_28_0179782.png?width=920&format=jpeg",
+            "publishedAt": "2025-10-15T17:18:35Z"
+        },
         {
             "source": {
                 "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
@@ -1503,6 +1599,96 @@
         },
         {
             "source": {
+                "name": "time"
+            },
+            "title": "Crusoe CEO Chase Lochmiller on Building the First Phase of Stargate",
+            "url": "https://time.com/7325956/crusoe-ceo-chase-lochmiller-interview/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2025/10/GettyImages-2218066486.jpg?h=675&w=1200",
+            "publishedAt": "2025-10-15 18:17:59"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Arm and Meta Partner on Neoverse for Efficient AI Infrastructure",
+            "url": "https://www.webpronews.com/arm-and-meta-partner-on-neoverse-for-efficient-ai-infrastructure/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-d99fd76b-c04b-4d2f-9cd8-6c883a4cbe12.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-10-15 18:10:04"
+        },
+        {
+            "source": {
+                "name": "wired"
+            },
+            "title": "The AI Industry's Scaling Obsession Is Headed for a Cliff",
+            "url": "https://www.wired.com/story/the-ai-industrys-scaling-obsession-is-headed-for-a-cliff/",
+            "urlToImage": "https://media.wired.com/photos/68efda5ae7f63deb0177e5c2/master/w_120,c_limit/101525_AI-Lab-AI-Scaling-Obsession-5.jpg",
+            "publishedAt": "2025-10-15 18:00:00"
+        },
+        {
+            "source": {
+                "name": "mathrubhumi"
+            },
+            "title": "New M5 MacBook Pro is OUT: See what all Apple just unleashed!",
+            "url": "https://english.mathrubhumi.com/technology/new-m5-macbook-pro-is-out-see-what-all-apple-just-unleashed-x380w5y8",
+            "urlToImage": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1mj7tvyb57ktpzd9jyz/0/apple-m5-macbook-jpg.jpg?w=900",
+            "publishedAt": "2025-10-15 17:48:10"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Apurva Pathak Leads Revolutionary Privacy-First AI Initiative Driving Industry Impact",
+            "url": "https://hackernoon.com/apurva-pathak-leads-revolutionary-privacy-first-ai-initiative-driving-industry-impact",
+            "urlToImage": "https://hackernoon.imgix.net/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-n1039ku.png",
+            "publishedAt": "2025-10-15 17:47:02"
+        },
+        {
+            "source": {
+                "name": "startupnews"
+            },
+            "title": "Apple unveils M5 chip with 10-core CPU and 10-core GPU — company says 3nm chip offers 4x peak GPU performance over M4 for AI, 45% graphics uplift",
+            "url": "https://startupnews.fyi/2025/10/15/apple-unveils-m5-chip-with-10-core-cpu-and-10-core-gpu-company-says-3nm-chip-offers-4x-peak-gpu-performance-over-m4-for-ai-45-graphics-uplift/",
+            "urlToImage": "https://startupnews.fyi/wp-content/uploads/2025/10/pt2zBYGMyTddZMePp87NQZ-1920-80.jpg",
+            "publishedAt": "2025-10-15 17:45:02"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Google Unveils Veo 3.1: AI Video Model Rivals Sora with Enhanced Realism",
+            "url": "https://www.webpronews.com/google-unveils-veo-3-1-ai-video-model-rivals-sora-with-enhanced-realism/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-86441c48-eea9-4482-95b4-556e1f966ddc.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-10-15 17:43:36"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "ChatGPT Triggers Web Searches in 31% of Prompts, Study Finds",
+            "url": "https://www.webpronews.com/chatgpt-triggers-web-searches-in-31-of-prompts-study-finds/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-0829d214-1e08-43f3-82f8-8d91f8840beb.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-10-15 17:38:54"
+        },
+        {
+            "source": {
+                "name": "thestreet"
+            },
+            "title": "This Market Newcomer Could Become the Semiconductor Industry's Next Hot Stock: Interview with Qnity CEO Jon Kemp",
+            "url": "https://www.thestreet.com/investing/this-market-newcomer-could-become-the-semiconductor-industrys-next-hot-stock-interview-with-qnity-ceo-jon-kemp",
+            "urlToImage": "https://www.thestreet.com/.image/c_fit,h_800,w_1200/MjE0NzUwMDMxNzg0MTkxNzgw/operations-inside-micron-technology-headquarters.jpg",
+            "publishedAt": "2025-10-15 17:37:41"
+        },
+        {
+            "source": {
+                "name": "globegazette"
+            },
+            "title": "Boom or bubble?",
+            "url": "https://globegazette.com/article_bd8173fa-1621-4aec-9b7c-a80631266fa7.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/globegazette.com/content/tncms/custom/image/4a008fc8-c542-11ea-80d0-f71aedfaa0ef.jpg?resize=600%2C315",
+            "publishedAt": "2025-10-15 17:25:45"
+        },
+        {
+            "source": {
                 "name": "engadget"
             },
             "title": "The best VPN service for 2025",
@@ -2961,222 +3147,6 @@
             "url": "https://japantoday.com/category/tech/openai-partners-with-walmart-to-let-users-buy-products-in-chatgpt-furthering-chatbot-shopping-push",
             "urlToImage": "https://media.japantoday.com/img/store/b4/2b/33186b520abcc45a374c995dd1031ed79c8d/download/_w1700.jpeg",
             "publishedAt": "2025-10-14T21:00:00Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "SGPC digital task force to check AI content",
-            "url": "https://www.tribuneindia.com/news/amritsar/sgpc-digital-task-force-to-check-ai-content/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTI4MzAyZmMwLWE5ODAtMTFmMC04NjMyLTFiZGZhNzM3NzM5Zi5qcGc=",
-            "publishedAt": "2025-10-14T20:30:23Z"
-        },
-        {
-            "source": {
-                "id": "abab8062417cb9b02ead633cc01bfb99",
-                "name": "HotNewHipHop",
-                "url": "https://www.hotnewhiphop.com",
-                "country": "us"
-            },
-            "title": "Timbaland Blasted For Appearing In A.I. Artist's Music Video",
-            "url": "https://www.hotnewhiphop.com/952755-timbaland-blasted-appearing-a-i-artists-music-video-hip-hop-news",
-            "urlToImage": "https://www.hotnewhiphop.com/imgprst/2292x1200-fit-81-auto/2025/10/Timbaland-3-scaled.jpg",
-            "publishedAt": "2025-10-14T20:08:36Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Jobs most likely to be affected by AI reshaping the workforce: Face the greatest risk of displacement",
-            "url": "https://economictimes.indiatimes.com/news/international/us/jobs-most-likely-to-be-affected-by-ai-reshaping-the-workforce-face-the-greatest-risk-of-displacement/articleshow/124561446.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-124561471,width-1200,height-630,imgsize-49558,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2025-10-14T19:57:00Z"
-        },
-        {
-            "source": {
-                "id": "e7b4d14003cc89c64a689f1c38723ef5",
-                "name": "Live 5 News WCSC",
-                "url": "https://www.live5news.com",
-                "country": "us"
-            },
-            "title": "InvestigateTV+: Designers say their work is being stolen, marketed with AI",
-            "url": "https://www.live5news.com/2025/10/14/investigatetv-designers-say-their-work-is-being-stolen-marketed-with-ai/",
-            "urlToImage": "https://gray-wcsc-prod.gtv-cdn.com/resizer/v2/JUYVOT2XQND7DKVBG7VXI3NPCY.png?auth=54e130d53e9e19fd427f7ea97f73b957a6270ab94f14bb79e8e644bcc127ab0c&width=1200&height=600&smart=true",
-            "publishedAt": "2025-10-14T19:33:37Z"
-        },
-        {
-            "source": {
-                "id": "3f09ae62ee37a33ab191a698fec83f4b",
-                "name": "WEAU",
-                "url": "https://www.weau.com",
-                "country": "us"
-            },
-            "title": "InvestigateTV+: Designers say their work is being stolen, marketed with AI",
-            "url": "https://www.weau.com/2025/10/14/investigatetv-designers-say-their-work-is-being-stolen-marketed-with-ai/",
-            "urlToImage": "https://gray-weau-prod.gtv-cdn.com/resizer/v2/JUYVOT2XQND7DKVBG7VXI3NPCY.png?auth=54e130d53e9e19fd427f7ea97f73b957a6270ab94f14bb79e8e644bcc127ab0c&width=1200&height=600&smart=true",
-            "publishedAt": "2025-10-14T19:33:37Z"
-        },
-        {
-            "source": {
-                "id": "04c17c43a7507fac95fd9ba5d47715b5",
-                "name": "WIS10",
-                "url": "https://www.wistv.com",
-                "country": "us"
-            },
-            "title": "InvestigateTV+: Designers say their work is being stolen, marketed with AI",
-            "url": "https://www.wistv.com/2025/10/14/investigatetv-designers-say-their-work-is-being-stolen-marketed-with-ai/",
-            "urlToImage": "https://gray-wistv-prod.gtv-cdn.com/resizer/v2/JUYVOT2XQND7DKVBG7VXI3NPCY.png?auth=54e130d53e9e19fd427f7ea97f73b957a6270ab94f14bb79e8e644bcc127ab0c&width=1200&height=600&smart=true",
-            "publishedAt": "2025-10-14T19:33:37Z"
-        },
-        {
-            "source": {
-                "id": "ca35c66a2b26e8274365e937357cf9c5",
-                "name": "SlashGear",
-                "url": "https://www.slashgear.com",
-                "country": "us"
-            },
-            "title": "5 Useful Ways To Use Google Gemini AI On Your Phone",
-            "url": "https://www.slashgear.com/1992392/more-useful-google-gemini-ai-phone-apps-ways-use/",
-            "urlToImage": "https://www.slashgear.com/img/gallery/5-useful-ways-to-use-google-gemini-ai-on-your-phone/l-intro-1760086142.jpg",
-            "publishedAt": "2025-10-14T19:30:00Z"
-        },
-        {
-            "source": {
-                "id": "1b697445987e8a33f6c82842e17d60d9",
-                "name": "Bnn Bloomberg",
-                "url": "https://www.bnnbloomberg.ca",
-                "country": "ca"
-            },
-            "title": "OpenAI partners with Walmart to shop on ChatGPT",
-            "url": "https://www.bnnbloomberg.ca/business/2025/10/14/openai-partners-with-walmart-to-let-users-buy-products-in-chatgpt-furthering-chatbot-shopping-push/",
-            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/G4J3JXRX6NQMH7PVQRD66XH2XE.jpg?smart=true&auth=60818a06290ab95fffe39f19686c8ba8c4c57125a616eb06bce8a6fbce0795c9&width=1200&height=630",
-            "publishedAt": "2025-10-14T19:27:12Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com",
-                "country": "ca"
-            },
-            "title": "OpenAI partners with Walmart to shop on ChatGPT",
-            "url": "https://www.cp24.com/news/money/2025/10/14/openai-partners-with-walmart-to-let-users-buy-products-in-chatgpt-furthering-chatbot-shopping-push/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/G4J3JXRX6NQMH7PVQRD66XH2XE.jpg?smart=true&auth=60818a06290ab95fffe39f19686c8ba8c4c57125a616eb06bce8a6fbce0795c9&width=1200&height=630",
-            "publishedAt": "2025-10-14T19:27:12Z"
-        },
-        {
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            },
-            "title": "Google to invest $15 bil in India, build largest AI hub outside U.S.",
-            "url": "https://japantoday.com/category/tech/google-to-invest-15-bn-in-india-build-largest-ai-hub-outside-us",
-            "urlToImage": "https://media.japantoday.com/img/store/f4/fa/df9b15eb34ebae3847a97f28386fafa66381/c7a341bb94eaab2d240253866a048055f32aebea-1/_w1700.jpeg",
-            "publishedAt": "2025-10-14T19:27:00Z"
-        },
-        {
-            "source": {
-                "id": "79e9a45376a66fd7e1a4e68bba928c39",
-                "name": "The Atlanta Journal-Constitution",
-                "url": "https://www.ajc.com",
-                "country": "us"
-            },
-            "title": "OpenAI partners with Walmart to let users buy products in ChatGPT, furthering chatbot shopping push",
-            "url": "https://www.ajc.com/news/2025/10/openai-partners-with-walmart-to-let-users-buy-products-in-chatgpt-furthering-chatbot-shopping-push/",
-            "urlToImage": "https://www.ajc.com/resizer/v2/GHAYDO2UDJCHJKUVIOJSXLFGDU.jpg?auth=31a088e2fb2b174ac6b90fb76a65547d29a2c2334bb88ac0884a87234a306754&width=1200&height=630&smart=true",
-            "publishedAt": "2025-10-14T19:23:03Z"
-        },
-        {
-            "source": {
-                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
-                "name": "The Associated Press",
-                "url": "https://apnews.com",
-                "country": "us"
-            },
-            "title": "OpenAI partners with Walmart to let shoppers buy products in ChatGPT",
-            "url": "https://apnews.com/article/openai-walmart-chatgpt-shopping-partnership-59b72cc5f1a3377b4ada89d035dc1884",
-            "urlToImage": "https://dims.apnews.com/dims4/default/a9275ce/2147483647/strip/true/crop/4413x2482+0+230/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F94%2F6a%2F10f11999646fa27d1f4a065307f4%2Fb9521a7f1b2444fb96a21933572e6d51",
-            "publishedAt": "2025-10-14T19:11:51Z"
-        },
-        {
-            "source": {
-                "id": "35515662ec044d3f94b543cd8802d63f",
-                "name": "WDIV ClickOnDetroit",
-                "url": "https://www.clickondetroit.com",
-                "country": "us"
-            },
-            "title": "OpenAI partners with Walmart to let users buy products in ChatGPT, furthering chatbot shopping push",
-            "url": "https://www.clickondetroit.com/business/2025/10/14/openai-partners-with-walmart-to-let-users-buy-products-in-chatgpt-furthering-chatbot-shopping-push/",
-            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/K34Q3AS62JBU3AS424CACEBBYA.jpg?_a=DATAg1eAZAA0",
-            "publishedAt": "2025-10-14T19:11:50Z"
-        },
-        {
-            "source": {
-                "id": "37128a060981dbbe79321f096e7d1108",
-                "name": "U.S. News & World Report",
-                "url": "https://www.usnews.com",
-                "country": "us"
-            },
-            "title": "OpenAI Partners With Walmart to Let Users Buy Products in ChatGPT, Furthering Chatbot Shopping Push",
-            "url": "https://www.usnews.com/news/business/articles/2025-10-14/openai-partners-with-walmart-to-let-users-buy-products-in-chatgpt-furthering-chatbot-shopping-push",
-            "urlToImage": "https://www.usnews.com/dims4/USNEWS/1bb9eb9/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F86%2F6b29ed1f6a5e4d8ca7df200c2b3087%2Fb9521a7f1b2444fb96a21933572e6d51OpenAI_Walmart_Shopping_84854.jpg",
-            "publishedAt": "2025-10-14T19:11:00Z"
-        },
-        {
-            "source": {
-                "id": "c24832368cd2d9132598ad4bef08e0ab",
-                "name": "Investopedia",
-                "url": "https://www.investopedia.com",
-                "country": "us"
-            },
-            "title": "AMD Just Scored Another Big AI Chip Deal-What You Need to Know",
-            "url": "https://www.investopedia.com/amd-just-scored-another-big-ai-chip-deal-what-you-need-to-know-11829305",
-            "urlToImage": "https://www.investopedia.com/thmb/qK2DNw5qZUjzjuPURJT-jABSpxA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2239385368-f645ae7ad006473abe05b4955d75a1d2.jpg",
-            "publishedAt": "2025-10-14T19:02:08Z"
-        },
-        {
-            "source": {
-                "id": "6f68e6d7cd20b33baacb487a0e911008",
-                "name": "Santa Rosa Press Democrat",
-                "url": "https://www.pressdemocrat.com",
-                "country": "us"
-            },
-            "title": "Foundations commit $500 million to center human needs amid AI",
-            "url": "https://www.pressdemocrat.com/2025/10/14/philanthropy-humanity-ai/",
-            "urlToImage": "https://www.pressdemocrat.com/wp-content/uploads/2025/10/Philanthropy_Clinton_Global_Initiative_99199.jpg?w=1024&h=682",
-            "publishedAt": "2025-10-14T19:02:02Z"
-        },
-        {
-            "source": {
-                "id": "840efb5642a2fd3ae6da920bb4981626",
-                "name": "Santa Ana Orange County Register",
-                "url": "https://www.ocregister.com",
-                "country": "us"
-            },
-            "title": "Foundations commit $500 million to center human needs amid AI",
-            "url": "https://www.ocregister.com/2025/10/14/philanthropy-humanity-ai/",
-            "urlToImage": "https://www.ocregister.com/wp-content/uploads/2025/10/Philanthropy_Clinton_Global_Initiative_99199.jpg?w=1024&h=682",
-            "publishedAt": "2025-10-14T19:02:02Z"
-        },
-        {
-            "source": {
-                "id": "b864cc599bc4ba1ff99463aba17ae502",
-                "name": "Reading Eagle",
-                "url": "https://www.readingeagle.com",
-                "country": "us"
-            },
-            "title": "Foundations commit $500 million to center human needs amid AI",
-            "url": "https://www.readingeagle.com/2025/10/14/philanthropy-humanity-ai/",
-            "urlToImage": "https://www.readingeagle.com/wp-content/uploads/2025/10/Philanthropy_Clinton_Global_Initiative_99199.jpg?w=1024&h=682",
-            "publishedAt": "2025-10-14T19:02:02Z"
         }
     ]
 }
