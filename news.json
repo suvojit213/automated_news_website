@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-10-16T06:23:19.245503Z",
+    "lastUpdatedAt": "2025-10-16T07:15:46.676491Z",
     "articles": [
+        {
+            "source": {
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
+                "country": "in"
+            },
+            "title": "National conference on cybersecurity to be held in Mysuru on Oct. 17",
+            "url": "https://www.thehindu.com/news/national/karnataka/national-conference-on-cybersecurity-in-mysuru-on-oct-17/article70167562.ece",
+            "urlToImage": "https://www.thehindu.com/theme/images/og-image.png",
+            "publishedAt": "2025-10-15T19:08:01Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Smart Glasses Shouldn’t Replace Smartphones",
+            "url": "https://www.bloomberg.com/opinion/articles/2025-10-15/smart-glasses-shouldn-t-replace-smartphones",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izcyh8FDIqaQ/v1/1200x800.jpg",
+            "publishedAt": "2025-10-15T19:00:07Z"
+        },
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "Generative artificial intelligence: Opportunities, risks, and responsibilities for oral sciences",
+            "url": "https://medicalxpress.com/news/2025-10-generative-artificial-intelligence-opportunities-responsibilities.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/generative-ai-2.jpg",
+            "publishedAt": "2025-10-15T19:00:02Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Meta Announces New Texas Data Centers in AI Push",
+            "url": "https://www.marketscreener.com/news/meta-announces-new-texas-data-centers-in-ai-push-ce7d5adfda8ef621",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/mtnewswires/A3477308.png",
+            "publishedAt": "2025-10-15T18:37:02Z"
+        },
         {
             "source": {
                 "id": "72bbcd9c095a3d51c97cdda7a97dba31",
@@ -1599,6 +1647,69 @@
         },
         {
             "source": {
+                "name": "cnbc"
+            },
+            "title": "The Abu Dhabi investor that's funding AI while trying to save TikTok — with help from Trump",
+            "url": "https://www.cnbc.com/2025/10/15/abu-dhabis-mgx-investments-in-trump-crypto-tiktok-openai-.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108144578-17471324901747132488-39783387938-1080pnbcnews.jpg?h=422&v=1747132489&vtcrop=y&w=750",
+            "publishedAt": "2025-10-15 19:05:25"
+        },
+        {
+            "source": {
+                "name": "tweaktown"
+            },
+            "title": "Apple's new M5 chip is official: up to 10-core CPU, 10-core GPU, 30% more GPU performance",
+            "url": "https://www.tweaktown.com/news/108273/apple-new-m5-chip-is-official-up-to-10-core-cpu-gpu-30-more-performance/index.html",
+            "urlToImage": "https://www.tweaktown.com/images/news/1/0/108273_62_apple-m5-specs.jpg",
+            "publishedAt": "2025-10-15 19:02:04"
+        },
+        {
+            "source": {
+                "name": "newscientist"
+            },
+            "title": "Why the next generation of mRNA vaccines is set to be even better",
+            "url": "https://www.newscientist.com/article/2500112-why-the-next-generation-of-mrna-vaccines-is-set-to-be-even-better/",
+            "urlToImage": "https://images.newscientist.com/wp-content/uploads/2025/10/15150249/SEI_270342674.jpg",
+            "publishedAt": "2025-10-15 19:00:57"
+        },
+        {
+            "source": {
+                "name": "columbiagorgenews"
+            },
+            "title": "Two local broadband providers set to connect nearly 1,500 new addresses through BEAD program",
+            "url": "https://www.columbiagorgenews.com/news/two-local-broadband-providers-set-to-connect-nearly-1-500-new-addresses-through-bead-program/article_936dbe23-db55-4ce5-9d48-3030540e0853.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/columbiagorgenews.com/content/tncms/assets/v3/editorial/3/57/357d39a7-e88c-4228-8b51-6e13cd887802/68ed634f5bf30.image.png?resize=300%2C263",
+            "publishedAt": "2025-10-15 19:00:00"
+        },
+        {
+            "source": {
+                "name": "venturebeat"
+            },
+            "title": "Anthropic is giving away its powerful Claude Haiku 4.5 AI for free to take on OpenAI",
+            "url": "https://venturebeat.com/ai/anthropic-is-giving-away-its-powerful-claude-haiku-4-5-ai-for-free-to-take",
+            "urlToImage": "https://images.ctfassets.net/jdtwqhzvc2n1/2zkV6Ua9HruRsjBAfq9oS2/3c44bad93ee87a4a9c84b418279acccb/nuneybits_Vector_art_of_a_computer_image_in_burnt_orange_58827742-c30a-4256-9cf3-c7802772a6c7.webp",
+            "publishedAt": "2025-10-15 19:00:00"
+        },
+        {
+            "source": {
+                "name": "siliconangle"
+            },
+            "title": "Inside Dell’s AI Factory 2.0: Powering the next phase of data center modernization",
+            "url": "https://siliconangle.com/2025/10/15/dell-ai-solutions-sc24/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/12/Adam-Glick-senior-director-of-AI-portfolio-marketing-at-Dell-Technologies-%E2%80%93-SC24.jpg",
+            "publishedAt": "2025-10-15 18:59:16"
+        },
+        {
+            "source": {
+                "name": "siouxcityjournal"
+            },
+            "title": "Boom or bubble?",
+            "url": "https://siouxcityjournal.com/article_b68c6620-8357-4778-8eee-d609281e1113.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/custom/image/e99b3a88-c54c-11ea-8bc7-c382f0c7a0d6.jpg?resize=600%2C315",
+            "publishedAt": "2025-10-15 18:56:38"
+        },
+        {
+            "source": {
                 "name": "time"
             },
             "title": "Crusoe CEO Chase Lochmiller on Building the First Phase of Stargate",
@@ -3015,138 +3126,6 @@
             "url": "https://www.vice.com/en/article/timbaland-debuts-ai-artist-tata-taktumis-first-music-video-and-its-as-soulless-as-you-expected-it-to-be/",
             "urlToImage": "https://www.vice.com/wp-content/uploads/sites/2/2025/06/GettyImages-169780264.jpg?resize=2000,1318",
             "publishedAt": "2025-10-14T21:41:06Z"
-        },
-        {
-            "source": {
-                "id": "458ddf355ab77631d3eb3dd84a0351b4",
-                "name": "Business Insider",
-                "url": "https://www.businessinsider.com",
-                "country": "us"
-            },
-            "title": "National Guard Units Are Experimenting With Local Cyber Defense.",
-            "url": "https://www.businessinsider.com/national-guard-units-help-defend-against-cyber-attacks-2025-10",
-            "urlToImage": "https://i.insider.com/68eec23a5dbc4fd10daadc59?width=1200&format=jpeg",
-            "publishedAt": "2025-10-14T21:37:20Z"
-        },
-        {
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            },
-            "title": "Firms, researchers tout wider AI use at Japan electronics show",
-            "url": "https://japantoday.com/category/tech/firms-researchers-tout-wider-ai-use-at-japan-electronics-show",
-            "urlToImage": "https://media.japantoday.com/img/store/83/87/ca2da94b86f7c7ee5a635e29ec41839ed801/20251014kw___0021600010-ph-----n-ci0004/_w1700.jpeg",
-            "publishedAt": "2025-10-14T21:31:00Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "ChatGPT Won’t Make This AI Quiz Easier",
-            "url": "https://www.bloomberg.com/opinion/newsletters/2025-10-14/chatgpt-won-t-make-this-ai-quiz-easier",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ir_lgRrORqRY/v0/1200x742.png",
-            "publishedAt": "2025-10-14T21:15:50Z"
-        },
-        {
-            "source": {
-                "id": "09dc1bda762f4f787cec10477a894d96",
-                "name": "Toronto Sun",
-                "url": "https://torontosun.com",
-                "country": "ca"
-            },
-            "title": "Quebec judge fines man $5K for improper use of Al in court",
-            "url": "https://torontosun.com/news/national/quebec-judge-fines-man-5k-for-improper-use-of-artificial-intelligence-in-court",
-            "urlToImage": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2025/09/0502-na-quebec-parents.jpg",
-            "publishedAt": "2025-10-14T21:15:06Z"
-        },
-        {
-            "source": {
-                "id": "d5a02d07558c5563d72576efc406e608",
-                "name": "ABC17News.com",
-                "url": "https://abc17news.com",
-                "country": "us"
-            },
-            "title": "Crypto ATM scam, massive solar project, shopping on ChatGPT: Catch up on the day’s stories",
-            "url": "https://abc17news.com/news/national-world/cnn-national/2025/10/14/crypto-atm-scam-massive-solar-project-shopping-on-chatgpt-catch-up-on-the-days-stories-2/",
-            "urlToImage": "https://abc17news.b-cdn.net/abc17news.com/2023/08/kmiz-860x484.webp",
-            "publishedAt": "2025-10-14T21:13:44Z"
-        },
-        {
-            "source": {
-                "id": "d5a02d07558c5563d72576efc406e608",
-                "name": "ABC17News.com",
-                "url": "https://abc17news.com",
-                "country": "us"
-            },
-            "title": "Crypto ATM scam, massive solar project, shopping on ChatGPT: Catch up on the day’s stories",
-            "url": "https://abc17news.com/news/national-world/cnn-national/2025/10/14/crypto-atm-scam-massive-solar-project-shopping-on-chatgpt-catch-up-on-the-days-stories/",
-            "urlToImage": "https://abc17news.b-cdn.net/abc17news.com/2023/08/kmiz-860x484.webp",
-            "publishedAt": "2025-10-14T21:13:44Z"
-        },
-        {
-            "source": {
-                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
-                "name": "Australian Financial Review",
-                "url": "https://www.afr.com",
-                "country": "au"
-            },
-            "title": "Westpac’s Miller poaches talent from Macquarie, CBA in hiring frenzy",
-            "url": "https://www.afr.com/companies/financial-services/westpac-s-miller-poaches-talent-from-macquarie-cba-in-hiring-frenzy-20251014-p5n2a5",
-            "urlToImage": "https://static.ffx.io/images/$zoom_0.1955%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_202%2C$y_28/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/cc5620dd2a574f8993573dea172b95994cdea362",
-            "publishedAt": "2025-10-14T21:10:00Z"
-        },
-        {
-            "source": {
-                "id": "492abf277b7277432148b61b21ddc836",
-                "name": "Los Angeles Times",
-                "url": "https://www.latimes.com",
-                "country": "us"
-            },
-            "title": "Brookfield’s $5 billion deal spurs rally in Bloom Energy shares",
-            "url": "https://www.latimes.com/business/story/2025-10-14/brookfields-5-billion-deal-spurs-rally-in-bloom-energy-shares",
-            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/0dfebb9/2147483647/strip/true/crop/3000x1575+0+213/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F27%2Fa4%2Fa3526215a9f8b2ceffe420a05bac%2F1x-1.jpg",
-            "publishedAt": "2025-10-14T21:06:30Z"
-        },
-        {
-            "source": {
-                "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
-                "name": "BayToday",
-                "url": "https://www.baytoday.ca",
-                "country": "ca"
-            },
-            "title": "Quebec judge fines man $5,000 for improper use of artificial intelligence in court",
-            "url": "https://www.baytoday.ca/national-news/quebec-judge-fines-man-5000-for-improper-use-of-artificial-intelligence-in-court-11347031",
-            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/10/d91346db42bf9e4b9a7276bb040a94d04f65985336fb001cf30d81d61e55a2dc.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2025-10-14T21:01:40Z"
-        },
-        {
-            "source": {
-                "id": "0ce70f407e0fa82ddaeeb29243aa8210",
-                "name": "SooToday",
-                "url": "https://www.sootoday.com",
-                "country": "ca"
-            },
-            "title": "Quebec judge fines man $5,000 for improper use of artificial intelligence in court",
-            "url": "https://www.sootoday.com/national-news/quebec-judge-fines-man-5000-for-improper-use-of-artificial-intelligence-in-court-11347031",
-            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/10/d91346db42bf9e4b9a7276bb040a94d04f65985336fb001cf30d81d61e55a2dc.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2025-10-14T21:01:40Z"
-        },
-        {
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            },
-            "title": "OpenAI partners with Walmart to let users buy products in ChatGPT, furthering chatbot shopping push",
-            "url": "https://japantoday.com/category/tech/openai-partners-with-walmart-to-let-users-buy-products-in-chatgpt-furthering-chatbot-shopping-push",
-            "urlToImage": "https://media.japantoday.com/img/store/b4/2b/33186b520abcc45a374c995dd1031ed79c8d/download/_w1700.jpeg",
-            "publishedAt": "2025-10-14T21:00:00Z"
         }
     ]
 }
