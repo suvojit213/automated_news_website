@@ -1,6 +1,93 @@
 {
-    "lastUpdatedAt": "2025-10-16T11:13:28.301482Z",
+    "lastUpdatedAt": "2025-10-16T12:33:38.388346Z",
     "articles": [
+        {
+            "source": {
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
+            },
+            "title": "China seeks stronger ties with France in strategic dialogue",
+            "url": "https://www.straitstimes.com/asia/east-asia/china-seeks-stronger-ties-with-france-in-strategic-dialogue",
+            "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/434ed67adb5af3fac42208c78f8b97294c6d6aaf667fddb8b0932de75ff8fbd7",
+            "publishedAt": "2025-10-16T00:20:27Z"
+        },
+        {
+            "source": {
+                "id": "8e9ab8327c5f7903cc1b50470411d165",
+                "name": "GlobeNewswire",
+                "url": "https://www.globenewswire.com",
+                "country": "us"
+            },
+            "title": "Banzai International and Creighton University Discuss AI",
+            "url": "https://www.globenewswire.com/news-release/2025/10/16/3167881/0/en/Banzai-International-and-Creighton-University-Discuss-AI-and-Business-Marketing.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/b9da0619-8602-490b-880b-1b07b8257ac9",
+            "publishedAt": "2025-10-16T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "economictimes_indiatimes"
+            },
+            "title": "Alarms go off as Sebi chief warns of a looming quantum apocalypse",
+            "url": "https://economictimes.indiatimes.com/tech/technology/alarms-go-off-as-sebi-chief-warns-of-a-looming-quantum-apocalypse/articleshow/124586401.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-56922,resizemode-75,msid-124586401/tech/technology/alarms-go-off-as-sebi-chief-warns-of-a-looming-quantum-apocalypse.jpg",
+            "publishedAt": "2025-10-16 00:30:00"
+        },
+        {
+            "source": {
+                "name": "en_prnasisa"
+            },
+            "title": "AMI Joins Fujitsu to Deliver Next-Gen Arm-Based FUJITSU-MONAKA CPU with Unmatched Power and Efficiency",
+            "url": "https://en.prnasia.com/story/507339-0.shtml",
+            "urlToImage": "https://mma.prnasia.com/media2/1327926/AMI_Logo2023.jpg?p=medium600",
+            "publishedAt": "2025-10-16 00:21:00"
+        },
+        {
+            "source": {
+                "name": "financialcontent"
+            },
+            "title": "Why Investors Are Excited About CoreWeave",
+            "url": "https://www.fool.com/investing/2025/10/16/why-investors-are-excited-about-coreweave/",
+            "urlToImage": "https://g.foolcdn.com/image/?h=400&op=resize&url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F837696%2Fai-1.jpg&w=400",
+            "publishedAt": "2025-10-16 00:00:00"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Adtalem, Google Cloud to launch AI credential program for healthcare professionals",
+            "url": "https://www.thestar.com.my/tech/tech-news/2025/10/16/adtalem-google-cloud-to-launch-ai-credential-program-for-healthcare-professionals",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/16/3572899.jpg",
+            "publishedAt": "2025-10-15T23:31:00Z"
+        },
+        {
+            "source": {
+                "id": "79baacd62152cf257ee35e8c0bec19a2",
+                "name": "UPI News",
+                "url": "https://www.upi.com",
+                "country": "us"
+            },
+            "title": "Musixmax partners with 3 top music producers to develop AI tools",
+            "url": "https://www.upi.com/Entertainment_News/2025/10/15/Lodnon-Musixmax-AI-deal-top-music-producers-AI/3721760566469/",
+            "urlToImage": "https://cdnph.upi.com/sv/ph/og/i/3721760566469/2025/1/17605679746582/v1.5/Musixmax-partners-with-3-top-music-producers-to-develop-AI-tools.jpg",
+            "publishedAt": "2025-10-15T23:28:35Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "US warns that hackers using F5 devices to target government networks",
+            "url": "https://www.thestar.com.my/tech/tech-news/2025/10/16/us-warns-that-hackers-using-f5-devices-to-target-government-networks",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/16/3572888.jpg",
+            "publishedAt": "2025-10-15T23:18:00Z"
+        },
         {
             "source": {
                 "id": "10cbfb3760cfcdeb78c733c527f0e814",
@@ -1995,6 +2082,69 @@
         },
         {
             "source": {
+                "name": "economictimes_indiatimes"
+            },
+            "title": "Reimagining GST registration through Agentic AI framework",
+            "url": "https://economictimes.indiatimes.com/small-biz/gst/reimagining-gst-registration-through-agentic-ai-framework/articleshow/124596190.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-124596192,width-300,height-225,imgsize-198844,resizemode-75/gst1-istock.jpg",
+            "publishedAt": "2025-10-15 23:58:55"
+        },
+        {
+            "source": {
+                "name": "economictimes_indiatimes"
+            },
+            "title": "Foxconn teams up with Nvidia on AI factory infrastructure development",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/foxconn-teams-up-with-nvidia-on-ai-factory-infrastructure-development/articleshow/124596085.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-10110,resizemode-75,msid-124596085/tech/artificial-intelligence/foxconn-teams-up-with-nvidia-on-ai-factory-infrastructure-development.jpg",
+            "publishedAt": "2025-10-15 23:52:50"
+        },
+        {
+            "source": {
+                "name": "qchron"
+            },
+            "title": "AMI Joins Fujitsu to Deliver Next-Gen Arm-Based FUJITSU-MONAKA CPU with Unmatched Power and Efficiency",
+            "url": "https://www.qchron.com/online_features/press_releases/ami-joins-fujitsu-to-deliver-next-gen-arm-based-fujitsu-monaka-cpu-with-unmatched-power/article_7387cdbb-1080-5efe-b237-3a7e6b2d9c2f.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/qchron.com/content/tncms/assets/v3/editorial/3/9f/39fc48b2-d923-59af-83b4-dbe24fe87128/68ef43758f532.image.jpg?resize=300%2C111",
+            "publishedAt": "2025-10-15 23:45:00"
+        },
+        {
+            "source": {
+                "name": "manchestertimes"
+            },
+            "title": "AMI Joins Fujitsu to Deliver Next-Gen Arm-Based FUJITSU-MONAKA CPU with Unmatched Power and Efficiency",
+            "url": "https://www.manchestertimes.com/online_features/press_releases/ami-joins-fujitsu-to-deliver-next-gen-arm-based-fujitsu-monaka-cpu-with-unmatched-power/article_40ae7be4-0b23-5bbb-8a3a-13e546d65919.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/manchestertimes.com/content/tncms/assets/v3/editorial/a/fb/afb69e86-a9d4-5b52-9943-0758bd4adb9e/68ef4de224a2b.image.jpg?resize=400%2C148",
+            "publishedAt": "2025-10-15 23:45:00"
+        },
+        {
+            "source": {
+                "name": "buffalonews"
+            },
+            "title": "AMI Joins Fujitsu to Deliver Next-Gen Arm-Based FUJITSU-MONAKA CPU with Unmatched Power and Efficiency",
+            "url": "https://buffalonews.com/online_features/press_releases/article_f2a9740f-ba52-5727-862e-3b4f62438f12.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/d/ca/dcaccd02-3b0a-5ce0-8c50-56f691fe6a69/68ef425b5f8eb.image.jpg?resize=300%2C111",
+            "publishedAt": "2025-10-15 23:45:00"
+        },
+        {
+            "source": {
+                "name": "thedailynewsonline"
+            },
+            "title": "AMI Joins Fujitsu to Deliver Next-Gen Arm-Based FUJITSU-MONAKA CPU with Unmatched Power and Efficiency",
+            "url": "https://www.thedailynewsonline.com/online_features/press_releases/ami-joins-fujitsu-to-deliver-next-gen-arm-based-fujitsu-monaka-cpu-with-unmatched-power/article_8c51fd67-9b23-5c10-b4af-82d8a45982dd.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/thedailynewsonline.com/content/tncms/assets/v3/editorial/e/f0/ef0b7b08-59b1-57dc-8c48-cc87458fde1f/68ef41260f790.image.jpg?resize=300%2C111",
+            "publishedAt": "2025-10-15 23:45:00"
+        },
+        {
+            "source": {
+                "name": "minstercommunitypost"
+            },
+            "title": "AMI Joins Fujitsu to Deliver Next-Gen Arm-Based FUJITSU-MONAKA CPU with Unmatched Power and Efficiency",
+            "url": "https://www.minstercommunitypost.com/online_features/press_releases/ami-joins-fujitsu-to-deliver-next-gen-arm-based-fujitsu-monaka-cpu-with-unmatched-power/article_328816f5-33b9-54d1-843b-a621efbffade.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/minstercommunitypost.com/content/tncms/assets/v3/editorial/0/97/09709f24-1706-5196-bc6c-f8453eae1834/68ef413a9dd07.image.jpg?resize=300%2C111",
+            "publishedAt": "2025-10-15 23:45:00"
+        },
+        {
+            "source": {
                 "name": "tweaktown"
             },
             "title": "AMD teases next-gen Helios rack-scale platform: new EPYC + Instinct chips, battles NVIDIA Rubin",
@@ -3063,141 +3213,6 @@
             "url": "https://www.xda-developers.com/self-hosted-clientless-remote-desktop-application-better-than-rustdesk/",
             "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/10/getscreen-running-on-a-mac.jpg",
             "publishedAt": "2025-10-15 09:00:21"
-        },
-        {
-            "source": {
-                "name": "venturebeat"
-            },
-            "title": "Dfinity launches Caffeine, an AI platform that builds production apps from natural language prompts",
-            "url": "https://venturebeat.com/ai/dfinity-launches-caffeine-an-ai-platform-that-builds-production-apps-from",
-            "urlToImage": "https://images.ctfassets.net/jdtwqhzvc2n1/4KtYR3vJAj9O1BxMtYqm9e/aad83e291aadf8fd2f12e6cf45aeede9/nuneybits_Vector_art_of_coffee_made_of_computer_code_87b3e7a8-f103-4de0-ae47-d17717e023f9.webp",
-            "publishedAt": "2025-10-15 09:00:00"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "ICANN84 in Dublin: A Pivotal Moment for the Future of the Internet",
-            "url": "https://www.prnewswire.com/news-releases/icann84-in-dublin-a-pivotal-moment-for-the-future-of-the-internet-302581358.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2793396/ICANN84_Dublin_Logo.jpg?p=publish",
-            "publishedAt": "2025-10-15 09:00:00"
-        },
-        {
-            "source": {
-                "name": "fortune"
-            },
-            "title": "Want to build your own chatbot for $100? A glimpse into AI’s small, cheap, DIY future",
-            "url": "https://fortune.com/2025/10/15/ai-artificial-intelligence-nanochat-100-dollar-chatbot/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-2178407787-e1760471986511.jpg?w=2048",
-            "publishedAt": "2025-10-15 09:00:00"
-        },
-        {
-            "source": {
-                "name": "phys"
-            },
-            "title": "Fatal attraction: Electric charge connects jumping worm to aerial prey",
-            "url": "https://phys.org/news/2025-10-fatal-electric-worm-aerial-prey.html",
-            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2025/fatal-attraction-elect.jpg",
-            "publishedAt": "2025-10-15 08:46:06"
-        },
-        {
-            "source": {
-                "name": "economictimes_indiatimes"
-            },
-            "title": "Akamai to build AI inference cloud in India: CEO",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/akamai-to-build-ai-inference-cloud-in-india-ceo/articleshow/124581906.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-42720,resizemode-75,msid-124581906/tech/artificial-intelligence/akamai-to-build-ai-inference-cloud-in-india-ceo.jpg",
-            "publishedAt": "2025-10-15 08:09:31"
-        },
-        {
-            "source": {
-                "name": "headtopics"
-            },
-            "title": "Apocalypse Now? Why the media are suddenly freaking out about AI",
-            "url": "https://headtopics.com/news/apocalypse-now-why-the-media-are-suddenly-freaking-out-74410197",
-            "urlToImage": "https://i.headtopics.com/images/2025/10/15/foxnews/apocalypse-now-why-the-media-are-suddenly-freaking-apocalypse-now-why-the-media-are-suddenly-freaking-CE6532F465D3D6230ED1847F6444400D.webp",
-            "publishedAt": "2025-10-15 08:08:41"
-        },
-        {
-            "source": {
-                "name": "postregister"
-            },
-            "title": "Nscale Contracts Approximately 200,000 NVIDIA GB300 GPUs with Microsoft to Deliver NVIDIA AI ...",
-            "url": "https://www.postregister.com/businessreport/technology/nscale-contracts-approximately-200-000-nvidia-gb300-gpus-with-microsoft-to-deliver-nvidia-ai/article_10dec1c3-a8f5-54d1-be8a-ca7339aed598.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
-            "publishedAt": "2025-10-15 08:01:38"
-        },
-        {
-            "source": {
-                "name": "postregister"
-            },
-            "title": "Ionic Digital Secures Transformational Lease Agreement of Cedarvale Facility with Nscale",
-            "url": "https://www.postregister.com/businessreport/technology/ionic-digital-secures-transformational-lease-agreement-of-cedarvale-facility-with-nscale/article_ac933978-db6f-5d72-99c3-f50225e97aaa.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
-            "publishedAt": "2025-10-15 08:01:21"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "Your Windows 11 PC might be at risk from next month — here's how to stay protected",
-            "url": "https://www.tomsguide.com/computing/windows-operating-systems/your-windows-11-pc-might-be-at-risk-from-next-month-heres-how-to-stay-protected",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/ynU5BuH6Taj5rNfWw8mmpV-1280-80.jpg",
-            "publishedAt": "2025-10-15 08:01:00"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Top Python Deep Learning Libraries to Know in 2025",
-            "url": "https://www.analyticsinsight.net/programming/top-python-deep-learning-libraries-to-know-in-2025",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-10-15%2F8dhfnt55%2FTop-Python-Deep-Learning-Libraries-to-Know-in-2025.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-10-15 08:00:00"
-        },
-        {
-            "source": {
-                "name": "indianexpress"
-            },
-            "title": "What Google’s $15 bn AI hub in Andhra Pradesh means for India",
-            "url": "https://indianexpress.com/article/explained/explained-economics/googles-15-bn-ai-hub-andhra-pradesh-means-for-india-10308186/",
-            "urlToImage": "https://images.indianexpress.com/2025/10/google-1600.jpg",
-            "publishedAt": "2025-10-15 07:59:53"
-        },
-        {
-            "source": {
-                "name": "postregister"
-            },
-            "title": "Start Campus selected by Nscale for the European Union’s First and Largest Deployment of NVIDIA Blackwell Ultra AI Infrastructure in support of Microsoft",
-            "url": "https://www.postregister.com/businessreport/technology/start-campus-selected-by-nscale-for-the-european-union-s-first-and-largest-deployment-of/article_c5c0c35d-2e78-5367-90e5-6254e99cbefd.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/assets/v3/editorial/1/e3/1e356a79-ef3d-5f7a-a23a-c495d21422db/68ef5628a43af.image.jpg?resize=300%2C169",
-            "publishedAt": "2025-10-15 07:59:05"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Best Microsoft Certifications for 2025: Roles, Skills & Salary",
-            "url": "https://techannouncer.com/best-microsoft-certifications-for-2025-roles-skills-salary/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/10/wibdrev73xy-332x208.jpg",
-            "publishedAt": "2025-10-15 07:58:55"
-        },
-        {
-            "source": {
-                "name": "digitaltrends"
-            },
-            "title": "Apple confirms a new MacBook, and the M5 chip might be its biggest flex",
-            "url": "https://www.digitaltrends.com/computing/apple-teases-a-new-macbook-and-we-know-its-powered-by-the-m5-chip/",
-            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/11/macbook-pro-m402.jpg?p=1&resize=1200%2C630",
-            "publishedAt": "2025-10-15 07:56:36"
-        },
-        {
-            "source": {
-                "name": "macrumors"
-            },
-            "title": "Two New Accessories for Vision Pro Now Available, With More Coming",
-            "url": "https://www.macrumors.com/2025/10/15/new-accessories-for-vision-pro-now-available/",
-            "urlToImage": "https://images.macrumors.com/t/iGzoHynYtaO1mi-XBIP2hybXa8Y=/3840x/article-new/2025/10/Apple-Vision-Pro-Dual-Knit-Band.jpg",
-            "publishedAt": "2025-10-15 07:07:11"
         }
     ]
 }
