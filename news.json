@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-10-17T10:16:40.916585Z",
+    "lastUpdatedAt": "2025-10-17T11:12:43.019542Z",
     "articles": [
+        {
+            "source": {
+                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
+                "name": "WTOP",
+                "url": "https://wtop.com",
+                "country": "us"
+            },
+            "title": "How Mario Kart is helping researchers at U.Md. develop and train AI",
+            "url": "https://wtop.com/maryland/2025/10/can-a-video-game-help-autonomous-driving-programs-learn-how-to-drive/",
+            "urlToImage": "https://wtop.com/wp-content/uploads/2025/10/mario-kart-scaled-e1760655824368.jpeg",
+            "publishedAt": "2025-10-16T23:09:03Z"
+        },
+        {
+            "source": {
+                "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
+                "name": "BayToday",
+                "url": "https://www.baytoday.ca",
+                "country": "ca"
+            },
+            "title": "WATCH: Ontario school boards learn hard lesson on cybercrime",
+            "url": "https://www.baytoday.ca/closer-look/watch-ontario-school-boards-learn-hard-lesson-on-cybercrime-11357876",
+            "urlToImage": "https://www.vmcdn.ca/f/files/closerlook/images/cyberscaled.png;w=1024;h=682;mode=crop",
+            "publishedAt": "2025-10-16T23:00:00Z"
+        },
+        {
+            "source": {
+                "id": "0ce70f407e0fa82ddaeeb29243aa8210",
+                "name": "SooToday",
+                "url": "https://www.sootoday.com",
+                "country": "ca"
+            },
+            "title": "WATCH: Ontario school boards learn hard lesson on cybercrime",
+            "url": "https://www.sootoday.com/closer-look/watch-ontario-school-boards-learn-hard-lesson-on-cybercrime-11357876",
+            "urlToImage": "https://www.vmcdn.ca/f/files/closerlook/images/cyberscaled.png;w=1024;h=682;mode=crop",
+            "publishedAt": "2025-10-16T23:00:00Z"
+        },
+        {
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            },
+            "title": "Chinese hackers accused of breach at US-based cybersecurity firm F5",
+            "url": "https://www.indiatoday.in/world/us-news/story/chinese-state-backed-hackers-accused-of-breach-at-us-based-cybersecurity-firm-f5-glbs-2804370-2025-10-17",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202510/tripura-electricity-corporation-approves-cyber-security-policy-to-strengthen-it-infra-292723584-16x9.jpg?VersionId=MOTNsiyCpQKOjYovddtVbCblRY.EfqrY",
+            "publishedAt": "2025-10-16T22:24:28Z"
+        },
         {
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -1911,6 +1959,33 @@
         },
         {
             "source": {
+                "name": "newswise"
+            },
+            "title": "New Advanced Imaging Technology to Enhance Timely Patient Care",
+            "url": "https://www.newswise.com/articles/new-advanced-imaging-technology-to-enhance-timely-patient-care/?sc=rsla",
+            "urlToImage": "https://www.newswise.com/legacy/image.php?height=334&image=%2Fimages%2Fuploads%2F2025%2F10%2F16%2F68f1075ebd178_GE-Healthcare-x-ray-stock-Pixabay-101625.jpg&width=502",
+            "publishedAt": "2025-10-16 23:05:38"
+        },
+        {
+            "source": {
+                "name": "universetoday"
+            },
+            "title": "What Happened to Those \"Little Red Dots\"?",
+            "url": "https://www.universetoday.com/articles/what-happened-to-those-little-red-dots",
+            "urlToImage": "https://www.universetoday.com/article_images/red-dots_20250804_182400_20250928_191822.jpg",
+            "publishedAt": "2025-10-16 23:03:47"
+        },
+        {
+            "source": {
+                "name": "in_mashable"
+            },
+            "title": "Windows 11 Gets AI Boost With ‘Hey Copilot’ Voice And Vision Features",
+            "url": "https://in.mashable.com/tech/101200/windows-11-gets-ai-boost-with-hey-copilot-voice-and-vision-features",
+            "urlToImage": "https://sm.mashable.com/mashable_in/photo/default/microsoft_ns4r.jpg",
+            "publishedAt": "2025-10-16 22:16:34"
+        },
+        {
+            "source": {
                 "name": "headtopics"
             },
             "title": "OLED MacBook Pro leak predicts Apple taking an unthinkable turn",
@@ -3114,69 +3189,6 @@
             "url": "https://www.devdiscourse.com/article/law-order/3665099-south-africa-positions-itself-as-africas-digital-and-investment-powerhouse",
             "urlToImage": "https://devdiscourse.blob.core.windows.net/devnews/20_07_2023_20_25_54_4636213.jpg",
             "publishedAt": "2025-10-16 06:19:38"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Latest AI Startups News: Innovations and Funding Rounds in 2025",
-            "url": "https://techannouncer.com/latest-ai-startups-news-innovations-and-funding-rounds-in-2025/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/10/3e4e6486thumbnail-332x187.jpeg",
-            "publishedAt": "2025-10-16 06:18:08"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "M5 Apple Vision Pro vs M2 Apple Vision Pro: All the biggest upgrades",
-            "url": "https://www.tomsguide.com/computing/vr-ar/m5-apple-vision-pro-vs-m2-apple-vision-pro-all-the-biggest-upgrades",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Kuf3cnieRM9FyqpwxbErnF-1280-80.jpg",
-            "publishedAt": "2025-10-16 06:15:00"
-        },
-        {
-            "source": {
-                "name": "thehindubusinessline"
-            },
-            "title": "Foxconn, Nvidia team to develop AI factory infrastructure",
-            "url": "https://www.thehindubusinessline.com/info-tech/foxconn-nvidia-team-to-develop-ai-factory-infrastructure/article70170045.ece",
-            "urlToImage": "https://bl-i.thgim.com/public/incoming/2j3uy7/article70127718.ece/alternates/LANDSCAPE_1200/2025-10-05T080359Z_1189279773_RC2J5HAREH9W_RTRMADP_3_FOXCONN-RESULTS.JPG",
-            "publishedAt": "2025-10-16 06:14:15"
-        },
-        {
-            "source": {
-                "name": "onmsft"
-            },
-            "title": "Top 5 Original Xbox Emulators for Windows PCs",
-            "url": "https://windowsreport.com/xbox-emulators-for-pc/",
-            "urlToImage": "https://windowsreport.com/wp-content/uploads/2025/10/xbox-emulators-for-pc-700x467.jpg",
-            "publishedAt": "2025-10-16 06:11:53"
-        },
-        {
-            "source": {
-                "name": "cnbctv18"
-            },
-            "title": "Apple launches iPad Pro, Vision Pro and MacBook Pro with M5 Chip",
-            "url": "https://www.cnbctv18.com/technology/apple-launches-ipad-pro-vision-pro-and-macbook-pro-with-m5-chip-19717908.htm",
-            "urlToImage": "https://images.cnbctv18.com/uploads/2025/10/ipad-pro-2025-10-b62d26d046be481cb758d5a88f2ad363.jpg",
-            "publishedAt": "2025-10-16 06:05:31"
-        },
-        {
-            "source": {
-                "name": "digit_in"
-            },
-            "title": "Apple M5: AI-first chip improves upon M4, rewiring MacBook and iPad’s potential",
-            "url": "https://www.digit.in/features/general/apple-m5-ai-first-chip-improves-upon-m4-rewiring-macbook-pro-and-ipad-potential.html",
-            "urlToImage": "https://static.digit.in/apple-m5-chip-explained.png",
-            "publishedAt": "2025-10-16 05:50:08"
-        },
-        {
-            "source": {
-                "name": "phys"
-            },
-            "title": "G7 and Australia sign deal on quantum tech benchmarks",
-            "url": "https://phys.org/news/2025-10-g7-australia-quantum-tech-benchmarks.html",
-            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2025/quantum-technology.jpg",
-            "publishedAt": "2025-10-16 05:46:03"
         }
     ]
 }
