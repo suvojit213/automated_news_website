@@ -1,6 +1,150 @@
 {
-    "lastUpdatedAt": "2025-10-17T20:17:05.912991Z",
+    "lastUpdatedAt": "2025-10-17T21:13:26.488399Z",
     "articles": [
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            },
+            "title": "For 3 Years, the Bull Market Defied Inflation, Tariffs and Gravity",
+            "url": "https://www.nytimes.com/2025/10/17/business/bull-market-trump-biden.html",
+            "urlToImage": "https://static01.nyt.com/images/2025/10/19/business/19strategies-illo/19strategies-illo-facebookJumbo.jpg",
+            "publishedAt": "2025-10-17T09:02:31Z"
+        },
+        {
+            "source": {
+                "id": "93a4f054e09bde095cda5265e575a952",
+                "name": "Telegraph India",
+                "url": "https://www.telegraphindia.com",
+                "country": "in"
+            },
+            "title": "Apple’s new M5 chip takes a leap in artificial intelligence and graphics performance",
+            "url": "https://www.telegraphindia.com/business/apples-new-m5-chip-takes-a-leap-in-artificial-intelligence-and-graphics-performance/cid/2128268",
+            "urlToImage": "https://assets.telegraphindia.com/telegraph/2025/Oct/1760691579_apple-1.jpg",
+            "publishedAt": "2025-10-17T09:00:38Z"
+        },
+        {
+            "source": {
+                "id": "8da923084554b2821233d6c5c5f02c97",
+                "name": "Fox News",
+                "url": "https://www.foxnews.com",
+                "country": "us"
+            },
+            "title": "The next oil boom is digital: America’s future depends on owning compute",
+            "url": "https://www.foxnews.com/opinion/new-arms-race-compute-america-cant-afford-fall-behind",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/ai-data-center.jpg",
+            "publishedAt": "2025-10-17T09:00:09Z"
+        },
+        {
+            "source": {
+                "id": "35515662ec044d3f94b543cd8802d63f",
+                "name": "WDIV ClickOnDetroit",
+                "url": "https://www.clickondetroit.com",
+                "country": "us"
+            },
+            "title": "Wayne County woman asks ChatGPT to pick her lottery numbers, wins $100K",
+            "url": "https://www.clickondetroit.com/news/local/2025/10/17/wayne-county-woman-asks-chatgpt-to-pick-her-lottery-numbers-wins-100k/",
+            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/7AHH25O5MFGOLBQEKLVTH7HBBA.png?_a=DATAg1eAZAA0",
+            "publishedAt": "2025-10-17T09:00:01Z"
+        },
+        {
+            "source": {
+                "id": "091dc78b9d3467c25d28c392b1c1c4c2",
+                "name": "The Philadelphia Inquirer",
+                "url": "https://www.inquirer.com",
+                "country": "us"
+            },
+            "title": "Potentially ‘catastrophic’ cyber firm breach blamed on China",
+            "url": "https://www.inquirer.com/business/hack-cybersecurity-f5-china-it-systems-20251017.html",
+            "urlToImage": "https://www.inquirer.com/resizer/v2/ALYZZKK2GYROTYOEMJFXPOL7UQ.jpg?auth=ad3c0b316c8ecdaa9a2354393b5733ce4fdbc448e5e1dd24b3c204781f76a1e8&width=760&height=507&smart=true",
+            "publishedAt": "2025-10-17T09:00:01Z"
+        },
+        {
+            "source": {
+                "id": "1b697445987e8a33f6c82842e17d60d9",
+                "name": "Bnn Bloomberg",
+                "url": "https://www.bnnbloomberg.ca",
+                "country": "ca"
+            },
+            "title": "Artificial intelligence a ‘sword and shield'",
+            "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2025/10/17/hackers-using-ai-to-scam-more-people-faster-expert/",
+            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/WQPMJTVDBXXMR5GY2GTXMFIF2Q.jpg?smart=true&auth=fb9e927a204d4600e74a91a478ed0a01e89262926b640a6a657d19ef1308e882&width=1200&height=630",
+            "publishedAt": "2025-10-17T09:00:00Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Pinterest lets users filter out AI-generated content after complaints",
+            "url": "https://www.thestar.com.my/tech/tech-news/2025/10/17/pinterest-lets-users-filter-out-ai-generated-content-after-complaints",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/17/3575123.jpg",
+            "publishedAt": "2025-10-17T09:00:00Z"
+        },
+        {
+            "source": {
+                "id": "85e5403407038478a5e7d8d100ff8e8f",
+                "name": "CP24 Toronto",
+                "url": "https://www.cp24.com",
+                "country": "ca"
+            },
+            "title": "Artificial intelligence a ‘sword and shield'",
+            "url": "https://www.cp24.com/news/canada/2025/10/17/hackers-using-ai-to-scam-more-people-faster-expert/",
+            "urlToImage": "https://www.cp24.com/resizer/v2/WQPMJTVDBXXMR5GY2GTXMFIF2Q.jpg?smart=true&auth=fb9e927a204d4600e74a91a478ed0a01e89262926b640a6a657d19ef1308e882&width=1200&height=630",
+            "publishedAt": "2025-10-17T09:00:00Z"
+        },
+        {
+            "source": {
+                "id": "77b86639d1384ac68141803ec5db27c0",
+                "name": "NBC News",
+                "url": "https://www.nbcnews.com",
+                "country": "us"
+            },
+            "title": "Fears of an AI bubble are growing, but some on Wall Street aren't worried just yet",
+            "url": "https://www.nbcnews.com/business/markets/fears-ai-bubble-are-growing-wall-street-arent-worried-just-yet-rcna238076",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251016-wall-street-sign-vl-449p-71275f.jpg",
+            "publishedAt": "2025-10-17T09:00:00Z"
+        },
+        {
+            "source": {
+                "id": "4300aa22a5f803b09a37ff0632b44685",
+                "name": "The daily Star",
+                "url": "https://www.dailystar.co.uk",
+                "country": "gb"
+            },
+            "title": "construct' alien from the planet 'Consensus,' claims mad theory",
+            "url": "https://www.dailystar.co.uk/news/latest-news/keir-starmer-synth-construct-alien-36083814",
+            "urlToImage": "https://i2-prod.dailystar.co.uk/article36083611.ece/ALTERNATES/s1200/1_GettyImages-1253107522.jpg",
+            "publishedAt": "2025-10-17T08:52:00Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "China, HK stocks post worst week since April as trade concerns weigh",
+            "url": "https://www.devdiscourse.com/article/headlines/3665543-china-hk-stocks-post-worst-week-since-april-as-trade-concerns-weigh",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_18_10_5703828.png?width=920&format=jpeg",
+            "publishedAt": "2025-10-17T08:33:23Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "5 Common Cybersecurity Mistakes RIAs Make-and How to Avoid Them",
+            "url": "https://techbullion.com/5-common-cybersecurity-mistakes-rias-make-and-how-to-avoid-them/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/10/cy-1000x600.jpg",
+            "publishedAt": "2025-10-17T08:31:20Z"
+        },
         {
             "source": {
                 "id": "dcb757ba5480d7edec9ca152d58b7d3d",
@@ -720,6 +864,60 @@
             "url": "https://www.forbes.com/sites/greatspeculations/2025/10/17/avgo-why-broadcom-stock-jumped-110/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68f1ef94b8cbf6df2280ce7d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-10-17T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Best Cryptos to Buy Now as Altcoins Rally and Bitcoin Finds Support",
+            "url": "https://www.analyticsinsight.net/cryptocurrency-analytics-insight/best-cryptos-to-buy-now-as-altcoins-rally-and-bitcoin-finds-support",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-10-17%2Fc5vuppba%2FBest-Cryptos-1.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-10-17 09:04:00"
+        },
+        {
+            "source": {
+                "name": "insider"
+            },
+            "title": "Dear Tim Cook: Please bring back the iPod.",
+            "url": "https://www.businessinsider.com/apple-ipod-bring-back-tim-cook-parents-music-player-2025-10",
+            "urlToImage": "https://i.insider.com/68f0f36c1c1f80efbec5b1f8?width=700",
+            "publishedAt": "2025-10-17 09:01:02"
+        },
+        {
+            "source": {
+                "name": "engadget"
+            },
+            "title": "The best Android phones for 2025",
+            "url": "https://www.engadget.com/mobile/smartphones/best-android-phone-130030805.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?client=19f2b5e49a271b2bde77&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-08%2F527d37a0-8347-11f0-b7c9-56e8e5b705ef&resize=1400%2C787&signature=3caf19139cb3ccc581920df6acdb2b31e61d0492",
+            "publishedAt": "2025-10-17 09:00:36"
+        },
+        {
+            "source": {
+                "name": "geeky_gadgets"
+            },
+            "title": "M5 Chip EXPLAINED: The AI, GPU, and Power Revolution is Here!",
+            "url": "https://www.geeky-gadgets.com/apple-m5-chip/",
+            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/10/Apple-M5.webp",
+            "publishedAt": "2025-10-17 09:00:18"
+        },
+        {
+            "source": {
+                "name": "techtarget"
+            },
+            "title": "What is off-site backup?",
+            "url": "https://www.techtarget.com/searchdatabackup/definition/off-site-backup",
+            "urlToImage": "https://www.techtarget.com/rms/onlineimages/gillis_alex.jpg",
+            "publishedAt": "2025-10-17 09:00:00"
+        },
+        {
+            "source": {
+                "name": "phys"
+            },
+            "title": "Exploring the power of plants to make drugs out of sunlight",
+            "url": "https://phys.org/news/2025-10-exploring-power-drugs-sunlight.html",
+            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2025/exploring-the-power-of.jpg",
+            "publishedAt": "2025-10-17 08:56:04"
         },
         {
             "source": {
@@ -3216,168 +3414,6 @@
             "url": "https://us.headtopics.com/news/oled-macbook-pro-leak-predicts-apple-taking-an-unthinkable-74498227",
             "urlToImage": "https://i.headtopics.com/images/2025/10/15/verge/apple-s-14-inch-macbook-pro-gets-an-m5-chip-bump-a-apple-s-14-inch-macbook-pro-gets-an-m5-chip-bump-a-74C8555A126DB39D2B7140D5A2D751C5.webp?w=640",
             "publishedAt": "2025-10-16 22:09:11"
-        },
-        {
-            "source": {
-                "name": "cnet"
-            },
-            "title": "The Best iPhone 17 Cases for 2025",
-            "url": "https://www.cnet.com/tech/mobile/best-iphone-17-cases-for-2025/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/e4bed0255d69eb7e4bb5934dc72818da97e02149/hub/2025/10/10/dd470ad6-4269-459f-bfa2-5366793df66f/zagg-santa-cruz-for-iphone-17-pro.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-10-16 21:58:00"
-        },
-        {
-            "source": {
-                "name": "hoodline"
-            },
-            "title": "UTEP Receives $500,000 Grant to Enhance Nuclear Plant Cybersecurity with AI Innovations",
-            "url": "https://hoodline.com/2025/10/utep-receives-500-000-grant-to-enhance-nuclear-plant-cybersecurity-with-ai-innovations/",
-            "urlToImage": "https://img.hoodline.com/2025/10/utep-receives-dollar500000-grant-to-enhance-nuclear-plant-cybersecurity-with-ai-innovations-2.webp",
-            "publishedAt": "2025-10-16 21:56:03"
-        },
-        {
-            "source": {
-                "name": "in_mashable"
-            },
-            "title": "Honor Teases Robot Smartphone With Gimbal Camera Ahead Of MWC 2026 Launch",
-            "url": "https://in.mashable.com/tech/101198/honor-teases-robot-smartphone-with-gimbal-camera-ahead-of-mwc-2026-launch",
-            "urlToImage": "https://sm.mashable.com/mashable_in/photo/default/honorphone_58sc.jpg",
-            "publishedAt": "2025-10-16 21:50:58"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "$1,000 In Nvidia Stock 5 Years Ago Is Now $12,000 — NVDA Still A Buy",
-            "url": "https://www.forbes.com/sites/investor-hub/article/1000-in-nvidia-nvda-stock-5-years-ago-is-now-12000-still-buy/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68f1339029f192ca79bcd31c/0x0.jpg?width=960",
-            "publishedAt": "2025-10-16 21:45:44"
-        },
-        {
-            "source": {
-                "name": "headtopics"
-            },
-            "title": "Apple's M6 MacBook Pro generation will reportedly offer touchscreens",
-            "url": "https://us.headtopics.com/news/apple-s-m6-macbook-pro-generation-will-reportedly-offer-74497170",
-            "urlToImage": "https://i.headtopics.com/images/2025/10/15/engadget/apple-s-first-m5-laptop-is-the-14-inch-macbook-pro-apple-s-first-m5-laptop-is-the-14-inch-macbook-pro-D704978AEBD3D675FB9A352CA7D08485.webp?w=640",
-            "publishedAt": "2025-10-16 21:39:49"
-        },
-        {
-            "source": {
-                "name": "genengnews"
-            },
-            "title": "Cell Signaling-Inspired DNA Sensor Enables Molecular Detection from Single Blood Drop",
-            "url": "https://www.genengnews.com/topics/translational-medicine/cell-signaling-inspired-dna-sensor-enables-molecular-detection-from-single-blood-drop/",
-            "urlToImage": "https://www.genengnews.com/wp-content/uploads/2025/10/Low-Res_Cover-art_JACS-female-character.jpg",
-            "publishedAt": "2025-10-16 21:35:02"
-        },
-        {
-            "source": {
-                "name": "discovermagazine"
-            },
-            "title": "Brain Cells on a Computer Chip Offer Advanced Medical Treatments and Use Less Energy",
-            "url": "https://www.discovermagazine.com/brain-cells-on-a-computer-chip-offer-advanced-medical-treatments-and-use-less-energy-48150",
-            "urlToImage": "https://cdn.discovermagazine.com/assets/image/57531/brain-computer-chip-t.jpg",
-            "publishedAt": "2025-10-16 21:30:00"
-        },
-        {
-            "source": {
-                "name": "fastcompany"
-            },
-            "title": "Sora is blocking people from nabbing celebrity and public figure usernames",
-            "url": "https://www.fastcompany.com/91423803/sora-donald-trump-openai-social-media-sam-altman",
-            "urlToImage": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2025/10/p-1-91423803-sora-is-blocking-people-from-nabbing-celebrity-and-public-figure-user-names.jpg",
-            "publishedAt": "2025-10-16 21:22:17"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Building Smarter Cyber Ranges with Dockerized Android",
-            "url": "https://hackernoon.com/building-smarter-cyber-ranges-with-dockerized-android",
-            "urlToImage": "https://hackernoon.imgix.net/images/5wpKgV75aONqkTJlafw2yQmK9yd2-yc03bt2.png",
-            "publishedAt": "2025-10-16 21:15:03"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "Hut 8 Schedules Third Quarter 2025 Earnings Release and Conference Call",
-            "url": "https://www.prnewswire.com/news-releases/hut-8-schedules-third-quarter-2025-earnings-release-and-conference-call-302586892.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2798526/Hut_8_Corp___Logo.jpg?p=original",
-            "publishedAt": "2025-10-16 21:15:00"
-        },
-        {
-            "source": {
-                "name": "slashgear"
-            },
-            "title": "Reddit's CEO Says Much Of The Internet Is Dead - And Redditors Agree",
-            "url": "https://www.slashgear.com/1999007/reddit-ceo-says-much-of-internet-dead-redditors-agree/",
-            "urlToImage": "https://www.slashgear.com/img/gallery/reddits-ceo-says-much-of-the-internet-is-dead-and-redditors-agree/l-intro-1760590920.jpg",
-            "publishedAt": "2025-10-16 21:15:00"
-        },
-        {
-            "source": {
-                "name": "postregister"
-            },
-            "title": "AP Technology SummaryBrief at 4:40 p.m. EDT",
-            "url": "https://www.postregister.com/businessreport/business/ap-technology-summarybrief-at-4-40-p-m-edt/article_44afe283-9dbb-5de9-9f1f-b7561602f408.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
-            "publishedAt": "2025-10-16 20:40:36"
-        },
-        {
-            "source": {
-                "name": "cadillacnews"
-            },
-            "title": "AP Technology SummaryBrief at 4:40 p.m. EDT",
-            "url": "https://www.cadillacnews.com/ap/business/ap-technology-summarybrief-at-4-40-p-m-edt/article_5a2d616d-20da-556a-818c-b61b0b2c4d7b.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/cadillacnews.com/content/tncms/custom/image/2f32a658-47ab-11e7-abb1-ef25bc001cf2.png?resize=600%2C99",
-            "publishedAt": "2025-10-16 20:40:36"
-        },
-        {
-            "source": {
-                "name": "insider"
-            },
-            "title": "The best Bose headphones of 2025",
-            "url": "https://www.businessinsider.com/guides/tech/best-bose-headphones",
-            "urlToImage": "https://i.insider.com/68f143d5cc993f9955d0584c?width=700",
-            "publishedAt": "2025-10-16 20:40:05"
-        },
-        {
-            "source": {
-                "name": "arstechnica"
-            },
-            "title": "Ars Live recap: Is the AI bubble about to pop? Ed Zitron weighs in.",
-            "url": "https://arstechnica.com/ai/2025/10/ars-live-recap-is-the-ai-bubble-about-to-pop-ed-zitron-weighs-in/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/ai_bubble_hero2-1152x648.jpg",
-            "publishedAt": "2025-10-16 20:25:08"
-        },
-        {
-            "source": {
-                "name": "techaeris"
-            },
-            "title": "OxygenOS 16 is coming to OnePlus 15 and more",
-            "url": "https://techaeris.com/2025/10/16/oxygenos-16-is-coming-to-oneplus-15-more/",
-            "urlToImage": "https://techaeris.com/wp-content/uploads/2025/10/OnePlus-15-Sand-Storm.jpg",
-            "publishedAt": "2025-10-16 20:16:46"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Honor Unveils AI Robot Phone with Fold-Out Camera Gimbal for 2026",
-            "url": "https://www.webpronews.com/honor-unveils-ai-robot-phone-with-fold-out-camera-gimbal-for-2026/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-82f63b31-b969-4f2d-b8cc-1ea13b0db8f9.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-10-16 20:15:00"
-        },
-        {
-            "source": {
-                "name": "xda_developers"
-            },
-            "title": "Why an immutable distro is the perfect starting point for new Linux users",
-            "url": "https://www.xda-developers.com/why-an-immutable-distro-is-the-perfect-starting-point-for-new-linux-users/",
-            "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/08/computer-running-fedora-silverblue.jpg",
-            "publishedAt": "2025-10-16 20:00:19"
         }
     ]
 }
