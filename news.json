@@ -1,6 +1,162 @@
 {
-    "lastUpdatedAt": "2025-10-17T01:10:22.404140Z",
+    "lastUpdatedAt": "2025-10-17T02:58:18.428429Z",
     "articles": [
+        {
+            "source": {
+                "id": "85e5403407038478a5e7d8d100ff8e8f",
+                "name": "CP24 Toronto",
+                "url": "https://www.cp24.com",
+                "country": "ca"
+            },
+            "title": "Does your child play with them?",
+            "url": "https://www.cp24.com/news/canada/2025/10/16/do-you-let-your-child-play-with-ai-we-want-to-hear-from-you/",
+            "urlToImage": "https://www.cp24.com/resizer/v2/EIXRJUPLHJBIBK57TWO4OMLGWA.jpg?smart=true&auth=a3da757da0f55384b4439a485ef890e7615a5720f38c264fb7c710382e09322d&width=1200&height=630",
+            "publishedAt": "2025-10-16T14:57:14Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "UK spy chief warns of AI danger, though not disaster",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/uk-spy-chief-warns-of-ai-danger-though-not-disaster-movie-doom/articleshow/124608399.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-79906,resizemode-75,msid-124608399/tech/artificial-intelligence/uk-spy-chief-warns-of-ai-danger-though-not-disaster-movie-doom.jpg",
+            "publishedAt": "2025-10-16T14:54:11Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "ABB CEO 'very confident' of demand for data centers powering AI",
+            "url": "https://www.reuters.com/business/abb-ceo-very-confident-demand-data-centers-powering-ai-2025-10-16/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/3DCZBFBPCVJO3F6YUR56MGZNEY.jpg?auth=9594ab38883e35e5cca7fe362559f9dafa46739aaad326a515c8bea79c3cc1ba&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-10-16T14:48:52Z"
+        },
+        {
+            "source": {
+                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
+                "name": "WTOP",
+                "url": "https://wtop.com",
+                "country": "us"
+            },
+            "title": "Microsoft: Russia, China increasingly using AI to escalate cyberattacks on the US",
+            "url": "https://wtop.com/national/2025/10/microsoft-russia-china-increasingly-using-ai-to-escalate-cyberattacks-on-the-us/",
+            "urlToImage": "https://wtop.com/wp-content/uploads/2025/10/Cybersecurity_AI_03511-scaled.jpg",
+            "publishedAt": "2025-10-16T14:46:59Z"
+        },
+        {
+            "source": {
+                "id": "a6d401909ca644c4ffb332486c9cfaea",
+                "name": "Seeking Alpha",
+                "url": "https://seekingalpha.com",
+                "country": "us"
+            },
+            "title": "Microsoft adds new features to AI Copilot in Windows 11",
+            "url": "https://seekingalpha.com/news/4504849-microsoft-adds-new-features-to-ai-copilot-in-windows-11",
+            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2203181480/image_2203181480.jpg?io=getty-c-w750",
+            "publishedAt": "2025-10-16T14:45:38Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "ABB CEO 'very confident' of demand for data centers powering AI",
+            "url": "https://www.marketscreener.com/news/abb-ceo-very-confident-of-demand-for-data-centers-powering-ai-ce7d5adcda80f526",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2025-10-16T14:45:16Z"
+        },
+        {
+            "source": {
+                "id": "35515662ec044d3f94b543cd8802d63f",
+                "name": "WDIV ClickOnDetroit",
+                "url": "https://www.clickondetroit.com",
+                "country": "us"
+            },
+            "title": "Microsoft: Russia, China increasingly using AI to escalate cyberattacks on the US",
+            "url": "https://www.clickondetroit.com/news/politics/2025/10/16/microsoft-russia-china-increasingly-using-ai-to-escalate-cyberattacks-on-the-us/",
+            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/6BUETIWUDZAYHBTXSSBJ65AQZQ.jpg?_a=DATAg1eAZAA0",
+            "publishedAt": "2025-10-16T14:44:35Z"
+        },
+        {
+            "source": {
+                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
+                "name": "The Associated Press",
+                "url": "https://apnews.com",
+                "country": "us"
+            },
+            "title": "Microsoft: Russia, China increasingly using AI to escalate cyberattacks on the US",
+            "url": "https://apnews.com/article/ai-cybersecurity-russia-china-deepfakes-microsoft-ad678e5192dd747834edf4de03ac84ee",
+            "urlToImage": "https://dims.apnews.com/dims4/default/dd0ba6e/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2c%2F61%2F83da57a4295f7ed334773ee112cf%2Fd333abfd8a924c9aa945a9dab373ee3b",
+            "publishedAt": "2025-10-16T14:44:35Z"
+        },
+        {
+            "source": {
+                "id": "c792dadf7373fad5b316a63a77688de1",
+                "name": "ABC News",
+                "url": "https://abcnews.go.com",
+                "country": "us"
+            },
+            "title": "Russia, China increasingly using AI to escalate cyberattacks on US, Microsoft finds",
+            "url": "https://abcnews.go.com/Technology/wireStory/microsoft-russia-china-increasingly-ai-escalate-cyberattacks-us-126581796",
+            "urlToImage": "https://i.abcnewsfe.com/a/924adb94-bdf6-4548-be0e-3c8b62d9d15f/wirestory_ad678e5192dd747834edf4de03ac84ee_16x9.jpg?w=1600",
+            "publishedAt": "2025-10-16T14:44:35Z"
+        },
+        {
+            "source": {
+                "id": "3e29a1cf81727e4aa5687d46a4b429c4",
+                "name": "Bangor Daily News",
+                "url": "https://www.bangordailynews.com",
+                "country": "us"
+            },
+            "title": "Microsoft: Russia, China increasingly using AI to escalate cyberattacks on the US",
+            "url": "https://www.bangordailynews.com/2025/10/16/nation/microsoft-russia-china-increasingly-using-ai-to-escalate-cyberattacks-on-the-us/",
+            "urlToImage": "https://i0.wp.com/bdn-data.s3.amazonaws.com/uploads/2025/10/preview-394.jpg?fit=1024%2C683&ssl=1",
+            "publishedAt": "2025-10-16T14:44:35Z"
+        },
+        {
+            "source": {
+                "id": "b29eaeaa36b9be93ac681e263151f897",
+                "name": "India.com",
+                "url": "https://www.india.com",
+                "country": "in"
+            },
+            "title": "The Guardian of Trust: How Prassanna Rajgopal incorporates the concept of safety into the business fabric.",
+            "url": "https://www.india.com/money/the-guardian-of-trust-how-prassanna-rajgopal-incorporates-the-concept-of-safety-into-the-business-fabric-8136115/",
+            "urlToImage": "https://static.india.com/wp-content/uploads/2025/10/icom7-5.jpg",
+            "publishedAt": "2025-10-16T14:39:46Z"
+        },
+        {
+            "source": {
+                "id": "72ea416416ab0eec8fe687d6262961e8",
+                "name": "Finbold",
+                "url": "https://finbold.com",
+                "country": "bg"
+            },
+            "title": "Machine learning algorithm predicts Cardano on October 31, 2025",
+            "url": "https://finbold.com/machine-learning-algorithm-predicts-cardano-on-october-31-2025/",
+            "urlToImage": "https://assets.finbold.com/uploads/2025/10/Machine-learning-algorithm-predicts-Cardano-on-October-31-2025.jpg",
+            "publishedAt": "2025-10-16T14:32:28Z"
+        },
+        {
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            },
+            "title": "Home Ministry's cybercrime internship application ends tomorrow, know details",
+            "url": "https://www.indiatoday.in/education-today/scholarships/story/home-ministry-winter-internship-in-cybercrime-2025-know-details-deadline-october-17-2804198-2025-10-16",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202510/cybercrime-122131638-16x9.jpg?VersionId=wiK8V01_dWwQDncnb_l44qfwRHSIXqsa",
+            "publishedAt": "2025-10-16T13:14:26Z"
+        },
         {
             "source": {
                 "id": "1e30d944d63d9090db5a2c2e28a8772f",
@@ -972,6 +1128,87 @@
             "url": "https://www.globenewswire.com/news-release/2025/10/16/3168240/0/en/Catalyst-Campus-Awarded-Contract-to-Accelerate-Workforce-Development-for-Emergent-Campus-Programs-in-Southern-Colorado.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/5ac12169-0207-4c9f-a59a-884a1f985aed",
             "publishedAt": "2025-10-16T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "macworld"
+            },
+            "title": "Best VPN for Mac 2025: Trustworthy Mac VPNs tested by experts",
+            "url": "https://www.macworld.com/article/231047/best-vpn-for-mac.html",
+            "urlToImage": "https://www.macworld.com/wp-content/uploads/2025/10/Best-VPN-for-Mac.jpg?quality=50&strip=all&w=1024",
+            "publishedAt": "2025-10-16 14:55:26"
+        },
+        {
+            "source": {
+                "name": "economictimes_indiatimes"
+            },
+            "title": "Microsoft pushes AI updates in Windows 11 as it ends support for Windows 10",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/microsoft-pushes-ai-updates-in-windows-11-as-it-ends-support-for-windows-10/articleshow/124608340.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-110876,resizemode-75,msid-124608340/tech/artificial-intelligence/microsoft-pushes-ai-updates-in-windows-11-as-it-ends-support-for-windows-10.jpg",
+            "publishedAt": "2025-10-16 14:51:04"
+        },
+        {
+            "source": {
+                "name": "channelnewsasia"
+            },
+            "title": "ABB CEO 'very confident' of demand for data centers powering AI",
+            "url": "https://www.channelnewsasia.com/business/abb-ceo-very-confident-demand-data-centers-powering-ai-5407066",
+            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--DTK-pUk3--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2025-10-16T144809Z_1_LYNXNPEL9F0RE_RTROPTP_3_ABB-RESULTS.JPG?itok=Leq3DFkZ",
+            "publishedAt": "2025-10-16 14:48:09"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Oracle Deploys 50,000 AMD MI450 Chips to Rival Nvidia in AI Cloud",
+            "url": "https://www.webpronews.com/oracle-deploys-50000-amd-mi450-chips-to-rival-nvidia-in-ai-cloud/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-795f1f07-8795-4691-8add-47a53bfed539.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-10-16 14:30:00"
+        },
+        {
+            "source": {
+                "name": "postguam"
+            },
+            "title": "AI e-fooling us all? Most can’t tell real email from fake",
+            "url": "https://www.postguam.com/news/national/ai-e-fooling-us-all-most-can-t-tell-real-email-from-fake/article_3e923e89-002a-5724-9e5b-e1247975e412.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/7/54/75424a52-302c-5ad0-9bfd-e1d2b763aae1/68dfd37757155.image.jpg?resize=300%2C225",
+            "publishedAt": "2025-10-16 14:25:49"
+        },
+        {
+            "source": {
+                "name": "citizentribune"
+            },
+            "title": "AI e-fooling us all? Most can’t tell real email from fake",
+            "url": "https://www.citizentribune.com/news/business/ai-e-fooling-us-all-most-can-t-tell-real-email-from-fake/article_265cc3ea-7b66-5df2-9afa-9c1e3a0ed741.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/citizentribune.com/content/tncms/assets/v3/editorial/e/b2/eb217cb6-9ac4-5ada-ad5f-6f59bc58552a/68dfd01c6a152.image.jpg?resize=300%2C225",
+            "publishedAt": "2025-10-16 14:25:49"
+        },
+        {
+            "source": {
+                "name": "wyomingnews"
+            },
+            "title": "AI e-fooling us all? Most can’t tell real email from fake",
+            "url": "https://www.wyomingnews.com/news/national/ai-e-fooling-us-all-most-can-t-tell-real-email-from-fake/article_22079374-2c51-5408-a5b0-4687678857b3.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/f/6e/f6e37d76-962e-5c74-952e-358c0a8b09b8/68dfd396a57f3.image.jpg?resize=300%2C225",
+            "publishedAt": "2025-10-16 14:25:49"
+        },
+        {
+            "source": {
+                "name": "fbherald"
+            },
+            "title": "AI e-fooling us all? Most can’t tell real email from fake",
+            "url": "https://www.fbherald.com/news/national/ai-e-fooling-us-all-most-can-t-tell-real-email-from-fake/article_bef4cdc3-7b36-5826-bf62-3ec87a9d4d9a.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/fbherald.com/content/tncms/assets/v3/editorial/e/84/e84103a0-2b32-520f-a54a-30844a715680/68dfd02729ac9.image.jpg?resize=300%2C225",
+            "publishedAt": "2025-10-16 14:25:49"
+        },
+        {
+            "source": {
+                "name": "themercury"
+            },
+            "title": "AI e-fooling us all? Most can’t tell real email from fake",
+            "url": "https://themercury.com/news/national/ai-e-fooling-us-all-most-can-t-tell-real-email-from-fake/article_6052dc5a-8918-5cfb-9e5e-0f4a9941d574.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/themercury.com/content/tncms/assets/v3/editorial/3/48/348b1cc9-d75a-55a0-aaab-3cb0ebe210b1/68dfd026d4e1f.image.jpg?resize=300%2C225",
+            "publishedAt": "2025-10-16 14:25:49"
         },
         {
             "source": {
@@ -3045,270 +3282,6 @@
             "url": "https://phys.org/news/2025-10-smartphone-powered-ai-avocado-ripeness.html",
             "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/smartphone-powered-ai.jpg",
             "publishedAt": "2025-10-15T10:38:04Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "Bengaluru man shares text from LinkedIn user asking him to be a proxy in interviews",
-            "url": "https://www.indiatoday.in/trending-news/story/bengaluru-man-shares-text-from-linkedin-user-asking-him-to-be-a-proxy-in-interviews-2803524-2025-10-15",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202510/a-bengaluru-based-mans-x-post-went-viral-153632763-16x9_0.jpg?VersionId=BZ8W0p6Zt4ZMzdPvxoGkyV4MoZUN9e1i",
-            "publishedAt": "2025-10-15T10:36:48Z"
-        },
-        {
-            "source": {
-                "id": "1a6c3258d04827f52d40713ad8166b1b",
-                "name": "Interesting Engineering",
-                "url": "https://interestingengineering.com",
-                "country": "us"
-            },
-            "title": "ready robot dog that fires grenades unveiled",
-            "url": "https://interestingengineering.com/military/grenade-launching-robot-dog-us",
-            "urlToImage": "https://cms.interestingengineering.com/wp-content/uploads/2025/10/Canva-Photo-2025-10-15T142016.300.jpg",
-            "publishedAt": "2025-10-15T10:32:25Z"
-        },
-        {
-            "source": {
-                "id": "109f2b4a20da4fe1c2fd502b03c07243",
-                "name": "BBC News",
-                "url": "https://www.bbc.com",
-                "country": "gb"
-            },
-            "title": "Why big tech's nuclear plans could blow up",
-            "url": "https://www.bbc.com/worklife/article/20251008-why-big-tech-is-going-nuclear",
-            "urlToImage": "https://ychef.files.bbci.co.uk/624x351/p0m7fr0l.jpg",
-            "publishedAt": "2025-10-15T10:30:46Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Analysis-Investors on guard for risks that could derail the AI gravy train",
-            "url": "https://www.thestar.com.my/tech/tech-news/2025/10/15/analysis-investors-on-guard-for-risks-that-could-derail-the-ai-gravy-train",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/15/3572116.jpg",
-            "publishedAt": "2025-10-15T10:29:00Z"
-        },
-        {
-            "source": {
-                "id": "6b5614f288c2ce8fcedc9909a3e2696b",
-                "name": "Metro.co.uk",
-                "url": "https://metro.co.uk",
-                "country": "gb"
-            },
-            "title": "ChatGPT update to allow users to make erotica and will 'treat adults like adults'",
-            "url": "https://metro.co.uk/2025/10/15/chatgpt-update-allow-users-make-erotica-will-treat-adults-like-adults-24430694/",
-            "urlToImage": "https://metro.co.uk/wp-content/uploads/2025/10/SEC_270325231-71c8_1760524115.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
-            "publishedAt": "2025-10-15T10:27:36Z"
-        },
-        {
-            "source": {
-                "id": "458ddf355ab77631d3eb3dd84a0351b4",
-                "name": "Business Insider",
-                "url": "https://www.businessinsider.com",
-                "country": "us"
-            },
-            "title": "I Landed a Full-Time Job in AI at 21. Here How I Stood Out.",
-            "url": "https://www.businessinsider.com/how-get-ai-job-full-time-before-graduating-college-internship-2025-10",
-            "urlToImage": "https://i.insider.com/68ee23bc1c1f80efbec58690?width=1200&format=jpeg",
-            "publishedAt": "2025-10-15T10:13:26Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Investors on guard for risks that could derail the AI gravy train",
-            "url": "https://www.reuters.com/legal/transactional/investors-guard-risks-that-could-derail-ai-gravy-train-2025-10-15/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/KNQN4SSDJJM63BFM73UWTDV2GM.jpg?auth=447ca71999b5212a8e498f74f2d073820bc7297a48b8ba94900f072c2a6bff1a&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-10-15T10:03:40Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com",
-                "country": "ca"
-            },
-            "title": "Judge fines man $5,000 for improper use of AI in court",
-            "url": "https://www.cp24.com/news/canada/2025/10/15/quebec-judge-fines-man-5000-for-improper-use-of-artificial-intelligence-in-court/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/WTYEQH4FDDRR6YHHNEL6NAHKYM.jpg?smart=true&auth=6d712f75e9dde96c7143a301d44b1ea407317a14a3c1a8d9472976fbdf48dfbb&width=1200&height=630",
-            "publishedAt": "2025-10-15T10:03:14Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Nuclear Startup to Deploy Pilot Microreactor at Texas A&M Campus",
-            "url": "https://www.bloomberg.com/news/articles/2025-10-15/nuclear-startup-to-deploy-pilot-microreactor-at-texas-a-m-campus",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iumHt_96LTdo/v1/1200x799.jpg",
-            "publishedAt": "2025-10-15T10:00:00Z"
-        },
-        {
-            "source": {
-                "id": "63fb9bccf05610a30851df4c2d33289f",
-                "name": "MIT Technology Review",
-                "url": "https://www.technologyreview.com",
-                "country": "us"
-            },
-            "title": "AI is changing how we quantify pain",
-            "url": "https://www.technologyreview.com/2025/10/15/1125116/ai-is-changing-how-we-quantify-pain/",
-            "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2025/10/GettyImages-452708147_thumb.jpg?resize=1200,600",
-            "publishedAt": "2025-10-15T10:00:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "PAObank and OneConnect Financial Technology Join HKMA's Second Cohort of GenA.I. Sandbox to Enhance Deepfake Fraud Detection",
-            "url": "https://www.manilatimes.net/2025/10/15/tmt-newswire/pr-newswire/paobank-and-oneconnect-financial-technology-join-hkmas-second-cohort-of-genai-sandbox-to-enhance-deepfake-fraud-detection/2201117",
-            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-            "publishedAt": "2025-10-15T09:20:26Z"
-        },
-        {
-            "source": {
-                "id": "e553cce06d349ac1f7fbb7618a979256",
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com",
-                "country": "us"
-            },
-            "title": "How Afraid of the A.I. Apocalypse Should We Be?",
-            "url": "https://www.nytimes.com/2025/10/15/opinion/ezra-klein-podcast-eliezer-yudkowsky.html",
-            "urlToImage": "https://static01.nyt.com/images/2025/10/15/opinion/15eks-yudkowsky/15eks-yudkowsky-facebookJumbo.jpg",
-            "publishedAt": "2025-10-15T09:03:52Z"
-        },
-        {
-            "source": {
-                "id": "77b86639d1384ac68141803ec5db27c0",
-                "name": "NBC News",
-                "url": "https://www.nbcnews.com",
-                "country": "us"
-            },
-            "title": "The sleeper issue that could play a huge role in upcoming elections",
-            "url": "https://www.nbcnews.com/politics/elections/data-centers-utility-costs-sleeper-issue-jersey-virginia-elections-rcna235401",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251003-virginia-data-center-mn-1215-701f27.jpg",
-            "publishedAt": "2025-10-15T09:00:00Z"
-        },
-        {
-            "source": {
-                "id": "b1fa63410571207862faad9daf9b4527",
-                "name": "Pittsburgh Tribune-Review",
-                "url": "https://triblive.com",
-                "country": "us"
-            },
-            "title": "BlackRock, Nvidia-backed group strikes $40 billion AI data center deal",
-            "url": "https://triblive.com/business/technology/blackrock-nvidia-backed-group-strikes-40-billion-ai-data-center-deal/",
-            "urlToImage": "https://assets-varnish.triblive.com/2025/10/8953553_web1_2025-10-15T115948Z_2_LYNXNPEL9E0L7_RTROPTP_4_CHINA-SUPPLY-CHAIN.JPG",
-            "publishedAt": "2025-10-15T08:58:39Z"
-        },
-        {
-            "source": {
-                "id": "b33a42ef1c098421f66aad47a76d6a3c",
-                "name": "The Hindu",
-                "url": "https://www.thehindu.com",
-                "country": "in"
-            },
-            "title": "Meet the AI chatbots replacing India's call centre workers",
-            "url": "https://www.thehindu.com/sci-tech/technology/meet-the-ai-chatbots-replacing-indias-call-centre-workers/article70166295.ece",
-            "urlToImage": "https://th-i.thgim.com/public/incoming/3ua45q/article70166297.ece/alternates/LANDSCAPE_1200/2012-03-08T221936Z_01_MAN503_RTRMDNP_3_OUTSOURCING-PHILIPPINES.JPG",
-            "publishedAt": "2025-10-15T08:58:15Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "ET AI Awards 2025 set to spotlight India’s most innovative AI startups",
-            "url": "https://economictimes.indiatimes.com/ai/ai-insights/et-ai-awards-2025-set-to-spotlight-indias-most-innovative-ai-startups/articleshow/124571777.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-124572307,width-1200,height-630,imgsize-1121938,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2025-10-15T08:35:00Z"
-        },
-        {
-            "source": {
-                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-                "name": "NDTV.com",
-                "url": "https://www.ndtv.com",
-                "country": "in"
-            },
-            "title": "IIT Roorkee Launches Advanced Certificate Course In Quantum Computing, Algorithms",
-            "url": "https://www.ndtv.com/education/iit-roorkee-launches-advanced-certificate-course-in-quantum-computing-algorithms-9458996",
-            "urlToImage": "https://c.ndtvimg.com/2024-09/q1oq3o3_iit-roorkee_625x300_18_September_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-            "publishedAt": "2025-10-15T08:24:04Z"
-        },
-        {
-            "source": {
-                "id": "28bc60a23a7bf89e60f893506992a3fe",
-                "name": "Daily Excelsior",
-                "url": "https://www.dailyexcelsior.com",
-                "country": "in"
-            },
-            "title": "A R Rahman partners with Google Cloud to create AI-powered metahuman band 'Secret Mountain'",
-            "url": "https://www.dailyexcelsior.com/a-r-rahman-partners-with-google-cloud-to-create-ai-powered-metahuman-band-secret-mountain/",
-            "urlToImage": "https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2025/10/AR-Rahman.jpg",
-            "publishedAt": "2025-10-15T08:13:58Z"
-        },
-        {
-            "source": {
-                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-                "name": "Benzinga",
-                "url": "https://www.benzinga.com",
-                "country": "us"
-            },
-            "title": "Billionaire Gautam Adani Calls It A 'Monumental Day' As Google Partners With AdaniConneX And Airtel To Set Up $15 Billion AI Hub In India",
-            "url": "https://www.benzinga.com/markets/tech/25/10/48217997/billionaire-gautam-adani-calls-it-a-monumental-day-as-google-partners-with-adaniconnex-and-airtel-to-set-up-15-billion-ai-hub-in-india",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/10/15/Google-Logo-At-The-Entrance-Of-Its-Headq.jpeg?width=1200&height=800&fit=crop",
-            "publishedAt": "2025-10-15T07:54:32Z"
-        },
-        {
-            "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
-                "country": "in"
-            },
-            "title": "Goldman Sachs Mulls Job Cuts As Part Of An AI-Driven Makeover",
-            "url": "https://www.ndtvprofit.com/business/goldman-sachs-mulls-job-cuts-as-part-of-an-artificial-intelligence-driven-makeover",
-            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-10-15%2Flew49ivq%2F105578.Goldman-Sachs.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
-            "publishedAt": "2025-10-15T07:53:59Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "A R Rahman partners with Google Cloud to create AI-powered metahuman band ‘Secret Mountain’",
-            "url": "https://www.devdiscourse.com/article/technology/3664313-a-r-rahman-partners-with-google-cloud-to-create-ai-powered-metahuman-band-secret-mountain",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_16_59_02_2201424.jpg?width=920&format=jpeg",
-            "publishedAt": "2025-10-15T07:45:15Z"
-        },
-        {
-            "source": {
-                "id": "69a24b80e5bce5a07f808f5ea84c434b",
-                "name": "Arkansas Online",
-                "url": "https://www.arkansasonline.com",
-                "country": "us"
-            },
-            "title": "Google to invest $15B in Indian AI hub",
-            "url": "https://www.arkansasonline.com/news/2025/oct/15/google-to-invest-15b-in-indian-ai-hub/",
-            "urlToImage": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/211291525_insideD-Google-1015_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
-            "publishedAt": "2025-10-15T07:30:00Z"
         }
     ]
 }
