@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-10-18T17:11:33.966038Z",
+    "lastUpdatedAt": "2025-10-18T18:19:30.490166Z",
     "articles": [
+        {
+            "source": {
+                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+                "name": "NDTV.com",
+                "url": "https://www.ndtv.com",
+                "country": "in"
+            },
+            "title": "MIT Researcher Neil Thompson Explains Why AI Models Give Errors, And Its Future",
+            "url": "https://www.ndtv.com/world-news/ndtv-world-summit-2025-mit-researcher-neil-thompson-explains-why-ai-models-give-errors-and-its-future-9477700",
+            "urlToImage": "https://c.ndtvimg.com/2025-10/59j85aa4_neil-thompson-_650x400_18_October_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+            "publishedAt": "2025-10-18T06:15:54Z"
+        },
+        {
+            "source": {
+                "id": "9a1d5b164276d1c4f3394dd496e931e0",
+                "name": "Patrika News",
+                "url": "https://www.patrika.com",
+                "country": "in"
+            },
+            "title": "Rajasthan: Trains to Self-Diagnose Faults with Generative AI",
+            "url": "https://www.patrika.com/en/special-news/rajasthan-news-trains-to-self-diagnose-faults-with-generative-ai-in-partnership-with-iit-indian-railways-is-now-not-just-running-on-tracks-but-also-at-a-new-pace-of-technology-20033822",
+            "urlToImage": "https://cms.patrika.com/wp-content/uploads/2025/10/Copy-of-Logo-Banner-2025-10-18T084132.133.webp",
+            "publishedAt": "2025-10-18T05:55:42Z"
+        },
         {
             "source": {
                 "id": "31da3e9a4dc2d696d957aebbe485bb7d",
@@ -144,6 +168,24 @@
             "url": "https://www.forbes.com/sites/lanceeliot/2025/10/18/agi-and-ai-superintelligence-could-spawn-a-new-kind-of-alien-intelligence/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68756e49105ac51109b35b70/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-10-18T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "republicworld"
+            },
+            "title": "Nvidia Unveils First Blackwell Chip Wafer Made With TSMC in US",
+            "url": "https://www.republicworld.com/tech/update-1-nvidia-unveils-first-blackwell-chip-wafer-made-with-tsmc-in-us",
+            "urlToImage": "https://img.republicworld.com/all_images/nvidia-1732633965923-16_9.webp?format=webp&h=720&q=75&w=1280",
+            "publishedAt": "2025-10-18 06:11:51"
+        },
+        {
+            "source": {
+                "name": "techannouncer"
+            },
+            "title": "China’s Quantum Computer Breakthroughs: A 1 Quadrillion Times Faster Leap",
+            "url": "https://techannouncer.com/chinas-quantum-computer-breakthroughs-a-1-quadrillion-times-faster-leap/",
+            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/10/87703a7ethumbnail-332x187.jpeg",
+            "publishedAt": "2025-10-18 05:42:04"
         },
         {
             "source": {
@@ -3276,42 +3318,6 @@
             "url": "https://www.newswise.com/articles/towards-the-first-principles-of-explaining-dnns-interactions-explain-the-learning-dynamics/?sc=rssn",
             "urlToImage": "https://www.newswise.com/legacy/image.php?height=334&image=%2Fimages%2Fuploads%2F2025%2F10%2F17%2F68f1e265dc2d0_image5.jpeg&width=502",
             "publishedAt": "2025-10-17 11:06:21"
-        },
-        {
-            "source": {
-                "name": "piunikaweb"
-            },
-            "title": "Latest Windows 11 update broke taskbar and search for some users",
-            "url": "https://piunikaweb.com/?p=1417181",
-            "urlToImage": "https://piunikaweb.com/wp-content/uploads/2025/10/windows-11-search-bugged-featured-768x403.webp",
-            "publishedAt": "2025-10-17 11:05:10"
-        },
-        {
-            "source": {
-                "name": "androidheadlines"
-            },
-            "title": "OxygenOS 16 Brings Android 16 Features, Smarter AI, and a New Design to OnePlus Phones",
-            "url": "https://www.androidheadlines.com/2025/10/oxygenos-16-brings-android-16-features-smarter-ai-and-a-new-design-to-oneplus-phones.html",
-            "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2025/05/OnePlus-13-AM-AH-1420x1065.webp",
-            "publishedAt": "2025-10-17 11:03:50"
-        },
-        {
-            "source": {
-                "name": "onmsft"
-            },
-            "title": "How to Run System Diagnostics on Windows 11 (Step-by-Step)",
-            "url": "https://windowsreport.com/system-diagnostics/",
-            "urlToImage": "https://windowsreport.com/wp-content/uploads/2025/10/system-diagnostics-700x467.jpg",
-            "publishedAt": "2025-10-17 11:02:25"
-        },
-        {
-            "source": {
-                "name": "hindustantimes"
-            },
-            "title": "The Future of AI-Powered Copilot+ PCs — Now Available on Flipkart",
-            "url": "https://www.hindustantimes.com/genesis/the-future-of-ai-powered-copilot-pcs-now-available-on-flipkart-101760698290386.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/10/17/1600x900/IMG_1760698653923_1760698654022.png",
-            "publishedAt": "2025-10-17 11:01:19"
         }
     ]
 }
