@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-10-18T15:13:20.740041Z",
+    "lastUpdatedAt": "2025-10-18T16:16:46.363142Z",
     "articles": [
+        {
+            "source": {
+                "id": "01558c024928d45cf320f6f75eede787",
+                "name": "The Guardian",
+                "url": "https://www.theguardian.com",
+                "country": "gb"
+            },
+            "title": "AI chatbots are hurting children, Australian education minister warns as anti-bullying plan announced",
+            "url": "https://www.theguardian.com/technology/2025/oct/18/ai-chatbots-are-hurting-children-australian-education-minister-warns-as-anti-bullying-plan-announced",
+            "urlToImage": "https://i.guim.co.uk/img/media/3d78dd66851e382f20f12dada1327dca25e4720c/61_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5dffcafb06fbda37b1b0e5ebcf94d880",
+            "publishedAt": "2025-10-18T03:54:42Z"
+        },
+        {
+            "source": {
+                "id": "a20567d6dba1eb61fe53af2865f90d74",
+                "name": "The New Paper",
+                "url": "https://www.tnp.sg",
+                "country": "sg"
+            },
+            "title": "How do we know AI is making a difference for teachers in classrooms?",
+            "url": "https://www.tnp.sg/news/how-do-we-know-ai-making-difference-teachers-classrooms",
+            "urlToImage": "https://cassette.sphdigital.com.sg/image/thenewpaper/a94bff3af81f8d8170f8eae66a3a07a06f77d4138a6f6a9e505fdc8b9de21ffb/rrAI1810.jpg",
+            "publishedAt": "2025-10-18T03:51:40Z"
+        },
         {
             "source": {
                 "id": "6fea3ee012f060c6309366516e8d00be",
@@ -75,12 +99,30 @@
         },
         {
             "source": {
+                "name": "tweaktown"
+            },
+            "title": "Synopsys teases 'silicon bring-up' of next-gen LPDDR6 IP fabbed on TSMC's new N2P process node",
+            "url": "https://www.tweaktown.com/news/108337/synopsys-teases-silicon-bring-up-of-next-gen-lpddr6-ip-fabbed-on-tsmc-new-n2p-process-node/index.html",
+            "urlToImage": "https://www.tweaktown.com/images/news/1/0/108337_30_synopsys-teases-silicon-bring-up-of-next-gen-lpddr6-ip-fabbed-on-tsmcs-new-n2p-process-node.jpg",
+            "publishedAt": "2025-10-18 03:20:02"
+        },
+        {
+            "source": {
                 "name": "zephyrnet"
             },
             "title": "Quantum Truth: Scientists Develop Revolutionary Lie Detection Technology",
             "url": "https://zephyrnet.com/quantum-truth-scientists-develop-revolutionary-lie-detection-technology/",
             "urlToImage": "https://zephyrnet.com/wp-content/uploads/img-by1wwbRkla8aawp16mdAQyXx.png",
             "publishedAt": "2025-10-18 03:06:27"
+        },
+        {
+            "source": {
+                "name": "theverge"
+            },
+            "title": "TiVo won the court battles, but lost the TV war",
+            "url": "https://www.theverge.com/tech/802254/tivo-time-warp-patent-courtoom-battles-lost-tv-war",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13162763/TiVo_BOLT_OTA_Living_Room_3.jpg?crop=0%2C0.71747139809966%2C100%2C99.2825286019&quality=90&strip=all&w=1200",
+            "publishedAt": "2025-10-18 02:22:34"
         },
         {
             "source": {
@@ -3258,42 +3300,6 @@
             "url": "https://www.gizmochina.com/2025/10/17/oxygenos-16-is-finally-here-whats-new-whats-improved/",
             "urlToImage": "https://www.gizmochina.com/wp-content/uploads/2025/10/1967866417097211912-696x392.jpg?x70461=",
             "publishedAt": "2025-10-17 09:43:33"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "M5 MacBook Air reportedly coming Spring 2026 — plus the missing MacBook Pros and a new Mac Mini",
-            "url": "https://www.tomsguide.com/computing/macbooks/m5-macbook-air-reportedly-coming-spring-2026-plus-the-missing-macbook-pros-and-a-new-mac-mini",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/aU4pys8HozWWA8BGnegVU6-1280-80.jpg",
-            "publishedAt": "2025-10-17 09:40:51"
-        },
-        {
-            "source": {
-                "name": "telanganatoday"
-            },
-            "title": "Bharti Airtel partners with IBM to expand Airtel Cloud for AI-ready enterprise workloads",
-            "url": "https://telanganatoday.com/bharti-airtel-partners-with-ibm-to-expand-airtel-cloud-for-ai-ready-enterprise-workloads",
-            "urlToImage": "https://media.telanganatoday.com/wp-content/uploads/2025/10/Bharti-Airtel-partners-with-IBM-to-expand-Airtel-Cloud-for-AI-ready-enterprise-workloads.jpg",
-            "publishedAt": "2025-10-17 09:40:10"
-        },
-        {
-            "source": {
-                "name": "startupnews"
-            },
-            "title": "MacBook Pro 2026: Touch screen, M6 chip, and sleeker design tipped – All you need to know",
-            "url": "https://startupnews.fyi/2025/10/17/macbook-pro-2026-touch-screen-m6-chip-and-sleeker-design-tipped-all-you-need-to-know/",
-            "urlToImage": "https://startupnews.fyi/wp-content/uploads/2025/10/3dee_1698728787036_1760688774508.jpg",
-            "publishedAt": "2025-10-17 09:38:03"
-        },
-        {
-            "source": {
-                "name": "expresscomputer"
-            },
-            "title": "Smart Storage Aiding India’s Growing Creator Ecosystem",
-            "url": "https://www.expresscomputer.in/guest-blogs/smart-storage-aiding-indias-growing-creator-ecosystem/128719/",
-            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2021/12/01155539/Storage-backup.png",
-            "publishedAt": "2025-10-17 09:34:56"
         }
     ]
 }
