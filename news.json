@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-10-18T10:14:14.247837Z",
+    "lastUpdatedAt": "2025-10-18T11:11:29.170321Z",
     "articles": [
+        {
+            "source": {
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
+                "country": "us"
+            },
+            "title": "Why AMD Stock May Overextend in its AI War with Nvidia (NVDA)",
+            "url": "https://markets.businessinsider.com/news/stocks/why-amd-stock-may-overextend-in-its-ai-war-with-nvidia-nvda-1035396850",
+            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/10/image-1480.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+            "publishedAt": "2025-10-17T22:48:00Z"
+        },
+        {
+            "source": {
+                "id": "2b8e9cf94b4b7463c6aee33c1d6df71b",
+                "name": "Chicago Tribune",
+                "url": "https://www.chicagotribune.com",
+                "country": "us"
+            },
+            "title": "Meta adds parental controls for AI-teen interactions",
+            "url": "https://www.chicagotribune.com/2025/10/17/meta-parental-controls-ai-teen/",
+            "urlToImage": "https://www.chicagotribune.com/wp-content/uploads/2025/10/Meta_AI_Teens_60816.jpg?w=1024&h=682",
+            "publishedAt": "2025-10-17T22:44:24Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "AI must not overgrow convenience",
+            "url": "https://www.tribuneindia.com/news/letters/ai-must-not-overgrow-convenience/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTU5OTJlZmYwLWFiYTktMTFmMC1iMDY0LWVkNWUyYTYzNDljNy5qcGc=",
+            "publishedAt": "2025-10-17T22:33:47Z"
+        },
         {
             "source": {
                 "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
@@ -480,6 +516,18 @@
             "url": "https://medicalxpress.com/news/2025-10-experts-discuss-current-future-ai.html",
             "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/uc-stroke-experts-disc.jpg",
             "publishedAt": "2025-10-17T17:35:31Z"
+        },
+        {
+            "source": {
+                "id": "f31c8f1c503eb3b1106c842bcbe5a3b5",
+                "name": "Worcester Telegram & Gazette",
+                "url": "https://www.telegram.com",
+                "country": "us"
+            },
+            "title": "Officials investigate cybersecurity incident at Heywood Hospital",
+            "url": "https://www.telegram.com/story/news/local/2025/10/17/heywood-hospital-gardner-ma-athol-hospital-cybersecurity-incident-code-black-service-disruption/86749241007/",
+            "urlToImage": "https://www.telegram.com/gcdn/authoring/authoring-images/2025/10/17/NGAR/86749211007-heywood.jpeg?crop=4031,2269,x0,y377&width=3200&height=1802&format=pjpg&auto=webp",
+            "publishedAt": "2025-10-17T17:30:18Z"
         },
         {
             "source": {
@@ -2259,6 +2307,51 @@
         },
         {
             "source": {
+                "name": "headtopics"
+            },
+            "title": "New twist on classic material could advance quantum computing, cut data center energy use",
+            "url": "https://us.headtopics.com/news/new-twist-on-classic-material-could-advance-quantum-74550121",
+            "urlToImage": "https://i.headtopics.com/images/2025/10/16/nypost/penn-state-should-take-biggest-swing-on-nick-saban-penn-state-should-take-biggest-swing-on-nick-saban-55FA6D17F2737B1B3371672CB74D2414.webp?w=640",
+            "publishedAt": "2025-10-17 23:09:07"
+        },
+        {
+            "source": {
+                "name": "digitaltrends"
+            },
+            "title": "Reddit’s AI thinks Heroin is a health tip",
+            "url": "https://www.digitaltrends.com/computing/reddits-ai-thinks-heroin-is-a-health-tip/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/06/Reddit-app-iOS-Brett-Jordan-Pexels.jpg?p=1&resize=1200%2C630",
+            "publishedAt": "2025-10-17 23:04:51"
+        },
+        {
+            "source": {
+                "name": "interestingengineering"
+            },
+            "title": "New twist on classic material could advance quantum computing, cut data center energy use",
+            "url": "https://interestingengineering.com/science/twist-on-classic-material-advance-quantum-computing",
+            "urlToImage": "https://cms.interestingengineering.com/wp-content/uploads/2025/10/data-centers.jpg",
+            "publishedAt": "2025-10-17 22:43:17"
+        },
+        {
+            "source": {
+                "name": "headtopics"
+            },
+            "title": "Prudent Guardrails For The AI Race",
+            "url": "https://us.headtopics.com/news/prudent-guardrails-for-the-ai-race-74549242",
+            "urlToImage": "https://i.headtopics.com/images/2025/10/16/wjxt4/law-and-order-push-shows-a-trump-no-longer-encumbe-law-and-order-push-shows-a-trump-no-longer-encumbe-E1D7015D62F4B3207487AA12F0A4D211.webp?w=640",
+            "publishedAt": "2025-10-17 22:39:40"
+        },
+        {
+            "source": {
+                "name": "mic"
+            },
+            "title": "Clever things that make it easy to fix the tacky problems in your home",
+            "url": "https://www.mic.com/shopping/clever-things-that-make-it-easy-to-fix-the-tacky-problems-in-your-home",
+            "urlToImage": "https://imgix.bustle.com/uploads/image/2025/10/15/54f3c9ce/22.jpg?fit=max&w=500",
+            "publishedAt": "2025-10-17 22:15:24"
+        },
+        {
+            "source": {
                 "name": "genengnews"
             },
             "title": "Enhancing Speed and Scalability in Upstream Bioprocessing of Monoclonal and Bispecific Antibodies",
@@ -3183,87 +3276,6 @@
             "url": "https://www.firstpost.com/explainers/tejas-mk1a-fighter-jet-iaf-aerial-prowess-13942831.html",
             "urlToImage": "https://images.firstpost.com/uploads/2025/10/1-2025-10-b5d3fb549ab628ceaa71598a4de29ba2.jpg",
             "publishedAt": "2025-10-17 07:30:57"
-        },
-        {
-            "source": {
-                "name": "onmsft"
-            },
-            "title": "CMD Commands for Windows: Quick Reference Guide for Beginners",
-            "url": "https://windowsreport.com/command-prompt-commands-list/",
-            "urlToImage": "https://windowsreport.com/wp-content/uploads/2025/10/command-prompt-commands-list-700x467.jpg",
-            "publishedAt": "2025-10-17 07:26:24"
-        },
-        {
-            "source": {
-                "name": "timesnownews"
-            },
-            "title": "Sam Altman Says ChatGPT Conversations Could Soon Outnumber Human Interactions On Earth, All Details Here",
-            "url": "https://www.timesnownews.com/technology-science/sam-altman-says-chatgpt-conversations-could-soon-outnumber-human-interactions-on-earth-all-details-here-article-153014094",
-            "urlToImage": "https://images.timesnownews.com/thumb/msid-153014096,thumbsize-20702,width-1280,height-720,resizemode-75/153014096.jpg",
-            "publishedAt": "2025-10-17 07:11:10"
-        },
-        {
-            "source": {
-                "name": "republicworld"
-            },
-            "title": "Oppo Find X9 Series India Launch Soon: What to Expect",
-            "url": "https://www.republicworld.com/tech/oppo-find-x9-series-india-launch-soon-what-to-expect",
-            "urlToImage": "https://img.republicworld.com/all_images/oppo-find-x9-1760684311750-16_9.webp?format=webp&h=720&q=75&w=1280",
-            "publishedAt": "2025-10-17 06:58:37"
-        },
-        {
-            "source": {
-                "name": "expresscomputer"
-            },
-            "title": "The intelligent evolution: How AI is redefining telecom",
-            "url": "https://www.expresscomputer.in/news/the-intelligent-evolution-how-ai-is-redefining-telecom/128707/",
-            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2025/06/26120025/EC_Cloud_Technology_750.jpg",
-            "publishedAt": "2025-10-17 06:06:21"
-        },
-        {
-            "source": {
-                "name": "analyticsindiamag"
-            },
-            "title": "Anthropic Gives Claude New ‘Agent Skills’ to Master Real-World Tasks",
-            "url": "https://analyticsindiamag.com/ai-news-updates/anthropic-gives-claude-new-agent-skills-to-master-real-world-tasks/",
-            "urlToImage": "https://analyticsindiamag.com/wp-content/uploads/2025/02/Anthropic-Claude-3.7-Sonnet-Is-the-Best-Model-For-Coding-Say-Several-Users.jpg",
-            "publishedAt": "2025-10-17 06:02:04"
-        },
-        {
-            "source": {
-                "name": "postregister"
-            },
-            "title": "AP Technology SummaryBrief at 1:16 a.m. EDT",
-            "url": "https://www.postregister.com/businessreport/business/ap-technology-summarybrief-at-1-16-a-m-edt/article_82f43377-13fb-5820-88c6-ab9d6e4e12fe.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
-            "publishedAt": "2025-10-17 05:16:44"
-        },
-        {
-            "source": {
-                "name": "messenger_inquirer"
-            },
-            "title": "AP Technology SummaryBrief at 1:16 a.m. EDT",
-            "url": "https://www.messenger-inquirer.com/ap/elections/ap-technology-summarybrief-at-1-16-a-m-edt/article_8597fb77-8b89-59a9-ac5f-8a3f4b543c6a.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/messenger-inquirer.com/content/tncms/custom/image/a2a4b15c-9ead-11ee-847f-2b2be1350ebd.jpg?resize=600%2C338",
-            "publishedAt": "2025-10-17 05:16:44"
-        },
-        {
-            "source": {
-                "name": "geeky_gadgets"
-            },
-            "title": "Apple Launched 3 M5 Devices: Here is EVERYTHING You Need To Know",
-            "url": "https://www.geeky-gadgets.com/m5-ipad-pro-macbook-pro-vision-pro/",
-            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/10/apple-m5-chip-performance-devices.webp",
-            "publishedAt": "2025-10-17 05:00:41"
-        },
-        {
-            "source": {
-                "name": "news9live"
-            },
-            "title": "Apple’s M5 MacBook Air set for spring 2026 launch; Touch-screen MacBook Pro in pipeline",
-            "url": "https://www.news9live.com/technology/tech-news/apples-m5-macbook-air-set-for-spring-2026-launch-touch-screen-macbook-pro-in-pipeline-2897762",
-            "urlToImage": "https://images.news9live.com/wp-content/uploads/2025/08/MacBook-M4.png?enlarge=true&w=802",
-            "publishedAt": "2025-10-17 04:54:00"
         }
     ]
 }
