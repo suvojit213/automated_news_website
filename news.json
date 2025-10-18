@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-10-18T21:12:20.077894Z",
+    "lastUpdatedAt": "2025-10-18T22:13:16.832500Z",
     "articles": [
+        {
+            "source": {
+                "id": "fca9664a9e215efa308045911cfc7fc3",
+                "name": "Star Tribune",
+                "url": "https://www.startribune.com",
+                "country": "us"
+            },
+            "title": "What the dot-com bubble can teach investors worried about AI",
+            "url": "https://www.startribune.com/dot-come-bubble-burst-ai-investing-magnificent-seven-tech/601484804",
+            "urlToImage": "https://arc.stimg.co/startribunemedia/7Z6P7K4K75HKBNUKD3W2MLN5TA.jpg?&w=1200&ar=1.91:1&fit=crop",
+            "publishedAt": "2025-10-18T10:00:00Z"
+        },
+        {
+            "source": {
+                "id": "e9207083a357fb7e76b38e485888ebe7",
+                "name": "manilastandard.net",
+                "url": "https://manilastandard.net",
+                "country": "ph"
+            },
+            "title": "Creating a ‘Better Today’: cybersecurity caravan reaches the youth",
+            "url": "https://manilastandard.net/tech/tech-news/314656719/creating-a-better-today-cybersecurity-caravan-reaches-the-youth.html",
+            "urlToImage": "https://cdn.manilastandard.net/wp-content/uploads/2025/10/Elijah-Mendoza-2.jpg",
+            "publishedAt": "2025-10-18T09:54:46Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "ASTRI Showcases Six Innovative Technologies at InnoCarnival",
+            "url": "https://www.manilatimes.net/2025/10/18/tmt-newswire/pr-newswire/astri-showcases-six-innovative-technologies-at-innocarnival/2203423",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/10/18/788405.jpg",
+            "publishedAt": "2025-10-18T09:35:59Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "The Rise of Generative AI: How It’s Reshaping Technology and Everyday Life",
+            "url": "https://techbullion.com/the-rise-of-generative-ai-how-its-reshaping-technology-and-everyday-life/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/10/960x0-2.webp",
+            "publishedAt": "2025-10-18T09:25:45Z"
+        },
         {
             "source": {
                 "id": "c73686fdf0e30639d57eddaf7a77236e",
@@ -348,6 +396,51 @@
             "url": "https://www.forbes.com/sites/lanceeliot/2025/10/18/agi-and-ai-superintelligence-could-spawn-a-new-kind-of-alien-intelligence/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68756e49105ac51109b35b70/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-10-18T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "Some people struggle with using phones — these are the devices, case and accessories I turn to for better accessibility",
+            "url": "https://www.tomsguide.com/phones/some-people-struggle-with-using-phones-these-are-the-devices-case-and-accessories-i-turn-to-for-better-accessibility",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/tjECFBZYnTUePmwAZAfaZV-1280-80.jpg",
+            "publishedAt": "2025-10-18 09:30:00"
+        },
+        {
+            "source": {
+                "name": "zephyrnet"
+            },
+            "title": "Quantum Metal Revolutionizes Electrical Conductivity",
+            "url": "https://zephyrnet.com/quantum-metal-revolutionizes-electrical-conductivity/",
+            "urlToImage": "https://zephyrnet.com/wp-content/uploads/img-czS21YCmlc5eY5mC4vPC7bA3.png",
+            "publishedAt": "2025-10-18 09:16:29"
+        },
+        {
+            "source": {
+                "name": "en_prnasisa"
+            },
+            "title": "ASTRI Showcases Six Innovative Technologies at InnoCarnival",
+            "url": "https://en.prnasia.com/story/507722-0.shtml",
+            "urlToImage": "https://mma.prnasia.com/media2/2799717/1.jpg?p=medium600",
+            "publishedAt": "2025-10-18 09:15:00"
+        },
+        {
+            "source": {
+                "name": "prnewswire_apac"
+            },
+            "title": "ASTRI Showcases Six Innovative Technologies at InnoCarnival",
+            "url": "https://www.prnewswire.com/apac/news-releases/astri-showcases-six-innovative-technologies-at-innocarnival-302588186.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2799717/1.jpg?p=original",
+            "publishedAt": "2025-10-18 09:15:00"
+        },
+        {
+            "source": {
+                "name": "worldpharmatoday"
+            },
+            "title": "Injectable Drug Delivery System Innovations",
+            "url": "https://www.worldpharmatoday.com/drug-research/injectable-drug-delivery-system-innovations/",
+            "urlToImage": "https://www.worldpharmatoday.com/wp-content/uploads/2025/10/4.-injectable-delivery-systems.jpg",
+            "publishedAt": "2025-10-18 09:12:29"
         },
         {
             "source": {
@@ -3282,87 +3375,6 @@
             "url": "https://www.etvbharat.com/en/bharat/dgca-rolls-out-auto-computer-number-generation-facility-for-flight-crew-exam-candidates-enn25101705829",
             "urlToImage": "https://imgs.etvbharat.com/etvbharat/prod-images/17-10-2025/1200-675-25229321-849-25229321-1760715524722.jpg",
             "publishedAt": "2025-10-17 15:39:45"
-        },
-        {
-            "source": {
-                "name": "executivebiz"
-            },
-            "title": "Cubic DTECH’s Fusion eHPC Platform Earns AWS IoT Greengrass Certification for Edge Operations",
-            "url": "https://www.executivebiz.com/articles/cubic-dtech-fusion-ehpc-aws-iot-greengrass",
-            "urlToImage": "https://www.executivebiz.com/wp-content/uploads/2025/10/anthony-verna-svp-general-manager-cubic-dtech.jpg",
-            "publishedAt": "2025-10-17 15:18:16"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Apple’s M5 Chip Delivers 4x GPU Power for On-Device AI Advancements",
-            "url": "https://www.webpronews.com/apples-m5-chip-delivers-4x-gpu-power-for-on-device-ai-advancements/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-ed5d2e17-9b65-49d2-9eef-32e7d2913d63.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-10-17 15:15:00"
-        },
-        {
-            "source": {
-                "name": "menafn"
-            },
-            "title": "Nvidia's Ecosystem Years Ahead Of Competitors, Says Jefferies: Report",
-            "url": "https://menafn.com/1110212461/Nvidias-Ecosystem-Years-Ahead-Of-Competitors-Says-Jefferies-Report",
-            "urlToImage": "https://menafn.com/updates/pr/2025-10/17/AN_web-p_b29c5image_story.webp",
-            "publishedAt": "2025-10-17 15:13:45"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "Global Phase Change Memory Market Analysis 2025-2031: Innovations, Applications, and Market Forecast | Valuates Reports",
-            "url": "https://www.prnewswire.com/news-releases/global-phase-change-memory-market-analysis-2025-2031-innovations-applications-and-market-forecast--valuates-reports-302587725.html",
-            "urlToImage": "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=original",
-            "publishedAt": "2025-10-17 15:13:00"
-        },
-        {
-            "source": {
-                "name": "androidheadlines"
-            },
-            "title": "Best Samsung Phones for 2025",
-            "url": "https://www.androidheadlines.com/best-samsung-phones",
-            "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2025/01/Samsung-Galaxy-S25-ultra-AM-AH-09-1420x799.webp",
-            "publishedAt": "2025-10-17 15:11:12"
-        },
-        {
-            "source": {
-                "name": "wvnews"
-            },
-            "title": "The 14th MINA International Smartphone Film Festival is co-presented by SmallRig, a global leader in innovative imaging solutions",
-            "url": "https://www.wvnews.com/news/around_the_web/partners/pr_newswire/subject/tradeshow_news/the-14th-mina-international-smartphone-film-festival-is-co-presented-by-smallrig-a-global-leader/article_5a8562f0-9cd8-58e1-8dbb-02d032f774cd.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/assets/v3/editorial/6/12/61262b45-87ae-5f3a-a6a7-d5c4d39907d3/68f25d7ed79be.image.jpg?resize=300%2C162",
-            "publishedAt": "2025-10-17 15:10:00"
-        },
-        {
-            "source": {
-                "name": "futurism"
-            },
-            "title": "ChatGPT Is Already Stalling Out on New Subscribers",
-            "url": "https://futurism.com/artificial-intelligence/chatgpt-stalling-new-subscribers",
-            "urlToImage": "https://futurism.com/wp-content/uploads/2025/10/chatgpt-stalling-new-subscribers.jpg?quality=85",
-            "publishedAt": "2025-10-17 15:05:32"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "Google Deepmind Is Using AI To Build A Better Fusion Reactor",
-            "url": "https://www.forbes.com/sites/the-prototype/2025/10/17/google-deepmind-is-using-ai-to-build-a-better-fusion-reactor/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68f1b990d346e63f51b2df7b/0x0.jpg?width=960",
-            "publishedAt": "2025-10-17 15:00:09"
-        },
-        {
-            "source": {
-                "name": "benzinga"
-            },
-            "title": "The 14th MINA International Smartphone Film Festival is co-presented by SmallRig, a global leader in innovative imaging solutions",
-            "url": "https://www.benzinga.com/pressreleases/25/10/n48276778/the-14th-mina-international-smartphone-film-festival-is-co-presented-by-smallrig-a-global-leader-i",
-            "urlToImage": "https://mma.prnewswire.com/media/2799251/The_14th_MINA_Smartphone_Film_Festival_co_presented_SmallRig.jpg",
-            "publishedAt": "2025-10-17 14:48:00"
         }
     ]
 }
