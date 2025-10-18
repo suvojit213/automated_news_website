@@ -1,6 +1,114 @@
 {
-    "lastUpdatedAt": "2025-10-18T08:18:21.985625Z",
+    "lastUpdatedAt": "2025-10-18T09:14:27.160963Z",
     "articles": [
+        {
+            "source": {
+                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
+                "name": "ABC (Australian Broadcasting Corporation)",
+                "url": "https://www.abc.net.au",
+                "country": "au"
+            },
+            "title": "AI tech takes on one of NSW's deadliest rock fishing spots",
+            "url": "https://www.abc.net.au/news/2025-10-18/ai-camera-trial-rock-fishing-safety-nsw/105902900",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/d87c3fbe1bd570a8c17f4a4d4956ae9e?impolicy=wcms_watermark_news&cropH=675&cropW=1200&xPos=0&yPos=4&width=862&height=485&imformat=generic",
+            "publishedAt": "2025-10-17T21:11:19Z"
+        },
+        {
+            "source": {
+                "id": "9f53afb019d44feb16bcc7da150e679a",
+                "name": "Baltimore News",
+                "url": "https://foxbaltimore.com",
+                "country": "us"
+            },
+            "title": "Army uses artificial intelligence for officer promotions",
+            "url": "https://foxbaltimore.com/station/share/army-uses-artificial-intelligence-for-officer-promotions-ai-military-use",
+            "urlToImage": "https://foxbaltimore.com/resources/media2/16x9/5802/986/0x1/90/000b7680-7a90-4a9a-865e-d9ff71a99807-GettyImages2236280707.jpg",
+            "publishedAt": "2025-10-17T21:08:33Z"
+        },
+        {
+            "source": {
+                "id": "2f5884e252590f739df55c0e7db375df",
+                "name": "WJLA",
+                "url": "https://wjla.com",
+                "country": "us"
+            },
+            "title": "Army uses artificial intelligence for officer promotions",
+            "url": "https://wjla.com/news/nation-world/army-uses-artificial-intelligence-for-officer-promotions-ai-military-use",
+            "urlToImage": "https://wjla.com/resources/media2/16x9/5802/986/0x1/90/000b7680-7a90-4a9a-865e-d9ff71a99807-GettyImages2236280707.jpg",
+            "publishedAt": "2025-10-17T21:08:33Z"
+        },
+        {
+            "source": {
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
+            },
+            "title": "Artificial intelligence in S’pore classrooms: How do we know it’s making a difference for teachers?",
+            "url": "https://www.straitstimes.com/singapore/parenting-education/artificial-intelligence-in-spore-classrooms-how-do-we-know-its-making-a-difference-for-teachers",
+            "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/95aff0603dbbadc52848d591416c42fd7fc3fdd6095c713214b1fa6293d15547",
+            "publishedAt": "2025-10-17T21:00:00Z"
+        },
+        {
+            "source": {
+                "id": "2868e31f7a791b3a2bcc807e4cc74f2c",
+                "name": "USA Herald",
+                "url": "https://usaherald.com",
+                "country": "us"
+            },
+            "title": "Artists and Writers Seek Class Certification in Google AI Copyright Lawsuit",
+            "url": "https://usaherald.com/artists-and-writers-seek-class-certification-in-google-ai-copyright-lawsuit/",
+            "urlToImage": "https://usaherald.com/wp-content/uploads/2017/09/usa_favicon32.png",
+            "publishedAt": "2025-10-17T20:49:36Z"
+        },
+        {
+            "source": {
+                "id": "2868e31f7a791b3a2bcc807e4cc74f2c",
+                "name": "USA Herald",
+                "url": "https://usaherald.com",
+                "country": "us"
+            },
+            "title": "Independent Songwriters Sue AI Music Generator Suno, Alleging Copyright Infringement",
+            "url": "https://usaherald.com/independent-songwriters-sue-ai-music-generator-suno-alleging-copyright-infringement/",
+            "urlToImage": "https://usaherald.com/wp-content/uploads/2017/09/usa_favicon32.png",
+            "publishedAt": "2025-10-17T20:47:04Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Nvidia, TSMC Unveiling First US-Made Blackwell Chip Wafer",
+            "url": "https://www.marketscreener.com/news/nvidia-tsmc-unveiling-first-us-made-blackwell-chip-wafer-ce7d5adddf8af02c",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2025-10-17T20:39:09Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Govt developing India-based AI datasets: MoS for IT & electronics",
+            "url": "https://timesofindia.indiatimes.com/city/dehradun/govt-developing-india-based-ai-datasets-mos-for-it-electronics/articleshow/124639063.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-117727003,width-1070,height-580,imgsize-38578,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-10-17T20:30:00Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "Meta adds parental controls for AI-teen interactions",
+            "url": "https://japantoday.com/category/tech/meta-adds-parental-controls-for-ai-teen-interactions",
+            "urlToImage": "https://media.japantoday.com/img/store/58/84/9c560139ec9f031b9e51bf8fdaa1037a24b3/download/_w1700.jpeg",
+            "publishedAt": "2025-10-17T20:20:00Z"
+        },
         {
             "source": {
                 "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
@@ -2043,6 +2151,51 @@
         },
         {
             "source": {
+                "name": "thenewsmill"
+            },
+            "title": "DGCA begins auto-generation of computer numbers for flight crew through Pariksha website",
+            "url": "https://thenewsmill.com/2025/10/dgca-begins-auto-generation-of-computer-numbers-for-flight-crew-through-pariksha-website/",
+            "urlToImage": "https://thenewsmill.com/wp-content/uploads/2025/10/ANI-20251017205818.jpg",
+            "publishedAt": "2025-10-17 21:11:33"
+        },
+        {
+            "source": {
+                "name": "fstoppers"
+            },
+            "title": "5 More Cameras That Were Ahead of Their Time",
+            "url": "https://fstoppers.com/historical/5-more-cameras-were-ahead-their-time-713130",
+            "urlToImage": "https://cdn.fstoppers.com/styles/large-16-9/s3/lead/2025/10/ing_18944_07413.jpg",
+            "publishedAt": "2025-10-17 21:00:01"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "OpenAI’s $500B Stargate: Massive AI Data Centers in US, UAE, Argentina",
+            "url": "https://www.webpronews.com/openais-500b-stargate-massive-ai-data-centers-in-us-uae-argentina/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-04ef1189-00ac-4c34-8f41-f7a3dcc97667.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-10-17 20:59:31"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Microsoft Revamps Windows 11 with AI Features Amid Privacy Concerns",
+            "url": "https://www.webpronews.com/microsoft-revamps-windows-11-with-ai-features-amid-privacy-concerns/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-22e5f743-1cd6-43a9-8f94-7d153b098884.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-10-17 20:58:37"
+        },
+        {
+            "source": {
+                "name": "notebookcheck"
+            },
+            "title": "TSMC accelerates 2 nm chip production and U.S. expansion as the global race for next-gen AI processors heats up",
+            "url": "https://www.notebookcheck.net/TSMC-accelerates-2-nm-chip-production-and-U-S-expansion-as-the-global-race-for-next-gen-AI-processors-heats-up.1141018.0.html",
+            "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Ariel-view-of-TSMC-factory-in-Arizonia-under-construction-Image-source-TSMC.jpg",
+            "publishedAt": "2025-10-17 20:43:00"
+        },
+        {
+            "source": {
                 "name": "cnet"
             },
             "title": "Agentic AI Is Here to Improve Your Life, You Just Have to Believe in It",
@@ -3084,132 +3237,6 @@
             "url": "https://www.newswise.com/articles/rare-earth-coating-helps-seawater-electrolysis-resist-corrosion-paving-the-way-for-cleaner-hydrogen/?sc=rssn",
             "urlToImage": "https://www.newswise.com/legacy/image.php?height=334&image=%2Fimages%2Fuploads%2F2025%2F10%2F16%2F68f19b0007755_9-1.jpg&width=502",
             "publishedAt": "2025-10-17 02:35:56"
-        },
-        {
-            "source": {
-                "name": "newsable_asianetnews"
-            },
-            "title": "Meta Stock In Focus: Social Media Giant Reportedly Eyes $30B Mega Financing Deal To Power Massive Louisiana AI Data Center",
-            "url": "https://newsable.asianetnews.com/markets/meta-stock-in-focus-social-media-giant-reportedly-eyes-30b-mega-financing-deal-to-power-massive-louisiana-ai-data-center-articleshow-4yqud1u",
-            "urlToImage": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-c4abdc68-a0db-468a-86fa-dcf92b7c06d6.webp",
-            "publishedAt": "2025-10-17 02:35:04"
-        },
-        {
-            "source": {
-                "name": "economictimes_indiatimes"
-            },
-            "title": "OxygenOS 16: OnePlus’s smartest, smoothest software yet with smarter AI, refined design & more - all you need to know",
-            "url": "https://economictimes.indiatimes.com/news/new-updates/oxygenos-16-onepluss-smartest-smoothest-software-yet-with-smarter-ai-refined-design-more-all-you-need-to-know/articleshow/124618507.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-124618545,width-300,height-225,imgsize-812506,resizemode-75/oxygenos-16-launched-in-india.jpg",
-            "publishedAt": "2025-10-17 02:24:31"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "How to use ChatGPT: A beginner's guide to the most popular AI chatbot",
-            "url": "https://www.zdnet.com/article/how-to-use-chatgpt-a-beginners-guide-to-the-most-popular-ai-chatbot/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/f9e4940331c9faff27824b345b3ca734f10a93b8/2025/10/15/1fb16a17-b4f2-480a-ad1a-25ef1c590635/6.jpg?auto=webp&width=1280",
-            "publishedAt": "2025-10-17 02:00:00"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Score Big Savings: Today’s Top Gizmodo Deals on Laptops, SSDs, and More!",
-            "url": "https://techannouncer.com/score-big-savings-todays-top-gizmodo-deals-on-laptops-ssds-and-more/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/10/21791bdfthumbnail-332x187.jpeg",
-            "publishedAt": "2025-10-17 01:59:13"
-        },
-        {
-            "source": {
-                "name": "livemint"
-            },
-            "title": "OnePlus OxygenOS 16 now available to install: Availability, top features, design & more",
-            "url": "https://www.livemint.com/technology/tech-news/oneplus-oxygenos-16-now-available-to-install-availability-top-features-design-more-11760665660107.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2025/10/17/1600x900/image013_1760665909802_1760665917161.png",
-            "publishedAt": "2025-10-17 01:58:39"
-        },
-        {
-            "source": {
-                "name": "newswise"
-            },
-            "title": "Social Conflict Among Strongest Predictors of Teen Mental Health Concerns",
-            "url": "https://www.newswise.com/articles/social-conflict-among-strongest-predictors-of-teen-mental-health-concerns/?sc=rsla",
-            "urlToImage": "https://www.newswise.com/legacy/image.php?height=334&image=%2Fimages%2Fuploads%2F2025%2F10%2F16%2F68f14be873c07_Karcher-Adolescent-Mental-Health.jpg&width=502",
-            "publishedAt": "2025-10-17 01:48:40"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Mastering LeetCode: Comprehensive Python Solutions and Strategies",
-            "url": "https://techannouncer.com/mastering-leetcode-comprehensive-python-solutions-and-strategies/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/10/fd5c6c6dthumbnail-332x187.jpeg",
-            "publishedAt": "2025-10-17 01:13:09"
-        },
-        {
-            "source": {
-                "name": "prnewswire_apac"
-            },
-            "title": "Amazon sets new GUINNESS WORLD RECORDS® for Gen AI Apps with schools in West Java",
-            "url": "https://www.prnewswire.com/apac/news-releases/amazon-sets-new-guinness-world-records-for-gen-ai-apps-with-schools-in-west-java-302586265.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2798012/AWS___Foto_1.jpg?p=original",
-            "publishedAt": "2025-10-17 01:00:00"
-        },
-        {
-            "source": {
-                "name": "en_prnasisa"
-            },
-            "title": "Amazon sets new GUINNESS WORLD RECORDS® for Gen AI Apps with schools in West Java",
-            "url": "https://en.prnasia.com/story/507538-0.shtml",
-            "urlToImage": "https://mma.prnasia.com/media2/2798012/AWS___Foto_1.jpg?p=medium600",
-            "publishedAt": "2025-10-17 01:00:00"
-        },
-        {
-            "source": {
-                "name": "newsx"
-            },
-            "title": "Automaker group warns Nexperia chip supply issue could quickly disrupt US production",
-            "url": "https://www.newsx.com/business/automaker-group-warns-nexperia-chip-supply-issue-could-quickly-disrupt-us-production-2-93550/",
-            "urlToImage": "https://www.newsx.com/wp-content/uploads/2025/09/news-x.avif",
-            "publishedAt": "2025-10-17 00:41:19"
-        },
-        {
-            "source": {
-                "name": "messenger_inquirer"
-            },
-            "title": "AP Technology SummaryBrief at 8:41 p.m. EDT",
-            "url": "https://www.messenger-inquirer.com/ap/elections/ap-technology-summarybrief-at-8-41-p-m-edt/article_8de1d912-79c1-5ef7-b4b9-5eea4fdf3189.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/messenger-inquirer.com/content/tncms/custom/image/a2a4b15c-9ead-11ee-847f-2b2be1350ebd.jpg?resize=600%2C338",
-            "publishedAt": "2025-10-17 00:41:06"
-        },
-        {
-            "source": {
-                "name": "postregister"
-            },
-            "title": "AP Technology SummaryBrief at 8:41 p.m. EDT",
-            "url": "https://www.postregister.com/businessreport/business/ap-technology-summarybrief-at-8-41-p-m-edt/article_44afe283-9dbb-5de9-9f1f-b7561602f408.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
-            "publishedAt": "2025-10-17 00:41:06"
-        },
-        {
-            "source": {
-                "name": "headtopics"
-            },
-            "title": "Brain Cells on a Computer Chip Offer Advanced Medical Treatments and Use Less Energy",
-            "url": "https://us.headtopics.com/news/brain-cells-on-a-computer-chip-offer-advanced-medical-74500979",
-            "urlToImage": "https://i.headtopics.com/images/2025/10/15/kslcom/ogden-man-charged-with-drug-trafficking-after-poli-ogden-man-charged-with-drug-trafficking-after-poli-357CD7E406324824238872CD92719616.webp?w=640",
-            "publishedAt": "2025-10-17 00:10:01"
-        },
-        {
-            "source": {
-                "name": "businessinsider_us"
-            },
-            "title": "China turned livestreaming into a 24-hour sleepless hydra of a selling machine. Now the US is catching up.",
-            "url": "https://www.businessinsider.com/china-livestreaming-sleepless-selling-machine-us-catching-up-2025-10",
-            "urlToImage": "https://i.insider.com/68ee45ef5dbc4fd10daacae2?width=700",
-            "publishedAt": "2025-10-17 00:08:01"
         }
     ]
 }
