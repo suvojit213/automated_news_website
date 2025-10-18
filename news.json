@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-10-18T20:15:20.480270Z",
+    "lastUpdatedAt": "2025-10-18T21:12:20.077894Z",
     "articles": [
+        {
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            },
+            "title": "Mark Benioff says AI cannot replace human touch, Salesforce hiring thousands of new salespeople",
+            "url": "https://www.indiatoday.in/technology/news/story/mark-benioff-says-ai-cannot-replace-human-touch-salesforce-hiring-thousands-of-new-salespeople-2805103-2025-10-18",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202510/salesforce-ceo-marc-benioff-154242607-16x9.jpg?VersionId=B60w1.anNL0tkJxmCCFq2wZPU6S7M.4g",
+            "publishedAt": "2025-10-18T09:08:57Z"
+        },
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            },
+            "title": "Does A.I. Count as Art? Ask the Curators",
+            "url": "https://www.nytimes.com/2025/10/18/arts/design/artificial-intelligence-art-museums.html",
+            "urlToImage": "https://static01.nyt.com/images/2025/10/19/multimedia/19sp-finearts-AI-01-kvzt/19sp-finearts-AI-01-kvzt-facebookJumbo.jpg",
+            "publishedAt": "2025-10-18T09:01:30Z"
+        },
+        {
+            "source": {
+                "id": "69a24b80e5bce5a07f808f5ea84c434b",
+                "name": "Arkansas Online",
+                "url": "https://www.arkansasonline.com",
+                "country": "us"
+            },
+            "title": "AI ad flips quotes back on Schumer",
+            "url": "https://www.arkansasonline.com/news/2025/oct/18/ai-ad-flips-quotes-back-on-schumer/",
+            "urlToImage": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/211319526_211318704-68daf6b5c9904e29b325669380fb33f6_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
+            "publishedAt": "2025-10-18T09:01:00Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "Artificial intelligence, Armageddon and the Antichrist",
+            "url": "https://www.livemint.com/ai/artificial-intelligence-armageddon-and-the-antichrist-11760763173506.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2025/10/18/1600x900/im-57793065_1760763177584_1760764301047.jpg",
+            "publishedAt": "2025-10-18T08:30:05Z"
+        },
         {
             "source": {
                 "id": "c45dc51281d68ce51bff0cc4fe959bbf",
@@ -300,6 +348,51 @@
             "url": "https://www.forbes.com/sites/lanceeliot/2025/10/18/agi-and-ai-superintelligence-could-spawn-a-new-kind-of-alien-intelligence/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68756e49105ac51109b35b70/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-10-18T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "theguardian"
+            },
+            "title": "Happy birthday to the NES, companion to millions of Nintendo childhoods",
+            "url": "https://www.theguardian.com/games/2025/oct/18/happy-birthday-to-the-nes-nintendo-entertainment-system-40",
+            "urlToImage": "https://i.guim.co.uk/img/media/cdcc94269ec49b482e718ed6587ff888ce6d954e/414_0_4321_3456/master/4321.jpg?crop=none&dpr=2&s=none&width=1300",
+            "publishedAt": "2025-10-18 09:00:41"
+        },
+        {
+            "source": {
+                "name": "phys"
+            },
+            "title": "Saturday Citations: Yet another solution for universal expansion; computing with brain organoids",
+            "url": "https://phys.org/news/2025-10-saturday-citations-solution-universal-expansion.html",
+            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2025/saturday-citations-yet.jpg",
+            "publishedAt": "2025-10-18 09:00:02"
+        },
+        {
+            "source": {
+                "name": "wired"
+            },
+            "title": "Need Something Repaired? Now There’s an App for That",
+            "url": "https://www.wired.com/story/the-repair-app/",
+            "urlToImage": "https://media.wired.com/photos/68f26d26cbdfcd4e13e3b853/master/w_120,c_limit/Repair-App-Helps-You-Find-Trusted-People-to-Fix-Broken-Tech-Gear--2168642270.jpg",
+            "publishedAt": "2025-10-18 09:00:00"
+        },
+        {
+            "source": {
+                "name": "businessinsider_us"
+            },
+            "title": "I'm a Stanford professor and AI startup cofounder. Here's how to get a job at an AI company.",
+            "url": "https://www.businessinsider.com/stanford-professor-gives-advice-getting-job-in-ai-2025-10",
+            "urlToImage": "https://i.insider.com/68f26785cc993f9955d066a7?width=700",
+            "publishedAt": "2025-10-18 08:56:01"
+        },
+        {
+            "source": {
+                "name": "scroll"
+            },
+            "title": "US court bans NSO Group from using spyware to target WhatsApp users",
+            "url": "https://scroll.in/latest/1087802/us-court-bans-nso-group-from-using-spyware-to-target-whatsapp-users",
+            "urlToImage": "https://sc0.blr1.cdn.digitaloceanspaces.com/article/167121-uvuiimclmo-1638600058.jpg",
+            "publishedAt": "2025-10-18 08:54:00"
         },
         {
             "source": {
@@ -3270,87 +3363,6 @@
             "url": "https://www.benzinga.com/pressreleases/25/10/n48276778/the-14th-mina-international-smartphone-film-festival-is-co-presented-by-smallrig-a-global-leader-i",
             "urlToImage": "https://mma.prnewswire.com/media/2799251/The_14th_MINA_Smartphone_Film_Festival_co_presented_SmallRig.jpg",
             "publishedAt": "2025-10-17 14:48:00"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "Nancy Avila On The Rise Of Agentic AI At Analog Devices",
-            "url": "https://www.forbes.com/sites/peterhigh/2025/10/17/nancy-avila-on-the-rise-of--agentic-ai-at-analog-devices/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68f23415489e8eac17b58df2/0x0.jpg?width=960",
-            "publishedAt": "2025-10-17 14:44:05"
-        },
-        {
-            "source": {
-                "name": "thestreet"
-            },
-            "title": "Semiconductor giant unveils next-gen physical AI solution",
-            "url": "https://www.thestreet.com/technology/semiconductor-giant-unveils-next-gen-physical-ai-solution",
-            "urlToImage": "https://www.thestreet.com/.image/c_fit,h_800,w_1200/MjAwNzk5MzIxOTUwNTI4NzE2/ik_ailead_09142023.jpg",
-            "publishedAt": "2025-10-17 14:33:00"
-        },
-        {
-            "source": {
-                "name": "macworld"
-            },
-            "title": "Best iPad Deals: Don’t pay full price for a new iPad",
-            "url": "https://www.macworld.com/article/677736/best-ipad-deals-air-pro-mini.html",
-            "urlToImage": "https://www.macworld.com/wp-content/uploads/2025/10/iPad-deals-Macworld-1-1.jpg?quality=50&strip=all&w=1024",
-            "publishedAt": "2025-10-17 14:16:15"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Navigating Your Options: Finding the Best Quantum Physics Colleges for Your Future",
-            "url": "https://techannouncer.com/navigating-your-options-finding-the-best-quantum-physics-colleges-for-your-future/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/10/05ee58f7thumbnail-332x187.jpeg",
-            "publishedAt": "2025-10-17 14:11:06"
-        },
-        {
-            "source": {
-                "name": "techtarget"
-            },
-            "title": "AI's effect on jobs not what expected, Yale study finds",
-            "url": "https://www.techtarget.com/searchenterpriseai/feature/AIs-effect-on-jobs-not-what-expected-Yale-study-finds",
-            "urlToImage": "https://cdn.ttgtmedia.com/rms/onlineimages/yasar_kinza.jpg",
-            "publishedAt": "2025-10-17 14:07:00"
-        },
-        {
-            "source": {
-                "name": "insider"
-            },
-            "title": "Who will rule Cloud 2.0 in the AI era? It might not be Amazon.",
-            "url": "https://www.businessinsider.com/cloud-ai-era-amazon-aws-might-not-rule-2025-10",
-            "urlToImage": "https://i.insider.com/68f15fc91c1f80efbec5c143?width=700",
-            "publishedAt": "2025-10-17 14:02:01"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "AI In Your Line Of Sight: Why Smart Glasses Are Tech's Next Platform",
-            "url": "https://www.forbes.com/sites/timbajarin/2025/10/17/ai-in-your-line-of-sight-why-smart-glasses-are-techs-next-platform/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68f1a1436954cc619e6af8bd/0x0.jpg?width=960",
-            "publishedAt": "2025-10-17 14:00:00"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Unpacking the Most Impactful Technology Invention of 2017",
-            "url": "https://techannouncer.com/unpacking-the-most-impactful-technology-invention-of-2017/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/10/4fb24c8cthumbnail-332x187.jpeg",
-            "publishedAt": "2025-10-17 13:50:04"
-        },
-        {
-            "source": {
-                "name": "businessinsider_us"
-            },
-            "title": "I'm Gen Z and don't use a smartphone or social media. It's made me more extroverted and led to deeper friendships.",
-            "url": "https://www.businessinsider.com/gen-z-no-smartphone-social-media-friends-2025-10",
-            "urlToImage": "https://i.insider.com/68f155a11c1f80efbec5bf95?width=700",
-            "publishedAt": "2025-10-17 13:45:57"
         }
     ]
 }
