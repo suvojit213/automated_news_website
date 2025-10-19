@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-10-19T10:14:26.435953Z",
+    "lastUpdatedAt": "2025-10-19T11:11:11.491448Z",
     "articles": [
+        {
+            "source": {
+                "id": "b419a989918b3665a34559f5047546b6",
+                "name": "The Sunday Times",
+                "url": "https://www.thetimes.com",
+                "country": "gb"
+            },
+            "title": "How well founded are fears of a dotcom-style AI bubble?",
+            "url": "https://www.thetimes.com/comment/columnists/article/how-well-founded-are-fears-of-a-dotcom-style-ai-bubble-rfkr2l0ct",
+            "urlToImage": "https://www.thetimes.com/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F73278d69-7fc7-44d3-88de-0086996c19cc.jpg?crop=2134%2C1200%2C0%2C0&resize=1200",
+            "publishedAt": "2025-10-18T23:00:00Z"
+        },
         {
             "source": {
                 "id": "11d4381a1e8f7aca7628d0319a52a040",
@@ -696,6 +708,24 @@
             "url": "https://www.forbes.com/sites/lanceeliot/2025/10/18/agi-and-ai-superintelligence-could-spawn-a-new-kind-of-alien-intelligence/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68756e49105ac51109b35b70/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-10-18T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "devdiscourse"
+            },
+            "title": "African languages for AI: project that's gathering huge new dataset",
+            "url": "https://www.devdiscourse.com/article/technology/3667464-african-languages-for-ai-project-thats-gathering-huge-new-dataset",
+            "urlToImage": "https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_34_04_2312796.png",
+            "publishedAt": "2025-10-18 22:53:33"
+        },
+        {
+            "source": {
+                "name": "slashgear"
+            },
+            "title": "What Is A Neural Engine & How Do NPUs Differ From GPUs?",
+            "url": "https://www.slashgear.com/1997513/what-is-a-neural-engine-how-npu-different-than-gpu/",
+            "urlToImage": "https://www.slashgear.com/img/gallery/what-is-a-neural-engine-how-do-npus-differ-from-gpus/l-intro-1760533964.jpg",
+            "publishedAt": "2025-10-18 22:15:00"
         },
         {
             "source": {
@@ -3336,42 +3366,6 @@
             "url": "https://www.thehindu.com/sci-tech/technology/microsoft-launches-new-ai-upgrades-to-windows-11-boosting-copilot/article70174038.ece",
             "urlToImage": "https://th-i.thgim.com/public/incoming/kpeao9/article70174039.ece/alternates/LANDSCAPE_1200/2025-10-16T130605Z_839056191_RC2LU7AFPECN_RTRMADP_3_MICROSOFT-WINDOWS-AI.JPG",
             "publishedAt": "2025-10-17T04:49:21Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "AI Boom Sparks Billion-Dollar Data Center Race in Nigeria",
-            "url": "https://www.livemint.com/technology/tech-news/ai-boom-sparks-billion-dollar-data-center-race-in-nigeria-11760674930066.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/tech4_1734536476058_1734536482186.png",
-            "publishedAt": "2025-10-17T04:22:09Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "China stocks head for worst week in 10 as trade concerns weigh",
-            "url": "https://www.devdiscourse.com/article/headlines/3665388-china-stocks-head-for-worst-week-in-10-as-trade-concerns-weigh",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_00_51_6514463.png?width=920&format=jpeg",
-            "publishedAt": "2025-10-17T04:14:46Z"
-        },
-        {
-            "source": {
-                "id": "79e9a45376a66fd7e1a4e68bba928c39",
-                "name": "The Atlanta Journal-Constitution",
-                "url": "https://www.ajc.com",
-                "country": "us"
-            },
-            "title": "Big Tech is paying millions to train teachers on AI, in a push to bring chatbots into classrooms",
-            "url": "https://www.ajc.com/news/2025/10/big-tech-is-paying-millions-to-train-teachers-on-ai-in-a-push-to-bring-chatbots-into-classrooms/",
-            "urlToImage": "https://www.ajc.com/resizer/v2/5RD4TGVSLRHDPMBUU24L2OASIQ.jpg?auth=9858149bacade55a5759d0e7091381f3ab5a319d7bc7c264a8558c421621027a&width=1200&height=630&smart=true",
-            "publishedAt": "2025-10-17T04:13:08Z"
         }
     ]
 }
