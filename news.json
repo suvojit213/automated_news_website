@@ -1,5 +1,5 @@
 {
-    "lastUpdatedAt": "2025-10-19T17:12:22.975234Z",
+    "lastUpdatedAt": "2025-10-19T18:19:47.928962Z",
     "articles": [
         {
             "source": {
@@ -63,6 +63,24 @@
         },
         {
             "source": {
+                "name": "rdrnews"
+            },
+            "title": "Working to get off the ground",
+            "url": "https://www.rdrnews.com/news/local/working-to-get-off-the-ground/article_2a046c56-70f6-4968-b59b-2b7b5ec3c99f.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/rdrnews.com/content/tncms/assets/v3/editorial/1/b8/1b831118-05d8-4f5c-9689-2abdb3443b87/68f3d67747757.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-10-19 06:00:00"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "Claude Skills are here — and they might be the smartest AI feature you’re not using yet",
+            "url": "https://www.tomsguide.com/ai/claude-skills-are-here-and-they-might-be-the-smartest-ai-feature-youre-not-using-yet",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/qmq5zC3Wt82Ws9zSyW9vh4-1280-80.png",
+            "publishedAt": "2025-10-19 05:15:00"
+        },
+        {
+            "source": {
                 "name": "indianexpress"
             },
             "title": "Ray-Ban maker shares hits all-time high as investors bet on Meta AI glasses boom",
@@ -87,6 +105,15 @@
             "url": "https://www.tomsguide.com/computing/internet/i-just-tried-united-airlines-new-in-flight-wi-fi-powered-by-starlink-and-air-travel-will-never-be-the-same",
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/m9VZhEMksRTVWmpdk5DXaU-1280-80.jpg",
             "publishedAt": "2025-10-19 04:15:00"
+        },
+        {
+            "source": {
+                "name": "venturebeat"
+            },
+            "title": "The teacher is the new engineer: Inside the rise of AI enablement and PromptOps",
+            "url": "https://venturebeat.com/ai/the-teacher-is-the-new-engineer-inside-the-rise-of-ai-enablement-and",
+            "urlToImage": "https://images.ctfassets.net/jdtwqhzvc2n1/3LM1cCj4dJrbJGr6K5iiIe/b18688f1a0faf3befb7be85063da4801/u7277289442_A_sophisticated_AI_agent_is_standing_at_the_front_a862de2f-78d6-4330-8b28-8957b27aa9e0_0.png",
+            "publishedAt": "2025-10-19 03:45:00"
         },
         {
             "source": {
@@ -3288,42 +3315,6 @@
             "url": "https://www.devdiscourse.com/article/technology/3665451-south-korea-kicks-off-arms-fair-to-showcase-unmanned-ai-weapons",
             "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_16_59_34_3794932.jpg?width=920&format=jpeg",
             "publishedAt": "2025-10-17T07:24:43Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "Spotify plans its own AI lab, promises to keep it responsible",
-            "url": "https://www.indiatoday.in/technology/news/story/spotify-plans-its-own-ai-lab-promises-to-keep-it-responsible-2804559-2025-10-17",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202510/spotify-removes-75-million-spam-tracks--brings-policies-to-target-deepfakes--fraudulent-uploads-264724251-16x9.jpg?VersionId=XWliIC_WxVp.dSbwQE3m1Qfo3.i71eSU",
-            "publishedAt": "2025-10-17T07:19:22Z"
-        },
-        {
-            "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
-                "country": "in"
-            },
-            "title": "NDTV World Summit 2025: AI Will Create More Jobs Than It Will Displace, Says Nitin Mittal",
-            "url": "https://www.ndtvprofit.com/technology/ndtv-world-summit-2025-ai-will-create-more-jobs-than-it-will-displace-says-nitin-mittal",
-            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-10-17%2Fi52edys9%2FWhatsApp-Image-2025-10-17-at-12.37.2146ff996e.jpg?rect=0%2C64%2C747%2C392&w=1200&auto=format%2Ccompress&ogImage=true",
-            "publishedAt": "2025-10-17T07:10:07Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Why your SME belongs at the ET AI Awards 2025",
-            "url": "https://economictimes.indiatimes.com/ai/ai-insights/why-your-sme-belongs-at-the-et-ai-awards-2025/articleshow/124622210.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-124622210,width-1200,height-630,imgsize-411664,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2025-10-17T07:07:00Z"
         }
     ]
 }
