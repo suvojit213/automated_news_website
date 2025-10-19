@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-10-19T15:13:13.860779Z",
+    "lastUpdatedAt": "2025-10-19T16:16:55.225035Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "AI can now solve most customer support problems, Zendesk says",
+            "url": "https://www.thestar.com.my/tech/tech-news/2025/10/19/ai-can-now-solve-most-customer-support-problems-zendesk-says",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/16/3573732.jpeg",
+            "publishedAt": "2025-10-19T04:00:00Z"
+        },
         {
             "source": {
                 "id": "4ecbadd82aa9fe7a52c0a3b5454020ab",
@@ -12,6 +24,24 @@
             "url": "https://www.aroundosceola.com/index.php/news/florida-law-targets-using-ai-nudify-peoples-photos",
             "urlToImage": "http://www.aroundosceola.com/sites/aroundosceola.com/files/4fb86fbf7c_Ar00801012.jpg",
             "publishedAt": "2025-10-19T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "I just tried United Airlines' new in-flight Wi-Fi powered by Starlink and air travel will never be the same",
+            "url": "https://www.tomsguide.com/computing/internet/i-just-tried-united-airlines-new-in-flight-wi-fi-powered-by-starlink-and-air-travel-will-never-be-the-same",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/m9VZhEMksRTVWmpdk5DXaU-1280-80.jpg",
+            "publishedAt": "2025-10-19 04:15:00"
+        },
+        {
+            "source": {
+                "name": "analyticsindiamag"
+            },
+            "title": "India’s Most Powerful AI Data Centres by Capacity",
+            "url": "https://analyticsindiamag.com/ai-trends/indias-most-powerful-ai-data-centres-by-capacity/",
+            "urlToImage": "https://analyticsindiamag.com/wp-content/uploads/2025/10/Siddharth_Biggest-AI-Data-Centres-of-India-by-Capacity.jpg",
+            "publishedAt": "2025-10-19 03:38:01"
         },
         {
             "source": {
@@ -3300,42 +3330,6 @@
             "url": "https://timesofindia.indiatimes.com/technology/tech-news/ai-investment-boom-reaches-europes-currency-market-and-the-two-biggest-winners-are-/articleshow/124621979.cms",
             "urlToImage": "https://static.toiimg.com/thumb/msid-124622002,width-1070,height-580,imgsize-64594,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
             "publishedAt": "2025-10-17T06:18:00Z"
-        },
-        {
-            "source": {
-                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-                "name": "NDTV.com",
-                "url": "https://www.ndtv.com",
-                "country": "in"
-            },
-            "title": "Nitin Mittal Says Not AI, Worry About Fellow Co-Workers Who Are Adapting",
-            "url": "https://www.ndtv.com/world-news/ndtv-world-summit-2025-nitin-mittal-says-not-ai-worry-about-fellow-co-workers-who-are-adapting-9471713",
-            "urlToImage": "https://c.ndtvimg.com/2025-10/vclocvmk_nitin-mittal-ndtv-world-summit-_650x400_17_October_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-            "publishedAt": "2025-10-17T06:09:40Z"
-        },
-        {
-            "source": {
-                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-                "name": "The Financial Express",
-                "url": "https://www.financialexpress.com",
-                "country": "in"
-            },
-            "title": "Vijay Shekhar Sharma presents Paytm’s AI Soundbox to Piyush Goyal, calls it ‘a superhuman capability’ for small businesses",
-            "url": "https://www.financialexpress.com/business/industry-vijay-shekhar-sharma-presents-paytms-ai-soundbox-to-piyush-goyal-calls-it-a-superhuman-capability-for-small-businesses-4013636/",
-            "urlToImage": "https://images.financialexpressdigital.com/2025/10/Vijay-Shekhar-Sharma-with-Piyush-Goyal.jpg",
-            "publishedAt": "2025-10-17T05:59:31Z"
-        },
-        {
-            "source": {
-                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
-                "name": "Australian Financial Review",
-                "url": "https://www.afr.com",
-                "country": "au"
-            },
-            "title": "Junk AI reports harming NDIS users: disability groups",
-            "url": "https://www.afr.com/politics/junk-ai-reports-harming-ndis-users-disability-groups-20251016-p5n33u",
-            "urlToImage": "https://static.ffx.io/images/$zoom_0.1927%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_168%2C$y_67/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/be3a0a57ff244866b635fd8ad2d53eebb7b5c40e",
-            "publishedAt": "2025-10-17T05:57:34Z"
         }
     ]
 }
