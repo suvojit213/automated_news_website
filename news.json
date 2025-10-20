@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-10-20T15:15:50.322220Z",
+    "lastUpdatedAt": "2025-10-20T16:19:14.999617Z",
     "articles": [
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "UAE: Bin Bayyah calls for establishment of global ethical framework for AI",
+            "url": "https://www.devdiscourse.com/article/international/3668056-uae-bin-bayyah-calls-for-establishment-of-global-ethical-framework-for-ai",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/20_10_2025_09_34_13_2330788.jpg?width=920&format=jpeg",
+            "publishedAt": "2025-10-20T04:04:16Z"
+        },
+        {
+            "source": {
+                "id": "dd1d806725f45e4403e75c1bb23b447a",
+                "name": "The Irish Times",
+                "url": "https://www.irishtimes.com",
+                "country": "ie"
+            },
+            "title": "Artificial intelligence chatbots replacing India’s call-centre workers",
+            "url": "https://www.irishtimes.com/business/work/2025/10/20/artificial-intelligence-chatbots-replacing-indias-call-centre-workers/",
+            "urlToImage": "https://www.irishtimes.com/resizer/v2/IV5XYVEKMZGKRCQ5T55MYZKZ5Q.jpg?smart=true&auth=1a788c0dbf625219efb84adf16289f645ed704c7401715a5e10f8aedfc6af6a0&width=1200&height=630",
+            "publishedAt": "2025-10-20T04:00:00Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "Can a machine be truly creative? Let’s ask AARON",
+            "url": "https://www.livemint.com/mint-lounge/business-of-life/maya-ackerman-creative-machines-book-excerpt-aaron-harold-cohen-11760021991838.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2025/10/09/1600x900/ai_creating_art_1760022360578_1760022374423.png",
+            "publishedAt": "2025-10-20T03:40:02Z"
+        },
+        {
+            "source": {
+                "id": "10cbfb3760cfcdeb78c733c527f0e814",
+                "name": "iTWire",
+                "url": "https://itwire.com",
+                "country": "au"
+            },
+            "title": "Referrals key for business survival as AI use overtakes Google search",
+            "url": "https://itwire.com/guest-articles/guest-opinion/referrals-key-for-business-survival-as-ai-use-overtakes-google-search.html",
+            "urlToImage": "https://itwire.com/media/k2/items/cache/71e8e8465e0a5b931efdcd770d45a828_XS.jpg",
+            "publishedAt": "2025-10-20T03:31:30Z"
+        },
         {
             "source": {
                 "id": "10cbfb3760cfcdeb78c733c527f0e814",
@@ -156,6 +204,66 @@
             "url": "https://www.globenewswire.com/news-release/2025/10/20/3169090/0/en/SOITEC-SOITEC-AND-CEA-PARTNER-TO-DEVELOP-AUTOMOTIVE-CYBERSECURITY-WITH-ADVANCED-FD-SOI-TECHNOLOGY.html",
             "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/2f60e418-440e-4e96-9048-8bafce5545a7",
             "publishedAt": "2025-10-20T00:00:00Z"
+        },
+        {
+            "source": {
+                "id": "28e6020d9bb5ca0074bc34f8478ec6b8",
+                "name": "The Pioneer",
+                "url": "https://www.dailypioneer.com",
+                "country": "in"
+            },
+            "title": "The Quantum dawn: Decoding the qubit and charting India's ambitious mission",
+            "url": "https://www.dailypioneer.com/2025/technology/the-quantum-dawn-decoding-the-qubit-and-charting--indias-ambitious-mission.html",
+            "urlToImage": "https://www.dailypioneer.com/uploads/2025/story/images/big/the-quantum-dawn--decoding-the-qubit-and-charting--india-s-ambitious-mission-2025-10-20.jpg",
+            "publishedAt": "2025-10-20T00:00:00Z"
+        },
+        {
+            "source": {
+                "id": "28e6020d9bb5ca0074bc34f8478ec6b8",
+                "name": "The Pioneer",
+                "url": "https://www.dailypioneer.com",
+                "country": "in"
+            },
+            "title": "Why identity and resilience must be India’s focus as AI raises the stakes",
+            "url": "https://www.dailypioneer.com/2025/technology/why-identity-and-resilience-must-be-indias-focus-as-ai-raises-the-stakes.html",
+            "urlToImage": "https://www.dailypioneer.com/uploads/2025/story/images/big/why-identity-and-resilience-must-be-india---s-focus-as-ai-raises-the-stakes-2025-10-20.jpg",
+            "publishedAt": "2025-10-20T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Decoding the Matrix: How Blockchain and NFTs Went From Geek Fantasy to Mainstream Revolution",
+            "url": "https://hackernoon.com/decoding-the-matrix-how-blockchain-and-nfts-went-from-geek-fantasy-to-mainstream-revolution",
+            "urlToImage": "https://hackernoon.imgix.net/images/nxtWKMHuO1UKGUbmzmzTuQsBx4H2-wy03aki.png",
+            "publishedAt": "2025-10-20 04:06:32"
+        },
+        {
+            "source": {
+                "name": "en_prnasisa"
+            },
+            "title": "HIKSEMI Showcases AI-Driven Innovation at 138th Canton Fair Under Theme \"Smart Storage, Boundless Connections\"",
+            "url": "https://en.prnasia.com/story/507807-0.shtml",
+            "urlToImage": "https://mma.prnasia.com/media2/2800070/PR_1920x1080.jpg?p=medium600",
+            "publishedAt": "2025-10-20 03:54:00"
+        },
+        {
+            "source": {
+                "name": "prnewswire_apac"
+            },
+            "title": "HIKSEMI Showcases AI-Driven Innovation at 138th Canton Fair Under Theme \"Smart Storage, Boundless Connections\"",
+            "url": "https://www.prnewswire.com/apac/news-releases/hiksemi-showcases-ai-driven-innovation-at-138th-canton-fair-under-theme-smart-storage-boundless-connections-302588578.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2800070/PR_1920x1080.jpg?p=original",
+            "publishedAt": "2025-10-20 03:54:00"
+        },
+        {
+            "source": {
+                "name": "analyticsindiamag"
+            },
+            "title": "These Indian Facilities Help Assemble & Test the Chips That Power Your Gadgets",
+            "url": "https://analyticsindiamag.com/ai-trends/these-indian-facilities-help-assemble-test-the-chips-that-power-your-gadgets/",
+            "urlToImage": "https://analyticsindiamag.com/wp-content/uploads/2025/10/image-4.jpeg",
+            "publishedAt": "2025-10-20 03:30:00"
         },
         {
             "source": {
@@ -420,6 +528,18 @@
             "url": "https://manilastandard.net/opinion/columns/open-thoughts-by-orlando-oxales/314657151/cybersec-and-beyond-lessons-from-polands-cybersecurity-playbook.html",
             "urlToImage": "https://cdn.manilastandard.net/wp-content/uploads/2023/11/NDWeb_Oxales.jpg",
             "publishedAt": "2025-10-19T16:00:00Z"
+        },
+        {
+            "source": {
+                "id": "d5f1f8579b4e9b390feccfa1c0cf8028",
+                "name": "Arab News",
+                "url": "https://www.arabnews.com",
+                "country": "ar"
+            },
+            "title": "Oman launches center to boost national cybersecurity industry",
+            "url": "https://www.arabnews.com/node/2619438/business-economy",
+            "urlToImage": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2025/10/19/4649991-54252972.jpg?itok=izxKeadc",
+            "publishedAt": "2025-10-19T14:38:39Z"
         },
         {
             "source": {
@@ -2958,138 +3078,6 @@
             "url": "https://www.dailycamera.com/2025/10/17/meta-parental-controls-ai-teens/",
             "urlToImage": "https://www.dailycamera.com/wp-content/uploads/2025/10/Meta_AI_Teens_60816.jpg?w=1024&h=682",
             "publishedAt": "2025-10-17T21:41:22Z"
-        },
-        {
-            "source": {
-                "id": "bc49d994b41ac710f5c89f6e6adeece4",
-                "name": "The Boston Herald",
-                "url": "https://www.bostonherald.com",
-                "country": "us"
-            },
-            "title": "Meta adds parental controls for AI-teen interactions",
-            "url": "https://www.bostonherald.com/2025/10/17/meta-parental-controls-ai-teens/",
-            "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/10/Meta_AI_Teens_60816.jpg?w=1024&h=682",
-            "publishedAt": "2025-10-17T21:41:22Z"
-        },
-        {
-            "source": {
-                "id": "9ab210a1da58b160b3d40bd353f54b38",
-                "name": "St. Paul Pioneer Press",
-                "url": "https://www.twincities.com",
-                "country": "us"
-            },
-            "title": "Meta adds parental controls for AI-teen interactions",
-            "url": "https://www.twincities.com/2025/10/17/meta-parental-controls-ai-teens/",
-            "urlToImage": "https://www.twincities.com/wp-content/uploads/2025/10/Meta_AI_Teens_60816.jpg?w=1024&h=682",
-            "publishedAt": "2025-10-17T21:41:22Z"
-        },
-        {
-            "source": {
-                "id": "6f68e6d7cd20b33baacb487a0e911008",
-                "name": "Santa Rosa Press Democrat",
-                "url": "https://www.pressdemocrat.com",
-                "country": "us"
-            },
-            "title": "Meta adds parental controls for AI-teen interactions",
-            "url": "https://www.pressdemocrat.com/2025/10/17/meta-parental-controls-ai-teens/",
-            "urlToImage": "https://www.pressdemocrat.com/wp-content/uploads/2025/10/Meta_AI_Teens_60816.jpg?w=1024&h=682",
-            "publishedAt": "2025-10-17T21:41:22Z"
-        },
-        {
-            "source": {
-                "id": "3271eb2093cfa66b030a37cf84a8df5e",
-                "name": "Baltimore Sun",
-                "url": "https://www.baltimoresun.com",
-                "country": "us"
-            },
-            "title": "Meta adds parental controls for AI-teen interactions",
-            "url": "https://www.baltimoresun.com/2025/10/17/meta-parental-controls-ai-teens/",
-            "urlToImage": "https://www.baltimoresun.com/wp-content/uploads/2025/10/Meta_AI_Teens_60816.jpg?w=1024&h=682",
-            "publishedAt": "2025-10-17T21:41:22Z"
-        },
-        {
-            "source": {
-                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
-                "name": "ABC (Australian Broadcasting Corporation)",
-                "url": "https://www.abc.net.au",
-                "country": "au"
-            },
-            "title": "AI tech takes on one of NSW's deadliest rock fishing spots",
-            "url": "https://www.abc.net.au/news/2025-10-18/ai-camera-trial-rock-fishing-safety-nsw/105902900",
-            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/d87c3fbe1bd570a8c17f4a4d4956ae9e?impolicy=wcms_watermark_news&cropH=675&cropW=1200&xPos=0&yPos=4&width=862&height=485&imformat=generic",
-            "publishedAt": "2025-10-17T21:11:19Z"
-        },
-        {
-            "source": {
-                "id": "9f53afb019d44feb16bcc7da150e679a",
-                "name": "Baltimore News",
-                "url": "https://foxbaltimore.com",
-                "country": "us"
-            },
-            "title": "Army uses artificial intelligence for officer promotions",
-            "url": "https://foxbaltimore.com/station/share/army-uses-artificial-intelligence-for-officer-promotions-ai-military-use",
-            "urlToImage": "https://foxbaltimore.com/resources/media2/16x9/5802/986/0x1/90/000b7680-7a90-4a9a-865e-d9ff71a99807-GettyImages2236280707.jpg",
-            "publishedAt": "2025-10-17T21:08:33Z"
-        },
-        {
-            "source": {
-                "id": "2f5884e252590f739df55c0e7db375df",
-                "name": "WJLA",
-                "url": "https://wjla.com",
-                "country": "us"
-            },
-            "title": "Army uses artificial intelligence for officer promotions",
-            "url": "https://wjla.com/news/nation-world/army-uses-artificial-intelligence-for-officer-promotions-ai-military-use",
-            "urlToImage": "https://wjla.com/resources/media2/16x9/5802/986/0x1/90/000b7680-7a90-4a9a-865e-d9ff71a99807-GettyImages2236280707.jpg",
-            "publishedAt": "2025-10-17T21:08:33Z"
-        },
-        {
-            "source": {
-                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
-                "name": "The Straits Times",
-                "url": "https://www.straitstimes.com",
-                "country": "sg"
-            },
-            "title": "Artificial intelligence in S’pore classrooms: How do we know it’s making a difference for teachers?",
-            "url": "https://www.straitstimes.com/singapore/parenting-education/artificial-intelligence-in-spore-classrooms-how-do-we-know-its-making-a-difference-for-teachers",
-            "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/95aff0603dbbadc52848d591416c42fd7fc3fdd6095c713214b1fa6293d15547",
-            "publishedAt": "2025-10-17T21:00:00Z"
-        },
-        {
-            "source": {
-                "id": "2868e31f7a791b3a2bcc807e4cc74f2c",
-                "name": "USA Herald",
-                "url": "https://usaherald.com",
-                "country": "us"
-            },
-            "title": "Artists and Writers Seek Class Certification in Google AI Copyright Lawsuit",
-            "url": "https://usaherald.com/artists-and-writers-seek-class-certification-in-google-ai-copyright-lawsuit/",
-            "urlToImage": "https://usaherald.com/wp-content/uploads/2017/09/usa_favicon32.png",
-            "publishedAt": "2025-10-17T20:49:36Z"
-        },
-        {
-            "source": {
-                "id": "2868e31f7a791b3a2bcc807e4cc74f2c",
-                "name": "USA Herald",
-                "url": "https://usaherald.com",
-                "country": "us"
-            },
-            "title": "Independent Songwriters Sue AI Music Generator Suno, Alleging Copyright Infringement",
-            "url": "https://usaherald.com/independent-songwriters-sue-ai-music-generator-suno-alleging-copyright-infringement/",
-            "urlToImage": "https://usaherald.com/wp-content/uploads/2017/09/usa_favicon32.png",
-            "publishedAt": "2025-10-17T20:47:04Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Nvidia, TSMC Unveiling First US-Made Blackwell Chip Wafer",
-            "url": "https://www.marketscreener.com/news/nvidia-tsmc-unveiling-first-us-made-blackwell-chip-wafer-ce7d5adddf8af02c",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2025-10-17T20:39:09Z"
         }
     ]
 }
