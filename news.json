@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-10-20T17:13:56.589748Z",
+    "lastUpdatedAt": "2025-10-20T18:23:10.939504Z",
     "articles": [
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "Artificial Intelligence and Financial Security: The New Challenge of Digital Banking",
+            "url": "https://techbullion.com/artificial-intelligence-and-financial-security-the-new-challenge-of-digital-banking/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/10/future-9045696_1280-1000x600.jpg",
+            "publishedAt": "2025-10-20T05:39:02Z"
+        },
+        {
+            "source": {
+                "id": "933344203c2b862af768b5e662a162a4",
+                "name": "International Business Times",
+                "url": "https://www.ibtimes.com",
+                "country": "us"
+            },
+            "title": "America's Coming Resource Crunch",
+            "url": "https://www.ibtimes.com/americas-coming-resource-crunch-3787597",
+            "urlToImage": "https://d.ibtimes.com/en/full/4629705/americas-coming-resource-crunch.jpg",
+            "publishedAt": "2025-10-20T05:33:30Z"
+        },
+        {
+            "source": {
+                "id": "7eeaf9a839918543cc708f2d331c3be4",
+                "name": "Free Press Journal",
+                "url": "https://www.freepressjournal.in",
+                "country": "in"
+            },
+            "title": "IIM Bangalore Opens 2026 Admissions For New UG Courses In Data Science And Economics; Know Selection Process, Eligibility Criteria",
+            "url": "https://www.freepressjournal.in/education/iim-bangalore-opens-2026-admissions-for-new-ug-courses-in-data-science-and-economics-know-selection-process-eligibility-criteria",
+            "urlToImage": "https://media.assettype.com/freepressjournal/2025-10-20/3ic3cias/Edu-2025-10-20T103339.161.jpg",
+            "publishedAt": "2025-10-20T05:10:00Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -252,6 +288,69 @@
             "url": "https://www.dailypioneer.com/2025/technology/why-identity-and-resilience-must-be-indias-focus-as-ai-raises-the-stakes.html",
             "urlToImage": "https://www.dailypioneer.com/uploads/2025/story/images/big/why-identity-and-resilience-must-be-india---s-focus-as-ai-raises-the-stakes-2025-10-20.jpg",
             "publishedAt": "2025-10-20T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "geeky_gadgets"
+            },
+            "title": "Disk Pro 4TB Pocket SSD That Redefines Speed, Storage & Connectivity",
+            "url": "https://www.geeky-gadgets.com/portable-ssd-with-active-cooling/",
+            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/10/portable-ssd-with-active-cooling_optimized.webp",
+            "publishedAt": "2025-10-20 06:15:57"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "The TechBeat: Who's Used One Trillion Plus OpenAI Tokens? Salesforce, Shopify, Canva, Hubspot, & 26 More Companies (10/20/2025)",
+            "url": "https://hackernoon.com/10-20-2025-techbeat",
+            "urlToImage": "https://hackernoon.imgix.net/images/hackernoon_newsletter_890_mmlmkq0zt8ydo538vz83hsrz.png",
+            "publishedAt": "2025-10-20 06:10:49"
+        },
+        {
+            "source": {
+                "name": "digit_in"
+            },
+            "title": "India’s Shakti: IIT Madras to develop indigenous 7-nm chip by 2028",
+            "url": "https://www.digit.in/features/general/india-shakti-iit-madras-to-develop-indigenous-7-nm-chip-by-2028.html",
+            "urlToImage": "https://static.digit.in/iit-madras-shakti-7nm-risc-v-chip.png",
+            "publishedAt": "2025-10-20 06:00:09"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Top 5 Altcoins To Buy Now: $EYE, $BFX, $MAXI, $BDAG, and $FET",
+            "url": "https://www.analyticsinsight.net/cryptocurrency-analytics-insight/top-5-altcoins-to-buy-now-eye-bfx-maxi-bdag-and-fet",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-10-20%2Fcsegcnzi%2FScreenshot-2025-10-20-112115.png?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-10-20 05:53:17"
+        },
+        {
+            "source": {
+                "name": "indianexpress"
+            },
+            "title": "WhatsApp revises business API terms to ban AI chatbot rivals like ChatGPT, Perplexity",
+            "url": "https://indianexpress.com/article/technology/artificial-intelligence/whatsapp-ban-ai-chatbot-rivals-chatgpt-perplexity-10317285/",
+            "urlToImage": "https://images.indianexpress.com/2024/03/whatsapp-logo-express-photo_00f983.jpg",
+            "publishedAt": "2025-10-20 05:46:58"
+        },
+        {
+            "source": {
+                "name": "thehackernews"
+            },
+            "title": "MSS Claims NSA Used 42 Cyber Tools in Multi-Stage Attack on Beijing Time Systems",
+            "url": "https://thehackernews.com/2025/10/mss-claims-nsa-used-42-cyber-tools-in.html",
+            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnbyTAesJjrKdf7Xi5TAVIcEz8gljv1a1ZyP5GQgZ9EKsEVDL2uYNsQ4EjmVAV0dRsqc4kLV1tgOO8bPe5JlM_jq54R0YD1VrJN6XJmlQ7SfUJN-T4bzvNFtYyX5-OziaQgAdnvXTZ2VTk1RkwynpeYNmEg-HCkmDdD7CwO7ygXX8VIcrvI4VG5-URAiqf/s1600/chinese.jpg",
+            "publishedAt": "2025-10-20 05:32:00"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "The 5 Biggest Robotics Trends In 2026 You Must Get Ready For Now",
+            "url": "https://www.forbes.com/sites/bernardmarr/2025/10/20/the-5-biggest-robotics-trends-in-2026-you-must-get-ready-for-now/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68f5c81ffb14af67b5f0f9f5/0x0.jpg?width=960",
+            "publishedAt": "2025-10-20 05:29:33"
         },
         {
             "source": {
@@ -2970,114 +3069,6 @@
             "url": "https://www.theverge.com/tech/802254/tivo-time-warp-patent-courtoom-battles-lost-tv-war",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13162763/TiVo_BOLT_OTA_Living_Room_3.jpg?crop=0%2C0.71747139809966%2C100%2C99.2825286019&quality=90&strip=all&w=1200",
             "publishedAt": "2025-10-18 02:22:34"
-        },
-        {
-            "source": {
-                "name": "latestly"
-            },
-            "title": "India News | DGCA Begins Auto-generation of Computer Numbers for Flight Crew Through Pariksha Website",
-            "url": "https://www.latestly.com/agency-news/india-news-dgca-begins-auto-generation-of-computer-numbers-for-flight-crew-through-pariksha-website-7165452.html",
-            "urlToImage": "https://st1.latestly.com/wp-content/uploads/2025/10/ANI-20251017205818.jpg",
-            "publishedAt": "2025-10-18 00:36:28"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "Glīd’s Universal Platform Provides Frictionless Rail-To-Road Logistics",
-            "url": "https://www.forbes.com/sites/sabbirrangwala/2025/10/17/glds-universal-platform-provides-frictionless-rail-to-road-logistics/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68e52fbe45bad6a7b3465f09/0x0.jpg?width=960",
-            "publishedAt": "2025-10-18 00:29:46"
-        },
-        {
-            "source": {
-                "name": "headtopics"
-            },
-            "title": "What Happened to Those 'Little Red Dots' Webb Observed?",
-            "url": "https://us.headtopics.com/news/what-happened-to-those-little-red-dots-webb-observed-74551405",
-            "urlToImage": "https://i.headtopics.com/images/2025/10/16/cointelegraph/95-of-corporate-eth-buys-happened-in-q3-start-of-e-95-of-corporate-eth-buys-happened-in-q3-start-of-e-D10763EEBAA6C3DA24FC3DEE78E3EDF0.webp?w=640",
-            "publishedAt": "2025-10-18 00:09:26"
-        },
-        {
-            "source": {
-                "name": "financialcontent"
-            },
-            "title": "Meet the AI Stock That's Crushing Nvidia and Palantir in 2025",
-            "url": "https://www.fool.com/investing/2025/10/18/meet-the-ai-stock-thats-crushing-nvidia-palantir/",
-            "urlToImage": "https://g.foolcdn.com/image/?h=400&op=resize&url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F837949%2Fgettyimages-1129386267.jpg&w=400",
-            "publishedAt": "2025-10-18 00:00:00"
-        },
-        {
-            "source": {
-                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-                "name": "Markets Insider",
-                "url": "https://markets.businessinsider.com",
-                "country": "us"
-            },
-            "title": "Why AMD Stock May Overextend in its AI War with Nvidia (NVDA)",
-            "url": "https://markets.businessinsider.com/news/stocks/why-amd-stock-may-overextend-in-its-ai-war-with-nvidia-nvda-1035396850",
-            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/10/image-1480.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-            "publishedAt": "2025-10-17T22:48:00Z"
-        },
-        {
-            "source": {
-                "id": "2b8e9cf94b4b7463c6aee33c1d6df71b",
-                "name": "Chicago Tribune",
-                "url": "https://www.chicagotribune.com",
-                "country": "us"
-            },
-            "title": "Meta adds parental controls for AI-teen interactions",
-            "url": "https://www.chicagotribune.com/2025/10/17/meta-parental-controls-ai-teen/",
-            "urlToImage": "https://www.chicagotribune.com/wp-content/uploads/2025/10/Meta_AI_Teens_60816.jpg?w=1024&h=682",
-            "publishedAt": "2025-10-17T22:44:24Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "AI must not overgrow convenience",
-            "url": "https://www.tribuneindia.com/news/letters/ai-must-not-overgrow-convenience/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTU5OTJlZmYwLWFiYTktMTFmMC1iMDY0LWVkNWUyYTYzNDljNy5qcGc=",
-            "publishedAt": "2025-10-17T22:33:47Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "HPE forecasts fiscal 2026 profit below estimates, shares fall",
-            "url": "https://www.marketscreener.com/news/hpe-forecasts-fiscal-2026-profit-below-estimates-shares-fall-ce7d5adfdd80f423",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2025-10-17T21:50:34Z"
-        },
-        {
-            "source": {
-                "id": "8fac888ae06647c3a7d6093c60c9d9b5",
-                "name": "San Diego Union-Tribune",
-                "url": "https://www.sandiegouniontribune.com",
-                "country": "us"
-            },
-            "title": "Meta adds parental controls for AI-teen interactions",
-            "url": "https://www.sandiegouniontribune.com/2025/10/17/meta-parental-controls-ai-teens/",
-            "urlToImage": "https://www.sandiegouniontribune.com/wp-content/uploads/2025/10/Meta_AI_Teens_60816.jpg?w=1024&h=682",
-            "publishedAt": "2025-10-17T21:41:22Z"
-        },
-        {
-            "source": {
-                "id": "840efb5642a2fd3ae6da920bb4981626",
-                "name": "Santa Ana Orange County Register",
-                "url": "https://www.ocregister.com",
-                "country": "us"
-            },
-            "title": "Meta adds parental controls for AI-teen interactions",
-            "url": "https://www.ocregister.com/2025/10/17/meta-parental-controls-ai-teens/",
-            "urlToImage": "https://www.ocregister.com/wp-content/uploads/2025/10/Meta_AI_Teens_60816.jpg?w=1024&h=682",
-            "publishedAt": "2025-10-17T21:41:22Z"
         }
     ]
 }
