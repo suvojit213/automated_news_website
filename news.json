@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-10-20T06:24:09.911230Z",
+    "lastUpdatedAt": "2025-10-20T07:16:22.927594Z",
     "articles": [
+        {
+            "source": {
+                "id": "7f6e8514e9d8f8376aaa9a7229861518",
+                "name": "PerthNow",
+                "url": "https://www.perthnow.com.au",
+                "country": "au"
+            },
+            "title": "Michael Mann intends to use AI in production of Heat 2",
+            "url": "https://www.perthnow.com.au/entertainment/movies/michael-mann-intends-to-use-ai-in-production-of-heat-2-c-20404878",
+            "urlToImage": "https://images.perthnow.com.au/publication/C-20404878/1eb0d55a1e13bd483407c67992c3edf4c2ab0630-16x9-x0y192w2048h1152.jpg?imwidth=1200",
+            "publishedAt": "2025-10-19T19:01:42Z"
+        },
+        {
+            "source": {
+                "id": "bff0cd3b8c64dceaada8841bea814f65",
+                "name": "The Telegraph",
+                "url": "https://www.telegraph.co.uk",
+                "country": "gb"
+            },
+            "title": "Don’t use AI if you want to be new ambassador to US, job advert warns",
+            "url": "https://www.telegraph.co.uk/politics/2025/10/19/new-ambassador-us-replacing-mandelson-ai-warning/",
+            "urlToImage": "https://www.telegraph.co.uk/content/dam/briefs/2025/10/19/TELEMMGLPICT000439462988_17608958031890_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=OG-Standard",
+            "publishedAt": "2025-10-19T18:26:00Z"
+        },
         {
             "source": {
                 "id": "010284b7a4ddb4771793c29b39893951",
@@ -360,6 +384,24 @@
             "url": "https://www.aroundosceola.com/index.php/news/florida-law-targets-using-ai-nudify-peoples-photos",
             "urlToImage": "http://www.aroundosceola.com/sites/aroundosceola.com/files/4fb86fbf7c_Ar00801012.jpg",
             "publishedAt": "2025-10-19T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "techannouncer"
+            },
+            "title": "Unpacking the Latest Investigations from Krebs on Security",
+            "url": "https://techannouncer.com/unpacking-the-latest-investigations-from-krebs-on-security/",
+            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/10/15422a51thumbnail-332x187.jpeg",
+            "publishedAt": "2025-10-19 19:14:07"
+        },
+        {
+            "source": {
+                "name": "bleepingcomputer"
+            },
+            "title": "TikTok videos continue to push infostealers in ClickFix attacks",
+            "url": "https://www.bleepingcomputer.com/news/security/tiktok-videos-continue-to-push-infostealers-in-clickfix-attacks/",
+            "urlToImage": "https://www.bleepstatic.com/content/hl-images/2022/08/31/TikTok.jpg",
+            "publishedAt": "2025-10-19 18:28:25"
         },
         {
             "source": {
@@ -3122,54 +3164,6 @@
             "title": "Big Tech is paying millions to train teachers on AI, push chatbots",
             "url": "https://www.sandiegouniontribune.com/2025/10/17/education-artificial-intelligence-big-tech/",
             "urlToImage": "https://www.sandiegouniontribune.com/wp-content/uploads/2025/10/Education_Artificial_Intelligence_92973-1.jpg?w=1024&h=767",
-            "publishedAt": "2025-10-17T16:02:56Z"
-        },
-        {
-            "source": {
-                "id": "6cbe6dbb9a62f9b5a7d4770ab77a9ad4",
-                "name": "Norfolk Virginian-Pilot",
-                "url": "https://www.pilotonline.com",
-                "country": "us"
-            },
-            "title": "Big Tech is paying millions to train teachers on AI, push chatbots",
-            "url": "https://www.pilotonline.com/2025/10/17/education-artificial-intelligence-big-tech/",
-            "urlToImage": "https://www.pilotonline.com/wp-content/uploads/2025/10/Education_Artificial_Intelligence_92973-1.jpg?w=1024&h=767",
-            "publishedAt": "2025-10-17T16:02:56Z"
-        },
-        {
-            "source": {
-                "id": "494f687bd1dfaa9f7b4a705c860671d0",
-                "name": "Hartford Courant",
-                "url": "https://www.courant.com",
-                "country": "us"
-            },
-            "title": "Big Tech is paying millions to train teachers on AI, push chatbots",
-            "url": "https://www.courant.com/2025/10/17/education-artificial-intelligence-big-tech/",
-            "urlToImage": "https://www.courant.com/wp-content/uploads/2025/10/Education_Artificial_Intelligence_92973-1.jpg?w=1024&h=767",
-            "publishedAt": "2025-10-17T16:02:56Z"
-        },
-        {
-            "source": {
-                "id": "17d7c2645f485578130862e0c8dd9480",
-                "name": "The Mercury News",
-                "url": "https://www.mercurynews.com",
-                "country": "us"
-            },
-            "title": "Big Tech is paying millions to train teachers on AI, push chatbots",
-            "url": "https://www.mercurynews.com/2025/10/17/education-artificial-intelligence-big-tech/",
-            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/10/Education_Artificial_Intelligence_92973-1.jpg?w=1024&h=767",
-            "publishedAt": "2025-10-17T16:02:56Z"
-        },
-        {
-            "source": {
-                "id": "3271eb2093cfa66b030a37cf84a8df5e",
-                "name": "Baltimore Sun",
-                "url": "https://www.baltimoresun.com",
-                "country": "us"
-            },
-            "title": "Big Tech is paying millions to train teachers on AI, push chatbots",
-            "url": "https://www.baltimoresun.com/2025/10/17/education-artificial-intelligence-big-tech/",
-            "urlToImage": "https://www.baltimoresun.com/wp-content/uploads/2025/10/Education_Artificial_Intelligence_92973-1.jpg?w=1024&h=767",
             "publishedAt": "2025-10-17T16:02:56Z"
         }
     ]
