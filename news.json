@@ -1,6 +1,102 @@
 {
-    "lastUpdatedAt": "2025-10-21T20:17:57.263635Z",
+    "lastUpdatedAt": "2025-10-21T21:14:20.709922Z",
     "articles": [
+        {
+            "source": {
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com",
+                "country": "us"
+            },
+            "title": "Loggins demands removal of Trump's AI",
+            "url": "https://www.breitbart.com/news/loggins-demands-removal-of-trumps-ai-generated-video-using-danger-zone/",
+            "urlToImage": "https://media.breitbart.com/media/2025/10/wi/ap/loggins-trump-08889-loggins-trump-kenny-loggins-performs-at-2023-orleans-jazz-heritage-festival-640x335.jpg",
+            "publishedAt": "2025-10-21T09:10:28Z"
+        },
+        {
+            "source": {
+                "id": "1290fbc1799ff6b270a6f8b7e9761c18",
+                "name": "Rappler",
+                "url": "https://www.rappler.com",
+                "country": "ph"
+            },
+            "title": "PNP-ACG ramps up cyber defense training with GCash",
+            "url": "https://www.rappler.com/brandrap/gcash-pnp-cyber-defense-training-2025/",
+            "urlToImage": "https://www.rappler.com/tachyon/2025/10/GCASH-carousel-1-1.jpg",
+            "publishedAt": "2025-10-21T09:07:03Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "France and Europe: fertile AI training ground?",
+            "url": "https://www.thestar.com.my/tech/tech-news/2025/10/21/france-and-europe-fertile-ai-training-ground",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/21/3580476.jpg",
+            "publishedAt": "2025-10-21T09:00:00Z"
+        },
+        {
+            "source": {
+                "id": "e185a9e522f5881b82bc4bd40cbea8e0",
+                "name": "MassLive",
+                "url": "https://www.masslive.com",
+                "country": "us"
+            },
+            "title": "Amid a tough year for biotech, these Mass. companies just raised $1B",
+            "url": "https://www.masslive.com/news/2025/10/amid-a-tough-year-for-biotech-these-mass-companies-just-raised-1b.html",
+            "urlToImage": "https://www.masslive.com/resizer/v2/J5FNBY5LRRASLAG7L7ZFWVRMKY.jpeg?auth=941b1191c8706532cd9cf38d35349a1e328e6ceb01bb127da548a5868af19552&width=1280&smart=true&quality=90",
+            "publishedAt": "2025-10-21T09:00:00Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Taiwan September export orders sharply beats forecasts on strong AI demand",
+            "url": "https://www.reuters.com/world/asia-pacific/taiwan-september-export-orders-sharply-beats-forecasts-strong-ai-demand-2025-10-21/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-10-21T08:52:55Z"
+        },
+        {
+            "source": {
+                "id": "5784855bc642514502eec4806fd222d1",
+                "name": "The Times of Israel",
+                "url": "https://www.timesofisrael.com",
+                "country": "is"
+            },
+            "title": "Venture capital firm NFX raises $325 million, betting on Israeli tech innovation",
+            "url": "https://www.timesofisrael.com/venture-capital-firm-nfx-raises-325-million-betting-on-israeli-tech-innovation/",
+            "urlToImage": "https://static-cdn.toi-media.com/www/uploads/2025/10/NFX.jpg",
+            "publishedAt": "2025-10-21T08:27:52Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "Joseph Grinkorn: Is Artificial Intelligence the Next Big Buy - or the Next Big Bust?",
+            "url": "https://techbullion.com/joseph-grinkorn-is-artificial-intelligence-the-next-big-buy-or-the-next-big-bust/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/10/image-32-1000x600.jpeg",
+            "publishedAt": "2025-10-21T08:22:11Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "IAEA Launches Global Project to Boost AI Cybersecurity in Nuclear Sector",
+            "url": "https://www.devdiscourse.com/article/science-environment/3669059-iaea-launches-global-project-to-boost-ai-cybersecurity-in-nuclear-sector",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/17_09_2025_09_02_11_2063676.png?width=920&format=jpeg",
+            "publishedAt": "2025-10-21T08:19:27Z"
+        },
         {
             "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -612,6 +708,96 @@
             "url": "https://www.aroundosceola.com/index.php/news/florida-law-targets-using-ai-nudify-peoples-photos",
             "urlToImage": "http://www.aroundosceola.com/sites/aroundosceola.com/files/4fb86fbf7c_Ar00801012.jpg",
             "publishedAt": "2025-10-21T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "geeky_gadgets"
+            },
+            "title": "HomePod mini 2: What We Know About Apple’s 2025 Smart Speaker",
+            "url": "https://www.geeky-gadgets.com/homepod-mini-2-3/",
+            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/10/apple-homepod-mini-2-sound-quality-upgrade.webp",
+            "publishedAt": "2025-10-21 09:00:54"
+        },
+        {
+            "source": {
+                "name": "nytimes"
+            },
+            "title": "The Robots Fueling Amazon’s Automation",
+            "url": "https://www.nytimes.com/2025/10/21/technology/amazon-robotics-automation.html",
+            "urlToImage": "https://static01.nyt.com/images/2025/10/17/multimedia/00biz-amazonrobotics-sidebar-sub-02-pwqb/00biz-amazonrobotics-sidebar-sub-02-pwqb-articleLarge.jpg?auto=webp&disable=upscale&quality=75",
+            "publishedAt": "2025-10-21 09:00:29"
+        },
+        {
+            "source": {
+                "name": "lithub"
+            },
+            "title": "Dear Tech Evangelists: Have You Tried “Move Slow and Make Things”?",
+            "url": "https://lithub.com/dear-tech-evangelists-have-you-tried-move-slow-and-make-things/",
+            "urlToImage": "https://s26162.pcdn.co/wp-content/uploads/2025/10/RacebookHC-340x509-1-200x300.png",
+            "publishedAt": "2025-10-21 08:59:28"
+        },
+        {
+            "source": {
+                "name": "cyclingnews"
+            },
+            "title": "100 years of manufacturing - Miche factory tour gallery",
+            "url": "https://www.cyclingnews.com/features/100-years-of-manufacturing-miche-factory-tour-gallery/",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/iR3UwtesRrachrSTCipEyB-2000-80.jpg",
+            "publishedAt": "2025-10-21 08:46:09"
+        },
+        {
+            "source": {
+                "name": "techannouncer"
+            },
+            "title": "Mastering the 10 Key Skills for Career Advancement in 2025",
+            "url": "https://techannouncer.com/mastering-the-10-key-skills-for-career-advancement-in-2025/",
+            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/10/e5a5efe0thumbnail-332x187.jpeg",
+            "publishedAt": "2025-10-21 08:36:13"
+        },
+        {
+            "source": {
+                "name": "abplive"
+            },
+            "title": "iQOO 15 Vs Samsung Galaxy S25 Ultra: Can The Challenger Take On Samsung’s Titanium Giant? Find Out",
+            "url": "https://news.abplive.com/technology/iqoo-15-vs-samsung-galaxy-s25-ultra-compare-comparison-price-in-india-specifications-features-1807254",
+            "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2025/10/21/72d4a2a308ad395374b869715ac786f11761035508074402_original.jpg",
+            "publishedAt": "2025-10-21 08:34:57"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "Confused on which cloud storage to get? My expert advice (and 3 I recommend)",
+            "url": "https://www.zdnet.com/article/confused-on-which-cloud-storage-to-get-my-expert-advice-and-3-i-recommend/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/d44c090d59662d24db046caf457483ba7df563ee/2025/09/18/b8534716-edef-4134-a950-3f17e56617c2/acer-aspire-16-ai-image-6.jpg?auto=webp&width=1280",
+            "publishedAt": "2025-10-21 08:30:32"
+        },
+        {
+            "source": {
+                "name": "techannouncer"
+            },
+            "title": "AMD Ryzen 7 vs Intel Core Ultra 7: Which Processor Reigns Supreme?",
+            "url": "https://techannouncer.com/amd-ryzen-7-vs-intel-core-ultra-7-which-processor-reigns-supreme/",
+            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/10/c2abd222thumbnail-332x187.jpeg",
+            "publishedAt": "2025-10-21 08:30:08"
+        },
+        {
+            "source": {
+                "name": "techannouncer"
+            },
+            "title": "Your Essential AI News Weekly Roundup: Insights and Updates",
+            "url": "https://techannouncer.com/your-essential-ai-news-weekly-roundup-insights-and-updates/",
+            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/10/1aaeb6fbthumbnail-332x187.jpeg",
+            "publishedAt": "2025-10-21 08:24:08"
+        },
+        {
+            "source": {
+                "name": "computerweekly"
+            },
+            "title": "Startup law firm wants to ‘live and breathe technology’",
+            "url": "https://www.computerweekly.com/news/366633153/Startup-law-firm-wants-to-live-and-breathe-technology",
+            "urlToImage": "https://www.computerweekly.com/rms/onlineimages/legal_g1065824400_searchsitetablet_520X173.jpg",
+            "publishedAt": "2025-10-21 08:22:00"
         },
         {
             "source": {
@@ -2973,168 +3159,6 @@
             "url": "https://www.sandiegouniontribune.com/2025/10/20/amazon-cloud-services-major-outage/",
             "urlToImage": "https://www.sandiegouniontribune.com/wp-content/uploads/2025/10/Amazon_Web_Outage_16138-1.jpg?strip=all&w=1400px",
             "publishedAt": "2025-10-20 13:01:35"
-        },
-        {
-            "source": {
-                "name": "etcentric"
-            },
-            "title": "Microsoft Integrating Its Copilot AI Assistant into Windows 11",
-            "url": "https://www.etcentric.org/microsoft-integrating-its-copilot-ai-assistant-into-windows-11/",
-            "urlToImage": "https://www.etcentric.org/wp-content/uploads/2025/10/Microsoft_Windows_11_Copilot_AI-200x113.jpeg",
-            "publishedAt": "2025-10-20 13:00:34"
-        },
-        {
-            "source": {
-                "name": "geeky_gadgets"
-            },
-            "title": "M5 Chip UNLEASHED: Is This Apple’s Best Silicon EVER?",
-            "url": "https://www.geeky-gadgets.com/apple-m5-chip-unleashed/",
-            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/10/m5.webp",
-            "publishedAt": "2025-10-20 13:00:04"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "Sunnybrook Health Sciences Centre Selects Oracle Health Technology to Enhance Patient and Caregiver Experiences",
-            "url": "https://www.prnewswire.com/news-releases/sunnybrook-health-sciences-centre-selects-oracle-health-technology-to-enhance-patient-and-caregiver-experiences-302589000.html",
-            "urlToImage": "https://mma.prnewswire.com/media/467598/Oracle_Logo.jpg?p=original",
-            "publishedAt": "2025-10-20 13:00:00"
-        },
-        {
-            "source": {
-                "name": "digitaltrends"
-            },
-            "title": "What is NotebookLM? Everything you need to know about Google’s AI researcher",
-            "url": "https://www.digitaltrends.com/computing/what-is-notebooklm-everything-you-need-to-know-about-googles-ai-researcher/",
-            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/10/NotebookLM_StudentBlogHeader_Dis.jpg?p=1&resize=1200%2C630",
-            "publishedAt": "2025-10-20 13:00:00"
-        },
-        {
-            "source": {
-                "name": "slashgear"
-            },
-            "title": "Honda Says The 2026 Passport TrailSport Is A Real Off-Roader, So We Put It To The Test",
-            "url": "https://www.slashgear.com/1998828/2026-honda-passport-trailsport-off-road-test/",
-            "urlToImage": "https://www.slashgear.com/img/gallery/honda-says-the-2026-passport-trailsport-is-a-real-off-roader-so-we-put-it-to-the-test/l-intro-1760635584.jpg",
-            "publishedAt": "2025-10-20 13:00:00"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "Lockheed Martin’s CIO On Digital Transformation And Culture Of Purpose",
-            "url": "https://www.forbes.com/sites/peterhigh/2025/10/20/lockheed-martins-cio-on-digital-transformation-and-culture-of-purpose/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68f2760dabde01a64d779523/0x0.jpg?width=960",
-            "publishedAt": "2025-10-20 13:00:00"
-        },
-        {
-            "source": {
-                "name": "cornelledu"
-            },
-            "title": "AI-generated content a triple threat for Reddit moderators",
-            "url": "https://news.cornell.edu/stories/2025/10/ai-generated-content-triple-threat-reddit-moderators",
-            "urlToImage": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_home/public/2025-04/0407_reddit_tnd.jpg?itok=RRV3RcEJ",
-            "publishedAt": "2025-10-20 11:10:04"
-        },
-        {
-            "source": {
-                "name": "macworld"
-            },
-            "title": "Best Mac 2025: Every Apple Mac and MacBook compared",
-            "url": "https://www.macworld.com/article/219909/best-mac.html",
-            "urlToImage": "https://www.macworld.com/wp-content/uploads/2025/10/Every-Mac-2025-buying-guide.jpg?quality=50&strip=all&w=1024",
-            "publishedAt": "2025-10-20 11:03:04"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "Get award-winning antivirus for $0.20 per month with Surfshark's early Black Friday VPN deal",
-            "url": "https://www.tomsguide.com/computing/vpns/get-award-winning-antivirus-for-usd0-20-per-month-with-surfsharks-early-black-friday-vpn-deal",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/G6UVwh2KKrMJosT6G4GNkP-1280-80.jpg",
-            "publishedAt": "2025-10-20 11:03:01"
-        },
-        {
-            "source": {
-                "name": "hackaday"
-            },
-            "title": "Nanochat Lets You Build Your Own Hackable LLM",
-            "url": "https://hackaday.com/2025/10/20/nanochat-lets-you-build-your-own-hackable-llm/",
-            "urlToImage": "https://hackaday.com/wp-content/uploads/2025/10/nanochat-banner-e1760743321161.png",
-            "publishedAt": "2025-10-20 11:00:36"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "Coral AI And Healthcare’s $450 Billion Paperwork Problem",
-            "url": "https://www.forbes.com/sites/charliefink/2025/10/20/coral-ai-and-healthcares-450-billion-paperwork-problem/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68f3f83e2b7511b763c2167e/0x0.jpg?width=960",
-            "publishedAt": "2025-10-20 11:00:00"
-        },
-        {
-            "source": {
-                "name": "en_prnasisa"
-            },
-            "title": "ST Engineering iDirect Announces General Availability of Intuition Ground System",
-            "url": "https://en.prnasia.com/story/507889-0.shtml",
-            "urlToImage": "https://mma.prnasia.com/media2/2799520/Intuition_1_1_Release.jpg?p=medium600",
-            "publishedAt": "2025-10-20 11:00:00"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Ozak AI to $10: Is an 830x Run Possible by 2027 for Early Presale Holders?",
-            "url": "https://www.analyticsinsight.net/cryptocurrency-analytics-insight/ozak-ai-to-10-is-an-830x-run-possible-by-2027-for-early-presale-holders",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-10-20%2Fkhvvtnbs%2FOzak-AI-to-10-Is-an-830x-Run-Possible-by-2027-for-Early-Presale-Holders?ar=40%3A21&auto=format%2Ccompress&enlarge=true&mode=crop&ogImage=true&overlay=false&overlay_position=bottom&overlay_width=100&w=1200",
-            "publishedAt": "2025-10-20 11:00:00"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "ST Engineering iDirect Announces General Availability of Intuition Ground System",
-            "url": "https://www.prnewswire.com/news-releases/st-engineering-idirect-announces-general-availability-of-intuition-ground-system-302588441.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2799519/ST_Engineering_iDirect_PR_Logo.jpg?p=original",
-            "publishedAt": "2025-10-20 11:00:00"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "BD Launches New AI-enabled Solutions to Drive Connectivity Across Healthcare Settings",
-            "url": "https://www.prnewswire.com/news-releases/bd-launches-new-ai-enabled-solutions-to-drive-connectivity-across-healthcare-settings-302588426.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2799641/BD_Launches_New_AI_enabled_Solutions.jpg?p=original",
-            "publishedAt": "2025-10-20 10:50:00"
-        },
-        {
-            "source": {
-                "name": "ibtimes"
-            },
-            "title": "Bharat's luminous algorithm: Quantum catalysts, economic hypervelocity, societal singularity",
-            "url": "https://www.ibtimes.co.in/bharats-luminous-algorithm-quantum-catalysts-economic-hypervelocity-societal-singularity-891024",
-            "urlToImage": "https://data1.ibtimes.co.in/en/full/823078/happy-diwali-2025-foreign-investors-turn-buyers-indian-market-amid-festive-cheer.jpg?h=450&l=50&t=40",
-            "publishedAt": "2025-10-20 10:47:23"
-        },
-        {
-            "source": {
-                "name": "interestingengineering"
-            },
-            "title": "China’s new humanoid robot handles raw egg with world-first cross-shaped wrist arm",
-            "url": "https://interestingengineering.com/innovation/agibot-industrial-humanoid-robot-g2-debuts",
-            "urlToImage": "https://cms.interestingengineering.com/wp-content/uploads/2025/10/AGIBOT-G2_imresizer.jpg",
-            "publishedAt": "2025-10-20 10:01:39"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Best Automation Reporting Tools for 2025 Top Picks",
-            "url": "https://www.analyticsinsight.net/apps/best-automation-reporting-tools-for-2025-top-picks",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-10-20%2F1qerp43y%2FBest-Automation-Reporting-Tools.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-10-20 10:00:00"
         }
     ]
 }
