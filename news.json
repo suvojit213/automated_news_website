@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-10-21T04:18:44.176632Z",
+    "lastUpdatedAt": "2025-10-21T05:15:17.250318Z",
     "articles": [
+        {
+            "source": {
+                "id": "8da923084554b2821233d6c5c5f02c97",
+                "name": "Fox News",
+                "url": "https://www.foxnews.com",
+                "country": "us"
+            },
+            "title": "AI girlfriend apps leak millions of private chats",
+            "url": "https://www.foxnews.com/tech/ai-girlfriend-apps-leak-millions-private-chats",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/02/gettyimages-2151295139.jpg",
+            "publishedAt": "2025-10-20T17:10:23Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "AI startup InvestorSight, advisory firm Longacre Square announce partnership",
+            "url": "https://www.thestar.com.my/tech/tech-news/2025/10/21/ai-startup-investorsight-advisory-firm-longacre-square-announce-partnership",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/21/3579390.jpg",
+            "publishedAt": "2025-10-20T16:47:00Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "AI startup InvestorSight, advisory firm Longacre Square announce partnership",
+            "url": "https://www.reuters.com/sustainability/sustainable-finance-reporting/ai-startup-investorsight-advisory-firm-longacre-square-announce-partnership-2025-10-20/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-10-20T16:42:14Z"
+        },
+        {
+            "source": {
+                "id": "0d429ea54fdbe8e34c582aa31bc81aba",
+                "name": "The Boston Globe",
+                "url": "https://www.bostonglobe.com",
+                "country": "us"
+            },
+            "title": "AI startups promote rigid 72",
+            "url": "https://www.bostonglobe.com/2025/10/20/business/startups-hardcore-work-hours/",
+            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/T2VMTXQEHBA6PPLPQ36HIIXDUQ.jpg?auth=9f0b6ea16767a52c9105efb4bc96d0df9483776821853aeacce712690983ea28&width=1440",
+            "publishedAt": "2025-10-20T16:23:05Z"
+        },
         {
             "source": {
                 "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
@@ -768,6 +816,87 @@
             "url": "https://www.forbes.com/sites/peterhigh/2025/10/20/gartners-technology-trend-playbook-for-2026/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68f67c7fcd9493cf7fcbe18d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-10-20T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "economictimes_indiatimes"
+            },
+            "title": "GSIT stock skyrockets 200% today as Cornell study confirms company's APU matches GPU performance",
+            "url": "https://economictimes.indiatimes.com/news/international/us/gsit-stock-skyrockets-200-today-as-cornell-study-confirms-companys-apu-matches-gpu-performance/articleshow/124707644.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-124707644,width-300,height-225,imgsize-37386,resizemode-75/.jpg",
+            "publishedAt": "2025-10-20 16:55:56"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "AI Transforms High School STEM: Interdisciplinary Innovation and Ethics",
+            "url": "https://www.webpronews.com/ai-transforms-high-school-stem-interdisciplinary-innovation-and-ethics/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-7e1015f6-1807-4a94-8652-b8fc8008f76c.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-10-20 16:53:18"
+        },
+        {
+            "source": {
+                "name": "bgr_com"
+            },
+            "title": "Thinking About Buying A MacBook Air? Here Are 5 Things You Need To Know",
+            "url": "https://www.bgr.com/1998705/what-to-know-before-buying-macbook-air-guide-2025/",
+            "urlToImage": "https://www.bgr.com/img/gallery/thinking-about-buying-a-macbook-air-here-are-5-things-you-need-to-know/l-intro-1760596316.jpg",
+            "publishedAt": "2025-10-20 16:47:00"
+        },
+        {
+            "source": {
+                "name": "wvnews"
+            },
+            "title": "Skan AI Expands Agentic AI Leadership with Acquisition of Metaculars Inc.",
+            "url": "https://www.wvnews.com/news/around_the_web/partners/pr_newswire/industry/computer_electronics/skan-ai-expands-agentic-ai-leadership-with-acquisition-of-metaculars-inc/article_0432568d-0568-5bd8-a811-dd5210f161f8.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/assets/v3/editorial/b/61/b616a319-4c69-5c87-a755-cccd1c767d71/68efc57b6ff5f.image.jpg?resize=300%2C94",
+            "publishedAt": "2025-10-20 16:43:00"
+        },
+        {
+            "source": {
+                "name": "techradar"
+            },
+            "title": "TechRadar Choice Awards 2025 winners: meet the best tech of the last year",
+            "url": "https://www.techradar.com/tech/techradar-choice-awards-2025-winners",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/vBg9hKnLn8iASUo2YKu978.jpg",
+            "publishedAt": "2025-10-20 16:32:18"
+        },
+        {
+            "source": {
+                "name": "xda_developers"
+            },
+            "title": "I'm uninstalling Firefox for good. Here's what I'm using instead",
+            "url": "https://www.xda-developers.com/im-uninstalling-firefox-for-good-heres-what-using-instead/",
+            "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/10/img_20251017_210439_739.jpg",
+            "publishedAt": "2025-10-20 16:30:19"
+        },
+        {
+            "source": {
+                "name": "wvnews"
+            },
+            "title": "10x Genomics and Anthropic Partner to Make Single Cell and Spatial Analysis More Accessible Through Claude for Life Sciences",
+            "url": "https://www.wvnews.com/news/around_the_web/partners/pr_newswire/subject/new_products_services/10x-genomics-and-anthropic-partner-to-make-single-cell-and-spatial-analysis-more-accessible-through/article_5e071122-3842-5217-9aa9-69d063b28e62.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/assets/v3/editorial/e/cf/ecf4f2ee-1248-5920-b489-fd99778831d7/68f6673c0986c.image.jpg?resize=300%2C150",
+            "publishedAt": "2025-10-20 16:30:00"
+        },
+        {
+            "source": {
+                "name": "phys"
+            },
+            "title": "Chemical networks can mimic nervous systems to power movement in soft materials",
+            "url": "https://phys.org/news/2025-10-chemical-networks-mimic-nervous-power.html",
+            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2025/-how-chemical-networks-1.jpg",
+            "publishedAt": "2025-10-20 16:29:04"
+        },
+        {
+            "source": {
+                "name": "interestingengineering"
+            },
+            "title": "China’s silent race to own the simulation stack",
+            "url": "https://interestingengineering.com/innovation/china-cae-engineering-simulation-software",
+            "urlToImage": "https://cms.interestingengineering.com/wp-content/uploads/2025/10/Untitled-1_5180d9.png",
+            "publishedAt": "2025-10-20 16:22:46"
         },
         {
             "source": {
@@ -2970,162 +3099,6 @@
             "url": "https://www.manilatimes.net/2025/10/18/tmt-newswire/globenewswire/precede-biosciences-presents-new-esmo-2025-data-demonstrating-its-liquid-biopsy-platforms-ability-to-resolve-target-expression-and-molecular-subtypes-in-small-cell-lung-cancer/2203440",
             "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/10/18/788465.png",
             "publishedAt": "2025-10-18T10:21:08Z"
-        },
-        {
-            "source": {
-                "id": "fca9664a9e215efa308045911cfc7fc3",
-                "name": "Star Tribune",
-                "url": "https://www.startribune.com",
-                "country": "us"
-            },
-            "title": "What the dot-com bubble can teach investors worried about AI",
-            "url": "https://www.startribune.com/dot-come-bubble-burst-ai-investing-magnificent-seven-tech/601484804",
-            "urlToImage": "https://arc.stimg.co/startribunemedia/7Z6P7K4K75HKBNUKD3W2MLN5TA.jpg?&w=1200&ar=1.91:1&fit=crop",
-            "publishedAt": "2025-10-18T10:00:00Z"
-        },
-        {
-            "source": {
-                "id": "e9207083a357fb7e76b38e485888ebe7",
-                "name": "manilastandard.net",
-                "url": "https://manilastandard.net",
-                "country": "ph"
-            },
-            "title": "Creating a ‘Better Today’: cybersecurity caravan reaches the youth",
-            "url": "https://manilastandard.net/tech/tech-news/314656719/creating-a-better-today-cybersecurity-caravan-reaches-the-youth.html",
-            "urlToImage": "https://cdn.manilastandard.net/wp-content/uploads/2025/10/Elijah-Mendoza-2.jpg",
-            "publishedAt": "2025-10-18T09:54:46Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "ASTRI Showcases Six Innovative Technologies at InnoCarnival",
-            "url": "https://www.manilatimes.net/2025/10/18/tmt-newswire/pr-newswire/astri-showcases-six-innovative-technologies-at-innocarnival/2203423",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/10/18/788405.jpg",
-            "publishedAt": "2025-10-18T09:35:59Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "The Rise of Generative AI: How It’s Reshaping Technology and Everyday Life",
-            "url": "https://techbullion.com/the-rise-of-generative-ai-how-its-reshaping-technology-and-everyday-life/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/10/960x0-2.webp",
-            "publishedAt": "2025-10-18T09:25:45Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "Mark Benioff says AI cannot replace human touch, Salesforce hiring thousands of new salespeople",
-            "url": "https://www.indiatoday.in/technology/news/story/mark-benioff-says-ai-cannot-replace-human-touch-salesforce-hiring-thousands-of-new-salespeople-2805103-2025-10-18",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202510/salesforce-ceo-marc-benioff-154242607-16x9.jpg?VersionId=B60w1.anNL0tkJxmCCFq2wZPU6S7M.4g",
-            "publishedAt": "2025-10-18T09:08:57Z"
-        },
-        {
-            "source": {
-                "id": "e553cce06d349ac1f7fbb7618a979256",
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com",
-                "country": "us"
-            },
-            "title": "Does A.I. Count as Art? Ask the Curators",
-            "url": "https://www.nytimes.com/2025/10/18/arts/design/artificial-intelligence-art-museums.html",
-            "urlToImage": "https://static01.nyt.com/images/2025/10/19/multimedia/19sp-finearts-AI-01-kvzt/19sp-finearts-AI-01-kvzt-facebookJumbo.jpg",
-            "publishedAt": "2025-10-18T09:01:30Z"
-        },
-        {
-            "source": {
-                "id": "69a24b80e5bce5a07f808f5ea84c434b",
-                "name": "Arkansas Online",
-                "url": "https://www.arkansasonline.com",
-                "country": "us"
-            },
-            "title": "AI ad flips quotes back on Schumer",
-            "url": "https://www.arkansasonline.com/news/2025/oct/18/ai-ad-flips-quotes-back-on-schumer/",
-            "urlToImage": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/211319526_211318704-68daf6b5c9904e29b325669380fb33f6_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
-            "publishedAt": "2025-10-18T09:01:00Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "Artificial intelligence, Armageddon and the Antichrist",
-            "url": "https://www.livemint.com/ai/artificial-intelligence-armageddon-and-the-antichrist-11760763173506.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2025/10/18/1600x900/im-57793065_1760763177584_1760764301047.jpg",
-            "publishedAt": "2025-10-18T08:30:05Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "AI Models Predict Massive 2025 Returns - Blazpay Crypto Presale, Solana, and XRP Among Grok + GPT’s Top Selections",
-            "url": "https://techbullion.com/ai-models-predict-massive-2025-returns-blazpay-crypto-presale-solana-and-xrp-among-grok-gpts-top-selections/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/10/Screenshot-2025-10-18-130708.png",
-            "publishedAt": "2025-10-18T08:08:09Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "Top Casting Agency Hires K-Street Lobbyists as AI Threatens Movie Stars' Jobs",
-            "url": "https://www.breitbart.com/entertainment/2025/10/18/top-casting-agency-hires-k-street-lobbyists-as-ai-threatens-movie-stars-jobs/",
-            "urlToImage": "https://media.breitbart.com/media/2025/10/GettyImages-2231800356-640x335.jpg",
-            "publishedAt": "2025-10-18T08:08:05Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Milan's data centre capacity set to surge tenfold in five years, A2A CEO says",
-            "url": "https://economictimes.indiatimes.com/tech/technology/milans-data-centre-capacity-set-to-surge-tenfold-in-five-years-a2a-ceo-says/articleshow/124660004.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-101698,resizemode-75,msid-124660004/tech/technology/milans-data-centre-capacity-set-to-surge-tenfold-in-five-years-a2a-ceo-says.jpg",
-            "publishedAt": "2025-10-18T08:06:31Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Artificial Intelligence in Schools: A New Chapter in Modern Education",
-            "url": "https://techbullion.com/artificial-intelligence-in-schools-a-new-chapter-in-modern-education/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/10/kentlangley_imagine_a_modern_vibrant_classroom_setting._At_the__32d6c009-8b6e-41fc-ab15-0417b4c8efd6-1000x600.png",
-            "publishedAt": "2025-10-18T08:02:10Z"
-        },
-        {
-            "source": {
-                "id": "e98c4d2585c4c5661ffe60fed4d51930",
-                "name": "BOL News",
-                "url": "https://www.bolnews.com",
-                "country": "pk"
-            },
-            "title": "AI-generated Islamophobic imagery fuels digital hate in India",
-            "url": "https://www.bolnews.com/latest/2025/10/ai-generated-islamophobic-imagery-fuels-digital-hate-in-india/",
-            "urlToImage": "https://www.bolnews.com/wp-content/uploads/2025/10/FotoJet-2025-10-18T125625.280.jpg",
-            "publishedAt": "2025-10-18T07:59:06Z"
         }
     ]
 }
