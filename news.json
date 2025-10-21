@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2025-10-21T17:14:51.966175Z",
+    "lastUpdatedAt": "2025-10-21T18:21:43.577119Z",
     "articles": [
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Flat Capital Invests Over 38 Million SEK in Four Leading U.S. AI Companies",
+            "url": "https://www.marketscreener.com/news/flat-capital-invests-over-38-million-sek-in-four-leading-u-s-ai-companies-ce7d5ad3d88cf024",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2025-10-21T06:10:13Z"
+        },
+        {
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            },
+            "title": "University of Strathclyde invites applications for AI-focused MSc programme",
+            "url": "https://www.indiatoday.in/education-today/study-abroad/story/university-of-strathclyde-invites-applications-for-msc-in-machine-and-deep-learning-2805993-2025-10-21",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202510/university-of-strathclyde-131624230-16x9.jpeg?VersionId=ZEIkXDHcGDNmhAOIAXwj0B8c2XhsPsHI",
+            "publishedAt": "2025-10-21T06:09:10Z"
+        },
+        {
+            "source": {
+                "id": "933344203c2b862af768b5e662a162a4",
+                "name": "International Business Times",
+                "url": "https://www.ibtimes.com",
+                "country": "us"
+            },
+            "title": "France And Europe: Fertile AI Training Ground?",
+            "url": "https://www.ibtimes.com/france-europe-fertile-ai-training-ground-3787770",
+            "urlToImage": "https://d.ibtimes.com/en/full/4630065/france-prides-itself-being-third-country-world-terms-number-expert-ai-researchers-it-has.jpg",
+            "publishedAt": "2025-10-21T05:51:23Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Gen AI Memory Startup",
+            "url": "https://economictimes.indiatimes.com/ai/ai-insights/the-19-year-old-mumbai-whiz-kid-who-created-supermemory-the-silicon-valley-shaking-next-gen-ai-memory-startup/articleshow/124714507.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-124714562,width-1200,height-630,imgsize-56415,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-10-21T05:31:00Z"
+        },
+        {
+            "source": {
+                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+                "name": "Australian Financial Review",
+                "url": "https://www.afr.com",
+                "country": "au"
+            },
+            "title": "WCM warns of AI phonies that are putting investors at risk",
+            "url": "https://www.afr.com/markets/equity-markets/wcm-warns-of-ai-phonies-that-are-putting-investors-at-risk-20251020-p5n3wl",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.9787%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_405%2C$y_228/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/f46008f7a7face2c2606f1ddf19a7d363c949450",
+            "publishedAt": "2025-10-21T05:22:03Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Pioneering Change: The Next Decade in Indian Banking",
+            "url": "https://www.devdiscourse.com/article/business/3668933-pioneering-change-the-next-decade-in-indian-banking",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/21_10_2025_10_46_15_5887159.jpg?width=920&format=jpeg",
+            "publishedAt": "2025-10-21T05:16:43Z"
+        },
         {
             "source": {
                 "id": "d4e7f6a65e15620f4e4044691a99d0fd",
@@ -360,6 +432,24 @@
             "url": "https://www.aroundosceola.com/index.php/news/florida-law-targets-using-ai-nudify-peoples-photos",
             "urlToImage": "http://www.aroundosceola.com/sites/aroundosceola.com/files/4fb86fbf7c_Ar00801012.jpg",
             "publishedAt": "2025-10-21T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "kashmirobserver"
+            },
+            "title": "Amazon Cloud Outage Exposes Internet’s Weakness",
+            "url": "https://kashmirobserver.net/2025/10/21/amazon-cloud-outage-exposes-internets-weakness/",
+            "urlToImage": "https://kashmirobserver.net/wp-content/uploads/2019/09/Amazon.jpeg",
+            "publishedAt": "2025-10-21 05:41:01"
+        },
+        {
+            "source": {
+                "name": "businessinsider_us"
+            },
+            "title": "Inside a 24-hour vibe coding hackathon in Singapore, where caffeine-fueled coders locked in for one shot at big prizes",
+            "url": "https://www.businessinsider.com/inside-24-hour-cursor-vibe-coding-hackathon-singapore-ai-tech-2025-10",
+            "urlToImage": "https://i.insider.com/68f4aa3fcc993f9955d077e7?width=700",
+            "publishedAt": "2025-10-21 05:14:53"
         },
         {
             "source": {
@@ -3000,78 +3090,6 @@
             "url": "https://www.rrdailyherald.com/news/national/openai-big-chip-orders-dwarf-its-revenues----for-now/article_a1f58000-5dab-5f21-a458-3cffa07f1262.html",
             "urlToImage": "https://bloximages.newyork1.vip.townnews.com/rrdailyherald.com/content/tncms/assets/v3/editorial/9/eb/9ebf6723-f9fe-501f-839f-f11c579b5d86/68f59b429e429.image.jpg?resize=300%2C203",
             "publishedAt": "2025-10-20 01:14:50"
-        },
-        {
-            "source": {
-                "name": "griffindailynews"
-            },
-            "title": "OpenAI big chip orders dwarf its revenues -- for now",
-            "url": "https://www.griffindailynews.com/news/national/openai-big-chip-orders-dwarf-its-revenues----for-now/article_17690761-7087-57fa-bf5c-5e6961868730.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/griffindailynews.com/content/tncms/assets/v3/editorial/5/3c/53c25dfd-9c71-5f03-9c9a-de6584fe704a/68f59b9ebfe50.image.jpg?resize=400%2C270",
-            "publishedAt": "2025-10-20 01:14:50"
-        },
-        {
-            "source": {
-                "name": "hendersondispatch"
-            },
-            "title": "OpenAI big chip orders dwarf its revenues -- for now",
-            "url": "https://www.hendersondispatch.com/news/national/openai-big-chip-orders-dwarf-its-revenues----for-now/article_4576aa30-49ea-537a-bbc6-ff8381f16c54.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/hendersondispatch.com/content/tncms/assets/v3/editorial/b/f0/bf0924e8-994b-58d5-a83e-3f34af24eb8e/68f59b65305c8.image.jpg?resize=400%2C270",
-            "publishedAt": "2025-10-20 01:14:50"
-        },
-        {
-            "source": {
-                "name": "columbiagorgenews"
-            },
-            "title": "OpenAI big chip orders dwarf its revenues -- for now",
-            "url": "https://www.columbiagorgenews.com/news/national/openai-big-chip-orders-dwarf-its-revenues----for-now/article_2fc860f7-61cb-559e-b0de-1d0bf7182cbb.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/columbiagorgenews.com/content/tncms/assets/v3/editorial/1/73/1736c5e4-22c0-5231-a0f0-5f9f3743be65/68f59b34464bb.image.jpg?resize=300%2C203",
-            "publishedAt": "2025-10-20 01:14:50"
-        },
-        {
-            "source": {
-                "name": "postguam"
-            },
-            "title": "OpenAI big chip orders dwarf its revenues -- for now",
-            "url": "https://www.postguam.com/news/national/openai-big-chip-orders-dwarf-its-revenues----for-now/article_b82f5cd3-04e9-5967-ba95-37ab188e4f24.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/c/37/c37ee29e-530a-5a41-a737-686132e05523/68f59b349c93a.image.jpg?resize=400%2C270",
-            "publishedAt": "2025-10-20 01:14:50"
-        },
-        {
-            "source": {
-                "name": "zephyrnet"
-            },
-            "title": "Intel’s Global Price Surge: Up to 20% Rise in 12th, 13th, and 14th Gen Chips",
-            "url": "https://zephyrnet.com/intels-global-price-surge-up-to-20-rise-in-12th-13th-and-14th-gen-chips/",
-            "urlToImage": "https://zephyrnet.com/wp-content/uploads/img-LbV90nY2z2Uofhncmk8C7ixY.png",
-            "publishedAt": "2025-10-20 00:21:46"
-        },
-        {
-            "source": {
-                "name": "headtopics"
-            },
-            "title": "Forget $3000 MacBook, This 15-inch HP Laptop with 1TB PCIe SSD Is Now 71% Off on Amazon",
-            "url": "https://us.headtopics.com/news/forget-3000-macbook-this-15-inch-hp-laptop-with-1tb-pcie-74622519",
-            "urlToImage": "https://i.headtopics.com/images/2025/10/18/gizmodo/forget-the-dyson-hair-dryer-shark-s-rival-model-is-forget-the-dyson-hair-dryer-shark-s-rival-model-is-8FE8E7AC0D0CD35CE33F29EC42C9465D.webp?w=640",
-            "publishedAt": "2025-10-20 00:09:17"
-        },
-        {
-            "source": {
-                "name": "xda_developers"
-            },
-            "title": "3 things a tiny Compute Stick can still do that make it worth buying",
-            "url": "https://www.xda-developers.com/things-tiny-compute-stick-can-still-do-that-make-worth-buying/",
-            "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2025/10/intel-compute-stick-wikimedia-commons.jpg",
-            "publishedAt": "2025-10-20 00:00:21"
-        },
-        {
-            "source": {
-                "name": "financialcontent"
-            },
-            "title": "Are Quantum Computing Stocks IonQ, Rigetti Computing, and D-Wave Quantum Wall Street's Most Dangerous Investment? History Says Yes.",
-            "url": "https://www.fool.com/investing/2025/10/20/quantum-computing-stocks-ionq-rgti-qbts-dangerous/",
-            "urlToImage": "https://g.foolcdn.com/image/?h=400&op=resize&url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F838261%2Frocket-coins-calculator-financial-metrics-to-moon-crypto-invest-getty.jpg&w=400",
-            "publishedAt": "2025-10-20 00:00:00"
         }
     ]
 }
