@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-10-21T22:13:36.612309Z",
+    "lastUpdatedAt": "2025-10-21T23:14:28.682670Z",
     "articles": [
+        {
+            "source": {
+                "id": "c19dcd0d635e985c09987af436e2e9eb",
+                "name": "Buffalo Buffalo News",
+                "url": "https://buffalonews.com",
+                "country": "us"
+            },
+            "title": "Why AI-generated posts about Buffalo Bills are rising",
+            "url": "https://buffalonews.com/sports/professional/nfl/bills/article_d87bd754-4716-4d78-a169-9c94badc7bd9.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/d/87/d87bd754-4716-4d78-a169-9c94badc7bd9/68f6f7a0cc439.preview.jpg?crop=1739%2C913%2C7%2C72&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2025-10-21T10:45:00Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "AI Boom Transforms Utilities From Haven to Soaring Growth Stocks",
+            "url": "https://www.bloomberg.com/news/articles/2025-10-21/ai-boom-transforms-utilities-from-haven-to-soaring-growth-stocks",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHPGeLZL3OBA/v1/1200x800.jpg",
+            "publishedAt": "2025-10-21T10:30:14Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -756,6 +780,96 @@
             "url": "https://www.aroundosceola.com/index.php/news/florida-law-targets-using-ai-nudify-peoples-photos",
             "urlToImage": "http://www.aroundosceola.com/sites/aroundosceola.com/files/4fb86fbf7c_Ar00801012.jpg",
             "publishedAt": "2025-10-21T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "theguardian"
+            },
+            "title": "Joke’s on you, fleshbag! Channel 4’s first AI presenter is dizzyingly grim on so many levels",
+            "url": "https://www.theguardian.com/tv-and-radio/2025/oct/21/channel-4-first-ai-presenter-dispatches",
+            "urlToImage": "https://i.guim.co.uk/img/media/7c0912a6519776be4b43a52d1c4d0adbfe33bc5e/290_0_1340_1073/master/1340.jpg?crop=none&dpr=2&s=none&width=1300",
+            "publishedAt": "2025-10-21 11:10:38"
+        },
+        {
+            "source": {
+                "name": "cision"
+            },
+            "title": "Muon Space to Integrate SpaceX's Starlink Mini Space Lasers Into Its HaloTM Satellite Platform",
+            "url": "https://www.prnewswire.com/news-releases/muon-space-to-integrate-spacexs-starlink-mini-space-lasers-into-its-halo-satellite-platform-302589505.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2101252/Muon_Space_New_Logo.jpg?p=original",
+            "publishedAt": "2025-10-21 11:00:00"
+        },
+        {
+            "source": {
+                "name": "computerworld_in"
+            },
+            "title": "AI agents might smooth some of retail’s worst data problems",
+            "url": "https://www.computerworld.com/article/4074007/ai-agents-might-smooth-some-of-retails-worst-data-problems.html",
+            "urlToImage": "https://www.computerworld.com/wp-content/uploads/2025/10/4074007-0-85893400-1761044578-shutterstock_1302585142.jpg?quality=50&strip=all",
+            "publishedAt": "2025-10-21 11:00:00"
+        },
+        {
+            "source": {
+                "name": "en_prnasisa"
+            },
+            "title": "Altair Unlocks Next-Level HPC, AI, and Quantum Performance with Altair® HPCWorks® 2026",
+            "url": "https://en.prnasia.com/story/508048-0.shtml",
+            "urlToImage": "https://mma.prnasia.com/media2/2800499/Altair_HPCworks.jpg?p=medium600",
+            "publishedAt": "2025-10-21 11:00:00"
+        },
+        {
+            "source": {
+                "name": "vice"
+            },
+            "title": "Are MacBooks Finally Getting a Touchscreen?",
+            "url": "https://www.vice.com/en/article/rumor-macbook-touchscreen-2026/",
+            "urlToImage": "https://www.vice.com/wp-content/uploads/sites/2/2025/08/MacBook-Pro-M4-3-e1755199877342.jpg?w=1024",
+            "publishedAt": "2025-10-21 10:53:28"
+        },
+        {
+            "source": {
+                "name": "itpro"
+            },
+            "title": "Nvidia CEO Jensen Huang says future enterprises will employ a ‘combination of humans and digital humans’ – and he’s not the first big tech exec touting an ‘augmented’ AI-powered workforce",
+            "url": "https://www.itpro.com/technology/artificial-intelligence/jensen-huang-nvidia-future-ai-workforce-agents",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/xyBH6R5CfMPr3PQ7gz6Lcf-1280-80.jpg",
+            "publishedAt": "2025-10-21 10:52:03"
+        },
+        {
+            "source": {
+                "name": "analyticsindiamag"
+            },
+            "title": "DeepSeek’s New OCR Model Can Process Over 2 Lakh Pages Daily on a Single GPU",
+            "url": "https://analyticsindiamag.com/ai-news-updates/deepseeks-new-ocr-model-can-process-over-2-lakh-pages-daily-on-a-single-gpu/",
+            "urlToImage": "https://analyticsindiamag.com/wp-content/uploads/2024/12/DeepSeek-AI.jpg",
+            "publishedAt": "2025-10-21 10:45:26"
+        },
+        {
+            "source": {
+                "name": "newsbytesapp"
+            },
+            "title": "DeepSeek’s new AI model generates 200,000 training pages per GPU",
+            "url": "https://www.newsbytesapp.com/news/science/deepseek-s-new-ai-model-can-process-documents-with-fewer-tokens/story",
+            "urlToImage": "https://i.cdn.newsbytesapp.com/images/l68220251021144705.jpeg",
+            "publishedAt": "2025-10-21 10:38:20"
+        },
+        {
+            "source": {
+                "name": "pcworld_us"
+            },
+            "title": "Worried about hackers, viruses, and fraud? Ask yourself these 10 questions",
+            "url": "https://www.pcworld.com/article/2924220/hackers-viruses-fraud-10-security-questions-every-user-needs-to-know.html",
+            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/10/shutterstock_2476569139-1.jpg?quality=50&strip=all",
+            "publishedAt": "2025-10-21 10:30:00"
+        },
+        {
+            "source": {
+                "name": "pcworld_us"
+            },
+            "title": "HP Zbook Ultra G1a review: The mobile workstation that can game, too",
+            "url": "https://www.pcworld.com/article/2944690/hp-zbook-ultra-g1a-review.html",
+            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/10/20251017_095902.jpg?quality=50&strip=all",
+            "publishedAt": "2025-10-21 10:30:00"
         },
         {
             "source": {
@@ -3063,114 +3177,6 @@
             "url": "https://www.xda-developers.com/im-uninstalling-firefox-for-good-heres-what-using-instead/",
             "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/10/img_20251017_210439_739.jpg",
             "publishedAt": "2025-10-20 16:30:19"
-        },
-        {
-            "source": {
-                "name": "wvnews"
-            },
-            "title": "10x Genomics and Anthropic Partner to Make Single Cell and Spatial Analysis More Accessible Through Claude for Life Sciences",
-            "url": "https://www.wvnews.com/news/around_the_web/partners/pr_newswire/subject/new_products_services/10x-genomics-and-anthropic-partner-to-make-single-cell-and-spatial-analysis-more-accessible-through/article_5e071122-3842-5217-9aa9-69d063b28e62.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/assets/v3/editorial/e/cf/ecf4f2ee-1248-5920-b489-fd99778831d7/68f6673c0986c.image.jpg?resize=300%2C150",
-            "publishedAt": "2025-10-20 16:30:00"
-        },
-        {
-            "source": {
-                "name": "phys"
-            },
-            "title": "Chemical networks can mimic nervous systems to power movement in soft materials",
-            "url": "https://phys.org/news/2025-10-chemical-networks-mimic-nervous-power.html",
-            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2025/-how-chemical-networks-1.jpg",
-            "publishedAt": "2025-10-20 16:29:04"
-        },
-        {
-            "source": {
-                "name": "interestingengineering"
-            },
-            "title": "China’s silent race to own the simulation stack",
-            "url": "https://interestingengineering.com/innovation/china-cae-engineering-simulation-software",
-            "urlToImage": "https://cms.interestingengineering.com/wp-content/uploads/2025/10/Untitled-1_5180d9.png",
-            "publishedAt": "2025-10-20 16:22:46"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Skeptics Warn of AI Bubble: Unsustainable Costs Threaten Generative Tech",
-            "url": "https://www.webpronews.com/skeptics-warn-of-ai-bubble-unsustainable-costs-threaten-generative-tech/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-ce5bcf93-9c77-4d8e-9f27-e792bae49e84.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-10-20 16:14:51"
-        },
-        {
-            "source": {
-                "name": "cnet"
-            },
-            "title": "Your Ultimate Guide to AI Video Generators: How to Use Sora 2, Veo 3 and More",
-            "url": "https://www.cnet.com/tech/services-and-software/your-ultimate-guide-to-ai-video-generators-how-to-use-sora-2-veo-3-and-more/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/ab514e7cbc935348b4206cad9100923adf6fb323/hub/2025/09/26/5c860b21-281c-4c91-aa97-6b840cc127c5/ai-cnet-6.png?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-10-20 16:00:05"
-        },
-        {
-            "source": {
-                "name": "cyclingnews"
-            },
-            "title": "How to get a super neat bike light setup - Tips and tricks to clean up your bike this winter",
-            "url": "https://www.cyclingnews.com/features/how-to-get-a-super-neat-bike-light-setup-tips-and-tricks-to-clean-up-your-bike-this-winter/",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/br6fRYFKf8SJtXKkGAheyU-2560-80.jpg",
-            "publishedAt": "2025-10-20 15:52:53"
-        },
-        {
-            "source": {
-                "name": "computerworld_in"
-            },
-            "title": "Omni Group devs explain how they use Apple Foundation Models",
-            "url": "https://www.computerworld.com/article/4075643/omni-group-devs-explain-how-they-use-apple-foundation-models.html",
-            "urlToImage": "https://www.computerworld.com/wp-content/uploads/2025/10/4075643-0-35691400-1760975056-Apple-Foundation-Models-framework-hero.jpg?quality=50&strip=all",
-            "publishedAt": "2025-10-20 15:43:28"
-        },
-        {
-            "source": {
-                "name": "fortune"
-            },
-            "title": "As workers fear for AI job cuts, Open AI co-founder says AI agents will take a decade before they even work: ‘They don’t have enough intelligence’",
-            "url": "https://fortune.com/2025/10/20/workers-fear-ai-job-cuts-open-ai-co-founder-says-ai-agents-will-take-a-decade-before-they-even-work-they-dont-have-enough-intelligence-unemployment-automation-2035/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-2150009266-e1760973712654.jpg?w=2048",
-            "publishedAt": "2025-10-20 15:30:18"
-        },
-        {
-            "source": {
-                "name": "menafn"
-            },
-            "title": "GSI Technology Stock Tripled In Value Today: What's Driving This Powerful Surge?",
-            "url": "https://menafn.com/1110222206/GSI-Technology-Stock-Tripled-In-Value-Today-Whats-Driving-This-Powerful-Surge",
-            "urlToImage": "https://menafn.com/updates/pr/2025-10/20/AN_web-p_db6f0image_story.webp",
-            "publishedAt": "2025-10-20 15:17:45"
-        },
-        {
-            "source": {
-                "name": "menafn"
-            },
-            "title": "10X Genomics Partners With Anthropic To Bring AI Tools For Researchers",
-            "url": "https://menafn.com/1110222196/10X-Genomics-Partners-With-Anthropic-To-Bring-AI-Tools-For-Researchers",
-            "urlToImage": "https://menafn.com/updates/pr/2025-10/20/AN_web-p_5e0fcimage_story.webp",
-            "publishedAt": "2025-10-20 15:17:43"
-        },
-        {
-            "source": {
-                "name": "phys"
-            },
-            "title": "A mathematical 'Rosetta Stone' translates and predicts the larger effects of molecular systems",
-            "url": "https://phys.org/news/2025-10-mathematical-rosetta-stone-larger-effects.html",
-            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2025/a-rosetta-stone-for-mo-2.jpg",
-            "publishedAt": "2025-10-20 15:08:04"
-        },
-        {
-            "source": {
-                "name": "futurism"
-            },
-            "title": "Inventor of Vibe Coding Admits He Hand-Coded His New Project",
-            "url": "https://futurism.com/artificial-intelligence/inventor-vibe-coding-doesnt-work",
-            "urlToImage": "https://futurism.com/wp-content/uploads/2025/10/inventor-vibe-coding-doesnt-work.jpg?quality=85",
-            "publishedAt": "2025-10-20 14:55:54"
         }
     ]
 }
