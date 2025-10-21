@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-10-21T05:15:17.250318Z",
+    "lastUpdatedAt": "2025-10-21T06:23:28.078508Z",
     "articles": [
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "Optical system achieves terabit-per-second capacity and integrates quantum cryptography for long-term security",
+            "url": "https://phys.org/news/2025-10-optical-terabit-capacity-quantum-cryptography.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/safer-quantum-secured.jpg",
+            "publishedAt": "2025-10-20T18:22:03Z"
+        },
+        {
+            "source": {
+                "id": "8da923084554b2821233d6c5c5f02c97",
+                "name": "Fox News",
+                "url": "https://www.foxnews.com",
+                "country": "us"
+            },
+            "title": "Michigan woman wins $100,000 Powerball jackpot using ChatGPT numbers",
+            "url": "https://www.foxnews.com/lifestyle/michigan-woman-wins-100k-powerball-jackpot-using-chatgpt-pick-numbers",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/michigan-lottery-winning.jpg",
+            "publishedAt": "2025-10-20T18:03:24Z"
+        },
+        {
+            "source": {
+                "id": "839b9d172147498877bab641815b0631",
+                "name": "Entrepreneur",
+                "url": "https://www.entrepreneur.com",
+                "country": "us"
+            },
+            "title": "The Workplace Skills Every Leader Must Nurture in the AI Era",
+            "url": "https://www.entrepreneur.com/science-technology/the-workplace-skills-every-leader-must-nurture-in-the-ai-era/497705",
+            "urlToImage": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2025/10/1760045540-business-thrive-creativity-1025-g648950330.jpg?resize=1024,682",
+            "publishedAt": "2025-10-20T18:00:00Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "Building the Intelligence Behind Drug Discovery: Inside Xuefei Gao’s Journey with Ascent Bio",
+            "url": "https://techbullion.com/building-the-intelligence-behind-drug-discovery-inside-xuefei-gaos-journey-with-ascent-bio/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/10/bio.png",
+            "publishedAt": "2025-10-20T17:38:49Z"
+        },
         {
             "source": {
                 "id": "8da923084554b2821233d6c5c5f02c97",
@@ -816,6 +864,96 @@
             "url": "https://www.forbes.com/sites/peterhigh/2025/10/20/gartners-technology-trend-playbook-for-2026/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68f67c7fcd9493cf7fcbe18d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-10-20T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "I compared the best headphones from Sony and Bose - here's the ANC king right now",
+            "url": "https://www.zdnet.com/article/i-compared-the-best-headphones-from-sony-and-bose-heres-the-anc-king-right-now/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/47d815defd8a980bcf4d14897f52adf5c1584962/2025/10/16/cecc4a56-028e-4227-bd16-7d676c380afe/bosevsony.jpg?auto=webp&width=1280",
+            "publishedAt": "2025-10-20 18:23:00"
+        },
+        {
+            "source": {
+                "name": "phys"
+            },
+            "title": "How AI can improve storm surge forecasts to help save lives",
+            "url": "https://phys.org/news/2025-10-ai-storm-surge.html",
+            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2020/stormsurge.jpg",
+            "publishedAt": "2025-10-20 18:00:02"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "I saw the future of Windows PCs - and it may finally be time to ditch my MacBook",
+            "url": "https://www.zdnet.com/article/i-saw-the-future-of-windows-pcs-and-it-may-finally-be-time-to-ditch-my-macbook/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/2fbfa1b786b44cc416a3c4f53493bd360c81c390/2025/03/03/e77fb3c4-ca79-45c4-b378-5fd2624ac666/dsc04272.jpg?auto=webp&width=1280",
+            "publishedAt": "2025-10-20 18:00:00"
+        },
+        {
+            "source": {
+                "name": "newsable_asianetnews"
+            },
+            "title": "GSI Technology Stock Tripled In Value Today: What’s Driving This Powerful Surge?",
+            "url": "https://newsable.asianetnews.com/markets/gsi-technology-stock-tripled-in-value-today-what-s-driving-this-powerful-surge-articleshow-gn65a3e",
+            "urlToImage": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-d77f2bea-cae0-4d35-87ff-a89237c90f41.webp",
+            "publishedAt": "2025-10-20 17:56:48"
+        },
+        {
+            "source": {
+                "name": "news_wm"
+            },
+            "title": "The summer of cyber: W&M students gain real-world experience in cybersecurity",
+            "url": "https://news.wm.edu/2025/10/20/the-summer-of-cyber-wm-students-gain-real-world-experience-in-cybersecurity/",
+            "urlToImage": "https://wmit-news-prod.s3.amazonaws.com/wp-content/uploads/2025/10/20092401/viceroy-1260-360x240.jpg",
+            "publishedAt": "2025-10-20 17:55:04"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "From Cloud to Desk: 3 Signs the AI Revolution is Going Local",
+            "url": "https://hackernoon.com/from-cloud-to-desk-3-signs-the-ai-revolution-is-going-local",
+            "urlToImage": "https://hackernoon.imgix.net/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-8t03ne1.png",
+            "publishedAt": "2025-10-20 17:49:31"
+        },
+        {
+            "source": {
+                "name": "therobotreport"
+            },
+            "title": "Amazon, CMU partner on new AI Innovation Hub",
+            "url": "https://www.therobotreport.com/amazon-cmu-partner-on-new-ai-innovation-hub/",
+            "urlToImage": "https://www.therobotreport.com/wp-content/uploads/2025/10/CMU-Amazon-AI-featured.jpg",
+            "publishedAt": "2025-10-20 17:47:45"
+        },
+        {
+            "source": {
+                "name": "mit"
+            },
+            "title": "Alan Whitney, MIT Haystack Observatory radio astronomer who pioneered very long baseline interfereometry, dies at 81",
+            "url": "https://news.mit.edu/2025/alan-whitney-radio-astronomer-dies-1020",
+            "urlToImage": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202510/mit-haystack-Whitney-Alan-obit.jpg?itok=9JSOFE7x",
+            "publishedAt": "2025-10-20 17:20:00"
+        },
+        {
+            "source": {
+                "name": "messenger_inquirer"
+            },
+            "title": "Blind can see again thanks to revolutionary new eye implant",
+            "url": "https://www.messenger-inquirer.com/lifestyles/health/blind-can-see-again-thanks-to-revolutionary-new-eye-implant/article_c75ffb52-353b-54aa-b02d-e34986c068e3.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/messenger-inquirer.com/content/tncms/assets/v3/editorial/a/27/a27f5367-ccfd-5e9c-b940-e0f716b1a6df/68f672744664c.image.jpg?resize=300%2C225",
+            "publishedAt": "2025-10-20 17:18:13"
+        },
+        {
+            "source": {
+                "name": "guampdn"
+            },
+            "title": "Blind can see again thanks to revolutionary new eye implant",
+            "url": "https://www.guampdn.com/lifestyle/wellness/blind-can-see-again-thanks-to-revolutionary-new-eye-implant/article_93da9602-d37c-5de8-947d-293ea9327e4f.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/guampdn.com/content/tncms/assets/v3/editorial/0/c9/0c948b81-0dc1-5b90-99d6-a9c1b632d0fa/68f672652d9ea.image.png?resize=200%2C141",
+            "publishedAt": "2025-10-20 17:18:13"
         },
         {
             "source": {
@@ -2094,6 +2232,18 @@
         },
         {
             "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+            },
+            "title": "IIM Bangalore opens admissions for BSc (Hons) in Data Science and Economics for 2026 intake",
+            "url": "https://indianexpress.com/article/education/iim-bangalore-opens-admissions-bsc-hons-data-science-economics-2026-intake-ugat-ug-iimb-ac-in-10313906/",
+            "urlToImage": "https://images.indianexpress.com/2025/10/IIMB-Main-Gate-1.jpg",
+            "publishedAt": "2025-10-19T03:56:14Z"
+        },
+        {
+            "source": {
                 "id": "4ecbadd82aa9fe7a52c0a3b5454020ab",
                 "name": "Around Osceola",
                 "url": "https://www.aroundosceola.com",
@@ -2919,186 +3069,6 @@
             "url": "https://techbullion.com/the-rise-of-generative-ai-how-its-reshaping-technology-and-everyday-life-2/",
             "urlToImage": "https://techbullion.com/wp-content/uploads/2025/10/IMG_2573-1000x600.jpeg",
             "publishedAt": "2025-10-18T15:25:54Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "How to Avoid Being Hurt When the AI Bubble Bursts",
-            "url": "https://www.bloomberg.com/news/newsletters/2025-10-18/how-to-protect-yourself-from-the-ai-bubble-merryn-talks-money",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/is1vl.sQcyt8/v0/1200x800.jpg",
-            "publishedAt": "2025-10-18T13:19:09Z"
-        },
-        {
-            "source": {
-                "id": "60c457b35b486691319f105c3a760060",
-                "name": "Malayala Manorama",
-                "url": "https://www.onmanorama.com",
-                "country": "in"
-            },
-            "title": "‘Bha Bha Bha’ makers confirm ‘leaked’ image from Dileep’s film sets is AI-generated",
-            "url": "https://www.onmanorama.com/entertainment/entertainment-news/2025/10/18/ai-generated-movie-leaks-dileep-movie-ai-hoax.html",
-            "urlToImage": "https://img.onmanorama.com/content/dam/mm/en/archive/entertainment/entertainment-news/images/2025/10/18/bha-bha-bha.jpg",
-            "publishedAt": "2025-10-18T12:42:26Z"
-        },
-        {
-            "source": {
-                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-                "name": "The Financial Express",
-                "url": "https://www.financialexpress.com",
-                "country": "in"
-            },
-            "title": "Diwali with family, friends & bots",
-            "url": "https://www.financialexpress.com/life/lifestyle/diwali-with-family-friends-amp-bots/4014953/",
-            "urlToImage": "https://images.financialexpressdigital.com/2025/10/diwali-party_20251018123618.jpg",
-            "publishedAt": "2025-10-18T12:39:14Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Switching From Solana to Ozak AI: How This Flip Could Make You More Than Double Your Investment by 2026",
-            "url": "https://www.tribuneindia.com/news/business/switching-from-solana-to-ozak-ai-how-this-flip-could-make-you-more-than-double-your-investment-by-2026/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTY1NWZiNGEwLWFjMWYtMTFmMC1iMDY0LWVkNWUyYTYzNDljNy5qcGc=",
-            "publishedAt": "2025-10-18T12:35:51Z"
-        },
-        {
-            "source": {
-                "id": "4300aa22a5f803b09a37ff0632b44685",
-                "name": "The daily Star",
-                "url": "https://www.dailystar.co.uk",
-                "country": "gb"
-            },
-            "title": "Woman uses ChatGPT to pick winning lottery numbers as she bags £74k",
-            "url": "https://www.dailystar.co.uk/news/us-news/woman-uses-chatgpt-pick-winning-36090055",
-            "urlToImage": "https://i2-prod.dailystar.co.uk/article36090096.ece/ALTERNATES/s1200/1_Woman-uses-ChatGPT-to-pick-winning-lottery-numbers-bagging-%C2%A390k.jpg",
-            "publishedAt": "2025-10-18T12:30:41Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "JIOSTAR AND COLLECTIVE MEDIA NETWORK PARTNER TO LAUNCH MAHABHARAT: EK DHARMAYUDH, THE FIRST EVER AI",
-            "url": "https://www.tribuneindia.com/news/business/jiostar-and-collective-media-network-partner-to-launch-mahabharat-ek-dharmayudh-the-first-ever-ai-powered-premium-entertainment-series-india-has-seen-2/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWZmZTc0MTIwLWFjMWQtMTFmMC1iMDY0LWVkNWUyYTYzNDljNy5qcGc=",
-            "publishedAt": "2025-10-18T12:24:58Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Jiostar and Collective Media Network partner to launch Mahabharat: Ek Dharmayudh, the first ever Ai",
-            "url": "https://www.tribuneindia.com/news/business/jiostar-and-collective-media-network-partner-to-launch-mahabharat-ek-dharmayudh-the-first-ever-ai-powered-premium-entertainment-series-india-has-seen/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWM0ZjQwOTIwLWFjMWEtMTFmMC1iMDY0LWVkNWUyYTYzNDljNy5qcGc=",
-            "publishedAt": "2025-10-18T12:05:37Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Crypto Miners Riding the AI Wave Are Leaving Bitcoin Behind",
-            "url": "https://www.bloomberg.com/news/articles/2025-10-18/crypto-miners-riding-the-ai-wave-are-leaving-bitcoin-behind",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6F1vL86_cjw/v1/1200x800.jpg",
-            "publishedAt": "2025-10-18T12:00:00Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "China's generative AI users double to 515 million",
-            "url": "https://www.thestar.com.my/aseanplus/2025/10/18/china039s-generative-ai-users-double-to-515-million",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/18/3577422.jpg",
-            "publishedAt": "2025-10-18T11:54:00Z"
-        },
-        {
-            "source": {
-                "id": "e479ce8332aab31d8bac6ba9584cedbb",
-                "name": "Republic World",
-                "url": "https://www.republicworld.com",
-                "country": "in"
-            },
-            "title": "Ozak AI Vs Ethereum: $0.012 With 8,333% Potential Vs $4,500 With 122% Potential-The ROI Battle",
-            "url": "https://www.republicworld.com/initiatives/ozak-ai-vs-ethereum-0012-with-8333-potential-vs-4500-with-122-potentialthe-roi-battle",
-            "urlToImage": "https://img.republicworld.com/all_images/ozak-ai-vs-ethereum-0012-with-8333-potential-vs-4500-with-122-potentialthe-roi-battle-1760786335385-16_9.webp",
-            "publishedAt": "2025-10-18T11:19:00Z"
-        },
-        {
-            "source": {
-                "id": "494f687bd1dfaa9f7b4a705c860671d0",
-                "name": "Hartford Courant",
-                "url": "https://www.courant.com",
-                "country": "us"
-            },
-            "title": "Meta adds parental controls for AI-teen interactions",
-            "url": "https://www.courant.com/2025/10/18/meta-adds-parental-controls-for-ai-teen-interactions/",
-            "urlToImage": "https://www.courant.com/wp-content/uploads/2025/10/Meta_AI_Teens_60816.jpg?w=1024&h=682",
-            "publishedAt": "2025-10-18T11:15:53Z"
-        },
-        {
-            "source": {
-                "id": "d9acc08d8066fc3620da5e6b20b406ad",
-                "name": "Boulder Daily Camera",
-                "url": "https://www.dailycamera.com",
-                "country": "us"
-            },
-            "title": "Generative Artificial Intelligence: a threat, an opportunity or both? (Opinion)",
-            "url": "https://www.dailycamera.com/2025/10/18/generative-artificial-intelligence-a-threat-an-opportunity-or-both-opinion/",
-            "urlToImage": "https://www.dailycamera.com/wp-content/uploads/2025/06/GettyImages-1798129342.jpg?w=1024&h=683",
-            "publishedAt": "2025-10-18T11:00:56Z"
-        },
-        {
-            "source": {
-                "id": "b1fa63410571207862faad9daf9b4527",
-                "name": "Pittsburgh Tribune-Review",
-                "url": "https://triblive.com",
-                "country": "us"
-            },
-            "title": "Colin McNickle: Keeping the AI revolution powered up",
-            "url": "https://triblive.com/opinion/colin-mcnickle-keeping-the-ai-revolution-powered-up/",
-            "urlToImage": "https://assets-varnish.triblive.com/2025/10/8959726_web1_gtr-HomerCityHearing-090925.jpg",
-            "publishedAt": "2025-10-18T11:00:00Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "The Future of Crypto: Why Investors Are Considering Ozak AI as a Better Alternative to Ethereum and Solana",
-            "url": "https://techbullion.com/the-future-of-crypto-why-investors-are-considering-ozak-ai-as-a-better-alternative-to-ethereum-and-solana/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/10/image001-46.png",
-            "publishedAt": "2025-10-18T10:25:15Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Precede Biosciences Presents New ESMO 2025 Data Demonstrating Its Liquid Biopsy Platform’s Ability to Resolve Target Expression and Molecular Subtypes in Small Cell Lung Cancer",
-            "url": "https://www.manilatimes.net/2025/10/18/tmt-newswire/globenewswire/precede-biosciences-presents-new-esmo-2025-data-demonstrating-its-liquid-biopsy-platforms-ability-to-resolve-target-expression-and-molecular-subtypes-in-small-cell-lung-cancer/2203440",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/10/18/788465.png",
-            "publishedAt": "2025-10-18T10:21:08Z"
         }
     ]
 }
