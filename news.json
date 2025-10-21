@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2025-10-21T15:16:13.939081Z",
+    "lastUpdatedAt": "2025-10-21T16:20:17.673141Z",
     "articles": [
+        {
+            "source": {
+                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+                "name": "The Financial Express",
+                "url": "https://www.financialexpress.com",
+                "country": "in"
+            },
+            "title": "Stressed by H-1B process, Indian-origin techie is using AI to simplify work-visa filing",
+            "url": "https://www.financialexpress.com/shorts/business/investing-abroad/who-is-priyanka-kulkarni-stressed-by-h-1b-process-indian-origin-techie-is-using-ai-to-simplify-work-visa-filing-4016871/",
+            "urlToImage": "https://images.financialexpressdigital.com/2025/10/Priyanka-Kulkarni.jpg",
+            "publishedAt": "2025-10-21T04:03:22Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Game-changer for poultry health: AI cuts vaccine development time from months to days",
+            "url": "https://www.devdiscourse.com/article/technology/3663261-game-changer-for-poultry-health-ai-cuts-vaccine-development-time-from-months-to-days",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/14_10_2025_18_10_38_2192833.png?width=920&format=jpeg",
+            "publishedAt": "2025-10-21T03:59:47Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "How artificial intelligence will redefine Industry 5.0",
+            "url": "https://www.devdiscourse.com/article/technology/3663052-how-artificial-intelligence-will-redefine-industry-50",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/14_10_2025_16_32_00_6524864.png?width=920&format=jpeg",
+            "publishedAt": "2025-10-21T03:52:54Z"
+        },
+        {
+            "source": {
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
+                "country": "in"
+            },
+            "title": "Cyber defenders sound the alarm as F5 hack exposes broad risks",
+            "url": "https://www.thehindu.com/sci-tech/technology/cyber-defenders-sound-the-alarm-as-f5-hack-exposes-broad-risks/article70185201.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/b31nmy/article70185204.ece/alternates/LANDSCAPE_1200/2025-08-08T004153Z_2035382047_RC2Q56AIDN2U_RTRMADP_3_OPTUS-HACK-REGULATOR.JPG",
+            "publishedAt": "2025-10-21T03:51:06Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Ferrari Renews Cybersecurity Partnership",
+            "url": "https://www.marketscreener.com/news/ferrari-renews-cybersecurity-partnership-ce7d5ad3d98ff620",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2025-10-21T03:45:24Z"
+        },
+        {
+            "source": {
+                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+                "name": "NDTV.com",
+                "url": "https://www.ndtv.com",
+                "country": "in"
+            },
+            "title": "AI Push Drives Record Job Cuts At Top Private Employer TCS",
+            "url": "https://www.ndtv.com/india-news/ai-push-drives-record-job-cuts-at-top-private-employer-tcs-9489622",
+            "urlToImage": "https://c.ndtvimg.com/2025-10/e8jfvs4s_tcs_625x300_04_October_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+            "publishedAt": "2025-10-21T03:44:47Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Sea CEO Li Sees Path to $1 Trillion Market Cap With Help of AI",
+            "url": "https://www.bloomberg.com/news/articles/2025-10-21/sea-ceo-li-sees-path-to-1-trillion-market-cap-with-help-of-ai",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDep0ZAeMjJs/v1/1200x800.jpg",
+            "publishedAt": "2025-10-21T03:30:39Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -132,6 +216,69 @@
             "url": "https://www.aroundosceola.com/index.php/news/florida-law-targets-using-ai-nudify-peoples-photos",
             "urlToImage": "http://www.aroundosceola.com/sites/aroundosceola.com/files/4fb86fbf7c_Ar00801012.jpg",
             "publishedAt": "2025-10-21T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "republicworld"
+            },
+            "title": "AWS Cloud Service Back To Normal After Outage Hits Snapchat, Reddit, Venmo",
+            "url": "https://www.republicworld.com/business/aws-cloud-service-back-to-normal-after-outage-hits-snapchat-reddit-venmo",
+            "urlToImage": "https://img.republicworld.com/all_images/aws-cloud-service-i-amazon-1761019769274-16_9.webp?format=webp&h=225&q=75&w=400",
+            "publishedAt": "2025-10-21 04:09:38"
+        },
+        {
+            "source": {
+                "name": "hastingstribune"
+            },
+            "title": "Tamron Announces 25-200mm F2.8-5.6 Di III VXD G2 All-in-One Zoom Lens for Sony E-Mount; ...",
+            "url": "https://www.hastingstribune.com/ap/business/tamron-announces-25-200mm-f2-8-5-6-di-iii-vxd-g2-all-in-one/article_5e237918-d8b4-5cc2-976f-c81da21b555b.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/hastingstribune.com/content/tncms/custom/image/7b43d562-eeac-11e4-8a7b-970670abfcb2.jpg?resize=600%2C315",
+            "publishedAt": "2025-10-21 04:03:34"
+        },
+        {
+            "source": {
+                "name": "postregister"
+            },
+            "title": "Tamron Announces 25-200mm F2.8-5.6 Di III VXD G2 All-in-One Zoom Lens for Sony E-Mount; ...",
+            "url": "https://www.postregister.com/businessreport/technology/tamron-announces-25-200mm-f2-8-5-6-di-iii-vxd-g2-all-in-one/article_611e0511-34e2-5392-8d3c-bd453112dd4b.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
+            "publishedAt": "2025-10-21 04:03:34"
+        },
+        {
+            "source": {
+                "name": "foreignaffairs"
+            },
+            "title": "The AI Grand Bargain",
+            "url": "https://www.foreignaffairs.com/united-states/artificial-intelligence-grand-bargain-buchanan-collins",
+            "urlToImage": "https://cdn-live.foreignaffairs.com/sites/default/files/styles/x_large_1x/public/images/2025/10/08/FA_USAILeadership_CMYK_CintaFosch.jpg?itok=x6Pc2hND",
+            "publishedAt": "2025-10-21 04:00:00"
+        },
+        {
+            "source": {
+                "name": "venturebeat"
+            },
+            "title": "AI’s financial blind spot: Why long-term success depends on cost transparency",
+            "url": "https://venturebeat.com/ai/ais-financial-blind-spot-why-long-term-success-depends-on-cost-transparency",
+            "urlToImage": "https://images.ctfassets.net/jdtwqhzvc2n1/2GoMirWsXnSuZjapMQusnu/8efdafab45e1ad3f5c233f53b35287b2/AdobeStock_1726411808.jpeg",
+            "publishedAt": "2025-10-21 04:00:00"
+        },
+        {
+            "source": {
+                "name": "digitaltrends"
+            },
+            "title": "Unitree’s humanoid robot looks ready (for a Broadway musical)",
+            "url": "https://www.digitaltrends.com/computing/unitrees-humanoid-robot-looks-ready-for-a-broadway-musical/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/10/unitree-h2-robot.jpg?p=1&resize=1200%2C630",
+            "publishedAt": "2025-10-21 04:00:00"
+        },
+        {
+            "source": {
+                "name": "expresscomputer"
+            },
+            "title": "From transactions to trust: How PayU is using GenAI to redefine digital finance",
+            "url": "https://www.expresscomputer.in/news/from-transactions-to-trust-how-payu-is-using-genai-to-redefine-digital-finance/128697/",
+            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2025/10/17104606/EC_Koushik_Kadidal_PayU_750.jpg",
+            "publishedAt": "2025-10-21 03:30:59"
         },
         {
             "source": {
@@ -2937,174 +3084,6 @@
             "url": "https://www.cbssports.com/nfl/news/week-7-2025-nfl-player-props-picks-odds-dak-prescott-sunday-nfl-prop-bets/",
             "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/10/19/0b92a23f-2bb5-45f6-b9c2-b4dccdd8cf0c/thumbnail/1200x675/341b35e486922727655600f8fa94f621/dak-prescott-dallas-cowboys.jpg",
             "publishedAt": "2025-10-19T13:54:05Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Join FiveCrypto and complete the AI Training Model to Get 0.1 ETH Reward",
-            "url": "https://techbullion.com/join-fivecrypto-and-complete-the-ai-training-model-to-get-0-1-eth-reward/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/10/VCGGGG.png",
-            "publishedAt": "2025-10-19T12:16:51Z"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            },
-            "title": "Anthropic tries to keep pace with OpenAI, faces off with David Sacks",
-            "url": "https://www.cnbc.com/2025/10/19/anthropic-tries-to-keep-pace-with-openai-faces-off-with-david-sacks.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108112971-17413818912025-03-07t210857z_1541230211_rc2k8da4v587_rtrmadp_0_usa-trump-crypto.jpeg?v=1741381989&w=1920&h=1080",
-            "publishedAt": "2025-10-19T12:00:01Z"
-        },
-        {
-            "source": {
-                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-                "name": "New York Post",
-                "url": "https://nypost.com",
-                "country": "us"
-            },
-            "title": "Insane AI videos of celebs are everywhere -should they embrace it or call their lawyer?",
-            "url": "https://nypost.com/2025/10/19/us-news/insane-ai-videos-of-celebs-are-everywhere-should-they-embrace-it-or-call-their-lawyer/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/10/newspress-collage-q8okzs8b8-1760741571135.jpg?quality=75&strip=all&1760727255&w=1200",
-            "publishedAt": "2025-10-19T12:00:00Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "From reactive to predictive: Why agriculture needs AI now more than ever",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/from-reactive-to-predictive-why-agriculture-needs-ai-now-more-than-ever/articleshow/124686060.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-124686060,width-1070,height-580,imgsize-null,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "publishedAt": "2025-10-19T10:24:00Z"
-        },
-        {
-            "source": {
-                "id": "28bc60a23a7bf89e60f893506992a3fe",
-                "name": "Daily Excelsior",
-                "url": "https://www.dailyexcelsior.com",
-                "country": "in"
-            },
-            "title": "India's envoy to US outlines AI goals, says focus on adoption across ecosystem",
-            "url": "https://www.dailyexcelsior.com/indias-envoy-to-us-outlines-ai-goals-says-focus-on-adoption-across-ecosystem/",
-            "urlToImage": "https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2025/10/India-12.jpg",
-            "publishedAt": "2025-10-19T10:09:02Z"
-        },
-        {
-            "source": {
-                "id": "0ce70f407e0fa82ddaeeb29243aa8210",
-                "name": "SooToday",
-                "url": "https://www.sootoday.com",
-                "country": "ca"
-            },
-            "title": "Artificial intelligence threatening to push young people out of entry-level jobs",
-            "url": "https://www.sootoday.com/national-news/artificial-intelligence-threatening-to-push-young-people-out-of-entry-level-jobs-11367700",
-            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/10/7e64c06d82e358341f7ed91ee46d42bc3a5c72a3666a33f5007517e18619804a.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2025-10-19T10:00:09Z"
-        },
-        {
-            "source": {
-                "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
-                "name": "BayToday",
-                "url": "https://www.baytoday.ca",
-                "country": "ca"
-            },
-            "title": "Artificial intelligence threatening to push young people out of entry-level jobs",
-            "url": "https://www.baytoday.ca/national-news/artificial-intelligence-threatening-to-push-young-people-out-of-entry-level-jobs-11367700",
-            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/10/7e64c06d82e358341f7ed91ee46d42bc3a5c72a3666a33f5007517e18619804a.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2025-10-19T10:00:09Z"
-        },
-        {
-            "source": {
-                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-                "name": "NDTV.com",
-                "url": "https://www.ndtv.com",
-                "country": "in"
-            },
-            "title": "IIM Bangalore 2026 Admissions Open For BSc In Data Science And Economics, Apply Here",
-            "url": "https://www.ndtv.com/education/iim-bangalore-2026-admissions-open-for-bsc-in-data-science-and-economics-apply-here-9482935",
-            "urlToImage": "https://c.ndtvimg.com/2025-10/1pbhs47o_as_625x300_19_October_25.jpeg",
-            "publishedAt": "2025-10-19T09:54:56Z"
-        },
-        {
-            "source": {
-                "id": "0c9364fff53c0e5a3450947d9a54e795",
-                "name": "Daily Mail Online",
-                "url": "https://www.dailymail.co.uk",
-                "country": "gb"
-            },
-            "title": "One of Australia's biggest telcos is hit by cybersecurity attack - with some customers' phone numbers HIJACKED",
-            "url": "https://www.dailymail.co.uk/news/article-15206045/Vocus-Group-hack-Dodo-iPrimus.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2025/10/19/07/103112813-0-image-a-7_1760855431583.jpg",
-            "publishedAt": "2025-10-19T09:31:49Z"
-        },
-        {
-            "source": {
-                "id": "c1903669db0b115cc673ce9c333a70dd",
-                "name": "Charleston Post and Courier",
-                "url": "https://www.postandcourier.com",
-                "country": "us"
-            },
-            "title": "Google shifts SC into AI’s fast lane with a $9B investment",
-            "url": "https://www.postandcourier.com/business/google-sc-moncks-corner-summerville-ai/article_9a91280a-8c73-41da-8009-d2997eda4e2f.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/6/37/637f1dff-9973-4641-a3c6-58e43755a87a/5dbb0bd321b96.image.jpg?crop=1199%2C631%2C0%2C42",
-            "publishedAt": "2025-10-19T09:00:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "BFSI, retail and manufacturing to drive Salesforce growth in India: CEO Arundhati Bhattacharya",
-            "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/bfsi-retail-and-manufacturing-to-drive-salesforce-growth-in-india-ceo-arundhati-bhattacharya/articleshow/124684745.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-124684792,width-1200,height-630,imgsize-88070,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2025-10-19T08:27:00Z"
-        },
-        {
-            "source": {
-                "id": "9a68172fefded1b86fc9a95d43faf501",
-                "name": "Wccftech",
-                "url": "https://wccftech.com",
-                "country": "us"
-            },
-            "title": "Hideo Kojima Sees Creating Together with AI as the Way to Stay One Step Ahead in the Future",
-            "url": "https://wccftech.com/hideo-kojima-sees-creating-together-with-ai-way-stay-one-step-ahead/",
-            "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/10/hideo-kojima-HD-scaled.jpeg",
-            "publishedAt": "2025-10-19T08:00:00Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "BFSI, retail and manufacturing to drive Salesforce growth in India: Arundhati Bhattacharya",
-            "url": "https://www.devdiscourse.com/article/technology/3667544-bfsi-retail-and-manufacturing-to-drive-salesforce-growth-in-india-arundhati-bhattacharya",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_33_35_2442501.png?width=920&format=jpeg",
-            "publishedAt": "2025-10-19T07:51:26Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Ensure stringent action against those targeting women online: Odisha CM to police",
-            "url": "https://www.devdiscourse.com/article/law-order/3667532-ensure-stringent-action-against-those-targeting-women-online-odisha-cm-to-police",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_50_27_8479601.png?width=920&format=jpeg",
-            "publishedAt": "2025-10-19T07:26:35Z"
         }
     ]
 }
