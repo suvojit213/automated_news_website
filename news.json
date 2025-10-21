@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-10-21T09:17:09.541506Z",
+    "lastUpdatedAt": "2025-10-21T10:16:40.377587Z",
     "articles": [
+        {
+            "source": {
+                "id": "0c9364fff53c0e5a3450947d9a54e795",
+                "name": "Daily Mail Online",
+                "url": "https://www.dailymail.co.uk",
+                "country": "gb"
+            },
+            "title": "Gen Z workers need AI to speak to colleagues, study finds",
+            "url": "https://www.dailymail.co.uk/news/article-15210181/Gen-Z-workers-AI-speak-colleagues-study.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2025/10/20/21/103154707-0-image-a-25_1760991366608.jpg",
+            "publishedAt": "2025-10-20T21:44:42Z"
+        },
         {
             "source": {
                 "id": "79e9a45376a66fd7e1a4e68bba928c39",
@@ -1116,6 +1128,96 @@
             "url": "https://www.forbes.com/sites/peterhigh/2025/10/20/gartners-technology-trend-playbook-for-2026/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68f67c7fcd9493cf7fcbe18d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-10-20T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "headtopics"
+            },
+            "title": "What You Should Know Before Buying A New TV From Amazon",
+            "url": "https://us.headtopics.com/news/what-you-should-know-before-buying-a-new-tv-from-amazon-74667329",
+            "urlToImage": "https://i.headtopics.com/images/2025/10/18/thr/spike-lee-mark-ruffalo-jamie-lee-curtis-ben-stille-spike-lee-mark-ruffalo-jamie-lee-curtis-ben-stille-61EF04D73E100248DF8327F68DF103C7.webp?w=640",
+            "publishedAt": "2025-10-20 22:09:05"
+        },
+        {
+            "source": {
+                "name": "headtopics"
+            },
+            "title": "How to prepare for digital outages",
+            "url": "https://us.headtopics.com/news/how-to-prepare-for-digital-outages-74667115",
+            "urlToImage": "https://i.headtopics.com/images/2025/10/20/nbcnews/major-amazon-web-services-outage-disrupts-thousand-major-amazon-web-services-outage-disrupts-thousand-4043F7A3DE3CF7BF82844169E3A28E47.webp?w=640",
+            "publishedAt": "2025-10-20 22:08:35"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "Pentland’s “Shared Wisdom” Book Covers AI And Social Theory",
+            "url": "https://www.forbes.com/sites/johnwerner/2025/10/20/pentlands-shared-wisdom-book-covers-ai-and-social-theory/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68f6b0f61dd231855b1258b7/0x0.jpg?precrop=768%2C432%2Cx0%2Cy104&width=960",
+            "publishedAt": "2025-10-20 22:02:24"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "What Quantum Machine Learning Means for the Future of AI",
+            "url": "https://hackernoon.com/what-quantum-machine-learning-means-for-the-future-of-ai",
+            "urlToImage": "https://hackernoon.imgix.net/images/Rn2P8xYJD2RnlSq6ei7YoemeEq52-ue03b95.png",
+            "publishedAt": "2025-10-20 21:59:31"
+        },
+        {
+            "source": {
+                "name": "newsday"
+            },
+            "title": "What to know about the Amazon cloud outage that exposed the internet's vulnerable backbone",
+            "url": "https://www.newsday.com/news/nation/amazon-cloud-computing-outage-virginia-warehouses-aws-b98839",
+            "urlToImage": "https://www.newsday.com/_next/image?q=80&url=https%3A%2F%2Fcdn.newsday.com%2Fimage-service%2Fversion%2Fc%3ANzhkZjliOWQtNDY4YS00%3AOTdlYWUwMDMtODk4ZC00%2Fcopy-of-amazon-web-outage.jpeg%3Ff%3DLandscape%2B16%253A9%26w%3D768%26q%3D1&w=1920",
+            "publishedAt": "2025-10-20 21:57:11"
+        },
+        {
+            "source": {
+                "name": "dnronline"
+            },
+            "title": "What to know about the warehouses in Virginia that power a lot of the internet",
+            "url": "https://www.dnronline.com/associated_press/national/what-to-know-about-the-warehouses-in-virginia-that-power-a-lot-of-the-internet/article_7c1fbb70-355b-5d8c-abee-474695ff1c8b.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/dnronline.com/content/tncms/assets/v3/editorial/e/d8/ed851e1c-de79-560b-9025-217dc4c69452/68f6b2875159f.image.jpg?crop=1763%2C926%2C0%2C124&order=crop%2Cresize&resize=1200%2C630",
+            "publishedAt": "2025-10-20 21:56:39"
+        },
+        {
+            "source": {
+                "name": "nvdaily"
+            },
+            "title": "What to know about the warehouses in Virginia that power a lot of the internet",
+            "url": "https://www.nvdaily.com/associated_press_national/what-to-know-about-the-warehouses-in-virginia-that-power-a-lot-of-the-internet/article_2490d9f6-45b8-5330-998b-7947b86578ae.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/nvdaily.com/content/tncms/assets/v3/editorial/1/cd/1cddf474-cb12-54ed-bdbe-96ba7276713a/68f6ab843bbe1.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-10-20 21:56:39"
+        },
+        {
+            "source": {
+                "name": "winchesterstar"
+            },
+            "title": "What to know about the warehouses in Virginia that power a lot of the internet",
+            "url": "https://www.winchesterstar.com/associated_press/virginia/what-to-know-about-the-warehouses-in-virginia-that-power-a-lot-of-the-internet/article_773175a2-10bb-5ce6-8c9e-ada8168438ef.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/winchesterstar.com/content/tncms/assets/v3/editorial/2/2d/22df1370-061d-532e-a40f-42b0caa2591a/68f6b23097813.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-10-20 21:56:39"
+        },
+        {
+            "source": {
+                "name": "khou"
+            },
+            "title": "What to know about the warehouses in Virginia that power a lot of the internet",
+            "url": "https://www.khou.com/article/syndication/associatedpress/what-to-know-about-the-warehouses-in-virginia-that-power-a-lot-of-the-internet/616-e83d7804-931f-4748-a3ae-53db290d26f3",
+            "urlToImage": "https://media.tegna-media.com/assets/AssociatedPress/images/1b6506d7-6866-46df-8991-bced17926b0c/20251020T220005/1b6506d7-6866-46df-8991-bced17926b0c_750x422.jpg",
+            "publishedAt": "2025-10-20 21:56:39"
+        },
+        {
+            "source": {
+                "name": "milescitystar"
+            },
+            "title": "What to know about the warehouses in Virginia that power a lot of the internet",
+            "url": "https://www.milescitystar.com/ap_news/national/what-to-know-about-the-warehouses-in-virginia-that-power-a-lot-of-the-internet/article_29b3391c-6ce2-57f6-a83c-224e58f553c6.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/milescitystar.com/content/tncms/assets/v3/editorial/4/14/414ec4a9-69e1-56b1-8082-a4c37166f329/68f6b1f49f988.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-10-20 21:56:39"
         },
         {
             "source": {
@@ -3000,105 +3102,6 @@
             "url": "https://newsable.asianetnews.com/international/science/einsteins-overlooked-idea-may-finally-explain-how-the-universe-began-articleshow-qm6gw4m",
             "urlToImage": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-01jwzk8xhswprrffhxdrhha1ky,imgname-ggg3tfkwkaakpwp-1749112092217.jpg",
             "publishedAt": "2025-10-19 10:28:43"
-        },
-        {
-            "source": {
-                "name": "headtopics"
-            },
-            "title": "Harris Criticizes Biden's Decision to Exclude Elon Musk from EV Event",
-            "url": "https://headtopics.com/news/harris-criticizes-biden-s-decision-to-exclude-elon-musk-74598627",
-            "urlToImage": "https://i.headtopics.com/images/2025/10/19/foxnews/harris-criticizes-biden-s-decision-to-exclude-elon-harris-criticizes-biden-s-decision-to-exclude-elon-8912D042B6C83C133A5A8046F949D473.webp",
-            "publishedAt": "2025-10-19 10:09:03"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "From Hours to Minutes: How Dmall Cuts Data Integration Costs to 1/3 with Apache SeaTunnel?",
-            "url": "https://hackernoon.com/from-hours-to-minutes-how-dmall-cuts-data-integration-costs-to-13-with-apache-seatunnel",
-            "urlToImage": "https://hackernoon.imgix.net/images/sinW25rWovdN38P2ArzdPSCP3hi1-x9036km.png",
-            "publishedAt": "2025-10-19 10:08:45"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "Eversolo’s New T8 Professional-Grade Streaming Transport Is Aimed At Serious Audiophiles",
-            "url": "https://www.forbes.com/sites/marksparrow/2025/10/19/eversolos-new-t8-professional-grade-streaming-transport-is-aimed-at-serious-audiophiles/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68e7a437a6c67eee0c00c2a3/0x0.jpg?width=960",
-            "publishedAt": "2025-10-19 10:00:00"
-        },
-        {
-            "source": {
-                "name": "fastcompany"
-            },
-            "title": "Does Silicon Valley have a sense of humor?",
-            "url": "https://www.fastcompany.com/91421525/in-formation-silicon-valley-satire-artificial-intelligence",
-            "urlToImage": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2025/10/p-1-91421525-in-formation.jpg",
-            "publishedAt": "2025-10-19 10:00:00"
-        },
-        {
-            "source": {
-                "name": "masslive"
-            },
-            "title": "ChatGPT for genetics: Boston AI startup combines DNA, search engines and primary care",
-            "url": "https://www.masslive.com/news/2025/10/chatgpt-for-genetics-boston-ai-startup-combines-dna-search-engines-and-primary-care.html",
-            "urlToImage": "https://www.masslive.com/resizer/v2/GD3BHG5ZTVB6LIBV4ACTUWXFOQ.jpg?auth=44036c5c5f9b65bd434676c05d0ae984736914e5321c9d985ba51df58cf29d03&height=1200&smart=true",
-            "publishedAt": "2025-10-19 09:40:00"
-        },
-        {
-            "source": {
-                "name": "phys"
-            },
-            "title": "Simplified Sachdev-Ye-Kitaev model simulated on trapped-ion quantum computer",
-            "url": "https://phys.org/news/2025-10-sachdev-ye-kitaev-simulated-ion.html",
-            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2025/researchers-simulate-s-1.jpg",
-            "publishedAt": "2025-10-19 09:20:01"
-        },
-        {
-            "source": {
-                "name": "xda_developers"
-            },
-            "title": "6 classic tech tricks from the past that still work great today",
-            "url": "https://www.xda-developers.com/classic-tech-tricks-from-past-that-still-work-great-today/",
-            "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2024/12/ctrl-key-on-a-keyboard-1.jpeg",
-            "publishedAt": "2025-10-19 09:01:19"
-        },
-        {
-            "source": {
-                "name": "postregister"
-            },
-            "title": "AP Technology SummaryBrief at 4:09 a.m. EDT",
-            "url": "https://www.postregister.com/businessreport/business/ap-technology-summarybrief-at-4-09-a-m-edt/article_8d32ad08-9055-5166-b403-9886e7e02dfd.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
-            "publishedAt": "2025-10-19 08:09:04"
-        },
-        {
-            "source": {
-                "name": "wvnews"
-            },
-            "title": "AP Technology SummaryBrief at 4:09 a.m. EDT",
-            "url": "https://www.wvnews.com/business/ap-technology-summarybrief-at-4-09-a-m-edt/article_c673715b-394c-52a7-a90a-b609968029a7.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/custom/image/dd23b0fa-a76a-11ea-b298-6f7943d03f88.jpg",
-            "publishedAt": "2025-10-19 08:09:04"
-        },
-        {
-            "source": {
-                "name": "messenger_inquirer"
-            },
-            "title": "AP Technology SummaryBrief at 4:09 a.m. EDT",
-            "url": "https://www.messenger-inquirer.com/ap/elections/ap-technology-summarybrief-at-4-09-a-m-edt/article_b085c357-d08c-578d-9ea9-77e09cd8b6df.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/messenger-inquirer.com/content/tncms/custom/image/a2a4b15c-9ead-11ee-847f-2b2be1350ebd.jpg?resize=600%2C338",
-            "publishedAt": "2025-10-19 08:09:04"
-        },
-        {
-            "source": {
-                "name": "macworld"
-            },
-            "title": "This $1,499 MacBook Pro is now under $300",
-            "url": "https://www.macworld.com/article/2944383/this-1499-macbook-pro-is-now-under-300.html",
-            "urlToImage": "https://www.macworld.com/wp-content/uploads/2025/10/MacBook-Pro.jpg?quality=50&strip=all&w=1024",
-            "publishedAt": "2025-10-19 08:00:00"
         }
     ]
 }
