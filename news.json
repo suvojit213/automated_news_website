@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-10-22T12:33:45.439558Z",
+    "lastUpdatedAt": "2025-10-22T13:29:57.365736Z",
     "articles": [
+        {
+            "source": {
+                "id": "3fac65098bad206a4847f7fdbac9f170",
+                "name": "New York Daily News",
+                "url": "https://www.nydailynews.com",
+                "country": "us"
+            },
+            "title": "Suzanne Somers' husband to release AI clone of late actress",
+            "url": "https://www.nydailynews.com/2025/10/21/suzanne-somers-husband-ai-robot/",
+            "urlToImage": "https://www.nydailynews.com/wp-content/uploads/2025/10/GettyImages-874748266-e1761087195490.jpg?w=1024&h=691",
+            "publishedAt": "2025-10-22T00:35:36Z"
+        },
         {
             "source": {
                 "id": "10cbfb3760cfcdeb78c733c527f0e814",
@@ -36,6 +48,63 @@
             "url": "https://www.forbes.com/sites/rachelwells/2025/10/22/aws-outage-sparks-former-fbi-agent-warning-for-every-workplace-in-2026/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68f856730bac70d7b455885b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-10-22T00:00:00Z"
+        },
+        {
+            "source": {
+                "id": "bde73c871b6272fa96a37829f5dc59fd",
+                "name": "Canada’s National Observer",
+                "url": "https://www.nationalobserver.com",
+                "country": "ca"
+            },
+            "title": "Auditor locates gaps in federal government's cybersecurity shield as threats multiply",
+            "url": "https://www.nationalobserver.com/2025/10/22/news/auditor-locates-gaps-federal-governments-cybersecurity-shield-threats-multiply",
+            "urlToImage": "https://www.nationalobserver.com/sites/default/files/img/2025/10/22/9601f24f855f560d4b23f6585a748a83248151eda1a1c23778cabacf2981446a.jpg",
+            "publishedAt": "2025-10-22T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "clickondetroit"
+            },
+            "title": "Prince Harry, Meghan join call for ban on development of AI 'superintelligence'",
+            "url": "https://www.clickondetroit.com/business/2025/10/22/prince-harry-meghan-join-call-for-ban-on-development-of-ai-superintelligence/",
+            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/PRBLK5GPTZBFJDU4EK4HHWWJBY.jpg",
+            "publishedAt": "2025-10-22 00:47:53"
+        },
+        {
+            "source": {
+                "name": "griffindailynews"
+            },
+            "title": "OpenAI unveils search browser in challenge to Google",
+            "url": "https://www.griffindailynews.com/news/national/openai-unveils-search-browser-in-challenge-to-google/article_6951671a-17c6-5feb-9c3f-cf1c54b02b48.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/griffindailynews.com/content/tncms/assets/v3/editorial/d/56/d565c16f-123c-5758-92f8-b4458b5a199c/68f7dbf7a682a.image.jpg?resize=400%2C266",
+            "publishedAt": "2025-10-22 00:45:43"
+        },
+        {
+            "source": {
+                "name": "kdhnews"
+            },
+            "title": "OpenAI unveils search browser in challenge to Google",
+            "url": "https://kdhnews.com/news/nation/openai-unveils-search-browser-in-challenge-to-google/article_3ff8b6ff-104a-5930-a950-b667181a5ad5.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/assets/v3/editorial/a/cc/accfd06f-23ee-59e4-a1ce-6cc4a3e50816/68f7dc2096dcd.image.jpg?resize=400%2C266",
+            "publishedAt": "2025-10-22 00:45:43"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "If these OnePlus 15 rumors are true, I'm worried for Samsung and Google in 2026",
+            "url": "https://www.zdnet.com/article/if-these-oneplus-15-rumors-are-true-im-worried-for-samsung-and-google-in-2026/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/12a976067bb771536c28ebaa73bbc52fd180b9e0/2025/09/29/82de986e-8259-47d8-a515-a96e6f47b831/oneplus-15.jpg?auto=webp&width=1280",
+            "publishedAt": "2025-10-22 00:39:09"
+        },
+        {
+            "source": {
+                "name": "upi"
+            },
+            "title": "OpenAI announces new AI-powered Atlas browser",
+            "url": "https://www.upi.com/Top_News/US/2025/10/21/chatgpt-ai-atlas/2471761087775/",
+            "urlToImage": "https://cdnph.upi.com/svc/sv/upi_com/2471761087775/2025/1/a73648ec6a9de3add134a88fb759b08a/OpenAI-announces-new-AI-powered-Atlas-browser.jpg",
+            "publishedAt": "2025-10-22 00:35:43"
         },
         {
             "source": {
@@ -3147,69 +3216,6 @@
             "url": "http://economictimes.indiatimes.com/tech/technology/chipmaker-cxmt-plans-shanghai-listing-with-42-billion-valuation-sources-say/articleshow/124716625.cms",
             "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-243010,resizemode-75,msid-124716625/tech/technology/chipmaker-cxmt-plans-shanghai-listing-with-42-billion-valuation-sources-say.jpg",
             "publishedAt": "2025-10-21 07:39:28"
-        },
-        {
-            "source": {
-                "name": "economictimes_indiatimes"
-            },
-            "title": "RRB NTPC 2025 Notification Out: Check vacancies, registration dates, age limit, exam pattern and selection process",
-            "url": "https://economictimes.indiatimes.com/news/new-updates/rrb-ntpc-2025-notification-out-check-vacancies-registration-dates-age-limit-exam-pattern-and-selection-process/articleshow/124715981.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-124716002,width-300,height-225,imgsize-140266,resizemode-75/rrb-ntpc-notification-2025-out.jpg",
-            "publishedAt": "2025-10-21 07:35:30"
-        },
-        {
-            "source": {
-                "name": "news18"
-            },
-            "title": "Google Pixel 10 Pro Fold Focuses On Fine Changes With A Bigger AI Push Again",
-            "url": "https://www.news18.com/tech/google-pixel-10-pro-fold-focuses-on-fine-changes-with-a-bigger-ai-push-again-ws-l-9648753.html",
-            "urlToImage": "https://images.news18.com/ibnlive/uploads/2025/10/Google-Pixel-10-Pro-Fold-review-2025-10-4af3f4fa62f9e7be0a9231853441b392-3x2.jpg",
-            "publishedAt": "2025-10-21 07:35:19"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "How much RAM do you need in 2025? My expert advice for Windows and Mac users",
-            "url": "https://www.zdnet.com/article/how-much-ram-do-you-need-in-2025-my-expert-advice-for-windows-and-mac-users/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/54c187063d9fa13728ce447ca9713186681fd4e9/2024/11/06/f09b14ea-fe75-41e1-ab6f-168afef605bd/dsc02541-2.jpg?auto=webp&width=1280",
-            "publishedAt": "2025-10-21 07:30:35"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Navigating the Landscape: Key Insights from Today’s Largest SaaS Companies",
-            "url": "https://techannouncer.com/navigating-the-landscape-key-insights-from-todays-largest-saas-companies/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/10/e49f2249thumbnail-332x187.jpeg",
-            "publishedAt": "2025-10-21 07:11:11"
-        },
-        {
-            "source": {
-                "name": "yourstory"
-            },
-            "title": "How AI Datacenters eat the world?",
-            "url": "https://yourstory.com/2025/09/ai-datacenters-eat-world",
-            "urlToImage": "https://images.yourstory.com/cs/2/e35953e0c10a11eeaef14be6ff40ae87/Imagely9q-1757778241140.jpg",
-            "publishedAt": "2025-10-21 07:03:06"
-        },
-        {
-            "source": {
-                "name": "hastingstribune"
-            },
-            "title": "Trend Micro and WDH Launch Magna AI, A Full-Value -Chain Global Enterprise AI Transformation Factory",
-            "url": "https://www.hastingstribune.com/ap/personal_finance/trend-micro-and-wdh-launch-magna-ai-a-full-value--chain-global-enterprise-ai/article_4da81454-375c-5825-9425-0b7c1065e438.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/hastingstribune.com/content/tncms/custom/image/7b43d562-eeac-11e4-8a7b-970670abfcb2.jpg?resize=600%2C315",
-            "publishedAt": "2025-10-21 07:00:50"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "KEF Introduces The Coda W All-In-One Wireless Hi-Fi Speaker",
-            "url": "https://www.forbes.com/sites/marksparrow/2025/10/21/kef-introduces-the-coda-w-all-in-one-wireless-hi-fi-speaker/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68f6240c4051f20bbc907078/0x0.jpg?width=960",
-            "publishedAt": "2025-10-21 07:00:00"
         }
     ]
 }
