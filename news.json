@@ -1,6 +1,102 @@
 {
-    "lastUpdatedAt": "2025-10-22T15:15:31.767689Z",
+    "lastUpdatedAt": "2025-10-22T16:20:28.538095Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "US right-wing media figures, tech pioneers call for superintelligent AI ban",
+            "url": "https://www.thestar.com.my/tech/tech-news/2025/10/22/us-right-wing-media-figures-tech-pioneers-call-for-superintelligent-ai-ban",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/22/3581680.jpg",
+            "publishedAt": "2025-10-22T04:18:00Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "US right-wing media figures, tech pioneers call for superintelligent AI ban",
+            "url": "https://www.reuters.com/business/media-telecom/us-right-wing-media-figures-tech-pioneers-call-superintelligent-ai-ban-2025-10-22/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/PPAKWQCCA5MG5FUM6W4FCWY4RI.jpg?auth=3e9caa633030ef662140ea7a72d9f8d5d22e769d5f9535803a7fd231256a5acc&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-10-22T04:04:20Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "US right-wing media figures, tech pioneers call for superintelligent AI ban",
+            "url": "https://www.marketscreener.com/news/us-right-wing-media-figures-tech-pioneers-call-for-superintelligent-ai-ban-ce7d5ddada8af221",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2023-11-18T141510Z_1_LYNXMPEJAH05D_RTROPTP_3_TOTW-EV-BRANDS.JPG",
+            "publishedAt": "2025-10-22T04:02:52Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Prince Harry, Geoffrey Hinton Call for Ban on AI Superintelligence",
+            "url": "https://www.bloomberg.com/news/articles/2025-10-22/prince-harry-geoffrey-hinton-call-for-ban-on-ai-superintelligence",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3EBdT5GWUVM/v1/1200x844.jpg",
+            "publishedAt": "2025-10-22T04:01:00Z"
+        },
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "Netflix ‘all in’ on leveraging AI in its streaming platform",
+            "url": "https://www.cnbc.com/2025/10/22/netflix-all-in-on-leveraging-ai-in-its-streaming-platform.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108215113-1761104253253-gettyimages-1790159285-BC_2023StudioAI_3386.jpeg?v=1761104263&w=1920&h=1080",
+            "publishedAt": "2025-10-22T03:52:23Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "AI assistants make widespread errors about the news, new research shows",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-assistants-make-widespread-errors-about-the-news-new-research-shows/articleshow/124732870.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-6330,resizemode-75,msid-124732870/tech/artificial-intelligence/ai-assistants-make-widespread-errors-about-the-news-new-research-shows.jpg",
+            "publishedAt": "2025-10-22T03:52:11Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Samsung's Galaxy XR headset to take on Apple with help from Google and Qualcomm",
+            "url": "https://economictimes.indiatimes.com/tech/technology/samsungs-galaxy-xr-headset-to-take-on-apple-with-help-from-google-and-qualcomm/articleshow/124732656.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-44696,resizemode-75,msid-124732656/tech/technology/samsungs-galaxy-xr-headset-to-take-on-apple-with-help-from-google-and-qualcomm.jpg",
+            "publishedAt": "2025-10-22T03:32:06Z"
+        },
+        {
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            },
+            "title": "Calling AI a cancer cure is premature, but it's our strongest weapon yet: Dr Puri",
+            "url": "https://www.indiatoday.in/health/story/calling-ai-a-cancer-cure-is-premature-but-its-our-strongest-weapon-yet-dr-puri-2806259-2025-10-22",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202510/artificial-intelligence-is-revolutionising-oncology-from-detecting-cancer-earlier-and-faster-to-desi-212514679-16x9_0.jpg?VersionId=Ds6QQG3XVQDNeRZSyj8obOAzVXqZo4vV",
+            "publishedAt": "2025-10-22T03:30:00Z"
+        },
         {
             "source": {
                 "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
@@ -120,6 +216,96 @@
             "url": "https://www.nationalobserver.com/2025/10/22/news/auditor-locates-gaps-federal-governments-cybersecurity-shield-threats-multiply",
             "urlToImage": "https://www.nationalobserver.com/sites/default/files/img/2025/10/22/9601f24f855f560d4b23f6585a748a83248151eda1a1c23778cabacf2981446a.jpg",
             "publishedAt": "2025-10-22T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "moneycontrol"
+            },
+            "title": "Samsung takes on Apple’s Vision Pro with new Galaxy XR headset: Here’s everything we know",
+            "url": "https://www.moneycontrol.com/technology/samsung-takes-on-apple-s-vision-pro-with-new-galaxy-xr-headset-here-s-everything-we-know-article-13626867.html",
+            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2025/10/20251022041248_samsung-headset.jpg",
+            "publishedAt": "2025-10-22 04:13:02"
+        },
+        {
+            "source": {
+                "name": "thehindu"
+            },
+            "title": "Samsung's Galaxy XR headset to take on Apple with help from Google and Qualcomm",
+            "url": "https://www.thehindu.com/sci-tech/technology/samsungs-galaxy-xr-headset-to-take-on-apple-with-help-from-google-and-qualcomm/article70188677.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/1urrc0/article70188700.ece/alternates/LANDSCAPE_1200/2025-07-28T034301Z_115888690_RC28YDAZXP0Q_RTRMADP_3_SAMSUNG-ELEC-CONTACT.JPG",
+            "publishedAt": "2025-10-22 04:12:00"
+        },
+        {
+            "source": {
+                "name": "livemint"
+            },
+            "title": "Prince Harry, Meghan join call for ban on development of AI superintelligence",
+            "url": "https://www.livemint.com/technology/tech-news/prince-harry-meghan-join-call-for-ban-on-development-of-ai-superintelligence-11761105709209.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/tech1_1734536428801_1734536438047.jpg",
+            "publishedAt": "2025-10-22 04:01:48"
+        },
+        {
+            "source": {
+                "name": "milescitystar"
+            },
+            "title": "Prince Harry, Meghan join call for ban on development of AI 'superintelligence'",
+            "url": "https://www.milescitystar.com/ap_news/national/prince-harry-meghan-join-call-for-ban-on-development-of-ai-superintelligence/article_1af8bbbd-7ae9-5ff6-95be-d138e843051b.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/milescitystar.com/content/tncms/assets/v3/editorial/d/81/d81eb1d1-23cf-52dc-884a-9859b0f81d53/68e8591818289.image.jpg?resize=300%2C222",
+            "publishedAt": "2025-10-22 04:01:06"
+        },
+        {
+            "source": {
+                "name": "a12news"
+            },
+            "title": "Prince Harry, Meghan join call for ban on development of AI 'superintelligence'",
+            "url": "https://www.12news.com/article/syndication/associatedpress/prince-harry-meghan-join-call-for-ban-on-development-of-ai-superintelligence/616-abeaf1b8-018a-4c57-a491-f561ddd4778f",
+            "urlToImage": "https://media.tegna-media.com/assets/AssociatedPress/images/f86c5b6c-5acf-46cb-817b-36a3a5d4fb8a/20251022T040502/f86c5b6c-5acf-46cb-817b-36a3a5d4fb8a_750x422.png",
+            "publishedAt": "2025-10-22 04:01:06"
+        },
+        {
+            "source": {
+                "name": "lufkindailynews"
+            },
+            "title": "Prince Harry, Meghan join call for ban on development of AI 'superintelligence'",
+            "url": "https://lufkindailynews.com/anpa/us/prince-harry-meghan-join-call-for-ban-on-development-of-ai-superintelligence/article_9e0d5117-8362-54d9-a64e-188f61c60844.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/lufkindailynews.com/content/tncms/assets/v3/editorial/c/7d/c7dc3889-9327-57dc-95f5-a6ae513a3bfb/68e857d302c88.image.jpg?resize=300%2C222",
+            "publishedAt": "2025-10-22 04:01:06"
+        },
+        {
+            "source": {
+                "name": "nvdaily"
+            },
+            "title": "Prince Harry, Meghan join call for ban on development of AI 'superintelligence'",
+            "url": "https://www.nvdaily.com/associated_press_national/prince-harry-meghan-join-call-for-ban-on-development-of-ai-superintelligence/article_1576e9b0-ae0c-5001-8e5c-fee77b5383cb.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/nvdaily.com/content/tncms/assets/v3/editorial/e/73/e732a6c2-2f30-5ee3-acc1-8bb8f6719b62/68e857c382926.image.jpg?resize=300%2C222",
+            "publishedAt": "2025-10-22 04:01:06"
+        },
+        {
+            "source": {
+                "name": "chronicleonline"
+            },
+            "title": "Prince Harry, Meghan join call for ban on development of AI 'superintelligence'",
+            "url": "https://www.chronicleonline.com/news/national/prince-harry-meghan-join-call-for-ban-on-development-of-ai-superintelligence/article_e303cede-2da4-56c1-9381-3e0a8346c866.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/chronicleonline.com/content/tncms/assets/v3/editorial/5/6d/56df4534-7d1d-5d57-bc31-a43a69b8c0ef/68e8823555628.image.jpg?resize=300%2C222",
+            "publishedAt": "2025-10-22 04:01:06"
+        },
+        {
+            "source": {
+                "name": "kdhnews"
+            },
+            "title": "Prince Harry, Meghan join call for ban on development of AI 'superintelligence'",
+            "url": "https://kdhnews.com/news/nation/prince-harry-meghan-join-call-for-ban-on-development-of-ai-superintelligence/article_fea2d340-7679-5bdc-b0de-341a8aa11b40.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/assets/v3/editorial/7/5a/75a992c2-3549-5b0d-86d5-7817fed9b31f/68e85895309ff.image.jpg",
+            "publishedAt": "2025-10-22 04:01:06"
+        },
+        {
+            "source": {
+                "name": "dnronline"
+            },
+            "title": "Prince Harry, Meghan join call for ban on development of AI 'superintelligence'",
+            "url": "https://www.dnronline.com/associated_press/national/prince-harry-meghan-join-call-for-ban-on-development-of-ai-superintelligence/article_53f24d27-d38a-5edb-9236-8143977120ad.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/dnronline.com/content/tncms/assets/v3/editorial/7/e2/7e2d7b21-61b6-5e6c-8672-e6bee7f76036/68e881ed0000f.image.jpg?crop=1675%2C879%2C0%2C179&order=crop%2Cresize&resize=1200%2C630",
+            "publishedAt": "2025-10-22 04:01:06"
         },
         {
             "source": {
@@ -3072,168 +3258,6 @@
             "url": "https://www.techtarget.com/searchcio/definition/UX-user-experience",
             "urlToImage": "https://www.techtarget.com/rms/onlineImages/bigelow_stephen.jpg",
             "publishedAt": "2025-10-21 13:02:00"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "New EagleTM Raptor® High-Performance Compute Platform Named 2025 \"Connected Car Platform of the Year\" By AutoTech Breakthrough",
-            "url": "https://www.prnewswire.com/news-releases/new-eagle-raptor-high-performance-compute-platform-named-2025-connected-car-platform-of-the-year-by-autotech-breakthrough-302590093.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2342851/New_Eagle_Logov1.jpg?p=original",
-            "publishedAt": "2025-10-21 13:01:00"
-        },
-        {
-            "source": {
-                "name": "engadget"
-            },
-            "title": "iPad Pro M5 review: Speed boost",
-            "url": "https://www.engadget.com/mobile/tablets/ipad-pro-m5-review-speed-boost-130046249.html",
-            "urlToImage": "https://o.aolcdn.com/images/dims?client=19f2b5e49a271b2bde77&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-10%2Fd1c29c60-ae0f-11f0-b3df-7087a897014e&resize=1400%2C789&signature=4fa2863d7c3780c5f51f88e53bbe6d47d0272315",
-            "publishedAt": "2025-10-21 13:00:46"
-        },
-        {
-            "source": {
-                "name": "theguardian"
-            },
-            "title": "Joke’s on you, fleshbag! Channel 4’s first AI presenter is dizzyingly grim on so many levels",
-            "url": "https://www.theguardian.com/tv-and-radio/2025/oct/21/channel-4-first-ai-presenter-dispatches",
-            "urlToImage": "https://i.guim.co.uk/img/media/7c0912a6519776be4b43a52d1c4d0adbfe33bc5e/290_0_1340_1073/master/1340.jpg?crop=none&dpr=2&s=none&width=1300",
-            "publishedAt": "2025-10-21 11:10:38"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "Muon Space to Integrate SpaceX's Starlink Mini Space Lasers Into Its HaloTM Satellite Platform",
-            "url": "https://www.prnewswire.com/news-releases/muon-space-to-integrate-spacexs-starlink-mini-space-lasers-into-its-halo-satellite-platform-302589505.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2101252/Muon_Space_New_Logo.jpg?p=original",
-            "publishedAt": "2025-10-21 11:00:00"
-        },
-        {
-            "source": {
-                "name": "computerworld_in"
-            },
-            "title": "AI agents might smooth some of retail’s worst data problems",
-            "url": "https://www.computerworld.com/article/4074007/ai-agents-might-smooth-some-of-retails-worst-data-problems.html",
-            "urlToImage": "https://www.computerworld.com/wp-content/uploads/2025/10/4074007-0-85893400-1761044578-shutterstock_1302585142.jpg?quality=50&strip=all",
-            "publishedAt": "2025-10-21 11:00:00"
-        },
-        {
-            "source": {
-                "name": "en_prnasisa"
-            },
-            "title": "Altair Unlocks Next-Level HPC, AI, and Quantum Performance with Altair® HPCWorks® 2026",
-            "url": "https://en.prnasia.com/story/508048-0.shtml",
-            "urlToImage": "https://mma.prnasia.com/media2/2800499/Altair_HPCworks.jpg?p=medium600",
-            "publishedAt": "2025-10-21 11:00:00"
-        },
-        {
-            "source": {
-                "name": "vice"
-            },
-            "title": "Are MacBooks Finally Getting a Touchscreen?",
-            "url": "https://www.vice.com/en/article/rumor-macbook-touchscreen-2026/",
-            "urlToImage": "https://www.vice.com/wp-content/uploads/sites/2/2025/08/MacBook-Pro-M4-3-e1755199877342.jpg?w=1024",
-            "publishedAt": "2025-10-21 10:53:28"
-        },
-        {
-            "source": {
-                "name": "itpro"
-            },
-            "title": "Nvidia CEO Jensen Huang says future enterprises will employ a ‘combination of humans and digital humans’ – and he’s not the first big tech exec touting an ‘augmented’ AI-powered workforce",
-            "url": "https://www.itpro.com/technology/artificial-intelligence/jensen-huang-nvidia-future-ai-workforce-agents",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/xyBH6R5CfMPr3PQ7gz6Lcf-1280-80.jpg",
-            "publishedAt": "2025-10-21 10:52:03"
-        },
-        {
-            "source": {
-                "name": "analyticsindiamag"
-            },
-            "title": "DeepSeek’s New OCR Model Can Process Over 2 Lakh Pages Daily on a Single GPU",
-            "url": "https://analyticsindiamag.com/ai-news-updates/deepseeks-new-ocr-model-can-process-over-2-lakh-pages-daily-on-a-single-gpu/",
-            "urlToImage": "https://analyticsindiamag.com/wp-content/uploads/2024/12/DeepSeek-AI.jpg",
-            "publishedAt": "2025-10-21 10:45:26"
-        },
-        {
-            "source": {
-                "name": "newsbytesapp"
-            },
-            "title": "DeepSeek’s new AI model generates 200,000 training pages per GPU",
-            "url": "https://www.newsbytesapp.com/news/science/deepseek-s-new-ai-model-can-process-documents-with-fewer-tokens/story",
-            "urlToImage": "https://i.cdn.newsbytesapp.com/images/l68220251021144705.jpeg",
-            "publishedAt": "2025-10-21 10:38:20"
-        },
-        {
-            "source": {
-                "name": "pcworld_us"
-            },
-            "title": "Worried about hackers, viruses, and fraud? Ask yourself these 10 questions",
-            "url": "https://www.pcworld.com/article/2924220/hackers-viruses-fraud-10-security-questions-every-user-needs-to-know.html",
-            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/10/shutterstock_2476569139-1.jpg?quality=50&strip=all",
-            "publishedAt": "2025-10-21 10:30:00"
-        },
-        {
-            "source": {
-                "name": "pcworld_us"
-            },
-            "title": "HP Zbook Ultra G1a review: The mobile workstation that can game, too",
-            "url": "https://www.pcworld.com/article/2944690/hp-zbook-ultra-g1a-review.html",
-            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/10/20251017_095902.jpg?quality=50&strip=all",
-            "publishedAt": "2025-10-21 10:30:00"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "OpenAI tightens guardrails around celebrity deepfakes after pressure from Bryan Cranston & SAG-AFTRA — here's everything you need to know",
-            "url": "https://www.tomsguide.com/ai/openai-tightens-guardrails-around-celebrity-deepfakes-after-pressure-from-bryan-cranston-and-sag-aftra-heres-everything-you-need-to-know",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/7zkjAqE56HdwcqAnPd84nK-1280-80.jpg",
-            "publishedAt": "2025-10-21 10:11:43"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "Microsoft rolls out urgent Windows 11 update to fix critical recovery bug — update your PC now",
-            "url": "https://www.tomsguide.com/computing/windows-operating-systems/microsoft-rolls-out-urgent-windows-11-update-to-fix-critical-recovery-bug-update-your-pc-now",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/rzF47gsNkUp22vynuaHefg-1280-80.jpg",
-            "publishedAt": "2025-10-21 10:01:49"
-        },
-        {
-            "source": {
-                "name": "geeky_gadgets"
-            },
-            "title": "EMEET PIXY Dual-Camera Review — A Smart, AI-Powered 4K Webcam That Feels Years Ahead",
-            "url": "https://www.geeky-gadgets.com/emeet-pixy-dual-camera-review-a-smart-ai-powered-4k-webcam-that-feels-years-ahead/",
-            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/10/EMEET-PIXY1.webp",
-            "publishedAt": "2025-10-21 09:51:13"
-        },
-        {
-            "source": {
-                "name": "investing_us"
-            },
-            "title": "Can Massive AI Spending Actually Deliver Big Profits?",
-            "url": "https://www.investing.com/analysis/can-massive-ai-spending-actually-deliver-big-profits-200668815",
-            "urlToImage": "https://i-invdn-com.investing.com/redesign/images/seo/v2/investingcom_analysis_og.jpg",
-            "publishedAt": "2025-10-21 09:36:00"
-        },
-        {
-            "source": {
-                "name": "cnn"
-            },
-            "title": "These companies want to send data centers into space | CNN",
-            "url": "https://www.cnn.com/science/data-centers-in-space-spc",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2236933779.jpg?c=16x9&q=h_720%2Cw_1280%2Cc_fill%2Fw_256",
-            "publishedAt": "2025-10-21 09:33:56"
-        },
-        {
-            "source": {
-                "name": "yahoo"
-            },
-            "title": "Why these companies want to send data centers into space",
-            "url": "https://tech.yahoo.com/science/articles/why-companies-want-send-data-093356176.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/8kdUlex8F_5mqTD_Kd4P3Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://media.zenfs.com/en/cnn_articles_875/53c12f87a08959a58fff9f769da2dece",
-            "publishedAt": "2025-10-21 09:33:56"
         }
     ]
 }
