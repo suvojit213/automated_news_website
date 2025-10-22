@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2025-10-22T10:18:03.071564Z",
+    "lastUpdatedAt": "2025-10-22T11:13:49.643433Z",
     "articles": [
+        {
+            "source": {
+                "id": "2b8e9cf94b4b7463c6aee33c1d6df71b",
+                "name": "Chicago Tribune",
+                "url": "https://www.chicagotribune.com",
+                "country": "us"
+            },
+            "title": "OpenAI launches Atlas browser to compete with Google Chrome",
+            "url": "https://www.chicagotribune.com/2025/10/21/openai-atlas-browser/",
+            "urlToImage": "https://www.chicagotribune.com/wp-content/uploads/2025/10/OpenAI_95475.jpg?w=1024&h=682",
+            "publishedAt": "2025-10-21T23:09:39Z"
+        },
+        {
+            "source": {
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
+                "country": "us"
+            },
+            "title": "Anthropic and Google in Talks Over Multibillion-Dollar Cloud Deal to Power AI Growth",
+            "url": "https://markets.businessinsider.com/news/stocks/anthropic-and-google-in-talks-over-multibillion-dollar-cloud-deal-to-power-ai-growth-1035411254",
+            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/10/image-1835.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+            "publishedAt": "2025-10-21T23:01:01Z"
+        },
+        {
+            "source": {
+                "id": "10cbfb3760cfcdeb78c733c527f0e814",
+                "name": "iTWire",
+                "url": "https://itwire.com",
+                "country": "au"
+            },
+            "title": "year partnership with Scuderia Ferrari HP",
+            "url": "https://itwire.com/business-it-news/security/bitdefender-extends-multi-year-partnership-with-scuderia-ferrari-hp.html",
+            "urlToImage": "https://itwire.com/media/k2/items/cache/3fbc666b0b6897829161257e8f9dd657_XS.jpg",
+            "publishedAt": "2025-10-21T22:56:37Z"
+        },
+        {
+            "source": {
+                "id": "49853ffafc28f405ff8ed06043290ae8",
+                "name": "Global News",
+                "url": "https://globalnews.ca",
+                "country": "ca"
+            },
+            "title": "‘Significant gaps’ in government’s cybersecurity services: auditor general",
+            "url": "https://globalnews.ca/news/11488366/canada-government-cybersecurity-auditor-general/",
+            "urlToImage": "https://globalnews.ca/wp-content/uploads/2025/10/477bf3cf7a55463a8712834f9860daa6a053612b88be3a5784abab3fdcbd05cc_2aec32.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+            "publishedAt": "2025-10-21T22:41:11Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "GE Vernova to fully own Prolec JV for $5.28 billion in grid supply push",
+            "url": "https://www.marketscreener.com/news/ge-vernova-to-fully-own-prolec-jv-for-5-28-billion-in-grid-supply-push-ce7d5ddad88ff62d",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-10/2025-10-21T211724Z_1_LYNXMPEL9K10G_RTROPTP_4_USA-STOCKS.JPG",
+            "publishedAt": "2025-10-21T22:18:15Z"
+        },
         {
             "source": {
                 "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
@@ -1911,6 +1971,42 @@
         },
         {
             "source": {
+                "name": "headtopics"
+            },
+            "title": "Ultracold atoms could test relativity in the quantum realm",
+            "url": "https://us.headtopics.com/news/ultracold-atoms-could-test-relativity-in-the-quantum-realm-74720778",
+            "urlToImage": "https://i.headtopics.com/images/2025/10/20/ksatnews/the-u-s-has-a-new-longer-citizenship-test-could-yo-the-u-s-has-a-new-longer-citizenship-test-could-yo-E98B0C6B4A24365406CAFAF5702BDB9B.webp?w=640",
+            "publishedAt": "2025-10-21 23:09:23"
+        },
+        {
+            "source": {
+                "name": "headtopics"
+            },
+            "title": "Scammers Are Innovating. Security Advice Isn’t Keeping Up",
+            "url": "https://us.headtopics.com/news/scammers-are-innovating-security-advice-isn-t-keeping-up-74720355",
+            "urlToImage": "https://i.headtopics.com/images/2025/10/19/foxnews/trump-boards-af1-quickly-using-small-stairs-due-to-trump-boards-af1-quickly-using-small-stairs-due-to-7AD1C3F62DB787BD180042BA7D704C2D.webp?w=640",
+            "publishedAt": "2025-10-21 23:08:45"
+        },
+        {
+            "source": {
+                "name": "laweekly"
+            },
+            "title": "Designing with Empathy: Inside Tianqi Liu’s Human-Centered Vision for the Future of AI",
+            "url": "https://www.laweekly.com/designing-with-empathy-inside-tianqi-lius-human-centered-vision-for-the-future-of-ai/",
+            "urlToImage": "https://www.laweekly.com/wp-content/uploads/2025/10/Screenshot-2025-10-21-at-7.01.36-PM.jpg",
+            "publishedAt": "2025-10-21 23:05:18"
+        },
+        {
+            "source": {
+                "name": "zephyrnet"
+            },
+            "title": "Breakthrough in Quantum Technology: Scalable Nodes Connect Light and Matter",
+            "url": "https://zephyrnet.com/breakthrough-in-quantum-technology-scalable-nodes-connect-light-and-matter/",
+            "urlToImage": "https://zephyrnet.com/wp-content/uploads/img-QJsgGqSXNIPxONRiu10vQRhd.png",
+            "publishedAt": "2025-10-21 22:31:35"
+        },
+        {
+            "source": {
                 "name": "forbes"
             },
             "title": "Scammers Are Innovating. Security Advice Isn’t Keeping Up",
@@ -3096,87 +3192,6 @@
             "url": "https://www.analyticsinsight.net/data-science/how-data-scientists-apply-nlp-in-real-world-projects",
             "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-10-17%2F4dg3uc2b%2FHow-Data-Scientists-Apply-NLP-in-Real-World-Projects.jpg?auto=format%2Ccompress&fit=max&w=480",
             "publishedAt": "2025-10-21 04:30:00"
-        },
-        {
-            "source": {
-                "name": "republicworld"
-            },
-            "title": "AWS Cloud Service Back To Normal After Outage Hits Snapchat, Reddit, Venmo",
-            "url": "https://www.republicworld.com/business/aws-cloud-service-back-to-normal-after-outage-hits-snapchat-reddit-venmo",
-            "urlToImage": "https://img.republicworld.com/all_images/aws-cloud-service-i-amazon-1761019769274-16_9.webp?format=webp&h=225&q=75&w=400",
-            "publishedAt": "2025-10-21 04:09:38"
-        },
-        {
-            "source": {
-                "name": "hastingstribune"
-            },
-            "title": "Tamron Announces 25-200mm F2.8-5.6 Di III VXD G2 All-in-One Zoom Lens for Sony E-Mount; ...",
-            "url": "https://www.hastingstribune.com/ap/business/tamron-announces-25-200mm-f2-8-5-6-di-iii-vxd-g2-all-in-one/article_5e237918-d8b4-5cc2-976f-c81da21b555b.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/hastingstribune.com/content/tncms/custom/image/7b43d562-eeac-11e4-8a7b-970670abfcb2.jpg?resize=600%2C315",
-            "publishedAt": "2025-10-21 04:03:34"
-        },
-        {
-            "source": {
-                "name": "postregister"
-            },
-            "title": "Tamron Announces 25-200mm F2.8-5.6 Di III VXD G2 All-in-One Zoom Lens for Sony E-Mount; ...",
-            "url": "https://www.postregister.com/businessreport/technology/tamron-announces-25-200mm-f2-8-5-6-di-iii-vxd-g2-all-in-one/article_611e0511-34e2-5392-8d3c-bd453112dd4b.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
-            "publishedAt": "2025-10-21 04:03:34"
-        },
-        {
-            "source": {
-                "name": "foreignaffairs"
-            },
-            "title": "The AI Grand Bargain",
-            "url": "https://www.foreignaffairs.com/united-states/artificial-intelligence-grand-bargain-buchanan-collins",
-            "urlToImage": "https://cdn-live.foreignaffairs.com/sites/default/files/styles/x_large_1x/public/images/2025/10/08/FA_USAILeadership_CMYK_CintaFosch.jpg?itok=x6Pc2hND",
-            "publishedAt": "2025-10-21 04:00:00"
-        },
-        {
-            "source": {
-                "name": "venturebeat"
-            },
-            "title": "AI’s financial blind spot: Why long-term success depends on cost transparency",
-            "url": "https://venturebeat.com/ai/ais-financial-blind-spot-why-long-term-success-depends-on-cost-transparency",
-            "urlToImage": "https://images.ctfassets.net/jdtwqhzvc2n1/2GoMirWsXnSuZjapMQusnu/8efdafab45e1ad3f5c233f53b35287b2/AdobeStock_1726411808.jpeg",
-            "publishedAt": "2025-10-21 04:00:00"
-        },
-        {
-            "source": {
-                "name": "digitaltrends"
-            },
-            "title": "Unitree’s humanoid robot looks ready (for a Broadway musical)",
-            "url": "https://www.digitaltrends.com/computing/unitrees-humanoid-robot-looks-ready-for-a-broadway-musical/",
-            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/10/unitree-h2-robot.jpg?p=1&resize=1200%2C630",
-            "publishedAt": "2025-10-21 04:00:00"
-        },
-        {
-            "source": {
-                "name": "expresscomputer"
-            },
-            "title": "From transactions to trust: How PayU is using GenAI to redefine digital finance",
-            "url": "https://www.expresscomputer.in/news/from-transactions-to-trust-how-payu-is-using-genai-to-redefine-digital-finance/128697/",
-            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2025/10/17104606/EC_Koushik_Kadidal_PayU_750.jpg",
-            "publishedAt": "2025-10-21 03:30:59"
-        },
-        {
-            "source": {
-                "name": "phys"
-            },
-            "title": "Space exploration in the backyard, on a budget: How NASA simulates conditions in space without blasting off",
-            "url": "https://phys.org/news/2025-10-space-exploration-backyard-nasa-simulates.html",
-            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2023/nasa.jpg",
-            "publishedAt": "2025-10-21 03:00:01"
-        },
-        {
-            "source": {
-                "name": "newswise"
-            },
-            "title": "Penn Medicine, CHOP researchers elected to National Academy of Medicine",
-            "url": "https://www.newswise.com/articles/penn-medicine-chop-researchers-elected-to-national-academy-of-medicine/?sc=rssn",
-            "urlToImage": "https://www.newswise.com/legacy/image.php?height=334&image=%2Fimages%2Fuploads%2F2025%2F10%2F20%2F68f64e2f1f142_BlobelGerdRGB-16.jpg&width=502",
-            "publishedAt": "2025-10-21 02:38:27"
         }
     ]
 }
