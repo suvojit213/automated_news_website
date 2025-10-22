@@ -1,6 +1,114 @@
 {
-    "lastUpdatedAt": "2025-10-22T21:11:43.260769Z",
+    "lastUpdatedAt": "2025-10-22T22:12:44.570160Z",
     "articles": [
+        {
+            "source": {
+                "id": "12bd9b09a1d7744221166ca00643f2f7",
+                "name": "Lancashire Telegraph",
+                "url": "https://www.lancashiretelegraph.co.uk",
+                "country": "gb"
+            },
+            "title": "Can you spot the real Big Ben? Four out of five Brits now use AI",
+            "url": "https://www.lancashiretelegraph.co.uk/news/national/uk-today/25562138.can-spot-real-big-ben-four-five-brits-now-use-ai/",
+            "urlToImage": "https://www.lancashiretelegraph.co.uk/resources/images/20106152.jpg?type=og-image",
+            "publishedAt": "2025-10-22T10:07:25Z"
+        },
+        {
+            "source": {
+                "id": "0d429ea54fdbe8e34c582aa31bc81aba",
+                "name": "The Boston Globe",
+                "url": "https://www.bostonglobe.com",
+                "country": "us"
+            },
+            "title": "How AI apps are reshaping retail ahead of holiday shopping season",
+            "url": "https://www.bostonglobe.com/2025/10/22/business/ai-holiday-shopping-chatgpt/",
+            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/XBD5VHDSIFBPHKNPTO6RWGKTM4.jpg?auth=9951827fa38bdc5b0c2a36869f4fd125a8b223caa2d4f1824da361f5ddde1f37&width=1440",
+            "publishedAt": "2025-10-22T10:00:01Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Apollo Says AI Energy Gap ‘Will Not Be Closed in Our Lifetime’",
+            "url": "https://www.bloomberg.com/news/articles/2025-10-22/apollo-says-ai-energy-gap-will-not-be-closed-in-our-lifetime",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKp6bFImIaGU/v0/1200x800.jpg",
+            "publishedAt": "2025-10-22T10:00:00Z"
+        },
+        {
+            "source": {
+                "id": "fca9664a9e215efa308045911cfc7fc3",
+                "name": "Star Tribune",
+                "url": "https://www.startribune.com",
+                "country": "us"
+            },
+            "title": "Ukraine unveils upgraded sea drone it says can strike anywhere in the Black Sea",
+            "url": "https://www.startribune.com/ukraine-unveils-upgraded-sea-drone-it-says-can-strike-anywhere-in-the-black-sea/601499090",
+            "urlToImage": "https://www.startribune.com/200.png",
+            "publishedAt": "2025-10-22T09:32:00Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "OpenAI Pays Ex-Bankers to Automate Junior Roles",
+            "url": "https://www.marketscreener.com/news/openai-pays-ex-bankers-to-automate-junior-roles-ce7d5ddade8bf623",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/mtnewswires/A3481216.png",
+            "publishedAt": "2025-10-22T09:31:44Z"
+        },
+        {
+            "source": {
+                "id": "d5f1f8579b4e9b390feccfa1c0cf8028",
+                "name": "Arab News",
+                "url": "https://www.arabnews.com",
+                "country": "ar"
+            },
+            "title": "Ukraine unveils upgraded sea drone it says can strike anywhere in the Black Sea",
+            "url": "https://www.arabnews.com/node/2619787/world",
+            "urlToImage": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2025/10/22/4650844-41446811.jpg?itok=C2VkPfFr",
+            "publishedAt": "2025-10-22T09:31:20Z"
+        },
+        {
+            "source": {
+                "id": "37128a060981dbbe79321f096e7d1108",
+                "name": "U.S. News & World Report",
+                "url": "https://www.usnews.com",
+                "country": "us"
+            },
+            "title": "Ukraine Unveils Upgraded Sea Drone It Says Can Strike Anywhere in the Black Sea",
+            "url": "https://www.usnews.com/news/technology/articles/2025-10-22/ukraine-unveils-upgraded-sea-drone-it-says-can-strike-anywhere-in-the-black-sea",
+            "urlToImage": "https://www.usnews.com/dims4/USNEWS/bff2320/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F29%2F467cce24a60333cb7510bf30719048%2F1d1b2265e34748ee803e6b48c610a303Russia_Ukraine_War_Sea_Drones_66255.jpg",
+            "publishedAt": "2025-10-22T09:31:00Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Cyberstorm at Jaguar Land Rover: A Blow to the British Economy",
+            "url": "https://www.devdiscourse.com/article/headlines/3670460-cyberstorm-at-jaguar-land-rover-a-blow-to-the-british-economy",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/13_05_2025_14_10_58_870961.png?width=920&format=jpeg",
+            "publishedAt": "2025-10-22T09:21:03Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Anterior Wins ‘Best Use of AI for Healthcare’ from The International Cloud Artificial Intelligence Awards Program",
+            "url": "https://www.manilatimes.net/2025/10/22/tmt-newswire/globenewswire/anterior-wins-best-use-of-ai-for-healthcare-from-the-international-cloud-artificial-intelligence-awards-program/2205819",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/10/22/793331.jpg",
+            "publishedAt": "2025-10-22T09:19:29Z"
+        },
         {
             "source": {
                 "id": "da5c26287bdd02563a2c32b55cb12051",
@@ -756,6 +864,78 @@
             "url": "https://www.nationalobserver.com/2025/10/22/news/auditor-locates-gaps-federal-governments-cybersecurity-shield-threats-multiply",
             "urlToImage": "https://www.nationalobserver.com/sites/default/files/img/2025/10/22/9601f24f855f560d4b23f6585a748a83248151eda1a1c23778cabacf2981446a.jpg",
             "publishedAt": "2025-10-22T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "indianexpress"
+            },
+            "title": "ChatGPT Atlas raises security concerns: How safe are AI web browsers?",
+            "url": "https://indianexpress.com/article/technology/artificial-intelligence/chatgpt-atlas-security-concerns-how-safe-are-ai-web-browsers-10320629/",
+            "urlToImage": "https://images.indianexpress.com/2025/10/Tech-feature-images118.jpg",
+            "publishedAt": "2025-10-22 10:10:41"
+        },
+        {
+            "source": {
+                "name": "phys"
+            },
+            "title": "How grassroots logistics networks fed New Yorkers during COVID-19 crisis",
+            "url": "https://phys.org/news/2025-10-grassroots-logistics-networks-fed-yorkers.html",
+            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2025/how-grassroots-logisti.jpg",
+            "publishedAt": "2025-10-22 10:09:04"
+        },
+        {
+            "source": {
+                "name": "expresscomputer"
+            },
+            "title": "Gen AI significantly drops Incident Response Time for ITSM teams: SolarWinds report",
+            "url": "https://www.expresscomputer.in/news/gen-ai-significantly-drops-incident-response-time-for-itsm-teams-solarwinds-report/128742/",
+            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2025/09/29140735/Artificial-Intelligence.jpg",
+            "publishedAt": "2025-10-22 10:04:05"
+        },
+        {
+            "source": {
+                "name": "newsable_asianetnews"
+            },
+            "title": "Design Smarter, Not Harder: How CapCut Web's AI Design Simplifies Every Creative Task",
+            "url": "https://newsable.asianetnews.com/pr-spot/design-smarter-not-harder-how-capcut-webs-ai-design-simplifies-articleshow-3isq242",
+            "urlToImage": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-01k85nkgrenp40ny8cpnngrnqb,imgname-2-1761127023374.jpg",
+            "publishedAt": "2025-10-22 10:03:31"
+        },
+        {
+            "source": {
+                "name": "eagletribune"
+            },
+            "title": "Mawson Infrastructure Launches GPU Pilot on Decentralized AI Network",
+            "url": "https://www.eagletribune.com/region/mawson-infrastructure-launches-gpu-pilot-on-decentralized-ai-network/article_36b5fb54-6ef5-5974-aefb-68c7d2b885aa.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333",
+            "publishedAt": "2025-10-22 10:03:23"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "Best VPN services 2025: Our top picks for speed and security",
+            "url": "https://www.zdnet.com/article/best-vpn/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/db1033bd12ba500ce0e3b8430c0845ffe4fe6172/2025/04/30/3c26b3ee-e9a4-4e34-8b6b-a97e61e33aca/nordvpn-laptop.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-10-22 10:00:33"
+        },
+        {
+            "source": {
+                "name": "xda_developers"
+            },
+            "title": "4 things no one tells you about daily driving a mini PC",
+            "url": "https://www.xda-developers.com/things-no-one-tells-you-about-daily-driving-mini-pc/",
+            "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2024/11/mac-mini-m4-10.jpg",
+            "publishedAt": "2025-10-22 10:00:18"
+        },
+        {
+            "source": {
+                "name": "technologyreview"
+            },
+            "title": "Inside the archives of the NASA Ames Research Center",
+            "url": "https://www.technologyreview.com/2025/10/22/1125378/nasa-ames-research-center-archives/",
+            "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2025/10/A-8ftSSWT-162-1.jpg",
+            "publishedAt": "2025-10-22 10:00:00"
         },
         {
             "source": {
@@ -3189,210 +3369,6 @@
             "url": "https://www.financialexpress.com/shorts/business/investing-abroad/who-is-priyanka-kulkarni-stressed-by-h-1b-process-indian-origin-techie-is-using-ai-to-simplify-work-visa-filing-4016871/",
             "urlToImage": "https://images.financialexpressdigital.com/2025/10/Priyanka-Kulkarni.jpg",
             "publishedAt": "2025-10-21T04:03:22Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Game-changer for poultry health: AI cuts vaccine development time from months to days",
-            "url": "https://www.devdiscourse.com/article/technology/3663261-game-changer-for-poultry-health-ai-cuts-vaccine-development-time-from-months-to-days",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/14_10_2025_18_10_38_2192833.png?width=920&format=jpeg",
-            "publishedAt": "2025-10-21T03:59:47Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "How artificial intelligence will redefine Industry 5.0",
-            "url": "https://www.devdiscourse.com/article/technology/3663052-how-artificial-intelligence-will-redefine-industry-50",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/14_10_2025_16_32_00_6524864.png?width=920&format=jpeg",
-            "publishedAt": "2025-10-21T03:52:54Z"
-        },
-        {
-            "source": {
-                "id": "b33a42ef1c098421f66aad47a76d6a3c",
-                "name": "The Hindu",
-                "url": "https://www.thehindu.com",
-                "country": "in"
-            },
-            "title": "Cyber defenders sound the alarm as F5 hack exposes broad risks",
-            "url": "https://www.thehindu.com/sci-tech/technology/cyber-defenders-sound-the-alarm-as-f5-hack-exposes-broad-risks/article70185201.ece",
-            "urlToImage": "https://th-i.thgim.com/public/incoming/b31nmy/article70185204.ece/alternates/LANDSCAPE_1200/2025-08-08T004153Z_2035382047_RC2Q56AIDN2U_RTRMADP_3_OPTUS-HACK-REGULATOR.JPG",
-            "publishedAt": "2025-10-21T03:51:06Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Ferrari Renews Cybersecurity Partnership",
-            "url": "https://www.marketscreener.com/news/ferrari-renews-cybersecurity-partnership-ce7d5ad3d98ff620",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2025-10-21T03:45:24Z"
-        },
-        {
-            "source": {
-                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-                "name": "NDTV.com",
-                "url": "https://www.ndtv.com",
-                "country": "in"
-            },
-            "title": "AI Push Drives Record Job Cuts At Top Private Employer TCS",
-            "url": "https://www.ndtv.com/india-news/ai-push-drives-record-job-cuts-at-top-private-employer-tcs-9489622",
-            "urlToImage": "https://c.ndtvimg.com/2025-10/e8jfvs4s_tcs_625x300_04_October_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-            "publishedAt": "2025-10-21T03:44:47Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Sea CEO Li Sees Path to $1 Trillion Market Cap With Help of AI",
-            "url": "https://www.bloomberg.com/news/articles/2025-10-21/sea-ceo-li-sees-path-to-1-trillion-market-cap-with-help-of-ai",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDep0ZAeMjJs/v1/1200x800.jpg",
-            "publishedAt": "2025-10-21T03:30:39Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Google AI Breakthrough Highlights Silmitasertib (CX-4945) as a Novel Pathway in Cancer Immunotherapy",
-            "url": "https://www.manilatimes.net/2025/10/21/tmt-newswire/pr-newswire/google-ai-breakthrough-highlights-silmitasertib-cx-4945-as-a-novel-pathway-in-cancer-immunotherapy/2204685",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/10/21/791160.jpg",
-            "publishedAt": "2025-10-21T03:11:13Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Cardano Price Prediction: Can ADA Reach $4 While Blazpay Presale Leads the Best AI Crypto Coins List",
-            "url": "https://techbullion.com/cardano-price-prediction-can-ada-reach-4-while-blazpay-presale-leads-the-best-ai-crypto-coins-list/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/10/Screenshot-2025-10-20-230536.png",
-            "publishedAt": "2025-10-21T02:00:42Z"
-        },
-        {
-            "source": {
-                "id": "93a4f054e09bde095cda5265e575a952",
-                "name": "Telegraph India",
-                "url": "https://www.telegraphindia.com",
-                "country": "in"
-            },
-            "title": "Jumbo leap: AI cameras installed in Jhargram to monitor elephants, prevent conflict",
-            "url": "https://www.telegraphindia.com/west-bengal/jumbo-leap-ai-cameras-installed-in-jhargram-to-monitor-elephants-prevent-conflict-prnt/cid/2128772",
-            "urlToImage": "https://assets.telegraphindia.com/telegraph/2025/Oct/1761010551_new-project-4.jpg",
-            "publishedAt": "2025-10-21T01:36:56Z"
-        },
-        {
-            "source": {
-                "id": "e7b4d14003cc89c64a689f1c38723ef5",
-                "name": "Live 5 News WCSC",
-                "url": "https://www.live5news.com",
-                "country": "us"
-            },
-            "title": "Woman wins $100K lottery prize with numbers picked from ChatGPT",
-            "url": "https://www.live5news.com/2025/10/21/woman-wins-100k-lottery-prize-with-numbers-picked-chatgpt/",
-            "urlToImage": "https://gray-wcsc-prod.gtv-cdn.com/resizer/v2/JOJBQICDD5GQ3CX56MEN5LL73A.jpeg?auth=808db50b369fa207f327d60b0857fae411ce9369b82ce3633aadc725f137472c&width=1200&height=600&smart=true",
-            "publishedAt": "2025-10-21T01:12:18Z"
-        },
-        {
-            "source": {
-                "id": "3f09ae62ee37a33ab191a698fec83f4b",
-                "name": "WEAU",
-                "url": "https://www.weau.com",
-                "country": "us"
-            },
-            "title": "Woman wins $100K lottery prize with numbers picked from ChatGPT",
-            "url": "https://www.weau.com/2025/10/21/woman-wins-100k-lottery-prize-with-numbers-picked-chatgpt/",
-            "urlToImage": "https://gray-weau-prod.gtv-cdn.com/resizer/v2/JOJBQICDD5GQ3CX56MEN5LL73A.jpeg?auth=808db50b369fa207f327d60b0857fae411ce9369b82ce3633aadc725f137472c&width=1200&height=600&smart=true",
-            "publishedAt": "2025-10-21T01:12:18Z"
-        },
-        {
-            "source": {
-                "id": "04c17c43a7507fac95fd9ba5d47715b5",
-                "name": "WIS10",
-                "url": "https://www.wistv.com",
-                "country": "us"
-            },
-            "title": "Woman wins $100K lottery prize with numbers picked from ChatGPT",
-            "url": "https://www.wistv.com/2025/10/21/woman-wins-100k-lottery-prize-with-numbers-picked-chatgpt/",
-            "urlToImage": "https://gray-wistv-prod.gtv-cdn.com/resizer/v2/JOJBQICDD5GQ3CX56MEN5LL73A.jpeg?auth=808db50b369fa207f327d60b0857fae411ce9369b82ce3633aadc725f137472c&width=1200&height=600&smart=true",
-            "publishedAt": "2025-10-21T01:12:18Z"
-        },
-        {
-            "source": {
-                "id": "a0300bc9a6e9d5b317bd6f614767231f",
-                "name": "Forbes",
-                "url": "https://www.forbes.com",
-                "country": "us"
-            },
-            "title": "GOOGL Stock On Fire: Up 8% With 6-Day Winning Streak",
-            "url": "https://www.forbes.com/sites/greatspeculations/2025/10/21/googl-stock-on-fire-up-8-with-6-day-winning-streak/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68f76ca028db4792ef476736/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2025-10-21T00:00:00Z"
-        },
-        {
-            "source": {
-                "id": "bde73c871b6272fa96a37829f5dc59fd",
-                "name": "Canada’s National Observer",
-                "url": "https://www.nationalobserver.com",
-                "country": "ca"
-            },
-            "title": "Auditor general will release reports on military recruitment, cybersecurity today",
-            "url": "https://www.nationalobserver.com/2025/10/21/news/auditor-general-will-release-reports-military-recruitment-cybersecurity-today",
-            "urlToImage": "https://www.nationalobserver.com/sites/default/files/img/2025/10/21/0fff2a42308ab0dade69e7d59c67484494bb303f3e461082c75f206cbb9bb314.jpg",
-            "publishedAt": "2025-10-21T00:00:00Z"
-        },
-        {
-            "source": {
-                "id": "8e9ab8327c5f7903cc1b50470411d165",
-                "name": "GlobeNewswire",
-                "url": "https://www.globenewswire.com",
-                "country": "us"
-            },
-            "title": "This Cybersecurity Awareness Month, ESET Updates Its Home",
-            "url": "https://www.globenewswire.com/news-release/2025/10/21/3170296/0/en/This-Cybersecurity-Awareness-Month-ESET-Updates-Its-Home-Security-Portfolio-for-Advanced-Ransomware-and-Scams.html",
-            "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6434bd9-71ad-46f5-b1c8-81bd2b967640",
-            "publishedAt": "2025-10-21T00:00:00Z"
-        },
-        {
-            "source": {
-                "id": "78289f4d19c868d072c67a84199f13c5",
-                "name": "The Conversation",
-                "url": "https://theconversation.com",
-                "country": "au"
-            },
-            "title": "AI and online shopping: how Shein, Temu and others get you hooked",
-            "url": "https://theconversation.com/ai-and-online-shopping-how-shein-temu-and-others-get-you-hooked-268028",
-            "urlToImage": "https://images.theconversation.com/files/697526/original/file-20250617-62-dv2dbd.jpg?ixlib=rb-4.1.0&rect=0%2C394%2C4721%2C2360&q=45&auto=format&w=1356&h=668&fit=crop",
-            "publishedAt": "2025-10-21T00:00:00Z"
-        },
-        {
-            "source": {
-                "id": "4ecbadd82aa9fe7a52c0a3b5454020ab",
-                "name": "Around Osceola",
-                "url": "https://www.aroundosceola.com",
-                "country": "us"
-            },
-            "title": "Florida law targets using AI to ‘nudify’ people’s photos",
-            "url": "https://www.aroundosceola.com/index.php/news/florida-law-targets-using-ai-nudify-peoples-photos",
-            "urlToImage": "http://www.aroundosceola.com/sites/aroundosceola.com/files/4fb86fbf7c_Ar00801012.jpg",
-            "publishedAt": "2025-10-21T00:00:00Z"
         }
     ]
 }
