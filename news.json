@@ -1,6 +1,150 @@
 {
-    "lastUpdatedAt": "2025-10-23T03:00:23.401791Z",
+    "lastUpdatedAt": "2025-10-23T04:18:20.355810Z",
     "articles": [
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "Country music star Martina McBride's deepfake scam warning",
+            "url": "https://www.cnbc.com/2025/10/22/ai-deepfakes-music-artists-careers-martina-mcbride.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108214929-1761072002629-15OCT25_CNBC_JHRPHOTOS_2358.jpg?v=1761072123&w=1920&h=1080",
+            "publishedAt": "2025-10-22T16:17:25Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Meta in $27 billion financing deal with Blue Owl Capital for Louisiana data center",
+            "url": "https://www.manilatimes.net/2025/10/23/business/foreign-business/meta-in-27-billion-financing-deal-with-blue-owl-capital-for-louisiana-data-center/2206245",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/10/22/794136.jpg",
+            "publishedAt": "2025-10-22T16:11:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "US bill could spell disaster for BPO sector",
+            "url": "https://www.manilatimes.net/2025/10/23/opinion/editorial/us-bill-could-spell-disaster-for-bpo-sector/2206176",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/10/22/793960.jpg",
+            "publishedAt": "2025-10-22T16:10:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Jaguar Land Rover hack cost UK economy an estimated $2.5 billion",
+            "url": "https://www.manilatimes.net/2025/10/23/business/foreign-business/jaguar-land-rover-hack-cost-uk-economy-an-estimated-25-billion/2206233",
+            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+            "publishedAt": "2025-10-22T16:05:00Z"
+        },
+        {
+            "source": {
+                "id": "4c8b69bf547b577f84acbba5157b439c",
+                "name": "RTE.ie",
+                "url": "https://www.rte.ie",
+                "country": "ie"
+            },
+            "title": "Meta cutting hundreds of roles in AI unit",
+            "url": "https://www.rte.ie/news/business/2025/1022/1540026-meta-cutting-hundreds-of-roles-in-ai-unit/",
+            "urlToImage": "https://www.rte.ie/images/002232ea-1600.jpg",
+            "publishedAt": "2025-10-22T16:01:19Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "AI not a reliable source of news - EU study",
+            "url": "https://www.manilatimes.net/2025/10/23/world/americas-emea/ai-not-a-reliable-source-of-news-eu-study/2206181",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/10/22/793964.jpg",
+            "publishedAt": "2025-10-22T16:01:00Z"
+        },
+        {
+            "source": {
+                "id": "17d7c2645f485578130862e0c8dd9480",
+                "name": "The Mercury News",
+                "url": "https://www.mercurynews.com",
+                "country": "us"
+            },
+            "title": "AI can help the environment, even though it uses tremendous energy. Here are 5 ways how",
+            "url": "https://www.mercurynews.com/2025/10/22/ai-tremendous-energy-use-environment/",
+            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/10/Climate_AI_Uses_91346-1.jpg?w=1024&h=682",
+            "publishedAt": "2025-10-22T16:00:46Z"
+        },
+        {
+            "source": {
+                "id": "a2e577ba2489a893201ce3c6c670f6de",
+                "name": "The Atlantic",
+                "url": "https://www.theatlantic.com",
+                "country": "us"
+            },
+            "title": "The Deepfake Presidency",
+            "url": "https://www.theatlantic.com/ideas/archive/2025/10/trump-artificial-intelligence-deepfake/684652/",
+            "urlToImage": "https://cdn.theatlantic.com/thumbor/dSv38p-xEj6n1oDrT8pdBQOXuoo=/0x279:3871x2295/1200x625/media/img/mt/2025/10/GettyImages_2234262914_moshed_10_21_18_08_09_272/original.jpg",
+            "publishedAt": "2025-10-22T15:48:51Z"
+        },
+        {
+            "source": {
+                "id": "bff0cd3b8c64dceaada8841bea814f65",
+                "name": "The Telegraph",
+                "url": "https://www.telegraph.co.uk",
+                "country": "gb"
+            },
+            "title": "Meta to axe hundreds of AI jobs after offering $100m signing bonuses",
+            "url": "https://www.telegraph.co.uk/business/2025/10/22/meta-axe-hundreds-ai-jobs-after-offering-100m-bonuses/",
+            "urlToImage": "https://www.telegraph.co.uk/content/dam/business/2025/10/22/TELEMMGLPICT000304314651_17611441835190_trans_NvBQzQNjv4BqN7kF8Fb6ID_G1m99xXXMyw86FZi7jdCgGe52rJgwubU.jpeg?impolicy=OG-Standard",
+            "publishedAt": "2025-10-22T15:29:00Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Terna signs three-year cybersecurity agreement with ACN",
+            "url": "https://www.marketscreener.com/news/terna-signs-three-year-cybersecurity-agreement-with-acn-ce7d5ddbd88ff126",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2025-10-22T15:25:13Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Google says it has developed landmark quantum computing algorithm",
+            "url": "https://www.thestar.com.my/tech/tech-news/2025/10/22/google-says-it-has-developed-landmark-quantum-computing-algorithm",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/22/3582912.jpg",
+            "publishedAt": "2025-10-22T15:17:00Z"
+        },
+        {
+            "source": {
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
+                "country": "us"
+            },
+            "title": "Mark Zuckerberg's Meta slashing 600 jobs in AI unit after splurging on new hires: report",
+            "url": "https://nypost.com/2025/10/22/business/mark-zuckerbergs-meta-slashing-600-jobs-in-ai-unit-after-splurging-on-new-hires-report/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/10/meta-mark-zuckerberg-layoffs.jpg?quality=75&strip=all&1761130839&w=1200",
+            "publishedAt": "2025-10-22T15:12:36Z"
+        },
         {
             "source": {
                 "id": "a8984f03fe66dae9745793f6560aa444",
@@ -1296,6 +1440,96 @@
             "url": "https://www.nationalobserver.com/2025/10/22/news/auditor-locates-gaps-federal-governments-cybersecurity-shield-threats-multiply",
             "urlToImage": "https://www.nationalobserver.com/sites/default/files/img/2025/10/22/9601f24f855f560d4b23f6585a748a83248151eda1a1c23778cabacf2981446a.jpg",
             "publishedAt": "2025-10-22T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "hendersondispatch"
+            },
+            "title": "GM unveils plans for 'eyes-off' vehicle in 2028",
+            "url": "https://www.hendersondispatch.com/news/national/gm-unveils-plans-for-eyes-off-vehicle-in-2028/article_5f240b01-d064-5f8e-be49-1d02fc0dd002.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/hendersondispatch.com/content/tncms/custom/image/9aef42cc-e96d-11ea-9099-2b53bf5cb610.png?resize=600%2C315",
+            "publishedAt": "2025-10-22 16:13:01"
+        },
+        {
+            "source": {
+                "name": "wyomingnews"
+            },
+            "title": "GM unveils plans for 'eyes-off' vehicle in 2028",
+            "url": "https://www.wyomingnews.com/news/national/gm-unveils-plans-for-eyes-off-vehicle-in-2028/article_d6b3da27-41d2-5d3c-8deb-6ed12bec01d1.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/custom/image/61f5c8ba-f436-11e4-826d-83047f727c6d.jpg?resize=600%2C315",
+            "publishedAt": "2025-10-22 16:13:01"
+        },
+        {
+            "source": {
+                "name": "fbherald"
+            },
+            "title": "GM unveils plans for 'eyes-off' vehicle in 2028",
+            "url": "https://www.fbherald.com/news/national/gm-unveils-plans-for-eyes-off-vehicle-in-2028/article_30dc2118-91f5-5cfa-9521-78df3807dff0.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/fbherald.com/content/tncms/custom/image/5e06dd4e-3beb-11ec-89e8-ebe74271bae8.jpg?resize=600%2C225",
+            "publishedAt": "2025-10-22 16:13:01"
+        },
+        {
+            "source": {
+                "name": "citizentribune"
+            },
+            "title": "GM unveils plans for 'eyes-off' vehicle in 2028",
+            "url": "https://www.citizentribune.com/news/national/gm-unveils-plans-for-eyes-off-vehicle-in-2028/article_9c912716-34bc-5d40-b330-147160185ff8.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/citizentribune.com/content/tncms/custom/image/9e99fbb8-cc4a-11e6-91dc-0b1813f59513.jpg?resize=600%2C315",
+            "publishedAt": "2025-10-22 16:13:01"
+        },
+        {
+            "source": {
+                "name": "dailygazette"
+            },
+            "title": "GM unveils plans for 'eyes-off' vehicle in 2028",
+            "url": "https://www.dailygazette.com/news/national/gm-unveils-plans-for-eyes-off-vehicle-in-2028/article_aeb69cf2-3b10-51b0-895b-242ce7f62af4.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/dailygazette.com/content/tncms/custom/image/2c4dbcd4-2c97-11ee-8535-9737ebc25907.png?resize=600%2C315",
+            "publishedAt": "2025-10-22 16:13:01"
+        },
+        {
+            "source": {
+                "name": "mtdemocrat"
+            },
+            "title": "GM unveils plans for 'eyes-off' vehicle in 2028",
+            "url": "https://www.mtdemocrat.com/news/national/gm-unveils-plans-for-eyes-off-vehicle-in-2028/article_8cf619cb-f92b-5ece-ab11-9b2f7c454372.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/mtdemocrat.com/content/tncms/custom/image/1cacb78a-c270-11ed-9099-7f2e334f04b9.png?resize=600%2C315",
+            "publishedAt": "2025-10-22 16:13:01"
+        },
+        {
+            "source": {
+                "name": "columbiagorgenews"
+            },
+            "title": "GM unveils plans for 'eyes-off' vehicle in 2028",
+            "url": "https://www.columbiagorgenews.com/news/national/gm-unveils-plans-for-eyes-off-vehicle-in-2028/article_b3b7f273-b146-5e0a-be47-75e2b4aa92fe.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/columbiagorgenews.com/content/tncms/custom/image/6bca8190-c1eb-11ea-bb03-7fd513960224.jpg?resize=600%2C315",
+            "publishedAt": "2025-10-22 16:13:01"
+        },
+        {
+            "source": {
+                "name": "emporiagazette"
+            },
+            "title": "GM unveils plans for 'eyes-off' vehicle in 2028",
+            "url": "https://www.emporiagazette.com/news/national/article_e9208ce4-75a0-54e6-980f-8bc625e27c2c.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/emporiagazette.com/content/tncms/custom/image/931cafec-1d0e-11e6-80bf-b78b86c1ea06.jpg?resize=600%2C315",
+            "publishedAt": "2025-10-22 16:13:01"
+        },
+        {
+            "source": {
+                "name": "griffindailynews"
+            },
+            "title": "GM unveils plans for 'eyes-off' vehicle in 2028",
+            "url": "https://www.griffindailynews.com/news/national/gm-unveils-plans-for-eyes-off-vehicle-in-2028/article_2a46b27e-85f8-5d9e-9882-f18bcb4864f4.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/griffindailynews.com/content/tncms/custom/image/6e8a8f74-c79f-11ea-9099-cbc214f5a07b.jpg?resize=600%2C315",
+            "publishedAt": "2025-10-22 16:13:01"
+        },
+        {
+            "source": {
+                "name": "newsargus"
+            },
+            "title": "GM unveils plans for 'eyes-off' vehicle in 2028",
+            "url": "https://www.newsargus.com/news/national/gm-unveils-plans-for-eyes-off-vehicle-in-2028/article_f6ee1a1a-e86b-56d2-85ce-87984e363c13.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/newsargus.com/content/tncms/custom/image/a59c659e-f9c4-11ef-bf45-9390db381376.png?resize=600%2C147",
+            "publishedAt": "2025-10-22 16:13:01"
         },
         {
             "source": {
@@ -3021,270 +3255,6 @@
             "url": "https://www.manilatimes.net/2025/10/21/tmt-newswire/pr-newswire/av-comparatives-releases-latest-security-test-results-for-enterprise-and-consumer-markets/2205390",
             "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/10/21/792499.jpg",
             "publishedAt": "2025-10-21T15:16:07Z"
-        },
-        {
-            "source": {
-                "id": "e4c9e4e9d9550870a5c47f12f4415b7f",
-                "name": "Plymouth Live",
-                "url": "https://www.plymouthherald.co.uk",
-                "country": "gb"
-            },
-            "title": "Bible mysteries solved as AI identifies 'authors' and uncovers cryptic language patterns",
-            "url": "https://www.plymouthherald.co.uk/news/uk-world-news/bible-mysteries-solved-ai-identifies-10589260",
-            "urlToImage": "https://i2-prod.cornwalllive.com/news/uk-world-news/article10589259.ece/ALTERNATES/s1200/0_PR_image3_1.jpg",
-            "publishedAt": "2025-10-21T15:15:29Z"
-        },
-        {
-            "source": {
-                "id": "e43740ade09d301960387780a92a42f1",
-                "name": "Cornwall Live",
-                "url": "https://www.cornwalllive.com",
-                "country": "gb"
-            },
-            "title": "Bible mysteries solved as AI identifies 'authors' and uncovers cryptic language patterns",
-            "url": "https://www.cornwalllive.com/news/uk-world-news/bible-mysteries-solved-ai-identifies-10589260",
-            "urlToImage": "https://i2-prod.cornwalllive.com/news/uk-world-news/article10589259.ece/ALTERNATES/s1200/0_PR_image3_1.jpg",
-            "publishedAt": "2025-10-21T15:15:29Z"
-        },
-        {
-            "source": {
-                "id": "d4773b92da0613b8ffc2fc9c46229534",
-                "name": "Business Wire",
-                "url": "https://www.businesswire.com",
-                "country": "us"
-            },
-            "title": "Credo AI Named a Gartner® Cool Vendor 2025 in AI Cybersecurity Governance",
-            "url": "https://www.businesswire.com/news/home/20251020911682/en/Credo-AI-Named-a-Gartner-Cool-Vendor-2025-in-AI-Cybersecurity-Governance",
-            "urlToImage": "https://mms.businesswire.com/media/20251020911682/en/2615696/22/credo-cool-vendor.jpg",
-            "publishedAt": "2025-10-21T15:00:00Z"
-        },
-        {
-            "source": {
-                "id": "f4d035ae0463df22c36ae97972a33ba6",
-                "name": "PR Newswire UK",
-                "url": "https://www.prnewswire.co.uk",
-                "country": "gb"
-            },
-            "title": "AV-Comparatives Releases Latest Security Test Results for Enterprise and Consumer Markets",
-            "url": "https://www.prnewswire.co.uk/news-releases/av-comparatives-releases-latest-security-test-results-for-enterprise-and-consumer-markets-302588388.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2799773/AV_Comparatives.jpg?p=facebook",
-            "publishedAt": "2025-10-21T15:00:00Z"
-        },
-        {
-            "source": {
-                "id": "3989f52bbec2d3be8442e2851b59e79e",
-                "name": "CBS Sports",
-                "url": "https://www.cbssports.com",
-                "country": "us"
-            },
-            "title": "NBA Opening Night player props, picks, odds: Target SGA with Tuesday NBA bets",
-            "url": "https://www.cbssports.com/nba/news/nba-opening-night-player-props-picks-odds-sga-thunder-rockets-tuesday/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/10/20/54b40296-306c-4e17-8f14-0efca98185b6/thumbnail/1200x675/a7b736fcd49e8ec1c091f7cadec60e7b/sga-oklahoma-city-thunder-imagn-images-2.jpg",
-            "publishedAt": "2025-10-21T14:50:27Z"
-        },
-        {
-            "source": {
-                "id": "ead461b236347a41a0e3561761126583",
-                "name": "Independent.ie",
-                "url": "https://www.independent.ie",
-                "country": "ie"
-            },
-            "title": "Medical watchdog tells Irish doctors AI is no substitute for clinical decision-making",
-            "url": "https://www.independent.ie/irish-news/medical-watchdog-tells-irish-doctors-ai-is-no-substitute-for-clinical-decision-making/a888167855.html",
-            "urlToImage": "https://focus.independent.ie/thumbor/qdIT_N7fLyEn1TTfm1vMSQgLMmQ=/0x0:3375x2250/629x0/prod-mh-ireland/635d65d5-94f1-467e-aa25-73b8fd02abcf/d217b25d-9229-4f2d-89c4-9b4d88e253f8/635d65d5-94f1-467e-aa25-73b8fd02abcf.jpg",
-            "publishedAt": "2025-10-21T14:48:46Z"
-        },
-        {
-            "source": {
-                "id": "b1fa63410571207862faad9daf9b4527",
-                "name": "Pittsburgh Tribune-Review",
-                "url": "https://triblive.com",
-                "country": "us"
-            },
-            "title": "At Pittsburgh summit, Shapiro highlights AI potential for the state",
-            "url": "https://triblive.com/business/technology/at-pittsburgh-summit-shapiro-highlights-ai-potential-for-the-state/",
-            "urlToImage": "https://assets-varnish.triblive.com/2025/10/8968897_web1_ptr-pittsummit004-102225.jpg",
-            "publishedAt": "2025-10-21T14:47:42Z"
-        },
-        {
-            "source": {
-                "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
-                "name": "Fortune",
-                "url": "https://fortune.com",
-                "country": "us"
-            },
-            "title": "Companies pour millions into security as threats against executives surge",
-            "url": "https://fortune.com/2025/10/21/ceo-security-costs-surge/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-2217059347-e1761011704696.jpg?resize=1200,600",
-            "publishedAt": "2025-10-21T14:44:56Z"
-        },
-        {
-            "source": {
-                "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
-                "name": "BayToday",
-                "url": "https://www.baytoday.ca",
-                "country": "ca"
-            },
-            "title": "Auditor finds gaps in federal cybersecurity shield as threats multiply",
-            "url": "https://www.baytoday.ca/national-news/auditor-finds-gaps-in-federal-cybersecurity-shield-as-threats-multiply-11374534",
-            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/10/0fff2a42308ab0dade69e7d59c67484494bb303f3e461082c75f206cbb9bb314.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2025-10-21T14:22:24Z"
-        },
-        {
-            "source": {
-                "id": "0ce70f407e0fa82ddaeeb29243aa8210",
-                "name": "SooToday",
-                "url": "https://www.sootoday.com",
-                "country": "ca"
-            },
-            "title": "Auditor finds gaps in federal cybersecurity shield as threats multiply",
-            "url": "https://www.sootoday.com/national-news/auditor-finds-gaps-in-federal-cybersecurity-shield-as-threats-multiply-11374534",
-            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/10/0fff2a42308ab0dade69e7d59c67484494bb303f3e461082c75f206cbb9bb314.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2025-10-21T14:22:24Z"
-        },
-        {
-            "source": {
-                "id": "4ed63e86c0ccd22ea875486a3ec6aad4",
-                "name": "CoinGape",
-                "url": "https://coingape.com",
-                "country": "in"
-            },
-            "title": "Why TrustStrategy Is Becoming the Go-To Platform for Smarter, AI-Powered Investing",
-            "url": "https://coingape.com/sponsored/why-truststrategy-is-becoming-the-go-to-platform-for-smarter-ai-powered-investing/",
-            "urlToImage": "https://coingape.com/wp-content/uploads/2025/10/image1-11.png",
-            "publishedAt": "2025-10-21T14:19:37Z"
-        },
-        {
-            "source": {
-                "id": "492abf277b7277432148b61b21ddc836",
-                "name": "Los Angeles Times",
-                "url": "https://www.latimes.com",
-                "country": "us"
-            },
-            "title": "How did sleepy utility companies become booming AI leaders?",
-            "url": "https://www.latimes.com/business/story/2025-10-21/ai-boom-transforms-utilities-from-haven-to-soaring-growth-stocks",
-            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/cc6c50c/2147483647/strip/true/crop/3000x1575+0+195/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F94%2F27%2F452914948b3c08bbf9bf8824dca8%2F801696d2040247888997956104a12a64",
-            "publishedAt": "2025-10-21T14:17:03Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Cloud data firm Veeam to buy Securiti AI for $1.73 billion",
-            "url": "https://www.thestar.com.my/tech/tech-news/2025/10/21/cloud-data-firm-veeam-to-buy-securiti-ai-for-173-billion",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/21/3580964.jpg",
-            "publishedAt": "2025-10-21T14:15:00Z"
-        },
-        {
-            "source": {
-                "id": "bff0cd3b8c64dceaada8841bea814f65",
-                "name": "The Telegraph",
-                "url": "https://www.telegraph.co.uk",
-                "country": "gb"
-            },
-            "title": "What real TV presenters think of Channel 4’s AI host",
-            "url": "https://www.telegraph.co.uk/tv/0/channel-4-dispatches-ai-host/",
-            "urlToImage": "https://www.telegraph.co.uk/content/dam/tv/2025/10/21/TELEMMGLPICT000445557329_17610529499750_trans_NvBQzQNjv4BqU--UwZVBgar4rHZ06ywFMT9OsZjjQqduc8jJn0secnk.jpeg?impolicy=OG-Standard",
-            "publishedAt": "2025-10-21T14:13:00Z"
-        },
-        {
-            "source": {
-                "id": "0ce70f407e0fa82ddaeeb29243aa8210",
-                "name": "SooToday",
-                "url": "https://www.sootoday.com",
-                "country": "ca"
-            },
-            "title": "CP NewsAlert: Auditor finds gaps in federal cybersecurity as threats multiply",
-            "url": "https://www.sootoday.com/national-news/cp-newsalert-auditor-finds-gaps-in-federal-cybersecurity-as-threats-multiply-11374534",
-            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/10/0fff2a42308ab0dade69e7d59c67484494bb303f3e461082c75f206cbb9bb314.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2025-10-21T14:08:43Z"
-        },
-        {
-            "source": {
-                "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
-                "name": "BayToday",
-                "url": "https://www.baytoday.ca",
-                "country": "ca"
-            },
-            "title": "CP NewsAlert: Auditor finds gaps in federal cybersecurity as threats multiply",
-            "url": "https://www.baytoday.ca/national-news/cp-newsalert-auditor-finds-gaps-in-federal-cybersecurity-as-threats-multiply-11374534",
-            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/10/0fff2a42308ab0dade69e7d59c67484494bb303f3e461082c75f206cbb9bb314.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2025-10-21T14:08:43Z"
-        },
-        {
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            },
-            "title": "University of Strathclyde opens admission for MSc in Machine & Deep Learning for Jan 2026",
-            "url": "https://indianexpress.com/article/education/study-abroad/university-of-strathclyde-begins-january-2026-msc-machine-learning-deep-learning-courses-scholarships-eligibility-10314268/",
-            "urlToImage": "https://images.indianexpress.com/2025/10/Self-funded-international-Image-via-University-of-Strathclyde.png",
-            "publishedAt": "2025-10-21T14:08:23Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "OpenAI Rival Cohere Looking to IPO ‘Soon,’ CEO Gomez Says",
-            "url": "https://www.bloomberg.com/news/articles/2025-10-21/openai-rival-cohere-looking-to-ipo-soon-ceo-gomez-says",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4eVsM6rS32Y/v1/1200x800.jpg",
-            "publishedAt": "2025-10-21T14:07:54Z"
-        },
-        {
-            "source": {
-                "id": "6f97df9bf07dbbc5b124859805bffd6f",
-                "name": "The Street",
-                "url": "https://www.thestreet.com",
-                "country": "us"
-            },
-            "title": "Cybersecurity expert offers blunt verdict on AWS outage",
-            "url": "https://www.thestreet.com/technology/cybersecurity-expert-offers-blunt-verdict-on-aws-outage",
-            "urlToImage": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/MjE4MzEzNzE0ODYyOTI1NDE0/key-speakers-at-the-2019-ceraweek-conference.jpg",
-            "publishedAt": "2025-10-21T14:07:00Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "Bryan Cranston Leads Actors Guild in Effort to Pressure OpenAI to Stop Unauthorized Voice and Likeness Use with Sora 2 Video Maker",
-            "url": "https://www.breitbart.com/entertainment/2025/10/21/bryan-cranston-leads-actors-guild-in-effort-to-pressure-openai-to-stop-unauthorized-voice-and-likeness-use-with-sora-2-video-maker/",
-            "urlToImage": "https://media.breitbart.com/media/2025/10/bryancranston-640x335.jpg",
-            "publishedAt": "2025-10-21T13:58:23Z"
-        },
-        {
-            "source": {
-                "id": "3a3847d645a619320aa3b3484581e395",
-                "name": "CBS News",
-                "url": "https://www.cbsnews.com",
-                "country": "us"
-            },
-            "title": "New California laws tackle AI, immigration, wildfires and more. Here's what to know about bills signed by Newsom",
-            "url": "https://www.cbsnews.com/losangeles/news/california-governor-newsom-signs-bills-2025-new-laws/",
-            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/10/12/4d93579c-7463-4842-bd34-e8c09c18f81e/thumbnail/1200x630/c044db344794478c89dbf7e7ca738f3f/gettyimages-950173010.jpg",
-            "publishedAt": "2025-10-21T13:52:51Z"
-        },
-        {
-            "source": {
-                "id": "3a3847d645a619320aa3b3484581e395",
-                "name": "CBS News",
-                "url": "https://www.cbsnews.com",
-                "country": "us"
-            },
-            "title": "New California laws tackle AI, immigration, wildfires and more. Here's what to know about bills signed by Newsom",
-            "url": "https://www.cbsnews.com/sacramento/news/california-governor-newsom-signs-bills-2025-new-laws/",
-            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/10/12/4d93579c-7463-4842-bd34-e8c09c18f81e/thumbnail/1200x630/c044db344794478c89dbf7e7ca738f3f/gettyimages-950173010.jpg",
-            "publishedAt": "2025-10-21T13:52:00Z"
         }
     ]
 }
