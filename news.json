@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2025-10-24T20:17:22.492235Z",
+    "lastUpdatedAt": "2025-10-24T21:13:33.010812Z",
     "articles": [
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            },
+            "title": "With ‘Vibecoding,’ A.I. Can Help Anyone Build an App",
+            "url": "https://www.nytimes.com/2025/10/24/business/with-vibecoding-ai-can-help-anyone-build-an-app.html",
+            "urlToImage": "https://static01.nyt.com/images/2025/10/26/business/26shoptalk-vibecoding-illo/26shoptalk-vibecoding-illo-facebookJumbo.jpg",
+            "publishedAt": "2025-10-24T09:01:23Z"
+        },
+        {
+            "source": {
+                "id": "2f5884e252590f739df55c0e7db375df",
+                "name": "WJLA",
+                "url": "https://wjla.com",
+                "country": "us"
+            },
+            "title": "Could ChatGPT help smokers kick the habit? GW University researchers study new chatbot",
+            "url": "https://wjla.com/news/health/could-chatgpt-help-smokers-kick-the-habit-gw-university-researchers-study-new-chatbot-addiction-nicotine-vaping-cigarettes-cdc-centers-for-disease-control-prevention-befreebot",
+            "urlToImage": "https://wjla.com/resources/media2/16x9/1280/986/center/90/403db67b-5ec0-4042-9791-0007b8f02efe-FR_CHATGPT_SMOKING_SOTVO.00_00_55_01.Still003.jpg",
+            "publishedAt": "2025-10-24T09:00:02Z"
+        },
+        {
+            "source": {
+                "id": "091dc78b9d3467c25d28c392b1c1c4c2",
+                "name": "The Philadelphia Inquirer",
+                "url": "https://www.inquirer.com",
+                "country": "us"
+            },
+            "title": "Is artificial intelligence our economy’s friend or foe?",
+            "url": "https://www.inquirer.com/economy/artificial-intelligence-ai-jobs-economy-recession-20251024.html",
+            "urlToImage": "https://www.inquirer.com/resizer/v2/VQSKHFH6XV2VZ4W4QFKIEZ5GCM.jpg?auth=2443139bb76f750487fe6d7ac762ed1bcde1634d31ea51b1c581a1346098edd6&width=760&height=507&smart=true",
+            "publishedAt": "2025-10-24T09:00:00Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Audit Thought Leader and Global Risk Strategist Muhammad Omair Arfeen Recognized Among the Top Leaders in Internal Auditing and Governance Transformation",
+            "url": "https://www.marketscreener.com/news/audit-thought-leader-and-global-risk-strategist-muhammad-omair-arfeen-recognized-among-the-top-leade-ce7d5dd9dd8df326",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2025-10-24T08:44:08Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "AI models lacking African dialects curb uptake, mobile body says",
+            "url": "https://www.thestar.com.my/tech/tech-news/2025/10/24/ai-models-lacking-african-dialects-curb-uptake-mobile-body-says",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/24/3586529.jpg",
+            "publishedAt": "2025-10-24T08:35:00Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Super Micro lowers its quarterly forecasts due to delivery delays",
+            "url": "https://www.marketscreener.com/news/super-micro-lowers-its-quarterly-forecasts-due-to-delivery-delays-ce7d5dd9dd8af523",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2024-01-30T115302Z_1_LYNXMPEK0T0BU_RTROPTP_3_SUPER-MICRO-COMP-STOCKS.JPG",
+            "publishedAt": "2025-10-24T08:29:23Z"
+        },
         {
             "source": {
                 "id": "c45dc51281d68ce51bff0cc4fe959bbf",
@@ -564,6 +636,24 @@
             "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1013606",
             "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1013606.g008&size=inline",
             "publishedAt": "2025-10-24T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "cnet"
+            },
+            "title": "I Tested HP's Midrange Omen 16 Gaming Laptop and Like Its Good Looks and 1080p Performance",
+            "url": "https://www.cnet.com/tech/computing/i-tested-hps-midrange-omen-16-gaming-laptop-and-like-its-good-looks-and-1080p-performance/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/bf4bd34dd37237a4f1083e6245aab3c1d62af0a3/hub/2025/10/22/42321740-f791-40c7-95b9-c5736777c297/hp-omen-16-overview.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-10-24 09:00:05"
+        },
+        {
+            "source": {
+                "name": "en_prnasisa"
+            },
+            "title": "RoboSense Debuts Next-Gen \"Eyes of Robots\" -- Active Camera 2 at IROS 2025",
+            "url": "https://en.prnasia.com/story/508549-0.shtml",
+            "urlToImage": "https://mma.prnasia.com/media2/2804522/cover.jpg?p=medium600",
+            "publishedAt": "2025-10-24 08:56:00"
         },
         {
             "source": {
@@ -3357,78 +3447,6 @@
             "url": "https://interestingengineering.com/energy/electrochemical-method-boost-ev-battery-energy",
             "urlToImage": "https://cms.interestingengineering.com/wp-content/uploads/2025/10/evenergy-range.jpg",
             "publishedAt": "2025-10-23 23:38:43"
-        },
-        {
-            "source": {
-                "name": "siliconangle"
-            },
-            "title": "Crusoe lands $1.3B to accelerate buildout of large-scale AI data centers",
-            "url": "https://siliconangle.com/2025/10/23/crusoe-lands-1-3b-accelerate-buildout-large-scale-ai-data-centers/",
-            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/10/crusoe.png",
-            "publishedAt": "2025-10-23 23:36:10"
-        },
-        {
-            "source": {
-                "name": "nypost"
-            },
-            "title": "Ford warns devasting plant fire will hurt profit, but CEO still upbeat as he thanks Trump",
-            "url": "https://nypost.com/2025/10/23/business/ford-warns-devasting-plant-fire-will-hurt-profit-ceo-thanks-trump/",
-            "urlToImage": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2025%2F10%2Fford-q3-earnings-jim-farley.jpg?quality%3D90%26strip%3Dall%261761245709=",
-            "publishedAt": "2025-10-23 23:29:06"
-        },
-        {
-            "source": {
-                "name": "headtopics"
-            },
-            "title": "AI holds a place in our lives. How do we make it fit?",
-            "url": "https://us.headtopics.com/news/ai-holds-a-place-in-our-lives-how-do-we-make-it-fit-74824366",
-            "urlToImage": "https://i.headtopics.com/images/2025/10/21/nbcsandiego/jury-finds-man-guilty-of-threatening-mass-shooting-jury-finds-man-guilty-of-threatening-mass-shooting-0A806055BDE3144630B57C1A5020622E.webp?w=640",
-            "publishedAt": "2025-10-23 23:09:21"
-        },
-        {
-            "source": {
-                "name": "newspressnow"
-            },
-            "title": "More articles are now created by AI than humans",
-            "url": "https://www.newspressnow.com/stacker-science/2025/10/23/more-articles-are-now-created-by-ai-than-humans/",
-            "urlToImage": "https://newspressnow.b-cdn.net/wp-content/uploads/2025/10/graphite-more-articles-ai-than-humans.jpg",
-            "publishedAt": "2025-10-23 22:56:02"
-        },
-        {
-            "source": {
-                "name": "jhu"
-            },
-            "title": "The Human Side of Big Data: IDIES Symposium Highlights",
-            "url": "https://www.jhunewsletter.com/article/2025/10/the-human-side-of-big-data-idies-symposium-highlights",
-            "urlToImage": "https://snworksceo.imgix.net/jhn/d0226725-a9ba-4000-a191-e46e5fae34f8.sized-1000x1000.jpg?h=600&w=800",
-            "publishedAt": "2025-10-23 22:37:00"
-        },
-        {
-            "source": {
-                "name": "thurrott"
-            },
-            "title": "Google and Anthropic Partner on Future AI Model Training at Scale",
-            "url": "https://www.thurrott.com/a-i/328770/google-and-anthropic-partner-on-future-ai-model-training-at-scale",
-            "urlToImage": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2025/10/anthropic-google-tpus.jpg",
-            "publishedAt": "2025-10-23 22:15:02"
-        },
-        {
-            "source": {
-                "name": "headtopics"
-            },
-            "title": "Junky Online Content Gives AI Models Brain Rot Too",
-            "url": "https://us.headtopics.com/news/junky-online-content-gives-ai-models-brain-rot-too-74823227",
-            "urlToImage": "https://i.headtopics.com/images/2025/10/21/fox13/wyoming-officials-plan-to-reopen-green-river-tunne-wyoming-officials-plan-to-reopen-green-river-tunne-E9A3577AD008D25A4592D050DF602124.webp?w=640",
-            "publishedAt": "2025-10-23 22:09:47"
-        },
-        {
-            "source": {
-                "name": "headtopics"
-            },
-            "title": "A faint glow in the Milky Way could be a dark matter footprint",
-            "url": "https://us.headtopics.com/news/a-faint-glow-in-the-milky-way-could-be-a-dark-matter-74823130",
-            "urlToImage": "https://i.headtopics.com/images/2025/10/22/forbes/packard-foundation-announces-20-science-engineerin-packard-foundation-announces-20-science-engineerin-929ABD7D42110A78DEB0314CB4B3A3DA.webp?w=640",
-            "publishedAt": "2025-10-23 22:09:35"
         }
     ]
 }
