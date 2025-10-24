@@ -1,6 +1,138 @@
 {
-    "lastUpdatedAt": "2025-10-24T04:18:28.685557Z",
+    "lastUpdatedAt": "2025-10-24T05:14:57.389855Z",
     "articles": [
+        {
+            "source": {
+                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
+                "name": "TechStartups.com",
+                "url": "https://techstartups.com",
+                "country": "us"
+            },
+            "title": "OpenAI acquires startup founded by former Apple engineers to bring AI natively to the Mac desktop",
+            "url": "https://techstartups.com/2025/10/23/openai-acquires-startup-founded-by-former-apple-engineers-to-bring-ai-natively-to-the-mac-desktop/",
+            "urlToImage": "https://techstartups.com/wp-content/uploads/2025/10/OpenAI-Sam.jpg",
+            "publishedAt": "2025-10-23T17:12:18Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "OpenAI Acquires AI Startup Founded by Former Apple Employees",
+            "url": "https://www.bloomberg.com/news/articles/2025-10-23/openai-acquires-ai-startup-founded-by-former-apple-employees",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iv5WmsAPLhMQ/v0/1200x800.jpg",
+            "publishedAt": "2025-10-23T17:00:07Z"
+        },
+        {
+            "source": {
+                "id": "6b5614f288c2ce8fcedc9909a3e2696b",
+                "name": "Metro.co.uk",
+                "url": "https://metro.co.uk",
+                "country": "gb"
+            },
+            "title": "How safe are digital ID cards from hackers?",
+            "url": "https://metro.co.uk/2025/10/23/safe-digital-id-cards-hackers-2-24504881/",
+            "urlToImage": "https://metro.co.uk/wp-content/uploads/2025/10/SEI_271479108-6b02_1761235991.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
+            "publishedAt": "2025-10-23T17:00:00Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Shekhar Kapur reflects on AI's impact on organizations and jobs",
+            "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shekhar-kapur-ponders-over-ais-implications-on-organisations-and-jobs/articleshow/124767267.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-124767335,width-1070,height-580,imgsize-21070,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-10-23T16:58:00Z"
+        },
+        {
+            "source": {
+                "id": "85e5403407038478a5e7d8d100ff8e8f",
+                "name": "CP24 Toronto",
+                "url": "https://www.cp24.com",
+                "country": "ca"
+            },
+            "title": "EU won't 'lecture' Canada, pushes ahead with tech, AI regulation",
+            "url": "https://www.cp24.com/news/canada/2025/10/23/eu-wont-lecture-canada-as-it-pushes-ahead-with-tech-ai-regulation-commissioner/",
+            "urlToImage": "https://www.cp24.com/resizer/v2/ELXBKJKBLALNK7GRMDJLTMJ3JQ.jpg?smart=true&auth=dcc9859b912be48cf6f959a0c06a76aa1aa5532f62aa169f9a60dc0e4ea46e4d&width=1200&height=630",
+            "publishedAt": "2025-10-23T16:53:34Z"
+        },
+        {
+            "source": {
+                "id": "1b697445987e8a33f6c82842e17d60d9",
+                "name": "Bnn Bloomberg",
+                "url": "https://www.bnnbloomberg.ca",
+                "country": "ca"
+            },
+            "title": "EU won't 'lecture' Canada, pushes ahead with tech, AI regulation",
+            "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2025/10/23/eu-wont-lecture-canada-as-it-pushes-ahead-with-tech-ai-regulation-commissioner/",
+            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/ELXBKJKBLALNK7GRMDJLTMJ3JQ.jpg?smart=true&auth=dcc9859b912be48cf6f959a0c06a76aa1aa5532f62aa169f9a60dc0e4ea46e4d&width=1200&height=630",
+            "publishedAt": "2025-10-23T16:53:34Z"
+        },
+        {
+            "source": {
+                "id": "0ce70f407e0fa82ddaeeb29243aa8210",
+                "name": "SooToday",
+                "url": "https://www.sootoday.com",
+                "country": "ca"
+            },
+            "title": "EU won't 'lecture' Canada as it pushes ahead with tech, AI regulation: commissioner",
+            "url": "https://www.sootoday.com/national-news/eu-wont-lecture-canada-as-it-pushes-ahead-with-tech-ai-regulation-commissioner-11387947",
+            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/10/75ed74d1536314e1ebd58abe6a6aaca3a35b0adfc6b9f916b371fc6ca56b27a0.jpg;w=1200;h=800;mode=crop",
+            "publishedAt": "2025-10-23T16:46:52Z"
+        },
+        {
+            "source": {
+                "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
+                "name": "BayToday",
+                "url": "https://www.baytoday.ca",
+                "country": "ca"
+            },
+            "title": "EU won't 'lecture' Canada as it pushes ahead with tech, AI regulation: commissioner",
+            "url": "https://www.baytoday.ca/national-news/eu-wont-lecture-canada-as-it-pushes-ahead-with-tech-ai-regulation-commissioner-11387947",
+            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/10/75ed74d1536314e1ebd58abe6a6aaca3a35b0adfc6b9f916b371fc6ca56b27a0.jpg;w=1200;h=800;mode=crop",
+            "publishedAt": "2025-10-23T16:46:52Z"
+        },
+        {
+            "source": {
+                "id": "1b697445987e8a33f6c82842e17d60d9",
+                "name": "Bnn Bloomberg",
+                "url": "https://www.bnnbloomberg.ca",
+                "country": "ca"
+            },
+            "title": "Microsoft hopes Mico succeeds where Clippy failed as tech companies warily imbue AI with personality",
+            "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2025/10/23/microsoft-hopes-mico-succeeds-where-clippy-failed-as-tech-companies-warily-imbue-ai-with-personality/",
+            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/EXBED5VVNOG4O7BUDKEU56Z2FM.jpg?smart=true&auth=890983e94b525bc0867bd7ede5ed4d05a4b741f0ea2247ffd154cb4a01097d68&width=1200&height=630",
+            "publishedAt": "2025-10-23T16:43:52Z"
+        },
+        {
+            "source": {
+                "id": "85e5403407038478a5e7d8d100ff8e8f",
+                "name": "CP24 Toronto",
+                "url": "https://www.cp24.com",
+                "country": "ca"
+            },
+            "title": "Microsoft hopes Mico succeeds where Clippy failed as tech companies warily imbue AI with personality",
+            "url": "https://www.cp24.com/news/world/2025/10/23/microsoft-hopes-mico-succeeds-where-clippy-failed-as-tech-companies-warily-imbue-ai-with-personality/",
+            "urlToImage": "https://www.cp24.com/resizer/v2/EXBED5VVNOG4O7BUDKEU56Z2FM.jpg?smart=true&auth=890983e94b525bc0867bd7ede5ed4d05a4b741f0ea2247ffd154cb4a01097d68&width=1200&height=630",
+            "publishedAt": "2025-10-23T16:43:52Z"
+        },
+        {
+            "source": {
+                "id": "6fea3ee012f060c6309366516e8d00be",
+                "name": "News-Medical.net",
+                "url": "https://www.news-medical.net",
+                "country": "gb"
+            },
+            "title": "AI tool detects intestinal parasites in stool samples more accurately than traditional methods",
+            "url": "https://www.news-medical.net/news/20251023/AI-tool-detects-intestinal-parasites-in-stool-samples-more-accurately-than-traditional-methods.aspx",
+            "urlToImage": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+            "publishedAt": "2025-10-23T16:42:00Z"
+        },
         {
             "source": {
                 "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
@@ -1623,6 +1755,96 @@
         },
         {
             "source": {
+                "name": "tomsguide"
+            },
+            "title": "I tested the Oakley Meta Vanguard for a week — and now it's supercharging my runs",
+            "url": "https://www.tomsguide.com/computing/smart-glasses/oakley-meta-vanguard-review",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/yw5nHnQsL4rY4SYRdq6rzm-1280-80.jpg",
+            "publishedAt": "2025-10-23 17:11:49"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "Are Sora 2 and other AI video tools risky to use? Here's what a legal scholar says",
+            "url": "https://www.zdnet.com/article/are-sora-2-and-other-ai-video-tools-risky-to-use-heres-what-a-legal-scholar-says/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/e65b530cc6c771de44326bf7cb918c0732db6db2/2025/10/13/599ddbe9-a816-4fe1-bd7b-0eec1ade7d51/gettyimages-2239939872.jpg?auto=webp&width=1280",
+            "publishedAt": "2025-10-23 17:11:00"
+        },
+        {
+            "source": {
+                "name": "prnewswire_apac"
+            },
+            "title": "\"Cybersecurity Service Providers Connect Programme\" Launches to Bolster SME Defences",
+            "url": "https://www.prnewswire.com/apac/news-releases/cybersecurity-service-providers-connect-programme-launches-to-bolster-sme-defences-302593103.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2803978/iMAGE1.jpg?p=original",
+            "publishedAt": "2025-10-23 17:09:00"
+        },
+        {
+            "source": {
+                "name": "en_prnasisa"
+            },
+            "title": "\"Cybersecurity Service Providers Connect Programme\" Launches to Bolster SME Defences",
+            "url": "https://en.prnasia.com/story/508435-0.shtml",
+            "urlToImage": "https://mma.prnasia.com/media2/2803978/iMAGE1.jpg?p=medium600",
+            "publishedAt": "2025-10-23 17:09:00"
+        },
+        {
+            "source": {
+                "name": "insideevs"
+            },
+            "title": "Tesla Says Autopilot Is Getting Better. But It's Crashing More",
+            "url": "https://insideevs.com/news/776774/tesla-autopilot-safety-report-released/",
+            "urlToImage": "https://cdn.motor1.com/images/mgl/bgGxBn/s1/tesla-hands-free-driving-autopilot-fsd.jpg",
+            "publishedAt": "2025-10-23 17:01:49"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "The Biological Principles Needed to Engineer Conscious AI",
+            "url": "https://hackernoon.com/the-biological-principles-needed-to-engineer-conscious-ai",
+            "urlToImage": "https://hackernoon.imgix.net/images/a-conceptual-illustration-of-a-robotic-head-or-humanoid-form-built-from-neural-circuits-and-reentrant-loops-glowing-with-interlinked-brain-like-patterns-kb2f2bssljo05bkknj66f0fu.png",
+            "publishedAt": "2025-10-23 17:00:06"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "MIT’s SAIpien Pushes For AI That Boards Can Actually Audit",
+            "url": "https://www.forbes.com/sites/ronschmelzer/2025/10/23/mits-saipien-pushes-for-ai-that-boards-can-actually-audit/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68fa5df168f61b3e80adfb26/0x0.jpg?width=960",
+            "publishedAt": "2025-10-23 16:57:22"
+        },
+        {
+            "source": {
+                "name": "economictimes_indiatimes"
+            },
+            "title": "Super Micro cuts first-quarter revenue forecast on delivery delays",
+            "url": "http://economictimes.indiatimes.com/tech/technology/super-micro-cuts-first-quarter-revenue-forecast-on-delivery-delays/articleshow/124767000.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-94772,resizemode-75,msid-124767000/tech/technology/super-micro-cuts-first-quarter-revenue-forecast-on-delivery-delays.jpg",
+            "publishedAt": "2025-10-23 16:45:54"
+        },
+        {
+            "source": {
+                "name": "popsci"
+            },
+            "title": "2025 Audio Awards: 25 sound investments for sonic satisfaction",
+            "url": "https://www.popsci.com/gear/audio-awards-2025/",
+            "urlToImage": "https://www.popsci.com/wp-content/uploads/2025/10/2025-audio-awards-header.jpg?quality=85",
+            "publishedAt": "2025-10-23 16:45:00"
+        },
+        {
+            "source": {
+                "name": "ucsd"
+            },
+            "title": "The Future of AI is Now",
+            "url": "https://today.ucsd.edu/story/the-future-of-ai-is-now",
+            "urlToImage": "https://today.ucsd.edu/news_uploads/Campus400x400.jpg",
+            "publishedAt": "2025-10-23 16:44:18"
+        },
+        {
+            "source": {
                 "name": "techannouncer"
             },
             "title": "Exploring the Innovations and Market Position of WIN Semiconductors",
@@ -3006,258 +3228,6 @@
             "url": "https://www.bnnbloomberg.ca/business/2025/10/22/reddit-sues-ai-company-perplexity-and-others-for-industrial-scale-scraping-of-user-comments/",
             "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/QJX7RQJ5CRTZ6Z7DFXV2YSOF3E.jpg?smart=true&auth=0df14319ff83cd0d29e60d760a32a9c297a8afddc626939a8b11e3fbe200146a&width=1200&height=630",
             "publishedAt": "2025-10-22T18:56:24Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com",
-                "country": "ca"
-            },
-            "title": "Reddit sues AI company Perplexity",
-            "url": "https://www.cp24.com/news/money/2025/10/22/reddit-sues-ai-company-perplexity-and-others-for-industrial-scale-scraping-of-user-comments/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/QJX7RQJ5CRTZ6Z7DFXV2YSOF3E.jpg?smart=true&auth=0df14319ff83cd0d29e60d760a32a9c297a8afddc626939a8b11e3fbe200146a&width=1200&height=630",
-            "publishedAt": "2025-10-22T18:56:24Z"
-        },
-        {
-            "source": {
-                "id": "31177620c1e6e610b5d2b67916ed3615",
-                "name": "PBS News",
-                "url": "https://www.pbs.org",
-                "country": "us"
-            },
-            "title": "Reddit sues AI company over alleged ‘industrial-scale’ scraping of its users’ comments",
-            "url": "https://www.pbs.org/newshour/nation/reddit-sues-ai-company-over-alleged-industrial-scale-scraping-of-its-users-comments",
-            "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/10/2024-03-21T151522Z_2006257512_RC2EQ6A5SF0F_RTRMADP_3_REDDIT-IPO-1024x683.jpg",
-            "publishedAt": "2025-10-22T18:53:11Z"
-        },
-        {
-            "source": {
-                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-                "name": "NDTV.com",
-                "url": "https://www.ndtv.com",
-                "country": "in"
-            },
-            "title": "Reddit Alleges User Data Theft, Sues Perplexity AI And 'Scraping' Partners",
-            "url": "https://www.ndtv.com/world-news/reddit-sues-perplexity-ai-and-scraping-partners-over-user-data-theft-9500094",
-            "urlToImage": "https://i.gadgets360cdn.com/large/reddit_reuters_1686750429287.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-            "publishedAt": "2025-10-22T18:44:26Z"
-        },
-        {
-            "source": {
-                "id": "9ab210a1da58b160b3d40bd353f54b38",
-                "name": "St. Paul Pioneer Press",
-                "url": "https://www.twincities.com",
-                "country": "us"
-            },
-            "title": "Reddit sues Perplexity, others for scraping of user comments",
-            "url": "https://www.twincities.com/2025/10/22/reddit-lawsuit-perplexity-ai/",
-            "urlToImage": "https://www.twincities.com/wp-content/uploads/2025/10/Reddit-AI-lawsuit_56517.jpg?w=1024&h=653",
-            "publishedAt": "2025-10-22T18:34:38Z"
-        },
-        {
-            "source": {
-                "id": "840efb5642a2fd3ae6da920bb4981626",
-                "name": "Santa Ana Orange County Register",
-                "url": "https://www.ocregister.com",
-                "country": "us"
-            },
-            "title": "Reddit sues Perplexity, others for scraping of user comments",
-            "url": "https://www.ocregister.com/2025/10/22/reddit-lawsuit-perplexity-ai/",
-            "urlToImage": "https://www.ocregister.com/wp-content/uploads/2025/10/Reddit-AI-lawsuit_56517.jpg?w=1024&h=653",
-            "publishedAt": "2025-10-22T18:34:38Z"
-        },
-        {
-            "source": {
-                "id": "b864cc599bc4ba1ff99463aba17ae502",
-                "name": "Reading Eagle",
-                "url": "https://www.readingeagle.com",
-                "country": "us"
-            },
-            "title": "Reddit sues Perplexity, others for scraping of user comments",
-            "url": "https://www.readingeagle.com/2025/10/22/reddit-lawsuit-perplexity-ai/",
-            "urlToImage": "https://www.readingeagle.com/wp-content/uploads/2025/10/Reddit-AI-lawsuit_56517.jpg?w=1024&h=653",
-            "publishedAt": "2025-10-22T18:34:38Z"
-        },
-        {
-            "source": {
-                "id": "eaeeaeaa1e329f65d3a921c9c867fd7b",
-                "name": "Washington Examiner",
-                "url": "https://www.washingtonexaminer.com",
-                "country": "us"
-            },
-            "title": "We can’t afford to lose the next great American race",
-            "url": "https://www.washingtonexaminer.com/restoring-america/faith-freedom-self-reliance/3860037/us-cant-afford-lose-next-great-american-race/",
-            "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2025/10/AP25258756209627-e1761156327715.jpg?resize=1024,683",
-            "publishedAt": "2025-10-22T18:18:13Z"
-        },
-        {
-            "source": {
-                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-                "name": "WTOP",
-                "url": "https://wtop.com",
-                "country": "us"
-            },
-            "title": "Reddit sues AI company Perplexity and others for ‘industrial",
-            "url": "https://wtop.com/social-media/2025/10/reddit-sues-ai-company-perplexity-and-others-for-industrial-scale-scraping-of-user-comments/",
-            "urlToImage": "https://wtop.com/wp-content/uploads/2025/10/Reddit-AI-lawsuit_56517-scaled.jpg",
-            "publishedAt": "2025-10-22T18:14:39Z"
-        },
-        {
-            "source": {
-                "id": "37128a060981dbbe79321f096e7d1108",
-                "name": "U.S. News & World Report",
-                "url": "https://www.usnews.com",
-                "country": "us"
-            },
-            "title": "Reddit Sues AI Company Perplexity and Others for 'Industrial-Scale' Scraping of User Comments",
-            "url": "https://www.usnews.com/news/business/articles/2025-10-22/reddit-sues-ai-company-perplexity-and-others-for-industrial-scale-scraping-of-user-comments",
-            "urlToImage": "https://www.usnews.com/dims4/USNEWS/cf9a412/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F92%2Fb20ee29655e41e8b87f1fdc6d64480%2F07bc83c727a1470a8d6fbf9d5974a7f2Reddit-AI-lawsuit_56517.jpg",
-            "publishedAt": "2025-10-22T18:10:00Z"
-        },
-        {
-            "source": {
-                "id": "77b86639d1384ac68141803ec5db27c0",
-                "name": "NBC News",
-                "url": "https://www.nbcnews.com",
-                "country": "us"
-            },
-            "title": "AI mammogram readings are already helping doctors detect breast cancer",
-            "url": "https://www.nbcnews.com/health/cancer/artificial-intelligence-mammogram-scan-breast-cancer-results-reading-rcna237293",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240429-breast-cancer-screening-vl-1045a-b75240.jpg",
-            "publishedAt": "2025-10-22T18:08:28Z"
-        },
-        {
-            "source": {
-                "id": "91120a92e0d24e24fbffb6d0affabfe6",
-                "name": "Bangkok Post",
-                "url": "https://www.bangkokpost.com",
-                "country": "th"
-            },
-            "title": "Call for focus on impactful AI",
-            "url": "https://www.bangkokpost.com/business/general/3125060/call-for-focus-on-impactful-ai",
-            "urlToImage": "https://static.bangkokpost.com/media/content/dcx/2025/10/23/5824472_700.jpeg",
-            "publishedAt": "2025-10-22T18:01:00Z"
-        },
-        {
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            },
-            "title": "Meta cutting 600 AI jobs even as it continues to hire more for its superintelligence lab",
-            "url": "https://japantoday.com/category/tech/meta-cutting-600-ai-jobs-even-as-it-continues-to-hire-more-for-its-superintelligence-lab",
-            "urlToImage": "https://media.japantoday.com/img/store/58/84/9c560139ec9f031b9e51bf8fdaa1037a24b3/download/_w1700.jpeg",
-            "publishedAt": "2025-10-22T17:55:08Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com",
-                "country": "ca"
-            },
-            "title": "Amazon sees faster delivery speeds with hi-tech driver eyeglasses",
-            "url": "https://www.cp24.com/news/world/2025/10/22/amazon-sees-faster-delivery-speeds-with-hi-tech-driver-eyeglasses-ai/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/Q7MXWZJAMVB4PEZ7J27V2IA6OU.jpg?smart=true&auth=ee13a5392c5fb0227a262e01e94338a8632da136ea4b166280a52d6a1f710a4d&width=1200&height=630",
-            "publishedAt": "2025-10-22T17:49:24Z"
-        },
-        {
-            "source": {
-                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
-                "name": "The Associated Press",
-                "url": "https://apnews.com",
-                "country": "us"
-            },
-            "title": "Meta cutting 600 AI jobs even as it continues to hire more for its superintelligence lab",
-            "url": "https://apnews.com/article/meta-ai-layoffs-600-artificial-intelligence-7f7b77ba002f7095984f17ebd034bf60",
-            "urlToImage": "https://dims.apnews.com/dims4/default/fd586e2/2147483647/strip/true/crop/6076x3418+0+317/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F01%2F2a%2Fc34725a730d6e9cbe25fe1672a90%2Fd24a8753b65c4400a032a4fdef45079f",
-            "publishedAt": "2025-10-22T17:45:47Z"
-        },
-        {
-            "source": {
-                "id": "35515662ec044d3f94b543cd8802d63f",
-                "name": "WDIV ClickOnDetroit",
-                "url": "https://www.clickondetroit.com",
-                "country": "us"
-            },
-            "title": "Meta cutting 600 AI jobs even as it continues to hire more for its superintelligence lab",
-            "url": "https://www.clickondetroit.com/tech/2025/10/22/meta-cutting-600-ai-jobs-even-as-it-continues-to-hire-more-for-its-superintelligence-lab/",
-            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/W7K2YS4D2JE2LLPJFKWRQ5SH24.jpg?_a=DATAg1eAZAA0",
-            "publishedAt": "2025-10-22T17:45:47Z"
-        },
-        {
-            "source": {
-                "id": "37128a060981dbbe79321f096e7d1108",
-                "name": "U.S. News & World Report",
-                "url": "https://www.usnews.com",
-                "country": "us"
-            },
-            "title": "Meta Cutting 600 AI Jobs Even as It Continues to Hire More for Its Superintelligence Lab",
-            "url": "https://www.usnews.com/news/business/articles/2025-10-22/meta-cutting-600-ai-jobs-even-as-it-continues-to-hire-more-for-its-superintelligence-lab",
-            "urlToImage": "https://www.usnews.com/dims4/USNEWS/cae4364/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Fe0%2Fd389e310a3af8c4aaaca64fb2afb7f%2Fd24a8753b65c4400a032a4fdef45079fMeta_AI_Teens_60816.jpg",
-            "publishedAt": "2025-10-22T17:45:00Z"
-        },
-        {
-            "source": {
-                "id": "79baacd62152cf257ee35e8c0bec19a2",
-                "name": "UPI News",
-                "url": "https://www.upi.com",
-                "country": "us"
-            },
-            "title": "Meta to lay off 600 in its AI division",
-            "url": "https://www.upi.com/Top_News/US/2025/10/22/meta-layoffs-600-ai-division/1701761151897/",
-            "urlToImage": "https://cdnph.upi.com/sv/ph/og/upi/1701761151897/2025/1/f25972633e426ee2392548be833bc860/v1.5/Meta-to-lay-off-600-in-AI-division.jpg",
-            "publishedAt": "2025-10-22T17:13:18Z"
-        },
-        {
-            "source": {
-                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
-                "name": "TechStartups.com",
-                "url": "https://techstartups.com",
-                "country": "us"
-            },
-            "title": "AI startup UnifyApps raises $50M in funding at $250M valuation; Sprinklr founder joins as co",
-            "url": "https://techstartups.com/2025/10/22/ai-startup-unifyapps-raises-50m-in-funding-at-250m-valuation-sprinklr-founder-joins-as-co-ceo/",
-            "urlToImage": "https://techstartups.com/wp-content/uploads/2025/10/Ragy-Thomas-and-Pavitar-Singh.jpg",
-            "publishedAt": "2025-10-22T17:04:58Z"
-        },
-        {
-            "source": {
-                "id": "8da923084554b2821233d6c5c5f02c97",
-                "name": "Fox News",
-                "url": "https://www.foxnews.com",
-                "country": "us"
-            },
-            "title": "Ohio lawmaker proposes bill to ban marriage between humans and AI",
-            "url": "https://www.foxnews.com/tech/ohio-lawmaker-proposes-comprehensive-ban-marrying-ai-systems-granting-legal-personhood",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/man-on-laptop-computer.jpg",
-            "publishedAt": "2025-10-22T17:04:55Z"
-        },
-        {
-            "source": {
-                "id": "6f4f13c21bb217801ab4b37c367f97aa",
-                "name": "CNET",
-                "url": "https://www.cnet.com",
-                "country": "us"
-            },
-            "title": "Artificial Intelligence and Equity: This Entrepreneur Wants to Build AI for Everyone",
-            "url": "https://www.cnet.com/tech/services-and-software/artificial-intelligence-and-equity-this-entrepreneur-wants-to-build-ai-for-everyone/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/873c583f9f522910915cfc411c09769e1d657751/hub/2025/10/21/6cd6abf5-3475-468c-afc9-e9fc9ae42d3b/gettyimages-1389851402.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-10-22T17:02:03Z"
-        },
-        {
-            "source": {
-                "id": "5ac5f32ba74846cef441099f666f2d98",
-                "name": "Fast Company",
-                "url": "https://www.fastcompany.com",
-                "country": "us"
-            },
-            "title": "600 jobs are already being cut from Alexandr Wang's superintelligence lab- Fast Company",
-            "url": "https://www.fastcompany.com/91427041/meta-ai-layoffs-today-600-jobs-are-already-being-cut-from-alexandr-wang-superintelligence-lab",
-            "urlToImage": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2025/10/p-1-91427041-meta-ai-layoffs.jpg",
-            "publishedAt": "2025-10-22T17:00:00Z"
         }
     ]
 }
