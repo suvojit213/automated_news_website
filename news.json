@@ -1,6 +1,114 @@
 {
-    "lastUpdatedAt": "2025-10-24T07:15:21.447190Z",
+    "lastUpdatedAt": "2025-10-24T08:20:42.002903Z",
     "articles": [
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "Microsoft hopes Mico succeeds where Clippy failed as tech companies warily imbue AI with personality",
+            "url": "https://japantoday.com/category/tech/microsoft-hopes-mico-succeeds-where-clippy-failed-as-tech-companies-warily-imbue-ai-with-personality",
+            "urlToImage": "https://media.japantoday.com/img/store/00/bb/6e8f31b3d22442176f2b6b772fc069375818/download/_w1700.jpeg",
+            "publishedAt": "2025-10-23T20:15:00Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "China Is Closing the Quantum Technology Gap",
+            "url": "https://www.bloomberg.com/opinion/articles/2025-10-23/china-is-closing-the-quantum-technology-gap",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/in936qmGrOJs/v1/1200x800.jpg",
+            "publishedAt": "2025-10-23T20:00:07Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Alberta Seeks to Use Gas Reserves for Data Centers, AI",
+            "url": "https://www.bloomberg.com/news/articles/2025-10-23/alberta-seeks-to-use-gas-reserves-for-data-centers-ai",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iU2he7NhyOaw/v1/1200x770.jpg",
+            "publishedAt": "2025-10-23T19:58:22Z"
+        },
+        {
+            "source": {
+                "id": "c97ef3cad273a1993c998ca7ddcc5212",
+                "name": "Daily Express",
+                "url": "https://www.express.co.uk",
+                "country": "gb"
+            },
+            "title": "Ukraine unleashes terrifying 'Sea Baby' drone as Russian base blasted",
+            "url": "https://www.express.co.uk/news/world/2125308/ukraine-sea-baby-drone-crimea-kacha-airfield-russia",
+            "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/78/1200x630/6509314.jpg",
+            "publishedAt": "2025-10-23T19:55:00Z"
+        },
+        {
+            "source": {
+                "id": "448094ed3f9461bb87a99a218cdaecfe",
+                "name": "The New Indian Express",
+                "url": "https://www.newindianexpress.com",
+                "country": "in"
+            },
+            "title": "Take AI's help for speedy justice",
+            "url": "https://www.newindianexpress.com/opinions/2025/Oct/23/take-ais-help-for-speedy-justice",
+            "urlToImage": "https://media.newindianexpress.com/newindianexpress%2F2025-10-23%2Fcm5apuwz%2FCOURTS-AP.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "publishedAt": "2025-10-23T19:49:09Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "Top 8 AI Auditing Tools for Web3 Smart Contracts in 2026",
+            "url": "https://techbullion.com/top-8-ai-auditing-tools-for-web3-smart-contracts-in-2026/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-23-at-10.35.08-PM-1000x600.jpeg",
+            "publishedAt": "2025-10-23T19:47:32Z"
+        },
+        {
+            "source": {
+                "id": "2e9e50c94b2fe950c6f3c06660288260",
+                "name": "SiliconANGLE News",
+                "url": "https://siliconangle.com",
+                "country": "us"
+            },
+            "title": "Cybersecurity revamped, with Snyk Evo and AI agents",
+            "url": "https://siliconangle.com/2025/10/23/snyk-unveils-evo-worlds-first-agentic-cybersecurity-snykaisecurity/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/10/IMG_6974.jpg",
+            "publishedAt": "2025-10-23T19:43:42Z"
+        },
+        {
+            "source": {
+                "id": "76684855c5d801b81fd06490668d04fe",
+                "name": "TechRadar",
+                "url": "https://www.techradar.com",
+                "country": "au"
+            },
+            "title": "Every Formula 1 driver on the grid just had their passport and license details leaked - but it could have been so much worse",
+            "url": "https://www.techradar.com/pro/security/every-formula-1-driver-on-the-grid-just-had-their-passport-and-license-details-leaked-but-it-could-have-been-so-much-worse",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/yDopDPsKQfsuxVibqCh4eg-1920-80.png",
+            "publishedAt": "2025-10-23T19:17:00Z"
+        },
+        {
+            "source": {
+                "id": "6f4f13c21bb217801ab4b37c367f97aa",
+                "name": "CNET",
+                "url": "https://www.cnet.com",
+                "country": "us"
+            },
+            "title": "AI Superintelligence Prohibition Called for by Hundreds of High-Profile Figures",
+            "url": "https://www.cnet.com/tech/services-and-software/ai-superintelligence-prohibition-called-for-by-hundreds-of-high-profile-figures/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/8145d9fa5ac8068fd30bc68650c50371a6d006ea/hub/2024/04/24/02a0ce3b-a5e3-45e4-818f-f34bd5510376/tips-ai.png?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-10-23T19:16:00Z"
+        },
         {
             "source": {
                 "id": "263578fdccd92a76494cd34055806fcc",
@@ -720,6 +828,18 @@
             "url": "https://economictimes.indiatimes.com/news/new-updates/baba-vangas-dire-2026-predictions-a-war-in-the-east-that-will-destroy-the-west-the-lord-of-the-world-and-encounters-with-aliens/articleshow/124763673.cms",
             "urlToImage": "https://img.etimg.com/thumb/msid-124763878,width-1200,height-630,imgsize-126567,overlay-economictimes/articleshow.jpg",
             "publishedAt": "2025-10-23T13:30:00Z"
+        },
+        {
+            "source": {
+                "id": "3989f52bbec2d3be8442e2851b59e79e",
+                "name": "CBS Sports",
+                "url": "https://www.cbssports.com",
+                "country": "us"
+            },
+            "title": "NBA player props, picks, odds: Target Jimmy Butler with Thursday NBA bets",
+            "url": "https://www.cbssports.com/nba/news/nba-player-props-picks-odds-jimmy-butler-nba-betting-thursday/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/10/23/ace7ddc2-9450-4375-8a68-d883379a4ce6/thumbnail/1200x675/29d50deb5a2801b8ddca6fd379b406a6/jimmy-butler-golden-state-warriors.jpg",
+            "publishedAt": "2025-10-23T13:15:06Z"
         },
         {
             "source": {
@@ -1959,6 +2079,96 @@
         },
         {
             "source": {
+                "name": "gamedeveloper"
+            },
+            "title": "Take-Two CEO predicts genAI will create jobs, not kill them",
+            "url": "https://www.gamedeveloper.com/business/take-two-ceo-predicts-genai-will-create-jobs-not-kill-them",
+            "urlToImage": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt8c4848a481c949ae/68fa8cce40f197ecad90d022/luciagta6.jpg?auto=webp&disable=upscale&quality=80&width=1280",
+            "publishedAt": "2025-10-23 20:16:23"
+        },
+        {
+            "source": {
+                "name": "postregister"
+            },
+            "title": "Comfort Systems USA Reports Third Quarter 2025 Results",
+            "url": "https://www.postregister.com/businessreport/government/comfort-systems-usa-reports-third-quarter-2025-results/article_a9567e7b-66b5-55fe-a43a-f7d6aabc8937.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
+            "publishedAt": "2025-10-23 20:09:23"
+        },
+        {
+            "source": {
+                "name": "hastingstribune"
+            },
+            "title": "Comfort Systems USA Reports Third Quarter 2025 Results",
+            "url": "https://www.hastingstribune.com/ap/business/comfort-systems-usa-reports-third-quarter-2025-results/article_8d784f6c-ac58-5bd4-84eb-8bc9205977bc.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/hastingstribune.com/content/tncms/custom/image/7b43d562-eeac-11e4-8a7b-970670abfcb2.jpg?resize=600%2C315",
+            "publishedAt": "2025-10-23 20:09:23"
+        },
+        {
+            "source": {
+                "name": "en_prnasisa"
+            },
+            "title": "Supermicro Expands Its Portfolio of Cloud Service Provider Solutions with New 6U 20-Node MicroBlade® Powered by AMD's EPYCTM 4005 Series Processors",
+            "url": "https://en.prnasia.com/story/508440-0.shtml",
+            "urlToImage": "https://mma.prnasia.com/media2/2803284/Super_Micro_6U_MicroBlade_Systems.jpg?p=medium600",
+            "publishedAt": "2025-10-23 20:06:00"
+        },
+        {
+            "source": {
+                "name": "pcgamer"
+            },
+            "title": "AI is 'a combination of metadata with a parlor trick,' Take-Two boss says: 'A great thing' for business, but it's not creative and never will be",
+            "url": "https://www.pcgamer.com/software/ai/ai-is-a-combination-of-metadata-with-a-parlor-trick-take-two-boss-says-a-great-thing-for-business-but-its-not-creative-and-never-will-be/",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/rSiZrgwHEbGKxVdZyYSoS4-1280-80.jpg",
+            "publishedAt": "2025-10-23 19:56:34"
+        },
+        {
+            "source": {
+                "name": "siliconangle"
+            },
+            "title": "OpenAI, Oracle and Vantage to build $15B+ data center campus in Wisconsin",
+            "url": "https://siliconangle.com/2025/10/23/openai-oracle-vantage-build-15b-data-center-campus-wisconsin/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/10/Lighthouse.png",
+            "publishedAt": "2025-10-23 19:44:24"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Trezor Launches Trezor Safe 7: First Hardware Wallet With Transparent Secure Element",
+            "url": "https://hackernoon.com/trezor-launches-trezor-safe-7-first-hardware-wallet-with-transparent-secure-element",
+            "urlToImage": "https://hackernoon.imgix.net/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-5h03ef6.jpeg",
+            "publishedAt": "2025-10-23 19:38:22"
+        },
+        {
+            "source": {
+                "name": "capitalgazette"
+            },
+            "title": "AI jokes, speaks for persons with disabilities",
+            "url": "https://www.capitalgazette.com/2025/10/23/ai-jokes-speaks/",
+            "urlToImage": "https://www.capitalgazette.com/wp-content/uploads/2025/10/TBS-H-SPOKEN-APP-p2.jpg?strip=all&w=1400px",
+            "publishedAt": "2025-10-23 19:33:49"
+        },
+        {
+            "source": {
+                "name": "newsday"
+            },
+            "title": "Watch those texts! Smartphones emerging as a new way for public figures to get into hot water",
+            "url": "https://www.newsday.com/long-island/politics/text-group-chat-public-figures-trouble-hegseth-p00557",
+            "urlToImage": "https://www.newsday.com/_next/image?q=80&url=https%3A%2F%2Fcdn.newsday.com%2Fimage-service%2Fversion%2Fc%3AZDdiYTZmZWUtN2ExNS00%3AYmM3ZmZiYzAtOWJhOS00%2Fcopy-of-belgium-nato-defense-ministers.jpeg%3Ff%3DLandscape%2B16%253A9%26w%3D768%26q%3D1&w=1920",
+            "publishedAt": "2025-10-23 19:32:24"
+        },
+        {
+            "source": {
+                "name": "milescitystar"
+            },
+            "title": "Watch those texts! Smartphones emerging as a new way for public figures to get into hot water",
+            "url": "https://www.milescitystar.com/ap_news/national/watch-those-texts-smartphones-emerging-as-a-new-way-for-public-figures-to-get-into/article_486162ef-41b0-5694-b26d-4a0e70dc00e5.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/milescitystar.com/content/tncms/assets/v3/editorial/7/80/78048405-cc51-56bd-b275-965451b033b6/68fa79c723136.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-10-23 19:31:57"
+        },
+        {
+            "source": {
                 "name": "menafn"
             },
             "title": "Voltcore Reviews: Does This Energy Saver Work?",
@@ -3009,186 +3219,6 @@
             "url": "https://www.newsbytesapp.com/news/science/steve-wozniak-steve-bannon-back-global-ban-on-agi-development/story",
             "urlToImage": "https://i.cdn.newsbytesapp.com/images/l31120251023095700.jpeg",
             "publishedAt": "2025-10-23 04:39:10"
-        },
-        {
-            "source": {
-                "name": "expresscomputer"
-            },
-            "title": "Governance should empower, not restrict: Prasanna Krishnan, Snowflake",
-            "url": "https://www.expresscomputer.in/exclusives/governance-should-empower-not-restrict-prasanna-krishnan-snowflake/128753/",
-            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2025/10/23100238/New-Project-2025-10-23T100210.517.jpg",
-            "publishedAt": "2025-10-23 04:34:36"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Beyond the Hype: Unpacking the Most Significant Technological Inventions of 2017",
-            "url": "https://techannouncer.com/beyond-the-hype-unpacking-the-most-significant-technological-inventions-of-2017/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/10/73bde05bthumbnail-332x187.jpeg",
-            "publishedAt": "2025-10-23 04:23:04"
-        },
-        {
-            "source": {
-                "name": "engadget"
-            },
-            "title": "Amazon's smart glasses with AI will help its drivers deliver packages faster",
-            "url": "https://www.engadget.com/wearables/amazons-smart-glasses-with-ai-will-help-its-drivers-deliver-packages-faster-041009681.html",
-            "urlToImage": "https://o.aolcdn.com/images/dims?client=19f2b5e49a271b2bde77&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-10%2F8c09eb40-afbf-11f0-bfef-d8672dee2766&resize=1400%2C856&signature=36b80766e07ac68094f65dd44f9e5ad802e8bef5",
-            "publishedAt": "2025-10-23 04:10:09"
-        },
-        {
-            "source": {
-                "name": "moneycontrol"
-            },
-            "title": "OPINION | India’s $12 billion deep tech fund is a great start; now we need other structural changes",
-            "url": "https://www.moneycontrol.com/news/opinion/india-s-12-billion-deep-tech-fund-is-a-great-start-now-we-need-other-structural-changes-13628098.html",
-            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2025/10/20251022044701_funds-378x213.png",
-            "publishedAt": "2025-10-23 04:06:42"
-        },
-        {
-            "source": {
-                "name": "newswise"
-            },
-            "title": "When a Derecho Strikes: Engineers Build Emergency Management Training Game",
-            "url": "https://www.newswise.com/articles/when-a-derecho-strikes-engineers-build-emergency-management-training-game/?sc=rsla",
-            "urlToImage": "https://www.newswise.com/legacy/image.php?height=334&image=%2Fimages%2Fuploads%2F2025%2F10%2F22%2F68f91a74f0dab_derecho.jpg&width=502",
-            "publishedAt": "2025-10-23 03:38:39"
-        },
-        {
-            "source": {
-                "name": "kashmirobserver"
-            },
-            "title": "Govt Proposes Tighter Rules For AI-content",
-            "url": "https://kashmirobserver.net/2025/10/23/govt-proposes-tighter-rules-for-ai-content/",
-            "urlToImage": "https://kashmirobserver.net/wp-content/uploads/2020/10/AI-ARTIFICIAL-INTELLIGENCE.jpg",
-            "publishedAt": "2025-10-23 03:35:35"
-        },
-        {
-            "source": {
-                "name": "andhrabhoomi"
-            },
-            "title": "Google Says It Has Developed Landmark Quantum Computing Algorithm",
-            "url": "https://www.deccanchronicle.com/technology/google-says-it-has-developed-landmark-quantum-computing-algorithm-1911949",
-            "urlToImage": "https://www.deccanchronicle.com/h-upload/2025/10/23/1970335-aa-574843211zon.jpg",
-            "publishedAt": "2025-10-23 03:08:23"
-        },
-        {
-            "source": {
-                "name": "businessinsider_us"
-            },
-            "title": "5 big takeaways from Tesla's Q3 earnings call — including fiery words from Musk over $1 trillion pay package",
-            "url": "https://www.businessinsider.com/5-big-takeaways-from-teslas-q3-earnings-call-2025-10",
-            "urlToImage": "https://i.insider.com/68f98ba20be9845f2dc4eef6?width=700",
-            "publishedAt": "2025-10-23 02:36:09"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Lenovo Unveils ThinkCentre Neo Mini PCs with AMD Ryzen AI Power",
-            "url": "https://www.webpronews.com/lenovo-unveils-thinkcentre-neo-mini-pcs-with-amd-ryzen-ai-power/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-a019605f-a1ca-4557-a9dc-64b0ed09984d.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-10-23 02:25:41"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "CoreWeave Empowers AI With High-Speed, Flexible Object Storage",
-            "url": "https://www.forbes.com/sites/janakirammsv/2025/10/22/coreweave-empowers-ai-with-high-speed-flexible-object-storage/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68f98ebeeec5b7d68bfd5d23/0x0.jpg?width=960",
-            "publishedAt": "2025-10-23 02:12:30"
-        },
-        {
-            "source": {
-                "name": "venturebeat"
-            },
-            "title": "What enterprises can take away from Microsoft CEO Satya Nadella's shareholder letter",
-            "url": "https://venturebeat.com/ai/what-enterprises-can-take-away-from-microsoft-ceo-satya-nadellas-shareholder",
-            "urlToImage": "https://images.ctfassets.net/jdtwqhzvc2n1/12n5mLIJNuMXqnrlrdiiFR/6c9b04ccb83f975ed619174db8c202c6/cfr0z3n_httpss.mj.runM4mKVYlCu30_Cut_and_paste_collage_style_ph_780082c3-eb52-4012-ad6c-016de100662a__1_.png",
-            "publishedAt": "2025-10-23 01:34:00"
-        },
-        {
-            "source": {
-                "name": "dailygazette"
-            },
-            "title": "The debate that didn’t happen, and what it tells us about AI in Virginia politics",
-            "url": "https://www.dailygazette.com/tribune/the-debate-that-didn-t-happen-and-what-it-tells-us-about-ai-in-virginia/article_e5a34b16-da05-50ad-8968-ec2e1d9eb87d.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/dailygazette.com/content/tncms/assets/v3/editorial/0/17/017f3514-fa95-54e5-8072-fc4ade52ce2f/68f98a80679eb.image.png?resize=300%2C121",
-            "publishedAt": "2025-10-23 01:25:00"
-        },
-        {
-            "source": {
-                "name": "thepilotnews"
-            },
-            "title": "Sunseeker Robotics Debuts S4, Its First LiDAR-Equipped Robotic Mower in the US at Equip Expo 2025",
-            "url": "https://www.thepilotnews.com/online_features/press_releases/sunseeker-robotics-debuts-s4-its-first-lidar-equipped-robotic-mower-in-the-us-at-equip/article_f1e5ea8f-60f3-5d89-90fe-aecf4d8f1f3d.html",
-            "urlToImage": "https://rt.prnewswire.com/rt.gif?DateId=20251022&NewsItemId=CN04465&Transmission_Id=202510222110PR_NEWS_USPR_____CN04465",
-            "publishedAt": "2025-10-23 01:10:00"
-        },
-        {
-            "source": {
-                "name": "rutlandherald"
-            },
-            "title": "Sunseeker Robotics Debuts S4, Its First LiDAR-Equipped Robotic Mower in the US at Equip Expo 2025",
-            "url": "https://www.rutlandherald.com/online_features/press_releases/sunseeker-robotics-debuts-s4-its-first-lidar-equipped-robotic-mower-in-the-us-at-equip/article_c6aae239-2343-517e-a8ed-5389175e0049.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/rutlandherald.com/content/tncms/assets/v3/editorial/b/dc/bdc4f0e4-0c24-59d4-b28f-e96204ec2d07/68f9ce57a254d.image.jpg?resize=300%2C150",
-            "publishedAt": "2025-10-23 01:10:00"
-        },
-        {
-            "source": {
-                "name": "journal_news"
-            },
-            "title": "Sunseeker Robotics Debuts S4, Its First LiDAR-Equipped Robotic Mower in the US at Equip Expo 2025",
-            "url": "https://www.journal-news.net/online_features/press_releases/sunseeker-robotics-debuts-s4-its-first-lidar-equipped-robotic-mower-in-the-us-at-equip/article_5dd31b0b-6e94-5592-bc0d-cb61c4b56a23.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/journal-news.net/content/tncms/assets/v3/editorial/8/c0/8c0c85da-ccb5-54fa-af3f-2c3555e30e5a/68f9cd9edb551.image.jpg?resize=300%2C150",
-            "publishedAt": "2025-10-23 01:10:00"
-        },
-        {
-            "source": {
-                "name": "manchestertimes"
-            },
-            "title": "Sunseeker Robotics Debuts S4, Its First LiDAR-Equipped Robotic Mower in the US at Equip Expo 2025",
-            "url": "https://www.manchestertimes.com/online_features/press_releases/sunseeker-robotics-debuts-s4-its-first-lidar-equipped-robotic-mower-in-the-us-at-equip/article_039ea4e6-0e6f-5a6a-af87-74fa850012e0.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/manchestertimes.com/content/tncms/assets/v3/editorial/f/9c/f9cecd6d-e5ab-5477-b13c-9c6bc9ae8671/68f9db3b261f7.image.jpg?resize=1000%2C500",
-            "publishedAt": "2025-10-23 01:10:00"
-        },
-        {
-            "source": {
-                "name": "romesentinel"
-            },
-            "title": "Sunseeker Robotics Debuts S4, Its First LiDAR-Equipped Robotic Mower in the US at Equip Expo 2025",
-            "url": "https://www.romesentinel.com/online_features/press_releases/sunseeker-robotics-debuts-s4-its-first-lidar-equipped-robotic-mower-in-the-us-at-equip/article_707fdd5f-78e7-56c5-af9f-0152b4509fc5.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/romesentinel.com/content/tncms/assets/v3/editorial/1/41/14162f2b-b822-5d32-bdde-ec820cb66bfc/68f9ce6d8f183.image.jpg?resize=300%2C150",
-            "publishedAt": "2025-10-23 01:10:00"
-        },
-        {
-            "source": {
-                "name": "berkshireeagle"
-            },
-            "title": "Sunseeker Robotics Debuts S4, Its First LiDAR-Equipped Robotic Mower in the US at Equip Expo 2025",
-            "url": "https://www.berkshireeagle.com/online_features/press_releases/sunseeker-robotics-debuts-s4-its-first-lidar-equipped-robotic-mower-in-the-us-at-equip/article_15c76ac7-f87e-51aa-9c11-1884a3e62af3.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/berkshireeagle.com/content/tncms/assets/v3/editorial/f/f2/ff2f49ca-9a55-5a05-adbd-ebe970ded39b/68f9cc1b7991c.image.jpg?resize=1000%2C500",
-            "publishedAt": "2025-10-23 01:10:00"
-        },
-        {
-            "source": {
-                "name": "sentinelsource"
-            },
-            "title": "Sunseeker Robotics Debuts S4, Its First LiDAR-Equipped Robotic Mower in the US at Equip Expo 2025",
-            "url": "https://www.keenesentinel.com/online_features/press_releases/sunseeker-robotics-debuts-s4-its-first-lidar-equipped-robotic-mower-in-the-us-at-equip/article_702e5a00-ee82-5ae5-8454-13379911984d.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/keenesentinel.com/content/tncms/assets/v3/editorial/2/f8/2f8fc22d-5258-5fe3-8580-4d796bce7ac9/68f9cd57bd719.image.jpg?resize=300%2C150",
-            "publishedAt": "2025-10-23 01:10:00"
-        },
-        {
-            "source": {
-                "name": "laconiadailysun"
-            },
-            "title": "Sunseeker Robotics Debuts S4, Its First LiDAR-Equipped Robotic Mower in the US at Equip Expo 2025",
-            "url": "https://www.laconiadailysun.com/online_features/press_releases/sunseeker-robotics-debuts-s4-its-first-lidar-equipped-robotic-mower-in-the-us-at-equip/article_94a6f777-bcf6-52a5-9a92-2f1093cdef53.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/laconiadailysun.com/content/tncms/assets/v3/editorial/6/2a/62a5e800-5e1e-5043-85d9-e532a641293a/68f9cebdd45b5.image.jpg?resize=300%2C150",
-            "publishedAt": "2025-10-23 01:10:00"
         }
     ]
 }
