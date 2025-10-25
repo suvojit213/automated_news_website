@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-10-25T03:36:13.390630Z",
+    "lastUpdatedAt": "2025-10-25T04:17:27.798056Z",
     "articles": [
+        {
+            "source": {
+                "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
+                "name": "Fortune",
+                "url": "https://fortune.com",
+                "country": "us"
+            },
+            "title": "Ex-Stellantis CEO says Tesla may exit the car industry and may not exist in 10 years",
+            "url": "https://fortune.com/2025/10/24/ex-stellantis-ceo-carlos-tavares-elon-musk-tesla-may-not-exist-tsla-stock-loss/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-2177655204-e1761321312555.jpg?resize=1200,600",
+            "publishedAt": "2025-10-24T16:11:26Z"
+        },
+        {
+            "source": {
+                "id": "03433a64f36352eac21e59919c90bd8c",
+                "name": "The Aspen Times",
+                "url": "https://www.aspentimes.com",
+                "country": "us"
+            },
+            "title": "Garfield County adopts first policy governing artificial intelligence use by employees",
+            "url": "https://www.aspentimes.com/news/garfield-county-adopts-first-policy-governing-artificial-intelligence-use-by-employees/",
+            "urlToImage": "https://swiftmedia.s3.amazonaws.com/mountain.swiftcom.com/images/sites/5/2025/07/25132343/Aspen-Times-News-graphic.png",
+            "publishedAt": "2025-10-24T15:57:59Z"
+        },
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "Open-source software reveals complete 3D architecture of brain cells",
+            "url": "https://medicalxpress.com/news/2025-10-source-software-reveals-3d-architecture.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/ai-tool-reveals-comple.jpg",
+            "publishedAt": "2025-10-24T15:50:02Z"
+        },
+        {
+            "source": {
+                "id": "6f97df9bf07dbbc5b124859805bffd6f",
+                "name": "The Street",
+                "url": "https://www.thestreet.com",
+                "country": "us"
+            },
+            "title": "Major cybersecurity CEO drops AI bombshell",
+            "url": "https://www.thestreet.com/technology/major-cybersecurity-ceo-drops-ai-bombshell",
+            "urlToImage": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/MjE1MjY3ODMwODkzOTEzNDU1/cybersecurity3.jpg",
+            "publishedAt": "2025-10-24T15:47:00Z"
+        },
         {
             "source": {
                 "id": "da5c26287bdd02563a2c32b55cb12051",
@@ -1068,6 +1116,69 @@
             "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1013606",
             "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1013606.g008&size=inline",
             "publishedAt": "2025-10-24T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "mercurynews"
+            },
+            "title": "Intel rallies after forecast signals a comeback Is underway",
+            "url": "https://www.mercurynews.com/2025/10/24/intel-rallies-after-forecast-signals-a-comeback-is-underway/",
+            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/09/SJM-L-INTEL-3.jpg?strip=all&w=1400px",
+            "publishedAt": "2025-10-24 16:16:24"
+        },
+        {
+            "source": {
+                "name": "fortune"
+            },
+            "title": "Microsoft is distancing itself from longtime partner OpenAI, shunning erotica chatbots: ‘Just not a service we’re going to provide,’ AI CEO says",
+            "url": "https://fortune.com/2025/10/24/microsoft-no-erotica-chatbots-openai-chatgpt-xai-grok/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-2207866106-e1761321048264.jpg?w=2048",
+            "publishedAt": "2025-10-24 16:13:12"
+        },
+        {
+            "source": {
+                "name": "biztoc"
+            },
+            "title": "GM lays off more than 200 salaried workers in latest round of job cuts",
+            "url": "https://biztoc.com/x/915e55215b4b8925",
+            "urlToImage": "https://cdn.biztoc.com/915e55215b4b8925_sq.webp",
+            "publishedAt": "2025-10-24 16:07:40"
+        },
+        {
+            "source": {
+                "name": "futurism"
+            },
+            "title": "OpenAI’s New AI Browser Is Already Falling Victim to Prompt Injection Attacks",
+            "url": "https://futurism.com/artificial-intelligence/openai-browser-victim-prompt-injection-attacks",
+            "urlToImage": "https://futurism.com/wp-content/uploads/2025/10/openai-browser-victim-prompt-injection-attacks.jpg?quality=85",
+            "publishedAt": "2025-10-24 16:06:57"
+        },
+        {
+            "source": {
+                "name": "fstoppers"
+            },
+            "title": "We Review the ASUS ProArt Display 6K PA32QCV: Precision Meets Value",
+            "url": "https://fstoppers.com/reviews/review-asus-proart-display-6k-pa32qcv-precision-meets-value-714537",
+            "urlToImage": "https://cdn.fstoppers.com/styles/large-16-9/s3/lead/2025/10/proart-display-6k-pa32qcv.jpg",
+            "publishedAt": "2025-10-24 16:06:01"
+        },
+        {
+            "source": {
+                "name": "zephyrnet"
+            },
+            "title": "From Corporations to Platforms: The Internet’s Economic Transformation",
+            "url": "https://zephyrnet.com/from-corporations-to-platforms-the-internets-economic-transformation/",
+            "urlToImage": "https://zephyrnet.com/wp-content/uploads/img-1cWf8i3sqGNDATD4RH6pmbmN.png",
+            "publishedAt": "2025-10-24 15:47:24"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "The Future of Brain-Machine Interfaces Is Biohybrid",
+            "url": "https://hackernoon.com/the-future-of-brain-machine-interfaces-is-biohybrid",
+            "urlToImage": "https://hackernoon.imgix.net/images/YwSHEC3KytbshzaHd9gfS1alGs52-8w322nc.png",
+            "publishedAt": "2025-10-24 15:41:45"
         },
         {
             "source": {
@@ -3201,138 +3312,6 @@
             "url": "https://www.marketbeat.com/articles/what-americans-think-about-the-environmental-impact-of-ai-according-to-a-new-poll-2025-10-23/",
             "urlToImage": "https://www.marketbeat.com/images/MarketBeat-icon-256x256.png",
             "publishedAt": "2025-10-23T11:02:38Z"
-        },
-        {
-            "source": {
-                "id": "3e29a1cf81727e4aa5687d46a4b429c4",
-                "name": "Bangor Daily News",
-                "url": "https://www.bangordailynews.com",
-                "country": "us"
-            },
-            "title": "What Americans think about the environmental impact of AI, according to a new poll",
-            "url": "https://www.bangordailynews.com/2025/10/23/nation/what-americans-think-about-the-environmental-impact-of-ai-according-to-a-new-poll/",
-            "urlToImage": "https://i0.wp.com/bdn-data.s3.amazonaws.com/uploads/2025/10/preview-538.jpg?fit=1024%2C683&ssl=1",
-            "publishedAt": "2025-10-23T11:02:38Z"
-        },
-        {
-            "source": {
-                "id": "37128a060981dbbe79321f096e7d1108",
-                "name": "U.S. News & World Report",
-                "url": "https://www.usnews.com",
-                "country": "us"
-            },
-            "title": "What Americans Think About the Environmental Impact of AI, According to a New Poll",
-            "url": "https://www.usnews.com/news/business/articles/2025-10-23/what-americans-think-about-the-environmental-impact-of-ai-according-to-a-new-poll",
-            "urlToImage": "https://www.usnews.com/dims4/USNEWS/ae1ab2b/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F38%2F9f23a9fda2c45c7e17c5079a506bd0%2F261b7ac619e2495db7f2519c1efb66eaClimate_AI_Uses_04222.jpg",
-            "publishedAt": "2025-10-23T11:02:00Z"
-        },
-        {
-            "source": {
-                "id": "f4d035ae0463df22c36ae97972a33ba6",
-                "name": "PR Newswire UK",
-                "url": "https://www.prnewswire.co.uk",
-                "country": "gb"
-            },
-            "title": "Alife Health Receives CE Mark Under European Medical Device Regulation for Embryo Predict™, Its AI-Powered Embryo Selection Tool",
-            "url": "https://www.prnewswire.co.uk/news-releases/alife-health-receives-ce-mark-under-european-medical-device-regulation-for-embryo-predict-its-ai-powered-embryo-selection-tool-302592148.html",
-            "urlToImage": "https://mma.prnewswire.com/media/1718591/Alife_Health_Logo.jpg?p=facebook",
-            "publishedAt": "2025-10-23T11:00:00Z"
-        },
-        {
-            "source": {
-                "id": "f5081afeaba654292dd91fffd29f9dd4",
-                "name": "The Globe and Mail",
-                "url": "https://www.theglobeandmail.com",
-                "country": "ca"
-            },
-            "title": "IBM shares fall as cloud slowdown triggers investor anxiety",
-            "url": "https://www.theglobeandmail.com/investing/article-ibm-shares-fall-as-cloud-slowdown-triggers-investor-anxiety/",
-            "urlToImage": "https://www.theglobeandmail.com/resizer/v2/PARDNIET3FFP5K63OZ4RC6324I.JPG?auth=cffd6cc1e7f135d7b723361c9c34f20ca13ec8c55fc7ad4134133604fe170e41&width=1200&height=800&quality=80&smart=true",
-            "publishedAt": "2025-10-23T10:58:25Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "TAC InfoSec's Meteoric Rise: A New Cybersecurity Titan",
-            "url": "https://www.devdiscourse.com/article/technology/3671756-tac-infosecs-meteoric-rise-a-new-cybersecurity-titan",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/04_05_2025_07_48_06_9381318.png?width=920&format=jpeg",
-            "publishedAt": "2025-10-23T10:52:54Z"
-        },
-        {
-            "source": {
-                "id": "e9207083a357fb7e76b38e485888ebe7",
-                "name": "manilastandard.net",
-                "url": "https://manilastandard.net",
-                "country": "ph"
-            },
-            "title": "Empowering productivity with AI to strengthen cybersecurity",
-            "url": "https://manilastandard.net/tech/314658955/empowering-productivity-with-ai-to-strengthen-cybersecurity.html",
-            "urlToImage": "https://cdn.manilastandard.net/wp-content/uploads/2025/10/Terracotta.png",
-            "publishedAt": "2025-10-23T10:41:59Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Online scam alert! Meta launches new safety features to safeguard older adults from cyber frauds - Here's what it will do",
-            "url": "https://timesofindia.indiatimes.com/business/cybersecurity/online-scam-alert-meta-launches-new-safety-features-to-safeguard-older-adults-from-cyber-frauds-heres-what-it-will-do/articleshow/124760145.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-124760242,width-1070,height-580,imgsize-14220,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "publishedAt": "2025-10-23T10:37:00Z"
-        },
-        {
-            "source": {
-                "id": "9962a9b594044b42e892f4760e2dfd7e",
-                "name": "Sputnik News",
-                "url": "https://sputnikglobe.com",
-                "country": "ru"
-            },
-            "title": "Putin: Russia Implements Advanced Cybersecurity Measures to Protect Digital Rights",
-            "url": "https://sputnikglobe.com/20251023/putin-russia-implements-advanced-cybersecurity-measures-to-protect-digital-rights-1123003774.html",
-            "urlToImage": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1123003774.jpg?11219049861761215793",
-            "publishedAt": "2025-10-23T10:36:00Z"
-        },
-        {
-            "source": {
-                "id": "628299239469ffa8b7dbb809aabbcc2e",
-                "name": "Analytics India Magazine",
-                "url": "https://analyticsindiamag.com",
-                "country": "in"
-            },
-            "title": "Reddit Sues Perplexity for Alleged Illegal Data Scraping",
-            "url": "https://analyticsindiamag.com/ai-news-updates/reddit-sues-perplexity-for-alleged-illegal-data-scraping/",
-            "urlToImage": "https://analyticsindiamag.com/wp-content/uploads/2024/11/LLM-Lawsuit.webp",
-            "publishedAt": "2025-10-23T10:04:58Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Stephen Hawking’s disturbing prediction: How AI's dual nature could end human civilization in future",
-            "url": "https://economictimes.indiatimes.com/magazines/panache/stephen-hawkings-disturbing-prediction-how-ais-dual-nature-could-end-human-civilization-in-future/articleshow/124759230.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-124759415,width-1200,height-630,imgsize-69024,overlay-etpanache/articleshow.jpg",
-            "publishedAt": "2025-10-23T09:59:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Bezos Earth Fund Announces $30 Million in AI Grand Challenge Awards",
-            "url": "https://www.manilatimes.net/2025/10/23/tmt-newswire/globenewswire/bezos-earth-fund-announces-30-million-in-ai-grand-challenge-awards/2206813",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/10/23/795134.jpg",
-            "publishedAt": "2025-10-23T09:45:23Z"
         }
     ]
 }
