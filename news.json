@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-10-25T19:11:17.332654Z",
+    "lastUpdatedAt": "2025-10-25T20:15:49.206987Z",
     "articles": [
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "Building Smarter, Faster, and More Efficient Websites in the Age of AI",
+            "url": "https://techbullion.com/building-smarter-faster-and-more-efficient-websites-in-the-age-of-ai/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/10/unnamed-2025-10-25T004145.653.png",
+            "publishedAt": "2025-10-25T07:42:18Z"
+        },
         {
             "source": {
                 "id": "143b993b193f72147f3de29ebcfbf505",
@@ -108,6 +120,24 @@
             "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/two-sides-to-every-story-entertainment-inc-hearing-ais-version/articleshow/124792963.cms",
             "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-45320,resizemode-75,msid-124792963/tech/artificial-intelligence/two-sides-to-every-story-entertainment-inc-hearing-ais-version.jpg",
             "publishedAt": "2025-10-25T00:30:00Z"
+        },
+        {
+            "source": {
+                "name": "theguardian"
+            },
+            "title": "AI models may be developing their own ‘survival drive’, researchers say",
+            "url": "https://www.theguardian.com/technology/2025/oct/25/ai-models-may-be-developing-their-own-survival-drive-researchers-say",
+            "urlToImage": "https://i.guim.co.uk/img/media/46bab37f5175525fd92e0d9d2308fa4c515bba7c/673_0_2159_1727/master/2159.jpg?crop=none&dpr=2&s=none&width=620",
+            "publishedAt": "2025-10-25 08:00:28"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "The Surprising Idea That Generative AI Might Be Better Off Using Visual Images Of Text Rather Than Pure Text As Tokens",
+            "url": "https://www.forbes.com/sites/lanceeliot/2025/10/25/the-surprising-idea-that-generative-ai-might-be-better-off-using-visual-images-of-text-rather-than-pure-text-as-tokens/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68fc3a686b7ce9ce5af85019/0x0.jpg?width=960",
+            "publishedAt": "2025-10-25 07:15:00"
         },
         {
             "source": {
@@ -3093,33 +3123,6 @@
             "url": "http://economictimes.indiatimes.com/tech/startups/union-ministers-piyush-goyal-ashwini-vaishnaw-to-headline-et-startup-awards-on-october-31-in-bengaluru/articleshow/124769745.cms",
             "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1062779,resizemode-75,msid-124769745/tech/startups/union-ministers-piyush-goyal-ashwini-vaishnaw-to-headline-et-startup-awards-on-october-31-in-bengaluru.jpg",
             "publishedAt": "2025-10-24 00:30:00"
-        },
-        {
-            "source": {
-                "name": "siliconangle"
-            },
-            "title": "OpenAI buys Apple Mac automation startup Software Applications",
-            "url": "https://siliconangle.com/2025/10/23/openai-buys-apple-mac-automation-startup-software-applications/",
-            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/10/Screenshot-from-2025-10-24-07-11-42.png",
-            "publishedAt": "2025-10-24 00:12:04"
-        },
-        {
-            "source": {
-                "name": "headtopics"
-            },
-            "title": "GM’s Next Big Tech Move Could Upset Millions Of iPhone And Android Users",
-            "url": "https://us.headtopics.com/news/gm-s-next-big-tech-move-could-upset-millions-of-iphone-and-74826045",
-            "urlToImage": "https://i.headtopics.com/images/2025/10/22/investingcom/meta-s-next-big-test-previewing-its-fast-approachi-meta-s-next-big-test-previewing-its-fast-approachi-AE362C27B9CD565CAD5E656E58000E79.webp?w=640",
-            "publishedAt": "2025-10-24 00:10:26"
-        },
-        {
-            "source": {
-                "name": "headtopics"
-            },
-            "title": "Intel’s tick-tock isn’t coming back, and everything else I just learned",
-            "url": "https://us.headtopics.com/news/intel-s-tick-tock-isn-t-coming-back-and-everything-else-i-74826042",
-            "urlToImage": "https://i.headtopics.com/images/2025/10/22/insideevs/radical-simplification-gm-s-software-defined-vehic-radical-simplification-gm-s-software-defined-vehic-3208C91959B0887D5A7D02C8F2847ED2.webp?w=640",
-            "publishedAt": "2025-10-24 00:09:37"
         }
     ]
 }
