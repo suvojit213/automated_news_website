@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-10-25T08:17:46.322662Z",
+    "lastUpdatedAt": "2025-10-25T09:14:15.541446Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Large US law firm apologizes for AI errors in bankruptcy court filing",
+            "url": "https://www.reuters.com/legal/litigation/large-us-law-firm-apologizes-ai-errors-bankruptcy-court-filing-2025-10-24/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/RW4E2TKNJNODPJVYMWCYUE2AI4.jpg?auth=bc42fbfc36a6b032f7b2451e950ab60fa3ea9ec5f9cadb6845cd58a5457c7c6e&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-10-24T20:52:27Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "Anthropic announces massive AI chip deal with Google",
+            "url": "https://japantoday.com/category/tech/anthropic-announces-massive-ai-chip-deal-with-google",
+            "urlToImage": "https://media.japantoday.com/img/store/d3/6c/370e2859b0c16abed8d84cbcbf8b1a05c990/f00e3d2bc08989ed41b0b7be6cd23cd8b8bbcf74-2/_w1700.jpeg",
+            "publishedAt": "2025-10-24T20:30:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "IGEL Teams with Palo Alto Networks to Elevate Enterprise Cybersecurity",
+            "url": "https://www.manilatimes.net/2025/10/25/tmt-newswire/globenewswire/igel-teams-with-palo-alto-networks-to-elevate-enterprise-cybersecurity/2208249",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/10/25/797768.png",
+            "publishedAt": "2025-10-24T20:20:10Z"
+        },
         {
             "source": {
                 "id": "214d496d625fc657723cf4da80cff8ce",
@@ -1452,6 +1488,96 @@
             "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1013606",
             "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1013606.g008&size=inline",
             "publishedAt": "2025-10-24T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "Noise To Signal: Cuban Backs Synaptrix Labs Non-Invasive BCI Platform",
+            "url": "https://www.forbes.com/sites/naveenrao/2025/10/24/noise-to-signal-cuban-backs-synaptrix-labs-non-invasive-bci-platform/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68fbe5c9f52a2308bd005d78/0x0.jpg?width=960",
+            "publishedAt": "2025-10-24 21:10:17"
+        },
+        {
+            "source": {
+                "name": "benzinga"
+            },
+            "title": "BEYOND Introduces the First AI Training Contracts in the World -The Next Round of Value Creation",
+            "url": "https://www.benzinga.com/pressreleases/25/10/g48418623/beyond-introduces-the-first-ai-training-contracts-in-the-world-the-next-round-of-value-creation",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/84cc9160-fb1c-43aa-966e-b388b10941e1/beyond.png",
+            "publishedAt": "2025-10-24 21:02:12"
+        },
+        {
+            "source": {
+                "name": "mlive"
+            },
+            "title": "General Motors cuts 200 jobs at Michigan tech center",
+            "url": "https://www.mlive.com/news/2025/10/general-motors-cuts-200-jobs-at-michigan-tech-center.html",
+            "urlToImage": "https://www.mlive.com/resizer/v2/HIALS6KM2ZA5RHMPTZSFK276RM.jpg?auth=cabd04300d1c4314eb98c208b9d777df4e60fbce9f324829f10e80b363999223&height=1200&smart=true",
+            "publishedAt": "2025-10-24 20:51:25"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "Why Rubrik Agent Cloud Could Define Trusted Enterprise AI",
+            "url": "https://www.forbes.com/sites/tonybradley/2025/10/24/why-rubrik-agent-cloud-could-define-trusted-enterprise-ai/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68fbe4337408b89d413033d8/0x0.jpg?width=960",
+            "publishedAt": "2025-10-24 20:42:55"
+        },
+        {
+            "source": {
+                "name": "benzinga"
+            },
+            "title": "State Investment Platform: How State Investment Platform Emerges as a Leading AI Trading Platform, Reports Highlight Features & Innovation",
+            "url": "https://www.benzinga.com/pressreleases/25/10/g48418121/state-investment-platform-how-state-investment-platform-emerges-as-a-leading-ai-trading-platform-r",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/0cf1655b-eb73-408c-acf4-f9a1385c94db/state-investment-platform.png",
+            "publishedAt": "2025-10-24 20:32:02"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "AWS Launches CloudWatch Automated Incident Reporting Tool After Outage",
+            "url": "https://www.webpronews.com/aws-launches-cloudwatch-automated-incident-reporting-tool-after-outage/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-22b6fae8-011c-43d7-af48-301cef761380.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-10-24 20:30:00"
+        },
+        {
+            "source": {
+                "name": "genengnews"
+            },
+            "title": "Tackling Antimicrobial Resistance and Glioblastoma with Biology-First AI Models",
+            "url": "https://www.genengnews.com/multimedia/webinars/tackling-antimicrobial-resistance-and-glioblastoma-with-biology-first-ai-models/",
+            "urlToImage": "https://www.genengnews.com/wp-content/uploads/2025/10/Getty_2234608535_AIMedTechnolgoyCapsules.jpg",
+            "publishedAt": "2025-10-24 20:26:25"
+        },
+        {
+            "source": {
+                "name": "startupnews"
+            },
+            "title": "Apple’s Houston-built AI servers are now shipping, according to CEO Tim Cook — custom silicon to power Private Cloud Compute",
+            "url": "https://startupnews.fyi/2025/10/25/apples-houston-built-ai-servers-are-now-shipping-according-to-ceo-tim-cook-custom-silicon-to-power-private-cloud-compute/",
+            "urlToImage": "https://startupnews.fyi/wp-content/uploads/2025/10/ZZdA43hqREUBtm2zLesvm6-1920-80.png",
+            "publishedAt": "2025-10-24 20:26:02"
+        },
+        {
+            "source": {
+                "name": "yahoo"
+            },
+            "title": "Without Jupiter, Earth may have spiraled into the sun long ago",
+            "url": "https://www.yahoo.com/news/articles/without-jupiter-earth-may-spiraled-201835988.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Nj0u3OAyg8qt01oAjHGdvA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MDtjZj13ZWJw/https://media.zenfs.com/en/space_311/c7a992b7b9010db97c65a6cac6a62277",
+            "publishedAt": "2025-10-24 20:18:35"
+        },
+        {
+            "source": {
+                "name": "space"
+            },
+            "title": "Without Jupiter, Earth may have spiraled into the sun long ago",
+            "url": "https://www.space.com/astronomy/jupiter/without-jupiter-earth-may-have-spiraled-into-the-sun-long-ago",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Mza6ccKYF6WVrqZekTtJxN-1280-80.jpg",
+            "publishedAt": "2025-10-24 20:18:35"
         },
         {
             "source": {
@@ -3081,162 +3207,6 @@
             "url": "https://www.lokmattimes.com/international/uae-president-issues-resolution-reconstituting-artificial-intelligence-advanced-technology-council/",
             "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20251023174337_202510.jpg",
             "publishedAt": "2025-10-23T17:47:34Z"
-        },
-        {
-            "source": {
-                "id": "eaeeaeaa1e329f65d3a921c9c867fd7b",
-                "name": "Washington Examiner",
-                "url": "https://www.washingtonexaminer.com",
-                "country": "us"
-            },
-            "title": "EPA to unveil new cybersecurity tools to protect US water systems",
-            "url": "https://www.washingtonexaminer.com/policy/energy-and-environment/3858925/epa-unveil-cybersecurity-tools-protect-us-water-systems/",
-            "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2025/10/AP25254619298130.jpg?resize=1024,683",
-            "publishedAt": "2025-10-23T17:42:37Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Can India's balanced approach to AI regulation foster innovation without stifling progress?",
-            "url": "https://economictimes.indiatimes.com/opinion/et-commentary/can-indias-balanced-approach-to-ai-regulation-foster-innovation-without-stifling-progress/articleshow/124768138.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-13568,resizemode-75,msid-124768138/opinion/et-commentary/can-indias-balanced-approach-to-ai-regulation-foster-innovation-without-stifling-progress.jpg",
-            "publishedAt": "2025-10-23T17:37:31Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "\"Cybersecurity Service Providers Connect Programme\" Launches to Bolster SME Defences",
-            "url": "https://www.manilatimes.net/2025/10/24/tmt-newswire/pr-newswire/cybersecurity-service-providers-connect-programme-launches-to-bolster-sme-defences/2207410",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/10/24/796145.jpg",
-            "publishedAt": "2025-10-23T17:33:27Z"
-        },
-        {
-            "source": {
-                "id": "5ac5f32ba74846cef441099f666f2d98",
-                "name": "Fast Company",
-                "url": "https://www.fastcompany.com",
-                "country": "us"
-            },
-            "title": "Microsoft debuts Mico, Copilot's AI alternative to Clippy",
-            "url": "https://www.fastcompany.com/91427839/microsoft-mico-copilot-ai-assistant",
-            "urlToImage": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2025/10/AP25296293306874.jpg",
-            "publishedAt": "2025-10-23T17:30:00Z"
-        },
-        {
-            "source": {
-                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
-                "name": "TechStartups.com",
-                "url": "https://techstartups.com",
-                "country": "us"
-            },
-            "title": "OpenAI acquires startup founded by former Apple engineers to bring AI natively to the Mac desktop",
-            "url": "https://techstartups.com/2025/10/23/openai-acquires-startup-founded-by-former-apple-engineers-to-bring-ai-natively-to-the-mac-desktop/",
-            "urlToImage": "https://techstartups.com/wp-content/uploads/2025/10/OpenAI-Sam.jpg",
-            "publishedAt": "2025-10-23T17:12:18Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "OpenAI Acquires AI Startup Founded by Former Apple Employees",
-            "url": "https://www.bloomberg.com/news/articles/2025-10-23/openai-acquires-ai-startup-founded-by-former-apple-employees",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iv5WmsAPLhMQ/v0/1200x800.jpg",
-            "publishedAt": "2025-10-23T17:00:07Z"
-        },
-        {
-            "source": {
-                "id": "6b5614f288c2ce8fcedc9909a3e2696b",
-                "name": "Metro.co.uk",
-                "url": "https://metro.co.uk",
-                "country": "gb"
-            },
-            "title": "How safe are digital ID cards from hackers?",
-            "url": "https://metro.co.uk/2025/10/23/safe-digital-id-cards-hackers-2-24504881/",
-            "urlToImage": "https://metro.co.uk/wp-content/uploads/2025/10/SEI_271479108-6b02_1761235991.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
-            "publishedAt": "2025-10-23T17:00:00Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Shekhar Kapur reflects on AI's impact on organizations and jobs",
-            "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shekhar-kapur-ponders-over-ais-implications-on-organisations-and-jobs/articleshow/124767267.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-124767335,width-1070,height-580,imgsize-21070,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "publishedAt": "2025-10-23T16:58:00Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com",
-                "country": "ca"
-            },
-            "title": "EU won't 'lecture' Canada, pushes ahead with tech, AI regulation",
-            "url": "https://www.cp24.com/news/canada/2025/10/23/eu-wont-lecture-canada-as-it-pushes-ahead-with-tech-ai-regulation-commissioner/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/ELXBKJKBLALNK7GRMDJLTMJ3JQ.jpg?smart=true&auth=dcc9859b912be48cf6f959a0c06a76aa1aa5532f62aa169f9a60dc0e4ea46e4d&width=1200&height=630",
-            "publishedAt": "2025-10-23T16:53:34Z"
-        },
-        {
-            "source": {
-                "id": "1b697445987e8a33f6c82842e17d60d9",
-                "name": "Bnn Bloomberg",
-                "url": "https://www.bnnbloomberg.ca",
-                "country": "ca"
-            },
-            "title": "EU won't 'lecture' Canada, pushes ahead with tech, AI regulation",
-            "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2025/10/23/eu-wont-lecture-canada-as-it-pushes-ahead-with-tech-ai-regulation-commissioner/",
-            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/ELXBKJKBLALNK7GRMDJLTMJ3JQ.jpg?smart=true&auth=dcc9859b912be48cf6f959a0c06a76aa1aa5532f62aa169f9a60dc0e4ea46e4d&width=1200&height=630",
-            "publishedAt": "2025-10-23T16:53:34Z"
-        },
-        {
-            "source": {
-                "id": "0ce70f407e0fa82ddaeeb29243aa8210",
-                "name": "SooToday",
-                "url": "https://www.sootoday.com",
-                "country": "ca"
-            },
-            "title": "EU won't 'lecture' Canada as it pushes ahead with tech, AI regulation: commissioner",
-            "url": "https://www.sootoday.com/national-news/eu-wont-lecture-canada-as-it-pushes-ahead-with-tech-ai-regulation-commissioner-11387947",
-            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/10/75ed74d1536314e1ebd58abe6a6aaca3a35b0adfc6b9f916b371fc6ca56b27a0.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2025-10-23T16:46:52Z"
-        },
-        {
-            "source": {
-                "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
-                "name": "BayToday",
-                "url": "https://www.baytoday.ca",
-                "country": "ca"
-            },
-            "title": "EU won't 'lecture' Canada as it pushes ahead with tech, AI regulation: commissioner",
-            "url": "https://www.baytoday.ca/national-news/eu-wont-lecture-canada-as-it-pushes-ahead-with-tech-ai-regulation-commissioner-11387947",
-            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/10/75ed74d1536314e1ebd58abe6a6aaca3a35b0adfc6b9f916b371fc6ca56b27a0.jpg;w=1200;h=800;mode=crop",
-            "publishedAt": "2025-10-23T16:46:52Z"
-        },
-        {
-            "source": {
-                "id": "1b697445987e8a33f6c82842e17d60d9",
-                "name": "Bnn Bloomberg",
-                "url": "https://www.bnnbloomberg.ca",
-                "country": "ca"
-            },
-            "title": "Microsoft hopes Mico succeeds where Clippy failed as tech companies warily imbue AI with personality",
-            "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2025/10/23/microsoft-hopes-mico-succeeds-where-clippy-failed-as-tech-companies-warily-imbue-ai-with-personality/",
-            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/EXBED5VVNOG4O7BUDKEU56Z2FM.jpg?smart=true&auth=890983e94b525bc0867bd7ede5ed4d05a4b741f0ea2247ffd154cb4a01097d68&width=1200&height=630",
-            "publishedAt": "2025-10-23T16:43:52Z"
         }
     ]
 }
