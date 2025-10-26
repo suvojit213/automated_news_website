@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-10-26T15:13:27.600763Z",
+    "lastUpdatedAt": "2025-10-26T16:17:12.005519Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Bot-ulism: AI fuelling internet extortion scam 'havoc'",
+            "url": "https://www.thestar.com.my/tech/tech-news/2025/10/26/bot-ulism-ai-fuelling-internet-extortion-scam-039havoc039",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/24/3586319.jpeg",
+            "publishedAt": "2025-10-26T04:00:00Z"
+        },
+        {
+            "source": {
+                "id": "aaa6f2928e430ec2ed450ed89cc822f5",
+                "name": "Salt Lake City Deseret News",
+                "url": "https://www.deseret.com",
+                "country": "us"
+            },
+            "title": "AI and religion: How will artificial intelligence affect churches?",
+            "url": "https://www.deseret.com/faith/2025/10/25/how-ai-will-transform-churches/",
+            "urlToImage": "https://www.deseret.com/resizer/v2/GYU55FEWUZAF7PVM24TQIXKWFA.jpg?focal=1367%2C981&auth=a051871993b44e266a19703b301078fe6b2278a36bc98ad978129af465a4c442&width=1200&height=630",
+            "publishedAt": "2025-10-26T03:14:33Z"
+        },
         {
             "source": {
                 "id": "1e30d944d63d9090db5a2c2e28a8772f",
@@ -3207,24 +3231,6 @@
             "url": "https://www.webpronews.com/ai-agents-pioneer-science-inside-the-bot-led-conference-revolution/",
             "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/article-89-1761332464.jpeg?fit=720%2C960&ssl=1",
             "publishedAt": "2025-10-24 19:01:09"
-        },
-        {
-            "source": {
-                "name": "benzinga"
-            },
-            "title": "BEYOND Launches Web3.0 AI Cloud Computing Platform — Start Your Intelligent Wealth Growth Journey",
-            "url": "https://www.benzinga.com/pressreleases/25/10/g48415453/beyond-launches-web3-0-ai-cloud-computing-platform-start-your-intelligent-wealth-growth-journey",
-            "urlToImage": "https://ml.globenewswire.com/Resource/Download/2b1d3438-924d-48f8-9044-d3efac0a14ad/beyond1.png",
-            "publishedAt": "2025-10-24 19:01:07"
-        },
-        {
-            "source": {
-                "name": "siliconangle"
-            },
-            "title": "Three insights you might have missed from theCUBE’s coverage of NetApp INSIGHT",
-            "url": "https://siliconangle.com/2025/10/24/ai-data-strategy-powering-next-wave-innovation-netappinsight/",
-            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/10/George-Kurian-chief-executive-officer-of-NetApp-Inc-NetAPP-INSIGHT.png",
-            "publishedAt": "2025-10-24 19:00:10"
         }
     ]
 }
