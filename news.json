@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-10-26T22:13:53.701057Z",
+    "lastUpdatedAt": "2025-10-26T23:13:47.685830Z",
     "articles": [
+        {
+            "source": {
+                "id": "4b9101ef61d45607a32072a7504f5fb0",
+                "name": "The Japan Times ",
+                "url": "https://www.japantimes.co.jp",
+                "country": "jp"
+            },
+            "title": "Takaichi makes diplomatic debut with ASEAN maritime security and AI pledge",
+            "url": "https://www.japantimes.co.jp/news/2025/10/26/japan/politics/sanae-takaichi-asean-summit/",
+            "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2025/10/26/501854.jpg?v=3.1",
+            "publishedAt": "2025-10-26T11:09:11Z"
+        },
         {
             "source": {
                 "id": "43ce1d937b6aed9ea231b649cb2b7b4b",
@@ -300,6 +312,33 @@
             "url": "https://www.spokesman.com/stories/2025/oct/26/motley-fool-broadcom-chips-and-more/",
             "urlToImage": "https://thumb.spokesman.com/SbO6q-Q9atRVyicvkjlP2eo646Q=/1200x630/smart/media.spokesman.com/photos/2025/10/23/68f90d21d0fec.hires.jpg",
             "publishedAt": "2025-10-26T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "gizmodotech"
+            },
+            "title": "These AR Smart Glasses Tested My Patience in a Way I didn’t Think Was Possible",
+            "url": "https://gizmodo.com/inmo-air-3-ar-smart-glasses-review-avoided-at-all-costs-2000676765",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/inmo-air-3-smartglasses-review-05-1280x853.jpg",
+            "publishedAt": "2025-10-26 11:00:51"
+        },
+        {
+            "source": {
+                "name": "english_jagran"
+            },
+            "title": "A Neuralink Rival That Talks To The Brain Without Surgery: This Is Sam Altman's Next Venture",
+            "url": "https://www.thedailyjagran.com/technology/a-neuralink-rival-that-talks-to-the-brain-without-surgery-this-is-sam-altmans-next-venture-10275923",
+            "urlToImage": "https://imgeng.jagran.com/images/2025/06/19/article/image/aiinternsamaltman-1750318481926.webp",
+            "publishedAt": "2025-10-26 10:57:40"
+        },
+        {
+            "source": {
+                "name": "thehindu"
+            },
+            "title": "Hanle protects its dark skies and builds a future on stargazing",
+            "url": "https://www.thehindu.com/sci-tech/science/hanle-protects-its-dark-skies-and-builds-a-future-on-stargazing/article70204567.ece",
+            "urlToImage": "https://th-i.thgim.com/public/sci-tech/science/xersda/article70204564.ece/alternates/LANDSCAPE_1200/Photo2_HCT%20Group%20Photo.jpg",
+            "publishedAt": "2025-10-26 10:30:00"
         },
         {
             "source": {
@@ -3213,54 +3252,6 @@
             "url": "https://www.bangkokpost.com/business/general/3125590/data-seen-as-key-to-thailands-ai-transformation",
             "urlToImage": "https://static.bangkokpost.com/media/content/20251024/c1_3125590_251024115530_700.jpg",
             "publishedAt": "2025-10-24T01:01:00Z"
-        },
-        {
-            "source": {
-                "id": "2e9e50c94b2fe950c6f3c06660288260",
-                "name": "SiliconANGLE News",
-                "url": "https://siliconangle.com",
-                "country": "us"
-            },
-            "title": "Data bridges artificial intelligence and security",
-            "url": "https://siliconangle.com/2025/10/23/artificial-intelligence-and-security-cohesity-snykaisecurity/",
-            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/10/IMG_6949.jpg",
-            "publishedAt": "2025-10-24T00:35:31Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Sendbird Achieves ISO/IEC 42001 Certification for Responsible AI Management",
-            "url": "https://www.manilatimes.net/2025/10/24/tmt-newswire/pr-newswire/sendbird-achieves-isoiec-42001-certification-for-responsible-ai-management/2207600",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/10/24/796420.jpg",
-            "publishedAt": "2025-10-24T00:34:34Z"
-        },
-        {
-            "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
-                "country": "in"
-            },
-            "title": "Govt enforces regulations for telecom, cyber security",
-            "url": "https://www.hindustantimes.com/india-news/govt-enforces-regulations-for-telecom-cyber-security-101761246752343.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/06/30/550x309/ht-generic_india1_1751287243850_1751287256749.jpg",
-            "publishedAt": "2025-10-24T00:32:02Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Who really decides the raise? More Americans say it’s no longer the boss, but AI",
-            "url": "https://timesofindia.indiatimes.com/education/news/who-really-decides-the-raise-more-americans-say-its-no-longer-the-boss-but-ai/articleshow/124774095.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-124774111,width-1070,height-580,imgsize-18464,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "publishedAt": "2025-10-24T00:18:00Z"
         }
     ]
 }
