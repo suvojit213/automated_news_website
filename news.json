@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-10-26T04:17:36.303262Z",
+    "lastUpdatedAt": "2025-10-26T05:14:29.060153Z",
     "articles": [
+        {
+            "source": {
+                "id": "43ce1d937b6aed9ea231b649cb2b7b4b",
+                "name": "The Dallas Morning News",
+                "url": "https://www.dallasnews.com",
+                "country": "us"
+            },
+            "title": "How Donald Trump uses artificial intelligence to promote himself, mock others",
+            "url": "https://www.dallasnews.com/news/politifact/2025/10/25/how-donald-trump-uses-artificial-intelligence-to-promote-himself-mock-others/",
+            "urlToImage": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/FWQDYGPZUVABHMUUPKG72CQYR4.jpg?auth=34362875a410be05da7c353834ae47714858a85238745e4aa757da1d3869198e&quality=80&width=1200&height=630&focal=1714,1001",
+            "publishedAt": "2025-10-25T16:31:45Z"
+        },
         {
             "source": {
                 "id": "6b8b6fae575a37200ef9ef50109518f5",
@@ -336,6 +348,33 @@
             "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/two-sides-to-every-story-entertainment-inc-hearing-ais-version/articleshow/124792963.cms",
             "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-45320,resizemode-75,msid-124792963/tech/artificial-intelligence/two-sides-to-every-story-entertainment-inc-hearing-ais-version.jpg",
             "publishedAt": "2025-10-25T00:30:00Z"
+        },
+        {
+            "source": {
+                "name": "english_jagran"
+            },
+            "title": "Oppo Partners With Google To Bring New Gemini-Powered AI Features To The Find X9 Series",
+            "url": "https://www.thedailyjagran.com/technology/oppo-partners-with-google-to-bring-new-geminipowered-ai-features-to-the-find-x9-series-10275815",
+            "urlToImage": "https://imgeng.jagran.com/images/2025/10/25/article/image/Oppo_Oppo-1761411786845.webp",
+            "publishedAt": "2025-10-25 17:04:32"
+        },
+        {
+            "source": {
+                "name": "hackaday"
+            },
+            "title": "Relay Computer Knows the Sequence",
+            "url": "https://hackaday.com/2025/10/25/relay-computer-knows-the-sequence/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2025/10/relay.png",
+            "publishedAt": "2025-10-25 17:00:14"
+        },
+        {
+            "source": {
+                "name": "techtree"
+            },
+            "title": "OPPO redefines personalised mobile AI experiences with Google",
+            "url": "http://www.techtree.com/content/news/15864/oppo-redefines-personalised-mobile-ai-experiences-google.html",
+            "urlToImage": "https://www.techtree.com/sites/default/files/styles/large/public/OPPO%20&%20Google%20Gemini%20logo.png?itok=u-IZLZh8",
+            "publishedAt": "2025-10-25 16:48:09"
         },
         {
             "source": {
@@ -3141,42 +3180,6 @@
             "url": "https://en.prnasia.com/story/508598-0.shtml",
             "urlToImage": "https://mma.prnasia.com/media2/2738991/SuperX_Blue_Logo.jpg?p=medium600",
             "publishedAt": "2025-10-24 12:50:00"
-        },
-        {
-            "source": {
-                "name": "fortune"
-            },
-            "title": "Cognizant CEO Ravi Kumar S on the ‘Hollywood model’ and going with your gut",
-            "url": "https://fortune.com/2025/10/24/cognizant-ceo-ravi-kumar-s-on-the-hollywood-model-and-going-with-your-gut/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/Fortune-Ravi-Kumar.webp?w=2048",
-            "publishedAt": "2025-10-24 12:46:44"
-        },
-        {
-            "source": {
-                "name": "harvard"
-            },
-            "title": "Alumni Profile: Bridget Sands, A.B. '24",
-            "url": "https://seas.harvard.edu/news/2025/10/alumni-profile-bridget-sands-ab-24",
-            "urlToImage": "https://seas.harvard.edu/sites/default/files/styles/embedded_image_large/public/2025-10/ABBA42A3-A70B-4DC7-A7BD-4B35D11DFC0F.jpg?itok=3rBlm9bf",
-            "publishedAt": "2025-10-24 11:11:59"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "Apple M5 vs Snapdragon X2 Elite Extreme benchmarks: The early verdict is in, and it's a surprise",
-            "url": "https://www.tomsguide.com/computing/cpus/apple-m5-vs-snapdragon-x2-elite-extreme-benchmarks-the-early-verdict-is-in-and-its-a-surprise",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/ewunpNGjDo24MNyMPReG2H-1280-80.jpg",
-            "publishedAt": "2025-10-24 11:09:43"
-        },
-        {
-            "source": {
-                "name": "postregister"
-            },
-            "title": "ECARX Antora® and Cloupeak® Solutions Expand into UK with Launch of Geely EX5",
-            "url": "https://www.postregister.com/businessreport/technology/ecarx-antora-and-cloupeak-solutions-expand-into-uk-with-launch-of-geely-ex5/article_d39edeaf-3def-5540-a16d-d9dc7e8f05b7.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
-            "publishedAt": "2025-10-24 11:00:48"
         }
     ]
 }
