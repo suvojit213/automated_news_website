@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-10-26T13:20:50.198558Z",
+    "lastUpdatedAt": "2025-10-26T14:13:09.579403Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Loose language model: AI shown to give inaccurate medical replies",
+            "url": "https://www.thestar.com.my/tech/tech-news/2025/10/26/loose-language-model-ai-shown-to-give-inaccurate-medical-replies",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/24/3586283.jpeg",
+            "publishedAt": "2025-10-26T02:00:00Z"
+        },
         {
             "source": {
                 "id": "b1fa63410571207862faad9daf9b4527",
@@ -3204,15 +3216,6 @@
             "url": "https://pratt.duke.edu/news/wang-ai-optical-microscope/",
             "urlToImage": "https://pratt.duke.edu/wp-content/uploads/2025/10/20251017_Wang_AI_MicroscopeCR2_020-scaled.jpg",
             "publishedAt": "2025-10-24 18:17:28"
-        },
-        {
-            "source": {
-                "name": "express"
-            },
-            "title": "Bill Gates warns AI will take over most jobs and leave humans working just two days a week",
-            "url": "https://www.the-express.com/tech/tech-news/188384/bill-gates-predicts-world-brink-2-day-work-week-ai-taking-over-most-jobs-2034",
-            "urlToImage": "https://cdn-images.the-express.com/img/dynamic/37/590x/188384_1.jpg",
-            "publishedAt": "2025-10-24 18:12:00"
         }
     ]
 }
