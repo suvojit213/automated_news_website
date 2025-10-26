@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-10-26T06:21:23.525102Z",
+    "lastUpdatedAt": "2025-10-26T07:13:22.481504Z",
     "articles": [
+        {
+            "source": {
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
+            },
+            "title": "Teen Handcuffed After AI Mistakes Chip Bag for Gun",
+            "url": "https://www.newsmax.com/us/baltimore-schools-ai-guns/2025/10/25/id/1231850/",
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=a478cddb-e0d2-42bc-91a4-3afef4cfba20&SiteName=Newsmax",
+            "publishedAt": "2025-10-25T19:06:25Z"
+        },
         {
             "source": {
                 "id": "43ce1d937b6aed9ea231b649cb2b7b4b",
@@ -348,6 +360,24 @@
             "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/two-sides-to-every-story-entertainment-inc-hearing-ais-version/articleshow/124792963.cms",
             "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-45320,resizemode-75,msid-124792963/tech/artificial-intelligence/two-sides-to-every-story-entertainment-inc-hearing-ais-version.jpg",
             "publishedAt": "2025-10-25T00:30:00Z"
+        },
+        {
+            "source": {
+                "name": "thehindu"
+            },
+            "title": "What is Google’s ‘quantum advantage’ leap? | Explained",
+            "url": "https://www.thehindu.com/sci-tech/technology/what-is-googles-quantum-advantage-leap-explained/article70202625.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/i1l12e/article70202865.ece/alternates/LANDSCAPE_1200/2024-12-13T013128Z_677568586_RC2ZJBAZ0H3Q_RTRMADP_3_ALPHABET-QUANTUM.JPG",
+            "publishedAt": "2025-10-25 19:13:00"
+        },
+        {
+            "source": {
+                "name": "digitaltrends"
+            },
+            "title": "GM’s latest tech announcement is giving me deja vu",
+            "url": "https://www.digitaltrends.com/cars/gms-latest-tech-announcement-is-giving-me-deja-vu/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/10/Cadillac-Escalade-IQL-1.jpeg?p=1&resize=1200%2C630",
+            "publishedAt": "2025-10-25 19:00:00"
         },
         {
             "source": {
@@ -3153,33 +3183,6 @@
             "url": "https://www.thestreet.com/technology/legendary-fund-manager-ray-dalio-could-soon-be-your-assistant",
             "urlToImage": "https://www.thestreet.com/.image/c_fit,h_800,w_1200/MjA3MzgzNDk2MzQ2MzE0MTQz/the-wall-street-journals-2024-the-future-of-everything-festival.jpg",
             "publishedAt": "2025-10-24 14:33:00"
-        },
-        {
-            "source": {
-                "name": "republicworld"
-            },
-            "title": "Arctic Valtrix Canadian Review 2025: Recommended Trading App Or NOT?",
-            "url": "https://www.republicworld.com/initiatives/arctic-valtrix-canadian-review-2025-recommended-trading-app-or-not",
-            "urlToImage": "https://img.republicworld.com/all_images/arctic-valtrix-canadian-review-2025-recommended-trading-app-or-not-1761316106083-16_9.webp?format=webp&h=225&q=75&w=400",
-            "publishedAt": "2025-10-24 14:28:31"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "Now Is The Time To Buy A Bargain Refurbished PC",
-            "url": "https://www.forbes.com/sites/barrycollins/2025/10/24/now-is-the-time-to-buy-a-bargain-refurbished-pc/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68fb8918d1c3e53343121a39/0x0.jpg?width=960",
-            "publishedAt": "2025-10-24 14:25:36"
-        },
-        {
-            "source": {
-                "name": "hackaday"
-            },
-            "title": "This Week in Security: Court Orders, GlassWorm, TARmageddon, and It was DNS",
-            "url": "https://hackaday.com/2025/10/24/this-week-in-security-court-orders-glassworm-tarmageddon-and-it-was-dns/",
-            "urlToImage": "https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg",
-            "publishedAt": "2025-10-24 14:00:22"
         }
     ]
 }
