@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-10-27T19:12:20.330309Z",
+    "lastUpdatedAt": "2025-10-27T20:14:57.692037Z",
     "articles": [
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Rakovina Therapeutics Showcases Potent AI-Developed ATR Inhibitors with CNS Penetrance at AACR-NCI-EORTC International Conference",
+            "url": "https://www.manilatimes.net/2025/10/27/tmt-newswire/globenewswire/rakovina-therapeutics-showcases-potent-ai-developed-atr-inhibitors-with-cns-penetrance-at-aacr-nci-eortc-international-conference/2208842",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/10/27/799288.png",
+            "publishedAt": "2025-10-27T08:13:21Z"
+        },
+        {
+            "source": {
+                "id": "f4d035ae0463df22c36ae97972a33ba6",
+                "name": "PR Newswire UK",
+                "url": "https://www.prnewswire.co.uk",
+                "country": "gb"
+            },
+            "title": "Stockholm hospitals unify all imaging in Sectra's cloud service to boost collaboration and patient care",
+            "url": "https://www.prnewswire.co.uk/news-releases/stockholm-hospitals-unify-all-imaging-in-sectras-cloud-service-to-boost-collaboration-and-patient-care-302595108.html",
+            "urlToImage": "https://www.prnewswire.co.uk/content/dam/prnewswire/icons/2019-Q4-PRN-Icon-32-32.png",
+            "publishedAt": "2025-10-27T08:00:00Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "AI and Gender Equality: How Inclusive Innovation Can Bridge Asia’s Digital Divide",
+            "url": "https://www.devdiscourse.com/article/technology/3671589-ai-and-gender-equality-how-inclusive-innovation-can-bridge-asias-digital-divide",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/23_10_2025_14_26_57_0882028.png?width=920&format=jpeg",
+            "publishedAt": "2025-10-27T07:59:02Z"
+        },
         {
             "source": {
                 "id": "ca84296ef941bfa461f4239a2290cb99",
@@ -348,6 +384,69 @@
             "url": "https://www.forbes.com/sites/franksorrentino/2025/10/27/why-cybersecurity-is-a-business-essential-for-small-companies/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68ff9daa11f128f9cbafc977/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-10-27T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "techtarget"
+            },
+            "title": "CAIA turns to federated learning, AI agents for cancer research",
+            "url": "https://www.techtarget.com/healthtechanalytics/feature/CAIA-turns-to-federated-learning-AI-agents-for-cancer-research",
+            "urlToImage": "https://www.techtarget.com/rms/onlineimages/health%20analytics_g1479456331_searchsitetablet_520X173.jpg",
+            "publishedAt": "2025-10-27 08:00:00"
+        },
+        {
+            "source": {
+                "name": "expresscomputer"
+            },
+            "title": "From Lab to Living Room – How India’s Next-Gen R&D is Shaping Smart Homes",
+            "url": "https://www.expresscomputer.in/guest-blogs/from-lab-to-living-room-how-indias-next-gen-rd-is-shaping-smart-homes/128893/",
+            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2025/10/27132644/Dipesh_Shah-Havells.png",
+            "publishedAt": "2025-10-27 07:57:26"
+        },
+        {
+            "source": {
+                "name": "latestly"
+            },
+            "title": "Business News | IFI Techsolutions Ltd. Unveils a New Logo and Brand Identity -- A Fresh Chapter in Its Journey of Innovation",
+            "url": "https://www.latestly.com/agency-news/business-news-ifi-techsolutions-ltd-unveils-a-new-logo-and-brand-identity-a-fresh-chapter-in-its-journey-of-innovation-7178155.html",
+            "urlToImage": "https://st1.latestly.com/wp-content/uploads/2025/10/ANI-20251027073005.jpg",
+            "publishedAt": "2025-10-27 07:44:28"
+        },
+        {
+            "source": {
+                "name": "digitaltrends"
+            },
+            "title": "I tested smart glasses that cost a fraction of Vision Pro and get way more work done",
+            "url": "https://www.digitaltrends.com/computing/i-tested-smart-glasses-that-cost-a-fraction-of-vision-pro-and-get-way-more-work-done/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/10/viture-luma-pro0154.jpg?p=1&resize=1200%2C630",
+            "publishedAt": "2025-10-27 07:40:39"
+        },
+        {
+            "source": {
+                "name": "computerweekly"
+            },
+            "title": "Is agentic AI the beginning of the end for ERP?",
+            "url": "https://www.computerweekly.com/feature/Is-agentic-AI-the-beginning-of-the-end-for-ERP",
+            "urlToImage": "https://www.computerweekly.com/rms/onlineimages/machine_learning_g1203139711_searchsitetablet_520X173.jpg",
+            "publishedAt": "2025-10-27 07:30:00"
+        },
+        {
+            "source": {
+                "name": "indianexpress"
+            },
+            "title": "To identify AI-generated content, labelling is not enough. We need AI literacy",
+            "url": "https://indianexpress.com/article/opinion/columns/ai-draft-amendment-it-rules-ai-regulation-10329452/",
+            "urlToImage": "https://images.indianexpress.com/2025/10/Tech-feature-images307_20251027072319.jpg",
+            "publishedAt": "2025-10-27 07:26:14"
+        },
+        {
+            "source": {
+                "name": "menafn"
+            },
+            "title": "Accelerating Network Evolution Through Intelligent Infrastructure",
+            "url": "https://menafn.com/1110252362/Accelerating-Network-Evolution-Through-Intelligent-Infrastructure",
+            "urlToImage": "https://menafn.com/updates/pr/2025-10/27/pr_17126_45565bbc_image_story.jpg",
+            "publishedAt": "2025-10-27 07:13:25"
         },
         {
             "source": {
@@ -2973,96 +3072,6 @@
             "url": "https://www.wyomingnews.com/laramieboomerang/news/mnvr-brings-artificial-intelligence-to-wyoming-s-industrial-sector/article_e3eb9d9e-9276-48e8-89e9-5c80e7a1bfa3.html",
             "urlToImage": "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/6/3b/63b2592c-c85e-4b3c-8c31-7f671d2a9790/68fbe5de26b4f.image.jpg?resize=300%2C367",
             "publishedAt": "2025-10-25 11:00:00"
-        },
-        {
-            "source": {
-                "name": "wired"
-            },
-            "title": "Gear News of the Week: There’s Yet Another New AI Browser, and Fujifilm Debuts the X-T30 III",
-            "url": "https://www.wired.com/story/gear-news-of-the-week-theres-yet-another-new-ai-browser-and-fujifilm-debuts-the-x-t30-iii/",
-            "urlToImage": "https://media.wired.com/photos/68fc258076014c584f77ed1b/3:4/w_120,c_limit/Gear%20News%20of%20the%20Week-%20There%E2%80%99s%20Yet%20Another%20New%20AI%20Browser,%20and%20Fujifilm%20Debuts%20the%20X-T30%20III.png",
-            "publishedAt": "2025-10-25 11:00:00"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "The Power of Edge Analytics in Modern Industry",
-            "url": "https://www.analyticsinsight.net/tech-news/the-power-of-edge-analytics-in-modern-industry",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-10-25%2Fcophoxys%2FThe-Power-of-Edge-Analytics-in-Modern-Industry?ar=40%3A21&auto=format%2Ccompress&enlarge=true&mode=crop&ogImage=true&overlay=false&overlay_position=bottom&overlay_width=100&w=1200",
-            "publishedAt": "2025-10-25 10:51:41"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "SuperQ: Unlocking the Future of Quantum Computing Applications",
-            "url": "https://techannouncer.com/superq-unlocking-the-future-of-quantum-computing-applications/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/10/5edf9a74thumbnail-332x187.jpeg",
-            "publishedAt": "2025-10-25 10:51:09"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Unveiling the Future: Groundbreaking Ideas Poised to Revolutionize Our World",
-            "url": "https://techannouncer.com/unveiling-the-future-groundbreaking-ideas-poised-to-revolutionize-our-world/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/10/44354fd8thumbnail-332x187.jpeg",
-            "publishedAt": "2025-10-25 10:29:04"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Exploring the Iconic Gadgets of the 70s: A Nostalgic Look Back at Tech That Shaped a Generation",
-            "url": "https://techannouncer.com/exploring-the-iconic-gadgets-of-the-70s-a-nostalgic-look-back-at-tech-that-shaped-a-generation/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/10/173bdc7ethumbnail-332x187.jpeg",
-            "publishedAt": "2025-10-25 10:04:09"
-        },
-        {
-            "source": {
-                "name": "latimes"
-            },
-            "title": "Homework faces an existential crisis. Has AI made it pointless?",
-            "url": "https://www.latimes.com/california/story/2025-10-25/homework-useless-existential-crisis-ai",
-            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/1993564/2147483647/strip/true/crop/4622x2427+0+327/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F90%2F57%2Fd00c490f4344b118a659a5a488e8%2F1527055-me-ai-homework-jey-11.jpg",
-            "publishedAt": "2025-10-25 10:00:00"
-        },
-        {
-            "source": {
-                "name": "fastcompany"
-            },
-            "title": "It’s getting harder to take OpenAI seriously",
-            "url": "https://www.fastcompany.com/91428080/its-getting-harder-to-take-openai-seriously",
-            "urlToImage": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2025/10/p-91428080-the-risks-of-slop-and-sex-for-openai-rob-walker-branded.jpg",
-            "publishedAt": "2025-10-25 10:00:00"
-        },
-        {
-            "source": {
-                "name": "mashable"
-            },
-            "title": "Samsung Galaxy XR vs Apple Vision Pro: Comparing specs and price",
-            "url": "https://sea.mashable.com/tech/40348/samsung-galaxy-xr-vs-apple-vision-pro-comparing-specs-and-price",
-            "urlToImage": "https://sm.mashable.com/mashable_sea/article/s/samsung-ga/samsung-galaxy-xr-vs-apple-vision-pro-comparing-specs-and-pr_ssbd.jpg",
-            "publishedAt": "2025-10-25 09:39:35"
-        },
-        {
-            "source": {
-                "name": "fortune"
-            },
-            "title": "Top economist blasts ‘incredible cynicism and betrayal of Reagan by his own foundation’ as free trader’s image tarnished in tariff fight",
-            "url": "https://fortune.com/2025/10/25/top-economist-blasts-incredible-cynicism-and-betrayal-of-reagan-by-his-own-foundation-as-free-traders-image-tarnished-in-tariff-fight/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/AP25297644885333.jpg?w=2048",
-            "publishedAt": "2025-10-25 09:10:00"
-        },
-        {
-            "source": {
-                "name": "thehansindia"
-            },
-            "title": "OPPO redefines personalised mobile AI experiences with Google",
-            "url": "https://www.thehansindia.com/technology/tech-news/oppo-redefines-personalised-mobile-ai-experiences-with-google-1017643",
-            "urlToImage": "https://assets.thehansindia.com/h-upload/2025/10/25/1595971-oppo.webp",
-            "publishedAt": "2025-10-25 09:03:27"
         }
     ]
 }
