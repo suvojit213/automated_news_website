@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-10-27T06:26:18.390663Z",
+    "lastUpdatedAt": "2025-10-27T07:16:25.357654Z",
     "articles": [
+        {
+            "source": {
+                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
+                "name": "ABC (Australian Broadcasting Corporation)",
+                "url": "https://www.abc.net.au",
+                "country": "au"
+            },
+            "title": "Federal government rules out changing copyright law to give AI companies free rein",
+            "url": "https://www.abc.net.au/news/2025-10-27/labor-rules-out-ai-training-copyright-exceptions/105935740",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/05c056fe572d9f31209a07124fce2371?impolicy=wcms_watermark_news&cropH=3840&cropW=6828&xPos=0&yPos=356&width=862&height=485&imformat=generic",
+            "publishedAt": "2025-10-26T19:01:04Z"
+        },
         {
             "source": {
                 "id": "e743cde6ee986921721e83d3957862dc",
@@ -528,6 +540,24 @@
             "url": "https://www.spokesman.com/stories/2025/oct/26/motley-fool-broadcom-chips-and-more/",
             "urlToImage": "https://thumb.spokesman.com/SbO6q-Q9atRVyicvkjlP2eo646Q=/1200x630/smart/media.spokesman.com/photos/2025/10/23/68f90d21d0fec.hires.jpg",
             "publishedAt": "2025-10-26T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "nvdaily"
+            },
+            "title": "Group's data center presentation draws residents, officials",
+            "url": "https://www.nvdaily.com/nvdaily/groups-data-center-presentation-draws-residents-officials/article_b270bfd1-e8cc-54e6-a530-088e72892c0a.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/nvdaily.com/content/tncms/custom/image/f49c34a0-9ca4-11e8-8115-4714fd783b28.png?resize=600%2C315",
+            "publishedAt": "2025-10-26 19:00:00"
+        },
+        {
+            "source": {
+                "name": "timesnownews"
+            },
+            "title": "Why General Motors Laid Off 200 Engineers from Global Campus in Detroit",
+            "url": "https://www.timesnownews.com/business-economy/why-general-motors-laid-off-200-engineers-from-global-campus-in-detroit-article-153056166",
+            "urlToImage": "https://images.timesnownews.com/thumb/msid-153056195,thumbsize-233820,width-1280,height-720,resizemode-75/153056195.jpg",
+            "publishedAt": "2025-10-26 18:32:37"
         },
         {
             "source": {
@@ -3111,42 +3141,6 @@
             "url": "https://www.devdiscourse.com/article/technology/3666816-artificial-intelligence-identifies-climate-hotspots-driving-drought",
             "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/18_10_2025_13_42_58_6222739.png?width=920&format=jpeg",
             "publishedAt": "2025-10-24T11:43:28Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Public urged to stop spreading AI-generated disaster videos",
-            "url": "https://www.thestar.com.my/news/nation/2025/10/24/public-urged-to-stop-spreading-ai-generated-disaster-videos",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/24/3586948.JPG",
-            "publishedAt": "2025-10-24T11:04:00Z"
-        },
-        {
-            "source": {
-                "id": "bc002b453215c04fa081a97f2c6679b9",
-                "name": "The Hacker News",
-                "url": "https://thehackernews.com",
-                "country": "us"
-            },
-            "title": "The Cybersecurity Perception Gap: Why Executives and Practitioners See Risk Differently",
-            "url": "https://thehackernews.com/2025/10/the-cybersecurity-perception-gap-why.html",
-            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQVzc_sr-XqhPEurqyN5PP7oW8LrIPQ8ry9ijkZAGE-YdWZRsYhhcP52iWxJ1buNw0vzuaCSDTTfgJO-lAX3YIhKL0abx2Szo9WprfdIFCIu0Hy1dvtpnfuAgxxkwksq1HTI2t1t9zm2sqi6JaqwejgaalOVD1NuQYhCHRXcoVMXwGvMzxviIfrto0MwE/s790-rw-e365/bd-main.jpg",
-            "publishedAt": "2025-10-24T11:00:00Z"
-        },
-        {
-            "source": {
-                "id": "6f4f13c21bb217801ab4b37c367f97aa",
-                "name": "CNET",
-                "url": "https://www.cnet.com",
-                "country": "us"
-            },
-            "title": "How to Use AI Chatbots and What to Know About These Artificial Intelligence Tools",
-            "url": "https://www.cnet.com/tech/services-and-software/how-to-use-ai-chatbots-and-what-to-know-about-these-artificial-intelligence-tools/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/dd2a8e1f603c40a90ae7a672b99f71d6c55eed0f/hub/2024/11/11/c40ca1fe-13b5-48c3-859c-c9fbd69c5444/gettyimages-1494104649.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-10-24T10:55:02Z"
         }
     ]
 }
