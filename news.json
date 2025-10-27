@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2025-10-27T21:13:33.513082Z",
+    "lastUpdatedAt": "2025-10-27T22:14:08.208024Z",
     "articles": [
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "AI is key to unlock writer’s creativity, Bloomsbury chief asserts",
+            "url": "https://www.thenews.com.pk/latest/1353905-ai-is-key-to-unlock-writers-creativity-bloomsbury-chief-asserts",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/updates/2025-10-27/1353905_031309_updates.jpg",
+            "publishedAt": "2025-10-27T10:13:00Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Big Tech to report earnings under specter of AI bubble",
+            "url": "https://www.reuters.com/business/retail-consumer/big-tech-report-earnings-under-specter-ai-bubble-2025-10-27/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/43PCVPRRQZMTXG7EEAY7AQR27Y.jpg?auth=07642168f88db8e7d728a9f223f3015b444510e8736f65ecc10679e89cacf6a0&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-10-27T10:05:25Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Big Tech to report earnings under specter of AI bubble",
+            "url": "https://www.marketscreener.com/news/big-tech-to-report-earnings-under-specter-of-ai-bubble-ce7d5dded18df626",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2025-10-27T10:03:37Z"
+        },
+        {
+            "source": {
+                "id": "5ac5f32ba74846cef441099f666f2d98",
+                "name": "Fast Company",
+                "url": "https://www.fastcompany.com",
+                "country": "us"
+            },
+            "title": "AI abstinence won’t work",
+            "url": "https://www.fastcompany.com/91429000/artificial-intelligence-abstinence-openai-llm",
+            "urlToImage": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2025/10/p-1-91429000-the-tricky-work-of-going-ai-clean.jpg",
+            "publishedAt": "2025-10-27T10:00:00Z"
+        },
+        {
+            "source": {
+                "id": "0d429ea54fdbe8e34c582aa31bc81aba",
+                "name": "The Boston Globe",
+                "url": "https://www.bostonglobe.com",
+                "country": "us"
+            },
+            "title": "How a ‘cyber range’ is preparing students at Rhode Island College",
+            "url": "https://www.bostonglobe.com/2025/10/27/metro/rhode-island-college-cybersecurity/",
+            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/7UY7Z42BTX2OYNWH5UXD6L2PW4.jpg?auth=e8ef69634fd270e8ab885271ea1a97a4568bf11a13e8f44f782a9b9b6bd74dca&width=1440",
+            "publishedAt": "2025-10-27T09:55:00Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Chhattisgarh: IIIT Naya Raipur launches Process Mining specialisation under CM IT Fellowship to strengthen data-driven governance",
+            "url": "https://timesofindia.indiatimes.com/city/raipur/chhattisgarh-iiit-naya-raipur-launches-process-mining-specialisation-under-cm-it-fellowship-to-strengthen-data-driven-governance/articleshow/124845638.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-124845944,width-1070,height-580,imgsize-54946,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-10-27T09:48:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "BIO-key International and IT2Trust Partner to Strengthen IAM and Biometric Security Across the Nordic Region of Denmark, Sweden, Norway and Finland",
+            "url": "https://www.manilatimes.net/2025/10/27/tmt-newswire/globenewswire/bio-key-international-and-it2trust-partner-to-strengthen-iam-and-biometric-security-across-the-nordic-region-of-denmark-sweden-norway-and-finland/2208883",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/10/27/799348.jpg",
+            "publishedAt": "2025-10-27T09:14:07Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -516,6 +600,87 @@
             "url": "https://www.globenewswire.com/news-release/2025/10/27/3174994/0/en/The-AI-Support-Paradox-Why-Security-Conscious-Companies-Are-Pairing-Human-Expertise-with-AI-in-Critical-IT-Decisions.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/90b11be5-db4b-4842-873f-b2dcae934437",
             "publishedAt": "2025-10-27T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "zephyrnet"
+            },
+            "title": "AMD Unveils Helios AI Platform: Enhanced Serviceability and Double the Memory of Nvidia’s Vera Rubin at OCP Global Summit 2025",
+            "url": "https://zephyrnet.com/amd-unveils-helios-ai-platform-enhanced-serviceability-and-double-the-memory-of-nvidias-vera-rubin-at-ocp-global-summit-2025/",
+            "urlToImage": "https://zephyrnet.com/wp-content/uploads/2025/04/zephyrnet-default-img-3-1.jpg-1.jpg",
+            "publishedAt": "2025-10-27 10:11:39"
+        },
+        {
+            "source": {
+                "name": "livemint"
+            },
+            "title": "AI chatbots like ChatGPT and Gemini will agree with you even when you’re wrong, new study finds",
+            "url": "https://www.livemint.com/technology/tech-news/ai-chatbots-like-chatgpt-and-gemini-will-agree-with-you-even-when-you-re-wrong-new-study-finds-11761554606504.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2025/10/27/1600x900/AI_chatbots__1761559113502_1761559113656.jpg",
+            "publishedAt": "2025-10-27 10:03:50"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "Best graphics cards in 2025: I've tested every GPU to find the best bang for your buck",
+            "url": "https://www.tomsguide.com/computing/gpus/best-graphics-cards",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/QCKTTLwmSEEx5S2XAMBXYC-1280-80.jpg",
+            "publishedAt": "2025-10-27 10:00:00"
+        },
+        {
+            "source": {
+                "name": "wired"
+            },
+            "title": "AI Is the Bubble to Burst Them All",
+            "url": "https://www.wired.com/story/ai-bubble-will-burst/",
+            "urlToImage": "https://media.wired.com/photos/68e043992e3fc9a36ea8f485/3:4/w_120,c_limit/WIRED-AI-as_Bubble_Blue_ALT2.jpg",
+            "publishedAt": "2025-10-27 10:00:00"
+        },
+        {
+            "source": {
+                "name": "wired"
+            },
+            "title": "Why AI Breaks Bad",
+            "url": "https://www.wired.com/story/ai-black-box-interpretability-problem/",
+            "urlToImage": "https://media.wired.com/photos/68fb1f5f2aa19db24bcdc4ab/master/w_120,c_limit/WIRED_AI-Blackbox_Opener_Final.jpg",
+            "publishedAt": "2025-10-27 10:00:00"
+        },
+        {
+            "source": {
+                "name": "wired"
+            },
+            "title": "Rise of the Killer Chatbots",
+            "url": "https://www.wired.com/story/ai-weapon-anduril-llms-drones/",
+            "urlToImage": "https://media.wired.com/photos/68e03b8c24bca0f477533aec/3:4/w_120,c_limit/WIRED-AI-as_WEAPON_RED-ALT3.jpg",
+            "publishedAt": "2025-10-27 10:00:00"
+        },
+        {
+            "source": {
+                "name": "wired"
+            },
+            "title": "AI’s Next Frontier? An Algorithm for Consciousness",
+            "url": "https://www.wired.com/story/ai-sentient-consciousness-algorithm/",
+            "urlToImage": "https://media.wired.com/photos/68e030e70657e0c2fe68a56d/16:9/w_120,c_limit/WIRED-AI-as_RELIGION_RED_ALT.jpg",
+            "publishedAt": "2025-10-27 10:00:00"
+        },
+        {
+            "source": {
+                "name": "wired"
+            },
+            "title": "Ed Zitron Gets Paid to Love AI. He Also Gets Paid to Hate AI",
+            "url": "https://www.wired.com/story/ai-pr-ed-zitron-profile/",
+            "urlToImage": "https://media.wired.com/photos/68fba15565f36a712a474853/1:1/w_120,c_limit/Ed-Zitron-main-1.jpg",
+            "publishedAt": "2025-10-27 10:00:00"
+        },
+        {
+            "source": {
+                "name": "wired"
+            },
+            "title": "AI Will Kill the Smartphone—and Maybe the Screen Entirely",
+            "url": "https://www.wired.com/story/ai-kill-phone-screen/",
+            "urlToImage": "https://media.wired.com/photos/68eeb9ff4b49cd08d2ea686b/3:4/w_120,c_limit/AI_as_Screen-Killer_Broken-Glass.jpg",
+            "publishedAt": "2025-10-27 10:00:00"
         },
         {
             "source": {
@@ -2961,150 +3126,6 @@
             "url": "https://www.thehindu.com/sci-tech/technology/what-is-googles-quantum-advantage-leap-explained/article70202625.ece",
             "urlToImage": "https://th-i.thgim.com/public/incoming/i1l12e/article70202865.ece/alternates/LANDSCAPE_1200/2024-12-13T013128Z_677568586_RC2ZJBAZ0H3Q_RTRMADP_3_ALPHABET-QUANTUM.JPG",
             "publishedAt": "2025-10-25 19:13:00"
-        },
-        {
-            "source": {
-                "name": "digitaltrends"
-            },
-            "title": "GM’s latest tech announcement is giving me deja vu",
-            "url": "https://www.digitaltrends.com/cars/gms-latest-tech-announcement-is-giving-me-deja-vu/",
-            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/10/Cadillac-Escalade-IQL-1.jpeg?p=1&resize=1200%2C630",
-            "publishedAt": "2025-10-25 19:00:00"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Apple Ships AI Servers from New Houston Factory in $600B Push",
-            "url": "https://www.webpronews.com/apple-ships-ai-servers-from-new-houston-factory-in-600b-push/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-781c5114-aca7-49eb-8d46-b535c6186e6b.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-10-25 18:18:57"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Google’s Gemini AI Leaks Circle-to-Search Feature for Android Analysis",
-            "url": "https://www.webpronews.com/googles-gemini-ai-leaks-circle-to-search-feature-for-android-analysis/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-39a298d5-30f8-4c2d-8679-6df6c598f4f4.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-10-25 18:15:18"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Qualcomm Launches Snapdragon 6s Gen 4: 36% CPU Boost for Budget Phones",
-            "url": "https://www.webpronews.com/qualcomm-launches-snapdragon-6s-gen-4-36-cpu-boost-for-budget-phones/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-b2a04cd3-8be3-4ab0-b11a-cd4ca8c46ce4.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-10-25 18:14:56"
-        },
-        {
-            "source": {
-                "name": "latestly"
-            },
-            "title": "India News | Himachal Pradesh: Cabinet Gives Nod to Conversion of 1000 Diesel, Petrol Taxis to Electric with 40% Subsidy",
-            "url": "https://www.latestly.com/agency-news/india-news-himachal-pradesh-cabinet-gives-nod-to-conversion-of-1000-diesel-petrol-taxis-to-electric-with-40-subsidy-7176239.html",
-            "urlToImage": "https://st1.latestly.com/wp-content/uploads/2025/10/ANI-20251025173510.jpg",
-            "publishedAt": "2025-10-25 18:02:28"
-        },
-        {
-            "source": {
-                "name": "lagniappemobile"
-            },
-            "title": "Sunday Brunch — an AI president?",
-            "url": "https://www.lagniappemobile.com/opinion/sunday-brunch-an-ai-president/article_40b81289-0220-4175-bcbd-ae5d2caf3997.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/8/e3/8e35f47c-3c80-11ee-9d74-53c367f6ee94/64dd47656d6a7.image.png?resize=300%2C169",
-            "publishedAt": "2025-10-25 17:55:00"
-        },
-        {
-            "source": {
-                "name": "thenewsmill"
-            },
-            "title": "Himachal Pradesh: Cabinet gives nod to conversion of 1000 diesel, petrol taxis to electric with 40% subsidy",
-            "url": "https://thenewsmill.com/2025/10/himachal-pradesh-cabinet-gives-nod-to-conversion-of-1000-diesel-petrol-taxis-to-electric-with-40-subsidy/",
-            "urlToImage": "https://thenewsmill.com/wp-content/uploads/2025/10/ANI-20251025173510.jpg",
-            "publishedAt": "2025-10-25 17:36:09"
-        },
-        {
-            "source": {
-                "name": "zephyrnet"
-            },
-            "title": "Samsung Partners with Nvidia for Custom AI Chips as Meta and Oracle Expand Spectrum X for Data Centers",
-            "url": "https://zephyrnet.com/samsung-partners-with-nvidia-for-custom-ai-chips-as-meta-and-oracle-expand-spectrum-x-for-data-centers/",
-            "urlToImage": "https://zephyrnet.com/wp-content/uploads/img-vGLSMi6bwdtn3EXMIgqO04Uc.png",
-            "publishedAt": "2025-10-25 17:31:58"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Best Intel CPUs for Gaming in 2025",
-            "url": "https://www.analyticsinsight.net/gadgets/best-intel-cpus-for-gaming-in-2025",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-10-25%2F6zkiw20l%2FBest-Intel-CPUs-for-Gaming-in-2025.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-10-25 17:30:00"
-        },
-        {
-            "source": {
-                "name": "thestreet"
-            },
-            "title": "History of Apple: Company timeline and facts",
-            "url": "https://www.thestreet.com/technology/history-of-apple-company-timeline-facts",
-            "urlToImage": "https://www.thestreet.com/.image/c_fit,h_800,w_1200/NDA6MDAwMDAwMDAyNzU2MDcx/file-steve-jobs-chief-executive-officer-of-apple-inc-right-speaks-in-front-of-a-file-photograph-of-himself-and-apple-co-founder-steve-wozniak-during-the-launch-of-the-apple-ipad-tablet-at-the-yerba-bu.jpg",
-            "publishedAt": "2025-10-25 17:17:00"
-        },
-        {
-            "source": {
-                "name": "english_jagran"
-            },
-            "title": "Oppo Partners With Google To Bring New Gemini-Powered AI Features To The Find X9 Series",
-            "url": "https://www.thedailyjagran.com/technology/oppo-partners-with-google-to-bring-new-geminipowered-ai-features-to-the-find-x9-series-10275815",
-            "urlToImage": "https://imgeng.jagran.com/images/2025/10/25/article/image/Oppo_Oppo-1761411786845.webp",
-            "publishedAt": "2025-10-25 17:04:32"
-        },
-        {
-            "source": {
-                "name": "hackaday"
-            },
-            "title": "Relay Computer Knows the Sequence",
-            "url": "https://hackaday.com/2025/10/25/relay-computer-knows-the-sequence/",
-            "urlToImage": "https://hackaday.com/wp-content/uploads/2025/10/relay.png",
-            "publishedAt": "2025-10-25 17:00:14"
-        },
-        {
-            "source": {
-                "name": "techtree"
-            },
-            "title": "OPPO redefines personalised mobile AI experiences with Google",
-            "url": "http://www.techtree.com/content/news/15864/oppo-redefines-personalised-mobile-ai-experiences-google.html",
-            "urlToImage": "https://www.techtree.com/sites/default/files/styles/large/public/OPPO%20&%20Google%20Gemini%20logo.png?itok=u-IZLZh8",
-            "publishedAt": "2025-10-25 16:48:09"
-        },
-        {
-            "source": {
-                "name": "futurism"
-            },
-            "title": "The Wikipedia Page on “Brain Rot” Is Protected Until 2026 Due to Extensive Vandalism",
-            "url": "https://futurism.com/robots-and-machines/wikipedia-brain-rot-vandalism",
-            "urlToImage": "https://futurism.com/wp-content/uploads/2025/10/wikipedia-brain-rot-vandalism.jpg?quality=85",
-            "publishedAt": "2025-10-25 16:00:00"
-        },
-        {
-            "source": {
-                "name": "notebookcheck"
-            },
-            "title": "Asus ProArt P16 5090 review - Tandem OLED and RTX 5090 up against the Apple MacBook Pro 16",
-            "url": "https://www.notebookcheck.net/Asus-ProArt-P16-5090-review-Tandem-OLED-and-RTX-5090-up-against-the-Apple-MacBook-Pro-16.1146415.0.html",
-            "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/Asus/ProArt_P16_RTX_5090/proart_p16_5090_case_20.jpg",
-            "publishedAt": "2025-10-25 15:56:00"
-        },
-        {
-            "source": {
-                "name": "republicworld"
-            },
-            "title": "India Accelerates Semiconductor Mission: Rs 200 Crore Invested in Chip Innovation, Mobile Exports Surge",
-            "url": "https://www.republicworld.com/business/india-accelerates-semiconductor-mission-rs-200-crore-invested-in-chip-innovation-mobile-exports-surge",
-            "urlToImage": "https://img.republicworld.com/all_images/minister-for-electronics-and-information-technology-ashwini-vaishnaw-1761406308784-16_9.webp?format=webp&h=720&q=75&w=1280",
-            "publishedAt": "2025-10-25 15:31:54"
         }
     ]
 }
