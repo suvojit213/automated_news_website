@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-10-27T16:20:08.532306Z",
+    "lastUpdatedAt": "2025-10-27T17:13:40.460839Z",
     "articles": [
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Europe’s Tech Sector Outperforms as AI Boom Bolsters Demand",
+            "url": "https://www.bloomberg.com/news/articles/2025-10-27/europe-s-tech-sector-outperforms-as-ai-boom-bolsters-demand",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iI1ttN0aybBQ/v0/1200x800.jpg",
+            "publishedAt": "2025-10-27T05:00:00Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "From AI tutors to smart wearables: Technology redefines special education inclusion",
+            "url": "https://www.devdiscourse.com/article/technology/3671413-from-ai-tutors-to-smart-wearables-technology-redefines-special-education-inclusion",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/23_10_2025_11_25_22_1916041.png?width=920&format=jpeg",
+            "publishedAt": "2025-10-27T04:43:17Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "AI-Enhanced Site Surveys: Predicting Foundation Settlement Before Digging",
+            "url": "https://techbullion.com/ai-enhanced-site-surveys-predicting-foundation-settlement-before-digging/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/10/unnamed-2025-10-26T212907.561.png",
+            "publishedAt": "2025-10-27T04:30:12Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "How artificial intelligence can build trust and counter misinformation in crises",
+            "url": "https://www.devdiscourse.com/article/technology/3671909-how-artificial-intelligence-can-build-trust-and-counter-misinformation-in-crises",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/23_10_2025_18_18_05_3838934.png?width=920&format=jpeg",
+            "publishedAt": "2025-10-27T04:23:48Z"
+        },
         {
             "source": {
                 "id": "1e30d944d63d9090db5a2c2e28a8772f",
@@ -192,6 +240,51 @@
             "url": "https://www.globenewswire.com/news-release/2025/10/27/3174780/0/en/WOA-Hash-Launches-Web3-0-AI-Cloud-Computing-Platform-Embark-on-Your-Intelligent-Wealth-Growth-Journey.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/f8f84f1b-a9f0-42c0-9580-b5c99b418310",
             "publishedAt": "2025-10-27T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "Microsoft Bans Sexy AI, But Will It Replace Humans? Media Icons Debate",
+            "url": "https://www.forbes.com/sites/martineparis/2025/10/27/microsoft-bans-sexy-ai-but-will-it-replace-humans-media-icons-debate/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68fefb373998f1621b1eecd3/0x0.jpg?width=960",
+            "publishedAt": "2025-10-27 05:11:03"
+        },
+        {
+            "source": {
+                "name": "zephyrnet"
+            },
+            "title": "Intel Launches Crescent Island: A Cutting-Edge 160GB Inference GPU Featuring Xe3P Architecture",
+            "url": "https://zephyrnet.com/intel-launches-crescent-island-a-cutting-edge-160gb-inference-gpu-featuring-xe3p-architecture/",
+            "urlToImage": "https://zephyrnet.com/wp-content/uploads/img-5ROnE6b7VT731LygqGVcDWmz.png",
+            "publishedAt": "2025-10-27 05:07:20"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "How to Extract and Embed Text and Images from PDFs for Unified Semantic Search",
+            "url": "https://hackernoon.com/how-to-extract-and-embed-text-and-images-from-pdfs-for-unified-semantic-search",
+            "urlToImage": "https://hackernoon.imgix.net/images/dkjgV1JZZIZLBTFGKK4nRc3It7M2-7n53bcb.png",
+            "publishedAt": "2025-10-27 04:43:14"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "The AI Co-Pilot for a Star: Google DeepMind and the Quest for Fusion Energy",
+            "url": "https://hackernoon.com/the-ai-co-pilot-for-a-star-google-deepmind-and-the-quest-for-fusion-energy",
+            "urlToImage": "https://hackernoon.imgix.net/images/iN6H2UigxKapyOHZ6k4N9srFgsw1-xv03a61.png",
+            "publishedAt": "2025-10-27 04:41:52"
+        },
+        {
+            "source": {
+                "name": "sentinel"
+            },
+            "title": "India is a global leader in artificial intelligence",
+            "url": "https://www.sentinelassam.com/more-news/editorial/india-is-a-global-leader-in-artificial-intelligence",
+            "urlToImage": "https://media.assettype.com/sentinelassam-english%2F2025-01-16%2Fg3eyha0r%2Fjpg.webp?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-10-27 04:38:12"
         },
         {
             "source": {
@@ -2943,87 +3036,6 @@
             "url": "https://www.thehindu.com/sci-tech/technology/oreo-maker-mondelez-to-use-new-generative-ai-tool-to-slash-marketing-costs/article70200633.ece",
             "urlToImage": "https://th-i.thgim.com/public/incoming/cjp8qu/article70200653.ece/alternates/LANDSCAPE_1200/2025-10-24T191549Z_690836915_RC2IIHANNY0U_RTRMADP_3_MONDELEZ-AI.JPG",
             "publishedAt": "2025-10-25 04:14:25"
-        },
-        {
-            "source": {
-                "name": "indianexpress"
-            },
-            "title": "This futuristic Rs 1.6 crore flying car can be flown by anyone, no licence needed",
-            "url": "https://indianexpress.com/article/technology/watch-this-futuristic-rs-1-6-crore-flying-car-can-be-flown-by-anyone-no-licence-needed-10325717/",
-            "urlToImage": "https://images.indianexpress.com/2025/10/Pivotal.jpg",
-            "publishedAt": "2025-10-25 03:51:19"
-        },
-        {
-            "source": {
-                "name": "menafn"
-            },
-            "title": "Who's Funding Trump's White House Ballroom? Not Taxpayers - But Apple, Coinbase, His Lawsuit Against Youtube, & More",
-            "url": "https://menafn.com/1110245861/Whos-Funding-Trumps-White-House-Ballroom-Not-Taxpayers-But-Apple-Coinbase-His-Lawsuit-Against-Youtube-More",
-            "urlToImage": "https://menafn.com/updates/pr/2025-10/25/LM_8dedfimage_story.JPG",
-            "publishedAt": "2025-10-25 03:09:47"
-        },
-        {
-            "source": {
-                "name": "informalnewz"
-            },
-            "title": "BEL Vacancy 2025: Recruitment for engineering students in government company, basic salary up to ₹1.40 lakh, apply now",
-            "url": "https://www.informalnewz.com/bel-vacancy-2025-recruitment-for-engineering-students-in-government-company-basic-salary-up-to-%E2%82%B91-40-lakh-apply-now/",
-            "urlToImage": "https://www.informalnewz.com/wp-content/webp-express/webp-images/uploads/2025/08/NCDC-Recruitment-2025-696x390.jpg.webp",
-            "publishedAt": "2025-10-25 02:00:58"
-        },
-        {
-            "source": {
-                "name": "crescentnews"
-            },
-            "title": "OpenAI launches Atlas browser to compete with Google Chrome",
-            "url": "https://www.crescent-news.com/on_the_wire/editors_pick/openai-launches-atlas-browser-to-compete-with-google-chrome/article_4d6b676d-d63b-45da-8317-b5c76c7f6291.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/crescent-news.com/content/tncms/custom/image/577eb00a-cc52-11e5-81de-d3aa7ea91f83.jpg?resize=600%2C315",
-            "publishedAt": "2025-10-25 01:00:00"
-        },
-        {
-            "source": {
-                "name": "macrumors"
-            },
-            "title": "M4 MacBook Air vs. M5 MacBook Pro Buyer's Guide",
-            "url": "https://www.macrumors.com/guide/m4-macbook-air-vs-m5-macbook-pro/",
-            "urlToImage": "https://images.macrumors.com/t/bBkv4DicPNViP3IQW8bO5nCRTOA=/2500x/article-new/2024/03/M2-MBA-vs-M3-MacBook-Air-Buyers-Guide-Feature-Sans.jpg",
-            "publishedAt": "2025-10-25 01:00:00"
-        },
-        {
-            "source": {
-                "name": "tweaktown"
-            },
-            "title": "Elon Musk says Tesla's next-gen AI5 chip is 40x faster than AI4: calls it a 'beautiful chip'",
-            "url": "https://www.tweaktown.com/news/108461/elon-musk-says-tesla-next-gen-ai5-chip-is-40x-faster-than-ai4-calls-it-beautiful/index.html",
-            "urlToImage": "https://www.tweaktown.com/images/news/1/0/108461_65_elon-musk-says-teslas-next-gen-ai5-chip-is-40x-faster-than-ai4-calls-it-beautiful-chip.png",
-            "publishedAt": "2025-10-25 00:51:11"
-        },
-        {
-            "source": {
-                "name": "biztoc"
-            },
-            "title": "General Motors cuts 200 jobs at Michigan tech center",
-            "url": "https://biztoc.com/x/a8474a8b65d7e873",
-            "urlToImage": "https://cdn.biztoc.com/a8474a8b65d7e873_sq.webp",
-            "publishedAt": "2025-10-25 00:38:00"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Top IT Security Blogs: Your Essential Guide for 2025",
-            "url": "https://techannouncer.com/top-it-security-blogs-your-essential-guide-for-2025/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/10/1b9a9971thumbnail-332x187.jpeg",
-            "publishedAt": "2025-10-25 00:34:12"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "New Gemini Diffusion Model Promises Text at Five Times the Speed",
-            "url": "https://hackernoon.com/new-gemini-diffusion-model-promises-text-at-five-times-the-speed",
-            "urlToImage": "https://hackernoon.imgix.net/images/2jqChkrv03exBUgkLrDzIbfM99q2-rb0209v.jpeg",
-            "publishedAt": "2025-10-25 00:00:00"
         }
     ]
 }
