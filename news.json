@@ -1,6 +1,102 @@
 {
-    "lastUpdatedAt": "2025-10-28T06:24:56.684594Z",
+    "lastUpdatedAt": "2025-10-28T07:15:37.827745Z",
     "articles": [
+        {
+            "source": {
+                "id": "8da923084554b2821233d6c5c5f02c97",
+                "name": "Fox News",
+                "url": "https://www.foxnews.com",
+                "country": "us"
+            },
+            "title": "AI could deliver cancer cures within five to 10 years, predicts Dr. Siegel",
+            "url": "https://www.foxnews.com/health/cancer-cures-could-reach-cutting-edge-medical-tech-doctor-predicts",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/health-scientist-cancer-scans-ai.jpg",
+            "publishedAt": "2025-10-27T19:02:04Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Pictet Joins $13T ETF Race With A Trio of Funds",
+            "url": "https://www.marketscreener.com/news/pictet-joins-13t-etf-race-with-a-trio-of-funds-ce7d5ddfdd8af322",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/mtnewswires/A3485523.png",
+            "publishedAt": "2025-10-27T18:54:22Z"
+        },
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "AI is driving huge productivity gains for large companies while small companies get left behind",
+            "url": "https://www.cnbc.com/2025/10/27/ai-is-driving-huge-productivity-gains-for-large-companies-while-small-companies-get-left-behind.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107149970-1668107389320-gettyimages-1244666704-AMAZON_FUTURE.jpeg?v=1668107670&w=1920&h=1080",
+            "publishedAt": "2025-10-27T18:47:00Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "Qualcomm’s AI Chips Shake Up Nvidia, AMD: QCOM Stock Surges",
+            "url": "https://techbullion.com/qualcomms-ai-chips-shake-up-nvidia-amd-qcom-stock-surges/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/10/med_20250827085204_3-of-qualcomms-technical-indicators-are-suddenly-f-1000x600.jpg",
+            "publishedAt": "2025-10-27T18:44:22Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Meta appoints insider Vishal Shah to key AI role",
+            "url": "https://www.reuters.com/business/meta-appoints-insider-vishal-shah-key-ai-role-2025-10-27/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/2ZA7AXNRHJO7ZN3HROZV32AZSM.jpg?auth=0557b0677c64adb8964f53d5c2a20e59d696954b93e76256231d4ac6f87adff2&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-10-27T18:42:52Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Meta appoints insider Vishal Shah to key AI role",
+            "url": "https://www.marketscreener.com/news/meta-appoints-insider-vishal-shah-to-key-ai-role-ce7d5ddfdd8af721",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-06/2025-06-02T113640Z_1_LYNXNPEL510IX_RTROPTP_4_META-PLATFORMS-MESSAGING-WHATSAPP.JPG",
+            "publishedAt": "2025-10-27T18:42:36Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Perry’s Fermi Wins Over Analysts With Ambitious AI Power Plans",
+            "url": "https://www.bloomberg.com/news/articles/2025-10-27/perry-s-fermi-wins-over-analysts-with-ambitious-ai-power-plans",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXTJJqLgg4v0/v1/1200x800.jpg",
+            "publishedAt": "2025-10-27T18:34:40Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Meta Platforms Appoints Vishal Shah to Lead AI Product Management",
+            "url": "https://www.marketscreener.com/news/meta-platforms-appoints-vishal-shah-to-lead-ai-product-management-ce7d5ddfdd8bf627",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2025-10-27T18:31:49Z"
+        },
         {
             "source": {
                 "id": "f6c2179332ca0ae400ff2a52227265f3",
@@ -1332,6 +1428,87 @@
             "url": "https://www.globenewswire.com/news-release/2025/10/27/3174994/0/en/The-AI-Support-Paradox-Why-Security-Conscious-Companies-Are-Pairing-Human-Expertise-with-AI-in-Critical-IT-Decisions.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/90b11be5-db4b-4842-873f-b2dcae934437",
             "publishedAt": "2025-10-27T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "cision"
+            },
+            "title": "Domain Name System (DNS) Firewall Market to Reach USD 5.51 billion by 2032, Growing At An 15% CAGR - Credence Research",
+            "url": "https://www.prnewswire.com/news-releases/domain-name-system-dns-firewall-market-to-reach-usd-5-51-billion-by-2032--growing-at-an-15-cagr--credence-research-302595707.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2562161/Credence_Research_Logo.jpg?p=original",
+            "publishedAt": "2025-10-27 19:13:00"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "I tested Windows 11’s new AI upgrades — and these 3 are actually worth using (plus, one I can't wait to try)",
+            "url": "https://www.tomsguide.com/ai/i-tested-windows-11s-new-ai-upgrades-and-these-3-are-actually-worth-using-plus-one-i-cant-wait-to-try",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/733Z7yJprPYWPwPswtAudW-1280-80.jpg",
+            "publishedAt": "2025-10-27 19:10:26"
+        },
+        {
+            "source": {
+                "name": "fstoppers"
+            },
+            "title": "Beyond All-In-One: We Review the Huion Inspiroy 2 Pen Tablet for Editing, Retouching, and Illustration",
+            "url": "https://fstoppers.com/reviews/beyond-all-one-review-huion-inspiroy-2-pen-tablet-editing-retouching-and-714276",
+            "urlToImage": "https://cdn.fstoppers.com/styles/large-16-9/s3/lead/2025/10/dsc09865.jpg",
+            "publishedAt": "2025-10-27 19:06:01"
+        },
+        {
+            "source": {
+                "name": "venturebeat"
+            },
+            "title": "MiniMax-M2 is the new king of open source LLMs (especially for agentic tool calling)",
+            "url": "https://venturebeat.com/ai/minimax-m2-is-the-new-king-of-open-source-llms-especially-for-agentic-tool",
+            "urlToImage": "https://images.ctfassets.net/jdtwqhzvc2n1/5ooQmDHIK8joIBWGcWySzH/e0d4c547081630465c4b8862570d0fd1/cfr0z3n_extremely_small_tiny_figurine_of_a_humanoid_robot_weari_47d6d5f6-f57a-4685-b6aa-d28c2657eef8.png?q=30&w=300",
+            "publishedAt": "2025-10-27 19:01:00"
+        },
+        {
+            "source": {
+                "name": "itpro"
+            },
+            "title": "HPE's new Cray system is a pocket powerhouse",
+            "url": "https://www.itpro.com/infrastructure/hpes-new-cray-system-is-a-pocket-powerhouse",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/obibpi9MWXokLp7ibkZgsj-1280-80.jpg",
+            "publishedAt": "2025-10-27 19:00:00"
+        },
+        {
+            "source": {
+                "name": "cision"
+            },
+            "title": "Data Center RFID market to Reach USD 2.75 billion by 2032, Growing At An 7% CAGR - Credence Research",
+            "url": "https://www.prnewswire.com/news-releases/data-center-rfid-market-to-reach-usd-2-75-billion-by-2032--growing-at-an-7-cagr--credence-research-302595691.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2562161/Credence_Research_Logo.jpg?p=original",
+            "publishedAt": "2025-10-27 18:53:00"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "AI In Your Mouth: And Bold New Health Outcomes",
+            "url": "https://www.forbes.com/sites/johnwerner/2025/10/27/ai-in-your-mouth-and-bold-new-health-outcomes/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68ffbe56cff8f75712f5d09f/0x0.jpg?width=960",
+            "publishedAt": "2025-10-27 18:48:11"
+        },
+        {
+            "source": {
+                "name": "postregister"
+            },
+            "title": "Datavault AI Launches 2 Innovative Data Unions to Tokenize Insurance and Accounting Data, ...",
+            "url": "https://www.postregister.com/businessreport/technology/datavault-ai-launches-2-innovative-data-unions-to-tokenize-insurance-and-accounting-data/article_095df61f-2769-546c-a58b-8722a69a412d.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
+            "publishedAt": "2025-10-27 18:45:34"
+        },
+        {
+            "source": {
+                "name": "zephyrnet"
+            },
+            "title": "Revolutionizing High-Temperature Quantum Materials through Solitonic Superfluorescence",
+            "url": "https://zephyrnet.com/revolutionizing-high-temperature-quantum-materials-through-solitonic-superfluorescence/",
+            "urlToImage": "https://zephyrnet.com/wp-content/uploads/2025/04/zephyrnet-default-img-3-1.jpg-1.jpg",
+            "publishedAt": "2025-10-27 18:41:19"
         },
         {
             "source": {
@@ -3039,159 +3216,6 @@
             "url": "https://www.spokesman.com/stories/2025/oct/26/motley-fool-broadcom-chips-and-more/",
             "urlToImage": "https://thumb.spokesman.com/SbO6q-Q9atRVyicvkjlP2eo646Q=/1200x630/smart/media.spokesman.com/photos/2025/10/23/68f90d21d0fec.hires.jpg",
             "publishedAt": "2025-10-26T00:00:00Z"
-        },
-        {
-            "source": {
-                "name": "headtopics"
-            },
-            "title": "Galaxy TriFold launch markets revealed, and only a few made the cut",
-            "url": "https://us.headtopics.com/news/galaxy-trifold-launch-markets-revealed-and-only-a-few-made-74943116",
-            "urlToImage": "https://i.headtopics.com/images/2025/10/24/phonearena/t-mobile-is-enforcing-a-harsh-autopay-rule-t-mobile-is-enforcing-a-harsh-autopay-rule-B04F015115D5FE6B48ED965C9FC73765.webp?w=640",
-            "publishedAt": "2025-10-26 23:09:04"
-        },
-        {
-            "source": {
-                "name": "deccanherald"
-            },
-            "title": "Cybersecurity grapples with acute skill gap as threats increase",
-            "url": "https://www.deccanherald.com/business/cybersecurity-grapples-with-acute-skill-gap-as-threats-increase-3775956",
-            "urlToImage": "https://media.assettype.com/deccanherald%2F2025-07-01%2Favnmobex%2Fdeccanherald2024-0158b4ff52-1025-49a8-8fbe-392987397cd4hacker.avif?ar=40%3A21&auto=format%2Ccompress&mode=crop&ogImage=true&rect=0%2C17%2C900%2C473&w=1200",
-            "publishedAt": "2025-10-26 23:07:15"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Apple Plans Vapor Chamber Cooling for M6 iPad Pro in 2027",
-            "url": "https://www.webpronews.com/apple-plans-vapor-chamber-cooling-for-m6-ipad-pro-in-2027/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-8966d626-330f-4e08-9de2-af75dae7cb41.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-10-26 23:03:04"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "New AGI Definition Framework Matches Human Cognition in 10 Domains",
-            "url": "https://www.webpronews.com/new-agi-definition-framework-matches-human-cognition-in-10-domains/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-76e33356-f03d-4c84-95f3-c984cb20a4de.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-10-26 22:48:40"
-        },
-        {
-            "source": {
-                "name": "headtopics"
-            },
-            "title": "Seagate 20TB HDD Priced Like Peanuts, Amazon Bottoms Out at $0.01 per GB",
-            "url": "https://us.headtopics.com/news/seagate-20tb-hdd-priced-like-peanuts-amazon-bottoms-out-at-74942679",
-            "urlToImage": "https://i.headtopics.com/images/2025/10/24/news4sa/post-9-11-veterans-advocacy-group-launches-drive-t-post-9-11-veterans-advocacy-group-launches-drive-t-D3B89F97C3F80C65170A4BFB7CFA6764.webp?w=640",
-            "publishedAt": "2025-10-26 22:38:43"
-        },
-        {
-            "source": {
-                "name": "headtopics"
-            },
-            "title": "4 MacBook Widgets Everyone Should Be Using",
-            "url": "https://us.headtopics.com/news/4-macbook-widgets-everyone-should-be-using-74942038",
-            "urlToImage": "https://i.headtopics.com/images/2025/10/24/forbestech/apple-loop-iphone-17-pro-problems-macbook-pro-s-ai-apple-loop-iphone-17-pro-problems-macbook-pro-s-ai-0BAF8AB3248B0372BC74A8F6FA822AB0.webp?w=640",
-            "publishedAt": "2025-10-26 22:09:12"
-        },
-        {
-            "source": {
-                "name": "roboticsandautomationnews"
-            },
-            "title": "Top robotics stories today: Nike unveils robot shoe, AutoStore expands, and more",
-            "url": "https://roboticsandautomationnews.com/2025/10/26/top-robotics-stories-today-nike-unveils-robot-shoe-autostore-expands-and-more/95895/",
-            "urlToImage": "https://roboticsandautomationnews.com/wp-content/uploads/2025/10/news-in-brief-image-1.png",
-            "publishedAt": "2025-10-26 21:50:24"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "How to Scale LLM Apps Without Exploding Your Cloud Bill",
-            "url": "https://hackernoon.com/how-to-scale-llm-apps-without-exploding-your-cloud-bill",
-            "urlToImage": "https://hackernoon.imgix.net/images/5wpKgV75aONqkTJlafw2yQmK9yd2-hi03bvt.png",
-            "publishedAt": "2025-10-26 21:38:54"
-        },
-        {
-            "source": {
-                "name": "yahoo"
-            },
-            "title": "Researchers issue warning on harmful side effect of using ChatGPT: 'It's a concern'",
-            "url": "https://www.yahoo.com/news/articles/researchers-issue-warning-harmful-side-213000043.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/FB6oza2LPfkdmLti38CHrw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02ODU7Y2Y9d2VicA--/https://media.zenfs.com/en/the_cool_down_737/18d7eaa43f67944a9f5f918e4584580a",
-            "publishedAt": "2025-10-26 21:30:00"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "The Physics of AI",
-            "url": "https://hackernoon.com/the-physics-of-ai",
-            "urlToImage": "https://hackernoon.imgix.net/images/5wpKgV75aONqkTJlafw2yQmK9yd2-xh03b9s.jpeg",
-            "publishedAt": "2025-10-26 21:19:16"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "OpenAI Unveils AI Music Generator with Juilliard Collaboration",
-            "url": "https://www.webpronews.com/openai-unveils-ai-music-generator-with-juilliard-collaboration/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-d601654d-388c-499f-8245-17b711a1ce5a.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-10-26 21:18:54"
-        },
-        {
-            "source": {
-                "name": "cnet"
-            },
-            "title": "Best VPN Deals: Upgrade Your Internet Security for Just $2 Per Month",
-            "url": "https://www.cnet.com/deals/best-vpn-deals/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/734ede8574559c5c2b57466a126ace472b6ea720/hub/2024/04/24/7dd1bf0c-603d-4b50-92f6-876d39c4d510/vpn-online-safety-protection-9337.jpg?auto=webp&fit=crop&height=675&precrop=4000%2C2250%2Cx0%2Cy0&width=1200",
-            "publishedAt": "2025-10-26 21:00:00"
-        },
-        {
-            "source": {
-                "name": "gizmochina"
-            },
-            "title": "ByteDance Unveils Seed3D 1.0: Turn Any Photo Into a Realistic 3D Model Instantly",
-            "url": "https://www.gizmochina.com/2025/10/26/bytedance-launches-seed3d-1-0-generate-high-precision-3d-models/",
-            "urlToImage": "https://www.gizmochina.com/wp-content/uploads/2025/10/Bytedance-Seed-3d-1024x469.png?x70461=",
-            "publishedAt": "2025-10-26 20:45:18"
-        },
-        {
-            "source": {
-                "name": "slashgear"
-            },
-            "title": "The World's First Liquid-Cooled Smartphone Is About To Hit The Market",
-            "url": "https://www.slashgear.com/2003821/redmagic-11-pro-liquid-cooled-smartphone-details/",
-            "urlToImage": "https://www.slashgear.com/img/gallery/the-worlds-first-liquid-cooled-smartphone-is-about-to-hit-the-market/l-intro-1761082202.jpg",
-            "publishedAt": "2025-10-26 20:45:00"
-        },
-        {
-            "source": {
-                "name": "zephyrnet"
-            },
-            "title": "Enhanced AI Positron Features in Short Clips",
-            "url": "https://zephyrnet.com/enhanced-ai-positron-features-in-short-clips/",
-            "urlToImage": "https://zephyrnet.com/wp-content/uploads/img-QosikY7vWlBbnwhO0SnnWYNb.png",
-            "publishedAt": "2025-10-26 20:21:49"
-        },
-        {
-            "source": {
-                "name": "digitaltrends"
-            },
-            "title": "AI browsers are here, and you need to learn how to use the web properly",
-            "url": "https://www.digitaltrends.com/computing/ai-browsers-are-here-and-you-need-to-learn-how-to-use-the-web-properly/",
-            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/10/Untitled-design-56.jpg?p=1&resize=1200%2C630",
-            "publishedAt": "2025-10-26 19:23:43"
-        },
-        {
-            "source": {
-                "name": "nvdaily"
-            },
-            "title": "Group's data center presentation draws residents, officials",
-            "url": "https://www.nvdaily.com/nvdaily/groups-data-center-presentation-draws-residents-officials/article_b270bfd1-e8cc-54e6-a530-088e72892c0a.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/nvdaily.com/content/tncms/custom/image/f49c34a0-9ca4-11e8-8115-4714fd783b28.png?resize=600%2C315",
-            "publishedAt": "2025-10-26 19:00:00"
         }
     ]
 }
