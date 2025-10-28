@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2025-10-28T10:17:55.558340Z",
+    "lastUpdatedAt": "2025-10-28T11:12:57.891078Z",
     "articles": [
+        {
+            "source": {
+                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
+                "name": "Australian Financial Review",
+                "url": "https://www.afr.com",
+                "country": "au"
+            },
+            "title": "Silicon Valley called - the 1990s are back",
+            "url": "https://www.afr.com/world/north-america/silicon-valley-called-the-1990s-are-back-20251028-p5n5sm",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.2792%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_66%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/3c3edd15ad2e0cc42a5e676772d88ee6a4d363f8",
+            "publishedAt": "2025-10-27T23:04:15Z"
+        },
+        {
+            "source": {
+                "id": "28bc60a23a7bf89e60f893506992a3fe",
+                "name": "Daily Excelsior",
+                "url": "https://www.dailyexcelsior.com",
+                "country": "in"
+            },
+            "title": "Google powers up 'Earth AI' with advanced Gemini integration",
+            "url": "https://www.dailyexcelsior.com/google-powers-up-earth-ai-with-advanced-gemini-integration/",
+            "urlToImage": "https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2025/10/gem.jpg",
+            "publishedAt": "2025-10-27T22:50:44Z"
+        },
+        {
+            "source": {
+                "id": "b419a989918b3665a34559f5047546b6",
+                "name": "The Sunday Times",
+                "url": "https://www.thetimes.com",
+                "country": "gb"
+            },
+            "title": "Elon Musk says AI research into ancient Rome will ‘rewrite history’",
+            "url": "https://www.thetimes.com/world/europe/article/elon-musk-ai-archaeology-rome-7rn9xpsgd",
+            "urlToImage": "https://www.thetimes.com/imageserver/image/%2F466c1cb1-8324-4451-8a34-63306b34c879.jpg?crop=6219%2C3498%2C915%2C0&resize=1200",
+            "publishedAt": "2025-10-27T22:45:25Z"
+        },
+        {
+            "source": {
+                "id": "d5a02d07558c5563d72576efc406e608",
+                "name": "ABC17News.com",
+                "url": "https://abc17news.com",
+                "country": "us"
+            },
+            "title": "Amazon could cut as many as 30,000 corporate jobs, reports say",
+            "url": "https://abc17news.com/money/cnn-business-consumer/2025/10/27/amazon-could-cut-as-many-as-30000-corporate-jobs-reports-say/",
+            "urlToImage": "https://abc17news.b-cdn.net/abc17news.com/2025/10/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWg5b3Y4dXQwMDAxMzU2bmIyejh5YXI3-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtaDlvcWR6NDAwZHoyY3FkZ3U2MmhiZXY-860x568.jpg",
+            "publishedAt": "2025-10-27T22:40:03Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Nextera Energy and Google Announce New Collaboration to Accelerate Nuclear Energy Deployment in the U.S",
+            "url": "https://www.marketscreener.com/news/nextera-energy-and-google-announce-new-collaboration-to-accelerate-nuclear-energy-deployment-in-the-ce7d5ddfdc81f625",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2025-10-27T22:35:24Z"
+        },
         {
             "source": {
                 "id": "09131c39169c9c96230862dc4c1fa727",
@@ -1695,6 +1755,60 @@
         },
         {
             "source": {
+                "name": "headtopics"
+            },
+            "title": "AMD, Department of Energy announce $1 billion AI supercomputer partnership",
+            "url": "https://us.headtopics.com/news/amd-department-of-energy-announce-1-billion-ai-74991914",
+            "urlToImage": "https://i.headtopics.com/images/2025/10/26/businessinsider/nvidia-amd-broadcom-using-golden-handcuffs-for-emp-nvidia-amd-broadcom-using-golden-handcuffs-for-emp-610C3C0FC8A1112DB82D5BD0AB1D74FC.webp?w=640",
+            "publishedAt": "2025-10-27 23:09:11"
+        },
+        {
+            "source": {
+                "name": "headtopics"
+            },
+            "title": "Qualcomm is turning parts from cellphone chips into AI chips to rival Nvidia",
+            "url": "https://us.headtopics.com/news/qualcomm-is-turning-parts-from-cellphone-chips-into-ai-74991933",
+            "urlToImage": "https://i.headtopics.com/images/2025/10/27/forbestech/qualcomm-readies-rack-scale-ai-with-new-chips-and--qualcomm-readies-rack-scale-ai-with-new-chips-and--E83557D48A99A45A8EE53F578A42D949.webp?w=640",
+            "publishedAt": "2025-10-27 23:09:03"
+        },
+        {
+            "source": {
+                "name": "headtopics"
+            },
+            "title": "HP Laptop with 256GB SSD and 8GB RAM Is Selling for Pennies, Amazon Already Sold 9K Units",
+            "url": "https://us.headtopics.com/news/hp-laptop-with-256gb-ssd-and-8gb-ram-is-selling-for-74992210",
+            "urlToImage": "https://i.headtopics.com/images/2025/10/27/gizmodo/hp-17-3-ryzen-5-laptop-bundle-drops-70-as-clearanc-hp-17-3-ryzen-5-laptop-bundle-drops-70-as-clearanc-2412B95DCC9FD0D9FAF3A08A4B0D49CF.webp?w=640",
+            "publishedAt": "2025-10-27 23:08:47"
+        },
+        {
+            "source": {
+                "name": "menafn"
+            },
+            "title": "Nebius Launches Global Robotics And Physical AI Awards To Spotlight Next-Generation Innovation",
+            "url": "https://menafn.com/1110256247/Nebius-Launches-Global-Robotics-And-Physical-AI-Awards-To-Spotlight-Next-Generation-Innovation",
+            "urlToImage": "https://menafn.com/updates/pr/2025-10/27/R&AN_cdfbaimage_story.png",
+            "publishedAt": "2025-10-27 23:03:59"
+        },
+        {
+            "source": {
+                "name": "whathifi"
+            },
+            "title": "Sound+Image/Australian Hi-Fi subscriptions competition",
+            "url": "https://www.whathifi.com/tech-events/sound-image-australian-hi-fi-subscriptions-competition",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/c8saDGMJW5VJTGM5ofUaEh-1280-80.jpg",
+            "publishedAt": "2025-10-27 22:49:58"
+        },
+        {
+            "source": {
+                "name": "headtopics"
+            },
+            "title": "Samsung's First Trifold Phone Might Not Launch In The US",
+            "url": "https://us.headtopics.com/news/samsung-s-first-trifold-phone-might-not-launch-in-the-us-74991637",
+            "urlToImage": "https://i.headtopics.com/images/2025/10/26/thedailybeast/pence-s-shocking-notes-on-trump-jan-6-phone-call-r-pence-s-shocking-notes-on-trump-jan-6-phone-call-r-B10DC1F01251D2DEB1D65BC751BFBB9D.webp?w=640",
+            "publishedAt": "2025-10-27 22:38:50"
+        },
+        {
+            "source": {
                 "name": "theverge"
             },
             "title": "AMD, Department of Energy announce $1 billion AI supercomputer partnership",
@@ -3033,138 +3147,6 @@
             "url": "https://www.theglobeandmail.com/investing/article-artificial-intelligence-hype-drowning-out-investment-wisdom/",
             "urlToImage": "https://www.theglobeandmail.com/resizer/v2/IHEUF3POSRF2XOIJHIBNP6YEVQ.jpg?auth=a075ce10c28130fd24ef76778dff53740a9d7fea09eb57d4e78b21bdab29902f&width=1200&height=800&quality=80&smart=true",
             "publishedAt": "2025-10-26T22:54:54Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "POET Technologies Announces Pricing of US$150 Million Oversubscribed Registered Direct Offering of Common Shares",
-            "url": "https://www.manilatimes.net/2025/10/27/tmt-newswire/globenewswire/poet-technologies-announces-pricing-of-us150-million-oversubscribed-registered-direct-offering-of-common-shares/2208708",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/10/27/798959.png",
-            "publishedAt": "2025-10-26T22:51:00Z"
-        },
-        {
-            "source": {
-                "id": "28bc60a23a7bf89e60f893506992a3fe",
-                "name": "Daily Excelsior",
-                "url": "https://www.dailyexcelsior.com",
-                "country": "in"
-            },
-            "title": "China to strengthen economic ties with Singapore: Li Qiang",
-            "url": "https://www.dailyexcelsior.com/china-to-strengthen-economic-ties-with-singapore-li-qiang/",
-            "urlToImage": "https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2025/10/chinaaa-2.jpg",
-            "publishedAt": "2025-10-26T22:30:29Z"
-        },
-        {
-            "source": {
-                "id": "d6397b77175680e2678c0d60edcee7af",
-                "name": "South China Morning Post",
-                "url": "https://www.scmp.com",
-                "country": "hk"
-            },
-            "title": "Opinion | Don’t expect China to compromise on rare earth controls at Apec",
-            "url": "https://www.scmp.com/opinion/china-opinion/article/3330255/dont-expect-china-compromise-rare-earth-controls-apec",
-            "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/canvas/2025/10/26/de59072a-dfbd-443a-9553-f15e171ec0ff_736a111e.jpg?itok=VSQXPQ8I&v=1761455644",
-            "publishedAt": "2025-10-26T21:30:08Z"
-        },
-        {
-            "source": {
-                "id": "7eeaf9a839918543cc708f2d331c3be4",
-                "name": "Free Press Journal",
-                "url": "https://www.freepressjournal.in",
-                "country": "in"
-            },
-            "title": "Khabari: The Unsung Heroes Of Mumbai Police Intelligence",
-            "url": "https://www.freepressjournal.in/mumbai/khabari-the-unsung-heroes-of-mumbai-police-intelligence",
-            "urlToImage": "https://media.assettype.com/freepressjournal/2025-09-26/5ony56xv/cops.webp",
-            "publishedAt": "2025-10-26T21:28:41Z"
-        },
-        {
-            "source": {
-                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
-                "name": "ABC (Australian Broadcasting Corporation)",
-                "url": "https://www.abc.net.au",
-                "country": "au"
-            },
-            "title": "Federal government rules out changing copyright law to give AI companies free rein",
-            "url": "https://www.abc.net.au/news/2025-10-27/labor-rules-out-ai-training-copyright-exceptions/105935740",
-            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/05c056fe572d9f31209a07124fce2371?impolicy=wcms_watermark_news&cropH=3840&cropW=6828&xPos=0&yPos=356&width=862&height=485&imformat=generic",
-            "publishedAt": "2025-10-26T19:01:04Z"
-        },
-        {
-            "source": {
-                "id": "e743cde6ee986921721e83d3957862dc",
-                "name": "Zee News",
-                "url": "https://zeenews.india.com",
-                "country": "in"
-            },
-            "title": "SHOCKING: World's First AI Minister 'Pregnant' With 83 Babies! Albania's PM Drops Bombshell",
-            "url": "https://zeenews.india.com/world/shocking-worlds-first-ai-minister-pregnant-with-83-babies-albanias-pm-drops-bombshell-2976598.html",
-            "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2025/10/26/1852098-albania-ai-minister-diella-ai-edi-rama-ai-in-government-parliamentary-technology-ai-assistants-in-politics.jpg",
-            "publishedAt": "2025-10-26T18:02:17Z"
-        },
-        {
-            "source": {
-                "id": "d5f1f8579b4e9b390feccfa1c0cf8028",
-                "name": "Arab News",
-                "url": "https://www.arabnews.com",
-                "country": "ar"
-            },
-            "title": "Public AI is the new multilateralism",
-            "url": "https://www.arabnews.com/node/2620336",
-            "urlToImage": "https://www.arabnews.com/sites/default/files/authors/4652273-jacobtaylorandjoshuatanonline.png",
-            "publishedAt": "2025-10-26T18:00:18Z"
-        },
-        {
-            "source": {
-                "id": "501286e9696e860909f86a95de4b661e",
-                "name": "Snopes.com",
-                "url": "https://www.snopes.com",
-                "country": "us"
-            },
-            "title": "12 times Trump or the White House shared AI-generated and doctored content",
-            "url": "https://www.snopes.com/collections/trump-white-house-ai-content/",
-            "urlToImage": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2025/10/trump_collage.png",
-            "publishedAt": "2025-10-26T18:00:04Z"
-        },
-        {
-            "source": {
-                "id": "1b697445987e8a33f6c82842e17d60d9",
-                "name": "Bnn Bloomberg",
-                "url": "https://www.bnnbloomberg.ca",
-                "country": "ca"
-            },
-            "title": "How to bounce back after losing your job",
-            "url": "https://www.bnnbloomberg.ca/business/economics/2025/10/26/layoffs-what-you-need-to-know-and-how-to-prepare/",
-            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/56XJG4IS4ZDYJIE3OLTHKLXNEU.JPG?smart=true&auth=b1a3200449ccde9b104abd45b9c1cab5ddfed74d8be4253ed945ab0ff5593071&width=1200&height=630",
-            "publishedAt": "2025-10-26T17:41:41Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com",
-                "country": "ca"
-            },
-            "title": "How to bounce back after losing your job",
-            "url": "https://www.cp24.com/news/canada/2025/10/26/layoffs-what-you-need-to-know-and-how-to-prepare/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/56XJG4IS4ZDYJIE3OLTHKLXNEU.JPG?smart=true&auth=b1a3200449ccde9b104abd45b9c1cab5ddfed74d8be4253ed945ab0ff5593071&width=1200&height=630",
-            "publishedAt": "2025-10-26T17:41:41Z"
-        },
-        {
-            "source": {
-                "id": "72ea416416ab0eec8fe687d6262961e8",
-                "name": "Finbold",
-                "url": "https://finbold.com",
-                "country": "bg"
-            },
-            "title": "Wall Street analysts update AMD stock price for the next 12 months",
-            "url": "https://finbold.com/wall-street-analysts-update-amd-stock-price-for-the-next-12-months/",
-            "urlToImage": "https://assets.finbold.com/uploads/2025/10/Wall-Street-analysts-update-AMD-stock-price-for-the-next-12-months.jpg",
-            "publishedAt": "2025-10-26T17:33:16Z"
         }
     ]
 }
