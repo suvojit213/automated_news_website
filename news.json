@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2025-10-28T14:16:38.781685Z",
+    "lastUpdatedAt": "2025-10-28T15:17:38.826310Z",
     "articles": [
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "Simu Liu speaks against AI in Hollywood: ‘It’s so antithetical’",
+            "url": "https://www.thenews.com.pk/latest/1354091-simu-liu-speaks-against-ai-in-hollywood-its-so-antithetical",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/updates/2025-10-28/1354091_080259_updates.jpg",
+            "publishedAt": "2025-10-28T03:03:00Z"
+        },
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "How Saudi Arabia is diversifying away from oil - and betting big on AI",
+            "url": "https://www.cnbc.com/2025/10/28/how-saudi-arabia-is-diversifying-away-from-oil-and-betting-big-on-ai.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108145679-17472532752024-10-29t122012z_169525670_rc2cuaasj8ro_rtrmadp_0_saudi-investment-fii.jpeg?v=1747253306&w=1920&h=1080",
+            "publishedAt": "2025-10-28T02:53:06Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "From Cloud to Edge: Why Context-Aware AI Is the Future\"",
+            "url": "https://techbullion.com/from-cloud-to-edge-why-context-aware-ai-is-the-future-insights-from-mr-deepak-kole/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/10/IMG_2687-1000x600.jpeg",
+            "publishedAt": "2025-10-28T02:52:12Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Google unveils plan to restart US nuclear plant to power AI infrastructure",
+            "url": "https://www.manilatimes.net/2025/10/28/business/foreign-business/google-unveils-plan-to-restart-us-nuclear-plant-to-power-ai-infrastructure/2209620",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/10/28/800741.jpg",
+            "publishedAt": "2025-10-28T02:48:00Z"
+        },
+        {
+            "source": {
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
+            },
+            "title": "Musk Launches 'Grokipedia' to Combat Wikipedia Bias",
+            "url": "https://www.newsmax.com/newsfront/grokipedia-bias-wikipedia/2025/10/27/id/1232089/",
+            "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=9efa2aa0-8f92-45ac-80be-7d7876272d4e&SiteName=Newsmax",
+            "publishedAt": "2025-10-28T02:32:56Z"
+        },
         {
             "source": {
                 "id": "ca84296ef941bfa461f4239a2290cb99",
@@ -168,6 +228,33 @@
             "url": "https://www.forbes.com/sites/marksparrow/2025/10/28/ukraines-macpaw-announces-moonlock-cyber-security-software-designed-for-mac-users/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68efac4603122a70560f0ac6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-10-28T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "prnewswire_apac"
+            },
+            "title": "Zenlayer Launches AI Gateway to Simplify Global Access to Large Language Models",
+            "url": "https://www.prnewswire.com/apac/news-releases/zenlayer-launches-ai-gateway-to-simplify-global-access-to-large-language-models-302596057.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2805792/AI_Gateway_3.jpg?p=original",
+            "publishedAt": "2025-10-28 03:03:00"
+        },
+        {
+            "source": {
+                "name": "thehansindia"
+            },
+            "title": "Advisory council formed to drive rapid growth of data centres",
+            "url": "https://www.thehansindia.com/andhra-pradesh/advisory-council-formed-to-drive-rapid-growth-of-data-centres-1018181",
+            "urlToImage": "https://www.thehansindia.com/images/placeholder.jpg",
+            "publishedAt": "2025-10-28 02:30:03"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "Qualcomm Challenges Nvidia And AMD With Data Center AI Chips",
+            "url": "https://www.forbes.com/sites/janakirammsv/2025/10/27/qualcomm-challenges-nvidia-and-amd-with-data-center-ai-chips/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6900279935579ae48a0cbaa5/0x0.jpg?width=960",
+            "publishedAt": "2025-10-28 02:20:56"
         },
         {
             "source": {
@@ -3108,78 +3195,6 @@
             "url": "https://telecom.economictimes.indiatimes.com/news/industry/sc-allows-centre-to-examine-vodafone-ideas-plea-against-dots-agr-demands/124842403",
             "urlToImage": "https://etimg.etb2bimg.com/thumb/img-size-99704/124842403.cms",
             "publishedAt": "2025-10-27 06:45:45"
-        },
-        {
-            "source": {
-                "name": "qconline"
-            },
-            "title": "Mico Microsoft's AI Clippy 2.0",
-            "url": "https://qconline.com/article_46d4f1cd-f15b-5dc7-ab49-38514955bc5f.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/qconline.com/content/tncms/assets/v3/editorial/d/35/d3544f52-209d-5c16-af4f-3c7fc9b3b861/68ff1502a3dbf.image.jpg",
-            "publishedAt": "2025-10-27 06:45:36"
-        },
-        {
-            "source": {
-                "name": "cxotoday"
-            },
-            "title": "The next AI frontier: How emerging tech is redefining enterprise computing",
-            "url": "https://cxotoday.com/news-analysis/the-next-ai-frontier-how-emerging-tech-is-redefining-enterprise-computing/",
-            "urlToImage": "https://cxotoday.com/wp-content/uploads/2025/01/AI_Cloud.jpg",
-            "publishedAt": "2025-10-27 06:41:27"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "8 Breakthrough Technology Trends That Will Transform Healthcare In 2026",
-            "url": "https://www.forbes.com/sites/bernardmarr/2025/10/27/the-8-biggest-healthcare-technology-trends-to-watch-in-2026/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68ff133f46629792313492ec/0x0.jpg?width=960",
-            "publishedAt": "2025-10-27 06:39:30"
-        },
-        {
-            "source": {
-                "name": "zephyrnet"
-            },
-            "title": "Autonomous Synapse: A Breakthrough in Mimicking Human Color Perception",
-            "url": "https://zephyrnet.com/autonomous-synapse-a-breakthrough-in-mimicking-human-color-perception/",
-            "urlToImage": "https://zephyrnet.com/wp-content/uploads/img-OMeNyhx9hsFTHMv75iov6u7I.png",
-            "publishedAt": "2025-10-27 06:31:47"
-        },
-        {
-            "source": {
-                "name": "cxotoday"
-            },
-            "title": "Fungal electronics: Mushrooms could power next-gen computers",
-            "url": "https://cxotoday.com/news-analysis/fungal-electronics-mushrooms-could-power-next-gen-computers/",
-            "urlToImage": "https://cxotoday.com/wp-content/uploads/2025/10/image.png",
-            "publishedAt": "2025-10-27 06:18:34"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "Indigenously Designed and Manufactured Laptops by Vyonix Launched at IMC 2025",
-            "url": "https://www.prnewswire.com/news-releases/indigenously-designed-and-manufactured-laptops-by-vyonix-launched-at-imc-2025-302594312.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2804940/Vyonix.jpg?p=publish",
-            "publishedAt": "2025-10-27 06:00:00"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "Microsoft Bans Sexy AI, But Will It Replace Humans? Media Icons Debate",
-            "url": "https://www.forbes.com/sites/martineparis/2025/10/27/microsoft-bans-sexy-ai-but-will-it-replace-humans-media-icons-debate/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68fefb373998f1621b1eecd3/0x0.jpg?width=960",
-            "publishedAt": "2025-10-27 05:11:03"
-        },
-        {
-            "source": {
-                "name": "zephyrnet"
-            },
-            "title": "Intel Launches Crescent Island: A Cutting-Edge 160GB Inference GPU Featuring Xe3P Architecture",
-            "url": "https://zephyrnet.com/intel-launches-crescent-island-a-cutting-edge-160gb-inference-gpu-featuring-xe3p-architecture/",
-            "urlToImage": "https://zephyrnet.com/wp-content/uploads/img-5ROnE6b7VT731LygqGVcDWmz.png",
-            "publishedAt": "2025-10-27 05:07:20"
         }
     ]
 }
