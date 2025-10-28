@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2025-10-28T09:17:09.044079Z",
+    "lastUpdatedAt": "2025-10-28T10:17:55.558340Z",
     "articles": [
+        {
+            "source": {
+                "id": "09131c39169c9c96230862dc4c1fa727",
+                "name": "CNA",
+                "url": "https://www.channelnewsasia.com",
+                "country": "sg"
+            },
+            "title": "Wall St scales fresh highs on tech earnings, US-China trade optimism",
+            "url": "https://www.channelnewsasia.com/business/wall-st-scales-fresh-highs-tech-earnings-us-china-trade-optimism-5426741",
+            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--M91l-ADd--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-10-27T184823Z_1_LYNXMPEL9Q0ST_RTROPTP_3_USA-STOCKS.JPG?itok=R4YDGJBY",
+            "publishedAt": "2025-10-27T22:02:20Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "NextEra Energy Enters Multiple Agreements With Google to Ramp Nuclear Energy Deployment",
+            "url": "https://www.marketscreener.com/news/nextera-energy-enters-multiple-agreements-with-google-to-ramp-nuclear-energy-deployment-ce7d5ddfdc8ff424",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2025-10-27T22:01:10Z"
+        },
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "Trends of generative AI applications in educational settings",
+            "url": "https://phys.org/news/2025-10-trends-generative-ai-applications.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/gen-ai-1.jpg",
+            "publishedAt": "2025-10-27T22:00:02Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Cycurion, Inc. Announces Successful Completion of 1-for-30 Reverse Stock Split",
+            "url": "https://www.manilatimes.net/2025/10/28/tmt-newswire/globenewswire/cycurion-inc-announces-successful-completion-of-1-for-30-reverse-stock-split/2209555",
+            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+            "publishedAt": "2025-10-27T21:50:28Z"
+        },
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            },
+            "title": "Amazon Braces for Major Cuts to Its White Collar Work Force",
+            "url": "https://www.nytimes.com/2025/10/27/technology/amazon-braces-for-layoffs-white-collar-jobs.html",
+            "urlToImage": "https://static01.nyt.com/images/2025/10/27/multimedia/27biz-amazonlayoffs-1-01-bwft/27biz-amazonlayoffs-1-01-bwft-facebookJumbo.jpg",
+            "publishedAt": "2025-10-27T21:26:07Z"
+        },
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            },
+            "title": "Amazon Braces for Major Cuts to Its White Collar Work Force",
+            "url": "https://www.nytimes.com/2025/10/27/technology/amazon-layoffs.html",
+            "urlToImage": "https://static01.nyt.com/images/2025/10/27/multimedia/AMAZON-LAYOFFS-sub-tlhj/AMAZON-LAYOFFS-sub-tlhj-facebookJumbo.jpg",
+            "publishedAt": "2025-10-27T21:26:07Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Tech Advances as AI Stock Craze Continues - Tech Roundup",
+            "url": "https://www.marketscreener.com/news/tech-advances-as-ai-stock-craze-continues-tech-roundup-ce7d5ddfdc8df320",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2025-10-27T21:18:35Z"
+        },
         {
             "source": {
                 "id": "95a96a1867c4dac6f720e9d08d4c1b96",
@@ -1611,6 +1695,69 @@
         },
         {
             "source": {
+                "name": "theverge"
+            },
+            "title": "AMD, Department of Energy announce $1 billion AI supercomputer partnership",
+            "url": "https://www.theverge.com/news/807483/amd-department-of-energy-announce-1-billion-ai-supercomputer-partnership",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK081_amd_02.jpg.webp?crop=0%2C10.654292878952%2C100%2C78.691414242097&quality=90&strip=all",
+            "publishedAt": "2025-10-27 22:16:48"
+        },
+        {
+            "source": {
+                "name": "bitcoinworld"
+            },
+            "title": "AI Agents: Mbodi’s Breakthrough Robot Training Unveiled at Bitcoin World Disrupt 2025",
+            "url": "https://bitcoinworld.co.in/mbodi-ai-robot-training/",
+            "urlToImage": "https://bitcoinworld.co.in/wp-content/uploads/mbodi-ai-robot-training.jpg",
+            "publishedAt": "2025-10-27 22:10:10"
+        },
+        {
+            "source": {
+                "name": "discovermagazine"
+            },
+            "title": "Mushrooms May Replace Metal in Future Computers — And You Could Build One At Home",
+            "url": "https://www.discovermagazine.com/mushrooms-may-replace-metal-in-future-computers-and-you-could-build-one-at-home-48190",
+            "urlToImage": "https://cdn.discovermagazine.com/assets/image/57622/growing-mushrooms-in-lab-t.jpg",
+            "publishedAt": "2025-10-27 22:10:00"
+        },
+        {
+            "source": {
+                "name": "fortune"
+            },
+            "title": "WTO director-general says calling the trade wars the greatest disruption since the 1930s is ‘the understatement of the century’—but it’s not a repeat",
+            "url": "https://fortune.com/2025/10/27/wto-director-general-says-us-criticisms-of-trade-valid-not-1930s/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/54883654920_ce0e040fce_6k-e1761581061760.jpg?w=2048",
+            "publishedAt": "2025-10-27 22:09:59"
+        },
+        {
+            "source": {
+                "name": "hackread"
+            },
+            "title": "Advanced Serverless Security: Zero Trust Implementation with AI-Powered Threat Detection",
+            "url": "https://hackread.com/serverless-security-zero-trust-implementation-ai-threat-detection/",
+            "urlToImage": "https://hackread.com/wp-content/uploads/2025/10/serverless-security-zero-trust-implementation-ai-threat-detection.jpg",
+            "publishedAt": "2025-10-27 22:00:53"
+        },
+        {
+            "source": {
+                "name": "postregister"
+            },
+            "title": "Incode Launches Agentic Identity to Verify and Secure AI Agents in the Era of Autonomous Computing",
+            "url": "https://www.postregister.com/businessreport/government/incode-launches-agentic-identity-to-verify-and-secure-ai-agents-in-the-era-of-autonomous/article_026dc7f0-a48a-558f-8915-8c33ea4c1f53.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
+            "publishedAt": "2025-10-27 22:00:38"
+        },
+        {
+            "source": {
+                "name": "investing_us"
+            },
+            "title": "Does the Trump-Induced Quantum Stock Rally Have Legs?",
+            "url": "https://www.investing.com/analysis/does-the-trumpinduced-quantum-stock-rally-have-legs-200669171",
+            "urlToImage": "https://i-invdn-com.investing.com/redesign/images/seo/v2/investingcom_analysis_og.jpg",
+            "publishedAt": "2025-10-27 21:18:00"
+        },
+        {
+            "source": {
                 "name": "techradar"
             },
             "title": "I used the Beelink SER9 Pro mini PC’s AI Voice Kit, and it certainly aided day-to-day tasks in the office",
@@ -3018,174 +3165,6 @@
             "url": "https://finbold.com/wall-street-analysts-update-amd-stock-price-for-the-next-12-months/",
             "urlToImage": "https://assets.finbold.com/uploads/2025/10/Wall-Street-analysts-update-AMD-stock-price-for-the-next-12-months.jpg",
             "publishedAt": "2025-10-26T17:33:16Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Christopher Whaling: Without Critical Thinking, AI Will Not Make You More Intelligent!",
-            "url": "https://techbullion.com/christopher-whaling-without-critical-thinking-ai-will-not-make-you-more-intelligent/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/10/Christopher-Whaling-1000x600.jpg",
-            "publishedAt": "2025-10-26T17:20:01Z"
-        },
-        {
-            "source": {
-                "id": "44d394a4e765f82b49b452e4302a72b0",
-                "name": "Business Standard",
-                "url": "https://www.business-standard.com",
-                "country": "in"
-            },
-            "title": "Agriculture needs more automation to make it a lucrative business",
-            "url": "https://www.business-standard.com/opinion/columns/agriculture-needs-more-automation-to-make-it-a-lucrative-business-125102600722_1.html",
-            "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-06/11/thumb/fitandfill/1200X630/1749665805-1233.jpg",
-            "publishedAt": "2025-10-26T16:20:01Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Hassan Taher Examines the Hidden Infrastructure Costs Behind AI's Growth",
-            "url": "https://techbullion.com/hassan-taher-examines-the-hidden-infrastructure-costs-behind-ais-growth/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/10/IMG_2675-1000x600.png",
-            "publishedAt": "2025-10-26T16:14:04Z"
-        },
-        {
-            "source": {
-                "id": "33cb25fa0c188e2a4e90fce288b4ce49",
-                "name": "Atlanta Black Star",
-                "url": "https://atlantablackstar.com",
-                "country": "us"
-            },
-            "title": "Black Teen Handcuffed at Gunpoint after AI System Mistakes Bag of Doritos for Handgun and Calls Police to High School",
-            "url": "https://atlantablackstar.com/2025/10/26/black-teen-handcuffed-at-gunpoint/",
-            "urlToImage": "https://atlantablackstar.com/wp-content/uploads/2029/10/Taki-Allen.webp",
-            "publishedAt": "2025-10-26T16:00:14Z"
-        },
-        {
-            "source": {
-                "id": "6bc94426ae0cbbdb312f14c0f86b4708",
-                "name": "Ubergizmo",
-                "url": "https://www.ubergizmo.com",
-                "country": "us"
-            },
-            "title": "Instagram Adds AI ‘Restyle’ Tool To Make Stories More Creative And Dynamic",
-            "url": "https://www.ubergizmo.com/2025/10/instagram-ai-restyle-stories/",
-            "urlToImage": "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2019/05/instagram.jpg",
-            "publishedAt": "2025-10-26T15:00:05Z"
-        },
-        {
-            "source": {
-                "id": "e9207083a357fb7e76b38e485888ebe7",
-                "name": "manilastandard.net",
-                "url": "https://manilastandard.net",
-                "country": "ph"
-            },
-            "title": "Globe Business, Cyble team up to fight cybercrime in PH",
-            "url": "https://manilastandard.net/business/314660288/globe-business-cyble-team-up-to-fight-cybercrime-in-ph.html",
-            "urlToImage": "https://cdn.manilastandard.net/wp-content/uploads/2025/09/globe-business.png",
-            "publishedAt": "2025-10-26T14:18:00Z"
-        },
-        {
-            "source": {
-                "id": "3989f52bbec2d3be8442e2851b59e79e",
-                "name": "CBS Sports",
-                "url": "https://www.cbssports.com",
-                "country": "us"
-            },
-            "title": "Week 8 NFL player props, picks odds: Target Daniel Jones with Week 8 NFL bets",
-            "url": "https://www.cbssports.com/nfl/news/week-8-2025-nfl-player-props-picks-odds-back-daniel-jones-over-233-5-passing-yards-nfl-prop-bets/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/10/26/4854e867-5111-4cbb-ba85-b0ed52e0435d/thumbnail/1200x675/ea67d9dca000a2e43739dba035f70917/daniel-jones-indianapolis-colts.jpg",
-            "publishedAt": "2025-10-26T13:49:47Z"
-        },
-        {
-            "source": {
-                "id": "a6d401909ca644c4ffb332486c9cfaea",
-                "name": "Seeking Alpha",
-                "url": "https://seekingalpha.com",
-                "country": "us"
-            },
-            "title": "Pegasystems provides 'Blueprint' on how AI transforms enterprise software",
-            "url": "https://seekingalpha.com/news/4508329-pegasystems-provides-blueprint-on-how-ai-transforms-enterprise-software",
-            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/638620964/image_638620964.jpg?io=getty-c-w630",
-            "publishedAt": "2025-10-26T12:00:23Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "AI-Powered PR Could Doom a CEO",
-            "url": "https://www.bloomberg.com/opinion/newsletters/2025-10-26/chatgpt-is-a-poor-pr-replacement-for-ceos",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifomabIqrXCY/v1/1200x801.jpg",
-            "publishedAt": "2025-10-26T12:00:17Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "mediCAD® 8 Revolutionizes Orthopedic and Trauma Planning with Intelligent AI Integration",
-            "url": "https://www.manilatimes.net/2025/10/26/tmt-newswire/globenewswire/medicad-8-revolutionizes-orthopedic-and-trauma-planning-with-intelligent-ai-integration/2208605",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/10/26/798728.png",
-            "publishedAt": "2025-10-26T11:48:52Z"
-        },
-        {
-            "source": {
-                "id": "7f6e8514e9d8f8376aaa9a7229861518",
-                "name": "PerthNow",
-                "url": "https://www.perthnow.com.au",
-                "country": "au"
-            },
-            "title": "Labor rules out text and data mining exception in copyright review amid AI data-feeding frenzy",
-            "url": "https://www.perthnow.com.au/news/technology/labor-rules-out-text-and-data-mining-exception-in-copyright-review-amid-ai-data-feeding-frenzy-c-20477050",
-            "urlToImage": "https://images.perthnow.com.au/publication/C-20477050/1aa0daf20d3ab86311b02834bfc67e4aff6a87ed-16x9-x0y0w2048h1152.jpg?imwidth=1200",
-            "publishedAt": "2025-10-26T11:33:09Z"
-        },
-        {
-            "source": {
-                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
-                "name": "Australian Financial Review",
-                "url": "https://www.afr.com",
-                "country": "au"
-            },
-            "title": "Rowland says ‘no’ to AI copyright carve out, flags new payment regime",
-            "url": "https://www.afr.com/politics/federal/rowland-says-no-to-ai-copyright-carve-out-flags-new-payment-regime-20251026-p5n5bo",
-            "urlToImage": "https://static.ffx.io/images/$zoom_0.5519%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/efce77cc540d8cc40c24760382ee5f7273c4c7e7c01539fe4d0212ce661f9949",
-            "publishedAt": "2025-10-26T11:30:00Z"
-        },
-        {
-            "source": {
-                "id": "4b9101ef61d45607a32072a7504f5fb0",
-                "name": "The Japan Times ",
-                "url": "https://www.japantimes.co.jp",
-                "country": "jp"
-            },
-            "title": "Takaichi makes diplomatic debut with ASEAN maritime security and AI pledge",
-            "url": "https://www.japantimes.co.jp/news/2025/10/26/japan/politics/sanae-takaichi-asean-summit/",
-            "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2025/10/26/501854.jpg?v=3.1",
-            "publishedAt": "2025-10-26T11:09:11Z"
-        },
-        {
-            "source": {
-                "id": "4b9101ef61d45607a32072a7504f5fb0",
-                "name": "The Japan Times ",
-                "url": "https://www.japantimes.co.jp",
-                "country": "jp"
-            },
-            "title": "Takaichi makes diplomatic debut with ASEAN maritime security and AI pledge",
-            "url": "https://www.japantimes.co.jp/news/2025/10/27/japan/politics/sanae-takaichi-asean-summit/",
-            "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2025/10/26/501854.jpg?v=3.1",
-            "publishedAt": "2025-10-26T11:09:11Z"
         }
     ]
 }
