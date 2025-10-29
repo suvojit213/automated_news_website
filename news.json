@@ -1,6 +1,216 @@
 {
-    "lastUpdatedAt": "2025-10-29T11:14:11.246740Z",
+    "lastUpdatedAt": "2025-10-29T12:34:00.676203Z",
     "articles": [
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "1,000 jobs in India as part of global layoff",
+            "url": "https://economictimes.indiatimes.com/tech/technology/amazon-may-cut-800-1000-jobs-in-india-as-part-of-global-layoff/articleshow/124880748.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1697652,resizemode-75,msid-124880748/tech/technology/amazon-may-cut-800-1000-jobs-in-india-as-part-of-global-layoff.jpg",
+            "publishedAt": "2025-10-29T00:30:00Z"
+        },
+        {
+            "source": {
+                "id": "8e6a3c91c14a7267c52e13a72ed4cdd6",
+                "name": "CBC.ca",
+                "url": "https://www.cbc.ca",
+                "country": "ca"
+            },
+            "title": "CRA looking at AI, training to help call centre staff provide accurate answers",
+            "url": "https://www.cbc.ca/news/politics/cra-ai-call-centre-issues-9.6957631",
+            "urlToImage": "https://i.cbc.ca/ais/777e01f5-f61c-447e-a775-a56ba7b9e7a1,1760643184584/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C431%2C4622%2C2599%29%3BResize%3D620",
+            "publishedAt": "2025-10-29T00:00:04Z"
+        },
+        {
+            "source": {
+                "id": "2ff4b6327735b249ca9fe9bb8f044251",
+                "name": "The Hitavada",
+                "url": "https://www.thehitavada.com",
+                "country": "in"
+            },
+            "title": "NMC leverages AI to enhance property tax database, boost revenues",
+            "url": "https://www.thehitavada.com//Encyc/2025/10/29/nmc-leverages-ai-to-enhance-property-tax-database-boost-revenues.html",
+            "urlToImage": "https://www.thehitavada.com/Encyc/2025/10/29/NMC-leverages-AI-to-enhance_202510291220261306_H@@IGHT_180_W@@IDTH_180.jpg",
+            "publishedAt": "2025-10-29T00:00:00Z"
+        },
+        {
+            "source": {
+                "id": "2ff4b6327735b249ca9fe9bb8f044251",
+                "name": "The Hitavada",
+                "url": "https://www.thehitavada.com",
+                "country": "in"
+            },
+            "title": "Amazon to cut 14,000 corporate jobs as spending on AI accelerates",
+            "url": "https://www.thehitavada.com/Encyc/2025/10/29/amazon-to-cut-14000-corporate-jobs-as-spending-on-ai-accelerates.html",
+            "urlToImage": "https://www.thehitavada.com/Encyc/2025/10/29/Amazon-to-cut-14000-corporate_202510291206555908_H@@IGHT_576_W@@IDTH_1024.jpg",
+            "publishedAt": "2025-10-29T00:00:00Z"
+        },
+        {
+            "source": {
+                "id": "f6aff458be2c33b80c8600fb696f68fb",
+                "name": "Caixin",
+                "url": "https://www.caixinglobal.com",
+                "country": "cn"
+            },
+            "title": "China Amends Cybersecurity Law to Add First",
+            "url": "https://www.caixinglobal.com/2025-10-29/china-amends-cybersecurity-law-to-add-first-ever-ai-clause-102376988.html",
+            "urlToImage": "https://img.caixin.com/2025-10-29/176170411690037_560_373.jpg",
+            "publishedAt": "2025-10-29T00:00:00Z"
+        },
+        {
+            "source": {
+                "id": "2ff4b6327735b249ca9fe9bb8f044251",
+                "name": "The Hitavada",
+                "url": "https://www.thehitavada.com",
+                "country": "in"
+            },
+            "title": "NMC leverages AI to enhance property tax database, boost revenues",
+            "url": "https://www.thehitavada.com/Encyc/2025/10/29/nmc-leverages-ai-to-enhance-property-tax-database-boost-revenues.html",
+            "urlToImage": "https://www.thehitavada.com/Encyc/2025/10/29/NMC-leverages-AI-to-enhance_202510291220261306_H@@IGHT_180_W@@IDTH_180.jpg",
+            "publishedAt": "2025-10-29T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "siliconangle"
+            },
+            "title": "Fireworks AI gets $254M in funding to help enterprises with AI inference workloads",
+            "url": "https://siliconangle.com/2025/10/28/fireworks-ai-gets-254m-funding-help-enterprises-ai-inference-workloads/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/10/Screenshot-from-2025-10-29-07-26-42.png",
+            "publishedAt": "2025-10-29 00:27:07"
+        },
+        {
+            "source": {
+                "name": "siliconangle"
+            },
+            "title": "Fireworks AI raises $250M at $4B valuation to help enterprises with AI inference workloads",
+            "url": "https://siliconangle.com/2025/10/28/fireworks-ai-gets-250m-funding-help-enterprises-ai-inference-workloads/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/10/Screenshot-from-2025-10-29-07-26-42.png",
+            "publishedAt": "2025-10-29 00:27:07"
+        },
+        {
+            "source": {
+                "name": "siliconangle"
+            },
+            "title": "Nvidia invests $1B in Nokia as part of new wireless networking partnership",
+            "url": "https://siliconangle.com/2025/10/28/nvidia-invests-1b-nokia-part-new-wireless-networking-partnership/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/10/Nokia.png",
+            "publishedAt": "2025-10-29 00:23:06"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "How to record a phone call on your iPhone (and where and when it's legal to do so)",
+            "url": "https://www.zdnet.com/article/how-to-record-a-phone-call-on-your-iphone-and-where-and-when-its-legal-to-do-so/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/64146785b2528f38b60a0f26275a7b051d39a666/2025/09/30/937f7059-ba0a-49a7-b2dc-61f378872d21/dsc02905.jpg?auto=webp&width=1280",
+            "publishedAt": "2025-10-29 00:18:00"
+        },
+        {
+            "source": {
+                "name": "sentinelsource"
+            },
+            "title": "STRADVISION Joins SOAFEE Special Interest Group to Drive Software-Defined Vehicle Innovation",
+            "url": "https://www.keenesentinel.com/online_features/press_releases/stradvision-joins-soafee-special-interest-group-to-drive-software-defined-vehicle-innovation/article_7f73a7f2-96ab-5454-b4ec-0523243050f6.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/keenesentinel.com/content/tncms/assets/v3/editorial/b/3f/b3f3ba0f-04b7-5143-89f1-0090d8d25a01/6901b7951132a.image.jpg?resize=300%2C169",
+            "publishedAt": "2025-10-29 00:00:00"
+        },
+        {
+            "source": {
+                "name": "businessworld"
+            },
+            "title": "Great Ideas Start Here: How Apple’s Mac Push Captivates India’s Creators",
+            "url": "https://www.businessworld.in/article/great-ideas-start-here-how-apple-s-mac-push-captivates-india-s-creators-577469",
+            "urlToImage": "https://static.businessworld.in/IMG_0539_20251029150009_original_image_14.webp",
+            "publishedAt": "2025-10-29 00:00:00"
+        },
+        {
+            "source": {
+                "name": "financialcontent"
+            },
+            "title": "A Once-in-a-Decade Investment Opportunity: 1 Artificial Intelligence (AI) Semiconductor Stock to Buy Hand Over Fist and Hold for Years (Hint: It's Not Nvidia)",
+            "url": "https://www.fool.com/investing/2025/10/29/a-once-in-a-decade-investment-opportunity-1-artifi/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/836767/surprised-person-looking-at-cellphone-outside.jpg",
+            "publishedAt": "2025-10-29 00:00:00"
+        },
+        {
+            "source": {
+                "name": "berkshireeagle"
+            },
+            "title": "STRADVISION Joins SOAFEE Special Interest Group to Drive Software-Defined Vehicle Innovation",
+            "url": "https://www.berkshireeagle.com/online_features/press_releases/stradvision-joins-soafee-special-interest-group-to-drive-software-defined-vehicle-innovation/article_1b848b1c-b7cb-5099-981f-76a49502ed17.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/berkshireeagle.com/content/tncms/assets/v3/editorial/e/c4/ec4b6a2d-74e3-5bee-be5a-1e746e4192fc/6901b69a2fea5.image.jpg?resize=888%2C500",
+            "publishedAt": "2025-10-29 00:00:00"
+        },
+        {
+            "source": {
+                "name": "thewesterlysun"
+            },
+            "title": "STRADVISION Joins SOAFEE Special Interest Group to Drive Software-Defined Vehicle Innovation",
+            "url": "https://www.thewesterlysun.com/online_features/press_releases/stradvision-joins-soafee-special-interest-group-to-drive-software-defined-vehicle-innovation/article_101da8ef-ad31-571b-8867-297f70542944.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/thewesterlysun.com/content/tncms/assets/v3/editorial/d/2f/d2f8a01c-f7cc-5926-bbce-19b9f831e7fd/6901b711e0fc8.image.jpg?resize=300%2C169",
+            "publishedAt": "2025-10-29 00:00:00"
+        },
+        {
+            "source": {
+                "name": "rutlandherald"
+            },
+            "title": "STRADVISION Joins SOAFEE Special Interest Group to Drive Software-Defined Vehicle Innovation",
+            "url": "https://www.rutlandherald.com/online_features/press_releases/stradvision-joins-soafee-special-interest-group-to-drive-software-defined-vehicle-innovation/article_3f8f4a3f-fd58-56e0-8da4-926c82df61b3.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/rutlandherald.com/content/tncms/assets/v3/editorial/c/ff/cff58455-ffd8-5745-a26b-45149a59458c/6901b5550eaf1.image.jpg?resize=300%2C169",
+            "publishedAt": "2025-10-29 00:00:00"
+        },
+        {
+            "source": {
+                "id": "6bc94426ae0cbbdb312f14c0f86b4708",
+                "name": "Ubergizmo",
+                "url": "https://www.ubergizmo.com",
+                "country": "us"
+            },
+            "title": "TDK’s Analog Reservoir AI Chip: Low-Power Real-Time Learning at the Edge",
+            "url": "https://www.ubergizmo.com/2025/10/tdk-analog-reservoir-ai-chip/",
+            "urlToImage": "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2025/10/TDK-Analog-Reservoir-AI-system-04.jpg",
+            "publishedAt": "2025-10-28T23:58:49Z"
+        },
+        {
+            "source": {
+                "id": "85e5403407038478a5e7d8d100ff8e8f",
+                "name": "CP24 Toronto",
+                "url": "https://www.cp24.com",
+                "country": "ca"
+            },
+            "title": "CRA looking at AI for training in accurate answers",
+            "url": "https://www.cp24.com/news/canada/2025/10/28/cra-looking-at-ai-training-to-help-call-centre-staff-provide-accurate-answers/",
+            "urlToImage": "https://www.cp24.com/resizer/v2/WRANOQXT4WCGXFUBPZ6NNURZLE.jpg?smart=true&auth=8e777fd1b35844b3a1308bf1d233d33e606e47b210bf4e83e24a53248738f455&width=1200&height=630",
+            "publishedAt": "2025-10-28T23:33:54Z"
+        },
+        {
+            "source": {
+                "id": "1b697445987e8a33f6c82842e17d60d9",
+                "name": "Bnn Bloomberg",
+                "url": "https://www.bnnbloomberg.ca",
+                "country": "ca"
+            },
+            "title": "CRA looking at AI for training in accurate answers",
+            "url": "https://www.bnnbloomberg.ca/business/company-news/2025/10/28/cra-looking-at-ai-training-to-help-call-centre-staff-provide-accurate-answers/",
+            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/WRANOQXT4WCGXFUBPZ6NNURZLE.jpg?smart=true&auth=8e777fd1b35844b3a1308bf1d233d33e606e47b210bf4e83e24a53248738f455&width=1200&height=630",
+            "publishedAt": "2025-10-28T23:33:54Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "SK Hynix Posts Record Earnings on Continued AI-Chip Demand",
+            "url": "https://www.marketscreener.com/news/sk-hynix-posts-record-earnings-on-continued-ai-chip-demand-ce7d5ddddb8df724",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2025-10-28T23:26:13Z"
+        },
         {
             "source": {
                 "id": "1e30d944d63d9090db5a2c2e28a8772f",
@@ -3150,186 +3360,6 @@
             "url": "https://www.devdiscourse.com/article/technology/3676572-microsoft-and-openai-restructure-partnership-paving-way-for-groundbreaking-ai-developments",
             "urlToImage": "https://devdiscourse.blob.core.windows.net/aiimagegallery/07_10_2025_01_23_39_9251733.png",
             "publishedAt": "2025-10-28 16:07:36"
-        },
-        {
-            "source": {
-                "name": "hastingstribune"
-            },
-            "title": "JEX AI strengthens global computing investments, focusing on GPU server infrastructure to ...",
-            "url": "https://www.hastingstribune.com/ap/business/jex-ai-strengthens-global-computing-investments-focusing-on-gpu-server-infrastructure-to/article_911df711-a72f-5685-895b-19d32b6a3635.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/hastingstribune.com/content/tncms/custom/image/7b43d562-eeac-11e4-8a7b-970670abfcb2.jpg?resize=600%2C315",
-            "publishedAt": "2025-10-28 16:05:28"
-        },
-        {
-            "source": {
-                "name": "wired"
-            },
-            "title": "The Oppo Find X9 Pro Has a Crazy-Long Detachable Zoom Lens",
-            "url": "https://www.wired.com/story/oppo-find-x9-pro-detachable-camera/",
-            "urlToImage": "https://media.wired.com/photos/68ffeb3a8fdb4736bd882bac/3:4/w_120,c_limit/Oppo%20Find%20X9%20Pro%201%20SOURCE%20Simon%20Hill.jpg",
-            "publishedAt": "2025-10-28 16:00:00"
-        },
-        {
-            "source": {
-                "name": "postregister"
-            },
-            "title": "AP Technology SummaryBrief at 11:08 a.m. EDT",
-            "url": "https://www.postregister.com/businessreport/business/ap-technology-summarybrief-at-11-08-a-m-edt/article_d2cc0993-6160-5bdc-98fa-b739008d9b70.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
-            "publishedAt": "2025-10-28 15:08:37"
-        },
-        {
-            "source": {
-                "name": "arstechnica"
-            },
-            "title": "Expert panel will determine AGI arrival in new Microsoft-OpenAI agreement",
-            "url": "https://arstechnica.com/information-technology/2025/10/expert-panel-will-determine-agi-arrival-in-new-microsoft-openai-agreement/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/openai_microsoft_3-1152x648.jpg",
-            "publishedAt": "2025-10-28 15:02:30"
-        },
-        {
-            "source": {
-                "name": "pcworld_us"
-            },
-            "title": "The latest Ultraloq Bolt smart lock supports Z-Wave Long Range",
-            "url": "https://www.pcworld.com/article/2953685/the-latest-ultraloq-bolt-smart-lock-supports-z-wave-long-range.html",
-            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/10/Bolt-Z-wave-with-Z-Wave-800.jpg?quality=50&strip=all",
-            "publishedAt": "2025-10-28 15:00:00"
-        },
-        {
-            "source": {
-                "name": "techgenyz"
-            },
-            "title": "Skill India: Free Technology Courses for Young People in October",
-            "url": "https://techgenyz.com/skill-india-free-tech-courses-for-youth-in-october/",
-            "urlToImage": "https://techgenyz.com/wp-content/uploads/2024/08/sreyashi-bhattacharya.jpg",
-            "publishedAt": "2025-10-28 15:00:00"
-        },
-        {
-            "source": {
-                "name": "astrobiology"
-            },
-            "title": "A Computer Vision Framework For Estimating Surface Habitability From Mars Using Convolutional Analysis",
-            "url": "https://astrobiology.com/2025/10/a-computer-vision-framework-for-estimating-surface-habitability-from-mars-using-convolutional-analysis.html",
-            "urlToImage": "https://astrobiology.com/wp-content/uploads/2025/10/A-Computer-Vision-Framework.png",
-            "publishedAt": "2025-10-28 14:57:00"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Improving Deep Learning with Lorentzian Geometry: Results from LHIER Experiments",
-            "url": "https://hackernoon.com/improving-deep-learning-with-lorentzian-geometry-results-from-lhier-experiments",
-            "urlToImage": "https://hackernoon.imgix.net/images/a-results-table-table-1-showing-the-lhier-model-outperforming-the-previous-state-of-the-art-hier-across-multiple-datasets-ek3ermkcn4kieku2olpttyqx.png",
-            "publishedAt": "2025-10-28 14:52:33"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "The Geometric Revolution That's Making Computer Vision More Efficient",
-            "url": "https://hackernoon.com/the-geometric-revolution-thats-making-computer-vision-more-efficient",
-            "urlToImage": "https://hackernoon.imgix.net/images/a-3-d-visualization-of-a-hyperbolic-manifold-pelg78xwtcc4m8oxkvdz2jmc.png",
-            "publishedAt": "2025-10-28 14:52:20"
-        },
-        {
-            "source": {
-                "name": "postregister"
-            },
-            "title": "Metirionic Enables Precision Bluetooth Channel Sounding with Synaptics’ industry-leading VerosTM ...",
-            "url": "https://www.postregister.com/businessreport/technology/metirionic-enables-precision-bluetooth-channel-sounding-with-synaptics-industry-leading-veros/article_e96382a0-7e0f-5bed-a8fd-c25f6dd68833.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
-            "publishedAt": "2025-10-28 14:50:35"
-        },
-        {
-            "source": {
-                "name": "foxnews"
-            },
-            "title": "How to use passkeys to keep your computer safe",
-            "url": "https://www.foxnews.com/tech/how-use-passkeys-keep-your-computer-safe",
-            "urlToImage": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/931/523/1-this-feature-can-save-your-pc-from-getting-hacked-how-to-set-it-up-intro.jpg?tl=1&ve=1",
-            "publishedAt": "2025-10-28 14:48:36"
-        },
-        {
-            "source": {
-                "name": "livemint"
-            },
-            "title": "‘Are you Narayana Murthy?’ Bengaluru CEO's 60-80 hours per week post for full time, intern jobs sparks debate",
-            "url": "https://www.livemint.com/news/trends/bengaluru-ceo-umesh-kumar-runable-60-80-hours-per-week-post-for-full-time-intern-job-debate-are-you-narayana-murthy-11761649955273.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2025/10/28/1600x900/g72cd1b4a7a41a2304e5b41977c9a4f45cac31caea6d53b6f4_1761656996450_1761656996617.jpg",
-            "publishedAt": "2025-10-28 13:14:40"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "This new Gemini trick takes your presentation ideas and instantly brings them to life - here's how",
-            "url": "https://www.zdnet.com/article/this-new-gemini-trick-takes-your-presentation-ideas-and-instantly-brings-them-to-life-heres-how/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/39836e06eb65ab38091fca07db0a388f1fde14cf/2025/10/28/94c91fd2-2b18-4319-9159-d5775f630d14/google-gemini-can-generate-slides-and-presentations-for-you-now-heres-how.jpg?auto=webp&width=1280",
-            "publishedAt": "2025-10-28 13:13:00"
-        },
-        {
-            "source": {
-                "name": "expresscomputer"
-            },
-            "title": "The CX Dilemma: Redefining CX in the Age of AI",
-            "url": "https://www.expresscomputer.in/guest-blogs/the-cx-dilemma-redefining-cx-in-the-age-of-ai/128956/",
-            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2025/10/28184007/Gaurav-Anand-Tata-Communications.jpg",
-            "publishedAt": "2025-10-28 13:10:32"
-        },
-        {
-            "source": {
-                "name": "en_prnasisa"
-            },
-            "title": "Supermicro, Intel and Micron Collaborate on Record-Breaking Results for the STAC-M3TM Quantitative Trading Benchmark",
-            "url": "https://en.prnasia.com/story/509059-0.shtml",
-            "urlToImage": "https://mma.prnasia.com/media2/2806532/Supermicro_Petascale_X14.jpg?p=medium600",
-            "publishedAt": "2025-10-28 13:05:00"
-        },
-        {
-            "source": {
-                "name": "en_prnasisa"
-            },
-            "title": "Clarifai and Vultr Showcase Record-Breaking AI Inference Performance on GPUs at NVIDIA GTC AI Conference",
-            "url": "https://en.prnasia.com/story/509052-0.shtml",
-            "urlToImage": "https://mma.prnasia.com/media2/837665/Clarifai_Logo_FC_Logo.jpg?p=medium600",
-            "publishedAt": "2025-10-28 13:02:00"
-        },
-        {
-            "source": {
-                "name": "siliconangle"
-            },
-            "title": "Redpanda’s new agentic data plane supports secure, governed deployments of AI agents",
-            "url": "https://siliconangle.com/2025/10/28/redpandas-new-agentic-data-plane-supports-secure-governed-deployments-ai-agents/",
-            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/10/Screenshot-from-2025-10-27-07-03-45.png",
-            "publishedAt": "2025-10-28 13:00:07"
-        },
-        {
-            "source": {
-                "name": "zephyrnet"
-            },
-            "title": "Quantum Machine Learning Classifies Rydberg Atom Phases with 514 Features from 500 Measurements",
-            "url": "https://zephyrnet.com/quantum-machine-learning-classifies-rydberg-atom-phases-with-514-features-from-500-measurements/",
-            "urlToImage": "https://zephyrnet.com/wp-content/uploads/2025/04/zephyrnet-default-img-3-1.jpg-1.jpg",
-            "publishedAt": "2025-10-28 11:11:00"
-        },
-        {
-            "source": {
-                "name": "newsbytesapp"
-            },
-            "title": "This Chinese AI chip start-up plans to rival NVIDIA",
-            "url": "https://www.newsbytesapp.com/news/business/ai-chip-start-up-metax-can-now-list-on-star-market/story",
-            "urlToImage": "https://i.cdn.newsbytesapp.com/images/l86520251028161246.jpeg",
-            "publishedAt": "2025-10-28 11:08:45"
-        },
-        {
-            "source": {
-                "name": "thehindubusinessline"
-            },
-            "title": "Kerala unveils draft Vision 2031 for IT Sector; targets $50 billion growth, 5 lakh high-value jobs",
-            "url": "https://www.thehindubusinessline.com/info-tech/kerala-unveils-draft-vision-2031-for-it-sector-targets-50-billion-growth-5-lakh-high-value-jobs/article70212020.ece",
-            "urlToImage": "https://bl-i.thgim.com/public/incoming/36etgq/article70212015.ece/alternates/LANDSCAPE_1200/7.JPG",
-            "publishedAt": "2025-10-28 11:03:11"
         }
     ]
 }
