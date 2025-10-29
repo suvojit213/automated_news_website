@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2025-10-29T19:12:21.646843Z",
+    "lastUpdatedAt": "2025-10-29T20:18:03.627300Z",
     "articles": [
+        {
+            "source": {
+                "id": "dcb757ba5480d7edec9ca152d58b7d3d",
+                "name": "Swissinfo (EN)",
+                "url": "https://www.swissinfo.ch",
+                "country": "ch"
+            },
+            "title": "Switzerland aspires to build ‘human’ artificial intelligence",
+            "url": "https://www.swissinfo.ch/eng/swiss-ai/switzerland-aspires-to-build-human-ai/90236783",
+            "urlToImage": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2025/10/596367150_highres.jpg?ver=4fab54cf&fit=1200,800",
+            "publishedAt": "2025-10-29T08:00:00Z"
+        },
+        {
+            "source": {
+                "id": "7ba4ac19a3c25ba844bbd220fe4c860a",
+                "name": "THE WEEK",
+                "url": "https://www.theweek.in",
+                "country": "in"
+            },
+            "title": "World Stroke Day: How AI in healthcare is revolutionising stroke diagnosis and saving lives",
+            "url": "https://www.theweek.in/news/health/2025/10/29/world-stroke-day-how-ai-in-healthcare-is-revolutionising-stroke-diagnosis-and-saving-lives.html",
+            "urlToImage": "https://www.theweek.in/content/dam/week/week/news/health/images/2025/6/12/Brain Tumour.jpg",
+            "publishedAt": "2025-10-29T07:57:52Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "S. Korea, Taiwan stocks rise as AI drives tech surge ahead of Fed decision",
+            "url": "https://www.marketscreener.com/news/s-korea-taiwan-stocks-rise-as-ai-drives-tech-surge-ahead-of-fed-decision-ce7d5dddde8bf226",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2025-10-29T07:57:26Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "Global AI Show Announces Milestone Edition: AI:2031 - Accelerating Intelligent Futures",
+            "url": "https://techbullion.com/global-ai-show-announces-milestone-edition-ai2031-accelerating-intelligent-futures/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/10/AI-2-1000x576.png",
+            "publishedAt": "2025-10-29T07:48:18Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Eli Lilly and Nvidia team up to build an AI supercomputer dedicated to drug discovery",
+            "url": "https://www.marketscreener.com/news/eli-lilly-and-nvidia-team-up-to-build-an-ai-supercomputer-dedicated-to-drug-discovery-ce7d5dddde89f325",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2018-05-11T121458Z_1_LYNXMPEE4A0VX_RTROPTP_3_NVIDIA-RESULTS.JPG",
+            "publishedAt": "2025-10-29T07:40:00Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "Hindustan Copper share price surges 4% on sustained strength in metal price, up over 50% in less than two months",
+            "url": "https://www.livemint.com/market/stock-market-news/hindustan-copper-share-price-surges-4-on-sustained-strength-in-metal-price-up-over-50-in-less-than-two-months-11761719234060.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2025/10/29/1600x900/im-42395046_1742041121067_1761719231307.jpg",
+            "publishedAt": "2025-10-29T07:26:17Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "RevoAI Launches Bank 5.0 at GITEX Global Dubai 2025: AI-Blockchain Synergy Power the Next Banking Revolution",
+            "url": "https://www.manilatimes.net/2025/10/29/tmt-newswire/plentisoft/revoai-launches-bank-50-at-gitex-global-dubai-2025-ai-blockchain-synergy-power-the-next-banking-revolution/2210843",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/10/29/803037.jpg",
+            "publishedAt": "2025-10-29T07:15:59Z"
+        },
         {
             "source": {
                 "id": "69a24b80e5bce5a07f808f5ea84c434b",
@@ -816,6 +900,96 @@
             "url": "https://www.globenewswire.com/news-release/2025/10/29/3176554/24323/en/Avoiding-cybersecurity-nightmares-CompTIA-to-offer-prevention-tips-at-upcoming-Global-Knowledge-webinar.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/5e95d663-c381-42dc-a4bb-6dbae64b0652",
             "publishedAt": "2025-10-29T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "toi"
+            },
+            "title": "Humanoid robots are coming: Foxconn’s Houston factory is set to lead the next AI manufacturing revolution",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/humanoid-robots-are-coming-foxconns-houston-factory-is-set-to-lead-the-next-ai-manufacturing-revolution/articleshow/124893856.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-124894001,imgsize-102706,width-400,resizemode-4/humanoid-robots-are-coming-foxconns-houston-factory-is-set-to-lead-the-next-ai-manufacturing-revolution.jpg",
+            "publishedAt": "2025-10-29 08:05:03"
+        },
+        {
+            "source": {
+                "name": "thehansindia"
+            },
+            "title": "Amazon to Cut About 14,000 Corporate Jobs as AI Drives Big Shift",
+            "url": "https://www.thehansindia.com/technology/tech-news/amazon-to-cut-about-14000-corporate-jobs-as-ai-drives-big-shift-1018646",
+            "urlToImage": "https://assets.thehansindia.com/h-upload/2025/10/29/1596939-amazon.webp",
+            "publishedAt": "2025-10-29 08:02:53"
+        },
+        {
+            "source": {
+                "name": "en_prnasisa"
+            },
+            "title": "Durabook Introduces Next-Generation R10 Copilot+ PC Rugged Tablet",
+            "url": "https://en.prnasia.com/story/509185-0.shtml",
+            "urlToImage": "https://mma.prnasia.com/media2/2805799/image.jpg?p=medium600",
+            "publishedAt": "2025-10-29 08:00:00"
+        },
+        {
+            "source": {
+                "name": "en_prnasisa"
+            },
+            "title": "ASUS Launches XA NB3I-E12 AI Server Built with NVIDIA HGX B300",
+            "url": "https://en.prnasia.com/story/509184-0.shtml",
+            "urlToImage": "https://mma.prnasia.com/media2/2806797/ASUS_HGX_B300_Server.jpg?p=medium600",
+            "publishedAt": "2025-10-29 08:00:00"
+        },
+        {
+            "source": {
+                "name": "en_prnasisa"
+            },
+            "title": "Mobileye Expands India Footprint, Collaborates with VVDN Technologies to Localize Next-Generation ADAS Tech for India and Beyond",
+            "url": "https://en.prnasia.com/story/509182-0.shtml",
+            "urlToImage": "https://mma.prnasia.com/media2/2808050/VVDN_and_Mobileye_MOU.jpg?p=medium600",
+            "publishedAt": "2025-10-29 07:57:00"
+        },
+        {
+            "source": {
+                "name": "techgenyz"
+            },
+            "title": "DDR4 RAM Shines Strong in 2025: Still a Smart Performer Beside DDR5",
+            "url": "https://techgenyz.com/ddr4-ram-shines-bright-matching-ddr5-in-value/",
+            "urlToImage": "https://techgenyz.com/wp-content/uploads/2024/11/samden-lamadukpa.jpg",
+            "publishedAt": "2025-10-29 07:40:44"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "From Data Fragmentation to Billion-Dollar Insights: The Vision of Manish Ravindra Sharath",
+            "url": "https://hackernoon.com/from-data-fragmentation-to-billion-dollar-insights-the-vision-of-manish-ravindra-sharath",
+            "urlToImage": "https://hackernoon.imgix.net/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-9o03bni.jpeg",
+            "publishedAt": "2025-10-29 07:40:25"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "$1 Billion Bet: NVIDIA Partners with Nokia to Shape the Future of 6G Networks",
+            "url": "https://www.analyticsinsight.net/news/1-billion-bet-nvidia-partners-with-nokia-to-shape-the-future-of-6g-networks",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-10-29%2Fn7v9w9xq%2F1-Billion-Bet-NVIDIA-Partners-with-Nokia-to-Shape-the-Future-of-6G-Networks.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-10-29 07:40:17"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "AI Sycophancy And Therapeutic Weaknesses Persist In ChatGPT Despite OpenAI’s Latest Attempts",
+            "url": "https://www.forbes.com/sites/lanceeliot/2025/10/29/ai-sycophancy-and-therapeutic-weaknesses-persist-in-chatgpt-despite-openais-latest-attempts/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69015827db1809b84b294cf3/0x0.jpg?width=960",
+            "publishedAt": "2025-10-29 07:30:00"
+        },
+        {
+            "source": {
+                "name": "computerweekly"
+            },
+            "title": "Nvidia, Cisco look to deepen AI innovation across 6G, telecoms",
+            "url": "https://www.computerweekly.com/news/366633381/Nvidia-Cisco-look-to-deepen-AI-innovation-across-6G-telecoms",
+            "urlToImage": "https://www.computerweekly.com/visuals/LeMagIT/hero_article/server_infrastructure_AdobeStock_271134500_smaller_searchsitetablet_520X173.jpg",
+            "publishedAt": "2025-10-29 07:30:00"
         },
         {
             "source": {
@@ -3237,210 +3411,6 @@
             "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/precision-and-prevention-how-artificial-intelligence-ai-supports-breast-health/articleshow/124868954.cms",
             "urlToImage": "https://static.toiimg.com/thumb/msid-124868981,width-1070,height-580,imgsize-1192274,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
             "publishedAt": "2025-10-28T08:40:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "EaseMyTrip cofounder Prashant Pitti’s NBFC Optimo Capital raises Rs 150 crore in equity funding",
-            "url": "https://economictimes.indiatimes.com/tech/funding/easemytrip-cofounder-prashant-pittis-nbfc-optimo-capital-raises-rs-150-crore-in-equity-funding/articleshow/124868790.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-38406,resizemode-75,msid-124868790/tech/funding/easemytrip-cofounder-prashant-pittis-nbfc-optimo-capital-raises-rs-150-crore-in-equity-funding.jpg",
-            "publishedAt": "2025-10-28T08:29:58Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "ICAC's first-ever AI and technologies training in anti-corruption brings together 22 ACAs to leverage innovations in graft fighting",
-            "url": "https://www.manilatimes.net/2025/10/28/tmt-newswire/pr-newswire/icacs-first-ever-ai-and-technologies-training-in-anti-corruption-brings-together-22-acas-to-leverage-innovations-in-graft-fighting/2209748",
-            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-            "publishedAt": "2025-10-28T08:20:02Z"
-        },
-        {
-            "source": {
-                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-                "name": "Benzinga",
-                "url": "https://www.benzinga.com",
-                "country": "us"
-            },
-            "title": "Nvidia Supplier Foxconn Goes All-In On AI With $1.37 Billion Supercomputing Investment",
-            "url": "https://www.benzinga.com/markets/tech/25/10/48454472/nvidia-supplier-foxconn-goes-all-in-on-ai-with-1-37-billion-supercomputing-investment",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/10/28/Stuttgart--Germany---10-21-2022-Smartpho.jpeg?width=1200&height=800&fit=crop",
-            "publishedAt": "2025-10-28T08:15:47Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "Albania’s AI minister Diella gets 'pregnant', will give birth to 83 digital babies",
-            "url": "https://www.thenews.com.pk/latest/1354135-albanias-ai-minister-gets-pregnant-to-give-birth-to-83-digital-babies",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/updates/2025-10-28/1354135_011538_updates.jpg",
-            "publishedAt": "2025-10-28T08:15:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Amazon to cut 30,000 office jobs",
-            "url": "https://www.manilatimes.net/2025/10/28/business/foreign-business/amazon-to-cut-30000-office-jobs/2209744",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/10/28/800996.jpg",
-            "publishedAt": "2025-10-28T08:10:00Z"
-        },
-        {
-            "source": {
-                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
-                "name": "CNBC TV18",
-                "url": "https://www.cnbctv18.com",
-                "country": "in"
-            },
-            "title": "Confidence amid chaos? 83% of Indian CEOs bullish on growth despite global headwinds",
-            "url": "https://www.cnbctv18.com/business/companies/confidence-amid-chaos-83-of-indian-ceos-bullish-on-growth-despite-global-headwinds-19728855.htm",
-            "urlToImage": "https://images.cnbctv18.com/uploads/2025/10/pp-13-2025-10-f96c38c3ae641da62a85e6c405558cf4.jpg?im=FitAndFill,width=500,height=300",
-            "publishedAt": "2025-10-28T08:04:45Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Asean AI Safety Network regional HQ to be established in KL by 2026",
-            "url": "https://www.thestar.com.my/news/nation/2025/10/28/asean-ai-safety-network-regional-hq-to-be-established-in-kl-by-2026",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/28/3593132.JPG",
-            "publishedAt": "2025-10-28T07:56:00Z"
-        },
-        {
-            "source": {
-                "id": "90a6e6fbc82cfa821ac49fdb5c404789",
-                "name": "NewsX",
-                "url": "https://www.newsx.com",
-                "country": "in"
-            },
-            "title": "Is Your Gmail Account Safe? 183 Million Passwords Leaked In Massive Data Breach",
-            "url": "https://www.newsx.com/viral-news/is-your-gmail-account-safe-183-million-passwords-leaked-in-massive-data-breach-101251/",
-            "urlToImage": "https://www.newsx.com/wp-content/uploads/2025/10/gold-16_1.jpg",
-            "publishedAt": "2025-10-28T07:43:36Z"
-        },
-        {
-            "source": {
-                "id": "67b0de29b9d7ed93c2918ff750cf9405",
-                "name": "Euractiv",
-                "url": "https://www.euractiv.com",
-                "country": "be"
-            },
-            "title": "FIREPOWER: Over 20 countries back NATO PURL initiative",
-            "url": "https://www.euractiv.com/news/firepower-over-20-countries-back-nato-purl-initiative/",
-            "urlToImage": "https://www.euractiv.com/content/uploads/sites/2/2025/09/Pro-newsletter-image-for-website-3.png",
-            "publishedAt": "2025-10-28T07:36:38Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "Elon Musk's xAI Launches AI-Powered 'Grokipedia' to Rival Left-Wing Wikipedia",
-            "url": "https://www.breitbart.com/politics/2025/10/28/elon-musks-xai-launches-ai-powered-grokipedia-to-rival-left-wing-wikipedia/",
-            "urlToImage": "https://media.breitbart.com/media/2025/10/Elon-Musk-laughing-at-the-left-640x335.jpg",
-            "publishedAt": "2025-10-28T07:33:28Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "Elon Musk's xAI Launches AI-Powered 'Grokipedia' to Rival Left-Wing Wikipedia",
-            "url": "https://www.breitbart.com/tech/2025/10/28/elon-musks-xai-launches-ai-powered-grokipedia-to-rival-left-wing-wikipedia/",
-            "urlToImage": "https://media.breitbart.com/media/2025/10/Elon-Musk-laughing-at-the-left-640x335.jpg",
-            "publishedAt": "2025-10-28T07:33:28Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "Amazon to cut 30,000 office jobs: media reports",
-            "url": "https://www.thenews.com.pk/latest/1354118-amazon-to-cut-30000-office-jobs-media-reports",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/updates/2025-10-28/1354118_112607_updates.jpg",
-            "publishedAt": "2025-10-28T07:28:00Z"
-        },
-        {
-            "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
-                "country": "in"
-            },
-            "title": "How To Invest In US Stocks: Key Reasons, Stepwise Guide And All You Need To Know",
-            "url": "https://www.ndtvprofit.com/markets/how-to-invest-in-us-stocks-key-reasons-stepwise-guide-and-all-you-need-to-know",
-            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-10-28%2Fl9pj154z%2F1280px-WallStreetSign5899884048.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
-            "publishedAt": "2025-10-28T07:26:38Z"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            },
-            "title": "Cathie Wood flags market correction risk but rejects AI bubble fears",
-            "url": "https://www.cnbc.com/2025/10/28/cathie-wood-flags-market-correction-risk-but-rejects-ai-bubble-fears.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108214885-1761069562673-gettyimages-2242048911-FEDERAL_RESERVE_INNOVATION.jpeg?v=1761575359&w=1920&h=1080",
-            "publishedAt": "2025-10-28T07:23:33Z"
-        },
-        {
-            "source": {
-                "id": "f4d035ae0463df22c36ae97972a33ba6",
-                "name": "PR Newswire UK",
-                "url": "https://www.prnewswire.co.uk",
-                "country": "gb"
-            },
-            "title": "AI Boosts Productivity by the Equivalent of One Workday Per Week, New Report Finds",
-            "url": "https://www.prnewswire.co.uk/news-releases/ai-boosts-productivity-by-the-equivalent-of-one-workday-per-week-new-report-finds-302595653.html",
-            "urlToImage": "https://mma.prnewswire.com/media/1480402/Protiviti_Logo.jpg?p=facebook",
-            "publishedAt": "2025-10-28T07:00:00Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "SK Group chairman says rapid growth for AI data centres creating bottlenecks",
-            "url": "https://www.reuters.com/world/china/sk-group-chairman-says-rapid-growth-ai-data-centres-creating-bottlenecks-2025-10-28/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/FLYHSU3KWNKFZHUANGN6HQ4US4.jpg?auth=a41a44e1924d84c60c2242918cb3ddc015a856916a37bea249a7a3457e6676f2&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-10-28T07:00:00Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Seoul's High-Stakes Diplomacy at APEC Amid US-China Trade Drama",
-            "url": "https://www.devdiscourse.com/article/politics/3675388-seouls-high-stakes-diplomacy-at-apec-amid-us-china-trade-drama",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_16_57_55_697089.jpg?width=920&format=jpeg",
-            "publishedAt": "2025-10-28T06:57:08Z"
         }
     ]
 }
