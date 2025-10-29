@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2025-10-29T15:17:48.554685Z",
+    "lastUpdatedAt": "2025-10-29T16:20:59.859598Z",
     "articles": [
+        {
+            "source": {
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
+                "country": "in"
+            },
+            "title": "Nvidia's stock market value nears record $5 trillion",
+            "url": "https://www.thehindu.com/sci-tech/technology/nvidias-stock-market-value-nears-record-5-trillion/article70215280.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/nesrem/article70215281.ece/alternates/LANDSCAPE_1200/2025-10-10T052404Z_1295640031_RC2KEGAY4TGG_RTRMADP_3_NVIDIA-CHINA-CUSTOMS.JPG",
+            "publishedAt": "2025-10-29T04:10:55Z"
+        },
+        {
+            "source": {
+                "id": "1290fbc1799ff6b270a6f8b7e9761c18",
+                "name": "Rappler",
+                "url": "https://www.rappler.com",
+                "country": "ph"
+            },
+            "title": "Amazon to cut about 14,000 corporate jobs in AI push",
+            "url": "https://www.rappler.com/technology/amazon-cuts-corporate-jobs-ai-push-october-28-2025/",
+            "urlToImage": "https://www.rappler.com/tachyon/2025/10/amazon-signage-october-28-2025-reuters.jpg",
+            "publishedAt": "2025-10-29T04:05:02Z"
+        },
+        {
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            },
+            "title": "Annoyed Emma Thompson blasts AI for meddling in her writing process: Just f**k off",
+            "url": "https://www.indiatoday.in/movies/hollywood/story/annoyed-emma-thompson-blasts-ai-for-meddling-in-her-writing-process-just-fk-off-2809978-2025-10-29",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202510/emma-thompson-294007664-16x9_0.jpg?VersionId=OlXDvjQUXUiUKim1ki4gy1sudpKy_L_v",
+            "publishedAt": "2025-10-29T03:56:47Z"
+        },
+        {
+            "source": {
+                "id": "732b46cdef66b68ee2fbc940e79f81de",
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com",
+                "country": "us"
+            },
+            "title": "LG Uplus is latest South Korean telco to confirm cybersecurity incident",
+            "url": "https://techcrunch.com/2025/10/28/lg-uplus-is-latest-south-korean-telco-to-confirm-cybersecurity-incident/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/lg-uplus-breach-2204244148.jpg?resize=1200,756",
+            "publishedAt": "2025-10-29T03:55:08Z"
+        },
+        {
+            "source": {
+                "id": "60c457b35b486691319f105c3a760060",
+                "name": "Malayala Manorama",
+                "url": "https://www.onmanorama.com",
+                "country": "in"
+            },
+            "title": "127 tribal girls live in overcrowded classrooms in Wayanad, SHRC registers case",
+            "url": "https://www.onmanorama.com/news/kerala/2025/10/29/tribal-girl-students-thirunnelly-ashram-school-overcrowding.html",
+            "urlToImage": "https://img.onmanorama.com/content/dam/mm/en/archive/kerala/top-news/images/2025/10/29/makkimala-ashram-school-complex-c.jpg",
+            "publishedAt": "2025-10-29T03:45:47Z"
+        },
+        {
+            "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+            },
+            "title": "‘We are providing a platform that is incredibly accessible to everyone’: Github CPO on how AI-assisted coding is helping build better software",
+            "url": "https://indianexpress.com/article/technology/tech-news-technology/we-are-providing-a-platform-that-is-incredibly-accessible-to-everyone-github-cpo-10333199/",
+            "urlToImage": "https://images.indianexpress.com/2025/10/IE-42.jpg",
+            "publishedAt": "2025-10-29T03:41:09Z"
+        },
+        {
+            "source": {
+                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
+                "name": "CNBC TV18",
+                "url": "https://www.cnbctv18.com",
+                "country": "in"
+            },
+            "title": "Donald Trump expects lower fentanyl tariff, Nvidia talks with Xi Jinping",
+            "url": "https://www.cnbctv18.com/world/donald-trump-expects-lower-fentanyl-tariff-nvidia-talks-with-xi-jinping-19730566.htm",
+            "urlToImage": "https://images.cnbctv18.com/uploads/2019/06/2019-06-25T234044Z_1_LYNXNPEF5O1WS_RTROPTP_4_USA-TRADE-CHINA.jpg?im=FitAndFill,width=500,height=300",
+            "publishedAt": "2025-10-29T03:18:16Z"
+        },
         {
             "source": {
                 "id": "b33a42ef1c098421f66aad47a76d6a3c",
@@ -372,6 +456,60 @@
             "url": "https://www.globenewswire.com/news-release/2025/10/29/3176554/24323/en/Avoiding-cybersecurity-nightmares-CompTIA-to-offer-prevention-tips-at-upcoming-Global-Knowledge-webinar.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/5e95d663-c381-42dc-a4bb-6dbae64b0652",
             "publishedAt": "2025-10-29T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "siliconangle"
+            },
+            "title": "Nvidia GTC DC: The rise of AI factories and a push for US leadership",
+            "url": "https://siliconangle.com/2025/10/29/nvidia-gtc-dc-rise-ai-factories-push-us-leadership/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/10/jensenhuang-nvidiagtcdc2025.png",
+            "publishedAt": "2025-10-29 04:05:45"
+        },
+        {
+            "source": {
+                "name": "venturebeat"
+            },
+            "title": "Agentic AI is all about the context — engineering, that is",
+            "url": "https://venturebeat.com/ai/agentic-ai-is-all-about-the-context-engineering-that-is",
+            "urlToImage": "https://images.ctfassets.net/jdtwqhzvc2n1/3HhYB9aUXlzxC0Q4V716ck/a33201a5ce2da5b486e6a20da9abbb52/AdobeStock_703274424.jpeg?q=30&w=300",
+            "publishedAt": "2025-10-29 04:00:00"
+        },
+        {
+            "source": {
+                "name": "newswise"
+            },
+            "title": "AI in PT: How One Professor Is Leading the Charge",
+            "url": "https://www.newswise.com/articles/ai-in-pt-how-one-professor-is-leading-the-charge/?sc=rsla",
+            "urlToImage": "https://www.newswise.com/legacy/image.php?image=https%3A%2F%2Fnow.tufts.edu%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fmedium_768w_768h%2Fpublic%2Fuploaded-assets%2Fimages%2F2025-10%2Fdigital_patient.jpg%3Fh%3Dad09060b&itok=scdYc5MB",
+            "publishedAt": "2025-10-29 03:33:22"
+        },
+        {
+            "source": {
+                "name": "yourstory"
+            },
+            "title": "Leadership from Groq, Swiggy, Sarvam AI, and Nothing: The speaker lineup for TechSparks 2025 gets bigger and bolder",
+            "url": "https://yourstory.com/2025/10/leadership-from-groq-swiggy-sarvam-ai-and-nothing-",
+            "urlToImage": "https://images.yourstory.com/cs/2/3fb20ae02dc911e9af58c17e6cc3d915/SpeakerCollage-16-1761659670893.jpg",
+            "publishedAt": "2025-10-29 03:32:44"
+        },
+        {
+            "source": {
+                "name": "startupnews"
+            },
+            "title": "OpenAI rivals Elon Musk’s Neuralink with planned brain computer interface — here’s everything you need to know",
+            "url": "https://startupnews.fyi/2025/10/29/openai-rivals-elon-musks-neuralink-with-planned-brain-computer-interface-heres-everything-you-need-to-know/",
+            "urlToImage": "https://startupnews.fyi/wp-content/uploads/2025/10/msLNQTh5u5KMjbochKRhFM-2000-80-1920x1080.jpg",
+            "publishedAt": "2025-10-29 03:27:03"
+        },
+        {
+            "source": {
+                "name": "analyticsindiamag"
+            },
+            "title": "10 Most Powerful AI Chips Dominating the LLM Race",
+            "url": "https://analyticsindiamag.com/ai-trends/10-most-powerful-ai-chips-dominating-the-llm-race/",
+            "urlToImage": "https://analyticsindiamag.com/wp-content/uploads/2025/10/ai-chip.jpg",
+            "publishedAt": "2025-10-29 03:24:56"
         },
         {
             "source": {
@@ -3318,123 +3456,6 @@
             "url": "https://www.griffindailynews.com/news/national/microsoft-holds-27-of-openai-in-revamped-partnership/article_26715d61-fbb9-5089-a535-acf9f1359ddd.html",
             "urlToImage": "https://bloximages.newyork1.vip.townnews.com/griffindailynews.com/content/tncms/assets/v3/editorial/8/ae/8ae90d05-f3a2-57d8-8dc5-6685ad6bb1e5/6901409145c46.image.jpg?resize=400%2C266",
             "publishedAt": "2025-10-28 21:36:59"
-        },
-        {
-            "source": {
-                "name": "ttownmedia"
-            },
-            "title": "Microsoft holds 27% of OpenAI in revamped partnership",
-            "url": "https://www.ttownmedia.com/news/national/microsoft-holds-27-of-openai-in-revamped-partnership/article_57759b65-fd83-54c2-9120-84030d45760c.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/ttownmedia.com/content/tncms/assets/v3/editorial/2/27/2275e41d-97ad-5047-a497-cfe2769234d6/690140a4db948.image.jpg?resize=300%2C200",
-            "publishedAt": "2025-10-28 21:36:59"
-        },
-        {
-            "source": {
-                "name": "therobotreport"
-            },
-            "title": "NVIDIA partners with Uber to deploy AVs starting in 2027",
-            "url": "https://www.therobotreport.com/nvidia-partners-with-uber-to-deploy-avs-starting-in-2027/",
-            "urlToImage": "https://www.therobotreport.com/wp-content/uploads/2025/10/nvidia-hyperion-l4-uber-featured.jpg",
-            "publishedAt": "2025-10-28 21:08:54"
-        },
-        {
-            "source": {
-                "name": "benzinga"
-            },
-            "title": "The Edison Wave Alpha Brainwave Activation Technology Launches as Digital Soundwave Programs Address 2025 Cognitive Performance Demands in Growing Audio Wellness Market",
-            "url": "https://www.benzinga.com/pressreleases/25/10/g48480888/the-edison-wave-alpha-brainwave-activation-technology-launches-as-digital-soundwave-programs-addre",
-            "urlToImage": "https://fixedagency.com/wp-content/uploads/2025/10/The-Edison-Wave-Alpha-Brainwave-Activation-Technology-Launches-as-Digital-Soundwave-Programs-Address-2025-Cognitive-Performance-Demands-in-Growing-Audio-Wellness-Market.jpg",
-            "publishedAt": "2025-10-28 21:07:05"
-        },
-        {
-            "source": {
-                "name": "fstoppers"
-            },
-            "title": "Why Everyone Thinks Your Night Photos Are Fake",
-            "url": "https://fstoppers.com/astrophotography/why-everyone-thinks-your-night-photos-are-fake-710212",
-            "urlToImage": "https://cdn.fstoppers.com/styles/large-16-9/s3/lead/2025/08/img-7659_kenlee_241024_25frames-15sf28iso3200_139sf28iso400_nelson_ghost_town_dark_sky_airplane_in_ground_starry_sky_header-fstoppers.jpg",
-            "publishedAt": "2025-10-28 21:06:01"
-        },
-        {
-            "source": {
-                "name": "breitbart"
-            },
-            "title": "Trump Makes Manufacturing Great Again: Nvidia to Build Supercomputers for DOE with Chips Made in America",
-            "url": "https://www.breitbart.com/tech/2025/10/28/trump-makes-manufacturing-great-again-nvidia-to-build-supercomputers-for-doe-with-chips-made-in-america/",
-            "urlToImage": "https://media.breitbart.com/media/2025/10/President-Donald-Trump-and-Nvidia-boss-Jensen-Huang-640x480.jpg",
-            "publishedAt": "2025-10-28 20:52:17"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Nvidia Joins Forces with Spectro Cloud to Revolutionize AI Deployment",
-            "url": "https://www.webpronews.com/nvidia-joins-forces-with-spectro-cloud-to-revolutionize-ai-deployment/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/article-139-1761684399.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-10-28 20:46:46"
-        },
-        {
-            "source": {
-                "name": "computerworld_in"
-            },
-            "title": "What’s next after agentic AI? Physical AI, Nvidia says",
-            "url": "https://www.computerworld.com/article/4080445/whats-next-after-agentic-ai-physical-ai-nvidia-says.html",
-            "urlToImage": "https://www.computerworld.com/wp-content/uploads/2025/10/4080445-0-84762800-1761684433-shutterstock_2425904837.jpg?quality=50&strip=all",
-            "publishedAt": "2025-10-28 20:46:22"
-        },
-        {
-            "source": {
-                "name": "androidheadlines"
-            },
-            "title": "'Dante' Malware reportedly targeted Chrome users through zero-day exploit",
-            "url": "https://www.androidheadlines.com/2025/10/dante-malware-reportedly-targeted-chrome-users-through-zero-day-exploit.html",
-            "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2022/03/00-Chrome-zero-day-exploit-logo-image-DG-AH-2022-1420x1065.webp",
-            "publishedAt": "2025-10-28 20:40:42"
-        },
-        {
-            "source": {
-                "name": "postregister"
-            },
-            "title": "AP Technology SummaryBrief at 4:39 p.m. EDT",
-            "url": "https://www.postregister.com/businessreport/business/ap-technology-summarybrief-at-4-39-p-m-edt/article_d2cc0993-6160-5bdc-98fa-b739008d9b70.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
-            "publishedAt": "2025-10-28 20:39:59"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "Inner Cosmos Psychiatric Implant Completes Early Feasibility Trial",
-            "url": "https://www.forbes.com/sites/moorinsights/2025/10/28/inner-cosmos-psychiatric-implant-completes-early-feasibility-trial/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69011e966b8827f5c71f36bb/0x0.jpg?width=960",
-            "publishedAt": "2025-10-28 20:38:59"
-        },
-        {
-            "source": {
-                "name": "ucf"
-            },
-            "title": "UCF’s Leland Nordin Wins Air Force Young Investigator Award to Advance Infrared Tech",
-            "url": "https://www.ucf.edu/news/ucfs-leland-nordin-wins-air-force-young-investigator-award-to-advance-infrared-tech/",
-            "urlToImage": "https://www.ucf.edu/wp-content/blogs.dir/20/files/2025/04/nordin-and-pang_3-300x200.jpg",
-            "publishedAt": "2025-10-28 20:19:21"
-        },
-        {
-            "source": {
-                "name": "popsci"
-            },
-            "title": "The best portable power stations for 2026, tested and reviewed",
-            "url": "https://www.popsci.com/reviews/best-portable-power-stations/",
-            "urlToImage": "https://www.popsci.com/wp-content/uploads/2021/10/best-portable-power-stations-header.jpg?quality=85",
-            "publishedAt": "2025-10-28 20:15:02"
-        },
-        {
-            "source": {
-                "name": "slashgear"
-            },
-            "title": "Another Chip Shortage Is Coming, And It Could Seriously Mess With Automakers",
-            "url": "https://www.slashgear.com/2009471/2025-chip-shortage-automaker-impact/",
-            "urlToImage": "https://www.slashgear.com/img/gallery/another-chip-shortage-is-coming-and-it-could-seriously-mess-with-automakers/l-intro-1761641299.jpg",
-            "publishedAt": "2025-10-28 20:15:00"
         }
     ]
 }
