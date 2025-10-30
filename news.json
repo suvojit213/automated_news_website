@@ -1,6 +1,114 @@
 {
-    "lastUpdatedAt": "2025-10-30T09:17:22.673835Z",
+    "lastUpdatedAt": "2025-10-30T10:17:02.230354Z",
     "articles": [
+        {
+            "source": {
+                "id": "109f2b4a20da4fe1c2fd502b03c07243",
+                "name": "BBC News",
+                "url": "https://www.bbc.com",
+                "country": "gb"
+            },
+            "title": "Tech giants are spending big on AI in a bid to dominate the boom",
+            "url": "https://www.bbc.com/news/articles/c5yp2y8rdpro",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b25a/live/76c57950-b511-11f0-995b-49549025ae43.jpg",
+            "publishedAt": "2025-10-29T22:16:43Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Mixed share reaction to megacap earnings burst, Meta droops",
+            "url": "https://www.reuters.com/business/mixed-share-reaction-megacap-earnings-burst-meta-droops-2025-10-29/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/2ZA7AXNRHJO7ZN3HROZV32AZSM.jpg?auth=0557b0677c64adb8964f53d5c2a20e59d696954b93e76256231d4ac6f87adff2&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-10-29T22:16:34Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Mixed share reaction to megacap earnings burst, Meta droops",
+            "url": "https://www.marketscreener.com/news/mixed-share-reaction-to-megacap-earnings-burst-meta-droops-ce7d5dd2d18cf523",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-06/2025-06-02T113640Z_1_LYNXNPEL510IX_RTROPTP_4_META-PLATFORMS-MESSAGING-WHATSAPP.JPG",
+            "publishedAt": "2025-10-29T22:16:13Z"
+        },
+        {
+            "source": {
+                "id": "78038267e47d19c37e8b8fa6b4b06494",
+                "name": "SpaceNews",
+                "url": "https://spacenews.com",
+                "country": "us"
+            },
+            "title": "Space sector’s cybersecurity dilemma: Pay now or pay later",
+            "url": "https://spacenews.com/space-sectors-cybersecurity-dilemma-pay-now-or-pay-later/",
+            "urlToImage": "https://spacenews.com/wp-content/uploads/2025/08/smallsats-in-orbit.jpg",
+            "publishedAt": "2025-10-29T22:07:57Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "assisted content creation will lower the barrier to creativity but raise quality: Adobe’s Govind Balakrishnan",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/ai-assisted-content-creation-will-lower-the-barrier-to-creativity-but-raises-quality-adobes-govind-balakrishnan/articleshow/124922128.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-124922114,width-1070,height-580,imgsize-16728,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-10-29T21:52:00Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Nation-State Hack Strikes U.S. Telecom Giant: A Cyberespionage Alarm",
+            "url": "https://www.devdiscourse.com/article/technology/3677976-nation-state-hack-strikes-us-telecom-giant-a-cyberespionage-alarm",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_33_56_2660097.png?width=920&format=jpeg",
+            "publishedAt": "2025-10-29T21:39:01Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Tech Up on AI Momentum; Alphabet Gains in Late Trading, Microsoft Falls - Tech Roundup",
+            "url": "https://www.marketscreener.com/news/tech-up-on-ai-momentum-alphabet-gains-in-late-trading-microsoft-falls-tech-roundup-ce7d5dd2d18af62c",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2025-10-29T21:35:38Z"
+        },
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "Microsoft takes $3.1 billion hit from OpenAI investment",
+            "url": "https://www.cnbc.com/2025/10/29/microsoft-open-ai-investment-earnings.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108147622-1747681700109-gettyimages-2215434051-AFP_47CH4DB.jpeg?v=1761770857&w=1920&h=1080",
+            "publishedAt": "2025-10-29T21:23:18Z"
+        },
+        {
+            "source": {
+                "id": "79baacd62152cf257ee35e8c0bec19a2",
+                "name": "UPI News",
+                "url": "https://www.upi.com",
+                "country": "us"
+            },
+            "title": "U.S. defense contractor head pleads guilty to selling trade secrets",
+            "url": "https://www.upi.com/Top_News/US/2025/10/29/defense-contractor-worker-pleads-guilty-trade-secrets-russian-broker/3531761772196/",
+            "urlToImage": "https://cdnph.upi.com/sv/ph/og/upi/3531761772196/2025/1/a6c3a3238856f66caf5a7a801cfb63be/v1.5/Ex-US-defense-contractor-head-pleads-guilty-to-selling-trade-secrets.jpg",
+            "publishedAt": "2025-10-29T21:19:03Z"
+        },
         {
             "source": {
                 "id": "6f97df9bf07dbbc5b124859805bffd6f",
@@ -2295,6 +2403,51 @@
         },
         {
             "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Best ASUS Motherboards in 2025",
+            "url": "https://www.analyticsinsight.net/gadgets/best-asus-motherboards-in-2025",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-10-29%2Ffr1m6jom%2FBest-ASUS-Motherboards-in-2025.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-10-29 21:30:00"
+        },
+        {
+            "source": {
+                "name": "futurism"
+            },
+            "title": "Amazon Denies That AWS Just Went Down Again After Mass Layoffs",
+            "url": "https://futurism.com/future-society/amazon-aws-layoffs",
+            "urlToImage": "https://futurism.com/wp-content/uploads/2025/10/amazon-aws-layoffs.jpg?quality=85",
+            "publishedAt": "2025-10-29 21:29:10"
+        },
+        {
+            "source": {
+                "name": "investing_us"
+            },
+            "title": "CoreWeave Rallies on AI Infrastructure Momentum, $30B Backlog",
+            "url": "https://www.investing.com/analysis/coreweave-rallies-on-ai-infrastructure-momentum-30b-backlog-200669329",
+            "urlToImage": "https://i-invdn-com.investing.com/redesign/images/seo/v2/investingcom_analysis_og.jpg",
+            "publishedAt": "2025-10-29 21:28:00"
+        },
+        {
+            "source": {
+                "name": "arstechnica"
+            },
+            "title": "Space station astronauts eager to open “golden treasure box” from Japan",
+            "url": "https://arstechnica.com/space/2025/10/space-station-astronauts-eager-to-open-golden-treasure-box-from-japan/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/htvx1-arrive1-1152x648.jpg",
+            "publishedAt": "2025-10-29 21:23:22"
+        },
+        {
+            "source": {
+                "name": "androidheadlines"
+            },
+            "title": "This Android malware mimics human input to mask its nefarious intent",
+            "url": "https://www.androidheadlines.com/2025/10/this-android-malware-mimics-human-input-to-mask-its-nefarious-intent.html",
+            "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2025/10/AH-Google-Play-System-Update-1420x799.webp",
+            "publishedAt": "2025-10-29 21:17:58"
+        },
+        {
+            "source": {
                 "name": "hackernoon"
             },
             "title": "BitcoinOS $BOS Token Is Live On Binance Alpha & Top Tier CEX Listings, Advancing Institutional BTCfi",
@@ -3147,132 +3300,6 @@
             "url": "https://www.thehansindia.com/technology/tech-news/amazon-to-cut-about-14000-corporate-jobs-as-ai-drives-big-shift-1018646",
             "urlToImage": "https://assets.thehansindia.com/h-upload/2025/10/29/1596939-amazon.webp",
             "publishedAt": "2025-10-29 08:02:53"
-        },
-        {
-            "source": {
-                "name": "en_prnasisa"
-            },
-            "title": "Durabook Introduces Next-Generation R10 Copilot+ PC Rugged Tablet",
-            "url": "https://en.prnasia.com/story/509185-0.shtml",
-            "urlToImage": "https://mma.prnasia.com/media2/2805799/image.jpg?p=medium600",
-            "publishedAt": "2025-10-29 08:00:00"
-        },
-        {
-            "source": {
-                "name": "en_prnasisa"
-            },
-            "title": "ASUS Launches XA NB3I-E12 AI Server Built with NVIDIA HGX B300",
-            "url": "https://en.prnasia.com/story/509184-0.shtml",
-            "urlToImage": "https://mma.prnasia.com/media2/2806797/ASUS_HGX_B300_Server.jpg?p=medium600",
-            "publishedAt": "2025-10-29 08:00:00"
-        },
-        {
-            "source": {
-                "name": "en_prnasisa"
-            },
-            "title": "Mobileye Expands India Footprint, Collaborates with VVDN Technologies to Localize Next-Generation ADAS Tech for India and Beyond",
-            "url": "https://en.prnasia.com/story/509182-0.shtml",
-            "urlToImage": "https://mma.prnasia.com/media2/2808050/VVDN_and_Mobileye_MOU.jpg?p=medium600",
-            "publishedAt": "2025-10-29 07:57:00"
-        },
-        {
-            "source": {
-                "name": "techgenyz"
-            },
-            "title": "DDR4 RAM Shines Strong in 2025: Still a Smart Performer Beside DDR5",
-            "url": "https://techgenyz.com/ddr4-ram-shines-bright-matching-ddr5-in-value/",
-            "urlToImage": "https://techgenyz.com/wp-content/uploads/2024/11/samden-lamadukpa.jpg",
-            "publishedAt": "2025-10-29 07:40:44"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "From Data Fragmentation to Billion-Dollar Insights: The Vision of Manish Ravindra Sharath",
-            "url": "https://hackernoon.com/from-data-fragmentation-to-billion-dollar-insights-the-vision-of-manish-ravindra-sharath",
-            "urlToImage": "https://hackernoon.imgix.net/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-9o03bni.jpeg",
-            "publishedAt": "2025-10-29 07:40:25"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "$1 Billion Bet: NVIDIA Partners with Nokia to Shape the Future of 6G Networks",
-            "url": "https://www.analyticsinsight.net/news/1-billion-bet-nvidia-partners-with-nokia-to-shape-the-future-of-6g-networks",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-10-29%2Fn7v9w9xq%2F1-Billion-Bet-NVIDIA-Partners-with-Nokia-to-Shape-the-Future-of-6G-Networks.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-10-29 07:40:17"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "AI Sycophancy And Therapeutic Weaknesses Persist In ChatGPT Despite OpenAI’s Latest Attempts",
-            "url": "https://www.forbes.com/sites/lanceeliot/2025/10/29/ai-sycophancy-and-therapeutic-weaknesses-persist-in-chatgpt-despite-openais-latest-attempts/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69015827db1809b84b294cf3/0x0.jpg?width=960",
-            "publishedAt": "2025-10-29 07:30:00"
-        },
-        {
-            "source": {
-                "name": "computerweekly"
-            },
-            "title": "Nvidia, Cisco look to deepen AI innovation across 6G, telecoms",
-            "url": "https://www.computerweekly.com/news/366633381/Nvidia-Cisco-look-to-deepen-AI-innovation-across-6G-telecoms",
-            "urlToImage": "https://www.computerweekly.com/visuals/LeMagIT/hero_article/server_infrastructure_AdobeStock_271134500_smaller_searchsitetablet_520X173.jpg",
-            "publishedAt": "2025-10-29 07:30:00"
-        },
-        {
-            "source": {
-                "name": "toi"
-            },
-            "title": "Oppo Find X9 and Oppo Find X9 Pro launched with Hasselblad-powered camera: Key features, India launch and more",
-            "url": "https://timesofindia.indiatimes.com/technology/mobiles-tabs/oppo-find-x9-and-oppo-find-x9-pro-launched-with-hasselblad-powered-camera-key-features-india-launch-and-more/articleshow/124892328.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-124892322,imgsize-10518,width-400,resizemode-4/oppo-find-x9-series.jpg",
-            "publishedAt": "2025-10-29 07:06:41"
-        },
-        {
-            "source": {
-                "name": "deccanchronicle"
-            },
-            "title": "Lucid to Launch Self-Driving Mid-Size EV With Nvidia Chips",
-            "url": "https://www.deccanchronicle.com/business/autos/lucid-to-launch-self-driving-mid-size-ev-with-nvidia-chips-1913325",
-            "urlToImage": "https://www.deccanchronicle.com/h-upload/2025/10/29/1972370-lucid11zon.webp",
-            "publishedAt": "2025-10-29 07:00:09"
-        },
-        {
-            "source": {
-                "name": "cnbc"
-            },
-            "title": "CNBC's UK Exchange newsletter: UK backs innovation hub Cambridge, even as rapid expansion tests the city’s limit",
-            "url": "https://www.cnbc.com/2025/10/29/cnbcs-uk-exchange-uk-backs-innovation-hub-cambridge-expansion-tests-citys-limit.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108216433-17612950581761295055-42244885586-1080pnbcnews.jpg?h=422&v=1761295058&vtcrop=y&w=750",
-            "publishedAt": "2025-10-29 06:57:37"
-        },
-        {
-            "source": {
-                "name": "startupnews"
-            },
-            "title": "Nvidia CEO Jensen Huang Announces U.S. Production of AI Chips and $1 Billion Nokia Partnership at GTC 2025",
-            "url": "https://startupnews.fyi/2025/10/29/nvidia-ceo-jensen-huang-announces-u-s-production-of-ai-chips-and-1-billion-nokia-partnership-at-gtc-2025/",
-            "urlToImage": "https://startupnews.fyi/wp-content/uploads/2025/10/OIP-59.jpeg",
-            "publishedAt": "2025-10-29 06:40:39"
-        },
-        {
-            "source": {
-                "name": "benzinga"
-            },
-            "title": "Radaris Launches AI-Powered People Search Platform to Help Americans Reconnect in a Disconnected Age",
-            "url": "https://www.benzinga.com/pressreleases/25/10/g48485060/radaris-launches-ai-powered-people-search-platform-to-help-americans-reconnect-in-a-disconnected-a",
-            "urlToImage": "https://ml.globenewswire.com/Resource/Download/fda6c93a-a140-4bd4-a8b9-1bd39fb3aee6/radaris.jpg",
-            "publishedAt": "2025-10-29 06:38:13"
-        },
-        {
-            "source": {
-                "name": "deccanchronicle"
-            },
-            "title": "Apple Plans MacBook Air, iPad Air and iPad Mini With OLED Displays",
-            "url": "https://www.deccanchronicle.com/technology/apple-plans-macbook-air-ipad-air-and-ipad-mini-with-oled-displays-1913320",
-            "urlToImage": "https://www.deccanchronicle.com/h-upload/2025/10/29/1972360-44193428911zon.webp",
-            "publishedAt": "2025-10-29 06:35:19"
         }
     ]
 }
