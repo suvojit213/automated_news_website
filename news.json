@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2025-10-30T04:18:04.750300Z",
+    "lastUpdatedAt": "2025-10-30T05:15:38.780780Z",
     "articles": [
+        {
+            "source": {
+                "id": "0ce70f407e0fa82ddaeeb29243aa8210",
+                "name": "SooToday",
+                "url": "https://www.sootoday.com",
+                "country": "ca"
+            },
+            "title": "Bank of Canada governor says AI could be both good and bad for Canada's economy",
+            "url": "https://www.sootoday.com/national-news/bank-of-canada-governor-says-ai-could-be-both-good-and-bad-for-canadas-economy-11415154",
+            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/10/64f1177ff2eaaf5ba954c837828f3719b28aaefb901f11f9e72fccf1b1cd696d.jpg;w=1200;h=800;mode=crop",
+            "publishedAt": "2025-10-29T17:15:31Z"
+        },
+        {
+            "source": {
+                "id": "cadb39a62eb53fe1fd1524fc363c0a5f",
+                "name": "BayToday",
+                "url": "https://www.baytoday.ca",
+                "country": "ca"
+            },
+            "title": "Bank of Canada governor says AI could be both good and bad for Canada's economy",
+            "url": "https://www.baytoday.ca/national-news/bank-of-canada-governor-says-ai-could-be-both-good-and-bad-for-canadas-economy-11415154",
+            "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/10/64f1177ff2eaaf5ba954c837828f3719b28aaefb901f11f9e72fccf1b1cd696d.jpg;w=1200;h=800;mode=crop",
+            "publishedAt": "2025-10-29T17:15:31Z"
+        },
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            },
+            "title": "Donald Trump Jr. Pitches ‘Patriotic Capitalism’ at Saudi Summit",
+            "url": "https://www.nytimes.com/2025/10/29/business/donald-trump-jr-1789-capital-saudi-arabia.html",
+            "urlToImage": "https://static01.nyt.com/images/2025/10/29/multimedia/29biz-1789-capital-pqmb/29biz-1789-capital-pqmb-facebookJumbo.jpg",
+            "publishedAt": "2025-10-29T16:50:31Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Giving Nvidia's Blackwell chip to China would slash US's AI advantage, experts say",
+            "url": "https://www.reuters.com/world/china/giving-nvidias-blackwell-chip-china-would-slash-uss-ai-advantage-experts-say-2025-10-29/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/ANUYABYENRMYVNZRD4AVQRZMRE.jpg?auth=084c51205af752f1111eb0c1d5b378f2f19e6657bb267ab0489e97ff21f4c090&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-10-29T16:44:09Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Tesla Seen as Leader in Physical AI but Current Valuation is Stretched, BofA Says",
+            "url": "https://www.marketscreener.com/news/tesla-seen-as-leader-in-physical-ai-but-current-valuation-is-stretched-bofa-says-ce7d5dd2dd80fe22",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2019-01-30T232344Z_1_LYNXNPEF0T273_RTROPTP_3_TESLA-ELECTRIC-RESULTS.JPG",
+            "publishedAt": "2025-10-29T16:30:48Z"
+        },
+        {
+            "source": {
+                "id": "c24832368cd2d9132598ad4bef08e0ab",
+                "name": "Investopedia",
+                "url": "https://www.investopedia.com",
+                "country": "us"
+            },
+            "title": "Caterpillar Stock Hit a Record Wednesday-AI Had a Lot To Do With It",
+            "url": "https://www.investopedia.com/caterpillar-shares-hit-record-strong-data-center-demand-offsets-tariffs-11839222",
+            "urlToImage": "https://www.investopedia.com/thmb/PpFwpdg8Uov_KcVgAKHSRa2MPY8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2228232066-1cb14d2242744ffca059d2d6714701d9.jpg",
+            "publishedAt": "2025-10-29T16:23:37Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -1791,6 +1863,96 @@
         },
         {
             "source": {
+                "name": "wired"
+            },
+            "title": "Extropic Aims to Disrupt the Data Center Bonanza",
+            "url": "https://www.wired.com/story/extropic-aims-to-disrupt-the-data-center-bonanza/",
+            "urlToImage": "https://media.wired.com/photos/69023ea55216e0070a31d8c6/master/w_120,c_limit/brass_on_wood_2.jpg",
+            "publishedAt": "2025-10-29 17:11:10"
+        },
+        {
+            "source": {
+                "name": "bitcoinworld"
+            },
+            "title": "AI Audio Models: ElevenLabs CEO Mati Staniszewski Predicts Inevitable Commoditization",
+            "url": "https://bitcoinworld.co.in/elevenlabs-ai-commoditization-future/",
+            "urlToImage": "https://bitcoinworld.co.in/wp-content/uploads/elevenlabs-ai-commoditization-future.jpg",
+            "publishedAt": "2025-10-29 17:10:10"
+        },
+        {
+            "source": {
+                "name": "newsday"
+            },
+            "title": "GM lays off 1,700 workers at plants in Michigan and Ohio amid slower EV demand",
+            "url": "https://www.newsday.com/business/gm-layoffs-ev-battery-plants-x82472",
+            "urlToImage": "https://www.newsday.com/_next/image?q=80&url=https%3A%2F%2Fcdn.newsday.com%2Fimage-service%2Fversion%2Fc%3AOGZiZjVhMmItNzZlNS00%3AMjBiNzdhNmEtMjIwZi00%2Fcopy-of-gm-layoffs.jpeg%3Ff%3DLandscape%2B16%253A9%26w%3D770%26q%3D1&w=1920",
+            "publishedAt": "2025-10-29 17:07:50"
+        },
+        {
+            "source": {
+                "name": "pcgamer"
+            },
+            "title": "Nvidia is the world's first $5 trillion company, but CEO Jensen Huang's nifty narrative about accelerated computing and the remarkable foresight that led to today's AI revolution doesn't quite add up",
+            "url": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-is-the-worlds-first-usd5-trillion-company-but-ceo-jensen-huangs-nifty-narrative-about-accelerated-computing-and-the-remarkable-foresight-that-led-to-todays-ai-revolution-doesnt-quite-add-up/",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/iwUm49TvD3S64bo54hAtxW-1280-80.png",
+            "publishedAt": "2025-10-29 17:07:41"
+        },
+        {
+            "source": {
+                "name": "apnews"
+            },
+            "title": "GM lays off 1,700 workers at plants in Michigan and Ohio amid slower EV demand",
+            "url": "https://apnews.com/article/gm-layoffs-ev-battery-plants-30792ad41c5148fb5528a2d0bcc0b59b",
+            "urlToImage": "https://dims.apnews.com/dims4/default/4c4743e/2147483647/strip/true/crop/3824x2545+0+2/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F21%2F6c%2F498e15e023388d71f39b44af20aa%2Ffc5d44ca537342239db109196277299b",
+            "publishedAt": "2025-10-29 17:05:34"
+        },
+        {
+            "source": {
+                "name": "bangordailynews"
+            },
+            "title": "GM lays off 1,700 workers at plants in Michigan and Ohio amid slower EV demand",
+            "url": "https://www.bangordailynews.com/2025/10/29/nation/gm-lays-off-1700-workers-at-plants-in-michigan-and-ohio-amid-slower-ev-demand/",
+            "urlToImage": "https://i0.wp.com/bdn-data.s3.amazonaws.com/uploads/2025/10/preview-680.jpg?fit=1024%2C683&ssl=1",
+            "publishedAt": "2025-10-29 17:05:34"
+        },
+        {
+            "source": {
+                "name": "clickondetroit"
+            },
+            "title": "GM lays off 1,700 workers at plants in Michigan and Ohio amid slower EV demand",
+            "url": "https://www.clickondetroit.com/business/2025/10/29/gm-lays-off-1700-workers-at-plants-in-michigan-and-ohio-amid-slower-ev-demand/",
+            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/BYBAS6I2PFAP3GGQLPXK5JKEPE.jpg",
+            "publishedAt": "2025-10-29 17:05:34"
+        },
+        {
+            "source": {
+                "name": "analyticsindiamag"
+            },
+            "title": "AI’s Growing Demand for Resources is Unsustainable, Warns White Paper",
+            "url": "https://analyticsindiamag.com/ai-news-updates/ais-growing-demand-for-resources-is-unsustainable-warns-white-paper/",
+            "urlToImage": "https://analyticsindiamag.com/wp-content/uploads/2025/01/data-centre-operators-india.jpg",
+            "publishedAt": "2025-10-29 17:02:01"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "AI’s Daily Dominance: 84% of Marketers Integrate It Seamlessly",
+            "url": "https://www.webpronews.com/ais-daily-dominance-84-of-marketers-integrate-it-seamlessly/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/article-191-1761756859.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-10-29 16:54:23"
+        },
+        {
+            "source": {
+                "name": "pcgamer"
+            },
+            "title": "RAM and storage is ridiculously expensive right now because of *drumroll* AI, of course, and there's little reason to think prices will drop any time soon",
+            "url": "https://www.pcgamer.com/hardware/memory/ram-and-storage-is-ridiculously-expensive-right-now-because-of-drumroll-ai-of-course-and-theres-little-reason-to-think-prices-will-drop-any-time-soon/",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/WjZrVuAD5PzQc8q9V3fmZV-1280-80.jpg",
+            "publishedAt": "2025-10-29 16:51:19"
+        },
+        {
+            "source": {
                 "name": "webpronews"
             },
             "title": "Samsung’s Tri-Fold Revolution: Google Tie-Up Ushers New Era (62 characters)",
@@ -3066,198 +3228,6 @@
             "url": "https://www.bostonherald.com/2025/10/28/openai-microsoft-new-business-structure/",
             "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/10/OpenAI_69614_16aad4-1.jpg?w=1024&h=682",
             "publishedAt": "2025-10-28T21:35:00Z"
-        },
-        {
-            "source": {
-                "id": "9ab210a1da58b160b3d40bd353f54b38",
-                "name": "St. Paul Pioneer Press",
-                "url": "https://www.twincities.com",
-                "country": "us"
-            },
-            "title": "OpenAI may move forward with new business structure, partnership with Microsoft, regulators say",
-            "url": "https://www.twincities.com/2025/10/28/openai-microsoft-new-business-structure/",
-            "urlToImage": "https://www.twincities.com/wp-content/uploads/2025/10/OpenAI_69614_16aad4-1.jpg?w=1024&h=682",
-            "publishedAt": "2025-10-28T21:35:00Z"
-        },
-        {
-            "source": {
-                "id": "8fac888ae06647c3a7d6093c60c9d9b5",
-                "name": "San Diego Union-Tribune",
-                "url": "https://www.sandiegouniontribune.com",
-                "country": "us"
-            },
-            "title": "OpenAI may move forward with new business structure, partnership with Microsoft, regulators say",
-            "url": "https://www.sandiegouniontribune.com/2025/10/28/openai-microsoft-new-business-structure/",
-            "urlToImage": "https://www.sandiegouniontribune.com/wp-content/uploads/2025/10/OpenAI_69614_16aad4-1.jpg?w=1024&h=682",
-            "publishedAt": "2025-10-28T21:35:00Z"
-        },
-        {
-            "source": {
-                "id": "3271eb2093cfa66b030a37cf84a8df5e",
-                "name": "Baltimore Sun",
-                "url": "https://www.baltimoresun.com",
-                "country": "us"
-            },
-            "title": "OpenAI may move forward with new business structure, partnership with Microsoft, regulators say",
-            "url": "https://www.baltimoresun.com/2025/10/28/openai-microsoft-new-business-structure/",
-            "urlToImage": "https://www.baltimoresun.com/wp-content/uploads/2025/10/OpenAI_69614_16aad4-1.jpg?w=1024&h=682",
-            "publishedAt": "2025-10-28T21:35:00Z"
-        },
-        {
-            "source": {
-                "id": "3a3847d645a619320aa3b3484581e395",
-                "name": "CBS News",
-                "url": "https://www.cbsnews.com",
-                "country": "us"
-            },
-            "title": "Experts warn about risk of AI after social media post claims \"hidden fortune\" left in Ferndale",
-            "url": "https://www.cbsnews.com/detroit/news/ai-social-media-post-ferndale-treasure/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/10/28/0f9ecb8a-fa95-4aa6-ab6d-d20dd1350a55/thumbnail/1200x630/89e156d712645cfe5d96abcdbb89df21/snapshot-2025-10-28t165301-493.jpg",
-            "publishedAt": "2025-10-28T21:05:00Z"
-        },
-        {
-            "source": {
-                "id": "1b697445987e8a33f6c82842e17d60d9",
-                "name": "Bnn Bloomberg",
-                "url": "https://www.bnnbloomberg.ca",
-                "country": "ca"
-            },
-            "title": "Microsoft shares once again surpass $4 trillion valuation, joining Nvidia",
-            "url": "https://www.bnnbloomberg.ca/business/company-news/2025/10/28/microsoft-shares-once-again-surpass-us4-trillion-valuation-joining-nvidia/",
-            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/YXJBMCY6MPEG7KO2SJPYIAN5IU.jpg?smart=true&auth=c8cc78a2046f10e72d8e2d2864922fc29453e5fd8ec3bc430470366012d93fa2&width=1200&height=630",
-            "publishedAt": "2025-10-28T20:53:01Z"
-        },
-        {
-            "source": {
-                "id": "85e5403407038478a5e7d8d100ff8e8f",
-                "name": "CP24 Toronto",
-                "url": "https://www.cp24.com",
-                "country": "ca"
-            },
-            "title": "Microsoft shares once again surpass $4 trillion valuation, joining Nvidia",
-            "url": "https://www.cp24.com/news/money/2025/10/28/microsoft-shares-once-again-surpass-us4-trillion-valuation-joining-nvidia/",
-            "urlToImage": "https://www.cp24.com/resizer/v2/YXJBMCY6MPEG7KO2SJPYIAN5IU.jpg?smart=true&auth=c8cc78a2046f10e72d8e2d2864922fc29453e5fd8ec3bc430470366012d93fa2&width=1200&height=630",
-            "publishedAt": "2025-10-28T20:53:01Z"
-        },
-        {
-            "source": {
-                "id": "92021aca7322dc2b29226023c35d9a4a",
-                "name": "The Canberra Times",
-                "url": "https://www.canberratimes.com.au",
-                "country": "au"
-            },
-            "title": "Wall Street boosted by AI deals and rates outlook",
-            "url": "https://www.canberratimes.com.au/story/9099560/wall-street-boosted-by-ai-deals-and-rates-outlook/",
-            "urlToImage": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/379df12c-9317-4e78-a3f6-4b8a5047afa5.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
-            "publishedAt": "2025-10-28T20:49:05Z"
-        },
-        {
-            "source": {
-                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-                "name": "WTOP",
-                "url": "https://wtop.com",
-                "country": "us"
-            },
-            "title": "Microsoft shares once again surpass $4 trillion valuation, joining Nvidia",
-            "url": "https://wtop.com/national/2025/10/microsoft-shares-once-again-surpass-4-trillion-valuation-joining-nvidia/",
-            "urlToImage": "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png",
-            "publishedAt": "2025-10-28T20:45:14Z"
-        },
-        {
-            "source": {
-                "id": "f5081afeaba654292dd91fffd29f9dd4",
-                "name": "The Globe and Mail",
-                "url": "https://www.theglobeandmail.com",
-                "country": "ca"
-            },
-            "title": "Nvidia’s stock market value nears US$5-trillion, the most ever for a public company",
-            "url": "https://www.theglobeandmail.com/investing/article-nvidias-stock-market-value-nears-us5-trillion-the-most-ever-for-a/",
-            "urlToImage": "https://www.theglobeandmail.com/resizer/v2/HFITLCZ37NEXFFGW4K7JCHN3D4.jpg?auth=cb59523add948564a6c60a8d7e6d3d6cf0527c9e06b3ee1851cdca9bd39a6893&width=1200&height=800&quality=80&smart=true",
-            "publishedAt": "2025-10-28T20:43:41Z"
-        },
-        {
-            "source": {
-                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
-                "name": "The Associated Press",
-                "url": "https://apnews.com",
-                "country": "us"
-            },
-            "title": "Microsoft shares once again surpass $4 trillion valuation, joining Nvidia",
-            "url": "https://apnews.com/article/microsoft-apple-nvidia-stock-4-trillion-11055b19c29ac2c7f4215adee59b3c2c",
-            "urlToImage": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
-            "publishedAt": "2025-10-28T20:39:11Z"
-        },
-        {
-            "source": {
-                "id": "f81e0cedbddbe08e3058634e8bb4a56f",
-                "name": "Barchart",
-                "url": "https://www.barchart.com",
-                "country": "us"
-            },
-            "title": "Microsoft shares once again surpass $4 trillion valuation, joining Nvidia",
-            "url": "https://www.barchart.com/story/news/35741653/microsoft-shares-once-again-surpass-4-trillion-valuation-joining-nvidia",
-            "urlToImage": "https://assets.barchart.com/img/barchart-og.png",
-            "publishedAt": "2025-10-28T20:39:11Z"
-        },
-        {
-            "source": {
-                "id": "c792dadf7373fad5b316a63a77688de1",
-                "name": "ABC News",
-                "url": "https://abcnews.go.com",
-                "country": "us"
-            },
-            "title": "Microsoft shares once again surpass $4 trillion valuation, joining Nvidia",
-            "url": "https://abcnews.go.com/Business/wireStory/microsoft-shares-surpass-4-trillion-valuation-joining-nvidia-126953655",
-            "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
-            "publishedAt": "2025-10-28T20:39:10Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Nvidia's stock market value nears record $5 trillion",
-            "url": "https://www.marketscreener.com/news/nvidia-s-stock-market-value-nears-record-5-trillion-ce7d5dddd889f52d",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-10/2025-10-28T203526Z_1_LYNXMPEL9R14R_RTROPTP_4_NVIDIA-STOCK.JPG",
-            "publishedAt": "2025-10-28T20:36:37Z"
-        },
-        {
-            "source": {
-                "id": "8da923084554b2821233d6c5c5f02c97",
-                "name": "Fox News",
-                "url": "https://www.foxnews.com",
-                "country": "us"
-            },
-            "title": "5 social media safety tips to protect your privacy online",
-            "url": "https://www.foxnews.com/tech/5-social-media-safety-tips-protect-your-privacy-online",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/teenage-boy-on-smartphone.jpg",
-            "publishedAt": "2025-10-28T20:30:43Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "Machine learning enables real-time analysis of iron oxide thin film growth in reactive magnetron sputtering",
-            "url": "https://phys.org/news/2025-10-machine-enables-real-analysis-iron.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/real-time-analysis-of-1.jpg",
-            "publishedAt": "2025-10-28T20:25:03Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Spectral AI Schedules 2025 Third Quarter Financial Results and Conference Call",
-            "url": "https://www.manilatimes.net/2025/10/29/tmt-newswire/globenewswire/spectral-ai-schedules-2025-third-quarter-financial-results-and-conference-call/2210551",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/10/29/802542.jpg",
-            "publishedAt": "2025-10-28T20:18:10Z"
         }
     ]
 }
