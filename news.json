@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2025-10-30T13:27:55.925656Z",
+    "lastUpdatedAt": "2025-10-30T14:16:23.335541Z",
     "articles": [
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "OpenAI lays groundwork for juggernaut IPO at up to $1 trillion valuation",
+            "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/openai-lays-groundwork-for-juggernaut-ipo-at-up-to-1-trillion-valuation/articleshow/124929426.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-124929439,width-1200,height-630,imgsize-63144,overlay-etmarkets/articleshow.jpg",
+            "publishedAt": "2025-10-30T02:16:00Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Microsoft beats expectations with 18% revenue jump, but shares slide",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/microsoft-beats-expectations-with-18-revenue-jump-but-shares-slide/articleshow/124929080.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-124929122,width-1200,height-630,imgsize-110876,overlay-etmarkets/articleshow.jpg",
+            "publishedAt": "2025-10-30T02:04:00Z"
+        },
+        {
+            "source": {
+                "id": "9a0aedadcf2d0a6144f3064cb144bae4",
+                "name": "Deadline",
+                "url": "https://deadline.com",
+                "country": "us"
+            },
+            "title": "YouTube Offers Employees Voluntary Buyout Amid AI Pivot",
+            "url": "https://deadline.com/2025/10/youtube-offers-employees-voluntary-buyout-embraces-ai-1236602459/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2024/01/GettyImages-1241209655-e1761787734527.jpg?w=1024",
+            "publishedAt": "2025-10-30T01:55:01Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Universal Music Settles Lawsuit With AI Startup Udio",
+            "url": "https://www.bloomberg.com/news/articles/2025-10-30/universal-music-settles-lawsuit-with-ai-startup-udio",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ighWenwlmGsU/v1/1200x800.jpg",
+            "publishedAt": "2025-10-30T01:45:07Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "SK Billionaire Joins Other Tech Leaders in AI Demand Confidence",
+            "url": "https://www.bloomberg.com/news/articles/2025-10-30/sk-billionaire-joins-other-tech-leaders-in-ai-demand-confidence",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ix8Jl6Xa5Io8/v1/1200x800.jpg",
+            "publishedAt": "2025-10-30T01:41:32Z"
+        },
         {
             "source": {
                 "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
@@ -132,6 +192,33 @@
             "url": "https://www.thehitavada.com/Encyc/2025/10/30/video-of-man-patting-tiger-is-fake-ai-generated.html",
             "urlToImage": "https://www.thehitavada.com/Encyc/2025/10/30/Video-of-man-patting-tiger-is-fake-AI-generated_202510301156565612_H@@IGHT_675_W@@IDTH_1200.jpg",
             "publishedAt": "2025-10-30T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "wired"
+            },
+            "title": "Meta, Google, and Microsoft Triple Down on AI Spending",
+            "url": "https://www.wired.com/story/microsoft-google-meta-2025-earnings/",
+            "urlToImage": "https://media.wired.com/photos/6902815b030326d7e206e552/master/w_120,c_limit/Microsoft-Google-Meta-Report-Earnings-Business-2242649875.jpg",
+            "publishedAt": "2025-10-30 02:09:50"
+        },
+        {
+            "source": {
+                "name": "yourstory"
+            },
+            "title": "Lenskart building a global eyewear brand; Inside Karan Johar’s dating startup",
+            "url": "https://yourstory.com/2025/10/lenskart-building-a-global-eyewear-brand-inside-karan-johars-dating-startup",
+            "urlToImage": "https://images.yourstory.com/cs/2/a0bad530ce5d11e9a3fb4360e4b9139b/TemplatesSuman29-1761757564592.png",
+            "publishedAt": "2025-10-30 02:00:00"
+        },
+        {
+            "source": {
+                "name": "economictimes_indiatimes"
+            },
+            "title": "Ecommerce tech startup Point AI raises $5.3 million in round led by Yali Capital",
+            "url": "http://economictimes.indiatimes.com/tech/funding/ecommerce-tech-startup-point-ai-raises-5-3-million-in-round-led-by-yali-capital/articleshow/124911223.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-135844,resizemode-75,msid-124911223/tech/funding/ecommerce-tech-startup-point-ai-raises-5-3-million-in-round-led-by-yali-capital.jpg",
+            "publishedAt": "2025-10-30 01:30:00"
         },
         {
             "source": {
@@ -3318,78 +3405,6 @@
             "url": "https://www.wired.com/story/extropic-aims-to-disrupt-the-data-center-bonanza/",
             "urlToImage": "https://media.wired.com/photos/69023ea55216e0070a31d8c6/master/w_120,c_limit/brass_on_wood_2.jpg",
             "publishedAt": "2025-10-29 17:11:10"
-        },
-        {
-            "source": {
-                "name": "bitcoinworld"
-            },
-            "title": "AI Audio Models: ElevenLabs CEO Mati Staniszewski Predicts Inevitable Commoditization",
-            "url": "https://bitcoinworld.co.in/elevenlabs-ai-commoditization-future/",
-            "urlToImage": "https://bitcoinworld.co.in/wp-content/uploads/elevenlabs-ai-commoditization-future.jpg",
-            "publishedAt": "2025-10-29 17:10:10"
-        },
-        {
-            "source": {
-                "name": "newsday"
-            },
-            "title": "GM lays off 1,700 workers at plants in Michigan and Ohio amid slower EV demand",
-            "url": "https://www.newsday.com/business/gm-layoffs-ev-battery-plants-x82472",
-            "urlToImage": "https://www.newsday.com/_next/image?q=80&url=https%3A%2F%2Fcdn.newsday.com%2Fimage-service%2Fversion%2Fc%3AOGZiZjVhMmItNzZlNS00%3AMjBiNzdhNmEtMjIwZi00%2Fcopy-of-gm-layoffs.jpeg%3Ff%3DLandscape%2B16%253A9%26w%3D770%26q%3D1&w=1920",
-            "publishedAt": "2025-10-29 17:07:50"
-        },
-        {
-            "source": {
-                "name": "pcgamer"
-            },
-            "title": "Nvidia is the world's first $5 trillion company, but CEO Jensen Huang's nifty narrative about accelerated computing and the remarkable foresight that led to today's AI revolution doesn't quite add up",
-            "url": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-is-the-worlds-first-usd5-trillion-company-but-ceo-jensen-huangs-nifty-narrative-about-accelerated-computing-and-the-remarkable-foresight-that-led-to-todays-ai-revolution-doesnt-quite-add-up/",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/iwUm49TvD3S64bo54hAtxW-1280-80.png",
-            "publishedAt": "2025-10-29 17:07:41"
-        },
-        {
-            "source": {
-                "name": "apnews"
-            },
-            "title": "GM lays off 1,700 workers at plants in Michigan and Ohio amid slower EV demand",
-            "url": "https://apnews.com/article/gm-layoffs-ev-battery-plants-30792ad41c5148fb5528a2d0bcc0b59b",
-            "urlToImage": "https://dims.apnews.com/dims4/default/4c4743e/2147483647/strip/true/crop/3824x2545+0+2/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F21%2F6c%2F498e15e023388d71f39b44af20aa%2Ffc5d44ca537342239db109196277299b",
-            "publishedAt": "2025-10-29 17:05:34"
-        },
-        {
-            "source": {
-                "name": "bangordailynews"
-            },
-            "title": "GM lays off 1,700 workers at plants in Michigan and Ohio amid slower EV demand",
-            "url": "https://www.bangordailynews.com/2025/10/29/nation/gm-lays-off-1700-workers-at-plants-in-michigan-and-ohio-amid-slower-ev-demand/",
-            "urlToImage": "https://i0.wp.com/bdn-data.s3.amazonaws.com/uploads/2025/10/preview-680.jpg?fit=1024%2C683&ssl=1",
-            "publishedAt": "2025-10-29 17:05:34"
-        },
-        {
-            "source": {
-                "name": "clickondetroit"
-            },
-            "title": "GM lays off 1,700 workers at plants in Michigan and Ohio amid slower EV demand",
-            "url": "https://www.clickondetroit.com/business/2025/10/29/gm-lays-off-1700-workers-at-plants-in-michigan-and-ohio-amid-slower-ev-demand/",
-            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/BYBAS6I2PFAP3GGQLPXK5JKEPE.jpg",
-            "publishedAt": "2025-10-29 17:05:34"
-        },
-        {
-            "source": {
-                "name": "analyticsindiamag"
-            },
-            "title": "AI’s Growing Demand for Resources is Unsustainable, Warns White Paper",
-            "url": "https://analyticsindiamag.com/ai-news-updates/ais-growing-demand-for-resources-is-unsustainable-warns-white-paper/",
-            "urlToImage": "https://analyticsindiamag.com/wp-content/uploads/2025/01/data-centre-operators-india.jpg",
-            "publishedAt": "2025-10-29 17:02:01"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "AI’s Daily Dominance: 84% of Marketers Integrate It Seamlessly",
-            "url": "https://www.webpronews.com/ais-daily-dominance-84-of-marketers-integrate-it-seamlessly/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/article-191-1761756859.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-10-29 16:54:23"
         }
     ]
 }
