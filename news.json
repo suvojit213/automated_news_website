@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2025-10-30T12:32:26.074052Z",
+    "lastUpdatedAt": "2025-10-30T13:27:55.925656Z",
     "articles": [
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "CNBC Daily Open: Capex is the number to look at amid Big Tech earnings",
+            "url": "https://www.cnbc.com/2025/10/30/cnbc-daily-open-capex-is-the-number-to-look-at-amid-big-tech-earnings.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108216553-1761309874594-gettyimages-2242649858-ALPHABET_EARNS.jpeg?v=1761309903&w=1920&h=1080",
+            "publishedAt": "2025-10-30T01:23:25Z"
+        },
+        {
+            "source": {
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
+                "country": "in"
+            },
+            "title": "Alphabet Sales Beat Estimates On Google Cloud Unit Growth",
+            "url": "https://www.ndtvprofit.com/global-economics/alphabet-sales-beat-estimates-on-google-cloud-unit-growth",
+            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-10-30%2Ftdr26iu7%2F442950613.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+            "publishedAt": "2025-10-30T01:22:52Z"
+        },
+        {
+            "source": {
+                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
+                "name": "CNBC TV18",
+                "url": "https://www.cnbctv18.com",
+                "country": "in"
+            },
+            "title": "OpenAI may target $1 trillion valuation in IPO, reports Reuters",
+            "url": "https://www.cnbctv18.com/business/openai-may-target-1-trillion-valuation-in-ipo-reports-19732770.htm",
+            "urlToImage": "https://images.cnbctv18.com/uploads/2024/07/openai-2024-07-0ae2109f5a5017df577853d0646db677.jpg?im=FitAndFill,width=500,height=300",
+            "publishedAt": "2025-10-30T01:16:22Z"
+        },
+        {
+            "source": {
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
+                "country": "in"
+            },
+            "title": "OpenAI Eyes Record-Breaking $1 Trillion IPO To Fund AGI Infrastructure: Reuters",
+            "url": "https://www.ndtvprofit.com/technology/openai-eyes-record-breaking-1-trillion-ipo-to-fund-agi-infrastructure-reuters",
+            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-10-15%2F86yop8qq%2FOpenAIlogowithmagnifyingglass52916339167.jpg?rect=0%2C824%2C6720%2C3528&w=1200&auto=format%2Ccompress&ogImage=true",
+            "publishedAt": "2025-10-30T00:53:06Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Samsung Posts Solid Net Profit as Chip Business Rebounds Strongly",
+            "url": "https://www.marketscreener.com/news/samsung-posts-solid-net-profit-as-chip-business-rebounds-strongly-ce7d5dd2d08cf422",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2025-10-30T00:46:14Z"
+        },
         {
             "source": {
                 "id": "1e30d944d63d9090db5a2c2e28a8772f",
@@ -75,6 +135,42 @@
         },
         {
             "source": {
+                "name": "gizmodotech"
+            },
+            "title": "Zuck Acknowledges Meta Might Not Use AI Investments for New AI After All",
+            "url": "https://gizmodo.com/zuck-acknowledges-meta-might-not-use-ai-investments-for-new-ai-after-all-2000679070",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/zuckerberg-1280x853.jpg",
+            "publishedAt": "2025-10-30 01:22:25"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "DOE Releases Fusion Energy Roadmap For Commercialization",
+            "url": "https://www.forbes.com/sites/noelfletcher/2025/10/29/doe-releases-fusion-energy-roadmap-for-commercialization/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6902bbb75688cfe8dabff302/0x0.jpg?width=960",
+            "publishedAt": "2025-10-30 01:17:27"
+        },
+        {
+            "source": {
+                "name": "siliconangle"
+            },
+            "title": "Microsoft’s stock falls on AI spending concerns and lack of clarity about OpenAI",
+            "url": "https://siliconangle.com/2025/10/29/microsofts-stock-falls-ai-spending-concerns-lack-clarity-openai/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/10/satyanadella-copilot-ignite2023.png",
+            "publishedAt": "2025-10-30 00:51:52"
+        },
+        {
+            "source": {
+                "name": "businessinsider_us"
+            },
+            "title": "Big Tech says 'AI bubble? What AI bubble?'",
+            "url": "https://www.businessinsider.com/big-tech-capex-spending-ai-earnings-2025-10",
+            "urlToImage": "https://i.insider.com/690291c2c007ca8c2737e3b7?width=700",
+            "publishedAt": "2025-10-30 00:35:07"
+        },
+        {
+            "source": {
                 "name": "hindustantimes"
             },
             "title": "Adobe’s AI avenue, Asus presumptuous console pricing, and pondering brain rot",
@@ -90,6 +186,15 @@
             "url": "https://www.digitaltrends.com/computing/sora-ai-app-now-available-without-an-invite/",
             "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/02/Sora-OpenAI-video.jpeg?p=1&resize=1200%2C630",
             "publishedAt": "2025-10-30 00:21:48"
+        },
+        {
+            "source": {
+                "name": "ucsd"
+            },
+            "title": "Could mobile batteries enable electric construction vehicles and enhance grid resilience?",
+            "url": "https://today.ucsd.edu/story/could-mobile-batteries-enable-electric-construction-vehicles-and-enhance-grid-resilience",
+            "urlToImage": "https://today.ucsd.edu/news_uploads/keaton_battery_400x.jpg",
+            "publishedAt": "2025-10-30 00:20:29"
         },
         {
             "source": {
@@ -3285,96 +3390,6 @@
             "url": "https://www.webpronews.com/ais-daily-dominance-84-of-marketers-integrate-it-seamlessly/",
             "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/article-191-1761756859.jpeg?fit=720%2C960&ssl=1",
             "publishedAt": "2025-10-29 16:54:23"
-        },
-        {
-            "source": {
-                "name": "pcgamer"
-            },
-            "title": "RAM and storage is ridiculously expensive right now because of *drumroll* AI, of course, and there's little reason to think prices will drop any time soon",
-            "url": "https://www.pcgamer.com/hardware/memory/ram-and-storage-is-ridiculously-expensive-right-now-because-of-drumroll-ai-of-course-and-theres-little-reason-to-think-prices-will-drop-any-time-soon/",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/WjZrVuAD5PzQc8q9V3fmZV-1280-80.jpg",
-            "publishedAt": "2025-10-29 16:51:19"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Samsung’s Tri-Fold Revolution: Google Tie-Up Ushers New Era (62 characters)",
-            "url": "https://www.webpronews.com/samsungs-tri-fold-revolution-google-tie-up-ushers-new-era-62-characters/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/article-183-1761711285.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-10-29 16:17:53"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "Early Black Friday deal slashes $500 off this awesome curved OLED gaming monitor",
-            "url": "https://www.tomsguide.com/computing/monitors/early-black-friday-deal-slashes-usd500-off-this-awesome-curved-oled-gaming-monitor",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/C9hHpD8sYsc4jiR3jmxSeg-1280-80.jpg",
-            "publishedAt": "2025-10-29 16:16:04"
-        },
-        {
-            "source": {
-                "name": "siliconangle"
-            },
-            "title": "IBM releases small open-source Granite 4 models for mobile devices and browsers",
-            "url": "https://siliconangle.com/2025/10/29/ibm-releases-small-open-source-granite-4-models-mobile-devices-browsers/",
-            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/10/53d3d996-ebed-4a63-90a2-a49ca8849b85.jpg",
-            "publishedAt": "2025-10-29 16:15:25"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Fermion Propagators: Bosonization vs. Holography",
-            "url": "https://hackernoon.com/fermion-propagators-bosonization-vs-holography",
-            "urlToImage": "https://hackernoon.imgix.net/images/holograph-abstract-up3o39dbo80ul1mzvjxji7sd.png",
-            "publishedAt": "2025-10-29 16:15:01"
-        },
-        {
-            "source": {
-                "name": "techxplore"
-            },
-            "title": "Scalable approach to 6G wireless offers speed and reliability",
-            "url": "https://techxplore.com/news/2025-10-scalable-approach-6g-wireless-reliability.html",
-            "urlToImage": "https://scx1.b-cdn.net/csz/news/tmb/2025/team-debuts-new-approa.jpg",
-            "publishedAt": "2025-10-29 16:09:23"
-        },
-        {
-            "source": {
-                "name": "interestingengineering"
-            },
-            "title": "Space data centers could solve problem of 165% surge in AI power hunger",
-            "url": "https://interestingengineering.com/space/space-data-centers-solve-ai-power-hunger",
-            "urlToImage": "https://cms.interestingengineering.com/wp-content/uploads/2025/10/Space.jpg",
-            "publishedAt": "2025-10-29 16:06:19"
-        },
-        {
-            "source": {
-                "name": "startupnews"
-            },
-            "title": "Donald Trump Is the First AI Slop President",
-            "url": "https://startupnews.fyi/2025/10/29/donald-trump-is-the-first-ai-slop-president/",
-            "urlToImage": "https://startupnews.fyi/wp-content/uploads/2025/10/politics_trump_ai_slop_president.jpg",
-            "publishedAt": "2025-10-29 16:03:02"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "New U.S. Solar Hydrogen Generator Powers Long-Endurance Drones",
-            "url": "https://www.forbes.com/sites/davidhambling/2025/10/29/new-us-solar-hydrogen-generator-powers-long-endurance-drones/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6900dc9f5c20050e791bf49b/0x0.jpg?width=960",
-            "publishedAt": "2025-10-29 16:00:28"
-        },
-        {
-            "source": {
-                "name": "newscientist"
-            },
-            "title": "'Most of it is good': Tim Berners-Lee on the state of the web now",
-            "url": "https://www.newscientist.com/article/2500499-most-of-it-is-good-tim-berners-lee-on-the-state-of-the-web-now/",
-            "urlToImage": "https://images.newscientist.com/wp-content/uploads/2025/10/17145204/SEI_270593289.jpg",
-            "publishedAt": "2025-10-29 16:00:26"
         }
     ]
 }
