@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-10-31T13:27:00.564105Z",
+    "lastUpdatedAt": "2025-10-31T14:15:40.028309Z",
     "articles": [
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Wall Street indexes fall as Meta, Microsoft drag, along with Fed rate concerns",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/wall-street-indexes-fall-as-meta-microsoft-drag-along-with-fed-rate-concerns/articleshow/124979653.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-124979700,width-1200,height-630,imgsize-108514,overlay-etmarkets/articleshow.jpg",
+            "publishedAt": "2025-10-31T02:05:00Z"
+        },
+        {
+            "source": {
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
+                "country": "in"
+            },
+            "title": "Meta Defies AI Spending Gloom With Its Record-Breaking Bond Sale",
+            "url": "https://www.ndtvprofit.com/global-economics/meta-defies-ai-spending-gloom-with-its-record-breaking-bond-sale",
+            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-10-31%2F0b3z5bxb%2F443205937.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+            "publishedAt": "2025-10-31T01:35:46Z"
+        },
         {
             "source": {
                 "id": "21468bec836de1ebb209ff6f78fbfe3e",
@@ -36,6 +60,24 @@
             "url": "https://www.globenewswire.com/news-release/2025/10/31/3178284/0/en/Surfshark-protects-against-phishing-attacks-with-the-email-scam-checker.html",
             "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/75b87eb0-cfa7-440b-8c16-4611c7780e8a",
             "publishedAt": "2025-10-31T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "deccanherald"
+            },
+            "title": "Labelling lies in AI age",
+            "url": "https://www.deccanherald.com/opinion/labelling-lies-in-ai-age-3781021",
+            "urlToImage": "https://media.assettype.com/deccanherald%2F2025-01-14%2Frp13kr4o%2F2024newsmlRC2Q56AIS51I1508284684.jpeg?auto=format%2Ccompress&fit=max&rect=0%2C0%2C3000%2C1688&w=undefined",
+            "publishedAt": "2025-10-31 01:37:39"
+        },
+        {
+            "source": {
+                "name": "gizmochina"
+            },
+            "title": "The Best Smartphones for Halloween Photography in 2025",
+            "url": "https://www.gizmochina.com/2025/10/31/best-smartphones-for-halloween-photography-in-2025/",
+            "urlToImage": "https://www.gizmochina.com/wp-content/uploads/2025/09/iPhone-17-Pro-1-696x469.jpeg?x70461=",
+            "publishedAt": "2025-10-31 01:30:00"
         },
         {
             "source": {
@@ -3246,42 +3288,6 @@
             "url": "https://www.nbcnews.com/news/us-news/assembly-god-church-shield-predators-child-sex-abuse-allegations-rcna240213",
             "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251028-Assemblies-Of-God-stephanie-davis-ew-500p-1b0f4a.jpg",
             "publishedAt": "2025-10-30 09:00:00"
-        },
-        {
-            "source": {
-                "name": "geeky_gadgets"
-            },
-            "title": "NVIDIA DGX Spark Mini Supercomputer Packs the Power of a Data Center",
-            "url": "https://www.geeky-gadgets.com/nvidia-dgx-spark-compact-ai-supercomputer/",
-            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/10/compact-mini-pc-for-ai-development_optimized.webp",
-            "publishedAt": "2025-10-30 08:42:08"
-        },
-        {
-            "source": {
-                "name": "computerweekly"
-            },
-            "title": "Equinix acquires DC01UK’s mega-datacentre site in Hertfordshire and plots £3.9bn investment",
-            "url": "https://www.computerweekly.com/news/366633714/Equinix-acquires-DC01UKs-mega-datacentre-site-in-Hertfordshire-and-plots-39bn-investment",
-            "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero%20Images/data-servers-datacentre-adobe_searchsitetablet_520X173.jpg",
-            "publishedAt": "2025-10-30 08:40:00"
-        },
-        {
-            "source": {
-                "name": "businessinsider_us"
-            },
-            "title": "A star OpenAI engineer says he's starting a new team to chase artificial superintelligence",
-            "url": "https://www.businessinsider.com/openai-sora-engineer-will-depue-new-team-artificial-superintelligence-2025-10",
-            "urlToImage": "https://i.insider.com/690302f5c007ca8c2737e798?width=700",
-            "publishedAt": "2025-10-30 08:10:20"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "SST vs LoRA: A Leaner, Smarter Way to Train AI Models",
-            "url": "https://hackernoon.com/sst-vs-lora-a-leaner-smarter-way-to-train-ai-models",
-            "urlToImage": "https://hackernoon.imgix.net/images/ai-training-algorithm-on-a-desktop-screen-s7xif4tqwdqp4158pjvemb2a.png",
-            "publishedAt": "2025-10-30 08:07:27"
         }
     ]
 }
