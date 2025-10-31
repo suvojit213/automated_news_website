@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2025-10-31T19:11:20.959428Z",
+    "lastUpdatedAt": "2025-10-31T20:17:28.898083Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Malaysia powers up Sovereign AI with Nvidia-backed data centre",
+            "url": "https://www.thestar.com.my/business/business-news/2025/10/31/malaysia-powers-up-sovereign-ai-with-nvidia-backed-data-centre",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/31/3599352.jpg",
+            "publishedAt": "2025-10-31T08:12:00Z"
+        },
+        {
+            "source": {
+                "id": "614a4b10b69af6cc657068ec6a59eaff",
+                "name": "Lawfare",
+                "url": "https://www.lawfaremedia.org",
+                "country": "us"
+            },
+            "title": "Peter Williams, Ex-ASD, Pleads Guilty to Selling Eight Exploits to Russia",
+            "url": "https://www.lawfaremedia.org/article/peter-williams--ex-asd--pleads-guilty-to-selling-eight-exploits-to-russia",
+            "urlToImage": "https://www.lawfaremedia.org/assets/icons/favicon-32x32.png",
+            "publishedAt": "2025-10-31T08:00:00Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "South Korea says Nvidia, Hyundai Motor to create $3 billion AI joint venture",
+            "url": "https://www.marketscreener.com/news/south-korea-says-nvidia-hyundai-motor-to-create-3-billion-ai-joint-venture-ce7d5cdbda80f62d",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2025-10-31T07:39:44Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Jio is offering Google Gemini Offer worth Rs 35,000: Check how to avail the offer, who are eligible",
+            "url": "https://economictimes.indiatimes.com/news/new-updates/reliance-google-partnership-offers-free-gemini-ai-access-for-jio-users-via-myjio-app/articleshow/124987890.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-124988024,width-1200,height-630,imgsize-99847,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-10-31T07:30:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "FastGPT Emerges as One of the Best No-code and Open-source AI Agent Builders for 2025, Empowering Enterprises to Build Smarter Workflows",
+            "url": "https://www.manilatimes.net/2025/10/31/tmt-newswire/pr-newswire/fastgpt-emerges-as-one-of-the-best-no-code-and-open-source-ai-agent-builders-for-2025-empowering-enterprises-to-build-smarter-workflows/2212939",
+            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+            "publishedAt": "2025-10-31T07:19:39Z"
+        },
         {
             "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -480,6 +540,81 @@
             "url": "https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001064",
             "urlToImage": "https://journals.plos.org/digitalhealth/article/figure/image?id=10.1371/journal.pdig.0001064.t003&size=inline",
             "publishedAt": "2025-10-31T00:00:00Z"
+        },
+        {
+            "source": {
+                "id": "8e9ab8327c5f7903cc1b50470411d165",
+                "name": "GlobeNewswire",
+                "url": "https://www.globenewswire.com",
+                "country": "us"
+            },
+            "title": "NexusTek’s Pavle Majerle Recognized as a CRN 2025 Next-Gen",
+            "url": "https://www.globenewswire.com/news-release/2025/10/31/3178598/0/en/NexusTek-s-Pavle-Majerle-Recognized-as-a-CRN-2025-Next-Gen-Solution-Provider-Leader.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/24322c0e-0ed5-4116-8057-8653a03fca96",
+            "publishedAt": "2025-10-31T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "computerweekly"
+            },
+            "title": "Capgemini and Siemens combine to make AI industrial tech",
+            "url": "https://www.computerweekly.com/news/366633912/Capgemini-and-Siemens-combine-to-make-AI-industrial-tech",
+            "urlToImage": "https://www.computerweekly.com/visuals/German/Ai-KI-robot-with-machine-Summit-Art-Creations-Adobe_searchsitetablet_520X173.jpg",
+            "publishedAt": "2025-10-31 08:15:00"
+        },
+        {
+            "source": {
+                "name": "businessinsider_us"
+            },
+            "title": "The biggest use case for AI videos: dumb pranks",
+            "url": "https://www.businessinsider.com/use-case-ai-videos-dumb-pranks-sora-tiktok-deepfakes-2025-10",
+            "urlToImage": "https://i.insider.com/69027655c007ca8c2737e02e?width=700",
+            "publishedAt": "2025-10-31 08:09:01"
+        },
+        {
+            "source": {
+                "name": "phys"
+            },
+            "title": "Researchers realize a driven-dissipative Ising spin glass using a cavity quantum electrodynamics setup",
+            "url": "https://phys.org/news/2025-10-driven-dissipative-ising-glass-cavity.html",
+            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2025/researchers-realize-a-2.jpg",
+            "publishedAt": "2025-10-31 08:00:01"
+        },
+        {
+            "source": {
+                "name": "thehansindia"
+            },
+            "title": "Tim Cook Hints at Major Apple Intelligence Upgrades as iPhone Sales Soar to Record Highs",
+            "url": "https://www.thehansindia.com/technology/tech-news/tim-cook-hints-at-major-apple-intelligence-upgrades-as-iphone-sales-soar-to-record-highs-1019301",
+            "urlToImage": "https://assets.thehansindia.com/h-upload/2025/10/31/1597658-tim-cook.webp",
+            "publishedAt": "2025-10-31 07:58:40"
+        },
+        {
+            "source": {
+                "name": "newsable_asianetnews"
+            },
+            "title": "NVDA Stock Rally Poised To Heat Up As Samsung Plans ‘AI Megafactory’ With 50,000 Nvidia GPUs",
+            "url": "https://newsable.asianetnews.com/markets/nvda-stock-rally-poised-to-heat-up-as-samsung-plans-ai-megafactory-with-50-000-nvidia-gpus-articleshow-udlshoi",
+            "urlToImage": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-dbbffb19-1a57-4afc-9be4-5ed66d46f63f.webp",
+            "publishedAt": "2025-10-31 07:45:39"
+        },
+        {
+            "source": {
+                "name": "abplive"
+            },
+            "title": "Bengaluru Software Engineer Buys Rs 1.86 Lakh Samsung Phone, Finds Tile In Box; FIR Registered",
+            "url": "https://news.abplive.com/cities/bengaluru-software-engineer-buys-rs-1-86-lakh-samsung-phone-finds-tile-in-box-fir-registered-yelachenahalli-1809065",
+            "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2025/10/31/382e4e60c8a8f6db5889dbca5ffd8cca1761896398077240_original.png",
+            "publishedAt": "2025-10-31 07:40:21"
+        },
+        {
+            "source": {
+                "name": "roboticsandautomationnews"
+            },
+            "title": "Why AI Takeoff Tools Are Becoming the New Standard for Competitive Contractors",
+            "url": "https://roboticsandautomationnews.com/2025/10/31/why-ai-takeoff-tools-are-becoming-the-new-standard-for-competitive-contractors/96089/",
+            "urlToImage": "https://roboticsandautomationnews.com/wp-content/uploads/2025/10/engineering-design-studio-1.jpg",
+            "publishedAt": "2025-10-31 07:28:18"
         },
         {
             "source": {
@@ -3291,123 +3426,6 @@
             "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-oracle-plan-1-gigawatt-stargate-data-center-in-michigan-with-related-digital/articleshow/124983370.cms",
             "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-200026,resizemode-75,msid-124983370/tech/artificial-intelligence/openai-oracle-plan-1-gigawatt-stargate-data-center-in-michigan-with-related-digital.jpg",
             "publishedAt": "2025-10-30 22:39:56"
-        },
-        {
-            "source": {
-                "name": "newsable_asianetnews"
-            },
-            "title": "Reliance Jio, Google team up to bring AI Pro to users for free",
-            "url": "https://newsable.asianetnews.com/business/reliance-jio-google-team-up-to-bring-ai-pro-to-users-for-free-articleshow-3ztfvqx",
-            "urlToImage": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-5ca2dff2-d6d4-46a0-82b9-6ce62c5d1905.jpg",
-            "publishedAt": "2025-10-30 22:35:25"
-        },
-        {
-            "source": {
-                "name": "interestingengineering"
-            },
-            "title": "Matrix collapses: Mathematics proves the universe cannot be a computer simulation",
-            "url": "https://interestingengineering.com/culture/mathematics-ends-matrix-simulation-theory",
-            "urlToImage": "https://cms.interestingengineering.com/wp-content/uploads/2025/10/Untitled-design-63-1.jpg",
-            "publishedAt": "2025-10-30 22:13:55"
-        },
-        {
-            "source": {
-                "name": "newyorker"
-            },
-            "title": "Will A.I. Destroy the Planet?",
-            "url": "https://www.newyorker.com/newsletter/the-daily/will-ai-destroy-the-planet",
-            "urlToImage": "https://media.newyorker.com/photos/66bbc14a3a338ff378df3b0c/16:9/w_1280,c_limit/newsletter-flagship-daily-header2.png",
-            "publishedAt": "2025-10-30 22:00:00"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Building at Production Speed: How Multi-Tenant Systems are Shaping Software Delivery",
-            "url": "https://hackernoon.com/building-at-production-speed-how-multi-tenant-systems-are-shaping-software-delivery",
-            "urlToImage": "https://hackernoon.imgix.net/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-yp03bkb.png",
-            "publishedAt": "2025-10-30 21:37:27"
-        },
-        {
-            "source": {
-                "name": "kdhnews"
-            },
-            "title": "GOP lawmakers urge Trump administration to back Falun Gong lawsuit against Cisco",
-            "url": "https://kdhnews.com/business/technology/gop-lawmakers-urge-trump-administration-to-back-falun-gong-lawsuit-against-cisco/article_6c7efdc7-1484-5e86-a019-cb23b3ea04d5.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/assets/v3/editorial/4/76/4762af7d-b084-57de-ae51-a9d285c5426f/690393eb8f7d2.image.jpg?resize=400%2C267",
-            "publishedAt": "2025-10-30 21:36:10"
-        },
-        {
-            "source": {
-                "name": "cnet"
-            },
-            "title": "Best VPN for Android for 2025: Protect Your Privacy On the Go",
-            "url": "https://www.cnet.com/tech/services-and-software/best-android-vpn/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/9846cf204cbdcc901171f662872d79c1b58c7958/hub/2024/05/27/02bfe068-73fd-4cac-aca3-970e07949c97/vpn-for-android.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-10-30 21:26:00"
-        },
-        {
-            "source": {
-                "name": "roboticstomorrow"
-            },
-            "title": "RealMan Unveils RealBOT Embodied Open Platform at IROS 2025",
-            "url": "http://www.roboticstomorrow.com/news/2025/10/30/realman-unveils-realbot-embodied-open-platform-at-iros-2025/25753",
-            "urlToImage": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
-            "publishedAt": "2025-10-30 21:19:12"
-        },
-        {
-            "source": {
-                "name": "channelnewsasia"
-            },
-            "title": "OpenAI, Oracle, Related Digital announce new Stargate data center in Michigan",
-            "url": "https://www.channelnewsasia.com/business/openai-oracle-related-digital-announce-new-stargate-data-center-in-michigan-5436441",
-            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--gHABGRjD--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2025-10-30T203802Z_1_LYNXMPEL9T174_RTROPTP_3_MICROSOFT-OPENAI.JPG?itok=t5HGD6Lm",
-            "publishedAt": "2025-10-30 20:38:02"
-        },
-        {
-            "source": {
-                "name": "fbherald"
-            },
-            "title": "OpenAI, Oracle, and Related Digital Announce Stargate Data Center Site in Michigan",
-            "url": "https://www.fbherald.com/online_features/press_releases/openai-oracle-and-related-digital-announce-stargate-data-center-site-in-michigan/article_2c732ae5-477a-56b6-bfff-55f17b12016e.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/fbherald.com/content/tncms/custom/image/5e06dd4e-3beb-11ec-89e8-ebe74271bae8.jpg?resize=600%2C225",
-            "publishedAt": "2025-10-30 20:31:00"
-        },
-        {
-            "source": {
-                "name": "norfolkdailynews"
-            },
-            "title": "OpenAI, Oracle, and Related Digital Announce Stargate Data Center Site in Michigan",
-            "url": "https://norfolkdailynews.com/online_features/press_releases/openai-oracle-and-related-digital-announce-stargate-data-center-site-in-michigan/article_6d0c1bc4-e076-5068-a744-c649ceb08690.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/norfolkdailynews.com/content/tncms/custom/image/72aed2a4-e15d-11e5-99a9-77342f37c000.jpg?resize=600%2C315",
-            "publishedAt": "2025-10-30 20:31:00"
-        },
-        {
-            "source": {
-                "name": "themercury"
-            },
-            "title": "OpenAI, Oracle, and Related Digital Announce Stargate Data Center Site in Michigan",
-            "url": "https://themercury.com/online_features/press_releases/openai-oracle-and-related-digital-announce-stargate-data-center-site-in-michigan/article_9729beea-bd0a-5554-ba5e-a3a28ba471db.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/themercury.com/content/tncms/custom/image/47283276-d683-11e6-9ad2-7311962f5570.jpg?resize=600%2C315",
-            "publishedAt": "2025-10-30 20:31:00"
-        },
-        {
-            "source": {
-                "name": "sweetwaterreporter"
-            },
-            "title": "OpenAI, Oracle, and Related Digital Announce Stargate Data Center Site in Michigan",
-            "url": "https://www.sweetwaterreporter.com/online_features/press_releases/openai-oracle-and-related-digital-announce-stargate-data-center-site-in-michigan/article_ba2b7dcf-edf6-5145-a1fc-3dc0e1b200ef.html",
-            "urlToImage": "https://edge.prnewswire.com/c/img/favicon.png?sd=2025-10-30&sn=NY11692",
-            "publishedAt": "2025-10-30 20:31:00"
-        },
-        {
-            "source": {
-                "name": "arstechnica"
-            },
-            "title": "Caught cheating in class, college students “apologized” using AI—and profs called them out",
-            "url": "https://arstechnica.com/culture/2025/10/when-caught-cheating-in-college-dont-apologize-with-ai/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2190439539-1152x648-1761852319.jpg",
-            "publishedAt": "2025-10-30 20:17:46"
         }
     ]
 }
