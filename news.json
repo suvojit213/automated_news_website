@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2025-11-01T09:14:38.878062Z",
+    "lastUpdatedAt": "2025-11-01T10:14:42.797653Z",
     "articles": [
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Tech Up After Amazon, Apple Earnings -- Tech Roundup",
+            "url": "https://www.marketscreener.com/news/tech-up-after-amazon-apple-earnings-tech-roundup-ce7d5cd8da88f426",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2025-10-31T22:11:13Z"
+        },
+        {
+            "source": {
+                "id": "8c6e9834b8fccfc4c516038dbb543005",
+                "name": "The London Free Press",
+                "url": "https://lfpress.com",
+                "country": "gb"
+            },
+            "title": "Oxford County cyberattack linked to dark web ransomware group",
+            "url": "https://lfpress.com/news/local-news/oxford-county-cyberattack-linked-to-dark-web-ransomware-group",
+            "urlToImage": "https://smartcdn.gprod.postmedia.digital/lfpress/wp-content/uploads/2024/10/OxfordCounty4.WD_.jpg",
+            "publishedAt": "2025-10-31T21:58:54Z"
+        },
+        {
+            "source": {
+                "id": "09dc1bda762f4f787cec10477a894d96",
+                "name": "Toronto Sun",
+                "url": "https://torontosun.com",
+                "country": "ca"
+            },
+            "title": "Southwestern Ontario cyberattack linked to dark web ransomware group",
+            "url": "https://torontosun.com/news/local-news/oxford-county-cyberattack-linked-to-dark-web-ransomware-group/wcm/b0128000-6901-4c2c-983c-da90e5df3c93",
+            "urlToImage": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2025/10/OxfordCounty4.WD_.jpg",
+            "publishedAt": "2025-10-31T21:58:54Z"
+        },
+        {
+            "source": {
+                "id": "1a3615c1358e4d862525999bb4b2aa01",
+                "name": "The Expositor",
+                "url": "https://www.brantfordexpositor.ca",
+                "country": "ca"
+            },
+            "title": "Oxford County cyberattack linked to dark web ransomware group",
+            "url": "https://www.brantfordexpositor.ca/news/local-news/oxford-county-cyberattack-linked-to-dark-web-ransomware-group/wcm/52846070-cda0-47b5-81ff-07f60a279b37",
+            "urlToImage": "https://smartcdn.gprod.postmedia.digital/nexus/wp-content/uploads/2025/10/OxfordCounty4.WD_-4.jpg",
+            "publishedAt": "2025-10-31T21:58:54Z"
+        },
+        {
+            "source": {
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
+                "country": "us"
+            },
+            "title": "Is Nvidia Stock (NVDA) Rising on Its Next $1B AI Play?",
+            "url": "https://markets.businessinsider.com/news/stocks/is-nvidia-stock-nvda-rising-on-its-next-1b-ai-play-1035464627",
+            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/10/image-2903-1024x762.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+            "publishedAt": "2025-10-31T21:39:00Z"
+        },
+        {
+            "source": {
+                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
+                "name": "TechStartups.com",
+                "url": "https://techstartups.com",
+                "country": "us"
+            },
+            "title": "The Hidden Debt Behind the AI Boom: How Meta and xAI Are Quietly Raising Billions to Finance AI Investments",
+            "url": "https://techstartups.com/2025/10/31/the-hidden-debt-behind-the-ai-boom-how-meta-and-xai-are-quietly-raising-billions-to-finance-ai-investments/",
+            "urlToImage": "https://techstartups.com/wp-content/uploads/2025/10/The-Hidden-Debt-Behind-the-AI-Boom.jpg",
+            "publishedAt": "2025-10-31T21:29:33Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Lucas GC Limited Announces 1H 2025 Financial Results: Revenue at US$54.01 million with Increases in Gross Margin",
+            "url": "https://www.manilatimes.net/2025/11/01/tmt-newswire/globenewswire/lucas-gc-limited-announces-1h-2025-financial-results-revenue-at-us5401-million-with-increases-in-gross-margin/2213479",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/11/01/807872.jpg",
+            "publishedAt": "2025-10-31T21:18:02Z"
+        },
         {
             "source": {
                 "id": "11d4381a1e8f7aca7628d0319a52a040",
@@ -1575,6 +1659,51 @@
         },
         {
             "source": {
+                "name": "headtopics"
+            },
+            "title": "US DOE Taps Nvidia, AMD, And Oracle For Powerful New AI Supercomputers",
+            "url": "https://us.headtopics.com/news/us-doe-taps-nvidia-amd-and-oracle-for-powerful-new-ai-75194450",
+            "urlToImage": "https://i.headtopics.com/images/2025/10/30/forbestech/doe-releases-fusion-energy-roadmap-for-commerciali-doe-releases-fusion-energy-roadmap-for-commerciali-3EB03F4C9CF8ABF633C101C649BAAD32.webp?w=640",
+            "publishedAt": "2025-10-31 22:09:52"
+        },
+        {
+            "source": {
+                "name": "headtopics"
+            },
+            "title": "Waabi And Volvo Reach Key Goal In Integrating Driverless Tech",
+            "url": "https://us.headtopics.com/news/waabi-and-volvo-reach-key-goal-in-integrating-driverless-75194441",
+            "urlToImage": "https://i.headtopics.com/images/2025/10/29/komonews/waymo-looks-to-seattle-expansion-with-driverless-c-waymo-looks-to-seattle-expansion-with-driverless-c-F02779051602194AD268FABF818BBF88.webp?w=640",
+            "publishedAt": "2025-10-31 22:09:05"
+        },
+        {
+            "source": {
+                "name": "astrobiology"
+            },
+            "title": "Atmospheric Collapse And re-inflation Through Impacts For Terrestrial Planets Around M Dwarfs",
+            "url": "https://astrobiology.com/2025/10/atmospheric-collapse-and-re-inflation-through-impacts-for-terrestrial-planets-around-m-dwarfs.html",
+            "urlToImage": "https://astrobiology.com/wp-content/uploads/2025/10/Atmospheric-collapse-and-re-inflation.png",
+            "publishedAt": "2025-10-31 21:36:22"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "US DOE Taps Nvidia, AMD, And Oracle For Quartet Of Powerful AI Supercomputers",
+            "url": "https://www.forbes.com/sites/marcochiappetta/2025/10/31/us-doe-taps-nvidia-amd-and-oracle-for-quartet-of-powerful-ai-supercomputers/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69052883a2809ba064c84848/0x0.jpg?width=960",
+            "publishedAt": "2025-10-31 21:34:41"
+        },
+        {
+            "source": {
+                "name": "siliconangle"
+            },
+            "title": "How AI-Kubernetes integration brings cloud intelligence to the edge",
+            "url": "https://siliconangle.com/2025/10/31/ai-kubernetes-integration-vast-data-redefines-cloud-native-edge-computing-kubeconna/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/10/Alon-Horev-Clean.jpg",
+            "publishedAt": "2025-10-31 21:18:41"
+        },
+        {
+            "source": {
                 "name": "startupnews"
             },
             "title": "Bill Gates recently warned of an AI bubble — likening it to the dot-com era’s hype-driven overvaluations: “There are a ton of these investments that will be dead ends.”",
@@ -2994,150 +3123,6 @@
             "url": "https://www.thestar.com.my/tech/tech-news/2025/10/31/meta-to-issue-bonds-worth-up-to-30-billion",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/31/3598455.jpg",
             "publishedAt": "2025-10-30T23:43:00Z"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            },
-            "title": "Apple isn't playing the same AI capex game as the rest of the megacaps",
-            "url": "https://www.cnbc.com/2025/10/30/apple-isnt-playing-the-same-ai-capex-game-as-the-rest-of-the-megacaps.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108196778-1757507590799-gettyimages-2234563479-_73a3022_jnkqswz6.jpeg?v=1761864974&w=1920&h=1080",
-            "publishedAt": "2025-10-30T23:37:36Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "OpenAI, Oracle plan 1 gigawatt Stargate data center in Michigan with Related Digital",
-            "url": "https://www.thestar.com.my/tech/tech-news/2025/10/31/openai-oracle-related-digital-announce-new-stargate-data-center-in-michigan",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/31/3598443.jpg",
-            "publishedAt": "2025-10-30T23:28:00Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "AI Frenzy Fueling Tech Dominance Rewrites Asia’s Market Playbook",
-            "url": "https://www.bloomberg.com/news/articles/2025-10-30/ai-frenzy-fueling-tech-dominance-rewrites-asia-s-market-playbook",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJdMGPMtjhQo/v0/1200x800.jpg",
-            "publishedAt": "2025-10-30T23:00:00Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Atlassian forecasts second-quarter revenue above estimates on AI demand boost",
-            "url": "https://www.reuters.com/business/atlassian-forecasts-second-quarter-revenue-above-estimates-ai-demand-boost-2025-10-30/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/SQUZXZF6CZMMTPIENRGTEBHGXM.jpg?auth=f4fdf86b19ee647ec415d1fa3c35b82eaf6f4422da7d57d8933252a7668d5619&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-10-30T22:46:49Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Tech Down After Meta Earnings -- Tech Roundup",
-            "url": "https://www.marketscreener.com/news/tech-down-after-meta-earnings-tech-roundup-ce7d5cdad18ff72d",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2025-10-30T22:45:12Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Meta Defies AI Spending Gloom With Its Record-Breaking Bond Sale",
-            "url": "https://www.bloomberg.com/news/articles/2025-10-30/meta-defies-ai-spending-gloom-with-its-record-breaking-bond-sale",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ik6SFUIi_6yk/v0/1200x800.jpg",
-            "publishedAt": "2025-10-30T22:11:31Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "GoDaddy raises 2025 revenue forecast on AI-driven demand",
-            "url": "https://www.reuters.com/technology/godaddy-raises-2025-revenue-forecast-ai-driven-demand-2025-10-30/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-10-30T21:24:41Z"
-        },
-        {
-            "source": {
-                "id": "79e9a45376a66fd7e1a4e68bba928c39",
-                "name": "The Atlanta Journal-Constitution",
-                "url": "https://www.ajc.com",
-                "country": "us"
-            },
-            "title": "Apple delivers strong quarter despite iPhone sales slowdown and ongoing artificial technology issues",
-            "url": "https://www.ajc.com/news/2025/10/apple-delivers-strong-quarter-despite-iphone-sales-slowdown-and-ongoing-artificial-technology-issues/",
-            "urlToImage": "https://www.ajc.com/resizer/v2/NZARJYPCOFEUNJX5ATJ2GP5GWE.jpg?auth=fdc73b3c7bace132d36c0fbf33d0c88717f36283d8142d406623b81633713507&width=1200&height=630&smart=true",
-            "publishedAt": "2025-10-30T21:23:00Z"
-        },
-        {
-            "source": {
-                "id": "1b697445987e8a33f6c82842e17d60d9",
-                "name": "Bnn Bloomberg",
-                "url": "https://www.bnnbloomberg.ca",
-                "country": "ca"
-            },
-            "title": "Apple delivers strong quarter despite iPhone sales slowdown and ongoing artificial technology issues",
-            "url": "https://www.bnnbloomberg.ca/business/company-news/2025/10/30/apple-delivers-strong-quarter-despite-iphone-sales-slowdown-and-ongoing-artificial-technology-issues/",
-            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/ZD45FZWM52PEMX4OVKXLXH2QLE.jpg?smart=true&auth=ccf90b4e60c78cb11f490cc9b93dbef042b27e2e4027f3c00f7703243b7ff036&width=1200&height=630",
-            "publishedAt": "2025-10-30T21:20:03Z"
-        },
-        {
-            "source": {
-                "id": "c1903669db0b115cc673ce9c333a70dd",
-                "name": "Charleston Post and Courier",
-                "url": "https://www.postandcourier.com",
-                "country": "us"
-            },
-            "title": "Uphold ownership rights to protect creative labor from AI",
-            "url": "https://www.postandcourier.com/opinion/commentary/artificial-intelligence-copyright-laws-protect-creative-labor/article_0ea46b54-51d2-4a99-9f63-6af5b6725b9e.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/5/cc/5cc05cda-5bb0-404c-b6ef-937ade59f30e/60bf56a41c624.image.jpg?crop=1284%2C674%2C0%2C308&resize=1200%2C630&order=crop%2Cresize",
-            "publishedAt": "2025-10-30T21:15:00Z"
-        },
-        {
-            "source": {
-                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
-                "name": "The Associated Press",
-                "url": "https://apnews.com",
-                "country": "us"
-            },
-            "title": "Apple delivers strong quarter despite iPhone sales slowdown",
-            "url": "https://apnews.com/article/apple-iphone-sales-earnings-ai-4e2a5c6f77876529d189c56b905a03b2",
-            "urlToImage": "https://dims.apnews.com/dims4/default/f264c54/2147483647/strip/true/crop/5616x3159+0+293/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8f%2F12%2Fd12d7fa02fdaa0bb94b287080cbd%2F9ffe113ddbf245729d6e20123e3c9fb0",
-            "publishedAt": "2025-10-30T21:10:54Z"
-        },
-        {
-            "source": {
-                "id": "35515662ec044d3f94b543cd8802d63f",
-                "name": "WDIV ClickOnDetroit",
-                "url": "https://www.clickondetroit.com",
-                "country": "us"
-            },
-            "title": "Apple delivers strong quarter despite iPhone sales slowdown and ongoing artificial technology issues",
-            "url": "https://www.clickondetroit.com/business/2025/10/30/apple-delivers-strong-quarter-despite-iphone-sales-slowdown-and-ongoing-artificial-technology-issues/",
-            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/INNMTTI2XZFZFK66F6RAIBZOVU.jpg?_a=DATAg1eAZAA0",
-            "publishedAt": "2025-10-30T21:10:53Z"
         }
     ]
 }
