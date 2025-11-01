@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-11-01T06:20:50.019119Z",
+    "lastUpdatedAt": "2025-11-01T07:13:50.986426Z",
     "articles": [
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "“We Got Hacked”: Penn community shaken after fraudulent emails circulate from school accounts",
+            "url": "https://economictimes.indiatimes.com/news/international/us/we-got-hacked-penn-community-shaken-after-fraudulent-emails-circulate-from-school-accounts/articleshow/125003398.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-125003398,width-1200,height-630,imgsize-30116,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-10-31T18:59:00Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Amazon's 'Coiled Spring' Thesis Plays Out as AWS Growth Accelerates and AI Demand Rises in Q3, UBS Says",
+            "url": "https://www.marketscreener.com/news/amazon-s-coiled-spring-thesis-plays-out-as-aws-growth-accelerates-and-ai-demand-rises-in-q3-ubs-s-ce7d5cd8db88f527",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2025-10-31T18:45:11Z"
+        },
+        {
+            "source": {
+                "id": "b683218c3952d77a76b7bda7512f2f6e",
+                "name": "WIRED",
+                "url": "https://www.wired.com",
+                "country": "us"
+            },
+            "title": "Meta Claims Downloaded Porn at Center of AI Lawsuit Was for ‘Personal Use’",
+            "url": "https://www.wired.com/story/meta-claims-downloaded-porn-at-center-of-ai-lawsuit-was-for-personal-use/",
+            "urlToImage": "https://media.wired.com/photos/6904c9a2f67493a12f9cae33/191:100/w_1280,c_limit/biz-meta-ai-porn-645731247.jpg",
+            "publishedAt": "2025-10-31T18:34:14Z"
+        },
+        {
+            "source": {
+                "id": "34cc62608b4607dc3a776802caadb7bd",
+                "name": "ThePrint",
+                "url": "https://theprint.in",
+                "country": "in"
+            },
+            "title": "Climate change, AI, economic development require collective, empathetic, strategic collaboration: VP",
+            "url": "https://theprint.in/india/climate-change-ai-economic-development-require-collective-empathetic-strategic-collaboration-vp/2774953/",
+            "urlToImage": "https://static.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
+            "publishedAt": "2025-10-31T18:30:04Z"
+        },
         {
             "source": {
                 "id": "c5725557f39c24c8b029ee39900a8406",
@@ -1392,6 +1440,87 @@
             "url": "https://www.globenewswire.com/news-release/2025/10/31/3178598/0/en/NexusTek-s-Pavle-Majerle-Recognized-as-a-CRN-2025-Next-Gen-Solution-Provider-Leader.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/24322c0e-0ed5-4116-8057-8653a03fca96",
             "publishedAt": "2025-10-31T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "cornelledu"
+            },
+            "title": "Professor Vitaly Shmatikov Wins Test of Time Award for Deep Learning Research",
+            "url": "https://tech.cornell.edu/news/vitaly-shmatikov-test-of-time/",
+            "urlToImage": "https://tech.cornell.edu/wp-content/uploads/2025/10/2024_1060_PN_886-450x300.jpg",
+            "publishedAt": "2025-10-31 19:07:48"
+        },
+        {
+            "source": {
+                "name": "siliconangle"
+            },
+            "title": "Inside Cisco and Nvidia’s new N9100 switch and WWT’s role in scaling AI infrastructure",
+            "url": "https://siliconangle.com/2025/10/31/cisco-n9100-switch-wwt-ai-infrastructure-nvidiagtcdc/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/10/IMG_9434.jpg",
+            "publishedAt": "2025-10-31 19:05:15"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Apple Open to AI Mergers for Intelligence Boost Beyond OpenAI",
+            "url": "https://www.webpronews.com/apple-open-to-ai-mergers-for-intelligence-boost-beyond-openai/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-766f61b5-c9e8-48d8-a9e0-7288578cd725.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-10-31 19:03:31"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Microsoft Report: AI Fastest-Adopted Tech, Widens Global Inequality Gaps",
+            "url": "https://www.webpronews.com/microsoft-report-ai-fastest-adopted-tech-widens-global-inequality-gaps/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-e49ccdf4-594d-4be7-8385-7b70480320c0.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-10-31 19:03:19"
+        },
+        {
+            "source": {
+                "name": "chromeunboxed"
+            },
+            "title": "Some comments from Google CEO Sundar Pichai about Google’s first $100 billion quarter",
+            "url": "https://chromeunboxed.com/some-comments-from-google-ceo-sundar-pichai-about-googles-first-100-billion-quarter/",
+            "urlToImage": "https://chromeunboxed.com/wp-content/uploads/2025/10/GoogleQuarterlyEarningsCall100Billion.webp",
+            "publishedAt": "2025-10-31 18:59:40"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Ubuntu Launches Architecture-Specific Variants for Optimal Performance",
+            "url": "https://www.webpronews.com/ubuntu-launches-architecture-specific-variants-for-optimal-performance/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-1e5ac600-a09b-4d7a-9a6b-d179f8b4a750.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-10-31 18:46:20"
+        },
+        {
+            "source": {
+                "name": "esecurityplanet"
+            },
+            "title": "New Exploit Can Crash Chromium Browsers Worldwide",
+            "url": "https://www.esecurityplanet.com/threats/new-exploit-can-crash-chromium-browsers-worldwide/",
+            "urlToImage": "https://assets.esecurityplanet.com/uploads/2025/10/photo-1668853907314-e93ecf0526bc-3.jpeg-3.jpeg",
+            "publishedAt": "2025-10-31 18:42:30"
+        },
+        {
+            "source": {
+                "name": "zephyrnet"
+            },
+            "title": "Revolutionizing Shapes: The Polygon Transformation Explained",
+            "url": "https://zephyrnet.com/revolutionizing-shapes-the-polygon-transformation-explained/",
+            "urlToImage": "https://zephyrnet.com/wp-content/uploads/img-UH5loTauGUlcGVcnSffmx9UP.png",
+            "publishedAt": "2025-10-31 18:37:22"
+        },
+        {
+            "source": {
+                "name": "theprint"
+            },
+            "title": "SubscriberWrites: Making your career AI proof",
+            "url": "https://theprint.in/yourturn/subscriberwrites-making-your-career-ai-proof/2774939/",
+            "urlToImage": "https://static.theprint.in/wp-content/uploads/2024/09/ANI-20240915060442-e1726822609581.jpg",
+            "publishedAt": "2025-10-31 18:35:07"
         },
         {
             "source": {
@@ -3060,162 +3189,6 @@
             "url": "https://www.devdiscourse.com/article/headlines/3679305-germany-considers-financing-deutsche-telekom-to-replace-huawei-equipment",
             "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/03_09_2025_10_13_28_2811791.png?width=920&format=jpeg",
             "publishedAt": "2025-10-30T16:57:54Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Wall Street’s Love of AI Cost Cuts Sends C.H. Robinson Soaring",
-            "url": "https://www.bloomberg.com/news/articles/2025-10-30/wall-street-s-love-of-ai-cost-cuts-sends-c-h-robinson-soaring",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRkpzDy9tmcU/v1/1200x800.jpg",
-            "publishedAt": "2025-10-30T16:48:13Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Alert Issued on Vulnerabilities in Google Chrome and GitLab",
-            "url": "https://www.devdiscourse.com/article/technology/3679290-alert-issued-on-vulnerabilities-in-google-chrome-and-gitlab",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_16_59_02_2201424.jpg?width=920&format=jpeg",
-            "publishedAt": "2025-10-30T16:43:20Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "How Artificial Intelligence Is Transforming Online Fraud Detection in 2025",
-            "url": "https://techbullion.com/how-artificial-intelligence-is-transforming-online-fraud-detection-in-2025/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/10/Screenshot-2025-10-30-214549.png",
-            "publishedAt": "2025-10-30T16:41:16Z"
-        },
-        {
-            "source": {
-                "id": "59749bcce0ec90ed59071c45c44738b7",
-                "name": "Siliconrepublic.com",
-                "url": "https://www.siliconrepublic.com",
-                "country": "ie"
-            },
-            "title": "Top tips to prepare for a cybersecurity job interview",
-            "url": "https://www.siliconrepublic.com/advice/top-tips-prepare-cybersecurity-job-interview-skills",
-            "urlToImage": "https://www.siliconrepublic.com/wp-content/uploads/2025/10/Cyber-job-interview.jpeg",
-            "publishedAt": "2025-10-30T16:33:23Z"
-        },
-        {
-            "source": {
-                "id": "030c5dba023e9d86baf723c66c9de9f4",
-                "name": "stiripesurse.ro",
-                "url": "https://www.stiripesurse.ro",
-                "country": "ro"
-            },
-            "title": "Energy official: CRISCE establishment progressing along interministerial regulatory approval process",
-            "url": "https://www.stiripesurse.ro/energy-official-crisce-establishment-progressing-along-interministerial-regulatory-approval-process_3826101",
-            "urlToImage": "https://www.stiripesurse.ro/media/images/202006/media-159350949064508200.webp",
-            "publishedAt": "2025-10-30T16:26:07Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "'Betrayed US and its allies': Australian executive pleads guilty to selling American cyber secrets to Russia",
-            "url": "https://timesofindia.indiatimes.com/world/us/betrayed-us-and-its-allies-australian-executive-pleads-guilty-to-selling-american-cyber-secrets-to-russia/articleshow/124954422.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-124961027,width-1070,height-580,imgsize-965287,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "publishedAt": "2025-10-30T16:23:00Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "Where does human thinking end and AI begin? An AI authorship protocol aims to show the difference",
-            "url": "https://phys.org/news/2025-10-human-ai-authorship-protocol-aims.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2022/ai.jpg",
-            "publishedAt": "2025-10-30T16:22:05Z"
-        },
-        {
-            "source": {
-                "id": "6b5614f288c2ce8fcedc9909a3e2696b",
-                "name": "Metro.co.uk",
-                "url": "https://metro.co.uk",
-                "country": "gb"
-            },
-            "title": "No more turbulence as airline makes major change to reduce risk of bumpy flights",
-            "url": "https://metro.co.uk/2025/10/30/no-turbulence-airline-makes-major-change-reduce-risk-bumpy-flights-24568951/",
-            "urlToImage": "https://metro.co.uk/wp-content/uploads/2025/10/GettyImages-1280183303_1761840793.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
-            "publishedAt": "2025-10-30T16:10:02Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "FiveCrypto Launches Sustainable AI Computing Contracts",
-            "url": "https://techbullion.com/fivecrypto-launches-sustainable-ai-computing-contracts/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/10/download-51-1000x600.png",
-            "publishedAt": "2025-10-30T16:06:13Z"
-        },
-        {
-            "source": {
-                "id": "fd3677545b80d5db7541de8e111d27ba",
-                "name": "Moneycontrol",
-                "url": "https://www.moneycontrol.com",
-                "country": "in"
-            },
-            "title": "MC India Web 3.0: India among most cyber-attacked nations, needs centralised cyber security body, says former cybersecurity coordinator",
-            "url": "https://www.moneycontrol.com/news/business/economy/mc-india-web-3-0-india-among-most-cyber-attacked-nations-needs-centralised-cyber-security-body-says-former-cybersecurity-coordinator-13643704.html",
-            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2025/10/20251030160450_Rajesh-Pant.png",
-            "publishedAt": "2025-10-30T16:03:29Z"
-        },
-        {
-            "source": {
-                "id": "b33a42ef1c098421f66aad47a76d6a3c",
-                "name": "The Hindu",
-                "url": "https://www.thehindu.com",
-                "country": "in"
-            },
-            "title": "AI-assisted scheduling to power ailing KSRTC",
-            "url": "https://www.thehindu.com/news/national/kerala/ai-assisted-scheduling-to-power-ailing-ksrtc/article70222007.ece",
-            "urlToImage": "https://www.thehindu.com/theme/images/og-image.png",
-            "publishedAt": "2025-10-30T16:00:07Z"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            },
-            "title": "Amazon (AMZN) Q3 earnings report 2025",
-            "url": "https://www.cnbc.com/2025/10/30/amazon-amzn-q3-earnings-report-2025.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108139644-1746130974818-108139644-1746130763914-gettyimages-2201505679-ALEXA_AI_UNVEILING.jpeg?v=1761833231&w=1920&h=1080",
-            "publishedAt": "2025-10-30T16:00:01Z"
-        },
-        {
-            "source": {
-                "id": "f4d035ae0463df22c36ae97972a33ba6",
-                "name": "PR Newswire UK",
-                "url": "https://www.prnewswire.co.uk",
-                "country": "gb"
-            },
-            "title": "Alif Semiconductor elevates generative AI at the edge with new support for ExecuTorch Runtime in its Ensemble MCUs",
-            "url": "https://www.prnewswire.co.uk/news-releases/alif-semiconductor-elevates-generative-ai-at-the-edge-with-new-support-for-executorch-runtime-in-its-ensemble-mcus-302599836.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2809320/Alif_ExecuTorch.jpg?p=facebook",
-            "publishedAt": "2025-10-30T16:00:00Z"
         }
     ]
 }
