@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-11-01T13:20:35.601441Z",
+    "lastUpdatedAt": "2025-11-01T14:12:56.094549Z",
     "articles": [
+        {
+            "source": {
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
+            },
+            "title": "South Korea's Lee hopes to tackle AI and demographic issues at APEC summit",
+            "url": "https://www.straitstimes.com/asia/South-Koreas-Lee-hopes-to-tackle-AI-and-demographic-issues-at-APEC-summit",
+            "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/dbd3a871c38323e75b75f171582e8c0829f38a734e4c36fd0bb89f5035424677",
+            "publishedAt": "2025-11-01T01:56:20Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "South Korea's Lee hopes to tackle AI and demographic issues at APEC summit",
+            "url": "https://www.reuters.com/world/china/south-koreas-lee-hopes-tackle-ai-demographic-issues-apec-summit-2025-11-01/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/QC4ALRZQTNIAHFGUQRS3LPVTAY.jpg?auth=be98d256e087ca8fd00d48117dabcfec560938312bb0ca034abcff23598de943&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-11-01T01:55:21Z"
+        },
         {
             "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -75,6 +99,24 @@
         },
         {
             "source": {
+                "name": "zdnet"
+            },
+            "title": "Thinking of buying an Arm-based Windows PC? These three issues might be dealbreakers",
+            "url": "https://www.zdnet.com/article/thinking-of-buying-an-arm-based-windows-pc-these-three-issues-might-be-dealbreakers/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/2fbfa1b786b44cc416a3c4f53493bd360c81c390/2025/03/03/e77fb3c4-ca79-45c4-b378-5fd2624ac666/dsc04272.jpg?auto=webp&width=1280",
+            "publishedAt": "2025-11-01 02:00:25"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "AI Chips For The Future",
+            "url": "https://www.forbes.com/sites/johnwerner/2025/10/31/ai-chips-for-the-future/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6712953a7342c1f14da300fc/0x0.jpg?width=960",
+            "publishedAt": "2025-11-01 01:47:51"
+        },
+        {
+            "source": {
                 "name": "menafn"
             },
             "title": "SK Group, Nvidia To Build Massive AI Factory With Over 50,000 Gpus",
@@ -107,6 +149,15 @@
             "title": "The Smartest Technology Stock to Buy With $200 Right Now",
             "url": "https://www.fool.com/investing/2025/11/01/the-smartest-technology-stock-to-buy-with-200-now/",
             "urlToImage": "https://g.foolcdn.com/editorial/images/839127/professional_smiling_while_looking_at_a_laptop.jpg",
+            "publishedAt": "2025-11-01 00:00:00"
+        },
+        {
+            "source": {
+                "name": "financialcontent"
+            },
+            "title": "3 Cheap Tech Stocks to Buy Right Now",
+            "url": "https://www.fool.com/investing/2025/11/01/3-cheap-tech-stocks-to-buy-right-now/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/839878/piggy-bank-kiss.jpg",
             "publishedAt": "2025-11-01 00:00:00"
         },
         {
@@ -3090,51 +3141,6 @@
             "url": "https://www.romesentinel.com/online_features/press_releases/xinhua-silk-road-unleashing-digital-potential-to-unlock-new-vitality-of-liquor-industry/article_5be92cc2-2149-5927-861e-7acab092c92c.html",
             "urlToImage": "https://bloximages.chicago2.vip.townnews.com/romesentinel.com/content/tncms/custom/image/419ec284-f5a3-11ed-a31e-ab8ff79ed4fa.jpg?resize=600%2C315",
             "publishedAt": "2025-10-31 04:13:00"
-        },
-        {
-            "source": {
-                "name": "auburnpub"
-            },
-            "title": "Xinhua Silk Road: Unleashing digital potential to unlock new vitality of liquor industry",
-            "url": "https://auburnpub.com/online_features/press_releases/article_1153a911-3602-5414-be50-dce2bdd04b54.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/auburnpub.com/content/tncms/custom/image/d462ca50-9db1-11ee-8fb0-3769c4efa055.png?resize=600%2C315",
-            "publishedAt": "2025-10-31 04:13:00"
-        },
-        {
-            "source": {
-                "name": "timesargus"
-            },
-            "title": "Xinhua Silk Road: Unleashing digital potential to unlock new vitality of liquor industry",
-            "url": "https://www.timesargus.com/online_features/press_releases/xinhua-silk-road-unleashing-digital-potential-to-unlock-new-vitality-of-liquor-industry/article_168d771a-1a63-5695-aad6-6172fc5b4530.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/timesargus.com/content/tncms/custom/image/b304aa08-5df8-11e8-b455-b382f4872e89.jpg?crop=435%2C435%2C0%2C53&order=crop%2Cresize&resize=200%2C200",
-            "publishedAt": "2025-10-31 04:13:00"
-        },
-        {
-            "source": {
-                "name": "dentonrc"
-            },
-            "title": "Iozera Enters Agreement to Acquire Fully Operational Houston Data Center, Expanding AI-as-a-Service Infrastructure",
-            "url": "https://dentonrc.com/online_features/press_releases/iozera-enters-agreement-to-acquire-fully-operational-houston-data-center-expanding-ai-as-a-service/article_b0818b55-de2a-5366-8b11-1324653c99d5.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/dentonrc.com/content/tncms/assets/v3/editorial/9/1c/91c496e1-85d5-5e96-bbd4-c4246b592590/6904672e5e55d.image.jpg?resize=300%2C74",
-            "publishedAt": "2025-10-31 03:11:00"
-        },
-        {
-            "source": {
-                "name": "themercury"
-            },
-            "title": "Iozera Enters Agreement to Acquire Fully Operational Houston Data Center, Expanding AI-as-a-Service Infrastructure",
-            "url": "https://themercury.com/online_features/press_releases/iozera-enters-agreement-to-acquire-fully-operational-houston-data-center-expanding-ai-as-a-service/article_d4bf1cf2-f7eb-5f6c-819c-066a34cf1afe.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/themercury.com/content/tncms/assets/v3/editorial/8/a1/8a186fd8-b1d9-59f8-8a6a-bf88bb142389/690466fd5b6c1.image.jpg?resize=300%2C74",
-            "publishedAt": "2025-10-31 03:11:00"
-        },
-        {
-            "source": {
-                "name": "bentoncourier"
-            },
-            "title": "Iozera Enters Agreement to Acquire Fully Operational Houston Data Center, Expanding AI-as-a-Service Infrastructure",
-            "url": "https://www.bentoncourier.com/online_features/press_releases/iozera-enters-agreement-to-acquire-fully-operational-houston-data-center-expanding-ai-as-a-service/article_2ce56e40-507e-52d9-ab1f-357256f2abb3.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/bentoncourier.com/content/tncms/assets/v3/editorial/7/fc/7fc766c3-3ee1-5108-8419-85069bd0ae08/690467d12d381.image.jpg?resize=300%2C74",
-            "publishedAt": "2025-10-31 03:11:00"
         }
     ]
 }
