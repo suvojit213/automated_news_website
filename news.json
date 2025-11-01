@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-11-01T18:19:41.924893Z",
+    "lastUpdatedAt": "2025-11-01T19:10:18.352894Z",
     "articles": [
+        {
+            "source": {
+                "id": "69a24b80e5bce5a07f808f5ea84c434b",
+                "name": "Arkansas Online",
+                "url": "https://www.arkansasonline.com",
+                "country": "us"
+            },
+            "title": "Amazon’s cloud tech growth calms investor worries on AI",
+            "url": "https://www.arkansasonline.com/news/2025/nov/01/amazons-cloud-tech-growth-calms-investor-worries/",
+            "urlToImage": "https://wehco.media.clients.ellingtoncms.com/static-4/teaser_images/www.arkansasonline.com_default.jpg",
+            "publishedAt": "2025-11-01T06:48:00Z"
+        },
+        {
+            "source": {
+                "id": "7eeaf9a839918543cc708f2d331c3be4",
+                "name": "Free Press Journal",
+                "url": "https://www.freepressjournal.in",
+                "country": "in"
+            },
+            "title": "West Bengal Police To Set Up Dedicated Artificial Intelligence Cell To Enhance Transparency, Efficiency And Strategic Decision-Making",
+            "url": "https://www.freepressjournal.in/india/west-bengal-police-to-set-up-dedicated-artificial-intelligence-cell-to-enhance-transparency-efficiency-and-strategic-decision-making",
+            "urlToImage": "https://media.assettype.com/freepressjournal/2025-11-01/s2llm86k/Untitled-design-2025-11-01T115819.623.jpg",
+            "publishedAt": "2025-11-01T06:32:35Z"
+        },
         {
             "source": {
                 "id": "b33a42ef1c098421f66aad47a76d6a3c",
@@ -303,6 +327,15 @@
         },
         {
             "source": {
+                "name": "engadget"
+            },
+            "title": "The best live TV streaming services to cut cable in 2025",
+            "url": "https://www.engadget.com/entertainment/streaming/best-live-tv-streaming-service-133000410.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?client=19f2b5e49a271b2bde77&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-12%2Fdf0bddc0-bd68-11ef-be39-da0a62e03075&resize=1400%2C787&signature=4fc99c769114285c257f046ef37a9875decf51fd",
+            "publishedAt": "2025-11-01 07:00:36"
+        },
+        {
+            "source": {
                 "name": "macrumors"
             },
             "title": "The Best Early Black Friday Apple Deals",
@@ -336,6 +369,15 @@
             "url": "https://www.latestly.com/agency-news/business-news-hyundai-motor-group-announces-nvidia-blackwell-ai-factory-to-power-fleet-of-ai-driven-mobility-solutions-7186129.html",
             "urlToImage": "https://st1.latestly.com/wp-content/uploads/2025/11/ANI-20251101050238.jpg",
             "publishedAt": "2025-11-01 05:16:29"
+        },
+        {
+            "source": {
+                "name": "venturebeat"
+            },
+            "title": "Large reasoning models almost certainly can think",
+            "url": "https://venturebeat.com/ai/large-reasoning-models-almost-certainly-can-think",
+            "urlToImage": "https://images.ctfassets.net/jdtwqhzvc2n1/2H0JnerwnmfHRZsVcEeKE6/ac3bd8c2d3ed025d025a30db64bcb8de/LLMs_can_think.png?q=30&w=300",
+            "publishedAt": "2025-11-01 05:00:00"
         },
         {
             "source": {
@@ -3156,42 +3198,6 @@
             "url": "https://newsable.asianetnews.com/business/ibm-partners-with-aicte-to-establish-national-ai-lab-for-upskilling-youth-articleshow-y0a9vk3",
             "urlToImage": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-ani20251031071731,imgname-image-3bbfe378-e51b-4bb0-aaed-e7562c7ce785.jpg",
             "publishedAt": "2025-10-31 08:40:12"
-        },
-        {
-            "source": {
-                "name": "roboticsandautomationnews"
-            },
-            "title": "AMD partners with Robotec to build ‘open ecosystem’ for autonomous systems and robotics",
-            "url": "https://roboticsandautomationnews.com/2025/10/31/amd-partners-with-robotec-to-build-open-ecosystem-for-autonomous-systems-and-robotics/96099/",
-            "urlToImage": "https://roboticsandautomationnews.com/wp-content/uploads/2025/10/amd-silo-ai-instinct-chip-1.jpg",
-            "publishedAt": "2025-10-31 08:40:05"
-        },
-        {
-            "source": {
-                "name": "latestly"
-            },
-            "title": "Business News | India Ready to Launch AI-Powered 'Project Triveni' to End Global Hacking Threat",
-            "url": "https://www.latestly.com/agency-news/business-news-india-ready-to-launch-ai-powered-project-triveni-to-end-global-hacking-threat-7184839.html",
-            "urlToImage": "https://st1.latestly.com/wp-content/uploads/2025/10/ANI-20251031064744.jpg",
-            "publishedAt": "2025-10-31 08:36:33"
-        },
-        {
-            "source": {
-                "name": "geeky_gadgets"
-            },
-            "title": "The Next Big Thing: 10 Apple Products You Didn’t Know You Were Waiting For",
-            "url": "https://www.geeky-gadgets.com/apples-next-10-products/",
-            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/10/apple-smart-ring-wearable-tech-future.webp",
-            "publishedAt": "2025-10-31 08:30:46"
-        },
-        {
-            "source": {
-                "name": "indianexpress"
-            },
-            "title": "System changes are being made in how organisations hire, train, and incentivise employees: Microsoft’s Jay Parikh on AI’s impact on tech industry",
-            "url": "https://indianexpress.com/article/technology/artificial-intelligence/microsofts-jay-parikh-on-ais-impact-on-tech-industry-10337683/",
-            "urlToImage": "https://images.indianexpress.com/2025/10/IE-57.jpg",
-            "publishedAt": "2025-10-31 08:22:16"
         }
     ]
 }
