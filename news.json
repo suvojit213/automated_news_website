@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-11-02T21:12:46.211942Z",
+    "lastUpdatedAt": "2025-11-02T22:13:20.445059Z",
     "articles": [
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "Michael Bloomberg: Big Tech wants AI into classrooms but the case against hasty adoption is compelling",
+            "url": "https://www.livemint.com/opinion/online-views/ai-indian-schools-artificial-intelligence-education-ed-tech-mobile-phones-classrooms-laptop-scheme-google-no-screens-11761829499729.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2025/11/02/1600x900/ai_robot_teacher_1762074022386_1762074044198.jpeg",
+            "publishedAt": "2025-11-02T10:00:10Z"
+        },
+        {
+            "source": {
+                "id": "9290338c23f31e3f547a2dbfa1c52c03",
+                "name": "Scientific American",
+                "url": "https://www.scientificamerican.com",
+                "country": "us"
+            },
+            "title": "Can AI Music Ever Feel Human? The Answer Goes beyond the Sound",
+            "url": "https://www.scientificamerican.com/article/can-ai-music-ever-feel-human-the-answer-goes-beyond-the-sound/",
+            "urlToImage": "https://static.scientificamerican.com/dam/m/5505498b5baa1343/original/GettyImages-73906883.jpg?m=1761938324.895&w=1200",
+            "publishedAt": "2025-11-02T10:00:00Z"
+        },
+        {
+            "source": {
+                "id": "9b153bd4f54b13f67b1b831d646a1548",
+                "name": "Deccan Herald",
+                "url": "https://www.deccanherald.com",
+                "country": "in"
+            },
+            "title": "AI & Data Science Training by MoE",
+            "url": "https://www.deccanherald.com/education/free-artificial-intelligence-courses-offered-by-ministry-of-education-3783718",
+            "urlToImage": "https://media.assettype.com/deccanherald%2F2025-11-02%2Fo02uyowz%2FiStock-2184123695.jpg?rect=0%2C0%2C1287%2C676&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
+            "publishedAt": "2025-11-02T09:38:35Z"
+        },
         {
             "source": {
                 "id": "7eeaf9a839918543cc708f2d331c3be4",
@@ -180,6 +216,24 @@
             "url": "https://www.forbes.com/sites/bill_stone/2025/11/02/sp-500-q3-2025-earnings-surge-magnificent-7-lead-market-rally/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69074983951f235798ee2eb8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-11-02T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "newsweek"
+            },
+            "title": "The New York College Trying to ‘AI-Proof’ Its Students",
+            "url": "https://www.newsweek.com/new-york-college-trying-ai-proof-students-10968117",
+            "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2025/10/The-New-York-College-Trying-to-AI-Proof-Its-Students.jpg?w=1200crop%3D1",
+            "publishedAt": "2025-11-02 10:00:00"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "Samsung Galaxy Tab S11 Ultra vs. iPad Pro M5 — which tablet should you buy?",
+            "url": "https://www.tomsguide.com/computing/tablets/samsung-galaxy-tab-s11-ultra-vs-ipad-pro-m5-which-tablet-should-you-buy",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/BDHQSKt6fVxYw9ckL7eFeY-1280-80.jpg",
+            "publishedAt": "2025-11-02 10:00:00"
         },
         {
             "source": {
@@ -3243,66 +3297,6 @@
             "url": "https://www.bollywoodhungama.com/news/features/aranya-sahays-humans-loop-debuts-netflix-explores-human-side-artificial-intelligence/",
             "urlToImage": "https://stat4.bollywoodhungama.in/wp-content/uploads/2025/10/Aranya-Sahay-1.jpg",
             "publishedAt": "2025-10-31T06:21:38Z"
-        },
-        {
-            "source": {
-                "id": "fca9664a9e215efa308045911cfc7fc3",
-                "name": "Star Tribune",
-                "url": "https://www.startribune.com",
-                "country": "us"
-            },
-            "title": "Nvidia partners with South Korean government, companies to boost AI development",
-            "url": "https://www.startribune.com/nvidia-partners-with-south-korean-government-companies-to-boost-ai-development/601513090",
-            "urlToImage": "https://www.startribune.com/200.png",
-            "publishedAt": "2025-10-31T06:19:00Z"
-        },
-        {
-            "source": {
-                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
-                "name": "The Associated Press",
-                "url": "https://apnews.com",
-                "country": "us"
-            },
-            "title": "Nvidia to provide chips to South Korea to boost its AI development",
-            "url": "https://apnews.com/article/south-korea-nvidia-jenen-huang-ai-ab6b67c6546223c67735693e684b0a17",
-            "urlToImage": "https://dims.apnews.com/dims4/default/a1fdd66/2147483647/strip/true/crop/4126x2321+0+215/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd8%2F3a%2Fc5d13faf262f734fdc49d620836b%2F1a530947f5af4f4b8f9ed32d47620f79",
-            "publishedAt": "2025-10-31T06:18:29Z"
-        },
-        {
-            "source": {
-                "id": "f81e0cedbddbe08e3058634e8bb4a56f",
-                "name": "Barchart",
-                "url": "https://www.barchart.com",
-                "country": "us"
-            },
-            "title": "Nvidia partners with South Korean government, companies to boost AI development",
-            "url": "https://www.barchart.com/story/news/35817189/nvidia-partners-with-south-korean-government-companies-to-boost-ai-development",
-            "urlToImage": "https://barchart-news-media-prod.aws.barchart.com/ap/b5067caed25647d4b6383feeeed3d0d1/b5067caed25647d4b6383feeeed3d0d1_main_nvidia-value_95415.jpg",
-            "publishedAt": "2025-10-31T06:18:29Z"
-        },
-        {
-            "source": {
-                "id": "35515662ec044d3f94b543cd8802d63f",
-                "name": "WDIV ClickOnDetroit",
-                "url": "https://www.clickondetroit.com",
-                "country": "us"
-            },
-            "title": "Nvidia partners with South Korean government, companies to boost AI development",
-            "url": "https://www.clickondetroit.com/business/2025/10/31/nvidia-partners-with-south-korean-government-companies-to-boost-ai-development/",
-            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/W6DIYL5WJ5A2BMZCHUZ3VIC5X4.jpg?_a=DATAg1eAZAA0",
-            "publishedAt": "2025-10-31T06:18:28Z"
-        },
-        {
-            "source": {
-                "id": "37128a060981dbbe79321f096e7d1108",
-                "name": "U.S. News & World Report",
-                "url": "https://www.usnews.com",
-                "country": "us"
-            },
-            "title": "Nvidia Partners With South Korean Government, Companies to Boost AI Development",
-            "url": "https://www.usnews.com/news/technology/articles/2025-10-31/nvidia-partners-with-south-korean-government-companies-to-boost-ai-development",
-            "urlToImage": "https://www.usnews.com/dims4/USNEWS/21a8017/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F13%2F295509d49943cfdb0d4515b28f3626%2F1a530947f5af4f4b8f9ed32d47620f79NVIDIA_AI_Jensen_Huang_25231.jpg",
-            "publishedAt": "2025-10-31T06:18:00Z"
         }
     ]
 }
