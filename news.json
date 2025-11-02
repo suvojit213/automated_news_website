@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-11-02T10:14:25.471067Z",
+    "lastUpdatedAt": "2025-11-02T11:11:25.009645Z",
     "articles": [
+        {
+            "source": {
+                "id": "28bc60a23a7bf89e60f893506992a3fe",
+                "name": "Daily Excelsior",
+                "url": "https://www.dailyexcelsior.com",
+                "country": "in"
+            },
+            "title": "Need to Rejuvenate Basic Science in the Age of AI",
+            "url": "https://www.dailyexcelsior.com/need-to-rejuvenate-basic-science-in-the-age-of-ai/",
+            "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2025/11/14-scaled.jpg",
+            "publishedAt": "2025-11-01T23:04:59Z"
+        },
         {
             "source": {
                 "id": "bce8b9fcd331f3552e3dcf603b83b80e",
@@ -864,6 +876,15 @@
             "url": "https://www.bloomberg.com/news/articles/2025-11-01/trader-s-guide-to-india-s-data-center-boom-powered-by-google-openai",
             "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i21K5Zg2VhYE/v0/1200x800.jpg",
             "publishedAt": "2025-11-01T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "wfla"
+            },
+            "title": "USF launches free online AI course for beginners",
+            "url": "https://www.wfla.com/news/hillsborough-county/usf-launches-free-online-ai-course-for-beginners/",
+            "urlToImage": "https://www.wfla.com/wp-content/uploads/sites/71/2025/04/USF-e1756989381290.jpg?w=800",
+            "publishedAt": "2025-11-01 22:38:31"
         },
         {
             "source": {
@@ -3315,24 +3336,6 @@
             "url": "https://us.headtopics.com/news/waabi-and-volvo-reach-key-goal-in-integrating-driverless-75194441",
             "urlToImage": "https://i.headtopics.com/images/2025/10/29/komonews/waymo-looks-to-seattle-expansion-with-driverless-c-waymo-looks-to-seattle-expansion-with-driverless-c-F02779051602194AD268FABF818BBF88.webp?w=640",
             "publishedAt": "2025-10-31 22:09:05"
-        },
-        {
-            "source": {
-                "name": "astrobiology"
-            },
-            "title": "Atmospheric Collapse And re-inflation Through Impacts For Terrestrial Planets Around M Dwarfs",
-            "url": "https://astrobiology.com/2025/10/atmospheric-collapse-and-re-inflation-through-impacts-for-terrestrial-planets-around-m-dwarfs.html",
-            "urlToImage": "https://astrobiology.com/wp-content/uploads/2025/10/Atmospheric-collapse-and-re-inflation.png",
-            "publishedAt": "2025-10-31 21:36:22"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "US DOE Taps Nvidia, AMD, And Oracle For Quartet Of Powerful AI Supercomputers",
-            "url": "https://www.forbes.com/sites/marcochiappetta/2025/10/31/us-doe-taps-nvidia-amd-and-oracle-for-quartet-of-powerful-ai-supercomputers/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69052883a2809ba064c84848/0x0.jpg?width=960",
-            "publishedAt": "2025-10-31 21:34:41"
         }
     ]
 }
