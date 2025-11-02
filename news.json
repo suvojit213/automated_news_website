@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-11-02T19:10:35.038187Z",
+    "lastUpdatedAt": "2025-11-02T20:15:10.794598Z",
     "articles": [
+        {
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            },
+            "title": "Zoho co-founder Sridhar Vembu on AI creativity: Why it lies outside the training distribution",
+            "url": "https://www.indiatoday.in/technology/news/story/zoho-co-founder-sridhar-vembu-on-ai-creativity-why-it-lies-outside-the-training-distribution-2812158-2025-11-02",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202511/arattai-vs-whatsapp-291441657-16x9.jpg?VersionId=5Vu8WkXgsgris8CYBB_a9E7f8WKtUS7n",
+            "publishedAt": "2025-11-02T07:59:51Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Assam Schoolgirl Shines at International AI Conference",
+            "url": "https://www.devdiscourse.com/article/headlines/3681694-assam-schoolgirl-shines-at-international-ai-conference",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/02_11_2025_13_21_10_0287375.jpg?width=920&format=jpeg",
+            "publishedAt": "2025-11-02T07:51:21Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Assam Teen Shines at Global AI Conference with Breakthrough ML Research",
+            "url": "https://www.devdiscourse.com/article/headlines/3681691-assam-teen-shines-at-global-ai-conference-with-breakthrough-ml-research",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/02_11_2025_13_19_56_2511695.jpg?width=920&format=jpeg",
+            "publishedAt": "2025-11-02T07:50:08Z"
+        },
         {
             "source": {
                 "id": "c45dc51281d68ce51bff0cc4fe959bbf",
@@ -120,6 +156,60 @@
             "url": "https://www.forbes.com/sites/bill_stone/2025/11/02/sp-500-q3-2025-earnings-surge-magnificent-7-lead-market-rally/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69074983951f235798ee2eb8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-11-02T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "livemint"
+            },
+            "title": "Mint Explainer: Does Nvidia’s $5-trillion feat raise the spectre of an AI winter?",
+            "url": "https://www.livemint.com/ai/artificial-intelligence/nvidia-5-trillion-market-cap-ai-winter-risk-generative-ai-nvidia-gpus-11762070348802.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2025/11/02/1600x900/NVIDIA-SOUTHKOREA--1_1761912800468_1761912808401_1762070626726.JPG",
+            "publishedAt": "2025-11-02 08:08:10"
+        },
+        {
+            "source": {
+                "name": "premierguitar"
+            },
+            "title": "A Guitar and a Pen",
+            "url": "https://www.premierguitar.com/a-guitar-and-a-pen",
+            "urlToImage": "https://www.premierguitar.com/media-library/image.png?id=61990493&width=980",
+            "publishedAt": "2025-11-02 08:00:03"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Galaxy S26 Leak Shocks Fans: 200MP Camera and AI Power Redefine Samsung’s Future",
+            "url": "https://www.analyticsinsight.net/news/galaxy-s26-leak-shocks-fans-200mp-camera-and-ai-power-redefine-samsungs-future",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-05-26%2Fls6qc36f%2FSamsung-Galaxy-S26-Camera-Surprise-Whats-Coming-Next-Check-Latest-Leak.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-11-02 07:57:38"
+        },
+        {
+            "source": {
+                "name": "firstpost"
+            },
+            "title": "What is ‘vibe working’? Is it the future of AI productivity?",
+            "url": "https://www.firstpost.com/explainers/microsoft-vibe-working-ai-productivity-trend-or-buzzword-13945795.html",
+            "urlToImage": "https://images.firstpost.com/uploads/2025/10/Microsoft-Copilot-Reuters-2025-10-c56015a7381802997517d24a77cc5330.jpg",
+            "publishedAt": "2025-11-02 07:48:37"
+        },
+        {
+            "source": {
+                "name": "mathrubhumi"
+            },
+            "title": "Mercor’s trio of 22-year-old AI founders, including 2 Indian-Americans, beat Zuckerberg as youngest billionaires",
+            "url": "https://english.mathrubhumi.com/news/money/youngest-billionaires-mercor-ai-startup-founders-indian-americans-bdg342t3",
+            "urlToImage": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1mwxhx45tw573caj33l/0/mercor-team-ai-billionaires-x-jpg.jpg?w=900",
+            "publishedAt": "2025-11-02 07:23:52"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "Using Generative AI To Test Some Other Generative AI On Providing Safe Mental Health Advice To Humans",
+            "url": "https://www.forbes.com/sites/lanceeliot/2025/11/02/using-ai-to-test-other-llms-on-being-able-to-provide-safe-mental-health-advice-to-humans/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69028d49c1e2b01dea899da2/0x0.jpg?width=960",
+            "publishedAt": "2025-11-02 07:15:00"
         },
         {
             "source": {
@@ -3222,114 +3312,6 @@
             "url": "https://www.moneycontrol.com/news/business/information-technology/quess-sees-green-shoots-in-it-staffing-during-september-quarter-as-select-hiring-mandates-open-13644527.html",
             "urlToImage": "https://images.moneycontrol.com/static-mcnews/2021/04/software-1.jpg",
             "publishedAt": "2025-10-31T05:57:10Z"
-        },
-        {
-            "source": {
-                "id": "10cbfb3760cfcdeb78c733c527f0e814",
-                "name": "iTWire",
-                "url": "https://itwire.com",
-                "country": "au"
-            },
-            "title": "How artificial intelligence is reshaping the future of travel and expense management",
-            "url": "https://itwire.com/guest-articles/guest-opinion/how-artificial-intelligence-is-reshaping-the-future-of-travel-and-expense-management.html",
-            "urlToImage": "https://itwire.com/media/k2/items/cache/0927eb15acfdfa35e0f6c1cf11b724d3_XS.jpg",
-            "publishedAt": "2025-10-31T05:54:36Z"
-        },
-        {
-            "source": {
-                "id": "94466d37d8c67a438250646866df36df",
-                "name": "SBS Australia",
-                "url": "https://www.sbs.com.au",
-                "country": "au"
-            },
-            "title": "AI promises a $142 billion boost to Australia's economy: How can migrants share in the success?",
-            "url": "https://www.sbs.com.au/language/hindi/en/podcast-episode/ai-promises-a-142-billion-boost-to-australias-economy-how-can-migrants-share-in-the-success/ygeyehc5r",
-            "urlToImage": "https://images.sbs.com.au/dims4/default/0c47381/2147483647/strip/true/crop/1920x1080+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F3d%2F52%2Fdc96e2894aed80424f78f28219c4%2Fsbs-hindi-webheader-ai-and-jobs.png",
-            "publishedAt": "2025-10-31T05:09:38Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "EM Stocks Rise Every Month This Year, First Time Since 1993",
-            "url": "https://www.bloomberg.com/news/articles/2025-10-31/em-stocks-rise-every-month-this-year-first-time-since-1993",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iMQCFfgDP1io/v1/1200x800.jpg",
-            "publishedAt": "2025-10-31T05:06:05Z"
-        },
-        {
-            "source": {
-                "id": "b33a42ef1c098421f66aad47a76d6a3c",
-                "name": "The Hindu",
-                "url": "https://www.thehindu.com",
-                "country": "in"
-            },
-            "title": "VTU opens Centre of Excellence in AI, digital classrooms and library in Kalaburagi",
-            "url": "https://www.thehindu.com/news/national/karnataka/vtu-opens-centre-of-excellence-in-ai-digital-classrooms-and-library-in-kalaburagi/article70221132.ece",
-            "urlToImage": "https://th-i.thgim.com/public/incoming/yx8446/article70222049.ece/alternates/LANDSCAPE_1200/10258_30_10_2025_17_39_39_1_VTU_1.JPEG",
-            "publishedAt": "2025-10-31T05:00:10Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "AI Frustration Could Be Costing UK Retailers Billions, CEBR Says",
-            "url": "https://www.bloomberg.com/news/articles/2025-10-31/ai-frustration-could-be-costing-uk-retailers-billions-cebr-says",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNL9ZVY6l3kY/v1/1200x800.jpg",
-            "publishedAt": "2025-10-31T05:00:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Xinhua Silk Road: Unleashing digital potential to unlock new vitality of liquor industry",
-            "url": "https://www.manilatimes.net/2025/10/31/tmt-newswire/pr-newswire/xinhua-silk-road-unleashing-digital-potential-to-unlock-new-vitality-of-liquor-industry/2212857",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/10/31/806681.",
-            "publishedAt": "2025-10-31T04:38:47Z"
-        },
-        {
-            "source": {
-                "id": "fd3677545b80d5db7541de8e111d27ba",
-                "name": "Moneycontrol",
-                "url": "https://www.moneycontrol.com",
-                "country": "in"
-            },
-            "title": "Amazon shares soar 14% as cloud growth beats expectations",
-            "url": "https://www.moneycontrol.com/news/business/amazon-shares-soar-14-as-cloud-growth-beats-expectations-13644269.html",
-            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2025/10/20251031040940_amazon.jpg",
-            "publishedAt": "2025-10-31T04:10:32Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Google CEO Sundar Pichai expresses enthusiasm over AI deal with Reliance, highlights benefits for Jio users",
-            "url": "https://economictimes.indiatimes.com/tech/technology/google-ceo-sundar-pichai-expresses-enthusiasm-over-ai-deal-with-reliance-highlights-benefits-for-jio-users/articleshow/124983243.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-41724,resizemode-75,msid-124983243/tech/technology/google-ceo-sundar-pichai-expresses-enthusiasm-over-ai-deal-with-reliance-highlights-benefits-for-jio-users.jpg",
-            "publishedAt": "2025-10-31T04:05:53Z"
-        },
-        {
-            "source": {
-                "id": "10cbfb3760cfcdeb78c733c527f0e814",
-                "name": "iTWire",
-                "url": "https://itwire.com",
-                "country": "au"
-            },
-            "title": "Exposure Management is the New Test of Board Accountability",
-            "url": "https://itwire.com/guest-articles/guest-opinion/exposure-management-is-the-new-test-of-board-accountability.html",
-            "urlToImage": "https://itwire.com/media/k2/items/cache/ab83194afa2fa9b2a63220f994e82247_XS.jpg",
-            "publishedAt": "2025-10-31T03:45:11Z"
         }
     ]
 }
