@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-11-02T15:13:20.070507Z",
+    "lastUpdatedAt": "2025-11-02T16:16:43.486157Z",
     "articles": [
+        {
+            "source": {
+                "id": "23ca80edba9c670741bdbfc4acd3e991",
+                "name": "The Statesman",
+                "url": "https://www.thestatesman.com",
+                "country": "in"
+            },
+            "title": "West Bengal Police to tie up with AI to curb crimes in state",
+            "url": "https://www.thestatesman.com/bengal/west-bengal-police-to-tie-up-with-ai-to-curb-crimes-in-state-1503506332.html",
+            "urlToImage": "https://www.thestatesman.com/wp-content/uploads/2025/11/IMG_2251.webp",
+            "publishedAt": "2025-11-02T04:09:01Z"
+        },
+        {
+            "source": {
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
+            },
+            "title": "S’pore and South Korea launch strategic partnership, will deepen economic links and defence cooperation",
+            "url": "https://www.straitstimes.com/singapore/spore-and-south-korea-launch-strategic-partnership-will-deepen-economic-links-and-defence",
+            "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/8c738e58eeaa71b14db5fcfe795d6b8a79d2f2117cce66ef59b2ae877311a87d",
+            "publishedAt": "2025-11-02T03:48:51Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "South Korea, Singapore sign MOUs on AI, green shipping: President Jae Myung",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/south-korea-singapore-sign-mous-on-ai-green-shipping-president-jae-myung/articleshow/125028560.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-88290,resizemode-75,msid-125028560/tech/artificial-intelligence/south-korea-singapore-sign-mous-on-ai-green-shipping-president-jae-myung.jpg",
+            "publishedAt": "2025-11-02T03:47:44Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "South Korea and Singapore Forge New Path in AI and Green Shipping",
+            "url": "https://www.devdiscourse.com/article/law-order/3681518-south-korea-and-singapore-forge-new-path-in-ai-and-green-shipping",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_05_2019_11_49_14_1279651.jpg?width=920&format=jpeg",
+            "publishedAt": "2025-11-02T03:42:11Z"
+        },
         {
             "source": {
                 "id": "a0300bc9a6e9d5b317bd6f614767231f",
@@ -12,6 +60,15 @@
             "url": "https://www.forbes.com/sites/bill_stone/2025/11/02/sp-500-q3-2025-earnings-surge-magnificent-7-lead-market-rally/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69074983951f235798ee2eb8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-11-02T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "ndtv"
+            },
+            "title": "Google Opens Applications For 2026 PhD Software Engineering Internship In India",
+            "url": "https://www.ndtv.com/education/google-opens-applications-for-2026-phd-software-engineering-internship-in-india-9559988",
+            "urlToImage": "https://c.ndtvimg.com/2024-03/20jnau7g_google_625x300_14_March_24.jpg?im=FeatureCrop%2Calgorithm%3Ddnn%2Cwidth%3D773%2Cheight%3D435",
+            "publishedAt": "2025-11-02 03:35:22"
         },
         {
             "source": {
@@ -3288,60 +3345,6 @@
             "url": "https://www.globenewswire.com/news-release/2025/10/31/3178284/0/en/Surfshark-protects-against-phishing-attacks-with-the-email-scam-checker.html",
             "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/75b87eb0-cfa7-440b-8c16-4611c7780e8a",
             "publishedAt": "2025-10-31T00:00:00Z"
-        },
-        {
-            "source": {
-                "id": "f60b85dc559d286e4100ce1120d5caec",
-                "name": "PLOS (Public Library of Science)",
-                "url": "https://journals.plos.org",
-                "country": "us"
-            },
-            "title": "Transfer learning for predicting acute myocardial infarction using electrocardiograms",
-            "url": "https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001058",
-            "urlToImage": "https://journals.plos.org/digitalhealth/article/figure/image?id=10.1371/journal.pdig.0001058.g007&size=inline",
-            "publishedAt": "2025-10-31T00:00:00Z"
-        },
-        {
-            "source": {
-                "id": "f60b85dc559d286e4100ce1120d5caec",
-                "name": "PLOS (Public Library of Science)",
-                "url": "https://journals.plos.org",
-                "country": "us"
-            },
-            "title": "Risk factors and predictive performance for first healthcare encounter indicating homelessness using administrative data among Calgary residents diagnosed with addiction or mental health conditions",
-            "url": "https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001064",
-            "urlToImage": "https://journals.plos.org/digitalhealth/article/figure/image?id=10.1371/journal.pdig.0001064.t003&size=inline",
-            "publishedAt": "2025-10-31T00:00:00Z"
-        },
-        {
-            "source": {
-                "id": "8e9ab8327c5f7903cc1b50470411d165",
-                "name": "GlobeNewswire",
-                "url": "https://www.globenewswire.com",
-                "country": "us"
-            },
-            "title": "NexusTek’s Pavle Majerle Recognized as a CRN 2025 Next-Gen",
-            "url": "https://www.globenewswire.com/news-release/2025/10/31/3178598/0/en/NexusTek-s-Pavle-Majerle-Recognized-as-a-CRN-2025-Next-Gen-Solution-Provider-Leader.html",
-            "urlToImage": "https://ml.globenewswire.com/Resource/Download/24322c0e-0ed5-4116-8057-8653a03fca96",
-            "publishedAt": "2025-10-31T00:00:00Z"
-        },
-        {
-            "source": {
-                "name": "dailyexcelsior"
-            },
-            "title": "Technology enriched India beckons others to follow",
-            "url": "https://www.dailyexcelsior.com/technology-enriched-india-beckons-others-to-follow/",
-            "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2025/10/est.jpg",
-            "publishedAt": "2025-10-31 23:29:34"
-        },
-        {
-            "source": {
-                "name": "siliconangle"
-            },
-            "title": "Inside AMD’s push to build software-defined AI factories",
-            "url": "https://siliconangle.com/2025/10/31/digital-transformation-vision-building-ai-factory-future-aifactoriesdatacenters/",
-            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/10/IMG_6624.jpg",
-            "publishedAt": "2025-10-31 23:27:52"
         }
     ]
 }
