@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-11-02T04:18:51.474886Z",
+    "lastUpdatedAt": "2025-11-02T05:14:50.827869Z",
     "articles": [
+        {
+            "source": {
+                "id": "a79ab99484ed3bd8c4fa35ccd09b91e1",
+                "name": "indy100",
+                "url": "https://www.indy100.com",
+                "country": "gb"
+            },
+            "title": "Andrew Cuomo slammed for ‘embarrassing’ AI Halloween attack ad on Zohran Mamdani",
+            "url": "https://www.indy100.com/politics/andrew-cuomo-ai-advert-zohran-mamdani-halloween",
+            "urlToImage": "https://www.indy100.com/media-library/left-andrew-cuomo-speaking-into-multiple-news-microphones-right-an-ai-generated-zohran-mamdani-smiling-and-pointing-left-with.png?id=62013664&width=1200&height=600&coordinates=0%2C117%2C0%2C383",
+            "publishedAt": "2025-11-01T17:13:30Z"
+        },
+        {
+            "source": {
+                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+                "name": "NDTV.com",
+                "url": "https://www.ndtv.com",
+                "country": "in"
+            },
+            "title": "Education Ministry Offers 5 Free Artificial Intelligence Courses, Details Inside",
+            "url": "https://www.ndtv.com/education/education-ministry-offering-5-free-artificial-intelligence-courses-details-inside-9558725",
+            "urlToImage": "https://c.ndtvimg.com/2024-10/3928vl9_artificial-intelligence-_625x300_17_October_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+            "publishedAt": "2025-11-01T16:26:03Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -720,6 +744,24 @@
             "url": "https://www.bloomberg.com/news/articles/2025-11-01/trader-s-guide-to-india-s-data-center-boom-powered-by-google-openai",
             "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i21K5Zg2VhYE/v0/1200x800.jpg",
             "publishedAt": "2025-11-01T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "arstechnica"
+            },
+            "title": "Research roundup: 6 cool science stories we almost missed",
+            "url": "https://arstechnica.com/science/2025/11/research-roundup-6-cool-science-stories-we-almost-missed-3/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/karnak1-1152x648-1759588364.jpg",
+            "publishedAt": "2025-11-01 16:38:09"
+        },
+        {
+            "source": {
+                "name": "xda_developers"
+            },
+            "title": "I tested Arc Raiders across four GPUs of different ages — optimization still exists",
+            "url": "https://www.xda-developers.com/arc-raiders-pc-optimization-benchmarks-1080p-1440p-4k/",
+            "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2025/10/arc-raiders-combat-against-arc.jpg",
+            "publishedAt": "2025-11-01 16:30:21"
         },
         {
             "source": {
@@ -3261,42 +3303,6 @@
             "url": "https://www.citizensvoice.com/2025/10/31/hazleton-area-schools-consider-how-to-use-artificial-intelligence/",
             "urlToImage": "https://www.citizensvoice.com/wp-content/uploads/2025/10/HZS-L-briggs-1131-08.jpg?strip=all&w=1400px",
             "publishedAt": "2025-10-31 19:50:23"
-        },
-        {
-            "source": {
-                "name": "standardspeaker"
-            },
-            "title": "Hazleton Area schools consider how to use artificial intelligence",
-            "url": "https://www.standardspeaker.com/2025/10/31/hazleton-area-schools-consider-how-to-use-artificial-intelligence/",
-            "urlToImage": "https://www.standardspeaker.com/wp-content/uploads/2025/10/HZS-L-briggs-1131-08.jpg?strip=all&w=1400px",
-            "publishedAt": "2025-10-31 19:50:23"
-        },
-        {
-            "source": {
-                "name": "toi"
-            },
-            "title": "Hack Nexus 2025 – Intra-Department Hackathon Sparks Innovation at YCCE",
-            "url": "https://timesofindia.indiatimes.com/city/nagpur/hack-nexus-2025-intra-department-hackathon-sparks-innovation-at-ycce/articleshow/125004024.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-125004022,width-1070,height-580,imgsize-35342,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "publishedAt": "2025-10-31 19:16:18"
-        },
-        {
-            "source": {
-                "name": "cornelledu"
-            },
-            "title": "Professor Vitaly Shmatikov Wins Test of Time Award for Deep Learning Research",
-            "url": "https://tech.cornell.edu/news/vitaly-shmatikov-test-of-time/",
-            "urlToImage": "https://tech.cornell.edu/wp-content/uploads/2025/10/2024_1060_PN_886-450x300.jpg",
-            "publishedAt": "2025-10-31 19:07:48"
-        },
-        {
-            "source": {
-                "name": "siliconangle"
-            },
-            "title": "Inside Cisco and Nvidia’s new N9100 switch and WWT’s role in scaling AI infrastructure",
-            "url": "https://siliconangle.com/2025/10/31/cisco-n9100-switch-wwt-ai-infrastructure-nvidiagtcdc/",
-            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/10/IMG_9434.jpg",
-            "publishedAt": "2025-10-31 19:05:15"
         }
     ]
 }
