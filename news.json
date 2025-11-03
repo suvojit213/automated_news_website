@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2025-11-03T21:14:27.184804Z",
+    "lastUpdatedAt": "2025-11-03T22:15:23.085919Z",
     "articles": [
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "How Saudi Arabia plans to become world’s no 3 AI power",
+            "url": "https://www.thenews.com.pk/latest/1355397-how-saudi-arabia-plans-to-become-worlds-no-3-ai-power",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/updates/2025-11-03/1355397_122821_updates.jpg",
+            "publishedAt": "2025-11-03T10:15:00Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Microsoft restructures workforce with focus on AI",
+            "url": "https://www.marketscreener.com/news/microsoft-restructures-workforce-with-focus-on-ai-ce7d5cd9db8cf226",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2025-11-03T10:12:07Z"
+        },
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "AI tool detects structural heart disease in adults using a smartwatch",
+            "url": "https://medicalxpress.com/news/2025-10-ai-tool-heart-disease-adults.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/smartwatch-1.jpg",
+            "publishedAt": "2025-11-03T10:00:09Z"
+        },
+        {
+            "source": {
+                "id": "31da3e9a4dc2d696d957aebbe485bb7d",
+                "name": "Express & Star",
+                "url": "https://www.expressandstar.com",
+                "country": "gb"
+            },
+            "title": "Staffordshire author launches chilling AI thriller",
+            "url": "https://www.expressandstar.com/your-world/2025/11/03/staffordshire-author-launches-chilling-ai-thriller/",
+            "urlToImage": "https://resizer.nationalworld.com/72d51478-84a8-4ba3-8bd6-67ffe93ad604.jpg?tr=w-1200",
+            "publishedAt": "2025-11-03T09:42:24Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Nvidia's Top AI Chips Not for China, Other Countries, Trump Reportedly Says",
+            "url": "https://www.marketscreener.com/news/nvidia-s-top-ai-chips-not-for-china-other-countries-trump-reportedly-says-ce7d5cd9db8bf522",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2025-11-03T09:40:19Z"
+        },
+        {
+            "source": {
+                "id": "b1fa63410571207862faad9daf9b4527",
+                "name": "Pittsburgh Tribune-Review",
+                "url": "https://triblive.com",
+                "country": "us"
+            },
+            "title": "Names of 5 million of 6 million Jews killed in Holocaust now identified",
+            "url": "https://triblive.com/news/world/names-of-5-million-of-6-million-jews-killed-in-holocaust-now-identified/",
+            "urlToImage": "https://assets-varnish.triblive.com/2025/11/9012632_web1_2025-11-03T140419Z_1_LYNXMPELA20N8_RTROPTP_4_ISRAEL-HOLOCAUST.JPG",
+            "publishedAt": "2025-11-03T09:29:17Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -864,6 +936,87 @@
             "url": "https://www.globenewswire.com/news-release/2025/11/03/3179502/0/en/Just-One-Day-Away-Register-Now-Toronto-C-suite-executives-invited-to-HMG-Strategy-s-13th-Annual-C-Level-Technology-Leadership-Summit-on-November-4-2025.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/4b886685-faf4-4f80-8e8a-77cac364fa1b",
             "publishedAt": "2025-11-03T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "newsweek"
+            },
+            "title": "Google Chrome's Internet Supremacy Faces Major Threats",
+            "url": "https://www.newsweek.com/google-chrome-internet-supremacy-threats-10965143",
+            "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2025/10/Google-Chromes-Internet-Supremacy-Faces-Major-Threats.png?w=1200crop%3D1",
+            "publishedAt": "2025-11-03 10:00:00"
+        },
+        {
+            "source": {
+                "name": "deccanherald"
+            },
+            "title": "Amazon’s layoffs show how AI is coming for India",
+            "url": "https://www.deccanherald.com/opinion/amazons-layoffs-show-how-ai-is-coming-for-india-3784672",
+            "urlToImage": "https://media.assettype.com/deccanherald%2F2025-04-30%2Fzf6gzfws%2Fdeccanherald2024-01566b1126-8b2a-4bf4-bb0e-155a5284fe3eAmazon20India1595498122.avif?auto=format%2Ccompress&fit=max&rect=0%2C0%2C1200%2C675&w=undefined",
+            "publishedAt": "2025-11-03 09:58:05"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "How Telepathic Music Inspires Disabled Creatives",
+            "url": "https://hackernoon.com/how-telepathic-music-inspires-disabled-creatives",
+            "urlToImage": "https://hackernoon.imgix.net/images/YRHvNbkmRNRPdVZI3Yj68WDNNVt1-p403bdv.jpeg",
+            "publishedAt": "2025-11-03 09:56:10"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Ecoyield, BlockDAG, GhostwareOS, Remittix, BlockchainFX: Which Is The Best Crypto To Buy Now?",
+            "url": "https://www.analyticsinsight.net/cryptocurrency-analytics-insight/ecoyield-blockdag-ghostwareos-remittix-blockchainfx-which-is-the-best-crypto-to-buy-now",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-11-03%2Fck5k3sw8%2FEcoYield-1.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-11-03 09:36:21"
+        },
+        {
+            "source": {
+                "name": "thelincolnianonline"
+            },
+            "title": "Reviewing American Superconductor (NASDAQ:AMSC) and Kyocera (OTCMKTS:KYOCY)",
+            "url": "https://www.thelincolnianonline.com/2025/11/03/reviewing-american-superconductor-nasdaqamsc-and-kyocera-otcmktskyocy.html",
+            "urlToImage": "https://www.marketbeat.com/logos/american-superconductor-co-logo-1200x675.png?v=20240524064434",
+            "publishedAt": "2025-11-03 09:30:49"
+        },
+        {
+            "source": {
+                "name": "thehindu"
+            },
+            "title": "Is posture how kangaroos can speed up without burning more energy?",
+            "url": "https://www.thehindu.com/sci-tech/science/is-posture-how-kangaroos-can-speed-up-without-burning-more-energy/article70233044.ece",
+            "urlToImage": "https://www.thehindu.com/theme/images/th-online/1x1_spacer.png",
+            "publishedAt": "2025-11-03 09:30:00"
+        },
+        {
+            "source": {
+                "name": "onmsft"
+            },
+            "title": "Laptop Low Battery Warning When Plugged In (7 Easy Fixes)",
+            "url": "https://windowsreport.com/laptop-low-battery-warning-when-plugged-in/",
+            "urlToImage": "https://windowsreport.com/wp-content/uploads/2025/11/laptop-low-battery-warning-when-plugged-in-700x467.jpg",
+            "publishedAt": "2025-11-03 09:25:52"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "Enterprises are not prepared for a world of malicious AI agents",
+            "url": "https://www.zdnet.com/article/enterprises-are-not-prepared-for-a-world-of-malicious-ai-agents/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/f54c76b49ca817d27858c2a9947df24c027ee777/2025/11/02/55046913-384d-4fb6-8d9c-4802a7865ceb/gettyimages-2148033973.jpg?auto=webp&width=1280",
+            "publishedAt": "2025-11-03 09:23:43"
+        },
+        {
+            "source": {
+                "name": "geeky_gadgets"
+            },
+            "title": "Fine-Tuning AI Made Simple : Transform Your AI Into a Specialist",
+            "url": "https://www.geeky-gadgets.com/how-to-fine-tune-ai-models/",
+            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/10/custom-ai-fine-tuning-guide_optimized.webp",
+            "publishedAt": "2025-11-03 09:17:56"
         },
         {
             "source": {
@@ -3054,186 +3207,6 @@
             "url": "https://www.cnbc.com/2025/11/01/chinas-xi-pushes-for-global-ai-body-at-apec-in-counter-to-us.html",
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/108218701-17617542602025-09-02t043753z_430267540_rc2gjgahlcjf_rtrmadp_0_ww2-anniversary-china-russia-mongolia.jpeg?v=1761988814&w=1920&h=1080",
             "publishedAt": "2025-11-01T09:20:40Z"
-        },
-        {
-            "source": {
-                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-                "name": "Benzinga",
-                "url": "https://www.benzinga.com",
-                "country": "us"
-            },
-            "title": "Kevin O'Leary Warns Real Threat Is AI, Not Nukes, As Trump Orders First US Nuclear Test Since 1992 To Counter Russia, China",
-            "url": "https://www.benzinga.com/markets/tech/25/11/48577719/kevin-oleary-warns-real-threat-is-ai-not-nukes-as-trump-orders-first-us-nuclear-test-since-1992-to-counter-russia-china",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/11/01/Shark-Tanks-Kevin-OLeary-Warns-Entrepren.jpeg?width=1200&height=800&fit=crop",
-            "publishedAt": "2025-11-01T08:43:28Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "West Bengal Police to tie up with AI to curb crimes in state",
-            "url": "https://www.lokmattimes.com/national/west-bengal-police-to-tie-up-with-ai-to-curb-crimes-in-state/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202511013560184_202511.jpg",
-            "publishedAt": "2025-11-01T08:18:32Z"
-        },
-        {
-            "source": {
-                "id": "bb30de23eec2cc576488c93582eaeb76",
-                "name": "Outlook Money",
-                "url": "https://www.outlookmoney.com",
-                "country": "in"
-            },
-            "title": "UIDAI Forms Experts Panel To Make Aadhaar Technology Resilient Against Frauds",
-            "url": "https://www.outlookmoney.com/retirement/news/uidai-forms-experts-panel-to-make-aadhaar-technology-resilient-against-frauds",
-            "urlToImage": "https://media.assettype.com/outlookmoney/2025-11-01/o3wakmey/UIDAI-Aadhaar-Panel.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2025-11-01T07:52:27Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "Professors Catch Dozens of Students Using AI to Write Apology Letters for Using the Same Tools to Cheat in Class",
-            "url": "https://www.breitbart.com/tech/2025/11/01/professors-catch-dozens-of-students-using-ai-to-write-apology-letters-for-using-the-same-tools-to-cheat-in-class/",
-            "urlToImage": "https://media.breitbart.com/media/2025/10/college-students-in-class-1-640x335.jpg",
-            "publishedAt": "2025-11-01T07:47:58Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "Professors Catch Dozens of Students Using AI to Write Apology Letters for Using the Same Tools to Cheat in Class",
-            "url": "https://www.breitbart.com/education/2025/11/01/professors-catch-dozens-of-students-using-ai-to-write-apology-letters-for-using-the-same-tools-to-cheat-in-class/",
-            "urlToImage": "https://media.breitbart.com/media/2025/10/college-students-in-class-1-640x335.jpg",
-            "publishedAt": "2025-11-01T07:47:58Z"
-        },
-        {
-            "source": {
-                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
-                "name": "The News International",
-                "url": "https://www.thenews.com.pk",
-                "country": "pk"
-            },
-            "title": "Tesla CEO Elon Musk foresees future dominated by AI: ‘No phones, no apps’",
-            "url": "https://www.thenews.com.pk/latest/1355031-tesla-ceo-elon-musk-foresees-future-dominated-by-ai-no-phones-no-apps",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/updates/2025-11-01/1355031_115809_updates.jpg",
-            "publishedAt": "2025-11-01T07:29:00Z"
-        },
-        {
-            "source": {
-                "id": "60c457b35b486691319f105c3a760060",
-                "name": "Malayala Manorama",
-                "url": "https://www.onmanorama.com",
-                "country": "in"
-            },
-            "title": "Kerala ration rice scam: 345 shops, 110 employees under scanner",
-            "url": "https://www.onmanorama.com/news/kerala/2025/11/01/ration-rice-flow-to-black-market-in-kerala.html",
-            "urlToImage": "https://img.onmanorama.com/content/dam/mm/en/archive/kerala/top-news/images/2025/11/1/rice-afp-photo.jpg",
-            "publishedAt": "2025-11-01T07:18:51Z"
-        },
-        {
-            "source": {
-                "id": "69a24b80e5bce5a07f808f5ea84c434b",
-                "name": "Arkansas Online",
-                "url": "https://www.arkansasonline.com",
-                "country": "us"
-            },
-            "title": "Amazon’s cloud tech growth calms investor worries on AI",
-            "url": "https://www.arkansasonline.com/news/2025/nov/01/amazons-cloud-tech-growth-calms-investor-worries/",
-            "urlToImage": "https://wehco.media.clients.ellingtoncms.com/static-4/teaser_images/www.arkansasonline.com_default.jpg",
-            "publishedAt": "2025-11-01T06:48:00Z"
-        },
-        {
-            "source": {
-                "id": "7eeaf9a839918543cc708f2d331c3be4",
-                "name": "Free Press Journal",
-                "url": "https://www.freepressjournal.in",
-                "country": "in"
-            },
-            "title": "West Bengal Police To Set Up Dedicated Artificial Intelligence Cell To Enhance Transparency, Efficiency And Strategic Decision-Making",
-            "url": "https://www.freepressjournal.in/india/west-bengal-police-to-set-up-dedicated-artificial-intelligence-cell-to-enhance-transparency-efficiency-and-strategic-decision-making",
-            "urlToImage": "https://media.assettype.com/freepressjournal/2025-11-01/s2llm86k/Untitled-design-2025-11-01T115819.623.jpg",
-            "publishedAt": "2025-11-01T06:32:35Z"
-        },
-        {
-            "source": {
-                "id": "b33a42ef1c098421f66aad47a76d6a3c",
-                "name": "The Hindu",
-                "url": "https://www.thehindu.com",
-                "country": "in"
-            },
-            "title": "The great AI buildout shows no sign of slowing",
-            "url": "https://www.thehindu.com/sci-tech/technology/the-great-ai-buildout-shows-no-sign-of-slowing/article70228443.ece",
-            "urlToImage": "https://th-i.thgim.com/public/incoming/k01751/article70228449.ece/alternates/LANDSCAPE_1200/2025-10-31T100049Z_693932249_RC28X4A686TJ_RTRMADP_3_HAPPIESTMINDS-GENAI-INTERVIEW.JPG",
-            "publishedAt": "2025-11-01T05:49:30Z"
-        },
-        {
-            "source": {
-                "id": "e479ce8332aab31d8bac6ba9584cedbb",
-                "name": "Republic World",
-                "url": "https://www.republicworld.com",
-                "country": "in"
-            },
-            "title": "Samsung, Nvidia Partner To Build Next-Gen AI Megafactory For Chip Production",
-            "url": "https://www.republicworld.com/business/samsung-nvidia-partner-to-build-next-gen-ai-megafactory-for-chip-production",
-            "urlToImage": "https://img.republicworld.com/all_images/samsung-electronics-1760753067036-16_9.webp",
-            "publishedAt": "2025-11-01T05:31:32Z"
-        },
-        {
-            "source": {
-                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-                "name": "The Financial Express",
-                "url": "https://www.financialexpress.com",
-                "country": "in"
-            },
-            "title": "Meet $200 billion club - six richest billionaires leading the AI-fueled new wealth order",
-            "url": "https://www.financialexpress.com/shorts/world-news/infrastructure/meet-200-billion-club-six-richest-billionaires-leading-the-ai-fueled-new-wealth-order-4028552/",
-            "urlToImage": "https://images.financialexpressdigital.com/2025/10/elon-musk-net-worth_20251023032135.jpg",
-            "publishedAt": "2025-11-01T05:14:49Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "Samsung and Nvidia are building an AI megafactory powered by 50,000 GPUs - here’s what it means for the future of chips",
-            "url": "https://www.livemint.com/technology/tech-news/samsung-and-nvidia-are-building-an-ai-megafactory-powered-by-50-000-gpus-here-s-what-it-means-for-the-future-of-chips-11761972345101.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2025/11/01/1600x900/SKOREA-APEC-CEO-SUMMIT-74_1761972684898_1761972691846.jpg",
-            "publishedAt": "2025-11-01T05:02:26Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Investors race for next big wins in India’s $5.4-tn market amid AI gold rush",
-            "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/investors-race-for-next-big-wins-in-indias-5-4-tn-market-amid-ai-gold-rush/articleshow/125009696.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-125009829,width-1200,height-630,imgsize-64410,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2025-11-01T04:55:00Z"
-        },
-        {
-            "source": {
-                "id": "ca84296ef941bfa461f4239a2290cb99",
-                "name": "News18",
-                "url": "https://www.news18.com",
-                "country": "in"
-            },
-            "title": "Bengal Police Set Up Artificial Intelligence Cell To Boost Efficiency And Crime Detection",
-            "url": "https://www.news18.com/india/bengal-police-set-up-artificial-intelligence-cell-to-boost-efficiency-and-crime-detection-ws-kl-9673038.html",
-            "urlToImage": "https://images.news18.com/ibnlive/uploads/2025/11/AI-2025-11-83dedf7f9c55c7a25e1712b9a3ef65a7-16x9.jpg",
-            "publishedAt": "2025-11-01T04:54:45Z"
         }
     ]
 }
