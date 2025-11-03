@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-11-03T14:16:12.323200Z",
+    "lastUpdatedAt": "2025-11-03T15:16:45.550727Z",
     "articles": [
+        {
+            "source": {
+                "id": "9b153bd4f54b13f67b1b831d646a1548",
+                "name": "Deccan Herald",
+                "url": "https://www.deccanherald.com",
+                "country": "in"
+            },
+            "title": "Why It's a Business Enabler",
+            "url": "https://www.deccanherald.com/business/why-organisations-now-see-cybersecurity-as-a-business-enabler-3784313",
+            "urlToImage": "https://media.assettype.com/deccanherald%2F2025-11-03%2Fqufti0rc%2FiStock-1435605327.jpg?rect=0%2C0%2C1254%2C658&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
+            "publishedAt": "2025-11-03T03:06:16Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Who is Zico Kolter? A professor leads OpenAI safety panel with power to halt unsafe AI releases",
+            "url": "https://www.thestar.com.my/tech/tech-news/2025/11/03/who-is-zico-kolter-a-professor-leads-openai-safety-panel-with-power-to-halt-unsafe-ai-releases",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/03/3602710.jpg",
+            "publishedAt": "2025-11-03T03:00:00Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Asian stocks rise on AI sentiment, dollar near 3-month high",
+            "url": "https://www.thestar.com.my/business/business-news/2025/11/03/asian-stocks-rise-on-ai-sentiment-dollar-near-3-month-high",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/03/3602675.JPG",
+            "publishedAt": "2025-11-03T02:27:00Z"
+        },
+        {
+            "source": {
+                "id": "e479ce8332aab31d8bac6ba9584cedbb",
+                "name": "Republic World",
+                "url": "https://www.republicworld.com",
+                "country": "in"
+            },
+            "title": "Trump Says Nvidia's Blackwell AI Chip Not For 'Other People'",
+            "url": "https://www.republicworld.com/business/trump-says-nvidia-s-blackwell-ai-chip-not-for-other-people",
+            "urlToImage": "https://img.republicworld.com/all_images/nvidia-crosses-4-trillion-market-cap-sets-global-record-1752080491125-16_9.webp",
+            "publishedAt": "2025-11-03T02:17:02Z"
+        },
         {
             "source": {
                 "id": "da5c26287bdd02563a2c32b55cb12051",
@@ -180,6 +228,51 @@
             "url": "https://www.globenewswire.com/news-release/2025/11/03/3178924/0/en/Atos-inaugurates-new-Cybersecurity-and-Infrastructure-Management-Operations-Center-in-Seville.html",
             "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/568cd544-fe3f-4d7b-ad16-a905f048f2ee",
             "publishedAt": "2025-11-03T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "AI is becoming introspective - and that 'should be monitored carefully,' warns Anthropic",
+            "url": "https://www.zdnet.com/article/ai-is-becoming-introspective-and-that-should-be-monitored-carefully-warns-anthropic/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/546adc7dffbcbf443bceba9053e70ecdd925f6bd/2025/11/02/b603f5a3-1b44-42fc-83ee-16957aceb6f3/gettyimages-1147184158.jpg?auto=webp&width=1280",
+            "publishedAt": "2025-11-03 03:00:27"
+        },
+        {
+            "source": {
+                "name": "hindustantimes"
+            },
+            "title": "Apple may ‘depend’ on Google Gemini for smarter AI-powered Siri",
+            "url": "https://www.hindustantimes.com/technology/apple-may-depend-on-google-gemini-for-smarter-ai-powered-siri-101762138049256.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/11/03/1600x900/Apple_Gemini_1762138375563_1762138375768.JPG",
+            "publishedAt": "2025-11-03 02:56:56"
+        },
+        {
+            "source": {
+                "name": "livemint"
+            },
+            "title": "Trump to restrict exports of Nvidia's Blackwell AI chips to China? Here's what the US President said",
+            "url": "https://www.livemint.com/news/world/trump-to-restrict-exports-of-nvidias-blackwell-ai-chips-to-china-heres-what-the-us-president-said-11762134091704.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2025/11/03/1600x900/USA-CHINA-STRAINS-3_1761890357697_1761890368299_1762136491630.JPG",
+            "publishedAt": "2025-11-03 02:41:05"
+        },
+        {
+            "source": {
+                "name": "yourstory"
+            },
+            "title": "At TechSparks 2025, leaders from Pixxel, Tally, CoRover, and more will decode India's AI-powered future",
+            "url": "https://yourstory.com/2025/11/at-techsparks-2025-leaders-from-pixxel-tally-corov",
+            "urlToImage": "https://images.yourstory.com/cs/2/3fb20ae02dc911e9af58c17e6cc3d915/TS-1st-Article-1762107473022.jpg",
+            "publishedAt": "2025-11-03 02:30:00"
+        },
+        {
+            "source": {
+                "name": "economictimes_indiatimes"
+            },
+            "title": "Reliance, Airtel are handing out brains for free, for a bigger purpose",
+            "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/reliance-airtel-are-handing-out-brains-for-free-for-a-bigger-purpose/articleshow/125050084.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-125050084,width-300,height-225,imgsize-54036,resizemode-75/.jpg",
+            "publishedAt": "2025-11-03 02:22:47"
         },
         {
             "source": {
@@ -3039,87 +3132,6 @@
             "url": "https://www.teslarati.com/spacex-checks-off-49-lunar-lander-milestones-in-push-toward-artemis-iii/",
             "urlToImage": "https://www.teslarati.com/wp-content/uploads/2025/10/starship-flight-11a-1000x600.jpeg",
             "publishedAt": "2025-11-01 03:29:17"
-        },
-        {
-            "source": {
-                "name": "economictimes_indiatimes"
-            },
-            "title": "OxygenOS 16: OnePlus brings Android 16 update with AI tools, liquid glass design, and live alerts",
-            "url": "https://economictimes.indiatimes.com/news/new-updates/oxygenos-16-oneplus-brings-android-16-update-with-ai-tools-liquid-glass-design-and-live-alerts/articleshow/125012930.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-125013127,width-300,height-225,imgsize-1178064,resizemode-75/oxygenos-16-rollout-begins-november-2025-heres-whats-new.jpg",
-            "publishedAt": "2025-11-01 03:26:51"
-        },
-        {
-            "source": {
-                "name": "latestly"
-            },
-            "title": "Business News | Samsung, Nvidia Partner to Build Next-gen AI Megafactory for Chip Production",
-            "url": "https://www.latestly.com/agency-news/business-news-samsung-nvidia-partner-to-build-next-gen-ai-megafactory-for-chip-production-7186033.html",
-            "urlToImage": "https://st1.latestly.com/wp-content/uploads/2025/11/ANI-20251101023634.jpg",
-            "publishedAt": "2025-11-01 03:18:28"
-        },
-        {
-            "source": {
-                "name": "latestly"
-            },
-            "title": "Business News | SK Group, Nvidia to Build AI Factory with 50,000 GPUs",
-            "url": "https://www.latestly.com/agency-news/business-news-sk-group-nvidia-to-build-ai-factory-with-50000-gpus-7186017.html",
-            "urlToImage": "https://st1.latestly.com/wp-content/uploads/2025/11/ANI-20251101024143.png",
-            "publishedAt": "2025-11-01 03:04:30"
-        },
-        {
-            "source": {
-                "name": "thehansindia"
-            },
-            "title": "UIDAI unveils ‘Aadhaar Vision 2032’ framework",
-            "url": "https://www.thehansindia.com/news/national/uidai-unveils-aadhaar-vision-2032-framework-1019427",
-            "urlToImage": "https://assets.thehansindia.com/h-upload/2025/07/16/1568377-uidai.webp",
-            "publishedAt": "2025-11-01 03:00:51"
-        },
-        {
-            "source": {
-                "name": "newsable_asianetnews"
-            },
-            "title": "SK Group, Nvidia to build massive AI factory with over 50,000 GPUs",
-            "url": "https://newsable.asianetnews.com/business/sk-group-nvidia-to-build-massive-ai-factory-with-over-50000-gpus-articleshow-rtlsov2",
-            "urlToImage": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-9c138780-dfb0-4e90-abd3-e54a4f9fb5ed.png",
-            "publishedAt": "2025-11-01 03:00:28"
-        },
-        {
-            "source": {
-                "name": "siasat"
-            },
-            "title": "Telangana YouTuber Syed Hafeez receives UAE Golden Visa",
-            "url": "https://www.siasat.com/telangana-youtuber-syed-hafeez-receives-uae-golden-visa-3290255/",
-            "urlToImage": "https://cdn.siasat.com/wp-content/uploads/2025/11/syed-hafeez-uae-golden-visa-telangana.jpg",
-            "publishedAt": "2025-11-01 02:41:26"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "Thinking of buying an Arm-based Windows PC? These three issues might be dealbreakers",
-            "url": "https://www.zdnet.com/article/thinking-of-buying-an-arm-based-windows-pc-these-three-issues-might-be-dealbreakers/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/2fbfa1b786b44cc416a3c4f53493bd360c81c390/2025/03/03/e77fb3c4-ca79-45c4-b378-5fd2624ac666/dsc04272.jpg?auto=webp&width=1280",
-            "publishedAt": "2025-11-01 02:00:25"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "AI Chips For The Future",
-            "url": "https://www.forbes.com/sites/johnwerner/2025/10/31/ai-chips-for-the-future/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6712953a7342c1f14da300fc/0x0.jpg?width=960",
-            "publishedAt": "2025-11-01 01:47:51"
-        },
-        {
-            "source": {
-                "name": "menafn"
-            },
-            "title": "SK Group, Nvidia To Build Massive AI Factory With Over 50,000 Gpus",
-            "url": "https://menafn.com/1110278618/SK-Group-Nvidia-To-Build-Massive-AI-Factory-With-Over-50000-Gpus",
-            "urlToImage": "https://menafn.com/updates/pr/2025-11/01/AN_0416dimage_story.png",
-            "publishedAt": "2025-11-01 00:00:45"
         }
     ]
 }
