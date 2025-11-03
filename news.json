@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-11-02T23:13:27.485400Z",
+    "lastUpdatedAt": "2025-11-03T01:16:32.030499Z",
     "articles": [
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Pioneering AI institute launched in Albay",
+            "url": "https://www.manilatimes.net/2025/11/02/regions/pioneering-ai-institute-launched-in-albay/2213819",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/11/02/808793.jpg",
+            "publishedAt": "2025-11-02T12:43:00Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "‘Godfather of AI’ Geoffrey Hinton on AI wiping millions of jobs: Problem ultimately is not due to AI itself, but how we ...",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/godfather-of-ai-geoffrey-hinton-on-ai-wiping-millions-of-jobs-problem-ultimately-is-not-due-to-ai-itself-but-how-we-/articleshow/125033578.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-125033569,width-1070,height-580,imgsize-1618136,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-11-02T12:05:00Z"
+        },
+        {
+            "source": {
+                "id": "d6397b77175680e2678c0d60edcee7af",
+                "name": "South China Morning Post",
+                "url": "https://www.scmp.com",
+                "country": "hk"
+            },
+            "title": "Why AI scientists fail to impress human experts at one-of-a-kind online conference",
+            "url": "https://www.scmp.com/news/china/science/article/3331218/why-ai-scientists-fail-impress-human-experts-one-kind-online-conference",
+            "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/11/02/a9498937-bb52-4ea9-95e5-4a6d954ab3ab_cd0ed8d8.jpg?itok=BURXZXoa&v=1762069511",
+            "publishedAt": "2025-11-02T12:00:10Z"
+        },
+        {
+            "source": {
+                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+                "name": "Firstpost",
+                "url": "https://www.firstpost.com",
+                "country": "in"
+            },
+            "title": "Get artsy: How creativity might slow down the brain from ageing",
+            "url": "https://www.firstpost.com/explainers/get-artsy-how-creativity-might-slow-down-the-brain-from-ageing-13945709.html",
+            "urlToImage": "https://images.firstpost.com/uploads/2025/10/art-1851483_1280-2025-10-0f96af17341d0553d772c0856a056570-1200x675.jpg?im=FitAndFill=(1200,675)",
+            "publishedAt": "2025-11-02T11:49:11Z"
+        },
         {
             "source": {
                 "id": "7eeaf9a839918543cc708f2d331c3be4",
@@ -228,6 +276,96 @@
             "url": "https://www.forbes.com/sites/bill_stone/2025/11/02/sp-500-q3-2025-earnings-surge-magnificent-7-lead-market-rally/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69074983951f235798ee2eb8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-11-02T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "thelincolnianonline"
+            },
+            "title": "Best Blockchain Stocks To Research – November 1st",
+            "url": "https://www.thelincolnianonline.com/2025/11/02/best-blockchain-stocks-to-research-november-1st.html",
+            "urlToImage": "https://www.marketbeat.com/logos/core-scientific-inc-logo-1200x675.jpg?v=20220224081413",
+            "publishedAt": "2025-11-02 13:02:45"
+        },
+        {
+            "source": {
+                "name": "gizmodotech"
+            },
+            "title": "Dreame Aqua10 Ultra Roller Review: Just Buy a Mop",
+            "url": "https://gizmodo.com/dreame-aqua10-ultra-roller-review-just-buy-a-mop-2000662970",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/Dreame-Aqua10-Ultra-Roller-review-01-1280x853.jpg",
+            "publishedAt": "2025-11-02 13:00:25"
+        },
+        {
+            "source": {
+                "name": "biztoc"
+            },
+            "title": "Microsoft CEO Doesn’t Want to Buy NVIDIA’s AI GPUs “Beyond One Generation,” Hints at a Compute Glut Driven by Energy Constraints",
+            "url": "https://biztoc.com/x/1537de9bd2183af5",
+            "urlToImage": "https://cdn.biztoc.com/1537de9bd2183af5_sq.webp",
+            "publishedAt": "2025-11-02 12:41:33"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "Hackers can use prompt injection attacks to hijack your AI chats — here's how to avoid this serious security flaw",
+            "url": "https://www.tomsguide.com/computing/online-security/hackers-can-use-prompt-injection-attacks-to-hijack-your-ai-chats-heres-how-to-avoid-this-serious-security-flaw",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/nup29RBjXD3PZNaASrdLQ6-1280-80.jpg",
+            "publishedAt": "2025-11-02 12:30:00"
+        },
+        {
+            "source": {
+                "name": "hackaday"
+            },
+            "title": "Building A DIY Ryzen-Based PC!",
+            "url": "https://hackaday.com/2025/11/02/building-a-diy-ryzen-based-pc/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2025/10/Screenshot-From-2025-10-23-16-57-27.png",
+            "publishedAt": "2025-11-02 12:00:26"
+        },
+        {
+            "source": {
+                "name": "cnet"
+            },
+            "title": "Lenovo Yoga 9i 2-in-1 Aura Edition Review: Near-Perfect Package With Record-Setting Battery Life",
+            "url": "https://www.cnet.com/tech/computing/lenovo-yoga-9i-2-in-1-aura-edition-review-near-perfect-package-with-record-setting-battery-life/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/1433050442d2b9cee61687982560a97381a39ba6/hub/2025/10/31/b04d19f5-75ce-4a79-ad07-d301ec660b75/img-3601.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-11-02 12:00:06"
+        },
+        {
+            "source": {
+                "name": "wired"
+            },
+            "title": "Physicists Create a Thermometer for Measuring ‘Quantumness’",
+            "url": "https://www.wired.com/story/physicists-create-a-thermometer-for-measuring-quantumness/",
+            "urlToImage": "https://media.wired.com/photos/68f0e670ac914813c3e7b315/master/w_120,c_limit/Quantum-2nd-Law-cr-Daniel-Garcia-Lede.jpeg",
+            "publishedAt": "2025-11-02 12:00:00"
+        },
+        {
+            "source": {
+                "name": "mathrubhumi"
+            },
+            "title": "NTA introduces 'live photo,' 'e-KYC' for JEE application: What students need to know",
+            "url": "https://english.mathrubhumi.com/education/news/jee-main-2026-live-photo-aadhaar-ekyc-hpudop2k",
+            "urlToImage": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1mx3l0a3j00cqzwkooz/0/jee-main.jpg?w=900",
+            "publishedAt": "2025-11-02 11:45:09"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "BNB May Hit $1,500 by 2026, But Ozak AI Could Turn the Same Investment Into 500x Gains — Here’s the Math",
+            "url": "https://www.analyticsinsight.net/cryptocurrency-analytics-insight/bnb-may-hit-1500-by-2026-but-ozak-ai-could-turn-the-same-investment-into-500x-gains-heres-the-math",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-11-02%2Foy3hb2nz%2FScreenshot-2025-11-02-171013.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-11-02 11:43:15"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "Reddit’s CEO Debuts As A Billionaire 20 Years After Cofounding The Company",
+            "url": "https://www.forbes.com/sites/monicahunter-hart/2025/11/01/reddits-ceo-debuts-as-a-steve-huffman-billionaire-20-years-after-cofounding-the-company/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6904d93cdc8bd3e8c623def9/0x0.jpg?precrop=1920%2C1080%2Cx0%2Cy0&width=960",
+            "publishedAt": "2025-11-02 11:30:00"
         },
         {
             "source": {
@@ -3117,174 +3255,6 @@
             "url": "https://www.nytimes.com/2025/10/31/technology/ai-spending-accelerating.html",
             "urlToImage": "https://static01.nyt.com/images/2025/10/31/multimedia/31biz-ai-boom-sub-gwcl/31biz-ai-boom-sub-gwcl-facebookJumbo.jpg",
             "publishedAt": "2025-10-31T09:02:30Z"
-        },
-        {
-            "source": {
-                "id": "21468bec836de1ebb209ff6f78fbfe3e",
-                "name": "Hindustan Times",
-                "url": "https://www.hindustantimes.com",
-                "country": "in"
-            },
-            "title": "Big Tech banks on artificial intelligence to drive growth amid job cuts",
-            "url": "https://www.hindustantimes.com/business/big-tech-banks-on-artificial-intelligence-to-drive-growth-amid-job-cuts-101761900587721.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/10/31/550x309/Big-Tech-is-shifting-ever-so-quickly--and-analysts_1761900581194.jpg",
-            "publishedAt": "2025-10-31T08:49:47Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Jefferies favours China's AI strategy over US, citing energy advantage and open",
-            "url": "https://www.tribuneindia.com/news/business/jefferies-favours-chinas-ai-strategy-over-us-citing-energy-advantage-and-open-source-model/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWZlNDVlMjAwLWI2MzUtMTFmMC1iMDY0LWVkNWUyYTYzNDljNy5qcGc=",
-            "publishedAt": "2025-10-31T08:45:37Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Women Secure the Digital Future at GIFT City: Meet Deakin's cybersecurity faculty powering cyber talent",
-            "url": "https://www.tribuneindia.com/news/business/women-secure-the-digital-future-at-gift-city-meet-deakins-cybersecurity-faculty-powering-cyber-talent/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWY1MjRiMWIwLWI2MzUtMTFmMC1iMDY0LWVkNWUyYTYzNDljNy5qcGc=",
-            "publishedAt": "2025-10-31T08:45:24Z"
-        },
-        {
-            "source": {
-                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-                "name": "NDTV.com",
-                "url": "https://www.ndtv.com",
-                "country": "in"
-            },
-            "title": "Bengal Cops To Get AI Cell To Enhance Efficiency, Transparency",
-            "url": "https://www.ndtv.com/india-news/west-bengal-police-to-get-ai-cell-to-enhance-efficiency-transparency-9550613",
-            "urlToImage": "https://c.ndtvimg.com/2025-09/dhn4aph_artificial-intelligence-teacher_625x300_23_September_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-            "publishedAt": "2025-10-31T08:26:52Z"
-        },
-        {
-            "source": {
-                "id": "4c8b69bf547b577f84acbba5157b439c",
-                "name": "RTE.ie",
-                "url": "https://www.rte.ie",
-                "country": "ie"
-            },
-            "title": "Meta to raise $30 billion in its biggest bond sale",
-            "url": "https://www.rte.ie/news/business/2025/1031/1541433-meta-to-raise-30-billion-in-its-biggest-bond-sale/",
-            "urlToImage": "https://www.rte.ie/images/001b9f87-1600.jpg",
-            "publishedAt": "2025-10-31T08:18:18Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Malaysia powers up Sovereign AI with Nvidia-backed data centre",
-            "url": "https://www.thestar.com.my/business/business-news/2025/10/31/malaysia-powers-up-sovereign-ai-with-nvidia-backed-data-centre",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/31/3599352.jpg",
-            "publishedAt": "2025-10-31T08:12:00Z"
-        },
-        {
-            "source": {
-                "id": "614a4b10b69af6cc657068ec6a59eaff",
-                "name": "Lawfare",
-                "url": "https://www.lawfaremedia.org",
-                "country": "us"
-            },
-            "title": "Peter Williams, Ex-ASD, Pleads Guilty to Selling Eight Exploits to Russia",
-            "url": "https://www.lawfaremedia.org/article/peter-williams--ex-asd--pleads-guilty-to-selling-eight-exploits-to-russia",
-            "urlToImage": "https://www.lawfaremedia.org/assets/icons/favicon-32x32.png",
-            "publishedAt": "2025-10-31T08:00:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "South Korea says Nvidia, Hyundai Motor to create $3 billion AI joint venture",
-            "url": "https://www.marketscreener.com/news/south-korea-says-nvidia-hyundai-motor-to-create-3-billion-ai-joint-venture-ce7d5cdbda80f62d",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2025-10-31T07:39:44Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Jio is offering Google Gemini Offer worth Rs 35,000: Check how to avail the offer, who are eligible",
-            "url": "https://economictimes.indiatimes.com/news/new-updates/reliance-google-partnership-offers-free-gemini-ai-access-for-jio-users-via-myjio-app/articleshow/124987890.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-124988024,width-1200,height-630,imgsize-99847,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2025-10-31T07:30:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "FastGPT Emerges as One of the Best No-code and Open-source AI Agent Builders for 2025, Empowering Enterprises to Build Smarter Workflows",
-            "url": "https://www.manilatimes.net/2025/10/31/tmt-newswire/pr-newswire/fastgpt-emerges-as-one-of-the-best-no-code-and-open-source-ai-agent-builders-for-2025-empowering-enterprises-to-build-smarter-workflows/2212939",
-            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-            "publishedAt": "2025-10-31T07:19:39Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "AI-focused roles lead new tech hirings in India",
-            "url": "https://economictimes.indiatimes.com/jobs/hr-policies-trends/ai-focused-roles-lead-new-tech-hirings-in-india/articleshow/124987529.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-124987535,width-1200,height-630,imgsize-166638,overlay-etcareers/articleshow.jpg",
-            "publishedAt": "2025-10-31T07:06:00Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Top 10 Free AI Face Swap Tools for Creators in 2025",
-            "url": "https://techbullion.com/top-10-free-ai-face-swap-tools-for-creators-in-2025/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/10/medium-shot-man-with-hoodie-holding-laptop-1000x600.jpg",
-            "publishedAt": "2025-10-31T07:04:57Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Powered 'Project Triveni' to End Global Hacking Threat",
-            "url": "https://www.tribuneindia.com/news/business/india-ready-to-launch-ai-powered-project-triveni-to-end-global-hacking-threat/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTY4MjQxM2UwLWI2MjctMTFmMC1iMDY0LWVkNWUyYTYzNDljNy5qcGc=",
-            "publishedAt": "2025-10-31T07:01:15Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Mistake-filled legal briefs show the limits of relying on AI tools at work",
-            "url": "https://www.thestar.com.my/tech/tech-news/2025/10/31/mistake-filled-legal-briefs-show-the-limits-of-relying-on-ai-tools-at-work",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/31/3598836.jpg",
-            "publishedAt": "2025-10-31T07:00:00Z"
         }
     ]
 }
