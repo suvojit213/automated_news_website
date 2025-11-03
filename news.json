@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-11-03T08:22:50.834873Z",
+    "lastUpdatedAt": "2025-11-03T09:19:22.542370Z",
     "articles": [
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Metro Corp marks cybersecurity awareness month",
+            "url": "https://www.tribuneindia.com/news/delhi/metro-corp-marks-cybersecurity-awareness-month/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTJjZWJlMjEwLWI4MzEtMTFmMC1iMDY0LWVkNWUyYTYzNDljNy5qcGc=",
+            "publishedAt": "2025-11-02T21:16:18Z"
+        },
+        {
+            "source": {
+                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
+                "name": "ABC (Australian Broadcasting Corporation)",
+                "url": "https://www.abc.net.au",
+                "country": "au"
+            },
+            "title": "Legal Services Board of Victoria warns lawyers about AI in court",
+            "url": "https://www.abc.net.au/news/2025-11-03/legal-services-board-of-victoria-warns-lawyers-about-ai-in-court/105916628",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/c21712ae390f1a272bdbe4c26e3c74a5?impolicy=wcms_watermark_news&cropH=576&cropW=1024&xPos=0&yPos=53&width=862&height=485&imformat=generic",
+            "publishedAt": "2025-11-02T21:03:31Z"
+        },
         {
             "source": {
                 "id": "bce8b9fcd331f3552e3dcf603b83b80e",
@@ -3123,30 +3147,6 @@
             "url": "https://japantoday.com/category/entertainment/universal-says-struck-first-licensing-deal-for-ai-music1",
             "urlToImage": "https://media.japantoday.com/img/store/ed/cf/32828f91988e44e5c8410b6cc4df0249d5d6/d76a6361260933e190e3a5dccd8e5dbdd7a43c5e/_w1700.jpeg",
             "publishedAt": "2025-10-31T17:48:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "AI giants turn to massive debt to finance tech race",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-giants-turn-to-massive-debt-to-finance-tech-race/articleshow/125001182.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-10654,resizemode-75,msid-125001182/tech/artificial-intelligence/ai-giants-turn-to-massive-debt-to-finance-tech-race.jpg",
-            "publishedAt": "2025-10-31T17:35:11Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Aadhaar future roadmap: UIDAI sets up expert panel to craft Vision 2032; explores AI, blockchain and quantum tech",
-            "url": "https://timesofindia.indiatimes.com/business/india-business/aadhaar-future-roadmap-uidai-sets-up-expert-panel-to-craft-vision-2032-explores-ai-blockchain-and-quantum-tech/articleshow/125000997.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-125001090,width-1070,height-580,imgsize-587446,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "publishedAt": "2025-10-31T17:32:00Z"
         }
     ]
 }
