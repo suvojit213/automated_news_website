@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2025-11-03T12:33:59.430263Z",
+    "lastUpdatedAt": "2025-11-03T13:27:25.890255Z",
     "articles": [
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Amazon’s layoffs show how AI is coming for India",
+            "url": "https://economictimes.indiatimes.com/jobs/hr-policies-trends/amazons-layoffs-show-how-ai-is-coming-for-india/articleshow/125044559.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-125044563,width-1200,height-630,imgsize-568485,overlay-etcareers/articleshow.jpg",
+            "publishedAt": "2025-11-03T01:26:00Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Trump says Nvidia's Blackwell AI chip not for 'other people'",
+            "url": "https://www.reuters.com/world/china/trump-says-nvidias-blackwell-ai-chip-not-other-people-2025-11-03/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/LKUGWXSQ3BJ23ATHQWA2K2D6XI.jpg?auth=dc5368b3d0bd388adae0916c57037bafc91f4a9970fdbc5dd4ed14fddcf24ba4&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-11-03T01:10:54Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Trump says Nvidia's Blackwell AI chip not for 'other people'",
+            "url": "https://www.marketscreener.com/news/trump-says-nvidia-s-blackwell-ai-chip-not-for-other-people-ce7d5cd8d089f02d",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2025-11-03T01:10:14Z"
+        },
+        {
+            "source": {
+                "id": "4b9101ef61d45607a32072a7504f5fb0",
+                "name": "The Japan Times ",
+                "url": "https://www.japantimes.co.jp",
+                "country": "jp"
+            },
+            "title": "Nvidia is worth $5 trillion. Here’s what it means for the market",
+            "url": "https://www.japantimes.co.jp/business/2025/11/03/tech/nvidia-5-trillion-market/",
+            "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2025/11/03/503499.jpg?v=3.1",
+            "publishedAt": "2025-11-03T00:51:02Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "UAE President receives Chair of US National Energy Dominance Council; MoU signed to advance collaboration in energy, AI",
+            "url": "https://www.tribuneindia.com/news/world/uae-president-receives-chair-of-us-national-energy-dominance-council-mou-signed-to-advance-collaboration-in-energy-ai/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWFlMTgwZTEwLWI4NGQtMTFmMC1iMDY0LWVkNWUyYTYzNDljNy5qcGc=",
+            "publishedAt": "2025-11-03T00:40:17Z"
+        },
         {
             "source": {
                 "id": "10cbfb3760cfcdeb78c733c527f0e814",
@@ -84,6 +144,33 @@
             "url": "https://www.globenewswire.com/news-release/2025/11/03/3178924/0/en/Atos-inaugurates-new-Cybersecurity-and-Infrastructure-Management-Operations-Center-in-Seville.html",
             "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/568cd544-fe3f-4d7b-ad16-a905f048f2ee",
             "publishedAt": "2025-11-03T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "hastingstribune"
+            },
+            "title": "MIMO Launches: The End of the AI Storage Mismatch",
+            "url": "https://www.hastingstribune.com/ap/personal_finance/mimo-launches-the-end-of-the-ai-storage-mismatch/article_e2631b7b-8799-5f85-8e21-eb5ce0e85385.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/hastingstribune.com/content/tncms/assets/v3/editorial/9/f6/9f6a0e2a-f679-5eb0-b75b-9ea661f642a7/690806a307947.image.jpg?resize=400%2C300",
+            "publishedAt": "2025-11-03 01:20:27"
+        },
+        {
+            "source": {
+                "name": "thehindubusinessline"
+            },
+            "title": "How digital marketing is incomplete without the Piyush Pandey doctrine",
+            "url": "https://www.thehindubusinessline.com/catalyst/how-digital-marketing-is-incomplete-without-the-piyush-pandey-doctrine/article70233178.ece",
+            "urlToImage": "https://bl-i.thgim.com/public/incoming/3cdmz0/article70233184.ece/alternates/LANDSCAPE_1200/BL0311_Brand_Piyush%20Pandey.jpg",
+            "publishedAt": "2025-11-03 01:12:00"
+        },
+        {
+            "source": {
+                "name": "xda_developers"
+            },
+            "title": "Why coil whine isn’t always the sign of a bad GPU",
+            "url": "https://www.xda-developers.com/why-coil-whine-isnt-always-the-sign-of-a-bad-gpu/",
+            "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2024/05/gigabyte-rx-600-gpu.jpg",
+            "publishedAt": "2025-11-03 01:01:24"
         },
         {
             "source": {
@@ -180,6 +267,18 @@
             "url": "https://www.abc.net.au/news/2025-11-03/legal-services-board-of-victoria-warns-lawyers-about-ai-in-court/105916628",
             "urlToImage": "https://live-production.wcms.abc-cdn.net.au/c21712ae390f1a272bdbe4c26e3c74a5?impolicy=wcms_watermark_news&cropH=576&cropW=1024&xPos=0&yPos=53&width=862&height=485&imformat=generic",
             "publishedAt": "2025-11-02T21:03:31Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "How data scientists are becoming the powerhouse behind America’s digital economy",
+            "url": "https://timesofindia.indiatimes.com/education/news/how-data-scientists-are-becoming-the-powerhouse-behind-americas-digital-economy/articleshow/125036927.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-125036917,width-1070,height-580,imgsize-30650,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-11-02T20:30:00Z"
         },
         {
             "source": {
@@ -3012,111 +3111,6 @@
             "url": "https://www.fool.com/investing/2025/11/01/the-smartest-technology-stock-to-buy-with-200-now/",
             "urlToImage": "https://g.foolcdn.com/editorial/images/839127/professional_smiling_while_looking_at_a_laptop.jpg",
             "publishedAt": "2025-11-01 00:00:00"
-        },
-        {
-            "source": {
-                "name": "financialcontent"
-            },
-            "title": "3 Cheap Tech Stocks to Buy Right Now",
-            "url": "https://www.fool.com/investing/2025/11/01/3-cheap-tech-stocks-to-buy-right-now/",
-            "urlToImage": "https://g.foolcdn.com/editorial/images/839878/piggy-bank-kiss.jpg",
-            "publishedAt": "2025-11-01 00:00:00"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Wall St Week Ahead: Stock rally faces earnings wave",
-            "url": "https://www.thestar.com.my/business/2025/11/01/wall-st-week-ahead-stock-rally-faces-earnings-wave",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/01/3600325.jpg",
-            "publishedAt": "2025-10-31T23:25:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Tech Up After Amazon, Apple Earnings -- Tech Roundup",
-            "url": "https://www.marketscreener.com/news/tech-up-after-amazon-apple-earnings-tech-roundup-ce7d5cd8da88f426",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2025-10-31T22:11:13Z"
-        },
-        {
-            "source": {
-                "id": "8c6e9834b8fccfc4c516038dbb543005",
-                "name": "The London Free Press",
-                "url": "https://lfpress.com",
-                "country": "gb"
-            },
-            "title": "Oxford County cyberattack linked to dark web ransomware group",
-            "url": "https://lfpress.com/news/local-news/oxford-county-cyberattack-linked-to-dark-web-ransomware-group",
-            "urlToImage": "https://smartcdn.gprod.postmedia.digital/lfpress/wp-content/uploads/2024/10/OxfordCounty4.WD_.jpg",
-            "publishedAt": "2025-10-31T21:58:54Z"
-        },
-        {
-            "source": {
-                "id": "09dc1bda762f4f787cec10477a894d96",
-                "name": "Toronto Sun",
-                "url": "https://torontosun.com",
-                "country": "ca"
-            },
-            "title": "Southwestern Ontario cyberattack linked to dark web ransomware group",
-            "url": "https://torontosun.com/news/local-news/oxford-county-cyberattack-linked-to-dark-web-ransomware-group/wcm/b0128000-6901-4c2c-983c-da90e5df3c93",
-            "urlToImage": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2025/10/OxfordCounty4.WD_.jpg",
-            "publishedAt": "2025-10-31T21:58:54Z"
-        },
-        {
-            "source": {
-                "id": "1a3615c1358e4d862525999bb4b2aa01",
-                "name": "The Expositor",
-                "url": "https://www.brantfordexpositor.ca",
-                "country": "ca"
-            },
-            "title": "Oxford County cyberattack linked to dark web ransomware group",
-            "url": "https://www.brantfordexpositor.ca/news/local-news/oxford-county-cyberattack-linked-to-dark-web-ransomware-group/wcm/52846070-cda0-47b5-81ff-07f60a279b37",
-            "urlToImage": "https://smartcdn.gprod.postmedia.digital/nexus/wp-content/uploads/2025/10/OxfordCounty4.WD_-4.jpg",
-            "publishedAt": "2025-10-31T21:58:54Z"
-        },
-        {
-            "source": {
-                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-                "name": "Markets Insider",
-                "url": "https://markets.businessinsider.com",
-                "country": "us"
-            },
-            "title": "Is Nvidia Stock (NVDA) Rising on Its Next $1B AI Play?",
-            "url": "https://markets.businessinsider.com/news/stocks/is-nvidia-stock-nvda-rising-on-its-next-1b-ai-play-1035464627",
-            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/10/image-2903-1024x762.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-            "publishedAt": "2025-10-31T21:39:00Z"
-        },
-        {
-            "source": {
-                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
-                "name": "TechStartups.com",
-                "url": "https://techstartups.com",
-                "country": "us"
-            },
-            "title": "The Hidden Debt Behind the AI Boom: How Meta and xAI Are Quietly Raising Billions to Finance AI Investments",
-            "url": "https://techstartups.com/2025/10/31/the-hidden-debt-behind-the-ai-boom-how-meta-and-xai-are-quietly-raising-billions-to-finance-ai-investments/",
-            "urlToImage": "https://techstartups.com/wp-content/uploads/2025/10/The-Hidden-Debt-Behind-the-AI-Boom.jpg",
-            "publishedAt": "2025-10-31T21:29:33Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Lucas GC Limited Announces 1H 2025 Financial Results: Revenue at US$54.01 million with Increases in Gross Margin",
-            "url": "https://www.manilatimes.net/2025/11/01/tmt-newswire/globenewswire/lucas-gc-limited-announces-1h-2025-financial-results-revenue-at-us5401-million-with-increases-in-gross-margin/2213479",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/11/01/807872.jpg",
-            "publishedAt": "2025-10-31T21:18:02Z"
         }
     ]
 }
