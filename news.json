@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-11-04T07:15:44.729472Z",
+    "lastUpdatedAt": "2025-11-04T08:22:04.305443Z",
     "articles": [
+        {
+            "source": {
+                "id": "933344203c2b862af768b5e662a162a4",
+                "name": "International Business Times",
+                "url": "https://www.ibtimes.com",
+                "country": "us"
+            },
+            "title": "Machines Have No Reason to Lie: Lisa Parlagreco on the New Frontier of Forensic Science and AI in Law",
+            "url": "https://www.ibtimes.com/machines-have-no-reason-lie-lisa-parlagreco-new-frontier-forensic-science-ai-law-3789322",
+            "urlToImage": "https://d.ibtimes.com/en/full/4632650/lisa-parlagreco.jpg",
+            "publishedAt": "2025-11-03T20:05:58Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "'This Is As Good As It Gets': Meb Faber",
+            "url": "https://www.marketscreener.com/news/this-is-as-good-as-it-gets-meb-faber-ce7d5cd9d088f323",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/mtnewswires/A3493627.png",
+            "publishedAt": "2025-11-03T19:50:32Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "S&P 500, Nasdaq boosted by Amazon-OpenAI deal; Fed path forward grows murky",
+            "url": "https://www.marketscreener.com/news/s-p-500-nasdaq-boosted-by-amazon-openai-deal-fed-path-forward-grows-murky-ce7d5cd9d089ff22",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-11/2025-11-03T162517Z_1_LYNXMPELA20SZ_RTROPTP_4_USA-STOCKS.JPG",
+            "publishedAt": "2025-11-03T19:36:16Z"
+        },
         {
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -1899,6 +1935,78 @@
         },
         {
             "source": {
+                "name": "zdnet"
+            },
+            "title": "How to buy the right laptop during the holiday season (and common mistakes to avoid)",
+            "url": "https://www.zdnet.com/article/how-to-buy-the-right-laptop-during-the-holiday-season-and-common-mistakes-to-avoid/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/6ccfdd8a9185416b454f83a31f1a26a277f4edd3/2024/05/20/3529803f-8b10-449e-a805-b4c03bc6b2cc/img-3254.jpg?auto=webp&width=1280",
+            "publishedAt": "2025-11-03 20:13:00"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Comparing Efficiency Strategies for LLM Deployment and Summarizing PowerInfer‐2’s Impact",
+            "url": "https://hackernoon.com/comparing-efficiency-strategies-for-llm-deployment-and-summarizing-powerinfer2s-impact",
+            "urlToImage": "https://hackernoon.imgix.net/images/sinW25rWovdN38P2ArzdPSCP3hi1-58036iz.jpeg",
+            "publishedAt": "2025-11-03 20:05:28"
+        },
+        {
+            "source": {
+                "name": "phys"
+            },
+            "title": "Powerful tool can map gene regulation at single-nucleotide resolution",
+            "url": "https://phys.org/news/2025-11-powerful-tool-gene-nucleotide-resolution.html",
+            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2025/research-unveils-power.jpg",
+            "publishedAt": "2025-11-03 20:04:46"
+        },
+        {
+            "source": {
+                "name": "startupnews"
+            },
+            "title": "Apple To Lean On Google Gemini For Siri Overhaul",
+            "url": "https://startupnews.fyi/2025/11/04/apple-to-lean-on-google-gemini-for-siri-overhaul/",
+            "urlToImage": "https://startupnews.fyi/wp-content/uploads/2025/11/d50c9c5f-6fff-4ee6-bed6-958cc24843e2-716.jpeg",
+            "publishedAt": "2025-11-03 20:04:34"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Performance Evaluation of PowerInfer‐2: Offloading, Prefill, and In‐Memory Efficiency",
+            "url": "https://hackernoon.com/performance-evaluation-of-powerinfer2-offloading-prefill-and-inmemory-efficiency",
+            "urlToImage": "https://hackernoon.imgix.net/images/sinW25rWovdN38P2ArzdPSCP3hi1-y603640.jpeg",
+            "publishedAt": "2025-11-03 20:01:25"
+        },
+        {
+            "source": {
+                "name": "xda_developers"
+            },
+            "title": "Don't let these 3 CPU specs trick you into paying more",
+            "url": "https://www.xda-developers.com/dont-let-these-3-cpu-specs-trick-you-into-paying-more/",
+            "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/01/asus-rog-strix-b850-f-gaming-wifi-cpu-installed.jpg",
+            "publishedAt": "2025-11-03 20:01:23"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "How PowerInfer‐2 Turns Your Smartphone Into an AI Workstation",
+            "url": "https://hackernoon.com/how-powerinfer2-turns-your-smartphone-into-an-ai-workstation",
+            "urlToImage": "https://hackernoon.imgix.net/images/sinW25rWovdN38P2ArzdPSCP3hi1-uw036ny.jpeg",
+            "publishedAt": "2025-11-03 19:56:39"
+        },
+        {
+            "source": {
+                "name": "siliconangle"
+            },
+            "title": "How AWS is partnering with F1 to reshape auto racing",
+            "url": "https://siliconangle.com/2025/11/03/aws-partnering-f1-reshape-auto-racing/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/11/F1Insight-Close-to-the-Wall-1.jpg",
+            "publishedAt": "2025-11-03 19:55:30"
+        },
+        {
+            "source": {
                 "name": "signalscv"
             },
             "title": "CRM Developer: The Invisible Architect behind Smarter Customer Connections",
@@ -3123,138 +3231,6 @@
             "url": "https://www.devdiscourse.com/article/business/3682104-dmrc-champions-cyber-safety-in-october",
             "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/03_06_2024_15_44_43_0964379.png?width=920&format=jpeg",
             "publishedAt": "2025-11-02T16:27:33Z"
-        },
-        {
-            "source": {
-                "id": "72ea416416ab0eec8fe687d6262961e8",
-                "name": "Finbold",
-                "url": "https://finbold.com",
-                "country": "bg"
-            },
-            "title": "AI sets odds of Palantir (PLTR) stock hitting $250 after Q3 earnings",
-            "url": "https://finbold.com/ai-sets-odds-of-palantir-pltr-stock-hitting-250-after-q3-earnings/",
-            "urlToImage": "https://assets.finbold.com/uploads/2025/11/AI-sets-odds-of-Palantir-PLTR-stock-hitting-250-after-Q3-earnings-.jpg",
-            "publishedAt": "2025-11-02T15:08:51Z"
-        },
-        {
-            "source": {
-                "id": "49853ffafc28f405ff8ed06043290ae8",
-                "name": "Global News",
-                "url": "https://globalnews.ca",
-                "country": "ca"
-            },
-            "title": "The future of AI and music is coming into focus. It does not look good for human artists",
-            "url": "https://globalnews.ca/news/11502835/future-ai-music-human-artists/",
-            "urlToImage": "https://globalnews.ca/wp-content/uploads/2025/10/CP217076942.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-            "publishedAt": "2025-11-02T15:00:12Z"
-        },
-        {
-            "source": {
-                "id": "3989f52bbec2d3be8442e2851b59e79e",
-                "name": "CBS Sports",
-                "url": "https://www.cbssports.com",
-                "country": "us"
-            },
-            "title": "Week 9 NFL player props, picks odds: Target Christian McCaffrey with Week 9 NFL bets",
-            "url": "https://www.cbssports.com/nfl/news/week-9-nfl-player-props-odds-picks-christian-mccaffrey-sunday-nfl-prop-bets/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/10/26/cf63f387-6237-4476-8959-59faefb47d97/thumbnail/1200x675/310160b937bb25b105146a09a4d4dff8/christian-mccaffrey-49ers.jpg",
-            "publishedAt": "2025-11-02T14:11:54Z"
-        },
-        {
-            "source": {
-                "id": "e9207083a357fb7e76b38e485888ebe7",
-                "name": "manilastandard.net",
-                "url": "https://manilastandard.net",
-                "country": "ph"
-            },
-            "title": "Mindanao pioneers ‘people",
-            "url": "https://manilastandard.net/business/314663257/mindanao-pioneers-people-centered-ai.html",
-            "urlToImage": "https://cdn.manilastandard.net/wp-content/uploads/2024/04/manila-standard.jpg",
-            "publishedAt": "2025-11-02T14:08:00Z"
-        },
-        {
-            "source": {
-                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-                "name": "The Financial Express",
-                "url": "https://www.financialexpress.com",
-                "country": "in"
-            },
-            "title": "Big Tech’s big AI spending figures revealed - More layoffs expected",
-            "url": "https://www.financialexpress.com/shorts/world-news/infrastructure/big-techs-big-ai-spending-figures-revealed-more-layoffs-expected-4029602/",
-            "urlToImage": "https://images.financialexpressdigital.com/2025/10/OpenAI-restructures-Microsoft-secures-stake-as-ChatGPT-growth-surges.png",
-            "publishedAt": "2025-11-02T13:59:20Z"
-        },
-        {
-            "source": {
-                "id": "c7b3fd167c575deb5133f19df6ed778f",
-                "name": "The Gateway Pundit",
-                "url": "https://www.thegatewaypundit.com",
-                "country": "us"
-            },
-            "title": "Steve Bannon and Dave Walsh on AI and the Hypocrisy of Electricity Consumption of the Tech Elites - “When it Comes to Them. It Comes to the Next Money Grab, which is Artificial Intelligence\" (VIDEO)",
-            "url": "https://www.thegatewaypundit.com/2025/11/steve-bannon-dave-walsh-ai-hypocrisy-electricity-consumption/",
-            "urlToImage": "https://www.thegatewaypundit.com/wp-content/uploads/2025/11/screenshot_20251101-163647_rumble-1200x630.jpg",
-            "publishedAt": "2025-11-02T13:30:44Z"
-        },
-        {
-            "source": {
-                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-                "name": "WTOP",
-                "url": "https://wtop.com",
-                "country": "us"
-            },
-            "title": "AI song generator Udio offers brief window for downloads after Universal settlement upsets users",
-            "url": "https://wtop.com/national/2025/11/ai-song-generator-udio-offers-brief-window-for-downloads-after-universal-settlement-upsets-users/",
-            "urlToImage": "https://wtop.com/wp-content/uploads/2025/10/Universal_Music_AI_Deal_46216-scaled.jpg",
-            "publishedAt": "2025-11-02T13:29:18Z"
-        },
-        {
-            "source": {
-                "id": "37128a060981dbbe79321f096e7d1108",
-                "name": "U.S. News & World Report",
-                "url": "https://www.usnews.com",
-                "country": "us"
-            },
-            "title": "AI Song Generator Udio Offers Brief Window for Downloads After Universal Settlement Upsets Users",
-            "url": "https://www.usnews.com/news/business/articles/2025-11-02/ai-song-generator-udio-offers-brief-window-for-downloads-after-universal-settlement-upsets-users",
-            "urlToImage": "https://www.usnews.com/dims4/USNEWS/68fcca7/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Fcd%2F613039c2270bcddb184f1e2cf08341%2F22e6dcb906b740419b72369c1a568fdfUniversal_Music_AI_Deal_46216.jpg",
-            "publishedAt": "2025-11-02T13:26:00Z"
-        },
-        {
-            "source": {
-                "id": "f0fc90dfc09bbf76d69b287e66a5d09d",
-                "name": "WTOP",
-                "url": "https://wtop.com",
-                "country": "us"
-            },
-            "title": "Who is Zico Kolter? A professor leads OpenAI safety panel with power to halt unsafe AI releases",
-            "url": "https://wtop.com/national/2025/11/who-is-zico-kolter-a-professor-leads-openai-safety-panel-with-power-to-halt-unsafe-ai-releases/",
-            "urlToImage": "https://wtop.com/wp-content/uploads/2025/11/OpenAI-Safety_Leader_92840-scaled.jpg",
-            "publishedAt": "2025-11-02T13:23:52Z"
-        },
-        {
-            "source": {
-                "id": "3e29a1cf81727e4aa5687d46a4b429c4",
-                "name": "Bangor Daily News",
-                "url": "https://www.bangordailynews.com",
-                "country": "us"
-            },
-            "title": "Who is Zico Kolter? A professor leads OpenAI safety panel with power to halt unsafe AI releases",
-            "url": "https://www.bangordailynews.com/2025/11/02/nation/who-is-zico-kolter-a-professor-leads-openai-safety-panel-with-power-to-halt-unsafe-ai-releases/",
-            "urlToImage": "https://i0.wp.com/bdn-data.s3.amazonaws.com/uploads/2025/11/preview-18.jpg?fit=1024%2C683&ssl=1",
-            "publishedAt": "2025-11-02T13:21:49Z"
-        },
-        {
-            "source": {
-                "id": "37128a060981dbbe79321f096e7d1108",
-                "name": "U.S. News & World Report",
-                "url": "https://www.usnews.com",
-                "country": "us"
-            },
-            "title": "Who Is Zico Kolter? A Professor Leads OpenAI Safety Panel With Power to Halt Unsafe AI Releases",
-            "url": "https://www.usnews.com/news/business/articles/2025-11-02/who-is-zico-kolter-a-professor-leads-openai-safety-panel-with-power-to-halt-unsafe-ai-releases",
-            "urlToImage": "https://www.usnews.com/dims4/USNEWS/a02e120/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F1f%2F6a802ab95ae7910bc78c7e01b6092c%2Faf24e4d419f141e5ae5b393b8a4d63c7OpenAI-Safety_Leader_92840.jpg",
-            "publishedAt": "2025-11-02T13:21:00Z"
         }
     ]
 }
