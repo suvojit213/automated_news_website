@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2025-11-04T06:24:09.814590Z",
+    "lastUpdatedAt": "2025-11-04T07:15:44.729472Z",
     "articles": [
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "This Bangladeshi AI educator is supporting digital skill development across South Asia",
+            "url": "https://timesofindia.indiatimes.com/this-bangladeshi-ai-educator-is-supporting-digital-skill-development-across-south-asia/articleshow/125067511.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-125067502,width-1070,height-580,imgsize-1068660,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-11-03T19:14:00Z"
+        },
+        {
+            "source": {
+                "id": "2868e31f7a791b3a2bcc807e4cc74f2c",
+                "name": "USA Herald",
+                "url": "https://usaherald.com",
+                "country": "us"
+            },
+            "title": "OpenAI, Amazon Sign $38 Billion Cloud Deal",
+            "url": "https://usaherald.com/openai-amazon-sign-38-billion-cloud-deal/",
+            "urlToImage": "https://usaherald.com/wp-content/uploads/2017/09/usa_favicon32.png",
+            "publishedAt": "2025-11-03T19:01:29Z"
+        },
+        {
+            "source": {
+                "id": "62c14ad4f80bd5e90cbba873513fe4b9",
+                "name": "PetaPixel",
+                "url": "https://petapixel.com",
+                "country": "us"
+            },
+            "title": "Generative AI Is Here to Ruin Christmas",
+            "url": "https://petapixel.com/2025/11/03/generative-ai-is-here-to-ruin-christmas/",
+            "urlToImage": "https://petapixel.com/assets/uploads/2025/11/coca-cola-ai-ad-2025-featured.jpg",
+            "publishedAt": "2025-11-03T19:00:20Z"
+        },
+        {
+            "source": {
+                "id": "a3391c15eb1d3136f9b9dd080940d0e8",
+                "name": "The Nation",
+                "url": "https://www.nation.com.pk",
+                "country": "pk"
+            },
+            "title": "Pakistani founders making global strides in artificial intelligence",
+            "url": "https://www.nation.com.pk/04-Nov-2025/pakistani-founders-making-global-strides-artificial-intelligence",
+            "urlToImage": "https://www.nation.com.pk/print_images/large/2025-11-04/pakistani-founders-making-global-strides-artificial-intelligence-1762214574-4540.jpg",
+            "publishedAt": "2025-11-03T19:00:00Z"
+        },
+        {
+            "source": {
+                "id": "26269dbc42635df9af8c24f3cdab8e37",
+                "name": "Cable News Network",
+                "url": "https://edition.cnn.com",
+                "country": "us"
+            },
+            "title": "Two men accused of hacking and extorting US companies previously worked for cybersecurity firms",
+            "url": "https://edition.cnn.com/2025/11/03/politics/cybersecurity-ransomeware-hacking",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1061207416.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2025-11-03T18:57:13Z"
+        },
+        {
+            "source": {
+                "id": "d5a02d07558c5563d72576efc406e608",
+                "name": "ABC17News.com",
+                "url": "https://abc17news.com",
+                "country": "us"
+            },
+            "title": "Two men accused of hacking and extorting US companies previously worked for cybersecurity firms",
+            "url": "https://abc17news.com/politics/national-politics/cnn-us-politics/2025/11/03/two-men-accused-of-hacking-and-extorting-us-companies-previously-worked-for-cybersecurity-firms/",
+            "urlToImage": "https://abc17news.b-cdn.net/abc17news.com/2025/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWhqaHI2OTMwMDByMzU2bmprbDE5Z2Jw-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtaGpob3NqNzAwMjAyNnAwOXRybzVyZzM.jpg",
+            "publishedAt": "2025-11-03T18:57:13Z"
+        },
         {
             "source": {
                 "id": "a6eca0d46b8950e7f02b79d1f1477607",
@@ -1827,6 +1899,69 @@
         },
         {
             "source": {
+                "name": "signalscv"
+            },
+            "title": "CRM Developer: The Invisible Architect behind Smarter Customer Connections",
+            "url": "https://signalscv.com/2025/11/crm-developer-the-invisible-architect-behind-smarter-customer-connections/",
+            "urlToImage": "https://signalscv.s3.us-west-1.amazonaws.com/wp-content/uploads/2025/11/02170823/IMG_6582-400x282.jpg",
+            "publishedAt": "2025-11-03 19:05:50"
+        },
+        {
+            "source": {
+                "name": "wired"
+            },
+            "title": "WIRED Roundup: Alpha School, Grokipedia, and Real Estate AI Videos",
+            "url": "https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-alpha-school-grokipedia-real-estate-ai-videos/",
+            "urlToImage": "https://media.wired.com/photos/6903e781d7276866034bbcd3/master/w_120,c_limit/Uncanny-Valley-News-Update-Alpha-School-Security-1339828637.jpg",
+            "publishedAt": "2025-11-03 19:03:46"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "Whatever you do, don't forget to clean your desktop PC regularly - here's how experts do it",
+            "url": "https://www.zdnet.com/article/whatever-you-do-dont-forget-to-clean-your-desktop-pc-regularly-heres-how-experts-do-it/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/781f26ad440cfb4b20d00676e819c06696341094/2025/10/16/58145115-1e38-4799-82c8-268a10285abd/pc-maintenance-cleaning-case.png?auto=webp&width=1280",
+            "publishedAt": "2025-11-03 18:58:00"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "Why And How Modern Chip Design Is Automated",
+            "url": "https://www.forbes.com/sites/johnwerner/2025/11/03/why-and-how-modern-chip-design-is-automated/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/679a7659a47c5aeee377db44/0x0.jpg?width=960",
+            "publishedAt": "2025-11-03 18:54:12"
+        },
+        {
+            "source": {
+                "name": "timesnownews"
+            },
+            "title": "Inside Amazon's $38 Billion Deal with OpenAI for Nvidia Chips: Who's Winning the AI War?",
+            "url": "https://www.timesnownews.com/business-economy/economy/amazon-38-billion-deal-openai-nvidia-chips-ai-war-article-153096542",
+            "urlToImage": "https://images.timesnownews.com/thumb/msid-153096552,thumbsize-16026,width-1280,height-720,resizemode-75/153096552.jpg",
+            "publishedAt": "2025-11-03 18:51:27"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "arXiv Mandates Peer Review for CS Papers Amid AI-Generated Flood",
+            "url": "https://www.webpronews.com/arxiv-mandates-peer-review-for-cs-papers-amid-ai-generated-flood/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/xai-tmp-imgen-53ef09b8-a846-4f1f-a70b-52a2894c985c.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-11-03 18:47:13"
+        },
+        {
+            "source": {
+                "name": "qconline"
+            },
+            "title": "5 essential features of expense management software",
+            "url": "https://qconline.com/news/nation-world/business/personal-finance/article_fd2d7b2b-898d-5945-b1a7-9cf91eb29b34.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/qconline.com/content/tncms/assets/v3/editorial/0/99/09999400-d320-50e4-bee8-c70c6f3754c9/6909187eb6da1.image.jpg?resize=1200%2C675",
+            "publishedAt": "2025-11-03 18:46:47"
+        },
+        {
+            "source": {
                 "name": "zdnet"
             },
             "title": "Which cloud storage service is most worth your money in 2025? I did the math, and here are 3 recs",
@@ -3120,162 +3255,6 @@
             "url": "https://www.usnews.com/news/business/articles/2025-11-02/who-is-zico-kolter-a-professor-leads-openai-safety-panel-with-power-to-halt-unsafe-ai-releases",
             "urlToImage": "https://www.usnews.com/dims4/USNEWS/a02e120/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F1f%2F6a802ab95ae7910bc78c7e01b6092c%2Faf24e4d419f141e5ae5b393b8a4d63c7OpenAI-Safety_Leader_92840.jpg",
             "publishedAt": "2025-11-02T13:21:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Pioneering AI institute launched in Albay",
-            "url": "https://www.manilatimes.net/2025/11/02/regions/pioneering-ai-institute-launched-in-albay/2213819",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/11/02/808793.jpg",
-            "publishedAt": "2025-11-02T12:43:00Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "‘Godfather of AI’ Geoffrey Hinton on AI wiping millions of jobs: Problem ultimately is not due to AI itself, but how we ...",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/godfather-of-ai-geoffrey-hinton-on-ai-wiping-millions-of-jobs-problem-ultimately-is-not-due-to-ai-itself-but-how-we-/articleshow/125033578.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-125033569,width-1070,height-580,imgsize-1618136,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "publishedAt": "2025-11-02T12:05:00Z"
-        },
-        {
-            "source": {
-                "id": "d6397b77175680e2678c0d60edcee7af",
-                "name": "South China Morning Post",
-                "url": "https://www.scmp.com",
-                "country": "hk"
-            },
-            "title": "Why AI scientists fail to impress human experts at one-of-a-kind online conference",
-            "url": "https://www.scmp.com/news/china/science/article/3331218/why-ai-scientists-fail-impress-human-experts-one-kind-online-conference",
-            "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/11/02/a9498937-bb52-4ea9-95e5-4a6d954ab3ab_cd0ed8d8.jpg?itok=BURXZXoa&v=1762069511",
-            "publishedAt": "2025-11-02T12:00:10Z"
-        },
-        {
-            "source": {
-                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
-                "name": "Firstpost",
-                "url": "https://www.firstpost.com",
-                "country": "in"
-            },
-            "title": "Get artsy: How creativity might slow down the brain from ageing",
-            "url": "https://www.firstpost.com/explainers/get-artsy-how-creativity-might-slow-down-the-brain-from-ageing-13945709.html",
-            "urlToImage": "https://images.firstpost.com/uploads/2025/10/art-1851483_1280-2025-10-0f96af17341d0553d772c0856a056570-1200x675.jpg?im=FitAndFill=(1200,675)",
-            "publishedAt": "2025-11-02T11:49:11Z"
-        },
-        {
-            "source": {
-                "id": "7eeaf9a839918543cc708f2d331c3be4",
-                "name": "Free Press Journal",
-                "url": "https://www.freepressjournal.in",
-                "country": "in"
-            },
-            "title": "Arunachal Signs MoUs To Promote SEE Learning & AI-Powered Language Preservation",
-            "url": "https://www.freepressjournal.in/education/arunachal-signs-mous-to-promote-see-learning-ai-powered-language-preservation",
-            "urlToImage": "https://media.assettype.com/freepressjournal/2025-11-02/yd72fpp3/G4q8KLMW4AE7TEh.jpeg",
-            "publishedAt": "2025-11-02T10:42:10Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "Michael Bloomberg: Big Tech wants AI into classrooms but the case against hasty adoption is compelling",
-            "url": "https://www.livemint.com/opinion/online-views/ai-indian-schools-artificial-intelligence-education-ed-tech-mobile-phones-classrooms-laptop-scheme-google-no-screens-11761829499729.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2025/11/02/1600x900/ai_robot_teacher_1762074022386_1762074044198.jpeg",
-            "publishedAt": "2025-11-02T10:00:10Z"
-        },
-        {
-            "source": {
-                "id": "9290338c23f31e3f547a2dbfa1c52c03",
-                "name": "Scientific American",
-                "url": "https://www.scientificamerican.com",
-                "country": "us"
-            },
-            "title": "Can AI Music Ever Feel Human? The Answer Goes beyond the Sound",
-            "url": "https://www.scientificamerican.com/article/can-ai-music-ever-feel-human-the-answer-goes-beyond-the-sound/",
-            "urlToImage": "https://static.scientificamerican.com/dam/m/5505498b5baa1343/original/GettyImages-73906883.jpg?m=1761938324.895&w=1200",
-            "publishedAt": "2025-11-02T10:00:00Z"
-        },
-        {
-            "source": {
-                "id": "9b153bd4f54b13f67b1b831d646a1548",
-                "name": "Deccan Herald",
-                "url": "https://www.deccanherald.com",
-                "country": "in"
-            },
-            "title": "AI & Data Science Training by MoE",
-            "url": "https://www.deccanherald.com/education/free-artificial-intelligence-courses-offered-by-ministry-of-education-3783718",
-            "urlToImage": "https://media.assettype.com/deccanherald%2F2025-11-02%2Fo02uyowz%2FiStock-2184123695.jpg?rect=0%2C0%2C1287%2C676&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
-            "publishedAt": "2025-11-02T09:38:35Z"
-        },
-        {
-            "source": {
-                "id": "7eeaf9a839918543cc708f2d331c3be4",
-                "name": "Free Press Journal",
-                "url": "https://www.freepressjournal.in",
-                "country": "in"
-            },
-            "title": "Assam Schoolgirl Huma Abia Kanta Presents AI-ML Research at Global Conference, Becomes One Of India’s Youngest Presenters",
-            "url": "https://www.freepressjournal.in/education/assam-schoolgirl-huma-abia-kanta-presents-ai-ml-research-at-global-conference-becomes-one-of-indias-youngest-presenters",
-            "urlToImage": "https://media.assettype.com/freepressjournal/2025-11-02/byt0kbna/Untitled-design-2025-11-02T141531.545.jpg",
-            "publishedAt": "2025-11-02T08:49:17Z"
-        },
-        {
-            "source": {
-                "id": "fd3677545b80d5db7541de8e111d27ba",
-                "name": "Moneycontrol",
-                "url": "https://www.moneycontrol.com",
-                "country": "in"
-            },
-            "title": "Over 1 lakh tech jobs lost in 2025; Amazon, Intel, TCS lead global layoffs amid AI pivot",
-            "url": "https://www.moneycontrol.com/news/business/over-1-lakh-tech-jobs-lost-in-2025-amazon-intel-tcs-lead-global-layoffs-amid-ai-pivot-13647286.html",
-            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2025/11/20251102070012_Layoffs.jpg",
-            "publishedAt": "2025-11-02T08:22:42Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "Zoho co-founder Sridhar Vembu on AI creativity: Why it lies outside the training distribution",
-            "url": "https://www.indiatoday.in/technology/news/story/zoho-co-founder-sridhar-vembu-on-ai-creativity-why-it-lies-outside-the-training-distribution-2812158-2025-11-02",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202511/arattai-vs-whatsapp-291441657-16x9.jpg?VersionId=5Vu8WkXgsgris8CYBB_a9E7f8WKtUS7n",
-            "publishedAt": "2025-11-02T07:59:51Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Assam Schoolgirl Shines at International AI Conference",
-            "url": "https://www.devdiscourse.com/article/headlines/3681694-assam-schoolgirl-shines-at-international-ai-conference",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/02_11_2025_13_21_10_0287375.jpg?width=920&format=jpeg",
-            "publishedAt": "2025-11-02T07:51:21Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Assam Teen Shines at Global AI Conference with Breakthrough ML Research",
-            "url": "https://www.devdiscourse.com/article/headlines/3681691-assam-teen-shines-at-global-ai-conference-with-breakthrough-ml-research",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/02_11_2025_13_19_56_2511695.jpg?width=920&format=jpeg",
-            "publishedAt": "2025-11-02T07:50:08Z"
         }
     ]
 }
