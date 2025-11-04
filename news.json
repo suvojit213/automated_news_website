@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2025-11-04T18:23:02.298083Z",
+    "lastUpdatedAt": "2025-11-04T19:12:30.785008Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Microsoft to ship 60,000 Nvidia AI chips to the United Arab Emirates",
+            "url": "https://www.thestar.com.my/tech/tech-news/2025/11/04/microsoft-to-ship-60000-nvidia-ai-chips-to-the-united-arab-emirates",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/04/3604931.JPG",
+            "publishedAt": "2025-11-04T07:00:00Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Revolutionizing D2C Marketing: Agentic AI Growth Platform Leads the Charge",
+            "url": "https://www.devdiscourse.com/article/technology/3683831-revolutionizing-d2c-marketing-agentic-ai-growth-platform-leads-the-charge",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_16_59_34_3794932.jpg?width=920&format=jpeg",
+            "publishedAt": "2025-11-04T06:58:17Z"
+        },
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "Kim Kardashian gives insight into her, AI's 'frenemy' relation",
+            "url": "https://www.thenews.com.pk/latest/1355583-kim-kardashian-gives-insight-into-her-ais-frenemy-relation",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/updates/2025-11-04/1355583_113930_updates.jpg",
+            "publishedAt": "2025-11-04T06:39:00Z"
+        },
+        {
+            "source": {
+                "id": "680f00482cbf9f314921fefd917871d9",
+                "name": "The Hindu Business Line",
+                "url": "https://www.thehindubusinessline.com",
+                "country": "in"
+            },
+            "title": "Cognizant to use Anthropic’s Claude AI for clients and internal teams",
+            "url": "https://www.thehindubusinessline.com/companies/cognizant-to-use-anthropics-claude-ai-for-clients-and-internal-teams/article70239021.ece",
+            "urlToImage": "https://bl-i.thgim.com/public/incoming/2o8j8b/article70239063.ece/alternates/LANDSCAPE_1200/Cognizant.jpg",
+            "publishedAt": "2025-11-04T06:30:54Z"
+        },
+        {
+            "source": {
+                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+                "name": "NDTV.com",
+                "url": "https://www.ndtv.com",
+                "country": "in"
+            },
+            "title": "How 3 Ex-Cybersecurity Staffers Moonlighted As Hackers In US",
+            "url": "https://www.ndtv.com/world-news/3-ex-cybersecurity-staffers-moonlighted-as-hackers-in-us-case-filed-9571582",
+            "urlToImage": "https://c.ndtvimg.com/2025-08/856lv53o_chinalinked-hackers_625x300_27_August_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+            "publishedAt": "2025-11-04T06:30:43Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Zoho Notebook introduces advanced AI features for students and businesses",
+            "url": "https://www.tribuneindia.com/news/business/zoho-notebook-introduces-advanced-ai-features-for-students-and-businesses/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWM1NDkwOTQwLWI5NDctMTFmMC1iMDY0LWVkNWUyYTYzNDljNy5qcGc=",
+            "publishedAt": "2025-11-04T06:30:30Z"
+        },
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "New study by Oxford tests if AI can save more men from prostate cancer",
+            "url": "https://www.thenews.com.pk/latest/1355586-new-study-by-oxford-tests-if-ai-can-save-more-men-from-prostate-cancer",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/updates/2025-11-04/1355586_112619_updates.jpg",
+            "publishedAt": "2025-11-04T06:26:00Z"
+        },
         {
             "source": {
                 "id": "109f2b4a20da4fe1c2fd502b03c07243",
@@ -492,6 +576,69 @@
             "url": "https://www.globenewswire.com/news-release/2025/11/04/3180737/0/en/University-of-Pennsylvania-Data-Breach-Impacts-Over-1-Million-Lynch-Carpenter-Investigates-Claims.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/c7859457-8a76-48a5-b4e7-d3be8aa7a7a7",
             "publishedAt": "2025-11-04T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "yourstory"
+            },
+            "title": "Groq to decode the economics of AI at TechSparks 2025",
+            "url": "https://yourstory.com/2025/11/groq-decode-economics-ai-at-techsparks-2025",
+            "urlToImage": "https://images.yourstory.com/cs/2/21ccd920843c11ec88170b5512a0f9d5/MasterclassFeatureimage-1762239012769.jpg",
+            "publishedAt": "2025-11-04 07:06:11"
+        },
+        {
+            "source": {
+                "name": "onmsft"
+            },
+            "title": "How to Use Speccy on Windows 11 to Check Your PC Specs",
+            "url": "https://windowsreport.com/speccy-windows-11/",
+            "urlToImage": "https://windowsreport.com/wp-content/uploads/2025/11/speccy-windows-11-700x467.jpg",
+            "publishedAt": "2025-11-04 07:05:18"
+        },
+        {
+            "source": {
+                "name": "livescience"
+            },
+            "title": "Science history: Archaeologists discover King Tut's tomb, and rumors of the 'mummy's curse' begin swirling — Nov. 4, 1922",
+            "url": "https://www.livescience.com/archaeology/ancient-egyptians/science-history-archaeologists-discover-king-tuts-tomb-and-rumors-of-the-mummys-curse-begin-swirling-nov-4-1922",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/mEJcYyCFGwDMRVX2ytsK2Y-1280-80.jpg",
+            "publishedAt": "2025-11-04 07:00:00"
+        },
+        {
+            "source": {
+                "name": "republicworld"
+            },
+            "title": "iOS 26.1 Now Rolling Out: 5 Features That Make iPhone Experience Better",
+            "url": "https://www.republicworld.com/tech/ios-261-now-rolling-out-5-features-that-make-iphone-experience-better",
+            "urlToImage": "https://img.republicworld.com/all_images/wwdc-2025-recap-liquid-glass-design-macos-tahoe-camera-remote-live-translation-and-everything-apple-announced-last-night-1749535124526-16_9.webp?format=webp&h=720&q=75&w=1280",
+            "publishedAt": "2025-11-04 06:53:33"
+        },
+        {
+            "source": {
+                "name": "moneycontrol"
+            },
+            "title": "Is China about to win the AI race?",
+            "url": "https://www.moneycontrol.com/artificial-intelligence/is-china-about-to-win-the-ai-race-article-13651447.html",
+            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2025/10/20251002064016_Chinaimage.jpg",
+            "publishedAt": "2025-11-04 06:43:25"
+        },
+        {
+            "source": {
+                "name": "daijiworld"
+            },
+            "title": "OpenAI partners with Amazon Web Services in $38 billion deal to boost AI infrastructure",
+            "url": "https://daijiworld.com/news/newsDisplay?newsID=1296992",
+            "urlToImage": "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/ai_041125_1.jpg",
+            "publishedAt": "2025-11-04 06:43:07"
+        },
+        {
+            "source": {
+                "name": "expresscomputer"
+            },
+            "title": "Safe use of artificial Intelligence tools",
+            "url": "https://www.expresscomputer.in/news/safe-use-of-artificial-intelligence-tools/129141/",
+            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2020/08/04115739/Leading-with-Digital-in-Banking.jpg",
+            "publishedAt": "2025-11-04 06:35:18"
         },
         {
             "source": {
@@ -3249,132 +3396,6 @@
             "url": "https://www.discovermagazine.com/the-ancient-maya-used-the-dresden-codex-to-predict-solar-eclipses-with-impressive-accuracy-48217",
             "urlToImage": "https://cdn.discovermagazine.com/assets/image/57669/mayan-calandar-t.jpg",
             "publishedAt": "2025-11-03 22:00:00"
-        },
-        {
-            "source": {
-                "name": "digitaltrends"
-            },
-            "title": "Generative AI is hallucinating again, this time in federal court filings",
-            "url": "https://www.digitaltrends.com/computing/generative-ai-is-hallucinating-again-this-time-in-federal-court-filings/",
-            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/11/Untitled-design-74.jpg?p=1&resize=1200%2C630",
-            "publishedAt": "2025-11-03 21:23:36"
-        },
-        {
-            "source": {
-                "name": "techxplore"
-            },
-            "title": "Software developers show less constructive skepticism when using AI assistants than when working with human colleagues",
-            "url": "https://techxplore.com/news/2025-11-software-skepticism-ai-human-colleagues.html",
-            "urlToImage": "https://scx1.b-cdn.net/csz/news/tmb/2025/programmers.jpg",
-            "publishedAt": "2025-11-03 21:10:32"
-        },
-        {
-            "source": {
-                "name": "cadillacnews"
-            },
-            "title": "BWX Technologies Reports Third Quarter 2025 Results",
-            "url": "https://www.cadillacnews.com/ap/business/bwx-technologies-reports-third-quarter-2025-results/article_332aba58-5358-519f-b2fc-b3177bd9b052.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/cadillacnews.com/content/tncms/custom/image/2f32a658-47ab-11e7-abb1-ef25bc001cf2.png?resize=600%2C99",
-            "publishedAt": "2025-11-03 21:09:33"
-        },
-        {
-            "source": {
-                "name": "reformer"
-            },
-            "title": "Digital Realty Advances AI Infrastructure Innovation Supporting NVIDIA AI Factory Research Center and NVIDIA DSX Blueprint",
-            "url": "https://www.reformer.com/online_features/press_releases/digital-realty-advances-ai-infrastructure-innovation-supporting-nvidia-ai-factory-research-center-and-nvidia-dsx/article_75d8c5e9-8b87-5a1f-ba28-7445013bbb42.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/reformer.com/content/tncms/assets/v3/editorial/e/11/e1159de0-6fad-53e0-94de-e1c20f456a83/6909ae8917517.image.jpg?resize=300%2C143",
-            "publishedAt": "2025-11-03 21:05:00"
-        },
-        {
-            "source": {
-                "name": "berkshireeagle"
-            },
-            "title": "Digital Realty Advances AI Infrastructure Innovation Supporting NVIDIA AI Factory Research Center and NVIDIA DSX Blueprint",
-            "url": "https://www.berkshireeagle.com/online_features/press_releases/digital-realty-advances-ai-infrastructure-innovation-supporting-nvidia-ai-factory-research-center-and-nvidia-dsx/article_a7b9106a-2195-5ca4-8b25-1dae860d59f6.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/berkshireeagle.com/content/tncms/assets/v3/editorial/8/f7/8f7310d4-60e5-5618-a47b-dbd1d9b89a20/6909acc82a514.image.jpg?resize=400%2C191",
-            "publishedAt": "2025-11-03 21:05:00"
-        },
-        {
-            "source": {
-                "name": "decaturdailydemocrat"
-            },
-            "title": "Digital Realty Advances AI Infrastructure Innovation Supporting NVIDIA AI Factory Research Center and NVIDIA DSX Blueprint",
-            "url": "https://www.decaturdailydemocrat.com/online_features/press_releases/digital-realty-advances-ai-infrastructure-innovation-supporting-nvidia-ai-factory-research-center-and-nvidia-dsx/article_39bee78f-1d31-5a54-a7ab-4f52f1f391bb.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/decaturdailydemocrat.com/content/tncms/assets/v3/editorial/d/67/d67ed098-597f-5eb4-b6ec-7a086995ccb6/6909aecd3184d.image.jpg?resize=400%2C191",
-            "publishedAt": "2025-11-03 21:05:00"
-        },
-        {
-            "source": {
-                "name": "thechronicle"
-            },
-            "title": "Digital Realty Advances AI Infrastructure Innovation Supporting NVIDIA AI Factory Research Center and NVIDIA DSX Blueprint",
-            "url": "https://www.thechronicle.com/online_features/press_releases/digital-realty-advances-ai-infrastructure-innovation-supporting-nvidia-ai-factory-research-center-and-nvidia-dsx/article_0097f360-40d4-509f-bda7-ecf9e25f5d44.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thechronicle.com/content/tncms/assets/v3/editorial/a/c3/ac30661c-3b40-5b55-a8c1-a81aa8c9503b/6909ae357454e.image.jpg?resize=300%2C143",
-            "publishedAt": "2025-11-03 21:05:00"
-        },
-        {
-            "source": {
-                "name": "thetandd"
-            },
-            "title": "Digital Realty Advances AI Infrastructure Innovation Supporting NVIDIA AI Factory Research Center and NVIDIA DSX Blueprint",
-            "url": "https://thetandd.com/online_features/press_releases/article_eeaa3ea0-84e2-502a-9af6-16e617615075.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thetandd.com/content/tncms/assets/v3/editorial/2/e5/2e53542a-bda6-59c4-b174-9ae9f99c159e/6909ac992c427.image.jpg?resize=300%2C143",
-            "publishedAt": "2025-11-03 21:05:00"
-        },
-        {
-            "source": {
-                "name": "journal_news"
-            },
-            "title": "Digital Realty Advances AI Infrastructure Innovation Supporting NVIDIA AI Factory Research Center and NVIDIA DSX Blueprint",
-            "url": "https://www.journal-news.net/online_features/press_releases/digital-realty-advances-ai-infrastructure-innovation-supporting-nvidia-ai-factory-research-center-and-nvidia-dsx/article_f407e54f-5d9d-514c-807e-04c731de1bc5.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/journal-news.net/content/tncms/assets/v3/editorial/4/28/428a5b32-962c-5148-b87d-d3f6a62cde72/6909abe6260de.image.jpg?resize=300%2C143",
-            "publishedAt": "2025-11-03 21:05:00"
-        },
-        {
-            "source": {
-                "name": "tribuneindia"
-            },
-            "title": "HPU workshop on future of computing",
-            "url": "https://www.tribuneindia.com/news/himachal/hpu-workshop-on-future-of-computing",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/webp/medium/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTE3YWJjYTYwLWI4ZjgtMTFmMC1iMDY0LWVkNWUyYTYzNDljNy5qcGc%3D",
-            "publishedAt": "2025-11-03 21:00:11"
-        },
-        {
-            "source": {
-                "name": "businessinsider_us"
-            },
-            "title": "Now AI fakes are fooling news outlets — and maybe AI pros?",
-            "url": "https://www.businessinsider.com/fox-ai-fake-snap-meta-yann-lecun-newsmax-2025-11",
-            "urlToImage": "https://i.insider.com/69090d8fc007ca8c27382538?width=700",
-            "publishedAt": "2025-11-03 20:59:00"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "How to buy the right laptop during the holiday season (and common mistakes to avoid)",
-            "url": "https://www.zdnet.com/article/how-to-buy-the-right-laptop-during-the-holiday-season-and-common-mistakes-to-avoid/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/6ccfdd8a9185416b454f83a31f1a26a277f4edd3/2024/05/20/3529803f-8b10-449e-a805-b4c03bc6b2cc/img-3254.jpg?auto=webp&width=1280",
-            "publishedAt": "2025-11-03 20:13:00"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Comparing Efficiency Strategies for LLM Deployment and Summarizing PowerInfer‐2’s Impact",
-            "url": "https://hackernoon.com/comparing-efficiency-strategies-for-llm-deployment-and-summarizing-powerinfer2s-impact",
-            "urlToImage": "https://hackernoon.imgix.net/images/sinW25rWovdN38P2ArzdPSCP3hi1-58036iz.jpeg",
-            "publishedAt": "2025-11-03 20:05:28"
-        },
-        {
-            "source": {
-                "name": "phys"
-            },
-            "title": "Powerful tool can map gene regulation at single-nucleotide resolution",
-            "url": "https://phys.org/news/2025-11-powerful-tool-gene-nucleotide-resolution.html",
-            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2025/research-unveils-power.jpg",
-            "publishedAt": "2025-11-03 20:04:46"
         }
     ]
 }
