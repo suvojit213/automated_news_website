@@ -1,6 +1,174 @@
 {
-    "lastUpdatedAt": "2025-11-04T01:13:32.420661Z",
+    "lastUpdatedAt": "2025-11-04T03:07:07.547633Z",
     "articles": [
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Cisco launches localised computing device to handle AI workflows",
+            "url": "https://economictimes.indiatimes.com/tech/technology/cisco-launches-localised-computing-device-to-handle-ai-workflows/articleshow/125062181.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-367100,resizemode-75,msid-125062181/tech/technology/cisco-launches-localised-computing-device-to-handle-ai-workflows.jpg",
+            "publishedAt": "2025-11-03T14:56:55Z"
+        },
+        {
+            "source": {
+                "id": "1b697445987e8a33f6c82842e17d60d9",
+                "name": "Bnn Bloomberg",
+                "url": "https://www.bnnbloomberg.ca",
+                "country": "ca"
+            },
+            "title": "OpenAI, Amazon sign AI chip deal worth US$38B",
+            "url": "https://www.bnnbloomberg.ca/business/technology/2025/11/03/openai-and-amazon-sign-us38b-deal-for-ai-computing-power/",
+            "urlToImage": "https://www.bnnbloomberg.ca/resizer/v2/WEI7IAZ2NVH6ZCNHSD4T3BKKHA.jpg?smart=true&auth=5810312401c02f99b15a94a947743ad7059d251ce44b2b0bca16bb85c0a389b3&width=1200&height=630",
+            "publishedAt": "2025-11-03T14:55:20Z"
+        },
+        {
+            "source": {
+                "id": "85e5403407038478a5e7d8d100ff8e8f",
+                "name": "CP24 Toronto",
+                "url": "https://www.cp24.com",
+                "country": "ca"
+            },
+            "title": "OpenAI, Amazon sign AI chip deal worth US$38B",
+            "url": "https://www.cp24.com/news/money/2025/11/03/openai-and-amazon-sign-us38b-deal-for-ai-computing-power/",
+            "urlToImage": "https://www.cp24.com/resizer/v2/WEI7IAZ2NVH6ZCNHSD4T3BKKHA.jpg?smart=true&auth=5810312401c02f99b15a94a947743ad7059d251ce44b2b0bca16bb85c0a389b3&width=1200&height=630",
+            "publishedAt": "2025-11-03T14:55:20Z"
+        },
+        {
+            "source": {
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
+                "country": "in"
+            },
+            "title": "Stocks Keep Rising as Amazon’s Deal Powers AI Bets: Markets Wrap",
+            "url": "https://www.ndtvprofit.com/markets/stocks-keep-rising-as-amazons-deal-powers-ai-bets-markets-wrap",
+            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-11-03%2Foipp88yv%2F443338452.jpg?rect=0%2C306%2C4000%2C2100&w=1200&auto=format%2Ccompress&ogImage=true",
+            "publishedAt": "2025-11-03T14:52:59Z"
+        },
+        {
+            "source": {
+                "id": "f81e0cedbddbe08e3058634e8bb4a56f",
+                "name": "Barchart",
+                "url": "https://www.barchart.com",
+                "country": "us"
+            },
+            "title": "Microsoft $9.7 billion deal with IREN will give it access to Nvidia chips",
+            "url": "https://www.barchart.com/story/news/35860684/microsoft-9-7-billion-deal-with-iren-will-give-it-access-to-nvidia-chips",
+            "urlToImage": "https://barchart-news-media-prod.aws.barchart.com/ap/b0a23f2373164349991e3868e2d7a822/b0a23f2373164349991e3868e2d7a822_main_microsoft_58604.jpg",
+            "publishedAt": "2025-11-03T14:51:33Z"
+        },
+        {
+            "source": {
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
+                "country": "in"
+            },
+            "title": "Amazon Inks $38 Billion Deal With OpenAI For Nvidia Chips",
+            "url": "https://www.ndtvprofit.com/business/amazon-inks-usd-38-billion-deal-with-openai-for-nvidia-chips",
+            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-11-03%2Fxud5mv6v%2F443338411.jpg?rect=0%2C0%2C6048%2C3175&w=1200&auto=format%2Ccompress&ogImage=true",
+            "publishedAt": "2025-11-03T14:46:30Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Chipmaker Onsemi beats quarterly estimates on AI-driven demand",
+            "url": "https://www.thestar.com.my/tech/tech-news/2025/11/03/chipmaker-onsemi-beats-quarterly-estimates-on-ai-driven-demand",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/03/3604283.jpg",
+            "publishedAt": "2025-11-03T14:46:00Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Synthetic data must reflect justice, not just accuracy, in AI systems",
+            "url": "https://www.devdiscourse.com/article/technology/3677198-synthetic-data-must-reflect-justice-not-just-accuracy-in-ai-systems",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/29_10_2025_16_35_59_9679711.png?width=920&format=jpeg",
+            "publishedAt": "2025-11-03T14:44:11Z"
+        },
+        {
+            "source": {
+                "id": "628299239469ffa8b7dbb809aabbcc2e",
+                "name": "Analytics India Magazine",
+                "url": "https://analyticsindiamag.com",
+                "country": "in"
+            },
+            "title": "OpenAI Chooses AWS in $38 Billion Deal to Run Core AI Workloads",
+            "url": "https://analyticsindiamag.com/ai-news-updates/openai-chooses-aws-in-38-billion-deal-to-run-core-ai-workloads/",
+            "urlToImage": "https://analyticsindiamag.com/wp-content/uploads/2025/10/OpenAI-compute.png",
+            "publishedAt": "2025-11-03T14:43:12Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Chipmaker Onsemi beats quarterly estimates on AI-driven demand",
+            "url": "https://www.reuters.com/business/autos-transportation/chipmaker-onsemi-beats-quarterly-estimates-ai-driven-demand-2025-11-03/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/KKIXYGBD35KTVNBXHESR5WW2SM.jpg?auth=5c297fd59cb417f9d73a07c897788a05cdf2791d79d6d0009dced97b3b8795e4&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-11-03T14:41:15Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Chipmaker Onsemi beats quarterly estimates on AI-driven demand",
+            "url": "https://www.marketscreener.com/news/chipmaker-onsemi-beats-quarterly-estimates-on-ai-driven-demand-ce7d5cd9df8df421",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2025-11-03T14:37:43Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "India plans a national school bus tracking system. But will the data be safe?",
+            "url": "https://www.livemint.com/news/india/india-plans-rfid-based-national-school-bus-tracking-data-concerns-11762168034000.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2025/11/03/1600x900/2-0-80494616-27feb08PathwaysWorldSchool093-0_1681456796380_1762178041384.jpg",
+            "publishedAt": "2025-11-03T14:01:13Z"
+        },
+        {
+            "source": {
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
+                "country": "in"
+            },
+            "title": "Cybersecurity is every person’s responsibility, says Vijayawada DRM",
+            "url": "https://www.thehindu.com/news/national/andhra-pradesh/cybersecurity-is-every-persons-responsibility-says-vijayawada-drm/article70236196.ece",
+            "urlToImage": "https://www.thehindu.com/theme/images/og-image.png",
+            "publishedAt": "2025-11-03T13:32:17Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "AlphaTON Capital Takes Center Stage at TRUST Summit 2025 to Shape the Future of Digital Finance",
+            "url": "https://www.manilatimes.net/2025/11/03/tmt-newswire/globenewswire/alphaton-capital-takes-center-stage-at-trust-summit-2025-to-shape-the-future-of-digital-finance/2214372",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/11/03/809941.png",
+            "publishedAt": "2025-11-03T13:20:33Z"
+        },
         {
             "source": {
                 "id": "92f73865e835e33ed68c11447777c939",
@@ -1260,6 +1428,87 @@
             "url": "https://www.globenewswire.com/news-release/2025/11/03/3179502/0/en/Just-One-Day-Away-Register-Now-Toronto-C-suite-executives-invited-to-HMG-Strategy-s-13th-Annual-C-Level-Technology-Leadership-Summit-on-November-4-2025.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/4b886685-faf4-4f80-8e8a-77cac364fa1b",
             "publishedAt": "2025-11-03T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "cision"
+            },
+            "title": "Scale ComputingTM Named to the Prestigious CRN Edge Computing 100 List for Sixth Consecutive Year",
+            "url": "https://www.prnewswire.com/news-releases/scale-computing-named-to-the-prestigious-crn-edge-computing-100-list-for-sixth-consecutive-year-302601646.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2745580/Scale_Computing_Logo_v3.jpg?p=original",
+            "publishedAt": "2025-11-03 15:00:00"
+        },
+        {
+            "source": {
+                "name": "venturebeat"
+            },
+            "title": "AI coding transforms data engineering: How dltHub's open-source Python library helps developers create data pipelines for AI in minutes",
+            "url": "https://venturebeat.com/data-infrastructure/ai-coding-transforms-data-engineering-how-dlthubs-open-source-python-library",
+            "urlToImage": "https://images.ctfassets.net/jdtwqhzvc2n1/4s24Zr8moHSwWGw0JHGi7D/77a891f4e1193fe3fdce8423ff27befc/python-dev-smk1.jpg?q=30&w=300",
+            "publishedAt": "2025-11-03 15:00:00"
+        },
+        {
+            "source": {
+                "name": "economictimes_indiatimes"
+            },
+            "title": "Cisco launches localised computing device to handle AI workflows",
+            "url": "http://economictimes.indiatimes.com/tech/technology/cisco-launches-localised-computing-device-to-handle-ai-workflows/articleshow/125062181.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-367100,resizemode-75,msid-125062181/tech/technology/cisco-launches-localised-computing-device-to-handle-ai-workflows.jpg",
+            "publishedAt": "2025-11-03 14:56:55"
+        },
+        {
+            "source": {
+                "name": "digitaltrends"
+            },
+            "title": "This Pixel 10 Pro XL Deal Makes Google’s Flagship More Affordable",
+            "url": "https://www.digitaltrends.com/phones/google-pixel-10-pro-sale/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/11/Google-Pixel-10-Pro-XL.jpg?p=1&resize=1200%2C630",
+            "publishedAt": "2025-11-03 14:54:33"
+        },
+        {
+            "source": {
+                "name": "postregister"
+            },
+            "title": "AP Technology SummaryBrief at 9:51 a.m. EST",
+            "url": "https://www.postregister.com/businessreport/business/ap-technology-summarybrief-at-9-51-a-m-est/article_7e78aed7-9da0-5560-b66c-7032093a2896.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
+            "publishedAt": "2025-11-03 14:51:46"
+        },
+        {
+            "source": {
+                "name": "onmsft"
+            },
+            "title": "How to Use Core Temp to Check CPU Temperature on Windows 11",
+            "url": "https://windowsreport.com/core-temp-application/",
+            "urlToImage": "https://windowsreport.com/wp-content/uploads/2025/11/core-temp-application-700x467.jpg",
+            "publishedAt": "2025-11-03 14:49:33"
+        },
+        {
+            "source": {
+                "name": "techxplore"
+            },
+            "title": "Video game creators fear AI could grab the controller",
+            "url": "https://techxplore.com/news/2025-11-video-game-creators-ai.html",
+            "urlToImage": "https://scx1.b-cdn.net/csz/news/tmb/2025/industry-actors-hope-a.jpg",
+            "publishedAt": "2025-11-03 14:48:01"
+        },
+        {
+            "source": {
+                "name": "edexlive"
+            },
+            "title": "Calculators NOT allowed in JEE Main 2026, NTA clarifies",
+            "url": "https://www.edexlive.com/news/calculators-not-allowed-in-jee-main-2026-nta-clarifies",
+            "urlToImage": "https://media.edexlive.com/edexlive%2F2025-04-15%2Fy5vs4iza%2FANI_20240726135931.jpg?ar=40%3A21&auto=format%2Ccompress&enlarge=true&mode=crop&ogImage=true&overlay=false&overlay_position=bottom&overlay_width=100&w=1200",
+            "publishedAt": "2025-11-03 14:36:17"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "Agentic AI’s Token Paradox: When Cheaper Means More Expensive",
+            "url": "https://www.forbes.com/sites/saharhashmi/2025/11/03/agentic-ais-token-paradox-when-cheaper-means-more-expensive/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6906b85fb09742d820300080/0x0.jpg?width=960",
+            "publishedAt": "2025-11-03 14:32:00"
         },
         {
             "source": {
@@ -2961,213 +3210,6 @@
             "url": "https://www.analyticsinsight.net/cryptocurrency-analytics-insight/bnb-may-hit-1500-by-2026-but-ozak-ai-could-turn-the-same-investment-into-500x-gains-heres-the-math",
             "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-11-02%2Foy3hb2nz%2FScreenshot-2025-11-02-171013.jpg?auto=format%2Ccompress&fit=max&w=480",
             "publishedAt": "2025-11-02 11:43:15"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "Reddit’s CEO Debuts As A Billionaire 20 Years After Cofounding The Company",
-            "url": "https://www.forbes.com/sites/monicahunter-hart/2025/11/01/reddits-ceo-debuts-as-a-steve-huffman-billionaire-20-years-after-cofounding-the-company/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6904d93cdc8bd3e8c623def9/0x0.jpg?precrop=1920%2C1080%2Cx0%2Cy0&width=960",
-            "publishedAt": "2025-11-02 11:30:00"
-        },
-        {
-            "source": {
-                "name": "cnet"
-            },
-            "title": "Qualcomm Snapdragon X Elite and X Plus Laptop Chips Explained",
-            "url": "https://www.cnet.com/tech/computing/qualcomm-snapdragon-x-elite-and-x-plus-laptop-chips-explained/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/9295349f2c7bc1cdfe674e6903131d50026ac8f6/hub/2024/05/29/c881a496-f397-4bec-90d2-047f05cd99c6/snapdragon-elite.jpg?auto=webp&fit=crop&height=675&precrop=778%2C437%2Cx107%2Cy53&width=1200",
-            "publishedAt": "2025-11-02 11:00:04"
-        },
-        {
-            "source": {
-                "name": "latimes"
-            },
-            "title": "Inside the race to train AI robots how to act human in the real world",
-            "url": "https://www.latimes.com/business/story/2025-11-02/inside-californias-rush-to-gather-human-data-for-building-humanoid-robots",
-            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/33b74f0/2147483647/strip/true/crop/7662x4023+0+0/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F32%2F6d%2Fb464a705413582f230fe8fca2c8a%2Fgettyimages-2243791814.jpg",
-            "publishedAt": "2025-11-02 11:00:00"
-        },
-        {
-            "source": {
-                "name": "headtopics"
-            },
-            "title": "Using Generative AI To Test Some Other Generative AI On Providing Safe Mental Health Advice To Humans",
-            "url": "https://headtopics.com/news/using-generative-ai-to-test-some-other-generative-ai-on-75241277",
-            "urlToImage": "https://i.headtopics.com/images/2025/11/2/forbestech/using-generative-ai-to-test-some-other-generative--using-generative-ai-to-test-some-other-generative--5FD7E08F454DBDE99FF54ABDCCB383F3.webp",
-            "publishedAt": "2025-11-02 10:40:33"
-        },
-        {
-            "source": {
-                "name": "newsbytesapp"
-            },
-            "title": "SpaceX launches satellite that could lead to private space station",
-            "url": "https://www.newsbytesapp.com/news/science/spacex-launches-satellite-paving-way-for-private-space-station-development/story",
-            "urlToImage": "https://i.cdn.newsbytesapp.com/images/l92520251102160604.jpeg",
-            "publishedAt": "2025-11-02 10:38:56"
-        },
-        {
-            "source": {
-                "name": "newsweek"
-            },
-            "title": "The New York College Trying to ‘AI-Proof’ Its Students",
-            "url": "https://www.newsweek.com/new-york-college-trying-ai-proof-students-10968117",
-            "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2025/10/The-New-York-College-Trying-to-AI-Proof-Its-Students.jpg?w=1200crop%3D1",
-            "publishedAt": "2025-11-02 10:00:00"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "Samsung Galaxy Tab S11 Ultra vs. iPad Pro M5 — which tablet should you buy?",
-            "url": "https://www.tomsguide.com/computing/tablets/samsung-galaxy-tab-s11-ultra-vs-ipad-pro-m5-which-tablet-should-you-buy",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/BDHQSKt6fVxYw9ckL7eFeY-1280-80.jpg",
-            "publishedAt": "2025-11-02 10:00:00"
-        },
-        {
-            "source": {
-                "name": "newatlas"
-            },
-            "title": "Biochips made from mushrooms rival power of manmade semiconductors",
-            "url": "https://newatlas.com/computers/mushroom-memristors-computing/",
-            "urlToImage": "https://assets.newatlas.com/dims4/default/53dacaf/2147483647/strip/true/crop/1614x1076+0+30/resize/1200x800!/format/webp/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fa4%2Fef%2F40ee2ae8412aa6fb90b897cc1005%2Fscreenshot-2025-10-27-at-12-46-03-pm.png",
-            "publishedAt": "2025-11-02 09:03:00"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "XRP Tundra Completes Triple Security Audits, Setting New Standards Beyond Toncoin and Jupiter Protocols",
-            "url": "https://www.analyticsinsight.net/cryptocurrency-analytics-insight/xrp-tundra-completes-triple-security-audits-setting-new-standards-beyond-toncoin-and-jupiter-protocols",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-11-02%2Fsfvmtxbd%2FScreenshot-2025-11-02-101455.png?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-11-02 09:00:00"
-        },
-        {
-            "source": {
-                "name": "expresscomputer"
-            },
-            "title": "Why AI is the Underwriter’s Strongest Ally",
-            "url": "https://www.expresscomputer.in/guest-blogs/why-ai-is-the-underwriters-strongest-ally/129088/",
-            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2024/10/24111908/EC_Insurance_Insurtech_03_750.jpg",
-            "publishedAt": "2025-11-02 08:56:02"
-        },
-        {
-            "source": {
-                "name": "livemint"
-            },
-            "title": "Mint Explainer: Does Nvidia’s $5-trillion feat raise the spectre of an AI winter?",
-            "url": "https://www.livemint.com/ai/artificial-intelligence/nvidia-5-trillion-market-cap-ai-winter-risk-generative-ai-nvidia-gpus-11762070348802.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2025/11/02/1600x900/NVIDIA-SOUTHKOREA--1_1761912800468_1761912808401_1762070626726.JPG",
-            "publishedAt": "2025-11-02 08:08:10"
-        },
-        {
-            "source": {
-                "name": "premierguitar"
-            },
-            "title": "A Guitar and a Pen",
-            "url": "https://www.premierguitar.com/a-guitar-and-a-pen",
-            "urlToImage": "https://www.premierguitar.com/media-library/image.png?id=61990493&width=980",
-            "publishedAt": "2025-11-02 08:00:03"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Galaxy S26 Leak Shocks Fans: 200MP Camera and AI Power Redefine Samsung’s Future",
-            "url": "https://www.analyticsinsight.net/news/galaxy-s26-leak-shocks-fans-200mp-camera-and-ai-power-redefine-samsungs-future",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-05-26%2Fls6qc36f%2FSamsung-Galaxy-S26-Camera-Surprise-Whats-Coming-Next-Check-Latest-Leak.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-11-02 07:57:38"
-        },
-        {
-            "source": {
-                "name": "firstpost"
-            },
-            "title": "What is ‘vibe working’? Is it the future of AI productivity?",
-            "url": "https://www.firstpost.com/explainers/microsoft-vibe-working-ai-productivity-trend-or-buzzword-13945795.html",
-            "urlToImage": "https://images.firstpost.com/uploads/2025/10/Microsoft-Copilot-Reuters-2025-10-c56015a7381802997517d24a77cc5330.jpg",
-            "publishedAt": "2025-11-02 07:48:37"
-        },
-        {
-            "source": {
-                "name": "mathrubhumi"
-            },
-            "title": "Mercor’s trio of 22-year-old AI founders, including 2 Indian-Americans, beat Zuckerberg as youngest billionaires",
-            "url": "https://english.mathrubhumi.com/news/money/youngest-billionaires-mercor-ai-startup-founders-indian-americans-bdg342t3",
-            "urlToImage": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1mwxhx45tw573caj33l/0/mercor-team-ai-billionaires-x-jpg.jpg?w=900",
-            "publishedAt": "2025-11-02 07:23:52"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "Using Generative AI To Test Some Other Generative AI On Providing Safe Mental Health Advice To Humans",
-            "url": "https://www.forbes.com/sites/lanceeliot/2025/11/02/using-ai-to-test-other-llms-on-being-able-to-provide-safe-mental-health-advice-to-humans/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69028d49c1e2b01dea899da2/0x0.jpg?width=960",
-            "publishedAt": "2025-11-02 07:15:00"
-        },
-        {
-            "source": {
-                "name": "indianexpress"
-            },
-            "title": "AI turned Google Cloud from also-ran into Alphabet’s growth driver",
-            "url": "https://indianexpress.com/article/technology/artificial-intelligence/ai-turned-google-cloud-from-also-ran-into-alphabets-growth-driver-10341255/",
-            "urlToImage": "https://images.indianexpress.com/2024/10/Google_afd08a.jpg",
-            "publishedAt": "2025-11-02 05:33:40"
-        },
-        {
-            "source": {
-                "name": "yahoo"
-            },
-            "title": "SpaceX launches private space station pathfinder 'Haven Demo,' 17 other satellites to orbit",
-            "url": "https://tech.yahoo.com/science/articles/spacex-launches-private-space-station-052049208.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/nW5D.tV2lePssKAkQrQVzQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://media.zenfs.com/en/space_311/2ce3edcb4c061b8325368e9038370f80",
-            "publishedAt": "2025-11-02 05:20:49"
-        },
-        {
-            "source": {
-                "name": "space"
-            },
-            "title": "SpaceX launches private space station pathfinder 'Haven Demo,' 17 other satellites to orbit",
-            "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-private-space-station-pathfinder-haven-demo-17-other-satellites-to-orbit",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/MNbztiJJCNvVHiD4gPYCjA-1280-80.jpg",
-            "publishedAt": "2025-11-02 05:20:49"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "Samsung Galaxy XR vs Apple Vision Pro vs Meta Quest 3: Which headset is right for you?",
-            "url": "https://www.tomsguide.com/computing/virtual-reality/samsung-galaxy-xr-vs-apple-vision-pro-m5-vs-meta-quest-3",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/BuEtJfNhUVWzLB8grbV39X-1280-80.jpg",
-            "publishedAt": "2025-11-02 05:15:00"
-        },
-        {
-            "source": {
-                "name": "indianexpress"
-            },
-            "title": "Life in an IIT | From SpaceX inspiration to innovation at IIT Mandi",
-            "url": "https://indianexpress.com/article/education/life-in-an-iit-mandi-jeemain-2026-jee-advanced-btech-bioengineering-minor-in-cse-fourth-year-10340167/",
-            "urlToImage": "https://images.indianexpress.com/2025/11/life-in-an-iit.jpg",
-            "publishedAt": "2025-11-02 04:30:09"
-        },
-        {
-            "source": {
-                "name": "ndtv"
-            },
-            "title": "Google Opens Applications For 2026 PhD Software Engineering Internship In India",
-            "url": "https://www.ndtv.com/education/google-opens-applications-for-2026-phd-software-engineering-internship-in-india-9559988",
-            "urlToImage": "https://c.ndtvimg.com/2024-03/20jnau7g_google_625x300_14_March_24.jpg?im=FeatureCrop%2Calgorithm%3Ddnn%2Cwidth%3D773%2Cheight%3D435",
-            "publishedAt": "2025-11-02 03:35:22"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Fed Chair Powell Rejects AI Bubble Claims, Highlights Real Growth",
-            "url": "https://www.webpronews.com/fed-chair-powell-rejects-ai-bubble-claims-highlights-real-growth/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/xai-tmp-imgen-678f7b0c-1a60-427c-96e2-e54cb00e7663.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-11-02 03:06:11"
         }
     ]
 }
