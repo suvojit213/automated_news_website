@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-11-05T12:33:12.289800Z",
+    "lastUpdatedAt": "2025-11-05T13:28:53.460452Z",
     "articles": [
+        {
+            "source": {
+                "id": "6fea3ee012f060c6309366516e8d00be",
+                "name": "News-Medical.net",
+                "url": "https://www.news-medical.net",
+                "country": "gb"
+            },
+            "title": "MSU study dives deeper into how well AI can detect human deception",
+            "url": "https://www.news-medical.net/news/20251104/MSU-study-dives-deeper-into-how-well-AI-can-detect-human-deception.aspx",
+            "urlToImage": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+            "publishedAt": "2025-11-05T01:07:00Z"
+        },
+        {
+            "source": {
+                "id": "10cbfb3760cfcdeb78c733c527f0e814",
+                "name": "iTWire",
+                "url": "https://itwire.com",
+                "country": "au"
+            },
+            "title": "Cybersecurity platform KnowBe4 has released its Q3 2025 Phishing Roundup",
+            "url": "https://itwire.com/business-it-news/security/cybersecurity-platform-knowbe4-has-released-its-q3-2025-phishing-roundup.html",
+            "urlToImage": "https://itwire.com/images/authors-images/stanbeer/Sphere-PR-Anniversary_EDM.jpg",
+            "publishedAt": "2025-11-05T00:40:43Z"
+        },
         {
             "source": {
                 "id": "0c9364fff53c0e5a3450947d9a54e795",
@@ -96,6 +120,60 @@
             "url": "https://www.globenewswire.com/news-release/2025/11/05/3181040/0/en/ABS-CBN-Partners-with-SpyCloud-to-Bolster-Cybersecurity-Defenses.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/20adddf9-16da-4d6b-bebc-cb5660f145ba",
             "publishedAt": "2025-11-05T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "newswise"
+            },
+            "title": "Argonne-Led Q-NEXT Quantum Center Renewed for Five Years",
+            "url": "https://www.newswise.com/articles/argonne-led-q-next-quantum-center-renewed-for-five-years/?sc=rssn",
+            "urlToImage": "https://www.newswise.com/legacy/image.php?height=334&image=%2Fimages%2Fuploads%2F2025%2F11%2F04%2F690a4452a2b0a_nazar.delegan.33448D0927CPAQuantumFoundryWEB.1080x1920.png&time=08%3A40%3A57pm&width=502",
+            "publishedAt": "2025-11-05 01:23:50"
+        },
+        {
+            "source": {
+                "name": "menafn"
+            },
+            "title": "Google Successfully Tests AI Chips For Space, Faces Cooling Challenges",
+            "url": "https://menafn.com/1110296905/Google-Successfully-Tests-AI-Chips-For-Space-Faces-Cooling-Challenges",
+            "urlToImage": "https://menafn.com/updates/pr/2025-11/05/AN_98765image_story.jpg",
+            "publishedAt": "2025-11-05 01:14:52"
+        },
+        {
+            "source": {
+                "name": "startupnews"
+            },
+            "title": "The World’s Tallest Chip Defies the Limits of Computing: Goodbye To Moore’s Law?",
+            "url": "https://startupnews.fyi/2025/11/05/the-worlds-tallest-chip-defies-the-limits-of-computing-goodbye-to-moores-law/",
+            "urlToImage": "https://i2.wp.com/a.fsdn.com/sd/topics/hardware_64.png?resize=1920%2C0&ssl=1&w=1920",
+            "publishedAt": "2025-11-05 01:04:03"
+        },
+        {
+            "source": {
+                "name": "prnewswire_apac"
+            },
+            "title": "DEEPX Unveils 'Physical AI' Vision at World Economic Forum",
+            "url": "https://www.prnewswire.com/apac/news-releases/deepx-unveils-physical-ai-vision-at-world-economic-forum-302603797.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2812987/image.jpg?p=original",
+            "publishedAt": "2025-11-05 01:00:00"
+        },
+        {
+            "source": {
+                "name": "en_prnasisa"
+            },
+            "title": "DEEPX Unveils 'Physical AI' Vision at World Economic Forum",
+            "url": "https://en.prnasia.com/story/510150-0.shtml",
+            "urlToImage": "https://mma.prnasia.com/media2/2812987/image.jpg?p=medium600",
+            "publishedAt": "2025-11-05 01:00:00"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "TSMC’s Looming Price Shock: Brace for Costlier CPUs and GPUs in 2026",
+            "url": "https://www.webpronews.com/tsmcs-looming-price-shock-brace-for-costlier-cpus-and-gpus-in-2026/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-452-1762304207.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-11-05 00:56:52"
         },
         {
             "source": {
@@ -3192,78 +3270,6 @@
             "url": "https://hackernoon.com/the-deception-problem-when-ai-learns-to-lie-without-being-taught",
             "urlToImage": "https://hackernoon.imgix.net/images/uBhjbZIm34du43FkQ7OopJQf37Y2-b803c96.jpeg",
             "publishedAt": "2025-11-04 10:52:38"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "When AI Learns to See the Unknown: Wrapping Up the OW‐VISCap Study",
-            "url": "https://hackernoon.com/when-ai-learns-to-see-the-unknown-wrapping-up-the-owviscap-study",
-            "urlToImage": "https://hackernoon.imgix.net/images/sinW25rWovdN38P2ArzdPSCP3hi1-g9036qj.jpeg",
-            "publishedAt": "2025-11-04 10:19:12"
-        },
-        {
-            "source": {
-                "name": "businessinsider_us"
-            },
-            "title": "Appian CEO says he refuses to use AI to screen résumés",
-            "url": "https://www.businessinsider.com/appian-ceo-ai-resumes-companies-deployment-2025-11",
-            "urlToImage": "https://i.insider.com/690911e6599d46a4ccc15db2?width=700",
-            "publishedAt": "2025-11-04 10:09:01"
-        },
-        {
-            "source": {
-                "name": "insideevs"
-            },
-            "title": "I Drifted Mercedes' GLC EV Prototype Across The Desert. It's A Needed Reset—And Better Than Any Gas Crossover",
-            "url": "https://insideevs.com/reviews/777832/mercedes-glc-400-eq-technology-prototype-drive/",
-            "urlToImage": "https://cdn.motor1.com/images/mgl/mMg91P/s1/2027-mercedes-glc-ev-prototype-drive.jpg",
-            "publishedAt": "2025-11-04 10:00:35"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "SUSE Linux Enterprise Server 16 lands - with AI and EU support baked in",
-            "url": "https://www.zdnet.com/article/suse-linux-enterprise-server-16-lands-with-ai-and-eu-support-baked-in/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/3e5288987103b9f3c803b0343b707ff0e6fb3eb2/2025/11/03/9064e741-49d5-455f-bab9-5ee2d8c5ec87/greeniguana555gettyimages-2241086850.jpg?auto=webp&width=1280",
-            "publishedAt": "2025-11-04 10:00:31"
-        },
-        {
-            "source": {
-                "name": "cnet"
-            },
-            "title": "Corsair Vengeance A7500 Air Desktop Review: Prebuilt Gaming PCs Aren't Always Special",
-            "url": "https://www.cnet.com/tech/gaming/corsair-vengeance-a7500-air-desktop-review-prebuilt-gaming-pcs-arent-always-special/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/39b7e5039435f5df599986dc29e721e24fb3d19a/hub/2025/11/02/76f6a5eb-37be-4f96-9698-8676e7f01d75/corsair-vengeance-a7500-air-desktop-1-of-7.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-11-04 10:00:04"
-        },
-        {
-            "source": {
-                "name": "sdxcentral"
-            },
-            "title": "Vultr launches high-performance cloud offering for public sector organizations",
-            "url": "https://www.sdxcentral.com/news/vultr-launches-high-performance-cloud-offering-for-public-sector-organizations/",
-            "urlToImage": "https://media.datacenterdynamics.com/media/images/vultr.2e16d0ba.fill-1200x630.png",
-            "publishedAt": "2025-11-04 09:50:26"
-        },
-        {
-            "source": {
-                "name": "newswise"
-            },
-            "title": "AI-Driven Phenotyping Pipeline Unveils How Wheat Spike Architecture Shapes Grain Yield",
-            "url": "https://www.newswise.com/articles/ai-driven-phenotyping-pipeline-unveils-how-wheat-spike-architecture-shapes-grain-yield/?sc=rsla",
-            "urlToImage": "https://www.newswise.com/legacy/image.php?height=334&image=%2Fimages%2Fuploads%2F2025%2F11%2F04%2F6909c00995cf3_3.png&width=502",
-            "publishedAt": "2025-11-04 09:48:28"
-        },
-        {
-            "source": {
-                "name": "chicagotribune"
-            },
-            "title": "The 6 best Wi-Fi extenders you can buy on Amazon",
-            "url": "https://www.chicagotribune.com/2025/11/04/the-6-best-wi-fi-extenders-you-can-buy-on-amazon/",
-            "urlToImage": "https://www.chicagotribune.com/wp-content/uploads/2025/11/best-wifi-extenders.jpg?strip=all&w=1400px",
-            "publishedAt": "2025-11-04 09:48:15"
         }
     ]
 }
