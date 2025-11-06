@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-11-06T13:28:21.795453Z",
+    "lastUpdatedAt": "2025-11-06T14:16:25.576867Z",
     "articles": [
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Sequoia Plans for More AI, Less Partisanship Under Grady and Lin",
+            "url": "https://www.bloomberg.com/news/articles/2025-11-06/sequoia-plans-for-more-ai-less-partisanship-under-grady-and-lin",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ip0wsfmgXJHo/v0/1200x777.jpg",
+            "publishedAt": "2025-11-06T02:07:31Z"
+        },
+        {
+            "source": {
+                "id": "6fea3ee012f060c6309366516e8d00be",
+                "name": "News-Medical.net",
+                "url": "https://www.news-medical.net",
+                "country": "gb"
+            },
+            "title": "AI and protein language models can accelerate the design of antiviral antibodies",
+            "url": "https://www.news-medical.net/news/20251105/AI-and-protein-language-models-can-accelerate-the-design-of-antiviral-antibodies.aspx",
+            "urlToImage": "https://www.news-medical.net/image-handler/picture/2014/7/Antibody-620x480.jpg",
+            "publishedAt": "2025-11-06T01:58:00Z"
+        },
+        {
+            "source": {
+                "id": "10cbfb3760cfcdeb78c733c527f0e814",
+                "name": "iTWire",
+                "url": "https://itwire.com",
+                "country": "au"
+            },
+            "title": "AI Agents Take Over the SOC: Google Predicts a Paradigm Shift in Cybersecurity Operations",
+            "url": "https://itwire.com/guest-articles/guest-research/ai-agents-take-over-the-soc-google-predicts-a-paradigm-shift-in-cybersecurity-operations.html",
+            "urlToImage": "https://itwire.com/media/k2/items/cache/fd9c21ced67a77939b8f6c0819a6090b_XS.jpg",
+            "publishedAt": "2025-11-06T01:49:17Z"
+        },
+        {
+            "source": {
+                "id": "0c9364fff53c0e5a3450947d9a54e795",
+                "name": "Daily Mail Online",
+                "url": "https://www.dailymail.co.uk",
+                "country": "gb"
+            },
+            "title": "King Charles sends another strong message in fight against artificial intelligence after giving top tech boss a letter warning of danger posed by AI",
+            "url": "https://www.dailymail.co.uk/news/article-15263473/King-Charles-sends-strong-message-fight-against-artificial-intelligence-giving-tech-boss-letter-warning-danger.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2025/11/06/01/103635891-0-image-m-15_1762393011447.jpg",
+            "publishedAt": "2025-11-06T01:46:14Z"
+        },
         {
             "source": {
                 "id": "09131c39169c9c96230862dc4c1fa727",
@@ -120,6 +168,33 @@
             "url": "https://www.caixinglobal.com/2025-11-06/china-unveils-ambitious-plan-to-weave-ai-into-healthcare-system-102380000.html",
             "urlToImage": "https://img.caixin.com/2025-11-06/176238498970214_560_373.jpg",
             "publishedAt": "2025-11-06T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "cnet"
+            },
+            "title": "You Probably Have a Better Password Than The Louvre Did: Learn From Its Mistake",
+            "url": "https://www.cnet.com/tech/you-probably-have-a-better-password-than-the-louvre-did-learn-from-its-mistake/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/c58e9c0eadffe1697c6d622e6ef4ec86813fdc35/hub/2025/11/05/138b19cb-5527-4ac8-b765-9a842dab0d6c/gettyimages-2244500532.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-11-06 01:30:54"
+        },
+        {
+            "source": {
+                "name": "finshots"
+            },
+            "title": "A breakthrough that might break the internet",
+            "url": "https://finshots.in/archive/a-breakthrough-that-might-break-the-internet-willow-google-quantum-computing-chip/",
+            "urlToImage": "https://cdn.finshots.app/images/2025/11/Google-Quantum-Finshots.jpg",
+            "publishedAt": "2025-11-06 01:30:39"
+        },
+        {
+            "source": {
+                "name": "newswise"
+            },
+            "title": "AI Can Speed Antibody Design to Thwart Novel Viruses: Study",
+            "url": "https://www.newswise.com/articles/ai-can-speed-antibody-design-to-thwart-novel-viruses-study/?sc=rsla",
+            "urlToImage": "https://www.newswise.com/legacy/image.php?height=334&image=%2Fimages%2Fuploads%2F2025%2F11%2F05%2F690bcde27c439_MAGEstructurecropped25-10-28resize.jpg&width=502",
+            "publishedAt": "2025-11-06 01:28:33"
         },
         {
             "source": {
@@ -3282,69 +3357,6 @@
             "url": "https://www.genengnews.com/topics/artificial-intelligence/ai-designed-antibodies-achieve-atomic-precision-to-enhance-drug-discovery/",
             "urlToImage": "https://www.genengnews.com/wp-content/uploads/2025/11/De_novo_antibody_Ian_Haydon-696x391.png",
             "publishedAt": "2025-11-05 16:00:50"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "A Graph Transformer Network for Predicting Remaining Process Time",
-            "url": "https://hackernoon.com/a-graph-transformer-network-for-predicting-remaining-process-time",
-            "urlToImage": "https://hackernoon.imgix.net/images/glowing-data-edges-and-flow-arrows-emphasizing-ai-driven-process-optimization-ug0vpsta94qkb0wbpsw2zhig.png",
-            "publishedAt": "2025-11-05 16:00:23"
-        },
-        {
-            "source": {
-                "name": "en_prnasisa"
-            },
-            "title": "Samsung Electro-Mechanics Signs MOU with Sumitomo Chemical Group to Establish a Joint Venture for 'Glass Core' Used in Package Substrates",
-            "url": "https://en.prnasia.com/story/510384-0.shtml",
-            "urlToImage": "https://mma.prnasia.com/media2/2814019/image1.jpg?p=medium600",
-            "publishedAt": "2025-11-05 16:00:00"
-        },
-        {
-            "source": {
-                "name": "pcworld_us"
-            },
-            "title": "When laptops stop feeling like machines",
-            "url": "https://www.pcworld.com/article/2948429/when-laptops-stop-feeling-like-machines.html",
-            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/11/acer-aspire-16-ai-3.jpeg?quality=50&strip=all",
-            "publishedAt": "2025-11-05 16:00:00"
-        },
-        {
-            "source": {
-                "name": "chromeunboxed"
-            },
-            "title": "Apple’s revamped Siri will reportedly “lean” on Google’s Gemini AI",
-            "url": "https://chromeunboxed.com/apples-revamped-siri-will-reportedly-lean-on-googles-gemini-ai/",
-            "urlToImage": "https://chromeunboxed.com/wp-content/uploads/2025/08/GoogleGeminiAIAppleSiri.webp",
-            "publishedAt": "2025-11-05 15:06:36"
-        },
-        {
-            "source": {
-                "name": "news_uwm"
-            },
-            "title": "UWM professor wins award for gravitational science work",
-            "url": "https://uwm.edu/news/uwm-professor-wins-award-for-gravitational-science-work/",
-            "urlToImage": "https://uwm.edu/news/wp-content/uploads/sites/41/2025/11/Brady300x200.jpg",
-            "publishedAt": "2025-11-05 15:00:34"
-        },
-        {
-            "source": {
-                "name": "bitcoinworld"
-            },
-            "title": "Nvidia AI: A Revolutionary €1 Billion Boost for Germany’s Digital Future",
-            "url": "https://bitcoinworld.co.in/nvidia-ai-germany-future/",
-            "urlToImage": "https://bitcoinworld.co.in/wp-content/uploads/nvidia-ai-germany-future.jpg",
-            "publishedAt": "2025-11-05 15:00:12"
-        },
-        {
-            "source": {
-                "name": "pcworld_us"
-            },
-            "title": "Adata SC735 review: A solid SSD disguised as a USB drive",
-            "url": "https://www.pcworld.com/article/2941301/adata-sc735-ssd-review.html",
-            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/11/Adata-SC735-hero-b.jpg?quality=50&strip=all",
-            "publishedAt": "2025-11-05 15:00:00"
         }
     ]
 }
