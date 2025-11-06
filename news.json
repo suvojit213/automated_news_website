@@ -1,6 +1,102 @@
 {
-    "lastUpdatedAt": "2025-11-06T05:16:24.453471Z",
+    "lastUpdatedAt": "2025-11-06T06:24:09.037010Z",
     "articles": [
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Amazon lawsuit ‘threat to all internet users’: Perplexity",
+            "url": "https://economictimes.indiatimes.com/tech/technology/amazon-lawsuit-threat-to-all-internet-users-perplexity/articleshow/125114867.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1914616,resizemode-75,msid-125114867/tech/technology/amazon-lawsuit-threat-to-all-internet-users-perplexity.jpg",
+            "publishedAt": "2025-11-05T18:23:09Z"
+        },
+        {
+            "source": {
+                "id": "046a50607901bb9bca25f6624dc87f76",
+                "name": "NBC 5 Chicago",
+                "url": "https://www.nbcchicago.com",
+                "country": "us"
+            },
+            "title": "Gemini AI to transform Google Maps experience",
+            "url": "https://www.nbcchicago.com/news/tech/gemini-ai-transform-google-maps-experience/3847933/",
+            "urlToImage": "https://media.nbcchicago.com/2025/11/GettyImages-2208675263.jpg?quality=85&strip=all&resize=1200%2C675",
+            "publishedAt": "2025-11-05T17:45:14Z"
+        },
+        {
+            "source": {
+                "id": "8749653ef849c3df2e467a8e0f0c6672",
+                "name": "NBC10 Boston",
+                "url": "https://www.nbcboston.com",
+                "country": "us"
+            },
+            "title": "Gemini AI to transform Google Maps experience",
+            "url": "https://www.nbcboston.com/news/tech/gemini-ai-transform-google-maps-experience/3840400/",
+            "urlToImage": "https://media.nbcboston.com/2025/11/GettyImages-2208675263.jpg?quality=85&strip=all&resize=1200%2C675",
+            "publishedAt": "2025-11-05T17:45:14Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "Key Nodes Where AI Chatbot Solutions Reduce Operational Costs and Boost Customer Retention",
+            "url": "https://techbullion.com/key-nodes-where-ai-chatbot-solutions-reduce-operational-costs-and-boost-customer-retention/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/11/AI-Chatbot-1000x504.png",
+            "publishedAt": "2025-11-05T17:43:52Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Crogl Granted Patent for Analyzing Non-Normalized Data for Security",
+            "url": "https://www.manilatimes.net/2025/11/06/tmt-newswire/globenewswire/crogl-granted-patent-for-analyzing-non-normalized-data-for-security/2217041",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/11/06/814710.png",
+            "publishedAt": "2025-11-05T17:32:06Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Cordaroys Launches \"Don’t Mess with Roy,” a Hilarious Micro-Sitcom About a Rogue AI Running the Company",
+            "url": "https://www.manilatimes.net/2025/11/06/tmt-newswire/globenewswire/cordaroys-launches-dont-mess-with-roy-a-hilarious-micro-sitcom-about-a-rogue-ai-running-the-company/2217039",
+            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+            "publishedAt": "2025-11-05T17:32:04Z"
+        },
+        {
+            "source": {
+                "id": "d89ba30deb182af5129e20ccc6d2e573",
+                "name": "The New Yorker",
+                "url": "https://www.newyorker.com",
+                "country": "us"
+            },
+            "title": "It’s Cool to Have No Followers Now",
+            "url": "https://www.newyorker.com/culture/infinite-scroll/its-cool-to-have-no-followers-now",
+            "urlToImage": "https://media.newyorker.com/photos/690a7234c217522ee6dc2043/16:9/w_1280,c_limit/NewYorker_privateinsta_sketch_%20%20(1).jpg",
+            "publishedAt": "2025-11-05T17:28:13Z"
+        },
+        {
+            "source": {
+                "id": "7ba4ac19a3c25ba844bbd220fe4c860a",
+                "name": "THE WEEK",
+                "url": "https://www.theweek.in",
+                "country": "in"
+            },
+            "title": "AI-powered STAR helps US couple in late 30s fulfil their parenthood dream",
+            "url": "https://www.theweek.in/news/health/2025/11/05/ai-powered-star-helps-us-couple-in-late-30s-fulfil-their-parenthood-dream.html",
+            "urlToImage": "https://www.theweek.in/content/dam/week/week/news/health/images/2025/10/5/Health-Pregnancy.jpg",
+            "publishedAt": "2025-11-05T17:27:55Z"
+        },
         {
             "source": {
                 "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
@@ -1815,6 +1911,96 @@
         },
         {
             "source": {
+                "name": "webpronews"
+            },
+            "title": "Cooling AI’s Inferno: How Metal Stacks Are Revolutionizing Data Center Heat",
+            "url": "https://www.webpronews.com/cooling-ais-inferno-how-metal-stacks-are-revolutionizing-data-center-heat/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-485-1762366091.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-11-05 18:08:15"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Xpeng’s Robot Revolution: Mass-Producing Humanoids by 2026",
+            "url": "https://www.webpronews.com/xpengs-robot-revolution-mass-producing-humanoids-by-2026/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-484-1762366039.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-11-05 18:07:23"
+        },
+        {
+            "source": {
+                "name": "hackaday"
+            },
+            "title": "The Deadliest US Nuclear Accident is Not What You Think",
+            "url": "https://hackaday.com/2025/11/05/the-deadliest-us-nuclear-accident-is-not-what-you-think/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2023/01/NuclearFuel.jpg",
+            "publishedAt": "2025-11-05 18:00:51"
+        },
+        {
+            "source": {
+                "name": "xda_developers"
+            },
+            "title": "I don’t need a laptop or a desktop tower... mini PCs are just the right fit",
+            "url": "https://www.xda-developers.com/mini-pcs-are-just-the-right-fit/",
+            "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/09/bosgame-m5-controller-on-top.jpg",
+            "publishedAt": "2025-11-05 18:00:19"
+        },
+        {
+            "source": {
+                "name": "fortune"
+            },
+            "title": "The under-the-radar factor that helped Democrats win in Virginia, New Jersey, and Georgia",
+            "url": "https://fortune.com/2025/11/05/elections-ai-data-centers-politics-democrats-republicans-virginia-new-jersey-georgia/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2190952787-e1762365188760.jpg?w=2048",
+            "publishedAt": "2025-11-05 17:59:32"
+        },
+        {
+            "source": {
+                "name": "in_mashable"
+            },
+            "title": "NASA’s High-Resolution Picture Of 3I/ATLAS Leaked? As Internet Debates Alien Origin, Here’s The Truth",
+            "url": "https://in.mashable.com/science/102064/nasas-high-resolution-picture-of-3iatlas-leaked-as-internet-debates-alien-origin-heres-the-truth",
+            "urlToImage": "https://sm.mashable.com/mashable_in/photo/default/00-aa-art-cover-new-2025-11-05t111852476-1-1_g45c.jpg",
+            "publishedAt": "2025-11-05 17:56:15"
+        },
+        {
+            "source": {
+                "name": "stanford"
+            },
+            "title": "Diamonds and Lasers: Thermal Management for Chips",
+            "url": "https://engineering.stanford.edu/news/chips-need-chill-out",
+            "urlToImage": "https://spectrum.ieee.org/media-library/image.png?coordinates=0%2C105%2C0%2C106&height=600&id=61952496&width=1200",
+            "publishedAt": "2025-11-05 17:53:00"
+        },
+        {
+            "source": {
+                "name": "techxplore"
+            },
+            "title": "Novel memristor wafer integration technology paves the way for brain-like AI chips",
+            "url": "https://techxplore.com/news/2025-11-memristor-wafer-technology-paves-brain.html",
+            "urlToImage": "https://scx1.b-cdn.net/csz/news/tmb/2025/new-memristor-wafer-in.jpg",
+            "publishedAt": "2025-11-05 17:46:53"
+        },
+        {
+            "source": {
+                "name": "techxplore"
+            },
+            "title": "'Living metal' could bridge biological and electronic systems",
+            "url": "https://techxplore.com/news/2025-11-metal-bridge-biological-electronic.html",
+            "urlToImage": "https://scx1.b-cdn.net/csz/news/tmb/2025/living-metal-could-bri.jpg",
+            "publishedAt": "2025-11-05 17:44:03"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "Adopt Human-Centered AI To Transform The Future Of Work",
+            "url": "https://www.forbes.com/sites/paulocarvao/2025/11/05/adopt-human-centered-ai-to-transform-the-future-of-work/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6903b98f4506e1ed499b5361/0x0.jpg?width=960",
+            "publishedAt": "2025-11-05 17:37:17"
+        },
+        {
+            "source": {
                 "name": "hackernoon"
             },
             "title": "Zama Announces Strategic Acquisition of KKRT Labs to Scale Confidentiality On Public Blockchains",
@@ -3039,222 +3225,6 @@
             "url": "https://www.bostonglobe.com/2025/11/04/business/ai-companion-family-chatgpt/",
             "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/CRS7T3TOQS7WWB7RSUIYA727KY.JPG?auth=3fed71b87765011dfacdb51dd646571558075effe478f0d56149352e716e1d04&width=1440",
             "publishedAt": "2025-11-04T20:08:03Z"
-        },
-        {
-            "source": {
-                "id": "a11116890ae17f53bebab1bc67660326",
-                "name": "Digital Trends",
-                "url": "https://www.digitaltrends.com",
-                "country": "us"
-            },
-            "title": "Lovable adds safe browsing engine to protect you from bad vibecoded websites",
-            "url": "https://www.digitaltrends.com/computing/lovable-adds-safe-browsing-engine-to-protect-you-from-scammy-vibecoded-websites/",
-            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/11/lovable-guardio-block-malicious-ai-built-website-at-creation.jpg?resize=1200%2C630&p=1",
-            "publishedAt": "2025-11-04T20:00:49Z"
-        },
-        {
-            "source": {
-                "id": "77b86639d1384ac68141803ec5db27c0",
-                "name": "NBC News",
-                "url": "https://www.nbcnews.com",
-                "country": "us"
-            },
-            "title": "Stocks, crypto fall after CEOs raise fears of a market pullback",
-            "url": "https://www.nbcnews.com/business/markets/stocks-crypto-gold-tumble-palantir-nvidia-rcna241913",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251104-new-york-stock-exchange-mn-1420-a7725b.jpg",
-            "publishedAt": "2025-11-04T19:48:14Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "AI-driven remote sensing framework can map forage cultivation potential in drylands",
-            "url": "https://phys.org/news/2025-11-ai-driven-remote-framework-forage.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/ai-driven-remote-sensi.jpg",
-            "publishedAt": "2025-11-04T19:29:03Z"
-        },
-        {
-            "source": {
-                "id": "2fb479494dce340d00c39522757d6f72",
-                "name": "Augusta Chronicle",
-                "url": "https://www.augustachronicle.com",
-                "country": "us"
-            },
-            "title": "Coca-Cola made another AI-powered commercial for Christmas 2025",
-            "url": "https://www.augustachronicle.com/story/news/2025/11/04/coca-cola-made-another-ai-powered-commercial-for-christmas-2025/87086472007/",
-            "urlToImage": "https://www.augustachronicle.com/gcdn/authoring/authoring-images/2025/10/26/NAUG/86919675007-dsc-3601.JPG?crop=4961,2791,x0,y911&width=3200&height=1801&format=pjpg&auto=webp",
-            "publishedAt": "2025-11-04T19:06:43Z"
-        },
-        {
-            "source": {
-                "id": "561a3089aa512f6b3827534cb81d319f",
-                "name": "Athens Banner-Herald",
-                "url": "https://www.onlineathens.com",
-                "country": "us"
-            },
-            "title": "Coca-Cola made another AI-powered commercial for Christmas 2025",
-            "url": "https://www.onlineathens.com/story/news/2025/11/04/coca-cola-made-another-ai-powered-commercial-for-christmas-2025/87086472007/",
-            "urlToImage": "https://www.onlineathens.com/gcdn/authoring/authoring-images/2025/10/26/NAUG/86919675007-dsc-3601.JPG?crop=4961,2791,x0,y911&width=3200&height=1801&format=pjpg&auto=webp",
-            "publishedAt": "2025-11-04T19:06:43Z"
-        },
-        {
-            "source": {
-                "id": "1f5fd85c5a788d4f314a1e1997ec87a0",
-                "name": "Savannah Morning News",
-                "url": "https://www.savannahnow.com",
-                "country": "us"
-            },
-            "title": "Coca-Cola made another AI-powered commercial for Christmas 2025",
-            "url": "https://www.savannahnow.com/story/news/2025/11/04/coca-cola-made-another-ai-powered-commercial-for-christmas-2025/87086472007/",
-            "urlToImage": "https://www.savannahnow.com/gcdn/authoring/authoring-images/2025/10/26/NAUG/86919675007-dsc-3601.JPG?crop=4961,2791,x0,y911&width=3200&height=1801&format=pjpg&auto=webp",
-            "publishedAt": "2025-11-04T19:06:43Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "How Bangladeshi AI educator RobinRafan is supporting digital skill development across South Asia",
-            "url": "https://timesofindia.indiatimes.com/how-bangladeshi-ai-educator-robinrafan-is-supporting-digital-skill-development-across-south-asia/articleshow/125094828.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-125094812,width-1070,height-580,imgsize-1068660,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "publishedAt": "2025-11-04T18:54:00Z"
-        },
-        {
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            },
-            "title": "GIFT city campus a ‘significant investment’: Queen’s University Pro VC",
-            "url": "https://indianexpress.com/article/cities/ahmedabad/gift-city-campus-a-significant-investment-queens-university-pro-vc-10346308/",
-            "urlToImage": "https://images.indianexpress.com/2025/11/gift-city.jpg",
-            "publishedAt": "2025-11-04T18:52:44Z"
-        },
-        {
-            "source": {
-                "id": "3989f52bbec2d3be8442e2851b59e79e",
-                "name": "CBS Sports",
-                "url": "https://www.cbssports.com",
-                "country": "us"
-            },
-            "title": "NBA player props, picks, odds: Target Devin Bookers with Tuesday NBA bets",
-            "url": "https://www.cbssports.com/nba/news/nba-player-props-picks-odds-back-devin-booker-over-3-5-rebounds-nba-betting-tuesday-nov-4/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/11/04/6fcf9857-0211-412a-908f-53b943f9905f/thumbnail/1200x675/74b323256e1119f6ea1dffdb29254786/devin-booker-rebounds-suns-cbs-imagn.jpg",
-            "publishedAt": "2025-11-04T18:48:15Z"
-        },
-        {
-            "source": {
-                "id": "c24832368cd2d9132598ad4bef08e0ab",
-                "name": "Investopedia",
-                "url": "https://www.investopedia.com",
-                "country": "us"
-            },
-            "title": "AI Could Stamp Out Inflation-And Crush the Job Market",
-            "url": "https://www.investopedia.com/is-ai-anti-inflation-11842396",
-            "urlToImage": "https://www.investopedia.com/thmb/qWGG0e1juG8JaB8nwcC3e7_xMB4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2243834887-42a7a3332d5b455f94beabdf8805e109.jpg",
-            "publishedAt": "2025-11-04T18:35:52Z"
-        },
-        {
-            "source": {
-                "id": "f5081afeaba654292dd91fffd29f9dd4",
-                "name": "The Globe and Mail",
-                "url": "https://www.theglobeandmail.com",
-                "country": "ca"
-            },
-            "title": "From tractors to ChatGPT: Lessons from agriculture on how AI will transform work",
-            "url": "https://www.theglobeandmail.com/business/economy/jobs/article-artificial-intelligence-job-market-transformation-agriculture-lessons/",
-            "urlToImage": "https://www.theglobeandmail.com/resizer/v2/K5KNQL75CFNYJGMOMGJDNUZLEM.jpg?auth=07de695babe14dcb57b8dbf2b82f2a72c6e208320a807a80e60c5a21043a0827&width=1200&height=800&quality=80&smart=true",
-            "publishedAt": "2025-11-04T18:26:43Z"
-        },
-        {
-            "source": {
-                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
-                "name": "TechStartups.com",
-                "url": "https://techstartups.com",
-                "country": "us"
-            },
-            "title": "Beacon Software raises $250M at $1B valuation to acquire and modernize Main Street businesses with AI",
-            "url": "https://techstartups.com/2025/11/04/beacon-software-raises-250m-at-1b-valuation-to-acquire-and-modernize-main-street-businesses-with-ai/",
-            "urlToImage": "https://techstartups.com/wp-content/uploads/2025/11/Beacon-Software-Founder-and-CEO.jpg",
-            "publishedAt": "2025-11-04T18:05:47Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Amazon Demands Perplexity Stop AI Agent From Making Purchases",
-            "url": "https://www.bloomberg.com/news/articles/2025-11-04/amazon-demands-perplexity-stop-ai-agent-from-making-purchases",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixtPkBZu0VsQ/v1/1200x864.jpg",
-            "publishedAt": "2025-11-04T18:00:14Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Anthropic Eyes $70 Billion in Revenue by 2028",
-            "url": "https://www.marketscreener.com/news/anthropic-eyes-70-billion-in-revenue-by-2028-ce7d5cdfdd88f423",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2025-11-04T17:50:38Z"
-        },
-        {
-            "source": {
-                "id": "8500efae8310099b1bcee1ef95a0434e",
-                "name": "KABC-TV",
-                "url": "https://abc7.com",
-                "country": "us"
-            },
-            "title": "OpenAI and Amazon sign $38B deal for AI computing power",
-            "url": "https://abc7.com/post/openai-amazon-sign-38-billion-deal-ai-computing-power/18112437/",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/18112499_AP25293436636437.jpg?w=1600",
-            "publishedAt": "2025-11-04T17:39:44Z"
-        },
-        {
-            "source": {
-                "id": "628299239469ffa8b7dbb809aabbcc2e",
-                "name": "Analytics India Magazine",
-                "url": "https://analyticsindiamag.com",
-                "country": "in"
-            },
-            "title": "Google Is Sending Its TPUs to Space to Build Solar-Powered Data Centres",
-            "url": "https://analyticsindiamag.com/ai-news-updates/google-is-sending-its-tpus-to-space-to-build-solar-powered-data-centres/",
-            "urlToImage": "https://analyticsindiamag.com/wp-content/uploads/2022/04/SundarPichai_AIM.jpeg",
-            "publishedAt": "2025-11-04T17:35:28Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "How AI Is Reshaping Careers - and the Skills We Need to Survive",
-            "url": "https://techbullion.com/how-ai-is-reshaping-careers-and-the-skills-we-need-to-survive/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/11/2323-1000x600.png",
-            "publishedAt": "2025-11-04T17:32:42Z"
-        },
-        {
-            "source": {
-                "id": "151292b021d31d91d452f04b0b225727",
-                "name": "9to5Google",
-                "url": "https://9to5google.com",
-                "country": "us"
-            },
-            "title": "Next Google moonshot puts TPUs in space with Project Suncatcher",
-            "url": "https://9to5google.com/2025/11/04/google-project-suncatcher/",
-            "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/Google-Project-Suncatcher.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2025-11-04T17:31:16Z"
         }
     ]
 }
