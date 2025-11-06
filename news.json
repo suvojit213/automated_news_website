@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2025-11-06T07:15:26.056834Z",
+    "lastUpdatedAt": "2025-11-06T08:21:58.991084Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "'Neocloud' Crusoe nears stock sale for employees at $13 billion valuation, The Information reports",
+            "url": "https://www.reuters.com/business/neocloud-crusoe-nears-stock-sale-employees-13-billion-valuation-information-2025-11-05/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-11-05T20:09:57Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "'Neocloud' Crusoe nears stock sale for employees at $13 billion valuation, The Information reports",
+            "url": "https://www.marketscreener.com/news/neocloud-crusoe-nears-stock-sale-for-employees-at-13-billion-valuation-the-information-reports-ce7d5cdddb88f022",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2025-11-05T20:07:16Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "OpenAI CFO Says Bubble-Wary Market Needs More AI ‘Exuberance’",
+            "url": "https://www.bloomberg.com/news/articles/2025-11-05/openai-cfo-says-bubble-wary-market-needs-more-ai-exuberance",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGKqIB755Pns/v1/1200x800.jpg",
+            "publishedAt": "2025-11-05T19:54:14Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "AI in Macro Trading: Why Human Judgment Still Anchors Emerging Market Risk Management",
+            "url": "https://techbullion.com/ai-in-macro-trading-why-human-judgment-still-anchors-emerging-market-risk-management/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-05-at-22.57.19_5e3c5959.jpg",
+            "publishedAt": "2025-11-05T19:49:15Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "After Amazon and Meta, IBM to layoff 2700 people - experts say more tech sackings will happen this year",
+            "url": "https://economictimes.indiatimes.com/news/international/us/ibm-layoffs-2700-people-after-amazon-and-meta-job-cuts-experts-say-more-tech-sackings-will-happen-this-year/articleshow/125115257.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-125115271,width-1200,height-630,imgsize-96360,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-11-05T19:36:00Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Apple to Use Google's 1.2 Trillion Parameter AI Model for New Siri",
+            "url": "https://www.marketscreener.com/news/apple-to-use-google-s-1-2-trillion-parameter-ai-model-for-new-siri-ce7d5cdddb89f726",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2025-11-05T19:25:11Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Apple to use Google's AI model to run new Siri, Bloomberg News reports",
+            "url": "https://www.marketscreener.com/news/apple-to-use-google-s-ai-model-to-run-new-siri-bloomberg-news-reports-ce7d5cddd880f225",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2025-11-05T19:20:23Z"
+        },
         {
             "source": {
                 "id": "7006f2c40c7cc01195608dbfd60259b3",
@@ -1971,6 +2055,87 @@
         },
         {
             "source": {
+                "name": "theverge"
+            },
+            "title": "Apple is planning to use a custom version of Google Gemini for Apple Intelligence",
+            "url": "https://www.theverge.com/news/814654/apple-intelligence-google-gemini-ai-siri",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK071_APPLE_A.jpg?crop=0%2C10.732984293194%2C100%2C78.534031413613&quality=90&strip=all&w=1200",
+            "publishedAt": "2025-11-05 20:12:33"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "AI’s Spatial Revolution: Search Evolves in 2025",
+            "url": "https://www.webpronews.com/ais-spatial-revolution-search-evolves-in-2025/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-507-1762373324.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-11-05 20:08:49"
+        },
+        {
+            "source": {
+                "name": "digitaltrends"
+            },
+            "title": "Research shows even average users can break past AI safety within Gemini and ChatGPT",
+            "url": "https://www.digitaltrends.com/computing/research-shows-even-average-users-can-break-past-ai-safety-within-gemini-and-chatgpt/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/11/average-users-break-past-ai-safety-gemini-chatgpt.jpg?p=1&resize=1200%2C630",
+            "publishedAt": "2025-11-05 20:06:24"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Japan’s iPhone Revolution: Third-Party App Stores Arrive in iOS 26.2",
+            "url": "https://www.webpronews.com/japans-iphone-revolution-third-party-app-stores-arrive-in-ios-26-2/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-504-1762373158.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-11-05 20:06:02"
+        },
+        {
+            "source": {
+                "name": "arstechnica"
+            },
+            "title": "New quantum computing hardware sorts ions for computation",
+            "url": "https://arstechnica.com/science/2025/11/new-quantum-computing-hardware-sorts-ions-for-computation/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/helios-chip_top-1152x648.jpg",
+            "publishedAt": "2025-11-05 20:00:26"
+        },
+        {
+            "source": {
+                "name": "santafenewmexican"
+            },
+            "title": "Goblins AI math tutoring app clones your teacher’s looks and voice",
+            "url": "https://www.santafenewmexican.com/life/features/goblins-ai-math-tutoring-app-clones-your-teacher-s-looks-and-voice/article_880bfd0e-8b5e-52c6-83da-f398da6fd6be.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/santafenewmexican.com/content/tncms/assets/v3/editorial/4/9f/49f0f5ff-6c36-5fb5-8b94-50578df7336c/690bb3d43b13b.image.jpg?resize=300%2C169",
+            "publishedAt": "2025-11-05 19:30:06"
+        },
+        {
+            "source": {
+                "name": "dailygazette"
+            },
+            "title": "Goblins AI math tutoring app clones your teacher’s looks and voice",
+            "url": "https://www.dailygazette.com/life_and_arts/stacker/goblins-ai-math-tutoring-app-clones-your-teacher-s-looks-and-voice/article_1a5a8309-45a8-50ab-b6db-a68059f28db8.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/dailygazette.com/content/tncms/assets/v3/editorial/f/8b/f8bf2fbf-3b33-5a61-8f1d-62ca6e496bff/690bb3e746b9f.image.jpg?resize=300%2C169",
+            "publishedAt": "2025-11-05 19:30:06"
+        },
+        {
+            "source": {
+                "name": "t_g"
+            },
+            "title": "Goblins AI math tutoring app clones your teacher’s looks and voice",
+            "url": "http://shelbyville.staging.communityq.com/premium/stacker/stories/goblins-ai-math-tutoring-app-clones-your-teacherrsquos-looks-and-voice,192622",
+            "urlToImage": "https://images.stacker.com/s/720/1280/images/stories/2025/11/05/the-74-goblins-ai-math-2.jpg",
+            "publishedAt": "2025-11-05 19:30:06"
+        },
+        {
+            "source": {
+                "name": "fortune"
+            },
+            "title": "Bank of America prioritizes bigger AI initiatives, as annual spending on new tech increased by 44% over the past decade",
+            "url": "https://fortune.com/2025/11/05/bank-of-america-prioritizes-bigger-ai-initiatives-as-annual-spending-on-new-tech-increased-by-44-over-the-past-decade/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/11/Profile-HariGopalkrishnan-2025.jpg?w=2048",
+            "publishedAt": "2025-11-05 19:30:06"
+        },
+        {
+            "source": {
                 "name": "english_jagran"
             },
             "title": "Samsung Galaxy XR Headset Could Get Global Launch In 2026",
@@ -3048,162 +3213,6 @@
             "url": "https://www.androidheadlines.com/2025/11/amazon-blocks-perplexity-comet-ai-browser-agentic-shopping-legal-threat.html",
             "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2024/01/AH-Amazon-Logo-2-jpg.webp",
             "publishedAt": "2025-11-05 01:29:19"
-        },
-        {
-            "source": {
-                "name": "newswise"
-            },
-            "title": "Argonne-Led Q-NEXT Quantum Center Renewed for Five Years",
-            "url": "https://www.newswise.com/articles/argonne-led-q-next-quantum-center-renewed-for-five-years/?sc=rssn",
-            "urlToImage": "https://www.newswise.com/legacy/image.php?height=334&image=%2Fimages%2Fuploads%2F2025%2F11%2F04%2F690a4452a2b0a_nazar.delegan.33448D0927CPAQuantumFoundryWEB.1080x1920.png&time=08%3A40%3A57pm&width=502",
-            "publishedAt": "2025-11-05 01:23:50"
-        },
-        {
-            "source": {
-                "name": "menafn"
-            },
-            "title": "Google Successfully Tests AI Chips For Space, Faces Cooling Challenges",
-            "url": "https://menafn.com/1110296905/Google-Successfully-Tests-AI-Chips-For-Space-Faces-Cooling-Challenges",
-            "urlToImage": "https://menafn.com/updates/pr/2025-11/05/AN_98765image_story.jpg",
-            "publishedAt": "2025-11-05 01:14:52"
-        },
-        {
-            "source": {
-                "name": "startupnews"
-            },
-            "title": "The World’s Tallest Chip Defies the Limits of Computing: Goodbye To Moore’s Law?",
-            "url": "https://startupnews.fyi/2025/11/05/the-worlds-tallest-chip-defies-the-limits-of-computing-goodbye-to-moores-law/",
-            "urlToImage": "https://i2.wp.com/a.fsdn.com/sd/topics/hardware_64.png?resize=1920%2C0&ssl=1&w=1920",
-            "publishedAt": "2025-11-05 01:04:03"
-        },
-        {
-            "source": {
-                "name": "prnewswire_apac"
-            },
-            "title": "DEEPX Unveils 'Physical AI' Vision at World Economic Forum",
-            "url": "https://www.prnewswire.com/apac/news-releases/deepx-unveils-physical-ai-vision-at-world-economic-forum-302603797.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2812987/image.jpg?p=original",
-            "publishedAt": "2025-11-05 01:00:00"
-        },
-        {
-            "source": {
-                "name": "en_prnasisa"
-            },
-            "title": "DEEPX Unveils 'Physical AI' Vision at World Economic Forum",
-            "url": "https://en.prnasia.com/story/510150-0.shtml",
-            "urlToImage": "https://mma.prnasia.com/media2/2812987/image.jpg?p=medium600",
-            "publishedAt": "2025-11-05 01:00:00"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "TSMC’s Looming Price Shock: Brace for Costlier CPUs and GPUs in 2026",
-            "url": "https://www.webpronews.com/tsmcs-looming-price-shock-brace-for-costlier-cpus-and-gpus-in-2026/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-452-1762304207.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-11-05 00:56:52"
-        },
-        {
-            "source": {
-                "name": "newindianexpress"
-            },
-            "title": "The man who gave us the Web, and never claimed it",
-            "url": "https://www.newindianexpress.com/cities/bengaluru/2025/Nov/05/the-man-who-gave-us-the-web-and-never-claimed-it-2",
-            "urlToImage": "https://media.newindianexpress.com/newindianexpress/2025-11-04/24dta1ms/UNNAMED-1060917.JPG",
-            "publishedAt": "2025-11-05 00:30:00"
-        },
-        {
-            "source": {
-                "name": "headtopics"
-            },
-            "title": "Microsoft’s new AI image maker is live, and early testers are loving it",
-            "url": "https://us.headtopics.com/news/microsoft-s-new-ai-image-maker-is-live-and-early-testers-75365968",
-            "urlToImage": "https://i.headtopics.com/images/2025/11/3/ap/microsoft-enters-approximately-9-7b-contract-with--microsoft-enters-approximately-9-7b-contract-with--209F21EF0D86F61F936BD7A1AF46A6B8.webp?w=640",
-            "publishedAt": "2025-11-05 00:10:44"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "StyleGAN’s Shadow: How a 2019 Breakthrough Fuels 2025’s AI Image Revolution",
-            "url": "https://www.webpronews.com/stylegans-shadow-how-a-2019-breakthrough-fuels-2025s-ai-image-revolution/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-443-1762301266.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-11-05 00:07:50"
-        },
-        {
-            "source": {
-                "name": "financialcontent"
-            },
-            "title": "Opinion: This Is the Biggest Bubble on Wall Street Right Now -- and I'm Not Talking About Artificial Intelligence (AI)",
-            "url": "https://www.fool.com/investing/2025/11/05/the-biggest-bubble-on-wall-street-right-now-not-ai/",
-            "urlToImage": "https://g.foolcdn.com/editorial/images/840718/nyse-floor-trader-invest-buy-sell-options-stock-exchange-getty.png",
-            "publishedAt": "2025-11-05 00:00:00"
-        },
-        {
-            "source": {
-                "name": "financialcontent"
-            },
-            "title": "'Great Idea Lol,' Says Elon Musk As Sundar Pichai Reveals Plan To Launch Google's AI Data Center Into Space",
-            "url": "https://www.benzinga.com/markets/tech/25/11/48645977/great-idea-lol-says-elon-musk-as-sundar-pichai-reveals-plan-to-launch-googles-ai-data-center-into-sp",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/11/05/Elon-Musk--founder-and-CEO-and-of-SpaceX.jpeg?fit=crop&height=800&width=1200",
-            "publishedAt": "2025-11-05 00:00:00"
-        },
-        {
-            "source": {
-                "name": "financialcontent"
-            },
-            "title": "Xpeng Fires Up Tesla Rivalry With 2026 Robotaxi Lineup Reveal As China’s EV Sector Faces Mounting Heat",
-            "url": "https://stocktwits.com/news-articles/markets/equity/xpeng-fires-up-tesla-rivalry-with-2026-robotaxi-lineup-reveal-as-china-s-ev-sector-faces-mounting-heat/cL2qXzfREG9",
-            "urlToImage": "https://news.stocktwits-cdn.com/large_xpeng_tesla_jpg_f07bd782e4.webp",
-            "publishedAt": "2025-11-05 00:00:00"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "India-Israel sign pact on AI, defence, cybersecurity",
-            "url": "https://timesofindia.indiatimes.com/india/india-israel-sign-pact-on-ai-defence-cybersecurity/articleshow/125098752.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-125098753,width-1070,height-580,imgsize-18068,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "publishedAt": "2025-11-04T23:04:00Z"
-        },
-        {
-            "source": {
-                "id": "28bc60a23a7bf89e60f893506992a3fe",
-                "name": "Daily Excelsior",
-                "url": "https://www.dailyexcelsior.com",
-                "country": "in"
-            },
-            "title": "Most Govt schools still without internet, computer facilities",
-            "url": "https://www.dailyexcelsior.com/most-govt-schools-still-without-internet-computer-facilities/",
-            "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2025/11/COMPUTERSS.jpg",
-            "publishedAt": "2025-11-04T22:37:31Z"
-        },
-        {
-            "source": {
-                "id": "2492bcb79914b2ce3d9867453dae22ac",
-                "name": "Financial Post",
-                "url": "https://financialpost.com",
-                "country": "ca"
-            },
-            "title": "AMD's Outlook Fails to Wow Investors After AI-Fueled Rally",
-            "url": "https://financialpost.com/pmn/business-pmn/amds-outlook-fails-to-wow-investors-after-ai-fueled-rally",
-            "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/11/776396900.jpg",
-            "publishedAt": "2025-11-04T22:01:27Z"
-        },
-        {
-            "source": {
-                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
-                "name": "TechStartups.com",
-                "url": "https://techstartups.com",
-                "country": "us"
-            },
-            "title": "Daylight raises $33M from Craft Ventures to redefine cyber defense with agentic AI",
-            "url": "https://techstartups.com/2025/11/04/daylight-raises-33m-from-craft-ventures-to-redefine-cyber-defense-with-agentic-ai/",
-            "urlToImage": "https://techstartups.com/wp-content/uploads/2025/11/DayLight-Founders.jpg",
-            "publishedAt": "2025-11-04T21:53:17Z"
         }
     ]
 }
