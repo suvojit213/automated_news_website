@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2025-11-06T16:21:12.637598Z",
+    "lastUpdatedAt": "2025-11-06T17:15:41.890378Z",
     "articles": [
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Kyndryl : Delsey chooses Kyndryl to validate its cybersecurity strategy through an external intrusion campaign",
+            "url": "https://www.marketscreener.com/news/kyndryl-delsey-chooses-kyndryl-to-validate-its-cybersecurity-strategy-through-an-external-intrusio-ce7d5cdddf8cf426",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2025-11-06T05:03:06Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Agoda Releases AI Developer Report 2025: How Engineers Work with AI Across Southeast Asia and India",
+            "url": "https://www.tribuneindia.com/news/business/agoda-releases-ai-developer-report-2025-how-engineers-work-with-ai-across-southeast-asia-and-india/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTgzYjkzMzYwLWJhY2QtMTFmMC1iMDY0LWVkNWUyYTYzNDljNy5qcGc=",
+            "publishedAt": "2025-11-06T05:00:23Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Eyes turn to space to feed power-hungry data centres",
+            "url": "https://www.thestar.com.my/tech/tech-news/2025/11/06/eyes-turn-to-space-to-feed-power-hungry-data-centres",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/06/3608405.JPG",
+            "publishedAt": "2025-11-06T05:00:00Z"
+        },
+        {
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            },
+            "title": "Agoda Releases AI Developer Report 2025: How Engineers Work with AI Across Southeast Asia and India",
+            "url": "https://www.lokmattimes.com/business/agoda-releases-ai-developer-report-2025-how-engineers-work-with-ai-across-southeast-asia-and-india/",
+            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20251106045729_202511.jpg",
+            "publishedAt": "2025-11-06T04:59:08Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "The AI Bubble Has Sucked in France and Germany, Too",
+            "url": "https://www.bloomberg.com/opinion/articles/2025-11-06/ai-bubble-has-sucked-in-legrand-schneider-siemens-and-abb",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipbx4izZLIoY/v1/1200x800.jpg",
+            "publishedAt": "2025-11-06T04:30:05Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "​AI-driven experiences will soon be a business necessity, says Ankur Tiwari",
+            "url": "https://timesofindia.indiatimes.com/city/pune/ai-driven-experiences-will-soon-be-a-business-necessity-says-ankur-tiwari/articleshow/125122847.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-125122842,width-1070,height-580,imgsize-72886,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-11-06T04:26:00Z"
+        },
         {
             "source": {
                 "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
@@ -264,6 +336,96 @@
             "url": "https://www.globenewswire.com/news-release/2025/11/06/3182741/0/en/2026-Cybersecurity-Forecast-The-Expanding-Attack-Surface.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/b0459444-11e2-4ca6-b41a-569c17840ff3",
             "publishedAt": "2025-11-06T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "The Serenity Protocol: Can Emotional Stability Be Engineered?",
+            "url": "https://hackernoon.com/the-serenity-protocol-can-emotional-stability-be-engineered",
+            "urlToImage": "https://hackernoon.imgix.net/images/ck9aWgppGnSkOUefHHyhtvzjnJk1-u0037sb.png",
+            "publishedAt": "2025-11-06 05:14:54"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Tf2cdk – Convert Terraform to AWS CDK (Not Cdktf)",
+            "url": "https://hackernoon.com/tf2cdk-convert-terraform-to-aws-cdk-not-cdktf",
+            "urlToImage": "https://hackernoon.imgix.net/images/2jqChkrv03exBUgkLrDzIbfM99q2-a7023sy.jpeg",
+            "publishedAt": "2025-11-06 05:05:51"
+        },
+        {
+            "source": {
+                "name": "jdnews"
+            },
+            "title": "Pony.ai Lists on HKEX, Ushering in a New Era of Scaled Commercialization in Autonomous Driving",
+            "url": "https://www.jdnews.com/online_features/press_releases/pony-ai-lists-on-hkex-ushering-in-a-new-era-of-scaled-commercialization-in-autonomous/article_7e599702-5d44-5d48-b08e-c96ab3821a63.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/jdnews.com/content/tncms/custom/image/a7128d8a-977f-11ed-8535-ef1f4ff57fb7.png?resize=600%2C315",
+            "publishedAt": "2025-11-06 05:01:00"
+        },
+        {
+            "source": {
+                "name": "dailytimesleader"
+            },
+            "title": "Pony.ai Lists on HKEX, Ushering in a New Era of Scaled Commercialization in Autonomous Driving",
+            "url": "https://www.dailytimesleader.com/online_features/press_releases/pony-ai-lists-on-hkex-ushering-in-a-new-era-of-scaled-commercialization-in-autonomous/article_a0205398-7f4d-5c2c-9c5b-0ef0fd1a8806.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/dailytimesleader.com/content/tncms/custom/image/fb7d238c-4144-11eb-bb03-e3fe9f853d1e.jpg?resize=600%2C315",
+            "publishedAt": "2025-11-06 05:01:00"
+        },
+        {
+            "source": {
+                "name": "starkvilledailynews"
+            },
+            "title": "Pony.ai Lists on HKEX, Ushering in a New Era of Scaled Commercialization in Autonomous Driving",
+            "url": "https://www.starkvilledailynews.com/online_features/press_releases/pony-ai-lists-on-hkex-ushering-in-a-new-era-of-scaled-commercialization-in-autonomous/article_e16e0fd8-a9f5-5545-ad6c-9d7369fdf083.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/starkvilledailynews.com/content/tncms/custom/image/90aa229c-d3a7-11e8-8cc9-13ed478fa184.jpg?resize=200%2C200",
+            "publishedAt": "2025-11-06 05:01:00"
+        },
+        {
+            "source": {
+                "name": "decaturdailydemocrat"
+            },
+            "title": "Pony.ai Lists on HKEX, Ushering in a New Era of Scaled Commercialization in Autonomous Driving",
+            "url": "https://www.decaturdailydemocrat.com/online_features/press_releases/pony-ai-lists-on-hkex-ushering-in-a-new-era-of-scaled-commercialization-in-autonomous/article_c8398a60-2298-5795-b649-d044b8cd1caf.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/decaturdailydemocrat.com/content/tncms/custom/image/aeb4ef48-6666-11eb-bb03-ab9624af0e8f.jpg?resize=600%2C315",
+            "publishedAt": "2025-11-06 05:01:00"
+        },
+        {
+            "source": {
+                "name": "clevelandbanner"
+            },
+            "title": "Pony.ai Lists on HKEX, Ushering in a New Era of Scaled Commercialization in Autonomous Driving",
+            "url": "https://www.clevelandbanner.com/online_features/press_releases/pony-ai-lists-on-hkex-ushering-in-a-new-era-of-scaled-commercialization-in-autonomous/article_c9787cc0-91a7-511e-9bb1-ecaf0b0c05e0.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/clevelandbanner.com/content/tncms/custom/image/0e3c00be-edb5-11ed-9099-87b204b2b6da.png?resize=600%2C315",
+            "publishedAt": "2025-11-06 05:01:00"
+        },
+        {
+            "source": {
+                "name": "timesnews"
+            },
+            "title": "Pony.ai Lists on HKEX, Ushering in a New Era of Scaled Commercialization in Autonomous Driving",
+            "url": "https://www.timesnews.net/online_features/press_releases/pony-ai-lists-on-hkex-ushering-in-a-new-era-of-scaled-commercialization-in-autonomous/article_03923a0b-a5b5-5756-bb09-abf8849eb339.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/timesnews.net/content/tncms/custom/image/f5f37b38-b69a-11ec-bb13-ebe7656ef377.jpg?resize=600%2C600",
+            "publishedAt": "2025-11-06 05:01:00"
+        },
+        {
+            "source": {
+                "name": "samessenger"
+            },
+            "title": "Pony.ai Lists on HKEX, Ushering in a New Era of Scaled Commercialization in Autonomous Driving",
+            "url": "https://www.samessenger.com/online_features/press_releases/pony-ai-lists-on-hkex-ushering-in-a-new-era-of-scaled-commercialization-in-autonomous/article_cda8d533-9505-53de-b938-9e62faa2c776.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/samessenger.com/content/tncms/custom/image/c22d8dfa-aa47-11e9-a8d3-9bbaca443e42.png?resize=600%2C315",
+            "publishedAt": "2025-11-06 05:01:00"
+        },
+        {
+            "source": {
+                "name": "journal_news"
+            },
+            "title": "Pony.ai Lists on HKEX, Ushering in a New Era of Scaled Commercialization in Autonomous Driving",
+            "url": "https://www.journal-news.net/online_features/press_releases/pony-ai-lists-on-hkex-ushering-in-a-new-era-of-scaled-commercialization-in-autonomous/article_a4775018-a975-5f56-a94c-9fcfa6b2454b.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/journal-news.net/content/tncms/custom/image/3d1380e4-c027-11e8-a4dd-bb1ef9d5adc9.png?resize=600%2C315",
+            "publishedAt": "2025-11-06 05:01:00"
         },
         {
             "source": {
@@ -3237,150 +3399,6 @@
             "url": "https://fortune.com/2025/11/05/bank-of-america-prioritizes-bigger-ai-initiatives-as-annual-spending-on-new-tech-increased-by-44-over-the-past-decade/",
             "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/11/Profile-HariGopalkrishnan-2025.jpg?w=2048",
             "publishedAt": "2025-11-05 19:30:06"
-        },
-        {
-            "source": {
-                "name": "english_jagran"
-            },
-            "title": "Samsung Galaxy XR Headset Could Get Global Launch In 2026",
-            "url": "https://www.thedailyjagran.com/technology/samsung-galaxy-xr-headset-could-get-global-launch-in2026-10278044",
-            "urlToImage": "https://imgeng.jagran.com/images/2025/10/22/article/image/Samsung-Galaxy-XR_Reuters-1761133702692_v.webp",
-            "publishedAt": "2025-11-05 19:13:27"
-        },
-        {
-            "source": {
-                "name": "thelincolnianonline"
-            },
-            "title": "Top Blockchain Stocks To Consider – November 5th",
-            "url": "https://www.thelincolnianonline.com/2025/11/05/top-blockchain-stocks-to-consider-november-5th.html",
-            "urlToImage": "https://www.marketbeat.com/logos/core-scientific-inc-logo-1200x675.jpg?v=20220224081413",
-            "publishedAt": "2025-11-05 19:13:04"
-        },
-        {
-            "source": {
-                "name": "ieee_spectrum"
-            },
-            "title": "Discover’s Data Manager Helps Foil Credit Card Fraudsters",
-            "url": "https://spectrum.ieee.org/discover-manager-credit-card-fraud",
-            "urlToImage": "https://spectrum.ieee.org/media-library/pankaj-gupta-slightly-smiling-while-seated-at-his-desk-in-a-suit-jacket.jpg?id=62063107&width=980",
-            "publishedAt": "2025-11-05 19:00:03"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Falling Into Smarter Writing: Chowa Widgets, AI Feedback, and More Launches",
-            "url": "https://hackernoon.com/falling-into-smarter-writing-chowa-widgets-ai-feedback-and-more-launches",
-            "urlToImage": "https://hackernoon.imgix.net/images/zhLunuihpBhk4IjuH4amrounSwE2-z703bro.png",
-            "publishedAt": "2025-11-05 19:00:01"
-        },
-        {
-            "source": {
-                "name": "english_jagran"
-            },
-            "title": "Affordable MacBook Could Mark Apple’s Biggest Strategy Shift Yet",
-            "url": "https://www.thedailyjagran.com/technology/affordable-macbook-could-mark-apples-biggest-strategy-shift-yet-10278041",
-            "urlToImage": "https://imgeng.jagran.com/images/2025/10/15/article/image/macbookprom5-1760539952827_v.webp",
-            "publishedAt": "2025-11-05 18:49:17"
-        },
-        {
-            "source": {
-                "name": "dallasinnovates"
-            },
-            "title": "Monolithic 3D’s Multilayer Semiconductor Device Production Method and More North Texas Inventive Activity",
-            "url": "https://s24806.pcdn.co/monolithic-3ds-multilayer-semiconductor-device-production-method-and-more-north-texas-inventive-activity/",
-            "urlToImage": "https://s24806.pcdn.co/wp-content/uploads/2025/11/Patents-110525-Monolithic-970.jpg",
-            "publishedAt": "2025-11-05 18:32:07"
-        },
-        {
-            "source": {
-                "name": "thelincolnianonline"
-            },
-            "title": "Head to Head Contrast: Exro Technologies (OTCMKTS:EXROF) vs. SMC (OTCMKTS:SMCAY)",
-            "url": "https://www.thelincolnianonline.com/2025/11/05/head-to-head-contrast-exro-technologies-otcmktsexrof-vs-smc-otcmktssmcay.html",
-            "urlToImage": "https://www.marketbeat.com/logos/exro-technologies-inc-logo-1200x675.png?v=20240611082853",
-            "publishedAt": "2025-11-05 18:30:22"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Cooling AI’s Inferno: How Metal Stacks Are Revolutionizing Data Center Heat",
-            "url": "https://www.webpronews.com/cooling-ais-inferno-how-metal-stacks-are-revolutionizing-data-center-heat/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-485-1762366091.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-11-05 18:08:15"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Xpeng’s Robot Revolution: Mass-Producing Humanoids by 2026",
-            "url": "https://www.webpronews.com/xpengs-robot-revolution-mass-producing-humanoids-by-2026/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-484-1762366039.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-11-05 18:07:23"
-        },
-        {
-            "source": {
-                "name": "hackaday"
-            },
-            "title": "The Deadliest US Nuclear Accident is Not What You Think",
-            "url": "https://hackaday.com/2025/11/05/the-deadliest-us-nuclear-accident-is-not-what-you-think/",
-            "urlToImage": "https://hackaday.com/wp-content/uploads/2023/01/NuclearFuel.jpg",
-            "publishedAt": "2025-11-05 18:00:51"
-        },
-        {
-            "source": {
-                "name": "xda_developers"
-            },
-            "title": "I don’t need a laptop or a desktop tower... mini PCs are just the right fit",
-            "url": "https://www.xda-developers.com/mini-pcs-are-just-the-right-fit/",
-            "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/09/bosgame-m5-controller-on-top.jpg",
-            "publishedAt": "2025-11-05 18:00:19"
-        },
-        {
-            "source": {
-                "name": "fortune"
-            },
-            "title": "The under-the-radar factor that helped Democrats win in Virginia, New Jersey, and Georgia",
-            "url": "https://fortune.com/2025/11/05/elections-ai-data-centers-politics-democrats-republicans-virginia-new-jersey-georgia/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2190952787-e1762365188760.jpg?w=2048",
-            "publishedAt": "2025-11-05 17:59:32"
-        },
-        {
-            "source": {
-                "name": "in_mashable"
-            },
-            "title": "NASA’s High-Resolution Picture Of 3I/ATLAS Leaked? As Internet Debates Alien Origin, Here’s The Truth",
-            "url": "https://in.mashable.com/science/102064/nasas-high-resolution-picture-of-3iatlas-leaked-as-internet-debates-alien-origin-heres-the-truth",
-            "urlToImage": "https://sm.mashable.com/mashable_in/photo/default/00-aa-art-cover-new-2025-11-05t111852476-1-1_g45c.jpg",
-            "publishedAt": "2025-11-05 17:56:15"
-        },
-        {
-            "source": {
-                "name": "stanford"
-            },
-            "title": "Diamonds and Lasers: Thermal Management for Chips",
-            "url": "https://engineering.stanford.edu/news/chips-need-chill-out",
-            "urlToImage": "https://spectrum.ieee.org/media-library/image.png?coordinates=0%2C105%2C0%2C106&height=600&id=61952496&width=1200",
-            "publishedAt": "2025-11-05 17:53:00"
-        },
-        {
-            "source": {
-                "name": "techxplore"
-            },
-            "title": "Novel memristor wafer integration technology paves the way for brain-like AI chips",
-            "url": "https://techxplore.com/news/2025-11-memristor-wafer-technology-paves-brain.html",
-            "urlToImage": "https://scx1.b-cdn.net/csz/news/tmb/2025/new-memristor-wafer-in.jpg",
-            "publishedAt": "2025-11-05 17:46:53"
-        },
-        {
-            "source": {
-                "name": "techxplore"
-            },
-            "title": "'Living metal' could bridge biological and electronic systems",
-            "url": "https://techxplore.com/news/2025-11-metal-bridge-biological-electronic.html",
-            "urlToImage": "https://scx1.b-cdn.net/csz/news/tmb/2025/living-metal-could-bri.jpg",
-            "publishedAt": "2025-11-05 17:44:03"
         }
     ]
 }
