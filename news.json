@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2025-11-07T04:18:32.151022Z",
+    "lastUpdatedAt": "2025-11-07T05:16:13.689393Z",
     "articles": [
+        {
+            "source": {
+                "id": "d86acd5a472cad336b1f19dca3331ef5",
+                "name": "M Live Michigan ",
+                "url": "https://www.mlive.com",
+                "country": "us"
+            },
+            "title": "Cybersecurity center for 13 West Michigan school districts will yield $2M savings",
+            "url": "https://www.mlive.com/news/grand-rapids/2025/11/cybersecurity-center-for-13-west-michigan-school-districts-will-yield-2m-savings.html",
+            "urlToImage": "https://www.mlive.com/resizer/v2/A7UPF7IRGREL5KIDUYFD3SEQMQ.jpg?auth=670beb2f7466cef61ec6c74762415e907633afd293c3ef3206d39f5b16f26be1&width=1280&smart=true&quality=90",
+            "publishedAt": "2025-11-06T16:50:07Z"
+        },
+        {
+            "source": {
+                "id": "2868e31f7a791b3a2bcc807e4cc74f2c",
+                "name": "USA Herald",
+                "url": "https://usaherald.com",
+                "country": "us"
+            },
+            "title": "Google’s $32B Wiz Deal Clears DOJ Review",
+            "url": "https://usaherald.com/googles-32b-wiz-deal-clears-doj-review/",
+            "urlToImage": "https://usaherald.com/wp-content/uploads/2017/09/usa_favicon32.png",
+            "publishedAt": "2025-11-06T16:40:06Z"
+        },
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "Datadog's stock soars 20% on revenue beat, strong forecast",
+            "url": "https://www.cnbc.com/2025/11/06/datadogs-ddog-stock-earnings.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108094154-1738167464226-gettyimages-1771039402-omarques_08112023_ILLUS_PHONE_tech-12.jpeg?v=1762442735&w=1920&h=1080",
+            "publishedAt": "2025-11-06T16:34:02Z"
+        },
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "OpenAI CFO Sarah Friar says company is not seeking government backstop",
+            "url": "https://www.cnbc.com/2025/11/06/openai-cfo-sarah-friar-says-company-is-not-seeking-government-backstop.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108188498-1755694394560-SG-Friar-03.jpg?v=1755694558&w=1920&h=1080",
+            "publishedAt": "2025-11-06T16:28:45Z"
+        },
+        {
+            "source": {
+                "id": "d5a02d07558c5563d72576efc406e608",
+                "name": "ABC17News.com",
+                "url": "https://abc17news.com",
+                "country": "us"
+            },
+            "title": "‘Vibe coding’ named Collins Dictionary’s Word of the Year",
+            "url": "https://abc17news.com/money/cnn-business-consumer/2025/11/06/vibe-coding-named-collins-dictionarys-word-of-the-year/",
+            "urlToImage": "https://abc17news.b-cdn.net/abc17news.com/2025/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWhuZGhoeWIwMDA0MzU2bm1uaGI5Znh0-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtaG5kZ3pjOTAwNm0yNnA5Zm1vcmN1dWY-860x552.jpg",
+            "publishedAt": "2025-11-06T16:26:07Z"
+        },
+        {
+            "source": {
+                "id": "26269dbc42635df9af8c24f3cdab8e37",
+                "name": "Cable News Network",
+                "url": "https://edition.cnn.com",
+                "country": "us"
+            },
+            "title": "‘Vibe coding’ named Collins Dictionary’s Word of the Year",
+            "url": "https://edition.cnn.com/2025/11/06/tech/vibe-coding-collins-word-year-scli-intl",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24220600793154.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2025-11-06T16:26:07Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "US Companies to Boost Their Borrowing in 2026, Wells Fargo Says",
+            "url": "https://www.bloomberg.com/news/articles/2025-11-06/us-companies-to-boost-their-borrowing-in-2026-wells-fargo-says",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/id0_frBhoqcM/v1/1200x800.jpg",
+            "publishedAt": "2025-11-06T16:23:19Z"
+        },
         {
             "source": {
                 "id": "eaeeaeaa1e329f65d3a921c9c867fd7b",
@@ -1683,6 +1767,96 @@
         },
         {
             "source": {
+                "name": "macworld"
+            },
+            "title": "Apple TV’s new glassy intro wasn’t created on a Mac",
+            "url": "https://www.macworld.com/article/2964562/apple-tvs-new-glassy-intro-wasnt-created-on-a-mac.html",
+            "urlToImage": "https://www.macworld.com/wp-content/uploads/2025/11/ad-age-apple-tv-branding.jpg?quality=50&strip=all&w=1024",
+            "publishedAt": "2025-11-06 17:08:21"
+        },
+        {
+            "source": {
+                "name": "postregister"
+            },
+            "title": "Terminal Industries Recognized in the 2025 Gartner® Market Guide for Yard Management",
+            "url": "https://www.postregister.com/businessreport/technology/terminal-industries-recognized-in-the-2025-gartner-market-guide-for-yard-management/article_0b8e8660-63aa-5eb1-8bb2-fde4d2aff383.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
+            "publishedAt": "2025-11-06 17:04:59"
+        },
+        {
+            "source": {
+                "name": "phys"
+            },
+            "title": "Simply turning up the heat could transform chemical manufacturing",
+            "url": "https://phys.org/news/2025-11-simply-chemical.html",
+            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2025/how-simply-turning-up.jpg",
+            "publishedAt": "2025-11-06 17:04:52"
+        },
+        {
+            "source": {
+                "name": "phys"
+            },
+            "title": "Entanglement swapping using sum-frequency generation between single photons demonstrated for first time",
+            "url": "https://phys.org/news/2025-11-entanglement-swapping-sum-frequency-generation.html",
+            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2025/worlds-first-demonstra-1.jpg",
+            "publishedAt": "2025-11-06 17:04:52"
+        },
+        {
+            "source": {
+                "name": "cnet"
+            },
+            "title": "Apple to Pay Google $1 Billion Per Year for Siri's Custom Gemini AI Model, Report Says",
+            "url": "https://www.cnet.com/tech/services-and-software/apple-to-pay-google-1-billion-per-year-for-siris-custom-gemini-ai-model-report-says/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/9e7ab5324aa098dc63705de1e6f8eadafbeb502e/hub/2024/06/07/feb2d189-8929-4b93-bd8b-90f17febb4c2/wwdc24-siri-v3.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-11-06 17:01:00"
+        },
+        {
+            "source": {
+                "name": "fstoppers"
+            },
+            "title": "The Rise and Fall of the Point-and-Shoot Camera",
+            "url": "https://fstoppers.com/historical/rise-and-fall-point-and-shoot-camera-715387",
+            "urlToImage": "https://cdn.fstoppers.com/styles/large-16-9/s3/lead/2025/10/ing_53296_01043.jpg",
+            "publishedAt": "2025-11-06 17:00:01"
+        },
+        {
+            "source": {
+                "name": "fastcompany"
+            },
+            "title": "New court docs put Sam Altman’s honesty in spotlight again",
+            "url": "https://www.fastcompany.com/91436157/court-filing-sam-altman-openai-anthropic",
+            "urlToImage": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2025/11/p-1-91436157-hed-new-court-docs-put-sam-altmans-honesty-in-spotlight-again.jpg",
+            "publishedAt": "2025-11-06 17:00:00"
+        },
+        {
+            "source": {
+                "name": "toi"
+            },
+            "title": "Odia prof’s invention to optimize wireless communication performance",
+            "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/odia-profs-invention-to-optimize-wireless-communication-performance/articleshow/125139124.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,imgsize-110164,width-400,height-225,resizemode-72/47529300.jpg",
+            "publishedAt": "2025-11-06 16:53:52"
+        },
+        {
+            "source": {
+                "name": "cnet"
+            },
+            "title": "ChatGPT Glossary: 60 AI Terms Everyone Should Know",
+            "url": "https://www.cnet.com/tech/services-and-software/chatgpt-glossary-60-ai-terms-everyone-should-know/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/b851052377c0746f112d44084d04d96facdbd477/hub/2025/04/29/59e42b95-bfa3-4e4c-8a97-61096a870c25/dead-internet-theory-3.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-11-06 16:51:00"
+        },
+        {
+            "source": {
+                "name": "pcgamer"
+            },
+            "title": "No more hiding the impact of AI: The US government is looking to force companies to report how many folks have been fired because of artificial intelligence",
+            "url": "https://www.pcgamer.com/software/ai/no-more-hiding-the-impact-of-ai-the-us-government-is-looking-to-force-companies-to-report-how-many-folks-have-been-fired-because-of-artificial-intelligence/",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/6v63BJWr9huoYBSCBqoWZ8-1280-80.png",
+            "publishedAt": "2025-11-06 16:49:39"
+        },
+        {
+            "source": {
                 "name": "zdnet"
             },
             "title": "How to clear your TV cache (and why it makes such a big difference)",
@@ -3099,210 +3273,6 @@
             "url": "https://www.abc.net.au/news/2025-11-06/artificial-intelligence-rise-australia-readers-concerns/105861182",
             "urlToImage": "https://live-production.wcms.abc-cdn.net.au/a6d696855a1a1572f18d413b48ed1db1?impolicy=wcms_watermark_news&cropH=225&cropW=400&xPos=0&yPos=0&width=862&height=485&imformat=generic",
             "publishedAt": "2025-11-05T18:44:40Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Why Procurement Needs Its Own AI Strategy (and Not Just a Tech Stack)",
-            "url": "https://techbullion.com/why-procurement-needs-its-own-ai-strategy-and-not-just-a-tech-stack/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/11/1712246074102-1000x600.png",
-            "publishedAt": "2025-11-05T18:42:01Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Bengaluru Skills Summit 2025: Industry leaders urge blend of tech & collaboration in learning",
-            "url": "https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-skills-summit-2025-industry-leaders-urge-blend-of-tech-collaboration-in-learning/articleshow/125115416.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-117518785,width-1070,height-580,imgsize-342498,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "publishedAt": "2025-11-05T18:42:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Amazon lawsuit ‘threat to all internet users’: Perplexity",
-            "url": "https://economictimes.indiatimes.com/tech/technology/amazon-lawsuit-threat-to-all-internet-users-perplexity/articleshow/125114867.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1914616,resizemode-75,msid-125114867/tech/technology/amazon-lawsuit-threat-to-all-internet-users-perplexity.jpg",
-            "publishedAt": "2025-11-05T18:23:09Z"
-        },
-        {
-            "source": {
-                "id": "046a50607901bb9bca25f6624dc87f76",
-                "name": "NBC 5 Chicago",
-                "url": "https://www.nbcchicago.com",
-                "country": "us"
-            },
-            "title": "Gemini AI to transform Google Maps experience",
-            "url": "https://www.nbcchicago.com/news/tech/gemini-ai-transform-google-maps-experience/3847933/",
-            "urlToImage": "https://media.nbcchicago.com/2025/11/GettyImages-2208675263.jpg?quality=85&strip=all&resize=1200%2C675",
-            "publishedAt": "2025-11-05T17:45:14Z"
-        },
-        {
-            "source": {
-                "id": "8749653ef849c3df2e467a8e0f0c6672",
-                "name": "NBC10 Boston",
-                "url": "https://www.nbcboston.com",
-                "country": "us"
-            },
-            "title": "Gemini AI to transform Google Maps experience",
-            "url": "https://www.nbcboston.com/news/tech/gemini-ai-transform-google-maps-experience/3840400/",
-            "urlToImage": "https://media.nbcboston.com/2025/11/GettyImages-2208675263.jpg?quality=85&strip=all&resize=1200%2C675",
-            "publishedAt": "2025-11-05T17:45:14Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Key Nodes Where AI Chatbot Solutions Reduce Operational Costs and Boost Customer Retention",
-            "url": "https://techbullion.com/key-nodes-where-ai-chatbot-solutions-reduce-operational-costs-and-boost-customer-retention/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/11/AI-Chatbot-1000x504.png",
-            "publishedAt": "2025-11-05T17:43:52Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Crogl Granted Patent for Analyzing Non-Normalized Data for Security",
-            "url": "https://www.manilatimes.net/2025/11/06/tmt-newswire/globenewswire/crogl-granted-patent-for-analyzing-non-normalized-data-for-security/2217041",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/11/06/814710.png",
-            "publishedAt": "2025-11-05T17:32:06Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Cordaroys Launches \"Don’t Mess with Roy,” a Hilarious Micro-Sitcom About a Rogue AI Running the Company",
-            "url": "https://www.manilatimes.net/2025/11/06/tmt-newswire/globenewswire/cordaroys-launches-dont-mess-with-roy-a-hilarious-micro-sitcom-about-a-rogue-ai-running-the-company/2217039",
-            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-            "publishedAt": "2025-11-05T17:32:04Z"
-        },
-        {
-            "source": {
-                "id": "d89ba30deb182af5129e20ccc6d2e573",
-                "name": "The New Yorker",
-                "url": "https://www.newyorker.com",
-                "country": "us"
-            },
-            "title": "It’s Cool to Have No Followers Now",
-            "url": "https://www.newyorker.com/culture/infinite-scroll/its-cool-to-have-no-followers-now",
-            "urlToImage": "https://media.newyorker.com/photos/690a7234c217522ee6dc2043/16:9/w_1280,c_limit/NewYorker_privateinsta_sketch_%20%20(1).jpg",
-            "publishedAt": "2025-11-05T17:28:13Z"
-        },
-        {
-            "source": {
-                "id": "7ba4ac19a3c25ba844bbd220fe4c860a",
-                "name": "THE WEEK",
-                "url": "https://www.theweek.in",
-                "country": "in"
-            },
-            "title": "AI-powered STAR helps US couple in late 30s fulfil their parenthood dream",
-            "url": "https://www.theweek.in/news/health/2025/11/05/ai-powered-star-helps-us-couple-in-late-30s-fulfil-their-parenthood-dream.html",
-            "urlToImage": "https://www.theweek.in/content/dam/week/week/news/health/images/2025/10/5/Health-Pregnancy.jpg",
-            "publishedAt": "2025-11-05T17:27:55Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "UK Schools Embrace Future: New Curriculum Targets Fake News, AI, and Skills",
-            "url": "https://www.devdiscourse.com/article/education/3686325-uk-schools-embrace-future-new-curriculum-targets-fake-news-ai-and-skills",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/04_09_2025_16_37_36_1144347.png?width=920&format=jpeg",
-            "publishedAt": "2025-11-05T17:04:56Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "US House lawmakers probe Delta Air Lines on use of AI in ticket pricing",
-            "url": "https://www.marketscreener.com/news/us-house-lawmakers-probe-delta-air-lines-on-use-of-ai-in-ticket-pricing-ce7d5cddd889f521",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2025-11-05T17:04:49Z"
-        },
-        {
-            "source": {
-                "id": "b1fa63410571207862faad9daf9b4527",
-                "name": "Pittsburgh Tribune-Review",
-                "url": "https://triblive.com",
-                "country": "us"
-            },
-            "title": "CMU researchers find selfish traits in cutting-edge AI",
-            "url": "https://triblive.com/local/cmu-researchers-find-selfish-traits-in-cutting-edge-ai/",
-            "urlToImage": "https://assets-varnish.triblive.com/2025/11/9021151_web1_8189845-207128d6594c43af9013790325825b82.jpg",
-            "publishedAt": "2025-11-05T17:03:37Z"
-        },
-        {
-            "source": {
-                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-                "name": "NDTV.com",
-                "url": "https://www.ndtv.com",
-                "country": "in"
-            },
-            "title": "Tirupati Temple Plans To Use AI To Slash Pilgrim Wait Times To 2 Hours",
-            "url": "https://www.ndtv.com/india-news/tirupati-temple-plans-to-use-ai-to-slash-pilgrim-wait-times-to-2-hours-9582378",
-            "urlToImage": "https://c.ndtvimg.com/2025-01/fg23ket8_tirumala-temple_625x300_09_January_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-            "publishedAt": "2025-11-05T16:57:51Z"
-        },
-        {
-            "source": {
-                "id": "17d7c2645f485578130862e0c8dd9480",
-                "name": "The Mercury News",
-                "url": "https://www.mercurynews.com",
-                "country": "us"
-            },
-            "title": "Meta slumps on AI spending, echoing 2022 metaverse rout",
-            "url": "https://www.mercurynews.com/2025/11/05/meta-slumps-on-ai-spending-echoing-2022-metaverse-rout/",
-            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/07/Meta_Zuckerberg_Court_82515.jpg?w=1024&h=682",
-            "publishedAt": "2025-11-05T16:54:50Z"
-        },
-        {
-            "source": {
-                "id": "027234d3c0a6aefa3d7ab81380e63d86",
-                "name": "LBC",
-                "url": "https://www.lbc.co.uk",
-                "country": "gb"
-            },
-            "title": "MP calls for companies to pay tax for AI bots used to replace workers",
-            "url": "https://www.lbc.co.uk/article/tax-ai-bots-tech-5HjdGPb_2/",
-            "urlToImage": "https://images.globalplayer.com/images/719345?crop=16_9&width=1200&signature=8rFRBM1ebqvhtJmsoJr8_9CdxPU=",
-            "publishedAt": "2025-11-05T16:47:49Z"
-        },
-        {
-            "source": {
-                "id": "3a3847d645a619320aa3b3484581e395",
-                "name": "CBS News",
-                "url": "https://www.cbsnews.com",
-                "country": "us"
-            },
-            "title": "Meet the woman behind chart-topping AI artist Xania Monet: \"I look at her as a real person\"",
-            "url": "https://www.cbsnews.com/news/meet-the-woman-behind-chart-topping-ai-artist-xania-monet-i-look-at-her-as-a-real-person/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/11/05/9ada4228-7180-4219-bd60-c6312ab82c03/thumbnail/1200x630/213986c097b5063028f638d95f81f736/screenshot-2025-11-05-at-8-55-20-am.png",
-            "publishedAt": "2025-11-05T16:46:41Z"
         }
     ]
 }
