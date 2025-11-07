@@ -1,6 +1,114 @@
 {
-    "lastUpdatedAt": "2025-11-07T11:13:28.669678Z",
+    "lastUpdatedAt": "2025-11-07T12:31:58.211264Z",
     "articles": [
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "US Domestic News Highlights: Cybersecurity, Politics, and Transportation",
+            "url": "https://www.devdiscourse.com/article/politics/3688108-us-domestic-news-highlights-cybersecurity-politics-and-transportation",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/24_03_2025_12_59_22_9315811.png?width=920&format=jpeg",
+            "publishedAt": "2025-11-07T00:01:16Z"
+        },
+        {
+            "source": {
+                "name": "headtopics"
+            },
+            "title": "AI-Powered Financial Planning And The Rise Of Personalized Financial Independence Tools",
+            "url": "https://us.headtopics.com/news/ai-powered-financial-planning-and-the-rise-of-personalized-75471763",
+            "urlToImage": "https://i.headtopics.com/images/2025/11/6/forbestech/ai-powered-financial-planning-and-the-rise-of-pers-ai-powered-financial-planning-and-the-rise-of-pers-6AF78770C4CA10BBB528413A3276A0E0.webp",
+            "publishedAt": "2025-11-07 00:09:31"
+        },
+        {
+            "source": {
+                "name": "financialcontent"
+            },
+            "title": "Amazon's Power Shortage Makes The Case For Why AI Needs Nuclear",
+            "url": "https://talkmarkets.com/content/stocks--equities/amazons-power-shortage-makes-the-case-for-why-ai-needs-nuclear?post=534695",
+            "urlToImage": "https://images.unsplash.com/photo-1556382363-8967ad2b37f0?auto=format&fit=crop&ixlib=rb-1.2.1&q=80&w=1000",
+            "publishedAt": "2025-11-07 00:00:00"
+        },
+        {
+            "source": {
+                "name": "financialcontent"
+            },
+            "title": "XPeng CEO Says ‘The Robot That Mastered The Catwalk’ Was Built By China After Musk Flaunts Tesla’s Optimus",
+            "url": "https://stocktwits.com/news-articles/markets/equity/x-peng-ceo-says-the-robot-that-mastered-the-catwalk-was-built-by-china-after-musk-flaunts-tesla-s-optimus/cL2vrdZRETQ",
+            "urlToImage": "https://news.stocktwits-cdn.com/large_xpeng_tesla_jpg_f07bd782e4.webp",
+            "publishedAt": "2025-11-07 00:00:00"
+        },
+        {
+            "source": {
+                "name": "financialcontent"
+            },
+            "title": "This Is the Smartest Stock to Buy to Take Advantage of the Quantum Computing Revolution -- and It Isn't IonQ, Rigetti Computing, or D-Wave Quantum",
+            "url": "https://www.fool.com/investing/2025/11/07/smartest-stock-quantum-computing-ionq-rgti-qbts/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/841220/quantum-computer-digital-data-calculations-artificial-intelligence-getty.jpg",
+            "publishedAt": "2025-11-07 00:00:00"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "OpenAI does not 'want government guarantees' for massive AI data center buildout, CEO Altman says",
+            "url": "https://www.thestar.com.my/tech/tech-news/2025/11/07/openai-does-not-039want-government-guarantees039-for-massive-ai-data-center-buildout-ceo-altman-says",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/07/3610118.jpg",
+            "publishedAt": "2025-11-06T23:43:00Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "‘Build Skills, Not Just Resumes’",
+            "url": "https://timesofindia.indiatimes.com/city/hyderabad/build-skills-not-just-resumes/articleshow/125139013.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-125139012,width-1070,height-580,imgsize-34768,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-11-06T23:40:00Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "Elon Musk secures record $1 trillion Tesla pay package, largest ever for a CEO",
+            "url": "https://www.livemint.com/companies/news/elon-musk-secures-record-1-trillion-tesla-pay-package-largest-ever-for-a-ceo-11762471824513.html",
+            "urlToImage": "https://images.livemint.com/img/2018/12/24/1600x900/breaking_news_1545650155659.jpg",
+            "publishedAt": "2025-11-06T23:38:37Z"
+        },
+        {
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            },
+            "title": "India, France need 'to get AI developed in a way that is closer to our cultures': French special envoy",
+            "url": "https://www.lokmattimes.com/international/india-france-need-to-get-ai-developed-in-a-way-that-is-closer-to-our-cultures-french-special-envoy/",
+            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20251106233632_202511.jpg",
+            "publishedAt": "2025-11-06T23:36:54Z"
+        },
+        {
+            "source": {
+                "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
+                "name": "TechStartups.com",
+                "url": "https://techstartups.com",
+                "country": "us"
+            },
+            "title": "Top Startup and Tech Funding News - November 6, 2025",
+            "url": "https://techstartups.com/2025/11/06/top-startup-and-tech-funding-news-november-6-2025/",
+            "urlToImage": "https://techstartups.com/wp-content/uploads/2025/11/MoEngage-Founders.jpg",
+            "publishedAt": "2025-11-06T23:19:56Z"
+        },
         {
             "source": {
                 "id": "7006f2c40c7cc01195608dbfd60259b3",
@@ -2247,6 +2355,42 @@
         },
         {
             "source": {
+                "name": "siliconangle"
+            },
+            "title": "DOJ greenlights Alphabet’s $32B Wiz deal as Google moves to expand cloud security leadership",
+            "url": "https://siliconangle.com/2025/11/06/doj-greenlights-alphabets-32b-wiz-deal-google-moves-expand-cloud-security-leadership/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/05/Wiz.png",
+            "publishedAt": "2025-11-06 23:50:53"
+        },
+        {
+            "source": {
+                "name": "en_prnasisa"
+            },
+            "title": "Quantinuum Selected by DARPA to Advance to Stage B of Quantum Benchmarking Initiative",
+            "url": "https://en.prnasia.com/story/510667-0.shtml",
+            "urlToImage": "https://mma.prnasia.com/media2/2655950/5607877/Quantinuum_Logo.jpg?p=medium600",
+            "publishedAt": "2025-11-06 23:40:00"
+        },
+        {
+            "source": {
+                "name": "cnbc"
+            },
+            "title": "China's key weapons in its AI battle with the U.S. — massive Huawei chip clusters and cheap energy",
+            "url": "https://www.cnbc.com/2025/11/07/chinas-strategy-in-ai-race-with-us-big-chip-clusters-cheap-energy.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108158467-17497367811749736778-40230983658-1080pnbcnews.jpg?h=422&v=1749736780&vtcrop=y&w=750",
+            "publishedAt": "2025-11-06 23:25:54"
+        },
+        {
+            "source": {
+                "name": "ieee_spectrum"
+            },
+            "title": "Co-Captain Allows Ships to Share Important Navigational Data",
+            "url": "https://spectrum.ieee.org/ship-navigation-orca-ai",
+            "urlToImage": "https://spectrum.ieee.org/media-library/a-white-piece-of-equipment-with-a-dozen-visible-sensors-sits-on-ship.jpg?id=62084825&width=980",
+            "publishedAt": "2025-11-06 23:19:54"
+        },
+        {
+            "source": {
                 "name": "businessinsider_us"
             },
             "title": "Did Sam Altman just announce an OpenAI cloud service?",
@@ -3135,132 +3279,6 @@
             "url": "https://www.thehindu.com/sci-tech/science/isro-wants-to-transfer-50-of-pslv-development-to-industry-consortium-says-v-narayanan/article70247903.ece",
             "urlToImage": "https://th-i.thgim.com/public/incoming/t2jwau/article70247923.ece/alternates/LANDSCAPE_1200/PTI10_23_2025_000057B.jpg",
             "publishedAt": "2025-11-06 11:01:06"
-        },
-        {
-            "source": {
-                "name": "guampdn"
-            },
-            "title": "$40M 3D printing factory now open for business on Guam, will produce parts of Navy ships",
-            "url": "https://www.guampdn.com/news/40m-3d-printing-factory-now-open-for-business-on-guam-will-produce-parts-of-navy/article_0bff0888-b760-4eb4-868a-9bcb46eb507f.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/guampdn.com/content/tncms/assets/v3/editorial/b/a7/ba709abd-fc71-44aa-b37b-829fecc7ef84/69018ab0afc0e.image.jpg?crop=1265%2C1056%2C14%2C6&order=crop%2Cresize&resize=200%2C167",
-            "publishedAt": "2025-11-06 11:00:00"
-        },
-        {
-            "source": {
-                "name": "fastcompany"
-            },
-            "title": "What you can learn about the potential for AGI from the new Microsoft-OpenAI deal",
-            "url": "https://www.fastcompany.com/91434937/microsoft-openai-agi-chatgpt",
-            "urlToImage": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2025/11/p-1-91434937-does-the-new-microsoft-openai-deal-suggest-agi-is-nearer.jpg",
-            "publishedAt": "2025-11-06 11:00:00"
-        },
-        {
-            "source": {
-                "name": "wvnews"
-            },
-            "title": "ACC Appoints Michael Moschella to Lead New AI-Powered Intelligence Division",
-            "url": "https://www.wvnews.com/news/around_the_web/partners/pr_newswire/subject/personnel_announcements/acc-appoints-michael-moschella-to-lead-new-ai-powered-intelligence-division/article_292f2e03-0444-57e6-8417-74d84e8be79d.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/assets/v3/editorial/3/cb/3cb9104e-dfe6-5f10-8cb5-7c5c07bb3c25/690c8377c7bfe.image.jpg?resize=300%2C300",
-            "publishedAt": "2025-11-06 10:59:00"
-        },
-        {
-            "source": {
-                "name": "thehindubusinessline"
-            },
-            "title": "ISRO wants to transfer 50% of PSLV development to industry consortium: V Narayanan",
-            "url": "https://www.thehindubusinessline.com/news/science/isro-wants-to-transfer-50-of-pslv-development-to-industry-consortium-v-narayanan/article70247916.ece",
-            "urlToImage": "https://bl-i.thgim.com/public/incoming/oo4nnd/article70247970.ece/alternates/LANDSCAPE_1200/PTI10_23_2025_000114A.jpg",
-            "publishedAt": "2025-11-06 10:55:34"
-        },
-        {
-            "source": {
-                "name": "digit_in"
-            },
-            "title": "OpenAI introduces IndQA: A new benchmark for AI’s multilingual intelligence",
-            "url": "https://www.digit.in/features/general/openai-introduces-indqa-a-new-benchmark-for-ais-multilingual-intelligence.html",
-            "urlToImage": "https://static.digit.in/indqa.png",
-            "publishedAt": "2025-11-06 10:06:19"
-        },
-        {
-            "source": {
-                "name": "toi"
-            },
-            "title": "Google updates Gemini’s Deep Research mode to scan Gmail, Drive, and Chat for AI research reports",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-updates-geminis-deep-research-mode-to-scan-gmail-drive-and-chat-for-ai-research-reports/articleshow/125130778.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-125130765,imgsize-97159,width-400,resizemode-4/google-gemini-deep-research-can-now-scan-google-workspace-apps.jpg",
-            "publishedAt": "2025-11-06 10:04:09"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "The best business cloud storage and file sharing providers of 2025: Expert tested",
-            "url": "https://www.zdnet.com/article/best-business-cloud-storage-and-file-sharing-providers/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/c9893f13927413eb321363080e3214bd88759c2f/2025/11/05/296bae12-999d-4d7d-9eb2-443b0796f78b/gettyimages-2236816369.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-11-06 10:00:36"
-        },
-        {
-            "source": {
-                "name": "expresscomputer"
-            },
-            "title": "Redefining Collaboration: The Synergy Between Tech and GBS",
-            "url": "https://www.expresscomputer.in/guest-blogs/redefining-collaboration-the-synergy-between-tech-and-gbs/129272/",
-            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2025/11/06152643/EC_Padma_Srinivasan_7Eleven_GSC_01_750.jpg",
-            "publishedAt": "2025-11-06 09:58:54"
-        },
-        {
-            "source": {
-                "name": "onmsft"
-            },
-            "title": "Sync Time Automatically in Windows 11: A Complete Guide",
-            "url": "https://windowsreport.com/set-time-automatically-windows-11/",
-            "urlToImage": "https://windowsreport.com/wp-content/uploads/2025/11/set-time-automatically-windows-11-700x467.jpg",
-            "publishedAt": "2025-11-06 09:56:48"
-        },
-        {
-            "source": {
-                "name": "newsable_asianetnews"
-            },
-            "title": "Elon Musk Agrees Tesla AI5 Is 'Golden Key' For Company's Physical AI Era",
-            "url": "https://newsable.asianetnews.com/markets/elon-musk-agrees-tesla-ai5-is-golden-key-for-company-s-physical-ai-era-articleshow-2sll8do",
-            "urlToImage": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-64e1ee26-dbb9-44b2-9d56-fc2e7331650e.webp",
-            "publishedAt": "2025-11-06 09:55:49"
-        },
-        {
-            "source": {
-                "name": "yourstory"
-            },
-            "title": "From segmentation to personalisation: Industry experts reveal what it takes to build AI for India",
-            "url": "https://yourstory.com/2025/11/from-segmentation-to-personalisation-ai-for-india-inmobi-makemytrip",
-            "urlToImage": "https://images.yourstory.com/cs/2/e4fd1d90231a11efb1991bdbfe47f5e7/DSC07855-min-1762422201458-1762422270580.jpg",
-            "publishedAt": "2025-11-06 09:47:59"
-        },
-        {
-            "source": {
-                "name": "expresscomputer"
-            },
-            "title": "Business impact versus hype: Making smart choices in agentic AI adoption",
-            "url": "https://www.expresscomputer.in/guest-blogs/business-impact-versus-hype-making-smart-choices-in-agentic-ai-adoption/129270/",
-            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2024/11/28133429/EC-artificial-intelligence-robot-hand-pointing-750.jpg",
-            "publishedAt": "2025-11-06 09:47:19"
-        },
-        {
-            "source": {
-                "name": "techtarget"
-            },
-            "title": "How health systems can build an AI-ready data infrastructure",
-            "url": "https://www.techtarget.com/healthtechanalytics/feature/How-health-systems-can-build-an-AI-ready-data-infrastructure",
-            "urlToImage": "https://www.techtarget.com/rms/onlineimages/health%20analytics_g1271502504_searchsitetablet_520X173.jpg",
-            "publishedAt": "2025-11-06 09:00:00"
-        },
-        {
-            "source": {
-                "name": "recentlyheard"
-            },
-            "title": "Microsoft’s $15.2 billion USD investment in the UAE",
-            "url": "https://recentlyheard.com/microsofts-15-2-billion-usd-investment-in-the-uae/",
-            "urlToImage": "https://recentlyheard.com/wp-content/uploads/2025/11/Microsofts-152-billion-USD-investment-in-the-UAE.jpg",
-            "publishedAt": "2025-11-06 08:26:34"
         }
     ]
 }
