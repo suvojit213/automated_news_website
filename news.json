@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-11-07T09:16:33.267627Z",
+    "lastUpdatedAt": "2025-11-07T10:17:44.337758Z",
     "articles": [
+        {
+            "source": {
+                "id": "f4d035ae0463df22c36ae97972a33ba6",
+                "name": "PR Newswire UK",
+                "url": "https://www.prnewswire.co.uk",
+                "country": "gb"
+            },
+            "title": "Silicon Quantum Computing Selected by DARPA to Advance into Second Stage of Quantum Benchmarking Initiative",
+            "url": "https://www.prnewswire.co.uk/news-releases/silicon-quantum-computing-selected-by-darpa-to-advance-into-second-stage-of-quantum-benchmarking-initiative-302607894.html",
+            "urlToImage": "https://www.prnewswire.co.uk/content/dam/prnewswire/icons/2019-Q4-PRN-Icon-32-32.png",
+            "publishedAt": "2025-11-06T22:07:00Z"
+        },
+        {
+            "source": {
+                "id": "0a3d33fe1c810a63c8623b16334a218c",
+                "name": "Parade",
+                "url": "https://parade.com",
+                "country": "us"
+            },
+            "title": "New Coca-Cola Holiday Ad Creator Defends AI Use, 'Human Artistry'",
+            "url": "https://parade.com/news/coca-cola-new-ai-holiday-advertisement-creator-defends-human-artistry",
+            "urlToImage": "https://parade.com/.image/w_1200,h_630,g_auto,c_fill/ODowMDAwMDAwMDAxMjc1NzEx/gettyimages-120388478.jpg",
+            "publishedAt": "2025-11-06T21:48:21Z"
+        },
         {
             "source": {
                 "id": "da5c26287bdd02563a2c32b55cb12051",
@@ -2163,6 +2187,96 @@
         },
         {
             "source": {
+                "name": "techxplore"
+            },
+            "title": "Optical system uses diffractive processors to achieve large-scale nonlinear computation",
+            "url": "https://techxplore.com/news/2025-11-optical-diffractive-processors-large-scale.html",
+            "urlToImage": "https://scx1.b-cdn.net/csz/news/tmb/2025/massively-parallel-imp.jpg",
+            "publishedAt": "2025-11-06 22:15:49"
+        },
+        {
+            "source": {
+                "name": "bitcoinworld"
+            },
+            "title": "Revolutionary AI Grants: Laude Institute’s Slingshots Program Accelerates 15 Groundbreaking Projects",
+            "url": "https://bitcoinworld.co.in/laude-institute-ai-grants-slingshots/",
+            "urlToImage": "https://bitcoinworld.co.in/wp-content/uploads/laude-institute-ai-grants-slingshots.jpg",
+            "publishedAt": "2025-11-06 22:05:10"
+        },
+        {
+            "source": {
+                "name": "pcgamer"
+            },
+            "title": "I just learned that before the internet, 'online' actually meant 'offline' and it's turned my world upside down",
+            "url": "https://www.pcgamer.com/software/i-just-learned-that-before-the-internet-online-actually-meant-offline-and-its-turned-my-world-upside-down/",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/vstwKubDiZD4K3GeRST4NK-1280-80.jpg",
+            "publishedAt": "2025-11-06 22:04:49"
+        },
+        {
+            "source": {
+                "name": "techtarget"
+            },
+            "title": "Agentic process automation: The enterprise guide to autonomous AI workflows",
+            "url": "https://www.techtarget.com/searchitoperations/definition/agentic-process-automation",
+            "urlToImage": "https://cdn.ttgtmedia.com/rms/onlineimages/yasar_kinza.jpg",
+            "publishedAt": "2025-11-06 22:00:00"
+        },
+        {
+            "source": {
+                "name": "roboticsandautomationnews"
+            },
+            "title": "How Robotics is Powering the Next Wave of Global Electronics Manufacturing",
+            "url": "https://roboticsandautomationnews.com/2025/11/06/how-robotics-is-powering-the-next-wave-of-global-electronics-manufacturing/96333/",
+            "urlToImage": "https://roboticsandautomationnews.com/wp-content/uploads/2025/11/robotic-arm-illustration-1.jpg",
+            "publishedAt": "2025-11-06 21:55:40"
+        },
+        {
+            "source": {
+                "name": "en_prnasisa"
+            },
+            "title": "Quantinuum Announces Commercial Launch of New Helios Quantum Computer that Offers Unprecedented Accuracy to Enable Generative Quantum AI (GenQAI)",
+            "url": "https://en.prnasia.com/story/510656-0.shtml",
+            "urlToImage": "https://mma.prnasia.com/media2/2655950/5604548/Quantinuum_Logo.jpg?p=medium600",
+            "publishedAt": "2025-11-06 21:49:00"
+        },
+        {
+            "source": {
+                "name": "roboticsandautomationnews"
+            },
+            "title": "Reducing Development Time in Robotics With AI Code Assistants",
+            "url": "https://roboticsandautomationnews.com/2025/11/06/reducing-development-time-in-robotics-with-ai-code-assistants/96328/",
+            "urlToImage": "https://roboticsandautomationnews.com/wp-content/uploads/2025/11/wine-glasses-robot-human-1.jpg",
+            "publishedAt": "2025-11-06 21:40:24"
+        },
+        {
+            "source": {
+                "name": "williamsondailynews"
+            },
+            "title": "Quantinuum Announces Commercial Launch of New Helios Quantum Computer that Offers Unprecedented Accuracy to Enable Generative Quantum AI (GenQAI)",
+            "url": "https://www.williamsondailynews.com/online_features/press_releases/quantinuum-announces-commercial-launch-of-new-helios-quantum-computer-that-offers-unprecedented-accuracy-to-enable/article_db6d4f78-1cd7-5723-b222-9f3d6a4694aa.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/williamsondailynews.com/content/tncms/assets/v3/editorial/9/c3/9c3107d4-1503-5e28-af22-b92726525862/690da06ecf08b.image.jpg?resize=300%2C191",
+            "publishedAt": "2025-11-06 21:35:00"
+        },
+        {
+            "source": {
+                "name": "thetandd"
+            },
+            "title": "Quantinuum Announces Commercial Launch of New Helios Quantum Computer that Offers Unprecedented Accuracy to Enable Generative Quantum AI (GenQAI)",
+            "url": "https://thetandd.com/online_features/press_releases/article_3df6fb69-5f90-52e9-97aa-0cac04e5ed4d.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thetandd.com/content/tncms/assets/v3/editorial/8/84/884faaf7-e7ad-52c6-a864-5e39f3044c67/690da42b953d6.image.jpg?resize=300%2C191",
+            "publishedAt": "2025-11-06 21:35:00"
+        },
+        {
+            "source": {
+                "name": "decaturdailydemocrat"
+            },
+            "title": "Quantinuum Announces Commercial Launch of New Helios Quantum Computer that Offers Unprecedented Accuracy to Enable Generative Quantum AI (GenQAI)",
+            "url": "https://www.decaturdailydemocrat.com/online_features/press_releases/quantinuum-announces-commercial-launch-of-new-helios-quantum-computer-that-offers-unprecedented-accuracy-to-enable/article_ce87d25d-4300-554a-9a17-79f17cdaf95e.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/decaturdailydemocrat.com/content/tncms/assets/v3/editorial/6/22/622d8b22-39fb-5b2a-a60c-04dc6c578b57/690da0e981880.image.jpg?resize=400%2C254",
+            "publishedAt": "2025-11-06 21:35:00"
+        },
+        {
+            "source": {
                 "name": "washington"
             },
             "title": "Allen School’s 2025 Research Showcase highlights faculty and student innovation across AI, robotics, neuroscience and more",
@@ -3132,114 +3246,6 @@
             "url": "https://hackernoon.com/ai-is-making-critical-decisions-verifiable-machine-learning-makes-them-accountable",
             "urlToImage": "https://hackernoon.imgix.net/images/1R6u8YCgb0hj0skZG5K30MpJPwA2-0303s0h.jpeg",
             "publishedAt": "2025-11-06 06:12:28"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Why Machine Learning Loves GPUs: Moore’s Law, Dennard Scaling, and the Rise of CUDA & HIP",
-            "url": "https://hackernoon.com/why-machine-learning-loves-gpus-moores-law-dennard-scaling-and-the-rise-of-cuda-and-hip",
-            "urlToImage": "https://hackernoon.imgix.net/images/uY6qYAUSfrXOceYduQh6a9Zo9T13-4e038p3.png",
-            "publishedAt": "2025-11-06 06:11:44"
-        },
-        {
-            "source": {
-                "name": "hjnews"
-            },
-            "title": "One Tech Tip: Modern cars are spying on you. Here's what you can do about it",
-            "url": "https://www.hjnews.com/nation/one-tech-tip-modern-cars-are-spying-on-you-heres-what-you-can-do-about/article_8b1cbef6-6510-54e2-97c0-67a1bda4ae40.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/hjnews.com/content/tncms/assets/v3/editorial/e/6f/e6fe0266-4789-57fd-8cb3-96669bd57fd5/690c9a119fde7.image.jpg?resize=300%2C200",
-            "publishedAt": "2025-11-06 06:00:06"
-        },
-        {
-            "source": {
-                "name": "kvue"
-            },
-            "title": "One Tech Tip: Modern cars are spying on you. Here's what you can do about it",
-            "url": "https://www.kvue.com/article/syndication/associatedpress/one-tech-tip-modern-cars-are-spying-on-you-heres-what-you-can-do-about-it/616-4449684e-ae24-4a1f-9da0-889254d51cfe",
-            "urlToImage": "https://media.tegna-media.com/assets/AssociatedPress/images/4fce1bb8-47ab-43ef-9605-4e6409f4b314/20251106T060504/4fce1bb8-47ab-43ef-9605-4e6409f4b314_750x422.jpg",
-            "publishedAt": "2025-11-06 06:00:06"
-        },
-        {
-            "source": {
-                "name": "apnews"
-            },
-            "title": "One Tech Tip: Modern cars are spying on you. Here's what you can do about it",
-            "url": "https://apnews.com/article/auto-car-privacy-3674ce59c9b30f2861d29178a31e6ab7",
-            "urlToImage": "https://dims.apnews.com/dims4/default/c18a229/2147483647/strip/true/crop/3500x1969+0+182/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0e%2F2f%2F29faf74d6e26c3f2e948e01a626d%2F3ccc4144bec647e9a3d1e2a68ae6ec0c",
-            "publishedAt": "2025-11-06 06:00:06"
-        },
-        {
-            "source": {
-                "name": "a12news"
-            },
-            "title": "One Tech Tip: Modern cars are spying on you. Here's what you can do about it",
-            "url": "https://www.12news.com/article/syndication/associatedpress/one-tech-tip-modern-cars-are-spying-on-you-heres-what-you-can-do-about-it/616-4449684e-ae24-4a1f-9da0-889254d51cfe",
-            "urlToImage": "https://media.tegna-media.com/assets/AssociatedPress/images/4fce1bb8-47ab-43ef-9605-4e6409f4b314/20251106T060504/4fce1bb8-47ab-43ef-9605-4e6409f4b314_750x422.jpg",
-            "publishedAt": "2025-11-06 06:00:06"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Top News Today: Kaynes Technology Commercial Multi-Chip Module, Ripple $500M Funds & More",
-            "url": "https://www.analyticsinsight.net/tech-news/top-news-today-kaynes-technology-commercial-multi-chip-module-ripple-500m-funds-more",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-11-06%2F5ug8ey2c%2FTop-News-Today-Kaynes-Technology-Commercial-Multi-Chip-Module-Ripple-500M-Funds-More-1.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-11-06 05:42:42"
-        },
-        {
-            "source": {
-                "name": "thehindubusinessline"
-            },
-            "title": "Apple nears deal to pay Google roughly $1 billion a year for Siri AI model",
-            "url": "https://www.thehindubusinessline.com/info-tech/apple-nears-deal-to-pay-google-roughly-1-billion-a-year-for-siri-ai-model/article70246975.ece",
-            "urlToImage": "https://bl-i.thgim.com/public/incoming/4wpnjv/article70247112.ece/alternates/LANDSCAPE_1200/2025-10-30T162016Z_2042998176_RC2LEGAGH86E_RTRMADP_3_APPLE-RESULTS.JPG",
-            "publishedAt": "2025-11-06 05:30:14"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "The Serenity Protocol: Can Emotional Stability Be Engineered?",
-            "url": "https://hackernoon.com/the-serenity-protocol-can-emotional-stability-be-engineered",
-            "urlToImage": "https://hackernoon.imgix.net/images/ck9aWgppGnSkOUefHHyhtvzjnJk1-u0037sb.png",
-            "publishedAt": "2025-11-06 05:14:54"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Tf2cdk – Convert Terraform to AWS CDK (Not Cdktf)",
-            "url": "https://hackernoon.com/tf2cdk-convert-terraform-to-aws-cdk-not-cdktf",
-            "urlToImage": "https://hackernoon.imgix.net/images/2jqChkrv03exBUgkLrDzIbfM99q2-a7023sy.jpeg",
-            "publishedAt": "2025-11-06 05:05:51"
-        },
-        {
-            "source": {
-                "name": "jdnews"
-            },
-            "title": "Pony.ai Lists on HKEX, Ushering in a New Era of Scaled Commercialization in Autonomous Driving",
-            "url": "https://www.jdnews.com/online_features/press_releases/pony-ai-lists-on-hkex-ushering-in-a-new-era-of-scaled-commercialization-in-autonomous/article_7e599702-5d44-5d48-b08e-c96ab3821a63.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/jdnews.com/content/tncms/custom/image/a7128d8a-977f-11ed-8535-ef1f4ff57fb7.png?resize=600%2C315",
-            "publishedAt": "2025-11-06 05:01:00"
-        },
-        {
-            "source": {
-                "name": "dailytimesleader"
-            },
-            "title": "Pony.ai Lists on HKEX, Ushering in a New Era of Scaled Commercialization in Autonomous Driving",
-            "url": "https://www.dailytimesleader.com/online_features/press_releases/pony-ai-lists-on-hkex-ushering-in-a-new-era-of-scaled-commercialization-in-autonomous/article_a0205398-7f4d-5c2c-9c5b-0ef0fd1a8806.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/dailytimesleader.com/content/tncms/custom/image/fb7d238c-4144-11eb-bb03-e3fe9f853d1e.jpg?resize=600%2C315",
-            "publishedAt": "2025-11-06 05:01:00"
-        },
-        {
-            "source": {
-                "name": "starkvilledailynews"
-            },
-            "title": "Pony.ai Lists on HKEX, Ushering in a New Era of Scaled Commercialization in Autonomous Driving",
-            "url": "https://www.starkvilledailynews.com/online_features/press_releases/pony-ai-lists-on-hkex-ushering-in-a-new-era-of-scaled-commercialization-in-autonomous/article_e16e0fd8-a9f5-5545-ad6c-9d7369fdf083.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/starkvilledailynews.com/content/tncms/custom/image/90aa229c-d3a7-11e8-8cc9-13ed478fa184.jpg?resize=200%2C200",
-            "publishedAt": "2025-11-06 05:01:00"
         }
     ]
 }
