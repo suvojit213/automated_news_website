@@ -1,6 +1,102 @@
 {
-    "lastUpdatedAt": "2025-11-08T03:37:25.710041Z",
+    "lastUpdatedAt": "2025-11-08T04:17:36.060445Z",
     "articles": [
+        {
+            "source": {
+                "id": "5b07f2eba74fc799fd5d1ee46c5bafc3",
+                "name": "Newsweek",
+                "url": "https://www.newsweek.com",
+                "country": "us"
+            },
+            "title": "JPMorgan CEO Predicts New Type of Working Week",
+            "url": "https://www.newsweek.com/jpmorgan-ceo-predicts-new-type-of-working-week-11011366",
+            "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2025/11/GettyImages-2209367567.jpg?w=1200crop=1",
+            "publishedAt": "2025-11-07T16:15:32Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "US to block Nvidia's sale of scaled-down AI chips to China",
+            "url": "https://www.manilatimes.net/2025/11/08/business/foreign-business/us-to-block-nvidias-sale-of-scaled-down-ai-chips-to-china/2218773",
+            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+            "publishedAt": "2025-11-07T16:13:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Is self-driving technology ready for the road?",
+            "url": "https://www.manilatimes.net/2025/11/08/business/science-technology/is-self-driving-technology-ready-for-the-road/2218955",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/11/07/817956.jpg",
+            "publishedAt": "2025-11-07T16:07:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Advanced autonomous driving platform launched",
+            "url": "https://www.manilatimes.net/2025/11/08/business/science-technology/advanced-autonomous-driving-platform-launched/2218953",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/11/07/817955.jpg",
+            "publishedAt": "2025-11-07T16:05:00Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "US equity fund inflows surge to a five-week high",
+            "url": "https://www.reuters.com/markets/wealth/us-equity-fund-inflows-surge-five-week-high-2025-11-07/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/BQYJHA5FP5K6FKBMYZ4H4ZFSWQ.jpg?auth=d056c9c36b7d5900cdbbf72c36cf372f4e44d1f058cac0804fcb63f3dee69b40&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-11-07T16:03:47Z"
+        },
+        {
+            "source": {
+                "id": "9c188f87e786da40d8a7261297d97a8f",
+                "name": "VICE",
+                "url": "https://www.vice.com",
+                "country": "us"
+            },
+            "title": "This Cybersecurity Tool Keeps You Safe From Holiday Scams",
+            "url": "https://www.vice.com/en/article/cybersecurity-tool-keeps-you-safe-from-holiday-scams/",
+            "urlToImage": "https://www.vice.com/wp-content/uploads/sites/2/2025/11/webroot-holiday-deal.webp?w=1184",
+            "publishedAt": "2025-11-07T15:58:25Z"
+        },
+        {
+            "source": {
+                "id": "008ce2da04589e32a64a74ae048c6810",
+                "name": "Men's Journal",
+                "url": "https://www.mensjournal.com",
+                "country": "us"
+            },
+            "title": "Elon Musk’s Ex Grimes Says AI Is 'Imminent Threat' for Children",
+            "url": "https://www.mensjournal.com/news/elon-musks-ex-grimes-says-ai-is-the-biggest-imminent-threat-to-children",
+            "urlToImage": "https://www.mensjournal.com/.image/w_1200,h_630,g_auto,c_fill/NDI6MDAwMDAwMDAwOTg4OTcy/elon-musk-and-grimes-posed-together-on-the-red-carpet.jpg",
+            "publishedAt": "2025-11-07T15:55:01Z"
+        },
+        {
+            "source": {
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
+                "country": "in"
+            },
+            "title": "AI, Geopolitics Stalling India's Market Rally: Ruchir Sharma To NDTV",
+            "url": "https://www.ndtvprofit.com/markets/ai-geopolitics-stalling-indias-market-rally-ruchir-sharma-to-ndtv",
+            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-11-07%2F6o5978g2%2FRuchir-Sharma-2.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+            "publishedAt": "2025-11-07T15:41:48Z"
+        },
         {
             "source": {
                 "id": "1e30d944d63d9090db5a2c2e28a8772f",
@@ -1224,6 +1320,60 @@
             "url": "https://www.morningstar.com/company-reports/1357589-akamai-is-increasingly-well-postured-for-heightened-edge-computing-and-cybersecurity-demand",
             "urlToImage": "https://www.morningstar.com/company-reports/:/[object Object]",
             "publishedAt": "2025-11-07T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "astrobiology"
+            },
+            "title": "Accelerating Radiative Transfer For Planetary Atmospheres by Orders of Magnitude with a Transformer-Based Machine Learning Model",
+            "url": "https://astrobiology.com/2025/11/accelerating-radiative-transfer-for-planetary-atmospheres-by-orders-of-magnitude-with-a-transformer-based-machine-learning-model.html",
+            "urlToImage": "https://astrobiology.com/wp-content/uploads/2025/11/Accelerating-Radiative-Transfer-For-Planetary.png",
+            "publishedAt": "2025-11-07 16:15:00"
+        },
+        {
+            "source": {
+                "name": "techreport"
+            },
+            "title": "Pony.ai Becomes the First Company to Secure City-Wide Operation Permit in Shenzhen",
+            "url": "https://techreport.com/news/pony-ai-first-company-city-wide-operation-permit-shenzhen/",
+            "urlToImage": "https://techreport.com/wp-content/uploads/2025/11/pony-ai-first-company-city-wide-operation-permit-shenzhen-e1762520073919.jpg?_t=1762534058",
+            "publishedAt": "2025-11-07 16:05:35"
+        },
+        {
+            "source": {
+                "name": "insideevs"
+            },
+            "title": "Tesla’s Next Gen Chips Are Coming. What Does That Mean For Self-Driving?",
+            "url": "https://insideevs.com/news/778330/tesla-next-generation-chips-ai5-self-driving/",
+            "urlToImage": "https://cdn.motor1.com/images/mgl/lEleWw/s1/tesla-cm-11-7.webp",
+            "publishedAt": "2025-11-07 16:01:46"
+        },
+        {
+            "source": {
+                "name": "benzinga"
+            },
+            "title": "SIXUNITED Showcases Its Full-Stack AI Ecosystem at the 2025 Intel® WW LOEM Summit",
+            "url": "https://www.benzinga.com/pressreleases/25/11/g48723137/sixunited-showcases-its-full-stack-ai-ecosystem-at-the-2025-intel-ww-loem-summit",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/c31c6652-9aef-4e13-9225-2a13927db2c0/2025-intel-ww-loem-summit.jpg",
+            "publishedAt": "2025-11-07 15:52:32"
+        },
+        {
+            "source": {
+                "name": "cision"
+            },
+            "title": "AI Training Card Market to Reach USD 115.08 Billion by 2031 | Rising Demand for High-Performance AI Hardware Drives Growth | Valuates Reports",
+            "url": "https://www.prnewswire.com/news-releases/ai-training-card-market-to-reach-usd-115-08-billion-by-2031--rising-demand-for-high-performance-ai-hardware-drives-growth--valuates-reports-302608800.html",
+            "urlToImage": "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=publish",
+            "publishedAt": "2025-11-07 15:51:00"
+        },
+        {
+            "source": {
+                "name": "therobotreport"
+            },
+            "title": "ACCES I/O Products releases PCI Express Mini Card multifunction analog I/O module",
+            "url": "https://www.therobotreport.com/acces-i-o-products-releases-pci-express-mini-card-multifunction-analog-output-input-module/",
+            "urlToImage": "https://www.therobotreport.com/wp-content/uploads/2025/11/accessio-newproduct-featured.jpg",
+            "publishedAt": "2025-11-07 15:37:24"
         },
         {
             "source": {
@@ -3162,174 +3312,6 @@
             "url": "https://www.courant.com/2025/11/06/inside-the-race-to-train-ai-robots-how-to-act-human-in-the-real-world/",
             "urlToImage": "https://www.courant.com/wp-content/uploads/2025/11/202511050415MCT_____PHOTO____BIZ-CPT-AI-ROBOT-RACE-GET.jpg?w=1024&h=682",
             "publishedAt": "2025-11-06T12:30:40Z"
-        },
-        {
-            "source": {
-                "id": "b41851fb2662ea502db29f71ec4d1583",
-                "name": "NPR",
-                "url": "https://www.npr.org",
-                "country": "us"
-            },
-            "title": "Goats and Soda : NPR",
-            "url": "https://www.npr.org/sections/goats-and-soda/2025/11/06/g-s1-96448/ai-artificial-intelligence-tb-tuberculosis",
-            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1776x999+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc1%2Fa5%2F2b06ebe643fba2be5b5bae35d782%2Ftb-diptych3-final.jpg",
-            "publishedAt": "2025-11-06T12:30:30Z"
-        },
-        {
-            "source": {
-                "id": "d4773b92da0613b8ffc2fc9c46229534",
-                "name": "Business Wire",
-                "url": "https://www.businesswire.com",
-                "country": "us"
-            },
-            "title": "NETSCOUT Reports Second Quarter Fiscal Year 2026 Financial Results",
-            "url": "https://www.businesswire.com/news/home/20251106589391/en/NETSCOUT-Reports-Second-Quarter-Fiscal-Year-2026-Financial-Results",
-            "urlToImage": "https://www.businesswire.com/bw-logo.png",
-            "publishedAt": "2025-11-06T12:30:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Cost cutting, AI lead to surge in planned US layoffs in October",
-            "url": "https://economictimes.indiatimes.com/tech/technology/cost-cutting-ai-lead-to-surge-in-planned-us-layoffs-in-october/articleshow/125134490.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-47216,resizemode-75,msid-125134490/tech/technology/cost-cutting-ai-lead-to-surge-in-planned-us-layoffs-in-october.jpg",
-            "publishedAt": "2025-11-06T12:29:28Z"
-        },
-        {
-            "source": {
-                "id": "ca84296ef941bfa461f4239a2290cb99",
-                "name": "News18",
-                "url": "https://www.news18.com",
-                "country": "in"
-            },
-            "title": "This Israeli Startup Rejected Google's Rs 2 Trillion Offer. A Year Later, The Deal Closed At…",
-            "url": "https://www.news18.com/business/this-israeli-startup-rejected-googles-rs-2-trillion-offer-a-year-later-the-deal-closed-at-ws-kl-9684915.html",
-            "urlToImage": "https://images.news18.com/ibnlive/uploads/2025/09/google-2025-09-b44b7df51fe2bec5ca628e617441b06e-16x9.png",
-            "publishedAt": "2025-11-06T12:05:41Z"
-        },
-        {
-            "source": {
-                "id": "b29eaeaa36b9be93ac681e263151f897",
-                "name": "India.com",
-                "url": "https://www.india.com",
-                "country": "in"
-            },
-            "title": "Where Data Science Meets Finance: Ashmin Kaul’s expertise in solving complex Business Challenges across major industries",
-            "url": "https://www.india.com/money/where-data-science-meets-finance-ashmin-kauls-expertise-in-solving-complex-business-challenges-across-major-industries-8170441/",
-            "urlToImage": "https://static.india.com/wp-content/uploads/2025/11/icom9-8.jpg",
-            "publishedAt": "2025-11-06T11:59:38Z"
-        },
-        {
-            "source": {
-                "id": "027234d3c0a6aefa3d7ab81380e63d86",
-                "name": "LBC",
-                "url": "https://www.lbc.co.uk",
-                "country": "gb"
-            },
-            "title": "Louvre's video surveillance password? 'LOUVRE' - post-heist report reveals security blunder",
-            "url": "https://www.lbc.co.uk/article/louvres-video-surveillance-password-security-5HjdGRf_2/",
-            "urlToImage": "https://images.globalplayer.com/images/764145?crop=16_9&width=1200&signature=IbE7b8wA8IDVqPfknEniCHiNTyQ=",
-            "publishedAt": "2025-11-06T11:55:29Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "TAC InfoSec Ltd. Sets New Milestones in Cybersecurity Realm",
-            "url": "https://www.devdiscourse.com/article/technology/3687325-tac-infosec-ltd-sets-new-milestones-in-cybersecurity-realm",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_00_46_5151186.jpg?width=920&format=jpeg",
-            "publishedAt": "2025-11-06T11:51:00Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Analysis-AI stock wobble points to US market reliance on tech",
-            "url": "https://www.thestar.com.my/tech/tech-news/2025/11/06/analysis-ai-stock-wobble-points-to-us-market-reliance-on-tech",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/06/3609481.jpg",
-            "publishedAt": "2025-11-06T11:07:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "AI stock wobble points to US market reliance on tech",
-            "url": "https://www.marketscreener.com/news/ai-stock-wobble-points-to-us-market-reliance-on-tech-ce7d5cd2dd88f421",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-05/2025-05-28T202438Z_1_LYNXNPEL4R14A_RTROPTP_4_NVIDIA-RESULTS.JPG",
-            "publishedAt": "2025-11-06T11:03:04Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "AI stock wobble points to US market reliance on tech",
-            "url": "https://www.reuters.com/business/finance/ai-stock-wobble-points-us-market-reliance-tech-2025-11-06/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/ZKNLP2YVHZNI5C7UC647MNM34A.jpg?auth=9f3f2c6e7dfaa33c4b649aff0a13fa58b6d55e7237ff8b4508e716ea01876ba9&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-11-06T11:02:58Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "HKPC's Cyber Security Summit Hong Kong 2025 Ushers in \"AI-Human Collaboration\" Shaping the Future of Digital Security - Building Resilience with AI",
-            "url": "https://www.manilatimes.net/2025/11/06/tmt-newswire/pr-newswire/hkpcs-cyber-security-summit-hong-kong-2025-ushers-in-ai-human-collaboration-shaping-the-future-of-digital-security-building-resilience-with-ai/2217586",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/11/06/815670.jpg",
-            "publishedAt": "2025-11-06T11:02:16Z"
-        },
-        {
-            "source": {
-                "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
-                "name": "ABC (Australian Broadcasting Corporation)",
-                "url": "https://www.abc.net.au",
-                "country": "au"
-            },
-            "title": "As Russian drone incursions rattle Europe, Poland and Romania deploy a new defensive system",
-            "url": "https://www.abc.net.au/news/2025-11-06/drone-defence-system-poland-and-romania/105981642",
-            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/d4701018d1c720552d5689f1b23ce64f?impolicy=wcms_watermark_news&cropH=770&cropW=1368&xPos=81&yPos=175&width=862&height=485&imformat=generic",
-            "publishedAt": "2025-11-06T11:02:05Z"
-        },
-        {
-            "source": {
-                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
-                "name": "Firstpost",
-                "url": "https://www.firstpost.com",
-                "country": "in"
-            },
-            "title": "What is Vibe coding, the word of the year by Collins Dictionary?",
-            "url": "https://www.firstpost.com/explainers/vibe-coding-2025-word-of-the-year-collins-dictionary-13948381.html",
-            "urlToImage": "https://images.firstpost.com/uploads/2025/11/vibe-coding-2025-11-0e6a2824be73aa2361afc55ddea02b00.jpg?im=FitAndFill=(1200,675)",
-            "publishedAt": "2025-11-06T10:59:55Z"
-        },
-        {
-            "source": {
-                "id": "c8c865ed042eb14694b8d596e22efe99",
-                "name": "Spokane Spokesman-Review",
-                "url": "https://www.spokesman.com",
-                "country": "us"
-            },
-            "title": "Job cuts surge in worst October layoffs in 22 years. Here's why",
-            "url": "https://www.spokesman.com/stories/2025/nov/06/job-cuts-surge-in-worst-october-layoffs-in-22-year/",
-            "urlToImage": "https://thumb.spokesman.com/yjpTrYYP-V2IejEi_GVMPH2iPqU=/1200x630/smart/media.spokesman.com/photos/2025/11/06/690d01acbde93.hires.jpg",
-            "publishedAt": "2025-11-06T10:51:00Z"
         }
     ]
 }
