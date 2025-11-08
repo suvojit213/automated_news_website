@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2025-11-08T08:18:49.994050Z",
+    "lastUpdatedAt": "2025-11-08T09:14:17.578408Z",
     "articles": [
+        {
+            "source": {
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
+                "country": "us"
+            },
+            "title": "Freedom Holding to build $2B sovereign AI Hub in Kazakhstan",
+            "url": "https://markets.businessinsider.com/news/stocks/freedom-holding-to-build-2b-sovereign-ai-hub-in-kazakhstan-1035521154",
+            "urlToImage": "https://markets.businessinsider.com/favicon-32x32.png",
+            "publishedAt": "2025-11-07T21:05:17Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Bluepine Tech Foundation Launches Global AI Agricultural Data Service Platform",
+            "url": "https://www.manilatimes.net/2025/11/08/tmt-newswire/globenewswire/bluepine-tech-foundation-launches-global-ai-agricultural-data-service-platform/2219253",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/11/08/818467.png",
+            "publishedAt": "2025-11-07T21:03:52Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "OpenAI Asks US to Expand Chips Act Tax Credit to AI Data Centers",
+            "url": "https://www.bloomberg.com/news/articles/2025-11-07/openai-asks-us-to-expand-chips-act-tax-credit-to-ai-data-centers",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ieTDovdRazgA/v1/1200x800.jpg",
+            "publishedAt": "2025-11-07T20:57:44Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "Trump Administration Rules Out AI Backstop Amid OpenAI Uproar",
+            "url": "https://www.livemint.com/technology/tech-news/trump-administration-rules-out-ai-backstop-amid-openai-uproar-11762547511898.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech1_1734536428801_1734536438047.jpg",
+            "publishedAt": "2025-11-07T20:31:51Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Mawson Infrastructure Group Inc. Announces Lease Extension For Its Bellefonte, PA Facility",
+            "url": "https://www.manilatimes.net/2025/11/08/tmt-newswire/globenewswire/mawson-infrastructure-group-inc-announces-lease-extension-for-its-bellefonte-pa-facility/2219237",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/11/08/818439.png",
+            "publishedAt": "2025-11-07T20:23:23Z"
+        },
         {
             "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -1548,6 +1608,33 @@
             "url": "https://www.morningstar.com/company-reports/1357589-akamai-is-increasingly-well-postured-for-heightened-edge-computing-and-cybersecurity-demand",
             "urlToImage": "https://www.morningstar.com/company-reports/:/[object Object]",
             "publishedAt": "2025-11-07T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Google’s Ironwood Ignites AI Chip Wars Against Nvidia",
+            "url": "https://www.webpronews.com/googles-ironwood-ignites-ai-chip-wars-against-nvidia/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-720-1762542037.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-11-07 20:45:05"
+        },
+        {
+            "source": {
+                "name": "toi"
+            },
+            "title": "AI and embedded systems can predict failures but not replace humans: DRDO’s Srinivas Kuchipudi",
+            "url": "https://timesofindia.indiatimes.com/city/nagpur/ai-and-embedded-systems-can-predict-failures-but-not-replace-humans-drdos-srinivas-kuchipudi/articleshow/125172073.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-125172071,width-1070,height-580,imgsize-42160,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-11-07 20:30:59"
+        },
+        {
+            "source": {
+                "name": "baltimoresun"
+            },
+            "title": "How leaders can use AI the right way | EDITORIAL",
+            "url": "https://www.baltimoresun.com/2025/11/07/ai-artificial-intelligence-policy/",
+            "urlToImage": "https://www.baltimoresun.com/wp-content/uploads/2025/10/TBS-L-WICOMICO-BODYCAM-p2.jpg?strip=all&w=1400px",
+            "publishedAt": "2025-11-07 20:28:18"
         },
         {
             "source": {
@@ -3108,102 +3195,6 @@
             "url": "https://www.washingtonpost.com/technology/2025/11/06/zuckerberg-chan-ai-philanthropy/",
             "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NYVHPA5B2YFLX3G4L5ZB7COBFU_size-normalized.jpg&w=1440",
             "publishedAt": "2025-11-06T19:01:35Z"
-        },
-        {
-            "source": {
-                "id": "492abf277b7277432148b61b21ddc836",
-                "name": "Los Angeles Times",
-                "url": "https://www.latimes.com",
-                "country": "us"
-            },
-            "title": "A new system to identify and take down Russian drones is being deployed to NATO's eastern flank",
-            "url": "https://www.latimes.com/world-nation/story/2025-11-06/a-new-system-to-identify-and-take-down-russian-drones-is-being-deployed-to-natos-eastern-flank",
-            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/61d2e72/2147483647/strip/true/crop/5221x2741+0+370/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ffd%2F45%2F466dd84a41038528d373f254cfdb%2F0142596ebfc2497b9f5086cd18f21013.jpg",
-            "publishedAt": "2025-11-06T18:30:20Z"
-        },
-        {
-            "source": {
-                "id": "17d7c2645f485578130862e0c8dd9480",
-                "name": "The Mercury News",
-                "url": "https://www.mercurynews.com",
-                "country": "us"
-            },
-            "title": "Mark Zuckerberg, Priscilla Chan shift bulk of philanthropy to science, focusing on AI and biology to curb disease",
-            "url": "https://www.mercurynews.com/2025/11/06/zuckerberg-chan-shift-bulk-of-philanthropy-to-science-focusing-on-ai-and-biology-to-curb-disease/",
-            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/11/Chan_Zuckerberg_Philanthropy_09744-1.jpg?w=1024&h=683",
-            "publishedAt": "2025-11-06T18:29:30Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "Jensen Huang U-turns on China ahead of US in AI race claim, says vital that America wins",
-            "url": "https://www.livemint.com/companies/people/jensen-huang-u-turns-on-china-ahead-of-us-in-ai-race-claim-says-vital-that-america-wins-11762443976843.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2025/11/06/1600x900/logo/SKOREA-APEC-CEO-SUMMIT-71_1761976234359_1761976246816_1762452146736.jpg",
-            "publishedAt": "2025-11-06T18:21:10Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Turning Setbacks into Strength: How Cybersecurity Expert Avinash Reddy Pothu is Redefining Resilience in Tech",
-            "url": "https://techbullion.com/turning-setbacks-into-strength-how-cybersecurity-expert-avinash-reddy-pothu-is-redefining-resilience-in-tech/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/11/image-10-580x600.jpeg",
-            "publishedAt": "2025-11-06T18:15:48Z"
-        },
-        {
-            "source": {
-                "id": "78038267e47d19c37e8b8fa6b4b06494",
-                "name": "SpaceNews",
-                "url": "https://spacenews.com",
-                "country": "us"
-            },
-            "title": "D-Orbit and mhackeroni conduct in-orbit cybersecurity competition",
-            "url": "https://spacenews.com/d-orbit-and-mhackeroni-conduct-in-orbit-cybersecurity-competition/",
-            "urlToImage": "https://spacenews.com/wp-content/uploads/2025/11/rsz_superflat_ctf.png",
-            "publishedAt": "2025-11-06T17:38:23Z"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            },
-            "title": "Microsoft forms superintelligence team under AI head Mustafa Suleyman",
-            "url": "https://www.cnbc.com/2025/11/06/microsoft-forms-superintelligence-team-under-ai-head-mustafa-suleyman-.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107316177-16971261952023-10-12t155306z_1650182883_rc23r3aw5898_rtrmadp_0_axios-bfd.jpeg?v=1762449041&w=1920&h=1080",
-            "publishedAt": "2025-11-06T17:32:18Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "India shows 'same spirit' of finding balance between innovation, regulation in AI: France's Special Envoy Bouverot",
-            "url": "https://www.lokmattimes.com/international/india-shows-same-spirit-of-finding-balance-between-innovation-regulation-in-ai-frances-special-envoy-bouverot/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20251106172950_202511.jpg",
-            "publishedAt": "2025-11-06T17:30:01Z"
-        },
-        {
-            "source": {
-                "id": "e1b896cc9b8775d3aaac2320e6dcf1f6",
-                "name": "Crypto News",
-                "url": "https://crypto.news",
-                "country": "lt"
-            },
-            "title": "Pi Network price to rally, rare pattern aligns with AI pivot",
-            "url": "https://crypto.news/pi-network-price-to-rally-rare-pattern-aligns-ai-pivot/",
-            "urlToImage": "https://media.crypto.news/2025/09/crypto-news-Pi-Network-option06.png",
-            "publishedAt": "2025-11-06T17:30:00Z"
         }
     ]
 }
