@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-11-08T21:12:32.662865Z",
+    "lastUpdatedAt": "2025-11-08T22:12:56.555103Z",
     "articles": [
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "The Nasdaq fall: Index suffers steepest weekly drop since April amid AI stock sell-off and market jitters",
+            "url": "https://economictimes.indiatimes.com/news/international/us/the-nasdaq-fall-index-suffers-steepest-weekly-drop-since-april-amid-ai-stock-sell-off-and-market-jitters/articleshow/125182629.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-125182655,width-1200,height-630,imgsize-115908,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-11-08T09:52:00Z"
+        },
         {
             "source": {
                 "id": "7daf04fa6272ed0a29583b211dcfe1d4",
@@ -276,6 +288,15 @@
             "url": "https://www.thestar.com.my/tech/tech-news/2025/11/08/openai039s-altman-urges-us-to-expand-chips-act-tax-credit-for-ai-growth",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/08/3611916.jpg",
             "publishedAt": "2025-11-08T00:05:00Z"
+        },
+        {
+            "source": {
+                "name": "news24online"
+            },
+            "title": "‘India will be the biggest winner of AI race’ says NSE chief Ashish Chauhan – The story so far",
+            "url": "https://news24online.com/business/india-will-be-the-biggest-winner-of-ai-race-says-nse-chief-ashish-chauhan-the-story-so-far/664415/",
+            "urlToImage": "https://news24online.com/wp-content/uploads/2025/11/Ashish-Chauhan.jpg",
+            "publishedAt": "2025-11-08 09:33:15"
         },
         {
             "source": {
@@ -3180,24 +3201,6 @@
             "url": "https://tech.hindustantimes.com/tech/oppo-find-x9-5g-mobile-series-to-get-this-advanced-camera-feature-from-find-x8-ultra-71762500077450.html",
             "urlToImage": "https://images.hindustantimes.com/tech/img/2025/11/07/1600x900/Screenshot_2025-11-07_125226_1762500178526_1762500190051.png",
             "publishedAt": "2025-11-07 07:26:48"
-        },
-        {
-            "source": {
-                "name": "expresscomputer"
-            },
-            "title": "Smart, Secure, Scalable: The future of India’s enterprise tech stack",
-            "url": "https://www.expresscomputer.in/news/smart-secure-scalable-the-future-of-indias-enterprise-tech-stack/129291/",
-            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2025/11/07124934/EC_Mohan_Subrahmanya_Insight_Enterprises_750.jpg",
-            "publishedAt": "2025-11-07 07:20:00"
-        },
-        {
-            "source": {
-                "name": "thehansindia"
-            },
-            "title": "Microsoft’s New AI Division Aims to Outsmart Humans—But Only to Help Them Live Longer",
-            "url": "https://www.thehansindia.com/technology/tech-news/microsofts-new-ai-division-aims-to-outsmart-humansbut-only-to-help-them-live-longer-1021399",
-            "urlToImage": "https://assets.thehansindia.com/h-upload/2025/11/07/1599740-microsoft.webp",
-            "publishedAt": "2025-11-07 06:57:42"
         }
     ]
 }
