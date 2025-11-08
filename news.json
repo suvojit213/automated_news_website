@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2025-11-08T05:14:25.479613Z",
+    "lastUpdatedAt": "2025-11-08T06:21:15.093272Z",
     "articles": [
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "Big Tech's AI spending spree: Smart long-term bet or short-term risk?",
+            "url": "https://www.cnbc.com/2025/11/07/big-techs-ai-spending-spree-smart-long-term-bet-or-short-term-risk.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222872-1762496615369-gettyimages-2168262416-AMAZON_WEB_SERVICES.jpeg?v=1762538692&w=1920&h=1080",
+            "publishedAt": "2025-11-07T18:16:28Z"
+        },
+        {
+            "source": {
+                "id": "c04519542112d0e7f8d0152ed4b8c1bb",
+                "name": "The Leader Newspaper",
+                "url": "https://theleader.info",
+                "country": "es"
+            },
+            "title": "The Scientist Who Made David Beckham Speak Nine Languages",
+            "url": "https://theleader.info/2025/11/07/the-scientist-who-made-david-beckham-speak-nine-languages/",
+            "urlToImage": "https://j6n3r3q2.delivery.rocketcdn.me/wp-content/uploads/2025/11/Lourdes-De-Agapito-Vicente.jpg",
+            "publishedAt": "2025-11-07T18:08:26Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Meta plans $600 billion US spend as AI data centers expand",
+            "url": "https://www.reuters.com/business/meta-plans-600-billion-us-spend-ai-data-centers-expand-2025-11-07/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/UASZS7NRCROE5JMFIJDXFNVY4Y.jpg?auth=24a44ddd4d936414010a12c71f9f1172db630a519be49a4d33cf9487dfdba61d&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-11-07T17:59:44Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Meta plans $600 billion US spend as AI data centers expand",
+            "url": "https://www.marketscreener.com/news/meta-plans-600-billion-us-spend-as-ai-data-centers-expand-ce7d5fdade8bff21",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-11/2025-11-07T175901Z_1_LYNXMPELA60ZY_RTROPTP_4_META-PLATFORMS-USA-AI.JPG",
+            "publishedAt": "2025-11-07T17:59:21Z"
+        },
+        {
+            "source": {
+                "id": "3989f52bbec2d3be8442e2851b59e79e",
+                "name": "CBS Sports",
+                "url": "https://www.cbssports.com",
+                "country": "us"
+            },
+            "title": "NBA player props, picks, odds: Target Victor Wembanyama with Friday NBA best bets",
+            "url": "https://www.cbssports.com/nba/news/nba-player-props-picks-odds-victor-wembanyama-nba-best-bets-friday-nov-7/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/10/24/044c30db-8682-427c-a192-3334e601fb9d/thumbnail/1200x675/4cf986d0193bb81103941b2bade4c16a/victor-wembanyama-san-antonio-spurs-imagn-images.jpg",
+            "publishedAt": "2025-11-07T17:53:41Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Big Tech may win reprieve as EU mulls easing AI rules, document shows",
+            "url": "https://www.reuters.com/sustainability/boards-policy-regulation/big-tech-may-win-reprieve-eu-mulls-easing-ai-rules-document-shows-2025-11-07/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/RWXBP64ZGBI7ZP6GVFDGI4WWX4.jpg?auth=ebec4f3124090e064cdb77129ee9f2c0d43c92874455b7659da0233bf3dac64f&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-11-07T17:46:43Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Big Tech may win reprieve as EU mulls easing AI rules, document shows",
+            "url": "https://www.marketscreener.com/news/big-tech-may-win-reprieve-as-eu-mulls-easing-ai-rules-document-shows-ce7d5fdade8bf726",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2025-11-07T17:45:24Z"
+        },
+        {
+            "source": {
+                "id": "d4773b92da0613b8ffc2fc9c46229534",
+                "name": "Business Wire",
+                "url": "https://www.businesswire.com",
+                "country": "us"
+            },
+            "title": "Validation of FDA-Regulated Systems Used in Drug Development & Submissions Training Webinar: Using Artificial Intelligence (AI), Machine Learning (ML) & Large Language Models (LLMs), such as ChatGPT -",
+            "url": "https://www.businesswire.com/news/home/20251107607315/en/Validation-of-FDA-Regulated-Systems-Used-in-Drug-Development-Submissions-Training-Webinar-Using-Artificial-Intelligence-AI-Machine-Learning-ML-Large-Language-Models-LLMs-such-as-ChatGPT---ResearchAndMarkets.com",
+            "urlToImage": "https://mms.businesswire.com/media/20251107607315/en/2636985/22/logo.jpg",
+            "publishedAt": "2025-11-07T17:41:00Z"
+        },
+        {
+            "source": {
+                "id": "26269dbc42635df9af8c24f3cdab8e37",
+                "name": "Cable News Network",
+                "url": "https://edition.cnn.com",
+                "country": "us"
+            },
+            "title": "Nasdaq set for worst week since April as AI nerves flare",
+            "url": "https://edition.cnn.com/2025/11/07/investing/us-stock-market",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2208503345.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2025-11-07T17:34:25Z"
+        },
+        {
+            "source": {
+                "id": "77b86639d1384ac68141803ec5db27c0",
+                "name": "NBC News",
+                "url": "https://www.nbcnews.com",
+                "country": "us"
+            },
+            "title": "AI companies lose $1 trillion this week",
+            "url": "https://www.nbcnews.com/business/markets/stock-market-update-ai-losses-rcna242592",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251107-NYSE-ch-1157-e9e03d.jpg",
+            "publishedAt": "2025-11-07T17:30:24Z"
+        },
         {
             "source": {
                 "id": "7daf04fa6272ed0a29583b211dcfe1d4",
@@ -1368,6 +1488,87 @@
             "url": "https://www.morningstar.com/company-reports/1357589-akamai-is-increasingly-well-postured-for-heightened-edge-computing-and-cybersecurity-demand",
             "urlToImage": "https://www.morningstar.com/company-reports/:/[object Object]",
             "publishedAt": "2025-11-07T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "slashgear"
+            },
+            "title": "I Have Owned 8 Tablets: Here's What The Perfect One Would Look Like",
+            "url": "https://www.slashgear.com/2018581/tablet-owner-design-perfect-device-essential-specs-features/",
+            "urlToImage": "https://www.slashgear.com/img/gallery/i-have-owned-8-tablets-heres-what-the-perfect-one-would-look-like/l-intro-1762412180.jpg",
+            "publishedAt": "2025-11-07 18:15:00"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Tesla’s Silicon Surge: Musk’s Mega Fab Push to Dominate AI Autonomy",
+            "url": "https://www.webpronews.com/teslas-silicon-surge-musks-mega-fab-push-to-dominate-ai-autonomy/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-716-1762538829.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-11-07 18:07:14"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "GTA VI’s 2026 Delay: AI Compute Crunch Hits Gaming, Echoes in Enterprise Sims",
+            "url": "https://www.webpronews.com/gta-vis-2026-delay-ai-compute-crunch-hits-gaming-echoes-in-enterprise-sims/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-700-1762537751.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-11-07 17:49:15"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "AI’s Cyber Storm: Google’s 2026 Threat Forecast Unveiled",
+            "url": "https://www.webpronews.com/ais-cyber-storm-googles-2026-threat-forecast-unveiled/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-693-1762537421.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-11-07 17:43:45"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Ericsson’s Dataplex Edge: Revolutionizing Telecom Data Integrity",
+            "url": "https://www.webpronews.com/ericssons-dataplex-edge-revolutionizing-telecom-data-integrity/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-692-1762537419.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-11-07 17:43:43"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Siri’s Gemini Leap: Inside Apple’s $1B AI Overhaul with Google",
+            "url": "https://www.webpronews.com/siris-gemini-leap-inside-apples-1b-ai-overhaul-with-google/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-685-1762537040.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-11-07 17:37:23"
+        },
+        {
+            "source": {
+                "name": "thelincolnianonline"
+            },
+            "title": "Stifel Nicolaus Issues Pessimistic Forecast for Microchip Technology (NASDAQ:MCHP) Stock Price",
+            "url": "https://www.thelincolnianonline.com/2025/11/07/stifel-nicolaus-issues-pessimistic-forecast-for-microchip-technology-nasdaqmchp-stock-price.html",
+            "urlToImage": "https://www.marketbeat.com/logos/microchip-technology-inc-logo-1200x675.png",
+            "publishedAt": "2025-11-07 17:32:47"
+        },
+        {
+            "source": {
+                "name": "thelincolnianonline"
+            },
+            "title": "Microchip Technology (NASDAQ:MCHP) Price Target Cut to $60.00 by Analysts at TD Cowen",
+            "url": "https://www.thelincolnianonline.com/2025/11/07/microchip-technology-nasdaqmchp-price-target-cut-to-60-00-by-analysts-at-td-cowen.html",
+            "urlToImage": "https://www.marketbeat.com/logos/microchip-technology-inc-logo-1200x675.png",
+            "publishedAt": "2025-11-07 17:32:47"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Amazon’s Legal Assault on Perplexity’s AI Browser Ignites Tech Turf War",
+            "url": "https://www.webpronews.com/amazons-legal-assault-on-perplexitys-ai-browser-ignites-tech-turf-war/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-676-1762536633.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-11-07 17:30:37"
         },
         {
             "source": {
@@ -3057,234 +3258,6 @@
             "url": "https://www.cnbc.com/2025/11/06/alibaba-backed-moonshot-releases-new-ai-model-kimi-k2-thinking.html",
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222223-1762426471475-gettyimages-2224592709-TFSPI_15072025-8797.jpeg?v=1762426515&w=1920&h=1080",
             "publishedAt": "2025-11-06T15:37:23Z"
-        },
-        {
-            "source": {
-                "id": "bc002b453215c04fa081a97f2c6679b9",
-                "name": "The Hacker News",
-                "url": "https://thehackernews.com",
-                "country": "us"
-            },
-            "title": "Trojanized ESET Installers Drop Kalambur Backdoor in Phishing Attacks on Ukraine",
-            "url": "https://thehackernews.com/2025/11/trojanized-eset-installers-drop.html",
-            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJgTnRaxG26x8DH7Ls4GJHR837IVsXDgmZVGVAFPSaUr0X4T1L4SW86A1IiQ5xQpq4V6K3UGzTyCMT-YsMndBRtpkPCnNJJRiT00Md8zO0SFFuaRbQjaJVguUUPHQmnQmNrpZBLVxoqPUxqLfVpmqUHXgg6G8p_w13M4wqmIPXe5izThcbXU-NE85dW7W7/s790-rw-e365/software.jpg",
-            "publishedAt": "2025-11-06T15:31:00Z"
-        },
-        {
-            "source": {
-                "id": "a6d401909ca644c4ffb332486c9cfaea",
-                "name": "Seeking Alpha",
-                "url": "https://seekingalpha.com",
-                "country": "us"
-            },
-            "title": "Fortinet falls on outlook as analysts say it needs to increase Services revenue",
-            "url": "https://seekingalpha.com/news/4517381-fortinet-falls-on-outlook-as-analysts-say-it-needs-to-increase-services-revenue",
-            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1670649574/image_1670649574.jpg?io=getty-c-w630",
-            "publishedAt": "2025-11-06T15:23:01Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "IIM Ahmedabad launches blended MBA programme in Business Analytics and AI",
-            "url": "https://economictimes.indiatimes.com/industry/services/education/iim-ahmedabad-launches-blended-mba-programme-in-business-analytics-and-ai/articleshow/125137308.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-125137322,width-1200,height-630,imgsize-31078,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2025-11-06T15:12:00Z"
-        },
-        {
-            "source": {
-                "id": "0cecf842c67e3d7cc093daca6d9bdf9c",
-                "name": "Android Headlines",
-                "url": "https://www.androidheadlines.com",
-                "country": "us"
-            },
-            "title": "Google Scores Big Win as $32 Billion Wiz Deal Gets Approved",
-            "url": "https://www.androidheadlines.com/2025/11/google-scores-big-win-as-32-billion-wiz-deal-gets-approved.html",
-            "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2024/07/Google-Logo-AM-AH-3.jpg",
-            "publishedAt": "2025-11-06T15:08:25Z"
-        },
-        {
-            "source": {
-                "id": "60c457b35b486691319f105c3a760060",
-                "name": "Malayala Manorama",
-                "url": "https://www.onmanorama.com",
-                "country": "in"
-            },
-            "title": "Advanced AUV and Survey Boats: Navy commissions INS Ikshak, marks a new era in deep-sea mapping",
-            "url": "https://www.onmanorama.com/news/kerala/2025/11/06/ins-ikshak-hydrographic-survey-vessel.html",
-            "urlToImage": "https://img.onmanorama.com/content/dam/mm/en/archive/kerala/top-news/images/2025/11/6/ins-ikshak.jpg",
-            "publishedAt": "2025-11-06T15:05:45Z"
-        },
-        {
-            "source": {
-                "id": "3989f52bbec2d3be8442e2851b59e79e",
-                "name": "CBS Sports",
-                "url": "https://www.cbssports.com",
-                "country": "us"
-            },
-            "title": "NBA player props, picks, odds: Target Devin Booker with Thursday NBA best bets",
-            "url": "https://www.cbssports.com/nba/news/nba-player-props-picks-odds-back-devin-booker-over-3-5-rebounds-in-sgp-in-nba-best-bets-on-thursday-nov-6/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/11/06/0ed93fe9-5fc8-40ec-81fa-73505163220b/thumbnail/1200x675/90e56c4efc8a918357d28066991a0ef9/devin-booker-phoenix-suns-imagn-images.jpg",
-            "publishedAt": "2025-11-06T15:04:22Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "US lawmakers want FTC to investigate this license plate",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/us-lawmakers-want-ftc-to-investigate-this-license-plate-scanning-company-for-this-big-hacking-fear/articleshow/125136975.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-125137080,width-1070,height-580,imgsize-83075,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "publishedAt": "2025-11-06T15:00:00Z"
-        },
-        {
-            "source": {
-                "id": "bc002b453215c04fa081a97f2c6679b9",
-                "name": "The Hacker News",
-                "url": "https://thehackernews.com",
-                "country": "us"
-            },
-            "title": "Cisco Warns of New Firewall Attack Exploiting CVE-2025-20333 and CVE-2025-20362",
-            "url": "https://thehackernews.com/2025/11/cisco-warns-of-new-firewall-attack.html",
-            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguQICBrIAy4egpR3_L81WB0olktrtuDgh79KCVl2zRcttl5-nCoG-RTQFBOiQdLQVK13lu-f3oklHQjhSKwQykhysf0Qr0sJdAiqVApmDSX4VtNxo_ad7SghrmSmPPm5VrR0Xsp1ChzihXguS2unwEJcpsEOKE7fFdQSmnoVuhQDJcLL-MPuh9zwmRgW0f/s790-rw-e365/firewall.jpg",
-            "publishedAt": "2025-11-06T14:58:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Does King Charles use AI? Nvidia CEO Jensen Huang reveals the monarch’s mysterious letter on the future of Artificial Intelligence",
-            "url": "https://economictimes.indiatimes.com/magazines/panache/does-king-charles-use-ai-nvidia-ceo-jensen-huang-reveals-the-monarchs-mysterious-letter-on-the-future-of-artificial-intelligence/articleshow/125136768.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-125136914,width-1200,height-630,imgsize-1134821,overlay-etpanache/articleshow.jpg",
-            "publishedAt": "2025-11-06T14:48:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Stagwell Shares Surge Premarket After Palantir Deal, Earnings Growth",
-            "url": "https://www.marketscreener.com/news/stagwell-shares-surge-premarket-after-palantir-deal-earnings-growth-ce7d5cd2d18df624",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2025-11-06T14:25:19Z"
-        },
-        {
-            "source": {
-                "id": "23ca80edba9c670741bdbfc4acd3e991",
-                "name": "The Statesman",
-                "url": "https://www.thestatesman.com",
-                "country": "in"
-            },
-            "title": "Foundation laid for Agra Science Park, to showcase Digital India with AI, robotics, and cybersecurity",
-            "url": "https://www.thestatesman.com/india/foundation-laid-for-agra-science-park-to-showcase-digital-india-with-ai-robotics-and-cybersecurity-1503508460.html",
-            "urlToImage": "https://www.thestatesman.com/wp-content/uploads/2025/11/Untitled-design-32-4.webp",
-            "publishedAt": "2025-11-06T14:24:46Z"
-        },
-        {
-            "source": {
-                "id": "97497c18f5cb431f5f324b3d8643c24f",
-                "name": "The Independent",
-                "url": "https://www.independent.co.uk",
-                "country": "gb"
-            },
-            "title": "Revealed: The shockingly weak password for the Louvre’s security system during heist",
-            "url": "https://www.independent.co.uk/news/world/europe/louvre-security-password-museum-heist-burglary-b2859831.html",
-            "urlToImage": "https://static.independent.co.uk/2025/10/27/14/28/French-CRS-riot-police-walk-near-the-glass-Pyramid-of-the-Louvre-Museum-sh9mvf11.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-            "publishedAt": "2025-11-06T14:23:16Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "AI can speed antibody design to thwart novel viruses",
-            "url": "https://medicalxpress.com/news/2025-11-ai-antibody-thwart-viruses.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/ai-can-speed-antibody.jpg",
-            "publishedAt": "2025-11-06T14:20:04Z"
-        },
-        {
-            "source": {
-                "id": "3bd4bd306c42647825fa42989624c036",
-                "name": "Livemint",
-                "url": "https://www.livemint.com",
-                "country": "in"
-            },
-            "title": "Microsoft lays out ambitious AI vision, free from OpenAI",
-            "url": "https://www.livemint.com/companies/microsoft-lays-out-ambitious-ai-vision-free-from-openai-11762438646125.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2025/11/06/1600x900/logo/im-67522470_1762438650514_1762438703640.jpg",
-            "publishedAt": "2025-11-06T14:19:30Z"
-        },
-        {
-            "source": {
-                "id": "e553cce06d349ac1f7fbb7618a979256",
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com",
-                "country": "us"
-            },
-            "title": "Mark Zuckerberg and Priscilla Chan Restructure Their Philanthropy",
-            "url": "https://www.nytimes.com/2025/11/06/technology/zuckerberg-chan-initiative-biohub.html",
-            "urlToImage": "https://static01.nyt.com/images/2025/11/05/multimedia/biz-czi-1-gzcp/biz-czi-1-gzcp-facebookJumbo.jpg",
-            "publishedAt": "2025-11-06T14:15:06Z"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            },
-            "title": "Ryan Reynolds-backed 1Password tops $400 million in ARR",
-            "url": "https://www.cnbc.com/2025/11/06/ryan-reynolds-backed-1password-tops-400-million-in-arr.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108221975-1762372281567-Untitled-2.jpg?v=1762372336&w=1920&h=1080",
-            "publishedAt": "2025-11-06T14:00:01Z"
-        },
-        {
-            "source": {
-                "id": "f4d035ae0463df22c36ae97972a33ba6",
-                "name": "PR Newswire UK",
-                "url": "https://www.prnewswire.co.uk",
-                "country": "gb"
-            },
-            "title": "Cybercriminals Deploy Creative, Laser-Focused Tactics to Bypass Traditional Email Defenses, VIPRE's Q3 2025 Email Threat Report Reveals",
-            "url": "https://www.prnewswire.co.uk/news-releases/cybercriminals-deploy-creative-laser-focused-tactics-to-bypass-traditional-email-defenses-vipres-q3-2025-email-threat-report-reveals-302606073.html",
-            "urlToImage": "https://www.prnewswire.co.uk/content/dam/prnewswire/icons/2019-Q4-PRN-Icon-32-32.png",
-            "publishedAt": "2025-11-06T14:00:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Atos awarded by Madrid City Council the evolution and maintenance of its Artificial Intelligence platform",
-            "url": "https://www.manilatimes.net/2025/11/06/tmt-newswire/globenewswire/atos-awarded-by-madrid-city-council-the-evolution-and-maintenance-of-its-artificial-intelligence-platform/2217959",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/11/06/816197.jpg",
-            "publishedAt": "2025-11-06T13:52:35Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Cority set to launch its artificial intelligence suite at new global event",
-            "url": "https://www.manilatimes.net/2025/11/06/tmt-newswire/globenewswire/cority-set-to-launch-its-artificial-intelligence-suite-at-new-global-event/2217936",
-            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-            "publishedAt": "2025-11-06T13:52:06Z"
         }
     ]
 }
