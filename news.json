@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-11-09T08:18:01.869454Z",
+    "lastUpdatedAt": "2025-11-09T09:14:05.585948Z",
     "articles": [
+        {
+            "source": {
+                "id": "732b46cdef66b68ee2fbc940e79f81de",
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com",
+                "country": "us"
+            },
+            "title": "Is Wall Street losing faith in AI?",
+            "url": "https://techcrunch.com/2025/11/08/is-wall-street-losing-faith-in-ai/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages.jpg?resize=1200,800",
+            "publishedAt": "2025-11-08T20:53:00Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "Chinese microdrama creators turn to AI despite job loss concerns",
+            "url": "https://japantoday.com/category/tech/chinese-microdrama-creators-turn-to-ai-despite-job-loss-concerns",
+            "urlToImage": "https://media.japantoday.com/img/store/04/97/1a659a0dc928ed5fa96bb2eaabb4b4100caf/3f1aa92705a37009d0a70829fcb5ec0af8f674e7/_w1700.jpeg",
+            "publishedAt": "2025-11-08T20:52:00Z"
+        },
         {
             "source": {
                 "id": "105bb16685822879671e4bad332aeec9",
@@ -696,6 +720,15 @@
             "url": "https://www.thestar.com.my/tech/tech-news/2025/11/08/openai039s-altman-urges-us-to-expand-chips-act-tax-credit-for-ai-growth",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/08/3611916.jpg",
             "publishedAt": "2025-11-08T00:05:00Z"
+        },
+        {
+            "source": {
+                "name": "headtopics"
+            },
+            "title": "Perplexity AI Accuses Amazon of 'Bullying' Over AI-Powered Shopping",
+            "url": "https://us.headtopics.com/news/perplexity-ai-accuses-amazon-of-bullying-over-ai-powered-75553002",
+            "urlToImage": "https://i.headtopics.com/images/2025/11/8/breitbartnews/perplexity-ai-accuses-amazon-of-bullying-over-ai-p-perplexity-ai-accuses-amazon-of-bullying-over-ai-p-9A6EF7FCA92945A6E8D248E7960550B7.webp",
+            "publishedAt": "2025-11-08 21:09:39"
         },
         {
             "source": {
@@ -3276,33 +3309,6 @@
             "url": "https://www.wvnews.com/news/around_the_web/partners/pr_newswire/subject/new_products_services/nirmata-launches-ai-platform-engineer-to-automate-cloud-native-infrastructure-governance-and-management/article_661a1684-0117-53e9-9cd9-e33f4fe19966.html",
             "urlToImage": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/assets/v3/editorial/5/6f/56fb4a14-72c4-56fa-a015-4fd16c7e5f23/690ca69bf423b.image.jpg?resize=300%2C71",
             "publishedAt": "2025-11-07 19:46:00"
-        },
-        {
-            "source": {
-                "name": "fastcompany"
-            },
-            "title": "Sweetgreen’s dream of being a tech company is finally dead",
-            "url": "https://www.fastcompany.com/91437395/sweetgreen-spyce-wonder-tech?partner=rss",
-            "urlToImage": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2025/11/p-2-91437395-sweetgreens-infinite-kitchen.jpg",
-            "publishedAt": "2025-11-07 19:41:47"
-        },
-        {
-            "source": {
-                "name": "insider"
-            },
-            "title": "The 4 best soundbars for upgrading your TV speakers",
-            "url": "https://www.businessinsider.com/guides/tech/best-soundbars",
-            "urlToImage": "https://i.insider.com/690e41eb21c3f142ebfc567b?width=700",
-            "publishedAt": "2025-11-07 19:39:11"
-        },
-        {
-            "source": {
-                "name": "truthout"
-            },
-            "title": "With Big Tech Talking Government Backing, Has OpenAI Become “Too Big to Fail”?",
-            "url": "https://truthout.org/articles/with-big-tech-talking-government-backing-has-openai-become-too-big-to-fail/",
-            "urlToImage": "https://truthout.org/app/uploads/2025/11/GettyImages-2194584986-1200x800.jpg",
-            "publishedAt": "2025-11-07 19:07:10"
         }
     ]
 }
