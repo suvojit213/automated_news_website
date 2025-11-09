@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-11-09T13:20:52.104142Z",
+    "lastUpdatedAt": "2025-11-09T14:12:35.090612Z",
     "articles": [
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "When AI helped doctors navigate the human lung, and save a life",
+            "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/when-ai-helped-doctors-navigate-the-human-lung-and-save-a-life/articleshow/125188813.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-125188797,width-1070,height-580,imgsize-143251,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-11-09T02:09:00Z"
+        },
         {
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -3321,15 +3333,6 @@
             "url": "https://www.zdnet.com/article/a-new-chinese-ai-model-claims-to-outperform-gpt-5-and-sonnet-4-5-and-its-free/",
             "urlToImage": "https://www.zdnet.com/a/img/resize/62bdf0f5970560386974dbb5c216bfe9436f4843/2025/11/07/fa2dc887-c605-47c7-a4f2-c513cd5e22ea/redmoongettyimages-1313254535.jpg?auto=webp&width=1280",
             "publishedAt": "2025-11-07 22:07:28"
-        },
-        {
-            "source": {
-                "name": "fortune"
-            },
-            "title": "AI reasoning models that can ‘think’ are more vulnerable to jailbreak attacks, new research suggests",
-            "url": "https://fortune.com/2025/11/07/ai-reasoning-models-more-vulnerable-jailbreak-attacks-study/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-1309760279-e1762552772450.jpg?w=2048",
-            "publishedAt": "2025-11-07 22:00:48"
         }
     ]
 }
