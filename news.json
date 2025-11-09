@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-11-09T01:17:18.929286Z",
+    "lastUpdatedAt": "2025-11-09T03:10:09.204944Z",
     "articles": [
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Seminar on ‘Wheat in Transformation’ concludes with industry calling for tech",
+            "url": "https://www.tribuneindia.com/news/chandigarh/seminar-on-wheat-in-transformation-concludes-with-industry-calling-for-tech-driven-growth/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTVhODQ3MjUwLWJjYjQtMTFmMC1iMDY0LWVkNWUyYTYzNDljNy5qcGc=",
+            "publishedAt": "2025-11-08T15:05:14Z"
+        },
+        {
+            "source": {
+                "id": "269ea9e0bf9ef1dfb1c11ac207999d23",
+                "name": "Ventura County Star",
+                "url": "https://www.vcstar.com",
+                "country": "us"
+            },
+            "title": "Your Turn | Fear of AI is rooted in fear of ourselves",
+            "url": "https://www.vcstar.com/story/opinion/2025/11/08/your-turn-fear-of-ai-is-rooted-in-fear-of-ourselves/87108436007/",
+            "urlToImage": "https://www.vcstar.com/gcdn/authoring/authoring-images/2025/09/24/USAT/86332233007-20250701-t-195823-z-1575542483-rc-2-q-56-an-99-z-3-rtrmadp-3-healthaimisinformation.JPG?crop=2999,1688,x0,y187&width=2999&height=1688&format=pjpg&auto=webp",
+            "publishedAt": "2025-11-08T15:00:27Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Assam: Nirmala Sitharaman lays foundation for University that will focus on AI, cybersecurity, drone tech, quantum computing",
+            "url": "https://www.tribuneindia.com/news/business/assam-nirmala-sitharaman-lays-foundation-for-university-that-will-focus-on-ai-cybersecurity-drone-tech-quantum-computing/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWFmNDBhMzQwLWJjYTUtMTFmMC1iMDY0LWVkNWUyYTYzNDljNy5qcGc=",
+            "publishedAt": "2025-11-08T13:20:18Z"
+        },
         {
             "source": {
                 "id": "f2ddccedc9e60d844e7a1045928cad48",
@@ -468,6 +504,96 @@
             "url": "https://www.thestar.com.my/tech/tech-news/2025/11/08/openai039s-altman-urges-us-to-expand-chips-act-tax-credit-for-ai-growth",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/08/3611916.jpg",
             "publishedAt": "2025-11-08T00:05:00Z"
+        },
+        {
+            "source": {
+                "name": "hackread"
+            },
+            "title": "FBI Wants to Know Who Runs Archive.ph",
+            "url": "https://hackread.com/fbi-wants-to-know-who-runs-archive-ph/",
+            "urlToImage": "https://hackread.com/wp-content/uploads/2025/11/fbi-subpoena-anonymous-archive-ph-owner-2.jpg",
+            "publishedAt": "2025-11-08 15:05:31"
+        },
+        {
+            "source": {
+                "name": "futurism"
+            },
+            "title": "Scientists Say They’ve Figured Out How to Transcribe Your Thoughts From an MRI Scan",
+            "url": "https://futurism.com/health-medicine/scientists-transcribe-thoughts-mri-scan",
+            "urlToImage": "https://futurism.com/wp-content/uploads/2025/11/scientists-transcribe-thoughts-mri-scan.jpg?quality=85",
+            "publishedAt": "2025-11-08 14:45:00"
+        },
+        {
+            "source": {
+                "name": "theprint"
+            },
+            "title": "The AI showdown: How the US and China stack up",
+            "url": "https://theprint.in/tech/the-ai-showdown-how-the-us-and-china-stack-up/2780045/",
+            "urlToImage": "https://static.theprint.in/wp-content/uploads/2025/11/ChatGPT-696x392.png",
+            "publishedAt": "2025-11-08 14:38:50"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "Your Doctor Recommends Robotic Surgery – You Should Be Skeptical",
+            "url": "https://www.forbes.com/sites/peterubel/2025/11/08/your-doctor-recommends-robotic-surgery--you-should-be-skeptical/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/690e67927b7cd7efeda2fbb1/0x0.jpg?width=960",
+            "publishedAt": "2025-11-08 14:30:00"
+        },
+        {
+            "source": {
+                "name": "toi"
+            },
+            "title": "Google takes aim at Nvidia, rolls out its most powerful AI chip",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-takes-aim-at-nvidia-rolls-out-its-most-powerful-ai-chip/articleshow/125186720.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-125186710,imgsize-136170,width-400,resizemode-4/google-unveils-2027-plan-launch-solar-powered-ai-datacentres-into-space-heres-how-itll-work.jpg",
+            "publishedAt": "2025-11-08 14:29:34"
+        },
+        {
+            "source": {
+                "name": "news24online"
+            },
+            "title": "Intensive AI investment hype part of US ‘Awe and Shock’ model: NSE CEO Ashish Chauhan",
+            "url": "https://news24online.com/tech/intensive-ai-investment-hype-part-of-us-awe-and-shock-model-nse-ceo-ashish-chauhan/664563/",
+            "urlToImage": "https://news24online.com/wp-content/uploads/2025/11/Ashish-Chauhan.jpg",
+            "publishedAt": "2025-11-08 14:29:15"
+        },
+        {
+            "source": {
+                "name": "thehackernews"
+            },
+            "title": "Microsoft Uncovers 'Whisper Leak' Attack That Identifies AI Chat Topics in Encrypted Traffic",
+            "url": "https://thehackernews.com/2025/11/microsoft-uncovers-whisper-leak-attack.html",
+            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpBHsV_c7cesyV98XY3_PW3Ag8I1NBsboj592iw07Rlmy2xCs3QTpBUcZf59rmLBCo4JppU4HFF9GU8H7i_ADzqyvO_IxWj3GZWoVkzsh4GRWHyD1LSPWZgUEii8SnZE_BJxTmJMdG8RfstqNmGNIRcUdshTfQcPTJRVzVUJopn6FrCk5KvI0xc18Vy7bk/s1600/ai-leak.jpg",
+            "publishedAt": "2025-11-08 14:29:00"
+        },
+        {
+            "source": {
+                "name": "siasat"
+            },
+            "title": "IIT-Delhi open house spotlights future tech, AI to health",
+            "url": "https://www.siasat.com/iit-delhi-open-house-spotlights-future-tech-ai-to-health-3293458/",
+            "urlToImage": "https://cdn.siasat.com/wp-content/uploads/2025/11/IIT_Delhi.jpg",
+            "publishedAt": "2025-11-08 14:28:28"
+        },
+        {
+            "source": {
+                "name": "ieee_spectrum"
+            },
+            "title": "AI Models Fail Miserably at This One Easy Task: Telling Time",
+            "url": "https://spectrum.ieee.org/large-language-models-reading-clocks",
+            "urlToImage": "https://spectrum.ieee.org/media-library/a-digitally-structured-tree-with-a-melting-clock-hanging-off-one-of-its-branches-the-concept-resembles-salvador-dali-s-persist.jpg?id=62053134&width=980",
+            "publishedAt": "2025-11-08 14:00:03"
+        },
+        {
+            "source": {
+                "name": "benzinga"
+            },
+            "title": "Balvionex Unveiled: How Balvionex Introduces Advanced AI for Real-Time Trading Efficiency",
+            "url": "https://www.benzinga.com/pressreleases/25/11/g48739242/balvionex-unveiled-how-balvionex-introduces-advanced-ai-for-real-time-trading-efficiency",
+            "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/81720585-785f-4f38-847d-d9b2a9f9cd98/image1.jpeg",
+            "publishedAt": "2025-11-08 13:47:02"
         },
         {
             "source": {
@@ -3129,123 +3255,6 @@
             "url": "https://www.cnet.com/tech/computing/best-windows-laptop/",
             "urlToImage": "https://www.cnet.com/a/img/resize/b3e09b11d54946d79cb8ce54e7ab3221ef7ed177/hub/2024/11/22/23941d67-4cf3-413b-90f1-eba5a9b4ec7c/microsoft-surface-laptop-7.jpg?auto=webp&fit=crop&height=675&width=1200",
             "publishedAt": "2025-11-07 14:45:00"
-        },
-        {
-            "source": {
-                "name": "androidheadlines"
-            },
-            "title": "Samsung to Unveil LPDDR6 RAM and AI-Optimized SSD at CES 2026",
-            "url": "https://www.androidheadlines.com/2025/11/samsung-to-unveil-lpddr6-ram-and-ai-optimized-ssd-at-ces-2026.html",
-            "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2024/08/Samsung-thinnest-LPDDR5X-RAM-image-3-1420x946.webp",
-            "publishedAt": "2025-11-07 14:28:56"
-        },
-        {
-            "source": {
-                "name": "wvnews"
-            },
-            "title": "Qount Unveils Next-Generation UX/UI Redesign -- A Whole New Way for Firms to Work Smarter",
-            "url": "https://www.wvnews.com/news/around_the_web/partners/pr_newswire/subject/new_products_services/qount-unveils-next-generation-ux-ui-redesign----a-whole-new-way-for/article_892bba2f-a53a-5354-82c3-8ef8d5d5161f.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/assets/v3/editorial/f/e1/fe154586-71a3-54d5-9915-01a94ac41b7e/690e05fdaa84e.image.jpg?resize=300%2C200",
-            "publishedAt": "2025-11-07 14:23:00"
-        },
-        {
-            "source": {
-                "name": "thestreet"
-            },
-            "title": "Tesla robot rival makes major statement",
-            "url": "https://www.thestreet.com/technology/tesla-robot-rival-makes-major-statement",
-            "urlToImage": "https://www.thestreet.com/.image/c_fit,h_800,w_1200/MjEzNjIxNjQwMjU5NDQ2MjIz/elon-musk-not-happy.jpg",
-            "publishedAt": "2025-11-07 14:03:00"
-        },
-        {
-            "source": {
-                "name": "vanderbilt"
-            },
-            "title": "Vanderbilt Peabody faculty receive NSF grant to study how conversation shapes memory, with applications for AI and education",
-            "url": "https://news.vanderbilt.edu/2025/11/07/vanderbilt-peabody-faculty-receive-nsf-grant-to-study-how-conversation-shapes-memory-with-applications-for-ai-and-education/",
-            "urlToImage": "https://i1.wp.com/news.vanderbilt.edu/files/Sarah-Brown-Schmidt-Headshot-1.jpg?crop=1&h=446&ssl=1&w=446",
-            "publishedAt": "2025-11-07 14:00:37"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "Scala Data Centers, Lightera, and Nokia conduct the first AccuCore HCFTM (Hollow Core Fiber) test in Latin America",
-            "url": "https://www.prnewswire.com/news-releases/scala-data-centers-lightera-and-nokia-conduct-the-first-accucore-hcf-hollow-core-fiber-test-in-latin-america-302607979.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2739227/scala_light_01_cmyk_Logo.jpg?p=original",
-            "publishedAt": "2025-11-07 14:00:00"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "Simplilearn Recognized for 5th Consecutive Year on Training Industry's 2025 Top 20 IT and Technical Training Companies List",
-            "url": "https://www.prnewswire.com/news-releases/simplilearn-recognized-for-5th-consecutive-year-on-training-industrys-2025-top-20-it-and-technical-training-companies-list-302608708.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2817043/SIMPLILEARN_Training_Industry.jpg?p=original",
-            "publishedAt": "2025-11-07 13:55:00"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "OpenAI’s leaked GPT-5.1 ‘Thinking’ model could outsmart Gemini 3 Pro — here’s why that matters",
-            "url": "https://www.tomsguide.com/ai/chatgpt/openais-leaked-gpt-5-1-thinking-model-could-outsmart-gemini-3-pro-heres-why-that-matters",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/8upD2jfA5tffnQAiFbkokL-1280-80.jpg",
-            "publishedAt": "2025-11-07 13:01:57"
-        },
-        {
-            "source": {
-                "name": "hastingstribune"
-            },
-            "title": "Dupixent® (dupilumab) Pivotal Trial Met All Primary and Secondary Endpoints, Reducing Signs and ...",
-            "url": "https://www.hastingstribune.com/ap/business/dupixent-dupilumab-pivotal-trial-met-all-primary-and-secondary-endpoints-reducing-signs-and/article_4527a099-7898-5ccf-93c0-99b45bf0ccfa.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/hastingstribune.com/content/tncms/custom/image/7b43d562-eeac-11e4-8a7b-970670abfcb2.jpg?resize=600%2C315",
-            "publishedAt": "2025-11-07 13:00:42"
-        },
-        {
-            "source": {
-                "name": "popsugar"
-            },
-            "title": "\"Friends-First\" Dating Is Keeping the Dream of the Meet-Cute Alive",
-            "url": "https://www.popsugar.com/love/friends-first-dating-gen-z-49465744",
-            "urlToImage": "https://media1.popsugar-assets.com/files/thumbor/9UAcuKxm_iPH-SICCWGZeetlap8=/fit-in/792x528/top/filters:format_auto():upscale()/2025/11/06/949/n/3019466/tmp_pVl9LS_6eb9b18a52d3dedf_GettyImages-160938882.jpg",
-            "publishedAt": "2025-11-07 13:00:02"
-        },
-        {
-            "source": {
-                "name": "fortune"
-            },
-            "title": "Exclusive: Mercury, valued at $3.5 billion, clocks $650 million in 2025 annualized revenue",
-            "url": "https://fortune.com/2025/11/07/exclusive-mercury-fintech-valuation-650-million-2025-annualized-revenue-immad-akhund-interview/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2215565676.jpg?w=2048",
-            "publishedAt": "2025-11-07 12:47:14"
-        },
-        {
-            "source": {
-                "name": "hindustantimes"
-            },
-            "title": "IIM Kozhikode and Emeritus Announce Chief Product AI-Driven Strategy Officer Programme to Build AI-First Product Leaders",
-            "url": "https://www.hindustantimes.com/brand-stories/iim-kozhikode-and-emeritus-announce-chief-product-ai-driven-strategy-officer-programme-to-build-ai-first-product-l-101762518878836.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/11/07/1600x900/logo/Logo_1762519019718_1762519019850.png",
-            "publishedAt": "2025-11-07 12:40:13"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Ethereum Price Prediction 2026-2028: $10K Target Can Give 164% Gains - But Ozak AI Predicted to Reach $1.80 from $0.014 Which Gives14,900% Gains That ETH Cannot",
-            "url": "https://www.analyticsinsight.net/cryptocurrency-analytics-insight/ethereum-price-prediction-2026-2028-10k-target-can-give-164-gains-but-ozak-ai-predicted-to-reach-180-from-0014-which-gives14900-gains-that-eth-cannot",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-11-07%2Fhgfo13mo%2FEthereum-Price-Prediction-2026-2028-10K-Target-Can-Give-164-Gains-But-Ozak-AI-Predicted-to-Reach-1.80-from-0.014-Which-Gives14900-Gains-That-ETH-Cannot?ar=40%3A21&auto=format%2Ccompress&enlarge=true&mode=crop&ogImage=true&overlay=false&overlay_position=bottom&overlay_width=100&w=1200",
-            "publishedAt": "2025-11-07 12:38:04"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "Amazon cracks down on Fire Stick apps – could you be affected?",
-            "url": "https://www.tomsguide.com/computing/vpns/amazon-cracks-down-on-fire-stick-apps-could-you-be-affected",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Q5RUVzBq77zy5pyVx8JMHa-1280-80.jpg",
-            "publishedAt": "2025-11-07 12:37:52"
         }
     ]
 }
