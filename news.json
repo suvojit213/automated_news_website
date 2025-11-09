@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-11-09T07:13:47.871696Z",
+    "lastUpdatedAt": "2025-11-09T08:18:01.869454Z",
     "articles": [
+        {
+            "source": {
+                "id": "105bb16685822879671e4bad332aeec9",
+                "name": "The Mirror",
+                "url": "https://www.mirror.co.uk",
+                "country": "gb"
+            },
+            "title": "War veterans struggling to find work are retraining in AI and cybersecurity",
+            "url": "https://www.mirror.co.uk/news/uk-news/war-veterans-struggling-find-work-36214379",
+            "urlToImage": "https://i2-prod.mirror.co.uk/article36214421.ece/ALTERNATES/s1200/2_CCP_NEC_150825_VJDAY042JPG.jpg",
+            "publishedAt": "2025-11-08T19:41:10Z"
+        },
         {
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -684,6 +696,33 @@
             "url": "https://www.thestar.com.my/tech/tech-news/2025/11/08/openai039s-altman-urges-us-to-expand-chips-act-tax-credit-for-ai-growth",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/08/3611916.jpg",
             "publishedAt": "2025-11-08T00:05:00Z"
+        },
+        {
+            "source": {
+                "name": "thehindu"
+            },
+            "title": "How is AI going to be regulated in India? | Explained",
+            "url": "https://www.thehindu.com/sci-tech/technology/how-is-ai-going-to-be-regulated-in-india-explained/article70257280.ece",
+            "urlToImage": "https://th-i.thgim.com/public/news/national/ut4j8i/article70257344.ece/alternates/LANDSCAPE_1200/iStock-2123170383.jpg",
+            "publishedAt": "2025-11-08 20:02:00"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "GenAI Incident Severity Matrix: Custom Scoring Model for Cybersecurity Response",
+            "url": "https://hackernoon.com/genai-incident-severity-matrix-custom-scoring-model-for-cybersecurity-response",
+            "urlToImage": "https://hackernoon.imgix.net/images/4ktYJul4oHaIGfJAJPOJMZgObXg1-4k022pd.png",
+            "publishedAt": "2025-11-08 19:45:03"
+        },
+        {
+            "source": {
+                "name": "unionleader"
+            },
+            "title": "Inside the race to train AI robots how to act human in the real world",
+            "url": "https://www.unionleader.com/news/business/inside-the-race-to-train-ai-robots-how-to-act-human-in-the-real-world/article_92263d19-77ae-4aad-b96c-6707a6bed883.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/assets/v3/editorial/d/6d/d6dfd465-68aa-4dde-be62-a77a96cc1b9a/690ba451b45b9.image.jpg?resize=400%2C267",
+            "publishedAt": "2025-11-08 19:22:00"
         },
         {
             "source": {
@@ -3264,42 +3303,6 @@
             "url": "https://truthout.org/articles/with-big-tech-talking-government-backing-has-openai-become-too-big-to-fail/",
             "urlToImage": "https://truthout.org/app/uploads/2025/11/GettyImages-2194584986-1200x800.jpg",
             "publishedAt": "2025-11-07 19:07:10"
-        },
-        {
-            "source": {
-                "name": "thelincolnianonline"
-            },
-            "title": "Microchip Technology (NASDAQ:MCHP) Posts Earnings Results, Beats Expectations By $0.02 EPS",
-            "url": "https://www.thelincolnianonline.com/2025/11/07/microchip-technology-nasdaqmchp-posts-earnings-results-beats-expectations-by-0-02-eps.html",
-            "urlToImage": "https://www.marketbeat.com/logos/microchip-technology-inc-logo-1200x675.png",
-            "publishedAt": "2025-11-07 19:02:44"
-        },
-        {
-            "source": {
-                "name": "livescience"
-            },
-            "title": "Watch: Chinese company's new humanoid robot moves so smoothly, they had to cut it open to prove a person wasn't hiding inside",
-            "url": "https://www.livescience.com/technology/robotics/watch-chinese-companys-new-humanoid-robot-moves-so-smoothly-they-had-to-cut-it-open-to-prove-a-person-wasnt-hiding-inside",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/MawfjrHhaeUgj8uhKWsicJ-1280-80.jpg",
-            "publishedAt": "2025-11-07 19:00:00"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "AI Doesn’t Need Latest And Greatest GPUs To Be Impactful",
-            "url": "https://www.forbes.com/sites/tiriasresearch/2025/11/07/ai-doesnt-need-latest-and-greatest-gpus-to-be-impactful/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/690e3d65729487439babc0ad/0x0.jpg?width=960",
-            "publishedAt": "2025-11-07 18:52:38"
-        },
-        {
-            "source": {
-                "name": "notebookcheck"
-            },
-            "title": "New model, original design: LG Gram 17 2025 (Lunar Lake) laptop review",
-            "url": "https://www.notebookcheck.net/New-model-original-design-LG-Gram-17-2025-Lunar-Lake-laptop-review.1157955.0.html",
-            "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/LG/gram_17_2025_2817Z90TL29/LG-Gram-2025-01-15.jpg",
-            "publishedAt": "2025-11-07 18:42:00"
         }
     ]
 }
