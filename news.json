@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-11-09T04:18:19.572940Z",
+    "lastUpdatedAt": "2025-11-09T05:14:37.152950Z",
     "articles": [
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "It was a 'perfect' job interview, until ‘tiny twitches’ made him question reality. 'Wasn't even human'",
+            "url": "https://economictimes.indiatimes.com/magazines/panache/it-was-a-perfect-job-interview-until-tiny-twitches-made-him-question-reality-wasnt-even-human/articleshow/125187969.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-125188169,width-1200,height-630,imgsize-21880,overlay-etpanache/articleshow.jpg",
+            "publishedAt": "2025-11-08T16:36:00Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -600,6 +612,51 @@
             "url": "https://www.thestar.com.my/tech/tech-news/2025/11/08/openai039s-altman-urges-us-to-expand-chips-act-tax-credit-for-ai-growth",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/08/3611916.jpg",
             "publishedAt": "2025-11-08T00:05:00Z"
+        },
+        {
+            "source": {
+                "name": "slashgear"
+            },
+            "title": "The Ingenious Way Traffic Lights Worked Before Computers Were Invented",
+            "url": "https://www.slashgear.com/2007686/how-traffic-lights-worked-before-computers/",
+            "urlToImage": "https://www.slashgear.com/img/gallery/the-ingenious-way-traffic-lights-worked-before-computers-were-invented/l-intro-1761513114.jpg",
+            "publishedAt": "2025-11-08 16:45:00"
+        },
+        {
+            "source": {
+                "name": "xda_developers"
+            },
+            "title": "5 retro consoles the Raspberry Pi can perfectly emulate",
+            "url": "https://www.xda-developers.com/retro-consoles-raspberry-pi-perfectly-emulate/",
+            "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/09/6-features-that-make-batocera-the-undeniable-king-of-retro-emulation-operating-systems-featured.jpeg",
+            "publishedAt": "2025-11-08 16:30:21"
+        },
+        {
+            "source": {
+                "name": "hcplive"
+            },
+            "title": "Allocation Out of Sequence in Liver Transplantation Introduces Systematic Disparities in Access",
+            "url": "https://www.hcplive.com/view/allocation-out-sequence-liver-transplantation-introduces-systematic-disparities-access",
+            "urlToImage": "https://cdn.sanity.io/images/0vv8moc6/hcplive/f7030fcf6ea5fdb6aa1bdee7399016ef2a1bdc53-1200x630.png",
+            "publishedAt": "2025-11-08 16:30:14"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "FreeBSD 15.0 Beta 5: Cloud Tweaks Signal Imminent Stability Push",
+            "url": "https://www.webpronews.com/freebsd-15-0-beta-5-cloud-tweaks-signal-imminent-stability-push/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-744-1762619351.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-11-08 16:29:15"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "AI Inequality Deepens as Layoffs Surge and Power Centralizes",
+            "url": "https://www.analyticsinsight.net/news/ai-inequality-deepens-as-layoffs-surge-and-power-centralizes",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-05-19%2Fh6l54i1w%2FAI-Blamed-as-Big-Tech-Layoffs-Surge-in-the-Name-of-Automationw.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-11-08 16:27:03"
         },
         {
             "source": {
@@ -3225,60 +3282,6 @@
             "url": "https://www.pcworld.com/article/813301/best-gaming-monitors.html",
             "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/11/dell-3223q-1.jpg?quality=50&strip=all",
             "publishedAt": "2025-11-07 17:00:00"
-        },
-        {
-            "source": {
-                "name": "stanford"
-            },
-            "title": "The future of emerging technologies",
-            "url": "https://engineering.stanford.edu/news/future-emerging-technologies",
-            "urlToImage": "https://engineering.stanford.edu/sites/default/files/styles/card_1192x596/public/media/image/tfoe-secrice_v2_0.png?h=d1cb525d&itok=MfJXJRe4",
-            "publishedAt": "2025-11-07 17:00:00"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "Why Sam Altman Won’t Be On The Hook For OpenAI’s Massive Spending Spree",
-            "url": "https://www.forbes.com/sites/rashishrivastava/2025/11/07/why-sam-altman-wont-be-on-the-hook-for-openais-massive-spending-spree/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/690e29facf1f73234e4a8ed2/0x0.jpg?width=960",
-            "publishedAt": "2025-11-07 16:58:35"
-        },
-        {
-            "source": {
-                "name": "roboticsandautomationnews"
-            },
-            "title": "How AI Audio-to-Video Tools Help You Create Engaging YouTube Shorts",
-            "url": "https://roboticsandautomationnews.com/2025/11/07/how-ai-audio-to-video-tools-help-you-create-engaging-youtube-shorts/96391/",
-            "urlToImage": "https://roboticsandautomationnews.com/wp-content/uploads/2025/11/wondershare-filmora-1.png",
-            "publishedAt": "2025-11-07 16:50:42"
-        },
-        {
-            "source": {
-                "name": "siliconangle"
-            },
-            "title": "Despite big AI infrastructure deals, investors get nervous about the payoff",
-            "url": "https://siliconangle.com/2025/11/07/despite-big-ai-infrastructure-deals-investors-get-nervous-payoff/",
-            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/11/aifactory-reve.png",
-            "publishedAt": "2025-11-07 16:39:29"
-        },
-        {
-            "source": {
-                "name": "astrobiology"
-            },
-            "title": "Accelerating Radiative Transfer For Planetary Atmospheres by Orders of Magnitude with a Transformer-Based Machine Learning Model",
-            "url": "https://astrobiology.com/2025/11/accelerating-radiative-transfer-for-planetary-atmospheres-by-orders-of-magnitude-with-a-transformer-based-machine-learning-model.html",
-            "urlToImage": "https://astrobiology.com/wp-content/uploads/2025/11/Accelerating-Radiative-Transfer-For-Planetary.png",
-            "publishedAt": "2025-11-07 16:15:00"
-        },
-        {
-            "source": {
-                "name": "techreport"
-            },
-            "title": "Pony.ai Becomes the First Company to Secure City-Wide Operation Permit in Shenzhen",
-            "url": "https://techreport.com/news/pony-ai-first-company-city-wide-operation-permit-shenzhen/",
-            "urlToImage": "https://techreport.com/wp-content/uploads/2025/11/pony-ai-first-company-city-wide-operation-permit-shenzhen-e1762520073919.jpg?_t=1762534058",
-            "publishedAt": "2025-11-07 16:05:35"
         }
     ]
 }
