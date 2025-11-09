@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2025-11-09T16:17:05.412717Z",
+    "lastUpdatedAt": "2025-11-09T17:12:06.226895Z",
     "articles": [
+        {
+            "source": {
+                "id": "0c047612bc7bc0113342d2651f47b208",
+                "name": "GB News",
+                "url": "https://www.gbnews.com",
+                "country": "gb"
+            },
+            "title": "Google Maps releases biggest AI update, but UK misses out",
+            "url": "https://www.gbnews.com/tech/google-maps-new-ai-features-driving",
+            "urlToImage": "https://www.gbnews.com/media-library/example-of-some-of-the-google-gemini-features-coming-to-google-maps-in-a-future-update.png?id=62103673&width=1200&height=600&coordinates=133%2C9%2C192%2C253",
+            "publishedAt": "2025-11-09T05:01:02Z"
+        },
+        {
+            "source": {
+                "id": "7eeaf9a839918543cc708f2d331c3be4",
+                "name": "Free Press Journal",
+                "url": "https://www.freepressjournal.in",
+                "country": "in"
+            },
+            "title": "Global Data Leak Reveals Millions Still Using 'Weak, Hackable Passwords'; Here’s The List Of Top 10 Most-Commonly Used Passcodes You Need To Avoid",
+            "url": "https://www.freepressjournal.in/tech/global-data-leak-reveals-millions-still-using-weak-hackable-passwords-heres-the-list-of-top-10-most-commonly-used-passcodes-you-need-to-avoid",
+            "urlToImage": "https://media.assettype.com/freepressjournal/2025-11-04/f11v2cif/Cyber-Crime-5.jpg",
+            "publishedAt": "2025-11-09T04:52:35Z"
+        },
+        {
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            },
+            "title": "AI valuations hit elevated levels, further rallies run bubble burst risk: Analysts",
+            "url": "https://www.lokmattimes.com/technology/ai-valuations-hit-elevated-levels-further-rallies-run-bubble-burst-risk-analysts-1/",
+            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202511093569490_202511.jpg",
+            "publishedAt": "2025-11-09T04:36:29Z"
+        },
+        {
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            },
+            "title": "AI valuations hit elevated levels, further rallies run bubble burst risk: Analysts",
+            "url": "https://www.lokmattimes.com/business/ai-valuations-hit-elevated-levels-further-rallies-run-bubble-burst-risk-analysts/",
+            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202511093569490_202511.jpg",
+            "publishedAt": "2025-11-09T04:36:29Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Researchers in Australia use AI, eye scans to detect chronic diseases earlier",
+            "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2025/11/09/researchers-in-australia-use-ai-eye-scans-to-detect-chronic-diseases-earlier",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/09/3612970.jpg",
+            "publishedAt": "2025-11-09T04:36:00Z"
+        },
+        {
+            "source": {
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
+                "country": "in"
+            },
+            "title": "OpenAI Issues A Stern Warning On AI's 'Superintelligence'-Here's Why",
+            "url": "https://www.ndtvprofit.com/technology/potentially-catastrophic-openai-issues-a-stern-warning-on-ais-superintelligenceheres-why",
+            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-02-13%2Fa5v3517q%2F487908877AP00005TechCrunch.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+            "publishedAt": "2025-11-09T04:29:15Z"
+        },
+        {
+            "source": {
+                "id": "fd3677545b80d5db7541de8e111d27ba",
+                "name": "Moneycontrol",
+                "url": "https://www.moneycontrol.com",
+                "country": "in"
+            },
+            "title": "OpenAI CEO Sam Altman gets legal notice over criminal case while onstage. Watch",
+            "url": "https://www.moneycontrol.com/news/trends/openai-ceo-sam-altman-gets-legal-notice-over-criminal-case-while-onstage-watch-13661795.html",
+            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2025/11/20251109042203_MixCollage-09-Nov-2025-09-51-AM-7386.jpg",
+            "publishedAt": "2025-11-09T04:24:15Z"
+        },
         {
             "source": {
                 "id": "f2ddccedc9e60d844e7a1045928cad48",
@@ -108,6 +192,15 @@
             "url": "https://www.thehitavada.com//Encyc/2025/11/9/in-era-of-ai-empathy-is-only-hope-left-for-a-better-society-fadnavis.html",
             "urlToImage": "https://www.thehitavada.com/Encyc/2025/11/9/10_202511090822089020_H@@IGHT_355_W@@IDTH_533.png",
             "publishedAt": "2025-11-09T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "geeky_gadgets"
+            },
+            "title": "Liquid Glass Slider Arrives: Breaking Down iOS 26.1 & The iOS 26.2 Beta",
+            "url": "https://www.geeky-gadgets.com/ios-26-1-and-ios-26-2/",
+            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/11/apple-music-auto-mix-ios-26-1-enhancement.webp",
+            "publishedAt": "2025-11-09 05:00:24"
         },
         {
             "source": {
@@ -3261,90 +3354,6 @@
             "url": "https://phys.org/news/2025-11-plush-neuron-ai-approachable-neural.html",
             "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/plush-neuron-makes-ai.jpg",
             "publishedAt": "2025-11-07T00:40:03Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "US Domestic News Highlights: Cybersecurity, Politics, and Transportation",
-            "url": "https://www.devdiscourse.com/article/politics/3688108-us-domestic-news-highlights-cybersecurity-politics-and-transportation",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/24_03_2025_12_59_22_9315811.png?width=920&format=jpeg",
-            "publishedAt": "2025-11-07T00:01:16Z"
-        },
-        {
-            "source": {
-                "id": "8e9ab8327c5f7903cc1b50470411d165",
-                "name": "GlobeNewswire",
-                "url": "https://www.globenewswire.com",
-                "country": "us"
-            },
-            "title": "Conversation Intelligence Software Market Valued at USD",
-            "url": "https://www.globenewswire.com/news-release/2025/11/07/3183759/0/en/Conversation-Intelligence-Software-Market-Valued-at-USD-22-89-Billion-in-2024-Anticipated-to-Hit-USD-49-52-Billion-by-2032-Research-by-SNS-Insider.html",
-            "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
-            "publishedAt": "2025-11-07T00:00:00Z"
-        },
-        {
-            "source": {
-                "id": "8e9ab8327c5f7903cc1b50470411d165",
-                "name": "GlobeNewswire",
-                "url": "https://www.globenewswire.com",
-                "country": "us"
-            },
-            "title": "Limited Seating for HMG Strategy’s",
-            "url": "https://www.globenewswire.com/news-release/2025/11/07/3183760/0/en/Registration-now-Open-Limited-Seating-for-HMG-Strategy-s-Annual-Houston-Technology-Leadership-Summit-for-C-Suite-Technology-Executives-on-November-20.html",
-            "urlToImage": "https://ml.globenewswire.com/Resource/Download/4b886685-faf4-4f80-8e8a-77cac364fa1b",
-            "publishedAt": "2025-11-07T00:00:00Z"
-        },
-        {
-            "source": {
-                "id": "d889fcdc98f3dab0a934bbe252002562",
-                "name": "Morningstar",
-                "url": "https://www.morningstar.com",
-                "country": "us"
-            },
-            "title": "Akamai Is Increasingly Well Postured for Heightened Edge Computing and Cybersecurity Demand",
-            "url": "https://www.morningstar.com/company-reports/1357589-akamai-is-increasingly-well-postured-for-heightened-edge-computing-and-cybersecurity-demand",
-            "urlToImage": "https://www.morningstar.com/company-reports/:/[object Object]",
-            "publishedAt": "2025-11-07T00:00:00Z"
-        },
-        {
-            "source": {
-                "name": "siliconangle"
-            },
-            "title": "Meta announces plans to spend $600B in the US over three years",
-            "url": "https://siliconangle.com/2025/11/07/meta-announces-plans-spend-600b-us-three-years/",
-            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/11/Meta.png",
-            "publishedAt": "2025-11-07 23:39:21"
-        },
-        {
-            "source": {
-                "name": "menafn"
-            },
-            "title": "India's AI Ecosystem Offers Scalable Platform For Innovation With French Partners",
-            "url": "https://menafn.com/1110313417/Indias-AI-Ecosystem-Offers-Scalable-Platform-For-Innovation-With-French-Partners",
-            "urlToImage": "https://menafn.com/updates/pr/2025-11/07/I_c13d9image_story.jpeg",
-            "publishedAt": "2025-11-07 23:15:25"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Meta’s $600 Billion AI Power Play: Fueling America’s Data Center Revolution",
-            "url": "https://www.webpronews.com/metas-600-billion-ai-power-play-fueling-americas-data-center-revolution/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-728-1762546573.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-11-07 22:45:05"
-        },
-        {
-            "source": {
-                "name": "headtopics"
-            },
-            "title": "The ISA Wars Have Ended And The Heterogeneous CPU Era Has Arrived",
-            "url": "https://us.headtopics.com/news/the-isa-wars-have-ended-and-the-heterogeneous-cpu-era-has-75518612",
-            "urlToImage": "https://i.headtopics.com/images/2025/11/7/forbestech/the-isa-wars-have-ended-and-the-heterogeneous-cpu--the-isa-wars-have-ended-and-the-heterogeneous-cpu--D4C5ECB7F2993978FD5DB117A5EE561A.webp",
-            "publishedAt": "2025-11-07 22:42:58"
         }
     ]
 }
