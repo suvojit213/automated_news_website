@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-11-10T12:33:46.949738Z",
+    "lastUpdatedAt": "2025-11-10T13:28:21.553365Z",
     "articles": [
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "Q&A: New tech helps Parkinson's patients who have trouble walking",
+            "url": "https://medicalxpress.com/news/2025-11-qa-tech-parkinson-patients.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/walking-with-a-cane.jpg",
+            "publishedAt": "2025-11-10T01:20:01Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Malaysian banking sector accelerates AI adoption for smarter, ethical compliance",
+            "url": "https://www.thestar.com.my/business/business-news/2025/11/10/malaysian-banking-sector-accelerates-ai-adoption-for-smarter-ethical-compliance",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/10/3614129.jpg",
+            "publishedAt": "2025-11-10T01:20:00Z"
+        },
         {
             "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -60,6 +84,27 @@
             "url": "https://www.globenewswire.com/news-release/2025/11/10/3184200/0/en/Halper-AI-Launches-to-Transform-the-Future-of-SMEs-From-Digital-Souls-to-Business-Growth.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/9f717d7f-a36e-4436-8670-14cc80d5f0ed",
             "publishedAt": "2025-11-10T00:00:00Z"
+        },
+        {
+            "source": {
+                "id": "8e9ab8327c5f7903cc1b50470411d165",
+                "name": "GlobeNewswire",
+                "url": "https://www.globenewswire.com",
+                "country": "us"
+            },
+            "title": "USX Cyber® Launches Guardient® for SMBs as CMMC Enforcement",
+            "url": "https://www.globenewswire.com/news-release/2025/11/10/3184542/0/en/USX-Cyber-Launches-Guardient-for-SMBs-as-CMMC-Enforcement-Begins-Helping-Businesses-Get-Compliant-Faster-More-Affordably-and-More-Effectively.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/877a71e6-4c84-4611-9744-d88fdb111d98",
+            "publishedAt": "2025-11-10T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "economictimes_indiatimes"
+            },
+            "title": "Digital Life Certificate guideline to avoid cyber fraud: Pensioners need to follow these instructions before submitting Jeevan Pramaan online",
+            "url": "https://economictimes.indiatimes.com/wealth/save/digital-life-certificate-guideline-to-avoid-cyber-fraud-pensioners-need-to-follow-these-instructions-before-submitting-jeevan-pramaan-online/articleshow/125217381.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1217357,resizemode-75,msid-125217381/wealth/save/digital-life-certificate-guideline-to-avoid-cyber-fraud-pensioners-need-to-follow-these-instructions-before-submitting-jeevan-pramaan-online.jpg",
+            "publishedAt": "2025-11-10 01:23:44"
         },
         {
             "source": {
@@ -3156,54 +3201,6 @@
             "url": "https://www.thestar.com.my/tech/tech-news/2025/11/07/bundesbank-chief-uses-ai-to-check-dovish-hawkish-balance-in-speeches",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/07/3611577.jpg",
             "publishedAt": "2025-11-07T15:24:00Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "The Architect of Smarter Supply Chains: Driving AI and Analytics in Logistics",
-            "url": "https://techbullion.com/the-architect-of-smarter-supply-chains-driving-ai-and-analytics-in-logistics/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/11/Smarter-Supply-Chains-1000x500.jpg",
-            "publishedAt": "2025-11-07T15:21:05Z"
-        },
-        {
-            "source": {
-                "id": "448094ed3f9461bb87a99a218cdaecfe",
-                "name": "The New Indian Express",
-                "url": "https://www.newindianexpress.com",
-                "country": "in"
-            },
-            "title": "Pak-linked hacker group targets Indian government, military networks with advanced spyware: Report",
-            "url": "https://www.newindianexpress.com/nation/2025/Nov/07/pak-linked-hacker-group-targets-indian-government-military-networks-with-advanced-spyware-report",
-            "urlToImage": "https://media.newindianexpress.com/newindianexpress%2F2025-11-07%2Fveu3vdzi%2FANI_20251019092955.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2025-11-07T15:10:47Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "‘AI may have negative impact on humanity..’: Researcher from China's DeepSeek that 'shocked' US technology giants",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/ai-may-have-negative-impact-on-humanity-researcher-from-chinas-deepseek-that-shocked-us-technology-giants/articleshow/125164291.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-125164261,width-1070,height-580,imgsize-2239327,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "publishedAt": "2025-11-07T15:02:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "EU eyes tweaks to AI law to heed tech industry 'concerns'",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/eu-eyes-tweaks-to-ai-law-to-heed-tech-industry-concerns/articleshow/125164244.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-98026,resizemode-75,msid-125164244/tech/artificial-intelligence/eu-eyes-tweaks-to-ai-law-to-heed-tech-industry-concerns.jpg",
-            "publishedAt": "2025-11-07T14:59:33Z"
         }
     ]
 }
