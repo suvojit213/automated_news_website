@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2025-11-10T20:18:48.436419Z",
+    "lastUpdatedAt": "2025-11-10T21:14:29.742527Z",
     "articles": [
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "Redefining Product-Led Growth in the Age of AI Agents",
+            "url": "https://techbullion.com/redefining-product-led-growth-in-the-age-of-ai-agents/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-09-at-11.50.22-PM-1-796x600.jpeg",
+            "publishedAt": "2025-11-10T09:05:28Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Bengaluru cyber fraud: Dr Reddy Lab losses over Rs 2 crore to hackers - How the cyber scam unfolded",
+            "url": "https://timesofindia.indiatimes.com/business/cybersecurity/bengaluru-cyber-fraud-dr-reddy-lab-losses-over-rs-2-crore-to-hackers-how-the-cyber-scam-unfolded/articleshow/125220248.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-125220286,width-1070,height-580,imgsize-95114,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-11-10T09:03:00Z"
+        },
+        {
+            "source": {
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
+                "country": "in"
+            },
+            "title": "Paytm Unveils All-New App With Clean Interface, AI Features To Enhance Payment Experience",
+            "url": "https://www.ndtvprofit.com/business/paytm-unveils-all-new-app-with-clean-interface-ai-features-to-enhance-payment-experience",
+            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-07-21%2Fmu2wwx03%2FPaytm%20Vijay%20Sartape%201.jfif?rect=0%2C36%2C1701%2C893&w=1200&auto=format%2Ccompress&ogImage=true",
+            "publishedAt": "2025-11-10T08:58:02Z"
+        },
+        {
+            "source": {
+                "id": "680f00482cbf9f314921fefd917871d9",
+                "name": "The Hindu Business Line",
+                "url": "https://www.thehindubusinessline.com",
+                "country": "in"
+            },
+            "title": "TSMC’s slowing monthly sales fuel AI sustainability debate",
+            "url": "https://www.thehindubusinessline.com/info-tech/tsmcs-slowing-monthly-sales-fuel-ai-sustainability-debate/article70261994.ece",
+            "urlToImage": "https://bl-i.thgim.com/public/incoming/whggku/article69294890.ece/alternates/LANDSCAPE_1200/MDF85981.JPG",
+            "publishedAt": "2025-11-10T08:57:51Z"
+        },
+        {
+            "source": {
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
+                "country": "in"
+            },
+            "title": "India Poised To Lead The ‘New Copper Age’, Says Vedanta’s Anil Agarwal",
+            "url": "https://www.ndtvprofit.com/markets/india-poised-to-lead-the-new-copper-age-says-vedantas-anil-agarwal",
+            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-07-10%2Ff53u61e0%2FGrngmaiXkAAwBoo.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+            "publishedAt": "2025-11-10T08:50:34Z"
+        },
         {
             "source": {
                 "id": "73aabc646bff1356a46223f250cc6b52",
@@ -360,6 +420,33 @@
             "url": "https://www.globenewswire.com/news-release/2025/11/10/3184945/32716/en/F5-Inc-FFIV-Faces-Investor-Scrutiny-Amid-Cybersecurity-Incident-Impact-on-Company-s-Business-Shares-Slide-Again-Hagens-Berman.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/51670c91-d369-4a8c-8102-d393de9f6d19",
             "publishedAt": "2025-11-10T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "abplive"
+            },
+            "title": "Perplexity Updates Comet Browser With Patent Lookup, New Finance Tracking Tools: Check All Features",
+            "url": "https://news.abplive.com/technology/comet-browser-perplexity-assistant-update-patent-search-finance-tools-new-upgraded-features-1810823",
+            "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2025/07/28/8f4bdce47ce351fbfb32b67fbcf71a9817536962172311275_original.jpg",
+            "publishedAt": "2025-11-10 08:48:25"
+        },
+        {
+            "source": {
+                "name": "sciencedaily"
+            },
+            "title": "Physicists prove the Universe isn’t a simulation after all",
+            "url": "https://www.sciencedaily.com/releases/2025/11/251110021052.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/1920/neural-network-big-data-flow-visualization.webp",
+            "publishedAt": "2025-11-10 08:34:44"
+        },
+        {
+            "source": {
+                "name": "thehindu"
+            },
+            "title": "Early climate warning systems: getting there, but not there yet",
+            "url": "https://www.thehindu.com/sci-tech/energy-and-environment/early-climate-warning-systems-getting-there-but-not-there-yet/article70261908.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/rorkdj/article70261925.ece/alternates/LANDSCAPE_1200/WEATHER%20RAIN%20WATER%20MICHAUNG%20MONSOON%20OIL%20MIXED%20FLOOD%20PEOPLE%20FOOD_07.jpg",
+            "publishedAt": "2025-11-10 08:19:22"
         },
         {
             "source": {
@@ -3069,78 +3156,6 @@
             "url": "https://indianexpress.com/article/technology/tech-news-technology/vigilante-lawyers-expose-the-rising-tide-of-ai-slop-in-court-filings-10352972/",
             "urlToImage": "https://images.indianexpress.com/2025/11/AI-Lawyer.jpg",
             "publishedAt": "2025-11-08 04:05:22"
-        },
-        {
-            "source": {
-                "name": "digitaltrends"
-            },
-            "title": "Google’s Opal AI tool for making no-code apps is now widely available",
-            "url": "https://www.digitaltrends.com/computing/googles-opal-ai-tool-for-making-no-code-apps-is-now-widely-available/",
-            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/11/google-opal-no-code-app-available.jpg?p=1&resize=1200%2C630",
-            "publishedAt": "2025-11-08 04:03:19"
-        },
-        {
-            "source": {
-                "name": "sanfranciscocbslocal"
-            },
-            "title": "Parents sue San Francisco-based OpenAI over son's death after conversation with chatbot",
-            "url": "https://www.cbsnews.com/sanfrancisco/news/parents-sue-openai-over-sons-death-after-chatgpt-conversation/",
-            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/11/08/ff744fc0-1c5b-46f9-87e9-ec9dbc24b583/thumbnail/1024x576/fca06a579aeab3119202e4c3633e690b/snapshot-10.jpg",
-            "publishedAt": "2025-11-08 03:40:54"
-        },
-        {
-            "source": {
-                "name": "telecom_economictimes"
-            },
-            "title": "Business decisions to guide agentic AI deployment in telecom sector: Accenture",
-            "url": "https://telecom.economictimes.indiatimes.com/news/enterprise-services/accentures-insight-on-ai-deployment-in-indias-telecom-sector/125177491",
-            "urlToImage": "https://etimg.etb2bimg.com/photo/125177497.cms",
-            "publishedAt": "2025-11-08 02:59:48"
-        },
-        {
-            "source": {
-                "name": "newspressnow"
-            },
-            "title": "Is AI powering the next wave of financial scams?",
-            "url": "https://www.newspressnow.com/stacker-money/2025/11/07/is-ai-powering-the-next-wave-of-financial-scams/",
-            "urlToImage": "https://newspressnow.b-cdn.net/wp-content/uploads/2025/11/finder-ai-scams.jpg",
-            "publishedAt": "2025-11-08 02:52:05"
-        },
-        {
-            "source": {
-                "name": "thehindu"
-            },
-            "title": "How have tech brands changed their ad strategy on social media?",
-            "url": "https://www.thehindu.com/sci-tech/technology/how-have-tech-brands-changed-their-ad-strategy-on-social-media/article70252071.ece",
-            "urlToImage": "https://th-i.thgim.com/public/incoming/7qnhi6/article70252049.ece/alternates/LANDSCAPE_1200/2025-10-13T164249Z_583266244_RC23BHAKLYZ8_RTRMADP_3_USA-WEATHER.JPG",
-            "publishedAt": "2025-11-08 02:30:00"
-        },
-        {
-            "source": {
-                "name": "menafn"
-            },
-            "title": "Nor-Tech Achieves Intel Prestige Partner Status, Delivering High-Impact Value And Innovation To Clients",
-            "url": "https://menafn.com/1110313583/Nor-Tech-Achieves-Intel-Prestige-Partner-Status-Delivering-High-Impact-Value-And-Innovation-To-Clients",
-            "urlToImage": "https://menafn.com/updates/pr/2025-11/08/F_37837image_story.jpg",
-            "publishedAt": "2025-11-08 01:04:54"
-        },
-        {
-            "source": {
-                "name": "economictimes_indiatimes"
-            },
-            "title": "Yotta set to debut on Nasdaq as SEC okays Cartica merger",
-            "url": "http://economictimes.indiatimes.com/tech/technology/yotta-set-to-debut-on-nasdaq-as-sec-okays-cartica-merger/articleshow/125169856.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-42692,resizemode-75,msid-125169856/tech/technology/yotta-set-to-debut-on-nasdaq-as-sec-okays-cartica-merger.jpg",
-            "publishedAt": "2025-11-08 00:30:00"
-        },
-        {
-            "source": {
-                "name": "edexlive"
-            },
-            "title": "From Coder to Creator: Learning for an AI world",
-            "url": "https://www.edexlive.com/do-you-know/from-coder-to-creator-learning-for-an-ai-world",
-            "urlToImage": "https://media.edexlive.com/edexlive%2F2025-09-26%2F5p5sg746%2FAI.jpg?ar=40%3A21&auto=format%2Ccompress&enlarge=true&mode=crop&ogImage=true&overlay=false&overlay_position=bottom&overlay_width=100&w=1200",
-            "publishedAt": "2025-11-08 00:30:00"
         }
     ]
 }
