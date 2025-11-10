@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2025-11-10T21:14:29.742527Z",
+    "lastUpdatedAt": "2025-11-10T22:15:42.918287Z",
     "articles": [
+        {
+            "source": {
+                "id": "73aabc646bff1356a46223f250cc6b52",
+                "name": "NDTV Profit",
+                "url": "https://www.ndtvprofit.com",
+                "country": "in"
+            },
+            "title": "LTIMindtree Bets On AI To Boost Margins, Eyes Double-Digit Growth In H2FY26",
+            "url": "https://www.ndtvprofit.com/markets/ltimindtree-bets-on-ai-to-boost-margins-eyes-double-digit-growth-in-h2fy26",
+            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-04-23%2F2cggqwoj%2FLTIMindtreeBuilding.png?rect=0%2C0%2C1200%2C630&w=1200&auto=format%2Ccompress&ogImage=true",
+            "publishedAt": "2025-11-10T10:12:58Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "The Rise of 4PLs in a Fragmented Supply Chain World",
+            "url": "https://techbullion.com/the-rise-of-4pls-in-a-fragmented-supply-chain-world/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/11/global-logistics-transportation-network-1000x600.jpg",
+            "publishedAt": "2025-11-10T10:01:27Z"
+        },
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "Machine learning automates material analysis and design using X-ray spectroscopy data",
+            "url": "https://phys.org/news/2025-11-machine-automates-material-analysis-ray.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/a-new-ai-powered-metho-1.jpg",
+            "publishedAt": "2025-11-10T10:00:26Z"
+        },
+        {
+            "source": {
+                "id": "f5081afeaba654292dd91fffd29f9dd4",
+                "name": "The Globe and Mail",
+                "url": "https://www.theglobeandmail.com",
+                "country": "ca"
+            },
+            "title": "How Canadian startup Hyper is using AI to help field non-emergency police calls",
+            "url": "https://www.theglobeandmail.com/business/economy/article-hyper-ai-non-emergency-911-calls-canadian-startup/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/v2/6NPCTRPPJBAVFIXCE7UHUHBOPQ.JPG?auth=87aa701c541eedce857d17c3aa9f93fed15e2ae801127a01ab71f2a6bf0b738c&width=1200&height=800&quality=80&smart=true",
+            "publishedAt": "2025-11-10T10:00:00Z"
+        },
+        {
+            "source": {
+                "id": "091dc78b9d3467c25d28c392b1c1c4c2",
+                "name": "The Philadelphia Inquirer",
+                "url": "https://www.inquirer.com",
+                "country": "us"
+            },
+            "title": "Penn, Jefferson doctors using AI to take notes during exams",
+            "url": "https://www.inquirer.com/health/penn-jefferson-artificial-intelligence-health-20251110.html",
+            "urlToImage": "https://www.inquirer.com/resizer/v2/743EFX6KGNCOJEA44LKQ65RPUE.jpg?auth=936ff64677e9166da728cdf5eae0e17c2c7ab2a01c5ae3e23c25640353abd392&width=760&height=507&smart=true",
+            "publishedAt": "2025-11-10T10:00:00Z"
+        },
+        {
+            "source": {
+                "id": "f35c9e0c433f608ad7c48c3d4818bec4",
+                "name": "The Sun",
+                "url": "https://www.thesun.co.uk",
+                "country": "gb"
+            },
+            "title": "Seven jobs most likely to be cut due to AI next year as one in six employers to slash jobs",
+            "url": "https://www.thesun.co.uk/money/37269600/seven-jobs-cut-ai-employers-slash/",
+            "urlToImage": "https://www.thesun.co.uk/wp-content/uploads/2025/11/JW_10_11_AI_JOBS_COMP.jpg?quality=90&strip=all&w=1500&h=1000&crop=1",
+            "publishedAt": "2025-11-10T09:41:41Z"
+        },
         {
             "source": {
                 "id": "c45dc51281d68ce51bff0cc4fe959bbf",
@@ -420,6 +492,96 @@
             "url": "https://www.globenewswire.com/news-release/2025/11/10/3184945/32716/en/F5-Inc-FFIV-Faces-Investor-Scrutiny-Amid-Cybersecurity-Incident-Impact-on-Company-s-Business-Shares-Slide-Again-Hagens-Berman.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/51670c91-d369-4a8c-8102-d393de9f6d19",
             "publishedAt": "2025-11-10T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "Is ChatGPT Plus still worth $20? How it compares to the Free and Pro plans",
+            "url": "https://www.zdnet.com/article/is-chatgpt-plus-still-worth-20-how-it-compares-to-the-free-and-pro-plans/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/fc6a6ce7f348936a32b5dc778ef5473b798b58e4/2025/11/07/b5f1dc31-dd24-4aaf-beb6-83c6fa5a1133/2.jpg?auto=webp&width=1280",
+            "publishedAt": "2025-11-10 10:14:00"
+        },
+        {
+            "source": {
+                "name": "nytimes"
+            },
+            "title": "We’re In a New Everything-Is-Connected Epoch. But What to Call It?",
+            "url": "https://www.nytimes.com/2025/11/10/opinion/era-technology-poly-epoch.html",
+            "urlToImage": "https://static01.nyt.com/images/2025/11/10/opinion/10friedman-promo-image/10friedman-promo-image-videoSixteenByNineJumbo1600.png",
+            "publishedAt": "2025-11-10 10:01:38"
+        },
+        {
+            "source": {
+                "name": "engadget"
+            },
+            "title": "The best keyboards for 2025",
+            "url": "https://www.engadget.com/computing/accessories/best-keyboard-120000018.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?client=19f2b5e49a271b2bde77&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-04%2F134915d0-1af2-11f0-a75e-be0429c76169&resize=1400%2C787&signature=3ca0c26bed298be6b3cc83982db72c694a597038",
+            "publishedAt": "2025-11-10 10:00:38"
+        },
+        {
+            "source": {
+                "name": "cio"
+            },
+            "title": "Strategy beyond AI: Five imperatives for 2026",
+            "url": "https://www.cio.com/article/4081926/strategy-beyond-ai-five-imperatives-for-2026.html",
+            "urlToImage": "https://www.cio.com/wp-content/uploads/2025/11/4081926-0-53705500-1762768932-cio-communication-strategy-tips-16x9-1.jpg?quality=50&strip=all&w=1024",
+            "publishedAt": "2025-11-10 10:00:00"
+        },
+        {
+            "source": {
+                "name": "forbesindia"
+            },
+            "title": "Is AI widening the gender gap in the tech industry?",
+            "url": "https://www.forbesindia.com/article/news/is-ai-widening-the-gender-gap-in-the-tech-industry/2988566/1",
+            "urlToImage": "https://images.forbesindia.com/blog/wp-content/uploads/2025/11/WOMENANDTHEWORKFORCE1200X900-2025-11-c2e19fd93d5dd0cec6b72ca4ee427c99.jpg",
+            "publishedAt": "2025-11-10 09:52:09"
+        },
+        {
+            "source": {
+                "name": "dtnext"
+            },
+            "title": "How scientists are hacking bacteria to treat cancer, self-destruct, then vanish without a trace",
+            "url": "https://www.dtnext.in/lifestyle/wellbeing/how-scientists-are-hacking-bacteria-to-treat-cancer-self-destruct-then-vanish-without-a-trace-852598",
+            "urlToImage": "https://media.dtnext.in/h-upload/2025/11/10/750x450_877428-bacteriaa.jpg",
+            "publishedAt": "2025-11-10 09:49:02"
+        },
+        {
+            "source": {
+                "name": "geeky_gadgets"
+            },
+            "title": "Dual Intel Arc GPUs in Small Form Factor PC Tested : The Results Are Unreal!",
+            "url": "https://www.geeky-gadgets.com/dual-intel-arc-gpus-sff-pc/",
+            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/11/dual-intel-arc-sff-pc-build-1440p-benchmarks_optimized.webp",
+            "publishedAt": "2025-11-10 09:45:39"
+        },
+        {
+            "source": {
+                "name": "livemint"
+            },
+            "title": "NSA Ajit Doval’s office to probe alleged GPS spoofing after Delhi airport tech glitch hit more than 800 flights: Report",
+            "url": "https://www.livemint.com/news/india/ajit-doval-office-national-security-probe-alleged-gps-spoofing-delhi-airport-flights-tech-glitch-hit-800-flights-report-11762767309639.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2025/11/10/1600x900/ANI-20251108333-0_1762768477083_1762768488411.jpg",
+            "publishedAt": "2025-11-10 09:45:07"
+        },
+        {
+            "source": {
+                "name": "techxplore"
+            },
+            "title": "The AI revolution has a power problem",
+            "url": "https://techxplore.com/news/2025-11-ai-revolution-power-problem.html",
+            "urlToImage": "https://scx1.b-cdn.net/csz/news/tmb/2025/kara-hurst-chief-susta.jpg",
+            "publishedAt": "2025-11-10 09:39:12"
+        },
+        {
+            "source": {
+                "name": "asiatimes"
+            },
+            "title": "China’s thorium reactor aims to fuse power and parity",
+            "url": "https://asiatimes.com/2025/11/chinas-thorium-reactor-aims-to-fuse-power-and-parity/",
+            "urlToImage": "https://i0.wp.com/asiatimes.com/wp-content/uploads/2025/11/China-Thorium-Reactor-Nukes.jpeg?fit=780%2C439&quality=89&ssl=1",
+            "publishedAt": "2025-11-10 09:37:23"
         },
         {
             "source": {
@@ -3012,150 +3174,6 @@
             "url": "https://www.xda-developers.com/notebooklm-pitfalls-might-hold-you-back/",
             "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/11/prompting-notebooklm-on-desktop-pc-lego-and-lamp-in-view.jpeg",
             "publishedAt": "2025-11-08 13:00:21"
-        },
-        {
-            "source": {
-                "name": "cnet"
-            },
-            "title": "Best VPN for Gaming in 2025: Lower Ping and Protect Against DDoS Attacks",
-            "url": "https://www.cnet.com/tech/services-and-software/best-vpn-for-gaming/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/cd4b44b69ebfea79c3c8e9a12f67f019b1d9261b/hub/2024/05/17/4e8d0716-5e36-466c-933d-09ef61128bf3/vpn-for-gaming.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-11-08 13:00:00"
-        },
-        {
-            "source": {
-                "name": "fortune"
-            },
-            "title": "Data-center operator CoreWeave is a stock-market darling. Bears see its finances as emblematic of an AI infrastructure bubble",
-            "url": "https://fortune.com/2025/11/08/coreweave-earnings-debt-ai-infrastructure-bubble/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2207352805-e1762554281237.jpg?w=2048",
-            "publishedAt": "2025-11-08 13:00:00"
-        },
-        {
-            "source": {
-                "name": "indianexpress"
-            },
-            "title": "India’s Top 5 AI Startups: Here is what the do and What their LLMs do",
-            "url": "https://indianexpress.com/article/technology/tech-news-technology/indias-top-5-ai-startups-here-is-what-the-do-and-what-their-llms-are-10353903/",
-            "urlToImage": "https://images.indianexpress.com/2025/11/IE-87.jpg",
-            "publishedAt": "2025-11-08 12:54:02"
-        },
-        {
-            "source": {
-                "name": "jamestownsun"
-            },
-            "title": "Applied Digital brings first 50 MW online at Ellendale AI factory",
-            "url": "https://www.jamestownsun.com/news/local/applied-digital-brings-first-50-mw-online-at-ellendale-ai-factory",
-            "urlToImage": "https://cdn.forumcomm.com/dims4/default/33edbf2/2147483647/resize/800x/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2F10%2Fb0%2F019c364a4e24929287474dae9bac%2Fellendale-applied-digital-facility-n-substation-031925.jpg",
-            "publishedAt": "2025-11-08 12:48:00"
-        },
-        {
-            "source": {
-                "name": "postbulletin"
-            },
-            "title": "As AI becomes all-encompassing, Rochester Public Schools tries to find balance",
-            "url": "https://www.postbulletin.com/news/local/as-ai-becomes-all-encompassing-rochester-public-schools-tries-to-find-balance",
-            "urlToImage": "https://cdn.forumcomm.com/dims4/default/e0871f9/2147483647/resize/800x/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2F14%2F58%2Fde36805844a7909d88d00b078ec5%2F102325-teacher-ai-3299-copy.jpg",
-            "publishedAt": "2025-11-08 12:45:00"
-        },
-        {
-            "source": {
-                "name": "msnbc"
-            },
-            "title": "The irony in an AI musician singing ‘How Was I supposed to Know?’",
-            "url": "https://www.msnbc.com/opinion/msnbc-opinion/xania-monet-ai-song-telisha-jones-billboard-hit-rcna242478",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/251107-AI-artist-zz-1256e5.jpg",
-            "publishedAt": "2025-11-08 11:00:00"
-        },
-        {
-            "source": {
-                "name": "futurism"
-            },
-            "title": "Physicists Say They’ve Proven Whether We’re Living in a Simulation",
-            "url": "https://futurism.com/science-energy/physicists-proven-living-simulation",
-            "urlToImage": "https://futurism.com/wp-content/uploads/2025/11/physicists-proven-living-simulation.jpg?quality=85",
-            "publishedAt": "2025-11-08 11:00:00"
-        },
-        {
-            "source": {
-                "name": "cnbctv18"
-            },
-            "title": "NSE CEO Ashish Chauhan says India could be the 'biggest winner' in global AI race",
-            "url": "https://www.cnbctv18.com/technology/nse-ceo-ashish-chauhan-says-india-could-be-the-biggest-winner-in-global-ai-race-ws-l-19750109.htm",
-            "urlToImage": "https://images.cnbctv18.com/uploads/2025/07/untitled-design-10-2025-07-54c79e920302dc64379fd6c030c3ae27.jpg",
-            "publishedAt": "2025-11-08 10:25:52"
-        },
-        {
-            "source": {
-                "name": "news24online"
-            },
-            "title": "‘India will be the biggest winner of AI race’ says NSE chief Ashish Chauhan – The story so far",
-            "url": "https://news24online.com/business/india-will-be-the-biggest-winner-of-ai-race-says-nse-chief-ashish-chauhan-the-story-so-far/664415/",
-            "urlToImage": "https://news24online.com/wp-content/uploads/2025/11/Ashish-Chauhan.jpg",
-            "publishedAt": "2025-11-08 09:33:15"
-        },
-        {
-            "source": {
-                "name": "sciencedaily"
-            },
-            "title": "Einstein might have been wrong about black holes",
-            "url": "https://www.sciencedaily.com/releases/2025/11/251108014022.htm",
-            "urlToImage": "https://www.sciencedaily.com/images/1920/supermassive-black-hole-singularity-close.webp",
-            "publishedAt": "2025-11-08 08:24:12"
-        },
-        {
-            "source": {
-                "name": "latestly"
-            },
-            "title": "Business News | World Technology Summit 2025 India Sets the Stage to Accelerate Global Connectivity",
-            "url": "https://www.latestly.com/agency-news/business-news-world-technology-summit-2025-india-sets-the-stage-to-accelerate-global-connectivity-7196821.html",
-            "urlToImage": "https://st1.latestly.com/wp-content/uploads/2025/11/ANI-20251108073653.jpg",
-            "publishedAt": "2025-11-08 07:50:32"
-        },
-        {
-            "source": {
-                "name": "etvbharat"
-            },
-            "title": "Watch: Chinese Startup's Robot Moved So Naturally, They Had to Slice It Open to Prove It Wasn't Human",
-            "url": "https://www.etvbharat.com/en/technology/watch-chinese-startup-xpeng-robot-moved-so-naturally-they-had-to-slice-it-open-to-prove-it-was-not-human-enn25110802171",
-            "urlToImage": "https://imgs.etvbharat.com/etvbharat/prod-images/08-11-2025/1200-675-25358350-1002-25358350-1762587785526.jpg",
-            "publishedAt": "2025-11-08 07:47:25"
-        },
-        {
-            "source": {
-                "name": "macrumors"
-            },
-            "title": "The Best Early Black Friday Apple Deals on MacBook, Apple Watch, iPad, and More",
-            "url": "https://www.macrumors.com/2025/11/08/best-early-black-friday-apple-deals-2/",
-            "urlToImage": "https://images.macrumors.com/t/pFOydpdBKa_1kOy2XY-28g9pkO4=/2500x/article-new/2025/10/Early-Black-Friday-Deals-1.jpg",
-            "publishedAt": "2025-11-08 06:16:13"
-        },
-        {
-            "source": {
-                "name": "etvbharat"
-            },
-            "title": "India’s AI Ecosystem Offers Scalable Platform For Innovation With French Partners",
-            "url": "https://www.etvbharat.com/en/technology/indian-ai-ecosystem-offers-scalable-platform-for-innovation-with-french-partners-enn25110800937",
-            "urlToImage": "https://imgs.etvbharat.com/etvbharat/prod-images/08-11-2025/1200-675-25357116-868-25357116-1762582192477.jpg",
-            "publishedAt": "2025-11-08 06:11:20"
-        },
-        {
-            "source": {
-                "name": "thehindubusinessline"
-            },
-            "title": "Tesla shareholders didn’t approve of investment in Musk’s xAI",
-            "url": "https://www.thehindubusinessline.com/news/world/tesla-shareholders-didnt-approve-of-investment-in-musks-xai/article70255463.ece",
-            "urlToImage": "https://bl-i.thgim.com/public/incoming/m6g5q9/article70255476.ece/alternates/LANDSCAPE_1200/2025-09-15T132409Z_738826327_RC2GK1AOL8BI_RTRMADP_3_TESLA-STOCKS.JPG",
-            "publishedAt": "2025-11-08 04:56:47"
-        },
-        {
-            "source": {
-                "name": "indianexpress"
-            },
-            "title": "Vigilante lawyers expose the rising tide of AI slop in court filings",
-            "url": "https://indianexpress.com/article/technology/tech-news-technology/vigilante-lawyers-expose-the-rising-tide-of-ai-slop-in-court-filings-10352972/",
-            "urlToImage": "https://images.indianexpress.com/2025/11/AI-Lawyer.jpg",
-            "publishedAt": "2025-11-08 04:05:22"
         }
     ]
 }
