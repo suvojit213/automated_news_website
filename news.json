@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-11-10T16:20:41.723869Z",
+    "lastUpdatedAt": "2025-11-10T17:14:38.975839Z",
     "articles": [
+        {
+            "source": {
+                "id": "6b5c45eb50a6698dcc6711c82d72fb2e",
+                "name": "Oxford Mail",
+                "url": "https://www.oxfordmail.co.uk",
+                "country": "gb"
+            },
+            "title": "Two Oxford AI experts awarded prestigious fellowships",
+            "url": "https://www.oxfordmail.co.uk/news/25604113.two-oxford-ai-experts-awarded-prestigious-fellowships/",
+            "urlToImage": "https://www.oxfordmail.co.uk/resources/images/19165410.jpg?type=og-image",
+            "publishedAt": "2025-11-10T05:00:00Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "China stocks flat as consumer staples, liquor gains counter tech losses",
+            "url": "https://www.devdiscourse.com/article/headlines/3691101-china-stocks-flat-as-consumer-staples-liquor-gains-counter-tech-losses",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_18_25_2697677.jpg?width=920&format=jpeg",
+            "publishedAt": "2025-11-10T04:41:31Z"
+        },
         {
             "source": {
                 "id": "1e30d944d63d9090db5a2c2e28a8772f",
@@ -168,6 +192,15 @@
             "url": "https://www.globenewswire.com/news-release/2025/11/10/3184542/0/en/USX-Cyber-Launches-Guardient-for-SMBs-as-CMMC-Enforcement-Begins-Helping-Businesses-Get-Compliant-Faster-More-Affordably-and-More-Effectively.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/877a71e6-4c84-4611-9744-d88fdb111d98",
             "publishedAt": "2025-11-10T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "asiatimes"
+            },
+            "title": "Nothing is given: China’s open-source AI tsunami",
+            "url": "https://asiatimes.com/2025/11/nothing-is-given-chinas-open-source-ai-tsunami/",
+            "urlToImage": "https://i0.wp.com/asiatimes.com/wp-content/uploads/2025/11/Technology-Chess-Tech-Great-Game.png?fit=780%2C520&quality=80&ssl=1",
+            "publishedAt": "2025-11-10 04:56:04"
         },
         {
             "source": {
@@ -3132,42 +3165,6 @@
             "url": "https://www.reuters.com/business/meta-plans-600-billion-us-spend-ai-data-centers-expand-2025-11-07/",
             "urlToImage": "https://www.reuters.com/resizer/v2/UASZS7NRCROE5JMFIJDXFNVY4Y.jpg?auth=24a44ddd4d936414010a12c71f9f1172db630a519be49a4d33cf9487dfdba61d&height=1005&width=1920&quality=80&smart=true",
             "publishedAt": "2025-11-07T17:59:44Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Meta plans $600 billion US spend as AI data centers expand",
-            "url": "https://www.marketscreener.com/news/meta-plans-600-billion-us-spend-as-ai-data-centers-expand-ce7d5fdade8bff21",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-11/2025-11-07T175901Z_1_LYNXMPELA60ZY_RTROPTP_4_META-PLATFORMS-USA-AI.JPG",
-            "publishedAt": "2025-11-07T17:59:21Z"
-        },
-        {
-            "source": {
-                "id": "3989f52bbec2d3be8442e2851b59e79e",
-                "name": "CBS Sports",
-                "url": "https://www.cbssports.com",
-                "country": "us"
-            },
-            "title": "NBA player props, picks, odds: Target Victor Wembanyama with Friday NBA best bets",
-            "url": "https://www.cbssports.com/nba/news/nba-player-props-picks-odds-victor-wembanyama-nba-best-bets-friday-nov-7/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/10/24/044c30db-8682-427c-a192-3334e601fb9d/thumbnail/1200x675/4cf986d0193bb81103941b2bade4c16a/victor-wembanyama-san-antonio-spurs-imagn-images.jpg",
-            "publishedAt": "2025-11-07T17:53:41Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Big Tech may win reprieve as EU mulls easing AI rules, document shows",
-            "url": "https://www.reuters.com/sustainability/boards-policy-regulation/big-tech-may-win-reprieve-eu-mulls-easing-ai-rules-document-shows-2025-11-07/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/RWXBP64ZGBI7ZP6GVFDGI4WWX4.jpg?auth=ebec4f3124090e064cdb77129ee9f2c0d43c92874455b7659da0233bf3dac64f&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-11-07T17:46:43Z"
         }
     ]
 }
