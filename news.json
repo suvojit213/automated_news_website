@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-11-11T10:17:50.569366Z",
+    "lastUpdatedAt": "2025-11-11T11:14:12.207952Z",
     "articles": [
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Intel CEO to oversee its AI efforts after executive departs for OpenAI",
+            "url": "https://www.marketscreener.com/news/intel-ceo-to-oversee-its-ai-efforts-after-executive-departs-for-openai-ce7d5fd8d18bf625",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-08/2025-08-08T162817Z_2_LYNXMPEL770HT_RTROPTP_4_TAIWAN-COMPUTEX-INTEL.JPG",
+            "publishedAt": "2025-11-10T23:09:14Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "SoftBank's OpenAI wager in focus as analysts upgrade share price target",
+            "url": "https://www.reuters.com/business/media-telecom/softbanks-openai-wager-focus-analysts-upgrade-share-price-target-2025-11-10/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/6R5DVHUYWVNHJOJSHSW6FOAN54.jpg?auth=2d79e6c41a2c66f80c33508f7f6809fc7305b3fdefcb3696da505e50eae433c9&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-11-10T23:04:39Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "SoftBank's OpenAI wager in focus as analysts upgrade share price target",
+            "url": "https://www.marketscreener.com/news/softbank-s-openai-wager-in-focus-as-analysts-upgrade-share-price-target-ce7d5fd8d188ff21",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-11/2025-11-10T230415Z_1_LYNXMPELA915X_RTROPTP_4_SOFTBANK-OPENAI.JPG",
+            "publishedAt": "2025-11-10T23:02:00Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Intel CEO to oversee company's AI efforts after departure of exec for OpenAI",
+            "url": "https://www.marketscreener.com/news/intel-ceo-to-oversee-company-s-ai-efforts-after-departure-of-exec-for-openai-ce7d5fd8d188f124",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2025-11-10T22:57:15Z"
+        },
         {
             "source": {
                 "id": "d4773b92da0613b8ffc2fc9c46229534",
@@ -1524,6 +1572,33 @@
             "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1013681",
             "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1013681.g007&size=inline",
             "publishedAt": "2025-11-10T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "arstechnica"
+            },
+            "title": "Researchers isolate memorization from reasoning in AI neural networks",
+            "url": "https://arstechnica.com/ai/2025/11/study-finds-ai-models-store-memories-and-logic-in-different-neural-regions/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/surprised_robot_2-1152x648.jpg",
+            "publishedAt": "2025-11-10 23:06:42"
+        },
+        {
+            "source": {
+                "name": "news4social"
+            },
+            "title": "BenQ InstaShow WDC15 4K UHD Wireless Presentation System – Cut The Cord – News 4 Social",
+            "url": "https://en.news4social.com/benq-instashow-wdc15-4k-uhd-wireless-presentation-system-cut-the-cord-news-4-social/",
+            "urlToImage": "https://i3.wp.com/the-gadgeteer.com/wp-content/uploads/2025/11/BenQ_InstaShow_WDC15-01.jpg?resize=750%2C375&ssl=1&w=750",
+            "publishedAt": "2025-11-10 23:00:00"
+        },
+        {
+            "source": {
+                "name": "channelnewsasia"
+            },
+            "title": "Intel CEO to oversee its AI efforts after executive departs for OpenAI",
+            "url": "https://www.channelnewsasia.com/business/intel-ceo-oversee-its-ai-efforts-after-executive-departs-openai-5458986",
+            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--MsUwH-ir--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2025-11-10T225947Z_2_LYNXMPELA915K_RTROPTP_3_TAIWAN-COMPUTEX-INTEL.JPG?itok=FwzulYEe",
+            "publishedAt": "2025-11-10 22:58:12"
         },
         {
             "source": {
@@ -3132,90 +3207,6 @@
             "url": "https://www.ndtvprofit.com/business/plunge-in-asias-ai-shares-sows-doubts-over-world-beating-rally",
             "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-11-09%2F7k80aw7t%2F443859806.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
             "publishedAt": "2025-11-09T05:40:28Z"
-        },
-        {
-            "source": {
-                "id": "0c047612bc7bc0113342d2651f47b208",
-                "name": "GB News",
-                "url": "https://www.gbnews.com",
-                "country": "gb"
-            },
-            "title": "Google Maps releases biggest AI update, but UK misses out",
-            "url": "https://www.gbnews.com/tech/google-maps-new-ai-features-driving",
-            "urlToImage": "https://www.gbnews.com/media-library/example-of-some-of-the-google-gemini-features-coming-to-google-maps-in-a-future-update.png?id=62103673&width=1200&height=600&coordinates=133%2C9%2C192%2C253",
-            "publishedAt": "2025-11-09T05:01:02Z"
-        },
-        {
-            "source": {
-                "id": "7eeaf9a839918543cc708f2d331c3be4",
-                "name": "Free Press Journal",
-                "url": "https://www.freepressjournal.in",
-                "country": "in"
-            },
-            "title": "Global Data Leak Reveals Millions Still Using 'Weak, Hackable Passwords'; Here’s The List Of Top 10 Most-Commonly Used Passcodes You Need To Avoid",
-            "url": "https://www.freepressjournal.in/tech/global-data-leak-reveals-millions-still-using-weak-hackable-passwords-heres-the-list-of-top-10-most-commonly-used-passcodes-you-need-to-avoid",
-            "urlToImage": "https://media.assettype.com/freepressjournal/2025-11-04/f11v2cif/Cyber-Crime-5.jpg",
-            "publishedAt": "2025-11-09T04:52:35Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "AI valuations hit elevated levels, further rallies run bubble burst risk: Analysts",
-            "url": "https://www.lokmattimes.com/technology/ai-valuations-hit-elevated-levels-further-rallies-run-bubble-burst-risk-analysts-1/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202511093569490_202511.jpg",
-            "publishedAt": "2025-11-09T04:36:29Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "AI valuations hit elevated levels, further rallies run bubble burst risk: Analysts",
-            "url": "https://www.lokmattimes.com/business/ai-valuations-hit-elevated-levels-further-rallies-run-bubble-burst-risk-analysts/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202511093569490_202511.jpg",
-            "publishedAt": "2025-11-09T04:36:29Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Researchers in Australia use AI, eye scans to detect chronic diseases earlier",
-            "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2025/11/09/researchers-in-australia-use-ai-eye-scans-to-detect-chronic-diseases-earlier",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/09/3612970.jpg",
-            "publishedAt": "2025-11-09T04:36:00Z"
-        },
-        {
-            "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
-                "country": "in"
-            },
-            "title": "OpenAI Issues A Stern Warning On AI's 'Superintelligence'-Here's Why",
-            "url": "https://www.ndtvprofit.com/technology/potentially-catastrophic-openai-issues-a-stern-warning-on-ais-superintelligenceheres-why",
-            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-02-13%2Fa5v3517q%2F487908877AP00005TechCrunch.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
-            "publishedAt": "2025-11-09T04:29:15Z"
-        },
-        {
-            "source": {
-                "id": "fd3677545b80d5db7541de8e111d27ba",
-                "name": "Moneycontrol",
-                "url": "https://www.moneycontrol.com",
-                "country": "in"
-            },
-            "title": "OpenAI CEO Sam Altman gets legal notice over criminal case while onstage. Watch",
-            "url": "https://www.moneycontrol.com/news/trends/openai-ceo-sam-altman-gets-legal-notice-over-criminal-case-while-onstage-watch-13661795.html",
-            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2025/11/20251109042203_MixCollage-09-Nov-2025-09-51-AM-7386.jpg",
-            "publishedAt": "2025-11-09T04:24:15Z"
         }
     ]
 }
