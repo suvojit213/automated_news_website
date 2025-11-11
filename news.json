@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-11-11T14:16:17.864266Z",
+    "lastUpdatedAt": "2025-11-11T15:16:42.230085Z",
     "articles": [
+        {
+            "source": {
+                "id": "d6397b77175680e2678c0d60edcee7af",
+                "name": "South China Morning Post",
+                "url": "https://www.scmp.com",
+                "country": "hk"
+            },
+            "title": "Intel CEO to oversee its AI efforts after executive departs for OpenAI",
+            "url": "https://www.scmp.com/tech/big-tech/article/3332276/intel-ceo-oversee-its-ai-efforts-after-executive-departs-openai",
+            "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/11/11/5dc6a5f8-eeb1-4c79-b760-76fcd8b23cda_7b835472.jpg?itok=5C2s4hx1&v=1762830551",
+            "publishedAt": "2025-11-11T03:10:16Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "AI agents open door to new hacking threats",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-agents-open-door-to-new-hacking-threats/articleshow/125238648.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-17898,resizemode-75,msid-125238648/tech/artificial-intelligence/ai-agents-open-door-to-new-hacking-threats.jpg",
+            "publishedAt": "2025-11-11T02:54:37Z"
+        },
+        {
+            "source": {
+                "id": "3a3847d645a619320aa3b3484581e395",
+                "name": "CBS News",
+                "url": "https://www.cbsnews.com",
+                "country": "us"
+            },
+            "title": "AI scams fuel rise in fake online car sales. How California is trying to protect consumers.",
+            "url": "https://www.cbsnews.com/sacramento/news/ai-scams-fake-car-sales-california/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/11/11/145c5ab9-eefd-4c3f-9796-e172b09fecef/thumbnail/1200x630/5c7be452352f09c031a9fba14196117d/cci-online-car-sale-scams.png",
+            "publishedAt": "2025-11-11T02:40:35Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "CBSE drafts AI curriculum for Classes 3",
+            "url": "https://timesofindia.indiatimes.com/education/cbse-drafts-ai-curriculum-for-classes-3-12-ncert-to-review/articleshow/125238255.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-125238335,width-1070,height-580,imgsize-933235,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-11-11T02:36:00Z"
+        },
         {
             "source": {
                 "id": "ca84296ef941bfa461f4239a2290cb99",
@@ -96,6 +144,96 @@
             "url": "https://www.globenewswire.com/news-release/2025/11/11/3185333/28124/en/Hoxhunt-Innovative-Platform-Insights-Report-2025-Companies-Using-Hoxhunt-Have-Witnessed-a-Dramatic-Decline-in-Phishing-Click-Rates-and-a-Remarkable-225-Increase-in-Threat-Reporting.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
             "publishedAt": "2025-11-11T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "milescitystar"
+            },
+            "title": "CORRECTION FROM SOURCE: Cablevisión Holding Announces its Nine Months and Third Quarter 2025 Results",
+            "url": "https://www.milescitystar.com/ap_news/montana/correction-from-source-cablevisi-n-holding-announces-its-nine-months-and-third-quarter-2025-results/article_1876e939-01bd-534e-b6a8-73b79216c188.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/milescitystar.com/content/tncms/assets/v3/editorial/b/ee/bee2c1d7-b35c-535a-a7ed-370f4842f488/6912a95bf2d7b.image.jpg",
+            "publishedAt": "2025-11-11 03:06:39"
+        },
+        {
+            "source": {
+                "name": "economictimes_indiatimes"
+            },
+            "title": "AI agents open door to new hacking threats",
+            "url": "http://economictimes.indiatimes.com/tech/artificial-intelligence/ai-agents-open-door-to-new-hacking-threats/articleshow/125238648.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-17898,resizemode-75,msid-125238648/tech/artificial-intelligence/ai-agents-open-door-to-new-hacking-threats.jpg",
+            "publishedAt": "2025-11-11 02:54:37"
+        },
+        {
+            "source": {
+                "name": "mtdemocrat"
+            },
+            "title": "'Western tech dominance fading' at Lisbon's Web Summit",
+            "url": "https://www.mtdemocrat.com/news/national/western-tech-dominance-fading-at-lisbons-web-summit/article_7de20ef3-4137-5fcd-a481-781fd6ae972b.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/mtdemocrat.com/content/tncms/assets/v3/editorial/1/ab/1ab11b64-9938-51ae-825d-5f53d7c7e4ac/6912aaabb1e43.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-11-11 02:53:43"
+        },
+        {
+            "source": {
+                "name": "manchestertimes"
+            },
+            "title": "'Western tech dominance fading' at Lisbon's Web Summit",
+            "url": "https://www.manchestertimes.com/news/national/western-tech-dominance-fading-at-lisbons-web-summit/article_8568411e-c2e2-57a9-b1e6-cb1adbce4fbb.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/manchestertimes.com/content/tncms/assets/v3/editorial/8/0a/80a2c676-3bc1-52f8-9023-00fc9f920ede/6912aaa356089.image.jpg?resize=400%2C266",
+            "publishedAt": "2025-11-11 02:53:43"
+        },
+        {
+            "source": {
+                "name": "postguam"
+            },
+            "title": "'Western tech dominance fading' at Lisbon's Web Summit",
+            "url": "https://www.postguam.com/news/national/western-tech-dominance-fading-at-lisbons-web-summit/article_0944c326-dbde-562e-bb9c-be3cadb27595.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/3/b4/3b4be2f2-ca22-5384-aefe-a46a1ee08bb0/6912aac0eae3b.image.jpg?resize=400%2C266",
+            "publishedAt": "2025-11-11 02:53:43"
+        },
+        {
+            "source": {
+                "name": "themercury"
+            },
+            "title": "'Western tech dominance fading' at Lisbon's Web Summit",
+            "url": "https://themercury.com/news/national/western-tech-dominance-fading-at-lisbons-web-summit/article_6012b08e-a84a-5fcf-b1d7-6dae31fbda23.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/themercury.com/content/tncms/assets/v3/editorial/c/e9/ce91b7d5-5280-52cf-b366-b00c2fc9a0b0/6912aa7d2e038.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-11-11 02:53:43"
+        },
+        {
+            "source": {
+                "name": "emporiagazette"
+            },
+            "title": "'Western tech dominance fading' at Lisbon's Web Summit",
+            "url": "https://www.emporiagazette.com/news/national/article_48a0fcaa-9514-5ba1-bbec-a6b350e6f6d9.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/emporiagazette.com/content/tncms/assets/v3/editorial/2/18/2185885b-ec0d-587f-9e2f-937df296f428/6912aa63d39e9.image.jpg?resize=400%2C266",
+            "publishedAt": "2025-11-11 02:53:43"
+        },
+        {
+            "source": {
+                "name": "communitynewspapergroup"
+            },
+            "title": "'Western tech dominance fading' at Lisbon's Web Summit",
+            "url": "https://www.communitynewspapergroup.com/news/nation/western-tech-dominance-fading-at-lisbons-web-summit/article_ac440cfb-1895-503a-8fd9-d963200050a2.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/communitynewspapergroup.com/content/tncms/assets/v3/editorial/5/cc/5ccd9d8b-5b44-58f4-b693-48e324ef3cc4/6912aabbde8a9.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-11-11 02:53:43"
+        },
+        {
+            "source": {
+                "name": "fbherald"
+            },
+            "title": "'Western tech dominance fading' at Lisbon's Web Summit",
+            "url": "https://www.fbherald.com/news/national/western-tech-dominance-fading-at-lisbons-web-summit/article_214093e4-d85b-5901-a05f-1a1e9b12c39c.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/fbherald.com/content/tncms/assets/v3/editorial/0/6a/06a9db29-49cf-5732-b2d8-bbe6ea3f938b/6912aacdae10d.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-11-11 02:53:43"
+        },
+        {
+            "source": {
+                "name": "citizentribune"
+            },
+            "title": "'Western tech dominance fading' at Lisbon's Web Summit",
+            "url": "https://www.citizentribune.com/news/national/western-tech-dominance-fading-at-lisbons-web-summit/article_7e4c21e2-cf00-5f0e-9339-91209d3df714.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/citizentribune.com/content/tncms/assets/v3/editorial/3/32/332066f4-d971-5102-96ea-40ad6a8259b7/6912aacaade39.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-11-11 02:53:43"
         },
         {
             "source": {
@@ -3012,138 +3150,6 @@
             "url": "https://en.news4social.com/ntu-singapore-and-zero-gravity-launch-s5-million-research-hub-for-decentralized-ai-innovation/",
             "urlToImage": "https://i0.wp.com/thenewscrypto.com/wp-content/uploads/2025/09/sae.jpg?resize=750%2C375&ssl=1&w=750",
             "publishedAt": "2025-11-10 02:30:00"
-        },
-        {
-            "source": {
-                "name": "moneycontrol"
-            },
-            "title": "OPINION | The rise of Vertical AI",
-            "url": "https://www.moneycontrol.com/news/opinion/the-rise-of-vertical-ai-13662135.html",
-            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2024/01/Artificial-Intelligence_AI7_-378x213.jpg",
-            "publishedAt": "2025-11-10 02:23:58"
-        },
-        {
-            "source": {
-                "name": "themercury"
-            },
-            "title": "The AI revolution has a power problem",
-            "url": "https://themercury.com/news/national/the-ai-revolution-has-a-power-problem/article_c2a4a63b-679e-5e87-8282-9d8867b00a50.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/themercury.com/content/tncms/assets/v3/editorial/f/69/f69798bb-cd1e-5964-aefd-130fd402e75c/69115900a65d2.image.jpg?resize=300%2C200",
-            "publishedAt": "2025-11-10 02:19:47"
-        },
-        {
-            "source": {
-                "name": "dailygazette"
-            },
-            "title": "The AI revolution has a power problem",
-            "url": "https://www.dailygazette.com/news/national/the-ai-revolution-has-a-power-problem/article_d41120bd-8c44-597e-a684-16f521f5958f.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/dailygazette.com/content/tncms/assets/v3/editorial/a/bc/abcf5cf9-a486-54a9-a368-7fa13b9d76c4/691158dd662aa.image.jpg?resize=300%2C200",
-            "publishedAt": "2025-11-10 02:19:47"
-        },
-        {
-            "source": {
-                "name": "carrollspaper"
-            },
-            "title": "The AI revolution has a power problem",
-            "url": "https://carrollspaper.com/news/national/the-ai-revolution-has-a-power-problem/article_779b7136-8602-5a6c-a627-85b333720ad3.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/carrollspaper.com/content/tncms/assets/v3/editorial/2/2e/22eff721-8487-5231-b33d-96618cb56143/691158c087aab.image.jpg?resize=300%2C200",
-            "publishedAt": "2025-11-10 02:19:47"
-        },
-        {
-            "source": {
-                "name": "guampdn"
-            },
-            "title": "The AI revolution has a power problem",
-            "url": "https://www.guampdn.com/news/national/the-ai-revolution-has-a-power-problem/article_c3c4b280-e193-54ad-8f7f-15464962d0a4.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/guampdn.com/content/tncms/assets/v3/editorial/7/00/7001f30f-9439-599a-9f8a-5c5f1d4d2f30/69115920265be.image.jpg?resize=300%2C200",
-            "publishedAt": "2025-11-10 02:19:47"
-        },
-        {
-            "source": {
-                "name": "mtdemocrat"
-            },
-            "title": "The AI revolution has a power problem",
-            "url": "https://www.mtdemocrat.com/news/national/the-ai-revolution-has-a-power-problem/article_c62d583e-50eb-5621-a0fa-e11bbf45569a.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/mtdemocrat.com/content/tncms/assets/v3/editorial/0/ad/0ad64cd7-3caa-5eee-8c7d-8e9947019930/691158c423493.image.jpg?resize=300%2C200",
-            "publishedAt": "2025-11-10 02:19:47"
-        },
-        {
-            "source": {
-                "name": "griffindailynews"
-            },
-            "title": "The AI revolution has a power problem",
-            "url": "https://www.griffindailynews.com/news/national/the-ai-revolution-has-a-power-problem/article_73599d0c-6355-5bd3-baaa-7c338da05c58.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/griffindailynews.com/content/tncms/assets/v3/editorial/4/0a/40ac6b42-1ee3-5bb7-b6b1-fe82b147b15b/691158df34e08.image.jpg",
-            "publishedAt": "2025-11-10 02:19:47"
-        },
-        {
-            "source": {
-                "name": "economictimes_indiatimes"
-            },
-            "title": "Digital Life Certificate guideline to avoid cyber fraud: Pensioners need to follow these instructions before submitting Jeevan Pramaan online",
-            "url": "https://economictimes.indiatimes.com/wealth/save/digital-life-certificate-guideline-to-avoid-cyber-fraud-pensioners-need-to-follow-these-instructions-before-submitting-jeevan-pramaan-online/articleshow/125217381.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1217357,resizemode-75,msid-125217381/wealth/save/digital-life-certificate-guideline-to-avoid-cyber-fraud-pensioners-need-to-follow-these-instructions-before-submitting-jeevan-pramaan-online.jpg",
-            "publishedAt": "2025-11-10 01:23:44"
-        },
-        {
-            "source": {
-                "name": "devdiscourse"
-            },
-            "title": "How scientists are hacking bacteria to treat cancer, self-destruct, then vanish without trace",
-            "url": "https://www.devdiscourse.com/article/health/3691177-how-scientists-are-hacking-bacteria-to-treat-cancer-self-destruct-then-vanish-without-trace",
-            "urlToImage": "https://devdiscourse.blob.core.windows.net/imagegallery/03_03_2020_19_01_00_2807161.jpg",
-            "publishedAt": "2025-11-10 00:15:16"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "The Future Of AI In Experience Design At LA’s Intuit Dome",
-            "url": "https://www.forbes.com/sites/charliefink/2025/11/09/the-future-of-ai-in-architecture-and-design-in-las-intuit-dome/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69112de3da3061403961fd78/0x0.jpg?width=960",
-            "publishedAt": "2025-11-10 00:14:18"
-        },
-        {
-            "source": {
-                "name": "bbc"
-            },
-            "title": "China exempts chips used by carmakers from export curbs",
-            "url": "https://www.bbc.com/news/articles/c0rp2514g4qo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7af5/live/be7b5b50-b6d5-11f0-b2a1-6f537f66f9aa.jpg",
-            "publishedAt": "2025-11-10 00:03:04"
-        },
-        {
-            "source": {
-                "name": "financialcontent"
-            },
-            "title": "Got $500? 2 Top Growth Stocks to Buy That Could Double Your Money",
-            "url": "https://www.fool.com/investing/2025/11/10/got-500-2-top-growth-stocks-to-buy-that-could-doub/",
-            "urlToImage": "https://g.foolcdn.com/editorial/images/841492/bull-market.jpg",
-            "publishedAt": "2025-11-10 00:00:00"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Arab Parliament commends UAE's experience in employing AI in justice sector",
-            "url": "https://www.tribuneindia.com/news/world/arab-parliament-commends-uaes-experience-in-employing-ai-in-justice-sector/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTI3ZGNjNzQwLWJkYzYtMTFmMC1iMDY0LWVkNWUyYTYzNDljNy5qcGc=",
-            "publishedAt": "2025-11-09T23:45:17Z"
-        },
-        {
-            "source": {
-                "id": "2f5884e252590f739df55c0e7db375df",
-                "name": "WJLA",
-                "url": "https://wjla.com",
-                "country": "us"
-            },
-            "title": "Manassas City Public Schools close on Monday due to cyberattack",
-            "url": "https://wjla.com/news/local/virginia-prince-william-county-manassas-city-public-schools-close-on-monday-due-to-cyberattack-cyber-security-hack-hackers-threat-kevin-newman-mcps",
-            "urlToImage": "https://wjla.com/resources/media/868364c6-8a84-4605-b3c9-4cf0be44a61c-364036997_744653224336819_8490382883536944166_n.jpg",
-            "publishedAt": "2025-11-09T23:16:58Z"
         }
     ]
 }
