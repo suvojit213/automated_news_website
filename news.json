@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2025-11-11T20:17:20.748698Z",
+    "lastUpdatedAt": "2025-11-11T21:14:01.996968Z",
     "articles": [
+        {
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            },
+            "title": "Microsoft AI chief says you should be afraid of AI, world will get worse if humans lost control of it",
+            "url": "https://www.indiatoday.in/technology/news/story/microsoft-ai-chief-says-you-should-be-afraid-of-ai-world-will-get-worse-if-humans-lost-control-of-it-2817370-2025-11-11",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202511/mustafa-suleyman-204619739-16x9.jpg?VersionId=sYPaA_tf.REQBHFkpVQV8s0VwAe0diI9",
+            "publishedAt": "2025-11-11T09:07:23Z"
+        },
+        {
+            "source": {
+                "id": "4300aa22a5f803b09a37ff0632b44685",
+                "name": "The daily Star",
+                "url": "https://www.dailystar.co.uk",
+                "country": "gb"
+            },
+            "title": "Brits 'trust AI more' than the Government and even their own friends and family",
+            "url": "https://www.dailystar.co.uk/news/latest-news/brits-trust-ai-more-government-36225022",
+            "urlToImage": "https://i2-prod.dailystar.co.uk/article35937195.ece/ALTERNATES/s1200/8_Security-officer-watching-cloud-blocks-forming-face-in-sky.jpg",
+            "publishedAt": "2025-11-11T08:59:29Z"
+        },
+        {
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            },
+            "title": "IIT Gandhinagar launches three new AI-focused PG Diploma programmes",
+            "url": "https://www.indiatoday.in/education-today/news/story/iit-gandhinagar-launches-three-new-ai-focused-pg-diploma-programmes-2817349-2025-11-11",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202511/iit-gandhinagar-114350364-16x9_0.jpeg?VersionId=XPMmkSqZ.Nkl5EFe03CS1ZCmac_1Fp4E",
+            "publishedAt": "2025-11-11T08:52:36Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "Best 7 Artificial Intelligence Certifications and Courses in India",
+            "url": "https://techbullion.com/best-7-artificial-intelligence-certifications-and-courses-in-india/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/11/top-20-ai-courses-certs-1000x600.jpg",
+            "publishedAt": "2025-11-11T08:51:59Z"
+        },
+        {
+            "source": {
+                "id": "4b9101ef61d45607a32072a7504f5fb0",
+                "name": "The Japan Times ",
+                "url": "https://www.japantimes.co.jp",
+                "country": "jp"
+            },
+            "title": "SoftBank unloads Nvidia stake for $5.8 billion in surprise move",
+            "url": "https://www.japantimes.co.jp/business/2025/11/11/companies/softbank-nvidia-stake/",
+            "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2025/11/11/505231.jpg?v=3.1",
+            "publishedAt": "2025-11-11T08:39:53Z"
+        },
         {
             "source": {
                 "id": "f4d035ae0463df22c36ae97972a33ba6",
@@ -468,6 +528,87 @@
             "url": "https://www.globenewswire.com/news-release/2025/11/11/3185594/0/en/Only-Two-Days-Left-Don-t-Miss-Out-Register-Now-HMG-Strategy-s-Annual-New-York-Global-Innovation-Summit-2025-unites-CIOs-CISOs-and-top-executives-to-share-insight-on-IT-AI-cyber-sec.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/4b886685-faf4-4f80-8e8a-77cac364fa1b",
             "publishedAt": "2025-11-11T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "economictimes_indiatimes"
+            },
+            "title": "Intel CEO to oversee its AI efforts after executive departs for OpenAI",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/intel-ceo-to-oversee-its-ai-efforts-after-executive-departs-for-openai/articleshow/125245350.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-39650,resizemode-75,msid-125245350/tech/artificial-intelligence/intel-ceo-to-oversee-its-ai-efforts-after-executive-departs-for-openai.jpg",
+            "publishedAt": "2025-11-11 09:13:49"
+        },
+        {
+            "source": {
+                "name": "hindustantimes"
+            },
+            "title": "Securing our AI future",
+            "url": "https://www.hindustantimes.com/ht-insight/future-tech/securing-our-ai-future-101762851909714.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/11/11/1600x900/logo/artificial_intelligence_1740651874425_1762852117962.jpg",
+            "publishedAt": "2025-11-11 09:10:11"
+        },
+        {
+            "source": {
+                "name": "expresscomputer"
+            },
+            "title": "Building India’s AI-ready enterprises: The role of make in India infrastructure",
+            "url": "https://www.expresscomputer.in/news/building-indias-ai-ready-enterprises-the-role-of-make-in-india-infrastructure/129335/",
+            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2025/01/17184826/EC_Technology_Robotix_Arm_750.jpg",
+            "publishedAt": "2025-11-11 09:02:20"
+        },
+        {
+            "source": {
+                "name": "newsable_asianetnews"
+            },
+            "title": "Rajnath Singh: India must become an architect of tech revolutions",
+            "url": "https://newsable.asianetnews.com/india/rajnath-singh-india-must-become-an-architect-of-tech-revolutions-articleshow-ebbqmvg",
+            "urlToImage": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-c39a1cb7-6f4d-4a3e-8263-6d671960d7fe.jpg",
+            "publishedAt": "2025-11-11 09:01:22"
+        },
+        {
+            "source": {
+                "name": "dailygazette"
+            },
+            "title": "Commentary: Data centers as new economic foundations",
+            "url": "https://www.dailygazette.com/tribune/commentary-data-centers-as-new-economic-foundations/article_5e0d447b-e4e7-599b-8fd2-854866cf3b47.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/dailygazette.com/content/tncms/assets/v3/editorial/7/a6/7a6135a8-f3c9-56de-9a4e-4b2acf882141/69130012b4bc8.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-11-11 09:00:00"
+        },
+        {
+            "source": {
+                "name": "dailygazette"
+            },
+            "title": "Commentary: How to save Wikipedia from AI",
+            "url": "https://www.dailygazette.com/tribune/commentary-how-to-save-wikipedia-from-ai/article_747ee0ed-a3f7-5216-97bd-da3769dbc281.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/dailygazette.com/content/tncms/assets/v3/editorial/5/d8/5d8eeaf0-4f51-5ce8-9cbf-58108d56a162/691300190b779.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-11-11 09:00:00"
+        },
+        {
+            "source": {
+                "name": "thenewsmill"
+            },
+            "title": "“True strategic autonomy will come only when our code is as indigenous as our hardware”: Rajnath Singh",
+            "url": "https://thenewsmill.com/2025/11/true-strategic-autonomy-will-come-only-when-our-code-is-as-indigenous-as-our-hardware-rajnath-singh/",
+            "urlToImage": "https://thenewsmill.com/wp-content/uploads/2025/11/ANI-20251111084553.jpg",
+            "publishedAt": "2025-11-11 08:52:17"
+        },
+        {
+            "source": {
+                "name": "republicworld"
+            },
+            "title": "Intel CEO To Oversee Its AI Efforts After Executive Departs for OpenAI",
+            "url": "https://www.republicworld.com/tech/intel-ceo-to-oversee-its-ai-efforts-after-executive-departs-for-openai",
+            "urlToImage": "https://img.republicworld.com/all_images/intel-1762850821744-16_9.webp?format=webp&h=225&q=75&w=400",
+            "publishedAt": "2025-11-11 08:47:08"
+        },
+        {
+            "source": {
+                "name": "asiatimes"
+            },
+            "title": "Will China or US win the AI race?",
+            "url": "https://asiatimes.com/2025/11/will-china-or-us-win-the-ai-race/",
+            "urlToImage": "https://i0.wp.com/asiatimes.com/wp-content/uploads/2025/10/US-China-AI-Race.jpg?fit=780%2C520&quality=89&ssl=1",
+            "publishedAt": "2025-11-11 08:25:26"
         },
         {
             "source": {
@@ -3105,132 +3246,6 @@
             "url": "https://phys.org/news/2025-11-ai-earbuds-language.html",
             "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2025/language.jpg",
             "publishedAt": "2025-11-10 18:05:35"
-        },
-        {
-            "source": {
-                "name": "thurrott"
-            },
-            "title": "WSJ: Microsoft is Still Not Meeting Its Financial Disclosure Requirements",
-            "url": "https://www.thurrott.com/microsoft/329437/wsj-microsoft-is-still-not-meeting-its-financial-disclosure-requirements",
-            "urlToImage": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2025/11/warner-bros-sucker.jpg",
-            "publishedAt": "2025-11-10 18:04:39"
-        },
-        {
-            "source": {
-                "name": "eastbaytimes"
-            },
-            "title": "Nvidia’s data centers in Santa Clara stand empty awaiting power",
-            "url": "https://www.eastbaytimes.com/2025/11/10/santa-clara-nvidia-data-centers-awaiting-power/",
-            "urlToImage": "https://www.eastbaytimes.com/wp-content/uploads/2025/09/SJM-L-NVIDIA-5-1.jpg?h=715&w=1024",
-            "publishedAt": "2025-11-10 18:02:28"
-        },
-        {
-            "source": {
-                "name": "mercurynews"
-            },
-            "title": "Nvidia’s data centers in Santa Clara stand empty awaiting power",
-            "url": "https://www.mercurynews.com/2025/11/10/santa-clara-nvidia-data-centers-awaiting-power/",
-            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/09/SJM-L-NVIDIA-5.jpg?strip=all&w=1400px",
-            "publishedAt": "2025-11-10 18:02:28"
-        },
-        {
-            "source": {
-                "name": "hastingstribune"
-            },
-            "title": "Trillium Technologies, Inc. Launches $300 Million Compute Credit Offering to Power the Future of AI and Cloud Intelligence",
-            "url": "https://www.hastingstribune.com/ap/state/trillium-technologies-inc-launches-300-million-compute-credit-offering-to-power-the-future-of-ai/article_7393daa0-0e77-576c-8274-bad88cb53ac8.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/hastingstribune.com/content/tncms/assets/v3/editorial/2/4f/24f8b0f6-8c33-5fe8-8cab-632afd580aa9/69122940b417d.image.jpg?resize=400%2C41",
-            "publishedAt": "2025-11-10 18:01:57"
-        },
-        {
-            "source": {
-                "name": "milescitystar"
-            },
-            "title": "Trillium Technologies, Inc. Launches $300 Million Compute Credit Offering to Power the Future of AI and Cloud Intelligence",
-            "url": "https://www.milescitystar.com/ap_news/montana/trillium-technologies-inc-launches-300-million-compute-credit-offering-to-power-the-future-of-ai/article_e55be702-eeb7-56a3-be72-4d3dcc51e03f.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/milescitystar.com/content/tncms/assets/v3/editorial/a/6d/a6d885cb-a3ad-5bee-892b-35a375a04103/6912290802d80.image.jpg?resize=300%2C31",
-            "publishedAt": "2025-11-10 18:01:57"
-        },
-        {
-            "source": {
-                "name": "pcworld_us"
-            },
-            "title": "SwitchBot Smart Video Doorbell review: Monitor included",
-            "url": "https://www.pcworld.com/article/2953965/switchbot-smart-video-doorbell-review-monitor-included.html",
-            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/11/SwitchBot-Smart-Video-Doorbell.jpg?quality=50&strip=all",
-            "publishedAt": "2025-11-10 18:00:00"
-        },
-        {
-            "source": {
-                "name": "macrumors"
-            },
-            "title": "Happy 24th Anniversary, iPod",
-            "url": "https://www.macrumors.com/2025/11/10/happy-24th-anniversary-ipod/",
-            "urlToImage": "https://images.macrumors.com/t/McWUS57JZ5NgzduzI6laaSXOnDw=/1600x/article-new/2025/11/apple-original-ipod-classic-2001.jpg",
-            "publishedAt": "2025-11-10 17:29:00"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "Early Black Friday Amazon deals live from $4 — my 41 favorite deals on Yeti, Lego, Ninja, Roku and more",
-            "url": "https://www.tomsguide.com/sales-events/early-black-friday-amazon-deals-live-from-usd4-my-41-favorite-deals-on-yeti-lego-ninja-roku-and-more",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/sTp2UryNQuHiKLTFZuaMe3-1280-80.jpg",
-            "publishedAt": "2025-11-10 17:27:09"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "How to Choose the Right AI Tools and Platforms",
-            "url": "https://www.analyticsinsight.net/artificial-intelligence/how-to-choose-the-right-ai-tools-and-platforms",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-11-10%2Feskn72o8%2FHow-to-Choose-the-Right-AI-Tools-and-Platforms.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-11-10 17:14:32"
-        },
-        {
-            "source": {
-                "name": "eagletribune"
-            },
-            "title": "Syntiant Unveils Vision Transformer for National Security Applications",
-            "url": "https://www.eagletribune.com/region/syntiant-unveils-vision-transformer-for-national-security-applications/article_15459c26-7941-537c-986e-c5e27c07258a.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333",
-            "publishedAt": "2025-11-10 17:00:53"
-        },
-        {
-            "source": {
-                "name": "slashgear"
-            },
-            "title": "How To Run An AI Chatbot Locally On Your iPhone",
-            "url": "https://www.slashgear.com/2006210/how-to-run-ai-chatbot-iphone-locally-guide/",
-            "urlToImage": "https://www.slashgear.com/img/gallery/how-to-run-an-ai-chatbot-locally-on-your-iphone/l-intro-1761323465.jpg",
-            "publishedAt": "2025-11-10 17:00:00"
-        },
-        {
-            "source": {
-                "name": "theverge"
-            },
-            "title": "Bose’s latest QuietComfort Ultra earbuds are $50 off ahead of Black Friday",
-            "url": "https://www.theverge.com/tech/817575/bose-quietcomfort-ultra-earbuds-blink-video-doorbell-bundle-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Bose-QuietComfort-Ultra-Earbunds-second-gen-Deal.png?crop=0%2C10.732984293194%2C100%2C78.534031413613&quality=90&strip=all&w=1200",
-            "publishedAt": "2025-11-10 16:57:35"
-        },
-        {
-            "source": {
-                "name": "newsweek"
-            },
-            "title": "AI Deepfakes Are Forcing Companies to Rebuild Trust",
-            "url": "https://www.newsweek.com/nw-ai/ai-deepfakes-are-forcing-companies-to-rebuild-trust-11007197",
-            "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2025/11/AI-Deepfakes-Are-Forcing-Companies-to-Rebuild-Trust.jpg?w=1200crop%3D1",
-            "publishedAt": "2025-11-10 16:57:18"
-        },
-        {
-            "source": {
-                "name": "latimes"
-            },
-            "title": "Data centers in Silicon Valley stand empty, awaiting power",
-            "url": "https://www.latimes.com/business/story/2025-11-10/data-centers-in-nvidias-hometown-stand-empty-awaiting-power",
-            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/08dd8bc/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc8%2Fed%2Fd55616cd56dec0d38e3732df98b8%2F1x-1.jpg",
-            "publishedAt": "2025-11-10 16:37:41"
         }
     ]
 }
