@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-11-11T17:14:24.636564Z",
+    "lastUpdatedAt": "2025-11-11T18:22:15.100902Z",
     "articles": [
+        {
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            },
+            "title": "Meet Sachin Katti, IIT Bombay grad who quit Intel after 6 months as AI chief to join OpenAI",
+            "url": "https://www.indiatoday.in/technology/news/story/meet-sachin-katti-iit-bombay-grad-who-quit-intel-after-6-months-as-ai-chief-to-join-openai-2817210-2025-11-11",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202511/sachin-katti-114849676-16x9_0.jpg?VersionId=a8KHto7wBNji6pojzfm9YuYuzHQyDJ1N",
+            "publishedAt": "2025-11-11T05:49:50Z"
+        },
         {
             "source": {
                 "id": "7006f2c40c7cc01195608dbfd60259b3",
@@ -72,6 +84,18 @@
             "url": "https://www.thestar.com.my/tech/tech-news/2025/11/11/softbank039s-openai-wager-in-focus-as-analysts-upgrade-share-price-target",
             "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/11/3616209.jpg",
             "publishedAt": "2025-11-11T03:49:00Z"
+        },
+        {
+            "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+            },
+            "title": "IIM-Mumbai launches two-year blended MBA programme for working professionals",
+            "url": "https://indianexpress.com/article/education/iim-mumbai-two-year-blended-mba-programme-working-professionals-cat-2025-10356922/",
+            "urlToImage": "https://images.indianexpress.com/2025/11/IIM-Mumbai-Image-via-X.png",
+            "publishedAt": "2025-11-11T03:43:21Z"
         },
         {
             "source": {
@@ -228,6 +252,78 @@
             "url": "https://www.globenewswire.com/news-release/2025/11/11/3185594/0/en/Only-Two-Days-Left-Don-t-Miss-Out-Register-Now-HMG-Strategy-s-Annual-New-York-Global-Innovation-Summit-2025-unites-CIOs-CISOs-and-top-executives-to-share-insight-on-IT-AI-cyber-sec.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/4b886685-faf4-4f80-8e8a-77cac364fa1b",
             "publishedAt": "2025-11-11T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "socialsamosa"
+            },
+            "title": "Meta reports gains from new AI-powered ad recommendation model GEM",
+            "url": "https://www.socialsamosa.com/news-2/meta-ai-powered-ad-recommendation-model-gem-10646522",
+            "urlToImage": "https://img-cdn.publive.online/fit-in/1280x960/socialsamosa/media/media_files/2025/11/11/7-5-2025-11-11-11-27-23.jpg",
+            "publishedAt": "2025-11-11 06:21:16"
+        },
+        {
+            "source": {
+                "name": "freepressjournal"
+            },
+            "title": "Contract Manufacturing Company Aequs Raises ₹144 Crore From SBI Funds Management & Two Other Investors As Part Of Pre-IPO Funding Round",
+            "url": "https://www.freepressjournal.in/business/contract-manufacturing-company-aequs-raises-144-crore-from-sbi-funds-management-two-other-investors-as-part-of-pre-ipo-funding-round",
+            "urlToImage": "https://media.assettype.com/freepressjournal/2025-11-11/zmxg8rmk/IPO-Aequs.jpg?width=1200",
+            "publishedAt": "2025-11-11 06:19:44"
+        },
+        {
+            "source": {
+                "name": "moneycontrol"
+            },
+            "title": "The AI cold war that could reshape global power",
+            "url": "https://www.moneycontrol.com/world/the-ai-cold-war-that-could-reshape-global-power-article-13666587.html",
+            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2024/10/20241012121016_BeFunky-collage-2024-10-12T173859.661.jpg",
+            "publishedAt": "2025-11-11 06:15:33"
+        },
+        {
+            "source": {
+                "name": "latestly"
+            },
+            "title": "Intel AI Chief Sachin Katti Joins Sam Altman-Run OpenAI To Build Compute Infrastructure for AGI Research To Scale Its Applications",
+            "url": "https://www.latestly.com/socially/technology/intel-ai-chief-sachin-katti-joins-sam-altman-run-openai-to-build-compute-infrastructure-for-agi-research-to-scale-its-applications-7199995.html",
+            "urlToImage": "https://st1.latestly.com/wp-content/uploads/2025/11/1-946930973.jpg",
+            "publishedAt": "2025-11-11 06:12:58"
+        },
+        {
+            "source": {
+                "name": "menafn"
+            },
+            "title": "AI Agents Open Door To New Hacking Threats",
+            "url": "https://menafn.com/1110325991/AI-Agents-Open-Door-To-New-Hacking-Threats",
+            "urlToImage": "https://menafn.com/updates/pr/2025-11/11/TP_f2af5image_story.jpg",
+            "publishedAt": "2025-11-11 06:02:50"
+        },
+        {
+            "source": {
+                "name": "hackaday"
+            },
+            "title": "Programming the 6581 Sound Interface Device (SID) with the 6502",
+            "url": "https://hackaday.com/2025/11/10/programming-the-6581-sound-interface-device-sid-with-the-6502/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2025/11/Ben-Eater-sound-banner.jpg",
+            "publishedAt": "2025-11-11 06:00:09"
+        },
+        {
+            "source": {
+                "name": "thehindu"
+            },
+            "title": "Critics call proposed changes to landmark EU privacy law 'death by a thousand cuts'",
+            "url": "https://www.thehindu.com/sci-tech/technology/critics-call-proposed-changes-to-landmark-eu-privacy-law-death-by-a-thousand-cuts/article70265443.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/k07djf/article70265444.ece/alternates/LANDSCAPE_1200/2025-07-10T155923Z_1207648403_RC2Z84A617UP_RTRMADP_3_UKRAINE-CRISIS-EU-PRICECAP.JPG",
+            "publishedAt": "2025-11-11 05:56:53"
+        },
+        {
+            "source": {
+                "name": "digitaltrends"
+            },
+            "title": "An AI-generated song just topped a Billboard chart",
+            "url": "https://www.digitaltrends.com/computing/ai-slop-tops-a-billboard-chart/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/11/breaking-rust.jpg?p=1&resize=1200%2C630",
+            "publishedAt": "2025-11-11 05:40:00"
         },
         {
             "source": {
@@ -3081,96 +3177,6 @@
             "url": "https://www.bgr.com/2021582/apple-m6-mac-2026-roadmap-leaks/",
             "urlToImage": "https://www.bgr.com/img/gallery/leaker-reveals-apples-mac-roadmap-for-2026-with-6-new-models-and-several-chips/l-intro-1762770116.jpg",
             "publishedAt": "2025-11-10 10:30:47"
-        },
-        {
-            "source": {
-                "name": "piunikaweb"
-            },
-            "title": "Google Chrome showing gray globe icons instead of favicons for many",
-            "url": "https://piunikaweb.com/?p=1418490",
-            "urlToImage": "https://piunikaweb.com/wp-content/uploads/2025/11/chrome-bookmarks-reverted-to-old-ones-complaint.webp",
-            "publishedAt": "2025-11-10 10:25:30"
-        },
-        {
-            "source": {
-                "name": "onmsft"
-            },
-            "title": "Quick Guide to Printing a Test Page on Windows 11",
-            "url": "https://windowsreport.com/print-test-page-windows/",
-            "urlToImage": "https://windowsreport.com/wp-content/uploads/2025/11/print-test-page-windows-700x467.jpg",
-            "publishedAt": "2025-11-10 10:22:12"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "Is ChatGPT Plus still worth $20? How it compares to the Free and Pro plans",
-            "url": "https://www.zdnet.com/article/is-chatgpt-plus-still-worth-20-how-it-compares-to-the-free-and-pro-plans/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/fc6a6ce7f348936a32b5dc778ef5473b798b58e4/2025/11/07/b5f1dc31-dd24-4aaf-beb6-83c6fa5a1133/2.jpg?auto=webp&width=1280",
-            "publishedAt": "2025-11-10 10:14:00"
-        },
-        {
-            "source": {
-                "name": "nytimes"
-            },
-            "title": "We’re In a New Everything-Is-Connected Epoch. But What to Call It?",
-            "url": "https://www.nytimes.com/2025/11/10/opinion/era-technology-poly-epoch.html",
-            "urlToImage": "https://static01.nyt.com/images/2025/11/10/opinion/10friedman-promo-image/10friedman-promo-image-videoSixteenByNineJumbo1600.png",
-            "publishedAt": "2025-11-10 10:01:38"
-        },
-        {
-            "source": {
-                "name": "engadget"
-            },
-            "title": "The best keyboards for 2025",
-            "url": "https://www.engadget.com/computing/accessories/best-keyboard-120000018.html",
-            "urlToImage": "https://o.aolcdn.com/images/dims?client=19f2b5e49a271b2bde77&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-04%2F134915d0-1af2-11f0-a75e-be0429c76169&resize=1400%2C787&signature=3ca0c26bed298be6b3cc83982db72c694a597038",
-            "publishedAt": "2025-11-10 10:00:38"
-        },
-        {
-            "source": {
-                "name": "cio"
-            },
-            "title": "Strategy beyond AI: Five imperatives for 2026",
-            "url": "https://www.cio.com/article/4081926/strategy-beyond-ai-five-imperatives-for-2026.html",
-            "urlToImage": "https://www.cio.com/wp-content/uploads/2025/11/4081926-0-53705500-1762768932-cio-communication-strategy-tips-16x9-1.jpg?quality=50&strip=all&w=1024",
-            "publishedAt": "2025-11-10 10:00:00"
-        },
-        {
-            "source": {
-                "name": "forbesindia"
-            },
-            "title": "Is AI widening the gender gap in the tech industry?",
-            "url": "https://www.forbesindia.com/article/news/is-ai-widening-the-gender-gap-in-the-tech-industry/2988566/1",
-            "urlToImage": "https://images.forbesindia.com/blog/wp-content/uploads/2025/11/WOMENANDTHEWORKFORCE1200X900-2025-11-c2e19fd93d5dd0cec6b72ca4ee427c99.jpg",
-            "publishedAt": "2025-11-10 09:52:09"
-        },
-        {
-            "source": {
-                "name": "dtnext"
-            },
-            "title": "How scientists are hacking bacteria to treat cancer, self-destruct, then vanish without a trace",
-            "url": "https://www.dtnext.in/lifestyle/wellbeing/how-scientists-are-hacking-bacteria-to-treat-cancer-self-destruct-then-vanish-without-a-trace-852598",
-            "urlToImage": "https://media.dtnext.in/h-upload/2025/11/10/750x450_877428-bacteriaa.jpg",
-            "publishedAt": "2025-11-10 09:49:02"
-        },
-        {
-            "source": {
-                "name": "geeky_gadgets"
-            },
-            "title": "Dual Intel Arc GPUs in Small Form Factor PC Tested : The Results Are Unreal!",
-            "url": "https://www.geeky-gadgets.com/dual-intel-arc-gpus-sff-pc/",
-            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/11/dual-intel-arc-sff-pc-build-1440p-benchmarks_optimized.webp",
-            "publishedAt": "2025-11-10 09:45:39"
-        },
-        {
-            "source": {
-                "name": "livemint"
-            },
-            "title": "NSA Ajit Doval’s office to probe alleged GPS spoofing after Delhi airport tech glitch hit more than 800 flights: Report",
-            "url": "https://www.livemint.com/news/india/ajit-doval-office-national-security-probe-alleged-gps-spoofing-delhi-airport-flights-tech-glitch-hit-800-flights-report-11762767309639.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2025/11/10/1600x900/ANI-20251108333-0_1762768477083_1762768488411.jpg",
-            "publishedAt": "2025-11-10 09:45:07"
         }
     ]
 }
