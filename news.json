@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2025-11-12T21:14:42.472549Z",
+    "lastUpdatedAt": "2025-11-12T22:15:24.625658Z",
     "articles": [
+        {
+            "source": {
+                "id": "e553cce06d349ac1f7fbb7618a979256",
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com",
+                "country": "us"
+            },
+            "title": "Who Pays When A.I. Is Wrong?",
+            "url": "https://www.nytimes.com/2025/11/12/business/media/ai-defamation-libel-slander.html",
+            "urlToImage": "https://static01.nyt.com/images/2025/11/12/multimedia/BIZ-AI-DEFAMATION-01-vhmk/BIZ-AI-DEFAMATION-01-vhmk-facebookJumbo.jpg",
+            "publishedAt": "2025-11-12T10:01:56Z"
+        },
+        {
+            "source": {
+                "id": "a79ab99484ed3bd8c4fa35ccd09b91e1",
+                "name": "indy100",
+                "url": "https://www.indy100.com",
+                "country": "gb"
+            },
+            "title": "Elon Musk backs AI research into Ancient Rome that could rewrite history books",
+            "url": "https://www.indy100.com/science-tech/elon-musk-ai-research-ancient-rome",
+            "urlToImage": "https://www.indy100.com/media-library/image.png?id=62156087&width=1200&height=600&coordinates=0%2C79%2C0%2C384",
+            "publishedAt": "2025-11-12T09:51:31Z"
+        },
+        {
+            "source": {
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com",
+                "country": "us"
+            },
+            "title": "'It’s Dangerous for Your Family'",
+            "url": "https://www.breitbart.com/entertainment/2025/11/12/george-clooney-trashes-tech-like-openais-sora-2-as-scary-its-dangerous-for-your-family/",
+            "urlToImage": "https://media.breitbart.com/media/2025/11/Clooney-640x335.jpg",
+            "publishedAt": "2025-11-12T09:50:00Z"
+        },
+        {
+            "source": {
+                "id": "60c457b35b486691319f105c3a760060",
+                "name": "Malayala Manorama",
+                "url": "https://www.onmanorama.com",
+                "country": "in"
+            },
+            "title": "Ram Gopal Varma reaches out to former child actor, apologises for scene in ‘Shiva’",
+            "url": "https://www.onmanorama.com/entertainment/entertainment-news/2025/11/12/ram-gopal-varma-apology-shiva-scene.html",
+            "urlToImage": "https://img.onmanorama.com/content/dam/mm/en/archive/entertainment/entertainment-news/images/2025/11/12/ram-gopal-varma.jpg",
+            "publishedAt": "2025-11-12T09:43:27Z"
+        },
+        {
+            "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+            },
+            "title": "World’s first Microwave Neural Network (MNN) chip outperforms traditional CPUs",
+            "url": "https://indianexpress.com/article/technology/science/worlds-first-microwave-neural-network-mnn-chip-outperforms-traditional-cpus-10361092/",
+            "urlToImage": "https://images.indianexpress.com/2025/11/IE-92.jpg",
+            "publishedAt": "2025-11-12T09:36:00Z"
+        },
+        {
+            "source": {
+                "id": "7eeaf9a839918543cc708f2d331c3be4",
+                "name": "Free Press Journal",
+                "url": "https://www.freepressjournal.in",
+                "country": "in"
+            },
+            "title": "RBI Directs Banks To Shift To ‘.bank.in’ Domain, Here's How This Move Could Strengthen Cybersecurity & Customer Trust",
+            "url": "https://www.freepressjournal.in/business/rbi-directs-banks-to-shift-to-bankin-domain-heres-how-this-move-could-strengthen-cybersecurity-customer-trust",
+            "urlToImage": "https://media.assettype.com/freepressjournal/2025-11-12/vg9gvau2/reservebankofindia.jpg",
+            "publishedAt": "2025-11-12T09:33:43Z"
+        },
+        {
+            "source": {
+                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+                "name": "NDTV.com",
+                "url": "https://www.ndtv.com",
+                "country": "in"
+            },
+            "title": "Survey Shows 97% Respondents Can't Differentiate AI Music From Real Thing",
+            "url": "https://www.ndtv.com/world-news/survey-shows-97-respondents-cant-differentiate-ai-music-from-real-thing-9620840",
+            "urlToImage": "https://c.ndtvimg.com/2025-11/38ou4l0g_music_625x300_12_November_25.jpeg",
+            "publishedAt": "2025-11-12T09:32:46Z"
+        },
+        {
+            "source": {
+                "id": "59749bcce0ec90ed59071c45c44738b7",
+                "name": "Siliconrepublic.com",
+                "url": "https://www.siliconrepublic.com",
+                "country": "ie"
+            },
+            "title": "New UK cybersecurity bill presented to parliament today after torrid year",
+            "url": "https://www.siliconrepublic.com/business/new-uk-cybersecurity-bill-presented-to-parliament-today-after-torrid-year",
+            "urlToImage": "https://www.siliconrepublic.com/wp-content/uploads/2025/11/UK-Pariament-buildings-2025.jpeg",
+            "publishedAt": "2025-11-12T09:27:16Z"
+        },
+        {
+            "source": {
+                "id": "59749bcce0ec90ed59071c45c44738b7",
+                "name": "Siliconrepublic.com",
+                "url": "https://www.siliconrepublic.com",
+                "country": "ie"
+            },
+            "title": "New UK cybersecurity bill presented to parliament today after torrid year",
+            "url": "https://www.siliconrepublic.com/enterprise/new-uk-cybersecurity-bill-presented-to-parliament-today-after-torrid-year",
+            "urlToImage": "https://www.siliconrepublic.com/wp-content/uploads/2025/11/UK-Pariament-buildings-2025.jpeg",
+            "publishedAt": "2025-11-12T09:27:16Z"
+        },
+        {
+            "source": {
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
+                "country": "in"
+            },
+            "title": "Canadian minister Maninder Sidhu lands in Delhi on Nov 12, Vizag on Nov 14",
+            "url": "https://www.hindustantimes.com/india-news/canadian-minister-maninder-sidhu-lands-in-delhi-on-nov-12-vizag-on-nov-14-101762939308676.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/11/12/1600x900/logo/Sidhu-s-visit-comes-close-on-the-heels-of-external_1762939302660.jpg",
+            "publishedAt": "2025-11-12T09:21:48Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -744,6 +864,78 @@
             "url": "https://www.caixinglobal.com/2025-11-12/china-suggests-us-role-in-15-billion-bitcoin-hack-102381952.html",
             "urlToImage": "https://img.caixin.com/2025-11-12/176291898144344_560_373.jpg",
             "publishedAt": "2025-11-12T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "cnet"
+            },
+            "title": "More Than Half of Holiday Tech Shoppers Are Counting on Black Friday Sales to Save Money, CNET Survey Finds",
+            "url": "https://www.cnet.com/tech/mobile/more-than-half-of-holiday-tech-shoppers-are-counting-on-black-friday-sales-to-save-money-cnet-survey-finds/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/7c3c11482b471cc2ac8709ecd4e27f208a834ce1/hub/2025/09/12/661904eb-d5fa-4d39-9e4b-ed6564b4baa3/early-holiday-shopping-hero-blur.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-11-12 10:13:31"
+        },
+        {
+            "source": {
+                "name": "technologyreview"
+            },
+            "title": "Improving VMware migration workflows with agentic AI",
+            "url": "https://www.technologyreview.com/2025/11/12/1124919/improving-vmware-migration-workflows-with-agentic-ai/",
+            "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2025/10/EPAM-Landing-Page-Card.png?resize=1200%2C600",
+            "publishedAt": "2025-11-12 10:11:15"
+        },
+        {
+            "source": {
+                "name": "geeky_gadgets"
+            },
+            "title": "Google’s Quantum Leap Promises New Energy Gains by 2030 : Physics Scrambles to Adapt",
+            "url": "https://www.geeky-gadgets.com/google-verified-quantum-advantage/",
+            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/11/google-willow-quantum-chip-lab-closeup_optimized.webp",
+            "publishedAt": "2025-11-12 10:11:07"
+        },
+        {
+            "source": {
+                "name": "startupnews"
+            },
+            "title": "OpenAI reportedly hemorrhages $15 million/day on AI slop videos — after Bill Gates warned Satya Nadella against “burning billions” in the ChatGPT maker",
+            "url": "https://startupnews.fyi/2025/11/12/openai-reportedly-hemorrhages-15-million-day-on-ai-slop-videos-after-bill-gates-warned-satya-nadella-against-burning-billions-in-the-chatgpt-maker/",
+            "urlToImage": "https://i3.wp.com/cdn.mos.cms.futurecdn.net/a9gbixBJZWYQrs2LboBUsn-2560-80.jpg?resize=1920%2C0&ssl=1&w=1920",
+            "publishedAt": "2025-11-12 09:45:03"
+        },
+        {
+            "source": {
+                "name": "geeky_gadgets"
+            },
+            "title": "Mac Mini M4 Pro Pushed Way Past Thunderbolt 5 Speeds : 20,137 MBs Read",
+            "url": "https://www.geeky-gadgets.com/external-storage-for-large-language-models-on-mac/",
+            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/11/macos-disk-utility-raid-0-setup-guide_optimized.webp",
+            "publishedAt": "2025-11-12 09:44:04"
+        },
+        {
+            "source": {
+                "name": "republicworld"
+            },
+            "title": "Meta Chief AI Scientist Yann LeCun Plans To Exit To Launch Startup",
+            "url": "https://www.republicworld.com/tech/meta-chief-ai-scientist-yann-lecun-plans-to-exit-to-launch-startup",
+            "urlToImage": "https://img.republicworld.com/all_images/meta-chief-ai-scientist-yann-lecun-plans-to-exit-to-launch-startup-1762940544173-16_9.webp?format=webp&h=720&q=75&w=1280",
+            "publishedAt": "2025-11-12 09:42:31"
+        },
+        {
+            "source": {
+                "name": "techxplore"
+            },
+            "title": "'We're already living in science fiction': The neurotech revolution",
+            "url": "https://techxplore.com/news/2025-11-science-fiction-neurotech-revolution.html",
+            "urlToImage": "https://scx1.b-cdn.net/csz/news/tmb/2025/are-brain-implants-the.jpg",
+            "publishedAt": "2025-11-12 09:38:01"
+        },
+        {
+            "source": {
+                "name": "digit_in"
+            },
+            "title": "AI vs. artists: What Germany’s copyright ruling against OpenAI means for creativity and tech",
+            "url": "https://www.digit.in/features/general/ai-vs-artists-what-germanys-copyright-ruling-against-openai-means-for-creativity-and-tech.html",
+            "urlToImage": "https://static.digit.in/Openai-germany.png",
+            "publishedAt": "2025-11-12 09:37:20"
         },
         {
             "source": {
@@ -3141,207 +3333,6 @@
             "url": "https://indianexpress.com/article/education/iim-mumbai-two-year-blended-mba-programme-working-professionals-cat-2025-10356922/",
             "urlToImage": "https://images.indianexpress.com/2025/11/IIM-Mumbai-Image-via-X.png",
             "publishedAt": "2025-11-11T03:43:21Z"
-        },
-        {
-            "source": {
-                "id": "d6397b77175680e2678c0d60edcee7af",
-                "name": "South China Morning Post",
-                "url": "https://www.scmp.com",
-                "country": "hk"
-            },
-            "title": "Intel CEO to oversee its AI efforts after executive departs for OpenAI",
-            "url": "https://www.scmp.com/tech/big-tech/article/3332276/intel-ceo-oversee-its-ai-efforts-after-executive-departs-openai",
-            "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/11/11/5dc6a5f8-eeb1-4c79-b760-76fcd8b23cda_7b835472.jpg?itok=5C2s4hx1&v=1762830551",
-            "publishedAt": "2025-11-11T03:10:16Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "AI agents open door to new hacking threats",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-agents-open-door-to-new-hacking-threats/articleshow/125238648.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-17898,resizemode-75,msid-125238648/tech/artificial-intelligence/ai-agents-open-door-to-new-hacking-threats.jpg",
-            "publishedAt": "2025-11-11T02:54:37Z"
-        },
-        {
-            "source": {
-                "id": "3a3847d645a619320aa3b3484581e395",
-                "name": "CBS News",
-                "url": "https://www.cbsnews.com",
-                "country": "us"
-            },
-            "title": "AI scams fuel rise in fake online car sales. How California is trying to protect consumers.",
-            "url": "https://www.cbsnews.com/sacramento/news/ai-scams-fake-car-sales-california/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/11/11/145c5ab9-eefd-4c3f-9796-e172b09fecef/thumbnail/1200x630/5c7be452352f09c031a9fba14196117d/cci-online-car-sale-scams.png",
-            "publishedAt": "2025-11-11T02:40:35Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "CBSE drafts AI curriculum for Classes 3",
-            "url": "https://timesofindia.indiatimes.com/education/cbse-drafts-ai-curriculum-for-classes-3-12-ncert-to-review/articleshow/125238255.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-125238335,width-1070,height-580,imgsize-933235,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "publishedAt": "2025-11-11T02:36:00Z"
-        },
-        {
-            "source": {
-                "id": "ca84296ef941bfa461f4239a2290cb99",
-                "name": "News18",
-                "url": "https://www.news18.com",
-                "country": "in"
-            },
-            "title": "National Education Day 2025: History And Learning In The Age Of Artificial Intelligence",
-            "url": "https://www.news18.com/education-career/national-education-day-2025-history-and-learning-in-the-age-of-artificial-intelligence-aa-ws-e-9697119.html",
-            "urlToImage": "https://images.news18.com/ibnlive/uploads/2025/11/image-2025-11-a936be5bc6eedeb00130ba58d7e8e444-16x9.jpg",
-            "publishedAt": "2025-11-11T01:50:29Z"
-        },
-        {
-            "source": {
-                "id": "ca84296ef941bfa461f4239a2290cb99",
-                "name": "News18",
-                "url": "https://www.news18.com",
-                "country": "in"
-            },
-            "title": "National Education Day 2025: History And Learning In The Age Of Artificial Intelligence",
-            "url": "https://www.news18.com/education-career/national-education-day-2025-history-and-learning-in-the-age-of-artificial-intelligence-aa-ws-el-9697119.html",
-            "urlToImage": "https://images.news18.com/ibnlive/uploads/2025/11/image-2025-11-a936be5bc6eedeb00130ba58d7e8e444-16x9.jpg",
-            "publishedAt": "2025-11-11T01:50:29Z"
-        },
-        {
-            "source": {
-                "id": "49853ffafc28f405ff8ed06043290ae8",
-                "name": "Global News",
-                "url": "https://globalnews.ca",
-                "country": "ca"
-            },
-            "title": "Use caution with AI therapy, experts say",
-            "url": "https://globalnews.ca/news/11520456/use-caution-with-ai-therapy/",
-            "urlToImage": "https://globalnews.ca/wp-content/uploads/2025/10/8244ea91e1bdd18183953178dc3142d41c93a5d0b9b48a3d67c732085c5563d3.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-            "publishedAt": "2025-11-11T01:08:08Z"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            },
-            "title": "CNBC Daily Open: AI is back - it never really went away",
-            "url": "https://www.cnbc.com/2025/11/11/cnbc-daily-open-ai-is-back-it-never-really-went-away.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108122989-1743183626102-gettyimages-2206681850-porzycki-nvidiaan250328_npq2M.jpeg?v=1743183829&w=1920&h=1080",
-            "publishedAt": "2025-11-11T00:59:25Z"
-        },
-        {
-            "source": {
-                "id": "016c9538dd6aa60fb4f29fca8674d6b7",
-                "name": "Mechanicsburg Patriot News ",
-                "url": "https://www.pennlive.com",
-                "country": "us"
-            },
-            "title": "At some Philly doctors’ offices, AI is listening in the exam room",
-            "url": "https://www.pennlive.com/health/2025/11/at-some-philly-doctors-offices-ai-is-listening-in-the-exam-room.html",
-            "urlToImage": "https://www.pennlive.com/resizer/v2/Y7TNDQ3V4VDJBLY3OLB2TJD45Y.jpg?auth=1dc62edff91af1582d843017c14b404cc462309b23ae5d724d2a7de47b3f1e80&width=1280&smart=true&quality=90",
-            "publishedAt": "2025-11-11T00:36:10Z"
-        },
-        {
-            "source": {
-                "id": "d6397b77175680e2678c0d60edcee7af",
-                "name": "South China Morning Post",
-                "url": "https://www.scmp.com",
-                "country": "hk"
-            },
-            "title": "Exclusive | Which Hong Kong authorities score well on cybersecurity and which don’t?",
-            "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3332252/which-hong-kong-authorities-score-well-cybersecurity-and-which-dont",
-            "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/11/10/9948ec99-cff3-4d2e-be49-67dd05264418_cddc31b0.jpg?itok=2q-CVLq_&v=1762791259",
-            "publishedAt": "2025-11-11T00:30:12Z"
-        },
-        {
-            "source": {
-                "id": "28e6020d9bb5ca0074bc34f8478ec6b8",
-                "name": "The Pioneer",
-                "url": "https://www.dailypioneer.com",
-                "country": "in"
-            },
-            "title": "Paytm unveils all new app with clean interface AI features",
-            "url": "https://www.dailypioneer.com/2025/business/paytm-unveils-all-new-app-with-clean-interface-ai-features.html",
-            "urlToImage": "https://www.dailypioneer.com/uploads/2025/story/images/big/paytm-unveils-all-new-app-with-clean-interface--ai-features-2025-11-11.jpg",
-            "publishedAt": "2025-11-11T00:00:00Z"
-        },
-        {
-            "source": {
-                "id": "8e9ab8327c5f7903cc1b50470411d165",
-                "name": "GlobeNewswire",
-                "url": "https://www.globenewswire.com",
-                "country": "us"
-            },
-            "title": "Hoxhunt Innovative Platform Insights Report 2025: Companies",
-            "url": "https://www.globenewswire.com/news-release/2025/11/11/3185333/28124/en/Hoxhunt-Innovative-Platform-Insights-Report-2025-Companies-Using-Hoxhunt-Have-Witnessed-a-Dramatic-Decline-in-Phishing-Click-Rates-and-a-Remarkable-225-Increase-in-Threat-Reporting.html",
-            "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-            "publishedAt": "2025-11-11T00:00:00Z"
-        },
-        {
-            "source": {
-                "id": "8e9ab8327c5f7903cc1b50470411d165",
-                "name": "GlobeNewswire",
-                "url": "https://www.globenewswire.com",
-                "country": "us"
-            },
-            "title": "Only Two Days Left",
-            "url": "https://www.globenewswire.com/news-release/2025/11/11/3185594/0/en/Only-Two-Days-Left-Don-t-Miss-Out-Register-Now-HMG-Strategy-s-Annual-New-York-Global-Innovation-Summit-2025-unites-CIOs-CISOs-and-top-executives-to-share-insight-on-IT-AI-cyber-sec.html",
-            "urlToImage": "https://ml.globenewswire.com/Resource/Download/4b886685-faf4-4f80-8e8a-77cac364fa1b",
-            "publishedAt": "2025-11-11T00:00:00Z"
-        },
-        {
-            "source": {
-                "name": "in_mashable"
-            },
-            "title": "Google unveils Private AI Compute, its answer to Apple's Private Cloud Compute",
-            "url": "https://in.mashable.com/tech/102362/google-unveils-private-ai-compute-its-answer-to-apples-private-cloud-compute",
-            "urlToImage": "https://sm.mashable.com/mashable_in/article/g/google-unv/google-unveils-private-ai-compute-its-answer-to-apples-priva_vetq.jpg",
-            "publishedAt": "2025-11-11 23:07:08"
-        },
-        {
-            "source": {
-                "name": "mashable"
-            },
-            "title": "Google unveils Private AI Compute, its answer to Apple's Private Cloud Compute",
-            "url": "https://sea.mashable.com/tech/40637/google-unveils-private-ai-compute-its-answer-to-apples-private-cloud-compute",
-            "urlToImage": "https://sm.mashable.com/mashable_sea/article/g/google-unv/google-unveils-private-ai-compute-its-answer-to-apples-priva_71en.jpg",
-            "publishedAt": "2025-11-11 23:07:08"
-        },
-        {
-            "source": {
-                "name": "digitaltrends"
-            },
-            "title": "Microsoft’s new AI agents could soon join your office as digital employees",
-            "url": "https://www.digitaltrends.com/computing/your-next-coworker-could-be-a-microsoft-ai-agent-with-a-company-id/",
-            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/11/microsoft-ai-agent-365-digital-employee.jpg?p=1&resize=1200%2C630",
-            "publishedAt": "2025-11-11 22:54:26"
-        },
-        {
-            "source": {
-                "name": "headtopics"
-            },
-            "title": "Google deprioritizes Pixel 6 and Pixel 7 users",
-            "url": "https://us.headtopics.com/news/google-deprioritizes-pixel-6-and-pixel-7-users-75691261",
-            "urlToImage": "https://i.headtopics.com/images/2025/11/11/phonearena/google-deprioritizes-pixel-6-and-pixel-7-users-google-deprioritizes-pixel-6-and-pixel-7-users-38BDA46544329F9C2ED443F1C59C1607.webp",
-            "publishedAt": "2025-11-11 22:39:39"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Top 3 Cryptos That Could Outperform Bitcoin in 2026: Ozak AI Leads the Race",
-            "url": "https://www.analyticsinsight.net/cryptocurrency-analytics-insight/top-3-cryptos-that-could-outperform-bitcoin-in-2026-ozak-ai-leads-the-race",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-11-11%2Fiisise6r%2Fundefined-2025-11-11T215358.492.png?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-11-11 22:30:00"
         }
     ]
 }
