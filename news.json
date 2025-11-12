@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2025-11-12T13:29:46.489331Z",
+    "lastUpdatedAt": "2025-11-12T14:17:07.485596Z",
     "articles": [
+        {
+            "source": {
+                "id": "6fea3ee012f060c6309366516e8d00be",
+                "name": "News-Medical.net",
+                "url": "https://www.news-medical.net",
+                "country": "gb"
+            },
+            "title": "Artificial intelligence improves diagnosis of invisible airway blockages",
+            "url": "https://www.news-medical.net/news/20251111/Artificial-intelligence-improves-diagnosis-of-invisible-airway-blockages.aspx",
+            "urlToImage": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+            "publishedAt": "2025-11-12T02:15:00Z"
+        },
+        {
+            "source": {
+                "id": "10cbfb3760cfcdeb78c733c527f0e814",
+                "name": "iTWire",
+                "url": "https://itwire.com",
+                "country": "au"
+            },
+            "title": "How chief financial officers are redefining financial leadership in cybersecurity",
+            "url": "https://itwire.com/guest-articles/guest-opinion/how-chief-financial-officers-are-redefining-financial-leadership-in-cybersecurity.html",
+            "urlToImage": "https://itwire.com/media/k2/items/cache/83d3ba555cd6758ebc37e6b455a615d5_XS.jpg",
+            "publishedAt": "2025-11-12T02:10:52Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Dow notches record high close, traders bet on end to government shutdown",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/dow-notches-record-high-close-traders-bet-on-end-to-government-shutdown/articleshow/125263084.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-125263102,width-1200,height-630,imgsize-183360,overlay-etmarkets/articleshow.jpg",
+            "publishedAt": "2025-11-12T02:09:00Z"
+        },
+        {
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            },
+            "title": "AI to be taught in Class 3, how will it reshape childhood learning?",
+            "url": "https://www.indiatoday.in/education-today/featurephilia/story/ai-curriculum-for-class-3-how-early-ai-education-will-impact-childhood-learning-2817712-2025-11-12",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202511/indias-new-ai-curriculum-for-class-3-how-early-tech-lessons-may-shape-childhood-113702154-16x9_0.jpg?VersionId=Cktc7L.Jpbub7RMeagGAD4FWnE8MWBx5",
+            "publishedAt": "2025-11-12T02:00:03Z"
+        },
+        {
+            "source": {
+                "id": "fd3677545b80d5db7541de8e111d27ba",
+                "name": "Moneycontrol",
+                "url": "https://www.moneycontrol.com",
+                "country": "in"
+            },
+            "title": "First Tick: Top global cues to watch in today’s trade",
+            "url": "https://www.moneycontrol.com/news/business/markets/first-tick-top-global-cues-to-watch-in-today-s-trade-37-13667035.html",
+            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2025/11/20251111075824_market_stocks_sensex_Nifty.jpg",
+            "publishedAt": "2025-11-12T01:40:40Z"
+        },
         {
             "source": {
                 "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
@@ -99,6 +159,24 @@
         },
         {
             "source": {
+                "name": "newswise"
+            },
+            "title": "University of Maryland Institute for Health Computing Launches First Continuing Medical Education Course in Artificial Intelligence",
+            "url": "https://www.newswise.com/articles/university-of-maryland-institute-for-health-computing-launches-first-continuing-medical-education-course-in-artificial-intelligence2/?sc=rsla",
+            "urlToImage": "https://www.newswise.com/legacy/image.php?image=https%3A%2F%2Fwww.medschool.umaryland.edu%2Fmedia%2Fsom%2Fnews%2F2025%2FAI-Tools-in-EHR-Banner.jpg",
+            "publishedAt": "2025-11-12 02:08:14"
+        },
+        {
+            "source": {
+                "name": "economictimes_indiatimes"
+            },
+            "title": "How a 19-year-old Bengaluru student used Google’s Gemini 2.0 Flash model to build smart glasses for the visually impaired",
+            "url": "https://economictimes.indiatimes.com/news/new-updates/how-a-19-year-old-bengaluru-student-used-googles-gemini-2-0-flash-model-to-build-smart-glasses-for-the-visually-impaired/articleshow/125268021.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-54790,resizemode-75,msid-125268021/news/new-updates/how-a-19-year-old-bengaluru-student-used-googles-gemini-2-0-flash-model-to-build-smart-glasses-for-the-visually-impaired.jpg",
+            "publishedAt": "2025-11-12 01:50:56"
+        },
+        {
+            "source": {
                 "name": "samessenger"
             },
             "title": "STRADVISION Announces Multi-Year Collaboration with AMD to Advance AI-Powered Vision Perception for Next-Generation Autonomous Vehicles",
@@ -158,6 +236,15 @@
             "title": "STRADVISION Announces Multi-Year Collaboration with AMD to Advance AI-Powered Vision Perception for Next-Generation Autonomous Vehicles",
             "url": "https://en.prnasia.com/story/511420-0.shtml",
             "urlToImage": "https://mma.prnasia.com/media2/2820528/AMD_x_StradVision2.jpg?p=medium600",
+            "publishedAt": "2025-11-12 00:51:00"
+        },
+        {
+            "source": {
+                "name": "nvdaily"
+            },
+            "title": "STRADVISION Announces Multi-Year Collaboration with AMD to Advance AI-Powered Vision Perception for Next-Generation Autonomous Vehicles",
+            "url": "https://www.nvdaily.com/online_features/press_releases/stradvision-announces-multi-year-collaboration-with-amd-to-advance-ai-powered-vision-perception-for-next/article_c57ee361-3b76-5288-8a03-0e9cac1bd686.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/nvdaily.com/content/tncms/assets/v3/editorial/6/9c/69cf1c41-ae7b-5728-8351-d3ca7768924e/6914384fc5878.image.jpg?resize=300%2C168",
             "publishedAt": "2025-11-12 00:51:00"
         },
         {
@@ -3108,78 +3195,6 @@
             "url": "https://www.indiatodayne.in/nagaland/story/nagaland-assam-universities-pioneer-first-scientific-study-on-endangered-medicinal-plant-from-meghalaya-1302265-2025-11-11",
             "urlToImage": "https://cf-img-a-in.tosshub.com/lingo/itne/images/story/202511/6912d92cdd9ce-nagaland-113519479-16x9.png?size=948%3A533",
             "publishedAt": "2025-11-11 06:36:27"
-        },
-        {
-            "source": {
-                "name": "wired"
-            },
-            "title": "B&H Photo Promo Codes and Deals for November 2025",
-            "url": "https://www.wired.com/story/bh-photo-coupon/",
-            "urlToImage": "https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg",
-            "publishedAt": "2025-11-11 06:30:00"
-        },
-        {
-            "source": {
-                "name": "socialsamosa"
-            },
-            "title": "Meta reports gains from new AI-powered ad recommendation model GEM",
-            "url": "https://www.socialsamosa.com/news-2/meta-ai-powered-ad-recommendation-model-gem-10646522",
-            "urlToImage": "https://img-cdn.publive.online/fit-in/1280x960/socialsamosa/media/media_files/2025/11/11/7-5-2025-11-11-11-27-23.jpg",
-            "publishedAt": "2025-11-11 06:21:16"
-        },
-        {
-            "source": {
-                "name": "freepressjournal"
-            },
-            "title": "Contract Manufacturing Company Aequs Raises ₹144 Crore From SBI Funds Management & Two Other Investors As Part Of Pre-IPO Funding Round",
-            "url": "https://www.freepressjournal.in/business/contract-manufacturing-company-aequs-raises-144-crore-from-sbi-funds-management-two-other-investors-as-part-of-pre-ipo-funding-round",
-            "urlToImage": "https://media.assettype.com/freepressjournal/2025-11-11/zmxg8rmk/IPO-Aequs.jpg?width=1200",
-            "publishedAt": "2025-11-11 06:19:44"
-        },
-        {
-            "source": {
-                "name": "moneycontrol"
-            },
-            "title": "The AI cold war that could reshape global power",
-            "url": "https://www.moneycontrol.com/world/the-ai-cold-war-that-could-reshape-global-power-article-13666587.html",
-            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2024/10/20241012121016_BeFunky-collage-2024-10-12T173859.661.jpg",
-            "publishedAt": "2025-11-11 06:15:33"
-        },
-        {
-            "source": {
-                "name": "latestly"
-            },
-            "title": "Intel AI Chief Sachin Katti Joins Sam Altman-Run OpenAI To Build Compute Infrastructure for AGI Research To Scale Its Applications",
-            "url": "https://www.latestly.com/socially/technology/intel-ai-chief-sachin-katti-joins-sam-altman-run-openai-to-build-compute-infrastructure-for-agi-research-to-scale-its-applications-7199995.html",
-            "urlToImage": "https://st1.latestly.com/wp-content/uploads/2025/11/1-946930973.jpg",
-            "publishedAt": "2025-11-11 06:12:58"
-        },
-        {
-            "source": {
-                "name": "menafn"
-            },
-            "title": "AI Agents Open Door To New Hacking Threats",
-            "url": "https://menafn.com/1110325991/AI-Agents-Open-Door-To-New-Hacking-Threats",
-            "urlToImage": "https://menafn.com/updates/pr/2025-11/11/TP_f2af5image_story.jpg",
-            "publishedAt": "2025-11-11 06:02:50"
-        },
-        {
-            "source": {
-                "name": "hackaday"
-            },
-            "title": "Programming the 6581 Sound Interface Device (SID) with the 6502",
-            "url": "https://hackaday.com/2025/11/10/programming-the-6581-sound-interface-device-sid-with-the-6502/",
-            "urlToImage": "https://hackaday.com/wp-content/uploads/2025/11/Ben-Eater-sound-banner.jpg",
-            "publishedAt": "2025-11-11 06:00:09"
-        },
-        {
-            "source": {
-                "name": "thehindu"
-            },
-            "title": "Critics call proposed changes to landmark EU privacy law 'death by a thousand cuts'",
-            "url": "https://www.thehindu.com/sci-tech/technology/critics-call-proposed-changes-to-landmark-eu-privacy-law-death-by-a-thousand-cuts/article70265443.ece",
-            "urlToImage": "https://th-i.thgim.com/public/incoming/k07djf/article70265444.ece/alternates/LANDSCAPE_1200/2025-07-10T155923Z_1207648403_RC2Z84A617UP_RTRMADP_3_UKRAINE-CRISIS-EU-PRICECAP.JPG",
-            "publishedAt": "2025-11-11 05:56:53"
         }
     ]
 }
