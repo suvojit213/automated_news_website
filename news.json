@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-11-12T08:22:13.202714Z",
+    "lastUpdatedAt": "2025-11-12T09:17:51.816257Z",
     "articles": [
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "What AI earbuds can’t replace: The value of learning another language",
+            "url": "https://japantoday.com/category/features/lifestyle/what-ai-earbuds-can%E2%80%99t-replace-the-value-of-learning-another-language",
+            "urlToImage": "https://media.japantoday.com/img/store/5c/d0/074448cf07881e0aeec863fe539938047103/istock-2230806026/_w1700.jpeg",
+            "publishedAt": "2025-11-11T21:05:00Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Dow notches record high close; traders bet on end to government shutdown",
+            "url": "https://www.marketscreener.com/news/dow-notches-record-high-close-traders-bet-on-end-to-government-shutdown-ce7d5fded88ef222",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-05/2025-05-13T110949Z_1_LYNXMPEL4C0IP_RTROPTP_4_GLOBAL-MARKETS.JPG",
+            "publishedAt": "2025-11-11T21:01:24Z"
+        },
+        {
+            "source": {
+                "id": "e1b896cc9b8775d3aaac2320e6dcf1f6",
+                "name": "Crypto News",
+                "url": "https://crypto.news",
+                "country": "lt"
+            },
+            "title": "Bitcoin mining a bust for TeraWulf, attention shifts to AI",
+            "url": "https://crypto.news/bitcoin-mining-terawulf-attention-shifts-ai-attention/",
+            "urlToImage": "https://crypto.news/app/uploads/2025/07/crypto-news-mining-option18.webp",
+            "publishedAt": "2025-11-11T20:33:08Z"
+        },
         {
             "source": {
                 "id": "7eeaf9a839918543cc708f2d331c3be4",
@@ -1755,6 +1791,87 @@
         },
         {
             "source": {
+                "name": "morningstar_com"
+            },
+            "title": "Callie-Cox-Student-Teacher-Financial-Markets",
+            "url": "https://www.morningstar.com/personal-finance/callie-cox-student-teacher-financial-markets",
+            "urlToImage": "https://media.morningstar.com/resizer/v2/AWTHGGEIN5DSLOYW7BZYG64VBI.png?auth=0571d6feea1f79090841697e85133018b1d3e7a9458e1a80d412e93a35a19ac0&height=500&smart=true",
+            "publishedAt": "2025-11-11 21:12:55"
+        },
+        {
+            "source": {
+                "name": "phys"
+            },
+            "title": "Angstrom-level imaging and 2D surfaces allow real-time tracking and steering of DNA",
+            "url": "https://phys.org/news/2025-11-angstrom-imaging-2d-surfaces-real.html",
+            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2025/capturing-and-controll.jpg",
+            "publishedAt": "2025-11-11 21:03:02"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "The $50 wearable that effectively soothes my migraines and headaches is discounted on Amazon",
+            "url": "https://www.zdnet.com/article/the-50-wearable-that-effectively-soothes-my-migraines-and-headaches-is-discounted-on-amazonathe-50-wearable-that-effectively-soothes-my-migraines-and-headaches-is-discounted-on-amazon/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/2021f3cc5f14d5feae7ad6957950dad86279f9ce/2025/10/30/fbe70965-645d-433c-8d36-69df24c67fdd/img-2858.jpg?auto=webp&precrop=4032%2C2265%2Cx0%2Cy278&width=1280",
+            "publishedAt": "2025-11-11 20:57:00"
+        },
+        {
+            "source": {
+                "name": "universetoday"
+            },
+            "title": "Google's Plan for Space-Based Computing",
+            "url": "https://www.universetoday.com/articles/googles-plan-for-space-based-computing",
+            "urlToImage": "https://www.universetoday.com/article_images/Two_3U_CubeSats_20251111_205029.jpg",
+            "publishedAt": "2025-11-11 20:51:39"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "AI vs. AI: Gemini’s Comical Crusade to Fact-Check ChatGPT",
+            "url": "https://www.webpronews.com/ai-vs-ai-geminis-comical-crusade-to-fact-check-chatgpt/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-897-1762801135.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-11-11 20:50:07"
+        },
+        {
+            "source": {
+                "name": "thelincolnianonline"
+            },
+            "title": "Promising Cybersecurity Stocks To Keep An Eye On – November 11th",
+            "url": "https://www.thelincolnianonline.com/2025/11/11/promising-cybersecurity-stocks-to-keep-an-eye-on-november-11th.html",
+            "urlToImage": "https://www.marketbeat.com/logos/crowdstrike-holdings-inc-logo-1200x675.png?v=20240415153340",
+            "publishedAt": "2025-11-11 20:34:44"
+        },
+        {
+            "source": {
+                "name": "thelincolnianonline"
+            },
+            "title": "Top Quantum Computing Stocks To Research – November 11th",
+            "url": "https://www.thelincolnianonline.com/2025/11/11/top-quantum-computing-stocks-to-research-november-11th.html",
+            "urlToImage": "https://www.marketbeat.com/logos/d-wave-quantum-inc-logo-1200x675.png?v=20241011142301",
+            "publishedAt": "2025-11-11 20:34:44"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Top 3 Cryptos Turning Heads With Bold Predictions: Ozak AI, XRP, and DOGE",
+            "url": "https://www.analyticsinsight.net/cryptocurrency-analytics-insight/top-3-cryptos-turning-heads-with-bold-predictions-ozak-ai-xrp-and-doge",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-11-11%2F6ztz2ju1%2Fundefined-2025-11-11T214544.635.png?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-11-11 20:30:00"
+        },
+        {
+            "source": {
+                "name": "cornelledu"
+            },
+            "title": "Neurotech symposium explores how brain circuits drive behavior",
+            "url": "https://news.cornell.edu/stories/2025/11/neurotech-symposium-explores-how-brain-circuits-drive-behavior",
+            "urlToImage": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_home/public/2025-11/seungconnectome-img_3860_0.jpg?itok=JHlXJ33K",
+            "publishedAt": "2025-11-11 20:29:10"
+        },
+        {
+            "source": {
                 "name": "wyomingnews"
             },
             "title": "Wyoming real estate agents say human interaction can't be replaced by AI",
@@ -3030,141 +3147,6 @@
             "url": "https://www.fool.com/investing/2025/11/11/3-no-brainer-ai-stocks-to-buy-right-now/",
             "urlToImage": "https://g.foolcdn.com/editorial/images/840976/colleagues_talking_to_each_other.jpg",
             "publishedAt": "2025-11-11 00:00:00"
-        },
-        {
-            "source": {
-                "name": "financialcontent"
-            },
-            "title": "Andrew Ng Says AI-Assisted 'Vibe Coding' Revolutionizing Software Development, Making Coding Accessible To CEOs, Non-Engineers",
-            "url": "https://www.benzinga.com/markets/tech/25/11/48774937/andrew-ng-says-ai-assisted-vibe-coding-revolutionizing-software-development-making-coding-accessible",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/11/11/AI.jpeg?fit=crop&height=800&width=1200",
-            "publishedAt": "2025-11-11 00:00:00"
-        },
-        {
-            "source": {
-                "name": "financialcontent"
-            },
-            "title": "Could Investing $10,000 in IonQ Make You a Millionaire?",
-            "url": "https://www.fool.com/investing/2025/11/11/could-investing-10000-in-ionq-make-you-a-millionai/",
-            "urlToImage": "https://g.foolcdn.com/editorial/images/840355/quantum-computing-cell.jpg",
-            "publishedAt": "2025-11-11 00:00:00"
-        },
-        {
-            "source": {
-                "name": "financialcontent"
-            },
-            "title": "2026 Is Coming: 1 Magnificent Artificial Intelligence (AI) Stock to Buy as Part of Your New Year's Resolution",
-            "url": "https://www.fool.com/investing/2025/11/11/2026-coming-1-ai-stock-to-buy-new-years-resolution/",
-            "urlToImage": "https://g.foolcdn.com/editorial/images/841848/the-digitalocean-logo-displayed-on-a-smartphone.jpg",
-            "publishedAt": "2025-11-11 00:00:00"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Tech Up as AI Cos Rebound -- Tech Roundup",
-            "url": "https://www.marketscreener.com/news/tech-up-as-ai-cos-rebound-tech-roundup-ce7d5fd8d18bf023",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2025-11-10T23:35:12Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "CoreWeave beats third-quarter revenue estimates on AI computing boom",
-            "url": "https://www.thestar.com.my/tech/tech-news/2025/11/11/coreweave-beats-third-quarter-revenue-estimates-on-ai-computing-boom",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/11/3615984.jpg",
-            "publishedAt": "2025-11-10T23:29:00Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Intel CEO to oversee its AI efforts after executive departs for OpenAI",
-            "url": "https://www.thestar.com.my/tech/tech-news/2025/11/11/intel-ceo-to-oversee-its-ai-efforts-after-executive-departs-for-openai",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/11/3615981.jpg",
-            "publishedAt": "2025-11-10T23:27:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Intel CEO to oversee its AI efforts after executive departs for OpenAI",
-            "url": "https://www.marketscreener.com/news/intel-ceo-to-oversee-its-ai-efforts-after-executive-departs-for-openai-ce7d5fd8d18bf625",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-08/2025-08-08T162817Z_2_LYNXMPEL770HT_RTROPTP_4_TAIWAN-COMPUTEX-INTEL.JPG",
-            "publishedAt": "2025-11-10T23:09:14Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "SoftBank's OpenAI wager in focus as analysts upgrade share price target",
-            "url": "https://www.reuters.com/business/media-telecom/softbanks-openai-wager-focus-analysts-upgrade-share-price-target-2025-11-10/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/6R5DVHUYWVNHJOJSHSW6FOAN54.jpg?auth=2d79e6c41a2c66f80c33508f7f6809fc7305b3fdefcb3696da505e50eae433c9&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-11-10T23:04:39Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "SoftBank's OpenAI wager in focus as analysts upgrade share price target",
-            "url": "https://www.marketscreener.com/news/softbank-s-openai-wager-in-focus-as-analysts-upgrade-share-price-target-ce7d5fd8d188ff21",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-11/2025-11-10T230415Z_1_LYNXMPELA915X_RTROPTP_4_SOFTBANK-OPENAI.JPG",
-            "publishedAt": "2025-11-10T23:02:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Intel CEO to oversee company's AI efforts after departure of exec for OpenAI",
-            "url": "https://www.marketscreener.com/news/intel-ceo-to-oversee-company-s-ai-efforts-after-departure-of-exec-for-openai-ce7d5fd8d188f124",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2025-11-10T22:57:15Z"
-        },
-        {
-            "source": {
-                "id": "d4773b92da0613b8ffc2fc9c46229534",
-                "name": "Business Wire",
-                "url": "https://www.businesswire.com",
-                "country": "us"
-            },
-            "title": "Resecurity Signs Memorandum of Understanding (MoU) with NED University of Engineering & Technology to Advance Cybersecurity Education and Research",
-            "url": "https://www.businesswire.com/news/home/20251110448070/en/Resecurity-Signs-Memorandum-of-Understanding-MoU-with-NED-University-of-Engineering-Technology-to-Advance-Cybersecurity-Education-and-Research",
-            "urlToImage": "https://mms.businesswire.com/media/20251110448070/en/2639123/22/NED_University_%281%29.jpg",
-            "publishedAt": "2025-11-10T22:11:00Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Alice Di Natale: The Future of Legal Professionals in the Age of GenAI",
-            "url": "https://techbullion.com/alice-di-natale-the-future-of-legal-professionals-in-the-age-of-genai/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/11/unnamed-9.png",
-            "publishedAt": "2025-11-10T21:55:51Z"
         }
     ]
 }
