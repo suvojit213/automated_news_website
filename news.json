@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2025-11-12T17:16:13.311309Z",
+    "lastUpdatedAt": "2025-11-12T18:23:13.940159Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "AI boosts Singles Day sales, shopping experience",
+            "url": "https://www.thestar.com.my/business/business-news/2025/11/12/ai-boosts-singles-day-sales-shopping-experience",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/12/3618160.jpeg",
+            "publishedAt": "2025-11-12T06:17:00Z"
+        },
+        {
+            "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+            },
+            "title": "JEE Main 2026: IIT Mandi’s most opted courses this year; new AI-Data Science course debuts strong",
+            "url": "https://indianexpress.com/article/education/jee-main-2026-iit-mandi-most-opted-courses-this-year-jee-advanced-10359479/",
+            "urlToImage": "https://images.indianexpress.com/2025/11/IIT-Mandi-1-1.jpg",
+            "publishedAt": "2025-11-12T06:10:47Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Marks & Spencer's Digital Ambition: Streamlining Supply Chains for Fashion's Future",
+            "url": "https://www.devdiscourse.com/article/headlines/3694246-marks-spencers-digital-ambition-streamlining-supply-chains-for-fashions-future",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/29_04_2025_16_13_54_6526022.png?width=920&format=jpeg",
+            "publishedAt": "2025-11-12T06:02:51Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "AI Gains for Big Banks Pose a Competition Headache",
+            "url": "https://www.livemint.com/companies/news/ai-gains-for-big-banks-pose-a-competition-headache-11762926554611.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_3_1733465099406_1733465108677.png",
+            "publishedAt": "2025-11-12T05:49:14Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "India unveils game-changer AI governance guidelines: What every business must know",
+            "url": "https://economictimes.indiatimes.com/ai/ai-insights/india-unveils-game-changer-ai-governance-guidelines-what-every-business-must-know/articleshow/125265894.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-125265895,width-1200,height-630,imgsize-20722,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-11-12T05:23:00Z"
+        },
         {
             "source": {
                 "id": "21468bec836de1ebb209ff6f78fbfe3e",
@@ -360,6 +420,96 @@
             "url": "https://www.caixinglobal.com/2025-11-12/china-suggests-us-role-in-15-billion-bitcoin-hack-102381952.html",
             "urlToImage": "https://img.caixin.com/2025-11-12/176291898144344_560_373.jpg",
             "publishedAt": "2025-11-12T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Google’s Private AI Compute Merges Power, Privacy, and Smart Performance",
+            "url": "https://www.analyticsinsight.net/news/googles-private-ai-compute-merges-power-privacy-and-smart-performance",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-11-12%2F4cpbuprc%2FGoogle%E2%80%99s-Private-AI-Compute-Merges-Power-Privacy-and-Smart-Performance.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-11-12 06:15:00"
+        },
+        {
+            "source": {
+                "name": "republicworld"
+            },
+            "title": "Big Tech Stops Complaining, Starts Complying With Australia’s Teen Social Media Ban",
+            "url": "https://www.republicworld.com/tech/big-tech-stops-complaining-starts-complying-with-australias-teen-social-media-ban",
+            "urlToImage": "https://img.republicworld.com/all_images/social-media-1762928054648-16_9.webp?format=webp&h=720&q=75&w=1280",
+            "publishedAt": "2025-11-12 06:14:22"
+        },
+        {
+            "source": {
+                "name": "menafn"
+            },
+            "title": "How Singapore Can Win The AI Race",
+            "url": "https://menafn.com/1110331813/How-Singapore-Can-Win-The-AI-Race",
+            "urlToImage": "https://menafn.com/updates/pr/2025-11/12/AT_7eb37image_story.jpg",
+            "publishedAt": "2025-11-12 06:13:19"
+        },
+        {
+            "source": {
+                "name": "expresscomputer"
+            },
+            "title": "From bots to agents: The next leap in enterprise automation",
+            "url": "https://www.expresscomputer.in/guest-blogs/from-bots-to-agents-the-next-leap-in-enterprise-automation/129382/",
+            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2025/11/12114123/New-Project-2025-11-12T114059.409.jpg",
+            "publishedAt": "2025-11-12 06:11:51"
+        },
+        {
+            "source": {
+                "name": "newsbytesapp"
+            },
+            "title": "New Google feature lets AI assist you without exposing data",
+            "url": "https://www.newsbytesapp.com/news/science/google-launches-private-ai-compute-to-keep-cloud-data-private/story",
+            "urlToImage": "https://i.cdn.newsbytesapp.com/images/l73820251112111027.png",
+            "publishedAt": "2025-11-12 06:08:14"
+        },
+        {
+            "source": {
+                "name": "newsable_asianetnews"
+            },
+            "title": "Modern warfare needs '3 Ds', tech democratisation: Army Chief Dwivedi",
+            "url": "https://newsable.asianetnews.com/india/modern-warfare-needs-3-ds-tech-democratisation-army-chief-dwivedi-articleshow-9kqwtot",
+            "urlToImage": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-256d3ff2-1683-4d11-a971-5460a8bc8932.jpg",
+            "publishedAt": "2025-11-12 06:00:49"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "DiverGen Proves AI Models Learn Better with Variety",
+            "url": "https://hackernoon.com/divergen-proves-ai-models-learn-better-with-variety",
+            "urlToImage": "https://hackernoon.imgix.net/images/a-schematic-of-the-diver-gen-pipeline-from-prompt-generation-chat-gpt-%E2%86%92-image-generation-stable-diffusion-qbc3stjkewcc03kqej98s5sd.png",
+            "publishedAt": "2025-11-12 06:00:03"
+        },
+        {
+            "source": {
+                "name": "computerworld_in"
+            },
+            "title": "About that ‘AI bubble’ — Microsoft doesn’t see one.",
+            "url": "https://www.computerworld.com/article/4087593/about-that-ai-bubble-microsoft-doesnt-see-one.html",
+            "urlToImage": "https://www.computerworld.com/wp-content/uploads/2025/11/4087593-0-42572900-1762927419-shutterstock_2040868286.jpg?quality=50&strip=all",
+            "publishedAt": "2025-11-12 06:00:00"
+        },
+        {
+            "source": {
+                "name": "indianexpress"
+            },
+            "title": "Intel CEO to oversee its AI efforts after executive departs for OpenAI",
+            "url": "https://indianexpress.com/article/technology/tech-news-technology/intel-ceo-to-oversee-its-ai-efforts-after-executive-departs-for-openai-10360731/",
+            "urlToImage": "https://images.indianexpress.com/2024/08/intel.jpg",
+            "publishedAt": "2025-11-12 05:52:37"
+        },
+        {
+            "source": {
+                "name": "wvnews"
+            },
+            "title": "Advancing Innovation with Openness -- Huawei holds the 6th Innovation and IP Forum",
+            "url": "https://www.wvnews.com/news/around_the_web/partners/pr_newswire/industry/internet_technology/advancing-innovation-with-openness----huawei-holds-the-6th-innovation-and-ip-forum/article_3c604baa-1bcc-5b19-b6fa-37c366c9fbef.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/assets/v3/editorial/4/d1/4d1499df-eb23-5086-bbf5-58bc4bea5636/69141b8f4356b.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-11-12 05:46:00"
         },
         {
             "source": {
@@ -3111,141 +3261,6 @@
             "url": "https://www.cnbctv18.com/technology/tsavorite-opu-ai-faster-energy-efficient-chip-shalesh-thusoo-india-19755108.htm",
             "urlToImage": "https://images.cnbctv18.com/uploads/2023/02/artificial-intelligence.jpeg",
             "publishedAt": "2025-11-11 15:02:21"
-        },
-        {
-            "source": {
-                "name": "bgr_com"
-            },
-            "title": "Every Major Android Phone Brand Ranked From Worst To Best According To Users",
-            "url": "https://www.bgr.com/2017725/android-phone-brand-ranked-worst-to-best-user-reviews/",
-            "urlToImage": "https://www.bgr.com/img/gallery/every-major-android-phone-brand-ranked-from-worst-to-best-according-to-users/l-intro-1762340859.jpg",
-            "publishedAt": "2025-11-11 15:02:00"
-        },
-        {
-            "source": {
-                "name": "techrepublic"
-            },
-            "title": "Salesforce Unveils Three-Pillar Water Plan, Linking Data Center Efficiency to Global Watershed Health",
-            "url": "https://www.techrepublic.com/article/news-salesforce-data-center-water-plan/",
-            "urlToImage": "https://assets.techrepublic.com/uploads/2025/11/tr-11112025-news-salesforce-data-center-water-plan-270x203.jpg",
-            "publishedAt": "2025-11-11 15:00:36"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Meta’s $600 Billion AI Power Play: Inside the Data Center Boom",
-            "url": "https://www.webpronews.com/metas-600-billion-ai-power-play-inside-the-data-center-boom/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-855-1762797463.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-11-11 15:00:08"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Evaluating Attribute Association Bias in Latent Factor Recommendation Models",
-            "url": "https://hackernoon.com/evaluating-attribute-association-bias-in-latent-factor-recommendation-models",
-            "urlToImage": "https://hackernoon.imgix.net/images/ai-algorithm-architecture-ulxy0byy36ic1muquwgt2txp.png",
-            "publishedAt": "2025-11-11 15:00:03"
-        },
-        {
-            "source": {
-                "name": "fastcompany"
-            },
-            "title": "Amazon just launched the ‘Everything Store’ for streaming TV ads",
-            "url": "https://www.fastcompany.com/91435813/amazon-dominating-streaming-tv-ads-ai",
-            "urlToImage": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2025/11/p-1-91435813-how-amazon-is-winning-the-digitization-of-tv-ads.jpg",
-            "publishedAt": "2025-11-11 15:00:00"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "ZCash Rallies 500%, Filecoin Maintains Stability, Yet BlockDAG's $25 Trust Framework Commands Attention",
-            "url": "https://www.analyticsinsight.net/cryptocurrency-analytics-insight/zcash-rallies-500-filecoin-maintains-stability-yet-blockdags-25-trust-framework-commands-attention",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-11-11%2Fjfsrnfd5%2FZCash-Rallies-500-Filecoin-Maintains-Stability-Yet-BlockDAGs-25-Trust-Framework-Commands-Attention?ar=40%3A21&auto=format%2Ccompress&enlarge=true&mode=crop&ogImage=true&overlay=false&overlay_position=bottom&overlay_width=100&w=1200",
-            "publishedAt": "2025-11-11 15:00:00"
-        },
-        {
-            "source": {
-                "name": "itpro"
-            },
-            "title": "Laid off Intel engineer accused of stealing 18,000 files on the way out",
-            "url": "https://www.itpro.com/security/laid-off-intel-engineer-accused-of-stealing-18-000-files-on-the-way-out",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/D6UC5K7WohcRzwLGDGms9a-1280-80.jpg",
-            "publishedAt": "2025-11-11 15:00:00"
-        },
-        {
-            "source": {
-                "name": "newswise"
-            },
-            "title": "AlphaSync Database Keeps Protein Structure Prediction Resource Up to Date",
-            "url": "https://www.newswise.com/articles/alphasync-database-keeps-protein-structure-prediction-resource-up-to-date/?sc=rsla",
-            "urlToImage": "https://www.newswise.com/legacy/image.php?height=334&image=%2Fimages%2Fuploads%2F2025%2F11%2F11%2F69134b7a99e47_Babu.jpg&width=502",
-            "publishedAt": "2025-11-11 14:58:30"
-        },
-        {
-            "source": {
-                "name": "en_prnasisa"
-            },
-            "title": "SOPHiA GENETICS and Element Biosciences Unite Sequencing Power and AI Analytics to Accelerate Global Research In Precision Medicine",
-            "url": "https://en.prnasia.com/story/511350-0.shtml",
-            "urlToImage": "https://mma.prnasia.com/media2/1673202/SOPHiA_GENETICS_Logo.jpg?p=medium600",
-            "publishedAt": "2025-11-11 13:01:00"
-        },
-        {
-            "source": {
-                "name": "wallst_247"
-            },
-            "title": "Rivian (NASDAQ: RIVN) Price Prediction and Forecast 2025-2030 for November 11",
-            "url": "https://247wallst.com/investing/2025/11/11/rivian-price-prediction-and-forecast/",
-            "urlToImage": "https://247wallst.com/wp-content/uploads/2024/08/Rivian_R1S_at_Hillsdale_Shopping_Center.jpg",
-            "publishedAt": "2025-11-11 13:00:11"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "Dominari 2025 Revenue Surges 703% in First Nine Months, Balance Sheet Strengthens Significantly",
-            "url": "https://www.prnewswire.com/news-releases/dominari-2025-revenue-surges-703-in-first-nine-months-balance-sheet-strengthens-significantly-302610858.html",
-            "urlToImage": "https://mma.prnewswire.com/media/1974850/Dominari_Holdings_Logo.jpg?p=original",
-            "publishedAt": "2025-11-11 13:00:00"
-        },
-        {
-            "source": {
-                "name": "cnet"
-            },
-            "title": "VPN vs. Proxy vs. Tor: What’s the Difference?",
-            "url": "https://www.cnet.com/tech/services-and-software/vpn-vs-proxy-vs-tor/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/bcf8eaa980da4e52fc886cbe132c2d68e2c29e43/hub/2025/10/16/5cfdb29f-b70e-43d0-8ca1-d35b6a883cec/vpn-vs-proxy-vs-tor-2.png?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-11-11 13:00:00"
-        },
-        {
-            "source": {
-                "name": "atlanticcouncil"
-            },
-            "title": "It’s time to reckon with the geopolitics of artificial intelligence",
-            "url": "https://www.atlanticcouncil.org/content-series/inflection-points/its-time-to-reckon-with-the-geopolitics-of-artificial-intelligence/",
-            "urlToImage": "https://www.atlanticcouncil.org/wp-content/uploads/2025/11/HP-2025-01-06T000000Z_897673587_MT1NURPHO0008WB3NO_RTRMADP_3_NVIDIA-CEO-JENSEN-HUANG-INNOVATIONS-2-scaled.jpg",
-            "publishedAt": "2025-11-11 12:57:47"
-        },
-        {
-            "source": {
-                "name": "etcentric"
-            },
-            "title": "Sony Debuts Benchmark for Measuring Computer Vision Bias",
-            "url": "https://www.etcentric.org/sony-debuts-benchmark-for-measuring-computer-vision-bias/",
-            "urlToImage": "https://www.etcentric.org/wp-content/uploads/2023/10/Artificial_Intelligence_Technology_Internet_Systems-200x113.jpeg",
-            "publishedAt": "2025-11-11 12:30:58"
-        },
-        {
-            "source": {
-                "name": "phys"
-            },
-            "title": "On-chip cryptographic protocol lets quantum computers self-verify results amid hardware noise",
-            "url": "https://phys.org/news/2025-11-chip-cryptographic-protocol-quantum-results.html",
-            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2025/a-new-on-chip-cryptogr.jpg",
-            "publishedAt": "2025-11-11 12:28:01"
         }
     ]
 }
