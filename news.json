@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2025-11-13T04:21:10.947887Z",
+    "lastUpdatedAt": "2025-11-13T05:16:22.385934Z",
     "articles": [
+        {
+            "source": {
+                "id": "17d7c2645f485578130862e0c8dd9480",
+                "name": "The Mercury News",
+                "url": "https://www.mercurynews.com",
+                "country": "us"
+            },
+            "title": "Anthropic announces $50B investment in new US data centers to meet AI demand",
+            "url": "https://www.mercurynews.com/2025/11/12/anthropic-announces-investment-in-new-us-data-centers/",
+            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/11/AI_Data_Centers_45385.jpg?w=1024&h=682",
+            "publishedAt": "2025-11-12T17:12:47Z"
+        },
+        {
+            "source": {
+                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
+                "name": "New York Post",
+                "url": "https://nypost.com",
+                "country": "us"
+            },
+            "title": "Google's 'moonshot' project would put AI data centers in space",
+            "url": "https://nypost.com/2025/11/12/business/googles-moonshot-project-would-put-ai-data-centers-in-space/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/11/alphabet-google-ceo-sundar-pichai-114534624.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2025-11-12T17:07:40Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "AIR Launches AI in Education Network to Advance Research on How Artificial Intelligence Is Changing K-12 Education",
+            "url": "https://www.manilatimes.net/2025/11/13/tmt-newswire/globenewswire/air-launches-ai-in-education-network-to-advance-research-on-how-artificial-intelligence-is-changing-k-12-education/2222411",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/11/13/824808.jpg",
+            "publishedAt": "2025-11-12T17:03:00Z"
+        },
+        {
+            "source": {
+                "id": "cb749b89c7dc92dc2d517a49bb9a43ab",
+                "name": "The Verge",
+                "url": "https://www.theverge.com",
+                "country": "us"
+            },
+            "title": "Gore Verbinski has something to say about the AI apocalypse.",
+            "url": "https://www.theverge.com/entertainment/818994/good-luck-have-fun-dont-die-trailer",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
+            "publishedAt": "2025-11-12T17:00:00Z"
+        },
+        {
+            "source": {
+                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+                "name": "NDTV.com",
+                "url": "https://www.ndtv.com",
+                "country": "in"
+            },
+            "title": "Inside Delhi Jal Board's Pact With IIT Kanpur",
+            "url": "https://www.ndtv.com/delhi-news/ai-to-make-delhi-water-cleaner-inside-delhi-jal-boards-pact-with-iit-kanpur-9624473",
+            "urlToImage": "https://c.ndtvimg.com/2019-08/7fpgjhjo_tap-water-pixabay_625x300_13_August_19.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+            "publishedAt": "2025-11-12T16:57:57Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Microsoft to Unveil AI Super Factory in Atlanta as Part of Data Center Plans",
+            "url": "https://www.marketscreener.com/news/microsoft-to-unveil-ai-super-factory-in-atlanta-as-part-of-data-center-plans-ce7d5fdfdc8bf720",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2025-11-12T16:54:23Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "proof your career in an age of AI layoffs",
+            "url": "https://timesofindia.indiatimes.com/education/careers/news/no-job-is-safe-anymore-shares-laid-off-amazon-employee-6-ways-to-future-proof-your-career-in-an-age-of-ai-layoffs/articleshow/125279249.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-125279464,width-1070,height-580,imgsize-10150,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-11-12T16:53:00Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Nvidia to invest $1 billion to build AI data center in northern Mexico, governor says",
+            "url": "https://www.marketscreener.com/news/nvidia-to-invest-1-billion-to-build-ai-data-center-in-northern-mexico-governor-says-ce7d5fdfdc88f325",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2025-11-12T16:49:31Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Pre-conference workshop on AI & neurochemical insights begins",
+            "url": "https://timesofindia.indiatimes.com/city/mysuru/pre-conference-workshop-on-ai-neurochemical-insights-begins/articleshow/125279428.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-117680006,width-1070,height-580,imgsize-98925,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-11-12T16:48:00Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "Massive Rush: Blazpay’s AI Crypto Coins Presale Nears Sellout as Tron & Algorand Investors Look for the Next Big Play",
+            "url": "https://techbullion.com/massive-rush-blazpays-ai-crypto-coins-presale-nears-sellout-as-tron-algorand-investors-look-for-the-next-big-play/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/11/Screenshot-2025-11-12-212909.png",
+            "publishedAt": "2025-11-12T16:30:23Z"
+        },
         {
             "source": {
                 "id": "37128a060981dbbe79321f096e7d1108",
@@ -1623,6 +1743,78 @@
         },
         {
             "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Data Engineer Global Sourcing & Supply Management (GSSM) Solutions",
+            "url": "https://www.analyticsinsight.net/job-openings/data-engineer-global-sourcing-supply-management-gssm-solutions",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-11-12%2F88a3dily%2FApple-1.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-11-12 17:15:01"
+        },
+        {
+            "source": {
+                "name": "washington"
+            },
+            "title": "UW ECE Entrepreneurial Fellows Program helps turn research advances into real-world products",
+            "url": "https://www.ece.uw.edu/spotlight/uw-ece-efp-2026-26-fellows/",
+            "urlToImage": "http://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/10/2019/06/21094817/Univ-of-Washington_Memorial-Way.jpg",
+            "publishedAt": "2025-11-12 17:12:55"
+        },
+        {
+            "source": {
+                "name": "hackernoon"
+            },
+            "title": "Building a RAG System That Runs Completely Offline",
+            "url": "https://hackernoon.com/building-a-rag-system-that-runs-completely-offline",
+            "urlToImage": "https://hackernoon.imgix.net/images/ethernet-cable-cghbbkzkongtt8oxz7beay7w.png",
+            "publishedAt": "2025-11-12 17:06:13"
+        },
+        {
+            "source": {
+                "name": "phys"
+            },
+            "title": "String theory: Scientists are trying new ways to verify the idea that could unite all of physics",
+            "url": "https://phys.org/news/2025-11-theory-scientists-ways-idea-physics.html",
+            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2019/2-particle.jpg",
+            "publishedAt": "2025-11-12 17:04:50"
+        },
+        {
+            "source": {
+                "name": "milescitystar"
+            },
+            "title": "SpiNNcloud Delivers Brain‐Inspired Supercomputer to THOR: A Landmark Neuromorphic Commons Initiative in the U.S.",
+            "url": "https://www.milescitystar.com/ap_news/montana/spinncloud-delivers-brain-inspired-supercomputer-to-thor-a-landmark-neuromorphic-commons-initiative-in-the-u/article_cabc861a-3638-5e21-ae1a-bd4e0f19a607.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/milescitystar.com/content/tncms/assets/v3/editorial/5/4b/54b14db3-4607-5432-b427-bcaf5f30fa20/6914bf2820f1b.image.jpg?resize=300%2C206",
+            "publishedAt": "2025-11-12 17:02:40"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "IBM: ‘Verified Quantum Advantage’ By 2026, ‘Fault-Tolerant Quantum Computing By 2029",
+            "url": "https://www.forbes.com/sites/johnkoetsier/2025/11/12/ibm-verified-quantum-advantage-by-2026-fault-tolerant-quantum-computing-by-2029/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6914bce3c3531c07c76e9fe9/0x0.jpg?width=960",
+            "publishedAt": "2025-11-12 17:01:22"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Google’s Privacy Shield: Decoding Private AI Compute",
+            "url": "https://www.webpronews.com/googles-privacy-shield-decoding-private-ai-compute/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-1001-1762910080.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-11-12 17:00:08"
+        },
+        {
+            "source": {
+                "name": "aboutamazon"
+            },
+            "title": "Build your AI career path with AWS's new certification and hands-on learning experiences",
+            "url": "https://www.aboutamazon.com/news/aws/aws-ai-certification-learning-tools-skills-development",
+            "urlToImage": "https://assets.aboutamazon.com/dims4/default/17b1e54/2147483647/strip/true/crop/1600x900+0+0/resize/1320x743!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F4f%2F1c%2F02553c974f96b8d5e0f3abed3877%2Fmeeting-image-1600x900-nolist.jpg",
+            "publishedAt": "2025-11-12 17:00:03"
+        },
+        {
+            "source": {
                 "name": "fortune"
             },
             "title": "OpenAI says it plans to report stunning annual losses through 2028—and then turn wildly profitable just two years later",
@@ -3018,222 +3210,6 @@
             "url": "https://www.devdiscourse.com/article/headlines/3693897-global-markets-sway-amid-us-shutdown-hopes-and-ai-fluctuations",
             "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/14_08_2025_06_03_25_4744666.png?width=920&format=jpeg",
             "publishedAt": "2025-11-11T17:25:41Z"
-        },
-        {
-            "source": {
-                "id": "aa569bbaa7b7ef97f7cf8df3cf902947",
-                "name": "Investor's Business Daily",
-                "url": "https://www.investors.com",
-                "country": "us"
-            },
-            "title": "IBM Is Stock Of The Day: Can 'Big Iron' Stoke Software Growth From Artificial Intelligence?",
-            "url": "https://www.investors.com/research/ibd-stock-of-the-day/ibm-stock-big-iron-software-growth-artificial-intelligence/",
-            "urlToImage": "https://www.investors.com/wp-content/uploads/2025/11/sotd-for-11-11-2025-desktop-1.png",
-            "publishedAt": "2025-11-11T17:21:38Z"
-        },
-        {
-            "source": {
-                "id": "17d7c2645f485578130862e0c8dd9480",
-                "name": "The Mercury News",
-                "url": "https://www.mercurynews.com",
-                "country": "us"
-            },
-            "title": "Apple’s restraint finds fans as AI spending faces scrutiny",
-            "url": "https://www.mercurynews.com/2025/11/11/apples-restraint-finds-fans-as-ai-spending-faces-scrutiny/",
-            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/07/Earns_Apple_11669.jpg?w=1024&h=614",
-            "publishedAt": "2025-11-11T17:14:44Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "LCPC AI empowers global users by democratizing artificial intelligence computing through transparent cloud infrastructure.",
-            "url": "https://www.manilatimes.net/2025/11/12/tmt-newswire/globenewswire/lcpc-ai-empowers-global-users-by-democratizing-artificial-intelligence-computing-through-transparent-cloud-infrastructure/2221331",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/11/12/822778.jpg",
-            "publishedAt": "2025-11-11T17:14:05Z"
-        },
-        {
-            "source": {
-                "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
-                "name": "Fortune",
-                "url": "https://fortune.com",
-                "country": "us"
-            },
-            "title": "The rise of Yann LeCun, the 65-year-old NYU professor who is planning to leave Mark Zuckerberg's highly paid team at Meta to launch his own AI startup",
-            "url": "https://fortune.com/2025/11/11/who-is-yann-lecun-career-meta-ai-chief-scientist-nyu-turing/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2244679676.jpg?resize=1200,600",
-            "publishedAt": "2025-11-11T17:13:52Z"
-        },
-        {
-            "source": {
-                "id": "3ae5ebb8ffc400c9f5ec57c1814b41fa",
-                "name": "Anchorage Daily News",
-                "url": "https://www.adn.com",
-                "country": "us"
-            },
-            "title": "Opinion: The next dominant species? AI.",
-            "url": "https://www.adn.com/opinions/2025/11/11/opinion-the-next-dominant-species-ai/",
-            "urlToImage": "https://www.adn.com/resizer/v2/WWQZYVH7XR7WUM7XNIZ7RL6DZM.jpg?smart=true&auth=7bc36ec422d9999e5af8fec825eacd8dccaa89c1e0c92dc8a1c3e6a905ad2a93&width=1200&height=630",
-            "publishedAt": "2025-11-11T17:07:31Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Microsoft, Google to Invest Over $16 Billion to Expand AI Infrastructure in Europe -- Update",
-            "url": "https://www.marketscreener.com/news/microsoft-google-to-invest-over-16-billion-to-expand-ai-infrastructure-in-europe-update-ce7d5fd9d080f22d",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2025-11-11T17:02:42Z"
-        },
-        {
-            "source": {
-                "id": "e553cce06d349ac1f7fbb7618a979256",
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com",
-                "country": "us"
-            },
-            "title": "SoftBank Sells $5.8 Billion Stake in Nvidia to Pay for OpenAI Deals",
-            "url": "https://www.nytimes.com/2025/11/11/business/dealbook/softbank-nvidia-divest.html",
-            "urlToImage": "https://static01.nyt.com/images/2025/11/11/multimedia/11softbank-nvidia-tmgq/11softbank-nvidia-tmgq-facebookJumbo.jpg",
-            "publishedAt": "2025-11-11T16:40:31Z"
-        },
-        {
-            "source": {
-                "id": "6fea3ee012f060c6309366516e8d00be",
-                "name": "News-Medical.net",
-                "url": "https://www.news-medical.net",
-                "country": "gb"
-            },
-            "title": "AI repurposes routine CT scans to detect hidden bone loss",
-            "url": "https://www.news-medical.net/news/20251111/AI-repurposes-routine-CT-scans-to-detect-hidden-bone-loss.aspx",
-            "urlToImage": "https://www.news-medical.net/image-handler/picture/2017/1/CT_machine_is_prepared_for_the_patient_shooting-sfam_photo_698c003ae3d54b69bf4c077708d403e4-620x480.jpg",
-            "publishedAt": "2025-11-11T16:33:00Z"
-        },
-        {
-            "source": {
-                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
-                "name": "Times Now",
-                "url": "https://www.timesnownews.com",
-                "country": "in"
-            },
-            "title": "Explained: A New Chapter In Parenthood - What Birth Of First AI Baby Tells Us About The Future Of Reproduction",
-            "url": "https://www.timesnownews.com/health/explained-a-new-chapter-in-parenthood-what-birth-of-first-ai-baby-tells-us-about-the-future-of-reproduction-article-153136102",
-            "urlToImage": "https://images.timesnownews.com/thumb/msid-153136102,width-1280,height-720,resizemode-3/153136102.jpg",
-            "publishedAt": "2025-11-11T16:28:40Z"
-        },
-        {
-            "source": {
-                "id": "d5029e5cbcb0666e7a5cbd49fab56ad7",
-                "name": "Proto Thema",
-                "url": "https://en.protothema.gr",
-                "country": "gr"
-            },
-            "title": "Unauthorised use of lyrics by artificial intelligence platforms illegal, Munich court rules",
-            "url": "https://en.protothema.gr/2025/11/11/unauthorised-use-of-lyrics-by-artificial-intelligence-platforms-illegal-munich-court-rules/",
-            "urlToImage": "https://en.protothema.gr/wp-content/uploads/2025/11/openai-1.jpg-1.jpg",
-            "publishedAt": "2025-11-11T16:23:02Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Intel CEO to oversee its AI efforts after executive departs for OpenAI",
-            "url": "https://www.manilatimes.net/2025/11/12/business/foreign-business/intel-ceo-to-oversee-its-ai-efforts-after-executive-departs-for-openai/2221206",
-            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-            "publishedAt": "2025-11-11T16:23:00Z"
-        },
-        {
-            "source": {
-                "id": "37128a060981dbbe79321f096e7d1108",
-                "name": "U.S. News & World Report",
-                "url": "https://www.usnews.com",
-                "country": "us"
-            },
-            "title": "Watchdog Group Public Citizen Demands OpenAI Withdraw AI Video App Sora Over Deepfake Dangers",
-            "url": "https://www.usnews.com/news/business/articles/2025-11-11/watchdog-group-public-citizen-demands-openai-withdraw-ai-video-app-sora-over-deepfake-dangers",
-            "urlToImage": "https://www.usnews.com/dims4/USNEWS/2e687c7/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Ff5%2Fe4e58c76c17933bd6dbcb513ec2805%2F8b23bbd03e5441d48a0028b9c90414b9OpenAI_Sora_08501.jpg",
-            "publishedAt": "2025-11-11T16:03:00Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Cerebras to Help Build Guyana Data Center, Unveils Sovereign AI Push",
-            "url": "https://www.bloomberg.com/news/articles/2025-11-11/cerebras-to-help-build-guyana-data-center-unveils-sovereign-ai-push",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iK_JzWujqVNA/v1/1200x800.jpg",
-            "publishedAt": "2025-11-11T16:00:06Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "AI clouds up the economic dashboard",
-            "url": "https://www.thestar.com.my/business/insight/2025/11/12/ai-clouds-up-the-economic-dashboard",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/12/3617705.jpeg",
-            "publishedAt": "2025-11-11T16:00:00Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Future of industrial automation is in people and AI",
-            "url": "https://timesofindia.indiatimes.com/business/international-business/future-of-industrial-automation-is-in-people-and-ai-driven-precision/articleshow/125253051.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-125253055,width-1070,height-580,imgsize-26216,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "publishedAt": "2025-11-11T15:53:00Z"
-        },
-        {
-            "source": {
-                "id": "3989f52bbec2d3be8442e2851b59e79e",
-                "name": "CBS Sports",
-                "url": "https://www.cbssports.com",
-                "country": "us"
-            },
-            "title": "NBA player props, picks, odds: Target SGA with Tuesday NBA best bets",
-            "url": "https://www.cbssports.com/nba/news/nba-player-props-picks-odds-back-sga-over-36-5-points-rebounds-nba-best-bets-tuesday-nov-11/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/10/20/54b40296-306c-4e17-8f14-0efca98185b6/thumbnail/1200x675/a7b736fcd49e8ec1c091f7cadec60e7b/sga-oklahoma-city-thunder-imagn-images-2.jpg",
-            "publishedAt": "2025-11-11T15:47:36Z"
-        },
-        {
-            "source": {
-                "id": "6956007add5fc13a6721202ec906b1c4",
-                "name": "Decrypt",
-                "url": "https://decrypt.co",
-                "country": "us"
-            },
-            "title": "Chinese Cybersecurity Watchdog Alleges US Stole $13.2B in Bitcoin Five Years Ago",
-            "url": "https://decrypt.co/348109/chinese-cybersecurity-watchdog-alleges-us-stole-13-2b-in-bitcoin-five-years-ago",
-            "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Hacker-decrypt-style-02-gID_7.png",
-            "publishedAt": "2025-11-11T15:45:03Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Does Javed Akhtar support use of AI? Veteran screenwriter reacts to ongoing debate in film industry: 'People feel advancements are going to badly affect society'",
-            "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/does-javed-akhtar-support-use-of-ai-veteran-screenwriter-reacts-to-ongoing-debate-in-film-industry-people-feel-advancements-are-going-to-badly-affect-society/articleshow/125252702.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-125252702,width-1070,height-580,imgsize-48650,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "publishedAt": "2025-11-11T15:36:00Z"
         }
     ]
 }
