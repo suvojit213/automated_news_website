@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2025-11-13T21:14:52.963893Z",
+    "lastUpdatedAt": "2025-11-13T22:15:39.444773Z",
     "articles": [
+        {
+            "source": {
+                "id": "28bc60a23a7bf89e60f893506992a3fe",
+                "name": "Daily Excelsior",
+                "url": "https://www.dailyexcelsior.com",
+                "country": "in"
+            },
+            "title": "PhonePe partners with OpenAI to bring ChatGPT AI features to Indian users",
+            "url": "https://www.dailyexcelsior.com/phonepe-partners-with-openai-to-bring-chatgpt-ai-features-to-indian-users/",
+            "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2025/11/Phone.jpg",
+            "publishedAt": "2025-11-13T10:11:47Z"
+        },
+        {
+            "source": {
+                "id": "6f4f13c21bb217801ab4b37c367f97aa",
+                "name": "CNET",
+                "url": "https://www.cnet.com",
+                "country": "us"
+            },
+            "title": "Did Your Health Insurance Claim Get Denied? AI Might Be the Culprit -- and the Fix",
+            "url": "https://www.cnet.com/tech/services-and-software/did-your-health-insurance-claim-get-denied-ai-might-be-the-culprit-and-the-fix/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/53e2ec392a34ee12ef036a1309a773edf358e560/hub/2025/10/07/3d27ee02-df9d-4283-bb5e-308c80febe2c/gettyimages-2191629602.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-11-13T10:10:35Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Banks at crossroads as AI costs rise and risks escalate: S&P Report",
+            "url": "https://www.tribuneindia.com/news/business/banks-at-crossroads-as-ai-costs-rise-and-risks-escalate-sp-report/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTJmY2VjN2MwLWMwNzYtMTFmMC1iMDY0LWVkNWUyYTYzNDljNy5qcGc=",
+            "publishedAt": "2025-11-13T09:50:24Z"
+        },
+        {
+            "source": {
+                "id": "e479ce8332aab31d8bac6ba9584cedbb",
+                "name": "Republic World",
+                "url": "https://www.republicworld.com",
+                "country": "in"
+            },
+            "title": "Pakistan’s Leading English Newspaper, Dawn, Faces Social Media Trolling for AI Editing Error in Published Article",
+            "url": "https://www.republicworld.com/world-news/pakistans-leading-english-newspaper-dawn-faces-social-media-trolling-for-ai-editing-error-in-published-article",
+            "urlToImage": "https://img.republicworld.com/all_images/social-media-users-quickly-picked-up-on-the-error-criticizing-the-newspaper-1763026134714-16_9.webp",
+            "publishedAt": "2025-11-13T09:34:16Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "Why AI's next smart move might be scrapping chatbots",
+            "url": "https://www.livemint.com/opinion/online-views/ai-next-smart-move-scrapping-chatbots-chatgpt-grok-character-ai-artificial-intelligence-11762950586136.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2025/11/12/1600x900/logo/KB376BLM_1762954780227_1762954788541.jpg",
+            "publishedAt": "2025-11-13T09:30:16Z"
+        },
+        {
+            "source": {
+                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+                "name": "The Financial Express",
+                "url": "https://www.financialexpress.com",
+                "country": "in"
+            },
+            "title": "Need 8 million jobs annually to reap demographic advantage, AI to supplement: CEA Nageswaran",
+            "url": "https://www.financialexpress.com/india-news/need-8-million-jobs-annually-to-reap-demographic-advantage-ai-to-supplement-cea-nageswaran/4041856/",
+            "urlToImage": "https://images.financialexpressdigital.com/2025/11/economicadv.Express_20251107144348_20251113092325.jpg",
+            "publishedAt": "2025-11-13T09:26:16Z"
+        },
+        {
+            "source": {
+                "id": "2492bcb79914b2ce3d9867453dae22ac",
+                "name": "Financial Post",
+                "url": "https://financialpost.com",
+                "country": "ca"
+            },
+            "title": "China looks 'uniquely' strong on AI energy, HSBC says",
+            "url": "https://financialpost.com/commodities/energy/hsbc-china-strong-ai-energy-supply",
+            "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/11/1114-mg-china-energy.jpg",
+            "publishedAt": "2025-11-13T09:16:55Z"
+        },
         {
             "source": {
                 "id": "b33a42ef1c098421f66aad47a76d6a3c",
@@ -684,6 +768,87 @@
             "url": "https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0000753",
             "urlToImage": "https://journals.plos.org/digitalhealth/article/figure/image?id=10.1371/journal.pdig.0000753.g004&size=inline",
             "publishedAt": "2025-11-13T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "expresscomputer"
+            },
+            "title": "Commvault unveils a new era in enterprise resilience with the Commvault Cloud Unity platform release",
+            "url": "https://www.expresscomputer.in/news/commvault-unveils-a-new-era-in-enterprise-resilience-with-the-commvault-cloud-unity-platform-release/129437/",
+            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2024/03/07180448/cloud-storage-background-business-network-design.jpg",
+            "publishedAt": "2025-11-13 10:11:00"
+        },
+        {
+            "source": {
+                "name": "venturebeat"
+            },
+            "title": "Alembic melted GPUs chasing causal A.I. — now it's running one of the fastest supercomputers in the world",
+            "url": "https://venturebeat.com/ai/alembic-melted-gpus-chasing-causal-a-i-now-its-running-one-of-the-fastest",
+            "urlToImage": "https://images.ctfassets.net/jdtwqhzvc2n1/1X74wYDQUVik71TsArk7Jy/74e1646a1c4505e1057cc623128925a8/nuneybits_Vector_art_of_melting_GPUs_image_in_lime_green_0fe12726-8bf9-4abe-baed-911e9574724f.webp?q=30&w=300",
+            "publishedAt": "2025-11-13 10:00:00"
+        },
+        {
+            "source": {
+                "name": "fastcompany"
+            },
+            "title": "Rumor has it OpenAI will release GPT-5.1 this month. Expect fewer hallucinations, better, more creative writing, and more naughty bits",
+            "url": "https://www.fastcompany.com/91439564/openai-gpt5-1-release-expectations",
+            "urlToImage": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2025/11/p-1-91439564-openai-gpt5-1-release-expectations.jpg",
+            "publishedAt": "2025-11-13 10:00:00"
+        },
+        {
+            "source": {
+                "name": "fastcompany"
+            },
+            "title": "5 things to know about OpenAI’s new GPT-5.1",
+            "url": "https://www.fastcompany.com/91439564/5-things-know-about-openais-new-gpt-5-1?partner=rss",
+            "urlToImage": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2025/11/p-1-91439564-openai-gpt5-1-release-expectations.jpg",
+            "publishedAt": "2025-11-13 10:00:00"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Zero Knowledge Proof Crushes the Old Guard: $100M-Built Tech Makes DOGE and SHIB Look Like Promises",
+            "url": "https://www.analyticsinsight.net/cryptocurrency-analytics-insight/zero-knowledge-proof-crushes-the-old-guard-100m-built-tech-makes-doge-and-shib-look-like-promises",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-11-13%2Fextcioio%2FZero-Knowledge-Proof-Crushes-the-Old-Guard-100M-Built-Tech-Makes-DOGE-and-SHIB-Look-Like-Promises?ar=40%3A21&auto=format%2Ccompress&enlarge=true&mode=crop&ogImage=true&overlay=false&overlay_position=bottom&overlay_width=100&w=1200",
+            "publishedAt": "2025-11-13 10:00:00"
+        },
+        {
+            "source": {
+                "name": "wvnews"
+            },
+            "title": "IAE international engine partnership marks key milestones and charts future propulsion path",
+            "url": "https://www.wvnews.com/news/around_the_web/partners/pr_newswire/subject/contracts/iae-international-engine-partnership-marks-key-milestones-and-charts-future-propulsion-path/article_add04c47-1a23-5c47-b539-2616a36d2260.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/custom/image/dd23b0fa-a76a-11ea-b298-6f7943d03f88.jpg",
+            "publishedAt": "2025-11-13 10:00:00"
+        },
+        {
+            "source": {
+                "name": "etvbharat"
+            },
+            "title": "Valve Announces Steam Machine, Steam Controller, Steam Frame; Set To Be Launched Early 2026",
+            "url": "https://www.etvbharat.com/en/technology/valve-announces-steam-machine-steam-controller-steam-frame-set-to-be-launched-early-2026-enn25111303189",
+            "urlToImage": "https://imgs.etvbharat.com/etvbharat/prod-images/13-11-2025/1200-675-25390342-372-25390342-1763026611970.jpg",
+            "publishedAt": "2025-11-13 09:52:26"
+        },
+        {
+            "source": {
+                "name": "english_jagran"
+            },
+            "title": "Valve's Steam Machine Announced: A 4K Powerhouse With SteamOS, Windows Support, New Steam Controller And Steam Frame VR",
+            "url": "https://www.thedailyjagran.com/technology/valves-steam-machine-announced-a-4k-powerhouse-with-steamos-windows-support-new-steam-controller-and-steam-frame-vr-10279511",
+            "urlToImage": "https://imgeng.jagran.com/images/2025/11/13/article/image/valvesteammachine-1763026326313_v.webp",
+            "publishedAt": "2025-11-13 09:36:11"
+        },
+        {
+            "source": {
+                "name": "slashgear"
+            },
+            "title": "How Reliable Is RAM's Hurricane Engine? Here's What Owners Say",
+            "url": "https://www.slashgear.com/2019822/ram-hurricane-engine-reliability-what-owners-say/",
+            "urlToImage": "https://www.slashgear.com/img/gallery/how-reliable-is-rams-hurricane-engine-heres-what-owners-say/l-intro-1762160829.jpg",
+            "publishedAt": "2025-11-13 09:30:00"
         },
         {
             "source": {
@@ -3234,198 +3399,6 @@
             "url": "https://www.startribune.com/asian-shares-are-mostly-lower-despite-wall-st-rally-and-a-potential-end-to-the-us-shutdown/601522817",
             "urlToImage": "https://www.startribune.com/200.png",
             "publishedAt": "2025-11-12T04:55:05Z"
-        },
-        {
-            "source": {
-                "id": "f81e0cedbddbe08e3058634e8bb4a56f",
-                "name": "Barchart",
-                "url": "https://www.barchart.com",
-                "country": "us"
-            },
-            "title": "Asian shares are mixed in cautious trading after a mixed day on Wall Street",
-            "url": "https://www.barchart.com/story/news/36038575/asian-shares-are-mixed-in-cautious-trading-after-a-mixed-day-on-wall-street",
-            "urlToImage": "https://barchart-news-media-prod.aws.barchart.com/ap/7d25768972be44a685a3b8f9bb5e9977/7d25768972be44a685a3b8f9bb5e9977_main_financial_markets_wall_street_18440.jpg",
-            "publishedAt": "2025-11-12T04:51:59Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "America’s Number-One Country Song, 'Walk My Walk,' Is AI-Generated",
-            "url": "https://www.breitbart.com/entertainment/2025/11/12/nolte-americas-number-one-country-song-walk-my-walk-is-ai-generated/",
-            "urlToImage": "https://media.breitbart.com/media/2025/11/breakingrust-640x335.jpg",
-            "publishedAt": "2025-11-12T04:43:19Z"
-        },
-        {
-            "source": {
-                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-                "name": "The Financial Express",
-                "url": "https://www.financialexpress.com",
-                "country": "in"
-            },
-            "title": "Meta AI chief Alexandr Wang reveals what kids must do to succeed, cites Bill Gates and Mark Zuckerberg",
-            "url": "https://www.financialexpress.com/life/technology-meta-ai-chief-alexandr-wang-reveals-what-kids-must-do-to-succeed-cites-bill-gates-and-mark-zuckerberg-4040077/",
-            "urlToImage": "https://images.financialexpressdigital.com/2025/08/Untitled-design-2025-08-21T173934.692.jpg",
-            "publishedAt": "2025-11-12T04:14:24Z"
-        },
-        {
-            "source": {
-                "id": "01558c024928d45cf320f6f75eede787",
-                "name": "The Guardian",
-                "url": "https://www.theguardian.com",
-                "country": "gb"
-            },
-            "title": "Australian government could explore using AI for cabinet submissions despite security concerns",
-            "url": "https://www.theguardian.com/australia-news/2025/nov/12/australian-government-ai-cabinet-submissions",
-            "urlToImage": "https://i.guim.co.uk/img/media/85be37e7d594a5a72ee6ebe3446909889fb4fc19/276_0_5363_4290/master/5363.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4a18cee506493659bf920cce0ff177fa",
-            "publishedAt": "2025-11-12T04:03:34Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Leadership in the Age of AI: Adnan Ghaffar’s Vision for a Smarter, More Connected Future",
-            "url": "https://techbullion.com/leadership-in-the-age-of-ai-adnan-ghaffars-vision-for-a-smarter-more-connected-future/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/11/Screenshot-2025-11-12-085035-671x600.png",
-            "publishedAt": "2025-11-12T03:52:48Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Boosting Uruguay’s Economy: How Reforms and Artificial Intelligence Could Transform Growth",
-            "url": "https://www.devdiscourse.com/article/other/3692749-boosting-uruguays-economy-how-reforms-and-artificial-intelligence-could-transform-growth",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/11_11_2025_12_17_39_8052371.png?width=920&format=jpeg",
-            "publishedAt": "2025-11-12T03:51:12Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Fed’s Barr Says AI Will Transform Economies Though Outcomes Vary",
-            "url": "https://www.bloomberg.com/news/articles/2025-11-12/fed-s-barr-says-ai-will-transform-economies-though-outcomes-vary",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVD9CHzI5yIs/v1/1200x800.jpg",
-            "publishedAt": "2025-11-12T03:25:00Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Role of Asset Management Software in Cybersecurity Strategy",
-            "url": "https://techbullion.com/role-of-asset-management-software-in-cybersecurity-strategy/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/11/6eafce0e-f590-4551-9da3-ca52da3de4a8.jpeg",
-            "publishedAt": "2025-11-12T03:21:51Z"
-        },
-        {
-            "source": {
-                "id": "f4d035ae0463df22c36ae97972a33ba6",
-                "name": "PR Newswire UK",
-                "url": "https://www.prnewswire.co.uk",
-                "country": "gb"
-            },
-            "title": "OptAI Wins CES 2026 Innovation Award for its AI Optimization Solution, OptHancer™",
-            "url": "https://www.prnewswire.co.uk/news-releases/optai-wins-ces-2026-innovation-award-for-its-ai-optimization-solution-opthancer-302612411.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2820590/CES_2026_OptAI_1.jpg?p=facebook",
-            "publishedAt": "2025-11-12T03:04:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Alpha IVF Singapore uses Advanced Fertility Genomic Screening and Artificial Intelligence Embryo Scoring to help couples become parents",
-            "url": "https://www.manilatimes.net/2025/11/12/tmt-newswire/pr-newswire/alpha-ivf-singapore-uses-advanced-fertility-genomic-screening-and-artificial-intelligence-embryo-scoring-to-help-couples-become-parents/2221530",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/11/12/823133.jpg",
-            "publishedAt": "2025-11-12T02:31:46Z"
-        },
-        {
-            "source": {
-                "id": "b33a42ef1c098421f66aad47a76d6a3c",
-                "name": "The Hindu",
-                "url": "https://www.thehindu.com",
-                "country": "in"
-            },
-            "title": "IIT Bombay invites applications for advanced programmes in cybersecurity and software development",
-            "url": "https://www.thehindu.com/news/cities/mumbai/iit-bombay-invites-applications-for-advanced-programmes-in-cybersecurity-and-software-development/article70267277.ece",
-            "urlToImage": "https://th-i.thgim.com/public/incoming/5mm9ah/article70269658.ece/alternates/LANDSCAPE_1200/80683_22_2_2023_17_34_13_1_EMM_7151.jpg",
-            "publishedAt": "2025-11-12T02:30:46Z"
-        },
-        {
-            "source": {
-                "id": "2f5884e252590f739df55c0e7db375df",
-                "name": "WJLA",
-                "url": "https://wjla.com",
-                "country": "us"
-            },
-            "title": "Cybersecurity expert shares how schools like Manassas can protect themselves after attack",
-            "url": "https://wjla.com/news/local/manassas-cyberattack-security-virginia-protect-cybercatch-students-environments-data-faculty-staff-passwords-testing-technology-credit-cards-hackers",
-            "urlToImage": "https://wjla.com/resources/media/0c4ab32f-fafe-4883-b6ac-83555889a580-TZ2BCYBERATTACK.transfer_frame_113.png",
-            "publishedAt": "2025-11-12T02:25:35Z"
-        },
-        {
-            "source": {
-                "id": "448094ed3f9461bb87a99a218cdaecfe",
-                "name": "The New Indian Express",
-                "url": "https://www.newindianexpress.com",
-                "country": "in"
-            },
-            "title": "Karnataka upgrades 1,200 government portals to CMS 4.0 to boost cybersecurity, accessibility",
-            "url": "https://www.newindianexpress.com/states/karnataka/2025/Nov/12/karnataka-upgrades-1200-government-portals-to-cms-40-to-boost-cybersecurity-accessibility",
-            "urlToImage": "https://media.newindianexpress.com/newindianexpress%2F2025-09-21%2Fpt6pcfup%2F202509213516679.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2025-11-12T02:17:12Z"
-        },
-        {
-            "source": {
-                "id": "6fea3ee012f060c6309366516e8d00be",
-                "name": "News-Medical.net",
-                "url": "https://www.news-medical.net",
-                "country": "gb"
-            },
-            "title": "Artificial intelligence improves diagnosis of invisible airway blockages",
-            "url": "https://www.news-medical.net/news/20251111/Artificial-intelligence-improves-diagnosis-of-invisible-airway-blockages.aspx",
-            "urlToImage": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-            "publishedAt": "2025-11-12T02:15:00Z"
-        },
-        {
-            "source": {
-                "id": "10cbfb3760cfcdeb78c733c527f0e814",
-                "name": "iTWire",
-                "url": "https://itwire.com",
-                "country": "au"
-            },
-            "title": "How chief financial officers are redefining financial leadership in cybersecurity",
-            "url": "https://itwire.com/guest-articles/guest-opinion/how-chief-financial-officers-are-redefining-financial-leadership-in-cybersecurity.html",
-            "urlToImage": "https://itwire.com/media/k2/items/cache/83d3ba555cd6758ebc37e6b455a615d5_XS.jpg",
-            "publishedAt": "2025-11-12T02:10:52Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Dow notches record high close, traders bet on end to government shutdown",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/dow-notches-record-high-close-traders-bet-on-end-to-government-shutdown/articleshow/125263084.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-125263102,width-1200,height-630,imgsize-183360,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2025-11-12T02:09:00Z"
         }
     ]
 }
