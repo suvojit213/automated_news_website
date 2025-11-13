@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-11-13T17:16:27.234275Z",
+    "lastUpdatedAt": "2025-11-13T18:22:52.165843Z",
     "articles": [
+        {
+            "source": {
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
+                "country": "in"
+            },
+            "title": "Javed Akhtar: Next generation of artistes will face a real challenge from artificial intelligence",
+            "url": "https://www.hindustantimes.com/htcity/htcity-delhi-junction/javed-akhtar-next-generation-of-artistes-will-face-a-real-challenge-from-artificial-intelligence-101762859977086.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/11/11/550x309/FO45L7A0_1762860288102_1762860301106.jpg",
+            "publishedAt": "2025-11-13T06:06:43Z"
+        },
+        {
+            "source": {
+                "id": "d4773b92da0613b8ffc2fc9c46229534",
+                "name": "Business Wire",
+                "url": "https://www.businesswire.com",
+                "country": "us"
+            },
+            "title": "Black Hat Europe 2025 Summits to Expose Critical AI Threats, Nation-State Attacks, and Financial Sector Vulnerabilities",
+            "url": "https://www.businesswire.com/news/home/20251112865795/en/Black-Hat-Europe-2025-Summits-to-Expose-Critical-AI-Threats-Nation-State-Attacks-and-Financial-Sector-Vulnerabilities",
+            "urlToImage": "https://mms.businesswire.com/media/20251112865795/en/2642308/22/bh_logo_black.jpg",
+            "publishedAt": "2025-11-13T06:00:00Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -348,6 +372,60 @@
             "url": "https://www.globenewswire.com/news-release/2025/11/13/3187640/32716/en/F5-Inc-FFIV-Faces-Investor-Scrutiny-Amid-Cybersecurity-Incident-Impact-on-Company-s-Business-Shares-Slide-Again-Hagens-Berman.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/51670c91-d369-4a8c-8102-d393de9f6d19",
             "publishedAt": "2025-11-13T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "gsmarena"
+            },
+            "title": "Valve announces new Steam Machine and Steam Controller",
+            "url": "https://www.gsmarena.com/valve_announces_new_steam_machine_and_steam_controller-news-70270.php",
+            "urlToImage": "https://fdn.gsmarena.com/imgroot/news/25/11/valve-machine/-952x498w6/gsmarena_000.jpg",
+            "publishedAt": "2025-11-13 06:15:02"
+        },
+        {
+            "source": {
+                "name": "economictimes_indiatimes"
+            },
+            "title": "Ericsson sets up Radio Access Network R&D unit in Bengaluru to drive 5G software development",
+            "url": "https://economictimes.indiatimes.com/industry/telecom/ericsson-sets-up-radio-access-network-rd-unit-in-bengaluru-to-drive-5g-software-development/articleshow/125298637.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-125298637,width-300,height-225,imgsize-87078,resizemode-75/.jpg",
+            "publishedAt": "2025-11-13 05:52:55"
+        },
+        {
+            "source": {
+                "name": "expresscomputer"
+            },
+            "title": "9 in 10 Indian SMBs now bet on AI – with Tier-2 cities taking the lead: LinkedIn Study",
+            "url": "https://www.expresscomputer.in/news/9-in-10-indian-smbs-now-bet-on-ai-with-tier-2-cities-taking-the-lead-linkedin-study/129427/",
+            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2021/08/16181513/EC_Networking_02_750.jpg",
+            "publishedAt": "2025-11-13 05:51:56"
+        },
+        {
+            "source": {
+                "name": "pcquest"
+            },
+            "title": "Valve Ignites the Future of Play with the Steam Frame and Next-Gen Steam Machine",
+            "url": "https://www.pcquest.com/news-launches/valve-ignites-the-future-of-play-with-the-steam-frame-and-next-gen-steam-machine-10652867",
+            "urlToImage": "https://img-cdn.publive.online/pcq/media/media_files/2025/11/13/valve-bold-new-gaming-strategy-as-the-steam-frame-and-steam-machine-set-the-stage-for-the-future-of-play-2025-11-13-11-17-59.jpg",
+            "publishedAt": "2025-11-13 05:48:06"
+        },
+        {
+            "source": {
+                "name": "news18"
+            },
+            "title": "iPhone Pocket To Mac Wheels: When Apple Makes Products For Headlines",
+            "url": "https://www.news18.com/explainers/iphone-pocket-to-mac-wheels-when-apple-makes-products-for-headlines-9703498.html",
+            "urlToImage": "https://images.news18.com/ibnlive/uploads/2025/11/apple-iphone-pocket-2025-11-487ec3dbe5b6bf2fda82283df2bf4f25-3x2.png",
+            "publishedAt": "2025-11-13 05:46:44"
+        },
+        {
+            "source": {
+                "name": "hindustantimes"
+            },
+            "title": "India’s techade: Accelerating 5G realities and shaping the 6G future",
+            "url": "https://www.hindustantimes.com/ht-insight/future-tech/indias-techade-accelerating-5g-realities-and-shaping-the-6g-future-101763012303233.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/11/13/1600x900/logo/technology-g541e5c5c5_1280_1677250001158_1763012530274.jpg",
+            "publishedAt": "2025-11-13 05:42:50"
         },
         {
             "source": {
@@ -3300,78 +3378,6 @@
             "url": "https://www.deccanchronicle.com/world/ai-startup-anthropic-announces-50-bn-data-center-investment-1916669",
             "urlToImage": "https://www.deccanchronicle.com/h-upload/2025/11/12/1977541-aa-5923287.jpg",
             "publishedAt": "2025-11-12 19:08:40"
-        },
-        {
-            "source": {
-                "name": "cadillacnews"
-            },
-            "title": "AP Technology SummaryBrief at 2:06 p.m. EST",
-            "url": "https://www.cadillacnews.com/ap/business/ap-technology-summarybrief-at-2-06-p-m-est/article_27d97a00-50b7-55eb-83b1-2f7420e9d112.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/cadillacnews.com/content/tncms/custom/image/2f32a658-47ab-11e7-abb1-ef25bc001cf2.png?resize=600%2C99",
-            "publishedAt": "2025-11-12 19:06:37"
-        },
-        {
-            "source": {
-                "name": "berkeley"
-            },
-            "title": "UC Berkeley and University of Luxembourg to explore space technology research and innovation",
-            "url": "https://spacecenter.berkeley.edu/news/uc-berkeley-and-university-luxembourg-explore-together-space-technology-research-and-innovation",
-            "urlToImage": "https://news.berkeley.edu/wp-content/uploads/2025/11/a743010-1024x665.png",
-            "publishedAt": "2025-11-12 19:04:55"
-        },
-        {
-            "source": {
-                "name": "robotics247"
-            },
-            "title": "Foxglove raises $40M Series B to power the future of Physical AI",
-            "url": "https://www.robotics247.com/article/foxglove_raises_40m_series_b_to_power_the_future_of_physical_ai",
-            "urlToImage": "https://www.robotics247.com/images/2025_article/foxglove-series-b-funding-graphic-2.jpg",
-            "publishedAt": "2025-11-12 19:02:00"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "OpenAI's GPT-5.1 makes ChatGPT 'warmer' and smarter - how its upgraded modes work now",
-            "url": "https://www.zdnet.com/article/openais-gpt-5-1-makes-chatgpt-warmer-and-smarter-how-its-upgraded-modes-work-now/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/b53d9017b6461e53c44759bb3bc76ffec31ad4bd/2025/11/12/ce92c7a3-1d50-4d41-9596-fbaa883d730e/gpt-5-1-in-chatgpt.png?auto=webp&precrop=3840%2C2159%2Cx0%2Cy0&width=1280",
-            "publishedAt": "2025-11-12 19:01:26"
-        },
-        {
-            "source": {
-                "name": "cnet"
-            },
-            "title": "Proposed Age Verification Bills Spur Skyrocketing VPN Use, Warning From Google",
-            "url": "https://www.cnet.com/tech/services-and-software/proposed-age-verification-bills-spur-skyrocketing-vpn-use-warning-from-google/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/09c192408548b1fb1c763a0436584188742d5d16/hub/2024/05/14/74d527ad-224c-4924-809d-47dd3764a201/vpn-data.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-11-12 19:00:00"
-        },
-        {
-            "source": {
-                "name": "cnet"
-            },
-            "title": "New Age Verification Bills Could Ban VPNs, Jeopardize the Privacy of Millions",
-            "url": "https://www.cnet.com/tech/services-and-software/new-age-verification-bills-could-ban-vpns-jeopardize-the-privacy-of-millions/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/09c192408548b1fb1c763a0436584188742d5d16/hub/2024/05/14/74d527ad-224c-4924-809d-47dd3764a201/vpn-data.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-11-12 19:00:00"
-        },
-        {
-            "source": {
-                "name": "techgenyz"
-            },
-            "title": "India’s Quantum Cloud Revolution: Powerfully Dominating the Future of Innovation",
-            "url": "https://techgenyz.com/india-quantum-cloud-powerfully-dominating-innovation/",
-            "urlToImage": "https://techgenyz.com/wp-content/uploads/2025/11/Quantum-Cloud.webp",
-            "publishedAt": "2025-11-12 19:00:00"
-        },
-        {
-            "source": {
-                "name": "wired"
-            },
-            "title": "Anthropic’s Claude Takes Control of a Robot Dog",
-            "url": "https://www.wired.com/story/anthropic-claude-takes-control-robot-dog/",
-            "urlToImage": "https://media.wired.com/photos/69138b24895cf8d67bbadf97/master/w_120,c_limit/AI-Lab-Claude-Hacks-Robot-Dog-Business.jpg",
-            "publishedAt": "2025-11-12 19:00:00"
         }
     ]
 }
