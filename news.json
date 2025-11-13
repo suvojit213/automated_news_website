@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2025-11-13T20:18:29.733284Z",
+    "lastUpdatedAt": "2025-11-13T21:14:52.963893Z",
     "articles": [
+        {
+            "source": {
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
+                "country": "in"
+            },
+            "title": "China's Baidu unveils new AI processors, supercomputing products",
+            "url": "https://www.thehindu.com/sci-tech/technology/chinas-baidu-unveils-new-ai-processors-supercomputing-products/article70274587.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/6myp5h/article70274589.ece/alternates/LANDSCAPE_1200/2025-11-13T062944Z_525165534_RC2U9GAZD1A0_RTRMADP_3_BAIDU-AI.JPG",
+            "publishedAt": "2025-11-13T09:00:41Z"
+        },
+        {
+            "source": {
+                "id": "f5081afeaba654292dd91fffd29f9dd4",
+                "name": "The Globe and Mail",
+                "url": "https://www.theglobeandmail.com",
+                "country": "ca"
+            },
+            "title": "We can’t let Canada’s AI moment slip away",
+            "url": "https://www.theglobeandmail.com/business/commentary/article-canada-ai-adoption-moment-slip-away-bce-bibic/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/v2/ZPZEMLXXFBC2VJFNTAXYYMZHUA.JPG?auth=671f37d4a99d3643c088a2c0fe543ad11ba8c698585876b3588836dda0cb76fc&width=1200&height=800&quality=80&smart=true",
+            "publishedAt": "2025-11-13T09:00:00Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "China accuses US of orchestrating US$13bil Bitcoin hack",
+            "url": "https://www.thestar.com.my/tech/tech-news/2025/11/13/china-accuses-us-of-orchestrating-us13bil-bitcoin-hack",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/13/3620623.JPG",
+            "publishedAt": "2025-11-13T09:00:00Z"
+        },
+        {
+            "source": {
+                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+                "name": "The Financial Express",
+                "url": "https://www.financialexpress.com",
+                "country": "in"
+            },
+            "title": "TCS partners Australian beverage brand Lion to transform IT operations",
+            "url": "https://www.financialexpress.com/business/industry/tcs-partners-australian-beverage-brand-lion-to-transform-it-operations/4041810/",
+            "urlToImage": "https://images.financialexpressdigital.com/2025/11/TCS-Reuters_20251012132233_20251113084641.jpg",
+            "publishedAt": "2025-11-13T08:54:23Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "AI, EV are the future of Malaysia's automotive industry, says Zafrul",
+            "url": "https://www.thestar.com.my/news/nation/2025/11/13/ai-ev-are-the-future-of-malaysia039s-automotive-industry-says-zafrul",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/13/3620595.JPG",
+            "publishedAt": "2025-11-13T08:44:00Z"
+        },
+        {
+            "source": {
+                "id": "f4d035ae0463df22c36ae97972a33ba6",
+                "name": "PR Newswire UK",
+                "url": "https://www.prnewswire.co.uk",
+                "country": "gb"
+            },
+            "title": "Large health system in southeast US adopts Sectra's cloud service across 11 sites to ensure reliability in their delivery of excellent patient care",
+            "url": "https://www.prnewswire.co.uk/news-releases/large-health-system-in-southeast-us-adopts-sectras-cloud-service-across-11-sites-to-ensure-reliability-in-their-delivery-of-excellent-patient-care-302614249.html",
+            "urlToImage": "https://www.prnewswire.co.uk/content/dam/prnewswire/icons/2019-Q4-PRN-Icon-32-32.png",
+            "publishedAt": "2025-11-13T08:19:00Z"
+        },
         {
             "source": {
                 "id": "a0300bc9a6e9d5b317bd6f614767231f",
@@ -612,6 +684,78 @@
             "url": "https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0000753",
             "urlToImage": "https://journals.plos.org/digitalhealth/article/figure/image?id=10.1371/journal.pdig.0000753.g004&size=inline",
             "publishedAt": "2025-11-13T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "businessinsider_us"
+            },
+            "title": "The death of handwriting has been greatly exaggerated",
+            "url": "https://www.businessinsider.com/professors-fighting-ai-handwriting-chatgpt-blue-books-2025-11",
+            "urlToImage": "https://i.insider.com/6914fc68e1a9cbb014de17b9?width=700",
+            "publishedAt": "2025-11-13 09:11:01"
+        },
+        {
+            "source": {
+                "name": "republicworld"
+            },
+            "title": "China’s Baidu Unveils New AI Processors, Supercomputing Products",
+            "url": "https://www.republicworld.com/tech/chinas-baidu-unveils-new-ai-processors-supercomputing-products",
+            "urlToImage": "https://img.republicworld.com/all_images/baidu-1763024597771-16_9.webp?format=webp&h=720&q=75&w=1280",
+            "publishedAt": "2025-11-13 09:03:23"
+        },
+        {
+            "source": {
+                "name": "moneycontrol"
+            },
+            "title": "Indian government issues 'High' severity warning for Apple iPhone, iPad, Mac, Watch, Safari and other Apple products",
+            "url": "https://www.moneycontrol.com/technology/indian-government-issues-high-severity-warning-for-apple-iphone-ipad-mac-watch-safari-and-other-apple-products-article-13673952.html",
+            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2025/11/20251110102751_apple4.jpg",
+            "publishedAt": "2025-11-13 09:03:13"
+        },
+        {
+            "source": {
+                "name": "techannouncer"
+            },
+            "title": "Navigating the Landscape: Recent Trends in Software Testing for 2025 and Beyond",
+            "url": "https://techannouncer.com/navigating-the-landscape-recent-trends-in-software-testing-for-2025-and-beyond/",
+            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/11/8c8b7ea4thumbnail-332x187.jpeg",
+            "publishedAt": "2025-11-13 08:55:11"
+        },
+        {
+            "source": {
+                "name": "menafn"
+            },
+            "title": "Chinese Baidu Unveils Two New AI Chips",
+            "url": "https://menafn.com/1110339366/Chinese-Baidu-Unveils-Two-New-AI-Chips",
+            "urlToImage": "https://menafn.com/updates/pr/Menafn_News_Images%5CLocal_TelecomTech_213.jpg",
+            "publishedAt": "2025-11-13 08:49:08"
+        },
+        {
+            "source": {
+                "name": "republicworld"
+            },
+            "title": "Anthropic, Microsoft Announce New AI Data Center Projects As Industry’s Construction Push Continues",
+            "url": "https://www.republicworld.com/tech/anthropic-microsoft-announce-new-ai-data-center-projects-as-industrys-construction-push-continues",
+            "urlToImage": "https://img.republicworld.com/all_images/microsoft-1763023552269-16_9.webp?format=webp&h=225&q=75&w=400",
+            "publishedAt": "2025-11-13 08:45:58"
+        },
+        {
+            "source": {
+                "name": "piunikaweb"
+            },
+            "title": "Google Pixel’s delayed AI features, smarter notifications, sideloading revamp, & At a Glance removal test",
+            "url": "https://piunikaweb.com/?p=1418743",
+            "urlToImage": "https://piunikaweb.com/wp-content/uploads/2025/10/Google-Pixel-8.jpg",
+            "publishedAt": "2025-11-13 08:41:43"
+        },
+        {
+            "source": {
+                "name": "asiatimes"
+            },
+            "title": "NEC, Siemens partner to AI-teach robots",
+            "url": "https://asiatimes.com/2025/11/nec-siemens-partner-to-ai-teach-robots/",
+            "urlToImage": "https://i0.wp.com/asiatimes.com/wp-content/uploads/2025/11/Siemens-Robots-AI-.jpg?fit=780%2C519&quality=89&ssl=1",
+            "publishedAt": "2025-11-13 08:20:56"
         },
         {
             "source": {
@@ -3282,162 +3426,6 @@
             "url": "https://economictimes.indiatimes.com/markets/stocks/news/dow-notches-record-high-close-traders-bet-on-end-to-government-shutdown/articleshow/125263084.cms",
             "urlToImage": "https://img.etimg.com/thumb/msid-125263102,width-1200,height-630,imgsize-183360,overlay-etmarkets/articleshow.jpg",
             "publishedAt": "2025-11-12T02:09:00Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "AI to be taught in Class 3, how will it reshape childhood learning?",
-            "url": "https://www.indiatoday.in/education-today/featurephilia/story/ai-curriculum-for-class-3-how-early-ai-education-will-impact-childhood-learning-2817712-2025-11-12",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202511/indias-new-ai-curriculum-for-class-3-how-early-tech-lessons-may-shape-childhood-113702154-16x9_0.jpg?VersionId=Cktc7L.Jpbub7RMeagGAD4FWnE8MWBx5",
-            "publishedAt": "2025-11-12T02:00:03Z"
-        },
-        {
-            "source": {
-                "id": "fd3677545b80d5db7541de8e111d27ba",
-                "name": "Moneycontrol",
-                "url": "https://www.moneycontrol.com",
-                "country": "in"
-            },
-            "title": "First Tick: Top global cues to watch in today’s trade",
-            "url": "https://www.moneycontrol.com/news/business/markets/first-tick-top-global-cues-to-watch-in-today-s-trade-37-13667035.html",
-            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2025/11/20251111075824_market_stocks_sensex_Nifty.jpg",
-            "publishedAt": "2025-11-12T01:40:40Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Irish Government Might See Boost to Tax Revenues From AI, Weight-Loss Drugs",
-            "url": "https://www.marketscreener.com/news/irish-government-might-see-boost-to-tax-revenues-from-ai-weight-loss-drugs-ce7d5fdeda8df12c",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2025-11-12T01:15:15Z"
-        },
-        {
-            "source": {
-                "id": "fd3677545b80d5db7541de8e111d27ba",
-                "name": "Moneycontrol",
-                "url": "https://www.moneycontrol.com",
-                "country": "in"
-            },
-            "title": "Stock Market LIVE Updates: GIFT Nifty hints a strong opening; Asia gains, US markets mixed",
-            "url": "https://www.moneycontrol.com/news/business/markets/stock-market-live-sensex-nifty-50-share-price-gift-nifty-latest-updates-12-11-2025-liveblog-13669011.html",
-            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2025/11/20251112012023_bse_nse_stockmarket_nifty_sensex.jpg?impolicy=website&width=1280&height=720",
-            "publishedAt": "2025-11-12T01:03:00Z"
-        },
-        {
-            "source": {
-                "id": "85b540771682043e2a9f294068f5345b",
-                "name": "Breitbart News Network",
-                "url": "https://www.breitbart.com",
-                "country": "us"
-            },
-            "title": "Humans can no longer tell AI music from the real thing: survey",
-            "url": "https://www.breitbart.com/news/humans-can-no-longer-tell-ai-music-from-the-real-thing-survey/",
-            "urlToImage": "https://media.breitbart.com/media/2025/11/wi/afp/deezer-ai-generated-tracks-surged-10-streamed-at-of-deezer-640x335.jpg",
-            "publishedAt": "2025-11-12T00:56:28Z"
-        },
-        {
-            "source": {
-                "id": "17d7c2645f485578130862e0c8dd9480",
-                "name": "The Mercury News",
-                "url": "https://www.mercurynews.com",
-                "country": "us"
-            },
-            "title": "Google rolls out Apple-like message summaries for Pixel phones",
-            "url": "https://www.mercurynews.com/2025/11/11/google-rolls-out-apple-like-message-summaries-for-pixel-phones/",
-            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2023/10/GettyImages-1705744152.jpg?w=594&h=395",
-            "publishedAt": "2025-11-12T00:22:55Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "Britain Fortifies Public Services Against Cyber Threats",
-            "url": "https://www.devdiscourse.com/article/technology/3694057-britain-fortifies-public-services-against-cyber-threats",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/10_06_2024_10_14_55_7326376.png?width=920&format=jpeg",
-            "publishedAt": "2025-11-12T00:01:45Z"
-        },
-        {
-            "source": {
-                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-                "name": "Markets Insider",
-                "url": "https://markets.businessinsider.com",
-                "country": "us"
-            },
-            "title": "D.A. Davidson Remains Bearish on CoreWeave Stock (CRWV), Cites ‘Deteriorating Profitability’",
-            "url": "https://markets.businessinsider.com/news/stocks/d-a-davidson-remains-bearish-on-coreweave-stock-crwv-cites-deteriorating-profitability-1035543815",
-            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/11/image-1178.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-            "publishedAt": "2025-11-12T00:00:00Z"
-        },
-        {
-            "source": {
-                "id": "8e9ab8327c5f7903cc1b50470411d165",
-                "name": "GlobeNewswire",
-                "url": "https://www.globenewswire.com",
-                "country": "us"
-            },
-            "title": "BIO-key Partners with VaporVM to Expand Reach of its",
-            "url": "https://www.globenewswire.com/news-release/2025/11/12/3185943/0/en/BIO-key-Partners-with-VaporVM-to-Expand-Reach-of-its-Advanced-Identity-and-Access-Management-and-Biometric-Cybersecurity-Solutions-in-Middle-East-and-Africa.html",
-            "urlToImage": "https://ml.globenewswire.com/Resource/Download/4bca27c0-f7ad-4c90-9fab-226813a884b3",
-            "publishedAt": "2025-11-12T00:00:00Z"
-        },
-        {
-            "source": {
-                "id": "f6aff458be2c33b80c8600fb696f68fb",
-                "name": "Caixin",
-                "url": "https://www.caixinglobal.com",
-                "country": "cn"
-            },
-            "title": "China Suggests U.S. Role in $15 Billion Bitcoin Hack",
-            "url": "https://www.caixinglobal.com/2025-11-12/china-suggests-us-role-in-15-billion-bitcoin-hack-102381952.html",
-            "urlToImage": "https://img.caixin.com/2025-11-12/176291898144344_560_373.jpg",
-            "publishedAt": "2025-11-12T00:00:00Z"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Understanding Quantum Computer Prices in 2025: What to Expect",
-            "url": "https://techannouncer.com/understanding-quantum-computer-prices-in-2025-what-to-expect/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/11/42faa872thumbnail-332x187.jpeg",
-            "publishedAt": "2025-11-12 23:11:09"
-        },
-        {
-            "source": {
-                "name": "forexlive"
-            },
-            "title": "Microsoft taps OpenAI chip designs to boost in-house AI hardware development",
-            "url": "https://investinglive.com/stock-market-update/microsoft-taps-openai-chip-designs-to-boost-in-house-ai-hardware-development-20251112/",
-            "urlToImage": "https://images.investinglive.com/images/Microsoft_id_7b66c2bd-db44-4b2d-ad5d-524cdd8ade3f_size50.jpeg",
-            "publishedAt": "2025-11-12 23:05:04"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "ARM64’s Atomic Meltdown: Linux 6.18’s Fix for a Hidden Performance Killer",
-            "url": "https://www.webpronews.com/arm64s-atomic-meltdown-linux-6-18s-fix-for-a-hidden-performance-killer/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-1038-1762921071.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-11-12 23:00:08"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Top Crypto Gainers: Mantle Rockets 225%, Uniswap Slows, Aster Pops, and Zero Knowledge Proof (ZKP) Breaks Records",
-            "url": "https://www.analyticsinsight.net/cryptocurrency-analytics-insight/top-crypto-gainers-mantle-rockets-225-uniswap-slows-aster-pops-and-zero-knowledge-proof-zkp-breaks-records",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-11-12%2Flz0h1v65%2FScreenshot-2025-11-12-194040.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-11-12 23:00:00"
         }
     ]
 }
