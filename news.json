@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-11-13T15:18:28.293688Z",
+    "lastUpdatedAt": "2025-11-13T16:19:43.066492Z",
     "articles": [
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "EU Investigates Google's News Rankings Amidst UK Energy Overhaul",
+            "url": "https://www.devdiscourse.com/article/technology/3695540-eu-investigates-googles-news-rankings-amidst-uk-energy-overhaul",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/23_08_2025_09_45_03_5349787.png?width=920&format=jpeg",
+            "publishedAt": "2025-11-13T04:14:09Z"
+        },
+        {
+            "source": {
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
+                "country": "in"
+            },
+            "title": "Ex-Twitter CEO Parag Agrawal's AI search startup Parallel raises $100 million",
+            "url": "https://www.thehindu.com/sci-tech/technology/ex-twitter-ceo-parag-agrawals-ai-search-startup-parallel-raises-100-million/article70273885.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/brsofi/article70273890.ece/alternates/LANDSCAPE_1200/2025-11-12T220519Z_2044676636_RC2E6V95LAU2_RTRMADP_3_PARALLEL-AI-FUNDING.JPG",
+            "publishedAt": "2025-11-13T03:49:22Z"
+        },
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Kasikornbank turns to AI, prudent lending as Thailand's economy slows, chief exec says",
+            "url": "https://www.thestar.com.my/tech/tech-news/2025/11/13/kasikornbank-turns-to-ai-prudent-lending-as-thailand039s-economy-slows-chief-exec-says",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/13/3619776.jpg",
+            "publishedAt": "2025-11-13T03:36:00Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Kasikornbank turns to AI, prudent lending as Thailand's economy slows, chief exec says",
+            "url": "https://www.reuters.com/world/asia-pacific/kasikornbank-turns-ai-prudent-lending-thailands-economy-slows-chief-exec-says-2025-11-13/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/PJEWDGQCZBIMXH4ED3XJQODOMI.jpg?auth=e43c6c3205f51cc8a3ea621e5cf75850c47b785f4a904564f515a34fbc709847&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-11-13T03:32:09Z"
+        },
         {
             "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -240,6 +288,51 @@
             "url": "https://www.globenewswire.com/news-release/2025/11/13/3187202/0/en/AI-Enhanced-3D-Model-Defines-a-Potential-District-Scale-Gold-and-Silver-System-at-ESGold-s-Montauban-Project.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/152b643c-1acf-4388-96da-626fed4de59d",
             "publishedAt": "2025-11-13T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "expresscomputer"
+            },
+            "title": "Salesforce Commits to Training 100,000 Learners in 2026, under the ‘YuvaAI Bharat: GenAI Skill Catalyst’ Program",
+            "url": "https://www.expresscomputer.in/news/salesforce-commits-to-training-100000-learners-in-2026-under-the-yuvaai-bharat-genai-skill-catalyst-program/129425/",
+            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2020/12/14083913/EC_ELearning_EdTech_Education_750.jpg",
+            "publishedAt": "2025-11-13 04:15:47"
+        },
+        {
+            "source": {
+                "name": "techannouncer"
+            },
+            "title": "Fast Company’s Next Big Thing in Tech: Innovations Shaping Our Future",
+            "url": "https://techannouncer.com/fast-companys-next-big-thing-in-tech-innovations-shaping-our-future/",
+            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/11/fefc4dc4thumbnail-332x187.jpeg",
+            "publishedAt": "2025-11-13 04:15:11"
+        },
+        {
+            "source": {
+                "name": "aljazeera_us"
+            },
+            "title": "China’s AI is quietly making big inroads in Silicon Valley",
+            "url": "https://www.aljazeera.com/economy/2025/11/13/chinas-ai-is-quietly-making-big-inroads-in-silicon-valley",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/11/2025-07-26T113343Z_93798843_RC28UFA7HL6R_RTRMADP_3_CHINA-AI-EXPO-1763002392.jpg?quality=80&resize=770%2C513",
+            "publishedAt": "2025-11-13 03:43:51"
+        },
+        {
+            "source": {
+                "name": "bitcoinworld"
+            },
+            "title": "Revolutionary Decentralized Collaborative Coding: Gensyn’s CodeZero Transforms AI Programming",
+            "url": "https://bitcoinworld.co.in/gensyn-codezero-decentralized-collaborative-coding/",
+            "urlToImage": "https://bitcoinworld.co.in/wp-content/uploads/gensyn-codezero-decentralized-collaborative-coding.jpg",
+            "publishedAt": "2025-11-13 03:35:10"
+        },
+        {
+            "source": {
+                "name": "analyticsindiamag"
+            },
+            "title": "Top Courses in Indian Universities to Get into Deep Tech",
+            "url": "https://analyticsindiamag.com/ai-trends/top-courses-in-indian-universities-to-get-into-deep-tech/",
+            "urlToImage": "https://analyticsindiamag.com/wp-content/uploads/2025/11/deep-tech-education.jpg",
+            "publishedAt": "2025-11-13 03:30:00"
         },
         {
             "source": {
@@ -3264,87 +3357,6 @@
             "url": "https://in.ign.com/steam-machine/246539/preview/steam-machine-hands-on-first-impressions-of-valves-new-console-like-gaming-pc",
             "urlToImage": "https://sm.ign.com/ign_in/preview/s/steam-mach/steam-machine-hands-on-first-impressions-of-valves-new-conso_bjrs.jpg",
             "publishedAt": "2025-11-12 18:00:00"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Data Engineer Global Sourcing & Supply Management (GSSM) Solutions",
-            "url": "https://www.analyticsinsight.net/job-openings/data-engineer-global-sourcing-supply-management-gssm-solutions",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-11-12%2F88a3dily%2FApple-1.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-11-12 17:15:01"
-        },
-        {
-            "source": {
-                "name": "washington"
-            },
-            "title": "UW ECE Entrepreneurial Fellows Program helps turn research advances into real-world products",
-            "url": "https://www.ece.uw.edu/spotlight/uw-ece-efp-2026-26-fellows/",
-            "urlToImage": "http://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/10/2019/06/21094817/Univ-of-Washington_Memorial-Way.jpg",
-            "publishedAt": "2025-11-12 17:12:55"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Building a RAG System That Runs Completely Offline",
-            "url": "https://hackernoon.com/building-a-rag-system-that-runs-completely-offline",
-            "urlToImage": "https://hackernoon.imgix.net/images/ethernet-cable-cghbbkzkongtt8oxz7beay7w.png",
-            "publishedAt": "2025-11-12 17:06:13"
-        },
-        {
-            "source": {
-                "name": "phys"
-            },
-            "title": "String theory: Scientists are trying new ways to verify the idea that could unite all of physics",
-            "url": "https://phys.org/news/2025-11-theory-scientists-ways-idea-physics.html",
-            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2019/2-particle.jpg",
-            "publishedAt": "2025-11-12 17:04:50"
-        },
-        {
-            "source": {
-                "name": "milescitystar"
-            },
-            "title": "SpiNNcloud Delivers Brain‐Inspired Supercomputer to THOR: A Landmark Neuromorphic Commons Initiative in the U.S.",
-            "url": "https://www.milescitystar.com/ap_news/montana/spinncloud-delivers-brain-inspired-supercomputer-to-thor-a-landmark-neuromorphic-commons-initiative-in-the-u/article_cabc861a-3638-5e21-ae1a-bd4e0f19a607.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/milescitystar.com/content/tncms/assets/v3/editorial/5/4b/54b14db3-4607-5432-b427-bcaf5f30fa20/6914bf2820f1b.image.jpg?resize=300%2C206",
-            "publishedAt": "2025-11-12 17:02:40"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "IBM: ‘Verified Quantum Advantage’ By 2026, ‘Fault-Tolerant Quantum Computing By 2029",
-            "url": "https://www.forbes.com/sites/johnkoetsier/2025/11/12/ibm-verified-quantum-advantage-by-2026-fault-tolerant-quantum-computing-by-2029/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6914bce3c3531c07c76e9fe9/0x0.jpg?width=960",
-            "publishedAt": "2025-11-12 17:01:22"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Google’s Privacy Shield: Decoding Private AI Compute",
-            "url": "https://www.webpronews.com/googles-privacy-shield-decoding-private-ai-compute/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-1001-1762910080.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-11-12 17:00:08"
-        },
-        {
-            "source": {
-                "name": "aboutamazon"
-            },
-            "title": "Build your AI career path with AWS's new certification and hands-on learning experiences",
-            "url": "https://www.aboutamazon.com/news/aws/aws-ai-certification-learning-tools-skills-development",
-            "urlToImage": "https://assets.aboutamazon.com/dims4/default/17b1e54/2147483647/strip/true/crop/1600x900+0+0/resize/1320x743!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F4f%2F1c%2F02553c974f96b8d5e0f3abed3877%2Fmeeting-image-1600x900-nolist.jpg",
-            "publishedAt": "2025-11-12 17:00:03"
-        },
-        {
-            "source": {
-                "name": "fortune"
-            },
-            "title": "OpenAI says it plans to report stunning annual losses through 2028—and then turn wildly profitable just two years later",
-            "url": "https://fortune.com/2025/11/12/openai-cash-burn-rate-annual-losses-2028-profitable-2030-financial-documents/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2236544077-e1762963614791.jpg?w=2048",
-            "publishedAt": "2025-11-12 16:18:14"
         }
     ]
 }
