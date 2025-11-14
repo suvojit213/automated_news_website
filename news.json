@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-11-14T06:24:38.195273Z",
+    "lastUpdatedAt": "2025-11-14T07:15:36.793547Z",
     "articles": [
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "Michael Caine and Matthew McConaughey partner with ElevenLabs for AI voice cloning",
+            "url": "https://japantoday.com/category/entertainment/michael-caine-and-matthew-mcconaughey-partner-with-elevenlabs-for-ai-voice-cloning",
+            "urlToImage": "https://media.japantoday.com/img/store/c3/a1/d63c7ae3b9b1a48a4c2614942f3634e02fb3/download/_w1700.jpeg",
+            "publishedAt": "2025-11-13T19:15:00Z"
+        },
+        {
+            "source": {
+                "id": "d5a02d07558c5563d72576efc406e608",
+                "name": "ABC17News.com",
+                "url": "https://abc17news.com",
+                "country": "us"
+            },
+            "title": "OpenAI and Microsoft team up with state law enforcers on AI safety task force",
+            "url": "https://abc17news.com/money/cnn-business-consumer/2025/11/13/openai-and-microsoft-team-up-with-state-law-enforcers-on-ai-safety-task-force/",
+            "urlToImage": "https://abc17news.b-cdn.net/abc17news.com/2025/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWh1enVydW8wMDAzM2I2bjVwbGczMnJx-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtaHBlOWs1cTAwMzAyN3A0YzZ6cmF5ZnE-860x573.jpg",
+            "publishedAt": "2025-11-13T19:00:01Z"
+        },
+        {
+            "source": {
+                "id": "26269dbc42635df9af8c24f3cdab8e37",
+                "name": "Cable News Network",
+                "url": "https://edition.cnn.com",
+                "country": "us"
+            },
+            "title": "OpenAI and Microsoft team up with state law enforcers on AI safety task force",
+            "url": "https://edition.cnn.com/2025/11/13/tech/ai-safety-task-force-attorneys-general-openai-microsoft",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1373268973.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2025-11-13T19:00:01Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Law firm escapes sanctions over AI-generated case citations",
+            "url": "https://www.reuters.com/legal/government/law-firm-escapes-sanctions-over-ai-generated-case-citations-2025-11-13/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/KLX3HYQQOFLOFP6SEZBKSAUQXM.jpg?auth=d2a865f8e87bc5f4a5a04cc3483f3e973021cffd10217eac0b419a707ca10580&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-11-13T18:31:46Z"
+        },
         {
             "source": {
                 "id": "a3b1ce1267ce02959f0b6a7bc018cec4",
@@ -1575,6 +1623,87 @@
         },
         {
             "source": {
+                "name": "fortune"
+            },
+            "title": "The ‘Big Short’ investor betting $1 billion against the AI bubble says Meta and Oracle’s accounting is hiding the brutal truth",
+            "url": "https://fortune.com/2025/11/13/the-big-short-investor-closing-scion-ai-bubble-depreciation-explained/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-498562218_6aebe2-e1763060645662.jpg?w=2048",
+            "publishedAt": "2025-11-13 19:11:52"
+        },
+        {
+            "source": {
+                "name": "abcnews"
+            },
+            "title": "Lifelong drugs for autoimmune diseases don't work well. Now scientists are trying something new",
+            "url": "https://abcnews.go.com/Technology/wireStory/lifelong-drugs-autoimmune-diseases-work-now-scientists-new-127487204",
+            "urlToImage": "https://s.abcnews.com/images/Health/wirestory_a4204dc6920a219f27eded2df32d0b8b_4x3_384.jpg",
+            "publishedAt": "2025-11-13 19:09:53"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "Four Cofounders Of Popular AI Coding Tool Cursor Are Now Billionaires",
+            "url": "https://www.forbes.com/sites/rashishrivastava/2025/11/13/four-cofounders-of-popular-ai-coding-tool-cursor-are-now-billionaires/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/691619c7f7331545817154fb/0x0.jpg?width=960",
+            "publishedAt": "2025-11-13 19:07:19"
+        },
+        {
+            "source": {
+                "name": "digitaltrends"
+            },
+            "title": "You next favorite song could be made by AI",
+            "url": "https://www.digitaltrends.com/computing/you-next-favorite-song-could-be-made-by-ai/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/11/Untitled-design-2025-11-14T003106.627.jpg?p=1&resize=1200%2C630",
+            "publishedAt": "2025-11-13 19:06:34"
+        },
+        {
+            "source": {
+                "name": "benzinga"
+            },
+            "title": "Quiet Lab Mouthpiece Launches: A Scientific Breakthrough in QuietLab Anti-Snoring Devices and Sleep Health Innovation",
+            "url": "https://www.benzinga.com/pressreleases/25/11/g48845812/quiet-lab-mouthpiece-launches-a-scientific-breakthrough-in-quietlab-anti-snoring-devices-and-sleep",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/e71cb6c8-eba0-4ac1-b100-1c2e62415ca0/quiet-lab.png",
+            "publishedAt": "2025-11-13 19:04:38"
+        },
+        {
+            "source": {
+                "name": "toi"
+            },
+            "title": "Faster, more accurate updates on inflation soon",
+            "url": "https://timesofindia.indiatimes.com/city/lucknow/faster-more-accurate-updates-on-inflation-soon/articleshow/125308303.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-125308301,width-1070,height-580,imgsize-26470,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-11-13 19:03:29"
+        },
+        {
+            "source": {
+                "name": "phys"
+            },
+            "title": "Which came first: The sponge or the comb jelly? Scientists weigh in",
+            "url": "https://phys.org/news/2025-11-sponge-jelly-scientists.html",
+            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2025/sponge.jpg",
+            "publishedAt": "2025-11-13 19:03:24"
+        },
+        {
+            "source": {
+                "name": "menafn"
+            },
+            "title": "Madhya Pradesh To Become India's AI Hub, Unveils Space Tech Policy",
+            "url": "https://menafn.com/1110341911/Madhya-Pradesh-To-Become-Indias-AI-Hub-Unveils-Space-Tech-Policy",
+            "urlToImage": "https://menafn.com/updates/pr/2025-11/13/AN_f41ffimage_story.jpg",
+            "publishedAt": "2025-11-13 19:00:39"
+        },
+        {
+            "source": {
+                "name": "ieee_spectrum"
+            },
+            "title": "Get to Know the IEEE Board of Directors",
+            "url": "https://spectrum.ieee.org/ieee-board-of-directors-oct25",
+            "urlToImage": "https://spectrum.ieee.org/media-library/a-photo-of-3-men.png?id=61940035&width=980",
+            "publishedAt": "2025-11-13 19:00:03"
+        },
+        {
+            "source": {
                 "name": "esecurityplanet"
             },
             "title": "ChatGPT Exploited Through SSRF Flaw in Custom GPT Actions",
@@ -3069,162 +3198,6 @@
             "url": "https://economictimes.indiatimes.com/news/international/business/siemens-close-to-cutting-40-billion-stake-in-mri-maker/articleshow/125283498.cms",
             "urlToImage": "https://img.etimg.com/thumb/msid-125283553,width-1200,height-630,imgsize-90966,overlay-economictimes/articleshow.jpg",
             "publishedAt": "2025-11-12T19:19:00Z"
-        },
-        {
-            "source": {
-                "id": "37128a060981dbbe79321f096e7d1108",
-                "name": "U.S. News & World Report",
-                "url": "https://www.usnews.com",
-                "country": "us"
-            },
-            "title": "Michael Caine and Matthew McConaughey Partner With ElevenLabs for AI Voice Cloning",
-            "url": "https://www.usnews.com/news/business/articles/2025-11-12/michael-caine-and-matthew-mcconaughey-partner-with-elevenlabs-for-ai-voice-cloning",
-            "urlToImage": "https://www.usnews.com/dims4/USNEWS/02b1000/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F9c%2F0016f3ebd731322012edd1391eaf65%2F1e087ef89fe340928b3ca1784313bd80MLS_LAFC_Austin_Soccer_60568.jpg",
-            "publishedAt": "2025-11-12T19:06:00Z"
-        },
-        {
-            "source": {
-                "id": "d5029e5cbcb0666e7a5cbd49fab56ad7",
-                "name": "Proto Thema",
-                "url": "https://en.protothema.gr",
-                "country": "gr"
-            },
-            "title": "Greece Talks 2025: The Conference on Greek tourism in the age of Artificial Intelligence (video)",
-            "url": "https://en.protothema.gr/2025/11/12/greece-talks-2025-the-conference-on-greek-tourism-in-the-age-of-artificial-intelligence-video/",
-            "urlToImage": "https://en.protothema.gr/wp-content/uploads/2025/11/xrwma-travel-1.jpg-1.jpg",
-            "publishedAt": "2025-11-12T19:03:59Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Anthropic, Microsoft announce new AI data center projects as industry's construction push continues",
-            "url": "https://www.marketscreener.com/news/anthropic-microsoft-announce-new-ai-data-center-projects-as-industry-s-construction-push-continues-ce7d5fdfdf88f227",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2025-11-12T19:02:06Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Astrid announces development of SigmaArena platform",
-            "url": "https://www.marketscreener.com/news/astrid-announces-development-of-sigmaarena-platform-ce7d5fdfdf88f424",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2025-11-12T18:56:14Z"
-        },
-        {
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            },
-            "title": "Anthropic, Microsoft announce new AI data center projects as industry's construction push continues",
-            "url": "https://japantoday.com/category/tech/anthropic-microsoft-announce-new-ai-data-center-projects-as-industry's-construction-push-continues",
-            "urlToImage": "https://media.japantoday.com/img/store/a1/4e/94f833cd4475e13dbe51d85866d6d8b6f338/download/_w1700.jpeg",
-            "publishedAt": "2025-11-12T18:45:00Z"
-        },
-        {
-            "source": {
-                "id": "11d4381a1e8f7aca7628d0319a52a040",
-                "name": "Japan Today",
-                "url": "https://japantoday.com",
-                "country": "jp"
-            },
-            "title": "Anthropic, Microsoft announce new AI data center projects as industry's construction push continues",
-            "url": "https://japantoday.com/category/tech/anthropic-microsoft-announce-new-ai-data-center-projects-as-industry%27s-construction-push-continues",
-            "urlToImage": "https://media.japantoday.com/img/store/a1/4e/94f833cd4475e13dbe51d85866d6d8b6f338/download/_w1700.jpeg",
-            "publishedAt": "2025-11-12T18:45:00Z"
-        },
-        {
-            "source": {
-                "id": "92021aca7322dc2b29226023c35d9a4a",
-                "name": "The Canberra Times",
-                "url": "https://www.canberratimes.com.au",
-                "country": "au"
-            },
-            "title": "New requirements for contractors who use AI in govt work",
-            "url": "https://www.canberratimes.com.au/story/9110516/new-ai-plan-for-the-aps-sets-out-expectations-for-contractors/",
-            "urlToImage": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/146508744/2d94cc75-9a5f-4771-8756-c4deae5e4eb8.jpg/r0_478_5000_3103_w1200_h630_fmax.jpg",
-            "publishedAt": "2025-11-12T18:30:00Z"
-        },
-        {
-            "source": {
-                "id": "a0300bc9a6e9d5b317bd6f614767231f",
-                "name": "Forbes",
-                "url": "https://www.forbes.com",
-                "country": "us"
-            },
-            "title": "Why A ‘Cultural Surgeon’ Secretly Hung AI Art In A National Museum",
-            "url": "https://www.forbes.com/sites/lesliekatz/2025/11/12/why-a-cultural-surgeon-secretly-hung-ai-art-in-a-national-museum/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6914cbc2480bf3ec7da5fc3a/0x0.jpg?format=jpg&crop=688,387,x0,y56,safe&height=900&width=1600&fit=bounds",
-            "publishedAt": "2025-11-12T18:26:12Z"
-        },
-        {
-            "source": {
-                "id": "030c5dba023e9d86baf723c66c9de9f4",
-                "name": "stiripesurse.ro",
-                "url": "https://www.stiripesurse.ro",
-                "country": "ro"
-            },
-            "title": "Presidential advisor Burnete: AI will play a critical role in society, the economy and in warfare",
-            "url": "https://www.stiripesurse.ro/presidential-advisor-burnete-ai-will-play-a-critical-role-in-society-the-economy-and-in-warfare_3830109",
-            "urlToImage": "https://www.stiripesurse.ro/media/images/202503/media-174230072781768900.webp",
-            "publishedAt": "2025-11-12T18:20:06Z"
-        },
-        {
-            "source": {
-                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
-                "name": "TechBullion",
-                "url": "https://techbullion.com",
-                "country": "gb"
-            },
-            "title": "Why Do Managed Detection and Response Providers Outperform the Traditional SOC Model?",
-            "url": "https://techbullion.com/why-do-managed-detection-and-response-providers-outperform-the-traditional-soc-model/",
-            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/11/profesionales-analizando-datos-en-tiempo-real-en-una-sala-de-control-1000x600.jpg",
-            "publishedAt": "2025-11-12T18:18:39Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "'AIdeology' research coins a radical new description of AI and how it is shaping societal beliefs",
-            "url": "https://phys.org/news/2025-11-aideology-coins-radical-description-ai.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/aideology--research-co.jpg",
-            "publishedAt": "2025-11-12T18:17:03Z"
-        },
-        {
-            "source": {
-                "id": "95a96a1867c4dac6f720e9d08d4c1b96",
-                "name": "New York Post",
-                "url": "https://nypost.com",
-                "country": "us"
-            },
-            "title": "Amazon-backed Anthropic commits $50B to build US data centers",
-            "url": "https://nypost.com/2025/11/12/business/amazon-backed-anthropic-commits-50b-to-build-us-data-centers/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/11/anthropic-data-center-investment.jpg?quality=75&strip=all&1762950618&w=1200",
-            "publishedAt": "2025-11-12T18:01:54Z"
-        },
-        {
-            "source": {
-                "id": "eaf5a1696e3a3efe5fc7abfba0588eeb",
-                "name": "cleveland.com",
-                "url": "https://www.cleveland.com",
-                "country": "us"
-            },
-            "title": "Cleveland attorney’s use of AI in court filings raises ethical questions for legal profession",
-            "url": "https://www.cleveland.com/court-justice/2025/11/cleveland-attorneys-use-of-ai-in-court-filings-raises-ethical-questions-for-legal-profession.html",
-            "urlToImage": "https://www.cleveland.com/resizer/v2/USS7EDNUONGTDHNGXXAICEJKMQ.jpg?auth=deef991e13b576955fec2bf40f0ebd4b127c50e8a5e6672e837d29b29e1cec8e&width=1280&smart=true&quality=90",
-            "publishedAt": "2025-11-12T18:01:45Z"
         }
     ]
 }
