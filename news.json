@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-11-14T15:14:48.851946Z",
+    "lastUpdatedAt": "2025-11-14T16:20:31.814450Z",
     "articles": [
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "'Simulation theory' brings an AI twist to ideas mystics and religious scholars have voiced for centuries",
+            "url": "https://phys.org/news/2025-11-simulation-theory-ai-ideas-mystics.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/world.jpg",
+            "publishedAt": "2025-11-14T04:20:01Z"
+        },
+        {
+            "source": {
+                "id": "c6075ba0dc9d123bb327faaa419d3d07",
+                "name": "The Motley Fool Australia",
+                "url": "https://www.fool.com.au",
+                "country": "au"
+            },
+            "title": "The best artificial intelligence (AI) stock to hold in uncertain times",
+            "url": "https://www.fool.com.au/2025/11/14/the-best-artificial-intelligence-ai-stock-to-hold-in-uncertain-times-usfeed/",
+            "urlToImage": "https://www.fool.com.au/wp-content/uploads/2022/03/stock1.jpg",
+            "publishedAt": "2025-11-14T03:17:00Z"
+        },
         {
             "source": {
                 "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
@@ -159,6 +183,24 @@
         },
         {
             "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "How Does Bitcoin Blockchain Work? Explained in Simple Terms",
+            "url": "https://www.analyticsinsight.net/bitcoin/how-does-bitcoin-blockchain-work-explained-in-simple-terms",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-11-13%2Flkeig16e%2FHow-Does-Bitcoin-Blockchain-Work-Explained-in-Simple-Terms.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-11-14 04:00:00"
+        },
+        {
+            "source": {
+                "name": "expresscomputer"
+            },
+            "title": "Regulation gives structure and voice to security leaders: Darshan Chavan, CISO, Canara Robeco Asset Management Company",
+            "url": "https://www.expresscomputer.in/news/regulation-gives-structure-and-voice-to-security-leaders-darshan-chavan-ciso-canara-robeco-asset-management-company/129360/",
+            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2025/11/11184447/EC_Darshan_Chavan_CISO_Canara_RobecoAMC_750.jpg",
+            "publishedAt": "2025-11-14 03:30:25"
+        },
+        {
+            "source": {
                 "name": "zdnet"
             },
             "title": "How Anthropic's DIY data centers could accelerate AI's infrastructure frenzy",
@@ -210,6 +252,15 @@
             "url": "https://www.ksat.com/news/local/2025/11/14/cps-energy-and-saws-plan-and-brace-for-growth-from-data-centers/",
             "urlToImage": "https://cdn5-fstl-tf.anyclip.com/54MygJoBokvDdpYmy_kM/1763087491792_1920x1080_thumbnail.jpg",
             "publishedAt": "2025-11-14 02:35:02"
+        },
+        {
+            "source": {
+                "name": "techannouncer"
+            },
+            "title": "D-Wave Systems: Unpacking the Future of Quantum Computing",
+            "url": "https://techannouncer.com/d-wave-systems-unpacking-the-future-of-quantum-computing/",
+            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/11/16e78d71thumbnail-332x187.jpeg",
+            "publishedAt": "2025-11-14 01:58:09"
         },
         {
             "source": {
@@ -3189,51 +3240,6 @@
             "url": "https://www.prnewswire.com/news-releases/equinix-appoints-yang-song-as-svp-chief-data-science-and-ai-officer-302614235.html",
             "urlToImage": "https://mma.prnewswire.com/media/2822066/Yang_Song_Headshot_Square_no_border.jpg?p=original",
             "publishedAt": "2025-11-13 13:00:00"
-        },
-        {
-            "source": {
-                "name": "techtarget"
-            },
-            "title": "5G in the automotive industry: Real-world uses and benefits",
-            "url": "https://www.techtarget.com/searchnetworking/feature/5G-in-the-automotive-industry-Real-world-uses-and-benefits",
-            "urlToImage": "https://www.techtarget.com/rms/onlineimages/iot_g1204761980_searchsitetablet_520X173.jpg",
-            "publishedAt": "2025-11-13 12:57:00"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "9 best early Black Friday tablet deals I've seen so far",
-            "url": "https://www.tomsguide.com/computing/tablets/9-best-early-black-friday-tablet-deals-ive-seen-so-far",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/o88WLrmwEfRmkZwtUg52VN-1280-80.jpg",
-            "publishedAt": "2025-11-13 11:15:00"
-        },
-        {
-            "source": {
-                "name": "in_mashable"
-            },
-            "title": "Valve Announces Steam Machine, Its Bold Comeback To The Console Market",
-            "url": "https://in.mashable.com/tech/102454/valve-announces-steam-machine-its-bold-comeback-to-the-console-market",
-            "urlToImage": "https://sm.mashable.com/mashable_in/photo/default/z3wq-1_w4ep.jpg",
-            "publishedAt": "2025-11-13 11:07:07"
-        },
-        {
-            "source": {
-                "name": "livemint"
-            },
-            "title": "Sundar Pichai Is Google’s AI ‘Wartime CEO’ After All",
-            "url": "https://www.livemint.com/technology/tech-news/sundar-pichai-is-google-s-ai-wartime-ceo-after-all-11763031705810.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png",
-            "publishedAt": "2025-11-13 11:01:45"
-        },
-        {
-            "source": {
-                "name": "cnet"
-            },
-            "title": "How to Boost Your Phone Signal for Better Reception This Holiday Season",
-            "url": "https://www.cnet.com/tech/mobile/how-to-boost-your-phone-signal-for-better-reception-this-holiday-season/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/24edfef2e6fe61b075e86175aeaf2705d9d9cab4/hub/2025/10/04/9490db10-0c15-4803-9643-c70318307775/cellphone-signal-gettyimages-1207118933.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-11-13 11:00:47"
         }
     ]
 }
