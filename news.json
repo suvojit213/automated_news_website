@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-11-14T22:14:49.432986Z",
+    "lastUpdatedAt": "2025-11-14T23:14:33.725352Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Wall St Week Ahead Skittish tech stock investors turn to Nvidia results for next cues",
+            "url": "https://www.reuters.com/business/wall-st-week-ahead-skittish-tech-stock-investors-turn-nvidia-results-next-cues-2025-11-14/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/AEKWNJQ3ZNLKJH7WOQYKMIPJVE.jpg?auth=851bb1a5be5d42ebb4b818586a68856fb1b0efd6351b800a69233b95aad0431c&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-11-14T11:02:23Z"
+        },
+        {
+            "source": {
+                "id": "e9207083a357fb7e76b38e485888ebe7",
+                "name": "manilastandard.net",
+                "url": "https://manilastandard.net",
+                "country": "ph"
+            },
+            "title": "Promise of physical AI: Rise of the robots",
+            "url": "https://manilastandard.net/tech/314668331/promise-of-physical-ai-rise-of-the-robots.html",
+            "urlToImage": "https://cdn.manilastandard.net/wp-content/uploads/2025/11/yamamoto-robotic-arm.jpg",
+            "publishedAt": "2025-11-14T10:35:00Z"
+        },
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "UK announces AI-driven strategy to reduce animal testing",
+            "url": "https://www.thenews.com.pk/latest/1357849-uk-announces-ai-driven-strategy-to-reduce-animal-testing",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/updates/2025-11-14/1357849_033122_updates.jpg",
+            "publishedAt": "2025-11-14T10:30:00Z"
+        },
+        {
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            },
+            "title": "Neel Jogani Launches His Debut Book ‘AI for Everyone’ - A Friendly Guide Bringing Artificial Intelligence Into Daily Life",
+            "url": "https://www.lokmattimes.com/business/neel-jogani-launches-his-debut-book-ai-for-everyone-a-friendly-guide-bringing-artificial-intelligence-into-daily-life/",
+            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/primeximages/1200x900/PNN-2025-11-14T123026010_202511.jpg",
+            "publishedAt": "2025-11-14T10:18:38Z"
+        },
         {
             "source": {
                 "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -648,6 +696,78 @@
             "url": "https://morningstaronline.co.uk/article/capitalism-and-ai-pose-existential-threat-humanity",
             "urlToImage": "https://morningstaronline.co.uk/sites/default/files/styles/wide/public/2025-11/D%20Murphy%20piece%20webpic.jpg.webp?itok=jSq9oBkK",
             "publishedAt": "2025-11-14T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "macrumors"
+            },
+            "title": "Best Apple Deals of the Week: Early Black Friday Deals Hit AirPods 4, M5 MacBook Pro, and More",
+            "url": "https://www.macrumors.com/2025/11/14/best-apple-deals-of-the-week-11-14-25/",
+            "urlToImage": "https://images.macrumors.com/t/Hi8EXJtZRbUjdD1_XmuQnkfBSTY=/2500x/article-new/2025/11/best-deals-green-hero.jpeg",
+            "publishedAt": "2025-11-14 11:10:53"
+        },
+        {
+            "source": {
+                "name": "xda_developers"
+            },
+            "title": "A USB-C dock was the best addition I made to my PC",
+            "url": "https://www.xda-developers.com/usb-c-dock-was-the-best-addition-to-my-pc/",
+            "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2025/11/usb-c-dock-desktop.jpg",
+            "publishedAt": "2025-11-14 11:00:20"
+        },
+        {
+            "source": {
+                "name": "tomsguide"
+            },
+            "title": "Best Black Friday gaming PC deals up to $750 off — 9 epic deals from RTX 5060 to RTX 5090 rigs",
+            "url": "https://www.tomsguide.com/computing/gaming-desktops/best-black-friday-gaming-pc-deals-2025",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/jFWBby5G7EyMmk8APiQWVN-1280-80.jpg",
+            "publishedAt": "2025-11-14 11:00:00"
+        },
+        {
+            "source": {
+                "name": "toi"
+            },
+            "title": "From A to N in 691 words",
+            "url": "https://timesofindia.indiatimes.com/blogs/data-science-vibes/from-a-to-n-in-691-words/",
+            "urlToImage": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/11/Malaya-Rout.png",
+            "publishedAt": "2025-11-14 10:55:57"
+        },
+        {
+            "source": {
+                "name": "computerweekly"
+            },
+            "title": "Dutch datacentre growth stalls while hydrogen remains untapped",
+            "url": "https://www.computerweekly.com/news/366634477/Dutch-datacentre-growth-stalls-while-hydrogen-remains-untapped",
+            "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero%20Images/Amsterdam-Netherlands-Benelux-fotolia_searchsitetablet_520X173.jpg",
+            "publishedAt": "2025-11-14 10:45:00"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "Top 10 AI Founders Under 30 to Watch in 2025",
+            "url": "https://www.analyticsinsight.net/artificial-intelligence/top-10-ai-founders-under-30-to-watch-in-2025",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-11-14%2Fvj173vk6%2FTop-10-AI-Founders-Under-30-to-Watch-in-2025.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-11-14 10:36:21"
+        },
+        {
+            "source": {
+                "name": "cio"
+            },
+            "title": "Salesforce: Latest news and insights",
+            "url": "https://www.cio.com/article/3490106/salesforce-latest-news-and-insights.html",
+            "urlToImage": "https://www.cio.com/wp-content/uploads/2025/11/3490106-0-56720900-1763138011-shutterstock_editorial_1639536604-100962306-orig.jpg?quality=50&strip=all&w=1024",
+            "publishedAt": "2025-11-14 10:32:54"
+        },
+        {
+            "source": {
+                "name": "roboticsandautomationnews"
+            },
+            "title": "Anthropic announces $50 billion investment in US AI infrastructure",
+            "url": "https://roboticsandautomationnews.com/2025/11/14/anthropic-announces-50-billion-investment-in-us-ai-infrastructure/96592/",
+            "urlToImage": "https://roboticsandautomationnews.com/wp-content/uploads/2025/11/anthropic-claude-2.jpeg",
+            "publishedAt": "2025-11-14 10:32:01"
         },
         {
             "source": {
@@ -3249,114 +3369,6 @@
             "url": "https://www.webpronews.com/microsofts-ai-superfactory-linking-datacenters-to-power-tomorrows-intelligence/",
             "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-1120-1763007718.jpeg?fit=720%2C960&ssl=1",
             "publishedAt": "2025-11-13 23:00:16"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Top Bullish Cryptos to Buy Now for Massive Gains: Zero Knowledge Proof (ZKP), KuCoin, MemeCore & Avalanche",
-            "url": "https://www.analyticsinsight.net/cryptocurrency-analytics-insight/top-bullish-cryptos-to-buy-now-for-massive-gains-zero-knowledge-proof-zkp-kucoin-memecore-avalanche",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-11-13%2Fpu35yfy0%2FTop-Bullish-Cryptos-to-Buy-Now-for-Massive-Gains-Zero-Knowledge-Proof-ZKP-KuCoin-MemeCore-Avalanche?ar=40%3A21&auto=format%2Ccompress&enlarge=true&mode=crop&ogImage=true&overlay=false&overlay_position=bottom&overlay_width=100&w=1200",
-            "publishedAt": "2025-11-13 23:00:00"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "It's time: Kogan's Black Friday sale is here, with up to 70% off in a members-only first look",
-            "url": "https://www.tomsguide.com/sales-events/kogan-black-friday-sale",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/sw7KKaJwgJrEwdRbafYqpM-1280-80.jpg",
-            "publishedAt": "2025-11-13 22:58:01"
-        },
-        {
-            "source": {
-                "name": "siliconangle"
-            },
-            "title": "Nvidia, Google back $2.3B round for AI code editor startup Cursor",
-            "url": "https://siliconangle.com/2025/11/13/nvidia-google-back-2-3b-round-ai-code-editor-startup-cursor/",
-            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/11/Cursor.png",
-            "publishedAt": "2025-11-13 22:51:03"
-        },
-        {
-            "source": {
-                "name": "pcworld_us"
-            },
-            "title": "Black Friday Thunderbolt dock deals: What to expect, early sales",
-            "url": "https://www.pcworld.com/article/2133475/black-friday-thunderbolt-dock-deals-what-to-expect.html",
-            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/11/Belkin-Thunderbolt-4-Hub-Connect-1.jpg?quality=50&strip=all",
-            "publishedAt": "2025-11-13 22:46:11"
-        },
-        {
-            "source": {
-                "name": "headtopics"
-            },
-            "title": "For AI, CIOs Should Concentrate On Data Value, Not Volume",
-            "url": "https://us.headtopics.com/news/for-ai-cios-should-concentrate-on-data-value-not-volume-75793703",
-            "urlToImage": "https://i.headtopics.com/images/2025/11/13/forbes/for-ai-cios-should-concentrate-on-data-value-not-v-for-ai-cios-should-concentrate-on-data-value-not-v-0075409D6BAA2EEC66AF955C3AF390AC.webp",
-            "publishedAt": "2025-11-13 22:39:54"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Claude’s Robotic Prowl: AI Ventures into the Physical Realm",
-            "url": "https://www.webpronews.com/claudes-robotic-prowl-ai-ventures-into-the-physical-realm/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-1117-1763007531.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-11-13 22:30:16"
-        },
-        {
-            "source": {
-                "name": "pcworld_us"
-            },
-            "title": "Black Friday laptop deals: What to expect and early sales",
-            "url": "https://www.pcworld.com/article/1374098/black-friday-laptop-deals-what-to-expect-and-early-sales.html",
-            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/11/laptop-deals-pcworld.png",
-            "publishedAt": "2025-11-13 22:17:59"
-        },
-        {
-            "source": {
-                "name": "quartz"
-            },
-            "title": "The AI surveillance state isn't coming. It’s here",
-            "url": "https://qz.com/ai-surveillance-is-here",
-            "urlToImage": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2163980480-1.jpg",
-            "publishedAt": "2025-11-13 22:14:16"
-        },
-        {
-            "source": {
-                "name": "headtopics"
-            },
-            "title": "NASA's Budget Cuts Threaten Future Space Exploration",
-            "url": "https://us.headtopics.com/news/nasa-s-budget-cuts-threaten-future-space-exploration-75792394",
-            "urlToImage": "https://i.headtopics.com/images/2025/11/13/bgr/nasa-s-budget-cuts-threaten-future-space-explorati-nasa-s-budget-cuts-threaten-future-space-explorati-12FD7A3CD3A690DF1A786CB9359F3985.webp",
-            "publishedAt": "2025-11-13 22:09:17"
-        },
-        {
-            "source": {
-                "name": "techxplore"
-            },
-            "title": "Robots trained with spatial dataset show improved object handling and awareness",
-            "url": "https://techxplore.com/news/2025-11-robots-spatial-dataset-awareness.html",
-            "urlToImage": "https://scx1.b-cdn.net/csz/news/tmb/2018/robot.jpg",
-            "publishedAt": "2025-11-13 22:06:03"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "Meta AI Context Boost, Valve Reveals Mini PC And VR Headset, ElevenLabs Opens Voice Market",
-            "url": "https://www.forbes.com/sites/charliefink/2025/11/13/meta-ai-context-boost-valve-reveals-mini-pc-and-vr-headset-elevenlabs-opens-voice-market/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6916531c0052e2056ce1e3bd/0x0.jpg?width=960",
-            "publishedAt": "2025-11-13 22:02:54"
-        },
-        {
-            "source": {
-                "name": "xda_developers"
-            },
-            "title": "5 tasks an ESP32 can handle better than a Raspberry Pi",
-            "url": "https://www.xda-developers.com/tasks-esp32-can-handle-better-than-raspberry-pi/",
-            "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/11/esp32-handles-some-tasks-better-than-raspberry-pi-board.JPG",
-            "publishedAt": "2025-11-13 22:00:20"
         }
     ]
 }
