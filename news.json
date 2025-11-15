@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-11-15T08:18:35.416511Z",
+    "lastUpdatedAt": "2025-11-15T09:14:28.273930Z",
     "articles": [
+        {
+            "source": {
+                "id": "2868e31f7a791b3a2bcc807e4cc74f2c",
+                "name": "USA Herald",
+                "url": "https://usaherald.com",
+                "country": "us"
+            },
+            "title": "Aldol Robot Falls on Stage During Moscow Debut, Highlighting Russia’s Struggles with humanoid robot",
+            "url": "https://usaherald.com/aldol-robot-falls-on-stage-during-moscow-debut-highlighting-russias-struggles-with-humanoid-robot/",
+            "urlToImage": "https://usaherald.com/wp-content/uploads/2017/09/usa_favicon32.png",
+            "publishedAt": "2025-11-14T21:14:14Z"
+        },
+        {
+            "source": {
+                "id": "43ce1d937b6aed9ea231b649cb2b7b4b",
+                "name": "The Dallas Morning News",
+                "url": "https://www.dallasnews.com",
+                "country": "us"
+            },
+            "title": "Google taps Texas for $40B AI investment to run through 2027",
+            "url": "https://www.dallasnews.com/business/technology/2025/11/14/google-taps-texas-for-40b-ai-investment-to-run-through-2027/",
+            "urlToImage": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/QZMGOK4HWVGSDF4GSZEIYW4VCM.JPG?auth=7ed6977afa454e5b4bcc53e11aa82f9d61d3077ea2b9267d8ab42a8e00c24de7&quality=80&width=1200&height=630&smart=true",
+            "publishedAt": "2025-11-14T21:03:40Z"
+        },
         {
             "source": {
                 "id": "d6397b77175680e2678c0d60edcee7af",
@@ -1539,6 +1563,69 @@
         },
         {
             "source": {
+                "name": "wcvb"
+            },
+            "title": "Anthropic warns of AI-driven hacking campaign linked to China",
+            "url": "https://www.wcvb.com/article/anthropic-ai-directed-hacking-claude/69437760",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap269179587b46b4.jpg",
+            "publishedAt": "2025-11-14 21:13:00"
+        },
+        {
+            "source": {
+                "name": "wmur"
+            },
+            "title": "Anthropic warns of AI-driven hacking campaign linked to China",
+            "url": "https://www.wmur.com/article/anthropic-ai-directed-hacking-claude/69437760",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap269179587b46b4.jpg",
+            "publishedAt": "2025-11-14 21:13:00"
+        },
+        {
+            "source": {
+                "name": "wvtm13"
+            },
+            "title": "Anthropic warns of AI-driven hacking campaign linked to China",
+            "url": "https://www.wvtm13.com/article/anthropic-ai-directed-hacking-claude/69437760",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap269179587b46b4.jpg",
+            "publishedAt": "2025-11-14 21:13:00"
+        },
+        {
+            "source": {
+                "name": "kcra"
+            },
+            "title": "Anthropic warns of AI-driven hacking campaign linked to China",
+            "url": "https://www.kcra.com/article/anthropic-ai-directed-hacking-claude/69437760",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap269179587b46b4.jpg",
+            "publishedAt": "2025-11-14 21:13:00"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "$100M Built Before Presale: Zero Knowledge Proof (ZKP) Is Changing the Game",
+            "url": "https://www.analyticsinsight.net/cryptocurrency-analytics-insight/100m-built-before-presale-zero-knowledge-proof-zkp-is-changing-the-game",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-11-14%2Fsc6xyzjm%2F100M-Built-Before-Presale-Zero-Knowledge-Proof-ZKP-Is-Changing-the-Game?ar=40%3A21&auto=format%2Ccompress&enlarge=true&mode=crop&ogImage=true&overlay=false&overlay_position=bottom&overlay_width=100&w=1200",
+            "publishedAt": "2025-11-14 21:00:00"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "AI is shaking up IT work, careers, and businesses - and here's how to prepare",
+            "url": "https://www.zdnet.com/article/ai-is-shaking-up-it-work-careers-and-businesses-and-heres-how-to-prepare/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/19577a98d474e473b853d5143cd68aa0dd026e95/2025/11/14/72d61c2a-6b66-462e-b49a-37bf76ba4a31/gettyimages-2208694533.jpg?auto=webp&precrop=2291%2C1287%2Cx0%2Cy0&width=1280",
+            "publishedAt": "2025-11-14 20:32:15"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "AI’s Engineering Co-Pilot: Revolutionizing Device Design in 2025",
+            "url": "https://www.webpronews.com/ais-engineering-co-pilot-revolutionizing-device-design-in-2025/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-1206-1763099435.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-11-14 20:20:06"
+        },
+        {
+            "source": {
                 "name": "xda_developers"
             },
             "title": "I swapped Dropbox for this self-hosted alternative",
@@ -3066,114 +3153,6 @@
             "url": "https://www.bloomberg.com/news/articles/2025-11-13/murati-s-thinking-machines-in-funding-talks-at-50-billion-value",
             "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iepbug8oPoRE/v1/1200x800.jpg",
             "publishedAt": "2025-11-13T20:41:25Z"
-        },
-        {
-            "source": {
-                "id": "eaf5a1696e3a3efe5fc7abfba0588eeb",
-                "name": "cleveland.com",
-                "url": "https://www.cleveland.com",
-                "country": "us"
-            },
-            "title": "Eva has entered the chat: Ohio debuts AI election assistant",
-            "url": "https://www.cleveland.com/news/2025/11/eva-has-entered-the-chat-ohio-debuts-ai-election-assistant.html",
-            "urlToImage": "https://www.cleveland.com/resizer/v2/E3Y2BCWATVEY7IZJBAPX24PCNY.JPG?auth=fe5d69b5a45747e48af1375cfa7c37a1b7502ea586e8a22de5c937c41f0ae1d0&width=1280&smart=true&quality=90",
-            "publishedAt": "2025-11-13T20:39:09Z"
-        },
-        {
-            "source": {
-                "id": "2f5884e252590f739df55c0e7db375df",
-                "name": "WJLA",
-                "url": "https://wjla.com",
-                "country": "us"
-            },
-            "title": "American University students win thousands of dollars in AI competition",
-            "url": "https://wjla.com/news/local/american-university-students-win-thousands-of-dollars-in-ai-competition-stem-science-technology-school-education",
-            "urlToImage": "https://wjla.com/resources/media/29514a1b-954f-4dec-802a-b0826c4b27de-thumbnail_BenAckman2879.jpg",
-            "publishedAt": "2025-11-13T20:24:06Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Machine Learning Course for Engineers Updated With Agentic AI - Interview Kickstart Program Taught By FAANG ML Experts",
-            "url": "https://www.manilatimes.net/2025/11/14/tmt-newswire/globenewswire/machine-learning-course-for-engineers-updated-with-agentic-ai-interview-kickstart-program-taught-by-faang-ml-experts/2223683",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/11/14/826974.jpg",
-            "publishedAt": "2025-11-13T20:18:49Z"
-        },
-        {
-            "source": {
-                "id": "aa569bbaa7b7ef97f7cf8df3cf902947",
-                "name": "Investor's Business Daily",
-                "url": "https://www.investors.com",
-                "country": "us"
-            },
-            "title": "Zscaler Stock Chops Around Buy Zone As Wider Tech Sell-Off Hits",
-            "url": "https://www.investors.com/research/zscaler-stock-zs-tech-cybersecurity-buy-zone-software-maker-markets-investing/",
-            "urlToImage": "https://www.investors.com/wp-content/uploads/2018/06/Stock-Zscaler-01-company.jpg",
-            "publishedAt": "2025-11-13T20:08:07Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Japanese Chip Sector’s Earnings Show AI Appetite, Auto Slump",
-            "url": "https://www.bloomberg.com/news/articles/2025-11-13/japanese-chip-sector-s-earnings-show-ai-appetite-auto-slump",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imu5BBzdKlXU/v1/1200x705.jpg",
-            "publishedAt": "2025-11-13T20:00:00Z"
-        },
-        {
-            "source": {
-                "id": "7d8d848ed4cec8cd6482520e41da2232",
-                "name": "/FILM",
-                "url": "https://www.slashfilm.com",
-                "country": "us"
-            },
-            "title": "South Park Season 28 Has Declared War On AI Deepfakes (And The Results Are Shocking)",
-            "url": "https://www.slashfilm.com/2025937/south-park-season-28-ai-deepfakes-war/",
-            "urlToImage": "https://www.slashfilm.com/img/gallery/south-park-season-28-has-declared-war-on-ai-deepfakes-and-the-results-are-shocking/l-intro-1763060266.jpg",
-            "publishedAt": "2025-11-13T20:00:00Z"
-        },
-        {
-            "source": {
-                "id": "7eeaf9a839918543cc708f2d331c3be4",
-                "name": "Free Press Journal",
-                "url": "https://www.freepressjournal.in",
-                "country": "in"
-            },
-            "title": "MP News: Central Board Of Direct Taxes Uses Artificial Intelligence To Plug Gaps In Tax Filing",
-            "url": "https://www.freepressjournal.in/bhopal/mp-news-central-board-of-direct-taxes-uses-artificial-intelligence-to-plug-gaps-in-tax-filing",
-            "urlToImage": "https://media.assettype.com/freepressjournal/2025-11-13/m0h67xc6/4pic13-with-2-rajan.jpg",
-            "publishedAt": "2025-11-13T19:55:00Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "New software toolbox enables brain-like models to learn directly from data",
-            "url": "https://phys.org/news/2025-11-software-toolbox-enables-brain.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/brain-inspired-computi-1.jpg",
-            "publishedAt": "2025-11-13T19:46:30Z"
-        },
-        {
-            "source": {
-                "id": "2868e31f7a791b3a2bcc807e4cc74f2c",
-                "name": "USA Herald",
-                "url": "https://usaherald.com",
-                "country": "us"
-            },
-            "title": "C3 AI Considers Sale After CEO Departs Amid Strategic Shake",
-            "url": "https://usaherald.com/c3-ai-considers-sale-after-ceo-departs-amid-strategic-shake-up/",
-            "urlToImage": "https://usaherald.com/wp-content/uploads/2017/09/usa_favicon32.png",
-            "publishedAt": "2025-11-13T19:43:13Z"
         }
     ]
 }
