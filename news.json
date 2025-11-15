@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-11-15T14:13:02.606259Z",
+    "lastUpdatedAt": "2025-11-15T15:14:12.376136Z",
     "articles": [
+        {
+            "source": {
+                "id": "91120a92e0d24e24fbffb6d0affabfe6",
+                "name": "Bangkok Post",
+                "url": "https://www.bangkokpost.com",
+                "country": "th"
+            },
+            "title": "Singapore mulls holding top bank execs responsible for AI risks",
+            "url": "https://www.bangkokpost.com/business/general/3136635/singapore-mulls-holding-top-bank-execs-responsible-for-ai-risks",
+            "urlToImage": "https://static.bangkokpost.com/media/content/20251113/c1_3136635_700.jpg",
+            "publishedAt": "2025-11-15T01:01:00Z"
+        },
         {
             "source": {
                 "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
@@ -12,6 +24,24 @@
             "url": "https://www.thenews.com.pk/latest/1358006-cybersecurity-firm-points-out-7-persistent-threats-to-pakistan",
             "urlToImage": "https://www.thenews.com.pk/assets/uploads/updates/2025-11-15/1358006_054914_updates.jpg",
             "publishedAt": "2025-11-15T01:00:00Z"
+        },
+        {
+            "source": {
+                "name": "newspressnow"
+            },
+            "title": "12 common questions about AI",
+            "url": "https://www.newspressnow.com/stacker-money/2025/11/14/12-common-questions-about-ai/",
+            "urlToImage": "https://newspressnow.b-cdn.net/wp-content/uploads/2025/11/quiq-12-ai-questions.png",
+            "publishedAt": "2025-11-15 02:52:15"
+        },
+        {
+            "source": {
+                "name": "techannouncer"
+            },
+            "title": "Infineon: Powering the Future of Semiconductors",
+            "url": "https://techannouncer.com/infineon-powering-the-future-of-semiconductors/",
+            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/11/bd352e32thumbnail-332x187.jpeg",
+            "publishedAt": "2025-11-15 02:18:08"
         },
         {
             "source": {
@@ -3108,33 +3138,6 @@
             "url": "https://techannouncer.com/fast-companys-top-picks-for-innovative-companies-in-2025/",
             "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/11/fa219edathumbnail-332x187.jpeg",
             "publishedAt": "2025-11-14 05:31:04"
-        },
-        {
-            "source": {
-                "name": "indianexpress"
-            },
-            "title": "Satya Nadella excited for AGI, but puts human utility first and pushes back on the ‘one-model-for-all’ idea",
-            "url": "https://indianexpress.com/article/technology/artificial-intelligence/satya-nadella-excited-for-agi-but-puts-human-utility-first-10364979/",
-            "urlToImage": "https://images.indianexpress.com/2025/11/Satya-Nadella-.jpg",
-            "publishedAt": "2025-11-14 05:28:35"
-        },
-        {
-            "source": {
-                "name": "analyticsindiamag"
-            },
-            "title": "Satya Nadella says Microsoft Holds Full Access to OpenAI’s AI chip IP",
-            "url": "https://analyticsindiamag.com/ai-news-updates/satya-nadella-says-microsoft-holds-full-access-to-openais-ai-chip-ip/",
-            "urlToImage": "https://analyticsindiamag.com/wp-content/uploads/2023/01/nadella-7.jpg",
-            "publishedAt": "2025-11-14 05:27:43"
-        },
-        {
-            "source": {
-                "name": "timesnownews"
-            },
-            "title": "From Mammoths To Millions: How Benn Lamm Became World's First De-Extinction Billionaire?",
-            "url": "https://www.timesnownews.com/business-economy/from-mammoths-to-millions-how-benn-lamm-became-worlds-first-de-extinction-billionaire-article-153151690",
-            "urlToImage": "https://images.timesnownews.com/thumb/msid-153151751,thumbsize-1311200,width-1280,height-720,resizemode-75/153151751.jpg",
-            "publishedAt": "2025-11-14 05:11:15"
         }
     ]
 }
