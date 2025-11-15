@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-11-15T19:11:05.274339Z",
+    "lastUpdatedAt": "2025-11-15T20:15:24.972232Z",
     "articles": [
+        {
+            "source": {
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com",
+                "country": "us"
+            },
+            "title": "Chinese Hackers Trick Anthropic's AI into Automating Their Cyberattacks",
+            "url": "https://www.breitbart.com/tech/2025/11/15/chinese-hackers-trick-anthropics-ai-into-automating-their-cyberattacks/",
+            "urlToImage": "https://media.breitbart.com/media/2025/11/Chinese-hackers-use-AI-to-attack-companies-640x335.jpg",
+            "publishedAt": "2025-11-15T08:08:04Z"
+        },
         {
             "source": {
                 "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
@@ -156,6 +168,33 @@
             "url": "https://www.thenews.com.pk/latest/1358006-cybersecurity-firm-points-out-7-persistent-threats-to-pakistan",
             "urlToImage": "https://www.thenews.com.pk/assets/uploads/updates/2025-11-15/1358006_054914_updates.jpg",
             "publishedAt": "2025-11-15T01:00:00Z"
+        },
+        {
+            "source": {
+                "name": "latestly"
+            },
+            "title": "Business News | CyberPeace and NCERT Unveil the 5th Edition of ERaksha 2025 with Theme 'AI for Peace & Safety'",
+            "url": "https://www.latestly.com/agency-news/business-news-cyberpeace-and-ncert-unveil-the-5th-edition-of-eraksha-2025-with-theme-ai-for-peace-safety-7205838.html",
+            "urlToImage": "https://st1.latestly.com/wp-content/uploads/2025/11/ANI-20251115074512.jpg",
+            "publishedAt": "2025-11-15 08:02:28"
+        },
+        {
+            "source": {
+                "name": "startupnews"
+            },
+            "title": "From OpenAI to Google, firms channel billions into AI infrastructure as demand booms",
+            "url": "https://startupnews.fyi/2025/11/15/from-openai-to-google-firms-channel-billions-into-ai-infrastructure-as-demand-booms/",
+            "urlToImage": "https://i2.wp.com/img.etimg.com/thumb/width-1200,height-900,imgsize-67280,resizemode-75,msid-125342574/tech/artificial-intelligence/from-openai-to-google-firms-channel-billions-into-ai-infrastructure-as-demand-booms.jpg?resize=1920%2C0&ssl=1&w=1920",
+            "publishedAt": "2025-11-15 07:33:09"
+        },
+        {
+            "source": {
+                "name": "english_jagran"
+            },
+            "title": "CERT-In Issues High-Severity Warning For Apple Devices: Users Urged To Update iPhones, Macs, And Watches Immediately",
+            "url": "https://www.thedailyjagran.com/technology/certin-issues-highseverity-warning-for-apple-devices-users-urged-to-update-iphones-macs-and-watches-immediately-10279881",
+            "urlToImage": "https://imgeng.jagran.com/images/2025/06/11/article/image/scam-reuters-1749662631224_v.webp",
+            "publishedAt": "2025-11-15 07:32:48"
         },
         {
             "source": {
@@ -3135,42 +3174,6 @@
             "url": "https://www.techtarget.com/searchitoperations/news/366634464/Kubernetes-AI-progress-and-the-road-ahead",
             "urlToImage": "https://www.techtarget.com/rms/onlineimages/ai_a264431831_searchsitetablet_520X173.jpg",
             "publishedAt": "2025-11-14 09:53:00"
-        },
-        {
-            "source": {
-                "name": "prnewswire_apac"
-            },
-            "title": "From Singapore to the world: NUS-ISS marks over four decades of impact and growth at its Annual Luncheon 2025",
-            "url": "https://www.prnewswire.com/apac/news-releases/from-singapore-to-the-world-nus-iss-marks-over-four-decades-of-impact-and-growth-at-its-annual-luncheon-2025-302615483.html",
-            "urlToImage": "https://mma.prnewswire.com/media/2823256/0E3A1416_ID_a2c067b76297.jpg?p=original",
-            "publishedAt": "2025-11-14 09:42:00"
-        },
-        {
-            "source": {
-                "name": "techradar"
-            },
-            "title": "I compared GPT-5.1 to GPT-5 on ChatGPT, and now I don’t want to go back",
-            "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/i-compared-gpt-5-1-to-gpt-5-on-chatgpt-and-now-i-dont-want-to-go-back",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/uyzSg2H6WVyu8zD8FCwBmb.png",
-            "publishedAt": "2025-11-14 09:31:02"
-        },
-        {
-            "source": {
-                "name": "geeky_gadgets"
-            },
-            "title": "Apple’s $599 MacBook: A18 Pro Chip, Release Date, and Everything Else We Know",
-            "url": "https://www.geeky-gadgets.com/low-cost-2026-macbook/",
-            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/11/apple-low-cost-macbook-for-students.webp",
-            "publishedAt": "2025-11-14 09:30:20"
-        },
-        {
-            "source": {
-                "name": "en_prnasisa"
-            },
-            "title": "XJTLU enters ESI top 1% for chemistry research",
-            "url": "https://en.prnasia.com/story/511993-0.shtml",
-            "urlToImage": "https://mma.prnasia.com/media2/2823301/XJTLU_lab.jpg?p=medium600",
-            "publishedAt": "2025-11-14 09:23:00"
         }
     ]
 }
