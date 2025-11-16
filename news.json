@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-11-16T10:15:07.515000Z",
+    "lastUpdatedAt": "2025-11-16T11:11:55.162451Z",
     "articles": [
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "AI an aid to knowledge, not a substitute: Justice Maheshwari",
+            "url": "https://www.tribuneindia.com/news/haryana/ai-an-aid-to-knowledge-not-a-substitute-justice-maheshwari/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWY5ZGM2OTMwLWMyNzEtMTFmMC1iMDY0LWVkNWUyYTYzNDljNy5qcGc=",
+            "publishedAt": "2025-11-15T22:25:21Z"
+        },
         {
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -864,6 +876,15 @@
             "url": "https://www.thenews.com.pk/latest/1358006-cybersecurity-firm-points-out-7-persistent-threats-to-pakistan",
             "urlToImage": "https://www.thenews.com.pk/assets/uploads/updates/2025-11-15/1358006_054914_updates.jpg",
             "publishedAt": "2025-11-15T01:00:00Z"
+        },
+        {
+            "source": {
+                "name": "onclive"
+            },
+            "title": "Beyond the Genome: Exploring New Frontiers in NSCLC Management",
+            "url": "https://www.onclive.com/view/beyond-the-genome-exploring-new-frontiers-in-lung-cancer-management",
+            "urlToImage": "https://cdn.sanity.io/images/0vv8moc6/onclive/49dd3aa540fd629679db9aa56af8cef9424ec071-1280x720.jpg",
+            "publishedAt": "2025-11-15 22:25:43"
         },
         {
             "source": {
@@ -3282,30 +3303,6 @@
             "url": "https://www.lokmattimes.com/business/intellipaat-partners-with-indiaai-mission-meity-to-empower-citizens-with-ai-literacy-and-build-an-ai-ready-india/",
             "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20251114044906_202511.jpg",
             "publishedAt": "2025-11-14T04:49:22Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Nvidia-backeed Australian AI company Firmus raises $325 million",
-            "url": "https://www.marketscreener.com/news/nvidia-backeed-australian-ai-company-firmus-raises-325-million-ce7d5fdddc8ff321",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2025-11-14T04:49:10Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "'Simulation theory' brings an AI twist to ideas mystics and religious scholars have voiced for centuries",
-            "url": "https://phys.org/news/2025-11-simulation-theory-ai-ideas-mystics.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/world.jpg",
-            "publishedAt": "2025-11-14T04:20:01Z"
         }
     ]
 }
