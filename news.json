@@ -1,6 +1,18 @@
 {
-    "lastUpdatedAt": "2025-11-16T14:12:55.496365Z",
+    "lastUpdatedAt": "2025-11-16T15:14:03.774831Z",
     "articles": [
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Princeton University confirms data breach affecting alumni and donor records",
+            "url": "https://economictimes.indiatimes.com/nri/latest-updates/princeton-university-confirms-data-breach-affecting-alumni-and-donor-records/articleshow/125359006.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-2064994,resizemode-75,msid-125359006/nri/latest-updates/princeton-university-confirms-data-breach-affecting-alumni-and-donor-records.jpg",
+            "publishedAt": "2025-11-16T03:10:13Z"
+        },
         {
             "source": {
                 "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -60,6 +72,24 @@
             "url": "https://www.aroundosceola.com/index.php/things-do/jeff-dunham-osceola-heritage-park-nov-22",
             "urlToImage": "http://www.aroundosceola.com/sites/aroundosceola.com/files/2025-10/NOV-20-26.jpg",
             "publishedAt": "2025-11-16T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "mit"
+            },
+            "title": "Four from MIT named 2026 Rhodes Scholars",
+            "url": "https://news.mit.edu/2025/four-mit-named-2026-rhodes-scholars-1115",
+            "urlToImage": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202511/MIT-Rhodes-01A-press.jpg?itok=0paGdTJP",
+            "publishedAt": "2025-11-16 03:00:00"
+        },
+        {
+            "source": {
+                "name": "slashgear"
+            },
+            "title": "Apple Users Have A Lot To Say About Its Rumored Google AI Plan: 'Anything Is Better Than Current Siri'",
+            "url": "https://www.slashgear.com/2023043/apple-users-lot-to-say-rumored-google-ai-plan/",
+            "urlToImage": "https://www.slashgear.com/img/gallery/apple-users-have-a-lot-to-say-about-its-rumored-google-ai-plan-anything-is-better-than-current-siri/l-intro-1762849509.jpg",
+            "publishedAt": "2025-11-16 02:45:00"
         },
         {
             "source": {
@@ -3246,42 +3276,6 @@
             "url": "https://www.mirror.co.uk/tv/tv-news/bone-chilling-sci-fi-movie-36241065",
             "urlToImage": "https://i2-prod.mirror.co.uk/article36241092.ece/ALTERNATES/s1200/0_THE-CREATOR.jpg",
             "publishedAt": "2025-11-14T08:00:00Z"
-        },
-        {
-            "source": {
-                "id": "614a4b10b69af6cc657068ec6a59eaff",
-                "name": "Lawfare",
-                "url": "https://www.lawfaremedia.org",
-                "country": "us"
-            },
-            "title": "Reuters Blows Lid on Meta's Fraud Profit Scandal",
-            "url": "https://www.lawfaremedia.org/article/reuters-blows-lid-on-meta's-fraud-profit-scandal",
-            "urlToImage": "https://www.lawfaremedia.org/assets/icons/favicon-32x32.png",
-            "publishedAt": "2025-11-14T08:00:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Berenberg Expects Infineon to Hit 'Prudent' FY26 Revenue Outlook; Price Target Up",
-            "url": "https://www.marketscreener.com/news/berenberg-expects-infineon-to-hit-prudent-fy26-revenue-outlook-price-target-up-ce7d5fddd180f227",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2025-11-14T07:47:13Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "CyberMindr Wins Innovation in Preemptive Exposure Management Award at 2025 CISO Conclave",
-            "url": "https://www.tribuneindia.com/news/business/cybermindr-wins-innovation-in-preemptive-exposure-management-award-at-2025-ciso-conclave/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTRmZGJlOGIwLWMxMjgtMTFmMC1iMDY0LWVkNWUyYTYzNDljNy5qcGc=",
-            "publishedAt": "2025-11-14T07:05:28Z"
         }
     ]
 }
