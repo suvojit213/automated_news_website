@@ -1,6 +1,30 @@
 {
-    "lastUpdatedAt": "2025-11-17T13:29:07.743185Z",
+    "lastUpdatedAt": "2025-11-17T14:16:06.830264Z",
     "articles": [
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "AI Startup Turing Secures Denso’s Backing at $388 Million Value",
+            "url": "https://www.bloomberg.com/news/articles/2025-11-17/ai-startup-turing-secures-denso-s-backing-at-388-million-value",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iS5dLSS6VYUA/v0/1200x800.jpg",
+            "publishedAt": "2025-11-17T01:59:04Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Stocks cautious as Nvidia earnings test looms",
+            "url": "https://www.reuters.com/business/retail-consumer/global-markets-global-markets-2025-11-17/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/A6VOEK5L6BIUPPW47HO5MHJ33E.jpg?auth=8caec02d894c0c8d3934bea2977f6842bf657b4d5323d2b13eedc2d3179f1960&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-11-17T01:38:41Z"
+        },
         {
             "source": {
                 "id": "10cbfb3760cfcdeb78c733c527f0e814",
@@ -72,6 +96,15 @@
             "url": "https://www.globenewswire.com/news-release/2025/11/17/3189002/0/en/CJET-Expands-Strategic-Focus-into-Edge-Intelligence-through-Alignment-with-EdgeAI.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/23446397-e092-46a2-a0d9-97b80103adc1",
             "publishedAt": "2025-11-17T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "zdnet"
+            },
+            "title": "Your Amazon driver may soon deliver with these smart glasses on - why that's good news",
+            "url": "https://www.zdnet.com/article/your-amazon-driver-may-soon-deliver-with-these-smart-glasses-on-why-thats-good-news/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/609633097d903964a5e911c856e077c3ecbe75f4/2025/10/22/0e78e07a-a133-49c4-bc3f-0385371d2f4c/img-2004.jpg?auto=webp&width=1280",
+            "publishedAt": "2025-11-17 02:00:35"
         },
         {
             "source": {
@@ -161,6 +194,15 @@
             "title": "LG Display wins two CES 2026 Innovation Awards with world-first automotive display technologies",
             "url": "https://www.keenesentinel.com/online_features/press_releases/lg-display-wins-two-ces-2026-innovation-awards-with-world-first-automotive-display-technologies/article_4eafde73-60e0-5ba2-9cf6-25e9eacaf5f1.html",
             "urlToImage": "https://bloximages.chicago2.vip.townnews.com/keenesentinel.com/content/tncms/assets/v3/editorial/6/60/660d3877-af24-5b81-a1f7-77cad3e9f9cc/691ad0cef001f.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-11-17 01:00:00"
+        },
+        {
+            "source": {
+                "name": "nvdaily"
+            },
+            "title": "LG Display wins two CES 2026 Innovation Awards with world-first automotive display technologies",
+            "url": "https://www.nvdaily.com/online_features/press_releases/lg-display-wins-two-ces-2026-innovation-awards-with-world-first-automotive-display-technologies/article_c44be399-98ad-55d2-b9d9-d6611531d75c.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/nvdaily.com/content/tncms/assets/v3/editorial/6/9c/69cfbfe4-0b25-549b-a276-7f5136e8f744/691acfcd9b28b.image.jpg?resize=300%2C200",
             "publishedAt": "2025-11-17 01:00:00"
         },
         {
@@ -3045,42 +3087,6 @@
             "url": "https://hackernoon.com/11-15-2025-techbeat",
             "urlToImage": "https://hackernoon.imgix.net/images/hackernoon_newsletter_487_hr1dee9yo3a7k732utzcr4dg.png",
             "publishedAt": "2025-11-15 07:10:59"
-        },
-        {
-            "source": {
-                "name": "daijiworld"
-            },
-            "title": "Sierra Learning Academy training: A new crown for Mangaluru's IT boom",
-            "url": "https://daijiworld.com/news/newsDisplay?newsID=1298041",
-            "urlToImage": "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/koffee_15112025_1.jpg",
-            "publishedAt": "2025-11-15 06:43:50"
-        },
-        {
-            "source": {
-                "name": "thehindu"
-            },
-            "title": "Reimagining Engineering education for India’s deep-tech future",
-            "url": "https://www.thehindu.com/education/reimagining-engineering-education-for-indias-deep-tech-future/article70270131.ece",
-            "urlToImage": "https://th-i.thgim.com/public/incoming/qm5zne/article70270439.ece/alternates/LANDSCAPE_1200/Lead.jpg",
-            "publishedAt": "2025-11-15 06:35:49"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "Cybercriminals are preparing for Black Friday with new AI-powered scams and attacks — how to shop safely this year",
-            "url": "https://www.tomsguide.com/computing/online-security/cybercriminals-are-preparing-for-black-friday-with-new-ai-powered-scams-and-attacks-how-to-shop-safely-this-year",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/YwKRVzwvLwup6hDGh5bVNM-1280-80.jpg",
-            "publishedAt": "2025-11-15 06:15:00"
-        },
-        {
-            "source": {
-                "name": "republicworld"
-            },
-            "title": "Anthropic Warns of AI-Driven Hacking Campaign Linked to China",
-            "url": "https://www.republicworld.com/tech/anthropic-warns-of-ai-driven-hacking-campaign-linked-to-china",
-            "urlToImage": "https://img.republicworld.com/all_images/anthropic-to-open-first-india-office-in-2026-as-demand-for-ai-tools-grows-1759899315363-16_9.webp?format=webp&h=225&q=75&w=400",
-            "publishedAt": "2025-11-15 06:10:38"
         }
     ]
 }
