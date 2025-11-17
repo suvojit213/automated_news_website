@@ -1,6 +1,114 @@
 {
-    "lastUpdatedAt": "2025-11-17T21:14:30.907750Z",
+    "lastUpdatedAt": "2025-11-17T22:15:12.966905Z",
     "articles": [
+        {
+            "source": {
+                "id": "eaeed30dacd1269c1893de860c94a7e7",
+                "name": "USA TODAY",
+                "url": "https://www.usatoday.com",
+                "country": "us"
+            },
+            "title": "Love it or hate it, AI is changing polling for the better",
+            "url": "https://www.usatoday.com/story/opinion/2025/11/17/mamdani-election-polls-ai-polling/87250702007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/11/04/USAT/87082908007-mamdani-1.JPG?crop=4477,2520,x0,y148&width=3200&height=1802&format=pjpg&auto=webp",
+            "publishedAt": "2025-11-17T10:08:03Z"
+        },
+        {
+            "source": {
+                "id": "f35c9e0c433f608ad7c48c3d4818bec4",
+                "name": "The Sun",
+                "url": "https://www.thesun.co.uk",
+                "country": "gb"
+            },
+            "title": "ISIS using AI to recruit new wave of Brit jihadis as terror group’s horrifying return gathers pace",
+            "url": "https://www.thesun.co.uk/news/37342805/isis-ai-recruit-brit-jihadis-terror/",
+            "urlToImage": "https://www.thesun.co.uk/wp-content/uploads/2025/11/image_591ca7_1_1920x1080.png?w=1920&h=1080&crop=1",
+            "publishedAt": "2025-11-17T09:57:28Z"
+        },
+        {
+            "source": {
+                "id": "df8898b40ea58da32bb50978f1d85cb3",
+                "name": "The Sun U.S Edition",
+                "url": "https://www.the-sun.com",
+                "country": "gb"
+            },
+            "title": "ISIS using AI to recruit new wave of Brit jihadis as terror group’s horrifying return gathers pace",
+            "url": "https://www.the-sun.com/news/15501735/isis-ai-recruit-brit-jihadis-terror/",
+            "urlToImage": "https://www.the-sun.com/wp-content/uploads/sites/6/2025/11/image_591ca7_1_1920x1080.png?w=1920&h=1080&crop=1",
+            "publishedAt": "2025-11-17T09:57:28Z"
+        },
+        {
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            },
+            "title": "By 2027, AI will create more jobs than it destroys: Report",
+            "url": "https://www.lokmattimes.com/business/by-2027-ai-will-create-more-jobs-than-it-destroys-report/",
+            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202511173578075_202511.jpg",
+            "publishedAt": "2025-11-17T09:56:41Z"
+        },
+        {
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            },
+            "title": "By 2027, AI will create more jobs than it destroys: Report",
+            "url": "https://www.lokmattimes.com/technology/by-2027-ai-will-create-more-jobs-than-it-destroys-report-1/",
+            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202511173578075_202511.jpg",
+            "publishedAt": "2025-11-17T09:56:41Z"
+        },
+        {
+            "source": {
+                "id": "57f726ae1c2926b0eba0b6cd65467921",
+                "name": "CryptoSlate",
+                "url": "https://cryptoslate.com",
+                "country": "us"
+            },
+            "title": "How Anthropic stopped AI agents working for Chinese state-sponsored spy campaign",
+            "url": "https://cryptoslate.com/how-anthropic-stopped-ai-agents-working-for-chinese-state-sponsored-spy-campaign/",
+            "urlToImage": "https://cryptoslate.com/wp-content/uploads/2025/11/anthropic-china.jpg",
+            "publishedAt": "2025-11-17T09:51:01Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Taiwan NSB flags major security risks, biases in five China",
+            "url": "https://www.tribuneindia.com/news/world/taiwan-nsb-flags-major-security-risks-biases-in-five-china-made-ai-models/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWJkNTBjZDgwLWMzOTgtMTFmMC1iMDY0LWVkNWUyYTYzNDljNy5qcGc=",
+            "publishedAt": "2025-11-17T09:35:17Z"
+        },
+        {
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            },
+            "title": "Taiwan NSB flags major security risks, biases in five China",
+            "url": "https://www.lokmattimes.com/international/taiwan-nsb-flags-major-security-risks-biases-in-five-china-made-ai-models/",
+            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20251117093151_202511.jpg",
+            "publishedAt": "2025-11-17T09:32:09Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "U.S. Futures Rise, Global Markets Mixed, Nvidia Earnings Eyed",
+            "url": "https://www.marketscreener.com/news/u-s-futures-rise-global-markets-mixed-nvidia-earnings-eyed-ce7d5fd3d08af427",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2025-11-17T09:21:38Z"
+        },
         {
             "source": {
                 "id": "c5725557f39c24c8b029ee39900a8406",
@@ -144,6 +252,18 @@
             "url": "https://www.devdiscourse.com/live-discourse/8922-artificial-intelligence-revolutionizing-every-aspect-of-life",
             "urlToImage": "https://www.devdiscourse.com?width=1280&format=jpeg",
             "publishedAt": "2025-11-17T05:54:16Z"
+        },
+        {
+            "source": {
+                "id": "628299239469ffa8b7dbb809aabbcc2e",
+                "name": "Analytics India Magazine",
+                "url": "https://analyticsindiamag.com",
+                "country": "in"
+            },
+            "title": "ADaSci Launches Agentic AI Bootcamp for Leaders",
+            "url": "https://analyticsindiamag.com/ai-highlights/adasci-launches-agentic-ai-bootcamp-for-leaders/",
+            "urlToImage": "https://analyticsindiamag.com/wp-content/uploads/2025/11/image-13.png",
+            "publishedAt": "2025-11-17T05:19:31Z"
         },
         {
             "source": {
@@ -324,6 +444,63 @@
             "url": "https://www.globenewswire.com/news-release/2025/11/17/3189002/0/en/CJET-Expands-Strategic-Focus-into-Edge-Intelligence-through-Alignment-with-EdgeAI.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/23446397-e092-46a2-a0d9-97b80103adc1",
             "publishedAt": "2025-11-17T00:00:00Z"
+        },
+        {
+            "source": {
+                "id": "8e9ab8327c5f7903cc1b50470411d165",
+                "name": "GlobeNewswire",
+                "url": "https://www.globenewswire.com",
+                "country": "us"
+            },
+            "title": "Data Science Course Taught by FAANG Instructors",
+            "url": "https://www.globenewswire.com/news-release/2025/11/17/3189488/0/en/Data-Science-Course-Taught-by-FAANG-Instructors-Interview-Kickstart-Adds-Agile-Automated-Workflows-to-Python-SQL-and-ML-Training.html",
+            "urlToImage": "https://i.ibb.co/FqsMn05X/Data-Science-Course-Online-Bootcamp-for-Professionals-11-17-2025-11-06-PM.png",
+            "publishedAt": "2025-11-17T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "en_prnasisa"
+            },
+            "title": "Krinwave Expands Boundaries of Medical Imaging Using NVIDIA Jetson Thor",
+            "url": "https://en.prnasia.com/story/512223-0.shtml",
+            "urlToImage": "https://mma.prnasia.com/media2/2824604/Krinwave_Launch_One_First_Ultrasound_Device_Powered_NVIDIA_Jetson_Thor.jpg?p=medium600",
+            "publishedAt": "2025-11-17 10:11:00"
+        },
+        {
+            "source": {
+                "name": "engadget"
+            },
+            "title": "The best gaming laptops for 2025",
+            "url": "https://www.engadget.com/computing/laptops/best-gaming-laptops-172033838.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?client=19f2b5e49a271b2bde77&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-12%2F8329ad30-b97a-11ef-8ebf-d6f1e4596e46&resize=1400%2C787&signature=80dcad0b99bee36b2a051c491994134aa85258dc",
+            "publishedAt": "2025-11-17 10:00:37"
+        },
+        {
+            "source": {
+                "name": "analyticsinsight"
+            },
+            "title": "AI Big Data Enablement Engineer",
+            "url": "https://www.analyticsinsight.net/job-openings/ai-big-data-enablement-engineer",
+            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-11-17%2Fxfunppz2%2FApplex.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "publishedAt": "2025-11-17 09:48:54"
+        },
+        {
+            "source": {
+                "name": "livemint"
+            },
+            "title": "AI labs’ all-or-nothing race leaves no time to fuss about safety",
+            "url": "https://www.livemint.com/global/ai-labs-all-or-nothing-race-leaves-no-time-to-fuss-about-safety-11763371617413.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2025/11/17/1600x900/logo/FILES-GERMANY-COURT-AI-US-MUSIC-TECHNOLOGY-0_1763371759015_1763371783232.jpg",
+            "publishedAt": "2025-11-17 09:31:06"
+        },
+        {
+            "source": {
+                "name": "expresscomputer"
+            },
+            "title": "AI is reshaping how cybercriminals attack: Elastic 2025 Global Threat Report",
+            "url": "https://www.expresscomputer.in/news/ai-is-reshaping-how-cybercriminals-attack-elastic-2025-global-threat-report/129548/",
+            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2024/08/05150230/EC-digital-security-data-protect-750.jpg",
+            "publishedAt": "2025-11-17 09:22:13"
         },
         {
             "source": {
@@ -3000,150 +3177,6 @@
             "url": "https://www.thenews.com.pk/latest/1358006-cybersecurity-firm-points-out-7-persistent-threats-to-pakistan",
             "urlToImage": "https://www.thenews.com.pk/assets/uploads/updates/2025-11-15/1358006_054914_updates.jpg",
             "publishedAt": "2025-11-15T01:00:00Z"
-        },
-        {
-            "source": {
-                "name": "headtopics"
-            },
-            "title": "Verizon is in no rush to do the one thing customers desperately want",
-            "url": "https://us.headtopics.com/news/verizon-is-in-no-rush-to-do-the-one-thing-customers-75879819",
-            "urlToImage": "https://i.headtopics.com/images/2025/11/15/phonearena/verizon-is-in-no-rush-to-do-the-one-thing-customer-verizon-is-in-no-rush-to-do-the-one-thing-customer-5703BB1261FDBFA1F57377BCCF23FD81.webp",
-            "publishedAt": "2025-11-15 23:39:49"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "Full Circle: Synchron’s $200 Million Signals Revolution By Evolution",
-            "url": "https://www.forbes.com/sites/naveenrao/2025/11/15/full-circle-synchrons-200-million-signals-revolution-by-evolution/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6918fd853e90a6f3b786a4c3/0x0.jpg?width=960",
-            "publishedAt": "2025-11-15 23:28:44"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Discover the Top Android Games You Can’t Miss in 2025",
-            "url": "https://techannouncer.com/discover-the-top-android-games-you-cant-miss-in-2025/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/11/3b3ab94fthumbnail-332x187.jpeg",
-            "publishedAt": "2025-11-15 23:23:07"
-        },
-        {
-            "source": {
-                "name": "onclive"
-            },
-            "title": "Beyond the Genome: Exploring New Frontiers in NSCLC Management",
-            "url": "https://www.onclive.com/view/beyond-the-genome-exploring-new-frontiers-in-lung-cancer-management",
-            "urlToImage": "https://cdn.sanity.io/images/0vv8moc6/onclive/49dd3aa540fd629679db9aa56af8cef9424ec071-1280x720.jpg",
-            "publishedAt": "2025-11-15 22:25:43"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "China’s AI Titans Surf Cloud Boom Amid Chip Crunch and Profit Squeeze",
-            "url": "https://www.webpronews.com/chinas-ai-titans-surf-cloud-boom-amid-chip-crunch-and-profit-squeeze/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-1304-1763175481.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-11-15 22:00:06"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "AI Titans Bet Billions: Inside Anthropic and Microsoft’s Massive Data Center Surge",
-            "url": "https://www.webpronews.com/ai-titans-bet-billions-inside-anthropic-and-microsofts-massive-data-center-surge/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-1303-1763175393.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-11-15 21:50:10"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Exploiting the SonicWall SSL VPN Vulnerability: What You Need to Know",
-            "url": "https://techannouncer.com/exploiting-the-sonicwall-ssl-vpn-vulnerability-what-you-need-to-know/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/11/59412308thumbnail-332x187.jpeg",
-            "publishedAt": "2025-11-15 21:44:07"
-        },
-        {
-            "source": {
-                "name": "headtopics"
-            },
-            "title": "Apple’s Lamest Product Ever? Meet The iPhone Pocket",
-            "url": "https://us.headtopics.com/news/apple-s-lamest-product-ever-meet-the-iphone-pocket-75877846",
-            "urlToImage": "https://i.headtopics.com/images/2025/11/15/forbestech/apple-s-lamest-product-ever-meet-the-iphone-pocket-apple-s-lamest-product-ever-meet-the-iphone-pocket-F148FE386686D2ED10921A1F325EDF9F.webp",
-            "publishedAt": "2025-11-15 21:40:19"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "AMD’s AI Surge: Lisa Su’s Bold Bet on Insatiable Demand Driving 35% Growth",
-            "url": "https://www.webpronews.com/amds-ai-surge-lisa-sus-bold-bet-on-insatiable-demand-driving-35-growth/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-1299-1763175057.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-11-15 21:20:05"
-        },
-        {
-            "source": {
-                "name": "thelincolnianonline"
-            },
-            "title": "Best Large Cap Stocks To Follow Now – November 15th",
-            "url": "https://www.thelincolnianonline.com/2025/11/15/best-large-cap-stocks-to-follow-now-november-15th.html",
-            "urlToImage": "https://www.marketbeat.com/logos/invesco-qqq-logo-1200x675.png?v=20231212200553",
-            "publishedAt": "2025-11-15 21:06:48"
-        },
-        {
-            "source": {
-                "name": "tomsguide"
-            },
-            "title": "How to watch ‘The Saints’ season 2 online and stream the Martin Scorsese docuseries from anywhere",
-            "url": "https://www.tomsguide.com/entertainment/streaming/watch-the-saints-season-2-stream-martin-scorsese-docuseries",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/VjzhUDggukbzSQ6e7sZ3NB-1280-80.jpg",
-            "publishedAt": "2025-11-15 21:05:00"
-        },
-        {
-            "source": {
-                "name": "hackaday"
-            },
-            "title": "Using the Pyroelectric Effect to Identify Broken MLCC Capacitors",
-            "url": "https://hackaday.com/2025/11/15/using-the-pyroelectric-effect-to-identify-broken-mlcc-capacitors/",
-            "urlToImage": "https://hackaday.com/wp-content/uploads/2025/11/pyroelectric_effect_mlcc_capacitor_bits_und_bolts_youtube.jpg",
-            "publishedAt": "2025-11-15 21:00:15"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "Apple’s Lamest Product Ever? Meet The iPhone Pocket",
-            "url": "https://www.forbes.com/sites/johnkoetsier/2025/11/15/apples-lamest-product-ever-meet-the-iphone-pocket/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6918e515c42f2fd43621c3fa/0x0.jpg?width=960",
-            "publishedAt": "2025-11-15 20:51:15"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Dan Ives’ AI Rally Cry: Why Valuation Fears Could Cost Tech Investors Billions",
-            "url": "https://www.webpronews.com/dan-ives-ai-rally-cry-why-valuation-fears-could-cost-tech-investors-billions/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-1291-1763174436.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-11-15 20:00:05"
-        },
-        {
-            "source": {
-                "name": "yahoo"
-            },
-            "title": "10 Very Clever features of the Lockheed SR-71 Blackbird",
-            "url": "https://www.yahoo.com/news/articles/10-very-clever-features-lockheed-193123545.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/tjK_hyhBqz4OiacDpZr3wQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04MjM7Y2Y9d2VicA--/https://media.zenfs.com/en/autocar_articles_778/0816ea0805b03927c0b28fff8a72cbf6",
-            "publishedAt": "2025-11-15 19:31:23"
-        },
-        {
-            "source": {
-                "name": "english_jagran"
-            },
-            "title": "Google Photos Gets A Major AI Upgrade Powered By Gemini’s Nano Banana Model",
-            "url": "https://www.thedailyjagran.com/technology/google-photos-gets-a-major-ai-upgrade-powered-by-geminis-nano-banana-model-10280025",
-            "urlToImage": "https://imgeng.jagran.com/images/2025/11/16/article/image/Google-Photos-Google-1763234380823_v.webp",
-            "publishedAt": "2025-11-15 19:20:42"
         }
     ]
 }
