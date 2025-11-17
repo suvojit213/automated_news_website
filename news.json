@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-11-17T08:23:34.517026Z",
+    "lastUpdatedAt": "2025-11-17T09:20:32.215671Z",
     "articles": [
+        {
+            "source": {
+                "id": "b419a989918b3665a34559f5047546b6",
+                "name": "The Sunday Times",
+                "url": "https://www.thetimes.com",
+                "country": "gb"
+            },
+            "title": "The AI revolution has begun - on personal phones and laptops",
+            "url": "https://www.thetimes.com/business-money/economics/article/the-ai-revolution-has-begun-on-personal-phones-and-laptops-88xrlvm65",
+            "urlToImage": "https://www.thetimes.com/imageserver/image/%2Fe3e9713e-eccc-4cfb-9de4-10662bb1eb54.jpg?crop=1500%2C844%2C0%2C144&resize=1200",
+            "publishedAt": "2025-11-16T21:15:46Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "How will artificial intelligence change society? Ask a chatbot",
+            "url": "https://japantoday.com/category/features/kuchikomi/how-will-artificial-intelligence-change-society-ask-a-chatbot",
+            "urlToImage": "https://media.japantoday.com/img/store/a5/6a/b69ca4d600db8d270c8bb1233b2c11b5730d/istock-1463687721-1/_w1700.jpeg",
+            "publishedAt": "2025-11-16T21:15:00Z"
+        },
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "Rise of the robots: The promise of physical AI",
+            "url": "https://japantoday.com/category/tech/rise-of-the-robots-the-promise-of-physical-ai",
+            "urlToImage": "https://media.japantoday.com/img/store/1b/bd/d5af7be910c1013833eee9cbd3f6cc1a00ea/d0245481549a79754d19701ae835fe956787c5b0/_w1700.jpeg",
+            "publishedAt": "2025-11-16T20:56:00Z"
+        },
+        {
+            "source": {
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
+                "country": "us"
+            },
+            "title": "Peter Lynch on AI Stocks: 'I Literally Couldn't Pronounce Nvidia Until About Eight Months Ago'",
+            "url": "https://www.benzinga.com/personal-finance/financial-advisors/25/11/48889460/peter-lynch-on-ai-stocks-i-literally-couldnt-pronounce-nvidia-until-about-eight-months-ago",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/11/16/6-Peter-Lynch-Tips-On-When-To-Sell-A-Sto.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2025-11-16T20:37:04Z"
+        },
         {
             "source": {
                 "id": "11d4381a1e8f7aca7628d0319a52a040",
@@ -480,6 +528,42 @@
             "url": "https://www.aroundosceola.com/index.php/things-do/jeff-dunham-osceola-heritage-park-nov-22",
             "urlToImage": "http://www.aroundosceola.com/sites/aroundosceola.com/files/2025-10/NOV-20-26.jpg",
             "publishedAt": "2025-11-16T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "techannouncer"
+            },
+            "title": "OpenAI’s Twitter Presence: From AI Breakthroughs to Sam Altman’s Latest Thoughts",
+            "url": "https://techannouncer.com/openais-twitter-presence-from-ai-breakthroughs-to-sam-altmans-latest-thoughts/",
+            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/11/57c70fc0thumbnail-332x187.jpeg",
+            "publishedAt": "2025-11-16 21:15:12"
+        },
+        {
+            "source": {
+                "name": "computerweekly"
+            },
+            "title": "AI’s hidden sting: a threat to millions of bees",
+            "url": "https://www.computerweekly.com/news/366634503/AIs-hidden-sting-a-threat-to-millions-of-bees",
+            "urlToImage": "https://www.computerweekly.com/visuals/German/article/bee-web-honeypot-adobe_searchsitetablet_520X173.jpg",
+            "publishedAt": "2025-11-16 21:06:00"
+        },
+        {
+            "source": {
+                "name": "thelincolnianonline"
+            },
+            "title": "Quantum Computing Stocks To Add to Your Watchlist – November 16th",
+            "url": "https://www.thelincolnianonline.com/2025/11/16/quantum-computing-stocks-to-add-to-your-watchlist-november-16th.html",
+            "urlToImage": "https://www.marketbeat.com/logos/ionq-inc-logo-1200x675.png?v=20211203111404",
+            "publishedAt": "2025-11-16 21:04:53"
+        },
+        {
+            "source": {
+                "name": "digitaltrends"
+            },
+            "title": "I tested 4 ChatGPT prompt generators and here’s the one that helped the most",
+            "url": "https://www.digitaltrends.com/computing/i-tested-4-chatgpt-prompt-generators-and-heres-the-one-that-helped-the-most/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/10/chatgpt-shared-projects.jpg?p=1&resize=1200%2C630",
+            "publishedAt": "2025-11-16 21:00:00"
         },
         {
             "source": {
@@ -2982,102 +3066,6 @@
             "url": "https://www.marketscreener.com/news/tech-up-slightly-as-volatility-continues-tech-roundup-ce7d5fd2de8cf025",
             "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
             "publishedAt": "2025-11-14T23:06:11Z"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            },
-            "title": "Dan Sundheim’s D1 Capital buys AI-linked names in third quarter",
-            "url": "https://www.cnbc.com/2025/11/14/dan-sundheims-d1-capital-buys-ai-linked-names-in-third-quarter.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107416009-17158739982019-05-07t023825z_2015943059_rc1bcbaabc00_rtrmadp_0_funds-sohn.jpeg?v=1747335470&w=1920&h=1080",
-            "publishedAt": "2025-11-14T23:01:41Z"
-        },
-        {
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            },
-            "title": "Navale bridge accident turned day of prayer into family’s deepest loss",
-            "url": "https://indianexpress.com/article/cities/pune/navale-bridge-accident-turned-day-of-prayer-into-familys-deepest-loss-10366711/",
-            "urlToImage": "https://images.indianexpress.com/2025/11/navale_20251114223902.jpg",
-            "publishedAt": "2025-11-14T22:39:28Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Wall St Week Ahead: Spotlight on Nvidia results",
-            "url": "https://www.thestar.com.my/business/2025/11/15/wall-st-week-ahead-spotlight-on-nvidia-results",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/15/3623365.jpg",
-            "publishedAt": "2025-11-14T22:18:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Catholic University President Peter Kilpatrick Shares Initiatives, Innovation, and Enrollment Growth with U.S. Bishops",
-            "url": "https://www.manilatimes.net/2025/11/15/tmt-newswire/globenewswire/catholic-university-president-peter-kilpatrick-shares-initiatives-innovation-and-enrollment-growth-with-us-bishops/2224606",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/11/15/828643.jpg",
-            "publishedAt": "2025-11-14T22:01:55Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Forian Inc. Announces Third Quarter 2025 Financial Results",
-            "url": "https://www.marketscreener.com/news/forian-inc-announces-third-quarter-2025-financial-results-ce7d5fd2de89f124",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2025-11-14T21:31:14Z"
-        },
-        {
-            "source": {
-                "id": "3a3847d645a619320aa3b3484581e395",
-                "name": "CBS News",
-                "url": "https://www.cbsnews.com",
-                "country": "us"
-            },
-            "title": "Should you worry about an AI bubble? Investment pros weigh in.",
-            "url": "https://www.cbsnews.com/news/artificial-intelligence-ai-bubble-stock-market-economy-dotcom/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/02/27/1dfbdeac-d64b-41e6-89e6-e4a84ef971ab/thumbnail/1200x630/6eb64c383254322a382789eb7a5adea6/cbsn-fusion-how-nvidias-earnings-news-may-impact-your-retirement-fund-thumbnail.jpg",
-            "publishedAt": "2025-11-14T21:30:00Z"
-        },
-        {
-            "source": {
-                "id": "a11116890ae17f53bebab1bc67660326",
-                "name": "Digital Trends",
-                "url": "https://www.digitaltrends.com",
-                "country": "us"
-            },
-            "title": "Amazon cracks down on illegal streaming apps on Fire TV sticks",
-            "url": "https://www.digitaltrends.com/home-theater/amazon-cracks-down-on-illegal-streaming-apps-on-fire-tv-sticks/",
-            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2021/10/amazon-fire-tv-stick-4k-max-10-e1763154842635.jpg?resize=1200%2C630&p=1",
-            "publishedAt": "2025-11-14T21:26:56Z"
-        },
-        {
-            "source": {
-                "id": "c1903669db0b115cc673ce9c333a70dd",
-                "name": "Charleston Post and Courier",
-                "url": "https://www.postandcourier.com",
-                "country": "us"
-            },
-            "title": "AI impacts life at the University of South Carolina",
-            "url": "https://www.postandcourier.com/opinion/commentary/artificial-intelligence-tools-impacts-university-south-carolina/article_a95ccf99-5af7-4a07-898f-6ac5289b0cf5.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/9/f4/9f458d48-3766-495e-8a70-b94cd5a581eb/64d0305f98604.image.jpg?crop=1472%2C773%2C5%2C121&resize=1200%2C630&order=crop%2Cresize",
-            "publishedAt": "2025-11-14T21:15:00Z"
         }
     ]
 }
