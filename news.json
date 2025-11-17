@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-11-17T19:12:37.069207Z",
+    "lastUpdatedAt": "2025-11-17T20:18:25.422395Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "US cities and states are turning to AI to improve road safety",
+            "url": "https://www.thestar.com.my/tech/tech-news/2025/11/17/us-cities-and-states-are-turning-to-ai-to-improve-road-safety",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/17/3626069.jpg",
+            "publishedAt": "2025-11-17T08:00:00Z"
+        },
+        {
+            "source": {
+                "id": "7ba4ac19a3c25ba844bbd220fe4c860a",
+                "name": "THE WEEK",
+                "url": "https://www.theweek.in",
+                "country": "in"
+            },
+            "title": "Trust, talent, and transformation: New reports lay bare India’s AI challenge",
+            "url": "https://www.theweek.in/news/sci-tech/2025/11/17/trust-talent-and-transformation-new-reports-lay-bare-india-ai-adoption-challenge.html",
+            "urlToImage": "https://www.theweek.in/content/dam/week/week/news/biz-tech/images/2025/1/31/ai-in-india.jpg",
+            "publishedAt": "2025-11-17T07:57:56Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "Talentorial Launches as the World's First Comprehensive Career Enablement Hub",
+            "url": "https://www.tribuneindia.com/news/business/talentorial-launches-as-the-worlds-first-comprehensive-career-enablement-hub/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTY2OWNiZmQwLWMzODktMTFmMC1iMDY0LWVkNWUyYTYzNDljNy5qcGc=",
+            "publishedAt": "2025-11-17T07:45:29Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Hyundai pledges record $85.8 bn investment in South Korea",
+            "url": "https://economictimes.indiatimes.com/news/international/business/hyundai-pledges-record-85-8-bn-investment-in-south-korea/articleshow/125379727.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-125379755,width-1200,height-630,imgsize-5024,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-11-17T07:33:00Z"
+        },
         {
             "source": {
                 "id": "bff0cd3b8c64dceaada8841bea814f65",
@@ -240,6 +288,96 @@
             "url": "https://www.globenewswire.com/news-release/2025/11/17/3189002/0/en/CJET-Expands-Strategic-Focus-into-Edge-Intelligence-through-Alignment-with-EdgeAI.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/23446397-e092-46a2-a0d9-97b80103adc1",
             "publishedAt": "2025-11-17T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "AI-Web3 Fusion: Decoding 2025’s Mobile App Revolution",
+            "url": "https://www.webpronews.com/ai-web3-fusion-decoding-2025s-mobile-app-revolution/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-1476-1763367460.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-11-17 08:17:44"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "Squeezing The Juice Of LLM Neural Layers Promotes Greater Honesty And Could Be An AI Hallucination Antidote",
+            "url": "https://www.forbes.com/sites/lanceeliot/2025/11/17/squeezing-the-juice-of-llm-neural-layers-promotes-greater-honesty-and-could-be-an-ai-hallucination-antidote/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/691aae2d16e5ca05049af0b5/0x0.jpg?width=960",
+            "publishedAt": "2025-11-17 08:15:00"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Anthropic’s Claude 4.2 Unleashes 1M Token Context for Epic Codebase Mastery",
+            "url": "https://www.webpronews.com/anthropics-claude-4-2-unleashes-1m-token-context-for-epic-codebase-mastery/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-1470-1763366957.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-11-17 08:09:21"
+        },
+        {
+            "source": {
+                "name": "en_prnasisa"
+            },
+            "title": "Founders Future Opens San Francisco Office and Reinforces Its Transatlantic AI-First Vision",
+            "url": "https://en.prnasia.com/story/512195-0.shtml",
+            "urlToImage": "https://mma.prnasia.com/media2/2647275/5228580/Founders_Future_Logo.jpg?p=medium600",
+            "publishedAt": "2025-11-17 08:07:00"
+        },
+        {
+            "source": {
+                "name": "wvnews"
+            },
+            "title": "Founders Future Opens San Francisco Office and Reinforces Its Transatlantic AI-First Vision",
+            "url": "https://www.wvnews.com/news/around_the_web/partners/pr_newswire/subject/corporate_expansion/founders-future-opens-san-francisco-office-and-reinforces-its-transatlantic-ai-first-vision/article_825717a0-db89-55ac-b71b-da2773c33596.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/assets/v3/editorial/f/d5/fd56537a-fd8f-5d97-a406-4b102acca0b9/691ad9ced3d1f.image.jpg?resize=300%2C165",
+            "publishedAt": "2025-11-17 08:07:00"
+        },
+        {
+            "source": {
+                "name": "engadget"
+            },
+            "title": "The best wireless mice for 2025",
+            "url": "https://www.engadget.com/computing/accessories/best-wireless-mice-pc-gaming-mobile-150027822.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?client=19f2b5e49a271b2bde77&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-08%2F7e1a3740-76b9-11f0-bfff-b5883b20d5a6&resize=1400%2C787&signature=71feff04bfb4f204f02bf353716e5706314c6214",
+            "publishedAt": "2025-11-17 08:00:35"
+        },
+        {
+            "source": {
+                "name": "venturebeat"
+            },
+            "title": "Phi-4 proves that a 'data-first' SFT methodology is the new differentiator",
+            "url": "https://venturebeat.com/ai/phi-4-proves-that-a-data-first-sft-methodology-is-the-new-differentiator",
+            "urlToImage": "https://images.ctfassets.net/jdtwqhzvc2n1/2O24YvHiGRX9HnRbTC6mzm/7d46d1b93c2b59c8934e4e86226b3971/u9368359752_illustration_of_a_very_small_robot_battling_a_lar_8e5980ba-b925-4725-9dc6-c308541a24d2_1.png?q=30&w=300",
+            "publishedAt": "2025-11-17 08:00:00"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Tech’s Turbulent Horizon: AI Dominance and Quantum Leaps in 2025",
+            "url": "https://www.webpronews.com/techs-turbulent-horizon-ai-dominance-and-quantum-leaps-in-2025/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-1463-1763366204.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-11-17 07:56:46"
+        },
+        {
+            "source": {
+                "name": "medianama"
+            },
+            "title": "European Union Plans To Water Down AI And Data Privacy Rules Amid US Pressure?",
+            "url": "https://www.medianama.com/2025/11/223-eu-ai-and-privacy-rules-rollback/",
+            "urlToImage": "https://www.medianama.com/wp-content/uploads/2020/05/EU-1.jpg-e1648291986700.jpg",
+            "publishedAt": "2025-11-17 07:33:28"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Samsung’s AI Gambit: Pioneering 6G at Silicon Valley Summit",
+            "url": "https://www.webpronews.com/samsungs-ai-gambit-pioneering-6g-at-silicon-valley-summit/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-1440-1763363914.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-11-17 07:18:38"
         },
         {
             "source": {
@@ -2997,132 +3135,6 @@
             "url": "https://www.thurrott.com/mobile/copilot-pc/329645/hp-elitebook-6-g1q-review",
             "urlToImage": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2025/11/eb6-hero.jpg",
             "publishedAt": "2025-11-15 17:07:38"
-        },
-        {
-            "source": {
-                "name": "thelincolnianonline"
-            },
-            "title": "Best Large Cap Stocks To Follow Today – November 14th",
-            "url": "https://www.thelincolnianonline.com/2025/11/15/best-large-cap-stocks-to-follow-today-november-14th.html",
-            "urlToImage": "https://www.marketbeat.com/logos/invesco-qqq-logo-1200x675.png?v=20231212200553",
-            "publishedAt": "2025-11-15 17:04:43"
-        },
-        {
-            "source": {
-                "name": "xda_developers"
-            },
-            "title": "Canonical's MicroCloud turned out to be an amazing addition to my home lab",
-            "url": "https://www.xda-developers.com/canonicals-microcloud-turned-out-to-be-an-amazing-addition-to-my-home-lab/",
-            "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/11/microcloud-1.jpg",
-            "publishedAt": "2025-11-15 17:00:18"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Zero Knowledge Proof Opens Whitelist for Presale Auctions That Eliminate Insider Deals & Private Allocations Completely",
-            "url": "https://www.analyticsinsight.net/cryptocurrency-analytics-insight/zero-knowledge-proof-opens-whitelist-for-presale-auctions-that-eliminate-insider-deals-private-allocations-completely",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-11-15%2Fm1mvyq9w%2FZero-Knowledge-Proof-1.png?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-11-15 17:00:00"
-        },
-        {
-            "source": {
-                "name": "9to5mac"
-            },
-            "title": "The Sandmarc 2x Telephoto lens is great for iPhone portrait photos",
-            "url": "https://9to5mac.com/2025/11/15/the-sandmarc-2x-telephoto-lens-is-great-for-iphone-portrait-photos/",
-            "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/The-Sandmarc-2x-Telephoto-lens-is-a-great-option-for-taking-portrait-photos-with-the-iPhone.jpg?quality=82&strip=all&w=1600",
-            "publishedAt": "2025-11-15 17:00:00"
-        },
-        {
-            "source": {
-                "name": "phys"
-            },
-            "title": "New technique enables faster drug design for diseases linked to ion channels",
-            "url": "https://phys.org/news/2025-11-technique-enables-faster-drug-diseases.html",
-            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2025/new-technique-will-spe.jpg",
-            "publishedAt": "2025-11-15 16:58:01"
-        },
-        {
-            "source": {
-                "name": "bangordailynews"
-            },
-            "title": "UMaine launches internships in AI, digital twins for the blue economy",
-            "url": "https://www.bangordailynews.com/2025/11/15/bdn-maine/umaine-launches-internships-in-ai-digital-twins-for-the-blue-economy/",
-            "urlToImage": "https://i0.wp.com/bdn-data.s3.amazonaws.com/uploads/2025/11/digital-twins-feature.png?fit=1108%2C624&ssl=1",
-            "publishedAt": "2025-11-15 16:52:24"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "How Intelligent Robotics is Powering the Future of Physical AI",
-            "url": "https://www.analyticsinsight.net/artificial-intelligence/how-intelligent-robotics-is-powering-the-future-of-physical-ai",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-11-15%2Fl6stzwck%2Fanalyticsinsight2025-01-16btqk3q.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-11-15 16:30:00"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Zero Knowledge Proof (ZKP) Whitelist Opens as Investors Rush Into First AI-Powered Privacy Blockchain Already Built",
-            "url": "https://www.analyticsinsight.net/cryptocurrency-analytics-insight/zero-knowledge-proof-zkp-whitelist-opens-as-investors-rush-into-first-ai-powered-privacy-blockchain-already-built",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-11-15%2Fkkd63bwd%2Fundefined-2025-11-15T190000.954.png?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-11-15 16:30:00"
-        },
-        {
-            "source": {
-                "name": "benzinga"
-            },
-            "title": "FinoTraze Unveiled: FinoTraze Emerges as 2025's Most Trusted AI Trading Solution for Smarter Investing with Precision",
-            "url": "https://www.benzinga.com/pressreleases/25/11/g48886187/finotraze-unveiled-finotraze-emerges-as-2025s-most-trusted-ai-trading-solution-for-smarter-investi",
-            "urlToImage": "https://ml.globenewswire.com/Resource/Download/991384eb-74d2-4c68-b900-67fa9de2e6d5/finotraze.png",
-            "publishedAt": "2025-11-15 16:22:38"
-        },
-        {
-            "source": {
-                "name": "cnet"
-            },
-            "title": "Let's Be Real: Your Sleep Routine Is a Mess. Try This 10-3-2-1-0 Hack Tonight.",
-            "url": "https://www.cnet.com/health/sleep/lets-be-real-your-sleep-routine-is-a-mess-try-this-10-3-2-1-0-hack-tonight/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/678bc9b3b493762286f6524f475161c031724f3f/hub/2025/07/28/29ecffb2-8b5b-41d5-9b5a-7dd6b629e6b0/gettyimages-1942411823.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-11-15 16:00:25"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "AI’s 2025 Boom: Industries Reaping Real Rewards Amid Hype",
-            "url": "https://www.webpronews.com/ais-2025-boom-industries-reaping-real-rewards-amid-hype/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-1264-1763171983.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-11-15 15:30:05"
-        },
-        {
-            "source": {
-                "name": "futurism"
-            },
-            "title": "People Are Having AI “Children” With Their AI Partners",
-            "url": "https://futurism.com/future-society/ai-children-chatbots",
-            "urlToImage": "https://futurism.com/wp-content/uploads/2025/11/ai-children-chatbots.jpg?quality=85",
-            "publishedAt": "2025-11-15 15:30:00"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Inside the Cybercrime Machine: A Reformed Fraudster Reveals the Tactics Fueling 2025’s Digital Heists",
-            "url": "https://www.webpronews.com/inside-the-cybercrime-machine-a-reformed-fraudster-reveals-the-tactics-fueling-2025s-digital-heists/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-1263-1763171897.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-11-15 15:20:04"
-        },
-        {
-            "source": {
-                "name": "thelincolnianonline"
-            },
-            "title": "Novanta (NASDAQ:NOVT) & Kyocera (OTCMKTS:KYOCY) Head to Head Comparison",
-            "url": "https://www.thelincolnianonline.com/2025/11/15/novanta-nasdaqnovt-kyocera-otcmktskyocy-head-to-head-comparison.html",
-            "urlToImage": "https://www.marketbeat.com/logos/kyocera-co-logo-1200x675.png?v=20250520060613",
-            "publishedAt": "2025-11-15 15:04:50"
         }
     ]
 }
