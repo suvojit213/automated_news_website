@@ -1,6 +1,174 @@
 {
-    "lastUpdatedAt": "2025-11-18T20:29:45.813039Z",
+    "lastUpdatedAt": "2025-11-18T22:15:37.188406Z",
     "articles": [
+        {
+            "source": {
+                "id": "9a0aedadcf2d0a6144f3064cb144bae4",
+                "name": "Deadline",
+                "url": "https://deadline.com",
+                "country": "us"
+            },
+            "title": "Beta Film & Film School Team To Shape Future Of AI Production",
+            "url": "https://deadline.com/2025/11/beta-film-tv-ai-initiative-filmakademie-baden-wurttemberg-1236621237/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2025/11/cBeta-Film_Andreas-Hoffmann2.jpg?w=1024",
+            "publishedAt": "2025-11-18T10:07:02Z"
+        },
+        {
+            "source": {
+                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+                "name": "Firstpost",
+                "url": "https://www.firstpost.com",
+                "country": "in"
+            },
+            "title": "What will happen if AI bubble bursts? Google boss Sundar Pichai says...",
+            "url": "https://www.firstpost.com/tech/what-will-happen-if-ai-bubble-bursts-google-boss-sundar-pichai-says-13951776.html",
+            "urlToImage": "https://images.firstpost.com/uploads/2025/10/Firstpost-2025-10-24T145741.655-2025-10-5821957ab298b5f2fb0d781dec80fb50.jpg?im=FitAndFill=(1200,675)",
+            "publishedAt": "2025-11-18T10:00:27Z"
+        },
+        {
+            "source": {
+                "id": "c1903669db0b115cc673ce9c333a70dd",
+                "name": "Charleston Post and Courier",
+                "url": "https://www.postandcourier.com",
+                "country": "us"
+            },
+            "title": "As Winthrop introduces SC’s first AI major, debate continues",
+            "url": "https://www.postandcourier.com/york-county/news/winthrop-university-ai-major-arts-education/article_cac12056-39d1-445c-a813-5723e2c5fffc.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/7/19/719c10e8-ce8e-4a16-b267-355b96bb28c3/691b5031d7c36.image.png?crop=1792%2C941%2C0%2C0&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2025-11-18T10:00:00Z"
+        },
+        {
+            "source": {
+                "id": "602d1de710d66397a00201d8efdd36ee",
+                "name": "Inc. Magazine",
+                "url": "https://www.inc.com",
+                "country": "us"
+            },
+            "title": "Paul McCartney's Next Track Will Be Silent-and It's All Because of AI",
+            "url": "https://www.inc.com/ben-sherry/paul-mccartneys-next-track-will-be-silent-and-its-all-because-of-ai/91266464",
+            "urlToImage": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2025/11/paul-mccartney-silent-track-ai-inc-1083522562.jpg",
+            "publishedAt": "2025-11-18T10:00:00Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Alibaba unveils major consumer AI upgrade with new Qwen chatbot",
+            "url": "https://www.reuters.com/world/asia-pacific/alibaba-unveils-major-consumer-ai-upgrade-with-new-qwen-chatbot-2025-11-18/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/KKOQAHZVLBP2PJCVTZC6W7JCQM.jpg?auth=2e1c61fae8870431e188b8c3f17a4b911e6ba4aeb2d835673ba63580f51ebae3&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-11-18T09:57:49Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Alibaba unveils major consumer AI upgrade with new Qwen chatbot",
+            "url": "https://www.marketscreener.com/news/alibaba-unveils-major-consumer-ai-upgrade-with-new-qwen-chatbot-ce7d5edbdb8df020",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2025-11-18T09:57:27Z"
+        },
+        {
+            "source": {
+                "id": "f81e0cedbddbe08e3058634e8bb4a56f",
+                "name": "Barchart",
+                "url": "https://www.barchart.com",
+                "country": "us"
+            },
+            "title": "World shares sink, tracking a tech-led sell-off on Wall Street",
+            "url": "https://www.barchart.com/story/news/36173635/world-shares-sink-tracking-a-tech-led-sell-off-on-wall-street",
+            "urlToImage": "https://barchart-news-media-prod.aws.barchart.com/ap/7d25768972be44a685a3b8f9bb5e9977/7d25768972be44a685a3b8f9bb5e9977_main_financial_markets_wall_street_18440.jpg",
+            "publishedAt": "2025-11-18T09:50:41Z"
+        },
+        {
+            "source": {
+                "id": "384b3c633f1aa3e0a1bcb208f94d519d",
+                "name": "SFGATE",
+                "url": "https://www.sfgate.com",
+                "country": "us"
+            },
+            "title": "World shares sink, tracking a tech-led sell-off on Wall Street",
+            "url": "https://www.sfgate.com/news/world/article/asian-shares-sink-tracking-a-tech-led-sell-off-21193840.php",
+            "urlToImage": "https://s.hdnux.com/photos/01/55/22/62/28650660/3/rawImage.jpg",
+            "publishedAt": "2025-11-18T09:50:41Z"
+        },
+        {
+            "source": {
+                "id": "f81e0cedbddbe08e3058634e8bb4a56f",
+                "name": "Barchart",
+                "url": "https://www.barchart.com",
+                "country": "us"
+            },
+            "title": "World shares sink, tracking a tech-led sell-off on Wall Street",
+            "url": "https://www.barchart.com/story/news/36173635/ai-doubts-extend-wall-street-sell-off-and-home-depot-profit-falls-short-for-3rd-time",
+            "urlToImage": "https://barchart-news-media-prod.aws.barchart.com/ap/7d25768972be44a685a3b8f9bb5e9977/7d25768972be44a685a3b8f9bb5e9977_main_financial_markets_wall_street_18440.jpg",
+            "publishedAt": "2025-11-18T09:50:41Z"
+        },
+        {
+            "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+            },
+            "title": "India's ATOMESUS AI: A Deep Dive into the Nation's Ambitious Artificial Intelligence Platform",
+            "url": "https://www.tribuneindia.com/news/business/indias-atomesus-ai-a-deep-dive-into-the-nations-ambitious-artificial-intelligence-platform/",
+            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWVkOGViNWIwLWM0NjEtMTFmMC1iMDY0LWVkNWUyYTYzNDljNy5qcGc=",
+            "publishedAt": "2025-11-18T09:35:26Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Explainable AI could transform how banks detect and verify fraud",
+            "url": "https://www.devdiscourse.com/article/technology/3697747-explainable-ai-could-transform-how-banks-detect-and-verify-fraud",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/14_11_2025_17_13_09_6210656.png?width=920&format=jpeg",
+            "publishedAt": "2025-11-18T09:20:21Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "India's IT spending to grow 10.6% to reach $176.3 billion in 2026",
+            "url": "https://economictimes.indiatimes.com/tech/information-tech/indias-it-spending-to-grow-10-6-to-reach-176-3-billion-in-2026/articleshow/125407294.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-12550,resizemode-75,msid-125407294/tech/information-tech/indias-it-spending-to-grow-10-6-to-reach-176-3-billion-in-2026.jpg",
+            "publishedAt": "2025-11-18T09:10:02Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "AI-driven AutoML system promises reliable, scalable security for next-generation networks",
+            "url": "https://www.devdiscourse.com/article/technology/3695650-ai-driven-automl-system-promises-reliable-scalable-security-for-next-generation-networks",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/13_11_2025_11_19_33_4555775.png?width=920&format=jpeg",
+            "publishedAt": "2025-11-18T08:57:37Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "AI Innovation Redefines the Boundaries of Credit Management",
+            "url": "https://techbullion.com/ai-innovation-redefines-the-boundaries-of-credit-decisioning/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/11/AI-Innovation-Redefines-the-Boundaries-of-Credit-Decisioning-1000x504.png",
+            "publishedAt": "2025-11-18T08:32:41Z"
+        },
         {
             "source": {
                 "id": "6a3aad3dbb44ac873f72b594aaea22c4",
@@ -768,6 +936,24 @@
             "url": "https://www.globenewswire.com/news-release/2025/11/18/3190335/0/en/Sophos-Integrates-Advanced-Cyber-Intelligence-into-Microsoft-Security-Copilot-and-Microsoft-365-Copilot.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/35db908a-b7b8-4ce0-b920-69875da346ba",
             "publishedAt": "2025-11-18T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "digitaltrends"
+            },
+            "title": "Google Search and Gemini users to get more accurate, timely weather forecasts powered by AI",
+            "url": "https://www.digitaltrends.com/computing/google-search-and-gemini-users-to-get-more-accurate-timely-weather-forecasts-powered-by-ai/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/11/Google-WeatherNext-2-.jpg?p=1&resize=1200%2C630",
+            "publishedAt": "2025-11-18 10:03:57"
+        },
+        {
+            "source": {
+                "name": "computerweekly"
+            },
+            "title": "Global on-device AI market tops $10bn in 2024",
+            "url": "https://www.computerweekly.com/news/366634447/Global-on-device-AI-market-tops-10bn-in-2024",
+            "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/HeroImages/AI-artificial-intelligence-chips-BAIVECTOR-adobe_searchsitetablet_520X173.jpg",
+            "publishedAt": "2025-11-18 08:40:00"
         },
         {
             "source": {
@@ -3132,150 +3318,6 @@
             "url": "https://www.webpronews.com/metas-wisconsin-ai-fortress-fueling-americas-infrastructure-arms-race/",
             "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-1433-1763363296.jpeg?fit=720%2C960&ssl=1",
             "publishedAt": "2025-11-17 07:08:20"
-        },
-        {
-            "source": {
-                "name": "timesnownews"
-            },
-            "title": "Samsung Galaxy S26 Ultra, S26+, S26 Launch Date, Price In India, Specifications, Camera And More: All You Need To Know",
-            "url": "https://www.timesnownews.com/technology-science/samsung-galaxy-s26-ultra-s26-s26-launch-date-price-in-india-specifications-camera-and-more-all-you-need-to-know-article-153164968",
-            "urlToImage": "https://images.timesnownews.com/thumb/msid-153164968,imgsize-20452,width-1280,height-720/153164968.jpg",
-            "publishedAt": "2025-11-17 06:59:27"
-        },
-        {
-            "source": {
-                "name": "sify"
-            },
-            "title": "Spiralism: The Cult-Like Belief System Emerging from AI",
-            "url": "https://www.sify.com/ai-analytics/spiralism-the-cult-like-belief-system-emerging-from-ai/",
-            "urlToImage": "https://www.sify.com/wp-content/uploads/2025/11/spiralism.webp",
-            "publishedAt": "2025-11-17 06:41:56"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "A Beginner’s Guide To Building AI Agents",
-            "url": "https://www.forbes.com/sites/bernardmarr/2025/11/17/a-beginners-guide-to-building-ai-agents/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/691abfddaffb9ce8109b540c/0x0.jpg?width=960",
-            "publishedAt": "2025-11-17 06:26:47"
-        },
-        {
-            "source": {
-                "name": "toi"
-            },
-            "title": "How interstellar objects reach Earth and where they are most likely to land",
-            "url": "https://timesofindia.indiatimes.com/science/how-interstellar-objects-reach-earth-and-where-they-are-most-likely-to-land/articleshow/125377563.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-125377736,imgsize-18536,width-400,resizemode-4/how-interstellar-objects-reach-earth-and-where-they-are-most-likely-to-land.jpg",
-            "publishedAt": "2025-11-17 06:08:00"
-        },
-        {
-            "source": {
-                "name": "postregister"
-            },
-            "title": "Captain T Cell Closes Financing Round to Advance its Proprietary, Next-Generation TCR-T ...",
-            "url": "https://www.postregister.com/businessreport/healthcare/captain-t-cell-closes-financing-round-to-advance-its-proprietary-next-generation-tcr-t/article_6369b988-e290-533c-b0ea-60ab2c50abc7.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
-            "publishedAt": "2025-11-17 06:02:55"
-        },
-        {
-            "source": {
-                "name": "hastingstribune"
-            },
-            "title": "Captain T Cell Closes Financing Round to Advance its Proprietary, Next-Generation TCR-T ...",
-            "url": "https://www.hastingstribune.com/ap/business/captain-t-cell-closes-financing-round-to-advance-its-proprietary-next-generation-tcr-t/article_53e13d93-b26a-525b-8c3d-9799d8e81b6e.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/hastingstribune.com/content/tncms/custom/image/7b43d562-eeac-11e4-8a7b-970670abfcb2.jpg?resize=600%2C315",
-            "publishedAt": "2025-11-17 06:02:55"
-        },
-        {
-            "source": {
-                "name": "medianama"
-            },
-            "title": "E2E Networks: India’s most affordable GPU Cloud for AI #Ad",
-            "url": "https://www.medianama.com/2025/11/223-e2e-networks-affordable-gpu-cloud/",
-            "urlToImage": "https://www.medianama.com/wp-content/uploads/2025/11/EE_AdBanner_SP_11Nov25-copy-31-100.jpg",
-            "publishedAt": "2025-11-17 05:22:04"
-        },
-        {
-            "source": {
-                "name": "businessinsider_us"
-            },
-            "title": "The Godmother of AI says young talent is 'overfocusing' on every detail of their career",
-            "url": "https://www.businessinsider.com/fei-fei-li-career-advice-young-talent-ai-engineers-researchers-2025-11",
-            "urlToImage": "https://i.insider.com/691a979f89026fbb4d0dc0b8?width=700",
-            "publishedAt": "2025-11-17 05:11:01"
-        },
-        {
-            "source": {
-                "name": "postregister"
-            },
-            "title": "Chevrolet Ranked #1 for Dealership Consistency in Pied Piper’s “Look-Alike IndexTM” AI Computer Vision Study",
-            "url": "https://www.postregister.com/businessreport/technology/chevrolet-ranked-1-for-dealership-consistency-in-pied-piper-s-look-alike-index-ai-computer/article_0aeb7d38-ce44-5777-9e7c-4075e2d26fd2.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
-            "publishedAt": "2025-11-17 05:02:45"
-        },
-        {
-            "source": {
-                "name": "irontontribune"
-            },
-            "title": "Tom Purcell: Striking the right chords",
-            "url": "https://irontontribune.com/2025/11/17/tom-purcell-striking-the-right-chords/",
-            "urlToImage": "https://irontontribune.com/wp-content/uploads/sites/17/2020/04/COLUMNIST-TOM-PURCELL.jpg",
-            "publishedAt": "2025-11-17 05:00:56"
-        },
-        {
-            "source": {
-                "name": "executivebiz"
-            },
-            "title": "Iron Mountain’s Melissa Carson Shares From Her Federal AI Playbook",
-            "url": "https://www.executivebiz.com/articles/melissa-carson-iron-mountain-ai-interview-data",
-            "urlToImage": "https://media.executivebiz.com/2025/11/melissa-carson-vp-and-gm-iron-mountain-gs.jpg",
-            "publishedAt": "2025-11-17 05:00:00"
-        },
-        {
-            "source": {
-                "name": "cision"
-            },
-            "title": "SOHU.COM REPORTS THIRD QUARTER 2025 UNAUDITED FINANCIAL RESULTS",
-            "url": "https://www.prnewswire.com/news-releases/sohucom-reports-third-quarter-2025-unaudited-financial-results-302616573.html",
-            "urlToImage": "https://mma.prnewswire.com/media/74524/sohu_com_logo.jpg?p=original",
-            "publishedAt": "2025-11-17 05:00:00"
-        },
-        {
-            "source": {
-                "name": "thehindubusinessline"
-            },
-            "title": "India’s Chief Kingmaker sees Google unleashing $1 trillion boom",
-            "url": "https://www.thehindubusinessline.com/info-tech/indias-chief-kingmaker-sees-google-unleashing-1-trillion-boom/article70289365.ece",
-            "urlToImage": "https://bl-i.thgim.com/public/incoming/jxqpqd/article70289424.ece/alternates/LANDSCAPE_1200/444233206.jpg",
-            "publishedAt": "2025-11-17 04:48:46"
-        },
-        {
-            "source": {
-                "name": "thehindubusinessline"
-            },
-            "title": "N. Chandrababu Naidu sees Google unleashing $1 trillion boom",
-            "url": "https://www.thehindubusinessline.com/info-tech/n-chandrababu-naidu-sees-google-unleashing-1-trillion-boom/article70289365.ece",
-            "urlToImage": "https://bl-i.thgim.com/public/incoming/jxqpqd/article70289424.ece/alternates/LANDSCAPE_1200/444233206.jpg",
-            "publishedAt": "2025-11-17 04:48:46"
-        },
-        {
-            "source": {
-                "name": "timesnownews"
-            },
-            "title": "CMAT Registration 2026 Ends Today at cmat.nta.nic.in, Apply Soon!",
-            "url": "https://www.timesnownews.com/education/cmat-registration-2026-ends-today-at-cmat-nta-nic-in-apply-soon-mba-admissions-article-153164225",
-            "urlToImage": "https://images.timesnownews.com/thumb/msid-153164237,thumbsize-41276,width-1280,height-720,resizemode-75/153164237.jpg",
-            "publishedAt": "2025-11-17 04:44:01"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Discover the Latest Innovations at the Premier Semicon Conference of 2025",
-            "url": "https://techannouncer.com/discover-the-latest-innovations-at-the-premier-semicon-conference-of-2025/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/11/48173619thumbnail-332x187.jpeg",
-            "publishedAt": "2025-11-17 04:17:05"
         }
     ]
 }
