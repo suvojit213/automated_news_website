@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2025-11-18T10:19:10.309910Z",
+    "lastUpdatedAt": "2025-11-18T11:14:54.136053Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "BofA says AI is boosting bankers' productivity, revenue",
+            "url": "https://www.thestar.com.my/tech/tech-news/2025/11/18/bofa-says-ai-is-boosting-bankers039-productivity-revenue",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/18/3627233.jpg",
+            "publishedAt": "2025-11-17T23:06:00Z"
+        },
+        {
+            "source": {
+                "id": "bc49d994b41ac710f5c89f6e6adeece4",
+                "name": "The Boston Herald",
+                "url": "https://www.bostonherald.com",
+                "country": "us"
+            },
+            "title": "Nvidia, bitcoin drag on market",
+            "url": "https://www.bostonherald.com/2025/11/17/nvidia-bitcoin-drag-on-market/",
+            "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/11/AP25317562962690.jpg?w=1024&h=683",
+            "publishedAt": "2025-11-17T23:03:57Z"
+        },
+        {
+            "source": {
+                "id": "28bc60a23a7bf89e60f893506992a3fe",
+                "name": "Daily Excelsior",
+                "url": "https://www.dailyexcelsior.com",
+                "country": "in"
+            },
+            "title": "India committed to strong cybersecurity frameworks, data protection across borders: MoS Telecom",
+            "url": "https://www.dailyexcelsior.com/india-committed-to-strong-cybersecurity-frameworks-data-protection-across-borders-mos-telecom/",
+            "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2025/11/MOS.jpg",
+            "publishedAt": "2025-11-17T22:57:01Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Google asks court to dismiss conservative influencer's AI defamation lawsuit",
+            "url": "https://www.reuters.com/legal/government/google-asks-court-dismiss-conservative-influencers-ai-defamation-lawsuit-2025-11-17/",
+            "urlToImage": "https://ajo.prod.reuters.tv/api/v2/img/691b060fe4b04fae5692d4ae?height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-11-17T22:54:18Z"
+        },
+        {
+            "source": {
+                "id": "28bc60a23a7bf89e60f893506992a3fe",
+                "name": "Daily Excelsior",
+                "url": "https://www.dailyexcelsior.com",
+                "country": "in"
+            },
+            "title": "Singapore minister warns of increased AI use among radicalised youths",
+            "url": "https://www.dailyexcelsior.com/singapore-minister-warns-of-increased-ai-use-among-radicalised-youths/",
+            "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2025/11/SING.jpg",
+            "publishedAt": "2025-11-17T22:53:05Z"
+        },
+        {
+            "source": {
+                "id": "0d429ea54fdbe8e34c582aa31bc81aba",
+                "name": "The Boston Globe",
+                "url": "https://www.bostonglobe.com",
+                "country": "us"
+            },
+            "title": "Scientific journals are contending with letters written with AI",
+            "url": "https://www.bostonglobe.com/2025/11/17/nation/scientific-journals-letters-ai/",
+            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/TVSOD2H3OMI6LN4OANTNT47F6U.jpg?auth=46376e916ca8c304144beb1662bd5907ea00c6549853f7accfff8a6a3eab6f1e&width=1440",
+            "publishedAt": "2025-11-17T22:23:37Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Tech Down Amid Valuation Worries Ahead of Nvidia's Earnings -- Tech Roundup",
+            "url": "https://www.marketscreener.com/news/tech-down-amid-valuation-worries-ahead-of-nvidia-s-earnings-tech-roundup-ce7d5edade89f226",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2025-11-17T22:19:32Z"
+        },
         {
             "source": {
                 "id": "5ac5f32ba74846cef441099f666f2d98",
@@ -1455,6 +1539,15 @@
         },
         {
             "source": {
+                "name": "utexas"
+            },
+            "title": "UT Eclipses 5,000 GPUs To Increase Dominance in Open-Source AI, Strengthen Nation’s Computing Power",
+            "url": "https://news.utexas.edu/2025/11/17/ut-eclipses-5000-gpus-to-increase-dominance-in-open-source-ai-strengthen-nations-computing-power/",
+            "urlToImage": "https://news.utexas.edu/wp-content/uploads/2025/11/SDC-Austin_cover3_2000px2x1-600x400-c-default.jpg",
+            "publishedAt": "2025-11-17 23:05:44"
+        },
+        {
+            "source": {
                 "name": "wired"
             },
             "title": "The 4 Things You Need for a Tech Bubble",
@@ -1487,6 +1580,42 @@
             "title": "WhiteFiber, Inc. Announces Participation in Upcoming Investor Conferences",
             "url": "https://www.berkshireeagle.com/online_features/press_releases/whitefiber-inc-announces-participation-in-upcoming-investor-conferences/article_a871698f-a808-5264-ad57-574a971fcb76.html",
             "urlToImage": "https://bloximages.newyork1.vip.townnews.com/berkshireeagle.com/content/tncms/assets/v3/editorial/9/1a/91a90141-800b-5973-99e2-f005535726d6/690da1e60e20a.image.jpg?resize=400%2C52",
+            "publishedAt": "2025-11-17 21:01:00"
+        },
+        {
+            "source": {
+                "name": "thewesterlysun"
+            },
+            "title": "WhiteFiber, Inc. Announces Participation in Upcoming Investor Conferences",
+            "url": "https://www.thewesterlysun.com/online_features/press_releases/whitefiber-inc-announces-participation-in-upcoming-investor-conferences/article_398190a4-15bd-5cd9-b920-b8d4affcef3c.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/thewesterlysun.com/content/tncms/assets/v3/editorial/3/75/375a2c49-c9aa-549e-b480-d363c113c3fc/690da1bfaf015.image.jpg?resize=300%2C39",
+            "publishedAt": "2025-11-17 21:01:00"
+        },
+        {
+            "source": {
+                "name": "courier-tribune"
+            },
+            "title": "WhiteFiber, Inc. Announces Participation in Upcoming Investor Conferences",
+            "url": "https://www.courier-tribune.com/online_features/press_releases/whitefiber-inc-announces-participation-in-upcoming-investor-conferences/article_c61dffd9-53ba-5be6-ba59-575847d55d0f.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/courier-tribune.com/content/tncms/assets/v3/editorial/0/b9/0b96b986-0f30-5e5d-ac12-2d9307d8d78a/690da2f76a5f5.image.jpg?resize=300%2C39",
+            "publishedAt": "2025-11-17 21:01:00"
+        },
+        {
+            "source": {
+                "name": "qchron"
+            },
+            "title": "WhiteFiber, Inc. Announces Participation in Upcoming Investor Conferences",
+            "url": "https://www.qchron.com/online_features/press_releases/whitefiber-inc-announces-participation-in-upcoming-investor-conferences/article_6f73f263-46e8-57eb-8c24-1acece305266.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/qchron.com/content/tncms/assets/v3/editorial/c/a3/ca304c03-27ad-5f53-aec3-8bc86fb32b63/690da210d7658.image.jpg?resize=400%2C52",
+            "publishedAt": "2025-11-17 21:01:00"
+        },
+        {
+            "source": {
+                "name": "journal_news"
+            },
+            "title": "WhiteFiber, Inc. Announces Participation in Upcoming Investor Conferences",
+            "url": "https://www.journal-news.net/online_features/press_releases/whitefiber-inc-announces-participation-in-upcoming-investor-conferences/article_82e128a5-68aa-576a-ae64-d040418899ba.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/journal-news.net/content/tncms/assets/v3/editorial/8/d9/8d96be4c-0c96-5a76-9d27-d2f99b33c19d/690da020e231d.image.jpg?resize=300%2C39",
             "publishedAt": "2025-11-17 21:01:00"
         },
         {
@@ -3099,114 +3228,6 @@
             "url": "https://us.headtopics.com/news/i-tested-4-chatgpt-prompt-generators-and-here-s-the-one-75911627",
             "urlToImage": "https://i.headtopics.com/images/2025/11/16/digitaltrends/i-tested-4-chatgpt-prompt-generators-and-here-s-th-i-tested-4-chatgpt-prompt-generators-and-here-s-th-16AC73B0DBBDE7E8B322AEEBEFB4B037.webp",
             "publishedAt": "2025-11-16 21:39:25"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "OpenAI’s Twitter Presence: From AI Breakthroughs to Sam Altman’s Latest Thoughts",
-            "url": "https://techannouncer.com/openais-twitter-presence-from-ai-breakthroughs-to-sam-altmans-latest-thoughts/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/11/57c70fc0thumbnail-332x187.jpeg",
-            "publishedAt": "2025-11-16 21:15:12"
-        },
-        {
-            "source": {
-                "name": "computerweekly"
-            },
-            "title": "AI’s hidden sting: a threat to millions of bees",
-            "url": "https://www.computerweekly.com/news/366634503/AIs-hidden-sting-a-threat-to-millions-of-bees",
-            "urlToImage": "https://www.computerweekly.com/visuals/German/article/bee-web-honeypot-adobe_searchsitetablet_520X173.jpg",
-            "publishedAt": "2025-11-16 21:06:00"
-        },
-        {
-            "source": {
-                "name": "computerweekly"
-            },
-            "title": "AI’s hidden sting: A threat to millions of bees",
-            "url": "https://www.computerweekly.com/news/366634503/AIs-hidden-sting-A-threat-to-millions-of-bees",
-            "urlToImage": "https://www.computerweekly.com/visuals/German/article/bee-web-honeypot-adobe_searchsitetablet_520X173.jpg",
-            "publishedAt": "2025-11-16 21:06:00"
-        },
-        {
-            "source": {
-                "name": "thelincolnianonline"
-            },
-            "title": "Quantum Computing Stocks To Add to Your Watchlist – November 16th",
-            "url": "https://www.thelincolnianonline.com/2025/11/16/quantum-computing-stocks-to-add-to-your-watchlist-november-16th.html",
-            "urlToImage": "https://www.marketbeat.com/logos/ionq-inc-logo-1200x675.png?v=20211203111404",
-            "publishedAt": "2025-11-16 21:04:53"
-        },
-        {
-            "source": {
-                "name": "digitaltrends"
-            },
-            "title": "I tested 4 ChatGPT prompt generators and here’s the one that helped the most",
-            "url": "https://www.digitaltrends.com/computing/i-tested-4-chatgpt-prompt-generators-and-heres-the-one-that-helped-the-most/",
-            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/10/chatgpt-shared-projects.jpg?p=1&resize=1200%2C630",
-            "publishedAt": "2025-11-16 21:00:00"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Top 5 Low-Cap Gems Poised for 500× Returns — How Ozak AI Could Turn Small Investments Into Life-Changing Profits",
-            "url": "https://www.analyticsinsight.net/cryptocurrency-analytics-insight/top-5-low-cap-gems-poised-for-500-returns-how-ozak-ai-could-turn-small-investments-into-life-changing-profits",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-11-16%2Fs7qnm21p%2FScreenshot-2025-11-16-192525.png?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-11-16 20:00:00"
-        },
-        {
-            "source": {
-                "name": "bgr_com"
-            },
-            "title": "5 Hidden iOS 26 Features That Are Actually Useful",
-            "url": "https://www.bgr.com/2022718/hidden-ios-26-features-useful/",
-            "urlToImage": "https://www.bgr.com/img/gallery/5-hidden-ios-26-features-that-are-actually-useful/l-intro-1761762849.jpg",
-            "publishedAt": "2025-11-16 18:17:00"
-        },
-        {
-            "source": {
-                "name": "sciencedaily"
-            },
-            "title": "AI creates the first 100-billion-star Milky Way simulation",
-            "url": "https://www.sciencedaily.com/releases/2025/11/251116105515.htm",
-            "urlToImage": "https://www.sciencedaily.com/images/1920/beautiful-spiral-galaxy.webp",
-            "publishedAt": "2025-11-16 17:27:23"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Google’s $40 Billion Texas Bet: Fueling the AI Boom with Data Centers and Jobs",
-            "url": "https://www.webpronews.com/googles-40-billion-texas-bet-fueling-the-ai-boom-with-data-centers-and-jobs/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-1357-1763270067.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-11-16 17:20:05"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Unlock Your Business Potential with an SBA Express Loan",
-            "url": "https://techannouncer.com/unlock-your-business-potential-with-an-sba-express-loan/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/11/0f0799b5thumbnail-332x187.jpeg",
-            "publishedAt": "2025-11-16 17:10:07"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Quantum Error Revolution: Harvard’s Atomic Leap Toward Fault-Tolerant Computing",
-            "url": "https://www.webpronews.com/quantum-error-revolution-harvards-atomic-leap-toward-fault-tolerant-computing/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-1356-1763269783.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-11-16 17:10:05"
-        },
-        {
-            "source": {
-                "name": "analyticsinsight"
-            },
-            "title": "Why Zero Knowledge Proof (ZKP) Is Emerging as the Best Next-Generation Crypto with 500x Potential",
-            "url": "https://www.analyticsinsight.net/cryptocurrency-analytics-insight/why-zero-knowledge-proof-zkp-is-emerging-as-the-best-next-generation-crypto-with-500x-potential",
-            "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-11-16%2Fg1q3wpb9%2FScreenshot-2025-11-16-175950.png?auto=format%2Ccompress&fit=max&w=480",
-            "publishedAt": "2025-11-16 17:00:00"
         }
     ]
 }
