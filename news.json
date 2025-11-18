@@ -1,6 +1,102 @@
 {
-    "lastUpdatedAt": "2025-11-18T05:16:01.334064Z",
+    "lastUpdatedAt": "2025-11-18T06:24:11.054988Z",
     "articles": [
+        {
+            "source": {
+                "id": "0c9364fff53c0e5a3450947d9a54e795",
+                "name": "Daily Mail Online",
+                "url": "https://www.dailymail.co.uk",
+                "country": "gb"
+            },
+            "title": "Former Disney Channel star's controversial app slammed as 'unethical' and 'disgusting'",
+            "url": "https://www.dailymail.co.uk/lifestyle/article-15296611/disney-channel-star-calum-worthy-app-2wai-slammed-ai.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2025/11/17/18/103880827-0-image-m-44_1763403520864.jpg",
+            "publishedAt": "2025-11-17T18:20:23Z"
+        },
+        {
+            "source": {
+                "id": "c73686fdf0e30639d57eddaf7a77236e",
+                "name": "India Today",
+                "url": "https://www.indiatoday.in",
+                "country": "in"
+            },
+            "title": "Maharashtra approves leopard sterilisation after 14 farmers killed in 2 months",
+            "url": "https://www.indiatoday.in/india/story/maharashtra-approves-leopard-sterilisation-after-14-farmers-killed-in-2-months-2821509-2025-11-17",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202511/pune-news-leopards-attack-a-child-120501557-16x9.png?VersionId=OOTX76iQgqqm8M9I4XBaVuw4_0hGXJHz",
+            "publishedAt": "2025-11-17T18:15:20Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "BofA says AI is boosting bankers' productivity, revenue",
+            "url": "https://www.reuters.com/business/finance/bofa-says-ai-is-boosting-bankers-productivity-revenue-2025-11-17/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/ADZONAXKYJK75GWJKSLWIO2QQM.jpg?auth=4d708810c45f7d9af08be6c3b7ab8a58ecd112e271423f8e79f8ea5d116e44e5&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-11-17T18:08:26Z"
+        },
+        {
+            "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+            },
+            "title": "10 cybersecurity terms investors should know, and 2 industry-leading stocks to buy",
+            "url": "https://www.cnbc.com/2025/11/17/10-cybersecurity-terms-investors-should-know-and-2-industry-leading-stocks-to-buy.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107422893-1717184417711-gettyimages-1437761046-dsc04600.jpeg?v=1762213939&w=1920&h=1080",
+            "publishedAt": "2025-11-17T18:06:47Z"
+        },
+        {
+            "source": {
+                "id": "17d7c2645f485578130862e0c8dd9480",
+                "name": "The Mercury News",
+                "url": "https://www.mercurynews.com",
+                "country": "us"
+            },
+            "title": "Peter Thiel’s fund sold off entire Nvidia stake last quarter",
+            "url": "https://www.mercurynews.com/2025/11/17/peter-thiels-fund-sold-off-entire-nvidia-stake-last-quarter/",
+            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2020/10/hypatia-h_53e9a059be54baedad485a50a9393c67-h_f36599177f1820b9d00933527b197ce7.jpg?w=1024&h=683",
+            "publishedAt": "2025-11-17T17:51:35Z"
+        },
+        {
+            "source": {
+                "id": "105bb16685822879671e4bad332aeec9",
+                "name": "The Mirror",
+                "url": "https://www.mirror.co.uk",
+                "country": "gb"
+            },
+            "title": "ISIS using artificial intelligence to recruit Brits as MI5 and MI6 monitor AI use",
+            "url": "https://www.mirror.co.uk/news/world-news/isis-using-artificial-intelligence-recruit-36260667",
+            "urlToImage": "https://i2-prod.mirror.co.uk/article36261651.ece/ALTERNATES/s1200/2_Screenshot-2025-11-17-at-143533.jpg",
+            "publishedAt": "2025-11-17T17:36:56Z"
+        },
+        {
+            "source": {
+                "id": "2f5884e252590f739df55c0e7db375df",
+                "name": "WJLA",
+                "url": "https://wjla.com",
+                "country": "us"
+            },
+            "title": "Democratic senators urge Trump administration to release cybersecurity issues report",
+            "url": "https://wjla.com/news/nation-world/democratic-senators-mark-warner-ron-wyden-urge-trump-administration-kristi-noem-tulsi-gabbard-to-release-telecommunications-cybersecurity-issues-report",
+            "urlToImage": "https://wjla.com/resources/media/cc56492e-1ca8-4f44-906e-2a04138fba59-Untitleddesign11.png",
+            "publishedAt": "2025-11-17T17:24:56Z"
+        },
+        {
+            "source": {
+                "id": "9f53afb019d44feb16bcc7da150e679a",
+                "name": "Baltimore News",
+                "url": "https://foxbaltimore.com",
+                "country": "us"
+            },
+            "title": "Democratic senators urge Trump administration to release cybersecurity issues report",
+            "url": "https://foxbaltimore.com/station/share/democratic-senators-mark-warner-ron-wyden-urge-trump-administration-kristi-noem-tulsi-gabbard-to-release-telecommunications-cybersecurity-issues-report",
+            "urlToImage": "https://foxbaltimore.com/resources/media/cc56492e-1ca8-4f44-906e-2a04138fba59-Untitleddesign11.png",
+            "publishedAt": "2025-11-17T17:24:56Z"
+        },
         {
             "source": {
                 "id": "b419a989918b3665a34559f5047546b6",
@@ -1119,6 +1215,24 @@
         },
         {
             "source": {
+                "name": "latimes"
+            },
+            "title": "Did sanctions create China's AI billionaire?",
+            "url": "https://www.latimes.com/business/story/2025-11-17/did-sanctions-create-chinas-ai-billionaire",
+            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/46f112d/2147483647/strip/true/crop/2000x1050+0+143/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F8e%2F22%2F8b7c006373116dbb46de13c206ef%2F1x-1.jpg",
+            "publishedAt": "2025-11-17 17:52:20"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "2025 Tech Horizon: AI Agents, Quantum Leaps, and Decentralized Futures",
+            "url": "https://www.webpronews.com/2025-tech-horizon-ai-agents-quantum-leaps-and-decentralized-futures/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-1423-1763361746.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-11-17 17:40:04"
+        },
+        {
+            "source": {
                 "name": "tomsguide"
             },
             "title": "Surfshark warns \"don't buy our VPN yet\" days before Black Friday",
@@ -1350,6 +1464,33 @@
             "url": "https://spectrum.ieee.org/microfluidics-cooling-ai-chips-corintis",
             "urlToImage": "https://spectrum.ieee.org/media-library/close-up-of-ai-chips-with-microfluidic-cores-their-patterns-resemble-abstract-fingerprints.jpg?id=62132557&width=980",
             "publishedAt": "2025-11-17 15:00:02"
+        },
+        {
+            "source": {
+                "name": "biztoc"
+            },
+            "title": "This Semiconductor Stock Just Got a New Street-High Price Target. Should You Buy It Now?",
+            "url": "https://biztoc.com/x/5c36865289221e28",
+            "urlToImage": "https://cdn.biztoc.com/5c36865289221e28_s.webp",
+            "publishedAt": "2025-11-17 14:03:56"
+        },
+        {
+            "source": {
+                "name": "en_prnasisa"
+            },
+            "title": "Compal Showcases Flagship AI Server SGX30-2 built on NVIDIA HGXTM B300 at SC25, Leveraging New Technology to Drive the Next generation of Intelligent Data Centers",
+            "url": "https://en.prnasia.com/story/512269-0.shtml",
+            "urlToImage": "https://mma.prnasia.com/media2/2824323/Compal_Showcases_Flagship_AI_Server_SGX30_2_built_NVIDIA_HGX__B300.jpg?p=medium600",
+            "publishedAt": "2025-11-17 14:00:00"
+        },
+        {
+            "source": {
+                "name": "cision"
+            },
+            "title": "Compal Showcases Flagship AI Server SGX30-2 built on NVIDIA HGXTM B300 at SC25, Leveraging New Technology to Drive the Next generation of Intelligent Data Centers",
+            "url": "https://www.prnewswire.com/news-releases/compal-showcases-flagship-ai-server-sgx30-2-built-on-nvidia-hgx-b300-at-sc25-leveraging-new-technology-to-drive-the-next-generation-of-intelligent-data-centers-302616565.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2824323/Compal_Showcases_Flagship_AI_Server_SGX30_2_built_NVIDIA_HGX__B300.jpg?p=original",
+            "publishedAt": "2025-11-17 14:00:00"
         },
         {
             "source": {
@@ -3006,123 +3147,6 @@
             "url": "https://hackernoon.com/are-women-visible-enough-online-an-analysis-of-gender-representation-in-google-image-search-results",
             "urlToImage": "https://hackernoon.imgix.net/images/a-split-screen-visualization-on-one-side-global-political-institutions-filled-with-diverse-women-on-the-other-a-search-engine-results-grid-dominated-by-men-symbolizing-algorithmic-gender-bias-l0ss79iq2xfceb0i0numyfno.png",
             "publishedAt": "2025-11-16 11:07:55"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "How Search Engines Reinforce Gender Gaps in Political Representation",
-            "url": "https://hackernoon.com/how-search-engines-reinforce-gender-gaps-in-political-representation",
-            "urlToImage": "https://hackernoon.imgix.net/images/5wpKgV75aONqkTJlafw2yQmK9yd2-pd03bls.png",
-            "publishedAt": "2025-11-16 11:07:46"
-        },
-        {
-            "source": {
-                "name": "news24online"
-            },
-            "title": "Masterstroke by China in technology, completes first phase trial of 6G, where is India in this race?",
-            "url": "https://news24online.com/tech/masterstroke-by-china-in-technology-completes-first-phase-trial-of-6g-where-is-india-in-this-race/669656/",
-            "urlToImage": "https://news24online.com/wp-content/uploads/2025/11/china.jpg",
-            "publishedAt": "2025-11-16 11:06:33"
-        },
-        {
-            "source": {
-                "name": "cnet"
-            },
-            "title": "This Simple Habit Knocks $100 Off Your Electric Bill, and It Takes Zero Effort",
-            "url": "https://www.cnet.com/how-to/this-simple-habit-knocks-100-off-your-electric-bill-and-it-takes-zero-effort/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/10b113c95696a8947573ed1f6899c5b37ee3b74e/hub/2024/02/21/c7c147cf-8d74-4b10-b9e4-6df0bad3a124/gettyimages-1353145216.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-11-16 11:00:55"
-        },
-        {
-            "source": {
-                "name": "cnet"
-            },
-            "title": "GoPro Max 2 Review: Simplifies the 360-Degree Camera Experience",
-            "url": "https://www.cnet.com/tech/computing/gopro-max-2-review-simplifies-the-360-degree-camera-experience/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/b92565d389db99c51af98ab362437025f1b95b07/hub/2025/10/06/c68f472a-d599-4657-b810-e6f90edb5a69/gopro-max-2-2-of-4.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-11-16 11:00:53"
-        },
-        {
-            "source": {
-                "name": "geeky_gadgets"
-            },
-            "title": "Gemini 3.0 Pro in Canvas Builds OS Clones and Dazzling SVG Sites in Minutes",
-            "url": "https://www.geeky-gadgets.com/gemini-3-0-pro-canvas-testing/",
-            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/11/gemini-3-0-pro-release-nov-18-teaser_optimized.webp",
-            "publishedAt": "2025-11-16 11:00:04"
-        },
-        {
-            "source": {
-                "name": "fortune"
-            },
-            "title": "How U.S. policy uncertainty is driving companies to Europe",
-            "url": "https://fortune.com/2025/11/16/american-companies-are-moving-to-europe-ireland-foreign-direct-investment/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/11/ivan-houlihan.png?w=2048",
-            "publishedAt": "2025-11-16 11:00:00"
-        },
-        {
-            "source": {
-                "name": "columbiagorgenews"
-            },
-            "title": "Samsung plans $310 bn investment to power AI expansion",
-            "url": "https://www.columbiagorgenews.com/news/national/samsung-plans-310-bn-investment-to-power-ai-expansion/article_89ad577d-2158-5037-a077-0ec19afb8da7.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/columbiagorgenews.com/content/tncms/assets/v3/editorial/7/d8/7d85f4bc-77ae-5865-be6b-5b75cd74695b/6919b26e382d5.image.jpg?resize=300%2C203",
-            "publishedAt": "2025-11-16 10:45:54"
-        },
-        {
-            "source": {
-                "name": "ttownmedia"
-            },
-            "title": "Samsung plans $310 bn investment to power AI expansion",
-            "url": "https://www.ttownmedia.com/news/national/samsung-plans-310-bn-investment-to-power-ai-expansion/article_dc9bcd7b-22c2-5c87-91ba-06f8adef9c37.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/ttownmedia.com/content/tncms/assets/v3/editorial/d/81/d819da06-1856-58f1-b471-63bd171d997c/6919b27069472.image.jpg?resize=300%2C203",
-            "publishedAt": "2025-11-16 10:45:54"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Top Picks for the Best Tech News App on iOS in 2025",
-            "url": "https://techannouncer.com/top-picks-for-the-best-tech-news-app-on-ios-in-2025/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/11/b64b5797thumbnail-332x187.jpeg",
-            "publishedAt": "2025-11-16 09:31:08"
-        },
-        {
-            "source": {
-                "name": "benzinga"
-            },
-            "title": "Bill Gates' Daughter Phoebe's AI Shopping Assistant Found Collecting Extensive User Data: Report",
-            "url": "https://www.benzinga.com/markets/tech/25/11/48888554/bill-gates-daughter-phoebes-ai-shopping-assistant-found-collecting-extensive-user-data-report",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/11/16/Bill-Gates--Phoebe-Gates--shutterstock-2.jpeg?auto=jpg&dpr=1&fit=crop&height=480&optimize=medium&width=720",
-            "publishedAt": "2025-11-16 09:17:55"
-        },
-        {
-            "source": {
-                "name": "benzinga"
-            },
-            "title": "FY Energy Introduces a Renewable-Powered Digital Infrastructure Framework for the Future of Sustainable Computing",
-            "url": "https://www.benzinga.com/pressreleases/25/11/g48888533/fy-energy-introduces-a-renewable-powered-digital-infrastructure-framework-for-the-future-of-sustai",
-            "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/b0b444e8-19ea-4e1b-83fd-e5e251ea0ee7/image1.png",
-            "publishedAt": "2025-11-16 09:16:43"
-        },
-        {
-            "source": {
-                "name": "benzinga"
-            },
-            "title": "FY Energy Launches a Next-Generation Green Energy Computing & Digital Asset Growth Framework: Sustainable, Stable and Scalable",
-            "url": "https://www.benzinga.com/pressreleases/25/11/g48888531/fy-energy-launches-a-next-generation-green-energy-computing-digital-asset-growth-framework-sustain",
-            "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/a23751e4-c09b-4b6d-b8ce-9ad967f589fc/image1.png",
-            "publishedAt": "2025-11-16 09:13:31"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Unveiling the Top San Francisco Tech Companies Driving Innovation in 2025",
-            "url": "https://techannouncer.com/unveiling-the-top-san-francisco-tech-companies-driving-innovation-in-2025/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/11/655ffcd0thumbnail-332x187.jpeg",
-            "publishedAt": "2025-11-16 08:10:06"
         }
     ]
 }
