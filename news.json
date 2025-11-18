@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2025-11-18T12:34:08.379144Z",
+    "lastUpdatedAt": "2025-11-18T13:28:59.713767Z",
     "articles": [
+        {
+            "source": {
+                "id": "fd3677545b80d5db7541de8e111d27ba",
+                "name": "Moneycontrol",
+                "url": "https://www.moneycontrol.com",
+                "country": "in"
+            },
+            "title": "Elon Musk calls Jeff Bezos a 'copycat' as Amazon founder announces new $6.2B AI startup",
+            "url": "https://www.moneycontrol.com/technology/elon-musk-calls-jeff-bezos-a-copycat-as-amazon-founder-announces-new-6-2b-ai-startup-article-13681724.html",
+            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2024/09/20240925085607_MixCollage-25-Sep-2024-02-25-PM-4502.jpg",
+            "publishedAt": "2025-11-18T01:26:19Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Trump says he will sell F-35s to Saudi Arabia on eve of crown prince's Washington visit",
+            "url": "https://economictimes.indiatimes.com/news/defence/trump-says-he-will-sell-f-35s-to-saudi-arabia-on-eve-of-crown-princes-washington-visit/articleshow/125398947.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-125398956,width-1200,height-630,imgsize-88738,overlay-etdefence/articleshow.jpg",
+            "publishedAt": "2025-11-18T01:23:00Z"
+        },
+        {
+            "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+            },
+            "title": "The most joyless tech revolution ever: AI is making us rich and unhappy",
+            "url": "https://www.livemint.com/global/the-most-joyless-tech-revolution-ever-ai-is-making-us-rich-and-unhappy-11763428290054.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2025/11/18/1600x900/logo/g05b0623cb1380f0eed7107eb99e1cd8057e54f165e8f22aee_1763428573371_1763428573500.jpg",
+            "publishedAt": "2025-11-18T01:16:35Z"
+        },
+        {
+            "source": {
+                "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
+                "name": "CNBC TV18",
+                "url": "https://www.cnbctv18.com",
+                "country": "in"
+            },
+            "title": "Amazon raises $15 billion in first US bond sale in three years",
+            "url": "https://www.cnbctv18.com/market/amazon-raises-15-billion-in-first-us-bond-sale-in-three-years-19764675.htm",
+            "urlToImage": "https://images.cnbctv18.com/uploads/2025/10/2025-10-28t125504z-951921839-rc20lhayvrl9-rtrmadp-3-amazon-com-layoffs-2025-10-7af6fe6ddd30e9c6c05b3c8aa544776e-scaled.jpg?im=FitAndFill,width=500,height=300",
+            "publishedAt": "2025-11-18T00:59:27Z"
+        },
+        {
+            "source": {
+                "id": "01558c024928d45cf320f6f75eede787",
+                "name": "The Guardian",
+                "url": "https://www.theguardian.com",
+                "country": "gb"
+            },
+            "title": "Authors dumped from New Zealand’s top book prize after AI used in cover designs",
+            "url": "https://www.theguardian.com/world/2025/nov/18/authors-dumped-from-new-zealands-top-book-prize-after-ai-used-in-cover-designs",
+            "urlToImage": "https://i.guim.co.uk/img/media/9713cd17cb2b7e023a7b0fda3cd64d74cb292b66/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e0d835ee7442f9922b91fb7efe818176",
+            "publishedAt": "2025-11-18T00:55:29Z"
+        },
+        {
+            "source": {
+                "id": "f35c9e0c433f608ad7c48c3d4818bec4",
+                "name": "The Sun",
+                "url": "https://www.thesun.co.uk",
+                "country": "gb"
+            },
+            "title": "Consumers warned they could lose cash due to inaccurate advice from artificial intelligence tools",
+            "url": "https://www.thesun.co.uk/money/37353114/artificial-intelligence-tools-chatbots-advice-money/",
+            "urlToImage": "https://www.thesun.co.uk/wp-content/uploads/2025/11/2023-shows-logo-chatgpt-language-960087849_9b9859.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
+            "publishedAt": "2025-11-18T00:44:03Z"
+        },
         {
             "source": {
                 "id": "7c666ee953f873d3057b310220f510df",
@@ -3168,78 +3240,6 @@
             "url": "https://www.tribuneindia.com/news/entertainment/these-are-dark-times-you-become-a-voice-in-wilderness-mahesh-bhatt-on-mainstream-entertainment/",
             "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTI3MzJkODYwLWMyYjgtMTFmMC1iMDY0LWVkNWUyYTYzNDljNy5qcGc=",
             "publishedAt": "2025-11-16T06:47:35Z"
-        },
-        {
-            "source": {
-                "id": "9a9a0fb79c70bbf499d39baca94921ae",
-                "name": "Times of India",
-                "url": "https://timesofindia.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Digital bridge: Artificial intelligence platforms connect distressed youth to real-world support",
-            "url": "https://timesofindia.indiatimes.com/city/pune/digital-bridge-artificial-intelligence-platforms-connect-distressed-youth-to-real-world-support/articleshow/125360772.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-125360771,width-1070,height-580,imgsize-11682,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "publishedAt": "2025-11-16T06:39:00Z"
-        },
-        {
-            "source": {
-                "id": "73aabc646bff1356a46223f250cc6b52",
-                "name": "NDTV Profit",
-                "url": "https://www.ndtvprofit.com",
-                "country": "in"
-            },
-            "title": "AI Tool In National Disease Surveillance Helped Issue Over 5,000 Alerts To Health Authorities: Data",
-            "url": "https://www.ndtvprofit.com/nation/ai-tool-in-national-disease-surveillance-helped-issue-over-5000-alerts-to-health-authorities-data",
-            "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-02-27%2Fthvisfry%2FAI-hallucinations.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
-            "publishedAt": "2025-11-16T06:34:40Z"
-        },
-        {
-            "source": {
-                "id": "44d394a4e765f82b49b452e4302a72b0",
-                "name": "Business Standard",
-                "url": "https://www.business-standard.com",
-                "country": "in"
-            },
-            "title": "AI tool aids disease surveillance, issued 5,000 outbreak alerts: Study",
-            "url": "https://www.business-standard.com/technology/tech-news/ai-tool-aids-disease-surveillance-issued-5-000-outbreak-alerts-study-125111600137_1.html",
-            "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-06/04/thumb/featurecrop/1200X630/1749057535-1232.jpg",
-            "publishedAt": "2025-11-16T05:56:59Z"
-        },
-        {
-            "source": {
-                "id": "0c9364fff53c0e5a3450947d9a54e795",
-                "name": "Daily Mail Online",
-                "url": "https://www.dailymail.co.uk",
-                "country": "gb"
-            },
-            "title": "Every NRL team's 2026 draw ranked: Find out if your club is on the winners or losers list",
-            "url": "https://www.dailymail.co.uk/sport/nrl/article-15295461/Every-NRL-teams-2026-draw-ranked-club-winners-losers-list.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2025/11/16/05/103917823-0-image-m-94_1763270094374.jpg",
-            "publishedAt": "2025-11-16T05:16:16Z"
-        },
-        {
-            "source": {
-                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-                "name": "The Indian Express",
-                "url": "https://indianexpress.com",
-                "country": "in"
-            },
-            "title": "Google plans $40 billion Texas data center investment amid AI boom",
-            "url": "https://indianexpress.com/shorts/technology/artificial-intelligence/google-plans-40-billion-texas-data-center-investment-amid-ai-boom-10368636/",
-            "urlToImage": "https://images.indianexpress.com/2025/05/Google-Reuters.jpg",
-            "publishedAt": "2025-11-16T04:51:37Z"
-        },
-        {
-            "source": {
-                "id": "c5725557f39c24c8b029ee39900a8406",
-                "name": "The Tribune",
-                "url": "https://www.tribuneindia.com",
-                "country": "in"
-            },
-            "title": "Google commits $40 billion to expansion in Texas, its largest US state investment",
-            "url": "https://www.tribuneindia.com/news/usa-news/google-commits-40-billion-to-expansion-in-texas-its-largest-us-state-investment/",
-            "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWJlNWIzMjIwLWMyYTctMTFmMC1iMDY0LWVkNWUyYTYzNDljNy5qcGc=",
-            "publishedAt": "2025-11-16T04:50:03Z"
         }
     ]
 }
