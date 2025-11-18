@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2025-11-18T09:17:56.566607Z",
+    "lastUpdatedAt": "2025-11-18T10:19:10.309910Z",
     "articles": [
+        {
+            "source": {
+                "id": "5ac5f32ba74846cef441099f666f2d98",
+                "name": "Fast Company",
+                "url": "https://www.fastcompany.com",
+                "country": "us"
+            },
+            "title": "Frontline workers say companies aren’t being transparent about AI",
+            "url": "https://www.fastcompany.com/91443289/frontline-workers-say-companies-arent-being-transparent-about-ai-integration",
+            "urlToImage": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2025/11/p-91443289-1-in-4-workers-want-AI-help-over-time-off.jpg",
+            "publishedAt": "2025-11-17T22:00:00Z"
+        },
+        {
+            "source": {
+                "id": "85b540771682043e2a9f294068f5345b",
+                "name": "Breitbart News Network",
+                "url": "https://www.breitbart.com",
+                "country": "us"
+            },
+            "title": "Asian shares sink, tracking a tech",
+            "url": "https://www.breitbart.com/news/asian-shares-sink-tracking-a-tech-led-sell-off-on-wall-street/",
+            "urlToImage": "https://media.breitbart.com/media/2025/11/wi/ap/japan-financial-markets-88367-japan-financial-markets-people-walk-an-electronic-stock-board-japan-640x335.jpg",
+            "publishedAt": "2025-11-17T21:56:47Z"
+        },
+        {
+            "source": {
+                "id": "492abf277b7277432148b61b21ddc836",
+                "name": "Los Angeles Times",
+                "url": "https://www.latimes.com",
+                "country": "us"
+            },
+            "title": "Nvidia, bitcoin and other falling stars drag stock market lower",
+            "url": "https://www.latimes.com/business/story/2025-11-17/nvidia-bitcoin-other-falling-stars-drag-stock-market-lower",
+            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/2bd5f96/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc6%2F08%2F433b98d54b808b969406d6eb11cc%2Fb72e904bbe7844d186bfed1a24f1d28f.jpg",
+            "publishedAt": "2025-11-17T21:45:27Z"
+        },
+        {
+            "source": {
+                "id": "891063cd06eaab8a5cf530418fb4c0be",
+                "name": "XDA Developers",
+                "url": "https://www.xda-developers.com",
+                "country": "us"
+            },
+            "title": "PUBG's creator is betting big on machine learning for his next game",
+            "url": "https://www.xda-developers.com/playerunknown-interview-prologue-go-wayback-machine-learning/",
+            "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2025/11/prologue-go-wayback.jpg?w=1600&h=900&fit=crop",
+            "publishedAt": "2025-11-17T21:31:18Z"
+        },
+        {
+            "source": {
+                "id": "eaeeaeaa1e329f65d3a921c9c867fd7b",
+                "name": "Washington Examiner",
+                "url": "https://www.washingtonexaminer.com",
+                "country": "us"
+            },
+            "title": "Musk calls Bezos a ‘copy cat’ for new AI effort",
+            "url": "https://www.washingtonexaminer.com/news/3889715/elon-musk-jeff-bezos-copy-cat-new-ai-effort/",
+            "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2025/11/musk-bezos-e1763414179833.jpg?1763396174&resize=1024,683",
+            "publishedAt": "2025-11-17T21:29:40Z"
+        },
         {
             "source": {
                 "id": "79e9a45376a66fd7e1a4e68bba928c39",
@@ -156,6 +216,18 @@
             "url": "https://www.ndtv.com/world-news/ai-to-create-more-jobs-than-it-eliminates-by-2027-report-9653254",
             "urlToImage": "https://c.ndtvimg.com/2025-11/s8b9gqr_ai_625x300_18_November_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
             "publishedAt": "2025-11-17T18:55:00Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Data Science Course Taught by FAANG Instructors - Interview Kickstart Adds Agile Automated Workflows to Python, SQL and ML Training",
+            "url": "https://www.manilatimes.net/2025/11/18/tmt-newswire/globenewswire/data-science-course-taught-by-faang-instructors-interview-kickstart-adds-agile-automated-workflows-to-python-sql-and-ml-training/2225796",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/11/18/831504.png",
+            "publishedAt": "2025-11-17T18:30:35Z"
         },
         {
             "source": {
@@ -636,6 +708,18 @@
             "url": "https://www.reuters.com/business/media-telecom/peter-thiels-fund-offloaded-nvidia-stake-third-quarter-filing-shows-2025-11-17/",
             "urlToImage": "https://www.reuters.com/resizer/v2/OWV6DQ67NVPK5LLHDILPQNQCF4.jpg?auth=12f9da8e7e91e0a44c5717d1f8f6c0b22da9faf8c898543ba7ed88ca6f371611&height=1005&width=1920&quality=80&smart=true",
             "publishedAt": "2025-11-17T13:48:57Z"
+        },
+        {
+            "source": {
+                "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+                "name": "TechBullion",
+                "url": "https://techbullion.com",
+                "country": "gb"
+            },
+            "title": "AI-Driven Finance: How Data Science and Financial Modeling Are Reshaping Global Markets",
+            "url": "https://techbullion.com/ai-driven-finance-how-data-science-and-financial-modeling-are-reshaping-global-markets/",
+            "urlToImage": "https://techbullion.com/wp-content/uploads/2025/11/AI-Driven-Finance-How-Data-Science-and-Financial-Modeling-Are-Reshaping-Global-Markets.jpg",
+            "publishedAt": "2025-11-17T13:42:41Z"
         },
         {
             "source": {
@@ -1368,6 +1452,24 @@
             "url": "https://www.globenewswire.com/news-release/2025/11/17/3189488/0/en/Data-Science-Course-Taught-by-FAANG-Instructors-Interview-Kickstart-Adds-Agile-Automated-Workflows-to-Python-SQL-and-ML-Training.html",
             "urlToImage": "https://i.ibb.co/FqsMn05X/Data-Science-Course-Online-Bootcamp-for-Professionals-11-17-2025-11-06-PM.png",
             "publishedAt": "2025-11-17T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "wired"
+            },
+            "title": "The 4 Things You Need for a Tech Bubble",
+            "url": "https://www.wired.com/story/uncanny-valley-podcast-4-things-you-need-for-a-tech-bubble/",
+            "urlToImage": "https://media.wired.com/photos/690a77fca74eaf504e5be2c3/master/w_120,c_limit/Uncanny-Valley-Roundtable-AI-Bubble-Business-2234427708.jpg",
+            "publishedAt": "2025-11-17 22:09:54"
+        },
+        {
+            "source": {
+                "name": "harvard"
+            },
+            "title": "Michael Smith named a Harvard College Professor",
+            "url": "https://seas.harvard.edu/news/2025/05/michael-smith-named-harvard-college-professor",
+            "urlToImage": "https://seas.harvard.edu/sites/default/files/styles/embedded_image_large/public/2025-05/MikeSmith_2019.jpg?itok=pjeCMZS4",
+            "publishedAt": "2025-11-17 21:44:41"
         },
         {
             "source": {
@@ -3105,87 +3207,6 @@
             "url": "https://www.analyticsinsight.net/cryptocurrency-analytics-insight/why-zero-knowledge-proof-zkp-is-emerging-as-the-best-next-generation-crypto-with-500x-potential",
             "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-11-16%2Fg1q3wpb9%2FScreenshot-2025-11-16-175950.png?auto=format%2Ccompress&fit=max&w=480",
             "publishedAt": "2025-11-16 17:00:00"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Linux Kernel’s AI Code Revolution: Guidelines for the Machine Age",
-            "url": "https://www.webpronews.com/linux-kernels-ai-code-revolution-guidelines-for-the-machine-age/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-1352-1763269400.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-11-16 16:30:05"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "Nautilus Unlocks Vintage Shortcuts: GNOME’s File Manager Catches Up on Copy-Paste",
-            "url": "https://www.webpronews.com/nautilus-unlocks-vintage-shortcuts-gnomes-file-manager-catches-up-on-copy-paste/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-1351-1763269329.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-11-16 16:20:05"
-        },
-        {
-            "source": {
-                "name": "webpronews"
-            },
-            "title": "AI’s Consent Revolution: Boosting Engagement 20% in 2025 Marketing",
-            "url": "https://www.webpronews.com/ais-consent-revolution-boosting-engagement-20-in-2025-marketing/",
-            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-1385-1763307229.jpeg?fit=720%2C960&ssl=1",
-            "publishedAt": "2025-11-16 15:33:52"
-        },
-        {
-            "source": {
-                "name": "notebookcheck"
-            },
-            "title": "China's 'army of humanoid robots' – viral video of mass delivery sparks fears",
-            "url": "https://www.notebookcheck.net/China-s-army-of-humanoid-robots-viral-video-of-mass-delivery-sparks-fears.1164115.0.html",
-            "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/china_army_humanoid_robots_viral_video_fear.jpg",
-            "publishedAt": "2025-11-16 15:20:00"
-        },
-        {
-            "source": {
-                "name": "bgr_com"
-            },
-            "title": "5 Of The Best Uses For Your PC's USB Ports That Aren't Charging",
-            "url": "https://www.bgr.com/2012148/best-uses-pc-usb-port-charging/",
-            "urlToImage": "https://www.bgr.com/img/gallery/5-of-the-best-uses-for-your-pcs-usb-ports-that-arent-charging/l-intro-1761840550.jpg",
-            "publishedAt": "2025-11-16 15:17:00"
-        },
-        {
-            "source": {
-                "name": "hackernoon"
-            },
-            "title": "Exploring and Explaining The New Frontiers of Advanced Prompt Injection",
-            "url": "https://hackernoon.com/exploring-and-explaining-the-new-frontiers-of-advanced-prompt-injection",
-            "urlToImage": "https://hackernoon.imgix.net/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-9703bvd.jpeg",
-            "publishedAt": "2025-11-16 15:00:03"
-        },
-        {
-            "source": {
-                "name": "forbes"
-            },
-            "title": "Warning Issued As Hackers Give Microsoft Windows The Finger: Report",
-            "url": "https://www.forbes.com/sites/daveywinder/2025/11/16/warning-issued-as-hackers-give-microsoft-windows-the-finger-report/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6919e02e13c1dffa4f280500/0x0.jpg?width=960",
-            "publishedAt": "2025-11-16 14:59:14"
-        },
-        {
-            "source": {
-                "name": "futurism"
-            },
-            "title": "Parents Using ChatGPT to Rear Their Children",
-            "url": "https://futurism.com/artificial-intelligence/parents-chatgpt-rear-children",
-            "urlToImage": "https://futurism.com/wp-content/uploads/2025/11/parents-chatgpt-rear-children.jpg?quality=85",
-            "publishedAt": "2025-11-16 14:43:54"
-        },
-        {
-            "source": {
-                "name": "techannouncer"
-            },
-            "title": "Discover Your Next Opportunity: Top Remote Startup Jobs Available Now (November 2025)",
-            "url": "https://techannouncer.com/discover-your-next-opportunity-top-remote-startup-jobs-available-now-november-2025/",
-            "urlToImage": "https://techannouncer.com/wp-content/uploads/2025/11/3ef9a254thumbnail-332x187.jpeg",
-            "publishedAt": "2025-11-16 14:29:08"
         }
     ]
 }
