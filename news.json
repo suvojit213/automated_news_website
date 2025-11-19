@@ -1,6 +1,66 @@
 {
-    "lastUpdatedAt": "2025-11-19T15:17:33.540977Z",
+    "lastUpdatedAt": "2025-11-19T16:21:28.964889Z",
     "articles": [
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Musk's xAI in advanced talks to raise $15 billion at $230 billion valuation, WSJ reports",
+            "url": "https://www.marketscreener.com/news/musk-s-xai-in-advanced-talks-to-raise-15-billion-lifting-valuation-to-230-billion-wsj-reports-ce7d5ed8db8bf223",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-11/2025-11-19T041724Z_1_LYNXMPELAI05G_RTROPTP_4_XAI-M-A-X.JPG",
+            "publishedAt": "2025-11-19T04:20:53Z"
+        },
+        {
+            "source": {
+                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+                "name": "Benzinga",
+                "url": "https://www.benzinga.com",
+                "country": "us"
+            },
+            "title": "Nvidia's Q3 Countdown: Crypto Punters Anticipate AI Darling to Surpass Earnings Forecast, Bet These Will Be Key Themes During The Call",
+            "url": "https://www.benzinga.com/markets/earnings/25/11/48941771/nvidias-q3-countdown-crypto-punters-anticipate-ai-darling-to-surpass-earnings-forecast-bet-these-will-be-key-themes-during-the-call",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/11/18/Kyiv--Ukraine---January-29--2025-Nvidia-.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2025-11-19T04:18:31Z"
+        },
+        {
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            },
+            "title": "AI set to expand choices for students, support teachers in India",
+            "url": "https://www.lokmattimes.com/business/ai-set-to-expand-choices-for-students-support-teachers-in-india/",
+            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202511193579812_202511.jpg",
+            "publishedAt": "2025-11-19T03:58:27Z"
+        },
+        {
+            "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+            },
+            "title": "AI set to expand choices for students, support teachers in India",
+            "url": "https://www.lokmattimes.com/technology/ai-set-to-expand-choices-for-students-support-teachers-in-india-1/",
+            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202511193579812_202511.jpg",
+            "publishedAt": "2025-11-19T03:58:27Z"
+        },
+        {
+            "source": {
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
+                "country": "in"
+            },
+            "title": "Google unveils Gemini’s next generation, aiming to turn its search engine into a ’thought partner’",
+            "url": "https://www.thehindu.com/sci-tech/technology/google-unveils-geminis-next-generation-aiming-to-turn-its-search-engine-into-a-thought-partner/article70297395.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/k68z1i/article70297398.ece/alternates/LANDSCAPE_1200/2025-11-13T120118Z_1467325632_RC2LU7ACSYAB_RTRMADP_3_GOOGLE-AI-HASSABIS.JPG",
+            "publishedAt": "2025-11-19T03:38:31Z"
+        },
         {
             "source": {
                 "id": "76a2f820b104591b97fed1b0932cec38",
@@ -192,6 +252,24 @@
             "url": "https://www.globenewswire.com/news-release/2025/11/19/3190936/0/en/DTST-Reports-Q3-2025-Results-Following-Transformative-CloudFirst-Sale.html",
             "urlToImage": "https://ml.globenewswire.com/Resource/Download/b0125737-e29a-4a9a-88f5-e3037d080d06",
             "publishedAt": "2025-11-19T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "thehindu"
+            },
+            "title": "Nvidia, Microsoft invest $15 billion in AI startup Anthropic",
+            "url": "https://www.thehindu.com/sci-tech/technology/nvidia-microsoft-invest-15-billion-in-ai-startup-anthropic/article70297394.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/teyo1l/article70297396.ece/alternates/LANDSCAPE_1200/2025-11-18T165836Z_473867683_RC2LU7ALFJ3O_RTRMADP_3_MICROSOFT-ANTHROPIC-AI.JPG",
+            "publishedAt": "2025-11-19 04:06:09"
+        },
+        {
+            "source": {
+                "name": "dailyrecordnews"
+            },
+            "title": "AP Technology SummaryBrief at 10:40 p.m. EST",
+            "url": "https://www.dailyrecordnews.com/ap_news/hitech/ap-technology-summarybrief-at-10-40-p-m-est/article_22d09859-0345-5bc1-9c82-1ae43bcd10e7.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/dailyrecordnews.com/content/tncms/custom/image/a76e5080-ce26-11eb-9a1f-6bcc37d0e88c.png?resize=600%2C315",
+            "publishedAt": "2025-11-19 03:40:13"
         },
         {
             "source": {
@@ -765,6 +843,18 @@
             "url": "https://www.manilatimes.net/2025/11/19/tmt-newswire/globenewswire/rs21-joins-aws-select-partner-network-to-accelerate-data-readiness-for-ai-adoption/2226834",
             "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
             "publishedAt": "2025-11-18T18:38:33Z"
+        },
+        {
+            "source": {
+                "id": "43ce1d937b6aed9ea231b649cb2b7b4b",
+                "name": "The Dallas Morning News",
+                "url": "https://www.dallasnews.com",
+                "country": "us"
+            },
+            "title": "Cloudflare resolves global outage that disrupted ChatGPT, X",
+            "url": "https://www.dallasnews.com/business/technology/2025/11/18/chatgpt-x-among-sites-blocked-in-widespread-cloudflare-outage/",
+            "urlToImage": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/2YTJVDZF5ZHWFAF4IKK67EH3B4.jpg?auth=e421b805831a753edebf7cce5b1cbc487cc8851128be2475cd205fdf9c6f1d1e&quality=80&width=1200&height=630&smart=true",
+            "publishedAt": "2025-11-18T18:35:54Z"
         },
         {
             "source": {
@@ -3288,78 +3378,6 @@
             "url": "https://www.12news.com/article/syndication/associatedpress/what-does-agentic-ai-mean-techs-newest-buzzword-is-a-mix-of-marketing-fluff-and-real-promise/616-9921047a-244c-4b30-a0b9-8cc969fb876f",
             "urlToImage": "https://media.tegna-media.com/assets/AssociatedPress/images/44de4eac-65d8-436d-bacd-c2e86893a278/20251118T110523/44de4eac-65d8-436d-bacd-c2e86893a278_750x422.jpg",
             "publishedAt": "2025-11-18 11:01:06"
-        },
-        {
-            "source": {
-                "name": "kvue"
-            },
-            "title": "What does 'agentic' AI mean? Tech's newest buzzword is a mix of marketing fluff and real promise",
-            "url": "https://www.kvue.com/article/syndication/associatedpress/what-does-agentic-ai-mean-techs-newest-buzzword-is-a-mix-of-marketing-fluff-and-real-promise/616-9921047a-244c-4b30-a0b9-8cc969fb876f",
-            "urlToImage": "https://media.tegna-media.com/assets/AssociatedPress/images/44de4eac-65d8-436d-bacd-c2e86893a278/20251118T110523/44de4eac-65d8-436d-bacd-c2e86893a278_750x422.jpg",
-            "publishedAt": "2025-11-18 11:01:06"
-        },
-        {
-            "source": {
-                "name": "dnronline"
-            },
-            "title": "What does 'agentic' AI mean? Tech's newest buzzword is a mix of marketing fluff and real promise",
-            "url": "https://www.dnronline.com/associated_press/national/what-does-agentic-ai-mean-techs-newest-buzzword-is-a-mix-of-marketing-fluff-and/article_2c7d2a89-19d4-581f-955e-67d9683bf348.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/dnronline.com/content/tncms/assets/v3/editorial/d/5d/d5def53a-f7a4-5335-99f0-247633cdfcaf/69036632b3a27.image.jpg?crop=1763%2C926%2C0%2C124&order=crop%2Cresize&resize=1200%2C630",
-            "publishedAt": "2025-11-18 11:01:06"
-        },
-        {
-            "source": {
-                "name": "digitaltrends"
-            },
-            "title": "Google Search and Gemini users to get more accurate, timely weather forecasts powered by AI",
-            "url": "https://www.digitaltrends.com/computing/google-search-and-gemini-users-to-get-more-accurate-timely-weather-forecasts-powered-by-ai/",
-            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/11/Google-WeatherNext-2-.jpg?p=1&resize=1200%2C630",
-            "publishedAt": "2025-11-18 10:03:57"
-        },
-        {
-            "source": {
-                "name": "computerweekly"
-            },
-            "title": "Global on-device AI market tops $10bn in 2024",
-            "url": "https://www.computerweekly.com/news/366634447/Global-on-device-AI-market-tops-10bn-in-2024",
-            "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/HeroImages/AI-artificial-intelligence-chips-BAIVECTOR-adobe_searchsitetablet_520X173.jpg",
-            "publishedAt": "2025-11-18 08:40:00"
-        },
-        {
-            "source": {
-                "name": "bitcoinworld"
-            },
-            "title": "Global AI Show 2025 Abu Dhabi Announces Its Visionary Partners and World-Class Speaker Lineup",
-            "url": "https://bitcoinworld.co.in/global-ai-show-2025-abu-dhabi-announces-its-visionary-partners-and-world-class-speaker-lineup/",
-            "urlToImage": "https://bitcoinworld.co.in/wp-content/uploads/GAIS-PR-2-1.png",
-            "publishedAt": "2025-11-18 07:45:37"
-        },
-        {
-            "source": {
-                "name": "theguardian"
-            },
-            "title": "What AI doesn’t know: we could be creating a global ‘knowledge collapse’ | Deepak Varuvel Dennison",
-            "url": "https://www.theguardian.com/news/2025/nov/18/what-ai-doesnt-know-global-knowledge-collapse",
-            "urlToImage": "https://i.guim.co.uk/img/media/e3457e58af634771289aa65483a8e2a79d35d540/585_0_5999_4799/master/5999.jpg?crop=none&dpr=2&s=none&width=1900",
-            "publishedAt": "2025-11-18 05:00:25"
-        },
-        {
-            "source": {
-                "name": "theverge"
-            },
-            "title": "Talking to Windows’ Copilot AI makes a computer feel incompetent",
-            "url": "https://www.theverge.com/report/822443/microsoft-windows-copilot-vision-ai-assistant-pc-voice-controls-impressions",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258094_I_tried_talking_to_my_Windows_PC_CVirginia.jpg?crop=0%2C10.732984293194%2C100%2C78.534031413613&quality=90&strip=all&w=1200",
-            "publishedAt": "2025-11-18 05:00:00"
-        },
-        {
-            "source": {
-                "name": "phys"
-            },
-            "title": "Dutch students show growing enthusiasm for generative AI in education",
-            "url": "https://phys.org/news/2025-11-dutch-students-enthusiasm-generative-ai.html",
-            "urlToImage": "https://scx1.b-cdn.net/csz/news/800a/2025/student-online.jpg",
-            "publishedAt": "2025-11-18 04:03:09"
         }
     ]
 }
