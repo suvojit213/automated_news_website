@@ -1,6 +1,114 @@
 {
-    "lastUpdatedAt": "2025-11-19T08:21:25.286240Z",
+    "lastUpdatedAt": "2025-11-19T09:18:23.814281Z",
     "articles": [
+        {
+            "source": {
+                "id": "11d4381a1e8f7aca7628d0319a52a040",
+                "name": "Japan Today",
+                "url": "https://japantoday.com",
+                "country": "jp"
+            },
+            "title": "Sophia University releases Japan 'Bear Encounter AI Prediction Map' online",
+            "url": "https://japantoday.com/category/national/sophia-univ.-releases-japan-bear-encounter-ai-prediction-map-online",
+            "urlToImage": "https://media.japantoday.com/img/store/2f/04/6d448b34af374724dfb1ced123c54171b636/screenshot-2025-11-16-at-12-44-17/_w1700.png",
+            "publishedAt": "2025-11-18T21:18:00Z"
+        },
+        {
+            "source": {
+                "id": "c792dadf7373fad5b316a63a77688de1",
+                "name": "ABC News",
+                "url": "https://abcnews.go.com",
+                "country": "us"
+            },
+            "title": "Dow closes down nearly 500 points as AI bubble fears hammer stocks",
+            "url": "https://abcnews.go.com/Business/dow-closes-500-points-ai-bubble-fears-hammer/story?id=127633886",
+            "urlToImage": "https://i.abcnewsfe.com/a/f8b101a2-dff9-4d29-a4f2-3d7a32a4d321/nyse-ap-er-251118_1763483701013_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2025-11-18T21:05:05Z"
+        },
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "AI tool mimics pathologists to improve breast cancer tissue analysis accuracy",
+            "url": "https://medicalxpress.com/news/2025-11-ai-tool-mimics-pathologists-breast.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/students-develop-ai-to-1.jpg",
+            "publishedAt": "2025-11-18T20:53:04Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Onestream Partners With Microsoft for AI Adoption in Enterprise Finance",
+            "url": "https://www.marketscreener.com/news/onestream-partners-with-microsoft-for-ai-adoption-in-enterprise-finance-ce7d5edbd081f121",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2025-11-18T20:51:11Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Check Point Teams With Microsoft to Add AI Security to Copilot Studio",
+            "url": "https://www.marketscreener.com/news/check-point-teams-with-microsoft-to-add-ai-security-to-copilot-studio-ce7d5edbd081f223",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2025-11-18T20:49:54Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Market slide frays investors' nerves with AI trade, rate-cut doubts",
+            "url": "https://www.reuters.com/business/market-slide-frays-investors-nerves-with-ai-trade-rate-cut-doubts-2025-11-18/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/P23GRH46IVLDLIG7HKFNA7MRVA.jpg?auth=99fe4e000e41e2d6cc6b4bcd2e8e8115da709148641ae2c4711e97d300fb3381&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-11-18T20:45:30Z"
+        },
+        {
+            "source": {
+                "id": "e9159c384a74cd663934e35c84b61001",
+                "name": "Adweek",
+                "url": "https://www.adweek.com",
+                "country": "us"
+            },
+            "title": "Scotts Miracle-Gro's Matt Taylor on Navigating AI Search and Retail Media",
+            "url": "https://www.adweek.com/brand-marketing/scotts-miracle-gros-matt-taylor-on-navigating-ai-search-and-retail-media/",
+            "urlToImage": "https://static-www.adweek.com/wp-content/uploads/2025/11/brave-commerce-scotts-miracle-gro-Matt-Taylor.png?w=600&h=315&crop=1",
+            "publishedAt": "2025-11-18T20:41:47Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Anthropic reaches $350 billion valuation after massive investments from Microsoft and Nvidia",
+            "url": "https://www.marketscreener.com/news/anthropic-reaches-350-billion-valuation-after-massive-investments-from-microsoft-and-nvidia-ce7d5edbd08ef227",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/ImagesTagged/zbimg_3163232_800.jpg",
+            "publishedAt": "2025-11-18T20:38:28Z"
+        },
+        {
+            "source": {
+                "id": "2492bcb79914b2ce3d9867453dae22ac",
+                "name": "Financial Post",
+                "url": "https://financialpost.com",
+                "country": "ca"
+            },
+            "title": "Buyers beware: holiday scams are getting smarter with AI",
+            "url": "https://financialpost.com/cybersecurity/holiday-scams-getting-smarter-with-ai",
+            "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/11/1119-mg-cybercrime.jpg",
+            "publishedAt": "2025-11-18T20:28:30Z"
+        },
         {
             "source": {
                 "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
@@ -2153,6 +2261,96 @@
             "source": {
                 "name": "postregister"
             },
+            "title": "AP Business SummaryBrief at 4:08 p.m. EST",
+            "url": "https://www.postregister.com/businessreport/business/ap-business-summarybrief-at-4-08-p-m-est/article_3595af67-4889-5605-b3c7-e686418ead0d.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
+            "publishedAt": "2025-11-18 21:08:23"
+        },
+        {
+            "source": {
+                "name": "forbes"
+            },
+            "title": "Gemini 3 Approaches The Uber-Software Point: AI As The New UI",
+            "url": "https://www.forbes.com/sites/johnkoetsier/2025/11/18/gemini-3-approaches-the-uber-software-point-ai-as-the-new-ui/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/691cdcc9d8c460cc8c8d9e12/0x0.jpg?width=960",
+            "publishedAt": "2025-11-18 21:01:10"
+        },
+        {
+            "source": {
+                "name": "chicagotribune"
+            },
+            "title": "Experts explain impact of data centers, as Naperville weighs a proposal",
+            "url": "https://www.chicagotribune.com/2025/11/18/naperville-data-center-experts-guide/",
+            "urlToImage": "https://www.chicagotribune.com/wp-content/uploads/2025/09/NVS-L-data-center-0905-01_1c84c0.jpg?strip=all&w=1400px",
+            "publishedAt": "2025-11-18 20:40:41"
+        },
+        {
+            "source": {
+                "name": "columbiagorgenews"
+            },
+            "title": "Nvidia, Microsoft invest $15 billion in AI startup Anthropic",
+            "url": "https://www.columbiagorgenews.com/news/national/nvidia-microsoft-invest-15-billion-in-ai-startup-anthropic/article_502b0ec1-5f35-50c3-82ac-2f1068d8c09e.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/columbiagorgenews.com/content/tncms/assets/v3/editorial/f/09/f09f2801-c4c7-5ed9-8ebe-9ba9b62494c4/691ce1f3b430f.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-11-18 20:35:00"
+        },
+        {
+            "source": {
+                "name": "hendersondispatch"
+            },
+            "title": "Nvidia, Microsoft invest $15 billion in AI startup Anthropic",
+            "url": "https://www.hendersondispatch.com/news/national/nvidia-microsoft-invest-15-billion-in-ai-startup-anthropic/article_4d507b92-800d-5ab4-a8d5-fec3c9faea89.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/hendersondispatch.com/content/tncms/assets/v3/editorial/0/b1/0b120807-5de9-5397-884b-87704aab5ecb/691ce259d35e1.image.jpg?resize=400%2C266",
+            "publishedAt": "2025-11-18 20:35:00"
+        },
+        {
+            "source": {
+                "name": "ttownmedia"
+            },
+            "title": "Nvidia, Microsoft invest $15 billion in AI startup Anthropic",
+            "url": "https://www.ttownmedia.com/news/national/nvidia-microsoft-invest-15-billion-in-ai-startup-anthropic/article_220fc758-898d-59c4-9a63-0ac98e09aebf.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/ttownmedia.com/content/tncms/assets/v3/editorial/9/1b/91b0082e-7e34-5463-9d46-e515fbd87b80/691ce1e28b686.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-11-18 20:35:00"
+        },
+        {
+            "source": {
+                "name": "citizentribune"
+            },
+            "title": "Nvidia, Microsoft invest $15 billion in AI startup Anthropic",
+            "url": "https://www.citizentribune.com/news/national/nvidia-microsoft-invest-15-billion-in-ai-startup-anthropic/article_5c4d8e3b-0357-5414-928c-932ab3fe4fdb.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/citizentribune.com/content/tncms/assets/v3/editorial/f/ef/fef15488-a402-542f-94d8-3fd078abceee/691ce1f0afe08.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-11-18 20:35:00"
+        },
+        {
+            "source": {
+                "name": "wyomingnews"
+            },
+            "title": "Nvidia, Microsoft invest $15 billion in AI startup Anthropic",
+            "url": "https://www.wyomingnews.com/news/national/nvidia-microsoft-invest-15-billion-in-ai-startup-anthropic/article_dd91dd90-fc1a-54f5-be84-e90ef21811d5.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/b/66/b662e1c4-ce29-52c1-9dff-e7882079056c/691ce219eead5.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-11-18 20:35:00"
+        },
+        {
+            "source": {
+                "name": "postguam"
+            },
+            "title": "Nvidia, Microsoft invest $15 billion in AI startup Anthropic",
+            "url": "https://www.postguam.com/news/national/nvidia-microsoft-invest-15-billion-in-ai-startup-anthropic/article_87e1b29b-59b3-55dd-a918-ad6237fcdec9.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/7/02/702e30a0-7d11-50b9-a7a7-9b351aac81a3/691ce2465569f.image.jpg?resize=400%2C266",
+            "publishedAt": "2025-11-18 20:35:00"
+        },
+        {
+            "source": {
+                "name": "themercury"
+            },
+            "title": "Nvidia, Microsoft invest $15 billion in AI startup Anthropic",
+            "url": "https://themercury.com/news/national/nvidia-microsoft-invest-15-billion-in-ai-startup-anthropic/article_cb3b37b8-a990-5aba-881a-109de09835cf.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/themercury.com/content/tncms/assets/v3/editorial/c/98/c9847c21-cde2-591c-8a70-7c79abdcf1d4/691ce26e6f275.image.jpg?resize=300%2C200",
+            "publishedAt": "2025-11-18 20:35:00"
+        },
+        {
+            "source": {
+                "name": "postregister"
+            },
             "title": "AP Technology SummaryBrief at 3:09 p.m. EST",
             "url": "https://www.postregister.com/businessreport/business/ap-technology-summarybrief-at-3-09-p-m-est/article_c0af797c-e682-5839-8ddf-928d8239014b.html",
             "urlToImage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
@@ -3189,234 +3387,6 @@
             "url": "https://www.marketscreener.com/news/armada-and-nov-collaborate-to-bring-ai-powered-solutions-to-the-edge-ce7d5edadd8ef72c",
             "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
             "publishedAt": "2025-11-17T16:45:08Z"
-        },
-        {
-            "source": {
-                "id": "a79ab99484ed3bd8c4fa35ccd09b91e1",
-                "name": "indy100",
-                "url": "https://www.indy100.com",
-                "country": "gb"
-            },
-            "title": "AI sparks new spiritual movement 'Spiralism' - but what is it?",
-            "url": "https://www.indy100.com/viral/ai-spiritual-movement-spiralism-explained",
-            "urlToImage": "https://www.indy100.com/media-library/image.jpg?id=62201448&width=1200&height=600&coordinates=0%2C177%2C0%2C177",
-            "publishedAt": "2025-11-17T16:26:56Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Palantir and Ftai Aviation Enter Strategic Partnership to Accelerate the Transformation of Aircraft Engine Maintenance, Repair and Exchange",
-            "url": "https://www.marketscreener.com/news/palantir-and-ftai-aviation-enter-strategic-partnership-to-accelerate-the-transformation-of-aircraft-ce7d5edadd8af721",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2025-11-17T16:06:08Z"
-        },
-        {
-            "source": {
-                "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-                "name": "Benzinga",
-                "url": "https://www.benzinga.com",
-                "country": "us"
-            },
-            "title": "Bezos Vs. Musk: Billionaire Battle Goes From Space To AI With New Company",
-            "url": "https://www.benzinga.com/markets/tech/25/11/48901989/bezos-vs-musk-billionaire-battle-goes-from-space-to-ai-with-new-company",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/11/17/bezos-musk-ai.png?width=1200&height=800&fit=crop",
-            "publishedAt": "2025-11-17T16:02:57Z"
-        },
-        {
-            "source": {
-                "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
-                "name": "Australian Financial Review",
-                "url": "https://www.afr.com",
-                "country": "au"
-            },
-            "title": "Amazon seeks $18b from first US bond sale in three years",
-            "url": "https://www.afr.com/technology/amazon-seeks-18b-from-first-us-bond-sale-in-three-years-20251118-p5ng4y",
-            "urlToImage": "https://static.ffx.io/images/$zoom_0.2648%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_68/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/2e28341c5c395f96680db090ef23c5d92298b4f2",
-            "publishedAt": "2025-11-17T15:59:09Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Amazon seeks to raise $12 billion from US bond sale, Bloomberg News reports",
-            "url": "https://economictimes.indiatimes.com/markets/bonds/amazon-seeks-to-raise-12-billion-from-us-bond-sale-bloomberg-news-reports/articleshow/125388983.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-125388983,width-1200,height-630,imgsize-128056,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2025-11-17T15:46:00Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Google parent Alphabet shares jump 5% after Berkshire Hathaway makes rare tech bet with $4.9 billion stake",
-            "url": "https://economictimes.indiatimes.com/tech/technology/google-parent-alphabet-shares-jump-5-after-berkshire-hathaway-makes-rare-tech-bet-with-4-9-billion-stake/articleshow/125389675.cms",
-            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-90678,resizemode-75,msid-125389675/tech/technology/google-parent-alphabet-shares-jump-5-after-berkshire-hathaway-makes-rare-tech-bet-with-4-9-billion-stake.jpg",
-            "publishedAt": "2025-11-17T15:44:21Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "Google parent Alphabet shares jump 5% after Berkshire Hathaway makes rare tech bet with $4.9 billion stake",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/google-parent-alphabet-shares-jump-5-after-berkshire-hathaway-makes-rare-tech-bet-with-4-9-billion-stake/articleshow/125388869.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-125388907,width-1200,height-630,imgsize-90678,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2025-11-17T15:44:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Fed's Jefferson: Labor market sluggish due to uncertainty around policy, AI",
-            "url": "https://www.marketscreener.com/news/fed-s-jefferson-labor-market-sluggish-due-to-uncertainty-around-policy-ai-ce7d5edada80f621",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2025-11-17T15:32:03Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Celero raises $140 million from Alphabet's CapitalG fund, others for AI networking chip",
-            "url": "https://www.reuters.com/business/media-telecom/celero-raises-140-million-alphabets-capitalg-fund-others-ai-networking-chip-2025-11-17/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-11-17T15:28:35Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "AI tool creates digital twins of patients to predict their future health",
-            "url": "https://medicalxpress.com/news/2025-11-ai-tool-digital-twins-patients.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/ai-tool-creates-digita-1.jpg",
-            "publishedAt": "2025-11-17T15:28:04Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "India's Cybersecurity Pledge: A Global Commitment",
-            "url": "https://www.devdiscourse.com/article/technology/3701013-indias-cybersecurity-pledge-a-global-commitment",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/21_07_2025_11_21_23_011924.png?width=920&format=jpeg",
-            "publishedAt": "2025-11-17T15:27:53Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "Unregulated and unsafe: Expert warns of risks in substance use reduction apps",
-            "url": "https://medicalxpress.com/news/2025-11-unregulated-unsafe-expert-substance-reduction.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2020/2-app.jpg",
-            "publishedAt": "2025-11-17T15:26:04Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Work Truck Week® 2026 technology conference Green Truck Summit expands",
-            "url": "https://www.manilatimes.net/2025/11/17/tmt-newswire/globenewswire/work-truck-week-2026-technology-conference-green-truck-summit-expands/2225678",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/11/17/831204.jpg",
-            "publishedAt": "2025-11-17T15:06:42Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "OOBE Protocol Announces Upcoming Expansion Phase and European Company Formation",
-            "url": "https://www.manilatimes.net/2025/11/17/tmt-newswire/globenewswire/oobe-protocol-announces-upcoming-expansion-phase-and-european-company-formation/2225677",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/11/17/831197.jpg",
-            "publishedAt": "2025-11-17T15:06:37Z"
-        },
-        {
-            "source": {
-                "id": "b33a42ef1c098421f66aad47a76d6a3c",
-                "name": "The Hindu",
-                "url": "https://www.thehindu.com",
-                "country": "in"
-            },
-            "title": "India pitches digital solidarity at global telecom meet in Baku",
-            "url": "https://www.thehindu.com/news/national/andhra-pradesh/india-pitches-digital-solidarity-at-global-telecom-meet-in-baku/article70291370.ece",
-            "urlToImage": "https://th-i.thgim.com/public/incoming/m5vj5z/article70291513.ece/alternates/LANDSCAPE_1200/10745_17_11_2025_20_23_24_1_IMG_20251117_WA0085.JPG",
-            "publishedAt": "2025-11-17T15:00:10Z"
-        },
-        {
-            "source": {
-                "id": "b33a42ef1c098421f66aad47a76d6a3c",
-                "name": "The Hindu",
-                "url": "https://www.thehindu.com",
-                "country": "in"
-            },
-            "title": "Anbil Mahesh completes Ph. D",
-            "url": "https://www.thehindu.com/news/cities/Tiruchirapalli/anbil-mahesh-completes-ph-d/article70291248.ece",
-            "urlToImage": "https://th-i.thgim.com/public/incoming/2n5hcf/article70291517.ece/alternates/LANDSCAPE_1200/10295_17_11_2025_19_44_14_1_IMG_20251117_WA0015.JPG",
-            "publishedAt": "2025-11-17T14:58:39Z"
-        },
-        {
-            "source": {
-                "id": "a0300bc9a6e9d5b317bd6f614767231f",
-                "name": "Forbes",
-                "url": "https://www.forbes.com",
-                "country": "us"
-            },
-            "title": "Top U.S. Technology Companies Dominate H-1B Visa List In 2025",
-            "url": "https://www.forbes.com/sites/stuartanderson/2025/11/17/top-us-technology-companies-dominate-h-1b-visa-list-in-2025/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/63e19069278565d4dd36e6b9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2025-11-17T14:52:54Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "S&P 500 Fluctuates Ahead of Nvidia Results, Economic Data Deluge",
-            "url": "https://www.bloomberg.com/news/articles/2025-11-17/s-p-500-fluctuates-ahead-of-nvidia-results-economic-data-deluge",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/is6XuFYdkBeM/v1/1200x800.jpg",
-            "publishedAt": "2025-11-17T14:46:17Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Narf shares climb on interim pretax loss shrink and revenue rise",
-            "url": "https://www.marketscreener.com/news/narf-shares-climb-on-interim-pretax-loss-shrink-and-revenue-rise-ce7d5edada8df323",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2025-11-17T14:24:14Z"
         }
     ]
 }
