@@ -1,6 +1,90 @@
 {
-    "lastUpdatedAt": "2025-11-19T10:17:54.283142Z",
+    "lastUpdatedAt": "2025-11-19T11:13:59.571396Z",
     "articles": [
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Trump warns against AI 'overregulation,' says US needs to have one federal standard",
+            "url": "https://www.reuters.com/world/trump-warns-against-ai-overregulation-says-us-needs-have-one-federal-standard-2025-11-18/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/RWXBP64ZGBI7ZP6GVFDGI4WWX4.jpg?auth=ebec4f3124090e064cdb77129ee9f2c0d43c92874455b7659da0233bf3dac64f&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-11-18T23:05:16Z"
+        },
+        {
+            "source": {
+                "id": "28bc60a23a7bf89e60f893506992a3fe",
+                "name": "Daily Excelsior",
+                "url": "https://www.dailyexcelsior.com",
+                "country": "in"
+            },
+            "title": "Don't blindly trust everything AI tells you, cautions Google boss Sundar Pichai",
+            "url": "https://www.dailyexcelsior.com/dont-blindly-trust-everything-ai-tells-you-cautions-google-boss-sundar-pichai/",
+            "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2021/09/pichai.jpg",
+            "publishedAt": "2025-11-18T22:56:04Z"
+        },
+        {
+            "source": {
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
+                "country": "us"
+            },
+            "title": "IBM’s AI Platform Is Now Available Directly Through Microsoft Office Apps",
+            "url": "https://markets.businessinsider.com/news/stocks/ibm-s-ai-platform-is-now-available-directly-through-microsoft-office-apps-1035575698",
+            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/11/image-2020-1024x767.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+            "publishedAt": "2025-11-18T22:54:23Z"
+        },
+        {
+            "source": {
+                "id": "49853ffafc28f405ff8ed06043290ae8",
+                "name": "Global News",
+                "url": "https://globalnews.ca",
+                "country": "ca"
+            },
+            "title": "AI can’t be used to qualify content as Canadian, CRTC says in updated rule",
+            "url": "https://globalnews.ca/news/11531866/crtc-canadian-content-definition-ai/",
+            "urlToImage": "https://globalnews.ca/wp-content/uploads/2025/05/0f66860af6278c4be7f50828fd0c3792bf253f08f61b44bfb8d01e72d156dc19.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+            "publishedAt": "2025-11-18T22:44:29Z"
+        },
+        {
+            "source": {
+                "id": "28bc60a23a7bf89e60f893506992a3fe",
+                "name": "Daily Excelsior",
+                "url": "https://www.dailyexcelsior.com",
+                "country": "in"
+            },
+            "title": "The Smart Revolution How AI Is Rewriting India’s Growth Map",
+            "url": "https://www.dailyexcelsior.com/the-smart-revolution-how-ai-is-rewriting-indias-growth-map/",
+            "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2025/11/ai-8.jpg",
+            "publishedAt": "2025-11-18T22:42:20Z"
+        },
+        {
+            "source": {
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
+            },
+            "title": "Google boss Sundar Pichai warns no company immune if AI bubble bursts",
+            "url": "https://www.straitstimes.com/world/united-states/google-boss-sundar-pichai-warns-no-company-immune-if-ai-bubble-bursts",
+            "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/32d23cd4b7c1bbf4d83506d8eb9cc47543bd0c721781aa0a2ea357ab433b7707",
+            "publishedAt": "2025-11-18T22:40:00Z"
+        },
+        {
+            "source": {
+                "id": "c837db3560dbe304554f10dddd97c3c8",
+                "name": "People.com",
+                "url": "https://people.com",
+                "country": "us"
+            },
+            "title": "Jeff Bezos Starts AI Company in First Major Role Since Leaving Amazon",
+            "url": "https://people.com/jeff-bezos-has-first-major-new-company-role-since-leaving-amazon-at-ai-startup-11851235",
+            "urlToImage": "https://people.com/thmb/Kr8zMjvFDYUw9CIejqRdcylDmpA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(959x569:961x571)/jeff-bezos-66b149fd9b2b4cc68b4a5fc9f3093a52.jpg",
+            "publishedAt": "2025-11-18T22:39:03Z"
+        },
         {
             "source": {
                 "id": "ca35c66a2b26e8274365e937357cf9c5",
@@ -2343,6 +2427,24 @@
         },
         {
             "source": {
+                "name": "headtopics"
+            },
+            "title": "Could This Startup Put an EV Fast-Charger at Every Gas Station?",
+            "url": "https://us.headtopics.com/news/could-this-startup-put-an-ev-fast-charger-at-every-gas-76013332",
+            "urlToImage": "https://i.headtopics.com/images/2025/11/18/motortrend/could-this-startup-put-an-ev-fast-charger-at-every-could-this-startup-put-an-ev-fast-charger-at-every-FDE00C7437900333C78D1BEBEB6EEB70.webp",
+            "publishedAt": "2025-11-18 22:39:24"
+        },
+        {
+            "source": {
+                "name": "webpronews"
+            },
+            "title": "Windows Copilot’s AI Fumble: Hype Crashes into Frustrating Reality",
+            "url": "https://www.webpronews.com/windows-copilots-ai-fumble-hype-crashes-into-frustrating-reality/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/11/article-1680-1763505016.jpeg?fit=720%2C960&ssl=1",
+            "publishedAt": "2025-11-18 22:30:21"
+        },
+        {
+            "source": {
                 "name": "webpronews"
             },
             "title": "2025 Tech Revolution: AI, Quantum Leaps, and Sustainable Innovations Reshaping Industries",
@@ -3270,114 +3372,6 @@
             "url": "https://www.live5news.com/2025/11/17/teacher-pleads-guilty-after-being-accused-using-ai-make-sexual-videos-8-students/",
             "urlToImage": "https://gray-wcsc-prod.gtv-cdn.com/resizer/v2/GUFPLWEY25CBHCKXKIPJNL3EWU.png?auth=cbf0eae92ddfa134f768e4f4512e7ac66c6931f4da91af04aa46ecfc3901b476&width=1200&height=600&smart=true",
             "publishedAt": "2025-11-17T19:32:37Z"
-        },
-        {
-            "source": {
-                "id": "3f09ae62ee37a33ab191a698fec83f4b",
-                "name": "WEAU",
-                "url": "https://www.weau.com",
-                "country": "us"
-            },
-            "title": "Teacher pleads guilty after being accused of using AI to make sexual videos of 8 students",
-            "url": "https://www.weau.com/2025/11/17/teacher-pleads-guilty-after-being-accused-using-ai-make-sexual-videos-8-students/",
-            "urlToImage": "https://gray-weau-prod.gtv-cdn.com/resizer/v2/GUFPLWEY25CBHCKXKIPJNL3EWU.png?auth=cbf0eae92ddfa134f768e4f4512e7ac66c6931f4da91af04aa46ecfc3901b476&width=1200&height=600&smart=true",
-            "publishedAt": "2025-11-17T19:32:37Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Cloud Engineer Interview Course Launched by Interview Kickstart - AWS Cloud Solutions Architect AI ML Curriculum",
-            "url": "https://www.manilatimes.net/2025/11/18/tmt-newswire/globenewswire/cloud-engineer-interview-course-launched-by-interview-kickstart-aws-cloud-solutions-architect-ai-ml-curriculum/2225814",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/11/18/831539.jpg",
-            "publishedAt": "2025-11-17T19:11:16Z"
-        },
-        {
-            "source": {
-                "id": "7daf04fa6272ed0a29583b211dcfe1d4",
-                "name": "NDTV.com",
-                "url": "https://www.ndtv.com",
-                "country": "in"
-            },
-            "title": "AI To Create More Jobs Than It Eliminates By 2027: Report",
-            "url": "https://www.ndtv.com/world-news/ai-to-create-more-jobs-than-it-eliminates-by-2027-report-9653254",
-            "urlToImage": "https://c.ndtvimg.com/2025-11/s8b9gqr_ai_625x300_18_November_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-            "publishedAt": "2025-11-17T18:55:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Data Science Course Taught by FAANG Instructors - Interview Kickstart Adds Agile Automated Workflows to Python, SQL and ML Training",
-            "url": "https://www.manilatimes.net/2025/11/18/tmt-newswire/globenewswire/data-science-course-taught-by-faang-instructors-interview-kickstart-adds-agile-automated-workflows-to-python-sql-and-ml-training/2225796",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/11/18/831504.png",
-            "publishedAt": "2025-11-17T18:30:35Z"
-        },
-        {
-            "source": {
-                "id": "0c9364fff53c0e5a3450947d9a54e795",
-                "name": "Daily Mail Online",
-                "url": "https://www.dailymail.co.uk",
-                "country": "gb"
-            },
-            "title": "Former Disney Channel star's controversial app slammed as 'unethical' and 'disgusting'",
-            "url": "https://www.dailymail.co.uk/lifestyle/article-15296611/disney-channel-star-calum-worthy-app-2wai-slammed-ai.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2025/11/17/18/103880827-0-image-m-44_1763403520864.jpg",
-            "publishedAt": "2025-11-17T18:20:23Z"
-        },
-        {
-            "source": {
-                "id": "c73686fdf0e30639d57eddaf7a77236e",
-                "name": "India Today",
-                "url": "https://www.indiatoday.in",
-                "country": "in"
-            },
-            "title": "Maharashtra approves leopard sterilisation after 14 farmers killed in 2 months",
-            "url": "https://www.indiatoday.in/india/story/maharashtra-approves-leopard-sterilisation-after-14-farmers-killed-in-2-months-2821509-2025-11-17",
-            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202511/pune-news-leopards-attack-a-child-120501557-16x9.png?VersionId=OOTX76iQgqqm8M9I4XBaVuw4_0hGXJHz",
-            "publishedAt": "2025-11-17T18:15:20Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "BofA says AI is boosting bankers' productivity, revenue",
-            "url": "https://www.reuters.com/business/finance/bofa-says-ai-is-boosting-bankers-productivity-revenue-2025-11-17/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/ADZONAXKYJK75GWJKSLWIO2QQM.jpg?auth=4d708810c45f7d9af08be6c3b7ab8a58ecd112e271423f8e79f8ea5d116e44e5&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-11-17T18:08:26Z"
-        },
-        {
-            "source": {
-                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
-                "name": "CNBC",
-                "url": "https://www.cnbc.com",
-                "country": "us"
-            },
-            "title": "10 cybersecurity terms investors should know, and 2 industry-leading stocks to buy",
-            "url": "https://www.cnbc.com/2025/11/17/10-cybersecurity-terms-investors-should-know-and-2-industry-leading-stocks-to-buy.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107422893-1717184417711-gettyimages-1437761046-dsc04600.jpeg?v=1762213939&w=1920&h=1080",
-            "publishedAt": "2025-11-17T18:06:47Z"
-        },
-        {
-            "source": {
-                "id": "17d7c2645f485578130862e0c8dd9480",
-                "name": "The Mercury News",
-                "url": "https://www.mercurynews.com",
-                "country": "us"
-            },
-            "title": "Peter Thiel’s fund sold off entire Nvidia stake last quarter",
-            "url": "https://www.mercurynews.com/2025/11/17/peter-thiels-fund-sold-off-entire-nvidia-stake-last-quarter/",
-            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2020/10/hypatia-h_53e9a059be54baedad485a50a9393c67-h_f36599177f1820b9d00933527b197ce7.jpg?w=1024&h=683",
-            "publishedAt": "2025-11-17T17:51:35Z"
         }
     ]
 }
