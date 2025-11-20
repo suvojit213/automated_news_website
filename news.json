@@ -1,6 +1,54 @@
 {
-    "lastUpdatedAt": "2025-11-20T13:27:15.548208Z",
+    "lastUpdatedAt": "2025-11-20T14:16:40.862136Z",
     "articles": [
+        {
+            "source": {
+                "id": "1e30d944d63d9090db5a2c2e28a8772f",
+                "name": "The Star",
+                "url": "https://www.thestar.com.my",
+                "country": "my"
+            },
+            "title": "Japan's Nikkei reclaims key 50,000 mark as tech stocks rally on Nvidia results",
+            "url": "https://www.thestar.com.my/business/business-news/2025/11/20/japan039s-nikkei-reclaims-key-50000-mark-as-tech-stocks-rally-on-nvidia-results",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/20/3631011.jpg",
+            "publishedAt": "2025-11-20T02:08:00Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "UPDATE 3-US authorizes export of advanced American semiconductors to companies in Saudi, UAE",
+            "url": "https://www.devdiscourse.com/article/technology/3703799-update-3-us-authorizes-export-of-advanced-american-semiconductors-to-companies-in-saudi-uae",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_33_56_2660097.png?width=920&format=jpeg",
+            "publishedAt": "2025-11-20T01:59:04Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Wall Street indexes end rocky session higher; Nvidia gains after hours",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/wall-street-indexes-end-rocky-session-higher-nvidia-gains-after-hours/articleshow/125450910.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-125450920,width-1200,height-630,imgsize-245814,overlay-etmarkets/articleshow.jpg",
+            "publishedAt": "2025-11-20T01:54:00Z"
+        },
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "AI innovation missing the mark for local communities, according to report",
+            "url": "https://phys.org/news/2025-11-ai-local-communities.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/ai-innovation-missing.jpg",
+            "publishedAt": "2025-11-20T01:50:01Z"
+        },
         {
             "source": {
                 "id": "0a4c92a1a91d0994627a96e134064d69",
@@ -3399,54 +3447,6 @@
             "url": "https://www.marketscreener.com/news/onestream-partners-with-microsoft-for-ai-adoption-in-enterprise-finance-ce7d5edbd081f121",
             "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
             "publishedAt": "2025-11-18T20:51:11Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Check Point Teams With Microsoft to Add AI Security to Copilot Studio",
-            "url": "https://www.marketscreener.com/news/check-point-teams-with-microsoft-to-add-ai-security-to-copilot-studio-ce7d5edbd081f223",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2025-11-18T20:49:54Z"
-        },
-        {
-            "source": {
-                "id": "da5c26287bdd02563a2c32b55cb12051",
-                "name": "Reuters",
-                "url": "https://www.reuters.com",
-                "country": "us"
-            },
-            "title": "Market slide frays investors' nerves with AI trade, rate-cut doubts",
-            "url": "https://www.reuters.com/business/market-slide-frays-investors-nerves-with-ai-trade-rate-cut-doubts-2025-11-18/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/P23GRH46IVLDLIG7HKFNA7MRVA.jpg?auth=99fe4e000e41e2d6cc6b4bcd2e8e8115da709148641ae2c4711e97d300fb3381&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2025-11-18T20:45:30Z"
-        },
-        {
-            "source": {
-                "id": "e9159c384a74cd663934e35c84b61001",
-                "name": "Adweek",
-                "url": "https://www.adweek.com",
-                "country": "us"
-            },
-            "title": "Scotts Miracle-Gro's Matt Taylor on Navigating AI Search and Retail Media",
-            "url": "https://www.adweek.com/brand-marketing/scotts-miracle-gros-matt-taylor-on-navigating-ai-search-and-retail-media/",
-            "urlToImage": "https://static-www.adweek.com/wp-content/uploads/2025/11/brave-commerce-scotts-miracle-gro-Matt-Taylor.png?w=600&h=315&crop=1",
-            "publishedAt": "2025-11-18T20:41:47Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Anthropic reaches $350 billion valuation after massive investments from Microsoft and Nvidia",
-            "url": "https://www.marketscreener.com/news/anthropic-reaches-350-billion-valuation-after-massive-investments-from-microsoft-and-nvidia-ce7d5edbd08ef227",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/ImagesTagged/zbimg_3163232_800.jpg",
-            "publishedAt": "2025-11-18T20:38:28Z"
         }
     ]
 }
