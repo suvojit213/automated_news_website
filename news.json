@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2025-11-20T12:32:53.265056Z",
+    "lastUpdatedAt": "2025-11-20T13:27:15.548208Z",
     "articles": [
+        {
+            "source": {
+                "id": "0a4c92a1a91d0994627a96e134064d69",
+                "name": "Medical Xpress",
+                "url": "https://medicalxpress.com",
+                "country": "gb"
+            },
+            "title": "What will AI automation of health care mean for patients?",
+            "url": "https://medicalxpress.com/news/2025-11-ai-automation-health-patients.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/doctor-appointment-2.jpg",
+            "publishedAt": "2025-11-20T01:10:01Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Major music labels strike licensing deals with AI streaming startup Klay, Bloomberg News reports",
+            "url": "https://www.marketscreener.com/news/major-music-labels-strike-licensing-deals-with-ai-streaming-startup-klay-bloomberg-news-reports-ce7d5ed9dd80f727",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2025-11-20T01:05:29Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Trump's economy depends on AI for growth, a reality made clear in Saudi crown prince's US visit",
+            "url": "https://economictimes.indiatimes.com/news/international/global-trends/trumps-economy-depends-on-ai-for-growth-a-reality-made-clear-in-saudi-crown-princes-us-visit/articleshow/125450662.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-125450662,width-1200,height-630,imgsize-114394,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-11-20T01:02:00Z"
+        },
+        {
+            "source": {
+                "id": "37128a060981dbbe79321f096e7d1108",
+                "name": "U.S. News & World Report",
+                "url": "https://www.usnews.com",
+                "country": "us"
+            },
+            "title": "Advocacy Groups Urge Parents to Avoid AI Toys This Holiday Season",
+            "url": "https://www.usnews.com/news/us/articles/2025-11-20/advocacy-groups-urge-parents-to-avoid-ai-toys-this-holiday-season",
+            "urlToImage": "https://www.usnews.com/dims4/USNEWS/2d2fcd5/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Fd1%2F845af7bc6ec1102ebf39ae1fb6c585%2F8be248484e2a40f38a03c3422907a219AI_Toys_77016.jpg",
+            "publishedAt": "2025-11-20T00:59:00Z"
+        },
+        {
+            "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+            },
+            "title": "GNIDA ties up with ISRO: AI-driven system to monitor encroachment on govt land in Greater Noida",
+            "url": "https://indianexpress.com/article/cities/delhi/gnida-ties-up-with-isro-ai-driven-system-to-monitor-encroachment-on-govt-land-in-greater-noida-10375203/",
+            "urlToImage": "https://images.indianexpress.com/2025/11/cyber1_88b8ff.jpg",
+            "publishedAt": "2025-11-20T00:36:48Z"
+        },
+        {
+            "source": {
+                "id": "c6075ba0dc9d123bb327faaa419d3d07",
+                "name": "The Motley Fool Australia",
+                "url": "https://www.fool.com.au",
+                "country": "au"
+            },
+            "title": "The smartest AI stock to buy with $1,000 right now",
+            "url": "https://www.fool.com.au/2025/11/20/the-smartest-ai-stock-to-buy-with-1000-right-now-usfeed/",
+            "urlToImage": "https://www.fool.com.au/wp-content/uploads/2021/11/pondering-shares-16.9-1200x675.jpg",
+            "publishedAt": "2025-11-20T00:35:00Z"
+        },
         {
             "source": {
                 "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
@@ -84,6 +156,15 @@
             "url": "https://www.altoonamirror.com/news/national-news-apwire/2025/11/nvidia-earnings-clear-set-hurdle-amid-fears-about-an-ai-bubble/",
             "urlToImage": "http://d14e0irai0gcaa.cloudfront.net/www.altoonamirror.com/images/2016/10/18173137/fblike.jpg",
             "publishedAt": "2025-11-20T00:00:00Z"
+        },
+        {
+            "source": {
+                "name": "wired"
+            },
+            "title": "Nvidia CEO Dismisses Concerns of an AI Bubble. Investors Remain Skeptical",
+            "url": "https://www.wired.com/story/nvidia-third-quarter-2026-earnings/",
+            "urlToImage": "https://media.wired.com/photos/691cbe7e6c9e033305e9f35a/master/w_120,c_limit/Nvidia-Earnnings-Blackwell-AI-Chip-Business-2244922892.jpg",
+            "publishedAt": "2025-11-20 00:45:35"
         },
         {
             "source": {
@@ -3366,90 +3447,6 @@
             "url": "https://www.marketscreener.com/news/anthropic-reaches-350-billion-valuation-after-massive-investments-from-microsoft-and-nvidia-ce7d5edbd08ef227",
             "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/ImagesTagged/zbimg_3163232_800.jpg",
             "publishedAt": "2025-11-18T20:38:28Z"
-        },
-        {
-            "source": {
-                "id": "2492bcb79914b2ce3d9867453dae22ac",
-                "name": "Financial Post",
-                "url": "https://financialpost.com",
-                "country": "ca"
-            },
-            "title": "Buyers beware: holiday scams are getting smarter with AI",
-            "url": "https://financialpost.com/cybersecurity/holiday-scams-getting-smarter-with-ai",
-            "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/11/1119-mg-cybercrime.jpg",
-            "publishedAt": "2025-11-18T20:28:30Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "US stocks extend selloff, gold resumes its climb as valuation worries weigh",
-            "url": "https://www.marketscreener.com/news/us-stocks-extend-selloff-gold-resumes-its-climb-as-valuation-worries-weigh-ce7d5edbd08cf62d",
-            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-10/2025-10-30T140839Z_1_LYNXMPEL9T0UR_RTROPTP_4_GLOBAL-MARKETS-MARKETCAP.JPG",
-            "publishedAt": "2025-11-18T20:10:18Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "AI at the heart of new gel-free ECG system for faster diagnoses",
-            "url": "https://medicalxpress.com/news/2025-11-ai-heart-gel-free-ecg.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/ai-at-the-heart-of-new.jpg",
-            "publishedAt": "2025-11-18T20:08:03Z"
-        },
-        {
-            "source": {
-                "id": "0a4c92a1a91d0994627a96e134064d69",
-                "name": "Medical Xpress",
-                "url": "https://medicalxpress.com",
-                "country": "gb"
-            },
-            "title": "AI-assisted immune profiling helps predict treatment success in rectal cancer patients",
-            "url": "https://medicalxpress.com/news/2025-11-ai-immune-profiling-treatment-success.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/ai-tool-helps-predict-1.jpg",
-            "publishedAt": "2025-11-18T20:06:05Z"
-        },
-        {
-            "source": {
-                "id": "0d429ea54fdbe8e34c582aa31bc81aba",
-                "name": "The Boston Globe",
-                "url": "https://www.bostonglobe.com",
-                "country": "us"
-            },
-            "title": "Cybersecurity startups emerge from Boston stalwart Rapid7",
-            "url": "https://www.bostonglobe.com/2025/11/18/business/rapid7-carbon-black-cybersecurity-startup/",
-            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/XDU6GKV7Y4I6TF5STEGUWW642M.jpg?auth=2d5adb7b067d1a99ebddd1399014c1cc2b450031ede41c856b08d11575a75758&width=1440",
-            "publishedAt": "2025-11-18T20:00:00Z"
-        },
-        {
-            "source": {
-                "id": "77b86639d1384ac68141803ec5db27c0",
-                "name": "NBC News",
-                "url": "https://www.nbcnews.com",
-                "country": "us"
-            },
-            "title": "Bernie Sanders warns AI could deepen inequality and reshape war",
-            "url": "https://www.nbcnews.com/tech/tech-news/bernie-sanders-ai-deepen-inequality-reshape-war-rcna244341",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251117-bernie-sanders-ew-644p-8f59c0.jpg",
-            "publishedAt": "2025-11-18T19:45:55Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Top Midday Stories: Home Depot Forecasts Steeper Annual EPS Drop; Cloudflare Hit by Major Outage",
-            "url": "https://www.marketscreener.com/news/top-midday-stories-home-depot-forecasts-steeper-annual-eps-drop-cloudflare-hit-by-major-outage-ce7d5edbd08af721",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2025-11-18T19:45:31Z"
         }
     ]
 }
