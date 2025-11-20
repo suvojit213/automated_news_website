@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-11-20T18:23:34.216486Z",
+    "lastUpdatedAt": "2025-11-20T19:12:36.871638Z",
     "articles": [
+        {
+            "source": {
+                "id": "ab5c2ecaa19b1c4aaa371bd0c44b032c",
+                "name": "The News International",
+                "url": "https://www.thenews.com.pk",
+                "country": "pk"
+            },
+            "title": "AI pioneer Yann LeCun leaves Meta to launch new AI start-up",
+            "url": "https://www.thenews.com.pk/latest/1359201-ai-pioneer-yann-lecun-leaves-meta-to-launch-new-ai-start-up",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/updates/2025-11-20/1359201_011715_updates.jpg",
+            "publishedAt": "2025-11-20T07:05:09Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "MTI Ushers in the Era of Automated Trading with the Optivest System",
+            "url": "https://www.manilatimes.net/2025/11/20/tmt-newswire/globenewswire/mti-ushers-in-the-era-of-automated-trading-with-the-optivest-system/2228076",
+            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+            "publishedAt": "2025-11-20T06:33:36Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Nvidia beats expectations and raises guidance, powered by AI demand",
+            "url": "https://www.marketscreener.com/news/nvidia-beats-expectations-and-raises-guidance-powered-by-ai-demand-ce7d5ed9df8bf224",
+            "urlToImage": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2025-09-18T111528Z_1_LYNXNPEL8H0GH_RTROPTP_4_INTEL-NVIDIA-STAKE.JPG",
+            "publishedAt": "2025-11-20T06:26:58Z"
+        },
         {
             "source": {
                 "id": "1e30d944d63d9090db5a2c2e28a8772f",
@@ -527,6 +563,18 @@
             "title": "Nvidia earnings clear set hurdle amid fears about an AI bubble",
             "url": "https://www.altoonamirror.com/news/national-news-apwire/2025/11/nvidia-earnings-clear-set-hurdle-amid-fears-about-an-ai-bubble/",
             "urlToImage": "http://d14e0irai0gcaa.cloudfront.net/www.altoonamirror.com/images/2016/10/18173137/fblike.jpg",
+            "publishedAt": "2025-11-20T00:00:00Z"
+        },
+        {
+            "source": {
+                "id": "f60b85dc559d286e4100ce1120d5caec",
+                "name": "PLOS (Public Library of Science)",
+                "url": "https://journals.plos.org",
+                "country": "us"
+            },
+            "title": "Explainable machine learning model for predicting cesarean section following induction of labor: Development and external validation using real-world data",
+            "url": "https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001061",
+            "urlToImage": "https://journals.plos.org/digitalhealth/article/figure/image?id=10.1371/journal.pdig.0001061.g004&size=inline",
             "publishedAt": "2025-11-20T00:00:00Z"
         },
         {
@@ -3432,42 +3480,6 @@
             "url": "https://www.devdiscourse.com/article/technology/3703675-russias-putin-calls-for-national-ai-task-force",
             "urlToImage": "https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_33_35_2442501.png",
             "publishedAt": "2025-11-19 13:28:52"
-        },
-        {
-            "source": {
-                "name": "techtarget"
-            },
-            "title": "Generative models: VAEs, GANs, diffusion, transformers, NeRFs",
-            "url": "https://www.techtarget.com/searchenterpriseai/tip/Generative-models-VAEs-GANs-diffusion-transformers-NeRFs",
-            "urlToImage": "https://cdn.ttgtmedia.com/rms/onlineImages/tozzi_chris.jpg",
-            "publishedAt": "2025-11-19 13:00:00"
-        },
-        {
-            "source": {
-                "name": "arstechnica"
-            },
-            "title": "OnePlus 15 review: The end of range anxiety",
-            "url": "https://arstechnica.com/gadgets/2025/11/oneplus-15-review-the-end-of-range-anxiety/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/OnePlus-15-4-1152x648.jpg",
-            "publishedAt": "2025-11-19 12:30:59"
-        },
-        {
-            "source": {
-                "name": "expresscomputer"
-            },
-            "title": "How AI is Redefining the Way Businesses Spend",
-            "url": "https://www.expresscomputer.in/guest-blogs/how-ai-is-redefining-the-way-businesses-spend/129686/",
-            "urlToImage": "https://cdn1.expresscomputer.in/wp-content/uploads/2025/11/19165346/EC_Dr_Raj_P_Narayanam_750.jpg",
-            "publishedAt": "2025-11-19 11:43:06"
-        },
-        {
-            "source": {
-                "name": "zdnet"
-            },
-            "title": "The top 10 laptops our readers bought this year (no. 1 surprised us)",
-            "url": "https://www.zdnet.com/article/most-popular-laptops-from-our-readers/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/d77532757acfa26e648bfc799048c37e55bea4c5/2025/01/28/01624f15-0b90-4564-8894-cc7ae922fd5e/img-9505.jpg?auto=webp&width=1280",
-            "publishedAt": "2025-11-19 11:00:30"
         }
     ]
 }
