@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2025-11-21T09:17:31.391673Z",
+    "lastUpdatedAt": "2025-11-21T10:16:53.762130Z",
     "articles": [
+        {
+            "source": {
+                "id": "933344203c2b862af768b5e662a162a4",
+                "name": "International Business Times",
+                "url": "https://www.ibtimes.com",
+                "country": "us"
+            },
+            "title": "Trump Boasts Susie Wiles Could Wipe Out Any Country With Just One Phone Call",
+            "url": "https://www.ibtimes.com/trump-boasts-susie-wiles-could-wipe-out-any-country-just-one-phone-call-3790846",
+            "urlToImage": "https://d.ibtimes.com/en/full/4633846/trump-sends-loyalist-sergio-gor-india-amid-trade.jpg",
+            "publishedAt": "2025-11-20T22:07:21Z"
+        },
+        {
+            "source": {
+                "id": "979e74ee88ce49ccc427aa90ec068196",
+                "name": "Us Weekly",
+                "url": "https://www.usmagazine.com",
+                "country": "us"
+            },
+            "title": "Gal Gadot Headlines EL AL’s New 50-Destination Safety Video Built in Two Days as Voia’s AI Technology Transforms the Production Process",
+            "url": "https://www.usmagazine.com/celebrity-news/news/gal-gadot-headlines-el-als-new-50-destination-safety-video-built-in-two-days-as-voias-ai-technology-transforms-the-production-process/",
+            "urlToImage": "https://www.usmagazine.com/wp-content/uploads/2025/11/Voia-set-1.jpeg?w=1200&h=630&crop=1&quality=86&strip=all",
+            "publishedAt": "2025-11-20T22:06:53Z"
+        },
+        {
+            "source": {
+                "id": "da5c26287bdd02563a2c32b55cb12051",
+                "name": "Reuters",
+                "url": "https://www.reuters.com",
+                "country": "us"
+            },
+            "title": "Trading Day: Nvidia sparkle vanishes, Wall Street slammed",
+            "url": "https://www.reuters.com/world/china/global-markets-trading-day-graphic-2025-11-20/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/U6DFJNIM7VON7GWIDYGDZXCWKU.jpg?auth=2698a1c826236470f1ceed74ac78bc45616483ea4e7997b99bbff044b5998286&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-11-20T22:03:37Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Wells Fargo Names Executive to Lead AI Initiatives",
+            "url": "https://www.marketscreener.com/news/wells-fargo-names-executive-to-lead-ai-initiatives-ce7d5edede89f321",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2025-11-20T21:53:12Z"
+        },
+        {
+            "source": {
+                "id": "f35c9e0c433f608ad7c48c3d4818bec4",
+                "name": "The Sun",
+                "url": "https://www.thesun.co.uk",
+                "country": "gb"
+            },
+            "title": "Global stock markets boosted after NVIDIA reassures investors artificial intelligence bubble not about to burst",
+            "url": "https://www.thesun.co.uk/money/37390839/stock-market-boost-as-nvidia-reassures-investors-ai/",
+            "urlToImage": "https://www.thesun.co.uk/wp-content/uploads/2025/11/crop-37390993.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
+            "publishedAt": "2025-11-20T21:52:11Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "The White House’s Hidden AI Agenda: A New Chapter in American Power?",
+            "url": "https://www.manilatimes.net/2025/11/21/tmt-newswire/globenewswire/the-white-houses-hidden-ai-agenda-a-new-chapter-in-american-power/2228873",
+            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+            "publishedAt": "2025-11-20T21:17:33Z"
+        },
         {
             "source": {
                 "id": "92f73865e835e33ed68c11447777c939",
@@ -2355,6 +2427,15 @@
         },
         {
             "source": {
+                "name": "forbes"
+            },
+            "title": "Fei Fei Li Ushers In AI’s Next Frontier: Spatial Intelligence",
+            "url": "https://www.forbes.com/sites/geekgirlrising/2025/11/20/fei-fei-li-ushers-in-ais-next-frontier-spatial-intelligence/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/691f95f3820c9e79f15c381e/0x0.jpg?width=960",
+            "publishedAt": "2025-11-20 21:42:44"
+        },
+        {
+            "source": {
                 "name": "deccanherald"
             },
             "title": "Generative AI at three: Promise, profit, or bubble?",
@@ -3405,90 +3486,6 @@
             "url": "https://www.marketscreener.com/news/microsoft-ceo-names-rolf-harms-as-ai-reboot-advisor-ce7d5ed9da89f627",
             "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
             "publishedAt": "2025-11-19T18:59:29Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Heartland/Rasmussen Poll: 41% of Young Voters Support Giving Artificial Intelligence Sweeping Government Powers",
-            "url": "https://www.manilatimes.net/2025/11/20/tmt-newswire/globenewswire/heartlandrasmussen-poll-41-of-young-voters-support-giving-artificial-intelligence-sweeping-government-powers/2227806",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/11/20/835297.png",
-            "publishedAt": "2025-11-19T18:47:09Z"
-        },
-        {
-            "source": {
-                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-                "name": "The Financial Express",
-                "url": "https://www.financialexpress.com",
-                "country": "in"
-            },
-            "title": "Sarvam.ai to launch India's first LLM by early next year - Artificial Intelligence News",
-            "url": "https://www.financialexpress.com/artificial-intelligence/sarvam-ainbspto-launch-indias-first-llm-by-early-next-year/4050088/",
-            "urlToImage": "https://images.financialexpressdigital.com/2025/11/Copy-of-Gallery-2025-11-19T235800.643.jpg?quality=100",
-            "publishedAt": "2025-11-19T18:39:13Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "AI Stock Gains Boost California Revenue by $11 Billion",
-            "url": "https://www.bloomberg.com/news/articles/2025-11-19/ai-stock-gains-boost-california-revenue-by-11-billion",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGQQOSpVB4l0/v1/1200x800.jpg",
-            "publishedAt": "2025-11-19T18:38:20Z"
-        },
-        {
-            "source": {
-                "id": "d86acd5a472cad336b1f19dca3331ef5",
-                "name": "M Live Michigan ",
-                "url": "https://www.mlive.com",
-                "country": "us"
-            },
-            "title": "Data centers could get big Michigan tax breaks without clean energy, groups warn",
-            "url": "https://www.mlive.com/environment/2025/11/data-centers-could-get-big-michigan-tax-breaks-without-clean-energy-groups-warn.html",
-            "urlToImage": "https://www.mlive.com/resizer/v2/JYYJJVHW6ZFMRPFGR22AMP62CY.JPG?auth=a574ee904cd769a7e0019c0b0088fc55df7929736221bc4fbf46c6b0277ead0d&width=1280&smart=true&quality=90",
-            "publishedAt": "2025-11-19T18:36:42Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "GSCAI Launches Next-Generation Clean-Energy-Powered Cloud Computing Platform",
-            "url": "https://www.manilatimes.net/2025/11/20/tmt-newswire/globenewswire/gscai-launches-next-generation-clean-energy-powered-cloud-computing-platform/2227802",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/11/20/835287.png",
-            "publishedAt": "2025-11-19T18:26:58Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Warner Music settles with AI firm Udio, plans joint platform",
-            "url": "https://www.marketscreener.com/news/warner-music-settles-with-ai-firm-udio-plans-joint-platform-ce7d5ed9db81f22d",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2025-11-19T18:22:17Z"
-        },
-        {
-            "source": {
-                "id": "20ca9773b4c0563e26b4c2863bdf8c19",
-                "name": "The Associated Press",
-                "url": "https://apnews.com",
-                "country": "us"
-            },
-            "title": "Nvidia earnings will shed a light on whether Big Tech is fueling an AI boom or bubble",
-            "url": "https://apnews.com/article/nvidia-earnings-artificial-intelligence-boom-bubble-6feaf871d527436f98fbd8d228377b30",
-            "urlToImage": "https://dims.apnews.com/dims4/default/9d0e8a2/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd1%2F63%2Fbd304d823a8e9286eafc1ef82d3b%2F2ec80e049d5e4aef98502b36ab66f86c",
-            "publishedAt": "2025-11-19T18:06:26Z"
         }
     ]
 }
