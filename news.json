@@ -1,6 +1,78 @@
 {
-    "lastUpdatedAt": "2025-11-21T16:20:08.148436Z",
+    "lastUpdatedAt": "2025-11-21T17:14:04.295874Z",
     "articles": [
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "Reuters Entertainment News Summary",
+            "url": "https://www.devdiscourse.com/article/entertainment/3705397-reuters-entertainment-news-summary",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/01_04_2019_19_29_06_9517358.jpg?width=920&format=jpeg",
+            "publishedAt": "2025-11-21T04:57:57Z"
+        },
+        {
+            "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+            },
+            "title": "Sunway University and Elitery Sign Memorandum to Explore AI in Education",
+            "url": "https://www.manilatimes.net/2025/11/21/tmt-newswire/pr-newswire/sunway-university-and-elitery-sign-memorandum-to-explore-ai-in-education/2229052",
+            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/11/21/837730.jpg",
+            "publishedAt": "2025-11-21T04:52:01Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Foxconn, OpenAI Strike Partnership to Boost US AI Hardware Manufacturing",
+            "url": "https://www.marketscreener.com/news/foxconn-openai-strike-partnership-to-boost-us-ai-hardware-manufacturing-ce7d5eded18ef226",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2025-11-21T04:36:21Z"
+        },
+        {
+            "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+            },
+            "title": "OpenAI and Taiwan's Foxconn to partner in AI hardware design and manufacturing in US",
+            "url": "https://www.devdiscourse.com/article/technology/3705373-openai-and-taiwans-foxconn-to-partner-in-ai-hardware-design-and-manufacturing-in-us",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_16_59_02_2201424.jpg?width=920&format=jpeg",
+            "publishedAt": "2025-11-21T04:27:24Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "EM Stocks Set for Worst Week Since April as AI Concerns Spread",
+            "url": "https://www.bloomberg.com/news/articles/2025-11-21/em-stocks-set-for-worst-week-since-april-as-ai-concerns-spread",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iC3f2Bk2Mo2Y/v0/1200x800.jpg",
+            "publishedAt": "2025-11-21T04:26:24Z"
+        },
+        {
+            "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+            },
+            "title": "Asian Chip Stocks Tumble on Renewed AI Bubble Fears",
+            "url": "https://www.marketscreener.com/news/asian-chip-stocks-tumble-on-renewed-ai-bubble-fears-ce7d5eded18ef524",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2025-11-21T04:22:14Z"
+        },
         {
             "source": {
                 "id": "5667d1dee9db93320594683816f8dcd0",
@@ -411,12 +483,39 @@
         },
         {
             "source": {
+                "name": "digit_in"
+            },
+            "title": "NPU to power: Snapdragon X2 Elite beats Intel, AMD, Apple chips, says Qualcomm",
+            "url": "https://www.digit.in/features/general/npu-to-power-snapdragon-x2-elite-beats-intel-amd-apple-chips-says-qualcomm.html",
+            "urlToImage": "https://static.digit.in/0-thumbnail-snapdragon-x2-elite-benchmarks-vs-intel-amd-apple-competition.png",
+            "publishedAt": "2025-11-21 04:59:45"
+        },
+        {
+            "source": {
+                "name": "thehindu"
+            },
+            "title": "SoftBank to invest $3 billion in Ohio factory for OpenAI data center: Report",
+            "url": "https://www.thehindu.com/sci-tech/technology/softbank-to-invest-3-billion-in-ohio-factory-for-openai-data-center-report/article70306094.ece",
+            "urlToImage": "https://th-i.thgim.com/public/incoming/950kap/article70306187.ece/alternates/LANDSCAPE_1200/2025-11-19T121912Z_1214610519_RC2LU7ARV0WY_RTRMADP_3_USA-TRUMP-EPSTEIN-SUMMERS.JPG",
+            "publishedAt": "2025-11-21 04:57:28"
+        },
+        {
+            "source": {
                 "name": "analyticsinsight"
             },
             "title": "Top 10 AI Cloud Companies in 2025",
             "url": "https://www.analyticsinsight.net/tech-news/top-10-ai-cloud-companies-in-2025",
             "urlToImage": "https://media.assettype.com/analyticsinsight%2F2025-11-20%2Fhl1lyt4v%2FTop-10-AI-Cloud-Companies-in-2025.jpg?auto=format%2Ccompress&fit=max&w=480",
             "publishedAt": "2025-11-21 00:30:00"
+        },
+        {
+            "source": {
+                "name": "financialcontent"
+            },
+            "title": "Global Chip Stocks Stumble Amidst \"AI Bubble\" Fears, Sparking Market Reassessment",
+            "url": "https://www.financialcontent.com/article/marketminute-2025-11-21-global-chip-stocks-stumble-amidst-ai-bubble-fears-sparking-market-reassessment",
+            "urlToImage": "https://cdn.newsrpm.com/image/223729?maxWidth=1200",
+            "publishedAt": "2025-11-21 00:00:00"
         },
         {
             "source": {
@@ -3372,114 +3471,6 @@
             "url": "https://nypost.com/2025/11/19/us-news/house-unanimously-passes-bill-to-crack-down-on-terrorists-using-ai/",
             "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/11/newspress-collage-l2p633mfp-1763593750658.jpg?quality=75&strip=all&1763575771&w=1200",
             "publishedAt": "2025-11-19T23:44:25Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "UPDATE 2-US authorizes export of advanced American semiconductors to companies in Saudi, UAE",
-            "url": "https://www.devdiscourse.com/article/technology/3703768-update-2-us-authorizes-export-of-advanced-american-semiconductors-to-companies-in-saudi-uae",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_34_04_2312796.png?width=920&format=jpeg",
-            "publishedAt": "2025-11-19T23:38:11Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "REFILE-UPDATE 1-US authorizes export of advanced American semiconductors to companies in Saudi, UAE",
-            "url": "https://www.devdiscourse.com/article/technology/3703767-refile-update-1-us-authorizes-export-of-advanced-american-semiconductors-to-companies-in-saudi-uae",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_16_59_02_2201424.jpg?width=920&format=jpeg",
-            "publishedAt": "2025-11-19T23:37:07Z"
-        },
-        {
-            "source": {
-                "id": "1e30d944d63d9090db5a2c2e28a8772f",
-                "name": "The Star",
-                "url": "https://www.thestar.com.my",
-                "country": "my"
-            },
-            "title": "Trump considering executive order to preempt state AI laws",
-            "url": "https://www.thestar.com.my/tech/tech-news/2025/11/20/trump-considering-executive-order-to-preempt-state-ai-laws",
-            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/20/3630927.jpg",
-            "publishedAt": "2025-11-19T23:34:00Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "UPDATE 1-US authorizes export of advanced American semiconductors to companies in Saudi, UAE",
-            "url": "https://www.devdiscourse.com/article/technology/3703761-update-1-us-authorizes-export-of-advanced-american-semiconductors-to-companies-in-saudi-uae",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_16_59_34_3794932.jpg?width=920&format=jpeg",
-            "publishedAt": "2025-11-19T23:13:20Z"
-        },
-        {
-            "source": {
-                "id": "e553cce06d349ac1f7fbb7618a979256",
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com",
-                "country": "us"
-            },
-            "title": "Yann LeCun, a Pioneering A.I. Scientist, Leaves Meta",
-            "url": "https://www.nytimes.com/2025/11/19/technology/yann-lecun-ai-scientist-meta.html",
-            "urlToImage": "https://static01.nyt.com/images/2025/11/19/multimedia/META-AI-Yann-LeCun-1-tpbw/META-AI-Yann-LeCun-1-tpbw-facebookJumbo.jpg",
-            "publishedAt": "2025-11-19T23:12:13Z"
-        },
-        {
-            "source": {
-                "id": "a7cfbea87bc15750b7c5fd439a1ccb08",
-                "name": "Nep123.com",
-                "url": "https://nep123.com",
-                "country": "np"
-            },
-            "title": "GMI Cloud Builds $500M AI Data Center in Taiwan",
-            "url": "https://nep123.com/gmi-cloud-builds-500m-ai-data-center-in-taiwan/",
-            "urlToImage": "https://nep123.com/wp-content/uploads/2025/09/basantapur_featured.jpg",
-            "publishedAt": "2025-11-19T23:10:27Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "UPDATE 2-Trump considering executive order to preempt state AI laws",
-            "url": "https://www.devdiscourse.com/article/politics/3703759-update-2-trump-considering-executive-order-to-preempt-state-ai-laws",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_05_2019_12_10_51_4304562.jpg?width=920&format=jpeg",
-            "publishedAt": "2025-11-19T23:10:16Z"
-        },
-        {
-            "source": {
-                "id": "b33a42ef1c098421f66aad47a76d6a3c",
-                "name": "The Hindu",
-                "url": "https://www.thehindu.com",
-                "country": "in"
-            },
-            "title": "System constraints holding back probes into cyber attacks: Digital experts",
-            "url": "https://www.thehindu.com/sci-tech/technology/system-constraints-holding-back-probes-into-cyber-attacks-digital-experts/article70299164.ece",
-            "urlToImage": "https://th-i.thgim.com/public/incoming/7krf80/article69343701.ece/alternates/LANDSCAPE_1200/2024-12-18T172259Z_107669736_RC2I62A61V1Y_RTRMADP_3_USA-CHINA-CYBER-TELECOMS.JPG",
-            "publishedAt": "2025-11-19T23:02:00Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Utilities Up as Electricity Demand Seen Strong -- Utilities Roundup",
-            "url": "https://www.marketscreener.com/news/utilities-up-as-electricity-demand-seen-strong-utilities-roundup-ce7d5ed9dd8df124",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2025-11-19T22:56:11Z"
         }
     ]
 }
