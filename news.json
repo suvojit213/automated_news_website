@@ -1,6 +1,42 @@
 {
-    "lastUpdatedAt": "2025-11-22T22:14:25.816633Z",
+    "lastUpdatedAt": "2025-11-22T23:14:47.479327Z",
     "articles": [
+        {
+            "source": {
+                "id": "263578fdccd92a76494cd34055806fcc",
+                "name": "Phys.org",
+                "url": "https://phys.org",
+                "country": "gb"
+            },
+            "title": "Machine learning model sharpens snowfall forecasts for the Mountain West",
+            "url": "https://phys.org/news/2025-11-machine-sharpens-snowfall-mountain-west.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/improving-snowfall-for.jpg",
+            "publishedAt": "2025-11-22T10:50:04Z"
+        },
+        {
+            "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Google’s Gemini 3 unleashes a new era of AI search, build and think smarter",
+            "url": "https://economictimes.indiatimes.com/ai/ai-insights/googles-gemini-3-unleashes-a-new-era-of-ai-search-build-and-think-smarter/articleshow/125503951.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-125503946,width-1200,height-630,imgsize-15478,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-11-22T10:41:00Z"
+        },
+        {
+            "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+            },
+            "title": "Mark Cuban says AI skills are the new currency, and they’re buying job offers",
+            "url": "https://timesofindia.indiatimes.com/education/careers/news/mark-cuban-says-ai-skills-are-the-new-currency-and-theyre-buying-job-offers/articleshow/125503583.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-125503656,width-1070,height-580,imgsize-96424,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+            "publishedAt": "2025-11-22T10:24:00Z"
+        },
         {
             "source": {
                 "id": "5ac5f32ba74846cef441099f666f2d98",
@@ -3516,42 +3552,6 @@
             "url": "https://www.marketscreener.com/news/nvidia-remains-top-pick-as-ai-demand-outlook-strengthens-bofa-says-ce7d5ededd8efe27",
             "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
             "publishedAt": "2025-11-20T16:04:34Z"
-        },
-        {
-            "source": {
-                "id": "263578fdccd92a76494cd34055806fcc",
-                "name": "Phys.org",
-                "url": "https://phys.org",
-                "country": "gb"
-            },
-            "title": "Machine learning beats classical method in predicting cosmic ray radiation near Earth",
-            "url": "https://phys.org/news/2025-11-machine-classical-method-cosmic-ray.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/machine-learning-beats.jpg",
-            "publishedAt": "2025-11-20T16:03:03Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Warner Music enters deal with startup Udio",
-            "url": "https://www.manilatimes.net/2025/11/21/business/foreign-business/warner-music-enters-deal-with-startup-udio/2228620",
-            "urlToImage": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-            "publishedAt": "2025-11-20T16:03:00Z"
-        },
-        {
-            "source": {
-                "id": "7c666ee953f873d3057b310220f510df",
-                "name": "The Manila Times",
-                "url": "https://www.manilatimes.net",
-                "country": "ph"
-            },
-            "title": "Google opens new AI facility in Taiwan",
-            "url": "https://www.manilatimes.net/2025/11/21/business/foreign-business/google-opens-new-ai-facility-in-taiwan/2228602",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/11/20/836866.jpg",
-            "publishedAt": "2025-11-20T16:03:00Z"
         }
     ]
 }
