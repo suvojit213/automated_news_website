@@ -1,6 +1,126 @@
 {
-    "lastUpdatedAt": "2025-11-22T06:21:43.278974Z",
+    "lastUpdatedAt": "2025-11-22T07:14:09.261525Z",
     "articles": [
+        {
+            "source": {
+                "id": "8da923084554b2821233d6c5c5f02c97",
+                "name": "Fox News",
+                "url": "https://www.foxnews.com",
+                "country": "us"
+            },
+            "title": "Fox News AI Newsletter: Fears of AI bubble ease",
+            "url": "https://www.foxnews.com/tech/ai-newsletter-fears-ai-bubble-ease",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/nvidia-ceo-elon-musk-donald-trump-saudi-investment-forum.jpg",
+            "publishedAt": "2025-11-21T19:14:03Z"
+        },
+        {
+            "source": {
+                "id": "aa569bbaa7b7ef97f7cf8df3cf902947",
+                "name": "Investor's Business Daily",
+                "url": "https://www.investors.com",
+                "country": "us"
+            },
+            "title": "Nvidia Seesaws As AI Stock Trade Stumbles",
+            "url": "https://www.investors.com/news/technology/nvidia-stock-nvda-seesaws-ai-stock-trade-stumbles/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2025/11/stock-Nvidia-GB300-NVL72-company.jpg",
+            "publishedAt": "2025-11-21T19:09:00Z"
+        },
+        {
+            "source": {
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
+                "country": "us"
+            },
+            "title": "U.S. officials in talks on Nvidia selling H200 chips in China, Bloomberg says",
+            "url": "https://markets.businessinsider.com/news/stocks/u-s-officials-in-talks-on-nvidia-selling-h200-chips-in-china-bloomberg-says-1035587638",
+            "urlToImage": "https://markets.businessinsider.com/favicon-32x32.png",
+            "publishedAt": "2025-11-21T19:00:22Z"
+        },
+        {
+            "source": {
+                "id": "732b46cdef66b68ee2fbc940e79f81de",
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com",
+                "country": "us"
+            },
+            "title": "CrowdStrike fires 'suspicious insider' who passed information to hackers",
+            "url": "https://techcrunch.com/2025/11/21/crowdstrike-fires-suspicious-insider-who-passed-information-to-hackers/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/07/crowdstrike-windows-glitch-v2.jpg?resize=1200,675",
+            "publishedAt": "2025-11-21T18:55:53Z"
+        },
+        {
+            "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+            },
+            "title": "Trump Team Internally Floats Idea of Selling Nvidia H200 Chips to China",
+            "url": "https://www.bloomberg.com/news/articles/2025-11-21/trump-team-internally-floats-idea-of-selling-nvidia-h200-chips-to-china",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7XFqfL_eHfo/v1/1200x800.jpg",
+            "publishedAt": "2025-11-21T18:49:08Z"
+        },
+        {
+            "source": {
+                "id": "37128a060981dbbe79321f096e7d1108",
+                "name": "U.S. News & World Report",
+                "url": "https://www.usnews.com",
+                "country": "us"
+            },
+            "title": "Robots, Conspiracies and Our Health Care Dystopia: The Week in Review",
+            "url": "https://www.usnews.com/news/u-s-news-decision-points/articles/2025-11-21/robots-conspiracies-and-our-health-care-dystopia-the-week-in-review",
+            "urlToImage": "https://www.usnews.com/dims4/USNEWS/95bd9ab/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F54%2Fe8%2Fa2c92f594ad3b9897fd3cf6ac7c2%2Fgettyimages-2246809464.jpg",
+            "publishedAt": "2025-11-21T18:46:00Z"
+        },
+        {
+            "source": {
+                "id": "b419a989918b3665a34559f5047546b6",
+                "name": "The Sunday Times",
+                "url": "https://www.thetimes.com",
+                "country": "gb"
+            },
+            "title": "Does the world really want what Sam-AI-am Altman is selling?",
+            "url": "https://www.thetimes.com/comment/columnists/article/does-the-world-really-want-what-sam-ai-am-is-selling-hrxx9x8vz",
+            "urlToImage": "https://www.thetimes.com/imageserver/image/%2F1486e1e1-fcde-4916-a829-7d73b77663e7.jpg?crop=3072%2C1728%2C0%2C282&resize=1200",
+            "publishedAt": "2025-11-21T18:45:20Z"
+        },
+        {
+            "source": {
+                "id": "b419a989918b3665a34559f5047546b6",
+                "name": "The Sunday Times",
+                "url": "https://www.thetimes.com",
+                "country": "gb"
+            },
+            "title": "Does the world really want what Sam Altman is selling?",
+            "url": "https://www.thetimes.com/comment/columnists/article/sam-altman-artificial-intelligence-hrxx9x8vz",
+            "urlToImage": "https://www.thetimes.com/imageserver/image/%2F1486e1e1-fcde-4916-a829-7d73b77663e7.jpg?crop=3072%2C1728%2C0%2C282&resize=1200",
+            "publishedAt": "2025-11-21T18:45:00Z"
+        },
+        {
+            "source": {
+                "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+                "name": "Markets Insider",
+                "url": "https://markets.businessinsider.com",
+                "country": "us"
+            },
+            "title": "AI Daily: Foxconn-Nvidia supercomputing center ready by first half of 2026",
+            "url": "https://markets.businessinsider.com/news/stocks/ai-daily-foxconn-nvidia-supercomputing-center-ready-by-first-half-of-2026-1035587611",
+            "urlToImage": "https://markets.businessinsider.com/favicon-32x32.png",
+            "publishedAt": "2025-11-21T18:30:34Z"
+        },
+        {
+            "source": {
+                "id": "6fea3ee012f060c6309366516e8d00be",
+                "name": "News-Medical.net",
+                "url": "https://www.news-medical.net",
+                "country": "gb"
+            },
+            "title": "AI in neurological care could widen health inequities, new report warns",
+            "url": "https://www.news-medical.net/news/20251121/AI-in-neurological-care-could-widen-health-inequities-new-report-warns.aspx",
+            "urlToImage": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+            "publishedAt": "2025-11-21T18:22:00Z"
+        },
         {
             "source": {
                 "id": "5cfd646fbad1ee4fa352342ad739c263",
@@ -3438,126 +3558,6 @@
             "url": "https://www.devdiscourse.com/article/technology/3704293-uniqus-consultech-signs-strategic-partnership-agreement-with-ejada-systems",
             "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_02_16_4468374.jpg?width=920&format=jpeg",
             "publishedAt": "2025-11-20T10:13:32Z"
-        },
-        {
-            "source": {
-                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
-                "name": "MarketScreener",
-                "url": "https://www.marketscreener.com",
-                "country": "fr"
-            },
-            "title": "Adobe, Saudi's Humain Form Arab-Focused AI Partnership",
-            "url": "https://www.marketscreener.com/news/adobe-saudi-s-humain-form-arab-focused-ai-partnership-ce7d5eded98bf423",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2025-11-20T10:07:17Z"
-        },
-        {
-            "source": {
-                "id": "7006f2c40c7cc01195608dbfd60259b3",
-                "name": "Bloomberg",
-                "url": "https://www.bloomberg.com",
-                "country": "us"
-            },
-            "title": "Buffett’s Alphabet Blessing Puts Valuation Paradox Back in Focus",
-            "url": "https://www.bloomberg.com/news/articles/2025-11-20/buffett-s-alphabet-blessing-puts-valuation-paradox-back-in-focus",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i79T4GBiu6IU/v1/1200x800.jpg",
-            "publishedAt": "2025-11-20T10:06:55Z"
-        },
-        {
-            "source": {
-                "id": "214d496d625fc657723cf4da80cff8ce",
-                "name": "Deccan Chronicle",
-                "url": "https://www.deccanchronicle.com",
-                "country": "in"
-            },
-            "title": "Memory Chip Crunch Set to Drive Up Smartphone Prices",
-            "url": "https://www.deccanchronicle.com/technology/memory-chip-crunch-set-to-drive-up-smartphone-prices-1918361",
-            "urlToImage": "https://www.deccanchronicle.com/h-upload/2025/11/20/1980693-la-3209675.jpg",
-            "publishedAt": "2025-11-20T09:55:58Z"
-        },
-        {
-            "source": {
-                "id": "f2ddccedc9e60d844e7a1045928cad48",
-                "name": "Lokmat Times",
-                "url": "https://www.lokmattimes.com",
-                "country": "in"
-            },
-            "title": "Google building safe, trusted AI to protect vulnerable users in India",
-            "url": "https://www.lokmattimes.com/business/google-building-safe-trusted-ai-to-protect-vulnerable-users-in-india/",
-            "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20251120095248_202511.jpg",
-            "publishedAt": "2025-11-20T09:54:06Z"
-        },
-        {
-            "source": {
-                "id": "28bc60a23a7bf89e60f893506992a3fe",
-                "name": "Daily Excelsior",
-                "url": "https://www.dailyexcelsior.com",
-                "country": "in"
-            },
-            "title": "India offers huge investment opportunities for Israeli businesses: Goyal",
-            "url": "https://www.dailyexcelsior.com/india-offers-huge-investment-opportunities-for-israeli-businesses-goyal/",
-            "urlToImage": "https://www.dailyexcelsior.com/wp-content/uploads/2025/11/Goyal-5.jpg",
-            "publishedAt": "2025-11-20T09:52:16Z"
-        },
-        {
-            "source": {
-                "id": "a3391c15eb1d3136f9b9dd080940d0e8",
-                "name": "The Nation",
-                "url": "https://www.nation.com.pk",
-                "country": "pk"
-            },
-            "title": "Women risk being 'left behind' as AI advances, report warns",
-            "url": "https://www.nation.com.pk/20-Nov-2025/women-risk-left-behind-ai-advances-report-warns",
-            "urlToImage": "https://www.nation.com.pk/digital_images/large/2025-11-20/women-risk-left-behind-ai-advances-report-warns-1763632296-9352.jpg",
-            "publishedAt": "2025-11-20T09:51:40Z"
-        },
-        {
-            "source": {
-                "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
-                "name": "Outlook Business",
-                "url": "https://www.outlookbusiness.com",
-                "country": "in"
-            },
-            "title": "India Offers Huge Investment Opportunities for Israeli Businesses: Goyal",
-            "url": "https://www.outlookbusiness.com/news/india-offers-huge-investment-opportunities-for-israeli-businesses-goyal",
-            "urlToImage": "https://media.assettype.com/outlookbusiness/2025-08-29/yw4xygu6/ABC.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "publishedAt": "2025-11-20T09:36:43Z"
-        },
-        {
-            "source": {
-                "id": "5464668c1f0466950a0b2fab5249ec6c",
-                "name": "The Economic Times",
-                "url": "https://economictimes.indiatimes.com",
-                "country": "in"
-            },
-            "title": "India pitches its ‘10 Ds’ as Israel calls New Delhi the “next big thing” for investment",
-            "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-pitches-its-10-ds-as-israel-calls-new-delhi-the-next-big-thing-for-investment/articleshow/125458955.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-125459008,width-1200,height-630,imgsize-123262,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2025-11-20T09:35:00Z"
-        },
-        {
-            "source": {
-                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
-                "name": "Devdiscourse",
-                "url": "https://www.devdiscourse.com",
-                "country": "in"
-            },
-            "title": "India offers huge investment opportunities for Israeli businesses: Goyal",
-            "url": "https://www.devdiscourse.com/article/law-order/3704208-india-offers-huge-investment-opportunities-for-israeli-businesses-goyal",
-            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/03_03_2020_19_04_52_2445844.jpg?width=920&format=jpeg",
-            "publishedAt": "2025-11-20T09:21:58Z"
-        },
-        {
-            "source": {
-                "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
-                "name": "Firstpost",
-                "url": "https://www.firstpost.com",
-                "country": "in"
-            },
-            "title": "Why Nvidia’s ‘golden quarter’ has put world markets at ease over AI worries",
-            "url": "https://www.firstpost.com/explainers/nvidia-earnings-markets-ease-13952421.html",
-            "urlToImage": "https://images.firstpost.com/uploads/2025/01/NVIDIAs-Jensen-Huang-one-of-very-few-tech-CEOs-to-miss-President-Trumps-inaugration-2025-01-31055b48c7616d25d656233cdaeb92c1-1200x675.jpg?im=FitAndFill=(1200,675)",
-            "publishedAt": "2025-11-20T09:06:03Z"
         }
     ]
 }
